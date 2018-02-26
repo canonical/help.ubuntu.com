@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>LXC</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = "index.html.en";
+        } else {
+                window.location = href.replace(/\.html.*/, ".html.en");
+        }
+         return false;
+      }
+      function browserPreferredLanguage() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = href;
+        } else {
+                window.location = href.replace(/\.html.*/, ".html");
+        }
+        return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html.it" title="Guida a Ubuntu Server">Guida a Ubuntu Server</a> » <a class="trail" href="virtualization.html.it" title="Virtualizzazione">Virtualizzazione</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="lxd.html.it" title="LXD">Indietro</a><a class="nextlinks-next" href="cgroups.html.it" title="Gruppi di controllo">Avanti</a>
+</div>
+<div class="hgroup"><h1 class="title">LXC</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">I contenitori sono una tecnologia leggera di virtualizzazione; sono più simili a un chroot avanzato che a una virtualizzazione completa come Qemu o VMware, in quanto non emulano le componenti hardware e condividono il medesimo sistema operativo dell'host. I contenitori sono simili alle zone Solaris o alle jail BSD. Linux-vserver e OpenVZ sono due implementazioni preesistenti, sviluppate in maniera indipendente, di funzionalità del tipo contenitore per Linux. In effetti i contenitori hanno avuto origine dal lavoro in upstream delle funzionalità vserver e OpenVZ.</p>
+<p class="para">Esistono due implementazioni di contenitori spazio utente, ognuna delle quali sfrutta le medesime caratteristiche del kernel. Libvirt consente l'uso di contenitori tramite il driver LXC con connessione a «lxc:///»; può essere molto conveniente, in quanto supporta la stessa sintassi di altri driver. L'altra implementazione, chiamata semplicemente «LXC», non è compatibile con libvirt, ma è più flessibile e offre un maggior numero di strumenti spazio utente. È possibile passare da una implementazione all'altra, sebbene ci siano delle peculiarità che possono ingenerare confusione.</p>
+<p class="para">In questo documento verrà illustrato principalmente il pacchetto <span class="app application">lxc</span>; l'utilizzo di libvirt-lxc non è generalmente raccomandato in quanto la protezione Apparmor non è operativa per i contenitori libvirt-lxc.</p>
+<p class="para">In questo documento il nome di un contenitore sarà indicato come CN, C1 o C2.</p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-installation" title="Installazione">Installazione</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-basic-usage" title="Utilizzo essenziale">Utilizzo essenziale</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-global-conf" title="Configurazione globale">Configurazione globale</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-network" title="Rete">Rete</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-startup" title="Avvio di LXC">Avvio di LXC</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-backinstores" title="Memorie ausiliarie">Memorie ausiliarie</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-templates" title="Modelli">Modelli</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-autostart" title="Avvio automatico">Avvio automatico</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-apparmor" title="Apparmor">Apparmor</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-cgroups" title="Gruppi di controllo">Gruppi di controllo</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-cloning" title="Clonazione">Clonazione</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-hooks" title="Hook di gestione del ciclo di vita">Hook di gestione del ciclo di vita</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-consoles" title="Console">Console</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-debugging" title="Risoluzione problemi">Risoluzione problemi</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#python-lxc" title="LXC API">LXC API</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-security" title="Sicurezza">Sicurezza</a></li>
+<li class="links"><a class="xref" href="lxc.html.it#lxc-resources" title="Risorse">Risorse</a></li>
+</ul></div>
+<div class="sect2 sect" id="lxc-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Installazione</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Il pacchetto <span class="app application">lxc</span> può essere installato usando</p>
+<div class="screen"><pre class="contents "><span class="cmd command">
+sudo apt install lxc
+</span>
+</pre></div>
+<p class="para">Questo richiamerà le dipendenze necessarie e consigliate e imposterà un bridge di rete che il contenitore potrà utilizzare. Se è necessario usare contenitori privi di privilegi, è necessario assicurarsi che gli utenti allochino sufficienti subduid e subgid e sarà probabilmente necessario consentire agli utenti di connettere i contenitori a un bridge (consultare <a class="xref" href="lxc.html.it#lxc-unpriv" title="Uso essenziale di un contenitore non privilegiato">Uso essenziale di un contenitore non privilegiato</a>).</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="lxc-basic-usage"><div class="inner">
+<div class="hgroup"><h2 class="title">Utilizzo essenziale</h2></div>
+<div class="region">
+<div class="contents"><p class="para">È possibile usare LXC in due modi diversi - privilegiato, eseguendo i comandi di lxc con privilegi da amministratore, o non privilegiato, eseguendo i comandi come utente normale (è possibile avviare contenitori non privilegiati come utente con privilegi di amministratore, ma tale procedura non viene descritta in questo manuale). I contenitori non privilegiati sono più limitati, per esempio non è possibile creare nodi di dispositivi o montare file system block-backed. Tuttavia costituiscono un pericolo minore per l'host, in quanto l'identificativo dell'amministratore nel contenitore è mappato in un identificativo senza tali privilegi sull'host.</p></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Uso essenziale di un contenitore privilegiato</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+      To create a privileged container, you can simply do:
+      </p>
+<div class="screen"><pre class="contents "><span class="cmd command">udo lxc-create --template download --name u1</span>
+o, in forma abbreviata
+<span class="cmd command">sudo lxc-create -t download -n u1</span>
+</pre></div>
+<p class="para">Questo consentirà di scaricare in modo interattivo un file system di un contenitore con privilegi di amministratore - in particolare verrà richiesto di specificare la distribuzione, il rilascio e l'architettura. Per creare il contenitore in modo non interattivo, è possibile specificare questi valori nella riga di comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">
+sudo lxc-create -t download -n u1 -- --dist ubuntu --release bionic --arch amd64
+</span>
+o
+<span class="cmd command">
+sudo lxc-create -t download -n u1 -- -d ubuntu -r bionic -a amd64
+</span>
+</pre></div>
+<p class="para">È possibile ora usare <span class="cmd command">lxc-ls</span> per elencare i contenitori, <span class="cmd command">lxc-info</span> per ottenere dettagliate informazioni sul contenitore, <span class="cmd command">lxc-start</span> per avviare e <span class="cmd command">lxc-stop</span> per fermare il contenitore. <span class="cmd command">Lxc-attach</span> e <span class="cmd command">lxc-console</span> consentono di entrare in un contenitore, se non è possibile usare ssh; <span class="cmd command">lxc-destroy</span> rimuove il contenitore, comprese le sue rootfs. Consultare le pagine del manuale per ulteriori informazioni su ciascun comando. Una sessione di esempio potrebbe essere simile alla seguente:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo lxc-ls --fancy sudo lxc-start --name u1 --daemon sudo lxc-info --name u1 sudo lxc-stop --name u1 sudo lxc-destroy --name u1</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Spazio dei nomi utente</h3></div>
+<div class="region"><div class="contents">
+<p class="para">I contenitori non privilegiati consentono all'utente di creare e amministrare contenitori senza che sia necessario disporre di privilegi di amministratore. Gli spazi dei nomi utente sono gerarchici, essendo i processi privilegiati in uno spazio dei nomi superiore in grado di associare i suoi identificativi negli spazi dei nomi sottostanti. Per impostazione predefinita ogni processo sull'host viene eseguito nell'iniziale spazio dei nomi utente , dove l'intervallo completo di identificativi è associato sull'intero intervallo. Ciò può essere verificato esaminando /proc/self/uid_map e /proc/self/gid_map, che mostrano entrambi "0 0 4294967295" quando letti dallo spazio dei nomi utente iniziale. A partire da Ubuntu 14.04, quando al momento della creazione di nuovi utenti, viene loro offerto, per impostazione predefinita, un intervallo di identificativi. L'elenco degli identificativi assegnato può essere consultato nei file <span class="file filename">/etc/subuid</span> e <span class="file filename">/etc/subgid</span>. Consultare le rispettive pagine di manuale per ulteriori informazioni. I subuid e i subgid iniziano per convenzione dall'id 100000 per evitare conflitti con gli utenti di sistema.</p>
+<p class="para">Se l'utente è stato creato su un rilascio precedente, è possibile garantirgli un intervallo di identificativi usando <span class="cmd command">usermod</span>, come di seguito specificato:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo usermod -v 100000-200000 -w 100000-200000 user1</span>
+</pre></div>
+<p class="para">I programmi <span class="cmd command">newuidmap</span> e <span class="cmd command"> newgidmap</span> sono programmi setuid-root nel pacchetto <span class="file filename">uidmap</span>, che sono usati internamente da lxc per associare i subuid e i subgid dell'host nel contenitore non privilegiato. Assicurano che solo l'utente sia in grado di associare gli identificativi autorizzati dalla configurazione dell'host.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="lxc-unpriv"><div class="inner">
+<div class="hgroup"><h3 class="title">Uso essenziale di un contenitore non privilegiato</h3></div>
+<div class="region"><div class="contents">
+<p class="para">
+      </p>
+<p class="para">
+      To create unprivileged containers, a few first steps are needed.  You
+      will need to create a default container configuration file, specifying
+      your desired id mappings and network setup, as well as configure the
+      host to allow the unprivileged user to hook into the host network.  The
+      example below assumes that your mapped user and group id ranges are
+      100000-165536. Check your actual user and group id ranges and modify
+      the example accordingly:
+      </p>
+<div class="screen"><pre class="contents "><span class="cmd command">
+grep $USER /etc/subuid
+grep $USER /etc/subgid
+</span>
+</pre></div>
+<div class="screen"><pre class="contents "><span class="cmd command">mkdir -p ~/.config/lxc echo "lxc.id_map = u 0 100000 65536" &gt; ~/.config/lxc/default.conf echo "lxc.id_map = g 0 100000 65536" &gt;&gt; ~/.config/lxc/default.conf echo "lxc.network.type = veth" &gt;&gt; ~/.config/lxc/default.conf echo "lxc.network.link = lxcbr0" &gt;&gt; ~/.config/lxc/default.conf echo "$USER veth lxcbr0 2" | sudo tee -a /etc/lxc/lxc-usernet</span>
+</pre></div>
+<p class="para">Dopo di ciò, è possibile creare contenitori non privilegiati con la stessa procedura seguita per quelli privilegiati, semplicemente senza usare sudo.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">
+lxc-create -t download -n u1 -- -d ubuntu -r bionic -a amd64
+lxc-start -n u1 -d
+lxc-attach -n u1
+lxc-stop -n u1
+lxc-destroy -n u1
+</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="lxc-nesting"><div class="inner">
+<div class="hgroup"><h3 class="title">Annidamento</h3></div>
+<div class="region"><div class="contents"><p class="para">Per eseguire contenitori all'interno di contenitori - chiamati contenitori nidificati - è necessario che siano presenti due righe nel file di configurazione del contenitore superiore:
+<div class="screen"><pre class="contents ">lxc.mount.auto = cgroup
+lxc.aa_profile = lxc-container-default-with-nesting
+</pre></div> La prima fa sì che il socket del gestore cgroup si colleghi al contenitore, in modo che lxc all'interno del contenitore sia in grado di amministrare cgroup per i contenitori nidificati al suo interno. La seconda consente al contenitore di funzionare in una politica Apparmor più blanda, che permette al contenitore di effettuare il mount richiesto per i contenitori in fase di avvio. Da notare che questa politica, quando usata in un contenitore privilegiato, è molto meno sicura di quella normale su un contenitore non privilegiato. Consultare <a class="xref" href="lxc.html.it#lxc-apparmor" title="Apparmor">Apparmor</a> per ulteriori informazioni.</p></div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="lxc-global-conf"><div class="inner">
+<div class="hgroup"><h2 class="title">Configurazione globale</h2></div>
+<div class="region"><div class="contents">
+<p class="para">I seguenti file di configurazione sono consultati da LXC. Per un uso privilegiato, si trovano in <span class="file filename">/etc/lxc</span>, mentre per un uso non privilegiato sono in <span class="file filename">~/.config/lxc</span>. <div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	  <p class="para"><span class="file filename">Lxc.conf</span> può specificare opzionalmente valori alternativi per diverse impostazioni di lxc, compreso il percorso di lxc, la configurazione predefinita, i cgroup da usare, un modello per creare cgroup, e le impostazioni del backend di memorizzazione per lvm e zfs.</p>
+	</li>
+<li class="list itemizedlist">
+	  <p class="para"><span class="file filename">Default.conf</span> specifica la configurazione che ogni contenitore creato deve contenere. Contiene di solito almeno una sezione per la rete, per gli utenti privi di privilegi, e una sezione per l'associazione degli identificativi.</p>
+	</li>
+<li class="list itemizedlist">
+	  <p class="para"><span class="file filename">Lxc-usernet.conf</span> specifica come gli utenti senza privilegi possono collegare i propri contenitori alla rete di proprietà dell'host.</p>
+	</li>
+</ul></div></p>
+<p class="para">
+      <span class="file filename">lxc.conf</span> and <span class="file filename">default.conf</span> are
+      both under <span class="file filename">/etc/lxc</span> and <span class="file filename">$HOME/.config/lxc</span>,
+      while <span class="file filename">lxc-usernet.conf</span> is only host-wide.
+    </p>
+<p class="para">Per impostazione predefinita, i contenitori sono allocati in /var/lib/lxc per l'utente con privilegi di amministrazione, altrimenti in  $HOME/.local/share/lxc. È possibile specificare la posizione per tutti i comandi lxc usando l'argomento "-P|--lxcpath".</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="lxc-network"><div class="inner">
+<div class="hgroup"><h2 class="title">Rete</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Per impostazione predefinita LXC crea uno spazio dei nomi per rete privata per ciascun contenitore, che include uno strato di due stack di rete. I contenitori di solito si collegano all'esterno sia attraverso una scheda di rete (NIC) fisica o attraverso un tunnel endpoint attraverso una porta ethernet virtuale (veth) passato nel contenitore. LXC crea un bridge NAT, lxcbr0, all'avvio dell'host. I contenitori creati usando la configurazione predefinita avranno una scheda di rete veth con la parte remota collegata al bridge lxcbr0. Può esistere una sola NIC alla volta in uno spazio dei nomi, pertanto una NIC fisica passata nel contenitore non è utilizzabile da parte dell'host.</p>
+<p class="para">È possibile creare un contenitore senza uno spazio dei nomi della rete privata. In questo caso, il contenitore avrà accesso alla rete dell'host come ogni altra applicazione. Da notare che è particolarmente pericoloso il fatto che il contenitore esegua una distribuzione con upstart, come Ubuntu, dal momento che i programmi che colloquiano con init, come <span class="cmd command">shutdown</span>, colloquiano sul socket di dominio astratto di Unix con l'upstart dell'host, e fermano l'host.</p>
+<p class="para">Per fornire ai contenitori su lxcbr0 un indirizzo IP fisso basato sul nome di un dominio, è possibile scrivere delle voci in  <span class="file filename">/etc/lxc/dnsmasq.conf</span> come: <div class="screen"><pre class="contents ">dhcp-host=lxcmail,10.0.3.100
+dhcp-host=ttrss,10.0.3.101
+</pre></div></p>
+<p class="para">Se è necessario che un contenitore sia liberamente accessibile, ci sono alcuni modi per ottenere questo risultato. Uno di questi consiste nell'utilizzo di <span class="cmd command">iptables</span> per inoltrare le porte dell'host al contenitore, per esempio <div class="screen"><pre class="contents "> iptables -t nat -A PREROUTING -p tcp -i eth0 --dport 587 -j DNAT \
+ 	--to-destination 10.0.3.100:587
+ </pre></div> Un altro è effettuare un bridge delle interfacce di rete dell'host (consultare il capitolo Configurazione di rete del manuale server di Ubuntu, <a class="xref" href="network-configuration.html.it#bridging" title="Bridging">Bridging</a>). Quindi, specificare il bridge dell'host nel file di configurazione del contenitore al posto di lxcbr0, per esempio <div class="screen"><pre class="contents ">lxc.network.type = veth
+lxc.network.link = br0
+</pre></div> Infine, è possibile chiedere a  LXC di usare macvlan per la scheda di rete del contenitore. Notare che quest azione ha delle limitazioni e a seconda della configurazione potrebbe risultare impossibile per il contenitore di comunicare con l'host stesso. Sono pertanto preferibili le altre due opzioni, che sono più comunemente usate.</p>
+<p class="para">Ci sono dicersi modi per determinare l'indirizzo IP di un contenitore. Per prima cosa, è possibile usare <span class="cmd command">lxc-ls --fancy</span> che visualizza gli indirizzi IP di tutti i contenitori in esecuzione o <span class="cmd command">lxc-info -i -H -n C1</span> che visualizza l'indirizzo IP di C1. Se sull'host è installato dnsmasq, è possibile aggiungere  una voce in  <span class="file filename">/etc/dnsmasq.conf</span> nel modo seguente <div class="screen"><pre class="contents ">server=/lxc/10.0.3.1
+</pre></div> che consente a dnsmasq di risolvere C1.lxc localmente e quindi sarà possibile eseguire: <div class="screen"><pre class="contents ">ping C1
+ssh C1
+</pre></div></p>
+<p class="para">Per ulteriori informazioni, consultare la pagina del manuale di lxc.conf come le configurazioni di rete di esempio in  <span class="file filename">/usr/share/doc/lxc/examples/</span>.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="lxc-startup"><div class="inner">
+<div class="hgroup"><h2 class="title">Avvio di LXC</h2></div>
+<div class="region"><div class="contents">
+<p class="para">LXC non dispone di un demone long-running, tuttavia ha tre lavori upstart.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+           <p class="para"><span class="file filename">/etc/init/lxc-net.conf:</span> è un lavoro opzionale che viene eseguito solo se <span class="file filename"> /etc/default/lxc-net</span> specifica USE_LXC_BRIDGE (impostato su vero in modo predefinito). Imposta un bridge con caratteristiche NAT per l'uso da parte dei contenitori.</p>
+         </li>
+<li class="list itemizedlist">
+           <p class="para"><span class="file filename">/etc/init/lxc.conf</span> carica i profili di lxc apparmor profiles e opzionalmente avvia tutti i contenitori con avvio automatico. Questi ultimi saranno ignorati se LXC_AUTO (impostato su vero in modo predefinito) è impostato su vero in  <span class="file filename">/etc/default/lxc</span>. Consultare la pagina del manuale di lxc-autostart per ulteriori informazioni sui contenitori con avvio automatico.</p>
+         </li>
+<li class="list itemizedlist">
+	  <p class="para"><span class="file filename">/etc/init/lxc-instance.conf</span>
+	  is used by <span class="file filename">/etc/init/lxc.conf</span>
+	  to autostart a container.
+	  </p>
+	 </li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="lxc-backinstores"><div class="inner">
+<div class="hgroup"><h2 class="title">Memorie ausiliarie</h2></div>
+<div class="region"><div class="contents">
+<p class="para">LXC supporta diverse memorie ausiliarie per i file system root dei contenitori. Quella predefinita è una semplice memoria ausiliaria di directory, che non richiede nessuna preliminare personalizzazione dell'host, purché il file system sottostante sia abbastanza grande. La creazione della memoria ausiliaria non richiede inoltre alcun privilegio di amministrazione e quindi il suo utilizzo non privilegiato è scorrevole. Il rootfs per un contenitore privilegiato sostenuto da una directory è contenuto (per impostazione predefinita) in <span class="file filename">/var/lib/lxc/C1/rootfs</span>, mentre il rootfs per un contenitore non privilegiato è in <span class="file filename">~/.local/share/lxc/C1/rootfs</span>. Se viene specificato un percorso personalizzato di lxc in lxc.system.com, il rootfs del contenitore sarà in <span class="file filename">$lxcpath/C1/rootfs</span>.</p>
+<p class="para">Un clone C2 costruito come istantanea di un contenitore sostenuto da directory C1 diventa un contenitore sostenuto da overlayfs, con una rootfs chiamata <span class="file filename">overlayfs:/var/lib/lxc/C1/rootfs:/var/lib/lxc/C2/delta0</span>. Altri tipi di memoria ausiliaria includono loop, btrfs, LVM e zfs.</p>
+<p class="para">Un contenitore sostenuto da btrfs sembra abbastanza a un contenitore sostenuto da directory, con il file system root nella stessa posizione. Tuttavia, il file system root include un sottovolume e quindi un clone istantaneo viene creato usando un'istantanea del sottovolume.</p>
+<p class="para">Il file system root di un contenitore sostenuto da LVM può essere qualsiasi volume logico (LV) separato. È possibile specificare in lxc.conf il gruppo di volumi (VG) predefinito; il tipo e le dimensioni del file system sono configurabili per ogni contenitore usando lxc-create.</p>
+<p class="para">Il rootfs per un contenitore sostenuto da zfs è un separato file ststem zfs, montato nella tradizionale posizione <span class="file filename">/var/lib/lxc/C1/rootfs</span>. È possibile specificare la zfsroot in lxc-create ed è possibile specificare un modo predefinito in lxc.system.conf.</p>
+<p class="para">È possibile trovare maggiori informazioni sulla creazione di contenitori con le varie memorie ausiliarie nella pagina del manuale di lxc-create.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="lxc-templates"><div class="inner">
+<div class="hgroup"><h2 class="title">Modelli</h2></div>
+<div class="region"><div class="contents">
+<p class="para">La creazione di un contenitore generalmente necessita della creazione di un file system root per il contenitore. command&gt;Lxc-create</p>
+<p class="para">La creazione di immagini di distribuzioni in molti casi richiede l'abilità di creare nodi di dispositivi, spesso richiede strumenti non disponibili in altre distribuzioni e di solito richiede abbastanza tempo- Pertanto lxc è fornito di uno speciale modello di <span class="em emphasis">scaricamento</span>, che scarica immagini di contenitori pre-costruiti da un server centrale lxc. Il caso più importante di utilizzo è la semplice creazione di contenitori non privilegiati da parte di utenti senza privilegi di amministrazione, che per esempio non possono eseguire facilmente il comando <span class="cmd command">debootstrap</span>.</p>
+<p class="para">
+	When running <span class="cmd command">lxc-create</span>, all options which come after
+	<span class="em emphasis">--</span> are passed to the template.  In the
+	following command, <span class="em emphasis">--name</span>, <span class="em emphasis">--template</span>
+	and <span class="em emphasis">--bdev</span> are passed to <span class="cmd command">lxc-create</span>,
+	while <span class="em emphasis">--release</span> is passed to the template:
+<div class="screen"><pre class="contents "><span class="cmd command">
+lxc-create --template ubuntu --name c1 --bdev loop -- --release bionic
+</span>
+</pre></div>
+	</p>
+<p class="para">È possibile ricevere aiuto per le opzioni supportate da qualunque particolare contenitore fornendo <span class="em emphasis">--help</span> e il nome del modello a <span class="cmd command">lxc-create</span>. Per esempio, per ottenere aiuto per il modello di scaricamento,</p>
+<div class="screen"><pre class="contents "><span class="cmd command">lxc-create --template download --help</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="lxc-autostart"><div class="inner">
+<div class="hgroup"><h2 class="title">Avvio automatico</h2></div>
+<div class="region"><div class="contents"><p class="para">LXC supporta il contrassegno dei contenitori da far partire all'avvio del sistema. Prima di Ubuntu 14.04, questo risultato veniva conseguito usando collegamenti simbolici nella directory <span class="file filename">/etc/lxc/auto</span>. A partire da Ubuntu 14.04, ciò viene fatto attraverso i file di configurazione del contenitore. Una voce <div class="screen"><pre class="contents "><span class="cmd command">
+lxc.start.auto = 1
+lxc.start.delay = 5
+</span>
+</pre></div> significa che il contenitore deve essere fatto partire all'avvio e il sistema deve attendere 5 secondi prima di avviare il contenitore successivo. LXC supporta anche l'ordinamento e il raggruppamento dei contenitori, oltre al riavvio ed all'arresto per mezzo di gruppi con avvio automatico. Per ulteriori informazioni,consultare le pagine del manuale di lxc-autostart e lxc.container.conf.</p></div></div>
+</div></div>
+<div class="sect2 sect" id="lxc-apparmor"><div class="inner">
+<div class="hgroup"><h2 class="title">Apparmor</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">LXC viene fornito con un profilo Apparmor predefinito finalizzato a proteggere l'host da accidentali usi non consentiti dei privilegi all'interno del contenitore. Per esempio, il contenitore non è in grado di scrivere in <span class="file filename">/proc/sysrq-trigger</span> o nella maggior parte dei file <span class="file filename">/sys</span>.</p>
+<p class="para">Il profilo <span class="file filename">usr.bin.lxc-start</span> è eseguito utilizzando <span class="cmd command">lxc-start</span>. Questo profilo impedisce a <span class="cmd command">lxc-start</span> di montare nuovi file system oltre a quello root del contenitore. Prima di eseguire l'<span class="cmd command">init</span> del contenitore, <span class="cmd command">LXC</span> richiede di passare al profilo del contenitore; per impostazione predefinita, questo profilo è la politica <span class="file filename">lxc-container-default</span> definita in <span class="file filename">/etc/apparmor.d/lxc/lxc-default</span>. Questo profilo impedisce al contenitore di accedere a molti percorsi pericolosi e di montare la maggior parte dei file system.</p>
+<p class="para">Non è possibile confinare ulteriormente i programmi in un contenitore - per esempio MySQL viene eseguito nel profilo del contenitore (proteggendo l'host) ma non è in grado di immettere il profilo MySQL (per proteggere il contenitore).</p>
+<p class="para"><span class="cmd command">lxc-execute</span> non immette un profilo Apparmor, ma il contenitore che viene generato sarà limitato.</p>
+</div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Personalizzare le politiche del contenitore</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Se <span class="cmd command">lxc-start</span> si interrompe in quanto la sua politica Apparmor nega un accesso legittimo, è possibile disabilitare il profilo lxc-start eseguendo:</p>
+<div class="screen"><pre class="contents ">sudo apparmor_parser -R /etc/apparmor.d/usr.bin.lxc-start
+sudo ln -s /etc/apparmor.d/usr.bin.lxc-start /etc/apparmor.d/disabled/
+</pre></div>
+<p class="para">Questo consente l'esecuzione senza restrizioni di <span class="cmd command">lxc-start</span>, ma continua a regolare il contenitore stesso; se è necessario eliminare anche le restrizioni del contenitore, oltre a disabilitare il profilo <span class="file filename">usr.bin.lxc-start</span>, occorre aggiungere:</p>
+<div class="screen"><pre class="contents ">lxc.aa_profile = unconfined
+</pre></div>
+<p class="para">al file di configurazione del contenitore.</p>
+<p class="para">
+	LXC ships with a few alternate policies for containers.  If you
+	wish to run containers inside containers (nesting), then you
+	can use the lxc-container-default-with-nesting profile by adding
+	the following line to the container configuration file
+	<div class="screen"><pre class="contents ">lxc.aa_profile = lxc-container-default-with-nesting
+	</pre></div>
+	If you wish to use libvirt inside containers, then you will need
+	to edit that policy (which is defined in
+	<span class="file filename">/etc/apparmor.d/lxc/lxc-default-with-nesting</span>)
+	by uncommenting the following line:
+	<div class="screen"><pre class="contents ">mount fstype=cgroup -&gt; /sys/fs/cgroup/**,
+	</pre></div>
+	and re-load the policy.</p>
+<p class="para">Da notare che la politica di nidificazione con contenitori privilegiati è molto meno sicura della politica predefinita, in quanto consente ai contenitori di rimontare <span class="file filename">/sys</span> e <span class="file filename">/proc</span> in posizioni diverse da quelle normali, scavalcando le protezioni apparmor. I contenitori non privilegiati non hanno questo inconveniente dal momento che l'amministratore del contenitore non può scrivere nei file di proprietà dell'amministratore <span class="file filename">proc</span> e <span class="file filename">sys</span>.</p>
+<p class="para">Un altro profilo fornito con lxc consente ai contenitori di montare blocchi di tipi di file system come ext4. Ciò è utile in alcuni casi come una fornitura maas, ma è giudicato poco sicuro in quanto i gestori dei superblocchi nel kernel non sono stati controllati per una gestione sicura di input non attendibili.</p>
+<p class="para">Se è necessario eseguire un contenitore in un profilo personalizzato, è possibile creare un nuovo profilo in <span class="file filename">/etc/apparmor.d/lxc/</span>. Il suo nome deve iniziare con <span class="file filename">lxc-</span> per consentire a <span class="cmd command">lxc-start</span> la transizione a quel profilo. Il profilo <span class="file filename">lxc-default</span> include il file di astrazione riutilizzabile <span class="file filename">/etc/apparmor.d/abstractions/lxc/container-base</span>. Un facile modo di avviare un nuovo profilo pertanto è comportarsi nello stesso modo e aggiungere quindi i permessi supplementari al termine della politica.</p>
+<p class="para">Dopo aver creato la politica, caricarla usando:</p>
+<div class="screen"><pre class="contents ">sudo apparmor_parser -r /etc/apparmor.d/lxc-containers
+</pre></div>
+<p class="para">Il profilo verrà automaticamente caricato dopo un riavvio, perchè è collegato al file <span class="file filename">/etc/apparmor.d/lxc-containers</span>. Infine, per far usare al contenitore <span class="file filename">CN</span> questo nuovo <span class="file filename">lxc-CN-profile</span>, aggiungere la seguente riga al suo file di configurazione:</p>
+<div class="screen"><pre class="contents ">lxc.aa_profile = lxc-CN-profile
+</pre></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="lxc-cgroups"><div class="inner">
+<div class="hgroup"><h2 class="title">Gruppi di controllo</h2></div>
+<div class="region"><div class="contents">
+<p class="para">I gruppi di controllo (cgroup) sono una caratteristica del kernel che fornisce il raggruppamento gerarchico dei compiti e la  contabilizzazione e limitazione delle risorse per gruppo. Sono usati nei contenitori per limitare l'accesso del dispositivo a blocchi e a caratteri e per sospendere l'esecuzione dei contenitori. Possono essere ulteriormente utilizzati per limitare l'uso della memoria e bloccare l'input o l'output, per garantire il minimo di condivisione della cpu e per bloccare i contenitori in cpu specifiche.</p>
+<p class="para"> By default, a privileged container CN will be assigned to a cgroup
+	called <span class="file filename">/lxc/CN</span>. In the case of name conflicts
+	(which can occur when using custom lxcpaths) a suffix "-n", where n
+	is an integer starting at 0, will be appended to the cgroup name.
+	</p>
+<p class="para"> By default, a privileged container CN will be assigned to a cgroup
+	called <span class="file filename">CN</span> under the cgroup of the task which
+	started the container, for instance
+	<span class="file filename">/usr/1000.user/1.session/CN</span>. The container root
+	will be given group ownership of the directory (but not all files)
+	so that it is allowed to create new child cgroups.
+	</p>
+<p class="para">
+	As of Ubuntu 14.04, LXC uses the cgroup manager (cgmanager) to
+	administer cgroups. The cgroup manager receives D-Bus requests
+	over the Unix socket <span class="file filename">/sys/fs/cgroup/cgmanager/sock</span>.
+	To facilitate safe nested containers, the line
+<div class="screen"><pre class="contents "><span class="cmd command">
+lxc.mount.auto = cgroup
+</span>
+</pre></div>
+	can be added to the container configuration causing the
+	<span class="file filename">/sys/fs/cgroup/cgmanager</span> directory to be bind-mounted
+	into the container. The container in turn should start the cgroup
+	management proxy (done by default if the cgmanager package is installed
+	in the container) which will move the <span class="file filename">/sys/fs/cgroup/cgmanager</span>
+	directory to <span class="file filename">/sys/fs/cgroup/cgmanager.lower</span>, then
+	start listening for requests to proxy on its own socket
+	<span class="file filename">/sys/fs/cgroup/cgmanager/sock</span>. The host cgmanager
+	will ensure that nested containers cannot escape their assigned cgroups
+	or make requests for which they are not authorized.
+	</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="lxc-cloning"><div class="inner">
+<div class="hgroup"><h2 class="title">Clonazione</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">Per una rapida provvista, è possibile personalizzare un contenitore standard a seconda delle proprie necessità e quindi effettuarne più copie. Ciò può essere ottenuto con il programma <span class="cmd command">lxc-clone</span>.</p>
+<p class="para">Clones are either snapshots or copies of another container.
+	A copy is a new container copied from the original, and takes as
+	much space on the host as the original.  A snapshot exploits the
+	underlying backing store's snapshotting ability to make a
+	copy-on-write container referencing the first.  Snapshots can be
+	created from btrfs, LVM, zfs, and directory backed containers.
+	Each backing store has its own peculiarities - for instance, LVM
+	containers which are not thinpool-provisioned cannot support snapshots
+	of snapshots; zfs containers with snapshots cannot be removed until
+	all snapshots are released;  LVM containers must be more carefully
+	planned as the underlying filesystem may not support growing;
+	btrfs does not suffer any of these shortcomings, but suffers from
+	reduced fsync performance causing dpkg and apt to be slower.
+	</p>
+<p class="para">Istantanee di contenitori contenuti in una directory vengono create usando il file system sovrastante. Per esempio, un contenitore privilegiato sostenuto da directory C1 avrà il proprio file system root in <span class="file filename">/var/lib/lxc/C1/rootfs</span>. Un clone tipo  istantanea di C1 chiamato C2 verrà avviato con il rottfs di C1 montato in sola lettura in <span class="file filename">/var/lib/lxc/C2/delta0</span>. Si consideri che in questo caso C1 non potrà essere eseguito o rimosso mentre C2 è in esecuzione. Si consiglia invece di considerare C1 un contenitore di base <span class="em emphasis">canonico</span> e di usare solo le sue istantanee.</p>
+<p class="para">Dato un contenitore esistente chiamato C1, è possibile crearne una copia usando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo lxc-clone -o C1 -n C2</span>
+</pre></div>
+<p class="para">A snapshot can be created using:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo lxc-clone -s -o C1 -n C2</span>
+</pre></div>
+<p class="para">Consultare la pagina del manuale di lxc-clone per ulteriori informazioni.</p>
+</div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Istantanee</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Per supportare con maggiore facilità l'uso di cloni tipo istantanee per lo sviluppo di contenitori iterativi, LXC supporta le  <span class="em emphasis">istantanee</span>. Mentre si lavora su un contenitore C1, prima di effettuare modifiche potenzialmente dannose o difficili da annullare, è possibile creare un'istantanea <div class="screen"><pre class="contents "><span class="cmd command">
+sudo lxc-snapshot -n C1
+</span>
+</pre></div> che è un clone tipo istantanea chiamato "snap0" in /var/lib/lxcsnaps o $HOME/.local/share/lxcsnaps. L'istantanea successiva verrà chiamata "snap1", ecc.. È possibile elencare le istantanee esistenti usando <span class="cmd command">lxc-snapshot -L -n C1</span>, ed è possibile ripristinare un'istantanea - cancellando il contenitore C1 corrente  - usando <span class="cmd command">lxc-snapshot -r snap1 -n C1</span>. Dopo il comando di ripristino, l'istantanea snap1 continua a esistere e il precedente C1 viene cancellato e sostituito con l'istantanea snap1.</p>
+<p class="para">Le istantanee sono supportate per i contenitori btrfs, lvm, zfs e overlayfs. Se viene evocato lxc-snapshot su un contenitore sostenuto da directory, viene registrato un errore e l'istantanea viene creata come una copia tipo clone. Questo avviene perché se l'utente crea un'istantanea overlayfs di un contenitore sostenuto da directory e poi apporta delle modifiche al contenitore sostenuto da directory,  le modifiche del contenitore originario si rifletteranno parzialmente nell'istantanea. Se è necessario disporre di istantanee di un contenitore sostenuto da directory C1, allora deve essere creato un clone overlayfs di C1, non si deve toccare più C1 ed è possibile effettuare modifiche e creare istantanee a volontà sul clone overlayfs, per esempio <div class="screen"><pre class="contents "><span class="cmd command">
+lxc-clone -s -o C1 -n C2
+lxc-start -n C2 -d # effettuare alcune modifiche
+lxc-stop -n C2
+lxc-snapshot -n C2
+lxc-start -n C2 # etc
+</span>
+</pre></div></p>
+</div></div>
+</div></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Contenitori effimeri</h3></div>
+<div class="region"><div class="contents"><p class="para">Mentre le istantanee sono utili per lo sviluppo incrementale più a lungo termine di immagini, i contenitori effimeri utilizzano le istantanee per contenitori rapidi, monouso, usa e getta. Dato un contenitore di base C1, è possibile avviare un contenitore effimero usando <div class="screen"><pre class="contents "><span class="cmd command">
+lxc-start-ephemeral -o C1
+</span>
+</pre></div> Il contenitore viene avviato come un'istantanea di C1; le istruzioni per accedere al contenitore devono essere immesse da console. Dopo l'arresto, il contenitore effimero viene distrutto. Consultare la pagina del manuale lxc-start-ephemeral per ulteriori informazioni.</p></div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="lxc-hooks"><div class="inner">
+<div class="hgroup"><h2 class="title">Hook di gestione del ciclo di vita</h2></div>
+<div class="region"><div class="contents">
+<p class="para">A partire da Ubuntu 12.10 è possibile definire degli hook da eseguire in punti specifici del ciclo di vita del contenitore:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+            <p class="para">Gli hook di pre-avvio sono eseguiti nello spazio dei nomi dell'host prima dell'esecuzione dei terminali, delle console o dei montaggi del contenitore. Se nell'hook sono eseguiti dei montaggi, è necessario eliminarli nell'hook post-arresto.</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Gli hook di pre-avvio sono eseguiti negli spazi dei nomi del contenitore, ma prima del montaggio del file system root; i montaggi eseguiti in questi hook saranno automaticamente eliminati quando il contenitore viene fermato.</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Gli hook di montaggio sono eseguiti dopo il montaggio dei file system del contenitore, ma prima che il contenitore abbia eseguito il <span class="cmd command">pivot_root</span> per modificare il proprio file system root.</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Gli hook di avvio sono eseguiti immediatamente prima dell'init del contenitore; dato che sono eseguiti dopo il passaggio al file system del contenitore, affinché il comando venga eseguito, è necessario copiarlo nel file system del contenitore.</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Gli hook di post-arresto vengono eseguiti dopo che il contenitore è stato fermato.</p>
+          </li>
+</ul></div>
+<p class="para">Se un hook restituisce un errore, l'esecuzione del contenitore verrà interrotta. Ogni hook di <span class="em emphasis">post-arresto</span> sarà comunque eseguito; gli output generati dallo script saranno registrati con la priorità del debug.</p>
+<p class="para">Consultare la pagina del manuale  di lxc.container.conf per informazioni sul file di configurazione con cui specificare hook. Alcuni hook di esempio sono inclusi nel pacchetto lxc per servire come esempio sulla scrittura e utilizzo di tali strumenti.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="lxc-consoles"><div class="inner">
+<div class="hgroup"><h2 class="title">Console</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Containers have a configurable number of consoles. One always
+        exists on the container's <span class="file filename">/dev/console</span>. This is
+        shown on the terminal from which you ran <span class="cmd command">lxc-start</span>,
+        unless the <span class="em emphasis">-d</span> option is specified. The output on
+        <span class="file filename">/dev/console</span> can be redirected to a file using
+        the <span class="em emphasis">-c console-file</span> option to
+        <span class="cmd command">lxc-start</span>. The number of extra consoles is
+        specified by the <span class="cmd command">lxc.tty</span> variable, and is usually
+        set to 4. Those consoles are shown on <span class="file filename">/dev/ttyN</span>
+        (for 1 &lt;= N &lt;= 4). To log into console 3 from the host,
+        use:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo lxc-console -n container -t 3</span>
+</pre></div>
+<p class="para">o se l'opzione <span class="em emphasis">-t N</span> non è specificata, verrà scelta automaticamente una console non utilizzata. Per uscire dalla console, usare la sequenza di escape Ctrl-a q; questa sequenza non funziona nella console che deriva dal comando <span class="cmd command">lxc-start</span> senza l'opzione <span class="em emphasis">-d</span>.</p>
+<p class="para">Ciascuna console del contenitore è in fondo uno pseudo terminale Unix98 nello pseudo terminale dell'host (non del client), con un collegamento del tipo bind mount nelle posizioni <span class="file filename">/dev/ttyN</span> e <span class="file filename">/dev/console</span> del client. Pertanto, se il client smonta o cerca in altra maniera di avere accesso al reale dispositivo a caratteri  <span class="cmd command">4:N</span>, non verrà fornito un processo getty per le console LXC; con le impostazioni predefinite, il contenitore non potrà avere accesso a quel dispositivo a caratteri e perciò il processo getty fallirà. Questo può accadere facilmente quando uno script di boot monta ciecamente un nuovo <span class="file filename">/dev</span>.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="lxc-debugging"><div class="inner">
+<div class="hgroup"><h2 class="title">Risoluzione problemi</h2></div>
+<div class="region">
+<div class="contents"></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Registrazione</h3></div>
+<div class="region"><div class="contents"><p class="para">Se qualcosa non funziona nell'avvio di un contenitore, il primo passo è quello di ottenere un pieno accesso da LXC: <div class="screen"><pre class="contents "><span class="cmd command">
+sudo lxc-start -n C1 -l trace -o debug.out
+</span>
+</pre></div> Questo consente l'accesso di lxc al livello più prolisso, <span class="file filename">trace</span>, e mette a disposizione le informazioni sull'accesso in un file chiamato «debug.out». Se il file <span class="file filename">debug.out</span> è già esistente, le nuove informazioni sull'accesso verranno aggiunte a quest'ultimo.</p></div></div>
+</div></div>
+<div class="sect3 sect" id="lxc-monitoring"><div class="inner">
+<div class="hgroup"><h3 class="title">Controllo dello stato del contenitore</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Per controllare le modifiche dello stato del contenitore sono disponibili due comandi. <span class="cmd command">lxc-monitor</span>  controlla i cambiamenti di uno o più contenitori; accetta un nome di contenitore con la solita opzione <span class="em emphasis">-n</span>, ma in questo caso il nome del contenitore può essere un'espressione regolare POSIX per consentire il controllo di un certo insieme di contenitori. <span class="cmd command">lxc-monitor</span> continua a essere eseguito mentre visualizza le modifiche del contenitore. <span class="cmd command">lxc-wait</span> attende una specifica modifica dello stato e quindi si disconnette. Per esempio,</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo lxc-monitor -n cont[0-5]*</span>
+</pre></div>
+<p class="para">visualizza tutte le modifiche dello stato di qualsiasi contenitore che corrisponde all'espressione regolare elencata, mentre</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo lxc-wait -n cont1 -s 'STOPPED|FROZEN'</span>
+</pre></div>
+<p class="para">attende fino a quando il contenitore cont1 entra in uno stato di STOPPED (fermato) o di FROZEN (bloccato) e quindi si disconnette.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Aggiunte</h3></div>
+<div class="region"><div class="contents"><p class="para">A partire da Ubuntu 14.04 è possibile effettuare delle aggiunte allo spazio dei nomi di un contenitore. Nel caso più semplice basta eseguire <div class="screen"><pre class="contents "><span class="cmd command">
+sudo lxc-attach -n C1
+</span>
+</pre></div> che avvia una shell aggiunta allo spazio dei nomi di C1 o essenzialmente all'interno del contenitore. Questa funzionalità è molto flessibile, consentendo di effettuare aggiunte allo spazio dei nomi del contenitore e al contesto di sicurezza. Consultare la pagina del manuale per ulteriori informazioni.</p></div></div>
+</div></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Prolissità dell'init del contenitore</h3></div>
+<div class="region"><div class="contents"><p class="para">Se LXC completa lo startup del contenitore ma l'init del contenitore fallisce (per esempio, non viene visualizzato il prompt di accesso), può essere utile richiedere una prolissità addizionale al processo init. Per un contenitore upstart, questo risultato può essere ottenuto con: <div class="screen"><pre class="contents "><span class="cmd command">
+sudo lxc-start -n C1 /sbin/init loglevel=debug
+</span>
+</pre></div> È anche possibile avviare un programma completamente differente al posto di init, per esempio <div class="screen"><pre class="contents "><span class="cmd command">
+sudo lxc-start -n C1 /bin/bash
+sudo lxc-start -n C1 /bin/sleep 100
+sudo lxc-start -n C1 /bin/cat /proc/1/status
+</span>
+</pre></div></p></div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="python-lxc"><div class="inner">
+<div class="hgroup"><h2 class="title">LXC API</h2></div>
+<div class="region"><div class="contents">
+<p class="para">È ora possibile avere accesso alla maggior parte delle funzionalità di LXC per mezzo di un'API esportata da <span class="file filename">liblxc</span> per la quale sono disponibili collegamenti in diversi linguaggi, incluso Python, lua, tuby e go.</p>
+<p class="para">Di seguito c'è un esempio dell'uso del collegamento python (disponibili nel pacchetto <span class="app application">python3-lxc</span>) che crea e avvia un contenitore e quindi rimane in attesa fino al suo arresto:</p>
+<div class="code"><pre class="contents "># sudo python3
+Python 3.2.3 (default, Aug 28 2012, 08:26:03)
+[GCC 4.7.1 20120814 (prerelease)] on linux2
+Digitare «help», «copyright», «credits» o «license» per ulteriori informazioni.
+&gt;&gt;&gt; import lxc
+__main__:1: Attenzione: l'API python-lxc non è ancora stabile e può essere
+modificata in qualsiasi momento in futuro.
+&gt;&gt;&gt; c=lxc.Container("C1")
+&gt;&gt;&gt; c.create("ubuntu")
+True
+&gt;&gt;&gt; c.start()
+True
+&gt;&gt;&gt; c.wait("STOPPED")
+True
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="lxc-security"><div class="inner">
+<div class="hgroup"><h2 class="title">Sicurezza</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">Uno spazio dei nomi associa identificativi alle risorse. È possibile proteggere una risorsa non fornendo al contenitore l'identificativo che fa riferimento a quella risorsa. Questa è la base di una parte della sicurezza offerta agli utenti dei contenitori; per esempio, gli spazi dei nomi IPC sono completamente isolati. Altri spazi dei nomi, tuttavia, presentano diverse <span class="em emphasis">falle</span> che rendono possibile l'esercizio inappropriato di privilegi da un contenitore all'altro o nei confronti dell'host.</p>
+<p class="para">Per impostazione predefinita, i contenitori vengono avviati con una politica Apparmor per restringere alcune azioni. I dettagli dell'integrazione di Apparmor con lxc sono nella sezione <a class="xref" href="lxc.html.it#lxc-apparmor" title="Apparmor">Apparmor</a>. I contenitori non privilegiati si spingono oltre associando la root nel contenitore a un identificativo dell'host non privilegiato. Questo impedisce l'accesso ai file <span class="file filename">/proc</span> e <span class="file filename">/sys</span> che rappresentano le risorse dell'host, come pure agli altri file di proprietà dell'amministratore sull'host.</p>
+</div>
+<div class="sect3 sect" id="lxc-seccomp"><div class="inner">
+<div class="hgroup"><h3 class="title">Chiamate di sistema utilizzabili</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Una delle caratteristiche principali dei contenitori è che questi condividono un kernel con l'host. Di conseguenza se il kernel contiene chiamate di sistema utilizzabili, anche il contenitore può sfruttarle. Dal momento che il contenitore controlla il kernel, può controllare completamente ogni risorsa conosciuta dall'host.</p>
+<p class="para">Da Ubuntu 12.10 (Quantal) un contenitore può anche essere confinato da un filtro seccomp, che è una nuova caratteristica del kernel che filtra le chiamate di sistema che possono essere usate da un processo e dai suoi processi derivati. Sebbene nel prossimo futuro sia attesa una gestione della politica migliorata e semplificata, quella corrente consiste in una semplice whitelist di numeri di chiamate di sistema. Il file della politica inizia con un numero di versione (che deve essere 1) sulla prima riga e una tipologia  di politica (che deve essere «whitelist») sulla seconda riga; segue un elenco di numeri, uno per riga.</p>
+<p class="para">In generale per eseguire un contenitore a distribuzione completa occorrono un gran numero di chiamate di sistema. Tuttavia per contenitori di applicazioni è possibile ridurre di molto il numero di chiamate di sistema disponibili. Anche per i contenitori che eseguono una sicurezza a distribuzione completa è possibile guadagnare qualcosa, per esempio, rimuovendo le chiamate di sistema per compatibilità a 32-bit in un contenitore a 64-bit. Consultare la pagina del manuale lxc.container.conf per dettagli su come configurare un contenitore per l'uso di seccomp. Per impostazione predefinita, non viene caricata nessuna politica seccomp.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="lxc-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Risorse</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">L'articolo DeveloperWorks article <a href="https://www.ibm.com/developerworks/linux/library/l-lxc-containers/" class="ulink" title="https://www.ibm.com/developerworks/linux/library/l-lxc-containers/">LXC: strumenti dei contenitori Linux</a> era una precoce introduzione all'utilizzo dei contenitori.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Il <a href="http://www.ibm.com/developerworks/linux/library/l-lxc-security/index.html" class="ulink" title="http://www.ibm.com/developerworks/linux/library/l-lxc-security/index.html"> Secure Containers Cookbook</a> illustrava l'utilizzo dei moduli per incrementare la sicurezza dei contenitori.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Le pagine del manuale cui si fa riferimento in precedenza possono essere trovate in:</p>
+          <div class="screen"><pre class="contents "><a href="http://manpages.ubuntu.com/manpages/en/man7/capabilities.7.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man7/capabilities.7.html">capacità</a>
+<a href="http://manpages.ubuntu.com/manpages/en/man5/lxc.conf.5.html" class="ulink" title="http://manpages.ubuntu.com/manpages/en/man5/lxc.conf.5.html">lxc.conf</a>
+</pre></div>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Il progetto LXC upstream può essere trovato in <a href="http://linuxcontainers.org" class="ulink" title="http://linuxcontainers.org">linuxcontainers.org</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Argomenti relativi alla sicurezza di LXC sono elencati e discussi nella <a href="http://wiki.ubuntu.com/LxcSecurity" class="ulink" title="http://wiki.ubuntu.com/LxcSecurity">pagina della comunità LXC Security</a></p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Per ulteriori informazioni sugli spazi dei nomi in Linux, consultare S. Bhattiprolu, E. W. Biederman, S. E. Hallyn, and D. Lezcano. Virtual Servers and Check- point/Restart in Mainstream Linux. SIGOPS Operating Systems Review, 42(5), 2008.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="lxd.html.it" title="LXD">Indietro</a><a class="nextlinks-next" href="cgroups.html.it" title="Gruppi di controllo">Avanti</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address
+          so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p>
+</div>
+</div>
+</body>
+</html>

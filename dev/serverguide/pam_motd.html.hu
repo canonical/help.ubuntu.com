@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>pam_motd</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = "index.html.en";
+        } else {
+                window.location = href.replace(/\.html.*/, ".html.en");
+        }
+         return false;
+      }
+      function browserPreferredLanguage() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = href;
+        } else {
+                window.location = href.replace(/\.html.*/, ".html");
+        }
+        return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html.hu" title="Ubuntu kiszolgáló kézikönyve">Ubuntu kiszolgáló kézikönyve</a> » <a class="trail" href="other-useful-applications.html.hu" title="További hasznos alkalmazások">További hasznos alkalmazások</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="other-useful-applications.html.hu" title="További hasznos alkalmazások">Előző</a><a class="nextlinks-next" href="etckeeper.html.hu" title="etckeeper">Következő</a>
+</div>
+<div class="hgroup"><h1 class="title">pam_motd</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">Ubuntu kiszolgálókra bejelentkezéskor valószínűleg észrevette az informatív Nap üzenetét (MOTD). Ezek az információk több csomag használatával kerülnek beszerzésre és jelennek meg:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+        <p class="para">
+        <span class="em emphasis">landscape-common:</span> provides the core libraries of <span class="app application">landscape-client</span>,
+	which is needed to manage systems with <a href="http://landscape.canonical.com/" class="ulink" title="http://landscape.canonical.com/">Landscape</a> (proprietary).  Yet the package also includes
+        the <span class="app application">landscape-sysinfo</span> utility which is responsible for displaying core system data involving cpu, memory, disk space, etc.  For instance:
+        </p>
+
+<div class="screen"><pre class="contents "><span class="output computeroutput">
+	  System load:  0.0               Processes:           76
+	  Usage of /:   30.2% of 3.11GB   Users logged in:     1
+	  Memory usage: 20%               IP address for eth0: 10.153.107.115
+	  Swap usage:   0%
+
+	  Graph this data and manage this system at https://landscape.canonical.com/
+</span>
+</pre></div>
+
+        <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">
+                You can run landscape-sysinfo manually at any time.
+                </p>
+        </div></div></div></div>
+
+      </li>
+<li class="list itemizedlist">
+        <p class="para">
+        <span class="em emphasis">update-notifier-common:</span> provides information on available package updates, impending filesystem checks (fsck), and required reboots (e.g.: after a kernel upgrade).
+        </p>
+      </li>
+</ul></div>
+<p class="para">Az <span class="app application">pam_motd</span> a nevük elején található számok sorrendjében végrehajtja az <span class="file filename">/etc/update-motd.d</span> parancsfájljait. A parancsfájlok kimenete a számozott sorrendet fenntartva a <span class="file filename">/var/run/motd/</span> fájlba, majd az <span class="file filename">/etc/motd.tail</span> fájllal kerülnek összefűzésre.</p>
+<p class="para">Saját dinamikus információkat is adhat a MOTD-hez. Helyi időjárási információk hozzáadásához például:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+        <p class="para">Első lépésként telepítse a <span class="app application">weather-util</span> csomagot:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install weather-util</span>
+</pre></div>
+
+      </li>
+<li class="list itemizedlist">
+        <p class="para">A <span class="app application">weather</span> segédprogram a National Oceanic and Atmospheric Administration METAR adatait, és a National Weather Service előrejelzéseit használja. A helyi információk eléréséhez szüksége lesz a 4 karakteres ICAO helyazonosítóra (például: LHBP Budapest esetén). Ez a <a href="http://www.weather.gov/tg/siteloc.shtml" class="ulink" title="http://www.weather.gov/tg/siteloc.shtml">National Weather Service</a> weboldalán határozható meg.</p>
+
+        <p class="para">Noha a National Weather Service az Egyesült Államok kormányzati ügynöksége, az időjárás-jelentő állomások világszerte megtalálhatók. Ugyanakkor nem biztos, hogy a helyi időjárási információk az Egyesült Államokon kívüli összes állomás esetén elérhetők.</p>
+      </li>
+<li class="list itemizedlist">
+        <p class="para">Hozzon létre egy egyszerű, <span class="file filename">/usr/local/bin/local-weather</span> parancsfájlt, amely a <span class="app application">weather</span> programot és a helyi ICAO kódot használja:</p>
+
+<div class="code"><pre class="contents ">#!/bin/sh
+#
+#
+# Kiírja a helyi időjárást a MOTD számára.
+#
+#
+
+# Helyettesítse az LHBP-t a helyi időjárási állomás kódjával.
+# A helyi állomások itt találhatók: http://www.weather.gov/tg/siteloc.shtml
+
+echo
+weather -i LHBP
+echo
+
+</pre></div>
+      </li>
+<li class="list itemizedlist">
+        <p class="para">Tegye végrehajthatóvá a parancsfájlt:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chmod 755 /usr/local/bin/local-weather</span>
+</pre></div>
+      </li>
+<li class="list itemizedlist">
+        <p class="para">Ezután hozzon létre egy szimbolikus linket <span class="file filename">/etc/update-motd.d/98-local-weather</span> néven:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ln -s /usr/local/bin/local-weather /etc/update-motd.d/98-local-weather</span>
+</pre></div>
+      </li>
+<li class="list itemizedlist">
+        <p class="para">Végül lépjen ki a kiszolgálóról, majd újra be az új MOTD megjelenítéséhez.</p>
+      </li>
+</ul></div>
+<p class="para">Ezután néhány hasznos, és a helyi időjárással kapcsolatos kevésbé hasznos információval üdvözli a rendszer. Reméljük, a <span class="app application">local-weather</span> példával sikerült bemutatnunk az <span class="app application">pam_motd</span> rugalmasságát.</p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul><li class="links"><a class="xref" href="pam_motd.html.hu#pam_motd-resources" title="Információforrások">Információforrások</a></li></ul></div>
+<div class="sect2 sect" id="pam_motd-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Információforrások</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+	<p class="para">
+        See the <a href="http://manpages.ubuntu.com/manpages/bionic/en/man5/update-motd.5.html" class="ulink" title="http://manpages.ubuntu.com/manpages/bionic/en/man5/update-motd.5.html">update-motd man page</a> for
+        more options available to <span class="app application">update-motd</span>.
+	</p>
+	</li>
+<li class="list itemizedlist">
+        <p class="para">A nap Debian csomagja oldal <a href="http://debaday.debian.net/2007/10/04/weather-check-weather-conditions-and-forecasts-on-the-command-line/" class="ulink" title="http://debaday.debian.net/2007/10/04/weather-check-weather-conditions-and-forecasts-on-the-command-line/">weather</a> cikke további részletekkel szolgál a <span class="app application">weather</span> segédprogramról.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="other-useful-applications.html.hu" title="További hasznos alkalmazások">Előző</a><a class="nextlinks-next" href="etckeeper.html.hu" title="etckeeper">Következő</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address
+          so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p>
+</div>
+</div>
+</body>
+</html>

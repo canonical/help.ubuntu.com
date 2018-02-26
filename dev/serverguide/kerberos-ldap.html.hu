@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Kerberos és LDAP</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = "index.html.en";
+        } else {
+                window.location = href.replace(/\.html.*/, ".html.en");
+        }
+         return false;
+      }
+      function browserPreferredLanguage() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = href;
+        } else {
+                window.location = href.replace(/\.html.*/, ".html");
+        }
+        return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html.hu" title="Ubuntu kiszolgáló kézikönyve">Ubuntu kiszolgáló kézikönyve</a> » <a class="trail" href="network-authentication.html.hu" title="Hálózati hitelesítés">Hálózati hitelesítés</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="kerberos.html.hu" title="Kerberos">Előző</a><a class="nextlinks-next" href="sssd-ad.html.hu" title="SSSD and Active Directory">Következő</a>
+</div>
+<div class="hgroup"><h1 class="title">Kerberos és LDAP</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">
+    Most people will not use Kerberos by itself; once an user is authenticated
+    (Kerberos), we need to figure out what this user can do (authorization).
+    And that would be the job of programs such as
+    <span class="app application">LDAP</span>.
+    </p>
+<p class="para">A Kerberos résztvevő-adatbázis replikálása két kiszolgáló között bonyolult lehet, és egy újabb felhasználó-adatbázist ad a hálózatához. Szerencsére a MIT Kerberos beállítható <span class="app application">LDAP</span> címtár használatára résztvevő-adatbázisként. Ez a szakasz bemutatja az elsődleges és másodlagos Kerberos kiszolgáló beállítását <span class="app application">OpenLDAP</span> használatára résztvevő-adatbázisként.</p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+       <p class="para">
+       The examples presented here assume 
+       <span class="app application">MIT Kerberos</span> and 
+       <span class="app application">OpenLDAP</span>.
+       </p>
+    </div></div></div></div>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="kerberos-ldap.html.hu#kerberos-ldap-openldap" title="OpenLDAP beállítása">OpenLDAP beállítása</a></li>
+<li class="links"><a class="xref" href="kerberos-ldap.html.hu#kerberos-ldap-primary-kdc" title="Elsődleges KDC beállítása">Elsődleges KDC beállítása</a></li>
+<li class="links"><a class="xref" href="kerberos-ldap.html.hu#kerberos-ldap-secondary-kdc" title="Másodlagos KDC beállítása">Másodlagos KDC beállítása</a></li>
+<li class="links"><a class="xref" href="kerberos-ldap.html.hu#kerberos-ldap-resources" title="Információforrások">Információforrások</a></li>
+</ul></div>
+<div class="sect2 sect" id="kerberos-ldap-openldap"><div class="inner">
+<div class="hgroup"><h2 class="title">OpenLDAP beállítása</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Első lépésként a szükséges <span class="em emphasis">sémát</span> kell betölteni egy <span class="app application">OpenLDAP</span> kiszolgálóra, amely rendelkezik hálózati kapcsolattal az elsődleges és másodlagos KDC-khez. A szakasz további része feltételezi, hogy az LDAP replikáció is be van állítva legalább két kiszolgáló között. Az OpenLDAP beállításával kapcsolatos információkért lásd: <a class="xref" href="openldap-server.html.hu" title="OpenLDAP kiszolgáló">OpenLDAP kiszolgáló</a>.</p>
+<p class="para">Szükség van még az OpenLDAP beállítására TLS és SSL kapcsolatokhoz, a KDC és az LDAP-kiszolgáló közötti forgalom titkosításához. A részletekért lásd: <a class="xref" href="openldap-server.html.hu#openldap-tls" title="TLS">TLS</a>.</p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+         <p class="para">
+         <span class="file filename">cn=admin,cn=config</span> is a user we created with 
+rights to edit the ldap database. Many times it is the RootDN. Change its 
+value to reflect your setup.
+         </p>
+      </div></div></div></div>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">A séma LDAP-ba töltéséhez az LDAP-kiszolgálón telepítse a <span class="app application">krb5-kdc-ldap</span> csomagot. Adja ki a következő parancsot:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install krb5-kdc-ldap</span>
+</pre></div>
+
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Ezután bontsa ki a <span class="file filename">kerberos.schema.gz</span> fájlt:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo gzip -d /usr/share/doc/krb5-kdc-ldap/kerberos.schema.gz</span>
+<span class="cmd command">sudo cp /usr/share/doc/krb5-kdc-ldap/kerberos.schema /etc/ldap/schema/</span>
+</pre></div>
+
+        </li>
+<li class="list itemizedlist">
+
+           <p class="para">A <span class="em emphasis">kerberos</span> sémát fel kell venni a <span class="em emphasis">cn=config</span> fába. Az új séma <span class="app application">slapd-be</span> való felvételének módját a <a class="xref" href="openldap-server.html.hu#openldap-configuration" title="Modifying the slapd Configuration Database">Modifying the slapd Configuration Database</a> szakasz ismerteti.</p>
+
+           <div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+                <p class="para">Első lépésként hozzon létre egy <span class="file filename">schema_convert.conf</span> vagy hasonló beszédes nevű konfigurációs fájlt, a következő tartalommal:</p>
+
+<div class="code"><pre class="contents ">include /etc/ldap/schema/core.schema
+include /etc/ldap/schema/collective.schema
+include /etc/ldap/schema/corba.schema
+include /etc/ldap/schema/cosine.schema
+include /etc/ldap/schema/duaconf.schema
+include /etc/ldap/schema/dyngroup.schema
+include /etc/ldap/schema/inetorgperson.schema
+include /etc/ldap/schema/java.schema
+include /etc/ldap/schema/misc.schema
+include /etc/ldap/schema/nis.schema
+include /etc/ldap/schema/openldap.schema
+include /etc/ldap/schema/ppolicy.schema
+include /etc/ldap/schema/kerberos.schema
+</pre></div>
+
+
+                </li>
+<li class="steps">
+
+                  <p class="para">Hozzon létre egy ideiglenes könyvtárat az LDIF-fájlok tárolásához:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">mkdir /tmp/ldif_output</span>
+</pre></div>
+
+                </li>
+<li class="steps">
+
+                  <p class="para">Most az <span class="app application">slapcat</span> használatával konvertálja a sémafájlokat:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">slapcat -f schema_convert.conf -F /tmp/ldif_output -n0 -s \
+"cn={12}kerberos,cn=schema,cn=config" &gt; /tmp/cn=kerberos.ldif</span>
+</pre></div>
+
+                  <p class="para">Módosítsa a fenti fájl- és útvonalneveket a sajátjainak megfelelően.</p>
+                
+                </li>
+<li class="steps">
+
+                  <p class="para">Szerkessze a kapott <span class="file filename">/tmp/cn\=kerberos.ldif</span> fájlt, és módosítsa a következő attribútumokat:</p>
+
+<div class="code"><pre class="contents ">dn: cn=kerberos,cn=schema,cn=config
+...
+cn: kerberos
+</pre></div>
+
+                  <p class="para">Távolítsa el a következő sorokat a fájl végéről:</p>
+
+<div class="code"><pre class="contents ">structuralObjectClass: olcSchemaConfig
+entryUUID: 18ccd010-746b-102d-9fbe-3760cca765dc
+creatorsName: cn=config
+createTimestamp: 20090111203515Z
+entryCSN: 20090111203515.326445Z#000000#000#000000
+modifiersName: cn=config
+modifyTimestamp: 20090111203515Z
+</pre></div>
+
+                    <p class="para">Az attribútumértékek eltérők lesznek, győződjön meg róla, hogy eltávolította az attribútumokat.</p>
+
+                </li>
+<li class="steps">
+
+                  <p class="para">Töltse be az új sémát az <span class="app application">ldapadd</span> használatával:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ldapadd -Q -Y EXTERNAL -H ldapi:/// -f /tmp/cn\=kerberos.ldif</span>
+</pre></div>
+
+                </li>
+<li class="steps">
+        
+                  <p class="para">Vegyen fel indexet a <span class="em emphasis">krb5principalname</span> attribútumhoz:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ldapmodify -Q -Y EXTERNAL -H ldapi:///</span>
+<span class="output computeroutput">
+<span class="input userinput">dn: olcDatabase={1}mdb,cn=config
+add: olcDbIndex
+olcDbIndex: krbPrincipalName eq,pres,sub</span>
+
+modifying entry "olcDatabase={1}mdb,cn=config"</span>
+</pre></div>
+      
+                </li>
+<li class="steps">
+        
+                  <p class="para">Végül frissítse a hozzáférés-vezérlési listákat (ACL):</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ldapmodify -Q -Y EXTERNAL -H ldapi:///</span>
+<span class="output computeroutput">
+<span class="input userinput">dn: olcDatabase={1}mdb,cn=config
+replace: olcAccess
+olcAccess: to attrs=userPassword,shadowLastChange,krbPrincipalKey by
+ dn="cn=admin,dc=example,dc=com" write by anonymous auth by self write by * none
+-
+add: olcAccess
+olcAccess: to dn.base="" by * read
+-
+add: olcAccess
+olcAccess: to * by dn="cn=admin,dc=example,dc=com" write by * read</span>
+
+modifying entry "olcDatabase={1}mdb,cn=config"
+</span>
+</pre></div>
+      
+                </li>
+</ol></div></div>    
+        </li>
+</ul></div>
+<p class="para">Ennyi az egész, az LDAP-címtár ezzel készen áll a Kerberos résztvevő-adatbázisként való használatra.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="kerberos-ldap-primary-kdc"><div class="inner">
+<div class="hgroup"><h2 class="title">Elsődleges KDC beállítása</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Az <span class="app application">OpenLDAP</span> beállítása után ideje beállítani a KDC-t is.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Első lépésként telepítse a szükséges csomagokat, adja ki a következő parancsot:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install krb5-kdc krb5-admin-server krb5-kdc-ldap</span>
+</pre></div>
+
+        </li>
+<li class="list itemizedlist">
+
+          <p class="para">Szerkessze az <span class="file filename">/etc/krb5.conf</span> fájlt, az alábbi beállítások megfelelő szakaszokhoz adásával:</p>
+
+<div class="code"><pre class="contents ">[libdefaults]
+        default_realm = EXAMPLE.COM
+
+...
+
+[realms]
+        EXAMPLE.COM = {
+                kdc = kdc01.example.com
+                kdc = kdc02.example.com
+                admin_server = kdc01.example.com
+                admin_server = kdc02.example.com
+                default_domain = example.com
+                database_module = openldap_ldapconf
+        }
+
+...
+
+[domain_realm]
+        .example.com = EXAMPLE.COM
+
+
+...
+
+[dbdefaults]
+        ldap_kerberos_container_dn = cn=krbContainer,dc=example,dc=com
+
+[dbmodules]
+        openldap_ldapconf = {
+                db_library = kldap
+                ldap_kdc_dn = "cn=admin,dc=example,dc=com"
+
+                # this object needs to have read rights on
+                # the realm container, principal container and realm sub-trees
+                ldap_kadmind_dn = "cn=admin,dc=example,dc=com"
+
+                # this object needs to have read and write rights on
+                # the realm container, principal container and realm sub-trees
+                ldap_service_password_file = /etc/krb5kdc/service.keyfile
+                ldap_servers = ldaps://ldap01.example.com ldaps://ldap02.example.com
+                ldap_conns_per_server = 5
+        }
+</pre></div>
+
+          <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">A <span class="em emphasis">példa.hu</span>, <span class="em emphasis">dc=példa,dc=hu</span>, <span class="em emphasis">cn=admin,dc=példa,dc=hu</span> és az <span class="em emphasis">ldap01.példa.hu</span> helyére a hálózatának megfelelő tartományt, LDAP-objektumot és LDAP-kiszolgálót írja.</p>
+          </div></div></div></div>
+
+        </li>
+<li class="list itemizedlist">
+        
+          <p class="para">Ezután a <span class="app application">kdb5_ldap_util</span> segédprogrammal hozza létre a tartományt:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo kdb5_ldap_util -D  cn=admin,dc=example,dc=com create -subtrees \
+dc=example,dc=com -r EXAMPLE.COM -s -H ldap://ldap01.example.com</span>
+</pre></div>
+      
+        </li>
+<li class="list itemizedlist">
+        
+          <p class="para">Hozzon létre egy stash fájlt az LDAP-kiszolgálóhoz kapcsolódásra használt jelszóval. Ezt a jelszót az <span class="file filename">/etc/krb5.conf</span> fájl <span class="em emphasis">ldap_kdc_dn</span> és <span class="em emphasis">ldap_kadmin_dn</span> beállításai használják:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo kdb5_ldap_util -D  cn=admin,dc=example,dc=com stashsrvpw -f \
+/etc/krb5kdc/service.keyfile cn=admin,dc=example,dc=com</span>
+</pre></div>
+      
+        </li>
+<li class="list itemizedlist">
+        
+          <p class="para">Másolja át a CA-tanúsítványt az LDAP-kiszolgálóról:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">scp ldap01:/etc/ssl/certs/cacert.pem .</span>
+<span class="cmd command">sudo cp cacert.pem /etc/ssl/certs</span>
+</pre></div>
+
+          <p class="para">Módosítsa az <span class="file filename">/etc/ldap/ldap.conf</span> fájlt a tanúsítvány használatához:</p>
+
+<div class="code"><pre class="contents ">TLS_CACERT /etc/ssl/certs/cacert.pem
+</pre></div>
+
+          <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">A tanúsítványt a másodlagos KDC-re is át kell másolni, az LDAP-kiszolgálókhoz LDAPS használatával való kapcsolódás engedélyezéséhez.</p>
+          </div></div></div></div>
+      
+        </li>
+<li class="list itemizedlist">
+
+          <p class="para"> 
+          Start the Kerberos KDC and admin server:
+          </p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl start krb5-kdc.service</span>
+<span class="cmd command">sudo systemctl start krb5-admin-server.service</span>
+</pre></div>
+        </li>
+</ul></div>
+<p class="para">Most már felvehet Kerberos résztvevőket az LDAP-adatbázisba, ezek minden más, replikációra beállított LDAP-kiszolgálóra át lesznek másolva. Adja ki a következő parancsot résztvevő hozzáadásához a <span class="app application">kadmin.local</span> segédprogrammal:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo kadmin.local</span>
+<span class="output computeroutput">Authenticating as principal root/admin@PÉLDA.HU with password.
+kadmin.local:  <span class="input userinput">addprinc -x dn="uid=geza,ou=emberek,dc=példa,dc=hu" geza</span>
+WARNING: no policy specified for geza@PÉLDA.HU; defaulting to no policy
+Enter password for principal "geza@PÉLDA.HU": 
+Re-enter password for principal "geza@PÉLDA.HU": 
+Principal "geza@PÉLDA.HU" created.</span>
+</pre></div>
+<p class="para">Ezután a <span class="em emphasis">uid=geza,ou=emberek,dc=példa,dc=hu</span> felhasználóobjektumhoz meg kell jelenniük a krbPrincipalName, krbPrincipalKey, krbLastPwdChange és krbExtraData attribútumoknak. A <span class="app application">kinit</span> és <span class="app application">klist</span> segédprogramokkal tesztelheti, hogy a felhasználó valóban kap-e jegyet.</p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Ha a felhasználóobjektum már létezik, akkor a <span class="em emphasis">-x dn="..."</span> kapcsoló szükséges a Kerberos attribútumok hozzáadásához. Ellenkező esetben egy új <span class="em emphasis">résztvevőobjektum</span> jön létre a tartomány részfájában.</p>
+      </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="kerberos-ldap-secondary-kdc"><div class="inner">
+<div class="hgroup"><h2 class="title">Másodlagos KDC beállítása</h2></div>
+<div class="region"><div class="contents">
+<p class="para">A másodlagos KDC beállítása az LDAP-háttérprogram használatára hasonlóan történik a normál Kerberos adatbázist használó beállításához.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+          <p class="para">Első lépésként telepítse a szükséges csomagokat, adja ki a következő parancsot:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install krb5-kdc krb5-admin-server krb5-kdc-ldap</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Ezután szerkessze az <span class="file filename">/etc/krb5.conf</span> fájlt az LDAP-háttérprogram használata érdekében:</p>
+
+<div class="code"><pre class="contents ">[libdefaults]
+        default_realm = PÉLDA.HU
+
+...
+
+[realms]
+        PÉLDA.HU = {
+                kdc = kdc01.példa.hu
+                kdc = kdc02.példa.hu
+                admin_server = kdc01.példa.hu
+                admin_server = kdc02.példa.hu
+                default_domain = példa.hu
+                database_module = openldap_ldapconf
+        }
+
+...
+
+[domain_realm]
+        .példa.hu = PÉLDA.HU
+
+
+...
+
+[dbdefaults]
+        ldap_kerberos_container_dn = dc=példa,dc=hu
+
+[dbmodules]
+        openldap_ldapconf = {
+                db_library = kldap
+                ldap_kdc_dn = "cn=admin,dc=példa,dc=hu"
+
+                # this object needs to have read rights on
+                # the realm container, principal container and realm sub-trees
+                ldap_kadmind_dn = "cn=admin,dc=példa,dc=hu"
+
+                # this object needs to have read and write rights on
+                # the realm container, principal container and realm sub-trees
+                ldap_service_password_file = /etc/krb5kdc/service.keyfile
+                ldap_servers = ldaps://ldap01.példa.hu ldaps://ldap02.példa.hu
+                ldap_conns_per_server = 5
+        }
+</pre></div>
+
+
+        </li>
+<li class="steps">
+        
+      <p class="para">Hozzon létre stash fájlt az LDAP-hoz kapcsolódásra használt jelszóról:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo kdb5_ldap_util -D  cn=admin,dc=example,dc=com stashsrvpw -f \
+/etc/krb5kdc/service.keyfile cn=admin,dc=example,dc=com</span>
+</pre></div>
+      
+        </li>
+<li class="steps">
+
+          <p class="para">Ezután az <span class="em emphasis">elsődleges KDC-n</span> másolja át az <span class="file filename">/etc/krb5kdc/.k5.PÉLDA.HU</span> <span class="em emphasis">elsődleges kulcs</span> stash fájlt a másodlagos KDC-re. Ne feledje a fájlt titkosított kapcsolaton vagy fizikai adathordozón átmásolni.</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo scp /etc/krb5kdc/.k5.PÉLDA.HU geza@kdc02.példa.hu:~</span>
+<span class="cmd command">sudo mv .k5.PÉLDA.HU /etc/krb5kdc/</span>
+</pre></div>
+
+        <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">A <span class="em emphasis">PÉLDA.HU</span> helyére a tényleges tartományt írja.</p>
+        </div></div></div></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">
+          Back on the <span class="em emphasis">Secondary KDC</span>, (re)start the ldap
+	  server only,
+          </p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart slapd.service</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Végül indítsa el a <span class="app application">krb5-kdc</span> démont:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl start krb5-kdc.service</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">
+          Verify the two ldap servers (and kerberos by extension) are in sync.
+          </p>
+
+        </li>
+</ol></div></div>
+<p class="para">Ezzel a hálózatán működő redundáns KDC-kkel és a redundáns LDAP-kiszolgálókkal képes lesz a felhasználók hitelesítésére akkor is, ha az egyik LDAP-kiszolgáló, az egyik Kerberos-kiszolgáló, vagy egy LDAP-kiszolgáló és egy Kerberos-kiszolgáló is elérhetetlenné válik.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="kerberos-ldap-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Információforrások</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">A <a href="http://web.mit.edu/Kerberos/krb5-1.6/krb5-1.6.3/doc/krb5-admin.html#Configuring-Kerberos-with-OpenLDAP-back_002dend" class="ulink" title="http://web.mit.edu/Kerberos/krb5-1.6/krb5-1.6.3/doc/krb5-admin.html#Configuring-Kerberos-with-OpenLDAP-back_002dend"> Kerberos Admin Guide</a> további részleteket tartalmaz.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">
+          For more information on <span class="app application">kdb5_ldap_util</span> see 
+          <a href="http://web.mit.edu/Kerberos/krb5-1.6/krb5-1.6.3/doc/krb5-admin.html#Global-Operations-on-the-Kerberos-LDAP-Database" class="ulink" title="http://web.mit.edu/Kerberos/krb5-1.6/krb5-1.6.3/doc/krb5-admin.html#Global-Operations-on-the-Kerberos-LDAP-Database">
+          Section 5.6</a> and the 
+          <a href="http://manpages.ubuntu.com/manpages/bionic/en/man8/kdb5_ldap_util.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/bionic/en/man8/kdb5_ldap_util.8.html">kdb5_ldap_util man page</a>.
+          </p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">
+          Another useful link is the <a href="http://manpages.ubuntu.com/manpages/bionic/en/man5/krb5.conf.5.html" class="ulink" title="http://manpages.ubuntu.com/manpages/bionic/en/man5/krb5.conf.5.html">krb5.conf man page</a>.
+          </p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Ezeken kívül nézze még meg a <a href="https://help.ubuntu.com/community/Kerberos#kerberos-ldap" class="ulink" title="https://help.ubuntu.com/community/Kerberos#kerberos-ldap">Kerberos és LDAP</a> Ubuntu wiki oldalt.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="kerberos.html.hu" title="Kerberos">Előző</a><a class="nextlinks-next" href="sssd-ad.html.hu" title="SSSD and Active Directory">Következő</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address
+          so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p>
+</div>
+</div>
+</body>
+</html>

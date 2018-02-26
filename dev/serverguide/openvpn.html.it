@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>OpenVPN</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = "index.html.en";
+        } else {
+                window.location = href.replace(/\.html.*/, ".html.en");
+        }
+         return false;
+      }
+      function browserPreferredLanguage() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = href;
+        } else {
+                window.location = href.replace(/\.html.*/, ".html");
+        }
+        return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html.it" title="Guida a Ubuntu Server">Guida a Ubuntu Server</a> » <a class="trail" href="vpn.html.it" title="VPN">VPN</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="vpn.html.it" title="VPN">Indietro</a><a class="nextlinks-next" href="other-useful-applications.html.it" title="Altre utili applicazioni">Avanti</a>
+</div>
+<div class="hgroup"><h1 class="title">OpenVPN</h1></div>
+<div class="region">
+<div class="contents"><p class="para">Nel caso in cui si richieda qualcosa in più delle chiavi pre-condivise, <span class="app application">OpenVPN</span> offre una facile configurazione e utilizza una infrastruttura a chiave pubblica (Public Key Infrastructure, PKI) grazie a certificati SSL/TLS per l'autenticazione e lo scambio di chiavi tra server e client della VPN. <span class="app application">OpenVPN</span> si può utilizzare in modalità router o bridge e ed è configurabile per l'uso di UDP o TCP. Può essere configurato anche il numero di porta, ma quella ufficiale utilizzata per tutte le comunicazioni è la 1194. Le implementazioni client di VPN sono disponibili praticamente per qualunque SO, incluse tutte le distribuzioni Linux, OS X, Windows e i router WLAN basati su OpenWRT.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="openvpn.html.it#openvpn-server-installation" title="Installazione del server">Installazione del server</a></li>
+<li class="links"><a class="xref" href="openvpn.html.it#openvpn-pki-setup" title="Configurazione della Infrastruttura a chiave pubblica">Configurazione della Infrastruttura a chiave pubblica</a></li>
+<li class="links"><a class="xref" href="openvpn.html.it#openvpn-simple-server-configuration" title="Semplice configurazione del server">Semplice configurazione del server</a></li>
+<li class="links"><a class="xref" href="openvpn.html.it#openvpn-simple-client-configuration" title="Semplice configurazione del client">Semplice configurazione del client</a></li>
+<li class="links"><a class="xref" href="openvpn.html.it#openvpn-first-troubleshooting" title="Prima risoluzione di problemi">Prima risoluzione di problemi</a></li>
+<li class="links"><a class="xref" href="openvpn.html.it#openvpn-advanced-config" title="Configurazione avanzata">Configurazione avanzata</a></li>
+<li class="links"><a class="xref" href="openvpn.html.it#openvpn-client-implementations" title="Implementazioni software per client">Implementazioni software per client</a></li>
+<li class="links"><a class="xref" href="openvpn.html.it#openvpn-references" title="Riferimenti">Riferimenti</a></li>
+</ul></div>
+<div class="sect2 sect" id="openvpn-server-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Installazione del server</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Per installare <span class="app application">openvpn</span>, in un terminale, digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install openvpn easy-rsa</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="openvpn-pki-setup"><div class="inner">
+<div class="hgroup"><h2 class="title">Configurazione della Infrastruttura a chiave pubblica</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">Il primo passo nella configurazione di OpenVPN è stabilire una PKI (Public Key Infrastructure), che consiste di:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist"><p class="para">un certificato separato (noto come chiave pubblica) e una chiave privata per il server e ogni client, e</p></li>
+<li class="list itemizedlist"><p class="para">un certificato master ottenuto da una Autorità di Certificazione (CA) e relativa chiave, utilizzati per firmare i certificati del server e dei client.</p></li>
+</ul></div>
+<p class="para">OpenVPN supporta l'autenticazione bidirezionale basata su certificati e questo significa che il client deve autenticare il certificato del server e il server deve autenticare il certificato del client, prima che sia stabilita una relazione di fiducia reciproca.</p>
+<p class="para">Sia il server che il client si autenticheranno reciprocamente prima controllando che il certificato presentato sia firmato dall'autorità di certificazione (CA) e quindi verificando le informazioni contenute nell'intestazione del certificato appena autenticato, quali il nome comune o il tipo di certificato (client o server).</p>
+</div>
+<div class="sect3 sect" id="openvpn-ca-setup"><div class="inner">
+<div class="hgroup"><h3 class="title">Impostazione dell'Autorità di Certificazione</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Per impostare la propria Autorità di Certificazione (CA) e generare certificati e chiavi per un server e più client OpenVPN, per prima cosa copiare la directory <span class="file filename">easy-rsa</span> in <span class="file filename">/etc/openvpn</span>. Questo assicura di non perdere tutte le modifiche agli script quando il pacchetto verrà aggiornato: in un terminale, diventare utente root e:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">mkdir /etc/openvpn/easy-rsa/</span>
+<span class="cmd command">cp -r /usr/share/easy-rsa/* /etc/openvpn/easy-rsa/</span>
+</pre></div>
+<p class="para">Modificare quindi il file <span class="file filename">/etc/openvpn/easy-rsa/vars</span> adattando al proprio ambiente quanto segue:</p>
+<div class="code"><pre class="contents ">export KEY_COUNTRY="US"
+export KEY_PROVINCE="NC"
+export KEY_CITY="Winston-Salem"
+export KEY_ORG="Example Company"
+export KEY_EMAIL="steve@example.com"
+export KEY_CN=MyVPN
+export KEY_ALTNAMES=AltMyVPN
+export KEY_NAME=MyVPN
+export KEY_OU=MyVPN
+
+
+</pre></div>
+<p class="para">Digitare il seguente comando per generare il certificato master dell'Autorità di Certificazione (CA) e la chiave:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">cd /etc/openvpn/easy-rsa/</span>
+<span class="cmd command">source vars</span>
+<span class="cmd command">./clean-all</span>
+<span class="cmd command">./build-ca</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="openvpn-server-cert"><div class="inner">
+<div class="hgroup"><h3 class="title">Certificati server</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Successivamente, verrà generato un certificato e una chiave privata per il server:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">./build-key-server myservername</span>
+</pre></div>
+<p class="para">Come nel passo precedente, molti parametri possono essere lasciati come predefiniti. Due altre domande richiedono risposte positive, «Sign the certificate? [y/n]» e «1 out of 1 certificate requests certified, commit? [y/n]».</p>
+<p class="para">È necessario generare i parametri Diffie-Hellman per il server OpenVPN:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">./build-dh</span>
+</pre></div>
+<p class="para">Tutti i certificati e le chiavi sono stati generati nella sottodirectory keys/: la comune procedura prevede che siano copiati in /etc/openvpn/:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">cd keys/</span>
+<span class="cmd command">cp myservername.crt myservername.key ca.crt dh2048.pem /etc/openvpn/</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="openvpn-client-cert"><div class="inner">
+<div class="hgroup"><h3 class="title">Certificati client</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Il client VPN necessita anche di un certificato per autenticarsi sul server: di solito viene creato un diverso certificato per ogni client. Per creare il certificato, come utente root digitare quanto segue in un terminale:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">cd /etc/openvpn/easy-rsa/</span>
+<span class="cmd command">source vars</span>
+<span class="cmd command">./build-key client1</span>
+</pre></div>
+<p class="para">Copiare i seguenti file nel client, utilizzando un metodo sicuro:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist"><p class="para">/etc/openvpn/ca.crt</p></li>
+<li class="list itemizedlist"><p class="para">/etc/openvpn/easy-rsa/keys/client1.crt</p></li>
+<li class="list itemizedlist"><p class="para">/etc/openvpn/easy-rsa/keys/client1.key</p></li>
+</ul></div>
+<p class="para">Dato che i certificati client e le chiavi sono richieste solo sul client, è opportuno rimuoverli dal server.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="openvpn-simple-server-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Semplice configurazione del server</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Con l'installazione di <span class="app application">OpenVPN</span> si sono ottenuti questi file di configurazione d'esempio (e molti di più, se si controlla):</p>
+<div class="code"><pre class="contents ">root@server:/# ls -l /usr/share/doc/openvpn/examples/sample-config-files/
+total 68
+-rw-r--r-- 1 root root 3427 2011-07-04 15:09 client.conf
+-rw-r--r-- 1 root root 4141 2011-07-04 15:09 server.conf.gz
+</pre></div>
+<p class="para">Per prima cosa copiare e decomprimere unpacking server.conf.gz in /etc/openvpn/server.conf.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo cp /usr/share/doc/openvpn/examples/sample-config-files/server.conf.gz /etc/openvpn/</span>
+<span class="cmd command">sudo gzip -d /etc/openvpn/server.conf.gz</span>
+</pre></div>
+<p class="para">Modificare <span class="file filename">/etc/openvpn/server.conf</span> per assicurarsi che le seguenti righe puntino ai certificati e alle chiavi create come spiegato nella sezione precedente.</p>
+<div class="code"><pre class="contents ">ca ca.crt
+cert myservername.crt
+key myservername.key
+dh dh2048.pem
+</pre></div>
+<p class="para">Modificare <span class="file filename">/etc/sysctl.conf</span> e togliere il commento alla seguente riga per abilitare l'inoltro con IP:</p>
+<div class="code"><pre class="contents ">#net.ipv4.ip_forward=1
+</pre></div>
+<p class="para">Quindi ricaricare sysctl.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo sysctl -p /etc/sysctl.conf</span>
+</pre></div>
+<p class="para">
+       That is the minimum you have to configure to get a working OpenVPN server.
+       You can use all the default settings in the sample server.conf file. Now start the server. You will find logging and error messages in your via journal.
+       Dependin on what you look for:
+        </p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo journalctl -xe</span>
+</pre></div>
+<p class="para">
+If you started a templatized service openvpn@server you can filter for this particular message source with:
+        </p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo journalctl --identifier ovpn-server</span>
+</pre></div>
+<p class="para">
+Be aware that the "systemctl start openvpn" is not starting your openvpn you just defined.
+Openvpn uses templatized systemd jobs, openvpn@CONFIGFILENAME.
+So if for example your configuration file is "server.conf" your service is called openvpn@server.
+You can run all kind of service and systemctl commands like start/stop/enable/disable/preset against a templatized service like openvpn@server.
+        </p>
+<div class="code"><pre class="contents ">ubuntu@testopenvpn-server:~$ sudo systemctl start openvpn@server
+
+ubuntu@testopenvpn-server:~$ sudo systemctl status openvpn@server
+. openvpn@server.service - OpenVPN connection to server
+Loaded: loaded (/lib/systemd/system/openvpn@.service; enabled; vendor preset: enabled)
+      Active: active (running) since Tue 2016-04-12 08:51:14 UTC; 1s ago
+        Docs: man:openvpn(8)
+              https://community.openvpn.net/openvpn/wiki/Openvpn23ManPage
+              https://community.openvpn.net/openvpn/wiki/HOWTO
+     Process: 1573 ExecStart=/usr/sbin/openvpn --daemon ovpn-%i --status /run/openvpn/%i.status 10 --cd /etc/openvpn --script-security 2 --config /etc/openvpn/%i.conf --writep
+    Main PID: 1575 (openvpn)
+       Tasks: 1 (limit: 512)
+      CGroup: /system.slice/system-openvpn.slice/openvpn@server.service
+              |-1575 /usr/sbin/openvpn --daemon ovpn-server --status /run/openvpn/server.status 10 --cd /etc/openvpn --script-security 2 --config /etc/openvpn/server.conf --wr
+
+Apr 12 08:51:14 testopenvpn-server ovpn-server[1575]: /sbin/ip route add 10.8.0.0/24 via 10.8.0.2
+Apr 12 08:51:14 testopenvpn-server ovpn-server[1575]: UDPv4 link local (bound): [undef]
+Apr 12 08:51:14 testopenvpn-server ovpn-server[1575]: UDPv4 link remote: [undef]
+Apr 12 08:51:14 testopenvpn-server ovpn-server[1575]: MULTI: multi_init called, r=256 v=256
+Apr 12 08:51:14 testopenvpn-server ovpn-server[1575]: IFCONFIG POOL: base=10.8.0.4 size=62, ipv6=0
+Apr 12 08:51:14 testopenvpn-server ovpn-server[1575]: ifconfig_pool_read(), in='client1,10.8.0.4', TODO: IPv6
+Apr 12 08:51:14 testopenvpn-server ovpn-server[1575]: succeeded -&gt; ifconfig_pool_set()
+Apr 12 08:51:14 testopenvpn-server ovpn-server[1575]: IFCONFIG POOL LIST
+Apr 12 08:51:14 testopenvpn-server ovpn-server[1575]: client1,10.8.0.4
+Apr 12 08:51:14 testopenvpn-server ovpn-server[1575]: Initialization Sequence Completed
+</pre></div>
+<p class="para">
+You can enable/disable various openvpn services on one system, but you could also let Ubuntu do the heavy lifting.
+There is config for AUTOSTART in /etc/default/openvpn.
+
+Allowed values are "all", "none" or space separated list of
+names of the VPNs. If empty, "all" is assumed.
+The VPN name refers to the VPN configutation file name.
+i.e. "home" would be /etc/openvpn/home.conf
+
+If you're running systemd, changing this variable will
+require running "systemctl daemon-reload" followed by
+a restart of the openvpn service (if you removed entries
+you may have to stop those manually)
+
+After "systemctl daemon-reload" a restart of the "generic" openvon will restart all dependent
+services that the generator in /lib/systemd/system-generators/openvpn-generator created for
+your conf files when you called daemon-reload.
+        </p>
+<p class="para">
+That is the minimum you have to configure to get a working OpenVPN server.
+You can use all the default settings in the sample server.conf file. Now start the server. You will find logging and error messages in your journal.
+        </p>
+<p class="para">Ora controllare se OpenVPN ha creato un'interfaccia tun0</p>
+<div class="code"><pre class="contents ">root@server:/etc/openvpn# ifconfig tun0
+tun0      Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+          inet addr:10.8.0.1  P-t-P:10.8.0.2  Mask:255.255.255.255
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+[...]
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="openvpn-simple-client-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Semplice configurazione del client</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Ci sono diverse implementazioni <span class="app application">OpenVPN</span> per client, con e senza GUI: maggiori informazioni sui client verranno fornite in una successiva sezione. Per il momento verrà utilizzato <span class="app application">OpenVPN</span> client per Ubuntu, che è lo stesso eseguibile usato per il server. È pertanto necessario installare nuovamente il pacchetto openvpn sul client:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install openvpn</span>
+</pre></div>
+<p class="para">Questa volta copiare il file di configurazione d'esempio client.conf in /etc/openvpn/.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo cp /usr/share/doc/openvpn/examples/sample-config-files/client.conf /etc/openvpn/</span>
+</pre></div>
+<p class="para">Copiare le chiavi client e il certificato della CA, creati come indicato in una precedente sezione, per esempio in /etc/openvpn/ e modificare <span class="file filename">/etc/openvpn/client.conf</span> per assicurarsi che le righe seguenti puntino a quei file; se i file sono in /etc/openvpn/ si può omettere il percorso.</p>
+<div class="code"><pre class="contents ">ca ca.crt
+cert client1.crt
+key client1.key
+</pre></div>
+<p class="para">È necessario almeno specificare il nome o l'indirizzo del server Open VPN; assicurarsi che la parola chiave «client» sia nella configurazione: è questo che abilita la modalità client.</p>
+<div class="code"><pre class="contents ">client
+remote vpnserver.example.com 1194
+</pre></div>
+<p class="para">Assicurarsi anche di specificare i nomi dei file chiave copiati dal server</p>
+<div class="code"><pre class="contents ">ca ca.crt
+cert client1.crt
+key client1.key
+</pre></div>
+<p class="para">Ora avviare il client OpenVPN:</p>
+<div class="code"><pre class="contents ">ubuntu@testopenvpn-client:~$ sudo systemctl start openvpn@client
+ubuntu@testopenvpn-client:~$ sudo systemctl status  openvpn@client
+. openvpn@client.service - OpenVPN connection to client
+   Loaded: loaded (/lib/systemd/system/openvpn@.service; disabled; vendor preset: enabled)
+   Active: active (running) since Tue 2016-04-12 08:50:50 UTC; 3s ago
+     Docs: man:openvpn(8)
+           https://community.openvpn.net/openvpn/wiki/Openvpn23ManPage
+           https://community.openvpn.net/openvpn/wiki/HOWTO
+ Process: 1677 ExecStart=/usr/sbin/openvpn --daemon ovpn-%i --status /run/openvpn/%i.status 10 --cd /etc/openvpn --script-security 2 --config /etc/openvpn/%i.conf --writep
+Main PID: 1679 (openvpn)
+   Tasks: 1 (limit: 512)
+  CGroup: /system.slice/system-openvpn.slice/openvpn@client.service
+          |-1679 /usr/sbin/openvpn --daemon ovpn-client --status /run/openvpn/client.status 10 --cd /etc/openvpn --script-security 2 --config /etc/openvpn/client.conf --wr
+
+Apr 12 08:50:52 testopenvpn-client ovpn-client[1679]: OPTIONS IMPORT: --ifconfig/up options modified
+Apr 12 08:50:52 testopenvpn-client ovpn-client[1679]: OPTIONS IMPORT: route options modified
+Apr 12 08:50:52 testopenvpn-client ovpn-client[1679]: ROUTE_GATEWAY 192.168.122.1/255.255.255.0 IFACE=eth0 HWADDR=52:54:00:89:ca:89
+Apr 12 08:50:52 testopenvpn-client ovpn-client[1679]: TUN/TAP device tun0 opened
+Apr 12 08:50:52 testopenvpn-client ovpn-client[1679]: TUN/TAP TX queue length set to 100
+Apr 12 08:50:52 testopenvpn-client ovpn-client[1679]: do_ifconfig, tt-&gt;ipv6=0, tt-&gt;did_ifconfig_ipv6_setup=0
+Apr 12 08:50:52 testopenvpn-client ovpn-client[1679]: /sbin/ip link set dev tun0 up mtu 1500
+Apr 12 08:50:52 testopenvpn-client ovpn-client[1679]: /sbin/ip addr add dev tun0 local 10.8.0.6 peer 10.8.0.5
+Apr 12 08:50:52 testopenvpn-client ovpn-client[1679]: /sbin/ip route add 10.8.0.1/32 via 10.8.0.5
+Apr 12 08:50:52 testopenvpn-client ovpn-client[1679]: Initialization Sequence Completed
+</pre></div>
+<p class="para">Controllare se è stata creata un'interfaccia tun0:</p>
+<div class="code"><pre class="contents ">root@client:/etc/openvpn# ifconfig tun0
+tun0 Link encap:UNSPEC HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:10.8.0.6 P-t-P:10.8.0.5 Mask:255.255.255.255
+          UP POINTOPOINT RUNNING NOARP MULTICAST MTU:1500 Metric:1
+</pre></div>
+<p class="para">Controllare se è possibile inviare un ping al server OpenVPN</p>
+<div class="code"><pre class="contents ">root@client:/etc/openvpn# ping 10.8.0.1
+PING 10.8.0.1 (10.8.0.1) 56(84) bytes of data.
+64 bytes from 10.8.0.1: icmp_req=1 ttl=64 time=0.920 ms
+</pre></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">Il server OpenVPN usa sempre il primo indirizzo utilizzabile nella rete client e solo se quell'IP è raggiungibile con un ping; per esempio, se è stata configurata come maschera della rete client una /24, verrà usato l'indirizzo .1. L'indirizzo P-t-P presente nell'output di ifconfig sopra riportato normalmente non risponde alle richieste di ping.</p>
+        </div></div></div></div>
+<p class="para">Controllare i propri percorsi:</p>
+<div class="code"><pre class="contents ">root@client:/etc/openvpn# netstat -rn
+Kernel IP routing table
+Destination Gateway Genmask Flags MSS Window irtt Iface
+10.8.0.5 0.0.0.0 255.255.255.255 UH 0 0 0 tun0
+10.8.0.1 10.8.0.5 255.255.255.255 UGH 0 0 0 tun0
+192.168.42.0 0.0.0.0 255.255.255.0 U 0 0 0 eth0
+0.0.0.0 192.168.42.1 0.0.0.0 UG 0 0 0 eth0
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="openvpn-first-troubleshooting"><div class="inner">
+<div class="hgroup"><h2 class="title">Prima risoluzione di problemi</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Se quanto sopra non funziona, controllare questo:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist"><p class="para">
+Check your journal, e.g. journalctl --identifier ovpn-server (for server.conf)
+          </p></li>
+<li class="list itemizedlist"><p class="para">Controllare di aver specificato correttamente i nomi dei file chiave in client.conf e server .conf.</p></li>
+<li class="list itemizedlist"><p class="para">
+Can the client connect to the server machine? Maybe a firewall is blocking access? Check journal on server.
+          </p></li>
+<li class="list itemizedlist"><p class="para">Sia il client che il server devono usare lo stesso protocollo e la medesima porta, per es. UDP porta 1194, controllare le opzioni di configurazione di porta e protocollo</p></li>
+<li class="list itemizedlist"><p class="para">Per quanto riguarda la compressione, client e server devono utilizzare la stessa configurazione; vedere l'opzione di configurazione 
+comp-lzo</p></li>
+<li class="list itemizedlist"><p class="para">Per quanto riguarda la modalità bridged (a ponte) vs. routed (instradata), client e server devono usare la stessa configurazione;  vedere l'opzione di configurazione server vs server-bridge</p></li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="openvpn-advanced-config"><div class="inner">
+<div class="hgroup"><h2 class="title">Configurazione avanzata</h2></div>
+<div class="region">
+<div class="contents"></div>
+<div class="sect3 sect" id="openvpn-routed-server-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">Configurazione avanzata della rete virtuale privata instradata (routed VPN) su server</h3></div>
+<div class="region"><div class="contents">
+<p class="para">L'esempio sopra riportato è una VPN funzionante molto semplice. Il client può accedere ai servizi sulla macchina del server VPN attraverso un tunnel cifrato. Se ci si vuole connettere ad altri server, o a qualsiasi altra cosa, in altre reti, basta inserire i percorsi ai client. Per esempio, se la rete aziendale può essere riassunta nella rete 192.168.0.0/16, è possibile indicare questo percorso ai client, ma sarà necessario cambiare anche l'instradamento per il ritorno: i server devono conoscere un percorso della rete client VPN.</p>
+<p class="para">In alternativa è possibile inviare un gateway predefinito a tutti i client per indirizzare il loro traffico internet prima al gateway VPN e da qui, attraverso il firewall aziendale, verso Internet. Questa sezione mostra alcune opzioni possibili.</p>
+<p class="para">Inviare i percorsi al client per permettergli di raggiungere altre sottoreti private che stanno dietro il server. Tenere presente che queste sottoreti private devono conoscere anche il percorso del gruppo di indirizzi del client OpenVPN (10.8.0.0/24) per tornare al server OpenVPN.</p>
+<div class="code"><pre class="contents ">push "route 10.0.0.0 255.0.0.0"
+</pre></div>
+<p class="para">Se abilitata, questa direttiva configura tutti i client in modo che reindirizzino il loro gateway di rete predefinito attraverso la VPN, facendo in modo che sia tutto il traffico IP, sia la navigazione web, sia le ricerche del DNS passino attraverso la VPN. La macchina server OpenVPN o il firewall centrale potrebbero necessitare di una traduzione degli indirizzi di rete (NAT) dell'interfaccia TUN/TAP a internet in modo da farlo funzionare a dovere.</p>
+<div class="code"><pre class="contents ">push "redirect-gateway def1 bypass-dhcp"
+</pre></div>
+<p class="para">Configurare la modalità server e fornire una sottorete VPN per permettere a OpenVPN di trarvi gli indirizzi client. Il server prenderà 10.8.0.1 per sé stesso, il resto sarà reso disponibile ai client, ognuno dei quali sarà in grado di raggiungere il server a 10.8.0.1. Commentare questa riga se si sta effettuando un ponte ethernet.</p>
+<div class="code"><pre class="contents ">server 10.8.0.0 255.255.255.0
+</pre></div>
+<p class="para">Mantenere un registro delle associazioni di client e indirizzi IP virtuali in questo file. Se OpenVPN cade o è riavviato, per riconnettere i client può essere assegnato lo stesso indirizzo IP virtuale dal gruppo che è stato assegnato in precedenza.</p>
+<div class="code"><pre class="contents ">ifconfig-pool-persist ipp.txt
+</pre></div>
+<p class="para">Inviare i server DNS al client.</p>
+<div class="code"><pre class="contents ">push "dhcp-option DNS 10.0.0.2"
+push "dhcp-option DNS 10.1.0.2"
+</pre></div>
+<p class="para">Permettere la comunicazione tra client.</p>
+<div class="code"><pre class="contents ">client-to-client
+</pre></div>
+<p class="para">Abilitare la compressione nel collegamento VPN.</p>
+<div class="code"><pre class="contents ">comp-lzo
+</pre></div>
+<p class="para">
+The <span class="em emphasis">keepalive</span> directive causes ping-like
+messages to be sent back and forth over
+the link so that each side knows when
+the other side has gone down.
+Ping every 1 second, assume that remote
+peer is down if no ping received during
+a 3 second time period.
+</p>
+<div class="code"><pre class="contents ">keepalive 1 3
+</pre></div>
+<p class="para">È una buona idea ridurre i privilegi del demone OpenVPN dopo l'inizializzazione.</p>
+<div class="code"><pre class="contents ">user nessuno
+group nessungruppo
+</pre></div>
+<p class="para">OpenVPN 2.0 include una funzionalità che permette al server OpenVPN di ottenere in sicurezza nome_utente e password da un client che si sta connettendo e utilizzare quella informazione come base per autenticare il client. Per utilizzare questo metodo di autenticazione bisogna per prima cosa aggiungere la direttiva auth-user-pass alla configurazione del client. Essa ordina al client OpenVPN di interrogare l'utente per ottenere nome_utente e password, trasferendoli al server attraverso il canale sicuro TLS.</p>
+<div class="code"><pre class="contents "># client config!
+auth-user-pass
+</pre></div>
+<p class="para">Questo comunica al server OpenVPN di convalidare il nome_utente e la password inseriti dai client utilizzando il modulo di autenticazione PAM. Utile se si è centralizzata l'autenticazione, per esempio, con Kerberos.</p>
+<div class="code"><pre class="contents ">plugin /usr/lib/openvpn/openvpn-plugin-auth-pam.so login
+</pre></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"> <p class="para">Per ulteriori suggerimenti sulla sicurezza, leggere la <a href="http://openvpn.net/index.php/open-source/documentation/howto.html#security" class="ulink" title="http://openvpn.net/index.php/open-source/documentation/howto.html#security">guida al rafforzamento della sicurezza</a> di OpenVPN (in lingua inglese).</p>
+</div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="openvpn-bridged-server-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">Configurazione avanzata della rete privata virtuale (bridged VPN) sul server</h3></div>
+<div class="region">
+<div class="contents"><p class="para"><span class="app application">OpenVPN</span> può essere impostato sia per la modalità di rete privata virtuale (VPN) instradata (routed) sia per quella a ponte (bridged). A volte ci si riferisce a questo metodo come una rete privata virtuale di livello 2 OSI in contrapposizione a una di livello 3. In una rete a ponte, tutte le strutture di livello 2 (per es., tutte le strutture ethernet) sono inviate ai partner VPN, mentre in una rete instradata lo sono solo i pacchetti di livello 3. Nella modalità a ponte tutto il traffico, incluso quello tradizionalmente locale di una LAN, come le trasmissioni in rete locale, le richieste DHCP, ARP, ecc., è inviato ai partner VPN, mentre in modalità instradata verrebbe filtrato.</p></div>
+<div class="sect4 sect" id="openvpn-bridged-server-configuration-interface"><div class="inner">
+<div class="hgroup"><h4 class="title">Preparare la configurazione dell'interfaccia per il collegamento a ponte nel server</h4></div>
+<div class="region"><div class="contents">
+<p class="para">Controllare di avere installato il pacchetto bridge-utils:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install bridge-utils</span>
+</pre></div>
+<p class="para">Prima di configurare OpenVPN in modalità a ponte è necessario modificare la configurazione dell'interfaccia. Se il server ha un'interfaccia eth0 connessa a internet e una eth1 connessa alla LAN sulla quale si vuole effettuare il collegamento a ponte, il file /etc/network/interfaces sarà simile a questo:</p>
+<div class="code"><pre class="contents ">auto eth0
+iface eth0 inet static
+  address 1.2.3.4
+  netmask 255.255.255.248
+  default 1.2.3.1
+
+auto eth1
+iface eth1 inet static
+  address 10.0.0.4
+  netmask 255.255.255.0
+</pre></div>
+<p class="para">Questa semplice configurazione dell'interfaccia deve essere modificata in una modalità a ponte in cui la configurazione dell'interfaccia eth1 viene cambiata nella nuova interfaccia br0. Bisogna inoltre configurare br0 in modo che faccia il ponte di eth1, e assicurarsi che quest'ultima sia sempre in modalità promiscua: questo istruisce l'interfaccia di inoltrare tutte le strutture ethernet alla pila IP.</p>
+<div class="code"><pre class="contents ">auto eth0
+iface eth0 inet static
+  address 1.2.3.4
+  netmask 255.255.255.248
+  default 1.2.3.1
+
+auto eth1
+iface eth1 inet manual
+  up ip link set $IFACE up promisc on
+
+auto br0
+iface br0 inet static
+  address 10.0.0.4
+  netmask 255.255.255.0
+  bridge_ports eth1
+</pre></div>
+<p class="para">A questo punto è necessario aprire il bridge. Non tutto potrebbe funzionare come ci si aspetta e si potrebbe perdere la connessione remota: è necessario pertanto assicurarsi di avere un accesso locale per poter risolvere i problemi.</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo ifdown eth1 &amp;&amp; sudo ifup -a</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect4 sect" id="openvpn-bridged-server-configuration-server"><div class="inner">
+<div class="hgroup"><h4 class="title">Preparare la configurazione del server per il bridging</h4></div>
+<div class="region"><div class="contents">
+<p class="para">Modificare il file <span class="file filename">/etc/openvpn/server.conf</span> cambiando le seguenti opzioni:</p>
+<div class="code"><pre class="contents ">;dev tun
+dev tap
+up "/etc/openvpn/up.sh br0 eth1"
+;server 10.8.0.0 255.255.255.0
+server-bridge 10.0.0.4 255.255.255.0 10.0.0.128 10.0.0.254
+</pre></div>
+<p class="para">Successivamente, creare uno script di supporto per aggiungere l'interfaccia <span class="em emphasis">tap</span> al ponte e per assicurarsi che eth1 sia in modalità promiscua. Creare <span class="file filename">/etc/openvpn/up.sh</span>:</p>
+<div class="code"><pre class="contents ">#!/bin/sh
+
+BR=$1
+ETHDEV=$2
+TAPDEV=$3
+
+/sbin/ip link set "$TAPDEV" up
+/sbin/ip link set "$ETHDEV" promisc on
+/sbin/brctl addif $BR $TAPDEV
+</pre></div>
+<p class="para">Quindi renderlo eseguibile:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chmod 755 /etc/openvpn/up.sh</span>
+</pre></div>
+<p class="para">Una volta configurato il server, riavviare <span class="app application">openvpn</span> digitando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart openvpn@server</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect4 sect" id="openvpn-client-configuration"><div class="inner">
+<div class="hgroup"><h4 class="title">Configurazione del client</h4></div>
+<div class="region"><div class="contents">
+<p class="para">Installare <span class="app application">openvpn</span> sul client:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install openvpn</span>
+</pre></div>
+<p class="para">Configurato il server e copiati i certificati del client nella directory <span class="file filename">/etc/openvpn/</span>, creare un file di configurazione per il client copiando l'esempio. Nel computer client, da un terminale, digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo cp /usr/share/doc/openvpn/examples/sample-config-files/client.conf /etc/openvpn</span>
+</pre></div>
+<p class="para">Ora modificare <span class="file filename">/etc/openvpn/client.conf</span> sistemando le seguenti opzioni:</p>
+<div class="code"><pre class="contents ">dev tap
+;dev tun
+ca ca.crt
+cert client1.crt
+key client1.key
+</pre></div>
+<p class="para">Infine, riavviare <span class="app application">openvpn</span>:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart openvpn@client</span>
+</pre></div>
+<p class="para">Ora dovrebbe essere possibile connettersi alla rete LAN remota attraverso VPN.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="openvpn-client-implementations"><div class="inner">
+<div class="hgroup"><h2 class="title">Implementazioni software per client</h2></div>
+<div class="region">
+<div class="contents"></div>
+<div class="sect3 sect" id="openvpn-client-networkmanager"><div class="inner">
+<div class="hgroup"><h3 class="title">Linux Network-Manager di interfaccia grafica (GUI) per OpenVPN</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Molte distribuzioni Linux, tra cui le varianti di Ubuntu desktop, vengono rilasciate con Network Manager, una gradevole interfaccia grafica per configurare le impostazioni di rete; può anche gestire le connessioni VPN. Assicurarsi di aver installato il pacchetto network-manager-openvpn. Di seguito è possibile vedere come l'installazione includa anche tutti gli altri pacchetti richiesti:</p>
+<div class="code"><pre class="contents ">root@client:~# apt install network-manager-openvpn
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following extra packages will be installed:
+  liblzo2-2 libpkcs11-helper1 network-manager-openvpn-gnome openvpn
+Suggested packages:
+  resolvconf
+The following NEW packages will be installed:
+  liblzo2-2 libpkcs11-helper1 network-manager-openvpn
+  network-manager-openvpn-gnome openvpn
+0 upgraded, 5 newly installed, 0 to remove and 631 not upgraded.
+Need to get 700 kB of archives.
+After this operation, 3,031 kB of additional disk space will be used.
+Do you want to continue [Y/n]?
+</pre></div>
+<p class="para">Per far caricare a network-manager i nuovi pacchetti installati, è necessario riavviarlo:</p>
+<div class="code"><pre class="contents ">root@client:~# restart network-manager
+network-manager start/running, process 3078
+</pre></div>
+<p class="para">Aprire l'interfaccia grafica (GUI) di Network Manager, selezionare la scheda VPN e fare clic sul pulsante «Aggiungi». Nella finestra di dialogo, selezionare OpenVPN come tipo di VPN e fare clic su «Crea». Nella finestra successiva, aggiungere il nome del server OpenVPN come «Gateway», impostare «Tipo» a «Certificati (TLS)», indirizzare «Certificato Utente» al proprio certificato, «Certificato CA» al proprio certificato CA e «Chiave Privata» al file della chiave privata. Utilizzare il pulsante «avanzate» per abilitare la compressione (per es. complzo), il dispositivo tap o utilizzare altre impostazioni del server. Ora provare a stabilire la connessione VPN.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="openvpn-client-osx"><div class="inner">
+<div class="hgroup"><h3 class="title">OpenVPN con interfaccia grafica utente (GUI) per Mac OS X: Tunnelblick</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Tunnelblick è un'eccellente implementazione gratuita e open source di una interfaccia grafica (GUI) per OpenVPN per OS X. Il sito web del progetto è disponibile in <a href="http://code.google.com/p/tunnelblick/" class="ulink" title="http://code.google.com/p/tunnelblick/">http://code.google.com/p/tunnelblick/</a>. Scaricare l'ultimo programma di installazione per OS X ed effettuare l'installazione. È necessario quindi raggruppare il file di configurazione client.ovpn con i certificati e le chiavi in /Users/username/Library/Application Support/Tunnelblick/Configurations/ e lanciare Tunnelblick dalla cartella Applicazioni.</p>
+<div class="code"><pre class="contents "># sample client.ovpn for Tunnelblick
+client
+remote blue.example.com
+port 1194
+proto udp
+dev tun
+dev-type tun
+ns-cert-type server
+reneg-sec 86400
+auth-user-pass
+auth-nocache
+auth-retry interact
+comp-lzo yes
+verb 3
+ca ca.crt
+cert client.crt
+key client.key
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="openvpn-client-win"><div class="inner">
+<div class="hgroup"><h3 class="title">OpenVPN con interfaccia grafica (GUI) per Win 7</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Per prima cosa scaricare e installare il più recente <a href="http://www.openvpn.net/index.php/open-source/downloads.html" class="ulink" title="http://www.openvpn.net/index.php/open-source/downloads.html">programma di installazione Windows di OpenVPN</a>; al momento della creazione di questa guida era OpanVPN 2.3.2 e l'interfaccia grafica di gestione è inclusa con l'installatore dell'eseguibile Windows.</p>
+<p class="para">È necessario avviare il servizio OpenVPN andando su Start &gt; Computer &gt; Manage &gt; Services and Applications &gt; Services, quindi cercare il servizio OpenVPN e avviarlo. Successivamente, impostare la tipologia di avvio ad automatico. Quando si avvia OpenVPN MI GUI per la prima volta, è necessario farlo come amministratore:  fare clic col pulsante destro del mouse per visualizzare questa opzione.</p>
+<p class="para">È necessario salvare la configurazione di OpenVPN in un file di testo e memorizzarlo in C:\Program Files\OpenVPN\config\client.ovpn insieme al certificato CA. È possibile inserire il certificato dell'utente nella sua directory home,  come nel seguente esempio.</p>
+<div class="code"><pre class="contents "># C:\Program Files\OpenVPN\config\client.ovpn
+client
+server remoto.example.com
+port 1194
+proto udp
+dev tun
+dev-type tun
+ns-cert-type server
+reneg-sec 86400
+auth-user-pass
+auth-retry interact
+comp-lzo yes
+verb 3
+ca ca.crt
+cert "C:\\Users\\nome_utente\\Documenti\\openvpn\\client.crt"
+key "C:\\Users\\nome_utente\\Documenti\\openvpn\\client.key"
+management 127.0.0.1 1194
+management-hold
+management-query-passwords
+auth-retry interact
+; Impostare qui il nome dell'interfaccia di rete Windows TAP
+dev-node MyTAP
+
+</pre></div>
+<p class="para">Notare: Se non viene usata l'autenticazione ed è necessario eseguire il servizio senza interazione dell'utente, commentare le seguenti opzioni:</p>
+<div class="code"><pre class="contents ">auth-user-pass
+auth-retry interact
+management 127.0.0.1 1194
+management-hold
+management-query-passwords
+</pre></div>
+<p class="para">È possibile impostare il servizio Windows su «automatico».</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="openvpn-client-openwrt"><div class="inner">
+<div class="hgroup"><h3 class="title">OpenVPN per OpenWRT</h3></div>
+<div class="region"><div class="contents">
+<p class="para">OpenWRT è descritto come una distribuzione Linux per dispositivi embedded come router WLAN. Esistono alcuni tipi di router WLAN che possono essere aggiornati per eseguire OpenWRT. A seconda della memoria disponibile sul router OpenWRT, è possibile eseguire software come OpenVPN e, per esempio, costruire un piccolo ed economico router per gli uffici di una succursale con connettività VPN all'ufficio centrale. Ulteriori informazioni su OpenVPN riguardo OpenWRT possono essere trovate <a href="http://wiki.openwrt.org/doc/howto/vpn.overview" class="ulink" title="http://wiki.openwrt.org/doc/howto/vpn.overview">qui</a>, mentre a questo indirizzo è disponibile la pagina web del progetto OpenWRT: <a href="http://openwrt.org" class="ulink" title="http://openwrt.org">http://openwrt.org</a></p>
+<p class="para">Effettuare l'accesso al router OpenWRT e installare OpenVPN:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">opkg update</span>
+<span class="cmd command">opkg install openvpn</span>
+</pre></div>
+<p class="para">Controllare /etc/config/openvpn e inserirvi il file di configurazione del client, quindi copiare i certificati e le chiavi in /etc/openvpn/</p>
+<div class="code"><pre class="contents ">config openvpn client1
+        option enable 1
+        option client 1
+#       option dev tap
+        option dev tun
+        option proto udp
+        option ca /etc/openvpn/ca.crt
+        option cert /etc/openvpn/client.crt
+        option key /etc/openvpn/client.key
+        option comp_lzo 1
+</pre></div>
+<p class="para">
+Restart OpenVPN on OpenWRT router to pick up the config
+    </p>
+<p class="para">Occorre verificare se è necessario modificare le regole di instradamento e del firewall del proprio router.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="openvpn-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Riferimenti</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Per maggiori informazioni, consultare il sito web di <a href="http://openvpn.net/" class="ulink" title="http://openvpn.net/">OpenVPN</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">
+          <a href="http://openvpn.net/index.php/open-source/documentation/howto.html#security" class="ulink" title="http://openvpn.net/index.php/open-source/documentation/howto.html#security">Guida al miglioramento della sicurezza di OpenVPN</a> 
+          </p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Un'ottima risorsa è anche <a href="http://www.packtpub.com/openvpn/book" class="ulink" title="http://www.packtpub.com/openvpn/book">OpenVPN: Building and Integrating Virtual Private Networks</a> di Pakt (in inglese).</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="vpn.html.it" title="VPN">Indietro</a><a class="nextlinks-next" href="other-useful-applications.html.it" title="Altre utili applicazioni">Avanti</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address
+          so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p>
+</div>
+</div>
+</body>
+</html>

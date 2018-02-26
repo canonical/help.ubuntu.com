@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Apache Tomcat</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = "index.html.en";
+        } else {
+                window.location = href.replace(/\.html.*/, ".html.en");
+        }
+         return false;
+      }
+      function browserPreferredLanguage() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = href;
+        } else {
+                window.location = href.replace(/\.html.*/, ".html");
+        }
+        return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html.it" title="Guida a Ubuntu Server">Guida a Ubuntu Server</a> » <a class="trail" href="web-servers.html.it" title="Server web">Server web</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="ruby-on-rails.html.it" title="Ruby on Rails">Indietro</a><a class="nextlinks-next" href="databases.html.it" title="Database">Avanti</a>
+</div>
+<div class="hgroup"><h1 class="title">Apache Tomcat</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">Apache Tomcat è un «contenitore» web che consente di servire Java Servlets e applicazioni web JSP (Java Server Pages).</p>
+<p class="para">Ubuntu è dotato di pacchetti supportati per le versioni Tomcat 6 e 7. Tomcat 6 è la versione tradizionale, mentre Tomcat 7 è la versione corrente in cui sono implementate nuove caratteristiche: sono entrambe considerate stabili. Questa guida è focalizzata su Tomcat 7, ma diversi dettagli di configurazione sono validi per entrambe le versioni.</p>
+<p class="para">I pacchetti Tomcat in Ubuntu supportano due diverse modalità di esecuzione. È possibile installarli come una classica unica istanza globale, che viene lanciata all'avvio del sistema ed eseguita come utente senza privilegi tomcat7 (o tomcat6), ma è anche possibile installare istanze private che vengono eseguite con i diritti del proprio utente e che possono essere avviate e fermate dall'utente stesso. Questa seconda modalità è particolarmente utile nel contesto di un server di sviluppo nel quale più utenti hanno bisogno di testare le proprie istanze private Tomcat.</p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="tomcat.html.it#tomcat-installation" title="Installazione globale">Installazione globale</a></li>
+<li class="links"><a class="xref" href="tomcat.html.it#tomcat-configuration" title="Configurazione">Configurazione</a></li>
+<li class="links"><a class="xref" href="tomcat.html.it#tomcat-webapps" title="Usare le applicazioni web standard di Tomcat">Usare le applicazioni web standard di Tomcat</a></li>
+<li class="links"><a class="xref" href="tomcat.html.it#tomcat-user" title="Usare istanze private">Usare istanze private</a></li>
+<li class="links"><a class="xref" href="tomcat.html.it#tomcat-references" title="Riferimenti">Riferimenti</a></li>
+</ul></div>
+<div class="sect2 sect" id="tomcat-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Installazione globale</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Per installare il server Tomcat, digitare il seguente comando nel terminale:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install tomcat7</span>
+</pre></div>
+<p class="para">In questo modo verrà installato il server Tomcat con un'applicazione web predefinita che visualizza una semplice pagina «It works».</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="tomcat-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configurazione</h2></div>
+<div class="region">
+<div class="contents"><p class="para">I file di configurazione di Tomcat possono essere trovati in <span class="file filename">/etc/tomcat7</span>. In questa sezione verranno spiegate solo alcune modifiche, per maggiori informazioni, consultare la <a href="http://tomcat.apache.org/tomcat-7.0-doc/index.html" class="ulink" title="http://tomcat.apache.org/tomcat-7.0-doc/index.html">documentazione di Tomcat 7.0</a>.</p></div>
+<div class="sect3 sect" id="tomcat-configuration-ports"><div class="inner">
+<div class="hgroup"><h3 class="title">Modificare la porta predefinita</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Per impostazione predefinita Tomcat esegue un connettore HTTP sulla porta 8080 e un connettore AJP sulla porta 8009; potrebbe essere utile modificare queste porte per evitare conflitti con un'altra applicazione all'interno del sistema. Per fare questo, basta modificare le seguenti righe nel file <span class="file filename">/etc/tomcat7/server.xml</span>:</p>
+<div class="code"><pre class="contents ">&lt;Connector port="8080" protocol="HTTP/1.1" 
+               connectionTimeout="20000" 
+               redirectPort="8443" /&gt;
+...
+&lt;Connector port="8009" protocol="AJP/1.3" redirectPort="8443" /&gt;
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="tomcat-configuration-jvm"><div class="inner">
+<div class="hgroup"><h3 class="title">Cambiare la JVM usata</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Tomcat viene eseguito preferibilmente con OpenJDK JVM, quindi con la JVM di Sun e infine con altre JVM. Se sono installate diverse Macchine Virtuali (JVM), è possibile impostare quale usare modificando la variabile JAVA_HOME nel file <span class="file filename">/etc/default/tomcat7</span>:</p>
+<div class="code"><pre class="contents ">JAVA_HOME=/usr/lib/jvm/java-6-sun
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="tomcat-configuration-users"><div class="inner">
+<div class="hgroup"><h3 class="title">Dichiarare utenti e ruoli</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Nomi utente, password e ruoli (gruppi) possono essere definiti in un contenitore Servlet: questo è fatto nel file <span class="file filename">/etc/tomcat7/tomcat-users.xml</span>:</p>
+<div class="code"><pre class="contents ">&lt;role rolename="admin"/&gt;
+&lt;user username="tomcat" password="s3cret" roles="admin"/&gt;
+</pre></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="tomcat-webapps"><div class="inner">
+<div class="hgroup"><h2 class="title">Usare le applicazioni web standard di Tomcat</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Tomcat dispone di applicazioni web che è possibile installare per documentarsi, per l'amministrazione o solo per dimostrazione.</p></div>
+<div class="sect3 sect" id="tomcat-installation-docs"><div class="inner">
+<div class="hgroup"><h3 class="title">Documentazione di Tomcat</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Il pacchetto <span class="app application">tomcat7-docs</span> contiene la documentazione di Tomcat sotto forma di applicazione web a cui è possibile accedere all'indirizzo «http://IL_PROPRIO_SERVER:8080/docs». È possibile installare il pacchetto attraverso il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install tomcat7-docs</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="tomcat-installation-admin"><div class="inner">
+<div class="hgroup"><h3 class="title">Applicazioni web amministrative di Tomcat</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Il pacchetto <span class="app application">tomcat7-admin</span> contiene due applicazioni web che possono essere usate per amministrare il server Tomcat attraverso un'interfaccia web. È possibile installarle attraverso il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install tomcat7-admin</span>
+</pre></div>
+<p class="para">La prima applicazione è il cosiddetto <span class="em emphasis">manager</span>, a cui è possibile accedere dall'indirizzo «http://IL_PROPRIO_SERVER:8080/manager/html». È principalmente usata per ottenere informazioni sul server e riavviare le applicazioni web.</p>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="para">Per impostazione predefinita, l'accesso al <span class="em emphasis">manager</span> è protetto: è necessario definire un utente con il ruolo di «manager» nel file <span class="file filename">/etc/tomcat7/tomcat-users.xml</span> prima di potervi accedere:</p></div></div></div></div>
+<p class="para">La seconda applicazione è l'<span class="em emphasis">host-manager</span> a cui è possibile accedere attraverso l'indirizzo «http://IL_PROPRIO_SERVER:8080/host-manager/html». È possibile usarla per creare host virtuali dinamicamente.</p>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="para">Anche l'accesso all'applicazione <span class="em emphasis">host-manager</span> è protetto: è necessario definire un utente con il ruolo di «admin» nel file <span class="file filename">/etc/tomcat7/tomcat-users.xml</span> prima di potervi accedere.</p></div></div></div></div>
+<p class="para">Per motivi di sicurezza, l'utente tomcat7 non può scrivere nella directory <span class="file filename">/etc/tomcat7</span> e alcune di queste applicazioni di amministrazione (produzione delle applicazioni, creazione di host virtuali) necessitano di accesso in scrittura in tale directory. Per poter usare queste caratteristiche, eseguire i seguenti comandi per dare agli utenti del gruppo tomcat7 i permessi necessari:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chgrp -R tomcat7 /etc/tomcat7</span>
+<span class="cmd command">sudo chmod -R g+w /etc/tomcat7</span> 
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="tomcat-installation-examples"><div class="inner">
+<div class="hgroup"><h3 class="title">Applicazioni web di esempio</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Il pacchetto <span class="app application">tomcat7-examples</span> contiene due applicazioni web che possono essere usate per verificare o dimostrare le Servlet o le caratteristiche di JSP e sono accessibili dall'indirizzo «http://IL_PROPRIO_SERVER:8080/examples». Per installarle, usare il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install tomcat7-examples</span>
+</pre></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="tomcat-user"><div class="inner">
+<div class="hgroup"><h2 class="title">Usare istanze private</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">Tomcat è spesso usato in ambienti di sviluppo e di test dove usare una singola istanza all'interno del sistema non risulta molto utile ai molteplici utenti che sfruttano il sistema. I pacchetti di Tomcat sono dotati di strumenti che facilitano la creazione di istanze dedicate a ogni singolo utente, consentendo, all'interno del sistema, di eseguire (senza i privilegi di root) istanze private e separate usando però sempre le librerie di sistema.</p>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="para">È possibile eseguire le istanze globali e private in parallelo, basta solo che non usino le stesse porte TCP.</p></div></div></div></div>
+</div>
+<div class="sect3 sect" id="tomcat-user-install"><div class="inner">
+<div class="hgroup"><h3 class="title">Installare il supporto alle istanze private</h3></div>
+<div class="region"><div class="contents">
+<p class="para">È possibile installare tutto il necessario per eseguire istanze private attraverso il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install tomcat7-user</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="tomcat-user-create"><div class="inner">
+<div class="hgroup"><h3 class="title">Creare un'istanza privata</h3></div>
+<div class="region"><div class="contents">
+<p class="para">È possibile creare un'istanza privata attraverso il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">tomcat7-instance-create mia-istanza</span>
+</pre></div>
+<p class="para">In questo modo verrà creata una nuova directory <span class="file filename">mia-istanza</span> con tutte le sottodirectory e gli script necessari. Sarà poi possibile installare le librerie comuni nella sottodirectory <span class="file filename">lib/</span> e sviluppare le proprie applicazioni in <span class="file filename">webapps/</span>. Non vi è alcuna applicazione predefinita in questa directory.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="tomcat-user-config"><div class="inner">
+<div class="hgroup"><h3 class="title">Configurare un'istanza privata</h3></div>
+<div class="region"><div class="contents"><p class="para">I file di configurazione di Tomcat per un'istanza privata sono disponibili nella sottodirectory <span class="file filename">conf/</span>. È necessario modificare, per esempio, il file <span class="file filename">conf/server.xml</span> per modificare le porte predefinite usate dall'istanza privata di Tomcat per evitare conflitti con altre istanze che potrebbero essere in esecuzione.</p></div></div>
+</div></div>
+<div class="sect3 sect" id="tomcat-user-start"><div class="inner">
+<div class="hgroup"><h3 class="title">Avviare e fermare un'istanza privata</h3></div>
+<div class="region"><div class="contents">
+<p class="para">È possibile avviare un'istanza privata utilizzando il seguente comando (si presuppone che l'istanza sia posizionata nella directory <span class="file filename">mia-istanza</span>):</p>
+<div class="screen"><pre class="contents "><span class="cmd command">mia-istanza/bin/startup.sh</span>
+</pre></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="para">Controllare la sottodirectory <span class="file filename">logs/</span> per la presenza di errori. Se si nota un errore del tipo «<span class="em emphasis">java.net.BindException: Address already in use&lt;null&gt;:8080</span>», significa che la porta in uso è già utilizzata ed è necessario modificarla.</p></div></div></div></div>
+<p class="para">Per fermare un'istanza, usare il seguente comando (si presuppone che l'istanza sia posizionata nella directory <span class="file filename">mia-istanza</span>):</p>
+<div class="screen"><pre class="contents "><span class="cmd command">mia-istanza/bin/shutdown.sh</span>
+</pre></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="tomcat-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Riferimenti</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                      <p class="para">Per ulteriori informazioni, consultare il <a href="http://tomcat.apache.org/" class="ulink" title="http://tomcat.apache.org/">sito web di Apache Tomcat</a>.</p>
+                    </li>
+<li class="list itemizedlist">
+                      <p class="para"><a href="http://shop.oreilly.com/product/9780596003180.do" class="ulink" title="http://shop.oreilly.com/product/9780596003180.do">Tomcat: The Definitive Guide</a> è un'ottima risorsa per creare siti web con Tomcat.</p>
+                    </li>
+<li class="list itemizedlist">
+                      <p class="para">Per ulteriori libri, consultare la pagina <a href="http://wiki.apache.org/tomcat/Tomcat/Books" class="ulink" title="http://wiki.apache.org/tomcat/Tomcat/Books">Tomcat Books</a>.</p>
+                    </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="ruby-on-rails.html.it" title="Ruby on Rails">Indietro</a><a class="nextlinks-next" href="databases.html.it" title="Database">Avanti</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address
+          so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p>
+</div>
+</div>
+</body>
+</html>

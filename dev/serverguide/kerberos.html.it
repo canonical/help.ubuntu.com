@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Kerberos</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = "index.html.en";
+        } else {
+                window.location = href.replace(/\.html.*/, ".html.en");
+        }
+         return false;
+      }
+      function browserPreferredLanguage() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = href;
+        } else {
+                window.location = href.replace(/\.html.*/, ".html");
+        }
+        return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html.it" title="Guida a Ubuntu Server">Guida a Ubuntu Server</a> » <a class="trail" href="network-authentication.html.it" title="Autenticazione di rete">Autenticazione di rete</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-ldap.html.it" title="Samba e LDAP">Indietro</a><a class="nextlinks-next" href="kerberos-ldap.html.it" title="Kerberos e LDAP">Avanti</a>
+</div>
+<div class="hgroup"><h1 class="title">Kerberos</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para"><span class="app application">Kerberos</span> è un sistema di autenticazione di rete basato sul principio di un «agente» terzo fidato. Le altre due parti sono l'utente e il servizio a cui l'utente vuole autenticarsi. Non tutti i servizi e le applicazioni possono usare Kerberos, ma quelle che ne sono in grado, consentono di portare la rete a essere un SSO (Single Sign On).</p>
+<p class="para">Questa sezione spiega come installare e configurare un server Kerberos, fornendo alcuni esempi di configurazione.</p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="kerberos.html.it#kerberos-overview" title="Panoramica">Panoramica</a></li>
+<li class="links"><a class="xref" href="kerberos.html.it#kerberos-server" title="Server Kerberos">Server Kerberos</a></li>
+<li class="links"><a class="xref" href="kerberos.html.it#kerberos-secondary-kdc" title="KDC secondario">KDC secondario</a></li>
+<li class="links"><a class="xref" href="kerberos.html.it#kerberos-linux-client" title="Client Kerberos Linux">Client Kerberos Linux</a></li>
+<li class="links"><a class="xref" href="kerberos.html.it#kerberos-resources" title="Risorse">Risorse</a></li>
+</ul></div>
+<div class="sect2 sect" id="kerberos-overview"><div class="inner">
+<div class="hgroup"><h2 class="title">Panoramica</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Se si è nuovi di Kerberos, ci sono alcuni termini che è bene comprendere prima di procedere. Molti di questi termini potrebbero essere simili ad altri concetti di altri ambienti più familiari.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Principal</span>: qualsiasi utente, computer e servizio fornito da server deve essere definito come «Kerberos principal».</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Istanze</span>: usate dai principal di servizio e da quelli amministrativi.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Realms:</span>: il «reame» unico di controllo fornito dall'installazione di Kerberos. Occorre considerarlo alla stregua del dominio o del gruppo al quale appartengono sia l'host che l'utente. Per convenzione il reame dovrebbe essere scritto in maiuscolo: per impostazione predefinita Ubuntu usa come reame il dominio DNS convertito in maiuscolo (EXAMPLE.COM).</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Key Distribution Center</span> (KDC): consiste di tre parti, un database di tutti i principal, il server di autenticazione e il server che garantisce i ticket. Per ogni reame deve esserci almeno un KDC.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Ticket Granting Ticket</span> (TGT): emesso dallo «Authentication Server» (AS), il «Ticket Granting Ticket» è cifrato con la password dell'utente ed è quindi noto solo all'utente e al KDC.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Ticket Granting Server</span> (TGS): emette i ticket su richiesta dei client.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">Ticket:</span>: conferma l'identità dei due principal. Uno è l'utente e l'altro il servizio richiesto. Il ticket stabilisce una chiave di cifratura usata per garantire la sicurezza della comunicazione durante la fase di autenticazione.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para"><span class="em emphasis">File keytab</span>: sono file estratti dal KDC e contengono le chiavi di cifratura per un servizio o un host.</p>
+        </li>
+</ul></div>
+<p class="para">Per riassumere, un reame ha almeno un KDC, preferibilmente due per ridondanza, che contiene un database di Principal. Quando un utente accede in una workstation configurata per l'autenticazione Kerberos, il KDC emette un TGT (Ticket Granting Ticket). Se le informazioni fornite dall'utente corrispondono, l'utente viene autenticato e può richiedere i ticket per i servizi Kerberos da un TGS (Ticket Granting Server). I ticket consentono all'utente di autenticarsi al servizio senza dover fornire altri nome utente e password.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="kerberos-server"><div class="inner">
+<div class="hgroup"><h2 class="title">Server Kerberos</h2></div>
+<div class="region">
+<div class="contents"></div>
+<div class="sect3 sect" id="kerberos-server-installation"><div class="inner">
+<div class="hgroup"><h3 class="title">Installazione</h3></div>
+<div class="region"><div class="contents">
+<p class="para">In seguito, verrà creato un dominio MIT Kerberos con le seguenti caratteristiche (modificarle in base alle proprie esigenze):</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+            <p class="para"><span class="em emphasis">Reame:</span> EXAMPLE.COM</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para"><span class="em emphasis">KDC primario:</span> kdc01.example.com (192.168.0.1)</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para"><span class="em emphasis">KDC secondario:</span> kdc02.example.com (192.168.0.2)</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para"><span class="em emphasis">Utente principal:</span> steve</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para"><span class="em emphasis">Amministratore principal:</span> steve/admin</p>
+          </li>
+</ul></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"> 
+          <p class="para">Si raccomanda <span class="em emphasis">vivamente</span> che gli utenti autenticati dalla rete abbiano un UID in un intervallo diverso (per esempio, partendo da 5000) da quello degli utenti locali.</p>
+        </div></div></div></div>
+<p class="para">Prima di installare il server Kerberos, è necessario disporre di un server DNS correttamente configurato per il proprio dominio. Dato che il reame Kerberos per convenzione corrisponde al dominio, questa sezione utilizza il dominio <span class="em emphasis">EXAMPLE.COM</span> configurato come indicato in <a class="xref" href="dns-configuration.html.it#dns-primarymaster-configuration" title="Server primario">Server primario</a>, nella documentazione su DNS.</p>
+<p class="para">Kerberos, inoltre, è un protocollo basato sul tempo. Se l'ora locale tra il client e il server differisce di più di 5 minuti (impostazione predefinita), la workstation non potrà autenticarsi. Per correggere questo problema, tutti gli host dovrebbero sincronizzare il proprio orario usando il medesimo server <span class="em emphasis">Network Time Protocol (NTP)</span>. Per maggiori informazioni, consultare la sezione <a class="xref" href="NTP.html.it" title="Time Synchronization">Time Synchronization</a>.</p>
+<p class="para">Il primo passo per creare un reame Kerberos consiste nell'installare i pacchetti <span class="app application">krb5-kdc</span> e <span class="app application">krb5-admin-server</span>. In un terminale, digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install krb5-kdc krb5-admin-server</span>
+</pre></div>
+<p class="para">Alla fine dell'installazione viene chiesto di fornire un nome host per i server Kerberos e Admin del reame, che potrebbero essere anche lo stesso server.</p>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">Per impostazione predefinita, il reame viene creato con lo stesso nome del dominio di KDC.</p>
+        </div></div></div></div>
+<p class="para">Creare il reame con l'utilità <span class="app application">kdb5_newrealm</span>:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo krb5_newrealm</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="kerberos-server-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">Configurazione</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Le domande poste durate l'installazione sono usate per impostare il file <span class="file filename">/etc/krb5.conf</span>. Per modificare le impostazioni del KDC (Key Distribution Center), basta modificare il file e riavviare il demone <span class="app application">krb5-kdc</span>. Se è necessario riconfigurare Kerberos da zero, magari per cambiare il nome del reame, digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo dpkg-reconfigure krb5-kdc</span>
+</pre></div>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+
+            <p class="para">Ora che il KDC è in esecuzione, è necessario avere un utente amministratore -- l'<span class="em emphasis">admin principal</span>; si raccomanda di usare un nome utente diverso da quello usato giornalmente per le normali operazioni al computer. Usando l'utilità <span class="app application">kadmin.local</span>, digitare in un terminale:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo kadmin.local</span>
+<span class="output computeroutput">Authenticating as principal root/admin@EXAMPLE.COM with password.
+kadmin.local:</span><span class="input userinput"> addprinc steve/admin</span>
+<span class="output computeroutput">WARNING: no policy specified for steve/admin@EXAMPLE.COM; defaulting to no policy
+Enter password for principal "steve/admin@EXAMPLE.COM": 
+Re-enter password for principal "steve/admin@EXAMPLE.COM": 
+Principal "steve/admin@EXAMPLE.COM" created.
+kadmin.local:</span><span class="input userinput"> quit</span>
+</pre></div>
+
+            <p class="para">Nell'esempio precedente <span class="em emphasis">steve</span> è il <span class="em emphasis">Principal</span>, <span class="em emphasis">/admin</span> è un'<span class="em emphasis">Istanza</span> e <span class="em emphasis">@EXAMPLE.COM</span>  indica il reame. Il Principal <span class="em emphasis">«giornaliero»</span>, cioè l'<span class="em emphasis">utente principal</span>, è <span class="em emphasis">steve@EXAMPLE.COM</span> e dovrebbe avere i diritti di un utente normale.</p>
+
+            <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+              <p class="para">Sostituire <span class="em emphasis">EXAMPLE.COM</span> e <span class="em emphasis">steve</span> con il proprio reame e il nome utente dell'amministratore.</p>
+            </div></div></div></div>
+
+          </li>
+<li class="steps">
+ 
+            <p class="para">Il nuovo utente amministratore necessita dei permessi ACL (Access Control List) corretti, configurati tramite il file <span class="file filename">/etc/krb5kdc/kadm5.acl</span>:</p>
+
+<div class="code"><pre class="contents ">steve/admin@EXAMPLE.COM        *
+</pre></div>
+
+            <p class="para">Questa voce garantisce a <span class="em emphasis">steve/admin</span> la possibilità di eseguire qualsiasi operazione su tutti i principal nel reame. È possibile configurare dei principal con privilegi più limitati, il che può essere conveniente ove sia necessaria la figura di un amministratore principal che possa essere utilizzato da personale meno esperto in client Kerberos. Per maggiori dettagli, consultare la pagina del manuale <span class="em emphasis">kadm5.acl</span>.</p>
+
+          </li>
+<li class="steps">
+
+            <p class="para">Riavviare <span class="app application">krb5-admin-server</span> affinché le nuove ACL abbiano effetto:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl restart krb5-admin-server.service</span>
+</pre></div>
+
+          </li>
+<li class="steps">
+
+            <p class="para">Il nuovo utente può essere provato con l'utilità <span class="app application">kinit</span>:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">kinit steve/admin</span>
+<span class="output computeroutput">steve/admin@EXAMPLE.COM's Password:</span>
+</pre></div>          
+
+            <p class="para">Una volta inserita la password, usare l'utilità <span class="app application">klist</span> per visualizzare le informazioni riguardo il TGT (Ticket Granting Ticket):</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">klist</span>
+<span class="output computeroutput">Credentials cache: FILE:/tmp/krb5cc_1000
+        Principal: steve/admin@EXAMPLE.COM
+
+  Issued           Expires          Principal
+Jul 13 17:53:34  Jul 14 03:53:34  krbtgt/EXAMPLE.COM@EXAMPLE.COM</span>
+</pre></div>
+
+            <p class="para">Dove il nome del file cache <span class="file filename">krb5cc_1000</span> è composto dal prefisso <span class="file filename">krb5cc_</span> e dall'identificativo dell'utente (UID), in questo caso <span class="file filename">1000</span>. Potrebbe essere necessario aggiungere una voce nel file <span class="file filename">/etc/hosts</span> per il KDC, per esempio:</p>
+            
+<div class="code"><pre class="contents ">192.168.0.1   kdc01.example.com       kdc01
+</pre></div>
+
+            <p class="para">Sostituire <span class="em emphasis">192.168.0.1</span> con l'indirizzo IP del KDC: questo accade normalmente quando il reame Kerberos comprende diverse reti separate da router.</p>
+
+          </li>
+<li class="steps">
+          
+            <p class="para">Il migliore modo per consentire ai client di determinare automaticamente il KDC per il reame, è usare i record DNS SRV. Aggiungere quanto segue al file <span class="file filename">/etc/named/db.example.com</span>:</p>
+
+<div class="code"><pre class="contents ">_kerberos._udp.EXAMPLE.COM.     IN SRV 1  0 88  kdc01.example.com.
+_kerberos._tcp.EXAMPLE.COM.     IN SRV 1  0 88  kdc01.example.com.
+_kerberos._udp.EXAMPLE.COM.     IN SRV 10 0 88  kdc02.example.com. 
+_kerberos._tcp.EXAMPLE.COM.     IN SRV 10 0 88  kdc02.example.com. 
+_kerberos-adm._tcp.EXAMPLE.COM. IN SRV 1  0 749 kdc01.example.com.
+_kpasswd._udp.EXAMPLE.COM.      IN SRV 1  0 464 kdc01.example.com.
+</pre></div>
+
+            <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+              <p class="para">Sostituire <span class="em emphasis">EXAMPLE.COM</span>, <span class="em emphasis">kdc01</span> e <span class="em emphasis">kdc02</span> con il nome del proprio dominio, il KDC primario e quello secondario.</p>
+            </div></div></div></div>
+
+            <p class="para">Consultare <a class="xref" href="dns.html.it" title="DNS (Domain Name Service)">DNS (Domain Name Service)</a> per le istruzioni sulla configurazione di DNS.</p>
+
+          </li>
+</ol></div></div>
+<p class="para">Il reame Kerberos è ora pronto per autenticare i client.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="kerberos-secondary-kdc"><div class="inner">
+<div class="hgroup"><h2 class="title">KDC secondario</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Una volta ottenuto un KDC (Key Distribution Center) all'interno della rete, è utile avere anche un KDC secondario nel caso in cui quello primario non fosse più disponibile. Inoltre, se i client Kerberos sono in reti diverse (eventualmente separate da router che usano NAT), è opportuno collocare un KDC secondario in ognuna di queste reti.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+        
+        <p class="para">Per prima cosa installare il pacchetto e quando vengono chiesti i nomi di Kerberos e Admin, inserire il nome del KDC primario:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install krb5-kdc krb5-admin-server</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+        <p class="para">Una volta installato il pacchetto, creare il KDC secondario. Da un terminale, digitare:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">kadmin -q "addprinc -randkey host/kdc02.example.com"</span>
+</pre></div>
+    
+        <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">Una volta eseguiti i comandi <span class="app application">kadmin</span> viene chiesto la propria password <span class="em emphasis">NOME_UTENTE/ADMIN@EXAMPLE.COM</span>.</p>
+        </div></div></div></div>
+      
+        </li>
+<li class="steps">
+
+          <p class="para">Estrarre il file <span class="em emphasis">keytab</span>:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">kadmin -q "ktadd -norandkey -k keytab.kdc02 host/kdc02.example.com"</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Dovrebbe esserci un file <span class="file filename">keytab.kdc02</span> nella directory corrente, spostare il file in <span class="file filename">/etc/krb5.keytab</span>:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mv keytab.kdc02 /etc/krb5.keytab</span>
+</pre></div>
+
+          <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Se il percorso a <span class="file filename">keytab.kdc02</span> è diverso, modificarlo in base al proprio caso.</p>
+          </div></div></div></div>
+
+          <p class="para">È possibile elencare tutti i principal presenti in un file Keytab, utile durante la risoluzione dei problemi, con l'utilità <span class="app application">klist</span>:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo klist -k /etc/krb5.keytab</span>
+</pre></div>
+
+            <p class="para">L'opzione <span class="app application">-k</span> indica che il file è keytab.</p>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Dovrebbe esserci un file <span class="file filename">kpropd.acl</span> in ogni KDC che presenti tutti i KDC del reame. Per esempio, sia sul KDC primario che secondario, creare un file <span class="file filename">/etc/krb5kdc/kpropd.acl</span>:</p>
+
+<div class="code"><pre class="contents ">host/kdc01.example.com@EXAMPLE.COM
+host/kdc02.example.com@EXAMPLE.COM
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Creare un database vuoto nel <span class="em emphasis">KDC secondario</span>:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo kdb5_util -s create</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Avviare il demone <span class="app application">kpropd</span> che resterà in ascolto per le connessioni dall'utilità <span class="app application">kprop</span>. <span class="app application">kprop</span> è usato per trasferire i file di dump:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo kpropd -S</span>
+</pre></div>
+      
+        </li>
+<li class="steps">
+
+          <p class="para">Da un terminale dal <span class="em emphasis">KDC primario</span>, creare un file di dump del database principale:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo kdb5_util dump /var/lib/krb5kdc/dump</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Estrarre il <span class="em emphasis">keytab</span> del KDC primario e copiarlo in <span class="file filename">/etc/krb5.keytab</span>:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">kadmin -q "ktadd -k keytab.kdc01 host/kdc01.example.com"</span>
+<span class="cmd command">sudo mv keytab.kdc01 /etc/krb5.keytab</span>
+</pre></div>
+
+          <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Assicurarsi che ci sia un <span class="em emphasis">host</span> per <span class="em emphasis">kdc01.example.com</span> prima di estrarre il keytab.</p>
+          </div></div></div></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Usando l'utilità <span class="app application">kprop</span> eseguire il push del database sul KDC secondario:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo kprop -r EXAMPLE.COM -f /var/lib/krb5kdc/dump kdc02.example.com</span>
+</pre></div>
+
+          <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Dovrebbe essere visualizzato un messaggio di <span class="em emphasis">SUCCEEDED</span> se la propagazione è andata a buon fine. Se si è verificato un errore, per maggiori informazioni, controllare <span class="file filename">/var/log/syslog</span> sul KDC secondario.</p>
+          </div></div></div></div>
+      
+          <p class="para">Potrebbe esser utile creare anche un'attività <span class="app application">cron</span> per aggiornare periodicamente il database sul KDC secondario. Per esempio, il comando seguente esegue il push del database ogni ora (da notare che la riga è stata divisa in due per adattarla al formato di questo documento):</p>
+
+<div class="code"><pre class="contents "># m h dom mon dow command
+0 * * * * /usr/sbin/kdb5_util dump /var/lib/krb5kdc/dump &amp;&amp; 
+/usr/sbin/kprop -r EXAMPLE.COM -f /var/lib/krb5kdc/dump kdc02.example.com
+</pre></div>
+  
+        </li>
+<li class="steps">
+
+          <p class="para">Sempre nel <span class="em emphasis">KDC secondario</span>, creare un file <span class="em emphasis">stash</span> in cui salvare la chiave principale di Kerberos:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo kdb5_util stash</span>
+</pre></div>
+
+        </li>
+<li class="steps">
+
+          <p class="para">Avviare il demone <span class="app application">krb5-kdc</span> sul KDC secondario:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo systemctl start krb5-kdc.service</span>
+</pre></div>
+
+        </li>
+</ol></div></div>
+<p class="para">Il <span class="em emphasis">KDC secondario</span> dovrebbe ora essere in grado di emettere i ticket per il reame. È possibile verificare ciò fermando il demone <span class="app application">krb5-kdc</span> sul KDC primario e usando <span class="app application">kinit</span> per richiedere un ticket. Se tutto funziona correttamente, si dovrebbe ricevere un ticket dal KDC secondario, in caso contrario controllare <span class="file filename">/var/log/syslog</span> e <span class="file filename">/var/log/auth.log</span> nel KDC secondario.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="kerberos-linux-client"><div class="inner">
+<div class="hgroup"><h2 class="title">Client Kerberos Linux</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Questa sezione spiega come configurare un sistema Linux come un client <span class="app application">Kerberos</span> consentendo l'accesso a qualsiasi servizio Kerberos ad accesso effettuato correttamente da parte degli utenti.</p></div>
+<div class="sect3 sect" id="kerberos-client-installation"><div class="inner">
+<div class="hgroup"><h3 class="title">Installazione</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Per autenticarsi in un reame Kerberos sono necessari i pacchetti <span class="app application">krb5-user</span> e <span class="app application">libpam-krb5</span> oltre ad altri non strettamente necessari, ma che semplificano molto la gestione. Per installare questi pacchetti, digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install krb5-user libpam-krb5 libpam-ccreds auth-client-config</span>
+</pre></div>
+<p class="para">Il pacchetto <span class="app application">auth-client-config</span> consente una semplice configurazione dell'autenticazione PAM per diverse sorgenti e <span class="app application">libpam-ccreds</span> memorizza le credenziali di autenticazione consentendo di effettuare l'accesso anche se il KDC non è disponibile. Questo pacchetto è utile anche per i computer portatili che possono autenticarsi su reti aziendali, ma devono essere in grado di farlo anche al di fuori della rete.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="kerberos-client-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">Configurazione</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Per configurare il client, in un terminale digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo dpkg-reconfigure krb5-config</span>
+</pre></div>
+<p class="para">Viene quindi chiesto di inserire il nome del reame Kerberos. Inoltre, se non si dispone di un DNS configurato con i record <span class="em emphasis">SRV</span> di Kerberos, viene richiesto il nome dell'host del KDC e del server amministrativo.</p>
+<p class="para">Il comando <span class="app application">dpkg-reconfigure</span> aggiunge delle voci al file <span class="file filename">/etc/krb5.conf</span> del proprio reame. Dovrebbero essere disponibili delle voci simili alle seguenti:</p>
+<div class="code"><pre class="contents ">[libdefaults]
+        default_realm = EXAMPLE.COM
+...
+[realms]
+        EXAMPLE.COM = {
+                kdc = 192.168.0.1
+                admin_server = 192.168.0.1
+        }
+</pre></div>
+<div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+	  <p class="para">Se si imposta l'UID di ognuno degli utenti autenticati dalla rete a 5000, come suggerito in <a class="xref" href="kerberos.html.it#kerberos-server-installation" title="Installazione">Installazione</a>, è possibile validare solo quelli che cercano di autenticarsi usando utenti Kerberos con UID &gt; 5000:</p>
+<div class="screen"><pre class="contents "><span class="cmd command"># Kerberos dovrebbe essere applicato solo agli utenti ldap/kerberos, non a quelli locali. for i in common-auth common-session common-account common-password; do sudo sed -i -r \ -e 's/pam_krb5.so minimum_uid=1000/pam_krb5.so minimum_uid=5000/' \ /etc/pam.d/$i done</span>
+</pre></div>
+	  <p class="para">Questo eviterà che vengano richieste (inesistenti) password Kerberos di utenti autenticati localmente quando si modifica la password con <span class="cmd command">passwd</span>.</p>
+	</div></div></div></div>
+<p class="para">Per avviare la configurazione, richiedere un ticket usando l'utilità <span class="app application">kinit</span>. Per esempio:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">kinit steve@EXAMPLE.COM</span>
+<span class="output computeroutput">Password for steve@EXAMPLE.COM:</span>
+</pre></div>
+<p class="para">Una volta ottenuto un ticket, i dettagli possono essere visualizzati usando <span class="app application">klist</span>:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">klist</span>
+<span class="output computeroutput">Ticket cache: FILE:/tmp/krb5cc_1000
+Default principal: steve@EXAMPLE.COM
+
+Valid starting     Expires            Service principal
+07/24/08 05:18:56  07/24/08 15:18:56  krbtgt/EXAMPLE.COM@EXAMPLE.COM
+        renew until 07/25/08 05:18:57
+
+
+Kerberos 4 ticket cache: /tmp/tkt1000
+klist: You have no tickets cached</span>
+</pre></div>
+<p class="para">Usare <span class="app application">auth-client-config</span> per configurare il modulo <span class="app application">libpam-krb5</span> affinché richieda un ticket durante la fase di accesso:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo auth-client-config -a -p kerberos_example</span>
+</pre></div>
+<p class="para">Una volta autenticati con successo, si dovrebbe ricevere un ticket.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="kerberos-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Risorse</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+          <p class="para">Per ulteriori informazioni sulle versioni Kerberos del MIT, consultare il sito web <a href="http://web.mit.edu/Kerberos/" class="ulink" title="http://web.mit.edu/Kerberos/">MIT Kerberos</a>.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">La pagina della<a href="https://help.ubuntu.com/community/Kerberos" class="ulink" title="https://help.ubuntu.com/community/Kerberos"> documentazione della comunità su Kerberos</a> contiene maggiori dettagli.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Il libro <a href="http://oreilly.com/catalog/9780596004033/" class="ulink" title="http://oreilly.com/catalog/9780596004033/">Kerberos: The Definitive Guide</a> di O'Reilly è un ottimo punto di riferimento per impostare un server Kerberos.</p>
+        </li>
+<li class="list itemizedlist">
+          <p class="para">Inoltre, fare un giro sui canali IRC <span class="em emphasis">#ubuntu-server</span> e <span class="em emphasis">#kerberos</span> su <a href="http://freenode.net/" class="ulink" title="http://freenode.net/">Freenode</a>, se si hanno domande riguardanti Kerberos.</p>
+        </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="samba-ldap.html.it" title="Samba e LDAP">Indietro</a><a class="nextlinks-next" href="kerberos-ldap.html.it" title="Kerberos e LDAP">Avanti</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address
+          so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p>
+</div>
+</div>
+</body>
+</html>

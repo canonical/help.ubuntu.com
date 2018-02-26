@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Ruby on Rails</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = "index.html.en";
+        } else {
+                window.location = href.replace(/\.html.*/, ".html.en");
+        }
+         return false;
+      }
+      function browserPreferredLanguage() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = href;
+        } else {
+                window.location = href.replace(/\.html.*/, ".html");
+        }
+        return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html.it" title="Guida a Ubuntu Server">Guida a Ubuntu Server</a> » <a class="trail" href="web-servers.html.it" title="Server web">Server web</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="squid.html.it" title="Squid - Server proxy">Indietro</a><a class="nextlinks-next" href="tomcat.html.it" title="Apache Tomcat">Avanti</a>
+</div>
+<div class="hgroup"><h1 class="title">Ruby on Rails</h1></div>
+<div class="region">
+<div class="contents"><p class="para">Ruby on Rails è un ambiente web open source, per sviluppare applicazioni web che si avvalgono di database. È ottimizzato per la produttività sostenibile del programmatore dato che richiede di scrivere codice favorendo le convenzioni piuttosto che le configurazioni.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="ruby-on-rails.html.it#ruby-on-rails-installation" title="Installazione">Installazione</a></li>
+<li class="links"><a class="xref" href="ruby-on-rails.html.it#ruby-on-rails-configuration" title="Configurazione">Configurazione</a></li>
+<li class="links"><a class="xref" href="ruby-on-rails.html.it#ruby-on-rails-references" title="Riferimenti">Riferimenti</a></li>
+</ul></div>
+<div class="sect2 sect" id="ruby-on-rails-installation"><div class="inner">
+<div class="hgroup"><h2 class="title">Installazione</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Prima di installare <span class="app application">Rails</span> è necessario installare <span class="app application">Apache</span> e <span class="app application">MySQL</span>. Per installare il pacchetto <span class="app application">Apache</span> fare riferimento alla <a class="xref" href="httpd.html.it" title="HTTPD - Server web Apache2">HTTPD - Server web Apache2</a>, per <span class="app application">MySQL</span> fare riferimento alla <a class="xref" href="mysql.html.it" title="MySQL">MySQL</a>.</p>
+<p class="para">Una volta installati <span class="app application">Apache</span> e <span class="app application">MySQL</span>, è possibile installare il pacchetto <span class="app application">Ruby on Rails</span>.</p>
+<p class="para">Per installare i pacchetti base di <span class="app application">Ruby</span>, digitare in un terminale il seguente comando:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo apt install rails</span>
+</pre></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="ruby-on-rails-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configurazione</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Modificare il file di configurazione <span class="file filename">/etc/apache2/sites-available/000-default.conf</span> per impostare i propri domini.</p>
+<p class="para">La prima cosa da cambiare è la direttiva <span class="em emphasis">DocumentRoot</span>:</p>
+<div class="code"><pre class="contents ">DocumentRoot /percorso/applicazione/rails/publicc
+</pre></div>
+<p class="para">Successivamente, modificare &lt;Directory "/percorso/applicazione/rails/public"&gt;:</p>
+<div class="code"><pre class="contents ">&lt;Directory "/percorso/applicazione/rails/public"&gt;
+        Options Indexes FollowSymLinks MultiViews ExecCGI
+        AllowOverride All
+        Order allow,deny
+        allow from all
+        AddHandler cgi-script .cgi
+&lt;/Directory&gt;
+</pre></div>
+<p class="para">È utile anche abilitare il modulo <span class="app application">mod_rewrite</span> di Apache. Per abilitare il modulo <span class="app application">mod_rewrite</span>, digitare il seguente comando in un terminale:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo a2enmod rewrite</span>
+</pre></div>
+<p class="para">Infine, è necessario modificare i proprietari delle directory <span class="file filename">/percorso/applicazione/rails/public</span> e <span class="file filename">/percorso/applicazione/rails/tmp</span> con il proprietario usato per eseguire il processo <span class="app application">Apache</span>:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo chown -R www-data:www-data /percorso/applicazione/rails/public</span>
+<span class="cmd command">sudo chown -R www-data:www-data /percorso/applicazione/rails/tmp</span>
+</pre></div>
+<p class="para">Il server è ora pronto per le applicazioni <span class="app application">Ruby on Rails</span>.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="ruby-on-rails-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Riferimenti</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+            <p class="para">Per ulteriori informazioni, consultare il <a href="http://rubyonrails.org/" class="ulink" title="http://rubyonrails.org/">sito web di Ruby on Rails</a>.</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Anche <a href="http://pragprog.com/titles/rails3/agile-web-development-with-rails-third-edition" class="ulink" title="http://pragprog.com/titles/rails3/agile-web-development-with-rails-third-edition">Agile Development with Rails</a> è un'ottima risorsa.</p>
+          </li>
+<li class="list itemizedlist">
+            <p class="para">Un altro posto per reperire maggiori informazioni è la pagina della <a href="https://help.ubuntu.com/community/RubyOnRails" class="ulink" title="https://help.ubuntu.com/community/RubyOnRails">documentazione della comunità di Ruby on Rails</a>.</p>
+          </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="squid.html.it" title="Squid - Server proxy">Indietro</a><a class="nextlinks-next" href="tomcat.html.it" title="Apache Tomcat">Avanti</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address
+          so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p>
+</div>
+</div>
+</body>
+</html>

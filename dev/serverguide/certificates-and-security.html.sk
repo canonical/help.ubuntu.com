@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang=sk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Certifikáty</title>
+<link rel="stylesheet" type="text/css" href="sk.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = "index.html.en";
+        } else {
+                window.location = href.replace(/\.html.*/, ".html.en");
+        }
+         return false;
+      }
+      function browserPreferredLanguage() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = href;
+        } else {
+                window.location = href.replace(/\.html.*/, ".html");
+        }
+        return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html.sk" title="Príručka k správe Ubuntu servera">Príručka k správe Ubuntu servera</a> » <a class="trail" href="security.html.sk" title="Bezpečnosť">Bezpečnosť</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="apparmor.html.sk" title="AppArmor">Predchádzajúca</a><a class="nextlinks-next" href="ecryptfs.html.sk" title="eCryptfs">Nasledujúca</a>
+</div>
+<div class="hgroup"><h1 class="title">Certifikáty</h1></div>
+<div class="region">
+<div class="contents">
+<p class="para">Jednou z najčastejších foriem kryptografie je v súčasnosti kryptografia pomocou <span class="em emphasis">dvojice kľúčov</span>. Kryptografia dvojice kľúčov je  založená na <span class="em emphasis">verejnom kľúči</span> a <span class="em emphasis">súkromnom kľúči</span>. Systém informáciu zašifruje verejným kľúčom. Táto informácia sa potom dá <span class="em emphasis">dešifrovať</span> pomocou súkromného kľúča.</p>
+<p class="para">
+            A common use for public-key cryptography is encrypting application traffic using a Secure Socket Layer (SSL) or 
+            Transport Layer Security (TLS) connection. One example: configuring Apache to provide <span class="em emphasis">HTTPS</span>, the
+            HTTP protocol over SSL. This allows a way to encrypt traffic using a protocol that does not itself provide encryption.
+            </p>
+<p class="para">
+            A <span class="em emphasis">Certificate</span> is a method used to distribute a <span class="em emphasis">public key</span> and other information
+            about a server and the organization who is responsible for it. Certificates can be digitally signed by a 
+            <span class="em emphasis">Certification Authority</span>, or CA. A CA is a trusted third party that has confirmed that the information
+            contained in the certificate is accurate.
+            </p>
+</div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="certificates-and-security.html.sk#types-of-certificates" title="Typy certifikátov">Typy certifikátov</a></li>
+<li class="links"><a class="xref" href="certificates-and-security.html.sk#generating-a-csr" title="Generovanie požiadavky na podpísanie certifikátu - Certificate Signing Request (CSR)">Generovanie požiadavky na podpísanie certifikátu - Certificate Signing Request (CSR)</a></li>
+<li class="links"><a class="xref" href="certificates-and-security.html.sk#creating-a-self-signed-certificate" title="Vytvorenie sebou podpísaného certifikátu">Vytvorenie sebou podpísaného certifikátu</a></li>
+<li class="links"><a class="xref" href="certificates-and-security.html.sk#installing-the-certificate" title="Inštalácia certifikátu">Inštalácia certifikátu</a></li>
+<li class="links"><a class="xref" href="certificates-and-security.html.sk#certificate-authority" title="Certifikačná autorita">Certifikačná autorita</a></li>
+<li class="links"><a class="xref" href="certificates-and-security.html.sk#certificate-references" title="Zdroje">Zdroje</a></li>
+</ul></div>
+<div class="sect2 sect" id="types-of-certificates"><div class="inner">
+<div class="hgroup"><h2 class="title">Typy certifikátov</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Ak chceme nastaviť bezpečný server, ktorý bude používať šifrovanie pomocou dvojice kľúčov, vo väčšine prípadov je potrebné zaslať požiadavku na podpísanie certifikátu (vrátane nášho verejného kľúča), doklad o firemnej identite a poplatok do CA. CA porovná požiadavku na vydanie certifikátu s našou identitou a pošle nám späť certifikát pre náš server. Druhá možnosť je, že si vytvoríme <span class="em emphasis">sebou podpísaný</span> certifikát.</p>
+<div class="note" title="Poznámka"><div class="inner"><div class="region"><div class="contents">
+              <p class="para">
+              Note that self-signed certificates should not be used in most production environments.
+              </p>
+            </div></div></div></div>
+<p class="para">Ak napríklad zoberieme spomínanú HTTPS komunikáciu, certifikáty podpísané CA poskytujú dve významné funkcie, ktoré sebou podpísané certifikáty nemôžu poskytnúť:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+            <p class="para">Prehliadače (zvyčajne) automaticky rozpoznajú certifikát a povolia šifrované spojenie bez toho, aby si žiadali potvrdenie od používateľa.</p>
+            </li>
+<li class="list itemizedlist">
+            <p class="para">Pri certifikátoch podpísaných CA je garantovaná identita organizácie, ktorá poskytuje webové stránky prehliadaču.</p>
+            </li>
+</ul></div>
+<p class="para">
+             Most Web browsers, and computers, that support SSL have a list of CAs whose
+             certificates they automatically accept. If a browser
+             encounters a certificate whose authorizing CA is not in the
+             list, the browser asks the user to either accept or decline
+             the connection. Also, other applications may generate an error message when using
+             a self-signed certificate.
+            </p>
+<p class="para">Proces získania certifikátu od CA je celkom jednoduchý. Postupuje sa podľa nasledujúcich krokov:</p>
+<div class="list orderedlist"><ol class="list orderedlist">
+<li class="list orderedlist">
+               <p class="para">Vytvoríme dvojicu kľúčov – súkromný a verejný.</p>
+            </li>
+<li class="list orderedlist">
+                 <p class="para">Vytvoríme požiadavku na podpísanie verejného kľúča. Požiadavka bude obsahovať informácie o serveri a spoločnosti, ktorá server prevádzkuje.</p>
+            </li>
+<li class="list orderedlist">
+                 <p class="para">Odošleme požiadavku s dokumentom o našej identite do CA. Vyberieme si niektorú z certifikačných autorít. Náš výber môže byť na základe predchádzajúcich skúseností alebo skúseností od priateľov alebo na základe finančných faktorov.</p>
+
+                    <p class="para">Keď sme sa rozhodli pre niektorú z CA, je potrebné ďalej sa riadiť jej pokynmi pre získanie certifikátu.</p>
+            </li>
+<li class="list orderedlist">
+               <p class="para">Ak sa CA dôkladne uistí, že sme ten, za ktorého sa vydávame, vydá nám digitálny certifikát.</p>
+            </li>
+<li class="list orderedlist">
+              <p class="para">Nainštalujeme certifikát na náš server a nastavíme aplikácie, aby tento certifikát použili.</p>
+            </li>
+</ol></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="generating-a-csr"><div class="inner">
+<div class="hgroup"><h2 class="title">Generovanie požiadavky na podpísanie certifikátu - Certificate Signing Request (CSR)</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Či už chceme získať certifikát od CA alebo vytvoriť sebou podpísaný certifikát, najskôr musíme vygenerovať kľúče.</p>
+<p class="para">       
+          If the certificate will be used by service daemons, such as Apache, Postfix, Dovecot, etc., 
+          a key without a passphrase is often appropriate. Not having a passphrase allows the services
+          to start without manual intervention, usually the preferred way to start a daemon.
+          </p>
+<p class="para">V tejto časti sa dozvieme, ako vytvoriť kľúče so vstupnou frázou aj bez nej. Kľúče bez vstupnej frázy potom použijeme na vygenerovanie certifikátu a potom ich budeme môcť použiť s rôznymi démonmi služieb.</p>
+<div class="note note-warning" title="Upozornenie"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Spúšťanie bezpečných služieb bez vstupnej frázy je bežné, inak by bolo potrebné vstupnú frázu ručne zadať pri každom spustení služby. Je to však menej bezpečné a v prípade, že niekto neoprávnene získa kľúč, získa tiež neobmedzený prístup k službám servera.</p>
+          </div></div></div></div>
+<p class="para">Ak chceme vygenerovať <span class="em emphasis">kľúče</span> pre požiadavku o podpísanie certifikátu (CSR), spustíme nasledujúci príkaz v príkazovom riadku:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">openssl genrsa -des3 -out server.key 2048</span>
+</pre></div>
+<div class="code"><pre class="contents ">Generating RSA private key, 2048 bit long modulus
+..........................++++++
+.......++++++
+e is 65537 (0x10001)
+Enter pass phrase for server.key:
+</pre></div>
+<p class="para">Teraz môžeme zadať vstupnú frázu. Pre najlepšiu bezpečnosť by mala obsahovať aspoň osem znakov. Minimálna dĺžka pri použití -des3 je štyri znaky. Môže obsahovať čísla aj interpunkciu a nemala by byť slovom zo slovníka. Nezabudnite tiež, že vo vstupnej fráze sa rozlišuje veľkosť písmen.</p>
+<p class="para">Vstupnú frázu je potrebné kvôli kontrole zadať dvakrát. Ak ju po druhýkrát zadáte rovnako, vygeneruje sa kľúč a uloží sa do súboru <span class="file filename">server.key</span>.</p>
+<p class="para">Teraz vytvoríme nezabezpečený kľúč a zmeníme mená kľúčov:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">openssl rsa -in server.key -out server.key.insecure</span>
+<span class="cmd command">mv server.key server.key.secure</span>
+<span class="cmd command">mv server.key.insecure server.key</span>
+</pre></div>
+<p class="para">Nezabezpečený kľúč sa teraz volá <span class="file filename">server.key</span> a môžeme ho použiť na vygenerovanie CSR bez vstupnej frázy.</p>
+<p class="para">Ak chceme vytvoriť CSR, spustíme nasledujúci príkaz v príkazovom riadku:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">openssl req -new -key server.key -out server.csr</span>
+</pre></div>
+<p class="para">Po zadaní príkazu bude potrebné zadať vstupnú frázu. Ak zadáme správnu vstupnú frázu, môžeme zadať meno organizácie (Company Name) a ďalšie údaje, ako názov webu (Site Name), Email Id, atď. Po zadaní všetkých detailov sa vygeneruje CSR súbor s názvom <span class="file filename">server.csr</span>.</p>
+<p class="para">Tento CSR súbor môžeme poskytnúť CA na spracovanie. CA použije tento CSR súbor a vydá nám certifikát. Pomocou tohto CSR súboru však môžeme vytvoriť aj sebou podpísaný certifikát.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="creating-a-self-signed-certificate"><div class="inner">
+<div class="hgroup"><h2 class="title">Vytvorenie sebou podpísaného certifikátu</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Ak chceme vytvoriť sebou podpísaný certifikát, spustíme nasledujúci príkaz v príkazovom riadku:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt</span>
+</pre></div>
+<p class="para">Po zadaní príkazu bude potrebné zadať vstupnú frázu. Po zadaní správnej vstupnej frázy sa vygeneruje certifikát, ktorý sa uloží do súboru <span class="file filename">server.crt</span>.</p>
+<div class="note note-warning" title="Upozornenie"><div class="inner"><div class="region"><div class="contents">
+        <p class="para">Ak má byť zabezpečený server verejne dostupný, budete potrebovať certifikát podpísaný CA. Neodporúčame použiť sebou podpísaný certifikát.</p>
+        </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="installing-the-certificate"><div class="inner">
+<div class="hgroup"><h2 class="title">Inštalácia certifikátu</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Súbor s kľúčom <span class="file filename">server.key</span> a súbor s certifikátom <span class="file filename">server.crt</span> (alebo iným dodaným od CA) nainštalujeme spustením nasledujúcich príkazov v príkazovom riadku:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo cp server.crt /etc/ssl/certs</span>
+<span class="cmd command">sudo cp server.key /etc/ssl/private</span>
+</pre></div>
+<p class="para">Teraz môžeme nakonfigurovať aplikácie, ktoré sú schopné šifrovať na báze dvojice kľúčov, aby použili súbory s <span class="em emphasis">certifikátom</span> a <span class="em emphasis">kľúčom</span>. Napríklad <span class="app application">Apache</span> môže poskytnúť HTTPS, <span class="app application">Dovecot</span> môže poskytnúť IMAPS a POP3S, atď.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="certificate-authority"><div class="inner">
+<div class="hgroup"><h2 class="title">Certifikačná autorita</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Ak služby v našej sieti vyžadujú viac ako sebou podpísané certifikáty, môže byť užitočné nastaviť svoju vlastnú súkromnú <span class="em emphasis">Certifikačnú Autoritu (CA)</span>. Použitím certifikátu podpísaného vlastnou CA, umožníte rôznym službám použiť certifikáty, ktoré umožnia službám navzájom si dôverovať, lebo budú používať certifikáty od rovnakej CA.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+  
+              <p class="para">Najskôr vytvoríme priečinky, ktoré budú obsahovať potrebné súbory:</p>    
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mkdir /etc/ssl/CA</span>
+<span class="cmd command">sudo mkdir /etc/ssl/newcerts</span>
+</pre></div>
+
+            </li>
+<li class="steps">
+  
+              <p class="para">CA vyžaduje pre svoju funkciu niekoľko ďalších súborov. Prvý bude sledovať posledné sériové číslo použité CA - každý certifikát musí mať jedinečné sériové číslo. Druhý súbor, ktorý bude zaznamenávať, aké certifikáty boli vydané:</p>    
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo sh -c "echo '01' &gt; /etc/ssl/CA/serial"</span>
+<span class="cmd command">sudo touch /etc/ssl/CA/index.txt</span>
+</pre></div>
+
+            </li>
+<li class="steps">
+  
+              <p class="para">Tretí súbor je konfiguračný súbor CA. Hoci nie je povinný, je veľmi užitočný pri vydávaní viacerých certifikátov. Otvoríme súbor <span class="file filename">/etc/ssl/openssl.cnf</span> a v <span class="em emphasis">[ CA_default ]</span> zmeníme:</p>    
+
+<div class="code"><pre class="contents ">dir             = /etc/ssl              # Where everything is kept
+database        = $dir/CA/index.txt     # database index file.
+certificate     = $dir/certs/cacert.pem # The CA certificate
+serial          = $dir/CA/serial        # The current serial number
+private_key     = $dir/private/cakey.pem# The private key
+</pre></div>    
+
+            </li>
+<li class="steps">
+  
+              <p class="para">
+              Next, create the self-signed root certificate:
+              </p>    
+
+<div class="screen"><pre class="contents "><span class="cmd command">openssl req -new -x509 -extensions v3_ca -keyout cakey.pem -out cacert.pem -days 3650</span>
+</pre></div>
+
+              <p class="para">Po spustení zadáme informácie pre certifikát.</p>
+
+            </li>
+<li class="steps">
+  
+              <p class="para">Teraz nainštalujeme koreňový certifikát a kľúč:</p>    
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mv cakey.pem /etc/ssl/private/</span>
+<span class="cmd command">sudo mv cacert.pem /etc/ssl/certs/</span>
+</pre></div>
+
+            </li>
+<li class="steps">
+  
+              <p class="para">Odteraz môžeme začať podpisovať certifikáty. Prvá potrebná položka je CSR (pozrite <a class="xref" href="certificates-and-security.html.sk#generating-a-csr" title="Generovanie požiadavky na podpísanie certifikátu - Certificate Signing Request (CSR)">Generovanie požiadavky na podpísanie certifikátu - Certificate Signing Request (CSR)</a>). Ak máme CSR, zadáme nasledujúci príkaz, ktorý vygeneruje certifikát podpísaný našou CA:</p>    
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo openssl ca -in server.csr -config /etc/ssl/openssl.cnf</span>
+</pre></div>
+
+              <p class="para">Po zadaní hesla pre kľúč CA bude potrebné podpísať certifikát a potom znova, aby sme potvrdili nový certifikát. Potom by sme mali vidieť množstvo výstupov, ktoré súvisia s vytváraním certifikátu.</p>
+
+            </li>
+<li class="steps">   
+
+              <p class="para">Mali by sme získať nový súbor <span class="file filename">/etc/ssl/newcerts/01.pem</span> obsahujúci rovnaký výstup. Skopírujeme všetky riadky počnúc od <span class="em emphasis">-----BEGIN CERTIFICATE-----</span> a až po riadok<span class="em emphasis">----END CERTIFICATE-----</span> (vrátane) a prilepíme ich do súboru s názvom mena servera, na ktorom bude certifikát nainštalovaný. Napríklad <span class="file filename">mail.nieco.sk.crt</span> je pekné veľavravné meno.</p>
+
+              <p class="para">Ďalšie certifikáty budú pomenované <span class="file filename">02.pem</span>, <span class="file filename">03.pem</span>, atď.</p>
+
+              <div class="note" title="Poznámka"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">Meno súboru <span class="em emphasis">mail.nieco.sk.crt</span> nahraďte vlastným názvom.</p>
+              </div></div></div></div>
+
+            </li>
+<li class="steps">
+  
+              <p class="para">Nakoniec skopírujeme nový certifikát na počítač, na ktorom ho potrebujeme použiť. Predvolené umiestnenie pre inštaláciu certifikátov je <span class="file filename">/etc/ssl/certs</span>. Týmto umožníme viacerým službám použiť rovnaký certifikát bez potreby komplikovaného nastavovania oprávnení.</p>    
+
+              <p class="para">Kvôli aplikáciám, ktoré chceme nakonfigurovať tak, aby používali certifikát podpísaný našou CA, by sme mali ešte skopírovať súbor  <span class="file filename">/etc/ssl/certs/cacert.pem</span> do priečinka <span class="file filename">/etc/ssl/certs/</span> na každom počítači.</p>
+
+            </li>
+</ol></div></div>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="certificate-references"><div class="inner">
+<div class="hgroup"><h2 class="title">Zdroje</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para">
+              For more detailed instructions on using cryptography see the
+              <a href="http://tldp.org/HOWTO/SSL-Certificates-HOWTO/index.html" class="ulink" title="http://tldp.org/HOWTO/SSL-Certificates-HOWTO/index.html">SSL Certificates HOWTO</a> by tldp.org:
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              The Wikipedia <a href="http://en.wikipedia.org/wiki/HTTPS" class="ulink" title="http://en.wikipedia.org/wiki/HTTPS">HTTPS</a> page has more information regarding HTTPS.
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Viac informácií o <span class="em emphasis">OpenSSL</span> sa nachádza na stránke <a href="http://www.openssl.org/" class="ulink" title="http://www.openssl.org/">OpenSSL Home Page</a>.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              Also, O'Reilly's <a href="http://oreilly.com/catalog/9780596002701/" class="ulink" title="http://oreilly.com/catalog/9780596002701/">Network Security with OpenSSL</a> is a good
+              in-depth reference.
+              </p>
+            </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="apparmor.html.sk" title="AppArmor">Predchádzajúca</a><a class="nextlinks-next" href="ecryptfs.html.sk" title="eCryptfs">Nasledujúca</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address
+          so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p>
+</div>
+</div>
+</body>
+</html>

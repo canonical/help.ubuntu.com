@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Installazione avanzata</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = "index.html.en";
+        } else {
+                window.location = href.replace(/\.html.*/, ".html.en");
+        }
+         return false;
+      }
+      function browserPreferredLanguage() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = href;
+        } else {
+                window.location = href.replace(/\.html.*/, ".html");
+        }
+        return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html.it" title="Guida a Ubuntu Server">Guida a Ubuntu Server</a> » <a class="trail" href="installation.html.it" title="Installazione">Installazione</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="installing-upgrading.html.it" title="Avanzamento di versione">Indietro</a><a class="nextlinks-next" href="kernel-crash-dump.html.it" title="Scaricamento del kernel in seguito a un crash (Kernel Crash Dump)">Avanti</a>
+</div>
+<div class="hgroup"><h1 class="title">Installazione avanzata</h1></div>
+<div class="region">
+<div class="contents"></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="advanced-installation.html.it#software-raid" title="RAID software">RAID software</a></li>
+<li class="links"><a class="xref" href="advanced-installation.html.it#lvm" title="Logical Volume Manager (LVM)">Logical Volume Manager (LVM)</a></li>
+<li class="links"><a class="xref" href="advanced-installation.html.it#iscsi" title="iSCSI">iSCSI</a></li>
+</ul></div>
+<div class="sect2 sect" id="software-raid"><div class="inner">
+<div class="hgroup"><h2 class="title">RAID software</h2></div>
+<div class="region">
+<div class="contents">
+<p class="para">«RAID», Redundant Array of Independent Disks (<span class="em emphasis">insieme ridondante di dischi indipendenti</span>), è un metodo che impiega più dischi per fornire diverse combinazioni fra aumento dell'affidabilità dei dati e, o in alternativa, l'aumento delle prestazioni I/O, a seconda del livello RAID utilizzato. RAID è implementato o a livello software (il sistema operativo è al corrente dell'esistenza di entrambi i dischi e li gestisce attivamente) o a livello hardware (uno speciale controller presenta al SO l'array come un singolo disco e gestisce tutti i dischi in maniera «invisibile»).</p>
+<p class="para">Il RAID software incluso nelle attuali versioni di Linux (e Ubuntu) è basato sul driver <span class="app application">mdadm</span> e funziona perfettamente, molto meglio di alcuni cosiddetti controller RAID hardware. In questa sezione viene spiegato come installare Ubuntu Server Edition utilizzando due partizioni RAID1 su due dischi fissi, uno utilizzato per <span class="em emphasis">/</span> e l'altro come <span class="em emphasis">swap</span>.</p>
+</div>
+<div class="sect3 sect" id="raid-partitioning"><div class="inner">
+<div class="hgroup"><h3 class="title">Partizionamento</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Seguire i passi dell'installazione fino a giungere a <span class="em emphasis">Partizionamento dei dischi</span>, quindi:</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+ 
+              <p class="para">Selezionare <span class="em emphasis">Manuale</span> come metodo di partizionamento.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Selezionare il primo disco fisso e acconsentire alla domanda <span class="em emphasis">Creare una nuova tabella delle partizioni sul dispositivo</span>.</p>
+
+              <p class="para">Ripetere questo passo per ogni disco da inserire nell'array RAID.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Selezionare lo <span class="em emphasis">spazio libero</span> sul primo disco e quindi selezionare <span class="em emphasis">Creare una nuova partizione</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Selezionare la <span class="em emphasis">Dimensione</span> della partizione: questa partizione sarà quella di <span class="em emphasis">swap</span> e come regola generale, la dimensione della partizione di swap è solitamente il doppio della memoria RAM. Digitare la dimensione della partizione, scegliere <span class="em emphasis">Primaria</span> e quindi <span class="em emphasis">Inizio</span>.</p>
+
+              <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">Una partizione di swap di dimensione doppia rispetto alla capacità RAM disponibile può non essere sempre consigliabile, specialmente nei sistemi con una grande quantità di RAM: il calcolo della partizione di swap nei server dipende fondamentalmente dal modo in cui sarà utilizzato il sistema.</p>
+              </div></div></div></div>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Selezionare la riga in alto <span class="em emphasis">Usare come:</span>: per impostazione predefinita è <span class="em emphasis">File system ext4 con journaling</span>, modificarla in <span class="em emphasis">volume fisico per il RAID</span> e poi <span class="em emphasis">Impostazione della partizione completata</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Per la partizione <span class="em emphasis">/</span>, selezionare <span class="em emphasis">spazio libero</span> sul primo drive e quindi <span class="em emphasis">Crea una nuova partizione</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Utilizzare il restante spazio libero sul dispositivo e scegliere <span class="em emphasis">Continua</span>, quindi <span class="em emphasis">Primaria</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Come per la partizione di swap, selezionare la riga in alto <span class="em emphasis">Usare come:</span> e modificarla in <span class="em emphasis">volume fisico per il RAID</span>. Selezionare anche la riga <span class="em emphasis">Flag avviabile:</span> per cambiare il valore in <span class="em emphasis">attivato</span>; scegliere quindi <span class="em emphasis">Impostazione della partizione completata</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Ripetere i passi dal 3 al numero 8 per gli altri dischi e partizioni.</p>
+
+            </li>
+</ol></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="raid-configuration"><div class="inner">
+<div class="hgroup"><h3 class="title">Configurare RAID</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Impostate le partizioni è quindi possibile configurare gli array:</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+ 
+              <p class="para">Nella sezione di partizionamento dei dischi, selezionare <span class="em emphasis">Configurare il software RAID</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Selezione <span class="em emphasis">Sì</span> per scrivere le modifiche sul disco.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Scegliere <span class="em emphasis">Creare un device multidisk (MD)</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Per questo esempio, selezionare <span class="em emphasis">RAID1</span>. Nel caso si stia utilizzando una diversa configurazione, scegliere la tipologia adatta (RAID0 RAID1 RAID5).</p>
+
+              <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+                <p class="para">Per poter usare il <span class="em emphasis">RAID5</span> sono necessari almeno <span class="em emphasis">tre</span> dischi. Per RAID0 oppure RAID1 solo <span class="em emphasis">due</span>.</p>
+              </div></div></div></div>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Inserire il numero dei dispositivi attivi (active), <span class="em emphasis">2</span>, oppure il numero totale dei dischi disponibili per l'array, quindi selezionare <span class="em emphasis">Continua</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Inserire il numero dei dispositivi di scorta (spare), <span class="em emphasis">0</span> come valore predefinito, quindi selezionare <span class="em emphasis">Continua</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Scegliere la partizione da usare: solitamente sda1, sdb1, sdc1, ecc... I numeri e le lettere solitamente corrispondono a diversi dischi fissi.</p>
+
+              <p class="para">Per la partizione di <span class="em emphasis">swap</span> scegliere <span class="em emphasis">sda1</span> e <span class="em emphasis">sdb1</span>. Selezionare <span class="em emphasis">Continua</span> per andare al passo successivo.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Ripetere i passi dal <span class="em emphasis">tre</span> al <span class="em emphasis">sette</span> per la partizione <span class="em emphasis">/</span> scegliendo <span class="em emphasis">sda2</span> e <span class="em emphasis">sdb2</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Una volta completato tutto, selezionare <span class="em emphasis">Terminare</span>.</p>
+
+            </li>
+</ol></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="raid-formatting"><div class="inner">
+<div class="hgroup"><h3 class="title">Formattare</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Dovrebbe essere visibile un elenco di dischi fissi e dispositivi RAID. Il passo successivo consiste nel formattare e impostare il punto di mount per i dispositivi RAID: tali dispositivi sono da considerare come dei normali dischi locali.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+ 
+              <p class="para">Selezionare <span class="em emphasis">#1</span> nella partizione <span class="em emphasis">Dispositivo RAID1 #0</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Scegliere <span class="em emphasis">Usato come:</span>, quindi <span class="em emphasis">area di swap</span> e infine <span class="em emphasis">Preparazione di questa partizione completata</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Selezionare quindi <span class="em emphasis">#1</span> nella partizione <span class="em emphasis">Dispositivo RAID1 #1</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Scegliere <span class="em emphasis">Usato come:</span>, quindi <span class="em emphasis">File system ext4 con journaling</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Selezionare <span class="em emphasis">Punto di mount</span> e scegliere <span class="em emphasis">/ - il file system root</span>. Modificare se necessario le altre opzioni e selezionare <span class="em emphasis">Preparazione di questa partizione completata</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Selezionare <span class="em emphasis">Terminare il partizionamento e scrivere i cambiamenti sul disco</span>.</p>
+
+            </li>
+</ol></div></div>
+<p class="para">Se è stato scelto di posizionare la partizione di root nell'array RAID, il programma di installazione chiederà se avviare il sistema in modalità <span class="em emphasis">degraded</span>. Per maggiori informazioni, consultare <a class="xref" href="advanced-installation.html.it#raid-degraded" title="RAID degraded">RAID degraded</a>.</p>
+<p class="para">Il processo di installazione continuerà normalmente.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="raid-degraded"><div class="inner">
+<div class="hgroup"><h3 class="title">RAID degraded</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Durante l'arco di vita di un computer si potrebbero verificare dei danni ai dischi. Quando si verifica un'eventualità come questa, usando il RAID software, il sistema operativo abilita la modalità <span class="em emphasis">degraded</span> per l'array.</p>
+<p class="para">Se l'array è degradato («degraded») a causa di dati rovinati, il sistema operativo, in modo predefinito, si avvierà in <span class="em emphasis">initramfs</span> dopo 30 secondi. Una volta avviato, è possibile, entro 15 secondi, continuare il normale avvio o tentare un ripristino manuale. L'avvio in initramfs potrebbe non essere consigliato, soprattutto se si opera sul computer da remoto. Avviare il sistema in un array «degraded» può essere svolto in diversi modi:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+
+              <p class="para">L'utilità <span class="app application">dpkg-reconfigure</span> può essere usata per configurare il comportamento predefinito e durante l'elaborazione verranno poste delle domande relative a impostazioni addizionali per l'array come monitoraggio, avvisi via email, ecc... Per riconfigurare <span class="app application">mdadm</span>, digitare il seguente comando:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo dpkg-reconfigure mdadm</span>
+</pre></div>
+
+             </li>
+<li class="list itemizedlist">
+
+              <p class="para">Il processo <span class="cmd command">dpkg-reconfigure mdadm</span> modificherà il file di configurazione <span class="file filename">/etc/initramfs-tools/conf.d/mdadm</span>. Tale file presenta il vantaggio di pre-configurare il comportamento del sistema e può essere modificato a mano:</p>
+
+<div class="code"><pre class="contents ">BOOT_DEGRADED=true
+</pre></div>
+
+          <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Il file di configurazione può essere scavalcato utilizzando un argomento per il kernel.</p>
+          </div></div></div></div>          
+
+            </li>
+<li class="list itemizedlist">
+    
+              <p class="para">È possibile avviare il sistema in un array «degraded» utilizzando anche un argomento per il kernel:</p>
+
+              <div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                  <p class="para">Durante l'avvio del computer, premere <span class="key keycap"><kbd>Maiusc</kbd></span> per aprire il menù <span class="app application">Grub</span>.</p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para">Premere <span class="key keycap"><kbd>e</kbd></span> per modificare le opzioni di comando del kernel.</p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para">Premere il tasto freccia <span class="key keycap"><kbd>giù</kbd></span> per evidenziare il kernel.</p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para">Aggiungere <span class="em emphasis">bootdegraded=true</span> alla fine della riga.</p>
+                </li>
+<li class="list itemizedlist">
+                  <p class="para">Premere <span class="keyseq keycombo"><span class="key keycap"><kbd>Ctrl</kbd></span>+<span class="key keycap"><kbd>x</kbd></span></span> per avviare il sistema.</p>
+                </li>
+</ul></div>
+
+            </li>
+</ul></div>
+<p class="para">Una volta avviato il sistema, è possibile riparare l'array (consultare <a class="xref" href="advanced-installation.html.it#raid-maintenance" title="Manutenzione RAID">Manutenzione RAID</a>) o copiare i dati importanti in un altro computer.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="raid-maintenance"><div class="inner">
+<div class="hgroup"><h3 class="title">Manutenzione RAID</h3></div>
+<div class="region"><div class="contents">
+<p class="para">L'utilità <span class="app application">mdadm</span> può essere usata per visualizzare lo stato dell'array, aggiungere un disco all'array, rimuovere dischi, ecc...</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para">Per visualizzare lo stato di un array, da un terminale digitare:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mdadm -D /dev/md0</span>
+</pre></div>
+            
+              <p class="para">L'opzione <span class="em emphasis">-D</span> indica a <span class="app application">mdadm</span> di stampare informazioni <span class="em emphasis">dettagliate</span> riguardo il device <span class="file filename">/dev/md0</span>. Sostituire <span class="file filename">/dev/md0</span> con il device RAID appropriato.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Per visualizzare lo stato di un disco in un array:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mdadm -E /dev/sda1</span>
+</pre></div>
+              <p class="para">L'output è molto simile al comando <span class="cmd command">mdadm -D</span>, regolare <span class="file filename">/dev/sda1</span> per ogni disco.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Se un disco si rompe e deve essere rimosso da un array:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mdadm --remove /dev/md0 /dev/sda1</span>
+</pre></div>
+              <p class="para">Modificare <span class="file filename">/dev/md0</span> e <span class="file filename">/dev/sda1</span> con il device e il disco RAID appropriati.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Per aggiungere un nuovo disco:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo mdadm --add /dev/md0 /dev/sda1</span>
+</pre></div>
+            </li>
+</ul></div>
+<p class="para">Qualche volta può succedere che un disco imposti il suo stato come <span class="em emphasis">difettoso</span> («faulty»), anche se non presenta alcun malfunzionamento hardware. Può essere utile in questi casi rimuovere e aggiungere il disco all'array: verrà così nuovamente sincronizzato con l'array. Se il disco non riesce a sincronizzarsi con l'array, può indicare che il dispositivo sia effettivamente difettoso.</p>
+<p class="para">Il file <span class="file filename">/proc/mdstat</span> contiene anche informazioni utili riguardo i device RAID del sistema:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">cat /proc/mdstat</span>
+<span class="output computeroutput">Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10] 
+md0 : active raid1 sda1[0] sdb1[1]
+      10016384 blocks [2/2] [UU]
+      
+unused devices: &lt;none&gt;</span>
+</pre></div>
+<p class="para">Il seguente comando è utile per controllare lo stato di un drive di sincronizzazione:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">watch -n1 cat /proc/mdstat</span>
+</pre></div>
+<p class="para">Premere <span class="em emphasis">Ctrl+C</span> per fermare il comando <span class="app application">watch</span>.</p>
+<p class="para">Se è necessario sostituire un disco difettoso, una volta sostituito e sincronizzato, è necessario reinstallare <span class="app application">grub</span>. Per installare <span class="app application">grub</span> nel nuovo disco, procedere come segue:</p>
+<div class="screen"><pre class="contents "><span class="cmd command">sudo grub-install /dev/md0</span>
+</pre></div>
+<p class="para">Sostituire <span class="file filename">/dev/md0</span> con il nome dell'array appropriato.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="raid-resources"><div class="inner">
+<div class="hgroup"><h3 class="title">Risorse</h3></div>
+<div class="region"><div class="contents">
+<p class="para">L'argomento degli array RAID è molto complesso e vasto poiché sono disponibili molti modi diversi di configurare un array RAID. Per maggiori informazioni, consultare i seguenti collegamenti:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para"><a href="https://help.ubuntu.com/community/Installation#raid" class="ulink" title="https://help.ubuntu.com/community/Installation#raid">Documentazione online riguardo RAID</a>.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              <a href="http://www.faqs.org/docs/Linux-HOWTO/Software-RAID-HOWTO.html" class="ulink" title="http://www.faqs.org/docs/Linux-HOWTO/Software-RAID-HOWTO.html">Software RAID HOWTO</a>
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              <a href="http://oreilly.com/catalog/9781565927308/" class="ulink" title="http://oreilly.com/catalog/9781565927308/">Managing RAID on Linux</a>
+              </p>
+            </li>
+</ul></div>
+</div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="lvm"><div class="inner">
+<div class="hgroup"><h2 class="title">Logical Volume Manager (LVM)</h2></div>
+<div class="region">
+<div class="contents"><p class="para">Logical Volume Manger, o <span class="em emphasis">LVM</span>, consente agli amministratori di creare volumi <span class="em emphasis">logici</span> da uno o più dischi fissi. I volumi LVM possono essere creati sia sulle partizioni RAID software sia sulle partizioni normali presenti su un singolo disco. I volumi possono essere estesi, garantendo un'alta flessibilità al sistema nel caso cambino le necessità.</p></div>
+<div class="sect3 sect" id="lvm-overview"><div class="inner">
+<div class="hgroup"><h3 class="title">Panoramica</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Purtroppo, la potenza e la flessibilità di LVM, comportano maggiori complicazioni. Prima di tutto è quindi necessario introdurre la terminologia adatta.</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">Volume fisico (PV - Phisical Volume):</span> il disco fisso, la partizione di un disco o la partizione RAID software formattati come LVM.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">Gruppo di volumi (VG - Volume Group):</span>è formato da uno o più volumi fisici; un VG può essere esteso aggiungendo ulteriori PV. Un VG è come un disco fisso virtuale, dal quale sono ricavati uno o più volumi logici.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para"><span class="em emphasis">Volume logico (LV - Logical Volume):</span> è simile a una partizione in un sistema non-LVM; un LV può essere formattato con il file system prescelto (EXT3, XFS, JFS, etc) ed è quindi disponibile per il montaggio e la memorizzazione dei dati.</p>
+            </li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="lvm-installation"><div class="inner">
+<div class="hgroup"><h3 class="title">Installazione</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Come esempio, in questa sezione, viene descritto come installare Ubuntu Server Edition con <span class="file filename">/srv</span> montato come volume LVM. Durante l'installazione un solo volume fisico (PV) farà parte del gruppo di volumi (VG). Un altro PV verrà aggiunto dopo l'installazione come dimostrazione delle funzionalità di estensione di un VG.</p>
+<p class="para">Sono disponibili diverse opzioni per l'installazione LVM, <span class="em emphasis">Guidato - usare l'intero disco e impostare LVM</span> consente di assegnare una parte dello spazio disponibile a LVM, <span class="em emphasis">Guidato - usare l'intero disco e impostare LVM cifrato</span> o <span class="em emphasis">manuale</span>. Attualmente l'unico metodo per configurare un sistema affinché utilizzi sia partizioni LVM che normali durante l'installazione è quello manuale.</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+
+              <p class="para">Seguire i passi dell'installazione fino a giungere a <span class="em emphasis">Partizionamento dei dischi</span>, quindi:</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Alla finestra <span class="em emphasis">Partizionamento dei dischi</span> scegliere <span class="em emphasis">Manuale</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Selezionare il disco fisso e nella schermata successiva scegliere confermare <span class="em emphasis">Creare una nuova tabella delle partizioni sul dispositivo</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Creare le partizioni <span class="em emphasis">/boot</span>, <span class="em emphasis">swap</span> e <span class="em emphasis">/</span> con il file system di propria scelta.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Per la partizione <span class="em emphasis">/srv</span> LVM, creare una nuova partizione <span class="em emphasis">Logica</span> e modificare <span class="em emphasis">Usato come</span> in <span class="em emphasis">volume fisico per LVM</span>, quindi selezionare <span class="em emphasis">Preparazione di questa partizione completata</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Selezionare <span class="em emphasis">Configurare il Logical Volume Manager</span> in alto e scegliere <span class="em emphasis">Sì</span> per scrivere le modifiche sul disco.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Per il <span class="em emphasis">Passo di configurazione di LVM</span> nella schermata successiva, scegliere <span class="em emphasis">Creare gruppi di volumi</span>. Inserire un nome per il VG come <span class="em emphasis">vg01</span> o qualche cosa più descrittivo. Fatto ciò, selezionare la partizione configurata per LVM e scegliere <span class="em emphasis">Continua</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Sempre nella schermata <span class="em emphasis">Passo di configurazione di LVM</span>, selezionare <span class="em emphasis">Creare volume logico</span>, selezionare il gruppo di volumi appena creato e inserire un nome per il nuovo LV, per esempio <span class="em emphasis">srv</span> dato che verrà utilizzato come punto di mount per quella partizione. Scegliere la dimensione, che in questo caso può essere l'intera partizione dato che è possibile estenderla o ridurla, scegliere <span class="em emphasis">Termina</span> per tornare alla schermata <span class="em emphasis">Partizionamento dei dischi</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Ora aggiungere il file system al nuovo LVM. Selezionare la partizione <span class="em emphasis">LVM VG vg01, LV srv</span>, o in base al nome inserito, e scegliere <span class="em emphasis">Usato come</span>. Impostare un file system selezionando <span class="em emphasis">/srv</span> come punto di mount e una volta completato, selezionare <span class="em emphasis">Preparazione di questa partizione completata</span>.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Infine, selezionare <span class="em emphasis">Terminare il partizionamento e scrivere i cambiamenti sul disco</span>, confermare le modifiche e continuare l'installazione.</p>
+
+            </li>
+</ol></div></div>
+<p class="para">Per visualizzare informazioni riguardo LVM sono disponibili diverse utilità:</p>
+<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist"><p class="para"><span class="em emphasis">pvdisplay:</span> visualizza informazioni riguardo i volumi fisici.</p></li>
+<li class="list itemizedlist"><p class="para"><span class="em emphasis">vgdisplay</span>: visualizza informazioni riguardo i gruppi di volumi.</p></li>
+<li class="list itemizedlist"><p class="para"><span class="em emphasis">lvdisplay:</span> visualizza informazioni riguardo i volumi logici.</p></li>
+</ul></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="lvm-extending"><div class="inner">
+<div class="hgroup"><h3 class="title">Estendere i gruppi di volumi</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Continuando con <span class="em emphasis">srv</span> come esempio di un volume LVM, questa sezione spiega come aggiungere un secondo disco fisso, creare un volume fisico (PV), aggiungerlo al gruppo di volumi (VG), estendere il volume logico <span class="file filename">srv</span> e infine estendere il file system. Questo esempio presume che sia stato aggiunto un secondo disco fisso al sistema, che verrà chiamato <span class="file filename">/dev/sdb</span>; l'intero disco verrà usato come volume fisico (è possibile scegliere di creare partizioni e usarle come differenti volumi fisici).</p>
+<div class="note note-warning" title="Avvertimento"><div class="inner"><div class="region"><div class="contents">
+          <p class="para">Assicurarsi che non esista già un <span class="file filename">/dev/sdb</span> prima di eseguire i seguenti comandi: se questi vengono eseguiti in un disco non vuoto, si potrebbe causare la perdita di dati.</p>
+        </div></div></div></div>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+ 
+              <p class="para">Creare il volume fisico. In un terminale digitare:</p>
+
+                <div class="screen"><pre class="contents "><span class="cmd command">sudo pvcreate /dev/sdb</span>
+                </pre></div>
+
+            </li>
+<li class="steps">
+
+              <p class="para">Estendere il gruppo di volumi (VG):</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo vgextend vg01 /dev/sdb</span>
+</pre></div>
+
+            </li>
+<li class="steps">
+
+              <p class="para">Usare <span class="app application">vgdisplay</span> per trovare gli extent fisici (PE) liberi (PE/dimensione = dimensione da allocare). In questo esempio viene considerata una dimensione di 511 PE (equivalenti a 2GB con una dimensione di PE di 4MB) e viene utilizzato tutto lo spazio libero. Utilizzare i PE in base alle proprie disponibilità.</p>
+
+              <p class="para">Il volume logico (LV) può essere esteso in diversi modi. In questo esempio viene considerato il caso di utilizzo del PE per estendere il LV:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo lvextend /dev/vg01/srv -l +511</span>
+</pre></div>
+
+              <p class="para">L'opzione <span class="em emphasis">-l</span> consente di estendere il LV attraverso l'uso di PE. L'opzione <span class="em emphasis">-L</span> invece, consente di estendere il LV utilizzando megabyte, gigabyte, terabyte, ecc...</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Sebbene sia possibile <span class="em emphasis">espandere</span> un file system ext3 o ext4 senza prima smontarlo, è comunque consigliabile smontarlo e controllare il file system, in modo da non fare pasticci allorquando sia necessario ridurre un volume logico (in tal caso il preliminare smontaggio è obbligatorio).</p>
+
+              <p class="para">I seguenti comandi sono pensati per un file system <span class="em emphasis">ext3</span> o <span class="em emphasis">ext4</span>. Se si sta utilizzando un altro file system potrebbero essere disponibili altri programmi.</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo umount /srv</span>
+<span class="cmd command">sudo e2fsck -f /dev/vg01/srv</span>
+</pre></div>
+
+              <p class="para">L'opzione <span class="em emphasis">-f</span> di <span class="app application">e2fsck</span> forza il controllo anche se il file system sembra non avere problemi.</p>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Infine, ridimensionare il file system:</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">sudo resize2fs /dev/vg01/srv</span>
+</pre></div>
+
+            </li>
+<li class="steps">
+ 
+              <p class="para">Montare la partizione e controllarne la dimensione.</p>
+
+<div class="screen"><pre class="contents "><span class="cmd command">mount /dev/vg01/srv /srv &amp;&amp; df -h /srv</span>
+</pre></div>
+
+            </li>
+</ol></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect" id="lvm-resources"><div class="inner">
+<div class="hgroup"><h3 class="title">Risorse</h3></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para">Consultare la <a href="https://help.ubuntu.com/community/Installation#lvm" class="ulink" title="https://help.ubuntu.com/community/Installation#lvm">documentazione online riguardo LVM</a>.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Per maggiori informazioni, consultare <a href="http://tldp.org/HOWTO/LVM-HOWTO/index.html" class="ulink" title="http://tldp.org/HOWTO/LVM-HOWTO/index.html">LVM HOWTO</a>.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">Un ottimo articolo presente su linuxdevcenter.com è <a href="http://www.linuxdevcenter.com/pub/a/linux/2006/04/27/managing-disk-space-with-lvm.html" class="ulink" title="http://www.linuxdevcenter.com/pub/a/linux/2006/04/27/managing-disk-space-with-lvm.html">Managing Disk Space with LVM</a>.</p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              For more information on <span class="app application">fdisk</span> see the
+              <a href="http://manpages.ubuntu.com/manpages/bionic/en/man8/fdisk.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/bionic/en/man8/fdisk.8.html">fdisk man page</a>.
+              </p>
+            </li>
+</ul></div></div></div>
+</div></div>
+</div>
+</div></div>
+<div class="sect2 sect" id="iscsi"><div class="inner">
+<div class="hgroup"><h2 class="title">iSCSI</h2></div>
+<div class="region">
+<div class="contents"><p class="para">The iSCSI protocol can be used to install Ubuntu on systems with
+        or without hard disks attached.</p></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Installation on a diskless system</h3></div>
+<div class="region"><div class="contents">
+<p class="para">The first steps of a diskless iSCSI installation are identical
+          to the <a class="xref" href="installing-from-cd.html.it" title="Installazione">Installazione</a> section up to "Hard drive
+          layout".</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+              <p class="para">The installer will display a warning with the following
+              message:</p>
+
+              <div class="screen"><pre class="contents ">No disk drive was detected. If you know the name of the driver needed by your disk drive, you can select it from the list.</pre></div>
+            </li>
+<li class="steps">
+              <p class="para">Select the item in the list titled <span class="em emphasis">login to iSCSI
+              targets.</span></p>
+            </li>
+<li class="steps">
+              <p class="para">You will be prompted to Enter an IP address to scan for
+              iSCSI targets with a description of the format for the address.
+              Enter the IP address for the location of your iSCSI target and
+              navigate to <span class="em emphasis">&lt;continue&gt;</span> then hit
+              <span class="key keycap"><kbd>ENTER</kbd></span></p>
+            </li>
+<li class="steps">
+              <p class="para">If authentication is required in order to access the iSCSI
+              device, provide the <span class="em emphasis">username</span> in the next
+              field. Otherwise leave it blank.</p>
+            </li>
+<li class="steps">
+              <p class="para">If your system is able to connect to the iSCSI provider, you
+              should see a list of available iSCSI targets where the operating
+              system can be installed. The list should be similar to the
+              following :</p>
+
+              <div class="screen"><pre class="contents ">Select the iSCSI targets you wish to use.
+
+iSCSI targets on 192.168.1.29:3260:
+
+[ ] iqn.2016-03.TrustyS-iscsitarget:storage.sys0
+
+&lt;Go Back&gt;                          &lt;Continue&gt;
+
+</pre></div>
+            </li>
+<li class="steps">
+              <p class="para">Select the iSCSI target that you want to use with the space
+              bar. Use the arrow keys to navigate to the target that you want to
+              select.</p>
+            </li>
+<li class="steps">
+              <p class="para">Navigate to <span class="em emphasis">&lt;Continue&gt;</span> and hit
+              <span class="key keycap"><kbd>ENTER</kbd></span>.</p>
+            </li>
+</ol></div></div>
+<p class="para">If the connection to the iSCSI target is successful, you will be
+          prompted with the <span class="em emphasis">[!!] Partition disks</span>
+          installation menu. The rest of the procedure is identical to any
+          normal installation on attached disks. Once the installation is
+          completed, you will be asked to reboot.</p>
+</div></div>
+</div></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Installation on a system with disk attached</h3></div>
+<div class="region"><div class="contents">
+<p class="para">Again, the iSCSI installation on a normal server with one or
+          many disks attached is identical to the <a class="xref" href="installing-from-cd.html.it" title="Installazione">Installazione</a> section until we reach the disk
+          partitioning menu. Instead of using any of the Guided selection, we
+          need to perform the following steps :</p>
+<div class="steps"><div class="inner"><ol class="steps">
+<li class="steps">
+              <p class="para">Navigate to the Manual menu entry</p>
+            </li>
+<li class="steps">
+              <p class="para">Select the Configure iSCSI Volumes menu entry</p>
+            </li>
+<li class="steps">
+              <p class="para">Choose the Log into iSCSI targets</p>
+            </li>
+<li class="steps">
+              <p class="para">You will be prompted to Enter an IP address to scan for
+              iSCSI targets. with a description of the format for the address.
+              Enter the IP address and navigate to
+              <span class="em emphasis">&lt;continue&gt;</span> then hit <span class="key keycap"><kbd>ENTER</kbd></span></p>
+            </li>
+<li class="steps">
+              <p class="para">If authentication is required in order to access the iSCSI
+              device, provide the <span class="em emphasis">username</span> in the next
+              field or leave it blank.</p>
+            </li>
+<li class="steps">
+              <p class="para">If your system is able to connect to the iSCSI provider, you
+              should see a list of available iSCSI targets where the operating
+              system can be installed. The list should be similar to the
+              following :</p>
+
+            <div class="screen"><pre class="contents ">Select the iSCSI targets you wish to use.
+
+iSCSI targets on 192.168.1.29:3260:
+
+[ ] iqn.2016-03.TrustyS-iscsitarget:storage.sys0
+
+&lt;Go Back&gt;                          &lt;Continue&gt;
+</pre></div>
+            </li>
+<li class="steps">
+              <p class="para">Select the iSCSI target that you want to use with the space
+              bar. Use the arrow keys to navigate to the target that you want to
+              select</p>
+            </li>
+<li class="steps">
+              <p class="para">Navigate to &lt;Continue&gt; and hit <span class="key keycap"><kbd>ENTER</kbd></span>.</p>
+            </li>
+<li class="steps">
+              <p class="para">If successful, you will come back to the menu asking you to
+              Log into iSCSI targets. Navigate to Finish and hit <span class="key keycap"><kbd>ENTER</kbd></span></p>
+            </li>
+</ol></div></div>
+<p class="para">The newly connected iSCSI disk will appear in the overview
+          section as a device prefixed with SCSI. This is the disk that you
+          should select as your installation disk. Once identified, you can
+          choose any of the partitioning methods.</p>
+<div class="note note-warning" title="Avvertimento"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">Depending on your system configuration, there may be other
+            SCSI disks attached to the system. Be very careful to identify the
+            proper device before proceeding with the installation. Otherwise,
+            irreversible data loss may result from performing an installation on
+            the wrong disk.</p>
+          </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Rebooting to an iSCSI target</h3></div>
+<div class="region"><div class="contents">
+<p class="para">The procedure is specific to your hardware platform. As an
+          example, here is how to reboot to your iSCSI target using iPXE</p>
+<div class="screen"><pre class="contents ">iPXE&gt; dhcp
+
+Configuring (net0 52:54:00:a4:f2:a9)....... ok
+
+iPXE&gt; sanboot iscsi:192.168.1.29::::iqn.2016-03.TrustyS-iscsitarget:storage.sys0
+</pre></div>
+<p class="para">If the procedure is successful, you should see the Grub menu
+          appear on the screen.</p>
+</div></div>
+</div></div>
+</div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="installing-upgrading.html.it" title="Avanzamento di versione">Indietro</a><a class="nextlinks-next" href="kernel-crash-dump.html.it" title="Scaricamento del kernel in seguito a un crash (Kernel Crash Dump)">Avanti</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address
+          so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p>
+</div>
+</div>
+</body>
+</html>

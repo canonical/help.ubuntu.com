@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Turn off or limit file history tracking</title>
+<title>Traceren van bestandsgeschiedenis uitzetten of beperken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,50 +65,39 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Turn off or limit file history tracking</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Traceren van bestandsgeschiedenis uitzetten of beperken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Tracking recently used files and folders makes it easier to find
-  items that you have been working on in the file manager and in file
-  dialogs in applications. You may wish to keep your file usage history
-  private instead, or only track your very recent history.</p>
+<p class="p">Het traceren van onlangs gebruikte bestanden en mappen vergemakkelijkt het zoeken van items waaraan u gewerkt heeft in bestandsbeheer en in bestandsdialogen in toepassingen. Mogelijk wilt u de bestandsgebruikgeschiedenis liever privé houden of alleen uw zeer recente geschiedenis traceren.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Turn off file history tracking</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Traceren van bestandsgeschiedenis uitzetten</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Usage &amp; History</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Privacy</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Privacy</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Kies <span class="gui">Gebruik &amp; geschiedenis</span>.</p></li>
 <li class="steps">
-<p class="p">Set the <span class="gui">Recently Used</span> switch to <span class="gui">OFF</span>.</p>
-<p class="p">To re-enable this feature, set the <span class="gui">Recently Used</span> switch to
-     <span class="gui">ON</span>.</p>
+<p class="p">Zet <span class="gui">Onlangs gebruikt</span> <span class="gui">UIT</span>.</p>
+<p class="p">Om deze functie weer in te schakelen zet u <span class="gui">Onlangs gebruikt</span> op <span class="gui">AAN</span>.</p>
 </li>
-<li class="steps"><p class="p">Use the <span class="gui">Clear Recent History</span> button to purge the history
-      immediately.</p></li>
+<li class="steps"><p class="p">Gebruik de knop <span class="gui">Recente geschiedenis wissen</span> om meteen de geschiedenis te wissen.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">This setting will not affect how your web browser stores information
-  about the web sites you visit.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Deze instelling heeft geen invloed op hoe uw webbrowser informatie opslaat over de websites die u bezoekt.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Restrict the amount of time your file history is tracked</span></h2></div>
+<div class="title title-steps"><h2><span class="title">De tijdsduur hoe lang uw bestandsgeschiedenis wordt bijgehouden beperken</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Usage &amp; History</span>.</p></li>
-<li class="steps"><p class="p">Ensure the <span class="gui">Recently Used</span> switch is <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Select the length of time to <span class="gui">Retain History</span>. Choose from
-     options <span class="gui">1 day</span>, <span class="gui">7 days</span>, <span class="gui">30 days</span>, or
-     <span class="gui">Forever</span>.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Clear Recent History</span> button to purge the history
-      immediately.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Privacy</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Privacy</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Kies <span class="gui">Gebruik &amp; geschiedenis</span>.</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat <span class="gui">Onlangs gebruikt</span> <span class="gui">AAN</span> staat.</p></li>
+<li class="steps"><p class="p">Kies de tijdsduur voor <span class="gui">Geschiedenis behouden</span>. U kunt kiezen uit <span class="gui">1 dag</span>, <span class="gui">7 dagen</span>, <span class="gui">30 dagen</span>, of <span class="gui">Altijd</span>.</p></li>
+<li class="steps"><p class="p">Gebruik de knop <span class="gui">Recente geschiedenis wissen</span> om meteen de geschiedenis te wissen.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -119,11 +108,7 @@
 <div class="region"><ul>
 <li class="links "><a href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li>
 <li class="links ">
-<a href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.nl" title="Het scherm automatisch vergrendelen">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.nl" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.nl" title="Prullenbak legen &amp; tijdelijke bestanden definitief verwijderen">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.nl" title="Het scherm automatisch vergrendelen">Schermvergrendeling</a></span>, <span class="link"><a href="privacy-history-recent-off.html.nl" title="Traceren van bestandsgeschiedenis uitzetten of beperken">Gebruiksgeschiedenis</a></span>, <span class="link"><a href="privacy-purge.html.nl" title="Purge trash &amp; temporary files">Prullenbak &amp; tijdelijke bestanden verwijderen</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -135,7 +120,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

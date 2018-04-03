@@ -64,55 +64,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Łączenie z siecią komórkową</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can set up a connection to a cellular (3G) network with your
-  computer’s built-in 3G modem, your mobile phone, or an Internet stick.</p>
+<p class="p">Można skonfigurować połączenie z siecią komórkową (3G) za pomocą wbudowanego modemu 3G komputera, telefonu komórkowego lub karty USB.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">If you do not have a built-in 3G modem, connect your phone or
-    Internet stick to a USB port on your computer.</p></li>
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">system menu</a></span> from the right
-    side of the top bar.</p></li>
+<li class="steps"><p class="p">Jeśli komputer nie ma wbudowanego modemu 3G, to podłącz telefon lub kartę do portu USB.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">menu systemowe</a></span> po prawej stronie górnego paska.</p></li>
 <li class="steps">
-<p class="p">Select
-    <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-cellular-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
-      Mobile Broadband Off</span>. The <span class="gui">Mobile Broadband</span> section of
-      the menu will expand.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">If <span class="gui">Mobile Broadband</span> does not appear in the system
-        status menu, ensure that your device is not set to connect as Mass
-        Storage.</p></div></div></div></div>
+<p class="p">Wybierz <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-cellular-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Sieć komórkowa jest wyłączona</span>. Sekcja menu <span class="gui">Sieć komórkowa</span> zostanie rozwinięta.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli w menu systemowym nie ma pozycji <span class="gui">Sieć komórkowa</span>, to upewnij się, że urządzenie nie jest podłączone jako urządzenie do przechowywania danych.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Select <span class="gui">Connect</span>. If you are connecting for the first
-    time, the <span class="gui">Set up a Mobile Broadband Connection</span> wizard is
-    launched. The opening screen displays a list of required information. Click
-    <span class="gui">Next</span>.</p></li>
-<li class="steps"><p class="p">Choose your provider’s country or region from the list. Click
-    <span class="gui">Next</span>.</p></li>
-<li class="steps"><p class="p">Choose your provider from the list. Click
-    <span class="gui">Next</span>.</p></li>
-<li class="steps"><p class="p">Select a plan according to the type of device you are
-    connecting. This will determine the Access Point Name. Click
-    <span class="gui">Next</span>.</p></li>
-<li class="steps"><p class="p">Confirm the settings you have selected by clicking
-    <span class="gui">Apply</span>. The wizard will close and the
-    <span class="gui">Network</span> panel will display the properties of your
-    connection.</p></li>
+<li class="steps"><p class="p">Wybierz <span class="gui">Połącz</span>. Asystent <span class="gui">Ustawianie połączenia komórkowego</span> jest uruchamiany podczas pierwszego połączenia. Ekran otwierający wyświetla listę potrzebnych informacji. Kliknij przycisk <span class="gui">Dalej</span>.</p></li>
+<li class="steps"><p class="p">Wybierz kraj lub region dostawcy z listy. Kliknij przycisk <span class="gui">Dalej</span>.</p></li>
+<li class="steps"><p class="p">Wybierz dostawcę z listy. Kliknij przycisk <span class="gui">Dalej</span>.</p></li>
+<li class="steps"><p class="p">Wybierz plan zgodnie z rodzajem używanego urządzenia. Ustali to nazwę punktu dostępowego. Kliknij przycisk <span class="gui">Dalej</span>.</p></li>
+<li class="steps"><p class="p">Potwierdź wybrane ustawienia klikając przycisk <span class="gui">Zastosuj</span>. Asystent zostanie zamknięty, a panel <span class="gui">Sieć</span> wyświetli właściwości połączenia.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Some phones have a setting called <span class="em">USB tethering</span> that requires
-      no setup on the computer. When the setting is activated on the phone, the
-      connection will show up as <span class="gui">Ethernet Connected</span> in the system
-      menu and <span class="gui">USB ethernet</span> in the network panel.</p></div></div></div></div>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Część telefonów ma ustawienie o nazwie <span class="em">Tethering przez USB</span>, które nie wymaga ustawiania niczego na komputerze. Po włączeniu ustawienia na telefonie połączenie pojawi się jako <span class="gui">Połączono z siecią Ethernet</span> w menu systemowym, a jako <span class="gui">Ethernet przez USB</span> w panelu sieci.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">Ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Why does my wireless network keep disconnecting?">Rozłączanie</a></span>…</span>
+<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Dlaczego sieć bezprzewodowa ciągle się rozłącza?">rozłączanie</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -123,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -85,8 +85,8 @@
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Caracteres</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Outro aplicativo útil que vem com o GNOME é <span class="app">Caracteres</span>. Ele permite que você localize e insira caracteres incomuns navegando pelas categorias de caracteres ou pesquisa por palavras-chaves.</p>
-<p class="p">Você pode iniciar Caracteres no panorama de Atividades. Para mais informações sobre o Caracteres, veja o <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">Manual do Caracteres</a></span>.</p>
+<p class="p">O GNOME vem com um aplicativo de mapa de caracteres que permite que você localize e insira caracteres incomuns, incluindo emoji, navegando pelas categorias de caracteres ou pesquisa por palavras-chaves.</p>
+<p class="p">Você pode iniciar <span class="app">Caracteres</span> do panorama de Atividades.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -94,7 +94,10 @@
 <div class="region"><div class="contents">
 <p class="p">Uma tecla de composição é uma tecla especial que lhe permite pressionar múltiplas teclas de uma vez para obter um caractere especial. Por exemplo, para digitar a letra acentuada <span class="em">é</span>, você pode pressionar <span class="key"><kbd>composição</kbd></span>, <span class="key"><kbd>'</kbd></span> e então <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Os teclados não possuem teclas específicas para composição. Em vez disso, você pode definir uma das existentes no seu teclado como uma de composição.</p>
-<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Você precisa ter <span class="app">Ajustes</span> instalado em seu computador para alterar essa configuração.</p></div></div></div></div>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Você precisa ter <span class="app">Ajustes</span> instalado em seu computador para alterar essa configuração.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Instalar <span class="app">Ajustes</span></a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definir uma tecla de composição</span></h3></div>
 <div class="region"><ol class="steps">
@@ -104,7 +107,7 @@
 <li class="steps"><p class="p">Clique em <span class="gui">Desabilitado</span> próximo à configuração <span class="gui">Tecla de composição</span>.</p></li>
 <li class="steps"><p class="p">Ative o botão no diálogo e escolha o atalho de teclado que você deseja usar.</p></li>
 <li class="steps"><p class="p">Marque a caixa de seleção da tecla que você deseja definir como tecla de composição.</p></li>
-<li class="steps"><p class="p">Close the dialog.</p></li>
+<li class="steps"><p class="p">Feche o diálogo.</p></li>
 <li class="steps"><p class="p">Feche a janela do <span class="gui">Ajustes</span>.</p></li>
 </ol></div>
 </div></div>
@@ -121,13 +124,13 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pontos de código</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Você pode digitar qualquer caractere Unicode usando os pontos de códigos numéricos do caractere em seu teclado. Todo caractere é identificado por um ponto de código de quatro caracteres. Para descobrir o ponto de código de um caractere, localize o caractere no aplicativo Mapa de caracteres observando a barra de estado ou a aba <span class="gui">Detalhes do caractere</span>. O ponto de código encontra-se quatro caracteres após <span class="gui">U+</span>.</p>
-<p class="p">Para inserir um caractere por meio do seu ponto de código, pressione e mantenha pressionadas as teclas <span class="key"><kbd>Ctrl</kbd></span> e <span class="key"><kbd>Shift</kbd></span>, digite <span class="key"><kbd>U</kbd></span> seguido pelo código de ponto de quatro caracteres e, então, solte o <span class="key"><kbd>Ctrl</kbd></span> e <span class="key"><kbd>Shift</kbd></span>. Se você usa com frequência os caracteres que você não consegue acessar facilmente com os outros métodos, pode lhe ser útil memorizar o ponto de código para aqueles caracteres, de forma que você possa inseri-los rapidamente.</p>
+<p class="p">Você pode digitar qualquer caractere Unicode usando os pontos de códigos numéricos do caractere em seu teclado. Todo caractere é identificado por um ponto de código de quatro caracteres. Para descobrir o ponto de código de um caractere, procure no aplicativo <span class="app">Caracteres</span>. O ponto de código encontra-se quatro caracteres após <span class="gui">U+</span>.</p>
+<p class="p">Para inserir um caractere por meio do seu ponto de código, pressione <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, então digite o código de quatro caracteres e pressione <span class="key"><kbd>Espaço</kbd></span> ou <span class="key"><kbd>Enter</kbd></span>. Se você usa com frequência os caracteres que você não consegue acessar facilmente com os outros métodos, pode lhe ser útil memorizar o ponto de código para aqueles caracteres, de forma que você possa inseri-los rapidamente.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Disposições de teclado</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Você pode fazer seu teclado se comportar como um de outro idioma, independentemente das letras impressas nas teclas. Você pode até mesmo alternar entre disposições de teclado facilmente usando um ícone na barra superior. Para aprender como, veja <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Você pode fazer seu teclado se comportar como um de outro idioma, independentemente das letras impressas nas teclas. Você pode até mesmo alternar entre disposições de teclado facilmente usando um ícone na barra superior. Para aprender como, veja <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Usando disposições alternativas de teclado">Usando disposições alternativas de teclado</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Métodos de entrada</span></h2></div>
@@ -148,7 +151,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.pt-BR" title="Usando disposições alternativas de teclado">Usando disposições alternativas de teclado</a><span class="desc"> — Adicione disposições de teclado e alterne entre eles.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -160,7 +163,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

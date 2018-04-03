@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni az <span class="gui">Online fiókok</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Online fiókok</span> ikonra a panel megnyitásához.</p></li>
-<li class="steps"><p class="p">Kattintson az ablak bal alsó sarkában lévő <span class="gui">+</span> gombra.</p></li>
+<li class="steps"><p class="p">Select an account from the list on the right.</p></li>
 <li class="steps"><p class="p">Válassza ki a hozzáadni kívánt fiók típusát.</p></li>
 <li class="steps"><p class="p">Megnyílik egy kis weboldal ablak, amelyben megadhatja az online fiókjainak adatait. Ha például egy Google fiókot állít be, akkor adja meg a Google felhasználónevét és jelszavát. Néhány szolgáltató lehetővé teszi új fiók létrehozását a bejelentkezési ablakban.</p></li>
 <li class="steps"><p class="p">Ha helyesen adta meg hitelesítési adatait, akkor a program felkéri, hogy engedélyezze a GNOME számára az online fiókjának elérését. A folytatáshoz adja meg a hozzáférést.</p></li>
@@ -99,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

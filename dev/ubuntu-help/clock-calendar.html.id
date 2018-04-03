@@ -75,21 +75,16 @@
 <div class="region">
 <div class="contents">
 <div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents">
-<p class="p">This requires you to use your <span class="app">Evolution</span> calendar or for you
-    to have an online account set up which <span class="gui">Calendar</span> supports.</p>
-<p class="p">Most distributions come with <span class="app">Evolution</span> installed by default.
-    If yours does not, you may need to install it using your distribution’s
-    package manager.</p>
+<p class="p">Ini memerlukan Anda untuk menggunakan kalender <span class="app">Evolution</span> atau untuk Anda yang memiliki konfigurasi akun daring yang mendukung <span class="gui">Kalender</span>.</p>
+<p class="p">Kebanyakan distro datang dengan aplikasi <span class="app">Evolution</span> secara baku. Bila milikmu tidak ada, Anda mungkin perlu memasangnya memakai manajer paket distro Anda.</p>
 </div></div></div></div>
 <p class="p">Untuk melihat janji temu Anda:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klik pada jam di bilah puncak.</p></li>
 <li class="steps">
 <p class="p">Klik tanggal mana yang ingin Anda lihat janji temu Anda pada kalender.</p>
-<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">A dot is shown under each date that has an appointment.</p></div></div></div></div>
-<p class="p">Existing appointments will be displayed to the left of the calendar.
-      As appointments are added to your <span class="app">Evolution</span> calendar, they
-      will appear in the clock’s appointment list.</p>
+<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Tanda titik ditampilkan di bawah tiap-tiap tanggal yang memiliki janji.</p></div></div></div></div>
+<p class="p">Janji temu yang ada akan ditampilkan di sebelah kiri kalender. Ketika janji temu ditambahkan ke kalender <span class="app">Evolution</span> Anda, mereka akan muncul di daftar jam janji temu.</p>
 </li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="figures/shell-appts.png" width="500" class="media media-block" alt="Jam, kalender, dan janji temu"></div></div>
@@ -113,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

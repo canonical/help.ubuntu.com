@@ -64,15 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#backup" title="Reservekopieën maken">Reservekopieën maken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#backup" title="Reservekopieën maken">Reservekopieën maken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uw reservekopie controleren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">After you have backed up your files, you should make sure that the
- backup was successful. If it didn’t work properly, you could lose important
- data since some files could be missing from the backup.</p>
+<p class="p">Nadat u een reservekopie heeft gemaakt van uw bestanden moet u controleren of de reservekopie geslaagd is. Als het niet goed gegaan is kunt u belangrijke gegevens verliezen, aangezien er bestanden in de reservekopie kunnen ontbreken.</p>
 <p class="p">Wanneer u <span class="app">Bestanden</span> gebruikt om bestanden te kopiëren of te verplaatsen controleert de computer of alle gegevens op de juiste wijze zijn overgebracht. Maar als u gegevens overbrengt die zeer belangrijk voor u zijn, dan wilt u misschien extra controles uitvoeren om te bevestigen dat uw gegevens op de juiste wijze zijn overgebracht.</p>
 <p class="p">U kunt een extra controle uitvoeren door de gekopieerde bestanden en mappen op het doelmedium na te lopen. Door te controleren of de door u overgebrachte bestanden en mappen zich ook werkelijk in de reservekopie bevinden, kunt u erop vertrouwen dat het proces geslaagd is.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u regelmatig reservekopieën maakt van grote hoeveelheden gegevens, dan is het misschien eenvoudiger om een speciaal voor dit doel gemaakt toepassing zoals <span class="app">Déjà Dup</span> te gebruiken. Een dergelijk programma is krachtiger en betrouwbaarder dan het eenvoudigweg kopiëren en plakken van bestanden.</p></div></div></div></div>
@@ -91,7 +89,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

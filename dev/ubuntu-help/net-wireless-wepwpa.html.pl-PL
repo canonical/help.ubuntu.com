@@ -64,30 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Co znaczy „WEP” i „WPA”?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">WEP and WPA (along with WPA2) are names for different encryption tools
-  used to secure your wireless connection. Encryption scrambles the network
-  connection so that no one can “listen in” to it and look at which web pages
-  you are viewing, for example. WEP stands for <span class="em">Wired Equivalent
-  Privacy</span>, and WPA stands for <span class="em">Wireless Protected Access</span>. WPA2 is
-  the second version of the WPA standard.</p>
-<p class="p">Using <span class="em">some</span> encryption is always better than using none, but WEP
-  is the least secure of these standards, and you should not use it if you can
-  avoid it. WPA2 is the most secure of the three. If your wireless card and
-  router support WPA2, that is what you should use when setting up your
-  wireless network.</p>
+<p class="p">WEP i WPA (a także WPA2) to nazwy różnych narzędzi szyfrowania używanych do zabezpieczania połączenia bezprzewodowego. Szyfrowanie koduje połączenie sieciowe, aby nikt nie mógł go „podsłuchiwać” i widzieć, jakie strony są przeglądane. WEP to skrót od <span class="em">Wired Equivalent Privacy</span>, a WPA od <span class="em">Wireless Protected Access</span>. WPA2 to druga wersja standardu WPA.</p>
+<p class="p">Używanie <span class="em">jakiegokolwiek</span> szyfrowania jest zawsze lepsze niż nieużywanie żadnego, ale WEP to najmniej bezpieczny standard i należy unikać jego używania. WPA2 jest najbezpieczniejszym standardem. Jeśli karta bezprzewodowa i router obsługują WPA2, to należy go użyć podczas konfiguracji sieci bezprzewodowej.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">Ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Why does my wireless network keep disconnecting?">Rozłączanie</a></span>…</span>
+<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Dlaczego sieć bezprzewodowa ciągle się rozłącza?">rozłączanie</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -98,7 +89,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

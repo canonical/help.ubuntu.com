@@ -65,20 +65,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="media.html.pl-PL#sound" title="Dźwięk">Dźwięk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="media.html.pl-PL#sound" title="Dźwięk">Dźwięk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemy z dźwiękiem</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">There are a number of ways for sound playback to break on your computer. Which of the topics below best describes the problem you are experiencing?</p>
+<p class="p">Odtwarzanie dźwięku może być zepsute z wielu powodów. Który z tematów poniżej najlepiej opisuje występujący problem?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html.pl-PL" title="I cannot hear any sounds on the computer"><span class="title">I cannot hear any sounds on the computer</span><span class="linkdiv-dash"> — </span><span class="desc">Check that the sound is not muted, that cables are plugged in properly,
-    and that the sound card is detected.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html.pl-PL" title="I hear crackling or buzzing when sounds are playing"><span class="title">I hear crackling or buzzing when sounds are playing</span><span class="linkdiv-dash"> — </span><span class="desc">Check your audio cables and sound card drivers.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html.pl-PL" title="Nie słychać żadnych dźwięków na komputerze"><span class="title">Nie słychać żadnych dźwięków na komputerze</span><span class="linkdiv-dash"> — </span><span class="desc">Sprawdź, czy dźwięk nie jest wyciszony, czy kable są poprawnie podłączone oraz czy karta dźwiękowa jest wykrywana.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html.pl-PL" title="Słychać trzaski lub szumy podczas odtwarzania dźwięku"><span class="title">Słychać trzaski lub szumy podczas odtwarzania dźwięku</span><span class="linkdiv-dash"> — </span><span class="desc">Sprawdź kable audio i sterowniki karty dźwiękowej.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -100,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

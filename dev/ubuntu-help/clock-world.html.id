@@ -70,32 +70,24 @@
 <div class="hgroup"><h1 class="title"><span class="title">Tambah jam dunia</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Use <span class="app">Clocks</span> to add times in other cities.</p>
+<p class="p">Gunakan <span class="app">Jam</span> untuk menambah waktu pada kota lainnya.</p>
 <div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents">
-<p class="p">This requires the <span class="app">Clocks</span> application to be installed.</p>
-<p class="p">Most distributions come with <span class="app">Clocks</span> installed by default.
-    If yours does not, you may need to install it using your distribution’s
-    package manager.</p>
+<p class="p">Ini memerlukan aplikasi <span class="app">Jam</span> untuk dipasang.</p>
+<p class="p">Kebanyakan distro terdapat <span class="app">Jam</span> secara baku. Bila milikmu tidak, Anda mungkin perlu memasangnya memakai manajer paket distro Anda.</p>
 </div></div></div></div>
-<p class="p">To add a world clock:</p>
+<p class="p">Untuk menambah jam dunia:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klik pada jam di bilah puncak.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Add world clocks…</span> link under the calendar to
-      launch <span class="app">Clocks</span>.</p>
-<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">If you already have one or more world clocks, click on one and
-       <span class="app">Clocks</span> will launch.</p></div></div></div></div>
+<p class="p">Klik pada tautan <span class="gui">Tambah jam dunia...</span> di bawah kalender untuk menjalankan <span class="app">Jam</span>.</p>
+<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Jika Anda sudah memiliki satu atau jam dunia, klik pada salah satu dan <span class="app">Jam</span> akan dijalankan.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">In the <span class="app">Clocks</span> window, click
-      <span class="gui">New</span> button or press
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> to add a new city.</p></li>
-<li class="steps"><p class="p">Start typing the name of the city into the search.</p></li>
-<li class="steps"><p class="p">Select the correct city or the closest location to you from the
-      list.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to finish adding the city.</p></li>
+<li class="steps"><p class="p">Pada jendela <span class="app">Jam</span>, klik tombol <span class="gui">Baru</span> atau tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> untuk menambah kota baru.</p></li>
+<li class="steps"><p class="p">Memulai mengetikkan nama kota pada pencarian.</p></li>
+<li class="steps"><p class="p">Pilih kota yang tepat atau yang memiliki lokasi terdekat dengan Anda dari daftar.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Tambah</span> untuk menyelesaikan penambahan kota.</p></li>
 </ol></div></div></div>
-<p class="p">Refer to the <span class="link"><a href="help:gnome-clocks" title="help:gnome-clocks">Clocks Help</a></span> for more
-  of the capabilities of <span class="app">Clocks</span>.</p>
+<p class="p">Merujuk ke <span class="link"><a href="help:gnome-clocks" title="help:gnome-clocks">Bantuan Jam</a></span> untuk kemampuan lainnya dari <span class="app">Jam</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -108,7 +100,7 @@
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
-<div class="region"><ul><li class="links "><a href="help:gnome-clocks/index" title="Clocks Help">Clocks Help</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="help:gnome-clocks/index" title="Bantuan Jam">Bantuan Jam</a></li></ul></div>
 </div></div>
 </div>
 </div>
@@ -119,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

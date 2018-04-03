@@ -80,14 +80,8 @@
 <p class="p">На додирним таблама које подржавају лупкање са више прстију, можете да лупнете са три прста одједном да бисте извршили средњи клик. Да би ово радило, мораћете да <span class="link"><a href="mouse-touchpad-click.html.sr" title="Кликните, превуците, или клизајте на додирној табли">укључите клик на додирној табли</a></span> у подешавањима додирне табле.</p>
 <p class="p">Многи програми користе средњи клик за напредније пречице на клик.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
-  window for an application with middle-click. Simply middle-click on the
-  application’s icon, either in the dash on the left, or in the applications
-  overview. The applications overview is displayed using the grid button in the
-  dash.</p></li>
-<li class="list"><p class="p">Most web browsers allow you to open links in tabs quickly with the
-  middle mouse button. Just click any link with your middle mouse button, and
-  it will open in a new tab.</p></li>
+<li class="list"><p class="p">У прегледу <span class="gui">Активности</span>, средњим кликом можете брзо да отворите нови прозор неког програма. Једноставно кликните средњим тастером на иконицу програма, било на полетнику на левој страни, или на прегледу програма. Преглед програма се приказује коришћењем дугмета мреже у полетнику.</p></li>
+<li class="list"><p class="p">Већина веб прегледника вам омогућава да брзо отворите везе у језичцима помоћу средњег тастера миша. Само кликните на било коју везу средњим тастером миша и отвориће се у новом језичку.</p></li>
 <li class="list"><p class="p">У управнику датотека, средњи клик има две улоге. Ако извршите средњи клик над фасциклом, отвориће је у новом језичку. Ово имитира понашање познатих веб прегледника. Ако извршите средњи клик над датотеком, отвориће датотеку, као да сте два пута кликнули на њу.</p></li>
 </ul></div></div></div>
 <p class="p">Неки наменски програми вам допуштају да користите средњи тастер миша за друге функције. Прегледајте помоћ ваших програма за <span class="em">средњим кликом</span> или <span class="em">средњим тастером миша</span>.</p>
@@ -111,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

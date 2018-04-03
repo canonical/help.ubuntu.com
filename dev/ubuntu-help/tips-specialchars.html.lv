@@ -85,8 +85,8 @@
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Rakstzīmes</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Vēl viena noderīga lietotne, kas nāk kopā ar GNOME, ir <span class="app">Rakstzīmes</span>. Tā ļauj atrast un ielīmēt neparastas rakstzīmes, pārlūkojot rakstzīmju katalogu, vai meklējot atslēgvārdus.</p>
-<p class="p">Jūs varat palaist Rakstzīmes no Aktivitāšu pārskata. Lai uzzinātu vairāk par Rakstzīmēm, skatiet <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">Rakstzīmju rokasgrāmatu</a></span>.</p>
+<p class="p">GNOME komplektā ir rakstzīmju kartes lietotne, kas jums ļauj meklēt un ievietot netipiskas rakstzīmes, tai skaitā emocijzīmes, pārlūkojot rakstzīmju kategorijas vai meklējot ar atslēgvārdiem.</p>
+<p class="p">Jūs varat palaist <span class="app">Rakstzīmes</span> no Aktivitāšu pārskata.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -94,7 +94,10 @@
 <div class="region"><div class="contents">
 <p class="p">Kompozīcijas taustiņš ir īpašs taustiņš, kas ļauj spiest vairākus taustiņus pēc kārtas, lai iegūtu īpašu rakstzīmi. Piemēram, iegūtu burtu ar akcentu <span class="em">é</span>, jāspiež <span class="key"><kbd>kompozīcija</kbd></span> tad <span class="key"><kbd>'</kbd></span> tad <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Tastatūrām nav īpašo kompozīcijas taustiņu. Tā vietā, jūs varat definēt vienu no esošajiem tastatūras taustiņiem, kā kompozīcijas taustiņu.</p>
-<div class="note note-important" title="Svarīgi"><div class="inner"><div class="region"><div class="contents"><p class="p">Jābūt uzinstalētai <span class="app">Piedarei</span>, lai mainītu šo iestatījumu.</p></div></div></div></div>
+<div class="note note-important" title="Svarīgi"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Jābūt uzinstalētai <span class="app">Piedarei</span>, lai mainītu šo iestatījumu.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Instalēt <span class="app">Piedari</span></a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definēt kompozīcijas taustiņu</span></h3></div>
 <div class="region"><ol class="steps">
@@ -104,7 +107,7 @@
 <li class="steps"><p class="p">Spiediet uz <span class="gui">Izslēgts</span> pie iestatījuma <span class="gui">Kompozīcijas taustiņš</span>.</p></li>
 <li class="steps"><p class="p">Dialoglodziņā ieslēdziet slēdzi un izvēlieties tastatūras saīsni, ko vēlaties izmantot.</p></li>
 <li class="steps"><p class="p">Atzīmējiet atzīmes rūtiņā taustiņu, kuru vēlaties iestatīt kā komponēšanas taustiņu.</p></li>
-<li class="steps"><p class="p">Close the dialog.</p></li>
+<li class="steps"><p class="p">Aizveriet dialoglodziņu.</p></li>
 <li class="steps"><p class="p">Aizveriet <span class="gui">Piedares</span> logu.</p></li>
 </ol></div>
 </div></div>
@@ -121,13 +124,13 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Koda punkti</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Jūs varat ievadīt jebkuru unikoda rakstzīmi, izmantojot tikai tastatūru ar ciparu kodu punktu no rakstzīmēm. Katra rakstzīme ir identificēta ar četru zīmju koda punktu. Lai atrastu rakstzīmju koda punktu, atrodiet rakstzīmes rakstzīmju kartes programmā un apskatiet statusa joslu vai <span class="gui">Character Details</span> cilnē. Koda punkti ir četras rakstzīmes pēc <span class="gui">U+</span>.</p>
-<p class="p">Lai ievadītu rakstzīmi pēc tās koda punkta, turiet <span class="key"><kbd>Ctrl</kbd></span> un <span class="key"><kbd>Shift</kbd></span>, ievadiet <span class="key"><kbd>U</kbd></span> pēc četru rakstzīmju koda punkta, pēc tam atlaidiet <span class="key"><kbd>Ctrl</kbd></span> un <span class="key"><kbd>Shift</kbd></span>. Ja jūs bieži izmantojat rakstzīmes, kurām jūs nevarat viegli piekļūt ar citām metodēm, jūs varat secināt, ka vajadzētu atcerēties koda punktus šīm rakstzīmēm, lai varētu tās ātri ievadīt.</p>
+<p class="p">Jūs varat ievadīt jebkuru unikoda rakstzīmi, izmantojot tikai tastatūru ar ciparu kodu punktu no rakstzīmēm. Katra rakstzīme ir identificēta ar četru zīmju koda punktu. Lai atrastu rakstzīmju koda punktu, uzmeklējiet to lietotnē <span class="gui">Raktzīmes</span>. Koda punkts ir četras rakstzīmes pēc <span class="gui">U+</span>.</p>
+<p class="p">Lai ievadītu rakstzīmi pēc tās koda punkta, spiediet <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, tad ievadiet četru rakstzīmju koda punktu un spiediet atstarpes taustiņu vai <span class="key"><kbd>Enter</kbd></span>. Ja jūs bieži izmantojat rakstzīmes, kurām jūs nevarat viegli piekļūt ar citām metodēm, jūs varat secināt, ka vajadzētu atcerēties koda punktus šīm rakstzīmēm, lai varētu tās ātri ievadīt.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tastatūras izkārtojumi</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Jūs varat likt savai tastatūrai darboties citā valodā, neatkarīgi no burtiem, kas ir uzrakstīti uz tastatūras taustiņiem. Jūs pat varat viegli pārslēgties starp dažādiem tastatūras izkārtojumiem izmantojot ikonu augšējajā joslā. Lai iemācītos, kā to izdarīt. skatiet <span class="link"><a href="keyboard-layouts.html.lv" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Jūs varat likt savai tastatūrai darboties citā valodā, neatkarīgi no burtiem, kas ir uzrakstīti uz tastatūras taustiņiem. Jūs pat varat viegli pārslēgties starp dažādiem tastatūras izkārtojumiem izmantojot ikonu augšējajā joslā. Lai iemācītos, kā to izdarīt. skatiet <span class="link"><a href="keyboard-layouts.html.lv" title="Izmantojiet alternatīvus tastatūru izkārtojumus">Izmantojiet alternatīvus tastatūru izkārtojumus</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ievades metodes</span></h2></div>
@@ -148,7 +151,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.lv" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.lv" title="Izmantojiet alternatīvus tastatūru izkārtojumus">Izmantojiet alternatīvus tastatūru izkārtojumus</a><span class="desc"> — Pievienot tastatūru izkārtojumus un starp tiem pārslēgties.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -160,7 +163,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

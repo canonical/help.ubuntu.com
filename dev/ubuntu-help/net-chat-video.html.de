@@ -64,32 +64,30 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-chat.html.de" title="Chat &amp; Soziale Netzwerke">Chat &amp; Soziale Netzwerke</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-chat.html.de" title="Chat &amp; Soziale Netzwerke">Chat &amp; Soziale Netzwerke</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bildtelefonie</span></h1></div>
 <div class="region">
-<div class="contents">
-<p class="p">Videotelefonate sind unter Ubuntu ohne die Installation zusätzlicher Anwendungen möglich. Mit <span class="app">Empathy</span> können Sie über die Netzwerke <span class="em">Google Talk</span>, <span class="em">MSN </span>, <span class="em">Jabber </span> und <span class="em">SIP</span> Videotelefonate führen. Für weitere Informationen und Hilfe zu Videotelefonie mit<span class="app">Empathy</span> können Sie <span class="link"><a href="https://help.gnome.org/users/empathy/stable/audio-video" title="https://help.gnome.org/users/empathy/stable/audio-video">das Empathy-Handbuch</a></span> lesen.</p>
-<div class="list"><div class="inner">
-<div class="title title-list"><h2><span class="title">Weitere Anwendungen, die Bildtelefonie unterstützen, sind</span></h2></div>
+<div class="contents"><div class="list"><div class="inner">
+<div class="title title-list"><h2><span class="title">Applications which support video calls include</span></h2></div>
 <div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="https://apps.ubuntu.com/cat/applications/skype" title="https://apps.ubuntu.com/cat/applications/skype">Skype</a></span></span></p></li>
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="https://apps.ubuntu.com/cat/applications/ekiga" title="https://apps.ubuntu.com/cat/applications/ekiga">Ekiga</a></span></span></p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="net-chat-empathy.html.de" title="Sofortnachrichten unter Ubuntu">Empathy</a></span></span>
+    </p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="net-chat-skype.html.de" title="Wie kann ich Skype unter Ubuntu verwenden?">Skype</a></span></span>
+    </p></li>
+<li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Ekiga</a></span></span></p></li>
 </ul></div>
-</div></div>
-</div>
+</div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.de" title="Chat &amp; Soziale Netzwerke">Chat &amp; Soziale Netzwerke</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.de" title="Sofortnachrichten unter Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.de" title="Bildtelefonie">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.de" title="Wie kann ich Skype unter Ubuntu verwenden?">install skype</a></span>
-    </span>
+<a href="net-chat.html.de" title="Chat &amp; Soziale Netzwerke">Chat &amp; Soziale Netzwerke</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.de" title="Sofortnachrichten unter Ubuntu">Chat in einem beliebigen Netzwerk mit <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.de" title="Bildtelefonie">Videoanrufe machen</a></span>, <span class="link"><a href="net-chat-skype.html.de" title="Wie kann ich Skype unter Ubuntu verwenden?">Skype installieren</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -112,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

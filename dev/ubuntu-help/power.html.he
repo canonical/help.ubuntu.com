@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.he" title="Hardware &amp; drivers">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.he" title="Hardware &amp; drivers">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.he" title="User &amp; system settings">Settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.he" title="User &amp; system settings">Settings</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,12 +77,11 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.he" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.he" title="Get the most out of your laptop battery"><span class="title">Get the most out of your laptop battery</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.he" title="How do I hibernate my computer?"><span class="title">How do I hibernate my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernate is disabled by default since it's not well supported.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.he" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
     users, and so on.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.he" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.he" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.he" title="Use less power and improve battery life"><span class="title">Use less power and improve battery life</span><span class="linkdiv-dash"> — </span><span class="desc">Tips to reduce the power consumption of your computer.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.he" title="What happens when I suspend my computer?"><span class="title">What happens when I suspend my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspend sends your computer to sleep so it uses less power.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.he" title="Why does my computer turn off when I close the lid?"><span class="title">Why does my computer turn off when I close the lid?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops go to sleep when you close the lid, in order to save
@@ -177,7 +176,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

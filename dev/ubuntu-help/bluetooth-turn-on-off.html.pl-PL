@@ -64,34 +64,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="bluetooth.html.pl-PL" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="bluetooth.html.pl-PL" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Włączanie i wyłączanie Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can turn Bluetooth on to connect to other Bluetooth devices, or turn
-  it off to conserve power. To turn Bluetooth on:</p>
+<p class="p">Można włączyć Bluetooth, aby łączyć się z innymi urządzeniami Bluetooth, albo wyłączyć go, aby oszczędzać prąd. Aby włączyć Bluetooth:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Bluetooth</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Set the switch at the top to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Ustaw przełącznik na górze na <span class="gui">|</span> (włączone).</p></li>
 </ol></div></div></div>
-<p class="p">Many laptop computers have a hardware switch or key combination to turn
-  Bluetooth on and off. Look for a switch on your computer or a key on your
-  keyboard. The keyboard key is often accessed with the help of the
-  <span class="key"><kbd class="key-Fn">Fn</kbd></span> key.</p>
+<p class="p">Wiele laptopów ma przełącznik sprzętowy lub kombinację klawiszy do włączania i wyłączania Bluetooth. Poszukaj przełącznika na komputerze lub klawisza na klawiaturze. Klawisz Bluetooth często wymaga jednoczesnego przytrzymania klawisza <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
 <p class="p">Aby wyłączyć Bluetooth:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">system menu</a></span> from the
-      right side of the top bar.</p></li>
-<li class="steps"><p class="p">Select
-      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span>
-      Not In Use</span>. The Bluetooth section of the menu will expand.</p></li>
-<li class="steps"><p class="p">Wybierz <span class="gui">Wyłącz</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">menu systemowe</a></span> po prawej stronie górnego paska.</p></li>
+<li class="steps"><p class="p">Wybierz <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span> Nieużywane</span>. Sekcja Bluetooth zostanie rozwinięta.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Wyłącz</span>.</p></li>
 </ol></div></div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Your computer is <span class="link"><a href="bluetooth-visibility.html.pl-PL" title="Czym jest widoczność Bluetooth?">visible</a></span> as
-  long as the <span class="gui">Bluetooth</span> panel is open.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Komputer jest <span class="link"><a href="bluetooth-visibility.html.pl-PL" title="Czym jest widoczność Bluetooth?">widoczny</a></span>, kiedy panel <span class="gui">Bluetooth</span> jest otwarty.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -109,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

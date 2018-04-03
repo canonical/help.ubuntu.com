@@ -77,14 +77,13 @@
 <a href="#" class="ui-overlay-close" title="Luk">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-task-switching.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Afspil" data-pause-label="Pause"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Skifte mellem opgaver</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="5" data-ttml-end="8"><div class="media-ttml-node media-ttml-p" data-ttml-begin="5" data-ttml-end="8">Flyt din musemarkør til hjørnet med <span class="gui">Aktiviteter</span>, øverst til venstre på skærmen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">Klik på et vindue for at skifte til den opgave.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">To maximize a window along the left side of the screen, grab
-            the window’s titlebar and drag it to the left.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Tag fat i vinduets titellinje og træk den til venstre for at maksimere vinduet langs den venstre side af skærmen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">Slip vinduet, når halvdelen af skærmen er fremhævet.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">To maximize a window along the right side, grab the window’s
-            titlebar and drag it to the right.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">Tag fat i vinduets titellinje og træk den til højre for at maksimere vinduet langs højre side.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="18" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="18" data-ttml-end="20">Slip vinduet, når halvdelen af skærmen er fremhævet.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="23" data-ttml-end="27"><div class="media-ttml-node media-ttml-p" data-ttml-begin="23" data-ttml-end="27">Tryk på <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd> Tab</kbd></span></span>, for at vise <span class="gui">vinduesskifteren</span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="23" data-ttml-end="27"><div class="media-ttml-node media-ttml-p" data-ttml-begin="23" data-ttml-end="27">Tryk på <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd> Tab</kbd></span></span> for at vise <span class="gui">vinduesskifteren</span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="27" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="27" data-ttml-end="29">Slip <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span> for at vælge det næste fremhævede vindue.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="29" data-ttml-end="32"><div class="media-ttml-node media-ttml-p" data-ttml-begin="29" data-ttml-end="32">For at bladre gennem listen af åbne vinduer, så undlad at slippe <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>, men bliv ved at holde den nede, og tryk på <span class="key"><kbd>Tab</kbd></span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="35" data-ttml-end="37"><div class="media-ttml-node media-ttml-p" data-ttml-begin="35" data-ttml-end="37">Tryk på <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span>-tasten for at vise <span class="gui">Aktivitetsoversigten</span>.</div></div>
@@ -97,17 +96,16 @@
 <div id="switch-tasks-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Skift mellem opgaver</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Flyt din musemarkør til hjørnet med <span class="gui">Aktiviteter</span> øverst til venstre hjørne af skærmen, for at vise <span class="gui">Aktivitetsoversigten</span>, hvor du kan se de i øjeblikket kørende opgaver som små vinduer.</p></li>
+<li class="steps"><p class="p">Flyt din musemarkør til hjørnet med <span class="gui">Aktiviteter</span> øverst til venstre hjørne af skærmen for at vise <span class="gui">Aktivitetsoversigten</span>, hvor du kan se de i øjeblikket kørende opgaver som små vinduer.</p></li>
 <li class="steps"><p class="p">Klik på et vindue for at skifte til den opgave.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div id="switching-tasks-tiling" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fliselæg vinduer</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
-       titlebar and drag it to the left or right side of the screen.</p></li>
+<li class="steps"><p class="p">Tag fat i vinduets titellinje og træk det til venstre eller højre side af skærmen for at maksimere et vindue langs en side af skærmen.</p></li>
 <li class="steps"><p class="p">Slip vinduet for at maksimere det langs den valgte side af skærmen, når halvdelen af skærmen er fremhævet.</p></li>
-<li class="steps"><p class="p">Tag fat i titellinjen på det andet vindue, og træk det til den modsatte side af skærmen, for at maksimere to vinduer side om side.</p></li>
+<li class="steps"><p class="p">Tag fat i titellinjen på det andet vindue, og træk det til den modsatte side af skærmen for at maksimere to vinduer side om side.</p></li>
 <li class="steps"><p class="p">Slip vinduet for at maksimere det langs den modsatte side af skærmen, når halvdelen af skærmen er fremhævet.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
@@ -154,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

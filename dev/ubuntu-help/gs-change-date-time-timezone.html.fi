@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -76,23 +76,16 @@
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Napsauta <span class="gui"><a href="shell-introduction.html.fi#yourname" title="Sinä ja tietokoneesi">järjestelmävalikkoa</a></span> yläpalkin oikeasta laidasta.</p></li>
-<li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
+<li class="steps"><p class="p">Napsauta Asetukset-painiketta valikon vasemmanpuoleisesta alaosasta.</p></li>
 <li class="steps"><p class="p">Valitse <span class="gui">Päivä ja aika</span>.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-datetime.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4">
-<li class="steps"><p class="p">Make sure that the <span class="gui">Automatic Time Zone</span> item is switched
-     off, and then click the <span class="gui">Time Zone</span> item below.</p></li>
-<li class="steps"><p class="p">Click on your location on the world map. This selects your current
-     city, which you can also search for in the search box above the map.</p></li>
-<li class="steps"><p class="p">Close the world map window to go back to the <span class="gui">Date &amp;
-     Time</span>.</p></li>
-<li class="steps"><p class="p">Make sure that the <span class="gui">Automatic Date &amp; Time</span> item is
-     switched off, and then click the <span class="gui">Date &amp; Time</span> item below to
-     open the <span class="gui">Date &amp; Time</span> window. There you can adjust your date
-     and time settings by clicking on the <span class="gui">+</span> or <span class="gui">-</span> buttons.</p></li>
-<li class="steps"><p class="p">Close the window to go back to the <span class="gui">Date &amp;
-     Time</span>, and then close the panel.</p></li>
+<li class="steps"><p class="p">Varmista, että <span class="gui">Automaattinen aikavyöhke</span> on pois päältä, ja napsauta sitten <span class="gui">Aikavyöhyke</span>.</p></li>
+<li class="steps"><p class="p">Napsauta sijaintiasi maailmankartalla. Tämä valitsee nykyisen kaupunkisi, jonka voit myös halutessasi etsiä kirjoittamalla kartan yläpuolella olevaan hakukenttään.</p></li>
+<li class="steps"><p class="p">Sulje maailmankartan esittävä ikkuna ja palaa <span class="gui">Päivä ja aika</span> -ikkunaan.</p></li>
+<li class="steps"><p class="p">Varmista, että <span class="gui">Automaattinen päivä ja aika </span> on pois päältä, ja napsauta sitten <span class="gui">Päivä ja aika</span> avataksesi <span class="gui">Päivä ja aika</span> -ikkunan. Tämän ikkunan kautta voit asettaa haluamasi päivän ja ajan painikkeita <span class="gui">+</span> ja <span class="gui">-</span> käyttäen.</p></li>
+<li class="steps"><p class="p">Sulje ikkuna palataksesi <span class="gui">Päivä ja aika</span> -paneeliin, ja sulje sitten paneeli.</p></li>
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
@@ -122,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

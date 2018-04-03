@@ -76,11 +76,10 @@
 <div class="contents">
 <p class="p">使用<span class="key"><kbd>Num Lock</kbd></span> 按钮，您可以手动开启或开闭您键盘上的数字键盘。您也可以通过 BIOS 设置来开机时启动数字键盘。不然，还有一种方法可以设置：</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html.zh-CN" title="Install additional applications">安装</a></span>  <span class="em">numlockx</span> 包。</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
 <li class="steps"><p class="p">打开<span class="app"><span class="link"><a href="startup-applications.html.zh-CN" title="启动应用程序">启动应用程序</a></span></span>，使用命令<span class="cmd">numlockx on</span>添加数字键盘为启动应用程序。</p></li>
 </ol></div></div></div>
-<p class="p">如果希望在登录界面也打开数字键盘，您可以创建一个特殊的配置文件。按<span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>打开终端窗口，执行此命令（长度较长，甚至会在屏幕上自动换行 - 复制粘贴即可）：</p>
-<p class="p"><span class="cmd">sudo sh -c 'printf "[Seat:*]\ngreeter-setup-script=numlockx on\n" &gt;/etc/lightdm/lightdm.conf.d/50-numlock.conf'</span></p>
+<div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents"><p class="p">The second step may be redundant on your computer, so try without it first.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

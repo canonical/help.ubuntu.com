@@ -64,20 +64,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Terminy sieciowe i wskazówki</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.pl-PL" title="Bezpieczeństwo w Internecie"><span class="title">Bezpieczeństwo w Internecie</span><span class="linkdiv-dash"> — </span><span class="desc">General tips to keep in mind when using the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.pl-PL" title="Czym jest adres IP?"><span class="title">Czym jest adres IP?</span><span class="linkdiv-dash"> — </span><span class="desc">An IP Address is like a phone number for your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.pl-PL" title="Czym jest adres MAC?"><span class="title">Czym jest adres MAC?</span><span class="linkdiv-dash"> — </span><span class="desc">The unique identifier assigned to network hardware.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.pl-PL" title="Bezpieczeństwo w Internecie"><span class="title">Bezpieczeństwo w Internecie</span><span class="linkdiv-dash"> — </span><span class="desc">Ogólne wskazówki przydatne podczas używania Internetu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-what-is-ip-address.html.pl-PL" title="Czym jest adres IP?"><span class="title">Czym jest adres IP?</span><span class="linkdiv-dash"> — </span><span class="desc">Adres IP to jak numer telefonu do komputera.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.pl-PL" title="Czym jest adres MAC?"><span class="title">Czym jest adres MAC?</span><span class="linkdiv-dash"> — </span><span class="desc">Unikalny identyfikator przydzielany sprzętowi sieciowemu.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-findip.html.pl-PL" title="Find your IP address"><span class="title">Find your IP address</span><span class="linkdiv-dash"> — </span><span class="desc">Knowing your IP address can help you troubleshoot network problems.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.pl-PL" title="Określanie ustawień pośrednika"><span class="title">Określanie ustawień pośrednika</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-findip.html.pl-PL" title="Jak znaleźć swój adres IP"><span class="title">Jak znaleźć swój adres IP</span><span class="linkdiv-dash"> — </span><span class="desc">Znajomość swojego adresu IP może pomóc rozwiązywać problemy z siecią.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-proxy.html.pl-PL" title="Określanie ustawień pośrednika"><span class="title">Określanie ustawień pośrednika</span><span class="linkdiv-dash"> — </span><span class="desc">Pośrednik przekazuje ruch sieciowy. Można go używać do anonimowego dostępu oraz w celach kontroli i bezpieczeństwa.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -92,7 +92,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">Ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Why does my wireless network keep disconnecting?">Rozłączanie</a></span>…</span>
+<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Dlaczego sieć bezprzewodowa ciągle się rozłącza?">rozłączanie</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -104,7 +104,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

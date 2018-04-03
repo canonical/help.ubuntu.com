@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » <a class="trail" href="sound-broken.html.nl" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » <a class="trail" href="sound-broken.html.nl" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="sound-broken.html.nl" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="sound-broken.html.nl" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -78,21 +78,16 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Zorg ervoor dat de luidsprekers op de juiste manier zijn aangesloten.</p>
-<p class="p">If the speakers are not fully plugged in, or if they are plugged into the
-  wrong socket, you might hear a buzzing sound.</p>
+<p class="p">Als de luidsprekers niet helemaal goed zijn aangesloten, of als ze in de verkeerde aansluiting zitten, dan hoort u mogelijk een zoemend geluid.</p>
 </li>
 <li class="list">
-<p class="p">Make sure the speaker/headphone cable is not damaged.</p>
+<p class="p">Controleer of de kabel van de luidspreker/hoofdtelefoon niet beschadigd is.</p>
 <p class="p">Audiokabels en connectoren kunnen geleidelijk aan slijten. Sluit de kabel of hoofdtelefoon aan op een ander geluidsapparaat (zoals een MP3-speler of een cd-speler) om te controleren of u nog steeds een krakend geluid hoort. Als dat zo is, dan kan het zijn dat u de kabel of hoofdtelefoon moet vervangen.</p>
 </li>
 <li class="list">
-<p class="p">Check if the sound drivers are not very good.</p>
-<p class="p">Some sound cards do not work very well on Linux because they do not have very
-  good drivers. This problem is more difficult to identify. Try searching for
-  the make and model of your sound card on the internet, plus the search term
-  “Linux”, to see if other people are having the same problem.</p>
-<p class="p">You can use the <span class="cmd">lspci</span> command to get more information about your
-  sound card.</p>
+<p class="p">Controleer of het stuurprogramma voor de geluidskaart wel helemaal goed functioneert.</p>
+<p class="p">Sommige geluidskaarten werken niet goed op Linux-systemen omdat ze geen goede stuurprogramma's hebben. Dit probleem is moeilijker te herkennen. Zoek op het internet naar het merk en model van uw geluidskaart in combinatie met de term "Linux" om te zien of anderen hetzelfde probleem hebben.</p>
+<p class="p">U kunt <span class="cmd">lspci</span> in de <span class="app">Terminal</span> uitvoeren om meer informatie te krijgen over uw geluidskaart.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -112,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

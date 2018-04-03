@@ -124,9 +124,6 @@ because suspend is not supported properly by your hardware.</p></div>
 <a href="hardware-driver.html.zh-CN" title="什么是驱动？">什么是驱动？</a><span class="desc"> — 硬件/设备驱动是允许计算机使用该设备的驱动程序。</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html.zh-CN" title="如何让我的电脑休眠？">如何让我的电脑休眠？</a><span class="desc"> — 由于休眠功能尚不完善，Ubuntu 默认将其禁用。</span>
-</li>
-<li class="links ">
 <a href="power-nowireless.html.zh-CN" title="当我唤醒计算机时，找不到无线网络">当我唤醒计算机时，找不到无线网络</a><span class="desc"> — 一些无线设备在您计算机睡眠时出现问题，不能正确地被唤醒正常工作。</span>
 </li>
 <li class="links ">
@@ -143,7 +140,7 @@ because suspend is not supported properly by your hardware.</p></div>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

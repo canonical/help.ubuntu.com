@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print envelopes</title>
+<title>Drukowanie kopert</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,33 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html.pl-PL" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html.pl-PL#paper" title="Różne rozmiary i układy papieru">Rozmiary i układy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html.pl-PL" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html.pl-PL#paper" title="Różne rozmiary i układy papieru">Rozmiary i układy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Print envelopes</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Drukowanie kopert</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Most printers will allow you to print directly onto an envelope. This is especially useful if you have a lot of letters to send,
-  for example.</p></div>
+<div class="contents"><p class="p">Większość drukarek umożliwia drukowanie bezpośrednio na kopercie. Jest to przydatne zwłaszcza, jeśli potrzeba wysłać wiele listów.</p></div>
 <div id="envelope" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Printing onto envelopes</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Drukowanie na kopertach</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">There are two things you need to check when trying to print onto an
-  envelope.</p>
-<p class="p">The first is that your printer knows what size the envelope is. Press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print dialog, go to
-  the <span class="gui">Page Setup</span> tab and choose the <span class="gui">Paper type</span> as “Envelope”
-  if you can. If you cannot do this, see if you can change the <span class="gui">Paper
-  size</span> to an envelope size (for example, <span class="gui">C5</span>). The pack of
-  envelopes will say what size they are; most envelopes come in standard
-  sizes.</p>
-<p class="p">Secondly, you need to make sure that the envelopes are loaded with the
-  right side up in the printer’s in-tray. Check the printer’s manual for this,
-  or try to print a single envelope and check which side is printed on to see
-  which way is the right way up.</p>
-<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">Some printers are not designed to be able to print envelopes, especially
-    some laser printers. Check your printer’s manual to see if it accepts
-    envelopes. Otherwise, you could damage the printer by feeding an envelope
-    in.</p></div></div></div></div>
+<p class="p">Należy sprawdzić dwie rzeczy przed wydrukowaniem na kopercie.</p>
+<p class="p">Pierwsza: czy drukarka wie, jaki jest rozmiar koperty. Naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>, aby otworzyć okno wydruku, przejdź do karty <span class="gui">Ustawienia strony</span> i wybierz <span class="gui">Typ papieru</span> jako „Koperta”, jeśli się da. Jeśli nie, to spróbuj zmienić <span class="gui">Rozmiar papieru</span> na rozmiar koperty (np. <span class="gui">C5</span>). Na opakowaniu kopert jest napisane, jakiego są rozmiaru, a większość kopert ma standardowe rozmiary.</p>
+<p class="p">Druga: upewnij się, że koperty są włożone odpowiednią stroną do podajnika drukarki. Sprawdź to w instrukcji drukarki lub spróbuj wydrukować jedną kopertę, aby zobaczyć, która strona została nadrukowana.</p>
+<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">Niektóre drukarki nie są zaprojektowane do drukowania kopert, zwłaszcza część drukarek laserowych. Sprawdź w instrukcji drukarki, czy obsługuje ona koperty. Jeśli nie, to umieszczenie w niej koperty może ją uszkodzić.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -107,7 +93,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

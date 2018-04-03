@@ -64,34 +64,25 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-display.html.pl-PL" title="Ekran">Ekran</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-display.html.pl-PL" title="Ekran">Ekran</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Podłączanie drugiego monitora do komputera</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="steps" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Ustawianie dodatkowego monitora</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Konfiguracja dodatkowego monitora</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To set up an additional monitor, connect the monitor to your computer. If
-  your system does not recognize it immediately, or you would like to adjust
-  the settings:</p>
+<p class="p">Aby skonfigurować dodatkowy monitor, podłącz go do komputera. Jeśli system nie wykryje go od razu lub potrzeba dostosować ustawienia:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ekrany</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Ekrany</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ekrany</span>, aby otworzyć panel.</p></li>
 <li class="steps">
-<p class="p">Click on the monitor that you would like to activate or deactivate,
-      then in the list of monitor configuration select <span class="gui">Turn Off</span> to
-      deactivate the monitor, or one of <span class="gui">Primary</span>,
-      <span class="gui">Secondary</span>, or <span class="gui">Mirror</span> to activate it.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">The primary monitor is the one with the
-        <span class="link"><a href="shell-introduction.html.pl-PL" title="Wprowadzenie do GNOME">top bar</a></span>, and where the
-        <span class="gui">Activities</span> overview is shown.</p></div></div></div></div>
+<p class="p">Kliknij monitor do włączenia lub wyłączenia, a następnie na liście konfiguracji monitorów wybierz <span class="gui">Wyłączenie</span>, aby go wyłączyć, lub jeden z <span class="gui">Główny</span>, <span class="gui">Dodatkowy</span> lub <span class="gui">Ten sam obraz na wszystkich ekranach</span>, aby go włączyć.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Główny monitor to ten z <span class="link"><a href="shell-introduction.html.pl-PL" title="Wprowadzenie do GNOME">górnym paskiem</a></span>, i na którym wyświetlany jest <span class="gui">ekran podglądu</span>.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">To rotate the orientation of the monitor, use the buttons with the
-      arrows until the preview is correct.</p></li>
-<li class="steps"><p class="p">When you are happy with your settings, click <span class="gui">Apply</span> and then
-      click <span class="gui">Keep Changes</span>.</p></li>
+<li class="steps"><p class="p">Aby obrócić ułożenie monitora, użyj przycisków ze strzałkami.</p></li>
+<li class="steps"><p class="p">Kiedy ustawienia są satysfakcjonujące, kliknij przycisk <span class="gui">Zastosuj</span>, a następnie kliknij przycisk <span class="gui">Zachowaj zmiany</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -100,7 +91,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.pl-PL" title="Ekran">Ekran</a><span class="desc"> — <span class="link"><a href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html.pl-PL" title="Change the resolution or rotation of the screen">rozmiar i obrót</a></span>, Jasność…</span>
+<a href="prefs-display.html.pl-PL" title="Ekran">Ekran</a><span class="desc"> — <span class="link"><a href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html.pl-PL" title="Zmiana rozdzielczości lub obrotu ekranu">rozmiar i obrót</a></span>, jasność…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -111,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,17 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#backup" title="Reservekopieën maken">Reservekopieën maken</a> » <a class="trail" href="backup-why.html.nl" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#backup" title="Reservekopieën maken">Reservekopieën maken</a> » <a class="trail" href="backup-why.html.nl" title="Reservekopieën maken van uw belangrijke bestanden">Reservekopieën</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Waar uw reservekopieën op te slaan</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You should store backup copies of your files somewhere separate from your
- computer — on an external hard disk, for example. That way, if the computer
- breaks, the backup will still be intact. For maximum security, you shouldn’t
- keep the backup in the same building as your computer. If there is a fire or
- theft, both copies of the data could be lost if they are kept together.</p>
+<p class="p">U dient reservekopieën van uw bestanden op een andere plek dan uw computer op te slaan  —  bijvoorbeeld op een externe harde schijf. Op die manier zal de reservekopie nog steeds intact zijn als de computer crasht. Voor maximale veiligheid moet u de reservekopie niet bewaren in hetzelfde gebouw als waar uw computer zich bevindt. Ingeval van brand of diefstal kunnen zowel het origineel als de kopie van de gegevens verloren gaan als ze bij elkaar bewaard worden.</p>
 <p class="p">Het is belangrijk om het juiste <span class="em">reservekopiemedium</span> te kiezen. U moet uw reservekopieën op een medium opslaan met voldoende capaciteit om van alle bestanden een reservekopie te kunnen maken.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Lokale en externe opslagmogelijkheden</span></h2></div>
@@ -106,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

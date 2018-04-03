@@ -87,12 +87,10 @@
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Characters</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Another useful application shipped with GNOME is <span class="app">Characters</span>.
-    It lets you find and insert unusual characters by browsing character
-    categories or searching for keywords.</p>
-<p class="p">You can launch Characters from the Activities overview. For more
-    information on Characters, see the <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">
-    Characters Manual</a></span>.</p>
+<p class="p">GNOME comes with a character map application that allows you to
+    find and insert unusual characters, including emoji, by browsing
+    character categories or searching for keywords.</p>
+<p class="p">You can launch <span class="app">Characters</span> from the Activities overview.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -101,8 +99,12 @@
 <p class="p">Tipka sestavi je posebna tipka, ki vam omogoča pritisk več tipk hkrati za pridobivanje posebnega znaka. Na primer za vnos črke <span class="em">é</span> lahko pritisnete <span class="key"><kbd>sestavi</kbd></span> nato <span class="key"><kbd>'</kbd></span> nato <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Keyboards don’t have specific compose keys. Instead, you can define
     one of the existing keys on your keyboard as a compose key.</p>
-<div class="note note-important" title="Pomembno"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-      change this setting.</p></div></div></div></div>
+<div class="note note-important" title="Pomembno"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
+      change this setting.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
+        <span class="app">Tweaks</span></a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Določi sestavno tipko</span></h3></div>
 <div class="region"><ol class="steps">
@@ -133,18 +135,22 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Točke kode</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Katerikoli znak Unicode lahko s svojo vašo tipkovnico vnesete s številsko kodo znaka. Vsak znak je določen s kodo sestavljeno iz štirih števil. Za iskanje kode za znak najdite znak v programu preglednice znakov in poglejte v vrstico stanja na zavihku <span class="gui">Podrobnosti znaka</span>. Koda so štirje znaki za <span class="gui">U+</span>.</p>
-<p class="p">To enter a character by its code point, hold down <span class="key"><kbd>Ctrl</kbd></span> and
-  <span class="key"><kbd>Shift</kbd></span>, type <span class="key"><kbd>U</kbd></span> followed by the four-character code
-  point, then release <span class="key"><kbd>Ctrl</kbd></span> and <span class="key"><kbd>Shift</kbd></span>. If you often use
-  characters that you can’t easily access with other methods, you might find
+<p class="p">You can enter any Unicode character using only your keyboard with the
+  numeric code point of the character. Every character is identified by a
+  four-character code point. To find the code point for a character, look it up
+  in the <span class="app">Characters</span> application. The code point is the four characters
+  after <span class="gui">U+</span>.</p>
+<p class="p">To enter a character by its code point, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, then type the
+  four-character code and press <span class="key"><kbd>Space</kbd></span> or <span class="key"><kbd>Enter</kbd></span>. If you often
+  use characters that you can’t easily access with other methods, you might find
   it useful to memorize the code point for those characters so you can enter
   them quickly.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Razporeditve tipkovnice</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Vaša tipkovnica se lahko obnaša kot tipkovnica za drug jezik neodvisno od črk, ki so natisnjene na tipkah. Med različnimi razporeditvami tipkovnice lahko enostavno preklapljate z uporabo ikone v vrhnji vrstici. Za več podrobnosti o tem si oglejte <span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Uporaba nadomestnih razporeditev tipk</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Vaša tipkovnica se lahko obnaša kot tipkovnica za drug jezik neodvisno od črk, ki so natisnjene na tipkah. Med različnimi razporeditvami tipkovnice lahko enostavno preklapljate z uporabo ikone v vrhnji vrstici. Za več podrobnosti o tem si oglejte <span class="link"><a href="keyboard-layouts.html.sl" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Načini vnosa</span></h2></div>
@@ -168,7 +174,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Uporaba nadomestnih razporeditev tipk</a><span class="desc"> — Dodajte razporeditev tipk in preklapljajte med njimi.</span>
+<a href="keyboard-layouts.html.sl" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -180,7 +186,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

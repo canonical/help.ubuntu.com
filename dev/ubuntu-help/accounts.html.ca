@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Online accounts</title>
+<title>Comptes en línia</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,25 +67,17 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Online accounts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Comptes en línia</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can enter your login details for some online services, such as Google
-  and Facebook, into the <span class="app">Online Accounts</span> window. This lets you use
-  applications to access online services like email, calendars, chat, and
-  documents.</p>
+<p class="p">Podeu introduir les dades d'inici de sessió d'alguns serveis en línia, com ara Google i Facebook, a la finestra de <span class="app">Comptes en línia</span>. Això us permetrà utilitzar aplicacions per accedir als serveis en línia, com ara el correu electrònic, els calendaris, el xat i els documents. </p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.ca" title="Add an account"><span class="title">Add an account</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
-    contacts, calendars, and more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.ca" title="Remove an account"><span class="title">Remove an account</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
-    applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.ca" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">Why add your email or social media accounts to your desktop?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.ca" title="Control which online services an account can be used to access"><span class="title">Control which online services an account can be used to access</span><span class="linkdiv-dash"> — </span><span class="desc">Some online accounts can be used to access multiple services (like
-    calendar and email). You can control which of these services can be used by
-    applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.ca" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc">Applications can use the accounts created in <span class="app">Online
-    Accounts</span> and the services they exploit.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.ca" title="Why is my account type not on the list?"><span class="title">Why is my account type not on the list?</span><span class="linkdiv-dash"> — </span><span class="desc">What if an online service provider is not listed?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.ca" title="Afegeix un compte"><span class="title">Afegeix un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Permet que les aplicacions accedeixin als seus comptes en línia per obtenir fotos, contactes, calendaris i més.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.ca" title="Suprimiu un compte"><span class="title">Suprimiu un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Traieu l'accés a un proveïdor de serveis en línia de les vostres aplicacions.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.ca" title="Per què afegir un compte?"><span class="title">Per què afegir un compte?</span><span class="linkdiv-dash"> — </span><span class="desc">Per què afegir el vostre compte de correu electrònic o de les xarxes socials a l'escriptori?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.ca" title="Controleu quins serveis en línia es pot utilitzar per accedir a un compte"><span class="title">Controleu quins serveis en línia es pot utilitzar per accedir a un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Alguns comptes en línia es poden utilitzar per accedir a diversos serveis (com ara el calendari i el correu electrònic). Podeu controlar quins d'aquests serveis poden ser utilitzats per les aplicacions.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.ca" title="Perquè el meu compte no és a la llista?"><span class="title">Perquè el meu compte no és a la llista?</span><span class="linkdiv-dash"> — </span><span class="desc">Què passa si un proveïdor de serveis en línia no apareix a la llista?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.ca" title="Serveis i aplicacions en línia"><span class="title">Serveis i aplicacions en línia</span><span class="linkdiv-dash"> — </span><span class="desc">Les aplicacions poden utilitzar els comptes creats en comptes en línia. <span class="app">Comptes en línia</span> i els serveis que exploten.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -95,8 +87,8 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="prefs.html.ca" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.ca" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.ca" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="keyboard.html.ca" title="Teclat">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.ca" title="Ratolí">mouse</a></span>,
       <span class="link"><a href="prefs-display.html.ca" title="Display &amp; screen">display</a></span>,
       <span class="link"><a href="prefs-language.html.ca" title="Region &amp; Language">languages</a></span>,
       <span class="link"><a href="user-accounts.html.ca" title="User accounts">user accounts</a></span>…
@@ -125,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een verbinding met een vast IP-adres aanmaken</span></h1></div>
@@ -76,20 +76,10 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">In the left pane, select the network connection that you want to have
-      a fixed address. If you plug in to the network with a cable, click
-      <span class="gui">Wired</span>, then click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button in the lower right corner of
-      the panel. For a <span class="gui">Wi-Fi</span> connection, the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button will be located next to the active network.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
-      and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.nl" title="Wat is een IP-adres?">IP Address</a></span> and
-      <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">DNS</span> section, switch <span class="gui">Automatic</span> to
-      <span class="gui">OFF</span>. Enter the IP address of a DNS server you want to use.
-      Enter additional DNS server addresses using the <span class="gui">+</span> button.</p></li>
+<li class="steps"><p class="p">Kies in het linkerpaneel de netwerkverbinding die u een vast adres wilt geven. Als u aangesloten bent op het netwerk via een kabel, klik dan op <span class="gui">Bakebeld</span> en vervolgens op de knop <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span> in de rechterbenedenhoek van het paneel. Voor een <span class="gui">wifi</span>-verbinding bevindt de <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span>-knop zich naast het actieve netwerk.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui">IPv4</span> of <span class="gui">IPv6</span> in het linkerdeelvenster en wijzig de <span class="gui">Adressen</span> naar <span class="em">Handmatig</span>.</p></li>
+<li class="steps"><p class="p">Typ het <span class="gui"><a href="net-what-is-ip-address.html.nl" title="Wat is een IP-adres?">IP-adres</a></span> en <span class="gui">Gateway</span> in, evenals het juiste <span class="gui">netmasker</span>.</p></li>
+<li class="steps"><p class="p">Zet in de <span class="gui">DNS</span>-sectie <span class="gui">Automatisch</span> <span class="gui">UIT</span>. Voer het IP-adres van een DNS-server die u wilt gebruiken in. Voer meer adressen van DNS-servers in via de knop <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Routes</span> section, switch <span class="gui">Automatic</span> to
       <span class="gui">OFF</span>. Enter the <span class="gui">Address</span>, <span class="gui">Netmask</span>,
       <span class="gui">Gateway</span> and <span class="gui">Metric</span> for a route you want to use.
@@ -122,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -81,7 +81,7 @@
 <dt class="terms">Dokumen</dt>
 <dd class="terms"><p class="p">Layanan Dokumen memungkinkan Anda menilik dokumen daring Anda seperti yang ada pada Google docs. Anda dapat menilik dokumen Anda memakai aplikasi <span class="app">Dokumen</span>.</p></dd>
 <dt class="terms">Berkas</dt>
-<dd class="terms"><p class="p">Layanan Berkas menambahkan suatu lokasi berkas jauh, seolah seperti Anda telah menambahkannya memakai fungsionalitas <span class="link"><a href="nautilus-connect.html.id" title="Browse files on a server or network share">Sambungkan ke Server</a></span> dalam manajer berkas. Anda dapat mengakses berkas jauh memakai manajer berkas, maupun melalui dialog buka dan simpan berkas dalam sebarang aplikasi.</p></dd>
+<dd class="terms"><p class="p">Layanan Berkas menambahkan suatu lokasi berkas jauh, seolah seperti Anda telah menambahkannya memakai fungsionalitas <span class="link"><a href="nautilus-connect.html.id" title="Browse files on a server or network share">Sambungkan ke Server</a></span> dalam pengelola berkas. Anda dapat mengakses berkas jauh memakai pengelola berkas, maupun melalui dialog buka dan simpan berkas dalam sebarang aplikasi.</p></dd>
 <dt class="terms">Surel</dt>
 <dd class="terms"><p class="p">Layanan Surat memungkinkan Anda mengirim dan menerima surel melalui penyedia surel seperti Google. Itu dipakai oleh <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Foto</dt>
@@ -116,7 +116,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

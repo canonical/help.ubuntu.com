@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> › <a class="trail" href="hardware.html.ca#problems" title="Common problems">Problemes</a> » <a class="trail" href="hardware-problems-graphics.html.ca" title="Screen problems">Screen problems</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> › <a class="trail" href="hardware.html.ca#problems" title="Problemes comuns">Problemes</a> » <a class="trail" href="hardware-problems-graphics.html.ca" title="Screen problems">Screen problems</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Why do things look fuzzy/pixelated on my screen?</span></h1></div>
@@ -91,9 +91,8 @@ one that makes the screen look better.</p>
   cannot show the same window on both screens at once.</p>
 <p class="p">To set up the displays so that they each have their own resolution:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Displays</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenceu a escriure <span class="gui">Mostrar</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Pantalles</span> per obrir el panell.</p></li>
 <li class="steps"><p class="p">The displays should be listed as <span class="gui">Mirrored</span>. Select your main
       display.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Primary</span> in the list of display configurations, and
@@ -131,7 +130,7 @@ one that makes the screen look better.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

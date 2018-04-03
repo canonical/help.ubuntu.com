@@ -64,18 +64,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bestandsbeheer-voorkeuren</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.nl" title="Bestandsbeheer-voorkeuren: lijstkolommen"><span class="title">Bestandsbeheer-voorkeuren: lijstkolommen</span><span class="linkdiv-dash"> — </span><span class="desc">Beheren welke informatie weergegeven wordt in kolommen in de lijstweergave.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.nl" title="Bestandsbeheer-weergavevoorkeuren"><span class="title">Bestandsbeheer-weergavevoorkeuren</span><span class="linkdiv-dash"> — </span><span class="desc">De door de bestandsbeheerder gebruikte pictogrambijschriften beheren.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.nl" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Beheren welke informatie weergegeven wordt in kolommen in de lijstweergave.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.nl" title="Gedragsvoorkeuren bestandsbeheer"><span class="title">Gedragsvoorkeuren bestandsbeheer</span><span class="linkdiv-dash"> — </span><span class="desc">Met één muisklik bestanden openen, uitvoerbare tekstbestanden uitvoeren of bekijken, en het gedrag van de prullenbak specificeren.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.nl" title="Voorkeuren voor voorbeelden in bestandsbeheer"><span class="title">Voorkeuren voor voorbeelden in bestandsbeheer</span><span class="linkdiv-dash"> — </span><span class="desc">Bepaal wanneer er miniaturen voor bestanden zullen worden gebruikt.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.nl" title="Weergaven-voorkeuren in Bestanden"><span class="title">Weergaven-voorkeuren in <span class="app">Bestanden</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
-    manager.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.nl" title="Weergaven-voorkeuren in Bestanden"><span class="title">Weergaven-voorkeuren in <span class="app">Bestanden</span></span><span class="linkdiv-dash"> — </span><span class="desc">Geef de standaard sorteervolgorde en groepering voor bestandsbeheer op.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -91,7 +90,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

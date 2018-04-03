@@ -108,7 +108,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-language.html.pt-BR" title="Região &amp; idioma">Região &amp; idioma</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.pt-BR" title="Alterando que idioma você usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.pt-BR" title="Alterando os formatos de data e medidas">região e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">disposições de teclado</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.pt-BR" title="Alterando que idioma você usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.pt-BR" title="Alterando os formatos de data e medidas">região e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Usando disposições alternativas de teclado">disposições de teclado</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.pt-BR#sound" title="Som básico">Som</a></div>
@@ -124,7 +124,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.pt-BR" title="Teclado">Teclado</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">Disposições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pt-BR" title="Fazendo o cursor de teclado piscar">cursor intermitente</a></span>, <span class="link"><a href="a11y.html.pt-BR#mobility" title="Deficiências motoras">acessibilidade no teclado</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.pt-BR" title="Usando disposições alternativas de teclado">Disposições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pt-BR" title="Fazendo o cursor de teclado piscar">cursor intermitente</a></span>, <span class="link"><a href="a11y.html.pt-BR#mobility" title="Deficiências motoras">acessibilidade no teclado</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -141,7 +141,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

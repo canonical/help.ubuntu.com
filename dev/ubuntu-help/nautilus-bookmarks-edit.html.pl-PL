@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Edit folder bookmarks</title>
+<title>Modyfikowanie zakładek</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,40 +64,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#faq" title="Wskazówki i pytania">Wskazówki i pytania</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#faq" title="Wskazówki i pytania">Wskazówki i pytania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Edit folder bookmarks</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Modyfikowanie zakładek</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Your bookmarks are listed in the sidebar of the file manager.</p>
+<p class="p">Zakładki są wyświetlane na panelu bocznym menedżera plików.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Aby dodać zakładkę:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the folder (or location) that you want to bookmark.</p></li>
-<li class="steps"><p class="p">Click the window menu in the toolbar and pick <span class="gui">Bookmark this
-      Location</span>.</p></li>
+<li class="steps"><p class="p">Otwórz katalog (lub położenie), do którego dodać zakładkę.</p></li>
+<li class="steps"><p class="p">Kliknij menu okna na pasku narzędziowym i wybierz <span class="gui">Dodaj zakładkę do tego położenia</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Aby usunąć zakładkę:</span></h2></div>
-<div class="region"><ol class="steps"><li class="steps"><p class="p">Right-click on the bookmark in the sidebar and select
-      <span class="gui">Remove</span> from the menu.</p></li></ol></div>
+<div class="region"><ol class="steps"><li class="steps"><p class="p">Kliknij zakładkę w panelu bocznym prawym przyciskiem myszy i wybierz <span class="gui">Usuń</span> z menu.</p></li></ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Aby zmienić nazwę zakładki:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Right-click on the bookmark in the sidebar and select
-      <span class="gui">Rename…</span>.</p></li>
+<li class="steps"><p class="p">Kliknij zakładkę w panelu bocznym prawym przyciskiem myszy i wybierz <span class="gui">Zmień nazwę…</span>.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Name</span> text box, type the new name for the
-      bookmark.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Renaming a bookmark does not rename the folder. If you have
-        bookmarks to two different folders in two different locations, but
-        which each have the same name, the bookmarks will have the same name,
-        and you won’t be able to tell them apart. In these cases, it is useful
-        to give a bookmark a name other than the name of the folder it points
-        to.</p></div></div></div></div>
+<p class="p">W polu tekstowym <span class="gui">Nazwa</span> wpisz nową nazwę zakładki.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Zmiana nazwy zakładki nie zmienia nazwy katalogu. Jeśli są dwie zakładki do dwóch różnych katalogów w dwóch różnych miejscach, które mają tę samą nazwę, to zakładki także będą miały tę samą nazwę i nie będzie można ich rozróżnić. W takim przypadku warto nadać zakładce nazwę inną niż nazwa katalogu, do którego została dodana.</p></div></div></div></div>
 </li>
 </ol></div>
 </div></div>
@@ -116,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

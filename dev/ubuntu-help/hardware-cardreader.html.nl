@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#photos" title="Foto's en digitale camera's">Foto's</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#photos" title="Foto's en digitale camera's">Foto's</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,7 +77,7 @@
 <p class="p">Veel computers hebben lezers voor SD (Secure Digital), MMC (MultiMediaCard), SmartMedia, geheugenstick, CompactFlash en andere opslagmediakaarten. Deze zouden automatisch gedetecteerd en <span class="link"><a href="disk-partitions.html.nl" title="Volumes en partities beheren">aangekoppeld</a></span> moeten worden. Hier volgen een paar stappen voor het oplossen van het probleem als dat niet het geval is:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Zorg ervoor dat de kaart op de juiste manier is ingebracht. Veel kaarten lijken "ondersteboven" te zitten wanneer ze op de juiste manier zijn ingebracht. Zorg er ook voor dat de kaart goed in de sleuf zit; vooral CompactFlash moet met enige kracht ingebracht worden. (Pas op dat u niet te hard drukt! Als u ergens tegenaan komt, forceer dan niet.)</p></li>
-<li class="steps"><p class="p">Open <span class="app">Bestanden</span> via het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht. Verschijnt de ingebrachte kaart in de lijst met <span class="gui">Apparaten</span> in de linker zijbalk? Soms staat de kaart wel in de lijst, maar is hij niet aangekoppeld; klik er één keer op om hem aan te koppelen. (Als de zijbalk niet zichtbaar is, druk dan op <span class="key"><kbd>F9</kbd></span> of klik op <span class="gui">Bestanden</span> in de menubalk en kies de <span class="gui">Zijbalk</span>.)</p></li>
+<li class="steps"><p class="p">Open <span class="app">Bestanden</span> via het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht. Verschijnt de ingebrachte kaart in de lijst met <span class="gui">Apparaten</span> in de linker zijbalk? Soms staat de kaart wel in de lijst, maar is hij niet aangekoppeld; klik er één keer op om hem aan te koppelen. (Als de zijbalk niet zichtbaar is, druk dan op <span class="key"><kbd>F9</kbd></span> of klik op <span class="gui">Bestanden</span> in de bovenbalk en kies de <span class="gui"> Zijbalk</span>.)</p></li>
 <li class="steps"><p class="p">Als uw kaart niet getoond wordt in de zijbalk, druk dan op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, typ vervolgens <span class="input">computer:///</span> en druk op <span class="key"><kbd>Enter</kbd></span>. Als uw kaart op de juiste wijze is geconfigureerd, dan zou de lezer als een station te zien moeten zijn wanneer er geen kaart in zit, en de kaart zelf wanneer de kaart gekoppeld is.</p></li>
 <li class="steps"><p class="p">Als u wel de kaartlezer ziet, maar niet de kaart, dan ligt het probleem mogelijk bij de kaart zelf. Probeer het met een andere kaart of controleer de kaart in een andere lezer, indien mogelijk.</p></li>
 </ol></div></div></div>
@@ -100,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

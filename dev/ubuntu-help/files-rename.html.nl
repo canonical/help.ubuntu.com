@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een bestand of map hernoemen</span></h1></div>
@@ -85,8 +85,8 @@
 <div id="valid-chars" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Geldige tekens voor bestandsnamen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">U kunt elk teken behalve de <span class="file">/</span> (slash) gebruiken in bestandsnamen. Sommige apparaten echter gebruiken een <span class="em">bestandssysteem</span> dat meer beperkingen heeft voor bestandsnamen. Daarom is het beter om in bestandsnamen de volgende tekens te vermijden: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u een bestandsnaam met een <span class="file">.</span> als eerste teken opgeeft, dan zal het bestand <span class="link"><a href="files-hidden.html.nl" title="Een bestand verbergen">verborgen</a></span> zijn wanneer u probeert het in bestandsbeheer te zien te krijgen.</p></div></div></div></div>
+<p class="p">U kunt elk teken behalve de <span class="key"><kbd>/</kbd></span> (slash) gebruiken in bestandsnamen. Sommige apparaten echter gebruiken een <span class="em">bestandssysteem</span> dat meer beperkingen heeft voor bestandsnamen. Daarom is het beter om in bestandsnamen de volgende tekens te vermijden: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u een bestandsnaam met een <span class="key"><kbd>.</kbd></span> als eerste teken opgeeft, dan zal het bestand <span class="link"><a href="bestanden-verborgen.html.nl" title="bestanden-verborgen">verborgen</a></span> zijn wanneer u probeert het in bestandsbeheer te zien te krijgen.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -117,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Clearing a paper jam</title>
+<title>Usuwanie zaciętego papieru</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,28 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="printing.html.pl-PL#problems" title="Problemy z drukarką">Problemy z drukarką</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="printing.html.pl-PL#problems" title="Problemy z drukarką">Problemy z drukarką</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Clearing a paper jam</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Usuwanie zaciętego papieru</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Sometimes printers incorrectly feed sheets of paper and get jammed.</p>
-<p class="p">The manual for your printer will usually provide detailed instructions on
-  how to clear paper jams. Usually, you will need to open one of the printer’s
-  panels to find the jam inside and then firmly (but carefully!) pull the
-  jammed paper out of the printer’s feeding mechanism.</p>
-<p class="p">Once the jam has been cleared you may need to press the printer’s
-  <span class="em">resume</span> button to start printing again. With some printers, you may
-  even need to turn the printer off and then on again, and then start the print
-  job again.</p>
+<p class="p">Czasami drukarki niepoprawnie podają kartki papieru, przez co ten się zacina.</p>
+<p class="p">Instrukcja drukarki zwykle zawiera szczegółowe informacje o tym, jak usunąć zacięty papier. Zwykle należy otworzyć jeden z paneli drukarki, aby znaleźć w środku zator, a następnie mocno (ale ostrożnie!) wyciągnąć zacięty papier z mechanizmu podajnika drukarki.</p>
+<p class="p">Po usunięciu zaciętego papieru można nacisnąć przycisk <span class="em">Wznów</span> drukarki, aby zacząć znowu drukować. Niektóre drukarki wymagają wyłączenia i włączenia, a następnie rozpoczęcie zadania wydruku jeszcze raz.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html.pl-PL#problems" title="Problemy z drukarką">Problemy z drukarką</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
+<a href="printing.html.pl-PL#problems" title="Problemy z drukarką">Problemy z drukarką</a><span class="desc"> — Niewykryte drukarki, zacięty papier, źle wyglądające wydruki…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -96,7 +90,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

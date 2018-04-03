@@ -65,37 +65,31 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html.nl" title="Delen">Delen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html.nl" title="Delen">Delen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uw persoonlijke bestanden delen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can allow access to the <span class="file">Public</span> folder in your
-  <span class="file">Home</span> folder from another computer on the network. Configure
-  <span class="gui">Personal File Sharing</span> to allow others to access the contents of
-  the folder.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Het <span class="app">gnome-user-share</span>-pakket moet geïnstalleerd zijn voordat <span class="gui">Persoonlijke bestanden delen</span> zichtbaar is.</p></div></div></div></div>
+<p class="p">U kunt een andere computer in het netwerk toestaan toegang te krijgen tot de map <span class="file">Openbaar</span> in uw <span class="file">Persoonlijke map</span>. Stel de voorkeuren voor <span class="gui">Persoonlijke bestanden delen</span> zo in dat anderen toegang krijgen tot de inhoud van de map.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Het <span class="app">gnome-user-share</span>-pakket moet geïnstalleerd zijn voordat <span class="gui">Persoonlijke bestanden delen</span> zichtbaar is.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-user-share" title="apt:gnome-user-share">gnome-user-share installeren</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Delen</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Delen</span> om het paneel te openen.</p></li>
 <li class="steps">
 <p class="p">Als <span class="gui">Delen</span> <span class="gui">UIT</span> staat, zet het dan <span class="gui">AAN</span>.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">If the text below <span class="gui">Computer Name</span> allows
-      you to edit it, you can <span class="link"><a href="sharing-displayname.html.nl" title="De weergavenaam van uw computer instellen">change</a></span>
-      the name your computer displays on the network.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u de tekst onder <span class="gui">Computernaam</span>kunt bewerken, dan kunt u de naam van uw computer zoals die getoond wordt in het netwerk <span class="link"><a href="sharing-displayname.html.nl" title="De weergavenaam van uw computer instellen">wijzigen</a></span></p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Select <span class="gui">Personal File Sharing</span>.</p></li>
+<li class="steps"><p class="p">Selecteer <span class="gui">Persoonlijk bestand delen</span>.</p></li>
 <li class="steps">
-<p class="p">Switch <span class="gui">Personal File Sharing</span> to <span class="gui">ON</span>. This means
-      that other people on your current network will be able to attempt to
-      connect to your computer and access files in your <span class="file">Public</span>
-      folder.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">A <span class="em">URI</span> is displayed by which your <span class="file">Public</span> folder
-        can be accessed from other computers on the network.</p></div></div></div></div>
+<p class="p">Zet <span class="gui">Delen van bestanden</span> <span class="gui">AAN</span>. Dit betekent dat andere mensen verbinding mogen proberen te maken met uw computer en toegang krijgen tot uw map <span class="file">Openbaar</span>.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Er wordt een <span class="em">URI</span> getoond waarmee andere computers in het netwerk toegang kunnen krijgen tot uw map <span class="file">Openbaar</span>.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 </div>
@@ -104,19 +98,14 @@
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Wachtwoord vereisen</dt>
 <dd class="terms">
-<p class="p">To require other people to use a password when accessing your
-      <span class="file">Public</span> folder, switch <span class="gui">Require Password</span> to
-      <span class="gui">ON</span>. If you do not use this option, anyone can attempt to view
-      your <span class="file">Public</span> folder.</p>
+<p class="p">U kunt degenen die toegang hebben tot uw map <span class="file">Openbaar</span> vragen om een wachtwoord in te voeren , door <span class="gui">Wachtwoord vereisen</span> <span class="gui">AAN</span> te kiezen. Wanneer u deze optie niet gebruikt, kan iedereen proberen om uw map <span class="file">Openbaar</span> te bekijken.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Deze optie is standaard uitgeschakeld, maar u kunt hem inschakelen en een veilig wachtwoord instellen.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div id="networks" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Netwerken</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="gui">Networks</span> section lists the networks to which you are
-  currently connected. Use the <span class="gui">ON | OFF</span> switch next to each to
-  choose where your personal files can be shared.</p></div></div>
+<div class="region"><div class="contents"><p class="p">De sectie <span class="gui">Netwerken</span> bevat een lijst met netwerken waarmee u verbonden bent. Gebruik de <span class="gui">AAN | UIT</span>-schakelaar naast elk ervan om te kiezen waar uw persoonlijke bestanden gedeeld kunnen worden.</p></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -127,12 +116,7 @@
 <a href="sharing.html.nl" title="Delen">Delen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Bureaublad delen</a></span>, <span class="link"><a href="files-share.html.nl" title="Bestanden delen per e-mail">Bestanden delen per e-mail</a></span>, <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.nl" title="Uw persoonlijke bestanden delen">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media sharing</a></span>…
-    </span>
+<a href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Bluetooth delen</a></span>, <span class="link"><a href="sharing-personal.html.nl" title="Uw persoonlijke bestanden delen">Delen persoonlijk bestand</a></span>, <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Scherm delen</a></span>, <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -144,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

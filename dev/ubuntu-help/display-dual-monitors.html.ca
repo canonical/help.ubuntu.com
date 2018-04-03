@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Connect another monitor to your computer</title>
+<title>Connecteu un altre monitor a l'ordinador</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,32 +67,22 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="prefs-display.html.ca" title="Display &amp; screen">Display &amp; screen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Connect another monitor to your computer</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Connecteu un altre monitor a l'ordinador</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="steps" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Set up an additional monitor</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Configureu un monitor addicional</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To set up an additional monitor, connect the monitor to your computer. If
-  your system does not recognize it immediately, or you would like to adjust
-  the settings:</p>
+<p class="p">Per configurar un monitor addicional, connecteu el monitor a l'ordinador. Si el vostre sistema no el reconeix immediatament o voleu ajustar la configuració:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Displays</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenceu a escriure <span class="gui">Mostrar</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Pantalles</span> per obrir el panell.</p></li>
 <li class="steps">
-<p class="p">Click on the monitor that you would like to activate or deactivate,
-      then in the list of monitor configuration select <span class="gui">Turn Off</span> to
-      deactivate the monitor, or one of <span class="gui">Primary</span>,
-      <span class="gui">Secondary</span>, or <span class="gui">Mirror</span> to activate it.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">The primary monitor is the one with the
-        <span class="link"><a href="shell-introduction.html.ca" title="Introduction to GNOME">top bar</a></span>, and where the
-        <span class="gui">Activities</span> overview is shown.</p></div></div></div></div>
+<p class="p">Feu clic al monitor que voleu activar o desactivar, a continuació, a llista de configuració del monitor, seleccioneu <span class="gui">Apagar</span> per desactivar-lo, o un de <span class="gui">Primari</span>, <span class="gui">Secundari</span>, o <span class="gui">Mirall</span> per activar-lo.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">El monitor principal és el que té la <span class="link"><a href="shell-introduction.html.ca" title="Introduction to GNOME"> barra superior</a></span>, i on es mostra el resum general d'<span class="gui">Activitats</span>.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">To rotate the orientation of the monitor, use the buttons with the
-      arrows until the preview is correct.</p></li>
-<li class="steps"><p class="p">When you are happy with your settings, click <span class="gui">Apply</span> and then
-      click <span class="gui">Keep Changes</span>.</p></li>
+<li class="steps"><p class="p">Per girar l'orientació del monitor, utilitzeu els botons amb les fletxes fins que la vista prèvia sigui correcta.</p></li>
+<li class="steps"><p class="p">Quan estigueu satisfet amb la vostra configuració, feu clic a <span class="gui">Aplicar</span> i aleshores feu clic a <span class="gui">Mantenir els canvis</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -116,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

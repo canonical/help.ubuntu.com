@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -89,13 +89,9 @@
 <li class="list"><p class="p">Colorimètre HCFR (colorimeter)</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">De Pantone Heuy is momenteel de goedkoopste en de best ondersteunde hardware voor Linux.</p></div></div></div></div>
-<p class="p">
-    Thanks to Argyll there’s also a number of spot and strip reading
-    reflective spectrometers supported to help you calibrating and
-    characterizing your printers:
-  </p>
+<p class="p">Dankzij Argyll is er ook ondersteuning voor een aantal ‘spot and strip reading reflective’-spectrometers met behulp waarvan u uw printers kunt kalibreren en karakteriseren:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
+<li class="list"><p class="p">X-Rite DTP20 ‘Pulse’ (‘swipe’-type reflecterende spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (spot type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (spot and strip reading reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (spot and strip reading reflective spectrometer)</p></li>
@@ -116,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

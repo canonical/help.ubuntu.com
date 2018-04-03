@@ -80,6 +80,10 @@
 <li class="steps"><p class="p">Atbildiet uz uzvedni <span class="gui">Sesija jāpārstartē, lai izmaiņas stātos spēkā</span>, spiežot <span class="gui">Pārstartēt tagad</span> vai spiežot pogu <span class="gui">×</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Kad izvēlēts reģions, pa labi no saraksta redzami datuma un citu formātu piemēri. Lai gan šajos piemēros tas nav redzams, reģions nosaka arī dienu, ar kuru sākas nedēļa kalendāros.</p>
+<div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -87,7 +91,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.lv" title="Vieta un valoda">Vieta un valoda</a><span class="desc"> — <span class="link"><a href="session-language.html.lv" title="Mainīt datora valodu">Valoda</a></span>, <span class="link"><a href="session-formats.html.lv" title="Mainīt datuma un mērvienību formātus">reģions un formāti</a></span>, <span class="link"><a href="keyboard-layouts.html.lv" title="Use alternative keyboard layouts">tastatūras izkārtojumi</a></span>…</span>
+<a href="prefs-language.html.lv" title="Vieta un valoda">Vieta un valoda</a><span class="desc"> — <span class="link"><a href="session-language.html.lv" title="Mainīt datora valodu">Valoda</a></span>, <span class="link"><a href="session-formats.html.lv" title="Mainīt datuma un mērvienību formātus">reģions un formāti</a></span>, <span class="link"><a href="keyboard-layouts.html.lv" title="Izmantojiet alternatīvus tastatūru izkārtojumus">tastatūras izkārtojumi</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -105,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

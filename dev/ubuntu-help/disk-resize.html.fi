@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="disk.html.fi" title="Levyt ja tiedon tallennus">Levyt ja tiedon tallennus</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="disk.html.fi" title="Levyt ja tiedon tallennus">Levyt ja tiedon tallennus</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Adjust the size of a filesystem</span></h1></div>
@@ -75,12 +75,12 @@
      mounted.</p>
 <p class="p">To make space for another partition after the filesystem, it can be
      shrunk according to the free space within it.</p>
-<p class="p">Not all filesystems have resize support.</p>
+<p class="p">Kaikki tiedostojärjestelmät eivät tue koon muuttamista.</p>
 <p class="p">The partition size will be changed together with the filesystem size.
      It is also possible to resize a partition without a filesystem in the
      same way.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Resize a filesystem/partition</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Muuta tiedostojärjestelmän tai osion kokoa</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
 <li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
@@ -98,7 +98,7 @@
 <p class="p">Depending on how much data has to be moved from the shrunk part, the
        filesystem resize may take longer time.</p>
 <div class="note note-warning" title="Varoitus"><div class="inner"><div class="region"><div class="contents"><p class="p">The filesystem resize automatically involves
-         <span class="link"><a href="disk-repair.html.fi" title="Repair a damaged filesystem">repairing</a></span> of the filesystem. Therefore
+         <span class="link"><a href="disk-repair.html.fi" title="Korjaa vaurioitunut tiedostojärjestelmä">repairing</a></span> of the filesystem. Therefore
          it is advised to back up important data before starting. The action
          must not be stopped or it will result in a damaged filesystem.</p></div></div></div></div>
 </li>
@@ -129,7 +129,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Templates for commonly-used document types</title>
+<title>Szablony często używanych typów dokumentów</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,38 +64,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#faq" title="Wskazówki i pytania">Wskazówki i pytania</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#faq" title="Wskazówki i pytania">Wskazówki i pytania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Templates for commonly-used document types</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Szablony często używanych typów dokumentów</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you often create documents based on the same content, you might
-  benefit from using file templates. A file template can be a document
-  of any type with the formatting or content you would like to reuse.
-  For example, you could create a template document with your letterhead.</p>
+<p class="p">Jeśli często tworzone są dokumenty na podstawie tej samej zawartości, to można korzystać z szablonów plików. Szablon pliku może być dokumentem dowolnego typu z formatowaniem lub treścią do ponownego użycia. Na przykład, można utworzyć szablon dokumentu z gotowym nagłówkiem.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Tworzenie nowego szablonu</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Create a document that you are going to use as a template. For
-      example, you could make your letterhead in a word processing
-      application.</p></li>
-<li class="steps"><p class="p">Save the file with the template content in the <span class="file">Templates</span>
-      folder in your <span class="file">Home</span> folder. If the <span class="file">Templates</span>
-      folder does not exist, you will need to create it first.</p></li>
+<li class="steps"><p class="p">Utwórz dokument, który ma zostać użyty jako szablon. Na przykład, można napisać nagłówek w edytorze tekstu.</p></li>
+<li class="steps"><p class="p">Zapisz plik z treścią szablonu w katalogu <span class="file">Szablony</span> w <span class="file">Katalogu domowym</span>. Jeśli katalog <span class="file">Szablony</span> nie istnieje, to należy go najpierw utworzyć.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Use a template to create a document</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Używanie szablonu do utworzenia dokumentu</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the folder where you want to place the new document.</p></li>
-<li class="steps"><p class="p">Right-click anywhere in the empty space in the folder, then choose
-      <span class="gui">New Document</span>. The names of available
-      templates will be listed in the submenu.</p></li>
-<li class="steps"><p class="p">Choose your desired template from the list.</p></li>
-<li class="steps"><p class="p">Double-click the file to open it and start editing. You may wish to
-      <span class="link"><a href="files-rename.html.pl-PL" title="Zmiana nazwy pliku lub katalogu">rename the file</a></span> when you are
-      finished.</p></li>
+<li class="steps"><p class="p">Otwórz katalog, w którym umieścić nowy dokument.</p></li>
+<li class="steps"><p class="p">Kliknij w dowolnym pustym miejscu w katalogu prawym przyciskiem myszy, a następnie wybierz <span class="gui">Nowy dokument</span>. Nazwy dostępnych szablonów będą wyświetlane w podmenu.</p></li>
+<li class="steps"><p class="p">Wybierz szablon z listy.</p></li>
+<li class="steps"><p class="p">Podwójnie kliknij plik, aby go otworzyć i zacząć edycję. Można <span class="link"><a href="files-rename.html.pl-PL" title="Zmiana nazwy pliku lub katalogu">zmienić jego nazwę</a></span> po ukończeniu.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -113,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

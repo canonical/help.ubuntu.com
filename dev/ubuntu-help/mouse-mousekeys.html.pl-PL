@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Click and move mouse pointer using the keypad</title>
+<title>Klikanie i przenoszenie kursora myszy za pomocą klawiatury numerycznej</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,56 +65,32 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pl-PL" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="a11y.html.pl-PL" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Click and move mouse pointer using the keypad</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Klikanie i przenoszenie kursora myszy za pomocą klawiatury numerycznej</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have difficulties using a mouse or other pointing device, you can
-  control the mouse pointer using the numeric keypad on your keyboard. This
-  feature is called <span class="em">mouse keys</span>.</p>
+<p class="p">Jeśli używanie myszy lub innego urządzenia wskazującego sprawia trudności, to można sterować kursorem myszy za pomocą klawiatury numerycznej. Ta funkcja nazywa się <span class="em">klawiszami myszy</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p>
-<p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
-      by moving your mouse pointer against the top-left corner of the screen,
-      using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      followed by <span class="key"><kbd>Enter</kbd></span> or using
-      <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>.</p>
+<p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p>
+<p class="p">Można włączyć <span class="gui">ekran podglądu</span> klikając <span class="gui">Podgląd</span>, przesuwając kursor myszy do górnego lewego rogu ekranu, naciskając klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> i <span class="key"><kbd>Enter</kbd></span>, albo naciskając klawisz <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>.</p>
 </li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ułatwienia dostępu</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
-      <span class="gui">Pointing &amp; Clicking</span> section then press <span class="key"><kbd>Enter</kbd></span> to
-      switch <span class="gui">Mouse Keys</span> to <span class="gui">On</span>.</p></li>
-<li class="steps"><p class="p">Make sure that <span class="key"><kbd>Num Lock</kbd></span> is turned off. You will now be able
-      to move the mouse pointer using the keypad.</p></li>
+<li class="steps"><p class="p">Użyj klawiszy strzałek w górę i w dół, aby wybrać <span class="gui">Klawisze myszy</span> w sekcji <span class="gui">Wskazywanie i klikanie</span>, a następnie naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>, aby przełączyć <span class="gui">Klawisze myszy</span> na <span class="gui">|</span> (włączone).</p></li>
+<li class="steps"><p class="p">Upewnij się, że <span class="key"><kbd>Num Lock</kbd></span> jest wyłączony. Będzie teraz można przesuwać kursor myszy za pomocą klawiatury numerycznej.</p></li>
 </ol></div></div></div>
-<p class="p">The keypad is a set of numerical buttons on your keyboard, usually
-  arranged into a square grid. If you have a keyboard without a keypad (such as
-  a laptop keyboard), you may need to hold down the function (<span class="key"><kbd class="key-Fn">Fn</kbd></span>)
-  key and use certain other keys on your keyboard as a keypad. If you use this
-  feature often on a laptop, you can purchase external USB or Bluetooth numeric
-  keypads.</p>
-<p class="p">Each number on the keypad corresponds to a direction. For example,
-  pressing <span class="key"><kbd>8</kbd></span> will move the pointer upwards and pressing
-  <span class="key"><kbd>2</kbd></span> will move it downwards. Press the <span class="key"><kbd>5</kbd></span> key to click once
-  with the mouse, or quickly press it twice to double-click.</p>
-<p class="p">Most keyboards have a special key which allows you to right-click,
-  sometimes called the <span class="key"><a href="keyboard-key-menu.html.pl-PL" title="Czym jest klawisz Menu?"><kbd>Menu</kbd></a></span> key. Note,
-  however, that this key responds to where your keyboard focus is, not where
-  your mouse pointer is. See <span class="link"><a href="a11y-right-click.html.pl-PL" title="Symulacja kliknięcia prawym przyciskiem myszy">Symulacja kliknięcia prawym przyciskiem myszy</a></span> for information on
-  how to right-click by holding down <span class="key"><kbd>5</kbd></span> or the left mouse button.</p>
-<p class="p">If you want to use the keypad to type numbers while mouse keys is enabled,
-  turn <span class="key"><kbd>Num Lock</kbd></span> on. The mouse cannot be controlled with the keypad
-  when <span class="key"><kbd>Num Lock</kbd></span> is turned on, though.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">The normal number keys, in a line at the top of the keyboard, will not
-    control the mouse pointer. Only the keypad number keys can be used.</p></div></div></div></div>
+<p class="p">Klawiatura numeryczna to zestaw klawiszy z cyframi, zwykle ułożonymi w kwadratową siatkę. Jeśli używana klawiatura nie ma części numerycznej (np. na laptopie), to można zastąpić ją przytrzymując klawisz funkcyjny (<span class="key"><kbd class="key-Fn">Fn</kbd></span>) i naciskając odpowiednie klawisze. Można także kupić zewnętrzną klawiaturę numeryczną podłączoną przez USB lub Bluetooth.</p>
+<p class="p">Każda cyfra na klawiaturze numerycznej odpowiada kierunkowi. Na przykład, naciśnięcie klawisza <span class="key"><kbd>8</kbd></span> przesunie kursor do góry, a naciśnięcie klawisza <span class="key"><kbd>2</kbd></span> przesunie go w dół. Naciśnij klawisz <span class="key"><kbd>5</kbd></span>, aby kliknąć raz lub szybko naciśnij go dwa razy, aby wykonać podwójne kliknięcie.</p>
+<p class="p">Większość klawiatur ma specjalny klawisz umożliwiający klikanie prawym przyciskiem myszy, czasami nazywany klawiszem <span class="key"><a href="keyboard-key-menu.html.pl-PL" title="Czym jest klawisz Menu?"><kbd>Menu</kbd></a></span>. Zauważ jednak, że ten klawisz działa w miejscu aktywnym klawiatury, nie w miejscu pod kursorem. <span class="link"><a href="a11y-right-click.html.pl-PL" title="Symulacja kliknięcia prawym przyciskiem myszy">Symulacja kliknięcia prawym przyciskiem myszy</a></span> zawiera informacje na temat klikania prawym przyciskiem myszy przez przytrzymanie klawisza <span class="key"><kbd>5</kbd></span> lub lewego przycisku myszy.</p>
+<p class="p">Aby używać klawiatury numerycznej do wpisywania cyfr, kiedy klawisze myszy są włączone, włącz <span class="key"><kbd>Num Lock</kbd></span>. Jednak mysz nie może być wtedy sterowana za pomocą klawiatury numerycznej.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Zwykłe klawisze cyfr, położone na górze klawiatury, nie będą sterować kursorem myszy.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -122,11 +98,7 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html.pl-PL" title="Mysz">Mysz</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html.pl-PL" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html.pl-PL" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html.pl-PL" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
-    </span>
+<a href="mouse.html.pl-PL" title="Mysz">Mysz</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.pl-PL" title="Używanie myszy leworęcznej">Mysz leworęczna</a></span>, <span class="link"><a href="mouse-sensitivity.html.pl-PL" title="Dostosowanie prędkości myszy i panelu dotykowego">prędkość kursora</a></span>, <span class="link"><a href="mouse-touchpad-click.html.pl-PL" title="Klikanie, przeciąganie i przewijanie za pomocą panelu dotykowego">klikanie i przewijanie za pomocą panelu dotykowego</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a></li>
 </ul></div>
@@ -139,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

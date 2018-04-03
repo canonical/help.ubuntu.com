@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Can I get notified when my color profile is inaccurate?</title>
+<title>Puc rebre notificacions quan el meu perfil de color no sigui correcte?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,28 +65,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#problems" title="Problems">Problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#problems" title="Problemes">Problemes</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#problems" title="Problems">Problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#problems" title="Problemes">Problemes</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Can I get notified when my color profile is inaccurate?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Puc rebre notificacions quan el meu perfil de color no sigui correcte?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can be reminded to recalibrate your devices after a specific period of
-  time. Unfortunately, it is not possible to tell without recalibrating whether
-  a device profile is accurate, so it is best to recalibrate devices
-  regularly.</p>
-<p class="p">Some companies have very specific calibration expiry policies for
-  profiles, as an inaccurate color profile can make a huge difference to an end
-  product.</p>
-<p class="p">If you set the timeout policy and a profile is older than the policy then
-  a red warning triangle will be shown in the <span class="gui">Color</span> panel next to
-  the profile. A warning notification will also be shown every time you log
-  into your computer.</p>
-<p class="p">To set the policy for display and printer devices, you specify the
-  maximum age of the profile in days:</p>
+<p class="p">Pot recordar-se-li recalibrar els dispositius després d'un període de temps determinat. Malauradament, no és possible avisar-lo sense haver de recalibrar ni que el perfil del dispositiu sigui correcte, per tant, és millor recalibrar els dispositius amb regularitat.</p>
+<p class="p">Algunes empreses tenen polítiques específiques de caducitat per als perfils, ja que un perfil de color incorrecte pot provocar una gran diferència en el producte final.</p>
+<p class="p">Si estableix la política de temps d'espera i un perfil és anterior, es mostrarà un triangle vermell d'advertència al costat del perfil en el panell  <span class="gui">Color</span>. També es mostrarà una notificació d'advertència cada vegada que inicieu sessió al vostre ordinador.</p>
+<p class="p">Per establir la política de visualització dels dispositius d'impressió, especifiqueu en dies l'antiguitat màxima del perfil:</p>
 <div class="screen"><pre class="contents "><span class="prompt output">$ </span><span class="input">gsettings set org.gnome.settings-daemon.plugins.color recalibrate-printer-threshold 180</span>
 <span class="prompt output">$ </span><span class="input">gsettings set org.gnome.settings-daemon.plugins.color recalibrate-display-threshold 90</span></pre></div>
 </div>
@@ -95,12 +86,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html.ca#problems" title="Problems">Problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ca#problems" title="Problemes">Problemes</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-why-calibrate.html.ca" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
+<a href="color-why-calibrate.html.ca" title="Per què he de fer jo la calibració?">Per què he de fer jo la calibració?</a><span class="desc"> — Calibrar és important si us preocupa els colors que mostreu o imprimiu.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -112,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

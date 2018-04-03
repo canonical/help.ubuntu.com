@@ -2,9 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Create a startup disk
-  </title>
+<title>Tworzenie dysku startowego</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,42 +65,25 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.pl-PL" title="Install &amp; remove software">Add/remove software</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="addremove.html.pl-PL" title="Instalowanie i usuwanie oprogramowania">Dodawanie/usuwanie oprogramowania</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Create a startup disk
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Tworzenie dysku startowego</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">In this context a startup disk is a USB flash drive from which you can startup and <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">install Ubuntu</a></span>.
-  The capacity of the USB flash drive must be at least 2 GB.
-  Any data on the USB flash drive will be lost when you create the startup disk.</p>
-<p class="p">It's assumed that you have downloaded an Ubuntu ISO image.</p>
-<p class="p">To create a startup disk from an Ubuntu ISO image:</p>
+<p class="p">W tym kontekście dysk startowy to pendrive, z którego można uruchomić komputer i <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">zainstalować Ubuntu</a></span>. Pendrive musi mieć co najmniej 2 GB. Wszystkie znajdujące się na nim dane zostaną usunięte podczas tworzenia dysku startowego.</p>
+<p class="p">Zakładamy, że pobrano już obraz ISO Ubuntu.</p>
+<p class="p">Aby utworzyć dysk startowy z obrazu ISO Ubuntu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        If the ISO image is in your <span class="gui">Download</span> folder and there is just one ISO image, <span class="app">Startup Disk Creator</span> will have selected it,
-        otherwise select the correct ISO image.
-      </p></li>
-<li class="steps"><p class="p">
-        If your computer has just one USB flash drive, <span class="app">Startup Disk Creator</span> will have selected it, otherwise select the correct drive.
-      </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Make Startup Disk</span>.
-      </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Yes</span> to confirm. The process should take ten minutes or less.
-      </p></li>
-<li class="steps"><p class="p">
-        When the "Installation Complete" window opens click <span class="gui">Quit</span>.
-      </p></li>
+<li class="steps"><p class="p">Otwórz <span class="app">Asystenta dysku startowego</span> za pomocą paska wyszukiwania na <span class="em">ekranie podglądu</span>.</p></li>
+<li class="steps"><p class="p">Jeśli obraz ISO jest w katalogu <span class="gui">Pobrane</span> i nie ma w nim innych plików ISO, to <span class="app">Asystent dysku startowego</span> wybierze go automatycznie, a w przeciwnym przypadku wybierz właściwy obraz ISO.</p></li>
+<li class="steps"><p class="p">Jeśli do komputera podłączony jest tylko jeden pendrive, to <span class="app">Asystent dysku startowego</span> wybierze go automatycznie, a w przeciwnym przypadku wybierz właściwy.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Utwórz dysk startowy</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Tak</span>, aby potwierdzić. Nie powinno to potrwać dłużej niż 10 minut.</p></li>
+<li class="steps"><p class="p">Kiedy pojawi się okno „Ukończono instalację”, kliknij przycisk <span class="gui">Zakończ</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -111,19 +92,10 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html.pl-PL" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.pl-PL" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.pl-PL" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.pl-PL" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.pl-PL" title="Sprawdzanie wolnego miejsca na dysku">Miejsce na dysku</a></span>, <span class="link"><a href="disk-benchmark.html.pl-PL" title="Testowanie wydajności dysku twardego">wydajność</a></span>, <span class="link"><a href="disk-check.html.pl-PL" title="Sprawdzanie, czy dysk twardy sprawia problemy">problemy</a></span>, <span class="link"><a href="disk-partitions.html.pl-PL" title="Zarządzanie woluminami i partycjami">woluminy i partycje</a></span>…</span>
 </li>
 <li class="links ">
-<a href="addremove.html.pl-PL" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.pl-PL" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.pl-PL" title="Usuń program">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.pl-PL" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.pl-PL" title="Instalowanie i usuwanie oprogramowania">Instalowanie i usuwanie oprogramowania</a><span class="desc"> — <span class="link"><a href="addremove-install.html.pl-PL" title="Instalacja dodatkowych programów">Instalowanie programów</a></span>, <span class="link"><a href="addremove-remove.html.pl-PL" title="Usuwanie programu">usuwanie programów</a></span>, <span class="link"><a href="addremove-sources.html.pl-PL" title="Dodawanie repozytoriów oprogramowania">dodawanie repozytoriów</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -135,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

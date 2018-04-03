@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="clock.html.nl" title="Datum &amp; tijd">Datum &amp; tijd</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="clock.html.nl" title="Datum &amp; tijd">Datum &amp; tijd</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een wereldklok toevoegen</span></h1></div>
@@ -73,13 +73,11 @@
 <p class="p">Gebruik <span class="app">Klok</span> om tijden in andere steden toe te voegen.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Hiervoor moet de <span class="app">Klok</span>-toepassing geïnstalleerd zijn.</p>
-<p class="p">Most distributions come with <span class="app">Clocks</span> installed by default.
-    If yours does not, you may need to install it using your distribution’s
-    package manager.</p>
+<p class="p">Bij de meeste distributies is <span class="app">Klok</span> standaard geïnstalleerd. Als dat bij u niet het geval is, moet u het installeren met het pakketbeheerprogramma van uw distributie.</p>
 </div></div></div></div>
 <p class="p">Om een wereldklok toe te voegen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op de klok in de bovenste balk.</p></li>
+<li class="steps"><p class="p">Klik op de klok in de bovenbalk.</p></li>
 <li class="steps">
 <p class="p">Klik op <span class="gui">Wereldklokken toevoegen…</span> onder de agenda om <span class="app">Klok</span> te starten.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u al één of meer wereldklokken heeft, klik dan op één van deze en <span class="app">Klok</span> zal starten.</p></div></div></div></div>
@@ -113,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -94,11 +94,7 @@
 <p class="p">Bila Anda menekan dua tombol sekaligus, Anda dapat mematikan sementara tombol lengket agar Anda dapat memasukkan pintasan papan tik dengan cara normal.</p>
 <p class="p">Misalnya, jika kunci lengket dihidupkan tetapi Anda menekan <span class="key"><kbd>Super</kbd></span> dan <span class="key"><kbd>Tab</kbd></span> secara bersamaan, kunci lengket tidak akan menunggu Anda untuk menekan tombol lain jika opsi ini diaktifkan. Namun ini <span class="em">akan</span> menunggu jika Anda hanya menekan satu tombol. Ini berguna jika Anda dapat menekan beberapa pintasan papan tik secara bersamaan (misalnya, tombol yang berdekatan), tapi bukan yang lainnya.</p>
 <p class="p">Pilih <span class="gui">Nonaktifkan bila dua tombol ditekan bersama</span> untuk mengaktifkan ini.</p>
-<p class="p">You can have the computer make a “beep” sound when you start typing a
-  keyboard shortcut with sticky keys turned on. This is useful if you want to
-  know that sticky keys is expecting a keyboard shortcut to be typed, so the
-  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
-  when a modifier key is pressed</span> to enable this.</p>
+<p class="p">Anda dapat membuat komputer bersuara "bip" ketika Anda mulai mengetikkan pintasan papan tik dengan tombol lengket dihidupkan. Ini berguna jika Anda ingin tahu bahwa kunci lengket mengharapkan pintasan papan tik untuk diketik, jadi penekanan tombol berikutnya akan diinterpretasikan sebagai bagian dari pintasan. Pilih <span class="gui">Bunyi bip jika tombol pengubah ditekan</span> untuk mengaktifkan ini.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -107,7 +103,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Use alternative keyboard layouts">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -119,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

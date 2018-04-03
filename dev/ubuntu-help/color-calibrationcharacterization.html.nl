@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What’s the difference between calibration and characterization?</title>
+<title>Wat is het verschil tussen kalibreren en karakteriseren?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#calibration" title="Kalibratie">Kalibratie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wat is het verschil tussen kalibreren en karakteriseren?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Veel mensen kennen het verschil tussen kalibreren en karakteriseren niet. Kalibreren is het aanpassen van het kleurgedrag van een apparaat. Dit gebeurt meestal met het gebruik van twee mechanismen:</p>
@@ -81,11 +81,7 @@
 </ul></div></div></div>
 <p class="p">Het idee van kalibreren is om de kleurreactie van apparaten in een voorgedefinieerde staat te brengen. Dit wordt vaak gebruikt om het reproduceerbare gedrag van het apparaat van dag tot dag te behouden. Het resultaat van de kalibratie wordt normaal in het apparaat opgeslagen of in systeem-specifieke bestanden met daarin opgeslagen de apparaatinstellingen of kalibratiecurves per kanaal.</p>
 <p class="p">Karakteriseren (of profileren) is het <span class="em">opnemen</span> van de manier waarop een apparaat een kleur produceert of op een kleur reageert. De resultaten worden normaal opgeslagen in een ICC-profiel voor het apparaat. Zo'n profiel kan uit zichzelf geen kleuren aanpassen. Maar met zo'n profiel kan een systeem zoals een CMM (color management module) of een kleur-bewuste toepassing de kleur veranderen zodat u ziet wat u op het andere apparaat zou zien. Alleen wanneer u weet wat de karakterisering van de twee apparaten is, kunt u de kleuren van het ene apparaat op het andere apparaat weergeven.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      Note that a characterization (profile) will only be valid for a device
-      if it’s in the same state of calibration as it was when it was
-      characterized.
-    </p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Houd er rekening mee dat een karakterisering (profiel) alleen geldig is voor een apparaat indien het in dezelfde staat van kalibratie is als toen het gekarakteriseerd werd.</p></div></div></div></div>
 <p class="p">Als het om beeldschermprofielen gaat is er nog wat extra verwarring omdat de kalibratie-informatie vaak voor het gemak in het profiel wordt opgeslagen. Het is gebruikelijk deze informatie in de <span class="em">vcgt</span>-tag op te slaan. Alhoewel het is opgeslagen in het profiel, zijn geen van de normale, op ICC-gebaseerde, hulpmiddelen of toepassingen zich ervan bewust. Tegelijkertijd zullen typische monitor-kalibratieprogramma's zich er niet bewust van zijn, en zullen het ICC-profiel dan ook niet gebruiken.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -102,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

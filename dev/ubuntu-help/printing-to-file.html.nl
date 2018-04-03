@@ -64,32 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Naar bestand afdrukken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can choose to print a document to a file instead of sending it to
-  print from a printer. Printing to file will create a <span class="sys">PDF</span>, a
-  <span class="sys">PostScript</span> or a <span class="sys">SVG</span> file that contains the document.
-  This can be useful if you want to transfer the document to another machine
-  or to share it with someone.</p>
+<p class="p">U kunt ervoor kiezen een document naar een bestand af te drukken in plaats van het door de printer af te laten drukken. Het afdrukken naar een bestand maakt een <span class="sys">PDF</span>-, <span class="sys">PostScript</span>-, of <span class="sys">SVG</span>-bestand dat het document bevat. Dit kan nuttig zijn wanneer u het document naar een andere machine over wilt brengen, of wanneer u het met iemand wilt delen.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Om naar bestand af te drukken:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the print dialog by pressing
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Print to File</span> under <span class="gui">Printer</span> in the
-      <span class="gui">General</span> tab.</p></li>
-<li class="steps"><p class="p">To change the default filename and where the file is saved to, click
-      the filename below the printer selection. Click
-      <span class="gui">Select</span> once you have finished choosing.</p></li>
-<li class="steps"><p class="p"><span class="sys">PDF</span> is the default file type for the document. If you want
-      to use a different <span class="gui">Output format</span>, select either
-      <span class="sys">PostScript</span> or <span class="sys">SVG</span>.</p></li>
-<li class="steps"><p class="p">Choose your other page preferences.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Print</span> to save the file.</p></li>
+<li class="steps"><p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> om het afdrukdialoogvenster te openen.</p></li>
+<li class="steps"><p class="p">Kies <span class="gui">Naar bestand afdrukken</span> onder <span class="gui">Printer</span> in het tabblad <span class="gui">Algemeen</span>.</p></li>
+<li class="steps"><p class="p">Om de standaard bestandsnaam en waar het bestand opgeslagen wordt te wijzigen klikt u op de bestandsnaam onder de printerkeuze. Klik na uw keuze op <span class="gui">Selecteren</span></p></li>
+<li class="steps"><p class="p"><span class="sys">PDF</span> is het standaard bestandstype voor het document. als u een ander <span class="gui">Uitvoerformaat</span> wenst, kies dan <span class="sys">PostScript</span> of <span class="sys">SVG</span>.</p></li>
+<li class="steps"><p class="p">Kies uw andere paginavoorkeuren.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Afdrukken</span> om het bestand op te slaan.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -109,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

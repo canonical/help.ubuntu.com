@@ -138,9 +138,13 @@
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vezi și</span></h2></div>
-<div class="region"><ul><li class="links ">
+<div class="region"><ul>
+<li class="links ">
 <a href="shell-apps-favorites.html.ro" title="Pin your favorite apps to the dash">Pin your favorite apps to the dash</a><span class="desc"> — Add (or remove) frequently-used program icons on the dash.</span>
-</li></ul></div>
+</li>
+<li class="links "><a href="gs-launch-applications.html.ro" title="Lansarea de aplicații">Un ghid despre lansarea aplicațiilor</a></li>
+<li class="links "><a href="gs-use-system-search.html.ro" title="Utilizarea căutării sistemului">Un ghid pentru utilizarea căutării sistemului</a></li>
+</ul></div>
 </div></div>
 </div>
 </div>
@@ -151,7 +155,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

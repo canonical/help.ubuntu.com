@@ -64,12 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Voorbeeldweergave voor bestanden en mappen</span></h1></div>
 <div class="region">
 <div class="contents">
+<div class="note note-important" title="Belangrijk"><div class="inner"><div class="region"><div class="contents">
+<p class="p">U dient <span class="app">Sushi</span> te hebben geïnstalleerd op uw computer om deze stappen uit te voeren.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool"><span class="app">Sushi</span> installeren</a></span></p>
+</div></div></div></div>
 <p class="p">U kunt bestanden snel inzien zonder ze in een toepassing te hoeven openen. Kies een bestand en druk op de spatiebalk. Het bestand zal nu in een eenvoudig voorbeeldvenster worden weergegeven. Druk opnieuw op de spatiebalk om het voorbeeldvenster te verbergen.</p>
 <p class="p">De ingebouwde voorbeeldweergave ondersteunt de meeste bestandsindelingen voor documenten, afbeeldingen, video en audio. In de voorbeeldweergave kunt u door uw document bladeren of in uw audio- of videobestand zoeken.</p>
 <p class="p">Om een voorbeeld te bekijken in een volledig scherm drukt u op <span class="key"><kbd>F</kbd></span> of <span class="key"><kbd>F11</kbd></span>. Druk nogmaals op <span class="key"><kbd>F</kbd></span> of <span class="key"><kbd>F11</kbd></span> om het volledige scherm te verlaten, of druk op de spatiebalk om het voorbeeld volledig af te sluiten.</p>
@@ -96,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

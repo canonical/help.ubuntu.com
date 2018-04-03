@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why is color management important?</title>
+<title>Per què és important la gestió del color?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,102 +65,50 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why is color management important?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Per què és important la gestió del color?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    Color management is the process of capturing a color using an input
-    device, displaying it on a screen, and printing it all whilst managing
-    the exact colors and the range of colors on each medium.
-  </p>
-<p class="p">
-    The need for color management is probably explained best with a
-    photograph of a bird on a frosty day in winter.
-  </p>
+<p class="p">La gestió del color és el procés de captura un color amb un dispositiu d'entrada, mostrar-lo en una pantalla i imprimir-lo mentre es gestiona els colors exactes i el rang de colors en cada mitjà.</p>
+<p class="p">La necessitat de gestió del color probablement s'explica millor amb la fotografia d'un ocell durant un dia de gelada a l'hivern.</p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Mostra les imatges a la mida normal" data-zoom-out-title="Fes les imatges més petites"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-camera.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">A bird on a frosty wall as seen on the camera view-finder</div>
+<div class="desc">Un ocell sobre una paret gelada com es veu al visor de la càmera</div>
 </div>
 </div></div>
-<p class="p">
-    Displays typically over-saturate the blue channel, making the images
-    look cold.
-  </p>
+<p class="p">Generalment es mostra sobre-saturar el canal blau, fent que les imatges es vegin fredes.</p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Mostra les imatges a la mida normal" data-zoom-out-title="Fes les imatges més petites"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-display.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">This is what the user sees on a typical business laptop screen</div>
+<div class="desc">Això és el que l'usuari veu en una típica pantalla d'ordinador  portàtil</div>
 </div>
 </div></div>
-<p class="p">
-    Notice how the white is not “paper white” and the black of the eye
-    is now a muddy brown.
-  </p>
+<p class="p">Observeu com el blanc no és "paper blanc" i el negre de l'ull és ara un marró fangós.</p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Mostra les imatges a la mida normal" data-zoom-out-title="Fes les imatges més petites"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">This is what the user sees when printing on a typical inkjet printer</div>
+<div class="desc">Això és el que veu l'usuari en imprimir en una impressora típica d'injecció de tinta</div>
 </div>
 </div></div>
-<p class="p">
-    The basic problem we have here is that each device is capable of
-    handling a different range of colors.
-    So while you might be able to take a photo of electric blue, most
-    printers are not going to be able to reproduce it.
-  </p>
-<p class="p">
-    Most image devices capture in RGB (Red, Green, Blue) and have
-    to convert to CMYK (Cyan, Magenta, Yellow, and Black) to print.
-    Another problem is that you can’t have <span class="em">white</span> ink, and so
-    the whiteness can only be as good as the paper color.
-  </p>
-<p class="p">
-    Another problem is units. Without specifying the scale on which a
-    color is measured, we don’t know if 100% red is near infrared or
-    just the deepest red ink in the printer. What is 50% red on one
-    display is probably something like 62% on another display.
-    It’s like telling a person that you’ve just driven 7 units of
-    distance, without the unit you don’t know if that’s 7 kilometers or
-    7 meters.
-  </p>
-<p class="p">
-    In color, we refer to the units as gamut. Gamut is essentially the
-    range of colors that can be reproduced.
-    A device like a DSLR camera might have a very large gamut, being able
-    to capture all the colors in a sunset, but a projector has a very
-    small gamut and all the colors are going to look “washed out”.
-  </p>
-<p class="p">
-    In some cases we can <span class="em">correct</span> the device output by altering
-    the data we send to it, but in other cases where that’s not
-    possible (you can’t print electric blue) we need to show the user
-    what the result is going to look like.
-  </p>
-<p class="p">
-    For photographs it makes sense to use the full tonal range of a color
-    device, to be able to make smooth changes in color.
-    For other graphics, you might want to match the color exactly, which
-    is important if you’re trying to print a custom mug with the Red Hat
-    logo that <span class="em">has</span> to be the exact Red Hat Red.
-  </p>
+<p class="p">El problema bàsic que tenim és que cada dispositiu és capaç de manipular un rang de colors diferent. Així, mentre pot fer una foto de blau elèctric, la majoria de les impressores no podran reproduir-la.</p>
+<p class="p">La majoria dels dispositius d'imatge capturen en RGB (vermell, verd, blau) i s'han de convertir a CMYK (Cyan, Magenta, Groc i Negre) per imprimir. Un altre problema és que no es pot tenir tinta <span class="em">blanca</span>, de manera que la blancor només pot ser tan bona com ho sigui el color del paper.</p>
+<p class="p">Un altre problema són les unitats. Sense especificar l'escala en què es mesura un color, no sabem si el 100% de color vermell és a prop de l'infraroig o només la tinta més  vermella possible de la impressora. El 50% de color vermell en una pantalla és probablement un 62% en una altra pantalla. És com dir-li a una persona que acaba de conduir 7 unitats de distància, sense la unitat no sabrem si són de 7 quilòmetres o 7 metres.</p>
+<p class="p">En color, fem referència a les unitats com a gamma. Gamma és bàsicament la gamma de colors que es poden reproduir. Un dispositiu semblant a una càmera DSLR podria tenir una gamma molt gran, podent capturar tots els colors d'una posta de sol, però un projector té una gama de colors molt reduïda i tots els colors es veuran "rentats".</p>
+<p class="p">En alguns casos podem <span class="em">corregir</span> la sortida del dispositiu mitjançant l'alteració de les dades que li enviem, però en altres casos on això no és possible (no pot imprimir el blau elèctric), hem de mostrar a l'usuari el resultat que obtindrà.</p>
+<p class="p">Per a les fotografies, té sentit utilitzar l'interval tonal complet d'un dispositiu de color, per poder fer canvis de color suaus. Per a altres gràfics, és possible que els vulgueu fer coincidir exactament amb el color,  és important si intenteu imprimir una tassa personalitzada amb el logotip de Red Hat que <span class="em">ha</span> de ser exacte. </p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html.ca" title="Color management">Color management</a><span class="desc"> — 
-      <span class="link"><a href="color-whyimportant.html.ca" title="Why is color management important?">Why is this important</a></span>,
-      <span class="link"><a href="color.html.ca#profiles" title="Perfils de color">Color profiles</a></span>,
-      <span class="link"><a href="color.html.ca#calibration" title="Calibration">How to calibrate a device</a></span>…
-    </span>
+<a href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.ca" title="Per què és important la gestió del color?">Per què és important</a></span>, <span class="link"><a href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a></span>, <span class="link"><a href="color.html.ca#calibration" title="Calibració">Com calibrar un dispositiu</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -171,7 +119,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

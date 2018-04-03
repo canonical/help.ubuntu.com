@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Your desktop</title>
+<title>O seu escritorio</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,23 +67,22 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Your desktop</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">O seu escritorio</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.gl-GL" title="Introdución a GNOME"><span class="title">Introdución a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.gl-GL" title="Iniciar aplicativos"><span class="title">Iniciar aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.gl-GL" title="Iniciar aplicativos"><span class="title">Iniciar aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Iniciar aplicativos desde a vista de <span class="gui">Actividades</span>.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-exit.html.gl-GL" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-exit.html.gl-GL" title="Saír da sesión, apagar e trocar de usuarios"><span class="title">Saír da sesión, apagar e trocar de usuarios</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Personalizar o seu escritorio</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.gl-GL" title="Ancorar os seus aplicativos favoritos ao dash"><span class="title">Ancorar os seus aplicativos favoritos ao dash</span><span class="linkdiv-dash"> — </span><span class="desc">Engadir (ou eliminar) iconas de programas de uso frecuente no taboleiro.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo"><span class="title">Apuntamentos no reloxo</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
-    screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo"><span class="title">Apuntamentos no reloxo</span><span class="linkdiv-dash"> — </span><span class="desc">Mostra os seus apuntamentos no calendario na parte superior da pantalla.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.gl-GL" title="Notificacións e a bandexa de mensaxes"><span class="title">Notificacións e a bandexa de mensaxes</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div></div>
@@ -118,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

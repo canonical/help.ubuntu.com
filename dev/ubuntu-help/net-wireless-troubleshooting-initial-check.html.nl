@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -80,33 +80,19 @@
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">In this step you will check some basic information about your wireless
-  network connection. This is to make sure that your networking problem isn’t
-  caused by a relatively simple issue, like the wireless connection being
-  turned off, and to prepare for the next few troubleshooting steps.</p>
+<p class="p">In deze stap zult u enige basisinformatie controleren over uw draadloze netwerkverbinding. Dit is bedoeld om na te gaan of het misschien om een relatief eenvoudig netwerkprobleem gaat, bijvoorbeeld dat het draadloos netwerk niet ingeschakeld is, en om u voor te bereiden op de volgende stappen om het probleem op te lossen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Zorg ervoor dat uw laptop geen <span class="em">bekabelde</span> internetverbinding heeft.</p></li>
 <li class="steps"><p class="p">Als u een externe draadloze netwerkadapter heeft (zoals een draadloze USB-adapter of een PCMCIA-kaart die in uw laptop gestoken moet worden), controleer dan of deze in de juiste sleuf op uw computer is gestoken.</p></li>
 <li class="steps"><p class="p">Als uw draadloos netwerkkaart zich <span class="em">in</span> uw computer bevindt, controleer dan of de schakelaar (indien aanwezig) van uw draadloos netwerkadapter aanstaat. Laptops hebben vaak schakelaars die aan- en uitgezet kunnen worden via een toetsencombinatie op het toetsenbord.</p></li>
-<li class="steps"><p class="p">Click the system status area on the top bar and select
-      <span class="gui">Wi-Fi</span>, then select <span class="gui">Wi-Fi Settings</span>. Make sure that
-      <span class="gui">Wi-Fi</span> is set to <span class="gui">ON</span>. You should also check that
-      <span class="link"><a href="net-wireless-airplane.html.nl" title="Het draadloze netwerk uitschakelen (vliegtuig-modus)">Airplane Mode</a></span> is <span class="em">not</span>
-      switched on.</p></li>
+<li class="steps"><p class="p">Klik op het systeemstatusgebied in de bovenbalk, kies <span class="gui">Wifi</span> en kies vervolgens <span class="gui">Wifi-instellingen</span>. Zorg ervoor dat <span class="gui">Wifi</span> <span class="gui">Aan</span> staat. Zorg er ook voor dat <span class="link"><a href="net-wireless-airplane.html.nl" title="Het draadloze netwerk uitschakelen (vliegtuig-modus)">Vliegtuigstand</a></span> <span class="em">niet</span> is ingeschakeld.</p></li>
 <li class="steps">
-<p class="p">Open the Terminal, type <span class="cmd">nmcli device</span> and press
-      <span class="key"><kbd>Enter</kbd></span>.</p>
-<p class="p">This will display information about your network interfaces and
-      connection status. Look down the list of information and see if there is
-      an item related to the wireless network adapter. If the state is
-      <span class="code">connected</span>, it means that the adapter is working and connected
-      to your wireless router.</p>
+<p class="p">Open een terminalvenster, typ <span class="cmd">lspci device</span> in en druk daarna op <span class="key"><kbd>Enter</kbd></span>.</p>
+<p class="p">Dit zal informatie tonen over uw netwerkhardware en verbindingsstatus. Zoek naar informatie in de lijst en kijk of er een sectie is over de draadloze netwerkadapter. Als de staat <span class="code">Connected</span> is, betekent dit dat de adapter werkt en verbonden is met uw draadloze router.</p>
 </li>
 </ol></div></div></div>
 <p class="p">Als u verbonden bent met uw draadloze router, maar u heeft nog steeds geen toegang tot het internet, dan kan het zijn dat uw router niet goed ingesteld is, of uw Internet Service Provider (ISP) mogelijk technische problemen heeft. Raadpleeg de handleidingen van uw router en ISP-setup of neem contact op met uw ISP voor hulp.</p>
-<p class="p">If the information from <span class="cmd">nmcli device</span> did not indicate that you were
-  connected to the network, click <span class="gui">Next</span> to proceed to the next
-  portion of the troubleshooting guide.</p>
+<p class="p">Als de informatie van <span class="cmd">nmcli device</span> niet aangaf dat u met een netwerk verbonden bent, klik dan op <span class="gui">Volgende</span> om door te gaan naar het volgende deel van problemen oplossen.</p>
 </div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Vorige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-hardware-info.html.nl" title="Probleemoplosser draadloos netwerk">Volgende</a>
@@ -116,7 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Opsporen en oplossen van problemen met draadloze verbindingen.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -127,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

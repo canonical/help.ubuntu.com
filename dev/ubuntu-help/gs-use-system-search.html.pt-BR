@@ -75,7 +75,7 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Abra o <span class="gui">Panorama de atividades</span> ao pressionar a tecla <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Comece a digitar para pesquisar.</p>
+<p class="p">Abra o <span class="gui">Panorama de atividades</span> pressionando <span class="gui">Atividades</span> no canto superior esquerdo da tela ou pressionando a tecla <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key. Comece a digitar para pesquisar.</p>
 <p class="p">A medida que você escreve, resultados que coincidem com o que digitou aparecerão. O primeiro resultado é sempre destacado e mostrado em cima.</p>
 <p class="p">Pressione <span class="key"><kbd>Enter</kbd></span> para alternar para o primeiro resultado destacado.</p>
 </li></ol></div></div></div>
@@ -86,8 +86,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">aplicativos correspondentes, mostrados ao topo dos resultados de pesquisa,</p></li>
 <li class="list"><p class="p">configurações correspondentes,</p></li>
-<li class="list"><p class="p">contatos correspondentes, e</p></li>
-<li class="list"><p class="p">documentos correspondentes.</p></li>
+<li class="list"><p class="p">contatos correspondentes,</p></li>
+<li class="list"><p class="p">documentos correspondentes,</p></li>
+<li class="list"><p class="p">agenda correspondente,</p></li>
+<li class="list"><p class="p">calculadora correspondente,</p></li>
+<li class="list"><p class="p">software correspondente,</p></li>
+<li class="list"><p class="p">arquivos correspondentes,</p></li>
+<li class="list"><p class="p">terminal correspondente,</p></li>
+<li class="list"><p class="p">senhas e chaves correspondentes,</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +116,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Clique no <span class="gui"><a href="shell-introduction.html.pt-BR#yourname" title="Você e seu computador">menu do sistema</a></span> no lado direito da barra superior.</p></li>
 <li class="steps"><p class="p">Clique no botão de configurações no canto inferior esquerdo do menu.</p></li>
-<li class="steps"><p class="p">Clique no painel <span class="gui">Pesquisar</span>.</p></li>
+<li class="steps"><p class="p">Clique em <span class="gui">Pesquisar</span> no painel esquerdo.</p></li>
 <li class="steps"><p class="p">Na lista de localizações de pesquisa, clique no alternador de <span class="gui">Ligado/Desligado</span> próximo à localização de pesquisa que deseja habilitar ou desabilitar.</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

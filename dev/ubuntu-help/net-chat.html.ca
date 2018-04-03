@@ -96,11 +96,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.ca" title="Online accounts">Online accounts</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html.ca" title="Add an account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html.ca" title="Remove an account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html.ca" title="Online services and applications">Learn about services</a></span>…
-    </span>
+<a href="accounts.html.ca" title="Comptes en línia">Comptes en línia</a><span class="desc"> — <span class="link"><a href="accounts-add.html.ca" title="Afegeix un compte">Afegir un compte en línia</a></span>, <span class="link"><a href="accounts-remove.html.ca" title="Suprimiu un compte">Eliminar un compte</a></span>, <span class="link"><a href="accounts-which-application.html.ca" title="Serveis i aplicacions en línia">Aprendre sobre els serveis</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -112,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

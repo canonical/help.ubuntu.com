@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Lehetővé teheti másoknak, hogy egy asztalmegjelenítő alkalmazás segítségével megjelenítsék és irányítsák asztalát egy másik számítógépről. A <span class="app">Képernyőmegosztás</span> beállítóablakában lehetővé teheti másoknak az asztala elérését, és megadhatja a biztonsági beállításokat is.</p>
-<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">A <span class="gui">Képernyőmegosztás</span> csak akkor látható, ha a <span class="app">Vino</span> csomag telepítve van.</p></div></div></div></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
+<p class="p">A <span class="gui">Képernyőmegosztás</span> csak akkor látható, ha a <span class="app">Vino</span> csomag telepítve van.</p>
+<p class="p"><span class="link-button link"><a href="apt:vino" title="apt:vino">A Vino telepítése</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Megosztás</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Megosztás</span> ikonra a panel megnyitásához.</p></li>
@@ -146,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

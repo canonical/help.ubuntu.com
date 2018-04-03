@@ -64,16 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#setup" title="Een printer instellen">Setup</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#setup" title="Een printer instellen">Setup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">De naam of locatie van een printer wijzigen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can change the name or location of a printer in the printer
-  settings.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">administrative privileges</a></span>
-    on the system to change the name or location of a printer.</p></div></div></div></div>
+<p class="p">U kunt de naam en locatie van een printer wijzigen in de printerinstellingen.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Om de naam of locatie van een printer te wijzigen dient u <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">beheerder</a></span> te zijn.</p></div></div></div></div>
 </div>
 <div id="printer-name-change" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">De printernaam wijzigen</span></h2></div>
@@ -82,10 +80,8 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Printers</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Unlock</span> button in the top-right corner and enter
-      your password.</p></li>
-<li class="steps"><p class="p">Click the name of your printer, and start typing a new name for
-      the printer.</p></li>
+<li class="steps"><p class="p">Klik op de knop <span class="gui">Ontgrendelen</span> in de rechterbovenhoek en voer uw wachtwoord in.</p></li>
+<li class="steps"><p class="p">Klik op de naam van uw printer en begin met het intypen van een nieuwe naam voor de printer.</p></li>
 <li class="steps"><p class="p">Druk op <span class="key"><kbd>Enter</kbd></span> om uw wijzigingen op te slaan.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -97,10 +93,9 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Printers</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Unlock</span> button in the top-right corner and enter
-      your password.</p></li>
-<li class="steps"><p class="p">Click the location, and start editing the location.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to save the changes.</p></li>
+<li class="steps"><p class="p">Klik op de knop <span class="gui">Ontgrendelen</span> in de rechterbovenhoek en voer uw wachtwoord in.</p></li>
+<li class="steps"><p class="p">Klik op de locatie en begin met het bewerken van de locatie.</p></li>
+<li class="steps"><p class="p">Druk op <span class="key"><kbd>Enter</kbd></span> om de wijzigingen op te slaan.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -126,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

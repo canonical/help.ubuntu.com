@@ -81,16 +81,13 @@
 <p class="p">Pode facer que un aplicativo se inicie automaticamente ao conectar un dispositivo. Por exemplo, pode querer que se inicie o xestor de fotos cando conecta unha cámara dixital. Tamén pode desactivar isto para que non aconteza nada cando se conecta algo.</p>
 <p class="p">Para decidir que aplicativos deben iniciarse ao conectar varios dispositivos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
     start typing <span class="gui">Details</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Removable Media</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Gráficos</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Soporte removíbel</span>.</p></li>
 <li class="steps">
 <p class="p">Escolla un aplicativo ou acción para o dispositivo multimedia que quere. Consulte a continuación para obter unha descrición dos diferentes tipos de dispositivos multimedia.</p>
-<p class="p">Instead of starting an application, you can also set it so that the
-    device will be shown in the file manager, with the <span class="gui">Open folder</span>
-    option. When that happens, you will be asked what to do, or nothing will
-    happen automatically.</p>
+<p class="p">No lugar de iniciar un aplicativo, tamén pode configurala para que o dispositivo se mostre no xestor de ficheiros, coa opción <span class="gui">Abrir cartafol</span>. Cando isto pase, preguntaráselle que facer ou non sucedera nada automaticamente.</p>
 </li>
 <li class="steps"><p class="p">If you do not see the device or media type that you want to change in
     the list (such as Blu-ray discs or E-book readers), click <span class="gui">Other
@@ -115,7 +112,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.gl-GL" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.gl-GL" title="Por que non se reproducen os DVD?">Por que non se reproducen os DVD?</a></span>.
     </p></dd>
 <dt class="terms">Cegueira</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
@@ -138,7 +135,7 @@
 <dt class="terms">Software</dt>
 <dd class="terms">
 <p class="p">Algúns discos extraíbeis conteñen software que suponse que se debe executar automaticamente ao inserir o soporte. Use a opción <span class="gui">Software</span> para controlar o que facer ao inserir un soporte cun software de execución automática. Sempre se lle pedirá confirmación antes de executar o software.</p>
-<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don’t trust.</p></div></div></div></div>
+<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Nunca execute software desde soportes nos que non confía.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>
@@ -161,7 +158,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

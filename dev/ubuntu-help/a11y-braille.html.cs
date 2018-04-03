@@ -64,13 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html.cs#vision" title="Zraková postižení">Zraková postižení</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="a11y.html.cs" title="Univerzální přístup">Univerzální přístup</a> › <a class="trail" href="a11y.html.cs#vision" title="Zraková postižení">Zraková postižení</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Čtení obrazovky pomocí braillského řádku</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">GNOME poskytuje čtečku obrazovky <span class="app">Orca</span>, která umí zobrazovat uživatelské rozhraní na braillském řádku. Podle toho, jak máte nainstalováno GNOME, máte možná nainstalovanou čtečku Orca. Pokud ne, nejprve si ji nainstalujte.</p>
+<p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Nainstalovat čtečku Orca</a></span></p>
 <p class="p">Další informace můžete najít v <span class="link"><a href="help:orca" title="help:orca">nápovědě ke čtečce Orca</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -95,7 +96,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

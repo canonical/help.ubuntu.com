@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What color measuring instruments are supported?</title>
+<title>Quins són els instruments de mesurament del color?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,39 +65,31 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What color measuring instruments are supported?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Quins són els instruments de mesurament del color?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    GNOME relies on the Argyll color management system to support
-    color instruments. Thus the following display measuring instruments
-    are supported:
-  </p>
+<p class="p">El GNOME es basa en el sistema de gestió del color Argyll per donar suport els instruments de color. D'aquesta manera, s'admeten els següents instruments de mesura de la pantalla:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Gretag-Macbeth i1 Pro (spectrometer)</p></li>
-<li class="list"><p class="p">Gretag-Macbeth i1 Monitor (spectrometer)</p></li>
-<li class="list"><p class="p">Gretag-Macbeth i1 Display 1, 2 or LT (colorimeter)</p></li>
-<li class="list"><p class="p">X-Rite i1 Display Pro (colorimeter)</p></li>
-<li class="list"><p class="p">X-Rite ColorMunki Design or Photo (spectrometer)</p></li>
-<li class="list"><p class="p">X-Rite ColorMunki Create (colorimeter)</p></li>
-<li class="list"><p class="p">X-Rite ColorMunki Display (colorimeter)</p></li>
-<li class="list"><p class="p">Pantone Huey (colorimeter)</p></li>
-<li class="list"><p class="p">MonacoOPTIX (colorimeter)</p></li>
-<li class="list"><p class="p">ColorVision Spyder 2 and 3 (colorimeter)</p></li>
-<li class="list"><p class="p">Colorimètre HCFR (colorimeter)</p></li>
+<li class="list"><p class="p">Gretag-Macbeth i1 Pro (espectròmetre)</p></li>
+<li class="list"><p class="p">Gretag-Macbeth i1 Monitor (espectròmetre)</p></li>
+<li class="list"><p class="p">Gretag-Macbeth i1 Monitor 1, 2 o LT (colorímetre)</p></li>
+<li class="list"><p class="p">X-Rite i1 Monitor Pro (colorímetre)</p></li>
+<li class="list"><p class="p">X-Rite ColorMunki Design o Photo (espectròmetre)</p></li>
+<li class="list"><p class="p">X-Rite ColorMunki Crear (colorímetre)</p></li>
+<li class="list"><p class="p">X-Rite ColorMunki Mostrar (colorímetre)</p></li>
+<li class="list"><p class="p">Pantone Huey (colorímetre)</p></li>
+<li class="list"><p class="p">MonacoOPTIX (colorímetre)</p></li>
+<li class="list"><p class="p">ColorVision Spyder 2 i 3 (colorímetre)</p></li>
+<li class="list"><p class="p">Colorímetre HCFR (colorímetre) </p></li>
 </ul></div></div></div>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">The Pantone Huey is currently the cheapest and best supported hardware in Linux.</p></div></div></div></div>
-<p class="p">
-    Thanks to Argyll there’s also a number of spot and strip reading
-    reflective spectrometers supported to help you calibrating and
-    characterizing your printers:
-  </p>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">El Pantone Huey és actualment el maquinari més barat i més ben suportat a Linux.</p></div></div></div></div>
+<p class="p">Gràcies a Argyll, també hi ha admesos una sèrie d'espectròmetres reflectants de lectura de punts i de banda que us ajudaran a calibrar i caracteritzar les vostres impressores:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (spot type reflective spectrometer)</p></li>
@@ -110,7 +102,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibració">Calibració</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -120,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

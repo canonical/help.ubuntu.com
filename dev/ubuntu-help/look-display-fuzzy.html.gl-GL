@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Isto pode producirse porque a resolución da pantalla que definiu non é a máis axeitada para a súa pantalla.</p>
-<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>
+<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span>
 overview and start typing <span class="gui">Displays</span>. Click on <span class="gui">Displays</span>
 to open the panel. Try some of the <span class="gui">Resolution</span> options and set the
 one that makes the screen look better.</p>
@@ -90,9 +90,9 @@ one that makes the screen look better.</p>
   cannot show the same window on both screens at once.</p>
 <p class="p">Para configurar cada pantalla e que cada unha teña a súa propia resolución:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Displays</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Pantallas</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">The displays should be listed as <span class="gui">Mirrored</span>. Select your main
       display.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Primary</span> in the list of display configurations, and
@@ -113,7 +113,7 @@ one that makes the screen look better.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html.gl-GL" title="Change the resolution or rotation of the screen">Change the resolution or rotation of the screen</a><span class="desc"> — Cambiar a resolución da pantalla e a súa orientación (rotación).</span>
+<a href="look-resolution.html.gl-GL" title="Cambiar o tamaño/rotación da pantalla">Cambiar o tamaño/rotación da pantalla</a><span class="desc"> — Cambiar a resolución da pantalla e a súa orientación (rotación).</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -125,7 +125,7 @@ one that makes the screen look better.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

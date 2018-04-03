@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-sharing.html.cs" title="Nastavení sdílení">Nastavení sdílení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-sharing.html.cs" title="Nastavení sdílení">Nastavení sdílení</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="sharing.html.cs" title="Sdílení">Sdílení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="sharing.html.cs" title="Sdílení">Sdílení</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Můžete umožnit přístup z jiných počítačů v síti k složce <span class="file">Veřejné</span> ve vaší <span class="file">Domovské</span> složce. Nastavte <span class="gui">Sdílení osobních souborů</span>, abyste ostatním umožnili přístup k obsahu této složky.</p>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Aby bylo <span class="app">Sdílení multimédií</span> vidět, musíte mít nainstalovaný balíček <span class="gui">gnome-user-share</span>.</p></div></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Aby bylo <span class="app">Sdílení multimédií</span> vidět, musíte mít nainstalovaný balíček <span class="gui">gnome-user-share</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-user-share" title="apt:gnome-user-share">Nainstalovat gnome-user-share</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Sdílení</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Sdílení</span> otevřete příslušný panel.</p></li>
@@ -125,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

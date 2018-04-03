@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Con la aplicación <span class="app">Empathy</span> puede conversar con personas en línea y con amigos y compañeros que usen Google Talk, AIM, Windows Live y muchos otros programas de chat. Con un micrófono o una webcam también puede hacer audio o videollamadas.</p>
-<p class="p">Empathy no se instala de forma predeterminada en Ubuntu, pero puede <span class="link"><a href="https://apps.ubuntu.com/cat/applications/empathy" title="https://apps.ubuntu.com/cat/applications/empathy">instalarlo</a></span> desde el archivo de paquetes de Ubuntu. Para obtener ayuda sobre cómo usar Empathy, lea el <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">manual de Empathy</a></span>.</p>
+<p class="p">Empathy no se instala de forma predeterminada en Ubuntu, pero puede <span class="link"><a href="apt:empathy" title="apt:empathy">instalarlo</a></span> desde el archivo de paquetes de Ubuntu. Para obtener ayuda sobre cómo usar Empathy, lea el <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">manual de Empathy</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -97,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

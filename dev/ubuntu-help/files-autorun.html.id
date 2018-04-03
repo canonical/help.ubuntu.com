@@ -78,10 +78,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Buat aplikasi untuk perangkat atau disc</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can have an application automatically start when you plug in a device
-  or insert a disc or media card. For example, you might want your photo
-  organizer to start when you plug in a digital camera. You can also turn this
-  off, so that nothing happens when you plug something in.</p>
+<p class="p">Anda dapat memiliki aplikasi secara otomatis dimulai ketika Anda pasang di perangkat atau memasukkan disk atau media card. Sebagai contoh, Anda mungkin ingin organizer foto Anda untuk memulai ketika Anda pasang di kamera digital. Anda juga dapat mematikan ini, sehingga tidak ada yang terjadi ketika Anda pasang sesuatu di.</p>
 <p class="p">Untuk memutuskan aplikasi mana yang mesti mulai berjalan ketika Anda menancapkan berbagai perangkat:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Rincian</span>.</p></li>
@@ -89,65 +86,34 @@
 <li class="steps"><p class="p">Klik <span class="gui">Media Lepas Pasang</span>.</p></li>
 <li class="steps">
 <p class="p">Temukan tipe media atau perangkat yang Anda inginkan, lalu pilih suatu aplikasi atau aksi bagi tipe media itu. Lihat di bawah bagi suatu penjelasan dari tipe-tipe media dan perangkat yang berbeda.</p>
-<p class="p">Instead of starting an application, you can also set it so that the
-    device will be shown in the file manager, with the <span class="gui">Open folder</span>
-    option. When that happens, you will be asked what to do, or nothing will
-    happen automatically.</p>
+<p class="p">Sebagai pengganti dari mulai menjalankan suatu aplikasi, Anda juga dapat menatanya sehingga perangkat akan ditampilkan dalam pengelola berkas, dengan opsi <span class="gui">Buka folder</span>. Ketika itu terjadi, Anda akan ditanyai apa yang akan dilakukan, atau tak ada apapun yang akan terjadi secara otomatis.</p>
 </li>
-<li class="steps"><p class="p">If you do not see the device or media type that you want to change in
-    the list (such as Blu-ray discs or E-book readers), click <span class="gui">Other
-    Media…</span> to see a more detailed list of devices. Select the type of
-    device or media from the <span class="gui">Type</span> drop-down and the application or
-    action from the <span class="gui">Action</span> drop-down.</p></li>
+<li class="steps"><p class="p">Bila Anda tak melihat tipe media atau perangkat yang ingin Anda ubah dalam daftar (seperti misalnya cakram Blu-ray atau pembaca E-book), klik <span class="gui">Media Lain...</span> untuk melihat suatu daftar perangkat yang lebih terperinci. Pilih tipe perangkat atau media dari drop-down <span class="gui">Tipe</span> dan aplikasi atau aksi dari drop-down <span class="gui">Aksi</span>.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If you do not want any applications to be opened automatically, whatever
-    you plug in, select <span class="gui">Never prompt or start programs on media
-    insertion</span> at the bottom of the <span class="gui">Details</span> window.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Bila Anda tak ingin aplikasi manapun dibuka secara otomatis, apapun yang Anda tancapkan, pilih <span class="gui">Jangan pernah tanyakan atau memulai program saat penyisipan media</span> di bagian bawah jendela<span class="gui">Detil</span>.</p></div></div></div></div>
 </div>
 <div id="files-types-of-devices" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tipe perangkat dan media</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Cakram audio</dt>
-<dd class="terms"><p class="p">Choose your favorite music application or CD audio extractor to handle
-    audio CDs. If you use audio DVDs (DVD-A), select how to open them under
-    <span class="gui">Other Media…</span>. If you open an audio disc with the file manager,
-    the tracks will appear as WAV files that you can play in any audio player
-    application.</p></dd>
+<dd class="terms"><p class="p">Pilih aplikasi musik atau audio CD extractor favorit Anda untuk menangani CD audio. Jika Anda menggunakan DVD audio (DVD-A), pilih cara untuk membuka mereka di bawah <span class="gui">Media Lainnya...</span>. Jika Anda membuka disc audio dengan file manager, trek akan muncul sebagai file WAV yang dapat Anda bermain di setiap aplikasi pemutar audio.</p></dd>
 <dt class="terms">Cakram video</dt>
-<dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
-    <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
-    video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.id" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
-    </p></dd>
+<dd class="terms"><p class="p">Pilih aplikasi video favorit Anda untuk menangani DVD video. Gunakan tombol <span class="gui">Media Lainnya...</span> untuk mengatur aplikasi untuk Blu-ray, HD DVD, video CD (VCD), dan video CD super (SVCD). Jika DVD atau cakram video lainnya tidak bekerja dengan benar ketika Anda memasukkan mereka, lihat <span class="link"><a href="video%20dvd.html.id" title="video dvd">video dvd</a></span>.</p></dd>
 <dt class="terms">Cakram kosong</dt>
-<dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
-    application for blank CDs, blank DVDs, blank Blu-ray discs, and blank HD
-    DVDs.</p></dd>
+<dd class="terms"><p class="p">Gunakan tombol <span class="gui">Media Lainnya...</span> untuk memilih aplikasi penulisan disk untuk mengosongkan CD, mengosongkan DVD, mengosongkan Blu-ray dan mengosongkan DVD HD.</p></dd>
 <dt class="terms">Kamera dan foto</dt>
 <dd class="terms">
-<p class="p">Use the <span class="gui">Photos</span> drop-down to choose a photo-management
-    application to run when you plug in your digital camera, or when you insert
-    a media card from a camera, such as a CF, SD, MMC, or MS card. You can also
-    simply browse your photos using the file manager.</p>
-<p class="p">Under <span class="gui">Other Media…</span>, you can select an application to open
-    Kodak picture CDs, such as those you might have made in a store. These are
-    regular data CDs with JPEG images in a folder called
-    <span class="file">Pictures</span>.</p>
+<p class="p">Gunakan <span class="gui">Foto</span> drop-down untuk memilih aplikasi foto-manajemen untuk menjalankan ketika Anda pasang di kamera digital Anda, atau ketika Anda memasukkan kartu media dari kamera, seperti CF, SD, MMC, atau kartu MS. Anda juga dapat hanya menelusuri foto menggunakan file manager.</p>
+<p class="p">Di bawah <span class="gui">Media Lainnya...</span>, Anda dapat memilih aplikasi untuk membuka Kodak CD gambar, seperti yang Anda mungkin telah dibuat di toko. Ini adalah CD data biasa dengan gambar JPEG dalam folder bernama <span class="file">Gambar</span>.</p>
 </dd>
 <dt class="terms">Pemutar musik</dt>
-<dd class="terms"><p class="p">Pilih suatu aplikasi untuk mengelola pustaka musik pada pemutar musik portabel Anda, atau kelola sendiri berkas-berkas memakai manajer berkas.</p></dd>
+<dd class="terms"><p class="p">Pilih suatu aplikasi untuk mengelola pustaka musik pada pemutar musik portabel Anda, atau kelola sendiri berkas-berkas memakai pengelola berkas.</p></dd>
 <dt class="terms">Pembaca e-book</dt>
-<dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to choose an application to
-      manage the books on your e-book reader, or manage the files yourself
-      using the file manager.</p></dd>
+<dd class="terms"><p class="p">Gunakan tombol <span class="gui">Media Lainnya...</span> untuk memilih aplikasi untuk mengelola buku pada pembaca e-book Anda, atau kelola sendiri berkas-berkas memakai pengelola berkas.</p></dd>
 <dt class="terms">Perangkat Lunak</dt>
 <dd class="terms">
-<p class="p">Some discs and removable media contain software that is supposed to be
-      run automatically when the media is inserted. Use the <span class="gui">Software</span>
-      option to control what to do when media with autorun software is
-      inserted. You will always be prompted for a confirmation before software
-      is run.</p>
-<div class="note note-warning" title="Peringatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don’t trust.</p></div></div></div></div>
+<p class="p">Beberapa disk dan media yang dapat dilepas berisi perangkat lunak yang seharusnya dijalankan secara otomatis ketika media dimasukkan. Gunakan pilihan <span class="gui">Perangkat Lunak</span> untuk mengontrol apa yang harus dilakukan ketika Media dengan perangkat lunak yang jalan otomatis dimasukkan. Anda selalu akan diminta untuk konfirmasi sebelum perangkat lunak dijalankan.</p>
+<div class="note note-warning" title="Peringatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Jangan pernah jalankan perangkat lunak dari media yang tidak Anda percayai.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>
@@ -170,7 +136,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

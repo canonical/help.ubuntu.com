@@ -76,8 +76,8 @@
 <div class="contents">
 <p class="p">您可以设置登录系统时，额外启动的以及系统默认自动启动的应用程序。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Use the Dash to find and open
-      <span class="gui">Startup Applications</span>. Alternatively you can press
+<li class="steps"><p class="p">Open <span class="gui">Startup Applications</span> via the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview.
+      Alternatively you can press
       <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and run the
       <span class="cmd">gnome-session-properties</span> command.</p></li>
 <li class="steps"><p class="p">单击<span class="gui">添加</span>并输入启动程序命令（名称和注释是可选的）。例如，添加火狐为自启动程序，在 <span class="gui">命令</span> 输入框内输入<span class="cmd">firefox</span> 并点击 <span class="gui">添加</span>确认。</p></li>
@@ -103,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

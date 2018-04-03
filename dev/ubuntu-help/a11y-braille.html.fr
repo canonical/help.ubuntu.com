@@ -71,6 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">GNOME offre le lecteur d'écran <span class="app">Orca</span> pour afficher l'interface utilisateur sur une plage Braille. Si Orca n'est pas installé sur votre système, commencez par l'installer.</p>
+<p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Installer Orca</a></span></p>
 <p class="p">Refer to the <span class="link"><a href="help:orca" title="help:orca">Orca Help</a></span> for
   more information.</p>
 </div>
@@ -96,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

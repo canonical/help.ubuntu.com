@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="user-accounts.html.pt-BR" title="Contas de usuários">Usuários</a> › <a class="trail" href="user-accounts.html.pt-BR#privileges" title="Privilégios de usuário">Privilégios</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="user-accounts.html.pt-BR" title="Contas de usuários">Usuários</a> › <a class="trail" href="user-accounts.html.pt-BR#privileges" title="Privilégios de usuário">Privilégios</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Alterando quem tem privilégios administrativos</span></h1></div>
@@ -77,7 +77,7 @@
 <li class="steps"><p class="p">Clique em <span class="gui">Usuários</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Desbloquear</span> no canto superior direito e insira sua senha quando solicitada.</p></li>
 <li class="steps"><p class="p">Selecione o usuário cujos privilégios queira alterar.</p></li>
-<li class="steps"><p class="p">Clique no rótulo <span class="gui">Padrão</span> próximo ao <span class="gui">Tipo de conta</span> e selecione <span class="gui">Administrador</span>.</p></li>
+<li class="steps"><p class="p">Clique no rótulo <span class="gui">Padrão</span> próximo ao <span class="gui">Tipo de conta</span> e selecione <span class="gui">Administrador</span>.</p></li>
 <li class="steps"><p class="p">Os privilégios serão alterados na próxima sessão deles.</p></li>
 </ol></div></div></div>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
@@ -90,7 +90,7 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html.pt-BR#privileges" title="Privilégios de usuário">Privilégios de usuário</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.pt-BR#privileges" title="Privilégios de usuário">Privilégios de usuário</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
@@ -99,7 +99,7 @@
 <a href="user-admin-explain.html.pt-BR" title="Como funcionam os privilégios administrativos?">Como funcionam os privilégios administrativos?</a><span class="desc"> — Você precisa de privilégios administrativos para alterar partes importantes do seu sistema.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html.pt-BR" title="Problemas causados por restrições administrativas">Problemas causados por restrições administrativas</a><span class="desc"> — Você só pode fazer algumas coisas, como instalar aplicativos, apenas se tiver privilégios administrativos.</span>
+<a href="user-admin-problems.html.pt-BR" title="Problemas causados por restrições administrativas">Problemas causados por restrições administrativas</a><span class="desc"> — Você só pode fazer algumas coisas, como instalar aplicativos, apenas se tiver privilégios administrativos.</span>
 </li>
 </ul></div>
 </div></div>
@@ -112,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

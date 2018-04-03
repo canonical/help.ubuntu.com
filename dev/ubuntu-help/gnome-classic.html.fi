@@ -91,10 +91,7 @@
  (top) workspace. In addition, the identifier also displays the total number
  of available workspaces. To switch to a different workspace, you can click
  the identifier and select the workspace you want to use from the menu.</p>
-<p class="p">If an application or a system component wants to get your attention, it
- will display a blue icon at the right-hand side of the window list. Clicking
- the blue icon shows the <span class="link"><a href="shell-notifications.html.fi" title="Ilmoitukset ja viestialue">message tray</a></span>,
- which lets you access all your notifications.</p>
+<p class="p">Jos sovellus tai järjestelmän jokin osa haluaa huomiosi, sinulle näytetään sininen kuvake ikkunaluettelon oikeassa laidassa. Napsauta sinistä kuvaketta, ja <span class="link"><a href="shell-notifications.html.fi" title="Ilmoitukset ja viestialue">viestialue</a></span> avautuu. Sen kautta pääset käsiksi kaikkiin sinulle osoitettuihin ilmoituksiin.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">
@@ -140,7 +137,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

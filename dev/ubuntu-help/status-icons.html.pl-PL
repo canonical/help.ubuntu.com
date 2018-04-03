@@ -64,13 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Co oznaczają ikony na górnym pasku?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the GNOME interface are described.</p>
+<p class="p">Ta sekcja wyjaśnia znaczenie ikon położonych w górnym prawym rogu ekranu. Mówiąc dokładniej, opisane są różne rodzaje ikon wyświetlanych przez interfejs GNOME.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Górny pasek powłoki GNOME"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="status-icons.html.pl-PL#universalicons" title="Ikony menu ułatwień dostępu">Ikony menu ułatwień dostępu</a></li>
@@ -337,7 +337,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

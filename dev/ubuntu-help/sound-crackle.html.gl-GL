@@ -86,7 +86,7 @@
 <p class="p">Os cables e os conectores de son pódense deteriorar co uso. Probe a conectar o cable ou os auriculares noutro dispositivo de son (como un reprodutor MP3 ou CD) para comprobar se aínda se escoita o chisporroteo. Se é así, deberá substituír o cable ou os auriculares.</p>
 </li>
 <li class="list">
-<p class="p">Check if the sound drivers are not very good.</p>
+<p class="p">Comprobe que os controladores de son non son moi bos.</p>
 <p class="p">Some sound cards do not work very well on Linux because they do not have very
   good drivers. This problem is more difficult to identify. Try searching for
   the make and model of your sound card on the internet, plus the search term
@@ -111,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

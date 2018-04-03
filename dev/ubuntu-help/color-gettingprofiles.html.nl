@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -76,13 +76,7 @@
 <div class="contents">
 <p class="p">De beste manier om aan profielen te komen is door ze zelf te ontwikkelen, alhoewel dit wat onkosten met zich meebrengt.</p>
 <p class="p">Veel fabrikanten proberen wel kleurprofielen voor apparaten te verschaffen, alhoewel ze soms opgenomen zijn in <span class="em">driver-bundels</span> die u mogelijk moet downloaden en uitpakken om daarna te zoeken naar de kleurprofielen.</p>
-<p class="p">
-    Some manufacturers do not provide accurate profiles for the hardware
-    and the profiles are best avoided.
-    A good clue is to download the profile, and if the creation date is
-    more than a year before the date you bought the device then it’s
-    likely dummy data generated that is useless.
-  </p>
+<p class="p">Van sommige fabrikanten zijn de profielen voor de hardware niet nauwkeurig, deze kunnen beter vermeden worden. Het beste is het profiel te downloaden, en als de aanmaakdatum meer dan een jaar vóór de datum waarop u het apparaat kocht ligt, dan gaat het waarschijnlijk om gegevens die niet te gebruiken zijn.</p>
 <p class="p">Zie <span class="link"><a href="color-why-calibrate.html.nl" title="Waarom moet ik zelf kalibreren?">Waarom moet ik zelf kalibreren?</a></span> voor informatie over waarom door verkopers geleverde profielen vaak waardeloos zijn.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -118,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

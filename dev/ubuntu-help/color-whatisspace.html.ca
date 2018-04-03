@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a color space?</title>
+<title>Què és un espai de color?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,87 +65,31 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a color space?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Què és un espai de color?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    A color space is a defined range of colors.
-    Well known color spaces include sRGB, AdobeRGB and ProPhotoRGB.
-  </p>
-<p class="p">
-    The human visual system is not a simple RGB sensor, but we can
-    approximate how the eye responds with a CIE 1931 chromaticity diagram
-    that shows the human visual response as a horse-shoe shape.
-    You can see that in human vision there are many more shades of green
-    detected than blue or red.
-    With a trichromatic color space like RGB we represent the colors
-    on the computer using three values, which restricts up to encoding
-    a <span class="em">triangle</span> of colors.
-  </p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      Using models such as a CIE 1931 chromaticity diagram is a huge
-      simplification of the human visual system, and real gamuts are
-      expressed as 3D hulls, rather than 2D projections.
-      A 2D projection of a 3D shape can sometimes be misleading, so if
-      you want to see the 3D hull, use the <span class="code">gcm-viewer</span>
-      application.
-    </p></div></div></div></div>
+<p class="p">Un espai de color és un rang definit de colors. Els espais de colors coneguts inclouen sRGB, AdobeRGB i ProPhotoRGB.</p>
+<p class="p">El sistema visual humà no és un sensor RGB simple, però podem aproximar-nos a com respon l'ull amb un diagrama de cromaticitat CIE 1931 que mostra la resposta visual humana com a forma de ferradura. Podeu veure que a la visió humana hi ha moltes més tons de verds detectats que blaus o vermells. Amb un espai de color tricromàtic com el RGB representem els colors de l'ordinador amb tres valors, que es restringeixen fins a la codificació d'un <span class="em">triangle</span> de colors.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">L'ús de models com el diagrama de cromaticitat CIE 1931 és una gran simplificació del sistema visual humà, i les expressions reals s'expressen com a forma 3D, en comptes de projeccions 2D. Una projecció 2D d'una forma 3D de vegades pot ser enganyosa, per tant, si voleu veure la forma 3D, utilitzeu l'aplicació <span class="code">gcm-viewer</span>.</p></div></div></div></div>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Mostra les imatges a la mida normal" data-zoom-out-title="Fes les imatges més petites"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-space.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">sRGB, AdobeRGB and ProPhotoRGB represented by white triangles</div>
+<div class="desc">sRGB, AdobeRGB i ProPhotoRGB representats per triangles blancs</div>
 </div>
 </div></div>
-<p class="p">
-    First, looking at sRGB, which is the smallest space and can encode
-    the least number of colors.
-    It is an approximation of a 10 year old CRT display, and so most
-    modern monitors can easily display more colors than this.
-    sRGB is a <span class="em">least-common-denominator</span> standard and is used
-    in a large number of applications (including the Internet).
-  </p>
-<p class="p">
-    AdobeRGB is frequently used as an <span class="em">editing space</span>.
-    It can encode more colors than sRGB, which means you can change
-    colors in a photograph without worrying too much that the most vivid
-    colors are being clipped or the blacks crushed.
-  </p>
-<p class="p">
-    ProPhoto is the largest space available and is frequently used for
-    document archival.
-    It can encode nearly the whole range of colors detected by the human
-    eye, and even encode colors that the eye cannot detect!
-  </p>
-<p class="p">
-    Now, if ProPhoto is clearly better, why don’t we use it for everything?
-    The answer is to do with <span class="em">quantization</span>.
-    If you only have 8 bits (256 levels) to encode each channel, then a
-    larger range is going to have bigger steps between each value.
-  </p>
-<p class="p">
-    Bigger steps mean a larger error between the captured color and the
-    stored color, and for some colors this is a big problem.
-    It turns out that key colors, like skin colors are very important,
-    and even small errors will make untrained viewers notice that something
-    in a photograph looks wrong.
-  </p>
-<p class="p">
-    Of course, using a 16 bit image is going to leave many more steps and
-    a much smaller quantization error, but this doubles the size of each
-    image file.
-    Most content in existence today is 8bpp, i.e. 8 bits-per-pixel.
-  </p>
-<p class="p">
-    Color management is a process for converting from one color space to
-    another, where a color space can be a well known defined space like
-    sRGB, or a custom space such as your monitor or printer profile.
-  </p>
+<p class="p">Primer, mirant el sRGB, que és l'espai més petit i pot codificar-se amb el mínim de colors. Es tracta una aproximació d'una pantalla CRT de 10 anys d'antiguitat, de manera que la majoria de monitors moderns poden mostrar fàcilment més colors. El sRGB és un estàndard de <span class="em">mínim comú denominador</span> i s'utilitza en una gran quantitat d'aplicacions (inclosa la d'Internet).</p>
+<p class="p">L' adobeRGB sovint s'utilitza com a <span class="em">espai 'edició</span>. Es poden codificar més colors que amb el sRGB, el que significa que podeu canviar els colors en una fotografia sense preocupar-vos massa si es retallen els colors més vius o els negres s'aixafin.</p>
+<p class="p">El ProPhoto és el major espai disponible i s'utilitza amb freqüència per a l'arxiu de documents. Pot codificar gairebé tota la gamma de colors detectats per l'ull humà, i fins i tot codificar colors que l'ull no pot detectar!</p>
+<p class="p">Ara bé, si ProPhoto és clarament millor, per què no el fem servir per a tot? La resposta és relacionar amb la <span class="em">quantificació</span>. Si només teniu 8 bits (256 nivells) per codificar cada canal, llavors un rang més gran tindrà diferències més grans entre cada valor.</p>
+<p class="p">Diferències més grans suposen un error més gran entre el color capturat i el color emmagatzemat, i per a alguns colors això és un gran problema. Resulta que els colors clau, com els colors de la pell són molt importants, i fins i tot petits errors poden fer que els espectadors no entrenats notin que alguna cosa de la fotografia sembli incorrecte.</p>
+<p class="p">Per descomptat, utilitzar una imatge de 16 bits deixarà molts més salts i un error de quantificació molt més petit, però això duplica la mida de cada fitxer d'imatge. La majoria dels continguts actuals són 8 bpp, és a dir, 8 bits per píxel.</p>
+<p class="p">La gestió del color és un procés per convertir un espai de color en un altre, on un espai de color pot ser un espai ben definit com el sRGB, o un espai personalitzat com el monitor o el perfil de la impressora.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -157,7 +101,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-whatisprofile.html.ca" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-whatisprofile.html.ca" title="Què és un perfil de color?">Què és un perfil de color?</a><span class="desc"> — Un perfil de color és un fitxer simple que expressa un espai de color o una resposta del dispositiu.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -169,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

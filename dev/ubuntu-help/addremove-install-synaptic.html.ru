@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p"><span class="app">Менеджер пакетов Synaptic</span> более многофункционален и может выполнять некоторые задачи, которые недоступны в <span class="app">Менеджере приложений Ubuntu</span>. Synaptic имеет более сложный пользовательский интерфейс и не поддерживает новые возможности <span class="app">Менеджера приложений Ubuntu</span>, такие как система оценок и отзывов, поэтому он не рекомендуется новым пользователям Ubuntu.</p>
-<p class="p">Synaptic не установлен по умолчанию, но вы можете <span class="link"><a href="https://apps.ubuntu.com/cat/applications/synaptic" title="https://apps.ubuntu.com/cat/applications/synaptic">установить</a></span> его из архива пакетов Ubuntu.</p>
+<p class="p">Synaptic не установлен по умолчанию, но вы можете <span class="link"><a href="apt:synaptic" title="apt:synaptic">установить</a></span> его из архива пакетов Ubuntu.</p>
 </div>
 <div id="install-software-with-synaptic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Установка программ с помощью Synaptic</span></h2></div>
@@ -116,7 +116,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

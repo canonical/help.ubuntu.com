@@ -72,15 +72,16 @@
 <div class="contents"><p class="p">По умолчанию поддержка DVD в Ubuntu не может быть предоставлена из-за правовых и технических ограничений. Большинство коммерческих DVD закодированы и для воспроизведения требуют использования декодирующего программного обеспечения.</p></div>
 <div id="fluendo" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Используйте Fluendo для проигрывания DVD на законных основаниях</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Приобрести коммерческий декодер DVD, способный обрабатывать защиту от копирования, можно здесь: <span class="link"><a href="https://apps.ubuntu.com/cat/applications/fluendo-dvd" title="https://apps.ubuntu.com/cat/applications/fluendo-dvd">Fluendo</a></span>. Он работает с Linux и может быть легально использован во всех странах.</p></div></div>
+<div class="region"><div class="contents"><p class="p">You can buy a commercial DVD decoder that can handle copy protection from <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. It works with Linux and should be legal to use in all countries.</p></div></div>
 </div></div>
 <div id="restricted" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Используйте другое декодирующее программное обеспечение</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-warning" title="Предупреждение"><div class="inner"><div class="region"><div class="contents"><p class="p">В некоторых странах использование нелицензированного декодирующего программного обеспечения не разрешено законом. Проверьте, что вы имеете право использовать такое ПО.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Установите <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvdnav4" title="https://apps.ubuntu.com/cat/applications/libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvdread4" title="https://apps.ubuntu.com/cat/applications/libdvdread4">libdvdread4</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-bad" title="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-ugly" title="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> и <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvd-pkg" title="https://apps.ubuntu.com/cat/applications/libdvd-pkg">libdvd-pkg</a></span>.</p></li>
-<li class="steps"><p class="p">Откройте главное меню и запустите <span class="app">Терминал</span>.</p></li>
+<li class="steps"><p class="p">Установите <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> и <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
+<li class="steps"><p class="p">Open a terminal window by pressing
+   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Выполните команду</p>
 <p class="p"><span class="cmd">sudo dpkg-reconfigure libdvd-pkg</span></p>
@@ -111,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -72,9 +72,9 @@
 <div class="contents">
 <p class="p">O equipo reproducirá un son de alerta sinxelo para certos tipos de mensaxes e eventos. Pode elixir diferentes sons para as alertas, estabelecer o volume da alerta con independencia do volume do seu sistema, ou desactivar os sons de alerta por completo.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Son</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Sound Effects</span> tab, select an alert sound. Each sound
       will play when you click on it so you can hear how it sounds.</p></li>
 </ol></div></div></div>
@@ -108,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

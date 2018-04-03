@@ -64,38 +64,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="bluetooth.html.pl-PL#problems" title="Problemy">Problemy z Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="bluetooth.html.pl-PL#problems" title="Problemy">Problemy z Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Nie mogę połączyć mojego urządzenia Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">There are a number of reasons why you may not be able to connect to a
-  Bluetooth device, such as a phone or headset.</p>
+<p class="p">Może być wiele przyczyn, dlaczego nie można połączyć się z urządzeniem Bluetooth, takim jak telefon lub słuchawki z mikrofonem.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Połączenie jest zablokowane lub niezaufane</dt>
-<dd class="terms"><p class="p">Some Bluetooth devices block connections by default, or require you to
-      change a setting to allow connections to be made. Make sure that your
-      device is set up to allow connections.</p></dd>
+<dd class="terms"><p class="p">Niektóre urządzenia Bluetooth domyślnie blokują połączenia, albo wymagają zmiany ustawienia, aby zezwolić na połączenia. Upewnij się, że urządzenie zezwala na połączenia.</p></dd>
 <dt class="terms">Komputer nie wykrywa sprzętu Bluetooth</dt>
-<dd class="terms"><p class="p">Your Bluetooth adapter or dongle may not have been recognized by the
-      computer. This could be because
-      <span class="link"><a href="hardware-driver.html.pl-PL" title="Czym jest sterownik?">drivers</a></span> for the adapter are not
-      installed. Some Bluetooth adapters are not supported on Linux, so you may
-      not be able to get the right drivers for them. In this case, you will
-      probably have to get a different Bluetooth adapter.</p></dd>
+<dd class="terms"><p class="p">Adapter Bluetooth mógł nie zostać wykryty przez komputer. Może to być spowodowane niezainstalowaniem <span class="link"><a href="hardware-driver.html.pl-PL" title="Czym jest sterownik?">sterowników</a></span> adaptera. Niektóre adaptery Bluetooth nie są obsługiwane w systemie Linux, więc nie ma dla nich odpowiednich sterowników. W takim przypadku należy użyć innego adaptera.</p></dd>
 <dt class="terms">Adapter jest wyłączony</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Open the
-        Bluetooth panel and check that it is not
-        <span class="link"><a href="bluetooth-turn-on-off.html.pl-PL" title="Włączanie i wyłączanie Bluetooth">disabled</a></span>.</p></dd>
-<dt class="terms">Device Bluetooth connection switched off</dt>
-<dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
-      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html.pl-PL" title="Czym jest widoczność Bluetooth?">discoverable
-      or visible</a></span>. For example, if you are trying to connect to a phone,
-      make sure that it is not in airplane mode.</p></dd>
+<dd class="terms"><p class="p">Upewnij się, że adapter Bluetooth jest włączony. Otwórz panel Bluetooth i sprawdź, czy nie jest <span class="link"><a href="bluetooth-turn-on-off.html.pl-PL" title="Włączanie i wyłączanie Bluetooth">wyłączony</a></span>.</p></dd>
+<dt class="terms">Połączenie Bluetooth urządzenia jest wyłączone</dt>
+<dd class="terms"><p class="p">Sprawdź, czy Bluetooth jest włączony na urządzeniu, z którym komputer jest łączony, i czy jest <span class="link"><a href="bluetooth-visibility.html.pl-PL" title="Czym jest widoczność Bluetooth?">widoczny</a></span>. Na przykład, podczas łączenia z telefonem należy upewnić się, że nie jest w trybie samolotowym.</p></dd>
 <dt class="terms">Komputer nie ma adaptera Bluetooth</dt>
-<dd class="terms"><p class="p">Many computers do not have Bluetooth adapters. You can buy an adapter
-      if you want to use Bluetooth.</p></dd>
+<dd class="terms"><p class="p">Wiele komputerów nie ma wbudowanych adapterów Bluetooth. Można dokupić adapter.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -108,8 +94,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html.pl-PL" title="Czym jest sterownik?">Czym jest sterownik?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
-    attached to it.</span>
+<a href="hardware-driver.html.pl-PL" title="Czym jest sterownik?">Czym jest sterownik?</a><span class="desc"> — Sterownik sprzętu/urządzenia umożliwia komputerowi używanie podłączonych do niego urządzeń.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -121,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

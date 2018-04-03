@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Date &amp; time</title>
+<title>Data &amp; hora</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,15 +67,13 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Date &amp; time</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Data &amp; hora</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="clock-set.html.ca" title="Change the date and time"><span class="title">Change the date and time</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
-    time.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.ca" title="Calendar appointments"><span class="title">Calendar appointments</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
-    screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.ca" title="Change your timezone"><span class="title">Change your timezone</span><span class="linkdiv-dash"> — </span><span class="desc">Update your time zone to your current location so that your time is correct.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-world.html.ca" title="Add a world clock"><span class="title">Add a world clock</span><span class="linkdiv-dash"> — </span><span class="desc">Display times in other cities under the calendar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-set.html.ca" title="Canvieu la data i l'hora"><span class="title">Canvieu la data i l'hora</span><span class="linkdiv-dash"> — </span><span class="desc">Utilitzeu la configuració de <span class="gui">Data &amp; Hora</span> per canviar la data o hora.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.ca" title="Canvieu la vostra zona horària"><span class="title">Canvieu la vostra zona horària</span><span class="linkdiv-dash"> — </span><span class="desc">Actualitzeu la vostra zona horària a la vostra ubicació actual perquè la vostra hora sigui correcta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.ca" title="Cites de calendari"><span class="title">Cites de calendari</span><span class="linkdiv-dash"> — </span><span class="desc">Mostreu les vostres cites a l'àrea del calendari a la part superior de la pantalla.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-world.html.ca" title="Afegiu un rellotge mundial"><span class="title">Afegiu un rellotge mundial</span><span class="linkdiv-dash"> — </span><span class="desc">Mostra l'hora en altres ciutats sota el calendari.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -84,8 +82,8 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="prefs.html.ca" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.ca" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.ca" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="keyboard.html.ca" title="Teclat">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.ca" title="Ratolí">mouse</a></span>,
       <span class="link"><a href="prefs-display.html.ca" title="Display &amp; screen">display</a></span>,
       <span class="link"><a href="prefs-language.html.ca" title="Region &amp; Language">languages</a></span>,
       <span class="link"><a href="user-accounts.html.ca" title="User accounts">user accounts</a></span>…
@@ -105,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

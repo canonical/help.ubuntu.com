@@ -124,9 +124,6 @@ because suspend is not supported properly by your hardware.</p></div>
 <a href="power-closelid.html.fr" title="Mise en veille de l'ordinateur quand l'écran est rabattu">Mise en veille de l'ordinateur quand l'écran est rabattu</a><span class="desc"> — Pour économiser l'énergie, les ordinateurs portables se mettent en veille quand vous rabattez l'écran.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html.fr" title="Pourquoi j'hiberne mon ordinateur ?">Pourquoi j'hiberne mon ordinateur ?</a><span class="desc"> — L'hibernation est désactivée par défaut car elle n'est pas bien supportée.</span>
-</li>
-<li class="links ">
 <a href="hardware-driver.html.fr" title="Qu'est-ce qu'un pilote ?">Qu'est-ce qu'un pilote ?</a><span class="desc"> — Un pilote de matériel/périphérique permet à votre ordinateur d'utiliser les périphériques qui y sont connectés.</span>
 </li>
 <li class="links ">
@@ -143,7 +140,7 @@ because suspend is not supported properly by your hardware.</p></div>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

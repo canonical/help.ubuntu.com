@@ -76,7 +76,7 @@
 <div class="contents">
 <p class="p">Du kan ställa in vilka program som skall startas vid inloggingen utöver uppstartsprogrammen enligt systemets standardinställning.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna <span class="gui">Uppstartsprogram</span> från <span class="gui">Aktiviteter</span>. Alternativt kan du trycka på <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> och köra kommandot <span class="cmd">gnome-session-properties</span>.</p></li>
+<li class="steps"><p class="p">Öppna <span class="gui">Uppstartsprogram</span> via översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>. Alternativt kan du trycka på <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> och köra kommandot <span class="cmd">gnome-session-properties</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Lägg till</span> och ange kommandot som skall köras vid inloggning (namn och kommentar är frivilliga). För att till exempel få Firefox att startas automatiskt, räcker det att ange <span class="cmd">firefox</span> i <span class="gui">Kommando</span>-fältet och bekräfta med <span class="gui">Lägg till</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan antingen skriva kommandot, eller klicka på <span class="gui">Bläddra...</span>-knappen och välja ett kommando. Program att autostarta brukar finnas i katalogen <span class="code">/usr/bin</span>.</p></div></div></div></div>
@@ -100,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

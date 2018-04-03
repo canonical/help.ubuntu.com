@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="power.html.cs" title="Napájení a baterie">Napájení a baterie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -81,7 +81,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Zabránění počítači v uspání při zavření víka</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Důležité"><div class="inner"><div class="region"><div class="contents"><p class="p">Tyto rady jsou platné, jen když používáte <span class="app">systemd</span>. Více informací získáte u autorů své distribuce.</p></div></div></div></div>
-<div class="note note-important" title="Důležité"><div class="inner"><div class="region"><div class="contents"><p class="p">Abyste mohli změnit tato nastavení, musíte mít v počítači nainstalován <span class="app">Vyladění</span>.</p></div></div></div></div>
+<div class="note note-important" title="Důležité"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Abyste mohli změnit tato nastavení, musíte mít v počítači nainstalovánu aplikaci <span class="app">Vyladění</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Nainstalovat aplikaci <span class="app">Vyladění</span></a></span></p>
+</div></div></div></div>
 <p class="p">Jestliže nechcete, aby se váš počítač uspával při zavření víka, můžete změnit nastavení pro toto chování.</p>
 <div class="note note-warning" title="Varování"><div class="inner"><div class="region"><div class="contents"><p class="p">Při změně tohoto nastavení buďte obezřetní. Některé notebooky se mohou přehřívat, když zůstanou běžet se zavřeným víkem, hlavně když jsou v uzavřeném prostoru, třeba v batohu.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -122,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

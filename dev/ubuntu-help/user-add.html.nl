@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html.nl" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html.nl#manage" title="Gebruikersaccounts beheren">Accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html.nl" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html.nl#manage" title="Gebruikersaccounts beheren">Accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een nieuwe gebruiker toevoegen</span></h1></div>
@@ -81,20 +81,15 @@
 <p class="p">Als u wilt dat de nieuwe gebruiker toegang tot de computer heeft als <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">beheerder</a></span>, kies dan als accounttype <span class="gui">Beheerder</span>.</p>
 <p class="p"> Beheerders kunnen handelingen verrichten zoals het toevoegen en verwijderen van gebruikers, software en stuurprogramma's installeren en de datum en tijd wijzigen.</p>
 </li>
-<li class="steps"><p class="p">Enter the new user’s full name. The username will be filled in
-      automatically based on the full name. If you do not like the proposed
-      username, you can change it.</p></li>
+<li class="steps"><p class="p">Voer de volledige naam van de nieuwe gebruiker in. De gebruikersnaam wordt automatisch ingevuld op basis van de volledige naam. Als u de voorgestelde gebruikersnaam niet wenst, kunt u het wijzigen.</p></li>
 <li class="steps">
 <p class="p">U kunt ervoor kiezen een wachtwoord in te stellen voor de nieuwe gebruiker, of dit door hen zelf te laten doen bij de eerste aanmelding.</p>
 <p class="p">Als u het wachtwoord nu wilt instellen, dan kunt u op het <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="wachtwoord genereren"></span></span></span>-pictogram klikken om automatisch een willekeurig wachtwoord te genereren.</p>
 </li>
 <li class="steps"><p class="p">Klik op <span class="gui">Toevoegen</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Als u het wachtwoord wilt wijzigen nadat u het account heeft aangemaakt, selecteer dan het account, <span class="gui">ontgrendel</span> het venster en klik op het invoerveld Wachtwoord.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">Users</span> panel, you can click the image next to the
-    user’s name to the right to set an image for the account. This image will
-    be shown in the login window. GNOME provides some stock photos you can use,
-    or you can select your own or take a picture with your webcam.</p></div></div></div></div>
+<p class="p">Als u het wachtwoord wilt wijzigen nadat u het account heeft aangemaakt, selecteer dan het account, <span class="gui">ontgrendel</span> het paneel en klik op het invoerveld Wachtwoord.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">In het paneel <span class="gui">Gebruikers</span> kunt u klikken op de afbeelding naast de gebruikersnaam om een afbeelding in te stellen voor dit account. Deze afbeelding zal getoond worden in het aanmeldvenster. Gnome heeft standaard een aantal afbeeldingen die u kunt gebruiken, maar u kunt ook zelf een afbeelding selecteren of er één van uzelf maken met uw webcam.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -118,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

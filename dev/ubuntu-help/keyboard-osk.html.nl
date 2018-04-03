@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use an on-screen keyboard</title>
+<title>Een schermtoetsenbord gebruiken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,40 +65,27 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use an on-screen keyboard</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een schermtoetsenbord gebruiken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you do not have a keyboard attached to your computer or prefer not to
-  use it, you can turn on the <span class="em">on-screen keyboard</span> to enter text.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">The on-screen keyboard is automatically enabled if you use a
-    touchscreen</p></div></div></div></div>
+<p class="p">Als er geen toetsenbord aangesloten is op uw computer of als u die liever niet wilt gebruiken, dan kunt u het <span class="em">schermtoetsenbord</span> inschakelen om tekst in te voeren.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Het schermtoetsenbord wordt automatisch ingeschakeld als u een aanraakscherm gebruikt</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Switch on <span class="gui">Screen Keyboard</span> in the <span class="gui">Typing</span>
-      section.</p></li>
+<li class="steps"><p class="p">Schakel het <span class="gui">Schermtoetsenbord</span> in onder het kopje <span class="gui">Typen</span></p></li>
 </ol></div></div></div>
-<p class="p">When you next have the opportunity to type, the on-screen keyboard will
-  open at the bottom of the screen.</p>
-<p class="p">Press the <span class="gui">123</span> button to enter numbers and
-  symbols. More symbols are available if you then press the
-  <span class="gui">{#*</span> button. To return to the alphabet keyboard,
-  press the <span class="gui">Abc</span> button.</p>
-<p class="p">You can press the
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="keyboard"></span></span></span>
-  icon to hide the keyboard temporarily. The keyboard will show again
-  automatically when you next press on something where you can use it. To make
-  the keyboard show again, open the <span class="link"><a href="shell-notifications.html.nl" title="Notifications and the message tray">message
-  tray</a></span> (by moving your mouse to the bottom of the screen), and press the
-  keyboard icon.</p>
+<p class="p">Wanneer u vervolgens de mogelijkheid om te typen heeft, zal het schermtoetsenbord onderaan het scherm geopend worden.</p>
+<p class="p">Druk op de knop <span class="gui">123</span> om cijfers en symbolen in te voeren. Er komen meer symbolen beschikbaar wanneer u daarna op de knop <span class="gui">{#*</span> drukt. Om terug te keren naar het alfabettoetsenbord drukt u op de knop <span class="gui">Abc</span>.</p>
+<p class="p">U kunt op het <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="toetsenbord"></span></span></span>-pictogram drukken om het toetsenbord tijdelijk te verbergen. Het toetsenbord zal weer automatisch verschijnen wanneer u vervolgens druk op een plek waar u het kunt gebruiken. Om het toetsenbord weer zichtbaar te maken opent u het <span class="link"><a href="shell-notifications.html.nl" title="Meldingen en het berichtengebied">berichtenvak</a></span> (door met de muis naar de onderkant van het scherm te gaan), en drukt u op het toetsenbordpictogram.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -107,11 +94,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
 <li class="links ">
-<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Toetsenbordindelingen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">knipperen van de cursor</a></span>, <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">toetsenbordtoegankelijkheid</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -123,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

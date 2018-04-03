@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.fi" title="Niksit ja vinkit">Niksit ja vinkit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="tips.html.fi" title="Niksit ja vinkit">Niksit ja vinkit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.fi" title="Työpöytäsi">Työpöytä</a> › <a class="trail" href="shell-overview.html.fi#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="shell-overview.html.fi" title="Työpöytäsi">Työpöytä</a> › <a class="trail" href="shell-overview.html.fi#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -121,22 +121,14 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Show the list of applications.</p></td>
+<td style="border-top-style: solid;"><p class="p">Näytä sovellusluettelo.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">
-      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> or
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span>, and
-      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
-    </p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> tai <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> ja <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> tai <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.fi" title="Vaihtele työtilojen välillä">Vaihda työtilojen välillä</a></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">
-      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> and
-      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span>
-    </p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> ja <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.fi" title="Ikkunoiden siirtäminen toiseen työtilaan">Siirrä nykyinen ikkuna eri työtilaan</a></span></p></td>
 </tr>
 <tr>
@@ -228,7 +220,7 @@
 <a href="tips.html.fi" title="Niksit ja vinkit">Niksit ja vinkit</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.fi" title="Erikoismerkkien käyttäminen">Erikoismerkit</a></span>, <span class="link"><a href="mouse-middleclick.html.fi" title="Hiiren keskimmäisen painikkeen napsautus">hiiren keskimmäisen painikkeen oikotiet</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fi" title="Use alternative keyboard layouts">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fi" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span>
+<a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fi" title="Käytä vaihtoehtoisia näppäimistöasetteluja">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fi" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span>
 </li>
 <li class="links "><a href="shell-overview.html.fi#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a></li>
 </ul></div>
@@ -240,13 +232,10 @@
 <a href="keyboard-shortcuts-set.html.fi" title="Aseta näppäimistön pikanäppäimet">Aseta näppäimistön pikanäppäimet</a><span class="desc"> — Määritä tai vaihda pikanäppäimiä <span class="gui">Näppäimistön</span> asetuksissa.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html.fi" title="Mikä on Menu-näppäin?">Mikä on <span class="key"><kbd>Menu</kbd></span>-näppäin?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
-    rather than with a right-click.</span>
+<a href="keyboard-key-menu.html.fi" title="Mikä on Menu-näppäin?">Mikä on <span class="key"><kbd>Menu</kbd></span>-näppäin?</a><span class="desc"> — <span class="key"><kbd>Menu</kbd></span>-näppäin avaa näppäimistöllä kontekstivalikon hiiren oikean painikkeella napsauttamisen sijaan.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?">Mikä on <span class="key"><kbd>Super</kbd></span>-näppäin?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
-    You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
-    keyboard.</span>
+<a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?">Mikä on <span class="key"><kbd>Super</kbd></span>-näppäin?</a><span class="desc"> — <span class="key"><kbd>Super</kbd></span>-näppäin avaa <span class="gui">Toiminnot</span>-yleisnäkymän. Super-näppäin on yleensä näppäimistössä <span class="key"><kbd>Alt</kbd></span>-näppäimen vieressä.</span>
 </li>
 <li class="links ">
 <a href="keyboard-nav.html.fi" title="Näppäimistöllä liikkuminen">Näppäimistöllä liikkuminen</a><span class="desc"> — Käytä sovelluksia ja työpöytää ilman hiirtä.</span>
@@ -262,7 +251,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

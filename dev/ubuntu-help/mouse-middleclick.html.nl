@@ -65,38 +65,26 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> › <a class="trail" href="mouse.html.nl#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> › <a class="trail" href="mouse.html.nl#tips" title="Tips">Tips</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> › <a class="trail" href="mouse.html.nl#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> › <a class="trail" href="mouse.html.nl#tips" title="Tips">Tips</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Middelklik</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
-with a scroll wheel, you can usually press directly down on the scroll
-wheel to middle-click. If you don’t have a middle mouse button, you
-can press the left and right mouse buttons at the same time to
-middle-click.</p>
+<p class="p">Veel muizen, en sommige touchpads, hebben een middelste muisknop. Bij een muis met een scrollwieltje kunt u meestal op het wieltje drukken voor een middelklik. Als u geen middelste muisknop heeft, dan kunt u de linker en rechter muisknop tegelijk indrukken voor een middelklik.</p>
 <p class="p">Op een touchpad die het tikken met meerdere vingers ondersteunt, kunt u middenklikken door met drie vingers tegelijk te tikken. U dient <span class="link"><a href="mouse-touchpad-click.html.nl" title="Klik, sleep, of scroll met het touchpad">klikken door tikken inschakelen</a></span> geselecteerd te hebben bij de touchpadinstellingen om dit te laten werken.</p>
 <p class="p">Veel toepassingen gebruiken de middelste muisknop voor geavanceerde snelkoppelingen.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
-  window for an application with middle-click. Simply middle-click on the
-  application’s icon, either in the dash on the left, or in the applications
-  overview. The applications overview is displayed using the grid button in the
-  dash.</p></li>
-<li class="list"><p class="p">Most web browsers allow you to open links in tabs quickly with the
-  middle mouse button. Just click any link with your middle mouse button, and
-  it will open in a new tab.</p></li>
+<li class="list"><p class="p">In het <span class="gui">Activiteiten</span>-overzicht kunt u met een middelklik snel een nieuw venster voor een toepassing openen. Hiervoor hoeft u alleen met de middelste muisknop op het pictogram in de Starter aan de linkerkant, of in het toepassingenoverzicht te klikken. Het toepassingenoverzicht wordt weergegeven via de rastertoets in de Starter.</p></li>
+<li class="list"><p class="p">In de meeste webbrowsers kunt u snel links in tabbladen openen met de middelste muisknop. Klik gewoon met de middelste muisknop op een link en deze zal geopend worden in een nieuw tabblad.</p></li>
 <li class="list"><p class="p">In bestandsbeheer heeft de middelklik twee functies. Als u middelklikt op een map, dan wordt die geopend in een nieuw tabblad. Dit doet het gedrag na van populaire webbrowsers. Als u middelklikt op een bestand, dan wordt het bestand geopend alsof u erop gedubbelklikt had.</p></li>
 </ul></div></div></div>
-<p class="p">Some specialized applications allow you to use the middle mouse
-button for other functions. Search your application’s help for
-<span class="em">middle-click</span> or <span class="em">middle mouse button</span>.</p>
+<p class="p">In sommige gespecialiseerde toepassingen kunt u de middelste muisknop gebruiken voor andere functies. Zoek in de hulp van de toepassing naar <span class="em">middelklik</span> of <span class="em">middelste muisknop</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -117,7 +105,7 @@ button for other functions. Search your application’s help for
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.cs" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="addremove.html.cs" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Instalace dodatečných aplikací</span></h1></div>
@@ -74,25 +74,20 @@
 <p class="p">
     Applications are available in two formats: snap packages and Debian packages.
     An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    In order to install (or remove) a snap you have to log on to the Snap Store/Ubuntu One. Some 
-    applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be
-    listed first.
+    Some applications are available in both formats. In such a case in
+    <span class="app">Ubuntu Software</span> the snap will be listed first.
    </p>
 <p class="p">Možná budete chtít instalovat software, který nemá grafické rozhraní (GUI). K instalaci takového softwaru můžete použít <span class="link"><a href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru">Synaptic</a></span>. Všimněte si, že <span class="app">Synaptic</span> nezobrazuje snapy.</p>
 <p class="p">Pro instalaci aplikace:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klikněte na ikonu <span class="app">Ubuntu Software</span> v <span class="gui">Docku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
+<li class="steps"><p class="p">Klikněte na ikonu <span class="app">Ubuntu Software</span> v <span class="gui">Doku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
 <li class="steps"><p class="p">
         When <span class="app">Ubuntu Software</span> launches, search for an application, or select 
         a category and find an application from the list.
       </p></li>
 <li class="steps"><p class="p">Vyberte aplikaci, kterou chcete nainstalovat a klikněte na <span class="gui">Instalovat</span>.</p></li>
 <li class="steps"><p class="p">
-        If you're installing a snap, log on to the Snap Store/Ubuntu One.
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password
-        (that is, your user password, not your Snap Store/Ubuntu One password). 
+        You will be asked to authenticate by entering your password. 
         Once you have done that the installation will begin. 
         The installation usually finishes quickly, but could take a while if you 
         have a slow Internet connection.
@@ -131,7 +126,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

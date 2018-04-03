@@ -65,21 +65,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Gebruik minder stroom en verbeter de levensduur van de accu</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Computers can use a lot of power. By using some simple energy-saving
-  strategies, you can reduce your energy bill and help the environment.</p></div>
+<div class="contents"><p class="p">Computers kunnen veel stroom verbruiken. Door gebruik te maken van een aantal eenvoudige tips kunt u een lagere energierekening krijgen en het milieu helpen.</p></div>
 <div id="general" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Algemene tips</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.nl#suspend" title="Pauzestand">Zet uw computer in de pauzestand</a></span> wanneer u deze niet gebruikt. Dit vermindert het stroomverbuik aanmerkelijk en en de computer kan snel weer geactiveerd worden.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.nl#shutdown" title="Afsluiten of opnieuw opstarten">Schakel de computer uit</a></span> als u het voor een langere tijd niet zal gebruiken. Sommige mensen vrezen dat het regelmatig uitschakelen van een computer ervoor zal zorgen dat de computer sneller verslijt. Dit is echter niet het geval.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.nl#suspend" title="Pauzestand">Zet uw computer in de pauzestand</a></span> wanneer u deze niet gebruikt. Dit vermindert het stroomverbruik aanmerkelijk en en de computer kan snel weer geactiveerd worden.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.nl#shutdown" title="Uitschakelen of opnieuw opstarten">Schakel de computer uit</a></span> als u het voor een langere tijd niet zal gebruiken. Sommige mensen vrezen dat het regelmatig uitschakelen van een computer ervoor zal zorgen dat de computer sneller verslijt. Dit is echter niet het geval.</p></li>
 <li class="list"><p class="p">Use the <span class="gui">Power</span> panel in <span class="app">Settings</span> to change your
     power settings. There are a number of options that will help to save power:
     you can <span class="link"><a href="display-blank.html.nl" title="De tijd voordat het scherm zwart wordt instellen">automatically blank the screen</a></span>
@@ -94,15 +93,11 @@
 <div class="hgroup"><h2 class="title"><span class="title">Laptops, netbooks en andere apparaten met accu's</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reduce the <span class="link"><a href="display-brightness.html.nl" title="De helderheid van het scherm instellen">screen
-     brightness</a></span>. Powering the screen accounts for a significant fraction
-     of a laptop power consumption.</p>
+<p class="p"><span class="link"><a href="display-dimscreen.html.nl" title="display-dimscreen">De helderheid van het scherm</a></span> verlagen; het beeldscherm neemt een aanzienlijk deel van het stroomverbruik van een laptop voor zijn rekening.</p>
 <p class="p">De meeste laptops hebben toetsen op het toetsenbord (of sneltoetsen) waarmee u de helderheid kunt verlagen.</p>
 </li>
 <li class="list">
-<p class="p">If you do not need an Internet connection for a little while, turn off
-     the wireless or Bluetooth cards. These devices work by broadcasting radio
-     waves, which takes quite a bit of power.</p>
+<p class="p">Als u een tijdje geen internetverbinding nodig heeft, schakel dan de Wifi/Bluetooth kaart uit. Deze apparaten werken door radiogolven uit te zenden, wat behoorlijk wat energie vereist.</p>
 <p class="p">Sommige computers hebben een fysieke schakelaar waarmee de kaart uitgeschakeld kan worden, terwijl andere sneltoetsen hebben die daarvoor gebruikt kunnen worden. U kunt de kaart weer inschakelen wanneer u hem nodig heeft.</p>
 </li>
 </ul></div></div></div></div></div>
@@ -126,9 +121,8 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html.nl#shutdown" title="Afsluiten of opnieuw opstarten">Afsluiten of opnieuw opstarten</a></li>
 <li class="links ">
-<a href="power-status.html.nl" title="Controleer de accustatus">Controleer de accustatus</a><span class="desc"> — Display the status of the battery and connected devices.</span>
+<a href="power-status.html.nl" title="Controleer de accustatus">Controleer de accustatus</a><span class="desc"> — De status van de accu en verbonden apparaten weergeven.</span>
 </li>
 <li class="links ">
 <a href="display-brightness.html.nl" title="De helderheid van het scherm instellen">De helderheid van het scherm instellen</a><span class="desc"> — De helderheid van het scherm verhogen om het beter leesbaar te maken bij fel licht.</span>
@@ -137,11 +131,12 @@
 <a href="power-batterywindows.html.nl" title="Hoe komt het dat de accuduur lager is dan onder Windows/Mac OS?">Hoe komt het dat de accuduur lager is dan onder Windows/Mac OS?</a><span class="desc"> — Tweaks van de fabrikant en verschillende schattingen van de accuduur kunnen de oorzaak zijn van dit probleem.</span>
 </li>
 <li class="links ">
-<a href="power-wireless.html.nl" title="Ongebruikte draadloze technieken uitschakelen">Ongebruikte draadloze technieken uitschakelen</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
+<a href="power-wireless.html.nl" title="Ongebruikte draadloze technieken uitschakelen">Ongebruikte draadloze technieken uitschakelen</a><span class="desc"> — Bluetooth, wifi en mobiele breedband kunnen worden uitgezet om het accuverbruik te verminderen.</span>
 </li>
 <li class="links "><a href="shell-exit.html.nl#suspend" title="Pauzestand">Pauzestand</a></li>
+<li class="links "><a href="shell-exit.html.nl#shutdown" title="Uitschakelen of opnieuw opstarten">Uitschakelen of opnieuw opstarten</a></li>
 <li class="links ">
-<a href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?">Waarom wordt mijn scherm na enige tijd zwart?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
+<a href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?">Waarom wordt mijn scherm na enige tijd zwart?</a><span class="desc"> — Om energie te sparen zal het scherm zwart worden wanneer de computer inactief is .</span>
 </li>
 <li class="links ">
 <a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?</a><span class="desc"> — Dit betekent dat uw computer in pauzestand wordt gezet zodat deze minder stroom verbruikt.</span>
@@ -157,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

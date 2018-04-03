@@ -89,13 +89,9 @@
 <li class="list"><p class="p">Colorimètre HCFR (colorímetro)</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Actualmente o Pantone Huey é o hardware máis barato e máis compatíbel en GNU/Linux.</p></div></div></div></div>
-<p class="p">
-    Thanks to Argyll there’s also a number of spot and strip reading
-    reflective spectrometers supported to help you calibrating and
-    characterizing your printers:
-  </p>
+<p class="p">Grazas a Argull existe certo número de espectrómetros reflectantes lectores de puntos e liñas admitidos para ayudarlle a calibrar e caracterizar as súas impresoras:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
+<li class="list"><p class="p">X-Rite DTP20 "Pulse" (espectrómetro reflectante de tipo «deslizante»)</p></li>
 <li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (espectrómetro reflectante de tipo punto)</p></li>
 <li class="list"><p class="p">X-Rite DTP41 (espectrómetro reflectante lector de puntos e liñas)</p></li>
 <li class="list"><p class="p">X-Rite DTP41T (espectrómetro reflectante lector de puntos e liñas)</p></li>
@@ -116,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

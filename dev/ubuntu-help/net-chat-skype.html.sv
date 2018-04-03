@@ -75,8 +75,8 @@
 <p class="p">Programmet Skype är gratis att använda, men är inte fri programvara; källkoden är sluten och får inte ändras av vanliga användare.</p>
 <p class="p">Skype är inte installerat som standard i Ubuntu. Följ stegen nedan för att installera <span class="app">Skype för Linux</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">Öppna din webbläsare och gå till <span class="link"><a href="https://www.skype.com/download-skype/skype-for-computer/" title="https://www.skype.com/download-skype/skype-for-computer/">Skypes hämtningssida</a></span>.</p></li>
-<li class="list"><p class="p">Klicka på knappen <span class="gui">Hämta Skype för Linux DEB</span>.</p></li>
+<li class="list"><p class="p">Öppna din webbläsare och gå till sidan <span class="link"><a href="https://www.skype.com/sv/get-skype/" title="https://www.skype.com/sv/get-skype/">Ladda ned Skype</a></span>.</p></li>
+<li class="list"><p class="p">Klicka på knappen <span class="gui">Skaffa Skype för Linux DEB</span>.</p></li>
 <li class="list"><p class="p">I fönstret som öppnas, välj <span class="gui">Öppna med</span> and <span class="gui">Installera programvara (standard)</span>, och klicka sedan på knappen <span class="gui">OK</span>.</p></li>
 <li class="list"><p class="p"><span class="app">Programvara för Ubuntu</span> öppnas. Klicka på knappen <span class="gui">Installera</span> och autentisera.</p></li>
 </ul></div></div></div>
@@ -105,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why does my computer not turn back on after I suspended it?</title>
+<title>Waarom wordt mijn computer niet meer actief nadat ik hem in de pauzestand heb gezet?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,21 +65,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html.nl#problems" title="Problemen">Stroomproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html.nl#problems" title="Problemen">Stroomproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why does my computer not turn back on after I suspended it?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Waarom wordt mijn computer niet meer actief nadat ik hem in de pauzestand heb gezet?</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">Wanneer u uw computer in de <span class="link"><a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span> zet, en daarna weer activeert, kan de computer mogelijk niet werken zoals verwacht. Dit kan mogelijk veroorzaakt worden doordat uw hardware de pauzestand niet goed ondersteunt.</p></div>
 <div id="resume" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mijn computer is in de pauzestand gezet en wordt niet meer actief</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Wanneer u uw computer in de pauzestand heeft gezet en daarna op een toets of met uw muis klikt, zou de computer weer actief moeten worden en een scherm tonen waarin om uw wachtwoord gevraagd wordt. Als dit niet het geval is, probeer dan op de aan/uit-knop te drukken (u hoeft er alleen maar op te drukken en niet ingedrukt te houden).</p>
-<p class="p">If this still does not help, make sure that your computer’s monitor is
-  switched on and try pressing a key on the keyboard again.</p>
+<p class="p">Als dit niet helpt, controleer dan of de monitor aan staat en probeer het nogmaals door op een toets op het toetsenbord te drukken.</p>
 <p class="p">Als laatste redmiddel kunt u de computer uitzetten door de aan/uit-knop 5-10 seconden ingedrukt te houden. Hierdoor zal wel al het niet opgeslagen werk verloren gaan. Maar daarna zou u de computer weer gewoon moeten kunnen aanzetten.</p>
 <p class="p">Als dit telkens wanneer u de computer in de pauzestand zet gebeurt, dan kan het zijn dat de pauzestandfunctie niet werkt met uw hardware.</p>
 <div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Als uw computer stroom verliest en geen alternatieve stroombron heeft (zoals een werkende accu), dan zal deze uitgeschakeld worden.</p></div></div></div></div>
@@ -111,11 +110,7 @@
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-hibernate.html.nl" title="Hoe zet ik mijn computer in de slaapstand?">Hoe zet ik mijn computer in de slaapstand?</a><span class="desc"> — De slaapstand is standaard uitgeschakeld omdat deze niet goed ondersteund wordt.</span>
-</li>
-<li class="links ">
-<a href="power-nowireless.html.nl" title="Ik heb geen draadloos netwerk na het weer actief worden van mijn computer">Ik heb geen draadloos netwerk na het weer actief worden van mijn computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
-    suspended and does not resume properly.</span>
+<a href="power-nowireless.html.nl" title="Ik heb geen draadloos netwerk na het weer actief worden van mijn computer">Ik heb geen draadloos netwerk na het weer actief worden van mijn computer</a><span class="desc"> — Met sommige draadloze apparaten krijgt u problemen wanneer uw computer in de pauzestand is gezet en werken daarna niet meer.</span>
 </li>
 <li class="links ">
 <a href="power-closelid.html.nl" title="Waarom wordt mijn computer uitgeschakeld wanneer ik hem dichtdoe?">Waarom wordt mijn computer uitgeschakeld wanneer ik hem dichtdoe?</a><span class="desc"> — Laptops worden in de pauzestand gezet wanneer ze dicht gedaan worden, om energie te sparen.</span>
@@ -137,7 +132,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -75,8 +75,7 @@
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="backup-how.html.ca" title="Fer una còpia de seguretat"><span class="title">Fer una còpia de seguretat</span><span class="linkdiv-dash"> — </span><span class="desc">Com utilitzar el Déjà Dup (o algun altre programa de còpies de seguretat) per fer les còpies dels vostres fitxers i paràmetres de configuració valuosos i protegir-vos de possibles pèrdues.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-what.html.ca" title="Què s'hauria d'incloure en una còpia de seguretat"><span class="title">Què s'hauria d'incloure en una còpia de seguretat</span><span class="linkdiv-dash"> — </span><span class="desc">Back up anything that you cannot bear to lose if something goes
-    wrong.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-what.html.ca" title="Què s'hauria d'incloure en una còpia de seguretat"><span class="title">Què s'hauria d'incloure en una còpia de seguretat</span><span class="linkdiv-dash"> — </span><span class="desc">Feu una còpia de seguretat de qualsevol cosa que no pugueu perdre si alguna cosa va malament.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.ca" title="On emmagatzemar una còpia de seguretat"><span class="title">On emmagatzemar una còpia de seguretat</span><span class="linkdiv-dash"> — </span><span class="desc">Alguns consells sobre on emmagatzemar les còpies de seguretat i quin tipus de dispositiu d'emmagatzemament hauríeu d'utilitzar.</span></a></div></div>
 </div></div></div>
@@ -95,7 +94,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

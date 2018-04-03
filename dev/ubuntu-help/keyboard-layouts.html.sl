@@ -2,7 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Uporaba nadomestnih razporeditev tipk</title>
+<title>Use alternative keyboard layouts</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -77,23 +77,37 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Uporaba nadomestnih razporeditev tipk</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Use alternative keyboard layouts</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Tipkovnice obstajajo v na stotine različnih razporeditvah za različne jezike. Tudi za isti jezik pogosto obstaja več razporeditev tipk kot je na primer razporeditev Dvorak za angleščino. Vaša tipkovnica se lahko obnaša kot tipkovnica z drugačno razporeditvijo ne glede na črke in simbole, ki so natisnjeni na tipkah. To je uporabno, če pogosto preklapljate med več jeziki.</p>
+<p class="p">Keyboards come in hundreds of different layouts for different languages.
+  Even for a single language, there are often multiple keyboard layouts, such
+  as the Dvorak layout for English. You can make your keyboard behave like a
+  keyboard with a different layout, regardless of the letters and symbols
+  printed on the keys. This is useful if you often switch between multiple
+  languages.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Odprite <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Dejavnosti</a></span> in začnite vnašati <span class="gui">Regija &amp; Jezik</span>.</p></li>
-<li class="steps"><p class="p">Kliknite na <span class="gui">Regija &amp; Jezik</span>, da odprete pult.</p></li>
-<li class="steps"><p class="p">V razdelku <span class="gui">Vhodni viri</span> kliknite gumb <span class="gui">+</span>, izberite jezik, ki je povezan s postavitvijo in nato postavitev in pritisnite <span class="gui">Dodaj</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
+      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
+      select the language which is associated with the layout, then select a
+      layout and press <span class="gui">Add</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents">
+<p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p>
 <p class="p">Some rarely used keyboard layout variants are not available by default when you click
     the <span class="gui">+</span> button. To make also those input sources available you can open a terminal
     window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>
     and run this command:</p>
 <p class="p"><span class="cmd">gsettings set org.gnome.desktop.input-sources show-all-sources true</span></p>
 </div></div></div></div>
-<div class="note note-sidebar" title="Stranska vrstica"><div class="inner"><div class="region"><div class="contents"><p class="p">Predogled slike katere koli postavitve si lahko ogledate tako, da jo izberete na seznamu <span class="gui">Vhodni viri</span> in kliknete <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="predogled"></span></span></span></p></div></div></div></div>
+<div class="note note-sidebar" title="Stranska vrstica"><div class="inner"><div class="region"><div class="contents"><p class="p">You can preview an image of any layout by selecting it in the list of
+    <span class="gui">Input Sources</span> and clicking
+    <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="preview"></span></span></span></p></div></div></div></div>
 <p class="p">Certain languages offer some extra configuration options. You can
   identify those languages because they have a
   <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="preview"></span></span></span> icon next to them. If you want to access
@@ -134,10 +148,10 @@
 <a href="keyboard-shortcuts-set.html.sl" title="Nastavitev tipkovnih bližnjic">Nastavitev tipkovnih bližnjic</a><span class="desc"> — Tipkovne bližnjice lahko določite ali spremenite v nastavitvah <span class="gui">Tipkovnica</span>.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html.sl" title="Področje in jezik">Področje in jezik</a><span class="desc"> — <span class="link"><a href="session-language.html.sl" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html.sl" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">razporeditve tipkovnice</a></span> …</span>
+<a href="prefs-language.html.sl" title="Področje in jezik">Področje in jezik</a><span class="desc"> — <span class="link"><a href="session-language.html.sl" title="Izbira jezika, ki ga uporabljate">Jezik</a></span>, <span class="link"><a href="session-formats.html.sl" title="Sprememba datuma in oblik merjenja">regija in oblike</a></span>, <span class="link"><a href="keyboard-layouts.html.sl" title="Use alternative keyboard layouts">razporeditve tipkovnice</a></span> …</span>
 </li>
 <li class="links ">
-<a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sl" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
+<a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.sl" title="Use alternative keyboard layouts">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sl" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span>
 </li>
 </ul></div>
 </div></div>
@@ -156,7 +170,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

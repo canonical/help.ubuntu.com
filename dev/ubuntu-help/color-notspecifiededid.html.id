@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why don’t the default monitor profiles have a calibration expiry?</title>
+<title>Mengapa profil monitor baku tak memiliki kadaluarsa kalibrasi?</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -79,18 +79,10 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Mengapa profil monitor baku tak memiliki kadaluarsa kalibrasi?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    The default color profile used for each monitor is generated
-    automatically based on the display 
-    <span class="link"><a href="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data" title="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data">
-    EDID</a></span> which is stored in a memory chip inside the monitor.
-    The EDID only gives us a snapshot of the available colors the monitor
-    was capable of displaying when it was manufactured, and does not
-    contain much other information for color correction.
-  </p>
+<p class="p">Profil warna baku yang dipakai bagi setiap monitor dihasilkan secara otomatis berbasis pada <span class="link"><a href="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data" title="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data"> EDID</a></span> tampilan yang disimpan dalam chip memori di dalam monitor. EDID hanya memberi kita potret dari warna yang tersedia yang mampu ditampilkan oleh monitor ketika dirakit, dan tak memuat banyak informasi lain untuk koreksi warna.</p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Tilik gambar pada ukuran normal" data-zoom-out-title="Perkecil gambar"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-profile-default.png" class="media media-block" alt=""></div></div></div>
@@ -121,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

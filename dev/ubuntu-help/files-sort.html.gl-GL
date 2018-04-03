@@ -82,8 +82,7 @@
   Type</span>, <span class="gui">By Modification Date</span>, or <span class="gui">By Access
   Date</span>.</p>
 <p class="p">Por exemplo, se selecciona <span class="gui">Ordenar por nome</span>, os ficheiros ordenaranse segundo os seus nomes. Consulte outras opcións na <span class="link"><a href="#ways" title="Maneiras de ordenar ficheiros">Maneiras de ordenar ficheiros</a></span>.</p>
-<p class="p">You can sort in the reverse order by selecting <span class="gui">Reversed Order</span>
-  from the menu.</p>
+<p class="p">Pode ordenar en orde inverso seleccionando <span class="gui">Orde inverso</span> desde o menú.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
@@ -107,7 +106,7 @@
 <dd class="terms"><p class="p">Ordena polo tamaño do ficheiro (canto espazo ocupa). Ordena de menor a maior de maneira predeterminada.</p></dd>
 <dt class="terms">Tipo</dt>
 <dd class="terms"><p class="p">Ordena alfabeticamente polo tipo de ficheiro. Os ficheiros do mesmo tipo agrúpanse, a continuación, ordenados polo nome.</p></dd>
-<dt class="terms">Last Modified</dt>
+<dt class="terms">Última modificación</dt>
 <dd class="terms"><p class="p">Ordenar por data e hora nas que se modificou un ficheiro por última vez. Ordena da máis antiga á máis recente de maneira predeterminada.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
@@ -125,7 +124,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

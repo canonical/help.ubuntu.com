@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">மற்றவர்கள் ஒரு பணிமேசை காணும் பயன்பாட்டின் மூலம் உங்கள் பணிமேசையைக் காணவும் கட்டுப்படுத்தவும் நீங்கள் அனுமதிக்க முடியும். மற்றவர்கள் உங்கள் பணிமேசையை அணுகவும் பாதுகாப்பு முன்னுரிமைகளையும் அமைக்க அனுமதிக்க <span class="gui">திரைப் பகிர்தல்</span> ஐ அமைவாக்கம் செய்யவும்.</p>
-<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">திரைப் பகிர்தல்</span> புலப்பட <span class="app">Vino</span> தொகுப்பு நிறுவப்பட்டிருக்க வேண்டும்.</p></div></div></div></div>
+<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents">
+<p class="p"><span class="gui">திரைப் பகிர்தல்</span> புலப்பட <span class="app">Vino</span> தொகுப்பு நிறுவப்பட்டிருக்க வேண்டும்.</p>
+<p class="p"><span class="link-button link"><a href="apt:vino" title="apt:vino">Vino ஐ நிறுவுக</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview and
       start typing <span class="gui">Sharing</span>.</p></li>
@@ -173,7 +176,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

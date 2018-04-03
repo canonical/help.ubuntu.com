@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html.nl" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html.nl#privileges" title="Gebruikersrechten">Rechten</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html.nl" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html.nl#privileges" title="Gebruikersrechten">Rechten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hoe werken beheerdersrechten?</span></h1></div>
@@ -73,22 +73,11 @@
 <p class="p">Naast de bestanden die <span class="em">u</span> aanmaakt, heeft uw computer ook een aantal bestanden die het systeem nodig heeft om goed te kunnen werken. Als deze belangrijke <span class="em">systeembestanden</span> op een verkeerde manier worden gewijzigd, dan kunnen er verschillende dingen stuk gaan, vandaar dat ze standaard tegen wijzigingen beschermd worden. Bepaalde toepassingen wijzigen ook belangrijke delen van het systeem en zijn daarom dus ook beschermd.</p>
 <p class="p">De manier waarop ze beschermd worden, is door alleen gebruikers met <span class="em">beheerdersrechten</span> toe te staan de bestanden te wijzigen of de toepassingen te gebruiken. In het dagelijkse gebruik hoeft u geen systeembestanden te wijzigen of deze toepassingen te gebruiken, dus hoeft u standaard geen beheerdersrechten te hebben.</p>
 <p class="p">Soms wilt u deze toepassingen toch gebruiken; daarom kunt u tijdelijke beheerdersrechten krijgen om wijzigingen aan te kunnen brengen. Als een toepassing beheerdersrechten nodig heeft, dan wordt u naar uw wachtwoord gevraagd. Als u bijvoorbeeld nieuwe software wilt installeren, dan zal het software-installatieprogramma (pakketbeheer) u naar uw beheerderswachtwoord vragen zodat de nieuwe toepassing op uw systeem kan worden geïnstalleerd . Eenmaal voltooid zullen uw beheerdersrechten weer ingetrokken worden.</p>
-<p class="p">Administrative privileges are associated with your user account.
-  <span class="gui">Administrator</span> users are allowed to have these privileges while
-  <span class="gui">Standard</span> users are not. Without administrative privileges you will
-  not be able to install software. Some user accounts (for example, the “root”
-  account) have permanent administrative privileges. You should not use
-  administrative privileges all of the time, because you might accidentally
-  change something you did not intend to (like delete a needed system file, for
-  example).</p>
+<p class="p">Beheerdersrechten zijn geassocieerd met uw gebruikersaccount. <span class="gui">Beheerder</span>-gebruikers hebben deze rechten, <span class="gui">Standaard</span>-gebruikers niet. Als u geen beheerdersrechten heeft, dan kunt u geen software installeren. Sommige gebruikersaccounts (waaronder de “root”-account) hebben permanente beheerdersrechten. U moet niet aldoor beheerdersrechten gebruiken, want u zou per ongeluk onbedoeld iets kunnen wijzigen (zoals het wissen van een benodigd systeembestand).</p>
 <p class="p">Samengevat stellen beheerdersrechten u in staat belangrijke delen van uw systeem te wijzigen indien nodig, maar ze voorkomen dat u het per ongeluk doet.</p>
 <div class="note" title="Opmerking"><div class="inner">
-<div class="title title-note"><h2><span class="title">What does “super user” mean?</span></h2></div>
-<div class="region"><div class="contents"><p class="p">A user with administrative privileges is sometimes called a <span class="em">super
-    user</span>. This is simply because that user has more privileges than normal
-    users. You might see people discussing things like <span class="cmd">su</span> and
-    <span class="cmd">sudo</span>; these are programs for temporarily giving you “super user”
-    (administrative) privileges.</p></div></div>
+<div class="title title-note"><h2><span class="title">Wat betekent ‘supergebruiker’?</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Een gebruiker met beheerdersrechten wordt soms een <span class="em">supergebruiker</span> genoemd. Deze heet zo omdat hij meer rechten heeft dan een normale gebruiker. Het kan zijn dat u mensen hoort praten over dingen zoals <span class="cmd">su</span> en <span class="cmd">sudo</span>; dit zijn programma's om u tijdelijk ‘supergebruiker’-(beheerders)rechten te verlenen.</p></div></div>
 </div></div>
 </div>
 <div id="advantages" class="sect"><div class="inner">
@@ -96,11 +85,7 @@
 <div class="region"><div class="contents">
 <p class="p">Eisen dat gebruikers beheerdersrechten hebben voordat er belangrijke wijzigingen in het systeem worden aangebracht is nuttig omdat het helpt te voorkomen dat uw systeem, al dan niet opzettelijk, stuk gaat.</p>
 <p class="p">Als u altijd beheerdersrechten zou hebben, dan zou u per ongeluk een belangrijk bestand kunnen wijzigen of een toepassing draaien die per abuis iets belangrijks wijzigt. Het tijdelijk verkrijgen van beheerdersrechten, wanneer u ze nodig heeft, vermindert het risico dat dergelijke vergissingen gebeuren.</p>
-<p class="p">Only certain trusted users should be allowed to have administrative
-  privileges. This prevents other users from messing with the computer and
-  doing things like uninstalling applications that you need, installing
-  applications that you don’t want, or changing important files. This is useful
-  from a security standpoint.</p>
+<p class="p">Alleen bepaalde vertrouwde gebruikers dienen beheerdersrechten te krijgen. Dit voorkomt dat andere gebruikers knoeien met de computer en dingen doen zoals het verwijderen van toepassingen die u nodig heeft, toepassingen installeren die u niet wilt, of belangrijke bestanden wijzigen. Dit is nuttig vanuit het oogpunt van veiligheid.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -114,11 +99,13 @@
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
+<a href="net-othersedit.html.nl" title="Andere gebruikers kunnen de netwerkverbindingen niet bewerken">Andere gebruikers kunnen de netwerkverbindingen niet bewerken</a><span class="desc"> — U moet het vinkje bij de optie <span class="gui">Beschikbaar voor alle gebruikers</span> in de netwerkverbindingsinstellingen weghalen.</span>
+</li>
+<li class="links ">
 <a href="user-changepicture.html.nl" title="De foto op uw aanmeldscherm wijzigen">De foto op uw aanmeldscherm wijzigen</a><span class="desc"> — Uw foto toevoegen aan het aanmeld- en gebruikersscherm.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html.nl" title="De naam of locatie van een printer wijzigen">De naam of locatie van een printer wijzigen</a><span class="desc"> — Change the name or location of a printer in the printer
-    settings.</span>
+<a href="printing-name-location.html.nl" title="De naam of locatie van een printer wijzigen">De naam of locatie van een printer wijzigen</a><span class="desc"> — De naam of locatie van een printer wijzigen in de printerinstellingen.</span>
 </li>
 <li class="links ">
 <a href="user-admin-change.html.nl" title="De persoon met beheersrechten wijzigen">De persoon met beheersrechten wijzigen</a><span class="desc"> — U kunt wijzigen welke gebruikers wijzigingen in het systeem mogen aanbrengen door hen beheerdersrechten te verlenen.</span>
@@ -128,9 +115,6 @@
 </li>
 <li class="links ">
 <a href="user-delete.html.nl" title="Een gebruikersaccount verwijderen">Een gebruikersaccount verwijderen</a><span class="desc"> — Verwijder gebruikers die niet langer gebruik maken van uw computer.</span>
-</li>
-<li class="links ">
-<a href="net-othersedit.html.nl" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — U moet het vinkje bij de optie <span class="gui">Beschikbaar voor alle gebruikers</span> in de netwerkverbindingsinstellingen weghalen.</span>
 </li>
 <li class="links ">
 <a href="user-admin-problems.html.nl" title="Problemen veroorzaakt door beheerbeperkingen">Problemen veroorzaakt door beheerbeperkingen</a><span class="desc"> — U kunt een aantal dingen, zoals het installeren van toepassingen, alleen doen als u beheersrechten heeft.</span>
@@ -149,7 +133,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Remove an account</title>
+<title>Suprimiu un compte</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,35 +64,25 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="accounts.html.ca" title="Online accounts">Online accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="accounts.html.ca" title="Comptes en línia">Comptes en línia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Remove an account</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Suprimiu un compte</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can remove an online account which you no longer wish to use.</p>
+<p class="p">Podeu eliminar un compte en línia que ja no voleu utilitzar.</p>
 <div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Many online services provide an authorization token which GNOME stores
-    instead of your password. If you remove an account, you should also revoke
-    that certificate in the online service. This will ensure that no other
-    application or website can connect to that service using the authorization
-    for GNOME.</p>
-<p class="p">How to revoke the authorization depends on the service provider. Check
-    your settings on the provider’s website for authorized or connected apps
-    or sites. Look for an app called “GNOME” and remove it.</p>
+<p class="p">Molts serveis en línia proporcionen un testimoni d'autorització que GNOME emmagatzema en comptes de la vostra contrasenya. Si elimineu un compte, també heu de revocar aquest certificat en el servei en línia. Això garantirà que cap altra aplicació o lloc web es pugui connectar amb aquest servei utilitzant l'autorització del GNOME.</p>
+<p class="p">La forma de revocar l'autorització depèn del proveïdor del servei. Comproveu la vostra configuració al lloc web del proveïdor per a aplicacions o llocs connectats o autoritzats. Busqueu una aplicació anomenada "GNOME" i suprimiu-la.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Online Accounts</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Online Accounts</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the account which you wish to remove.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">-</span> button in the lower-left corner of the
-      window.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Remove</span> in the confirmation dialog.</p></li>
+<li class="steps"><p class="p">Obriu el resum de les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activititats</a></span> i comenceu a escriure <span class="gui">Comptes en línia</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Comptes en línia</span> per obrir el panell.</p></li>
+<li class="steps"><p class="p">Seleccioneu el compte que voleu suprimir.</p></li>
+<li class="steps"><p class="p">Cliqueu al botó <span class="gui">-</span> a la cantonada inferior esquerra de la finestra.</p></li>
+<li class="steps"><p class="p">Cliqueu <span class="gui">Suprimir</span> al diàleg de confirmació.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of deleting the account completely, it is possible to
-    <span class="link"><a href="accounts-disable-service.html.ca" title="Control which online services an account can be used to access">restrict the services</a></span> accessed
-    by your desktop.</p></div></div></div></div>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">En comptes d'esborrar totalment el compte, es possible <span class="link"><a href="accounts-disable-service.html.ca" title="Controleu quins serveis en línia es pot utilitzar per accedir a un compte">restringir els serveis</a></span> als qual accedeix el vostre escriptori.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -100,19 +90,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.ca" title="Online accounts">Online accounts</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html.ca" title="Add an account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html.ca" title="Remove an account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html.ca" title="Online services and applications">Learn about services</a></span>…
-    </span>
+<a href="accounts.html.ca" title="Comptes en línia">Comptes en línia</a><span class="desc"> — <span class="link"><a href="accounts-add.html.ca" title="Afegeix un compte">Afegir un compte en línia</a></span>, <span class="link"><a href="accounts-remove.html.ca" title="Suprimiu un compte">Eliminar un compte</a></span>, <span class="link"><a href="accounts-which-application.html.ca" title="Serveis i aplicacions en línia">Aprendre sobre els serveis</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html.ca" title="Control which online services an account can be used to access">Control which online services an account can be used to access</a><span class="desc"> — Some online accounts can be used to access multiple services (like
-    calendar and email). You can control which of these services can be used by
-    applications.</span>
+<a href="accounts-disable-service.html.ca" title="Controleu quins serveis en línia es pot utilitzar per accedir a un compte">Controleu quins serveis en línia es pot utilitzar per accedir a un compte</a><span class="desc"> — Alguns comptes en línia es poden utilitzar per accedir a diversos serveis (com ara el calendari i el correu electrònic). Podeu controlar quins d'aquests serveis poden ser utilitzats per les aplicacions.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -124,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

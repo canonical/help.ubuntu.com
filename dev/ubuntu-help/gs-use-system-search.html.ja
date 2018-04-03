@@ -75,7 +75,10 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> キーを押して<span class="gui">アクティビティ画面</span>を開き、検索キーワードを入力します。</p>
+<p class="p">Open the <span class="gui">Activities</span> overview by clicking <span class="gui">Activities</span> 
+    at the top left of the screen, or by pressing the
+    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key. 
+    Start typing to search.</p>
 <p class="p">キーワードを入力するとヒットした検索結果が即座に表示されます。検索結果の先頭がハイライトされ、トップに表示されます。</p>
 <p class="p"><span class="key"><kbd>Enter</kbd></span> を押すと、ハイライトされた先頭の項目を開きます。</p>
 </li></ol></div></div></div>
@@ -86,8 +89,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">マッチするアプリケーション。検索結果のトップに表示されます。</p></li>
 <li class="list"><p class="p">マッチする設定。</p></li>
-<li class="list"><p class="p">マッチする連絡先。</p></li>
-<li class="list"><p class="p">マッチするドキュメント。</p></li>
+<li class="list"><p class="p">matching contacts,</p></li>
+<li class="list"><p class="p">matching documents,</p></li>
+<li class="list"><p class="p">matching calendar,</p></li>
+<li class="list"><p class="p">matching calculator,</p></li>
+<li class="list"><p class="p">matching software,</p></li>
+<li class="list"><p class="p">matching files,</p></li>
+<li class="list"><p class="p">matching terminal,</p></li>
+<li class="list"><p class="p">matching passwords and keys.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +119,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">トップバー右側の<span class="gui"><a href="shell-introduction.html.ja#yourname" title="あなた、およびお使いのコンピューターについて">システムメニュー</a></span>を開きます。</p></li>
 <li class="steps"><p class="p">メニュー左下の設定ボタンを押します。</p></li>
-<li class="steps"><p class="p"><span class="gui">検索</span>パネルを選択します。</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Search</span> in the left panel.</p></li>
 <li class="steps"><p class="p">検索対象の一覧から、<span class="gui">ON/OFF</span> スイッチを切り替えて、各検索対象の有効/無効を設定します。</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -117,9 +117,6 @@
 <a href="power-nowireless.html.el" title="Δεν έχω ασύρματο δίκτυο όταν εκκινώ τον υπολογιστή μου">Δεν έχω ασύρματο δίκτυο όταν εκκινώ τον υπολογιστή μου</a><span class="desc"> — Μερικές ασύρματες συσκευές έχουν προβλήματα χειρισμού όταν ο υπολογιστής σας αναστέλλεται και δεν συνεχίζει σωστά.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html.el" title="Πώς μπορώ να κάνω αδρανοποίηση του υπολογιστή μου;">Πώς μπορώ να κάνω αδρανοποίηση του υπολογιστή μου;</a><span class="desc"> — Η αδρανοποίηση του υπολογιστή είναι απενεργοποιημένη από προεπιλογή αφού δεν υποστηρίζεται ικανοποιητικά.</span>
-</li>
-<li class="links ">
 <a href="hardware-driver.html.el" title="Τι είναι ένας οδηγός;">Τι είναι ένας οδηγός;</a><span class="desc"> — Ένας οδηγός υλικού/συσκευής επιτρέπει στον υπολογιστή σας να χρησιμοποιήσει συσκευές που προσαρτώνται σε αυτόν.</span>
 </li>
 <li class="links ">
@@ -136,7 +133,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

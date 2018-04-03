@@ -65,29 +65,25 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html.nl" title="Delen">Delen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html.nl" title="Delen">Delen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Delen van besturing via Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can enable <span class="gui">Bluetooth</span> sharing to receive files over
-  Bluetooth in the <span class="file">Downloads</span> folder</p>
+<p class="p">U kunt delen via <span class="gui">Bluetooth</span> inschakelen om bestanden via Bluetooth te ontvangen in de map <span class="file">Downloads</span></p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Allow files to be shared into your <span class="file">Downloads</span> folder</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Klik op het <span class="gui">Bluetooth</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Make sure that <span class="link"><a href="bluetooth-turn-on-off.html.nl" title="Bluetooth in- of uitschakelen"><span class="gui">Bluetooth</span>
-      is switched on</a></span>.</p></li>
-<li class="steps"><p class="p">Bluetooth-enabled devices can send files to your
-      <span class="file">Downloads</span> folder only when the <span class="gui">Bluetooth</span> panel is
-      open.</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat <span class="link"><a href="bluetooth-turn-on-off.html.nl" title="Bluetooth in- of uitschakelen"><span class="gui">Bluetooth</span> aan staat</a></span>.</p></li>
+<li class="steps"><p class="p">Apparaten waarop Bluetooth is ingeschakeld kunnen alleen bestanden naar de map <span class="file">Downloads</span> sturen wanneer het <span class="gui">Bluetooth</span>-paneel geopend is.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt de naam die uw computer aan andere apparaten laat zien <span class="link"><a href="sharing-displayname.html.nl" title="De weergavenaam van uw computer instellen">wijzigen</a></span>.</p></div></div></div></div>
@@ -105,12 +101,7 @@
 <a href="sharing.html.nl" title="Delen">Delen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Bureaublad delen</a></span>, <span class="link"><a href="files-share.html.nl" title="Bestanden delen per e-mail">Bestanden delen per e-mail</a></span>, <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.nl" title="Uw persoonlijke bestanden delen">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media sharing</a></span>…
-    </span>
+<a href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Bluetooth delen</a></span>, <span class="link"><a href="sharing-personal.html.nl" title="Uw persoonlijke bestanden delen">Delen persoonlijk bestand</a></span>, <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Scherm delen</a></span>, <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -129,7 +120,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

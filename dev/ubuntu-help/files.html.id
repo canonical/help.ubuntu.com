@@ -75,12 +75,12 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="files-search.html.id" title="Cari berkas"><span class="title">Cari berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-delete.html.id" title="Menghapus berkas dan folder"><span class="title">Menghapus berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Menghapus berkas atau folder yang tidak Anda perlukan lagi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html.id" title="Menghapus berkas-berkas dan folder-folder"><span class="title">Menghapus berkas-berkas dan folder-folder</span><span class="linkdiv-dash"> — </span><span class="desc">Menghapus berkas-berkas atau folder-folder yang tidak Anda perlukan lagi.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-rename.html.id" title="Mengubah nama berkas atau folder"><span class="title">Mengubah nama berkas atau folder</span><span class="linkdiv-dash"> — </span><span class="desc">Mengubah nama berkas atau folder.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-copy.html.id" title="Menyalin atau memindah berkas dan folder"><span class="title">Menyalin atau memindah berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Menyalin atau memindah butir-butir ke folder baru.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-browse.html.id" title="Meramban berkas dan folder"><span class="title">Meramban berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Kelola dan organisasikan berkas dengan manajer berkas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html.id" title="Meramban berkas dan folder"><span class="title">Meramban berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Kelola dan organisasikan berkas dengan pengelola berkas.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-preview.html.id" title="Pratinjau berkas dan folder"><span class="title">Pratinjau berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Dengan cepat tampilkan dan sembunyikan pratilik bagi dokumen, gambar, video, dan lainnya.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-sort.html.id" title="Urutkan berkas dan folder"><span class="title">Urutkan berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Atur berkas berdasarkan nama, ukuran, jenis, atau kapan mereka diubah.</span></a></div>
 </div>
@@ -102,7 +102,7 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.id" title="Menulis berkas ke CD atau DVD"><span class="title">Menulis berkas ke CD atau DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Simpan berkas dan dokumen ke dalam CD atau DVD kosong memakai pembakar CD/DVD.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.id" title="Preferensi manajer berkas"><span class="title">Preferensi manajer berkas</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas"><span class="title">Preferensi pengelola berkas</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.id" title="Properti berkas"><span class="title">Properti berkas</span><span class="linkdiv-dash"> — </span><span class="desc">View basic file information, set permissions, and choose
     default applications.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.id" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
@@ -138,13 +138,12 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas"><span class="title">Menata izin berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Control who can view and edit your files and folders.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.id" title="Menyembunyikan berkas"><span class="title">Menyembunyikan berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Make a file invisible, so you cannot see it in the file
-    manager.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.id" title="Menyembunyikan berkas"><span class="title">Menyembunyikan berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Buat berkas tidak tampak, sehingga Anda tidak dapat melihatnya di pengelola berkas.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-select.html.id" title="Pilih berkas menurut pola"><span class="title">Pilih berkas menurut pola</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> to select multiple
     files which have similar names.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.id" title="Sunting folder penanda taut"><span class="title">Sunting folder penanda taut</span><span class="linkdiv-dash"> — </span><span class="desc">Tambah, hapus, dan ubah nama penanda taut dalam manajer berkas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.id" title="Sunting folder penanda taut"><span class="title">Sunting folder penanda taut</span><span class="linkdiv-dash"> — </span><span class="desc">Tambah, hapus, dan ubah nama penanda taut dalam pengelola berkas.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-templates.html.id" title="Templat bagi tipe dokumen yang biasa dipakai"><span class="title">Templat bagi tipe dokumen yang biasa dipakai</span><span class="linkdiv-dash"> — </span><span class="desc">Secara cepat membuat dokumen baru dari templat berkas tersuai.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-tilde.html.id" title="What is a file with a ~ at the end of its name?"><span class="title">What is a file with a <span class="file">~</span> at the end of its name?</span><span class="linkdiv-dash"> — </span><span class="desc">These are backup files. They are hidden by default.</span></a></div>
 </div>
@@ -164,7 +163,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

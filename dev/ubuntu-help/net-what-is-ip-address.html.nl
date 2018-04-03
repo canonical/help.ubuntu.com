@@ -64,22 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wat is een IP-adres?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
-  device that is connected to a network (like the internet) has one.</p>
+<p class="p">‘IP-adres’ staat voor <span class="em">Internet Protocol address</span>, en elk apparaat dat verbonden is met een netwerk (zoals het internet) heeft er een.</p>
 <p class="p">Een IP-adres is net als uw telefoonnummer. Uw telefoonnummer is een unieke reeks cijfers waarmee uw telefoon wordt geïdentificeerd zodat anderen u kunnen bellen. Zo ook is een IP-adres een reeks cijfers waarmee uw computer geïdentificeerd wordt, zodat die data kan versturen naar en ontvangen van andere computers.</p>
 <p class="p">Op dit moment bestaan de meeste IP-adressen uit vier sets getallen, elk gescheiden door een punt. <span class="code">192.168.1.42</span> is een voorbeeld van een IP-adres.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
-    IP addresses are temporarily assigned each time your computer connects to a
-    network. Static IP addresses are fixed, and do not change. Dynamic IP
-    addresses are more common that static addresses — static addresses are
-    typically only used when there is a special need for them, such as in the
-    administration of a server.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Een IP-adres kan <span class="em">dynamisch</span> of <span class="em">statisch</span> zijn. Dynamische IP-adressen worden tijdelijk toegekend, elke keer wanneer uw computer verbinding maakt met een netwerk. Statische IP-adressen liggen vast en veranderen niet. Dynamische IP-adressen komen vaker voor dan statische adressen--statische IP-adressen worden eigenlijk alleen gebruikt wanneer er een speciale reden voor is, zoals het beheren van een server.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -105,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

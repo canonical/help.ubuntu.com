@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>My computer gets really hot</title>
+<title>Komputer robi się bardzo gorący</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,39 +64,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="power.html.pl-PL#problems" title="Problemy">Problemy z zasilaniem</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="power.html.pl-PL#problems" title="Problemy">Problemy z zasilaniem</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">My computer gets really hot</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Komputer robi się bardzo gorący</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Most computers get warm after a while, and some can get quite hot. This is
-normal: it is simply part of the way that the computer cools itself. However,
-if your computer gets very warm it could be a sign that it is overheating,
-which can potentially cause damage.</p>
-<p class="p">Most laptops get reasonably warm once you have been using them for a while.
-It is generally nothing to worry about — computers produce a lot of heat and
-laptops are very compact, so they need to remove their heat rapidly and their
-outer casing warms up as a result. Some laptops do get too hot, however, and
-may be uncomfortable to use. This is normally the result of a poorly-designed
-cooling system. You can sometimes get additional cooling accessories which fit
-to the bottom of the laptop and provide more efficient cooling.</p>
-<p class="p">If you have a desktop computer which feels hot to the touch, it may have
-insufficient cooling. If this concerns you, you can buy extra cooling fans or
-check that the cooling fans and vents are free from dust and other blockages.
-You might want to consider putting the computer in a better-ventilated area too
-— if kept in confined spaces (for example, in a cupboard), the cooling system in the
-computer may not be able to remove heat and circulate cool air fast enough.</p>
-<p class="p">Some people are concerned about the health risks of using hot laptops. There
-are suggestions that prolonged use of a hot laptop on your lap might possibly
-reduce (male) fertility, and there are reports of minor burns being suffered
-too (in extreme cases). If you are concerned about these potential problems,
-you may wish to consult a medical practitioner for advice. Of course, you can
-simply choose not to rest the laptop on your lap.</p>
-<p class="p">Most modern computers will shut themselves down if they get too hot, to
-prevent themselves from becoming damaged. If your computer keeps shutting down,
-this might be the reason. If your computer is overheating, you will probably
-need to get it repaired.</p>
+<p class="p">Większość komputerów po jakimś czasie robi się ciepłych, a niektóre robią się całkiem gorąco. To normalne: to tylko część sposobu, w jaki komputer się chłodzi. Jeśli jednak komputer jest bardzo ciepły, to może być znak, że się przegrzewa, co może potencjalnie go uszkodzić.</p>
+<p class="p">Większość laptopów robi się całkiem ciepłych po jakimś czasie używania. Na ogół nie ma się czego obawiać — komputery generują dużo ciepła, a laptopy są bardzo kompaktowe, więc muszą szybko pozbywać się ciepła, co powoduje nagrzewanie się ich obudowy. Niektóre laptopy robią się jednak zbyt gorące i mogą być niewygodne w użyciu. Zwykle jest to spowodowane słabo zaprojektowanym systemem chłodzenia. Czasami można kupić dodatkowe akcesoria chłodzące, które pasują do spodu laptopa i polepszają wydajność chłodzenia.</p>
+<p class="p">Jeśli komputer stacjonarny jest gorący, to może mieć niewystarczający system chłodzenia. W takim przypadku można kupić dodatkowe wentylatory chłodzące lub sprawdzić, czy wentylatory i otwory wentylacyjne nie są zakurzone ani zapchane. Można rozważyć umieszczenie komputera w lepiej wentylowanym miejscu — jeśli znajduje się w zamkniętym miejscu (np. w szafie), to system chłodzenia w komputerze może nie być w stanie dostatecznie szybko pozbywać się ciepła i cyrkulować chłodnego powietrza.</p>
+<p class="p">Niektórzy są zaniepokojeni zagrożeniem dla zdrowia, jakie niesie używanie gorących laptopów. Pojawiły się informacje, że przedłużony czas używania gorącego laptopa na kolanach może zmniejszać (męską) płodność, a także doniesienia o niegroźnych oparzeniach (w ekstremalnych przypadkach). W razie obawy o te potencjalne problemy można skonsultować się z lekarzem. Oczywiście można także nie trzymać laptopa na kolanach.</p>
+<p class="p">Większość współczesnych komputerów wyłącza się, jeśli robią się zbyt gorące, aby uniknąć uszkodzenia. Jeśli komputer się wyłącza, to może być tego przyczyna. Jeśli komputer się przegrzewa, to prawdopodobnie należy go naprawić.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -114,7 +92,7 @@ need to get it repaired.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

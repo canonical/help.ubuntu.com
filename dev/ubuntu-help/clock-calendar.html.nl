@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="clock.html.nl" title="Datum &amp; tijd">Datum &amp; tijd</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="clock.html.nl" title="Datum &amp; tijd">Datum &amp; tijd</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#desktop" title="Uw bureaublad aanpassen">Uw bureaublad aanpassen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#desktop" title="Uw bureaublad aanpassen">Uw bureaublad aanpassen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -76,19 +76,15 @@
 <div class="contents">
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Hiervoor moet u uw<span class="app">Evolution</span>-agenda gebruiken of een online-account hebben ingesteld met ondersteuning voor <span class="gui">Agenda</span>.</p>
-<p class="p">Most distributions come with <span class="app">Evolution</span> installed by default.
-    If yours does not, you may need to install it using your distribution’s
-    package manager.</p>
+<p class="p">Bij de meeste distributies is <span class="app">Evolution</span> standaard geïnstalleerd. Als dat bij u niet het geval is, moet u het installeren met het pakketbeheerprogramma van uw distributie.</p>
 </div></div></div></div>
 <p class="p">Om uw afspraken te bekijken:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klik op de klok in de bovenste balk.</p></li>
+<li class="steps"><p class="p">Klik op de klok in de bovenbalk.</p></li>
 <li class="steps">
 <p class="p">Klik op de datum waarvoor u uw afspraken in de agenda wilt zien.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Er staat een punt onder elke datum waar een afspraak gepland is.</p></div></div></div></div>
-<p class="p">Existing appointments will be displayed to the left of the calendar.
-      As appointments are added to your <span class="app">Evolution</span> calendar, they
-      will appear in the clock’s appointment list.</p>
+<p class="p">Bestaande afspraken worden weergegeven aan de linkerkant van de agenda. Wanneer afspraken worden toegevoegd aan uw <span class="app">Evolution</span>-agenda, zullen ze in de afsprakenlijst van de klok weergegeven worden.</p>
 </li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="figures/shell-appts.png" width="500" class="media media-block" alt="Klok, agenda en afspraken"></div></div>
@@ -112,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

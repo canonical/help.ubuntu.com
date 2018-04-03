@@ -87,19 +87,22 @@
 <div class="region"><div class="contents">
 <div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">These instructions will only work if you are using <span class="app">systemd</span>.
     Contact your distribution for more information.</p></div></div></div></div>
-<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-    change this setting.</p></div></div></div></div>
-<p class="p">If you do not want the computer to suspend when you close the lid, you can
-  change the setting for that behavior.</p>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
+    change this setting.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
+      <span class="app">Tweaks</span></a></span></p>
+</div></div></div></div>
+<p class="p">Se non quere que o seu computador se suspenda cando pecha a tapa, pode cambiar a preferencia para ese comportamento.</p>
 <div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Teña moito coidado se cambia esta configuración. Algúns portátiles poden sobrequentarse se están coa tapa pechada, especialmente se están nun lugar pechado como nunha mochila.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span>
       overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
+<li class="steps"><p class="p">Prema na lapela <span class="gui">enerxía</span>.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
       <span class="gui">OFF</span>.</p></li>
-<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
+<li class="steps"><p class="p">Seleccione na xanela <span class="gui">Retoques</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -110,7 +113,7 @@
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.gl-GL" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-status.html.gl-GL" title="Comprobe o estado da batería">Battery status</a></span>,
       <span class="link"><a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
       <span class="link"><a href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
     </span>
@@ -136,7 +139,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

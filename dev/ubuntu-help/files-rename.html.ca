@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Rename a file or folder</title>
+<title>Canvieu el nom d'un fitxer o carpeta</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,73 +67,40 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Rename a file or folder</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Canvieu el nom d'un fitxer o carpeta</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">As with other file managers, you can use <span class="app">Files</span> to change the
-  name of a file or folder.</p>
+<p class="p">Igual que amb altres gestors de fitxers, podeu utilitzar <span class="app">Fitxers</span> per canviar el nom d'un fitxer o una carpeta.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To rename a file or folder:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Per canviar el nom d'un fitxer o carpeta</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Right-click on the item and select <span class="gui">Rename</span>, or select
-    the file and press <span class="key"><kbd>F2</kbd></span>.</p></li>
-<li class="steps"><p class="p">Type the new name and press <span class="key"><kbd>Enter</kbd></span> or click
-    <span class="gui">Rename</span>.</p></li>
+<li class="steps"><p class="p">Feu clic amb el botó dret sobre l'element i seleccioneu<span class="gui">Reanomenar</span>, o seleccioneu el fitxer i premeu <span class="key"><kbd>F2</kbd></span>.</p></li>
+<li class="steps"><p class="p">Escrigui el nou nom i premi <span class="key"><kbd>Entrar</kbd></span> o feu clic a <span class="gui">Reanomenar</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">You can also rename a file from the
-  <span class="link"><a href="nautilus-file-properties-basic.html.ca" title="File properties">properties</a></span> window.</p>
-<p class="p">When you rename a file, only the first part of the name of the file is
-  selected, not the file extension (the part after the last <span class="file">.</span>).
-  The extension normally denotes what type of file it is (for example,
-  <span class="file">file.pdf</span> is a PDF document), and you usually do not want to
-  change that. If you need to change the extension as well, select the entire
-  file name and change it.</p>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">If you renamed the wrong file, or named your file improperly, you can
-    undo the rename. To revert the action, immediately click the menu button in
-    the toolbar and select <span class="gui">Undo Rename</span>, or press
-    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, to restore the former
-    name.</p></div></div></div></div>
+<p class="p">També pot reanomenar un arxiu des de la finestra <span class="link"><a href="nautilus-file-properties-basic.html.ca" title="File properties">propietats</a></span>.</p>
+<p class="p">Quan canvieu el nom d'un fitxer, només es selecciona la primera part del nom del fitxer, no l'extensió (la part després de l'últim<span class="file">.</span>). L'extensió normalment indica quin tipus de fitxer és (per exemple, <span class="file">fitxer.pdf</span> és un document PDF), i normalment no voldreu canviar-lo. Si també heu de canviar l'extensió, seleccioneu el nom complert i canvieu-lo.</p>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Si us heu equivocat de fitxer al canviar de nom, o heu assignat un nom incorrecte al vostre fitxer, podeu desfer el canvi de nom. Per desfer l'acció, immediatament feu clic al botó de menú de la barra d'eines i seleccioneu <span class="gui">Desfer reanomenar</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, per restaurar el nom anterior.</p></div></div></div></div>
 </div>
 <div id="valid-chars" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Valid characters for file names</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Caràcters vàlids per als noms dels fitxers</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can use any character except the <span class="file">/</span> (slash) character in
-    file names. Some devices, however, use a <span class="em">file system</span> that has more
-    restrictions on file names. Therefore, it is a best practice to avoid the
-    following characters in your file names: <span class="file">|</span>, <span class="file">\</span>,
-    <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
-    <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Atenció"><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html.ca" title="Hide a file">hidden</a></span> when you attempt to
-    view it in the file manager.</p></div></div></div></div>
+<p class="p">Podeu utilitzar qualsevol caràcter excepte el<span class="file">/</span> (barra) caràcter en els noms dels fitxers. Tanmateix, alguns dispositius utilitzen un <span class="em">sistema de fitxers</span> amb més restriccions alhora de posar els noms. Per tant, és una bona pràctica evitar els següents caràcters en els noms dels fitxers: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
+<div class="note note-warning" title="Atenció"><div class="inner"><div class="region"><div class="contents"><p class="p">Si renomena un fitxer amb<span class="file">.</span> com a primer caràcter, el fitxer restarà <span class="link"><a href="files-hidden.html.ca" title="Ocultar el fitxer">ocult</a></span>quan intenteu visualitzar-lo al gestor de fitxers.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Common problems</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Problemes comuns</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">The file name is already in use</dt>
+<dt class="terms">El nom del fitxer ja està en ús</dt>
 <dd class="terms">
-<p class="p">You cannot have two files or folders with the same name in the same
-        folder. If you try to rename a file to a name that already exists in
-        the folder you are working in, the file manager will not allow it.</p>
-<p class="p">File and folder names are case sensitive, so the file name
-        <span class="file">File.txt</span> is not the same as <span class="file">FILE.txt</span>.
-        Using different file names like this is allowed, though it is not
-        recommended.</p>
+<p class="p">No podeu tenir dos fitxers o carpetes amb el mateix nom dins de la mateixa carpeta. Si intenteu canviar el nom d'un fitxer a un nom que ja existeix a la carpeta on esteu treballant, el gestor de fitxers no ho permetrà.</p>
+<p class="p">Els noms dels fitxers i carpetes distingeixen entre majúscules i minúscules, així que el nom del fitxer <span class="file">Fitxer.txt</span> no és el mateix que <span class="file">FITXER.txt</span>. L'ús de diferents noms d'arxius com aquests està permès, encara que no es recomanable.</p>
 </dd>
-<dt class="terms">The file name is too long</dt>
-<dd class="terms"><p class="p">On some file systems, file names can have no more than 255
-        characters in their names.  This 255 character limit includes both the
-        file name and the path to the file (for example,
-        <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), so you
-        should avoid long file and folder names where possible.</p></dd>
-<dt class="terms">The option to rename is grayed out</dt>
-<dd class="terms"><p class="p">If <span class="gui">Rename</span> is grayed out, you do not have permission to
-        rename the file. You should use caution with renaming such files, as
-        renaming some protected files may cause your system to become unstable.
-        See <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Set file permissions">Set file permissions</a></span> for more
-        information.</p></dd>
+<dt class="terms">El nom del fitxer és massa llarg</dt>
+<dd class="terms"><p class="p">En alguns sistemes de fitxers, els noms dels fitxers no poden tenir més de 255 caràcters en els seus noms. Aquest límit de 255 caràcters inclou tant el nom del fitxer com la ruta d'accés al fitxer (per exemple, <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), de manera que haureu d'evitar noms de fitxers i carpetes llargs sempre que sigui possible.</p></dd>
+<dt class="terms">L'opció per canviar el nom és grisa</dt>
+<dd class="terms"><p class="p">Si<span class="gui">Reanomenar</span> està en gris, no teniu permís per canviar el nom del fitxer. Heu de tenir precaució al canviar el nom d'aquests fitxers, ja que reanomenar fitxers protegits pot fer que el vostre sistema quedi inestable. Consultar <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Set file permissions">Set file permissions</a></span> per a més informació.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -150,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

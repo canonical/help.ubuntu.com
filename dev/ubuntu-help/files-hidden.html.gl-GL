@@ -70,9 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Agochar un ficheiro</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The <span class="app">Files</span> file manager gives you the ability to hide and unhide
-  files at your discretion. When a file is hidden, it is not displayed by the
-  file manager, but it is still there in its folder.</p>
+<p class="p">O xestor de ficheiros <span class="app">Ficheiros</span> ofrécelle a posibilidade de ocultar e mostrar ficheiros á súa elección. Cando un ficheiro está oculto, non se mostra no xestor de ficheiros, pero segue estando no cartafol.</p>
 <p class="p">To hide a file, <span class="link"><a href="files-rename.html.gl-GL" title="Renomear un ficheiro ou cartafol">rename it</a></span> with a
   <span class="file">.</span> at the beginning of its name. For example, to hide a file
   named <span class="file">example.txt</span>, you should rename it to
@@ -115,7 +113,7 @@
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Most hidden files will have a <span class="file">.</span> at the
   beginning of their name, but others might have a <span class="file">~</span> at the end of
   their name instead. These files are backup files. See
-  <span class="link"><a href="files-tilde.html.gl-GL" title="What is a file with a ~ at the end of its name?">What is a file with a <span class="file">~</span> at the end of its name?</a></span> for more information.</p></div></div></div></div>
+  <span class="link"><a href="files-tilde.html.gl-GL" title="Que é un ficheiro cunha «~» ao final do seu nome?">Que é un ficheiro cunha «~» ao final do seu nome?</a></span> for more information.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -128,7 +126,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-tilde.html.gl-GL" title="What is a file with a ~ at the end of its name?">What is a file with a <span class="file">~</span> at the end of its name?</a><span class="desc"> — Estes son ficheiros de copias de seguranza. Están ocultos de maneira predeterminada.</span>
+<a href="files-tilde.html.gl-GL" title="Que é un ficheiro cunha «~» ao final do seu nome?">Que é un ficheiro cunha «~» ao final do seu nome?</a><span class="desc"> — Estes son ficheiros de copias de seguranza. Están ocultos de maneira predeterminada.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -140,7 +138,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

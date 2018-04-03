@@ -64,37 +64,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een draadloos-hotspot creëren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can use your computer as a wireless hotspot. This allows other devices
-  to connect to you without a separate network, and allows you to share an
-  internet connection you’ve made with another interface, such as to a wired
-  network or over the cellular network.</p>
+<p class="p">U kunt uw computer gebruiken als een draadloos-hotspot. Hierdoor kunnen andere apparaten verbinding met u maken zonder apart netwerk, zodat u een internetverbinding kunt delen die u met een andere interface heeft gemaakt, zoals een bekabeld netwerk of een cellulair netwerk.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">Systeemmenu</a></span> aan de rechterzijde van de menubalk.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">system menu</a></span> from the right
+    side of the top bar.</p></li>
 <li class="steps"><p class="p">Selecteer <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Wifi niet verbonden</span> of de naam van het draadloze netwerk waarmee u al verbonden bent. Het wifi-gedeelte van het menu zal nu uitklappen.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Wifi-instellingen</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot…</span> button.</p></li>
+<li class="steps"><p class="p">Klik op de knop <span class="gui">Als hotspot gebruiken…</span>.</p></li>
 <li class="steps"><p class="p">Als u al verbonden bent met een draadloos netwerk, dan wordt u gevraagd of u de verbinding met dat netwerk wilt verbreken. Een enkele draadloos-adapter kan met slechts één netwerk tegelijk verbinding maken of creëren. Klik op <span class="gui">Aanzetten</span> om te bevestigen.</p></li>
 </ol></div></div></div>
-<p class="p">A network name (SSID) and security key are automatically generated.
-The network name will be based on the name of your computer. Other devices
-will need this information to connect to the hotspot you’ve just created.</p>
+<p class="p">Een netwerknaam (SSID) en beveiligingssleutel worden automatisch gegenereerd. De netwerknaam zal gebaseerd zijn op de naam van uw computer. Andere apparaten hebben deze informatie nodig om verbinding te maken met de hotspot die u zojuist heeft aangemaakt.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -105,7 +97,7 @@ will need this information to connect to the hotspot you’ve just created.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -72,15 +72,15 @@
 <div class="contents"><p class="p">DVD-stöd får inte tillhandahållas som standard i Ubuntu beroende på legala och tekniska restriktioner. De flesta kommersiella DVD-skivor är krypterade och kräver således avkrypteringsmjukvara för att de ska kunna spelas upp.</p></div>
 <div id="fluendo" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Använd Fluendo för att spela upp DVD lagligt</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Du kan köpa en kommersiell DVD-avkodare som kan hantera kopieringsskydd från <span class="link"><a href="https://apps.ubuntu.com/cat/applications/fluendo-dvd" title="https://apps.ubuntu.com/cat/applications/fluendo-dvd">Fluendo</a></span>. Den fungerar med Linux och borde vara laglig att använda i alla länder.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Du kan köpa en kommersiell DVD-avkodare som kan hantera kopieringsskydd från <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. Den fungerar med Linux och borde vara laglig att använda i alla länder.</p></div></div>
 </div></div>
 <div id="restricted" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Använd alternativ avkrypteringsprogramvara</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-warning" title="Varning"><div class="inner"><div class="region"><div class="contents"><p class="p">I vissa länder är bruk av följande ickelicensierade program förbjudet enligt lag. Kontrollera att du har rätt att använda det.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Installera <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvdnav4" title="https://apps.ubuntu.com/cat/applications/libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvdread4" title="https://apps.ubuntu.com/cat/applications/libdvdread4">libdvdread4</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-bad" title="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-ugly" title="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> och <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvd-pkg" title="https://apps.ubuntu.com/cat/applications/libdvd-pkg">libdvd-pkg</a></span>.</p></li>
-<li class="steps"><p class="p">Öppna Snabbstartspanelen och starta en <span class="app">Terminal</span>.</p></li>
+<li class="steps"><p class="p">Installera <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> och <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
+<li class="steps"><p class="p">Öppna ett terminalfönster genom att trycka på <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Kör kommandot</p>
 <p class="p"><span class="cmd">sudo dpkg-reconfigure libdvd-pkg</span></p>
@@ -111,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

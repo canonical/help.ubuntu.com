@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Repair a damaged filesystem</title>
+<title>Een beschadigd bestandssysteem repareren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,84 +64,49 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Repair a damaged filesystem</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een beschadigd bestandssysteem repareren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Filesystems can be corrupted due to unexpected power loss, system crashes
-     and unsafe removal of the drive.
-     After such an incident it is recommended to <span class="em">repair</span> or at least
-     <span class="em">check</span> the filesystem to prevent future data loss.</p>
-<p class="p">Sometimes a repair is required in order to mount or modify a filesystem.
-     Even if a <span class="em">check</span> does not report any damage the filesystem might
-     still be marked as 'dirty' internally and require a repair.</p>
+<p class="p">Bestandssystemen kunnen beschadigd raken als gevolg van onverwacht stroomverlies, een vastgelopen systeem en onveilige verwijdering van de schijf. Na zo een incident is het aan te bevelen het bestandssysteem te <span class="em">repareren</span> of op zijn minst te <span class="em">controleren</span>.</p>
+<p class="p">Soms is een reparatie nodig om een bestandssysteem te koppelen of te wijzigen. Zelfs wanneer een <span class="em">controle</span> aangeeft dat het bestandssysteem niet is beschadigd kan het intern nog altijd als ‘vervuild’ zijn aangemerkt zodat een reparatie toch nodig is.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Check if a filesystem is damaged</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Controleren of een bestandssysteem beschadigd is</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Schijven</span> vanuit het <span class="gui">Activiteiten</span>-overzicht.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list of
-       storage devices on the left. If there is more than one volume on the
-       disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Check Filesystem…</span>.</p></li>
+<li class="steps"><p class="p">Selecteer de schijf die u wilt controleren in de lijst met opslagapparaten aan de linkerkant. Als de schijf meer dan één volume bevat, selecteer dan het volume met daarop het bestandssysteem.</p></li>
+<li class="steps"><p class="p">Klik in de werkbalk onder de sectie <span class="gui">Volumen</span> op de menuknop. Klik daarna op <span class="gui">Bestandssysteem controleren…</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a check may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
-<p class="p">The action will not modify the filesystem but will unmount it if needed.
-      Be patient while the filesystem is checked.</p>
+<p class="p">Afhankelijk van de hoeveelheid gegevens opgeslagen in het bestandssysteem, kan een controle langer duren. Bevestig het starten van de actie in het dialoogvenster dat verschijnt.</p>
+<p class="p">De handeling zal niet het bestandssysteem wijzigen maar wel afkoppelen indien nodig. Heb geduld terwijl het bestandssysteem gecontroleerd wordt.</p>
 </li>
-<li class="steps"><p class="p">After completion you will be notified whether the filesystem is damaged.
-       Note that in some cases even if the filesystem is undamaged it still
-       may need to be repaired to reset an internal 'dirty' marker.</p></li>
+<li class="steps"><p class="p">Na voltooiing krijgt u een melding of het bestandssysteem is beschadigd. Merk op dat, ook al is het bestandssysteem niet beschadigd, het in sommige gevallen toch moet worden gerepareerd om een interne ‘vuile’ markering te resetten.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Waarschuwing"><div class="inner">
-<div class="title title-note"><h2><span class="title">Possible data loss when repairing</span></h2></div>
+<div class="title title-note"><h2><span class="title">Mogelijk gegevensverlies bij repareren</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the filesystem structure is damaged it can affect the files stored
-     in it. In some cases these files can not be brought into a valid form
-     again and will be deleted or moved to a special directory. It is normally
-     the <span class="em">lost+found</span> folder in the top level directory of the filesystem
-     where these recovered file parts can be found.</p>
-<p class="p">If the data is too valuable to be lost during this process, you are
-     advised to back it up by saving an image of the volume before
-     repairing.</p>
-<p class="p">This image can be then processed with forensic analysis tools like
-     <span class="app">sleuthkit</span> to further recover missing files and data parts
-     which were not restored during the repair, and also previously removed
-     files.</p>
+<p class="p">Als de structuur van het bestandssysteem beschadigd is, kan dit invloed hebben op de daarin opgeslagen bestanden. In sommige gevallen kunnen deze bestanden niet meer in een geldig formaat gebracht worden en zullen ze worden verwijderd of verplaatst naar een speciale map. Het is normaal gesproken de map lost + found in de map op het hoogste niveau van het bestandssysteem waar deze herstelde bestandsdelen te vinden zijn.</p>
+<p class="p">Als de gegevens te waardevol zijn om tijdens het proces verloren te gaan, dan is het raadzaam een reservekopie te maken door een reservekopiebestand van het volume te maken alvorens te repareren.</p>
+<p class="p">Dit imagebestand kan vervolgens verwerkt worden met forensische analysehulpmiddelen zoals <span class="app">sleuthkit</span> om verder ontbrekende bestanden en delen van gegevens die tijdens de reparatie niet teruggezet waren terug te halen, evenals eerder verwijderde bestanden.</p>
 </div></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Repair a filesystem</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Een bestandssysteem repareren</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Schijven</span> vanuit het <span class="gui">Activiteiten</span>-overzicht.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
-       of storage devices on the left. If there is more than one volume on
-       the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Repair Filesystem…</span>.</p></li>
+<li class="steps"><p class="p">Selecteer de schijf die u wilt controleren in de lijst met opslagapparaten aan de linkerkant. Als de schijf meer dan één volume bevat, selecteer dan het volume met daarop het bestandssysteem.</p></li>
+<li class="steps"><p class="p">Klik in de werkbalk onder de sectie <span class="gui">Volumen</span> op de menuknop. Klik daarna op <span class="gui">Bestandssysteem repareren…</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a repair may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
-<p class="p">The action will unmount the filesystem if needed. The repair action tries
-   to bring the filesystem into a consistent state and moves files which were
-   damaged in a special folder. Be patient while the filesystem is
-   repaired.</p>
+<p class="p">Afhankelijk van hoeveel gegevens er opgeslagen zijn in het bestandssysteem, kan een reparatie langer duren. Bevestig om de actie in het verschijnende dialoogvenster te starten.</p>
+<p class="p">De actie zal het bestandssysteem zo nodig ontkoppelen. De reparatie-actie probeert het bestandssysteem in een consistente staat te brengen en plaatst bestanden die beschadigd waren onder in een speciale map. Wees geduldig terwijl het bestandssysteem gerepareerd wordt.</p>
 </li>
 <li class="steps">
-<p class="p">After completion you will be notified whether the filesystem could be
-       successfully repaired. In case of success it can be used again in the
-       normal way.</p>
-<p class="p">If the filesystem could not be repaired, back it up by saving an image
-       of the volume to be able to retrieve important files later. This can
-       be done by mounting the image read-only or using forensic analysis tools
-       like <span class="app">sleuthkit</span>.</p>
-<p class="p">To make use of the volume again it has to be
-       <span class="link"><a href="disk-format.html.nl" title="Alles van een verwijderbare schijf wissen">formatted</a></span> with a new filesystem. All
-       data will be discarded.</p>
+<p class="p">Na de voltooiing krijgt u een melding of het bestandssysteem met succes gerepareerd is. Als het gelukt is, kan het weer normaal gebruikt worden.</p>
+<p class="p">Indien het bestandssysteem niet gerepareerd kon worden, maak dan een reservekopie door een imagebestand van het volume op te slaan zodat u later belangrijke bestanden terug kunt halen. Dit kunt u doen door het imagebestand als alleen-lezen aan te koppelen of door forensische analysehulpmiddelen zoals <span class="app">sleuthkit</span> te gebruiken.</p>
+<p class="p">Om het volume opnieuw te kunnen gebruiken dient het <span class="link"><a href="disk-format.html.nl" title="Alles van een verwijderbare schijf wissen">geformatteerd</a></span> te zijn met een nieuw bestandssysteem. Alle gegevens zullen verloren gaan.</p>
 </li>
 </ol></div>
 </div></div>
@@ -162,7 +127,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

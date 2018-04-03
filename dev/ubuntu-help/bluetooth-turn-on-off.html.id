@@ -76,17 +76,11 @@
 <li class="steps"><p class="p">Klik pada <span class="gui">Bluetooth</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Atur saklar di puncak ke <span class="gui">NYALA</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Many laptop computers have a hardware switch or key combination to turn
-  Bluetooth on and off. Look for a switch on your computer or a key on your
-  keyboard. The keyboard key is often accessed with the help of the
-  <span class="key"><kbd class="key-Fn">Fn</kbd></span> key.</p>
+<p class="p">Banyak komputer laptop memiliki tombol perangkat keras atau kombinasi tombol untuk menyalakan dan mematikan Bluetooth. Carilah sebuah tombol di komputer Anda atau tombol pada papan tik Anda. Tombol papan tik sering diakses dengan bantuan tombol <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
 <p class="p">Untuk mematikan Bluetooth:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#yourname" title="Anda dan komputer Anda">system menu</a></span> from the
-      right side of the top bar.</p></li>
-<li class="steps"><p class="p">Select
-      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span>
-      Not In Use</span>. The Bluetooth section of the menu will expand.</p></li>
+<li class="steps"><p class="p">Buka <span class="gui"><a href="shell-introduction.html.id#yourname" title="Anda dan komputer Anda">menu sistem</a></span> pada bagian kanan dari bilah atas.</p></li>
+<li class="steps"><p class="p">Pilih <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span> Tidak Digunakan</span>. Area menu Bluetooth akan ditampilkan.</p></li>
 <li class="steps"><p class="p">Pilih <span class="gui">Matikan</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Komputer Anda <span class="link"><a href="bluetooth-visibility.html.id" title="Apa itu kenampakan Bluetooth?">nampak</a></span> selama panel <span class="gui">Bluetooth</span> terbuka.</p></div></div></div></div>
@@ -107,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

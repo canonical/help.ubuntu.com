@@ -65,35 +65,27 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wysyłanie plików pocztą</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can easily share files with your contacts by email directly from the
-file manager.</p>
-<div class="note note-important" title="Ważne"><div class="inner"><div class="region"><div class="contents"><p class="p">Before you begin, make sure <span class="app">Evolution</span> or <span class="app">Geary</span> is
-    installed on your computer, and your email account is configured.</p></div></div></div></div>
+<p class="p">Można łatwo wysyłać pliki do kontaktów pocztą bezpośrednio z menedżera plików.</p>
+<div class="note note-important" title="Ważne"><div class="inner"><div class="region"><div class="contents"><p class="p">Przed rozpoczęciem upewnij się, że program <span class="app">Evolution</span> lub <span class="app">Geary</span> jest zainstalowany na komputerze i skonfigurowano konto e-mail.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Aby wysłać plik pocztą:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
-      <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">Locate the file you want to transfer.</p></li>
-<li class="steps"><p class="p">Right-click the file and select <span class="gui">Send to…</span>. An email compose
-      window will appear with the file attached.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">To</span> to choose a contact, or enter an email address
-  where you want to send the file. Fill in the <span class="gui">Subject</span> and the body
-  of the message as required and click <span class="gui">Send</span>.</p></li>
+<li class="steps"><p class="p">Otwórz program <span class="app">Pliki</span> z <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekranu podglądu</a></span>.</p></li>
+<li class="steps"><p class="p">Znajdź plik do przesłania.</p></li>
+<li class="steps"><p class="p">Kliknij plik prawym przyciskiem myszy i wybierz <span class="gui">Wyślij do…</span>. Zostanie otwarte okno tworzenia wiadomości z załączonym plikiem.</p></li>
+<li class="steps"><p class="p">Kliknij pole <span class="gui">Do</span>, aby wybrać kontakt lub wpisz adres e-mail, do którego wysłać plik. Wypełnij <span class="gui">Temat</span> i treść wiadomości, a następnie kliknij przycisk <span class="gui">Wyślij</span>.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">You can send multiple files at once. Select multiple files by holding
-  down <span class="key"><kbd>Ctrl</kbd></span> while clicking the files, then right-click any selected
-  file.</p></div></div></div></div>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Można wysłać wiele plików w jednej wiadomości. Zaznacz wiele plików przytrzymując klawisz <span class="key"><kbd>Ctrl</kbd></span> podczas ich klikania, a następnie kliknij jeden z zaznaczonych plików prawym przyciskiem myszy.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -103,7 +95,7 @@ file manager.</p>
 <div class="region"><ul>
 <li class="links "><a href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a></li>
 <li class="links ">
-<a href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.pl-PL" title="Udostępnianie pulpitu">Udostępnianie pulpitu</a></span>, <span class="link"><a href="files-share.html.pl-PL" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html.pl-PL" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span>
+<a href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.pl-PL" title="Udostępnianie ekranu">Udostępnianie ekranu</a></span>, <span class="link"><a href="files-share.html.pl-PL" title="Wysyłanie plików pocztą">wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html.pl-PL" title="Udostępnianie muzyki, zdjęć i filmów">udostępnianie multimediów</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -111,8 +103,7 @@ file manager.</p>
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="nautilus-connect.html.pl-PL" title="Browse files on a server or network share">Browse files on a server or network share</a><span class="desc"> — View and edit files on another computer over FTP, SSH, Windows
-    shares, or WebDAV.</span>
+<a href="nautilus-connect.html.pl-PL" title="Przeglądanie plików na serwerze lub udziale sieciowym">Przeglądanie plików na serwerze lub udziale sieciowym</a><span class="desc"> — Wyświetlanie i modyfikowanie plików na innym komputerze przez FTP, SSH, zasoby Windows lub WebDAV.</span>
 </li>
 <li class="links ">
 <a href="bluetooth-send-file.html.pl-PL" title="Wysyłanie plików do urządzenia Bluetooth">Wysyłanie plików do urządzenia Bluetooth</a><span class="desc"> — Wysyłanie plików do urządzeń Bluetooth, na przykład telefonu.</span>
@@ -128,7 +119,7 @@ file manager.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

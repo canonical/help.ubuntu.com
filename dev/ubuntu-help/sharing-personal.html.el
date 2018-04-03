@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Μπορείτε να επιτρέψετε την πρόσβαση στον <span class="file">Δημόσιο</span> φάκελο στον <span class="file">Προσωπικό φάκελο</span> σας από άλλον υπολογιστή στο δίκτυο. Ρυθμίστε το <span class="gui">Κοινή χρήση προσωπικών αρχείων</span> για να επιτρέψετε σε άλλους να προσπελάσουν τα περιεχόμενα του φακέλου.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Πρέπει να έχετε εγκατεστημένο το πακέτο <span class="app">gnome-user-share</span> για να είναι ορατή η <span class="gui">Κοινή χρήση προσωπικών αρχείων</span>.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Πρέπει να έχετε εγκατεστημένο το πακέτο <span class="app">gnome-user-share</span> για να είναι ορατή η <span class="gui">Κοινή χρήση προσωπικών αρχείων</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-user-share" title="apt:gnome-user-share">Εγκατάσταση gnome-user-share</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Κοινή χρήση</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Κοινή χρήση</span> για να ανοίξετε τον πίνακα.</p></li>
@@ -125,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

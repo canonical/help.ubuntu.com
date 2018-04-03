@@ -65,26 +65,23 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Waarom wordt mijn scherm na enige tijd zwart?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If it is possible to set the brightness of your screen, it will dim when
-  the computer is idle in order to save power. When you start using the
-  computer again, the screen will brighten.</p>
-<p class="p">To stop the screen from dimming itself:</p>
+<p class="p">Als de helderheid van uw scherm ingesteld kan worden, dan zal het scherm zwart worden wanneer de computer inactief is om energie te sparen. Wanneer u de computer weer in gebruik neemt zal het scherm weer oplichten.</p>
+<p class="p">U kunt het vanzelf zwart worden van het scherm uitzetten:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Energie</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Energie</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Dim screen when inactive</span> to <span class="gui">OFF</span> in the <span class="gui">Power
-      Saving</span> section.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">Zwart scherm indien inactief</span> <span class="gui">UIT</span> in de sectie <span class="gui">Energiebesparing</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -122,7 +119,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

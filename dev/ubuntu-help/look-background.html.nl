@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change the desktop and lock screen backgrounds</title>
+<title>De achtergrond van het werkblad en van een vergrendeld scherm wijzigen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,40 +64,28 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change the desktop and lock screen backgrounds</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De achtergrond van het werkblad en van een vergrendeld scherm wijzigen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can change the image used for your backgrounds or set it to be a
-  solid color.</p>
+<p class="p">U kunt de afbeelding die gebruikt wordt als werkbladachtergrond wijzigen, of u kunt een effen kleur kiezen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
       start typing <span class="gui">Background</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Background</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">Background</span> or <span class="gui">Lock Screen</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Achtergrond</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Kies <span class="gui">Achtergrond</span> of <span class="gui">Vergrendeld scherm</span>.</p></li>
 <li class="steps">
-<p class="p">There are three choices displayed on top:</p>
+<p class="p">Bovenin heeft u drie keuzes:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Select <span class="gui">Wallpapers</span> to use one of the many professional
-          background images that ship with GNOME. Some wallpapers change
-          throughout the day. These wallpapers have a small clock icon in the
-          bottom-right corner.</p></li>
-<li class="list"><p class="p">Select <span class="gui">Pictures</span> to use one of your own photos from your
-          <span class="file">Pictures</span> folder. Most photo management applications
-          store photos there. If you would like to use an image that is not in
-          your Pictures folder, either use <span class="app">Files</span> by right-clicking
-          on the image file and selecting <span class="gui">Set as Wallpaper</span>, or
-          <span class="app">Image Viewer</span> by opening the image file, clicking the
-          menu button in the titlebar and selecting <span class="gui">Set as
-          Wallpaper</span>.</p></li>
-<li class="list"><p class="p">Select <span class="gui">Colors</span> to just use a flat color.</p></li>
+<li class="list"><p class="p">Kies <span class="gui">Achtergronden</span> om één van de vele professionele achtergrondafbeeldingen die met Gnome zijn meegeleverd te gebruiken. Sommige achtergronden veranderen gedurende de dag. Deze achtergronden hebben in de rechteronderhoek een klein pictogram van een klok.</p></li>
+<li class="list"><p class="p">Kies <span class="gui">Foto's</span> als u een van uw eigen foto's uit de map <span class="gui">Afbeeldingen</span> wilt gebruiken. De meeste fotobeheertoepassingen bewaren foto's in deze map. Als u een afbeelding wilt gebruiken die zich niet in de map <span class="gui">Afbeeldingen</span> bevindt, klik dan in <span class="app">Bestanden</span> met rechts op het afbeeldingsbestand en kies <span class="gui">Als achtergrond instellen</span>. Of open het afbeeldingsbestand in <span class="app">Afbeeldingsweergave</span>, klik op de menuknop in de titelbalk en kies <span class="gui">Als achtergrond instellen</span>.</p></li>
+<li class="list"><p class="p">Kies <span class="gui">Kleuren</span> als u een effen kleur wilt gebruiken.</p></li>
 </ul></div></div></div>
 </li>
-<li class="steps"><p class="p">The settings are applied immediately.</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.nl" title="Wisselen tussen werkbladen">Switch to an empty
-      workspace</a></span> to view your entire desktop.</p></li>
+<li class="steps"><p class="p">De instellingen worden direct toegepast.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.nl" title="Wisselen tussen werkbladen">Schakel over naar een leeg werkblad</a></span> om het hele bureaublad weer te geven.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -106,11 +94,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.nl" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.nl" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
-      brightness…
-    </span>
+<a href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a><span class="desc"> — <span class="link"><a href="look-background.html.nl" title="De achtergrond van het werkblad en van een vergrendeld scherm wijzigen">Achtergrond</a></span>, <span class="link"><a href="look-resolution.html.nl" title="De resolutie of de oriëntatie (rotatie) van het scherm wijzigen">grootte en rotatie</a></span>, <span class="link"><a href="display-dimscreen.html.nl" title="display-dimscreen">helderheid</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -126,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

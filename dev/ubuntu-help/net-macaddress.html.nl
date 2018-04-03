@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wat is een MAC-adres?</span></h1></div>
@@ -79,19 +79,11 @@
 <li class="steps">
 <p class="p">Choose which device, <span class="gui">Wi-Fi</span> or <span class="gui">Wired</span>, from
       the left pane.</p>
-<p class="p">The MAC address for the wired device will be displayed as the
-      <span class="gui">Hardware Address</span> on the right.</p>
-<p class="p">Click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button to see the MAC address for the wireless device displayed as the
-      <span class="gui">Hardware Address</span> in the <span class="gui">Details</span> panel.</p>
+<p class="p">Het MAC-adres voor het aangesloten apparaat zal rechts weergegeven worden als <span class="gui">Hardware-adres</span>.</p>
+<p class="p">Klik op de <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span>-knop voor het MAC-adres van het draadloze apparaat dat weergegeven wordt als het <span class="gui">Hardware-adres</span> in het paneel <span class="gui">Details</span>.</p>
 </li>
 </ol></div></div></div>
-<p class="p">In practice, you may need to modify or “spoof” a MAC address. For example,
-  some internet service providers may require that a specific MAC address be
-  used to access their service. If the network card stops working, and you need
-  to swap a new card in, the service won’t work anymore. In such cases, you
-  would need to spoof the MAC address.</p>
+<p class="p">In de praktijk kan het zijn dat het wijzigen of ‘spoofen’ van een MAC-adres nodig is. Zo kunnen sommige internetproviders eisen dat er een bepaald MAC-adres gebruikt wordt om toegang te krijgen tot hun dienst. Als de netwerkkaart niet meer werkt, en u deze moet verruilen voor een nieuwe kaart, dan werkt de dienst niet meer. In een dergelijk geval dient u het MAC-adres te ‘spoofen’.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -109,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why did my computer turn off when the battery got to 10%?</title>
+<title>Dlaczego komputer wyłączył się, kiedy poziom naładowania akumulatora spadł do 10%?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,23 +65,17 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why did my computer turn off when the battery got to 10%?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Dlaczego komputer wyłączył się, kiedy poziom naładowania akumulatora spadł do 10%?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When the charge level of the battery gets too low, your computer will
-automatically turn off. It does this to make sure that the battery does not
-completely discharge, since this is bad for
-the battery. If the battery just ran out, the computer would not have time to
-shut down properly either.</p>
-<p class="p">Bear in mind that when your computer automatically turns off, your
-applications and documents <span class="em">are not</span> saved. To avoid losing your
-work, save it before the battery gets too low.</p>
+<p class="p">Kiedy poziom naładowania akumulatora spadnie zbyt nisko, to komputer automatycznie się wyłączy. Robi tak, aby upewnić się, że akumulator nie został całkowicie rozładowany, ponieważ mu to szkodzi. Poza tym gdyby akumulator zupełnie się rozładował, komputer może nie mieć dość czasu, aby się poprawnie wyłączyć.</p>
+<p class="p">Pamiętaj, że kiedy komputer automatycznie się wyłącza, programy i dokumenty <span class="em">nie są</span> zapisywane. Aby uniknąć utraty pracy, zapisz ją zanim poziom naładowania akumulatora spadnie za nisko.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -97,7 +91,7 @@ work, save it before the battery gets too low.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

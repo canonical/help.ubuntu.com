@@ -75,7 +75,7 @@
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Comptes en ligne</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">+</span> dans le coin inférieur gauche de la fenêtre.</p></li>
+<li class="steps"><p class="p">Select an account from the list on the right.</p></li>
 <li class="steps"><p class="p">Sélectionnez le type de compte que vous souhaitez ajouter.</p></li>
 <li class="steps"><p class="p">A small website window or dialog will open where you can enter your
       online account credentials. For example, if you are setting up a Google
@@ -112,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

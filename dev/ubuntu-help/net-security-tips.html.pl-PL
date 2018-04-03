@@ -64,49 +64,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-general.html.pl-PL" title="Terminy sieciowe i wskazówki">Terminy sieciowe i wskazówki</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-general.html.pl-PL" title="Terminy sieciowe i wskazówki">Terminy sieciowe i wskazówki</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bezpieczeństwo w Internecie</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A possible reason for why you are using Linux is the robust security that
-  it is known for. One reason that Linux is relatively safe from malware and
-  viruses is due to the lower number of people who use it. Viruses are targeted
-  at popular operating systems, like Windows, that have an extremely large user
-  base. Linux is also very secure due to its open source nature, which allows
-  experts to modify and enhance the security features included with each
-  distribution.</p>
-<p class="p">Despite the measures taken to ensure that your installation of Linux is
-  secure, there are always vulnerabilities. As an average user on the internet
-  you can still be susceptible to:</p>
+<p class="p">Częstym powodem używania systemu Linux jest solidne bezpieczeństwo, z jakiego jest znany. Jedną przyczyną, dlaczego Linux jest względnie wolny od złośliwego oprogramowania i wirusów jest niższa liczba użytkowników. Wirusy są pisane na popularne systemy operacyjne, takie jak Windows, mające ogromną liczbę użytkowników. Linux jest także bardzo bezpieczny z uwagi na to, że jego kod jest open source, co umożliwia ekspertom modyfikowanie i ulepszanie funkcji bezpieczeństwa w każdej dystrybucji.</p>
+<p class="p">Niezależnie od środków podjętych w celu zapewnienia bezpieczeństwa instalacji systemu Linux, zawsze istnieją zagrożenia. Typowy użytkownik Internetu może być nadal podatny na:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Phishing Scams (websites and emails that try to obtain sensitive
-      information through deception)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.pl-PL" title="Do I need to scan my emails for viruses?">Forwarding malicious emails</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Applications with malicious intent
-      (viruses)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.pl-PL" title="Co znaczy „WEP” i „WPA”?">Unauthorized remote/local network
-      access</a></span></p></li>
+<li class="list"><p class="p">oszustwa typu „phishing” (strony i wiadomości e-mail próbujące wyłudzić prywatne informacje przez podszywanie się),</p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.pl-PL" title="Czy muszę skanować moje wiadomości e-mail pod kątem wirusów?">przekazywanie wiadomości e-mail ze złośliwymi załącznikami,</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">programy napisane w złośliwych celach (wirusy),</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.pl-PL" title="Co znaczy „WEP” i „WPA”?">nieupoważniony dostęp zdalny/z sieci lokalnej.</a></span></p></li>
 </ul></div></div></div>
-<p class="p">To stay safe online, keep in mind the following tips:</p>
+<p class="p">Aby zachować bezpieczeństwo w Internecie, pamiętaj o tych wskazówkach:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Be wary of emails, attachments, or links that were sent from people
-      you do not know.</p></li>
-<li class="list"><p class="p">If a website’s offer is too good to be true, or asks for sensitive
-      information that seems unnecessary, then think twice about what
-      information you are submitting and the potential consequences if that
-      information is compromised by identity thieves or other criminals.</p></li>
-<li class="list"><p class="p">Be careful in providing
-      <span class="link"><a href="user-admin-explain.html.pl-PL" title="How do administrative privileges work?">root level permissions</a></span> to any
-      application, especially ones that you have not used before or which are
-      not well-known. Providing anyone or anything with root level permissions
-      puts your computer at high risk to exploitation.</p></li>
-<li class="list"><p class="p">Make sure you are only running necessary remote-access services.
-      Having SSH or VNC running can be useful, but also leaves your computer
-      open to intrusion if not secured properly. Consider using a
-      <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Enable or block firewall access">firewall</a></span> to help protect your
-      computer from intrusion.</p></li>
+<li class="list"><p class="p">Zachowuj ostrożność podczas otwierania wiadomości e-mail, załączników i odnośników od nieznajomych.</p></li>
+<li class="list"><p class="p">Jeśli oferta na stronie jest za dobra, aby była prawdziwa, albo pyta o prywatne informacje, których nie powinna potrzebować, to dobrze przemyśl, jakie informacje są wysyłane i jakie byłyby konsekwencje, gdyby zostały one przechwycone przez złodziei tożsamości lub innych przestępców.</p></li>
+<li class="list"><p class="p">Zachowuj ostrożność podczas nadawania programom <span class="link"><a href="user-admin-explain.html.pl-PL" title="Jak działają uprawnienia administracyjne?">uprawnień użytkownika root</a></span>, zwłaszcza w przypadku nowych lub mało znanych programów. Nadanie komukolwiek lub czemukolwiek uprawnień użytkownika root znacznie zwiększa zagrożenie.</p></li>
+<li class="list"><p class="p">Upewnij się, że działają tylko niezbędne usługi zdalnego dostępu. Usługa SSH lub VNC w tle może być przydatna, ale zostawia też otwartą drogę dla atakujących, jeśli nie jest właściwie zabezpieczona. Rozważ użycie <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Włączanie i blokowanie zapory sieciowej">zapory sieciowej</a></span>, aby wspomóc ochronę komputera przed włamaniem.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -114,12 +91,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.pl-PL" title="Terminy sieciowe i wskazówki">Terminy sieciowe i wskazówki</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html.pl-PL" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html.pl-PL" title="Co znaczy „WEP” i „WPA”?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html.pl-PL" title="Czym jest adres MAC?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html.pl-PL" title="Określanie ustawień pośrednika">proxies</a></span>…
-    </span>
+<a href="net-general.html.pl-PL" title="Terminy sieciowe i wskazówki">Terminy sieciowe i wskazówki</a><span class="desc"> — <span class="link"><a href="net-findip.html.pl-PL" title="Jak znaleźć swój adres IP">Jak znaleźć swój adres IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.pl-PL" title="Co znaczy „WEP” i „WPA”?">zabezpieczenia WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.pl-PL" title="Czym jest adres MAC?">adresy MAC</a></span>, <span class="link"><a href="net-proxy.html.pl-PL" title="Określanie ustawień pośrednika">pośredniki</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -130,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

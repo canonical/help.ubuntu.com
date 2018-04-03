@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Blokada ekranu</title>
+<title>Ekran blokady</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,30 +64,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Blokada ekranu</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ekran blokady</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The lock screen means that you can see what is happening while your
-  computer is locked, and it allows you to get a summary of what has been
-  happening while you have been away. The lock screen curtain shows an
-  attractive image on the screen while your computer is locked, and provides
-  useful information:</p>
+<p class="p">Ekran blokady oznacza, że można zobaczyć, co dzieje się na zablokowanym komputerze oraz zawiera podsumowanie, co wydarzyło się podczas nieobecności. Kurtyna blokady wyświetla ładny obraz, kiedy komputer jest zablokowany, oraz przydatne informacje:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">nazwa zalogowanego użytkownika</p></li>
-<li class="list"><p class="p">data i czas oraz pewne powiadomienia</p></li>
-<li class="list"><p class="p">stan akumulatora i sieci</p></li>
-<li class="list"><p class="p">the ability to control media playback — change the volume, skip a
-    track or pause your music without having to enter a password</p></li>
+<li class="list"><p class="p">nazwa zalogowanego użytkownika,</p></li>
+<li class="list"><p class="p">data i czas oraz pewne powiadomienia,</p></li>
+<li class="list"><p class="p">stan akumulatora i sieci,</p></li>
+<li class="list"><p class="p">możliwość sterowania odtwarzaniem multimediów: zmiana głośności, pominięcie ścieżki lub wstrzymanie muzyki bez potrzeby wpisywania hasła.</p></li>
 </ul></div></div></div>
-<p class="p">To unlock your computer, raise the lock screen curtain by dragging it
-  upward with the cursor, or by pressing <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
-  This will reveal the login screen, where you can enter your password to
-  unlock. Alternatively, just start typing your password and the curtain will
-  be automatically raised as you type. You can also switch users if your
-  computer is configured for more than one.</p>
+<p class="p">Aby odblokować komputer, ponieś kurtynę blokady przeciągając ją kursorem do góry albo naciskając klawisz <span class="key"><kbd>Esc</kbd></span> lub <span class="key"><kbd>Enter</kbd></span>. Odsłoni to ekran logowania, w którym można wpisać hasło, aby odblokować. Można także zacząć pisać hasło, a kurtyna zostanie automatycznie podniesiona podczas pisania. Można także przełączyć użytkownika, jeśli komputer ma więcej niż jedno konto.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -103,7 +93,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

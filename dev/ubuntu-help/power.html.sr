@@ -81,7 +81,6 @@
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.sr" title="Искључите некоришћене бежичне технологије"><span class="title">Искључите некоришћене бежичне технологије</span><span class="linkdiv-dash"> — </span><span class="desc">Блутут, бежична и мобилна широкопојасна се могу искључити зарад смањења искоришћености батерије.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.sr" title="Како да замрзнем рачунар?"><span class="title">Како да замрзнем рачунар?</span><span class="linkdiv-dash"> — </span><span class="desc">Замрзавање је унапред искључено зато што није довољно подржано.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.sr" title="Користите мање напајања и побољшајте радни век батерије"><span class="title">Користите мање напајања и побољшајте радни век батерије</span><span class="linkdiv-dash"> — </span><span class="desc">Савети за смањење потрошње напајања вашег рачунара.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.sr" title="Одјављивање, гашење, промена корисника"><span class="title">Одјављивање, гашење, промена корисника</span><span class="linkdiv-dash"> — </span><span class="desc">Сазнајте како да напустите ваш кориснички налог, одјављивањем, променом корисника, и тако даље.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.sr" title="Шта се дешава када обуставим рачунар?"><span class="title">Шта се дешава када обуставим рачунар?</span><span class="linkdiv-dash"> — </span><span class="desc">Обустављање шаље ваш рачунар на спавање тако да користи мање напајања.</span></a></div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

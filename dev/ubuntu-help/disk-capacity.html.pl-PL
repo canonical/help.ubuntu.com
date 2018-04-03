@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Check how much disk space is left</title>
+<title>Sprawdzanie wolnego miejsca na dysku</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,54 +64,40 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Check how much disk space is left</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Sprawdzanie wolnego miejsca na dysku</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can check how much disk space is left with <span class="app">Disk Usage Analyzer</span>
- or <span class="app">System Monitor</span>.</p></div>
+<div class="contents"><p class="p">Można sprawdzić, ile miejsca zostało na dysku za pomocą <span class="app">Analizatora wykorzystania dysku</span> lub <span class="app">Monitora systemu</span>.</p></div>
 <div id="disk-usage-analyzer" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check with Disk Usage Analyzer</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Za pomocą Analizatora wykorzystania dysku</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To check the free disk space and disk capacity using <span class="app">Disk Usage
-  Analyzer</span>:</p>
+<p class="p">Aby sprawdzić wolne miejsce i pojemność dysku za pomocą <span class="app">Analizatora wykorzystania dysku</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Open <span class="app">Disk Usage Analyzer</span> from the <span class="gui">Activities</span>
-      overview. The window will display a list of file locations together with
-      the usage and capacity of each.</p></li>
-<li class="list"><p class="p">Click one of the items in the list to view a detailed summary of the
-      usage for that item. Click the menu button, and then <span class="gui">Scan
-      Folder…</span> or <span class="gui">Scan Remote Folder…</span> to scan a different
-      location.</p></li>
+<li class="list"><p class="p">Otwórz <span class="app">Analizatora wykorzystania dysku</span> z <span class="gui">ekranu podglądu</span>. Okno wyświetli listę położeń plików razem z użyciem i pojemnością każdego.</p></li>
+<li class="list"><p class="p">Kliknij jeden z elementów na liście, aby wyświetlić jego szczegółowe podsumowanie użycia. Kliknij przycisk menu, a następnie <span class="gui">Skanuj katalog…</span> lub <span class="gui">Skanuj zdalny katalog…</span>, aby przeskanować inne położenie.</p></li>
 </ul></div></div></div>
-<p class="p">The information is displayed according to <span class="gui">Folder</span>,
-  <span class="gui">Size</span>, <span class="gui">Contents</span> and when the data was last
-  <span class="gui">Modified</span>. See more details in <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/"><span class="app">Disk
-  Usage Analyzer</span></a></span>.</p>
+<p class="p">Informacje są wyświetlane według <span class="gui">Katalogu</span>, <span class="gui">Rozmiaru</span>, <span class="gui">Zawartości</span> i data ostatniej <span class="gui">Modyfikacji</span>. <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/">Podręcznik <span class="app">Analizatora wykorzystania dysku</span></a></span> zawiera więcej informacji.</p>
 </div></div>
 </div></div>
 <div id="system-monitor" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check with System Monitor</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Za pomocą Monitora systemu</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To check the free disk space and disk capacity with <span class="app">System Monitor</span>:</p>
+<p class="p">Aby sprawdzić wolne miejsce i pojemność dysku za pomocą <span class="app">Monitora systemu</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="app">System Monitor</span> application from the <span class="gui">Activities</span>
-  overview.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
-  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
-  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="app">Monitor systemu</span> z <span class="gui">ekranu podglądu</span>.</p></li>
+<li class="steps"><p class="p">Wybierz kartę <span class="gui">Systemy plików</span>, aby wyświetlić partycje systemu i użycie dysku. Informacje są wyświetlane według wartości <span class="gui">Łącznie</span>, <span class="gui">Wolne</span>, <span class="gui">Dostępne</span> i <span class="gui">Wykorzystane</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="disk-full" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">What if the disk is too full?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Co, jeśli dysk jest pełny?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the disk is too full you should:</p>
+<p class="p">Jeśli dysk jest pełny, należy:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
-<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html.pl-PL" title="Tworzenie kopii zapasowych ważnych plików">backups</a></span> of the important files that
-   you won’t need for a while and delete them from the hard drive.</p></li>
+<li class="list"><p class="p">Usunąć mało ważne lub nieużywane pliki.</p></li>
+<li class="list"><p class="p">Wykonać <span class="link"><a href="backup-why.html.pl-PL" title="Tworzenie kopii zapasowych ważnych plików">kopie zapasowe</a></span> ważnych plików, które nie będą potrzebne przez jakiś czas, i usunąć je z dysku twardego.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -120,12 +106,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html.pl-PL" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.pl-PL" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.pl-PL" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.pl-PL" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.pl-PL" title="Sprawdzanie wolnego miejsca na dysku">Miejsce na dysku</a></span>, <span class="link"><a href="disk-benchmark.html.pl-PL" title="Testowanie wydajności dysku twardego">wydajność</a></span>, <span class="link"><a href="disk-check.html.pl-PL" title="Sprawdzanie, czy dysk twardy sprawia problemy">problemy</a></span>, <span class="link"><a href="disk-partitions.html.pl-PL" title="Zarządzanie woluminami i partycjami">woluminy i partycje</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -136,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -80,24 +80,15 @@
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">Suurentaaksesi ikkunan, tartu ikkunan ikkunapalkista kiinni ja vedä ikkuna näytön yläosaan.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="10" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="10" data-ttml-end="13">Kun ikkuna korostuu, vapauta se hiiren napista.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">Palauttaaksesi ikkunan koon, tartu ikkunan ikkunapalkista kiinni ja vedä ikkuna pois näytön reunasta.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">You can also click the top bar to drag the window away and
-            unmaximize it.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">Voit myös napsauttaa yläpalkkia vetääksesi ikkunan pois ja siten palauttaaksesi ikkunan koon.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">Suurentaaksesi ikkunan näytön vasempaan laitaan, tartu kiinni ikkunan ikkunapalkista ja vedä se näytön vasempaan laitaan.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="38" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="38" data-ttml-end="40">Kun puolet näytöstä on korostettuna, vapauta ikkuna.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">Suurentaaksesi ikkunan näytön oikeaan laitaan, tartu kiinni ikkunan ikkunapalkista ja vedä se näytön oikeaan laitaan.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="44" data-ttml-end="48"><div class="media-ttml-node media-ttml-p" data-ttml-begin="44" data-ttml-end="48">Kun puolet näytöstä on korostettuna, vapauta ikkuna.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="54" data-ttml-end="60"><div class="media-ttml-node media-ttml-p" data-ttml-begin="54" data-ttml-end="60">To maximize a window using the keyboard, hold down the
-            <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key and
-            press <span class="key"><kbd>↑</kbd></span>.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="61" data-ttml-end="66"><div class="media-ttml-node media-ttml-p" data-ttml-begin="61" data-ttml-end="66">To restore the window to its unmaximized size, hold down the
-            <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key and
-            press <span class="key"><kbd>↓</kbd></span>.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="66" data-ttml-end="73"><div class="media-ttml-node media-ttml-p" data-ttml-begin="66" data-ttml-end="73">To maximize a window along the right side of the screen, hold
-            down the <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>
-            key and press <span class="key"><kbd>→</kbd></span>.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="76" data-ttml-end="82"><div class="media-ttml-node media-ttml-p" data-ttml-begin="76" data-ttml-end="82">To maximize a window along the left side of the screen, hold
-            down the <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>
-            key and press <span class="key"><kbd>←</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="54" data-ttml-end="60"><div class="media-ttml-node media-ttml-p" data-ttml-begin="54" data-ttml-end="60">Suurenna ikkuna näppäimistöä käyttäen pitämällä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja painamalla nuolinäppäintä <span class="key"><kbd>↑</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="61" data-ttml-end="66"><div class="media-ttml-node media-ttml-p" data-ttml-begin="61" data-ttml-end="66">Palauttaaksesi ikkunan koon, pidä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja paina nuolinäppäintä <span class="key"><kbd>↓</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="66" data-ttml-end="73"><div class="media-ttml-node media-ttml-p" data-ttml-begin="66" data-ttml-end="73">Suurentaaksesi ikkunan näytön oikeaan laitaan, pidä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja paina nuolinäppäintä <span class="key"><kbd>→</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="76" data-ttml-end="82"><div class="media-ttml-node media-ttml-p" data-ttml-begin="76" data-ttml-end="82">Suurentaaksesi ikkuna näytön vasempaan laitaan, pidä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja paina nuolinäppäintä <span class="key"><kbd>←</kbd></span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="83" data-ttml-end="89"><div class="media-ttml-node media-ttml-p" data-ttml-begin="83" data-ttml-end="89">Siirtyäksesi nykyisen työtilan alla olevaan työtilaan, paina  <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span>+<span class="key"><kbd>Page Down</kbd></span></span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="90" data-ttml-end="97"><div class="media-ttml-node media-ttml-p" data-ttml-begin="90" data-ttml-end="97">Siirtyäksesi nykyisen työtilan yllä olevaan työtilaan, paina <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>.</div></div>
 </div>
@@ -110,47 +101,35 @@
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Suurentaaksesi ikkunan koko työpöydälle, tartu ikkunan ikkunapalkista kiinni ja vedä ikkuna näytön yläosaan.</p></li>
-<li class="steps"><p class="p">When the screen is highlighted, release the window to maximize
-       it.</p></li>
+<li class="steps"><p class="p">Kun näyttö on korostettu, vaputa ikkuna suurentaaksesi sen.</p></li>
 <li class="steps"><p class="p">Palauttaaksesi ikkunan sen suurentamattomaan kokoon, tartu ikkunan ikkunapalkista kiinni ja vedä ikkuna pois näytön reunasta.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="use-workspaces-and-windows-tile" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Tile windows</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Laatoita ikkunoita</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Suurentaaksesi ikkunan näytön laitaan, tartu ikkunan ikkunapalkista kiinni ja vedä ikkuna joko näytön vasempaan tai oikeaan laitaan.</p></li>
-<li class="steps"><p class="p">When half of the screen is highlighted, release the window to
-       maximize it along the selected side of the screen.</p></li>
-<li class="steps"><p class="p">To maximize two windows side-by-side, grab the titlebar of the
-       second window and drag it to the opposite side of the screen.</p></li>
-<li class="steps"><p class="p">When half of the screen is highlighted, release the window to
-        maximize it along the opposite side of the screen.</p></li>
+<li class="steps"><p class="p">Kun puolet näytöstä on korostettuna, vapauta ikkuna suurentaaksesi sen valitulle puolelle näyttöä.</p></li>
+<li class="steps"><p class="p">Suurentaaksesi kaksi ikkunaa vierekkäinen, tartu kiinni toisen ikkunan ikkunapalkista ja vedä se vastapuolelle näyttöä.</p></li>
+<li class="steps"><p class="p">Kun puolet näytöstä on korostettuna, vapauta ikkuna suurentaaksesi sen vastapuolelle näyttöä.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="use-workspaces-and-windows-maximize-keyboard" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Suurenna ikkunat ja palauta niiden koko näppäimistöä käyttäen</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">To maximize a window using the keyboard, hold down the
-       <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key and press
-       <span class="key"><kbd>↑</kbd></span>.</p></li>
-<li class="steps"><p class="p">To unmaximize a window using the keyboard, hold down the
-      <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key and press
-      <span class="key"><kbd>↓</kbd></span>.</p></li>
+<li class="steps"><p class="p">Suurenna ikkuna näppäimistöä käyttäen pitämällä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja painamalla nuolinäppäintä <span class="key"><kbd>↑</kbd></span>.</p></li>
+<li class="steps"><p class="p">Palauta ikkunan koko näppäimistöä käyttäen pitämällä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja painamalla nuolinäppäintä <span class="key"><kbd>↓</kbd></span>.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div id="use-workspaces-and-windows-tile-keyboard" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Tile windows using the keyboard</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Laatoita ikkunoita näppäimistöllä</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">To maximize a window along the right side of the screen, hold 
-      down the <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key
-      and press <span class="key"><kbd>→</kbd></span>.</p></li>
-<li class="steps"><p class="p">To maximize a window along the left side of the screen, hold
-      down the <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key
-      and press <span class="key"><kbd>←</kbd></span>.</p></li>
+<li class="steps"><p class="p">Suurentaaksesi ikkunan näytön oikeaan laitaan, pidä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja paina nuolinäppäintä <span class="key"><kbd>→</kbd></span>.</p></li>
+<li class="steps"><p class="p">Suurentaaksesi ikkuna näytön vasempaan laitaan, pidä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja paina nuolinäppäintä <span class="key"><kbd>←</kbd></span>.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div id="use-workspaces-and-windows-workspaces-keyboard" class="sect"><div class="inner">
@@ -187,7 +166,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -94,7 +94,7 @@
 <li class="steps">
 <p class="p">Cliqueu <span class="gui">Afegeix</span> i entre la línia APT per al dipòsit. Això hauria d'estar disponible al lloc web del dipòsit, i hauria de ser semblant a:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Cliqueu <span class="gui">Afegir font</span> i tanqueu la finestra de  <span class="app">Programari i actualitzacions</span>. El <span class="app">Programari de l'Ubuntu</span> cercarà noves actualitzacions a les fonts de programari.</p></li>
@@ -104,10 +104,16 @@
 <div id="canonical-partner" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Activa el dipòsit Socis de Canonical</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">El dipòsit Canonical Partner ofereix algunes aplicacions propietàries que son gratis però de codi tancat. Incou programari com el <span class="app">Skype</span> i l'<span class="app">Adobe Flash Plugin</span>. El programari a aquest dipòsit apareixerà a les cerques de resultats al <span class="app">Programari de l'Ubuntu</span> però no es podrà instal·lar fins que s'habiliti aquest dipòsit.</p>
+<p class="p">
+      The Canonical Partner repository offers some proprietary applications 
+      that don't cost any money to use but are closed source. They include 
+      software like <span class="app">Adobe Flash Plugin</span>. Software in this
+      repository will appear in <span class="app">Ubuntu Software</span> search results
+      but won't be installable until this repository is enabled.
+    </p>
 <p class="p">Per habilitar el repositori, seguiu els passos de dalt per obrir la pestanya <span class="gui">Altre programari</span> a <span class="app">Programari i actualitzacions</span>. Si veieu el repositori <span class="gui">Socis de Canonical</span> a la llista, assegureu-vos que està marcat i després tanqueu la finestra <span class="app">Programari i actualitzacions</span>. Si no el veieu, cliqueu <span class="gui">Afegeix</span> i entreu:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
 <p class="p">Cliqueu <span class="gui">Afegeix font</span> i després tanqueu la finestra <span class="app">Programari i actualitzacions</span>. Espereu un moment que el <span class="app">Programari de l'Ubuntu</span> descarregui la informació del repositori.</p>
 </div></div>
@@ -143,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

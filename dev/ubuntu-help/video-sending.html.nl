@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Other people can’t play the videos I made</title>
+<title>Anderen kunnen mijn video's niet afspelen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#videos" title="Video's en videocamera's">Video's</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#videos" title="Video's en videocamera's">Video's</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Anderen kunnen mijn video's niet afspelen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Als u een op uw Linux-computer gemaakte video stuurt naar iemand die Windows of Mac OS gebruikt, dan kan het zijn dat zij problemen ondervinden bij het afspelen van de video.</p>
@@ -77,26 +77,9 @@
 <li class="list"><p class="p">Klik met uw rechtermuisknop op het videobestand en selecteer daarna <span class="gui">Eigenschappen</span>.</p></li>
 <li class="list"><p class="p">Ga naar het tabblad <span class="gui">Audio/video</span> of <span class="gui">Video</span> en kijk welke <span class="gui">codec</span> er bij <span class="gui">Video</span> en <span class="gui">Audio</span> staat (als de video ook audio heeft).</p></li>
 </ul></div></div></div>
-<p class="p">Ask the person having problems with playback if they have the right codec
-  installed. They may find it helpful to search the web for the name of the
-  codec plus the name of their video playback application. For example, if your
-  video uses the <span class="em">Theora</span> format and you have a friend using Windows
-  Media Player to try and watch it, search for “theora windows media player”.
-  You will often be able to download the right codec for free if it’s not
-  installed.</p>
-<p class="p">If you can’t find the right codec, try the
-  <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span>. It works
-  on Windows and Mac OS as well as Linux, and supports a lot of different video
-  formats. Failing that, try converting your video into a different format.
-  Most video editors are able to do this, and specific video converter
-  applications are available. Check the software installer application to see
-  what’s available.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">There are a few other problems which might prevent someone from playing
-    your video. The video could have been damaged when you sent it to them
-    (sometimes big files aren’t copied across perfectly), they could have
-    problems with their video playback application, or the video may not have
-    been created properly (there could have been some errors when you saved the
-    video).</p></div></div></div></div>
+<p class="p">Vraag degene die problemen heeft met het afspelen of die de juiste codec heeft geïnstalleerd. De ontvanger kan gebaat zijn bij het zoeken op internet naar de naam van de codec plus de naam van de door hem gebruikte video-afspeeltoepassing. Een voorbeeld: als uw video het <span class="em">Theora</span>-formaat gebruikt en u heeft een vriend die hem probeert te bekijken in Windows Media Player, zoek dan naar ‘theora windows media player’. In veel gevallen zult u kosteloos de juiste codec kunnen downloaden als die niet geïnstalleerd is.</p>
+<p class="p">Als u niet de juiste codec kunt vinden, probeer dan de <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC-mediaspeler</a></span>. Deze werkt zowel op Windows als Mac OS en Linux en ondersteunt een groot aantal videoformaten. U kunt ook proberen uw video te converteren naar een ander formaat. De meeste video-editors kunnen dit en er zijn ook speciale toepassingen om video's te converteren. Ga in de software-installatietoepassing na wat er beschikbaar is.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Er kunnen zich nog een paar andere problemen voordoen waardoor anderen uw video niet kunnen afspelen. De video kan tijdens het toesturen beschadigd geraakt zijn (soms worden grote bestanden niet helemaal goed overgezet), de ontvanger kan problemen hebben met de video-afspeeltoepassing, of het kan zijn dat de video niet op de juiste manier aangemaakt is (er kunnen fouten zijn opgetreden bij het opslaan van de video).</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -112,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

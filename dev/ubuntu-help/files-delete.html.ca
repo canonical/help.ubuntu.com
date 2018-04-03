@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Delete files and folders</title>
+<title>Eliminar fitxers i carpetes.</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,49 +67,33 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Delete files and folders</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Eliminar fitxers i carpetes.</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you do not want a file or folder any more, you can delete it. When you
-  delete an item it is moved to the <span class="gui">Trash</span> folder, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html.ca" title="Recover a file from the Trash">restore
-  items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
-  decide you need them, or if they were accidentally deleted.</p>
+<p class="p">Si ja no voleu un arxiu o una carpeta, podeu suprimir-lo. Quan suprimiu un ítem, es desplaça a la carpeta anomenada <span class="gui">Paperera</span>, on s'emmagatzema fins que es buidi la paperera. Podeu <span class="link"><a href="files-recover.html.ca" title="Recupera un fitxer de la Paperera">restaurar elements</a></span> de la <span class="gui">Paperera</span> a la seva ubicació original si decidiu que els necessiteu o si els vàreu eliminar accidentalment.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To send a file to the trash:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Per enviar un fitxer a la paperera:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Feu un sol clic a l'element que voleu enviar a la paperera per seleccionar-lo.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Delete</kbd></span> on your keyboard. Alternatively, drag the
-    item to the <span class="gui">Trash</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Premeu <span class="key"><kbd>Esborrar</kbd></span> al teclat. Com alternativa, arrossegueu l'element a la<span class="gui">Paperera</span>a la barra lateral.</p></li>
 </ol></div>
 </div></div>
-<p class="p">The file will be moved to the trash, and you’ll be presented with an
-  option to <span class="gui">Undo</span> the deletion. The <span class="gui">Undo</span> button will appear
-  for a few seconds. If you select <span class="gui">Undo</span>, the file will be restored
-  to its original location.</p>
-<p class="p">To delete files permanently, and free up disk space on your computer, you
-  need to empty the trash. To empty the trash, right-click <span class="gui">Trash</span> in
-  the sidebar and select <span class="gui">Empty Trash</span>.</p>
+<p class="p">El fitxer es traslladarà a la paperera i s'ús presentarà una opció<span class="gui">Desfer</span> l'esborrat. El botó <span class="gui">Desfer</span> apareix uns segons. Si seleccioneu <span class="gui">Desfer</span>, el fitxer es restaurarà a la seva ubicació original.</p>
+<p class="p">Per eliminar els fitxers permanentment i alliberar espai al disc a l'ordinador, heu de buidar la paperera. Per buidar la paperera, feu clic amb el botó de la dreta <span class="gui">Paperera</span> a la barra lateral i seleccioneu <span class="gui">Buidar paperera</span>.</p>
 </div>
 <div id="permanent" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Permanently delete a file</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Suprimeix un fitxer permanentment</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can immediately delete a file permanently, without having to send it
-    to the trash first.</p>
+<p class="p">Podeu eliminar immediatament un fitxer de forma permanent, sense haver d'enviar-lo primer a la paperera.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To permanently delete a file:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Per suprimir un fitxer de forma permanent:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the item you want to delete.</p></li>
-<li class="steps"><p class="p">Press and hold the <span class="key"><kbd>Shift</kbd></span> key, then press the
-    <span class="key"><kbd>Delete</kbd></span> key on your keyboard.</p></li>
-<li class="steps"><p class="p">Because you cannot undo this, you will be asked to confirm that
-    you want to delete the file or folder.</p></li>
+<li class="steps"><p class="p">Seleccioneu l'element que voleu suprimir.</p></li>
+<li class="steps"><p class="p">Mantingui premuda la tecla <span class="key"><kbd>Shift</kbd></span>, aleshores premi la tecla <span class="key"><kbd>Esborrar</kbd></span> del seu teclat.</p></li>
+<li class="steps"><p class="p">Com que no ho podeu desfer, s'ús demanarà que confirmeu que voleu eliminar el fitxer o la carpeta</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Deleted files on a <span class="link"><a href="files.html.ca#removable" title="Removable drives and external disks">removable device
-  </a></span> may not be visible on other operating systems, such Windows or Mac
-  OS. The files are still there, and will be available when you plug the device
-  back into your computer.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Els fitxers esborrats als <span class="link"><a href="files.html.ca#removable" title="Removable drives and external disks">dispositius extraïbles</a></span> poden no ser visibles en altres sistemes operatius, com Windows o Mac OS. Els fitxers encara hi són i estaran disponibles quan torneu a connectar el dispositiu al vostre ordinador.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -122,10 +106,9 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.ca#trash" title="Trash">File manager trash preferences</a></li>
+<li class="links "><a href="nautilus-behavior.html.ca#trash" title="Paperera">Preferències de paperera de l'administrador de fitxers</a></li>
 <li class="links ">
-<a href="files-recover.html.ca" title="Recover a file from the Trash">Recover a file from the Trash</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
-    recovered.</span>
+<a href="files-recover.html.ca" title="Recupera un fitxer de la Paperera">Recupera un fitxer de la Paperera</a><span class="desc"> — Els fitxers esborrats normalment s'envien a la Paperera, però es poden recuperar.</span>
 </li>
 </ul></div>
 </div></div>
@@ -138,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

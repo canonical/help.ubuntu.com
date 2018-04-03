@@ -72,15 +72,16 @@
 <div class="contents"><p class="p">A DVD-támogatás jogi és technikai korlátozások miatt nem használható alapesetben Ubuntun. A legtöbb kereskedelmi forgalomban lévő DVD titkosított, és a lejátszásukhoz visszafejtő szoftver szükséges.</p></div>
 <div id="fluendo" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">A Fluendo használata DVD-k legális lejátszásához</span></h2></div>
-<div class="region"><div class="contents"><p class="p">A másolásvédelem kezelését például a <span class="link"><a href="https://apps.ubuntu.com/cat/applications/fluendo-dvd" title="https://apps.ubuntu.com/cat/applications/fluendo-dvd">Fluendo</a></span> kereskedelmi DVD dekódolójával oldhatja meg. Ez Linuxon is működik, és minden országban legális használni.</p></div></div>
+<div class="region"><div class="contents"><p class="p">You can buy a commercial DVD decoder that can handle copy protection from <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. It works with Linux and should be legal to use in all countries.</p></div></div>
 </div></div>
 <div id="restricted" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Alternatív visszafejtő szoftverek használata</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-warning" title="Figyelmeztetés"><div class="inner"><div class="region"><div class="contents"><p class="p">Néhány országban az alábbi, licenc nélküli visszafejtő szoftverek használata nem legális, Magyarországon legális. Ellenőrizze, hogy jogában áll-e használni ezeket.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Telepítse a <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvdnav4" title="https://apps.ubuntu.com/cat/applications/libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvdread4" title="https://apps.ubuntu.com/cat/applications/libdvdread4">libdvdread4</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-bad" title="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/gstreamer-plugins-ugly" title="https://apps.ubuntu.com/cat/applications/gstreamer-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> és <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvd-pkg" title="https://apps.ubuntu.com/cat/applications/libdvd-pkg">libdvd-pkg</a></span> csomagokat.</p></li>
-<li class="steps"><p class="p">Nyissa meg a Dasht, és indítsa el a <span class="app">Terminált</span>.</p></li>
+<li class="steps"><p class="p">Telepítse a <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer-plugins-ugly" title="apt:gstreamer-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> és <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span> csomagokat.</p></li>
+<li class="steps"><p class="p">Open a terminal window by pressing
+   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Adja ki a következő parancsot</p>
 <p class="p"><span class="cmd">sudo dpkg-reconfigure libdvd-pkg</span></p>
@@ -111,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

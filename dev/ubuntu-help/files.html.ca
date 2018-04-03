@@ -74,15 +74,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Common tasks</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-browse.html.ca" title="Browse files and folders"><span class="title">Browse files and folders</span><span class="linkdiv-dash"> — </span><span class="desc">Manage and organize files with the file manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-copy.html.ca" title="Copy or move files and folders"><span class="title">Copy or move files and folders</span><span class="linkdiv-dash"> — </span><span class="desc">Copy or move items to a new folder.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-delete.html.ca" title="Delete files and folders"><span class="title">Delete files and folders</span><span class="linkdiv-dash"> — </span><span class="desc">Remove files or folders you no longer need.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-preview.html.ca" title="Preview files and folders"><span class="title">Preview files and folders</span><span class="linkdiv-dash"> — </span><span class="desc">Quickly show and hide previews for documents, images, videos, and
-    more.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-rename.html.ca" title="Canvieu el nom d'un fitxer o carpeta"><span class="title">Canvieu el nom d'un fitxer o carpeta</span><span class="linkdiv-dash"> — </span><span class="desc">Canvieu el nom del fitxer o la carpeta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.ca" title="Cerca fitxers"><span class="title">Cerca fitxers</span><span class="linkdiv-dash"> — </span><span class="desc">Localitzi fitxers basats en el nom i el tipus de fitxer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-copy.html.ca" title="Copieu o moveu arxius i carpetes."><span class="title">Copieu o moveu arxius i carpetes.</span><span class="linkdiv-dash"> — </span><span class="desc">Copieu o moveu elements a una carpeta nova.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html.ca" title="Eliminar fitxers i carpetes."><span class="title">Eliminar fitxers i carpetes.</span><span class="linkdiv-dash"> — </span><span class="desc">Eliminar els arxius o carpetes que ja no necessitareu.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-rename.html.ca" title="Rename a file or folder"><span class="title">Rename a file or folder</span><span class="linkdiv-dash"> — </span><span class="desc">Change file or folder name.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-search.html.ca" title="Search for files"><span class="title">Search for files</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html.ca" title="Navega per fitxers i carpetes"><span class="title">Navega per fitxers i carpetes</span><span class="linkdiv-dash"> — </span><span class="desc">Gestioneu i organitzeu fitxers amb el gestor de fitxers.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-preview.html.ca" title="Previsualitza fitxers i carpetes"><span class="title">Previsualitza fitxers i carpetes</span><span class="linkdiv-dash"> — </span><span class="desc">Mostra i amaga ràpidament previsualitzacions de documents, imatges, vídeos i més.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-sort.html.ca" title="Sort files and folders"><span class="title">Sort files and folders</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange files by name, size, type, or when they were changed.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -91,36 +90,30 @@
 <div class="hgroup"><h2 class="title"><span class="title">More file-related tasks</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.ca" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
-    shares, or WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.ca" title="Escriure fitxers en un CD o DVD"><span class="title">Escriure fitxers en un CD o DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Col·loqueu fitxers i documents en un CD o DVD en blanc utilitzant un gravador de CD / DVD.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.ca" title="File manager preferences"><span class="title">File manager preferences</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.ca" title="File properties"><span class="title">File properties</span><span class="linkdiv-dash"> — </span><span class="desc">View basic file information, set permissions, and choose
     default applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html.ca" title="Find a lost file"><span class="title">Find a lost file</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
-    downloaded.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-open.html.ca" title="Open files with other applications"><span class="title">Open files with other applications</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
-    type of file. You can change the default too.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.ca" title="Navega per fitxers en un servidor o en una xarxa compartida"><span class="title">Navega per fitxers en un servidor o en una xarxa compartida</span><span class="linkdiv-dash"> — </span><span class="desc">Permet visualitzar i editar fitxers en una altra computadora a través de FTP, SSH, Windowsshares  o WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html.ca" title="Obriu fitxers amb altres aplicacions"><span class="title">Obriu fitxers amb altres aplicacions</span><span class="linkdiv-dash"> — </span><span class="desc">Obriu fitxers amb una aplicació que no sigui la predeterminada per a aquest tipus de fitxer. També podeu canviar el valor per defecte.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.ca" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
     from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-recover.html.ca" title="Recover a file from the Trash"><span class="title">Recover a file from the Trash</span><span class="linkdiv-dash"> — </span><span class="desc">Deleted files are normally sent to the Trash, but can be
-    recovered.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html.ca" title="Recupera un fitxer de la Paperera"><span class="title">Recupera un fitxer de la Paperera</span><span class="linkdiv-dash"> — </span><span class="desc">Els fitxers esborrats normalment s'envien a la Paperera, però es poden recuperar.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-share.html.ca" title="Share files by email"><span class="title">Share files by email</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
     manager.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.ca" title="Trobar un fitxer perdut"><span class="title">Trobar un fitxer perdut</span><span class="linkdiv-dash"> — </span><span class="desc">Seguiu aquests consells si no podeu trobar un fitxer que hagueu creat o baixat.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.ca" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.ca" title="Write files to a CD or DVD"><span class="title">Write files to a CD or DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Put files and documents onto a blank CD or DVD using a CD/DVD
-    burner.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="removable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Removable drives and external disks</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ca" title="Open applications for devices or discs"><span class="title">Open applications for devices or discs</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically run applications for CDs and DVDs, cameras,
-    audio players, and other devices and media.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.ca" title="Safely remove an external drive"><span class="title">Safely remove an external drive</span><span class="linkdiv-dash"> — </span><span class="desc">Eject or unmount a USB flash drive, CD, DVD, or other device.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ca" title="Obrir aplicacions per a dispositius o discos"><span class="title">Obrir aplicacions per a dispositius o discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executa automàticament aplicacions per a CD i DVD, càmeres, reproductors d'àudio i altres dispositius i suports.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.ca" title="Traieu amb seguretat un disc extern"><span class="title">Traieu amb seguretat un disc extern</span><span class="linkdiv-dash"> — </span><span class="desc">Expulsa o desmunta una unitat USB flash, CD, DVD o un altre dispositiu.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="backup" class="sect"><div class="inner">
@@ -129,8 +122,7 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="backup-check.html.ca" title="Comprovar la còpia de seguretat"><span class="title">Comprovar la còpia de seguretat</span><span class="linkdiv-dash"> — </span><span class="desc">Com verificar que la còpia de seguretat s'ha fet correctament.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="backup-why.html.ca" title="Fer còpies de seguretat dels fitxers importants"><span class="title">Fer còpies de seguretat dels fitxers importants</span><span class="linkdiv-dash"> — </span><span class="desc">Per què, què, on i quan fer còpies de seguretat.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.ca" title="Freqüència de les còpies de seguretat"><span class="title">Freqüència de les còpies de seguretat</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how often you should backup your important files to make sure
-    that they are safe.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.ca" title="Freqüència de les còpies de seguretat"><span class="title">Freqüència de les còpies de seguretat</span><span class="linkdiv-dash"> — </span><span class="desc">Conegueu amb quina freqüència hauríeu de fer còpia de seguretat dels vostres fitxers importants per assegurar-vos que estiguin protegits.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.ca" title="On puc trobar els fitxers que vull desar en una còpia de seguretat?"><span class="title">On puc trobar els fitxers que vull desar en una còpia de seguretat?</span><span class="linkdiv-dash"> — </span><span class="desc">Llista de directoris on podeu trobar documents, fitxers i paràmetres de configuració dels que possiblement voldreu tenir una còpia de seguretat.</span></a></div>
@@ -142,11 +134,9 @@
 <div class="hgroup"><h2 class="title"><span class="title">Tips and questions</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.ca" title="Edit folder bookmarks"><span class="title">Edit folder bookmarks</span><span class="linkdiv-dash"> — </span><span class="desc">Add, delete, and rename bookmarks in the file manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.ca" title="Hide a file"><span class="title">Hide a file</span><span class="linkdiv-dash"> — </span><span class="desc">Make a file invisible, so you cannot see it in the file
-    manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-select.html.ca" title="Select files by pattern"><span class="title">Select files by pattern</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> to select multiple
-    files which have similar names.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.ca" title="Edita els marcadors de la carpeta"><span class="title">Edita els marcadors de la carpeta</span><span class="linkdiv-dash"> — </span><span class="desc">Afegiu, suprimiu i canvieu el nom dels marcadors al gestor de fitxers.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.ca" title="Ocultar el fitxer"><span class="title">Ocultar el fitxer</span><span class="linkdiv-dash"> — </span><span class="desc">Fer un fitxer invisible, de manera que no el podreu veure al gestor de fitxers.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-select.html.ca" title="Seleccioneu fitxers segons un patró"><span class="title">Seleccioneu fitxers segons un patró</span><span class="linkdiv-dash"> — </span><span class="desc">Premi <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> per seleccionar múltiple fitxers amb noms similars.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.ca" title="Set file permissions"><span class="title">Set file permissions</span><span class="linkdiv-dash"> — </span><span class="desc">Control who can view and edit your files and folders.</span></a></div>
@@ -169,7 +159,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

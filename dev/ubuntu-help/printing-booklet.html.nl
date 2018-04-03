@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print a booklet</title>
+<title>Een boekje afdrukken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,35 +64,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Print a booklet</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een boekje afdrukken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can print a booklet from a PDF.</p>
-<p class="p">If you want to print a booklet from a <span class="app">LibreOffice</span> document,
-  first export it to a PDF by choosing <span class="guiseq"><span class="gui">File</span> ▸ <span class="gui">Export
-  as PDF…</span></span>. Your document needs to have a multiple of 4
-  number of pages (4, 8, 12, 16,…). You may need to add up to 3 blank
-  pages.</p>
-<p class="p">If the number of pages in your PDF document is not a multiple of 4, you
-  should add the appropriate number of blank pages (1,2 or 3) to make it a
-  multiple of 4. To do so, you can:</p>
+<p class="p">U kunt een boekje afdrukken van een PDF-document.</p>
+<p class="p">Als u een boekje wilt afdrukken van een <span class="app">LibreOffice</span>-document, dan moet u het eerst exporteren naar een PDF via <span class="guiseq"><span class="gui">Bestand</span> ▸ <span class="gui">Exporteren als PDF…</span></span>. Uw document moet een veelvoud van 4 pagina's bevatten (4, 8, 12, 16,…). Het kan zijn dat u tot 3 lege pagina's moet toevoegen.</p>
+<p class="p">Als het aantal pagina's in uw PDF-document geen veelvoud van 4 is, dan dient u het juiste aantal lege pagina's (1, 2 of 3) toe te voegen om er een veelvoud van 4 van te maken. Om dit te doen kunt u:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Create a <span class="app">LibreOffice</span> document with the number (1-3) of
-      blank pages needed.</p></li>
-<li class="steps"><p class="p">Export the blank pages to a PDF by choosing <span class="guiseq"><span class="gui">File</span> ▸ <span class="gui">Export as PDF…</span></span>.</p></li>
-<li class="steps"><p class="p">Merge the blank pages with your PDF document using
-      <span class="app">PDF-Shuffler</span> or <span class="app">PDF Mod</span>, placing the blank pages at
-      the end.</p></li>
+<li class="steps"><p class="p">Maak een <span class="app">LibreOffice</span>-document aan met het benodigde aantal (1-3) lege pagina's.</p></li>
+<li class="steps"><p class="p">Exporteer de lege pagina's naar een PDF door <span class="guiseq"><span class="gui">Bestand</span> ▸ <span class="gui">Exporteren als PDF…</span></span> te kiezen.</p></li>
+<li class="steps"><p class="p">Voeg de lege pagina's samen met uw PDF-document met <span class="app">PDF-Shuffler</span> of <span class="app">PDF Mod</span>, waarbij u de lege pagina's aan het einde plaatst.</p></li>
 </ol></div></div></div>
-<p class="p">Select the type of printer you will be using for printing from the list
-  below:</p>
+<p class="p">Selecteer het type printer dat u wilt gebruiken om af te drukken uit onderstaande lijst:</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet-singlesided.html.nl" title="Een boek afdrukken met een enkelzijdige printer."><span class="title">Een boek afdrukken met een enkelzijdige printer.</span><span class="linkdiv-dash"> — </span><span class="desc">Print a booklet from a PDF using a single-sided printer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet-duplex.html.nl" title="Print a booklet on a double-sided printer"><span class="title">Print a booklet on a double-sided printer</span><span class="linkdiv-dash"> — </span><span class="desc">Print folded booklets (like a book or pamphlet) from a PDF using normal
-    A4/Letter-size paper.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet-duplex.html.nl" title="Een boekje afdrukken met een dubbelzijdige printer"><span class="title">Een boekje afdrukken met een dubbelzijdige printer</span><span class="linkdiv-dash"> — </span><span class="desc">Gevouwen boekjes (zoals een boek of een pamflet) afdrukken vanuit een PDF-bestand met normaal papier van A4-/Letter-formaat.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet-singlesided.html.nl" title="Een boekje afdrukken op een enkelzijdige printer"><span class="title">Een boekje afdrukken op een enkelzijdige printer</span><span class="linkdiv-dash"> — </span><span class="desc">Een boekje afdrukken van een PDF met een enkelzijdige printer.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -109,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

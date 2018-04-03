@@ -72,6 +72,7 @@
 <div class="contents">
 <p class="p">Flash est un <span class="em">module complémentaire</span> pour votre navigateur Internet qui vous permet de voir des vidéos et d'utiliser des pages interactives sur certains sites. Même si le HTML5, qui est une solution plus moderne, est de plus en plus proposée, il existe toujours certains sites Internet qui ne fonctionneront pas sans Flash.</p>
 <p class="p">Si vous n'avez pas Flash installé, vous verrez certainement un message vous en informant lorsque vous visitez des sites web qui le requiert. Flash est disponible gratuitement (mais pas sous licence libre) au téléchargement pour la plupart des navigateurs.</p>
+<div class="note note-warning" title="Avertissement"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe a annoncé la fin de la mise à jour et de la distribution de Flash Player d'ici la fin 2020. Par conséquent, pour des raisons de sécurité, le greffon Flash ne devrait plus être utilisé après 2020.</p></div></div></div></div>
 <p class="p">Il existe deux types de modules complémentaires :</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="em">NPAPI</span> pour <span class="app">Firefox</span> et les autres navigateurs Internet basés sur Gecko</p></li>
@@ -81,7 +82,8 @@
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Le paquet <span class="app">flashplugin-installer</span> fournit le module complémentaire NPAPI pour Firefox. Si vous avez choisi d'installer certains logiciels tiers lors de l'installation d'Ubuntu, <span class="app">flashplugin-installer</span> est probablement déjà installé. Sinon, vous pouvez <span class="link"><a href="https://apps.ubuntu.com/cat/applications/flashplugin-installer" title="https://apps.ubuntu.com/cat/applications/flashplugin-installer">l'installer</a></span> et redémarrer votre ordinateur.</p></div></div>
+<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox.
+ <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Install the package</a></span> and restart your browser.</p></div></div>
 </div></div>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>
@@ -89,7 +91,7 @@
 <p class="p">Le paquet <span class="app">adobe-flashplugin</span> fournit les modules complémentaires NPAPI et PPAPI, c'est à dire Flash à la fois pour des navigateurs de type Firefox et de type Chromium.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Assurez-vous que le <span class="link"><a href="addremove-sources.html.fr#canonical-partner" title="Activer le dépôt des partenaires de Canonical">dépôt Partenaires de Canonical est activé</a></span>.</p></li>
-<li class="steps"><p class="p">Installer le paquet <span class="link"><a href="https://apps.ubuntu.com/cat/applications/adobe-flashplugin" title="https://apps.ubuntu.com/cat/applications/adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
+<li class="steps"><p class="p">Installer le paquet <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
 <li class="steps"><p class="p">Redémarrez votre navigateur.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -127,7 +129,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

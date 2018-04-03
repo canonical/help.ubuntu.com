@@ -64,15 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Region i język</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="session-formats.html.pl-PL" title="Change date and measurement formats"><span class="title">Change date and measurement formats</span><span class="linkdiv-dash"> — </span><span class="desc">Choose a region used for date and time, numbers, currency,
-    and measurement.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts"><span class="title">Use alternative keyboard layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.pl-PL" title="Alternatywne układy klawiatury"><span class="title">Alternatywne układy klawiatury</span><span class="linkdiv-dash"> — </span><span class="desc">Dodawanie układów klawiatury i przełączanie między nimi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-formats.html.pl-PL" title="Zmiana formatu daty i jednostek"><span class="title">Zmiana formatu daty i jednostek</span><span class="linkdiv-dash"> — </span><span class="desc">Wybór regionu używanego dla formatu daty i czasu, liczb, waluty i jednostek miary.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-language.html.pl-PL" title="Zmiana używanego języka"><span class="title">Zmiana używanego języka</span><span class="linkdiv-dash"> — </span><span class="desc">Przełączenie na innych język interfejsu użytkownika i pomocy.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -87,7 +86,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language-install.html.pl-PL" title="Install languages">Install languages</a><span class="desc"> — Install more translations and related language support packages.</span>
+<a href="prefs-language-install.html.pl-PL" title="Instalacja języków">Instalacja języków</a><span class="desc"> — Instalacja innych tłumaczeń i pakietów obsługi języków.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -99,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

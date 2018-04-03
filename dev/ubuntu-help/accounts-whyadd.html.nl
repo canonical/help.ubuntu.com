@@ -64,21 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="accounts.html.nl" title="Online-accounts">Online-accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="accounts.html.nl" title="Online-accounts">Online-accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Waarom zou ik een account toevoegen?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Door het toevoegen van uw accounts krijgt u een keur aan diensten zoals agenda, chatten en e-mail direct op uw bureaublad; deze diensten worden naadloos deel van het gebruikersgemak gemaakt. Door het toevoegen van accounts kunt u tegelijk contact houden met diensten van verschillende accounts, zoals chats. Stel uw online accounts eenmalig in en elke keer dat u uw computer start zullen alle accounts en diensten die u toegevoegd heeft voor u klaar staan.</p>
-<p class="p">Zie <span class="link"><a href="accounts-which-application.html.nl" title="Online-services en -toepassingen">Online-services en -toepassingen</a></span> voor informatie welke toepassingen welke online-diensten kunnen gebruiken.</p>
+<p class="p">Door het toevoegen van uw accounts krijgt u een keur aan diensten zoals agenda, chatten en e-mail direct op uw bureaublad; deze diensten worden naadloos deel van het gebruikersgemak gemaakt. Door het toevoegen van accounts kunt u tegelijkertijd contact houden via diensten van verschillende accounts, zoals chats. Stel uw online-accounts eenmalig in en elke keer dat u uw computer start zullen alle accounts en diensten die u toegevoegd heeft voor u klaar staan.</p>
+<p class="p">Zie <span class="link"><a href="accounts-which-application.html.nl" title="Onlinediensten en toepassingen">Onlinediensten en toepassingen</a></span> voor informatie over welke toepassingen welke onlinediensten kunnen gebruiken.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.nl" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html.nl" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html.nl" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html.nl" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
+<a href="accounts.html.nl" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html.nl" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html.nl" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html.nl" title="Onlinediensten en toepassingen">Meer te weten komen over diensten</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -89,7 +89,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

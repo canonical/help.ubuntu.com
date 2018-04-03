@@ -103,7 +103,7 @@
 <div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.gl-GL" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.gl-GL" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">Os iPods recén adquiridos deberán configurarse usando o programa iTunes antes de poder empregalos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.gl-GL" title="O meu iPod novo non funciona"><span class="title">O meu iPod novo non funciona</span><span class="linkdiv-dash"> — </span><span class="desc">Os iPods recén adquiridos deberán configurarse usando o programa iTunes antes de poder empregalos.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.gl-GL" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Use un reprodutor multimedia para copiar as cancións e extraia o iPod con seguridade cando remate.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -121,10 +121,10 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="files-autorun.html.gl-GL" title="Abrir un aplicativo ao conectar un dispositivo"><span class="title">Abrir un aplicativo ao conectar un dispositivo</span><span class="linkdiv-dash"> — </span><span class="desc">Executar aplicativos de forma automática ao insertar CD ou DVD, reprodutores de son e outros dispositivos ou soportes.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="app-cheese.html.gl-GL" title="Cree fotos e vídeos divertidos coa súa cámara web"><span class="title">Cree fotos e vídeos divertidos coa súa cámara web</span><span class="linkdiv-dash"> — </span><span class="desc">É como o seu fotomatón persoal.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html.gl-GL" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Comprobe que ten os códecs de vídeo axeitados instalados.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.gl-GL" title="Outras persoas non poden reproducir os vídeos que eu creo"><span class="title">Outras persoas non poden reproducir os vídeos que eu creo</span><span class="linkdiv-dash"> — </span><span class="desc">Comprobe que ten os códecs de vídeo axeitados instalados.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.gl-GL" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">Pode que non teña instalados os códecs axeitados, ou que o reprodutor sexa dunha rexión incorrecta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.gl-GL" title="Por que non se reproducen os DVD?"><span class="title">Por que non se reproducen os DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">Pode que non teña instalados os códecs axeitados, ou que o reprodutor sexa dunha rexión incorrecta.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.gl-GL" title="Como activo os códecs restritivos para reproducir DVD?"><span class="title">Como activo os códecs restritivos para reproducir DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">A maioría dos DVD comerciais están cifrados e non se poden reproducir sen un software de descifrado.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -143,7 +143,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

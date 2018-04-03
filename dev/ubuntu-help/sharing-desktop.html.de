@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-sharing.html.de" title="Einstellungen zur Freigabe">Einstellungen zur Freigabe</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-sharing.html.de" title="Einstellungen zur Freigabe">Einstellungen zur Freigabe</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="sharing.html.de" title="Freigabe">Freigabe</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="sharing.html.de" title="Freigabe">Freigabe</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Sie können anderen Personen erlauben, mit Hilfe einer Anwendung für entfernte Bildschirme Ihren Bildschirm von einem anderen Rechner aus zu betrachten und zu bedienen. Konfigurieren Sie <span class="app">Freigabe des Bildschirms</span>, um anderen Personen Zugriff auf Ihre Arbeitsumgebung zu gewähren und die Sicherheitseinstellungen zu setzen.</p>
-<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Das Paket <span class="app">Vino</span> muss installiert sein, damit die <span class="gui">Bildschirmfreigabe</span> angezeigt wird.</p></div></div></div></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Das Paket <span class="app">Vino</span> muss installiert sein, damit die <span class="gui">Bildschirmfreigabe</span> angezeigt wird.</p>
+<p class="p"><span class="link-button link"><a href="apt:vino" title="apt:vino">Vino installieren</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Freigabe</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Freigabe</span>, um das Panel zu öffnen.</p></li>
@@ -146,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Instant messaging on Ubuntu</title>
+<title>Komunikatory w Ubuntu</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,22 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-chat.html.pl-PL" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-chat.html.pl-PL" title="Komunikatory i serwisy społecznościowe">Komunikatory i serwisy społecznościowe</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Instant messaging on Ubuntu</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Komunikatory w Ubuntu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    With the <span class="app">Empathy</span> application, you can chat with people online and
-    with friends and colleagues who use Google Talk, AIM, Windows Live and many
-    other chat programs. With a microphone or a webcam you can also have audio
-    or video calls.
-  </p>
-<p class="p">
-    Empathy is not installed by default in Ubuntu, but you can <span class="link"><a href="https://apps.ubuntu.com/cat/applications/empathy" title="https://apps.ubuntu.com/cat/applications/empathy">install</a></span> it from the Ubuntu package archive. For help
-    with using Empathy, read the <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">Empathy manual</a></span>.
-  </p>
+<p class="p">Za pomocą programu <span class="app">Empathy</span> można rozmawiać ze znajomymi korzystającymi z programów Google Talk, AIM, Windows Live i wielu innych. Za pomocą mikrofonu lub kamery internetowej można także dzwonić i prowadzić wideorozmowy.</p>
+<p class="p">Empathy nie jest domyślnie zainstalowane w Ubuntu, ale można je <span class="link"><a href="apt:empathy" title="apt:empathy">zainstalować</a></span> z archiwum pakietów Ubuntu. <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">Podręcznik programu Empathy</a></span> zawiera więcej informacji o jego używaniu.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -87,17 +79,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.pl-PL" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.pl-PL" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.pl-PL" title="Połączenia wideo">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.pl-PL" title="How can I use Skype on Ubuntu?">install skype</a></span>
-    </span>
+<a href="net-chat.html.pl-PL" title="Komunikatory i serwisy społecznościowe">Komunikatory i serwisy społecznościowe</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.pl-PL" title="Komunikatory w Ubuntu">Rozmawianie w każdej sieci za pomocą programu <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.pl-PL" title="Wideorozmowy">wideorozmowy</a></span>, <span class="link"><a href="net-chat-skype.html.pl-PL" title="Jak mogę korzystać z programu Skype w Ubuntu?">instalacja programu Skype</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat-video.html.pl-PL" title="Połączenia wideo">Połączenia wideo</a><span class="desc"> — Jakich programów można używać do wykonywania połączeń wideo?</span>
+<a href="net-chat-video.html.pl-PL" title="Wideorozmowy">Wideorozmowy</a><span class="desc"> — Jakich programów można używać do wideorozmów?</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -109,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

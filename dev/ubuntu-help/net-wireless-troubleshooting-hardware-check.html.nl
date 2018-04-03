@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -106,11 +106,7 @@
 <p class="p">Doorzoek de getoonde lijst met apparaten en vind de apparaten die gemarkeerd zijn als <span class="code">Network controller</span> of <span class="code">Ethernet controller</span>. Er kunnen meerdere apparaten hetzelfde gemarkeerd zijn; diegene die overeenkomt met uw draadloze adapter kan woorden bevatten als <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> of <span class="code">802.11</span>. Hier is een voorbeeld hoe dit er mogelijk uit kan zien:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Device Drivers
-      step</a></span>. If you didn’t find anything related to your wireless
-      adapter, see
-      <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">the instructions below</a></span>.</p></li>
+<li class="steps"><p class="p">Als u uw draadloos netwerk-adapter gevonden heeft in de lijst, ga door naar de stap <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Stuurprogramma's</a></span>. Als u niets bent tegengekomen over uw draadloos netwerk-adapter, zie <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">onderstaande instructies</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -124,11 +120,7 @@
 <p class="p">Doorzoek de getoonde lijst met apparaten en vind de apparaten die schijnen te refereren aan een draadloos- of netwerkapparaat. Diegene die overeenkomt met uw draadloze adapter kan woorden bevatten als <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> of <span class="code">802.11</span>. Hier is een voorbeeld hoe dit er mogelijk uit kan zien:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Device Drivers
-      step</a></span>. If you didn’t find anything related to your wireless
-      adapter, see
-      <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">the instructions below</a></span>.</p></li>
+<li class="steps"><p class="p">Als u uw draadloos netwerk-adapter gevonden heeft in de lijst, ga door naar de stap <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Stuurprogramma's</a></span>. Als u niets bent tegengekomen over uw draadloos netwerk-adapter, zie <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">onderstaande instructies</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -141,17 +133,11 @@
 <li class="steps">
 <p class="p">Open een terminalvenster, typ het volgende in en druk daarna op <span class="key"><kbd>Enter</kbd></span>.</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">This will display a list of messages related to your computer’s
-      hardware, and will automatically update if anything to do with your
-      hardware changes.</p>
+<p class="p">Hierdoor zal er een lijst met berichten getoond worden, afhankelijk van de hardware van uw computer en deze zal automatisch bijgewerkt worden als er iets dat te maken heeft met uw hardware wijzigt.</p>
 </li>
 <li class="steps"><p class="p">Steek uw draadloos netwerk-adapter in de PCMCIA-sleuf en kijk wat er verandert in het terminalvenster. Er zou enige informatie over uw draadloos netwerk-adapter te zien moeten zijn. Lees deze door en kijk of u hem kunt herkennen.</p></li>
 <li class="steps"><p class="p">Om het uitvoeren van een opdracht in de terminal te stoppen, druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Nadat u dat gedaan heeft kunt u de terminal sluiten als u wilt.</p></li>
-<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Device
-      Drivers step</a></span>. If you didn’t find anything related to your wireless
-      adapter, see <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">the instructions
-      below</a></span>.</p></li>
+<li class="steps"><p class="p">Als u informatie over uw draadloos netwerkadapter bent tegengekomen, ga dan door naar de stap <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.nl" title="Probleemoplosser draadloos netwerk">Besturingsprogramma's</a></span>. Als u niets over uw draadloos netwerk-adapter bent tegengekomen, zie <span class="link"><a href="#not-recognized" title="Draadloze adapter niet herkend">onderstaande instructies</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -159,9 +145,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Draadloze adapter niet herkend</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Wanneer uw draadloze adapter niet werd herkend, kan het zijn dat deze mogelijk niet goed werkt of dat het verkeerde stuurprogramma geïnstalleerd is. Hoe u kunt controleren of er stuurprogramma's zijn die u kunt installeren, hangt af van de GNU/Linux-distributie die u gebruikt (zoals Ubuntu, Arch, Fedora en openSUSE).</p>
-<p class="p">To get specific help, look at the support options on your distribution’s
-  website. These might include mailing lists and web chats where you can ask
-  about your wireless adapter, for example.</p>
+<p class="p">Kijk op de website van uw distributie om specifieke hulp te krijgen. Hier kunt u bijvoorbeeld mailinglijsten en chat-kanalen vinden waar u vragen kunt stellen over uw draadloos netwerk-adapter.</p>
 </div></div>
 </div></div>
 <div class="links nextlinks">
@@ -172,7 +156,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Opsporen en oplossen van problemen met draadloze verbindingen.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -183,7 +167,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

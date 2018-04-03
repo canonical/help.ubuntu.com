@@ -113,9 +113,6 @@
 <a href="power-nowireless.html.es" title="No tengo conexión inalámbrica a la red cuando despierto mi equipo">No tengo conexión inalámbrica a la red cuando despierto mi equipo</a><span class="desc"> — Algunos dispositivos inalámbricos tienen problemas de manejo cuando envía su equipo a dormir y no despiertan correctamente.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html.es" title="¿Cómo hibernar mi equipo?">¿Cómo hibernar mi equipo?</a><span class="desc"> — La hibernación está desactivada de manera predeterminada porque no tiene soporte adecuado.</span>
-</li>
-<li class="links ">
 <a href="power-closelid.html.es" title="¿Por qué se apaga mi equipo cuando cierro la tapa?">¿Por qué se apaga mi equipo cuando cierro la tapa?</a><span class="desc"> — Los portátiles se suspenden cuando se cierra la tapa para ahorrar energía.</span>
 </li>
 <li class="links ">
@@ -135,7 +132,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

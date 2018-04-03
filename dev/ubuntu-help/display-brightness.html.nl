@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,18 +75,18 @@
 <div class="region">
 <div class="contents">
 <p class="p">Afhankelijk van uw hardware kunt u het scherm dimmen om energie te sparen of de helderheid verhogen om het beter leesbaar te maken bij fel licht.</p>
-<p class="p">Om de helderheid van uw scherm te wijzigen, klik u op het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">systeemmenu</a></span> rechts in de menubalk en gebruik de schuifbalk om de helderheid van het scherm naar uw wens aan te passen. De wijziging zou direct van toepassing moeten zijn.</p>
+<p class="p">Om de helderheid van uw scherm te wijzigen, klik u op het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">Systeemmenu</a></span> rechts in de bovenbalk en gebruik de schuifbalk om de helderheid van het scherm naar uw wens aan te passen. De wijziging zou direct van toepassing moeten zijn.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Veel laptoptoetsenborden hebben speciale toetsen om de helderheid aan te passen. Deze hebben vaak een afbeelding die eruit ziet als een zonnetje. Om deze toetsen te gebruiken houdt u de <span class="key"><kbd class="key-Fn">Fn</kbd></span>-toets ingedrukt.</p></div></div></div></div>
-<p class="p">U kunt de helderheid van het scherm ook aanpassen via het venster <span class="gui">Energie</span>.</p>
+<p class="p">U kunt de helderheid van het scherm ook aanpassen via het paneel <span class="gui">Energie</span>.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Om de helderheid van het scherm in te stellen via het venster Energie:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Om de helderheid van het scherm in te stellen via het paneel <span class="gui">Energie</span>:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Energie</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Energie</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Gebruik de schuifbalk <span class="gui">Helderheid van het scherm</span> om de helderheid naar uw wens aan te passen. De wijziging zou direct van toepassing moeten zijn.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als uw computer beschikt over een geïntegreerde lichtsensor, dan zal de helderheid van het scherm automatisch voor u worden aangepast. U kunt automatische helderheid van het scherm uitschakelen in het venster <span class="gui">Energie</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als uw computer beschikt over een geïntegreerde lichtsensor, dan zal de helderheid van het scherm automatisch voor u worden aangepast. U kunt automatische helderheid van het scherm uitschakelen in het paneel <span class="gui">Energie</span>.</p></div></div></div></div>
 <p class="p">Als het mogelijk is de helderheid van uw scherm in te stellen, dan kunt u ook het scherm automatisch dimmen om energie te sparen. Zie voor meer informatie <span class="link"><a href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?">Waarom wordt mijn scherm na enige tijd zwart?</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -99,11 +99,7 @@
 <a href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a><span class="desc"> — Grafische problemen en problemen met het scherm oplossen.</span>
 </li>
 <li class="links ">
-<a href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.nl" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.nl" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
-      brightness…
-    </span>
+<a href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a><span class="desc"> — <span class="link"><a href="look-background.html.nl" title="De achtergrond van het werkblad en van een vergrendeld scherm wijzigen">Achtergrond</a></span>, <span class="link"><a href="look-resolution.html.nl" title="De resolutie of de oriëntatie (rotatie) van het scherm wijzigen">grootte en rotatie</a></span>, <span class="link"><a href="display-dimscreen.html.nl" title="display-dimscreen">helderheid</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -111,17 +107,16 @@
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autobrightness.html.nl" title="Automatische helderheid instellen">Automatische helderheid instellen</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
+<a href="power-autobrightness.html.nl" title="Automatische helderheid instellen">Automatische helderheid instellen</a><span class="desc"> — Schermhelderheid automatisch regelen om accuverbruik te verminderen.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html.nl" title="Contrast aanpassen">Contrast aanpassen</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
-    they’re easier to see.</span>
+<a href="a11y-contrast.html.nl" title="Contrast aanpassen">Contrast aanpassen</a><span class="desc"> — Vensters en knoppen meer of minder helder maken, zodat ze beter te zien zijn.</span>
 </li>
 <li class="links ">
 <a href="power-batterylife.html.nl" title="Gebruik minder stroom en verbeter de levensduur van de accu">Gebruik minder stroom en verbeter de levensduur van de accu</a><span class="desc"> — Tips om het energieverbruik van uw computer te verminderen.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?">Waarom wordt mijn scherm na enige tijd zwart?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
+<a href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?">Waarom wordt mijn scherm na enige tijd zwart?</a><span class="desc"> — Om energie te sparen zal het scherm zwart worden wanneer de computer inactief is .</span>
 </li>
 </ul></div>
 </div></div>
@@ -134,7 +129,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

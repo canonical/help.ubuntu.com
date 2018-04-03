@@ -77,6 +77,7 @@
 <a href="#" class="ui-overlay-close" title="Aizvērt">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-task-switching.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Atskaņot" data-pause-label="Pauzēt"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Pārslēgšanās starp uzdevumiem</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="5" data-ttml-end="8"><div class="media-ttml-node media-ttml-p" data-ttml-begin="5" data-ttml-end="8">Pārvietojiet peles rādītāju uz <span class="gui">Aktivitātes</span> ekrāna augšā kreisajā stūrī.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">Spiediet uz loga, lai pārslēgtos uz to uzdevumu.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Lai maksimizētu logu gar kreiso pusi, satveriet loga virsraksta joslu un velciet to uz ekrāna kreiso pusi.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">Kad puse ekrāna ir izgaismota, atlaidiet logu.</div></div>
@@ -151,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

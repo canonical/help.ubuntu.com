@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uw computer met een Bluetooth-apparaat verbinden</span></h1></div>
@@ -85,7 +85,7 @@
 <li class="steps"><p class="p">Om het apparaat te bewerken, klik erop in de <span class="gui">Apparaten</span>-lijst. U ziet een paneel toegespitst op dit apparaat. Het laat wellicht aanvullende opties zien die van toepassing zijn op het type apparaat waarmee u verbindt.</p></li>
 <li class="steps"><p class="p">Sluit het paneel als u de instellingen heeft gewijzigd.</p></li>
 </ol></div></div></div>
-<div class="media media-image floatend"><div class="inner"><img src="figures/bluetooth-menu.png" class="media media-block" alt="Het Bluetooth-pictogram in de bovenste balk"></div></div>
+<div class="media media-image floatend"><div class="inner"><img src="figures/bluetooth-menu.png" class="media media-block" alt="Het Bluetooth-pictogram in de bovenbalk"></div></div>
 <p class="p">Wanneer één of meer Bluetooth-apparaten verbonden zijn, zal het Bluetooth-pictogram in het systeemstatusgebied verschijnen.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -101,7 +101,7 @@
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Delen van besturing via Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
+<a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Delen van besturing via Bluetooth</a><span class="desc"> — Het uploaden van bestanden naar uw computer via Bluetooth toestaan.</span>
 </li>
 <li class="links ">
 <a href="bluetooth-remove-connection.html.nl" title="Verbinding met een Bluetooth-apparaat verbreken">Verbinding met een Bluetooth-apparaat verbreken</a><span class="desc"> — Een apparaat uit de lijst met Bluetooth-apparaten verwijderen.</span>
@@ -117,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

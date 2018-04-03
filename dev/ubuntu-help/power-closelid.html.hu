@@ -81,15 +81,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">A számítógép a fedél lezárásakor való felfüggesztésének tiltása</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Fontos"><div class="inner"><div class="region"><div class="contents"><p class="p">Ezek az utasítások csak akkor használhatók, ha a <span class="app">systemd</span>-t használja. További információkért nézze meg a disztribúciója dokumentációját.</p></div></div></div></div>
-<div class="note note-important" title="Fontos"><div class="inner"><div class="region"><div class="contents"><p class="p">Ezen beállítás módosításához telepítve kell lennie a <span class="app">Finomhangolónak</span> a számítógépre.</p></div></div></div></div>
+<div class="note note-important" title="Fontos"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Ezen beállítás módosításához telepítve kell lennie a <span class="app">Finomhangolónak</span> a számítógépre.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">A <span class="app">Finomhangoló</span> telepítése</a></span></p>
+</div></div></div></div>
 <p class="p">Ha nem akarja, hogy a számítógép felfüggessze a működését, amikor lezárja a fedelét, akkor megváltoztathatja ezt a viselkedést.</p>
 <div class="note note-warning" title="Figyelmeztetés"><div class="inner"><div class="region"><div class="contents"><p class="p">Legyen nagyon óvatos, ha ezt a beállítást megváltoztatja. Egyes laptopok túlmelegedhetnek, ha lezárt tetővel bekapcsolva hagyja azokat, különösen olyan zárt helyeken, mint egy hátizsák.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Finomhangoló</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Finomhangoló</span> ikonra az alkalmazás megnyitásához.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Energiagazdálkodás</span> lapra.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
-      <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Kapcsolja <span class="gui">BE</span> a <span class="gui">Felfüggesztés ha a noteszgép fedele le van hajtva</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Zárja be a <span class="gui">Finomhangoló</span> ablakot.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -123,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

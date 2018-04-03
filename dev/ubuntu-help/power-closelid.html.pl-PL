@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why does my computer turn off when I close the lid?</title>
+<title>Dlaczego komputer wyłącza się po zamknięciu pokrywy?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,47 +65,34 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why does my computer turn off when I close the lid?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Dlaczego komputer wyłącza się po zamknięciu pokrywy?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you close the lid of your laptop, your computer will
-  <span class="link"><a href="power-suspend.html.pl-PL" title="What happens when I suspend my computer?"><span class="em">suspend</span></a></span> in order to save power.
-  This means that the computer is not actually turned off — it has just gone to
-  sleep. You can resume it by opening the lid. If it does not resume, try
-  clicking the mouse or pressing a key. If that still does not work, press the
-  power button.</p>
-<p class="p">Some computers are unable to suspend properly, normally because their
-  hardware is not completely supported by the operating system (for example,
-  the Linux drivers are incomplete). In this case, you may find that you are
-  unable to resume your computer after you have closed the lid. You can try to
-  <span class="link"><a href="power-suspendfail.html.pl-PL" title="Why does my computer not turn back on after I suspended it?">fix the problem with suspend</a></span>, or you
-  can prevent the computer from trying to suspend when you close the lid.</p>
+<p class="p">Po zamknięciu pokrywy laptopa przechodzi on do stanu <span class="link"><a href="power-suspend.html.pl-PL" title="Co dzieje się po uśpieniu komputera?"><span class="em">uśpienia</span></a></span>, aby oszczędzać prąd. Oznacza to, że komputer nie jest tak naprawdę wyłączany — jest tylko usypiany. Można go przebudzić otwierając pokrywę. Jeśli się nie przebudzi, to spróbuj kliknąć myszą lub nacisnąć klawisz. Jeśli laptop nadal nie chce się przebudzić, to naciśnij przycisk zasilania.</p>
+<p class="p">Niektóre komputery nie potrafią się poprawnie uśpić, zwykle ponieważ ich sprzęt nie jest całkowicie obsługiwany przez system operacyjny (np. sterowniki dla systemu Linux są niekompletne). W takim przypadku przebudzenie komputera po zamknięciu pokrywy może się nie udać. Można spróbować <span class="link"><a href="power-suspendfail.html.pl-PL" title="Dlaczego komputer nie włącza się z powrotem po uśpieniu?">naprawić problem z usypianiem</a></span> lub wyłączyć usypianie komputera po zamknięciu pokrywy.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Stop the computer from suspending when the lid is closed</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Wyłączanie usypiania komputera po zamknięciu pokrywy</span></h2></div>
 <div class="region"><div class="contents">
-<div class="note note-important" title="Ważne"><div class="inner"><div class="region"><div class="contents"><p class="p">These instructions will only work if you are using <span class="app">systemd</span>.
-    Contact your distribution for more information.</p></div></div></div></div>
-<div class="note note-important" title="Ważne"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-    change this setting.</p></div></div></div></div>
-<p class="p">If you do not want the computer to suspend when you close the lid, you can
-  change the setting for that behavior.</p>
-<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">Be very careful if you change this setting. Some laptops can overheat
-    if they are left running with the lid closed, especially if they are in
-    a confined place like a backpack.</p></div></div></div></div>
+<div class="note note-important" title="Ważne"><div class="inner"><div class="region"><div class="contents"><p class="p">Poniższe instrukcje działają tylko, jeśli używany jest <span class="app">systemd</span>. Dokumentacja używanej dystrybucji zawiera więcej informacji.</p></div></div></div></div>
+<div class="note note-important" title="Ważne"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Aby zmienić to ustawienie, na komputerze musi być zainstalowany program <span class="app">Dostrajanie</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Zainstaluj program <span class="app">Dostrajanie</span></a></span></p>
+</div></div></div></div>
+<p class="p">Jeśli komputer nie ma być usypiany po zamknięciu pokrywy, to można zmienić ustawienie tego zachowania.</p>
+<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">Należy zachować ostrożność podczas zmiany tego ustawienia. Niektóre laptopy mogą ulec przegrzaniu, jeśli są włączone z zamkniętą pokrywą, zwłaszcza jeśli są w zamkniętym miejscu, takim jak plecak.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Dostrajanie</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Dostrajanie</span>.</p></li>
 <li class="steps"><p class="p">Kliknij ikonę <span class="gui">Dostrajanie</span>, aby otworzyć program.</p></li>
 <li class="steps"><p class="p">Kliknij kartę <span class="gui">Zasilanie</span>.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
-      <span class="gui">OFF</span>.</p></li>
-<li class="steps"><p class="p">Kliknij okno programu <span class="gui">Dostrajanie</span>.</p></li>
+<li class="steps"><p class="p">Przełącz <span class="gui">Uśpienie po zamknięciu pokrywy laptopa</span> na <span class="gui">◯</span> (wyłączone).</p></li>
+<li class="steps"><p class="p">Zamknij okno programu <span class="gui">Dostrajanie</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -115,21 +102,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.pl-PL" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.pl-PL" title="What happens when I suspend my computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.pl-PL" title="Why does my screen go dim after a while?">screen dimming</a></span>…
-    </span>
+<a href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a><span class="desc"> — <span class="link"><a href="power-status.html.pl-PL" title="Sprawdzanie stanu akumulatora">Stan akumulatora</a></span>, <span class="link"><a href="power-suspend.html.pl-PL" title="Co dzieje się po uśpieniu komputera?">usypianie</a></span>, <span class="link"><a href="power-whydim.html.pl-PL" title="Dlaczego ekran jest po chwili przygaszany?">przygaszanie ekranu</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html.pl-PL" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
+<a href="power-suspend.html.pl-PL" title="Co dzieje się po uśpieniu komputera?">Co dzieje się po uśpieniu komputera?</a><span class="desc"> — Uśpienie wstrzymuje działanie komputera, więc używa mniej prądu.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html.pl-PL" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.pl-PL" title="Dlaczego komputer nie włącza się z powrotem po uśpieniu?">Dlaczego komputer nie włącza się z powrotem po uśpieniu?</a><span class="desc"> — Niektóre urządzenia powodują problemy z usypianiem.</span>
 </li>
 </ul></div>
 </div></div>
@@ -142,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,50 +64,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sovelluksien käynnistäminen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Move your mouse pointer to the
-  <span class="gui">Activities</span> corner at the top left of the screen to show the
-  <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview. This is where you
-  can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span> key.</p>
-<p class="p">There are several ways of opening an application once you’re in the
-  <span class="gui">Activities</span> overview:</p>
+<p class="p">Siirrä hiiren osoitin näytön vasemmassa laidassa olevaan <span class="gui">Toiminnot</span>-kulmaan nähdäksesi <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymän. Täältä löydät kaikki sovelluksesi. Voit avata yleisnäkymän myös painamalla <span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>-näppäintä.</p>
+<p class="p">Kun olet <span class="gui">Toiminnot</span>-yleisnäkymässä, voit avata sovelluksen monilla eri tavoilla:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Start typing the name of an application — searching begins instantly.
-      (If this doesn’t happen, click the search bar at the top of the screen
-      and start typing.) If you don’t know the exact name of an application, try
-      to type an related term. Click the application’s icon to start it.</p></li>
+<li class="list"><p class="p">Kirjoita sovelluksen nimi — haku alkaa välittömästi. Jos näin ei jostain syystä tapahdu, varmista että syöte on kohdistettu hakukenttään. Jos et tiedä sovelluksen tarkkaa nimeä, voit kirjoittaa jotain sovellukseen liittyvää. Napsauta sovelluksen kuvaketta avataksesi kyseinen sovellus.</p></li>
 <li class="list">
-<p class="p">Some applications have icons in the <span class="em">dash</span>, the vertical strip
-      of icons on the left-hand side of the <span class="gui">Activities</span> overview.
-      Click one of these to start the corresponding application.</p>
+<p class="p">Joidenkin sovellusten kuvakkeet näkyvät <span class="em">telakassa</span>, <span class="gui">Toiminnot</span>-yleisnäkymässä näytön vasemmassa laidassa olevalla alueella. Napsauta haluamaasi kuvaketta käynnistääksesi vastaavan sovelluksen.</p>
 <p class="p">Jos käytät joitain sovelluksia usein, voit <span class="link"><a href="shell-apps-favorites.html.fi" title="Kiinnitä suosikkisovelluksesi telakkaan">lisätä niiden kuvakkeet telakkaan</a></span>.</p>
 </li>
-<li class="list"><p class="p">Napsauta ruudukkopainiketta telakan alaosasta. Näet usein käytetyt sovellukset, jos <span class="gui">Käytetyimmät</span>-näkymä on käytössä. Jos haluamasi sovellus ei näy käytetyimpie näkymässä, napsauta <span class="gui">Kaikki</span>-painiketta sovellusnäkymän alaosasta. Napsauta nyt haluamasi sovelluksen kuvaketta.</p></li>
+<li class="list"><p class="p">Napsauta ruudukkopainiketta telakan alaosasta. Näet usein käytetyt sovellukset, jos <span class="gui">Käytetyimmät</span>-näkymä on käytössä. Jos haluamasi sovellus ei näy käytetyimpien näkymässä, napsauta <span class="gui">Kaikki</span>-painiketta sovellusnäkymän alaosasta. Napsauta nyt haluamasi sovelluksen kuvaketta.</p></li>
 <li class="list">
-<p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html.fi" title="Mikä ihmeen työtila, ja miten voin hyödyntää sitä?">workspace</a></span> by dragging its icon from
-      the dash, and dropping it onto one of the workspaces on the right-hand
-      side of the screen. The application will open in the chosen
-      workspace.</p>
-<p class="p">You can launch an application in a <span class="em">new</span> workspace by dragging
-      its icon to the empty workspace at the bottom of the workspace
-      switcher, or to the small gap between two workspaces.</p>
+<p class="p">Voit käynnistää sovelluksen toiseen <span class="link"><a href="shell-workspaces.html.fi" title="Mikä ihmeen työtila, ja miten voin hyödyntää sitä?">työtilaan</a></span> vetämällä sovelluksen kuvakkeen telakasta tai sovellusnäkymästä näytön oikeassa laidassa näkyvään työtilaan. Sovellus avautuu työtilassa, johon vedit ja pudotit kuvakkeen.</p>
+<p class="p">Voit avata sovelluksen <span class="em">uudessa</span> työtilassa vetämällä sovelluksen kuvakkeen työtilavaihtimen alaosassa olevaan tyhjään työtilaan.</p>
 </li>
 </ul></div></div></div>
 <div class="note note-tip" title="Vinkki"><div class="inner">
 <div class="title title-note"><h2><span class="title">Komennon suorittaminen nopeasti</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Yksi tapa käynnistää sovellus on painaa <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, kirjoittaa <span class="em">komennon nimi</span>, ja sitten painaa <span class="key"><kbd>Enter</kbd></span>.</p>
-<p class="p">For example, to launch <span class="app">Rhythmbox</span>, press
-    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-    ‘<span class="cmd">rhythmbox</span>’ (without the single-quotes). The name of the app is
-    the command to launch the program.</p>
+<p class="p">Jos haluat avata esimerkiksi <span class="app">Firefoxin</span>, paina <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> ja kirjoita "firefox" (ilman lainausmerkkejä). Yleensä sovelluksen nimi on sama kuin sen käynnistävä komento.</p>
 </div></div>
 </div></div>
 </div>
@@ -142,7 +123,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

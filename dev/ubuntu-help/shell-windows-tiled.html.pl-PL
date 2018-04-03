@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Tile windows</title>
+<title>Układanie okien</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,23 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-windows" title="Praca z oknami">Okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-windows" title="Praca z oknami">Okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Tile windows</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Układanie okien</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can maximize a window on only the left or right side of the screen,
-  allowing you to place two windows side-by-side to quickly switch between
-  them.</p>
-<p class="p">To maximize a window along a side of the screen, grab the titlebar and
-  drag it to the left or right side until half of the screen is highlighted.
-  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> and
-  press the <span class="key"><kbd>Left</kbd></span> or <span class="key"><kbd>Right</kbd></span> key.</p>
-<p class="p">To restore a window to its original size, drag it away from the side of
-  the screen, or use the same keyboard shortcut you used to maximize.</p>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Hold down the <span class="key"><kbd>Alt</kbd></span> key and drag anywhere in a window to move
-    it.</p></div></div></div></div>
+<p class="p">Można zmaksymalizować okno tylko po lewej lub prawej stronie ekranu, umożliwiając umieszczenie dwóch okien obok siebie, aby szybko przełączać między nimi.</p>
+<p class="p">Aby zmaksymalizować okno po jednej stronie ekranu, chwyć pasek tytułu i przeciągnij je do lewej lub prawej strony, aż połowa ekranu zostanie wyróżniona. Aby zrobić to za pomocą klawiatury, przytrzymaj klawisz <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> i naciśnij klawisz <span class="key"><kbd>W lewo</kbd></span> lub <span class="key"><kbd>W prawo</kbd></span>.</p>
+<p class="p">Aby przywrócić okno do jego pierwotnego rozmiaru, przeciągnij je od strony ekranu, albo użyj tego samego skrótu klawiszowego, którego użyto do maksymalizacji.</p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Przytrzymaj klawisz <span class="key"><kbd>Alt</kbd></span> i przeciągnij w dowolnym miejscu okna, aby je przenieść.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -92,8 +85,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-maximize.html.pl-PL" title="Maksymalizowanie i cofanie maksymalizacji okna">Maksymalizowanie i cofanie maksymalizacji okna</a><span class="desc"> — Double-click or drag a titlebar to maximize or restore a
-    window.</span>
+<a href="shell-windows-maximize.html.pl-PL" title="Maksymalizowanie i cofanie maksymalizacji okna">Maksymalizowanie i cofanie maksymalizacji okna</a><span class="desc"> — Podwójne kliknięcie lub przeciągnięcie paska tytułu, aby zmaksymalizować lub przywrócić okno.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -105,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

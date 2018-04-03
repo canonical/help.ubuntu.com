@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="Máis tarefas relacionadas con ficheiros">Máis tarefas relacionadas con ficheiros</a> » <a class="trail" href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencias do comportamento do xestor de ficheiros</span></h1></div>
@@ -89,11 +89,7 @@
 <li class="list"><p class="p"><span class="gui">Preguntar cada vez</span></p></li>
 </ul></div></div></div>
 <p class="p">Se selecciona <span class="gui">Preguntar cada vez</span>, aparecerá un diálogo preguntándolle se desexa executar ou ver o ficheiro de texto seleccionado.</p>
-<p class="p">Executable text files are also called <span class="em">scripts</span>. All scripts in the
- <span class="file">~/.local/share/nautilus/scripts</span> folder will appear in the context
- menu for a file under the <span class="gui">Scripts</span> submenu. When a
- script is executed from a local folder, all selected files will be pasted to
- the script as parameters. To execute a script on a file:</p>
+<p class="p">Os ficheiros de texto executábeis tamén chámanse <span class="em">scripts</span>. Todos os scripts no cartafol <span class="file">~/.local/share/nautilus/scripts</span> aparecerán no menú contextual para os ficheiros baixo o submenú <span class="gui">Scripts</span>. Cando se executa un script desde un cartafol local, todos os ficheiros seleccionados pegaranse ao script como parámetros. Para executar un script nun ficheiro:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Navegue ao cartafol desexado.</p></li>
 <li class="steps"><p class="p">Seleccione o ficheiro desexado.</p></li>
@@ -106,7 +102,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Lixo</span></h2></div>
 <div class="region">
 <div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Ask before emptying the Trash</span></dt>
+<dt class="terms"><span class="gui">Preguntar antes de baleirar o lixo</span></dt>
 <dd class="terms"><p class="p">Esta opción está seleccionada por omisión. Cando se vai a baleirar o lixo, aparece un mensaxe confirmando se quere baleirar o lixo ou eliminar os ficheiros.</p></dd>
 </dl></div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -125,7 +121,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a><span class="desc"> — Ver e estabelecer preferencias desde o navegador de ficheiros.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -136,7 +132,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -66,7 +66,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.he" title="Install &amp; remove software">Add/remove software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.he" title="Install &amp; remove software">Add/remove software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">
@@ -84,9 +84,8 @@
 <p class="p">
     Applications are available in two formats: snap packages and Debian packages.
     An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    In order to install (or remove) a snap you have to log on to the Snap Store/Ubuntu One. Some 
-    applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be
-    listed first.
+    Some applications are available in both formats. In such a case in
+    <span class="app">Ubuntu Software</span> the snap will be listed first.
    </p>
 <p class="p">
     You may also wish to install software that does not have a GUI. To install
@@ -110,11 +109,7 @@
         <span class="gui">Install</span>.
       </p></li>
 <li class="steps"><p class="p">
-        If you're installing a snap, log on to the Snap Store/Ubuntu One.
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password
-        (that is, your user password, not your Snap Store/Ubuntu One password). 
+        You will be asked to authenticate by entering your password. 
         Once you have done that the installation will begin. 
         The installation usually finishes quickly, but could take a while if you 
         have a slow Internet connection.
@@ -166,7 +161,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

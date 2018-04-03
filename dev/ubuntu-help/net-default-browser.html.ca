@@ -75,9 +75,8 @@
   browser installed, the page may not open up in the browser you wanted it to
   open in. To fix this, change the default web browser:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Details</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenceu a escriure <span class="gui">Detalls</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Detalls</span> per obrir el panell.</p></li>
 <li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
       of the window.</p></li>
 <li class="steps"><p class="p">Choose which web browser you would like to open links by
@@ -107,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

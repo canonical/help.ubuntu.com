@@ -64,16 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#sound" title="Gehoorbeperkingen">Gehoorbeperkingen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#sound" title="Gehoorbeperkingen">Gehoorbeperkingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Scherm laten knipperen bij alerteringsgeluiden</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Bij bepaalde berichten en gebeurtenissen speelt uw computer een eenvoudig alerteringsgeluid af. Als u deze geluiden moeilijk kunt horen, dan kunt u of het hele scherm, of de titelbalk laten knipperen wanneer er een alerteringsgeluid klinkt.</p>
-<p class="p">This can also be useful if you’re in an environment where you need your
-  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html.nl" title="Waarschuwingsgeluid kiezen of uitschakelen">Waarschuwingsgeluid kiezen of uitschakelen</a></span>
-  to learn how to mute the alert sound, then enable visual alerts.</p>
+<p class="p">Dit kan ook van pas komen in een omgeving waar het belangrijk is dat uw computer stil is, zoals in een bibliotheek. Zie <span class="link"><a href="sound-alert.html.nl" title="Waarschuwingsgeluid kiezen of uitschakelen">Waarschuwingsgeluid kiezen of uitschakelen</a></span> om te leren hoe u het meldingsgeluid kunt dempen, om daarna visuele alertering in te schakelen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
@@ -81,7 +79,7 @@
 <li class="steps"><p class="p">Zet <span class="gui">Visuele alertering</span> <span class="gui">AAN</span>.</p></li>
 <li class="steps"><p class="p">Kies of u het hele scherm, of alleen uw huidige titelbalk wil laten knipperen.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt Visuele alertering ook snel in- en uitschakelen door te klikken op het <span class="link"><a href="a11y-icon.html.nl" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Visuele alterteringen</span> te selecteren. </p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt Visuele alertering ook snel in- en uitschakelen door te klikken op het <span class="link"><a href="a11y-icon.html.nl" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenbalk en <span class="gui">Visuele alterteringen</span> te selecteren. </p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -105,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

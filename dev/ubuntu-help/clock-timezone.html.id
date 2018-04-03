@@ -71,13 +71,9 @@
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span>      
-      overview and start typing <span class="gui">Date &amp; Time</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tanggal &amp; Waktu</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tanggal &amp; Waktu</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">If you have <span class="gui">Automatic Time Zone</span> set to <span class="gui">ON</span>, your
-      time zone should update automatically if you have an internet
-      connection. To update your time zone manually, set this to
-      <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Bila <span class="gui">Zona Waktu Otomatis</span> ditata ke <span class="gui">Nyala</span>, zona waktu Anda mestinya dimutakhirkan secara otomatis bila Anda memiliki koneksi internet. Untuk memutakhirkan zona waktu Anda secara manual, atur ini ke <span class="gui">Mati</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Zona Waktu</span>, lalu pilih lokasi Anda pada peta atau cari kota Anda saat ini.</p></li>
 </ol></div></div></div>
 <p class="p">Waktu akan dimutakhirkan secara otomatis ketika Anda memilih lokasi lain. Anda mungkin juga ingin <span class="link"><a href="clock-set.html.id" title="Ubah tanggal dan waktu">mengatur jam secara manual</a></span>.</p>
@@ -98,7 +94,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

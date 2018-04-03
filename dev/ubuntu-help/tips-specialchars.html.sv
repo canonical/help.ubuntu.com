@@ -85,8 +85,8 @@
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tecken</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Ett annat användbart program som följer med GNOME är <span class="app">Tecken</span>. Det låter dig söka efter och infoga ovanliga tecken genom att bläddra genom teckenkategorier eller leta efter nyckelord.</p>
-<p class="p">Du kan starta <span class="app">Tecken</span> i översiktsvyn <span class="gui">Aktiviteter</span>. För mer information om Tecken, se <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">handboken för Tecken</a></span>.</p>
+<p class="p">GNOME kommer med ett teckentabellprogram som låter dig söka efter och infoga ovanliga tecken, inklusive emojitecken, genom att bläddra genom teckenkategorier eller leta efter nyckelord.</p>
+<p class="p">Du kan köra <span class="app">Tecken</span> från översiktsvyn Aktiviteter.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -94,7 +94,10 @@
 <div class="region"><div class="contents">
 <p class="p">En Compose-tangent är en speciell tangent som låter dig trycka ner flera tangenter i rad för att få ett specialtecken. För att till exempel skriva det apostroferade tecknet <span class="em">é</span> kan du trycka på <span class="key"><kbd>compose</kbd></span> och sedan <span class="key"><kbd>'</kbd></span> och sedan <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Tangentbord har inte specifika compose-tangenter. Istället kan du definiera en av de existerande tangenterna på ditt tangentbord som en compose-tangent.</p>
-<div class="note note-important" title="Viktigt"><div class="inner"><div class="region"><div class="contents"><p class="p">Du måste ha <span class="app">Justering</span> installerat på din dator för att ändra denna inställning.</p></div></div></div></div>
+<div class="note note-important" title="Viktigt"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Du måste ha <span class="app">Justering</span> installerat på din dator för att ändra denna inställning.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Installera <span class="app">Justering</span></a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definiera en compose-tangent</span></h3></div>
 <div class="region"><ol class="steps">
@@ -121,8 +124,8 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Kodpunkter</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Du kan mata in vilket Unicode-tecken som helst genom att använd bara ditt tangentbord med tecknets numeriska kodpunkt. Varje tecken identifieras med en fyra-teckens kodpunkt. För att hitta kodpunkten för ett tecken, hitta tecknet i teckentabellprogrammet och titta i statusraden eller fliken <span class="gui">Teckendetaljer</span>. Kodpunkten är de fyra tecknen efter <span class="gui">U+</span>.</p>
-<p class="p">För att mata in ett tecken via dess kodpunkt, håll ner <span class="key"><kbd>Ctrl</kbd></span> och <span class="key"><kbd>Skift</kbd></span> och skriv <span class="key"><kbd>U</kbd></span> följt av den fyra tecken långa kodpunkten, och släpp sedan <span class="key"><kbd>Ctrl</kbd></span> och <span class="key"><kbd>Skift</kbd></span>. Om du ofta använder tecken som du inte kan nå enkelt med andra metoder kan det vara värdefullt att memorera kodpunkterna för de tecknen så att du kan mata in dem snabbt.</p>
+<p class="p">Du kan mata in vilket Unicode-tecken som helst genom att använd bara ditt tangentbord med tecknets numeriska kodpunkt. Varje tecken identifieras med en fyra-teckens kodpunkt. För att hitta kodpunkten för ett tecken, slå upp det i programmet <span class="app">Tecken</span>. Kodpunkten är de fyra tecknen efter <span class="gui">U+</span>.</p>
+<p class="p">För att mata in ett tecken via dess kodpunkt, håll ner <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, skriv sedan den fyra tecken långa kodpunkten, och släpp sedan <span class="key"><kbd>Ctrl</kbd></span> och <span class="key"><kbd>Skift</kbd></span>. Om du ofta använder tecken som du inte kan nå enkelt med andra metoder kan det vara värdefullt att memorera kodpunkterna för de tecknen så att du kan mata in dem snabbt.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
@@ -160,7 +163,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

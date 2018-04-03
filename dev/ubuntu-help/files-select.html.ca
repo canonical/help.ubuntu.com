@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Select files by pattern</title>
+<title>Seleccioneu fitxers segons un patró</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#faq" title="Tips and questions">Tips and questions</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Select files by pattern</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Seleccioneu fitxers segons un patró</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can select files in a folder using a pattern on the file name.
@@ -78,7 +78,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="file">*</span> matches any number of any characters, even
     no characters at all.</p></li>
-<li class="list"><p class="p"><span class="file">?</span> matches exactly one of any character.</p></li>
+<li class="list"><p class="p"><span class="file">?</span> coincideix exactament amb un caràcter qualsevol.</p></li>
 </ul></div></div></div>
 <p class="p">For example:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -116,7 +116,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

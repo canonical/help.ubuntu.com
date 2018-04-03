@@ -76,12 +76,11 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.pt-BR" title="Verificando o status da bateria"><span class="title">Verificando o status da bateria</span><span class="linkdiv-dash"> — </span><span class="desc">Exiba o status da bateria e dispositivos conectados.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.pt-BR" title="Como eu posso hibernar meu computador?"><span class="title">Como eu posso hibernar meu computador?</span><span class="linkdiv-dash"> — </span><span class="desc">A hibernação está desativada por padrão, uma vez que não é bem suportada.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.pt-BR" title="Desligue tecnologias sem fio não usadas"><span class="title">Desligue tecnologias sem fio não usadas</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, Wi-Fi e banda larga móvel podem ser desligados para reduzir consumo de bateria.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pt-BR" title="Encerrando sessão, desligando seu computador ou alternando usuários"><span class="title">Encerrando sessão, desligando seu computador ou alternando usuários</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como deixar sua conta de usuário, encerrando a sessão, alternando usuários e por aí vai.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.pt-BR" title="Fazendo melhor uso da bateria de seu notebook"><span class="title">Fazendo melhor uso da bateria de seu notebook</span><span class="linkdiv-dash"> — </span><span class="desc">Dicas como “Não deixe a carga da bateria ficar baixa demais”.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.pt-BR" title="Fazendo melhor uso da bateria de seu notebook"><span class="title">Fazendo melhor uso da bateria de seu notebook</span><span class="linkdiv-dash"> — </span><span class="desc">Dicas como “Não deixe a carga da bateria ficar baixa demais”.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.pt-BR" title="O que acontece quando eu suspendo o meu computador?"><span class="title">O que acontece quando eu suspendo o meu computador?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspensão leva seu computador para dormir, para que use menos energia.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.pt-BR" title="Por que meu computador desliga quando fecho a tampa?"><span class="title">Por que meu computador desliga quando fecho a tampa?</span><span class="linkdiv-dash"> — </span><span class="desc">Notebooks dormem quando você fecha a tampa, para economizar energia.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.pt-BR" title="Usando menos energia e melhorando duração da bateria"><span class="title">Usando menos energia e melhorando duração da bateria</span><span class="linkdiv-dash"> — </span><span class="desc">Dicas para reduzir o consumo de energia do seus computador.</span></a></div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -75,57 +75,49 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Open the <span class="gui">Activities Overview</span> by pressing the
-    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key. Start typing
-    to search.</p>
-<p class="p">Results matching what you have typed will appear as you type. The first
-    result is always highlighted and shown at the top.</p>
-<p class="p">Press <span class="key"><kbd>Enter</kbd></span> to switch to the first highlighted result.</p>
+<p class="p">Avaa <span class="gui">Toiminnot</span>-yleisnäkymä napsauttamalla <span class="gui">Toiminnot</span> näytön vasemmasta yläreunasta, tai painamalla <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Aloita kirjoittaminen etsiäksesi.</p>
+<p class="p">Hakuehtojasi vastaavat tulokset ilmestyvät näkyviin kirjoittaessasi. Ensimmäinen tulos on aina korostettu ja näytetään ylimpänä.</p>
+<p class="p">Paina <span class="key"><kbd>Enter</kbd></span> vaihtaaksesi ensimmäisenä korostettuun tulokseen.</p>
 </li></ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-search2.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="2">
 <li class="steps">
 <p class="p">Hakutuloksiin saattaa sisältyä:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">matching applications, shown at the top of the search results,
-        </p></li>
-<li class="list"><p class="p">matching settings,</p></li>
-<li class="list"><p class="p">matching contacts, and</p></li>
-<li class="list"><p class="p">matching documents.</p></li>
+<li class="list"><p class="p">vastaavat sovellukset, jotka näytetään ylimpän hakutuloksissa</p></li>
+<li class="list"><p class="p">vastaavat asetukset</p></li>
+<li class="list"><p class="p">vastaavat yhteystiedot</p></li>
+<li class="list"><p class="p">vastaavat asiakirjat</p></li>
+<li class="list"><p class="p">vastaava kalenteri</p></li>
+<li class="list"><p class="p">vastaava laskin</p></li>
+<li class="list"><p class="p">vastaava ohjelmisto</p></li>
+<li class="list"><p class="p">vastaavat tiedostot</p></li>
+<li class="list"><p class="p">vastaava pääte</p></li>
+<li class="list"><p class="p">vastaavat salasanat ja avaimet.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
-<p class="p">In the search results, click the item to switch to it.</p>
+<p class="p">Napsauta hakutuloslistauksessa kohdetta vaihtaaksesi siihen.</p>
 <p class="p">Vaihtoehtoisesti käytä näppäimistön nuolia valitaksesi kohteen ja paina sitten <span class="key"><kbd>Enter</kbd></span>.</p>
 </li>
 </ol></div></div></div>
 </div>
 <div id="use-search-inside-applications" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Käytä sovelluksien omaa hakutoimintoa</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The system search aggregates results from various applications. On the
-      left-hand side of the search results, you can see icons of applications
-      that provided the search results. Click one of the icons to restart the
-      search from inside the application associated with that icon. Because
-      only the best matches are shown in the <span class="gui">Activities Overview</span>,
-      searching from inside the application may give you better search results.
-      </p></div></div>
+<div class="region"><div class="contents"><p class="p">Järjestelmähaku kokoaa tuloksia useista sovelluksista. Hakutulosten vasemmasta reunasta näkee sen sovelluksen kuvakkeen, joka palauttaa hakutuloksia. Napsauta jotakin näistä vasemmalla olevista kuvakkeista avataksesi hakutulokset kyseisen sovelluksen ikkunaan. Koska vain parhaiten vastaavat tulokset näytetään <span class="gui">Toiminnot</span>-yleisnäkymässä, sovellusikkunoiden omat hakutulokset voivat näyttää enemmän tai parempia tuloksia.</p></div></div>
 </div></div>
 <div id="use-search-customize" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mukauta hakutuloksia</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search-settings.svg" width="100%" class="media media-block" alt=""></div></div>
-<div class="note note-important" title="Tärkeä"><div class="inner"><div class="region"><div class="contents"><p class="p">GNOME lets you customize what you want to display in the search
-       results in the <span class="gui">Activities Overview</span>. For example, you can
-        choose whether you want to show results for websites, photos, or music.
-        </p></div></div></div></div>
+<div class="note note-important" title="Tärkeä"><div class="inner"><div class="region"><div class="contents"><p class="p">Gnome sallii mukauttaa <span class="gui">Toiminnot</span>-yleisnäkymässä näytettäviä hakutuloksia. Voit valita näytettäväksi esimerkiksi verkkosivuja, kuvia tai musiikkia.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Mukauta näytettäviä hakutuloksia seuraavasti:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Napsauta <span class="gui"><a href="shell-introduction.html.fi#yourname" title="Sinä ja tietokoneesi">järjestelmävalikkoa</a></span> yläpalkin oikeasta laidasta.</p></li>
-<li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Search</span> panel.</p></li>
-<li class="steps"><p class="p">In the list of search locations, click the <span class="gui">ON/OFF</span>
-         switch next to the search location you want to enable or disable.</p></li>
+<li class="steps"><p class="p">Napsauta Asetukset-painiketta valikon vasemmanpuoleisesta alaosasta.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Etsi</span> vasemmasta paneelista.</p></li>
+<li class="steps"><p class="p">Napsauta hakusijaintilistauksessa <span class="gui">Päällä/Pois</span>-painiketta sen hakusijainnin vierestä, jonka haluat ottaa käyttöön tai poistaa käytöstä.</p></li>
 </ol></div>
 </div></div>
 </div></div>
@@ -157,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

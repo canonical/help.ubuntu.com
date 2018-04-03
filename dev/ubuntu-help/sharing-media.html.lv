@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Jūs varat pārlūkot, meklēt un atskaņot multimedijus savā datorā, izmantojot ierīces ar <span class="sys">UPnP</span> vai <span class="sys">DLNA</span>, piemēram, tālrunis, TV vai spēļu konsole. Konfigurējiet <span class="gui">multimediju koplietošanu</span>, lai ļautu šīm lietotnēm piekļūt jūsu mūzikai, fotogrāfijām un video.</p>
-<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Lai <span class="gui">Multimediju koplietošana</span> būtu redzama, jābūt uzinstalētai pakotnei <span class="app">Rygel</span>.</p></div></div></div></div>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Lai <span class="gui">Multimediju koplietošana</span> būtu redzama, jābūt uzinstalētai pakotnei <span class="app">Rygel</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:rygel" title="apt:rygel">Instalēt Rygel</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Koplietošana</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Koplietošana</span>, lai atvērtu paneli.</p></li>
@@ -115,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

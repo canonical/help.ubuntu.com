@@ -71,6 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Гном обезбеђује читач екрана <span class="app">Орку</span> за читање корисничког сучеља. Зависно од тога како сте инсталирали Гном, можда нећете имати инсталирану Орку. Ако је тако, прво инсталирајте Орку.</p>
+<p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Инсталирајте Орку</a></span></p>
 <p class="p">Да покренете <span class="app">Орку</span> користећи тастатуру:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Притисните <span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>С</kbd></span>.</p></li></ol></div></div></div>
 <p class="p">Или да покренете <span class="app">Орку</span> користећи миша и тастатуру:</p>
@@ -107,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

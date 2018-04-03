@@ -81,13 +81,12 @@
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">If you have an Apple keyboard, you will have a <span class="key"><kbd>⌘</kbd></span> (Command)
     key instead of the Windows key, while Chromebooks have a magnifying glass
     instead.</p></div></div></div></div>
-<p class="p">To change which key is used to display the <span class="gui">Activities</span>
-  overview:</p>
+<p class="p">Para cambiar que tecla se usa para mostrar a vista de <span class="gui">Actividades</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview, then
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview, then
       open the <span class="app">Settings</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Teclado</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Shortcuts</span> tab.</p></li>
+<li class="steps"><p class="p">Prema na lapela <span class="gui">Atallos</span>.</p></li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Sistema</span> na parte esquerda da xanela, e prema <span class="gui">Mostrar a vista de actividades</span> á dereita.</p></li>
 <li class="steps"><p class="p">Prema a combinación de teclas desexada.</p></li>
 </ol></div></div></div>
@@ -98,7 +97,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
+<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar disposicións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -116,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

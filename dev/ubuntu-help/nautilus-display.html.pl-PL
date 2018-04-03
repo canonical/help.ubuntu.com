@@ -64,47 +64,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » <a class="trail" href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » <a class="trail" href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencje wyświetlania menedżera plików</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can control how the file manager displays captions under icons.  Click
-<span class="gui">Files</span> in the top bar, pick <span class="gui">Preferences</span> and select the
-<span class="gui">Display</span> tab.</p></div>
+<div class="contents"><p class="p">Można zmieniać, jak menedżer plików wyświetla podpisy pod ikonami. Kliknij <span class="gui">Pliki</span> na górnym pasku, wybierz <span class="gui">Preferencje</span> i kartę <span class="gui">Wyświetlanie</span>.</p></div>
 <div id="icon-captions" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Podpisy ikon</span></h2></div>
 <div class="region"><div class="contents">
-<div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="File manager icons with captions"></div></div>
-<p class="p">When you use icon view, you can choose to have extra information about
-  files and folders displayed in a caption under each icon. This is useful,
-  for example, if you often need to see who owns a file or when it was last
-  modified.</p>
-<p class="p">You can zoom in a folder by clicking the view options button in the
-  
-  toolbar and choosing a zoom level with the slider. As you zoom in, the
-  file manager will display more and more information in captions. You can
-  choose up to three things to show in captions. The first will be displayed at
-  most zoom levels. The last will only be shown at very large sizes.</p>
-<p class="p">The information you can show in icon captions is the same as the
-  columns you can use in list view. See <span class="link"><a href="nautilus-list.html.pl-PL" title="Files list columns preferences">Files list columns preferences</a></span>
-  for more information.</p>
+<div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="Ikony menedżera plików z podpisami"></div></div>
+<p class="p">Podczas używania widoku ikon można wybrać wyświetlanie dodatkowych informacji o plikach i katalogach w podpisach pod ikonami. Jest to przydatne, na przykład, jeśli często potrzeba sprawdzać, kto jest właścicielem pliku lub kiedy został ostatnio zmodyfikowany.</p>
+<p class="p">Można powiększyć katalog klikając przycisk opcji widoku na pasku narzędziowym i wybierając poziom powiększenia za pomocą suwaka. Każdy poziom powiększenia dodaje informacje wyświetlane w podpisach. Można wybrać wyświetlanie do trzech rzeczy. Pierwszy będzie wyświetlany w większości poziomów, a ostatni tylko przy bardzo dużych rozmiarach.</p>
+<p class="p">Informacje wyświetlane w podpisach ikon są tymi samymi informacjami, co w kolumnach widoku listy. <span class="link"><a href="nautilus-list.html.pl-PL" title="Preferencje kolumn listy plików">Preferencje kolumn listy plików</a></span> zawiera więcej informacji.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Widok listy</span></h2></div>
-<div class="region"><div class="contents"><p class="p">When viewing files as a list, you can <span class="gui">Navigate folders in a
-  tree</span>. This shows expanders on each directory in the file list, so
-  that the contents of several folders can be shown at once. This is useful if
-  the folder structure is relevant, such as if your music files are organized
-  with a folder per artist, and a subfolder per album.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Podczas przeglądania plików jako lista można włączyć <span class="gui">rozwijanie katalogów</span>. Spowoduje to wyświetlanie elementów przy każdym katalogu na liście, których kliknięcie rozwija katalog, co umożliwia wyświetlanie zawartości kilku katalogów jednocześnie. Jest to przydatne, jeśli struktura katalogów jest ważna, na przykład jeśli pliki muzyczne są organizowane według katalogu na wykonawcę i podkatalogu na album.</p></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a><span class="desc"> — Wyświetlanie i ustawianie preferencji menedżera plików.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -115,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

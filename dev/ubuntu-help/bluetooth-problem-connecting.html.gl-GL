@@ -77,14 +77,9 @@
 <dt class="terms">Hardware Bluetooth non recoñecido</dt>
 <dd class="terms"><p class="p">É posíbel que o seu equipo non recoñeza o seu adaptador ou dongle Bluetooth. Isto pode deberse a que non teña instalados os <span class="link"><a href="hardware-driver.html.gl-GL" title="Que é un controlador?">controladores</a></span> para o seu adaptador. Algúns adaptadores Bluetooth non funciona con Linux, e por tanto non lle será posíbel conseguir os controladores axeitados para eles. En tal caso, probabelmente terá que conseguir outro adaptador Bluetooth diferente.</p></dd>
 <dt class="terms">Adaptador non está acendido</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Open the
-        Bluetooth panel and check that it is not
-        <span class="link"><a href="bluetooth-turn-on-off.html.gl-GL" title="Apagar ou acender o Bluetooth">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">Asegúrese de que o seu adaptador Bluetooth está acendido. Abra o panel de Bluetooth e comprobe que non está <span class="link"><a href="bluetooth-turn-on-off.html.gl-GL" title="Apagar ou acender o Bluetooth">desactivado</a></span>.</p></dd>
 <dt class="terms">Conexión do dispositivo Bluetooth apagado</dt>
-<dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
-      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html.gl-GL" title="Que é a visibilidade de Bluetooth?">discoverable
-      or visible</a></span>. For example, if you are trying to connect to a phone,
-      make sure that it is not in airplane mode.</p></dd>
+<dd class="terms"><p class="p">Comprobe que o Bluetooth está acendido no dispositivo ao que está tentando conectarse, e que é <span class="link"><a href="bluetooth-visibility.html.gl-GL" title="Que é a visibilidade de Bluetooth?">descubrível e visíbel</a></span>. Por exemplo, se está tentando conectarse a un teléfono, comprobe que non está en modo avión.</p></dd>
 <dt class="terms">Non hai ningún adaptador no seu computador</dt>
 <dd class="terms"><p class="p">Moitos computadores non teñen adaptadores de Bluetooth. Pode comprar un adaptador se quere usar Bluetooth.</p></dd>
 </dl></div></div></div>
@@ -111,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

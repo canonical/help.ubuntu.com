@@ -70,6 +70,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Previsualizar archivos y carpetas</span></h1></div>
 <div class="region">
 <div class="contents">
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Sushi</span> installed on your computer to perform
+  these steps.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Install <span class="app">Sushi</span></a></span></p>
+</div></div></div></div>
 <p class="p">Puede previsualizar archivos rápidamente sin abrirlos en una aplicación completa. Seleccione un archivo y pulse la barra espaciadora. El archivo se abrirá en una ventana simple de vista previa. Pulse la barra espaciadora de nuevo para cerrar la vista previa.</p>
 <p class="p">La vista previa soporta la mayoría de formatos de archivo para documentos, imágenes, vídeo y sonido. En la vista previa puede desplazarse por sus documentos o buscar a través de sus vídeos y archivos de sonido.</p>
 <p class="p">Para ver una vista previa a pantalla completa, pulse <span class="key"><kbd>F</kbd></span> o <span class="key"><kbd>F11</kbd></span>. Pulse <span class="key"><kbd>F</kbd></span> o <span class="key"><kbd>F11</kbd></span> de nuevo para salir del modo a pantalla completa, o pulse la barra espaciadora para salir por completo de la vista previa.</p>
@@ -96,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -75,7 +75,7 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Abra a <span class="gui">Vista xeral de Actividades</span> premendo a tecla <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Comece a escribir para buscar.</p>
+<p class="p">Abra a vista xeral de<span class="gui">Actividades</span> premendo <span class="gui">Actividades</span> na esquina superior esquerda da pantalla, ou premendo a tecla <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Comece a escribir para buscar.</p>
 <p class="p">Os resultados que coincidan aparecerán segundo escriba. O primeiro resultado realzarase sempre e mostrarase na parte superior.</p>
 <p class="p">Prema <span class="key"><kbd>Intro</kbd></span> para cambiar ao primeiro resultado realzado.</p>
 </li></ol></div></div></div>
@@ -86,8 +86,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">aplicativos que coincidan, mostrados na parte superior dos resultados,</p></li>
 <li class="list"><p class="p">preferencias que coincidan,</p></li>
-<li class="list"><p class="p">contactos que coincidan, e</p></li>
-<li class="list"><p class="p">documentos que coincidan.</p></li>
+<li class="list"><p class="p">contactos que coincidan,</p></li>
+<li class="list"><p class="p">documentos que coincidan,</p></li>
+<li class="list"><p class="p">calendarios que coincidan,</p></li>
+<li class="list"><p class="p">calculadora que coincida,</p></li>
+<li class="list"><p class="p">software que coincida,</p></li>
+<li class="list"><p class="p">ficheiros que coincidan,</p></li>
+<li class="list"><p class="p">terminais que coincidan,</p></li>
+<li class="list"><p class="p">contrasinais e chaves que coincidan,</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +116,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Prema o <span class="gui"><a href="shell-introduction.html.gl-GL#yourname" title="Vostede e o seu computador">menú do sistema</a></span> na parte dereita da barra superior.</p></li>
 <li class="steps"><p class="p">Prema o botón de preferencias na parte inferior esquerda do menú.</p></li>
-<li class="steps"><p class="p">Prema no panel <span class="gui">Buscar</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Buscar</span> no panel da esquerda.</p></li>
 <li class="steps"><p class="p">Na lista de localizacións de busca, prema o interruptor de <span class="gui">acendido/apagado</span> ao carón da localización de busca para activala ou desactivala.</p></li>
 </ol></div>
 </div></div>
@@ -125,13 +131,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.gl-GL" title="Comezando">Comezar con GNOME</a><span class="desc"> — É novo en GNOME? Aprenda a como moverse.</span>
+<a href="getting-started.html.gl-GL" title="Comezando">Comezar con GNOME</a><span class="desc"> — É novo en GNOME? Aprenda como moverse.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html.gl-GL" title="Iniciar aplicativos">Iniciar aplicativos</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
+<a href="shell-apps-open.html.gl-GL" title="Iniciar aplicativos">Iniciar aplicativos</a><span class="desc"> — Iniciar aplicativos desde a vista de <span class="gui">Actividades</span>.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -143,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

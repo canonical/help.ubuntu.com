@@ -115,11 +115,10 @@ file manager.</p>
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="nautilus-connect.html.ca" title="Browse files on a server or network share">Browse files on a server or network share</a><span class="desc"> — View and edit files on another computer over FTP, SSH, Windows
-    shares, or WebDAV.</span>
+<a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">Envia fitxers a un dispositiu Bluetooth</a><span class="desc"> — Com compartir fitxers amb dispositius Bluetooth com, per exemple, el mòbil.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-send-file.html.ca" title="Send files to a Bluetooth device">Send files to a Bluetooth device</a><span class="desc"> — Com compartir fitxers amb dispositius Bluetooth com, per exemple, el mòbil.</span>
+<a href="nautilus-connect.html.ca" title="Navega per fitxers en un servidor o en una xarxa compartida">Navega per fitxers en un servidor o en una xarxa compartida</a><span class="desc"> — Permet visualitzar i editar fitxers en una altra computadora a través de FTP, SSH, Windowsshares  o WebDAV.</span>
 </li>
 </ul></div>
 </div></div>
@@ -132,7 +131,7 @@ file manager.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -110,9 +110,6 @@
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-hibernate.html.sv" title="Hur försätter jag min dator i viloläge?">Hur försätter jag min dator i viloläge?</a><span class="desc"> — Viloläge är inaktiverat som standard eftersom det saknar bra stöd.</span>
-</li>
-<li class="links ">
 <a href="power-nowireless.html.sv" title="Jag har inget trådlöst nätverk när jag väcker datorn">Jag har inget trådlöst nätverk när jag väcker datorn</a><span class="desc"> — Vissa trådlösa enheter har problem med att hantera när datorn är i vänteläge och återstartar inte korrekt.</span>
 </li>
 <li class="links ">
@@ -135,7 +132,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

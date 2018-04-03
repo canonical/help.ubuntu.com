@@ -97,7 +97,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ru" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html.ru#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.ru" title="Использование других раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ru" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html.ru#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-display.html.ru" title="Монитор и экран">Монитор и экран</a></div>
@@ -141,7 +141,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-language.html.ru" title="Язык и регион">Язык и регион</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.ru" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html.ru" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">раскладки клавиатуры</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.ru" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html.ru" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html.ru" title="Использование других раскладок клавиатуры">раскладки клавиатуры</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -158,7 +158,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

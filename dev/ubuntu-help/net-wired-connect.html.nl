@@ -64,22 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Verbinden met een bekabeld (Ethernet) netwerk</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To set up most wired network connections, all you need to do is plug in a
-  network cable. The wired network icon
-  (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="settings"></span></span>) is displayed
-  on the top bar with three dots while the connection is being established. The
-  dots disappear when you are connected.</p>
+<p class="p">Voor het opzetten van de meeste bekabelde netwerkverbindingen hoeft er alleen een netwerkkabel aangesloten te worden. Het netwerkpictogram (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="instellingen"></span></span>) wordt in de menubalk weergegeven met drie puntjes terwijl de verbinding gemaakt wordt. De puntjes verdwijnen zodra u verbonden bent.</p>
 <p class="p">Als dit niet gebeurt, dient u eerst te controleren of de netwerkkabel aangesloten is. De ene kant van de kabel moet aangesloten zijn op de rechthoekige Ethernet(netwerk)-poort van uw computer, en de ander kant moet in een switch, router, muurstopcontact of iets dergelijks zitten (afhankelijk van de netwerkconfiguratie die u heeft). Soms zal er een lichtje naast de Ethernet-poort gaan branden om aan te geven dat deze aangesloten en actief is.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">You can’t plug one computer directly into another one with a network
-    cable (at least, not without some extra setting-up). To connect two
-    computers, you should plug them both into a network hub, router or
-    switch.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt niet de ene computer rechtstreeks op een andere aansluiten via een netwerkkabel (tenminste niet zonder extra maatregelen). Om twee computers te verbinden dient u ze allebei aan te sluiten op een netwerkhub, router of switch.</p></div></div></div></div>
 <p class="p">Als u nog geen verbinding heeft, dan kan het zijn dat uw netwerk geen automatische set-up (DHCP) ondersteunt. In dat geval moet u het <span class="link"><a href="net-manual.html.nl" title="Netwerkinstellingen handmatig instellen">handmatig configureren</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -98,7 +91,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

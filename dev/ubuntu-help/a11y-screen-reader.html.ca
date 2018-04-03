@@ -70,27 +70,21 @@
 <div class="hgroup"><h1 class="title"><span class="title">Llegir la pantalla en veu alta</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">GNOME provides the <span class="app">Orca</span> screen reader to speak the user
-  interface. Depending on how you installed GNOME, you might not have
-  Orca installed. If not, install Orca first.</p>
-<p class="p">To start <span class="app">Orca</span> using the keyboard:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
-<p class="p">Or to start <span class="app">Orca</span> using a mouse and keyboard:</p>
+<p class="p">GNOME proveeix del lector de pantalla <span class="app">Orca</span> per llegir l'interfició d'usuari. Depenent de com hagueu instal·lat GNOME, podeu no tenir-lo instal·lat. Si no ho està, instal·leu Orca primer.</p>
+<p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Instal·lar Orca</a></span></p>
+<p class="p">Per iniciar <span class="app">Orca</span> utilitzant el teclat:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Premeu <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
+<p class="p">O per iniciar <span class="app">Orca</span> utilitzant el ratolí i el teclat.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Screen Reader</span> in the <span class="gui">Seeing</span> section, then
-      switch <span class="gui">Screen Reader</span> on in the dialog.</p></li>
+<li class="steps"><p class="p">Obriu la descripció general de les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span>  i comenceu a escriure  <span class="gui">Accés Universal</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Accés Universal</span> per obrir el panell.</p></li>
+<li class="steps"><p class="p">Cliqueu a <span class="gui">Lector de pantalla</span>a la secció <span class="gui">Veure</span>,  aleshores activeu <span class="gui">Lector de pantalla</span> al diàleg.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Suggeriment"><div class="inner">
-<div class="title title-note"><h2><span class="title">Quickly turn Screen Reader on and off</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can turn Screen Reader on and off by clicking the
-    <span class="link"><a href="a11y-icon.html.ca" title="Trobar el menú d'accés universal">accessibility icon</a></span> in the top bar and
-    selecting <span class="gui">Screen Reader</span>.</p></div></div>
+<div class="title title-note"><h2><span class="title">Permuta ràpidament el Lector de Pantalla entre actiu i inactiu</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Podeu activar i desactivar el Lector de pantalla fent clic a la icona<span class="link"><a href="a11y-icon.html.ca" title="Trobar el menú d'accés universal">accessibilitat</a></span> a la barra superior i seleccionant <span class="gui">Lector de pantalla</span>.</p></div></div>
 </div></div>
-<p class="p">Refer to the <span class="link"><a href="help:orca" title="help:orca">Orca Help</a></span> for
-  more information.</p>
+<p class="p">Consulteu l'<span class="link"><a href="help:orca" title="help:orca">ajuda d'Orca</a></span> per a més informació.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -114,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

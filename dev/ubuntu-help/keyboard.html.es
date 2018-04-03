@@ -77,7 +77,7 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Región e idioma</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.es" title="Usar distribuciones de teclado alternativas">Usar distribuciones de teclado alternativas</a><span class="desc"> — Añadir distribuciones de teclado y cambiar entre ellas.</span>
+<a href="keyboard-layouts.html.es" title="Usar distribuciones de teclado alternativas">Usar distribuciones de teclado alternativas</a><span class="desc"> — Añadir distribuciones del teclado y cambiar entre ellas.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
@@ -148,7 +148,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

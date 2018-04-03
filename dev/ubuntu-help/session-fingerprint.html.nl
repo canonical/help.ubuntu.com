@@ -64,54 +64,36 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="hardware-auth.html.nl" title="Vingerafdruk &amp; smartcards">Vingerafdruk &amp; smartcards</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="hardware-auth.html.nl" title="Vingerafdruk &amp; smartcards">Vingerafdruk &amp; smartcards</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Aanmelden met een vingerafdruk</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If your system has a supported fingerprint scanner, you can record your
-  fingerprint and use it to log in.</p></div>
+<div class="contents"><p class="p">Als uw systeem een ondersteunde vingerafdrukscanner heeft, dan kunt u uw vingerafdruk opnemen de deze gebruiken om aan te melden.</p></div>
 <div id="record" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Een vingerafdruk vastleggen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Before you can log in with your fingerprint, you need to record it so that
-  the system can use it to identify you.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If your finger is too dry, you may have difficulty registering your
-    fingerprint. If this happens, moisten your finger slightly, dry it with a
-    clean, lint-free cloth, and retry.</p></div></div></div></div>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">administrator privileges</a></span>
-  to edit user accounts other than your own.</p>
+<p class="p">Voordat u kunt aanmelden met uw vingerafdruk dient u deze op te nemen, zodat het systeem deze kan gebruiken om u de identificeren.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als uw vinger te droog is, dan kan het moeilijk zijn een vingerafdruk te verkrijgen. Als dit het geval is, maak uw vinger dan enigszins vochtig, droog hem met een schone, pluisvrije doek en probeer het opnieuw.</p></div></div></div></div>
+<p class="p">Om andere gebruikersaccounts dan de uwe te bewerken dient u <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">beheerder</a></span> te zijn.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Gebruikers</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Press on <span class="gui">Disabled</span>, next to <span class="gui">Fingerprint Login</span> to
-      add a fingerprint for the selected account. If you are adding the
-      fingerprint for a different user, you will first need to
-      <span class="gui">Unlock</span> the panel.</p></li>
-<li class="steps"><p class="p">Select the finger that you want to use for the fingerprint, then
-      <span class="gui">Next</span>.</p></li>
-<li class="steps"><p class="p">Follow the instructions in the dialog and swipe your finger at a
-      <span class="em">moderate speed</span> over your fingerprint reader. Once the computer
-      has a good record of your fingerprint, you will see a <span class="gui">Done!</span>
-      message.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Next</span>. You will see a confirmation message that
-      your fingerprint was saved successfully. Select <span class="gui">Close</span> to
-      finish.</p></li>
+<li class="steps"><p class="p">Druk op <span class="gui">Uitgeschakeld</span>, naast <span class="gui">Aanmelden met vingerafdruk</span>, om een vingerafdruk toe te voegen voor het geselecteerde account. Als u de vingerafdruk voor een andere gebruiker toevoegt, dan dient u eerst het paneel te <span class="gui">Ontgrendelen</span>.</p></li>
+<li class="steps"><p class="p">Kies de vinger die u voor de vingerafdruk wilt gebruiken, en daarna <span class="gui">Volgende</span>.</p></li>
+<li class="steps"><p class="p">Volg de instructies in het dialoogvenster en veeg met een <span class="em">gematigde snelheid</span> met uw vinger over uw vingerafdruklezer. Zodra er een goede vingerafdruk is opgenomen, zult u de melding <span class="gui">Klaar!</span> te zien krijgen.</p></li>
+<li class="steps"><p class="p">Kies <span class="gui">Volgende</span>. U zult een bevestigingsmelding krijgen dat uw vingerafdruk met succes opgeslagen is. Kies <span class="gui">Afsluiten</span> om het af te ronden.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="verify" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Controleren of uw vingerafdruk werkt</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Now check that your new fingerprint login works. If you register a
-  fingerprint, you still have the option to log in with your password.</p>
+<p class="p">Controleer nu of het aanmelden met uw nieuwe vingerafdruk werkt. Als u een vingerafdruk registreert, heeft u nog altijd de optie om u met uw wachtwoord aan te melden.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then <span class="link"><a href="shell-exit.html.nl#logout" title="Afmelden of van gebruiker wisselen">log
-      out</a></span>.</p></li>
-<li class="steps"><p class="p">At the login screen, select your name from the list. The password
-      entry form will appear.</p></li>
-<li class="steps"><p class="p">Instead of typing your password, you should be able to swipe your
-      finger on the fingerprint reader.</p></li>
+<li class="steps"><p class="p">Sla al uw werk op, en kies dan <span class="link"><a href="shell-exit.html.nl#logout" title="Afmelden of van gebruiker wisselen">afmelden</a></span>.</p></li>
+<li class="steps"><p class="p">Kies in het aanmeldscherm uw naam in de lijst. Het wachtwoordinvoerveld zal verschijnen.</p></li>
+<li class="steps"><p class="p">In plaats van uw wachtwoord in te typen, kunt u met uw vinger over de vingerafdruklezer vegen.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -131,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

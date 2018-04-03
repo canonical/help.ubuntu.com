@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een andere monitor op uw computer aansluiten</span></h1></div>
@@ -79,7 +79,7 @@
 <li class="steps"><p class="p">Klik op het <span class="gui">Schermen</span> om het paneel te openen.</p></li>
 <li class="steps">
 <p class="p">Klik op de monitor die u wilt activeren of deactiveren en kies daarna in de lijst voor schermconfiguratie <span class="gui">Uitschakelen</span> om het scherm uit te schakelen, of kies <span class="gui">Primair</span>, <span class="gui">Secondair</span>, of <span class="gui">Spiegelen</span> om het te activeren.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Het primaire scherm is het scherm met de <span class="link"><a href="shell-introduction.html.nl" title="Inleiding tot Gnome">menubalk</a></span>, en waar het <span class="gui">Activiteiten</span>-overzicht getoond wordt.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Het primaire scherm is het scherm met de <span class="link"><a href="shell-introduction.html.nl" title="Inleiding tot Gnome">bovenbalk</a></span>, en waar het <span class="gui">Activiteiten</span>-overzicht getoond wordt.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Om de oriëntatie van het scherm te draaien gebruikt u de pijltjesknoppen totdat het voorbeeld juist is.</p></li>
 <li class="steps"><p class="p">Klik wanneer u tevreden bent met de instellingen op <span class="gui">Toepassen</span> en klik daarna op <span class="gui">Deze instellingen behouden</span>.</p></li>
@@ -91,11 +91,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.nl" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.nl" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
-      brightness…
-    </span>
+<a href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a><span class="desc"> — <span class="link"><a href="look-background.html.nl" title="De achtergrond van het werkblad en van een vergrendeld scherm wijzigen">Achtergrond</a></span>, <span class="link"><a href="look-resolution.html.nl" title="De resolutie of de oriëntatie (rotatie) van het scherm wijzigen">grootte en rotatie</a></span>, <span class="link"><a href="display-dimscreen.html.nl" title="display-dimscreen">helderheid</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -106,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

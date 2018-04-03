@@ -82,7 +82,7 @@
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Online Accounts</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the account which you want to change from the list on the
-      left.</p></li>
+      right.</p></li>
 <li class="steps"><p class="p">A list of services that are available with this account will be
       shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html.sl" title="Online services and applications">Online services and applications</a></span>
       to see which applications access which services.</p></li>
@@ -91,7 +91,8 @@
 <p class="p">Once a service has been disabled for an account, applications on your
   computer will not be able to use the account to connect to that service any
   more.</p>
-<p class="p">Za vklop izklopljene storitve pojdite nazaj v okno <span class="gui">Spletni računi</span> in jo omogočite.</p>
+<p class="p">To turn on a service that you disabled, just go back to the <span class="gui">Online
+  Accounts</span> panel and switch it on.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -127,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,27 +64,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html.nl" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html.nl#manage" title="Gebruikersaccounts beheren">Accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="user-accounts.html.nl" title="Gebruikersaccounts">Gebruikers</a> › <a class="trail" href="user-accounts.html.nl#manage" title="Gebruikersaccounts beheren">Accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een gebruikersaccount verwijderen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can <span class="link"><a href="user-add.html.nl" title="Een nieuwe gebruiker toevoegen">add multiple user accounts to your
-  computer</a></span>. If somebody is no longer using your computer, you can delete
-  that user’s account.</p>
+<p class="p">U kunt <span class="link"><a href="user-add.html.nl" title="Een nieuwe gebruiker toevoegen">meerdere gebruikersaccounts aan uw computer toevoegen</a></span>. Als iemand uw computer niet meer gebruikt, dan kunt u het account van die gebruiker verwijderen.</p>
 <p class="p">Om gebruikersaccounts te kunnen verwijderen dient u <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">beheerder</a></span> te zijn.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
-<li class="steps"><p class="p">Klik op <span class="gui">Gebruikersaccounts</span> om het venster te openen.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Gebruikersaccounts</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Ontgrendelen</span> rechtsboven in de hoek en voer uw wachtwoord in wanneer daar om gevraagd wordt.</p></li>
 <li class="steps"><p class="p">Selecteer de gebruiker die u wilt verwijderen en druk op de knop <span class="gui">-</span>, onder de lijst met accounts links, om die gebruikersaccount te verwijderen.</p></li>
-<li class="steps"><p class="p">Each user has their own home folder for their files and settings. You
-      can choose to keep or delete the user’s home folder. Click <span class="gui">Delete
-      Files</span> if you are sure they will not be used anymore and you need to
-      free up disk space. These files are permanently deleted. They cannot be
-      recovered. You may want to back up the files to an external storage device
-      before deleting them.</p></li>
+<li class="steps"><p class="p">Iedere gebruiker heeft zijn eigen persoonlijke map voor het bewaren van diens bestanden en instellingen. U kunt ervoor kiezen de persoonlijke map van de gebruiker te behouden of te verwijderen. Klik op <span class="gui">Bestanden verwijderen</span> als u er zeker van bent dat ze niet meer gebruikt worden en u schijfruimte wilt vrijmaken. Deze bestanden zullen permanent verwijderd worden. Ze kunnen niet teruggehaald worden. Voordat u de bestanden verwijdert kunt u er een reservekopie van maken op een externe opslagapparaat.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -114,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

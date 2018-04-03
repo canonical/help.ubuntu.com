@@ -75,7 +75,7 @@
     screen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.gl-GL" title="Clic central"><span class="title">Clic central</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
     more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.gl-GL" title="Determine which version of GNOME is running"><span class="title">Determine which version of GNOME is running</span><span class="linkdiv-dash"> — </span><span class="desc">How to determine which version of GNOME is running.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.gl-GL" title="Determinar que versión de GNOME está executándose"><span class="title">Determinar que versión de GNOME está executándose</span><span class="linkdiv-dash"> — </span><span class="desc">Como determinar que versión de GNOME está executándose.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.gl-GL" title="Inserir caracteres especiais"><span class="title">Inserir caracteres especiais</span><span class="linkdiv-dash"> — </span><span class="desc">Escriba os caracteres que non se encontran no teclado, incluíndo alfabetos estranxeiros, símbolos matemáticos e «dingbats».</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -92,7 +92,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -76,13 +76,7 @@
 <div class="contents">
 <p class="p">Cara terbaik untuk mendapat profil adalah menjangkitkannya sendiri, walaupun ini memerlukan sedikit modal awal.</p>
 <p class="p">Banyak pabrikan mencoba menyediakan profil warna bagi perangkat, walaupun kadang mereka dibungkus dalam <span class="em">bundel driver</span> yang mungkin perlu Anda unduh, ekstrak, lalu cari profil warnanya.</p>
-<p class="p">
-    Some manufacturers do not provide accurate profiles for the hardware
-    and the profiles are best avoided.
-    A good clue is to download the profile, and if the creation date is
-    more than a year before the date you bought the device then it’s
-    likely dummy data generated that is useless.
-  </p>
+<p class="p">Beberapa pabrikan tak menyediakan profil yang akurat bagi perangkat keras dan profil tersebut sebaiknya dihindari. Petunjuk yang baik adalah dengan mengunduh profil, dan bila tanggal pembuatan lebih dari setahun sebelum tanggal Anda membeli perangkat maka boleh jadi itu adalah data dummy yang diterbitkan dan tak berguna.</p>
 <p class="p">Lihat <span class="link"><a href="color-why-calibrate.html.id" title="Mengapa saya perlu melakukan kalibrasi sendiri?">Mengapa saya perlu melakukan kalibrasi sendiri?</a></span> untuk informasi mengapa profil yang disediakan vendor sering kali lebih buruk daripada tak berguna.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -118,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

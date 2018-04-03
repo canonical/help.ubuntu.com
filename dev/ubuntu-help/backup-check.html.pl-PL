@@ -64,14 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#backup" title="Kopie zapasowe">Kopie zapasowe</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#backup" title="Kopie zapasowe">Kopie zapasowe</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sprawdzanie kopii zapasowej</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Po utworzeniu kopii zapasowej plików należy się upewnić, że kopia jest poprawna. Jeśli coś się nie powiodło i części plików nie ma w kopii, to można bezpowrotnie utracić ważne dane.</p>
-<p class="p">Podczas używania <span class="app">Menedżera plików</span> do kopiowania lub przenoszenia plików komputer upewnia się, że wszystkie dane zostały poprawnie przesłane. Jednakże, jeśli przesyłane dane są bardzo ważne, to można dodatkowo sprawdzić, czy dane zostały właściwie przesłane.</p>
+<p class="p">Podczas używania programu <span class="app">Pliki</span> (lub innego menedżera plików) do kopiowania lub przenoszenia plików komputer upewnia się, że wszystkie dane zostały poprawnie przesłane. Jednakże, jeśli przesyłane dane są bardzo ważne, to można dodatkowo sprawdzić, czy dane zostały właściwie przesłane.</p>
 <p class="p">Można przejrzeć skopiowane pliki i katalogi na nośniku docelowym. Sprawdzenie, czy przesłane pliki i katalogi są w kopii zapasowej zwiększa pewność, że proces się powiódł.</p>
 <div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli regularnie wykonywane są kopie zapasowej dużej ilości danych, to łatwiej jest używać wyspecjalizowanego programu, takiego jak <span class="app">Déjà Dup</span>. Programy tego typu mają więcej możliwości i są bardziej niezawodne niż po prostu kopiowanie i wklejanie plików.</p></div></div></div></div>
 </div>
@@ -89,7 +89,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

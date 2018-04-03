@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a> » <a class="trail" href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a> » </div>
-<div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a> » <a class="trail" href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -81,8 +81,7 @@
 <p class="p">Neste paso pode comprobar se pode obter os controladores de dispositivo correctos para o seu adaptador sen fíos. Un <span class="em">controlador de dispositivo</span> é un software que lle di ao computador como facer que un dispositivo hardware funcione correctamente. Aínda que un adaptador sen fíos fora recoñecido polo seu computador, podería non ter os controladores para facer que funcione ben. Podería buscar uns controladores distintos para o adaptador de rede sen fíos que o fagan funcionar. Tente algunha das opcións de embaixo:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Check to see if your wireless adapter is on a list of supported
-      devices.</p>
+<p class="p">Comprobe que o seu adaptador sen fíos está na lista de dispositivos compatíbeis.</p>
 <p class="p">Most Linux distributions keep a list of wireless devices that they
       have support for. Sometimes, these lists provide extra information on how
       to get the drivers for certain adapters working properly. Go to the list
@@ -96,7 +95,7 @@
       working.</p>
 </li>
 <li class="list">
-<p class="p">Look for restricted (binary) drivers.</p>
+<p class="p">Buscar controladores restrinxidos (binarios).</p>
 <p class="p">Many Linux distributions only come with device drivers which are
       <span class="em">free</span> and <span class="em">open source</span>. This is because they cannot
       distribute drivers which are proprietary, or closed-source. If the
@@ -107,7 +106,7 @@
 <p class="p">Algunhas distribucións Linux teñen unha ferramenta que pode descargar controldaores restrinxidos por vostede. Se a súa distribución ten unha desas ferramentas, úsea para ver se pode atopar calquera controlador sen fíos.</p>
 </li>
 <li class="list">
-<p class="p">Use the Windows drivers for your adapter.</p>
+<p class="p">Use os controladores de Windows para o seu adaptador.</p>
 <p class="p">En xeral, só pode usar un controlador de dispositivo deseñado para un sistema operativo (por exemplo Windows) noutro sistema operativo (como Linux). Isto é porque teñen diferentes formas de xestionar os dispositivos. Para os adaptadores sen fíos, porén, pode instalar unha capa de compatibilidade chamada <span class="em">NDISwrapper</span> que lle permite usar algúns controladores de Windows en Linux. Isto é útil porque os adaptadores sen fíos teñen sempre un controlador dispoñíbel para Windows, mentres que para Linux non sempre están dispoñíbeis. Pode saber máis sobre como usar NDISwrapper <span class="link"><a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page" title="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page">aquí</a></span>. Teña en conta que non todos os controladores sen fíos poden usarse con NDISwrapper.</p>
 </li>
 </ul></div></div></div>
@@ -119,7 +118,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a><span class="desc"> — Identificar e arranxar problemas con conexións sen fíos.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -130,7 +129,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

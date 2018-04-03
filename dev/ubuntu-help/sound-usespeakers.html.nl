@@ -64,30 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Andere luidsprekers of hoofdtelefoons gebruiken</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">U kunt externe luidsprekers of hoofdtelefoons met uw computer gebruiken. Luidsprekers worden meestal aangesloten via een ronde TRS-stekker (<span class="em">tip, ring, sleeve</span>) of USB.</p>
-<p class="p">If your speakers or headphones have a TRS plug, plug it into the
-  appropriate socket on your computer. Most computers have two sockets: one for
-  microphones and one for speakers. This socket is usually light green in color
-  or is accompanied by a picture of headphones. Speakers or headphones
-  plugged into a TRS socket are usually used by default. If not, see the
-  instructions below for selecting the default device.</p>
-<p class="p">Some computers support multi-channel output for surround sound. This
-  usually uses multiple TRS jacks, which are often color-coded. If you are
-  unsure which plugs go in which sockets, you can test the sound output in the
-  sound settings.</p>
+<p class="p">Als uw luidsprekers of hoofdtelefoon een TRS-stekker hebben, stop deze dan in de juiste aansluiting op uw computer. De meeste computers hebben twee aansluitingen: één voor microfoons en één voor luidsprekers. Deze aansluiting is meestal lichtgroen van kleur of er is een afbeelding van een hoofdtelefoon naast de aansluiting. Luidsprekers of hoofdtelefoons die aangesloten zijn op een TRS-aansluiting zullen meestal standaard gebruikt worden. Is dat niet het geval, lees dan de instructies hieronder over het selecteren van het standaard apparaat.</p>
+<p class="p">Sommige computers ondersteunen uitvoer van meerdere kanalen voor geluid rondom. Dit gebruikt meestal meerdere TRS-aansluitingen die vaak een kleurcode hebben. Als u niet weet welke stekker waarin moet, dan kunt u de geluidsuitvoer testen bij de geluidsinstellingen.</p>
 <p class="p">Als u een USB-hoofdtelefoon of -luidsprekers heeft, of een analoge hoofdtelefoon aangesloten op de USB-geluidskaart, sluit die dan aan op een USB-poort. USB-luidsprekers gedragen zich als aparte audio-apparaten, en het is mogelijk dat u aan zult moeten geven welke luidspreker standaard gebruikt moet worden.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Standaard geluidsinvoerapparaat selecteren</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span>
-      overview and start typing <span class="gui">Sound</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Geluid</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Geluid</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Selecteer in het tabblad <span class="gui">Uitvoer</span> het apparaat dat u wilt gebruiken.</p></li>
 </ol></div>
 </div></div>
@@ -117,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

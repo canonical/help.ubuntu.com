@@ -79,14 +79,14 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o diálogo de impresora. Isto pode facerse normalmente mediante <span class="gui">Imprimir</span> no menú ou usando o atallo de teclado <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Properties…</span> button </p>
+<p class="p">Prema sobre o botón <span class="gui">Propiedades…</span>.</p>
 <p class="p">In the <span class="gui">Orientation</span> drop-down list, make sure that
       <span class="gui">Landscape</span> is selected.</p>
 <p class="p">In the <span class="gui">Duplex</span> drop-down list, select <span class="gui">Short Edge</span>.
       </p>
-<p class="p">Click <span class="gui">OK</span> to go back to the print dialog.</p>
+<p class="p">Prema <span class="gui">OK</span> para volver ao diálogo de impresión.</p>
 </li>
-<li class="steps"><p class="p">Under <span class="gui">Range and Copies</span>, choose <span class="gui">Pages</span>.</p></li>
+<li class="steps"><p class="p">Baixo <span class="gui">Rango e copias</span>, seleccione <span class="gui">Páxina</span>.</p></li>
 <li class="steps">
 <p class="p">Escriba os números das páxinas neste orde (n é o número total de páxinas, múltiplo de 4):</p>
 <p class="p">n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9, 10, n-9, n-10, 11, 12, n-11…</p>
@@ -98,7 +98,7 @@
 </ul></div></div></div>
 </li>
 <li class="steps">
-<p class="p">Choose the <span class="gui">Page Layout</span> tab.</p>
+<p class="p">Seleccione a lapela <span class="gui">Disposición de páxina</span>.</p>
 <p class="p">Under <span class="gui">Layout</span>, select <span class="gui">Brochure</span>.</p>
 <p class="p">Under <span class="gui">Page Sides</span>, in the <span class="gui">Include</span> drop-down list,
       select <span class="gui">All pages</span>.</p>
@@ -122,7 +122,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

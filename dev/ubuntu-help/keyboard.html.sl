@@ -77,7 +77,7 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Področje in jezik</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Uporaba nadomestnih razporeditev tipk</a><span class="desc"> — Dodajte razporeditev tipk in preklapljajte med njimi.</span>
+<a href="keyboard-layouts.html.sl" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
@@ -152,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -65,30 +65,24 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jak skalibrować skaner?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you want your scanner to represent the color accurately in scans, you
-  should calibrate it.</p>
+<p class="p">Aby skaner dokładnie odwzorowywał kolory skanowanych dokumentów, należy go skalibrować.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure your scanner is connected to your computer with a cable or
-      over the network.</p></li>
-<li class="steps"><p class="p">Scan your calibration target and save it as an uncompressed TIFF
-      file.</p></li>
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
-      scanner.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Calibrate…</span> to commence the
-      calibration.</p></li>
+<li class="steps"><p class="p">Upewnij się, że skaner jest podłączony do komputera kablem lub przez sieć.</p></li>
+<li class="steps"><p class="p">Zeskanuj obiekt kalibracji i zapisz go jako nieskompresowany plik TIFF.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Kolor</span>, aby otworzyć panel i wybierz skaner.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Skalibruj…</span>, aby rozpocząć kalibrację.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Scanner devices are incredibly stable over time and temperature, so do
-    not usually need to be recalibrated.</p></div></div></div></div>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Skanery są bardzo odporne na czas i temperaturę, więc zwykle nie muszą być ponownie kalibrowane.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -101,17 +95,16 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html.pl-PL" title="Jak skalibrować aparat?">Jak skalibrować aparat?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-camera.html.pl-PL" title="Jak skalibrować aparat?">Jak skalibrować aparat?</a><span class="desc"> — Kalibracja aparatu jest ważna, aby zdjęcia miały dokładne kolory.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html.pl-PL" title="Jak skalibrować drukarkę?">Jak skalibrować drukarkę?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
+<a href="color-calibrate-printer.html.pl-PL" title="Jak skalibrować drukarkę?">Jak skalibrować drukarkę?</a><span class="desc"> — Kalibracja drukarki jest ważna, aby wydruki miały dokładne kolory.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html.pl-PL" title="Jak skalibrować ekran?">Jak skalibrować ekran?</a><span class="desc"> — Calibrating your screen is important to display accurate
-    colors.</span>
+<a href="color-calibrate-screen.html.pl-PL" title="Jak skalibrować ekran?">Jak skalibrować ekran?</a><span class="desc"> — Kalibracja ekranu jest ważna, aby ekran wyświetlał dokładne kolory.</span>
 </li>
 <li class="links ">
-<a href="color-calibrationtargets.html.pl-PL" title="Which target types are supported?">Which target types are supported?</a><span class="desc"> — Calibration targets are needed to do scanner and camera profiling.</span>
+<a href="color-calibrationtargets.html.pl-PL" title="Jakie typy obiektów są obsługiwane?">Jakie typy obiektów są obsługiwane?</a><span class="desc"> — Obiekty kalibracji są wymagane do tworzenia profili skanerów i aparatów.</span>
 </li>
 </ul></div>
 </div></div>
@@ -124,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

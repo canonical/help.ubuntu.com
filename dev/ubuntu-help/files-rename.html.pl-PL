@@ -64,49 +64,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zmiana nazwy pliku lub katalogu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">As with other file managers, you can use <span class="app">Files</span> to change the
-  name of a file or folder.</p>
+<p class="p">Tak jak w innych menedżerach plików, w programie <span class="app">Pliki</span> można zmieniać nazwy plików i katalogów.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Aby zmienić nazwę pliku lub katalogu:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Right-click on the item and select <span class="gui">Rename</span>, or select
-    the file and press <span class="key"><kbd>F2</kbd></span>.</p></li>
-<li class="steps"><p class="p">Type the new name and press <span class="key"><kbd>Enter</kbd></span> or click
-    <span class="gui">Rename</span>.</p></li>
+<li class="steps"><p class="p">Kliknij element prawym przyciskiem myszy i wybierz <span class="gui">Zmień nazwę</span> lub zaznacz plik i naciśnij klawisz <span class="key"><kbd>F2</kbd></span>.</p></li>
+<li class="steps"><p class="p">Wpisz nową nazwę i naciśnij klawisz <span class="key"><kbd>Enter</kbd></span> lub kliknij przycisk <span class="gui">Zmień nazwę</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">You can also rename a file from the
-  <span class="link"><a href="nautilus-file-properties-basic.html.pl-PL" title="Właściwości pliku">properties</a></span> window.</p>
-<p class="p">When you rename a file, only the first part of the name of the file is
-  selected, not the file extension (the part after the last <span class="file">.</span>).
-  The extension normally denotes what type of file it is (for example,
-  <span class="file">file.pdf</span> is a PDF document), and you usually do not want to
-  change that. If you need to change the extension as well, select the entire
-  file name and change it.</p>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">If you renamed the wrong file, or named your file improperly, you can
-    undo the rename. To revert the action, immediately click the menu button in
-    the toolbar and select <span class="gui">Undo Rename</span>, or press
-    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, to restore the former
-    name.</p></div></div></div></div>
+<p class="p">Można także zmienić nazwę pliku w oknie <span class="link"><a href="nautilus-file-properties-basic.html.pl-PL" title="Właściwości pliku">Właściwości</a></span>.</p>
+<p class="p">Podczas zmiany nazwy pliku tylko jej pierwsza część jest zaznaczona, a druga, rozszerzenie pliku (część po ostatnim znaku <span class="file">.</span>), nie jest. Rozszerzenie zwykle wskazuje typ pliku (np. <span class="file">plik.pdf</span> to dokument PDF), i zazwyczaj nie ma potrzeby jego zmiany. Jeśli jednak istnieje taka potrzeba, to zaznacz całą nazwę pliku i ją zmień.</p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli zmieniono nazwę niewłaściwego pliku lub niewłaściwie nazwano plik, to można cofnąć zmianę. Aby to zrobić, od razu kliknij przycisk menu na pasku narzędziowym i wybierz <span class="gui">Cofnij zmianę nazwy</span>, lub naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, aby przywrócić poprzednią nazwę.</p></div></div></div></div>
 </div>
 <div id="valid-chars" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Prawidłowe znaki dla nazw plików</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can use any character except the <span class="file">/</span> (slash) character in
-    file names. Some devices, however, use a <span class="em">file system</span> that has more
-    restrictions on file names. Therefore, it is a best practice to avoid the
-    following characters in your file names: <span class="file">|</span>, <span class="file">\</span>,
-    <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
-    <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html.pl-PL" title="Ukrywanie pliku">hidden</a></span> when you attempt to
-    view it in the file manager.</p></div></div></div></div>
+<p class="p">W nazwach plików można używać wszystkich znaków oprócz znaku <span class="file">/</span> (ukośnik). Niektóre urządzenia używają jednak <span class="em">systemu plików</span> mającego więcej ograniczeń nazw plików. Dlatego najlepiej jest unikać tych znaków: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
+<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli nazwa pliku zaczyna się od znaku <span class="file">.</span>, to będzie on <span class="link"><a href="files-hidden.html.pl-PL" title="Ukrywanie pliku">ukryty</a></span> w menedżerze plików.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -114,26 +94,13 @@
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Nazwa pliku jest już używana</dt>
 <dd class="terms">
-<p class="p">You cannot have two files or folders with the same name in the same
-        folder. If you try to rename a file to a name that already exists in
-        the folder you are working in, the file manager will not allow it.</p>
-<p class="p">File and folder names are case sensitive, so the file name
-        <span class="file">File.txt</span> is not the same as <span class="file">FILE.txt</span>.
-        Using different file names like this is allowed, though it is not
-        recommended.</p>
+<p class="p">Dwa pliki lub katalogi nie mogą mieć tej samej nazwy w tym samym katalogu. Menedżer plików nie zezwoli na zmianę nazwy pliku na nazwę, która już istnieje w obecnym katalogu.</p>
+<p class="p">Wielkie i małe znaki w nazwach plików i katalogów mają znaczenie, więc <span class="file">Plik.txt</span> to inna nazwa niż <span class="file">PLIK.txt</span>. Używanie różnych nazw plików w ten sposób jest dozwolone, ale nie jest zalecane.</p>
 </dd>
 <dt class="terms">Nazwa pliku jest za długa</dt>
-<dd class="terms"><p class="p">On some file systems, file names can have no more than 255
-        characters in their names.  This 255 character limit includes both the
-        file name and the path to the file (for example,
-        <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), so you
-        should avoid long file and folder names where possible.</p></dd>
-<dt class="terms">The option to rename is grayed out</dt>
-<dd class="terms"><p class="p">If <span class="gui">Rename</span> is grayed out, you do not have permission to
-        rename the file. You should use caution with renaming such files, as
-        renaming some protected files may cause your system to become unstable.
-        See <span class="link"><a href="nautilus-file-properties-permissions.html.pl-PL" title="Ustawianie uprawnień plików">Ustawianie uprawnień plików</a></span> for more
-        information.</p></dd>
+<dd class="terms"><p class="p">W niektórych systemach plików nazwy plików nie mogą mieć więcej niż 255 znaków. To ograniczenie do 255 znaków obejmuje zarówno nazwę pliku, jak i ścieżkę do niego (np. <span class="file">/home/alicja/Dokumenty/praca/faktury/…</span>), więc należy unikać długich nazw plików i katalogów, jeśli to możliwe.</p></dd>
+<dt class="terms">Opcja zmiany nazwy jest nieaktywna</dt>
+<dd class="terms"><p class="p">Jeśli opcja <span class="gui">Zmień nazwę</span> jest nieaktywna, to użytkownik nie ma uprawnienia do zmiany nazwy pliku. Należy zachować ostrożność podczas zmieniania nazw takich plików, jako że zmiana nazw niektórych chronionych plików może spowodować niestabilność systemu. <span class="link"><a href="nautilus-file-properties-permissions.html.pl-PL" title="Ustawianie uprawnień plików">Ustawianie uprawnień plików</a></span> zawiera więcej informacji.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -150,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

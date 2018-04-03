@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Puede permitir el acceso a la carpeta <span class="file">Público</span> de su <span class="file">Carpeta personal</span> desde otro equipo de la red. Configure la <span class="gui">Compartición de archivos personales</span> para permitir que otros usuarios accedan al contenido de esta carpeta.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Debe tener instalado el paquete <span class="app">gnome-user-share</span> para que la opción de <span class="gui">Compartición de archivos personales</span> esté visible.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Debe tener instalado el paquete <span class="app">gnome-user-share</span> para que la opción de <span class="gui">Compartición de archivos personales</span> esté visible.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-user-share" title="apt:gnome-user-share">Instalar gnome-user-share</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Compartición</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Compartición</span> para abrir el panel.</p></li>
@@ -125,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

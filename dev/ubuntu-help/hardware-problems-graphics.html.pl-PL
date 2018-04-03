@@ -64,23 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemy z ekranem</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Most problems with the display are caused by issues with graphics drivers or configuration. Which of the topics below best describes the problem you are experiencing?</p>
+<p class="p">Większość problemów z ekranem jest powodowanych przez problemy ze sterownikami graficznymi lub konfiguracją. Który z poniższych tematów najlepiej opisuje występujący problem?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.pl-PL" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.pl-PL" title="The screen locks itself too quickly"><span class="title">The screen locks itself too quickly</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.pl-PL" title="Ustawianie jasności ekranu"><span class="title">Ustawianie jasności ekranu</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
-    light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.pl-PL" title="Why do things look fuzzy/pixelated on my screen?"><span class="title">Why do things look fuzzy/pixelated on my screen?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen resolution may be set incorrectly.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.pl-PL" title="Why does my computer not turn back on after I suspended it?"><span class="title">Why does my computer not turn back on after I suspended it?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.pl-PL" title="Why does my screen go dim after a while?"><span class="title">Why does my screen go dim after a while?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.pl-PL" title="Komputer się nie włącza"><span class="title">Komputer się nie włącza</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.pl-PL" title="Dlaczego ekran jest po chwili przygaszany?"><span class="title">Dlaczego ekran jest po chwili przygaszany?</span><span class="linkdiv-dash"> — </span><span class="desc">Ekran jest przygaszany, kiedy komputer nie jest używany, aby oszczędzać prąd.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.pl-PL" title="Dlaczego komputer nie włącza się z powrotem po uśpieniu?"><span class="title">Dlaczego komputer nie włącza się z powrotem po uśpieniu?</span><span class="linkdiv-dash"> — </span><span class="desc">Niektóre urządzenia powodują problemy z usypianiem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.pl-PL" title="Dlaczego rzeczy na ekranie są rozmyte/rozpikselowane?"><span class="title">Dlaczego rzeczy na ekranie są rozmyte/rozpikselowane?</span><span class="linkdiv-dash"> — </span><span class="desc">Rozdzielczość ekranu mogła zostać niewłaściwie ustawiona.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.pl-PL" title="Ekran blokuje się za szybko"><span class="title">Ekran blokuje się za szybko</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana czasu, po jakim ekran zostanie zablokowany w ustawieniach prywatności.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.pl-PL" title="Ustawianie czasu wygaszania ekranu"><span class="title">Ustawianie czasu wygaszania ekranu</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana czasu wygaszania ekranu, aby oszczędzać prąd.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.pl-PL" title="Ustawianie jasności ekranu"><span class="title">Ustawianie jasności ekranu</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana jasności ekranu, aby był czytelniejszy w mocnym oświetleniu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.pl-PL" title="Komputer się nie włącza"><span class="title">Komputer się nie włącza</span><span class="linkdiv-dash"> — </span><span class="desc">Luźne kable i problemy sprzętowe to możliwe przyczyny.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -97,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Repair a damaged filesystem</title>
+<title>Repareu un sistema de fitxers danyat</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,81 +67,46 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Repair a damaged filesystem</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Repareu un sistema de fitxers danyat</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Filesystems can be corrupted due to unexpected power loss, system crashes
-     and unsafe removal of the drive.
-     After such an incident it is recommended to <span class="em">repair</span> or at least
-     <span class="em">check</span> the filesystem to prevent future data loss.</p>
-<p class="p">Sometimes a repair is required in order to mount or modify a filesystem.
-     Even if a <span class="em">check</span> does not report any damage the filesystem might
-     still be marked as 'dirty' internally and require a repair.</p>
+<p class="p">Els sistemes de fitxers poden estar danyats per pèrdues de potència inesperades, els bloquejos del sistema i l'eliminació no segura dels dispositius. Després d'un incident d'aquest tipus es recomana<span class="em">reparar</span> o si més no <span class="em">comprovar</span> el sistema de fitxers per evitar futures pèrdues de dades.</p>
+<p class="p">De vegades es requereix una reparació per muntar o modificar un sistema de fitxers. Fins i tot si la <span class="em">comprovació</span> no informa de cap dany, el sistema de fitxers encara pot estar marcat com a "brut" internament i requerirà una reparació.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Check if a filesystem is damaged</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Comproveu si un sistema de fitxers està malmès</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list of
-       storage devices on the left. If there is more than one volume on the
-       disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Check Filesystem…</span>.</p></li>
+<li class="steps"><p class="p">Obrir<span class="app">Discs</span> des de la vista d'<span class="gui">Activitats</span>.</p></li>
+<li class="steps"><p class="p">Seleccioneu el disc que conté el sistema de fitxers en qüestió a la llista de dispositius d'emmagatzematge de l'esquerra. Si hi ha més d'un volum al disc, seleccioneu el volum que conté el sistema de fitxers.</p></li>
+<li class="steps"><p class="p">A la barra d'eines a sota de la secció <span class="gui">Volums</span>, feu clic al botó de menú. Aleshores feu clic a <span class="gui">Comprovar el sistema de fitxers…</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a check may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
-<p class="p">The action will not modify the filesystem but will unmount it if needed.
-      Be patient while the filesystem is checked.</p>
+<p class="p">Depenent de la quantitat de dades que s'emmagatzemen al sistema de fitxers la validació pot trigar més temps. Confirmeu l'inici de l'acció al quadre de diàleg que apareix.</p>
+<p class="p">L'acció no modificarà el sistema de fitxers, però la desmuntarà si és necessari. Tingueu paciència mentre el sistema de fitxers s'estigui comprovant.</p>
 </li>
-<li class="steps"><p class="p">After completion you will be notified whether the filesystem is damaged.
-       Note that in some cases even if the filesystem is undamaged it still
-       may need to be repaired to reset an internal 'dirty' marker.</p></li>
+<li class="steps"><p class="p">Un cop finalitzada, s'ús notificarà si el sistema de fitxers està malmès. Tingueu en compte que, en alguns casos, fins i tot si el sistema de fitxers no està malmès, pot ser necessari reparar-lo per restablir un marcador "brut" intern.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Atenció"><div class="inner">
-<div class="title title-note"><h2><span class="title">Possible data loss when repairing</span></h2></div>
+<div class="title title-note"><h2><span class="title">Pèrdua de dades possibles quan es repari</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the filesystem structure is damaged it can affect the files stored
-     in it. In some cases these files can not be brought into a valid form
-     again and will be deleted or moved to a special directory. It is normally
-     the <span class="em">lost+found</span> folder in the top level directory of the filesystem
-     where these recovered file parts can be found.</p>
-<p class="p">If the data is too valuable to be lost during this process, you are
-     advised to back it up by saving an image of the volume before
-     repairing.</p>
-<p class="p">This image can be then processed with forensic analysis tools like
-     <span class="app">sleuthkit</span> to further recover missing files and data parts
-     which were not restored during the repair, and also previously removed
-     files.</p>
+<p class="p">Si l'estructura del sistema de fitxers està malmesa, poden veure's afectats els fitxers emmagatzemats. En alguns casos aquests fitxers no es poden recuperar de forma vàlida i se suprimiran o es traslladaran a un directori especial. Normalment és la carpeta <span class="em"> perduts + trobats</span> al directori de nivell superior del sistema de fitxers on es poden trobar les parts recuperades d'aquests fitxers. </p>
+<p class="p">Si les dades són massa valuoses per perdre's durant aquest procés, us recomanem que feu una còpia de seguretat, guardant una imatge del volum abans de reparar-la.</p>
+<p class="p">Aquesta imatge es pot processar amb eines d'anàlisi forenses com ara <span class="app">sleuthkit</span> per més endavant recuperar fitxers perduts i parts de dades que no s'hagin pogut restaurar durant la reparació, i també fitxers eliminats prèviament.</p>
 </div></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Repair a filesystem</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Reparar el sistema de fitxers</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
-       of storage devices on the left. If there is more than one volume on
-       the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Repair Filesystem…</span>.</p></li>
+<li class="steps"><p class="p">Obrir<span class="app">Discs</span> des de la vista d'<span class="gui">Activitats</span>.</p></li>
+<li class="steps"><p class="p">Seleccioneu el disc que conté el sistema de fitxers en qüestió a la llista de dispositius d'emmagatzematge de l'esquerra. Si hi ha més d'un volum al disc, seleccioneu el volum que conté el sistema de fitxers.</p></li>
+<li class="steps"><p class="p">A la barra d'eines a sota de la secció <span class="gui">Volums</span> feu clic al botó de menú. A continuació, feu clic a <span class="gui"> Reparar el sistema de fitxers ...</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a repair may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
-<p class="p">The action will unmount the filesystem if needed. The repair action tries
-   to bring the filesystem into a consistent state and moves files which were
-   damaged in a special folder. Be patient while the filesystem is
-   repaired.</p>
+<p class="p">Depenent de la quantitat de dades que s'emmagatzemen al sistema de fitxers la validació pot trigar més temps. Confirmeu l'inici de l'acció al quadre de diàleg que apareix.</p>
+<p class="p">L'acció desmuntarà el sistema de fitxers si és necessari. L'acció de reparació intenta portar el sistema de fitxers a un estat coherent i moure fitxers que s'hagin malmès a una carpeta especial. Tingueu paciència mentre el sistema de fitxers s'estigui reparant.</p>
 </li>
 <li class="steps">
-<p class="p">After completion you will be notified whether the filesystem could be
-       successfully repaired. In case of success it can be used again in the
-       normal way.</p>
-<p class="p">If the filesystem could not be repaired, back it up by saving an image
-       of the volume to be able to retrieve important files later. This can
-       be done by mounting the image read-only or using forensic analysis tools
-       like <span class="app">sleuthkit</span>.</p>
-<p class="p">To make use of the volume again it has to be
-       <span class="link"><a href="disk-format.html.ca" title="Wipe everything off a removable disk">formatted</a></span> with a new filesystem. All
-       data will be discarded.</p>
+<p class="p">Un cop finalitzada, s'ús notificarà si el sistema de fitxers s'ha pogut reparar correctament. En cas d'èxit, es pot tornar a utilitzar de la manera normal.</p>
+<p class="p">Si el sistema de fitxers no es pot reparar, feu-hi una còpia de seguretat guardant una imatge del volum per poder recuperar els fitxers més importants més endavant. Això es pot fer muntant la imatge només de lectura o utilitzant eines d'anàlisi forenses com<span class="app">sleuthkit</span>.</p>
+<p class="p">Per tornar a fer servir el volum, ha de ser <span class="link"><a href="disk-format.html.ca" title="Elimineu-ho tot des d'un disc extraïble">formatat</a></span> amb un nou sistema de fitxers. S'eliminaran totes les dades.</p>
 </li>
 </ol></div>
 </div></div>
@@ -151,7 +116,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Check how much disk space is left">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Test the performance of your hard disk">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Check your hard disk for problems">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Manage volumes and partitions">volums i particions</a></span>…</span>
+<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu el vostre disc dur per problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -162,7 +127,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

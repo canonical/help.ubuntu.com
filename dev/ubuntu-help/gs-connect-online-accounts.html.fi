@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -76,27 +76,20 @@
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Napsauta <span class="gui"><a href="shell-introduction.html.fi#yourname" title="Sinä ja tietokoneesi">järjestelmävalikkoa</a></span> yläpalkin oikeasta laidasta.</p></li>
-<li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
+<li class="steps"><p class="p">Napsauta Asetukset-painiketta valikon vasemmanpuoleisesta alaosasta.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3"><li class="steps">
-<p class="p">Click the <span class="gui">Online Accounts</span> panel, then click the online
-      account service you want to use.</p>
-<p class="p">This will open a new window where you can sign in to your online
-      account.</p>
+<p class="p">Valitse <span class="gui">Verkkotilit</span> ja napsauta sitten sitä verkkotiliä, jota haluat käyttää.</p>
+<p class="p">Tämä avaa uuden ikkunan, jonka kautta voit kirjautua verkkotilillesi.</p>
 </li></ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa4.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4">
-<li class="steps"><p class="p">In most cases, you will have to grant access to the online
-       service after signing in to get started.</p></li>
-<li class="steps"><p class="p">For example, if you are connecting to your Google account, you
-       will have to click the <span class="gui">Allow</span> button.</p></li>
+<li class="steps"><p class="p">Useimmiten verkkopalvelulle tulee sallia käyttöoikeus sisäänkirjautumisen jälkeen.</p></li>
+<li class="steps"><p class="p">Jos esimerkiksi yhdistät Google-tiliisi, napsauta <span class="gui">Salli</span>-painiketta.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa5.svg" width="100%" class="media media-block" alt=""></div></div>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Many online accounts let you choose the services you want to use
-       with your online account. If you do not want to use a service, disable it
-       by clicking the <span class="gui">ON/OFF</span> switch on the right-hand side of the
-       window.</p></li></ol></div></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Monet verkkotilit mahdollistavat valita käytettävät palvelut. Jos et halua käyttää yksittäistä palvelua, voit poistaa sen käytöstä ikkunan oikeassa laidassa olevaa <span class="gui">Päällä/Pois</span>-painiketta käyttäen.</p></li></ol></div></div></div>
 </div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-browse-web.html.fi" title="Selaa verkkoa">Edellinen</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.fi" title="Vaihda päivää, aikaa ja aikavyöhykettä">Seuraava</a>
@@ -113,7 +106,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.fi" title="Verkkotilit">Verkkotilit</a><span class="desc"> — <span class="link"><a href="accounts-add.html.fi" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html.fi" title="Poista tili">Poista tili</a></span>, <span class="link"><a href="accounts-which-application.html.fi" title="Verkkopalvelut ja sovellukset">Lisätietoja palveluista</a></span>…</span>
+<a href="accounts.html.fi" title="Verkkotilit">Verkkotilit</a><span class="desc"> — <span class="link"><a href="accounts-add.html.fi" title="Lisää tili">Lisää verkkotili</a></span>, <span class="link"><a href="accounts-remove.html.fi" title="Poista tili">poista tili</a></span>, <span class="link"><a href="accounts-which-application.html.fi" title="Verkkopalvelut ja sovellukset">lisätietoja palveluista</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -125,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

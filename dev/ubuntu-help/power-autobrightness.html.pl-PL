@@ -65,26 +65,22 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Włączanie automatycznej jasności</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If your computer has an integrated light sensor, it can be used to
-  automatically control screen brightness. This ensures that the screen is
-  always easy to see in different ambient light conditions, and helps to reduce
-  battery consumption.</p>
+<p class="p">Jeśli komputer ma zintegrowany czujnik światła, to można go używać do automatycznego sterowania jasnością ekranu. Zapewnia to, że ekran jest zawsze dobrze widoczny w różnych warunkach oświetleniowych oraz pomaga zmniejszać zużycie akumulatora.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Zasilanie</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Zasilanie</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Zasilanie</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Power Saving</span> section, ensure that
-      <span class="gui">Automatic brightness</span> is set to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">W sekcji <span class="gui">Oszczędzanie energii</span> upewnij się, że <span class="gui">Automatyczna jasność</span> jest ustawiona na <span class="gui">|</span> (włączone).</p></li>
 </ol></div></div></div>
-<p class="p">To disable automatic screen brightness, switch it to <span class="gui">OFF</span>.</p>
+<p class="p">Aby wyłączyć automatyczną jasność ekranu, przełącz ją na <span class="gui">◯</span> (wyłączone).</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -96,8 +92,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html.pl-PL" title="Ustawianie jasności ekranu">Ustawianie jasności ekranu</a><span class="desc"> — Change the screen brightness to make it more readable in bright
-    light.</span>
+<a href="display-brightness.html.pl-PL" title="Ustawianie jasności ekranu">Ustawianie jasności ekranu</a><span class="desc"> — Zmiana jasności ekranu, aby był czytelniejszy w mocnym oświetleniu.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -109,7 +104,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

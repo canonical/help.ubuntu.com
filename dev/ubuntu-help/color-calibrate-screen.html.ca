@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I calibrate my screen?</title>
+<title>Com calibro la meva pantalla?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,54 +65,44 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I calibrate my screen?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Com calibro la meva pantalla?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can calibrate your screen so that it shows more accurate color. This
-  is especially useful if you are involved in digital photography, design or
-  artwork.</p>
-<p class="p">You will need either a colorimeter or a spectrophotometer to do this. Both
-  devices are used to profile screens, but they work in slightly different
-  ways.</p>
+<p class="p">Podeu calibrar la pantalla per a que mostri un color més precís. Això és especialment útil si està involucrat en la fotografia digital, el disseny, o el treball artístic.</p>
+<p class="p">Necessitarà un colorímetre o un espectrofotòmetre per fer-ho. Ambdós dispositius s'utilitzen per a definir el  perfil de les pantalles, però funcionen de manera lleugerament diferent.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
-      screen.</p></li>
-<li class="steps"><p class="p">Make sure your calibration device is connected to your computer.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Calibrate…</span> to commence the
-      calibration.</p></li>
+<li class="steps"><p class="p">Obre la vista d' <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenci a escriure <span class="gui">Color</span>.</p></li>
+<li class="steps"><p class="p">Cliqui a <span class="gui">Color</span> per obrir el panell i seleccionar la seva pantalla.</p></li>
+<li class="steps"><p class="p">Asseguris que el dispositiu de calibració està connectat a l'ordinador. </p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Calibrar…</span> per iniciar la calibració.</p></li>
 </ol></div></div></div>
-<p class="p">Screens change all the time: the backlight in a TFT display will halve in
-  brightness approximately every 18 months, and will get yellower as it gets
-  older. This means you should recalibrate your screen when the [!] icon
-  appears in the <span class="gui">Color</span> panel.</p>
-<p class="p">LED screens also change over time, but a much slower rate than TFTs.</p>
+<p class="p">Les pantalles canvien contínuament: la llum de fons en una pantalla TFT es reduirà a la meitat en quant a brillantor cada 18 mesos aproximadament, i s'engroguiràc a mesura que envelleixi. Això vol dir que haureu recalibrar la vostra pantalla quan la icona [!] apareixi al panell <span class="gui">Color</span>.</p>
+<p class="p">Les pantalles LED també canvien amb el temps, però molt més a poc a poc que les TFT.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibració">Calibració</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html.ca" title="How do I calibrate my camera?">How do I calibrate my camera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-scanner.html.ca" title="Com calibro el meu escànner?">Com calibro el meu escànner?</a><span class="desc"> — Calibrar l'escàner és important per capturar colors precisos.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html.ca" title="How do I calibrate my printer?">How do I calibrate my printer?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
+<a href="color-calibrate-camera.html.ca" title="Com puc calibrar la meva càmera?">Com puc calibrar la meva càmera?</a><span class="desc"> — Calibrar la seva càmera és important per capturar els colors precisos.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html.ca" title="How do I calibrate my scanner?">How do I calibrate my scanner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
+<a href="color-calibrate-printer.html.ca" title="Com puc calibrar la meva impressora?">Com puc calibrar la meva impressora?</a><span class="desc"> — El calibratge de la vostra impressora és important per imprimir els colors precisos.</span>
 </li>
 </ul></div>
 </div></div>
@@ -125,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

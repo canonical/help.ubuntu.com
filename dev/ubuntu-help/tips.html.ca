@@ -70,10 +70,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Tips &amp; tricks</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.ca" title="Clic al mig"><span class="title">Clic al mig</span><span class="linkdiv-dash"> — </span><span class="desc">Utilitzeu el botó del mig del ratolí per obrir les aplicacions, obrir pestanyes i més.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="gnome-version.html.ca" title="Determine which version of GNOME is running"><span class="title">Determine which version of GNOME is running</span><span class="linkdiv-dash"> — </span><span class="desc">How to determine which version of GNOME is running.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.ca" title="Enter special characters"><span class="title">Enter special characters</span><span class="linkdiv-dash"> — </span><span class="desc">Type characters not found on your keyboard, including foreign alphabets, mathematical symbols, and dingbats.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.ca" title="Middle-click"><span class="title">Middle-click</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
-    more.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.ca" title="Screenshots and screencasts"><span class="title">Screenshots and screencasts</span><span class="linkdiv-dash"> — </span><span class="desc">Take a picture or record a video of what is happening on your
     screen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.ca" title="Useful keyboard shortcuts"><span class="title">Useful keyboard shortcuts</span><span class="linkdiv-dash"> — </span><span class="desc">Get around the desktop using the keyboard.</span></a></div>
@@ -92,7 +91,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

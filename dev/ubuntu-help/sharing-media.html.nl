@@ -65,47 +65,37 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html.nl" title="Delen">Delen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html.nl" title="Delen">Delen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uw muziek, foto's en video's delen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can browse, search and play the media on your computer using a
-  <span class="sys">UPnP</span> or <span class="sys">DLNA</span> enabled device such as a phone, TV or game
-  console. Configure <span class="gui">Media Sharing</span> to allow these devices to access
-  the folders containing your music, photos and videos.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">You must have the <span class="app">Rygel</span> package installed for <span class="gui">Media
-    Sharing</span> to be visible.</p></div></div></div></div>
+<p class="p">U kunt de media op uw computer doorbladeren, doorzoeken en afspelen via een apparaat dat <span class="sys">UPnP</span> of <span class="sys">DLNA</span> ondersteunt, zoals een telefoon, TV of spelcomputer. Pas <span class="gui">Mediadelen</span> aan zodat deze apparaten toegang hebben tot de mappen met daarin uw muziek, foto's en video's.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Om <span class="gui">Mediadelen</span> zichtbaar te krijgen dient het pakket <span class="app">Rygel</span> geïnstalleerd te zijn.</p>
+<p class="p"><span class="link-button link"><a href="apt:rygel" title="apt:rygel">Rygel installeren</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Delen</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Delen</span> om het paneel te openen.</p></li>
 <li class="steps">
 <p class="p">Als <span class="gui">Delen</span> <span class="gui">UIT</span> staat, zet het dan <span class="gui">AAN</span>.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">If the text below <span class="gui">Computer Name</span> allows
-      you to edit it, you can <span class="link"><a href="sharing-displayname.html.nl" title="De weergavenaam van uw computer instellen">change</a></span>
-      the name your computer displays on the network.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u de tekst onder <span class="gui">Computernaam</span>kunt bewerken, dan kunt u de naam van uw computer zoals die getoond wordt in het netwerk <span class="link"><a href="sharing-displayname.html.nl" title="De weergavenaam van uw computer instellen">wijzigen</a></span></p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Selecteer <span class="gui">Media delen</span>.</p></li>
 <li class="steps"><p class="p">Zet <span class="gui">Media delen</span> <span class="gui">AAN</span>.</p></li>
-<li class="steps"><p class="p">By default, <span class="file">Music</span>, <span class="file">Pictures</span> and 
-      <span class="file">Videos</span> are shared. To remove one of these, click the
-      <span class="gui">×</span> next to the folder name.</p></li>
-<li class="steps"><p class="p">To add another folder, click <span class="gui">+</span> to open the
-      <span class="gui">Choose a folder</span> window. Navigate <span class="em">into</span> the desired
-      folder and click <span class="gui">Open</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">×</span>. You will now be able to browse
-      or play media in the folders you selected using the external device.</p></li>
+<li class="steps"><p class="p">Standaard worden <span class="file">Muziek</span>, <span class="file">Foto's</span> en <span class="file">Video's</span> gedeeld. Als u één hiervan wilt verwijderen klikt u op de <span class="gui">×</span> naast de mapnaam.</p></li>
+<li class="steps"><p class="p">Om nog een map toe te voegen: klik op <span class="gui">+</span> om het venster <span class="gui">Een map kiezen</span> te openen. Ga <span class="em">naar</span> de gewenste map en klik op <span class="gui">Openen</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">×</span>. Nu kunt u media doorbladeren of afspelen in de mappen die u gekozen heeft met het externe apparaat.</p></li>
 </ol></div></div></div>
 </div>
 <div id="networks" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Netwerken</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="gui">Networks</span> section lists the networks to which you are
-  currently connected. Use the <span class="gui">ON | OFF</span> switch next to each to
-  choose where your media can be shared.</p></div></div>
+<div class="region"><div class="contents"><p class="p">De sectie <span class="gui">Netwerken</span> bevat een lijst met netwerken waarmee u verbonden bent. Gebruik de <span class="gui">AAN | UIT</span>-schakelaar naast elk ervan om te kiezen waar uw gedeeld gedeeld kunnen worden.</p></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -116,12 +106,7 @@
 <a href="sharing.html.nl" title="Delen">Delen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Bureaublad delen</a></span>, <span class="link"><a href="files-share.html.nl" title="Bestanden delen per e-mail">Bestanden delen per e-mail</a></span>, <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.nl" title="Uw persoonlijke bestanden delen">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media sharing</a></span>…
-    </span>
+<a href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Bluetooth delen</a></span>, <span class="link"><a href="sharing-personal.html.nl" title="Uw persoonlijke bestanden delen">Delen persoonlijk bestand</a></span>, <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Scherm delen</a></span>, <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -133,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

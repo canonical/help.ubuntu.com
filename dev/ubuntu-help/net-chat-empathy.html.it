@@ -72,7 +72,7 @@
 <div class="contents">
 <p class="p">Con l'applicazione<span class="app">Empathy</span>, è possibile conversare con altre persone in linea e con amici e colleghi che utilizzano Google Talk, AIM, Windows Live e molti altri programmi di chat. Con una microfono e una webcam è inoltre possibile fare chiamate audio e video.</p>
 <p class="p">
-    Empathy is not installed by default in Ubuntu, but you can <span class="link"><a href="https://apps.ubuntu.com/cat/applications/empathy" title="https://apps.ubuntu.com/cat/applications/empathy">install</a></span> it from the Ubuntu package archive. For help
+    Empathy is not installed by default in Ubuntu, but you can <span class="link"><a href="apt:empathy" title="apt:empathy">install</a></span> it from the Ubuntu package archive. For help
     with using Empathy, read the <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">Empathy manual</a></span>.
   </p>
 </div>
@@ -104,7 +104,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

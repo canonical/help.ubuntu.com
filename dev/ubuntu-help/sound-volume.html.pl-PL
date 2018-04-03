@@ -64,43 +64,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="media.html.pl-PL#sound" title="Dźwięk">Dźwięk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="media.html.pl-PL#sound" title="Dźwięk">Dźwięk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zmiana głośności dźwięku</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To change the sound volume, open the <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">system
-  menu</a></span> from the right side of the top bar and move the volume slider left
-  or right. You can completely turn off sound by dragging the slider to the
-  left.</p>
-<p class="p">Some keyboards have keys that let you control the volume. They normally
-  look like stylized speakers with waves coming out of them. They are often
-  near the “F” keys at the top. On laptop keyboards, they are usually on the
-  “F” keys.  Hold down the <span class="key"><kbd class="key-Fn">Fn</kbd></span> key on your keyboard to use them.</p>
-<p class="p">If you have external speakers, you can also change the volume
-  using the speakers’ volume control. Some headphones have a
-  volume control too.</p>
+<p class="p">Aby zmienić głośność dźwięku, otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">menu systemowe</a></span> po prawej stronie górnego paska i przesuń suwak głośności w lewo lub w prawo. Można całkowicie wyłączyć dźwięk przeciągając suwak na lewy koniec.</p>
+<p class="p">Niektóre klawiatury mają klawisze umożliwiające sterować głośnością. Zwykle wyglądają one jak rysunek głośników z falami dźwiękowymi. Są one często obok klawiszy funkcyjnych (F1 itd.) na górze. Na klawiaturach laptopów są one zwykle na klawiszach funkcyjnych. Przytrzymaj klawisz <span class="key"><kbd class="key-Fn">Fn</kbd></span>, aby ich użyć.</p>
+<p class="p">Jeśli używane są zewnętrzne głośniki, to można także zmieniać głośność za pomocą przycisków głośności na głośnikach. Niektóre słuchawki także je mają.</p>
 </div>
 <div id="apps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zmiana głośności dla poszczególnych programów</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can change the volume for one application and leave the volume for
-  others unchanged. This is useful if you are listening to music and browsing
-  the web, for example. You might want to turn off the audio in the web browser
-  so sounds from websites do not interrupt the music.</p>
-<p class="p">Some applications have volume controls in their main windows. If your
-  application has its volume control, use that to change the volume. If not:</p>
+<p class="p">Można zmienić głośność dla jednego programu niezależnie od głośności innych. Jest to przydatne na przykład podczas słuchania muzyki i przeglądania Internetu. Można wyłączyć dźwięk w przeglądarce WWW, aby dźwięki ze stron nie przerywały muzyki.</p>
+<p class="p">Niektóre programy mają przyciski głośności w głównym oknie. Jeśli program je ma, to użyj ich do zmiany głośności. Jeśli nie:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Dźwięk</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Dźwięk</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Dźwięk</span>, aby otworzyć panel.</p></li>
 <li class="steps">
-<p class="p">Go to the <span class="gui">Applications</span> tab and change the volume of the
-      application listed there.</p>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Only applications that are playing sounds are listed. If an
-    application is playing sounds but is not listed, it might not support the
-    feature that lets you control its volume in this way. In such case, you
-    cannot change its volume.</p></div></div></div></div>
+<p class="p">Przejdź do karty <span class="gui">Programy</span> i zmień głośność programu na liście.</p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Na liście znajdują się tylko programy odtwarzające dźwięk. Jeśli program odtwarza dźwięk, ale nie ma go na liście, to może nie obsługiwać funkcji umożliwiającej sterowanie głośnością w ten sposób. W takim przypadku nie można zmienić jego głośności.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 </div></div>
@@ -121,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

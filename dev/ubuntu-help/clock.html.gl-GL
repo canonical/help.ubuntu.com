@@ -70,12 +70,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Data e hora</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="clock-set.html.gl-GL" title="Cambiar a hora e data"><span class="title">Cambiar a hora e data</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
-    time.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo"><span class="title">Apuntamentos no reloxo</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
-    screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema"><span class="title">Cambiar a súa hora do sistema</span><span class="linkdiv-dash"> — </span><span class="desc">Update your time zone to your current location so that your time is correct.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-world.html.gl-GL" title="Add a world clock"><span class="title">Add a world clock</span><span class="linkdiv-dash"> — </span><span class="desc">Display times in other cities under the calendar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-set.html.gl-GL" title="Cambiar a hora e data"><span class="title">Cambiar a hora e data</span><span class="linkdiv-dash"> — </span><span class="desc">Prema nas <span class="gui">Preferencias de data e hora</span> para cambiar a data e hora.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo"><span class="title">Apuntamentos no reloxo</span><span class="linkdiv-dash"> — </span><span class="desc">Mostra os seus apuntamentos no calendario na parte superior da pantalla.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema"><span class="title">Cambiar a súa hora do sistema</span><span class="linkdiv-dash"> — </span><span class="desc">Actualizar o seu fuso horario á súa localización actual para que a hora sexa a correcta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-world.html.gl-GL" title="Engadir un reloxo do mundo"><span class="title">Engadir un reloxo do mundo</span><span class="linkdiv-dash"> — </span><span class="desc">Mostrar a hora de outras cidades debaixo do calendario.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -99,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

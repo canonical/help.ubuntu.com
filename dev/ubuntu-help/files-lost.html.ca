@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Find a lost file</title>
+<title>Trobar un fitxer perdut</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,30 +67,15 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Find a lost file</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Trobar un fitxer perdut</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you created or downloaded a file, but now you cannot find it, follow
-these tips.</p>
+<p class="p">Si heu creat o baixat un fitxer, però ara no el podeu trobar, seguiu aquests consells.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">If you do not remember where you saved the file, but you have some
-  idea of how you named it, you can <span class="link"><a href="files-search.html.ca" title="Search for files">search for the
-  file by name</a></span>.</p></li>
-<li class="list"><p class="p">If you just downloaded the file, your web browser might
-  have automatically saved it to a common folder. Check the
-  <span class="file">Desktop</span> and <span class="file">Downloads</span> folders in your home
-  folder.</p></li>
-<li class="list"><p class="p">You might have accidentally deleted the file. When you delete
-  a file, it gets moved to the trash, where it stays until you manually
-  empty the trash. See <span class="link"><a href="files-recover.html.ca" title="Recover a file from the Trash">Recover a file from the Trash</a></span> to learn how to
-  recover a deleted file.</p></li>
-<li class="list"><p class="p">You might have renamed the file in a way that made the file hidden.
-  Files that start with a <span class="file">.</span> or end with a <span class="file">~</span> are
-  hidden in the file manager. Click the
-  
-  view options button in the <span class="app">Files</span> toolbar and enable <span class="gui">Show
-  Hidden Files</span> to display them. See <span class="link"><a href="files-hidden.html.ca" title="Hide a file">Hide a file</a></span> to learn
-  more.</p></li>
+<li class="list"><p class="p">Si no recordeu on vau desar el fitxer, però teniu una idea de com el vau nomenar, podeu fer-ho <span class="link"><a href="files-search.html.ca" title="Cerca fitxers">cercar el fitxer pel nom</a></span>.</p></li>
+<li class="list"><p class="p">Si acaba de descarregar el fitxer, el vostre navegador web podria haver-lo guardat automàticament en una carpeta comú. Mireu a les carpetes <span class="file">Escriptori</span> i <span class="file">Baixades</span> al vostre directori 'Inici'.</p></li>
+<li class="list"><p class="p">Podeu haver esborrat el fitxer accidentalment. Quan suprimiu un fitxer, es mou a la paperera, on es manté fins que buideu la paperera manualment. Consultar <span class="link"><a href="files-recover.html.ca" title="Recupera un fitxer de la Paperera">Recupera un fitxer de la Paperera</a></span> per per saber-ne més sobre com recuperar un fitxer eliminat.</p></li>
+<li class="list"><p class="p">És possible que hagueu canviat el nom d'un fitxer de manera que hagueu ocultat el fitxer. Fitxers que comencen per a <span class="file">.</span> o acabin amb <span class="file">~</span> estan ocults al gestor de fitxers. Feu clic al botó Opcions de visualització a la barra d'eines <span class="app">Fitxers</span> i activeu <span class="gui">Mostrar els Fitxers Ocults</span> per mostrar-los. Consultar <span class="link"><a href="files-hidden.html.ca" title="Ocultar el fitxer">Ocultar el fitxer</a></span> per saber-ne més.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -103,8 +88,7 @@ these tips.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html.ca" title="Recover a file from the Trash">Recover a file from the Trash</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
-    recovered.</span>
+<a href="files-recover.html.ca" title="Recupera un fitxer de la Paperera">Recupera un fitxer de la Paperera</a><span class="desc"> — Els fitxers esborrats normalment s'envien a la Paperera, però es poden recuperar.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -116,7 +100,7 @@ these tips.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

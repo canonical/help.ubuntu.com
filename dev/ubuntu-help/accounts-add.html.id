@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akun Daring</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Klik tombol <span class="gui">+</span> di pojok kiri bawah jendela.</p></li>
+<li class="steps"><p class="p">Select an account from the list on the right.</p></li>
 <li class="steps"><p class="p">Pilih tipe akun yang ingin Anda tambah.</p></li>
 <li class="steps"><p class="p">Suatu dialog atau jendela situs web kecil akan terbuka dimana Anda dapat memasukkan kredensial akun daring Anda. Sebagai contoh, bila Anda menyiapkan akun Google, masukkan nama pengguna dan sandi Google Anda. Beberapa penyedia mengizinkan Anda membuat sebuah akun baru dari dialog log masuk.</p></li>
 <li class="steps"><p class="p">Bila Anda telah memasukkan kredensial dengan benar, Anda akan ditanya untuk mengijinkan GNOME mengakses akun daring Anda. Berikan otorisasi akses untuk melanjutkan.</p></li>
@@ -99,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

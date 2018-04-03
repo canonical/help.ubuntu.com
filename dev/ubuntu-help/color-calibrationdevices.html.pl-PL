@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What color measuring instruments are supported?</title>
+<title>Jakie przyrządy do mierzenia kolorów są obsługiwane?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,20 +65,16 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What color measuring instruments are supported?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Jakie przyrządy do mierzenia kolorów są obsługiwane?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    GNOME relies on the Argyll color management system to support
-    color instruments. Thus the following display measuring instruments
-    are supported:
-  </p>
+<p class="p">GNOME korzysta z systemu zarządzenia kolorami Argyll do obsługi przyrządów do mierzenia kolorów. Z tego powodu obsługiwane są te urządzenia:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Gretag-Macbeth i1 Pro (spektrometr)</p></li>
 <li class="list"><p class="p">Gretag-Macbeth i1 Monitor (spektrometr)</p></li>
@@ -92,18 +88,14 @@
 <li class="list"><p class="p">ColorVision Spyder 2 i 3 (kolorymetr)</p></li>
 <li class="list"><p class="p">Colorimètre HCFR (kolorymetr)</p></li>
 </ul></div></div></div>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">The Pantone Huey is currently the cheapest and best supported hardware in Linux.</p></div></div></div></div>
-<p class="p">
-    Thanks to Argyll there’s also a number of spot and strip reading
-    reflective spectrometers supported to help you calibrating and
-    characterizing your printers:
-  </p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Pantone Huey to obecnie najtańszy i najlepiej obsługiwany sprzęt tego typu w systemie Linux.</p></div></div></div></div>
+<p class="p">Dzięki systemowi Argyll obsługiwanych jest także wiele refleksyjnych spektrometrów odczytujących punkty i paski, pomagające kalibrować i charakteryzować drukarki:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)</p></li>
-<li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (spot type reflective spectrometer)</p></li>
-<li class="list"><p class="p">X-Rite DTP41 (spot and strip reading reflective spectrometer)</p></li>
-<li class="list"><p class="p">X-Rite DTP41T (spot and strip reading reflective spectrometer)</p></li>
-<li class="list"><p class="p">X-Rite DTP51 (spot reading reflective spectrometer)</p></li>
+<li class="list"><p class="p">X-Rite DTP20 „Pulse” (refleksyjny spektrometr typu „przeciągnij”)</p></li>
+<li class="list"><p class="p">X-Rite DTP22 Digital Swatchbook (refleksyjny spektrometr typu „punkt”)</p></li>
+<li class="list"><p class="p">X-Rite DTP41 (refleksyjny spektrometr odczytujący punkty i paski)</p></li>
+<li class="list"><p class="p">X-Rite DTP41T (refleksyjny spektrometr odczytujący punkty i paski)</p></li>
+<li class="list"><p class="p">X-Rite DTP51 (refleksyjny spektrometr odczytujący punkty)</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -120,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

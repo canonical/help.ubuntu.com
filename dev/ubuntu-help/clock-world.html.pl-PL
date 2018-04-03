@@ -64,38 +64,30 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="clock.html.pl-PL" title="Data i czas">Data i czas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="clock.html.pl-PL" title="Data i czas">Data i czas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dodawanie zegara światowego</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Use <span class="app">Clocks</span> to add times in other cities.</p>
+<p class="p">Użyj programu <span class="app">Zegar</span>, aby dodać czas w innych miastach.</p>
 <div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Wymaga zainstalowania programu <span class="app">Zegar</span>.</p>
-<p class="p">Most distributions come with <span class="app">Clocks</span> installed by default.
-    If yours does not, you may need to install it using your distribution’s
-    package manager.</p>
+<p class="p">Większość dystrybucji domyślnie ma zainstalowany program <span class="app">Zegar</span>. Jeśli używana dystrybucja go nie ma, to należy go zainstalować za pomocą menedżera pakietów.</p>
 </div></div></div></div>
 <p class="p">Aby dodać zegar światowy:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Kliknij zegar na górnym pasku.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Add world clocks…</span> link under the calendar to
-      launch <span class="app">Clocks</span>.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">If you already have one or more world clocks, click on one and
-       <span class="app">Clocks</span> will launch.</p></div></div></div></div>
+<p class="p">Kliknij odnośnik <span class="gui">Dodaj zegar światowy…</span> pod kalendarzem, aby uruchomić program <span class="app">Zegar</span>.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli są już jakieś zegary światowe, kliknij jeden z nich, a program <span class="app">Zegar</span> zostanie uruchomiony.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">In the <span class="app">Clocks</span> window, click
-      <span class="gui">New</span> button or press
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> to add a new city.</p></li>
-<li class="steps"><p class="p">Start typing the name of the city into the search.</p></li>
-<li class="steps"><p class="p">Select the correct city or the closest location to you from the
-      list.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to finish adding the city.</p></li>
+<li class="steps"><p class="p">W oknie <span class="app">Zegar</span> kliknij przycisk <span class="gui">Nowy</span> lub naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>, aby dodać nowe miasto.</p></li>
+<li class="steps"><p class="p">Zacznij pisać nazwę miasta w polu wyszukiwania.</p></li>
+<li class="steps"><p class="p">Wybierz właściwe miasto lub najbliższe położenie z listy.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj</span>, aby ukończyć dodawanie miasta.</p></li>
 </ol></div></div></div>
-<p class="p">Refer to the <span class="link"><a href="help:gnome-clocks" title="help:gnome-clocks">Clocks Help</a></span> for more
-  of the capabilities of <span class="app">Clocks</span>.</p>
+<p class="p"><span class="link"><a href="help:gnome-clocks" title="help:gnome-clocks">Pomoc programu <span class="app">Zegar</span></a></span> zawiera więcej informacji o jego możliwościach.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -119,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

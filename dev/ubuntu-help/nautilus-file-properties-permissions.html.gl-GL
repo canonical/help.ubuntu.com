@@ -98,7 +98,7 @@
 <p class="p">Pode estabelecer os permisos en cartafoles para o propietario, grupo e outros usuarios. Vexa os detalles dos permisos dos ficheiros abrira para obter máis información sobre os propietarios, grupos e outros usuarios.</p>
 <p class="p">Os permisos que pode estabelecer para un cartafol son distintos dos que pode estabelecer para un ficheiro.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">None</span></dt>
+<dt class="terms"><span class="gui">Ningún</span></dt>
 <dd class="terms"><p class="p">O usuario nin sequera será capaz de ver que ficheiros están no cartafol.</p></dd>
 <dt class="terms"><span class="gui">Só mostrar ficheiros</span></dt>
 <dd class="terms"><p class="p">O usuario será capaz de ver os ficheiros que hai dentro dun cartafol, pero non será capaz de abrir, crear ou eliminar ficheiros.</p></dd>
@@ -132,7 +132,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Middle-click</title>
+<title>Clic al mig</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,53 +65,35 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="mouse.html.ca" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.ca#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="mouse.html.ca" title="Ratolí">Ratolí</a> › <a class="trail" href="mouse.html.ca#tips" title="Consells">Consells</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="mouse.html.ca" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.ca#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="mouse.html.ca" title="Ratolí">Ratolí</a> › <a class="trail" href="mouse.html.ca#tips" title="Consells">Consells</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.ca" title="Tips &amp; tricks">Tips &amp; tricks</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Middle-click</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Clic al mig</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
-with a scroll wheel, you can usually press directly down on the scroll
-wheel to middle-click. If you don’t have a middle mouse button, you
-can press the left and right mouse buttons at the same time to
-middle-click.</p>
-<p class="p">On touchpads that support multi-finger taps, you can tap with three
-fingers at once to middle-click. You have to
-<span class="link"><a href="mouse-touchpad-click.html.ca" title="Click, drag, or scroll with the touchpad">enable tap clicking</a></span> in the
-touchpad settings for this to work.</p>
-<p class="p">Many applications use middle-click for advanced click shortcuts.</p>
+<p class="p">Molts ratolins i alguns tauletes tenen un botó al mig del ratolí. En un ratolí amb una roda de desplaçament, normalment podeu prémer la roda per fer-hi clic. Si no teniu un botó al mig del ratolí, podeu prémer els botons esquerre i dret al mateix temps per fer clic.</p>
+<p class="p">A les tauletes que admeten multi tocs amb els dits, podeu tocar amb tres dits alhora per fer clic amb el botó del mig. Heu d'<span class="link"><a href="mouse-touchpad-click.html.ca" title="Click, drag, or scroll with the touchpad">d'activar els multi tocs</a></span>a la configuració de la tauleta per a què funcioni.</p>
+<p class="p">Moltes aplicacions fan servir el botó del mig per a les dreceres de clic avançades.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
-  window for an application with middle-click. Simply middle-click on the
-  application’s icon, either in the dash on the left, or in the applications
-  overview. The applications overview is displayed using the grid button in the
-  dash.</p></li>
-<li class="list"><p class="p">Most web browsers allow you to open links in tabs quickly with the
-  middle mouse button. Just click any link with your middle mouse button, and
-  it will open in a new tab.</p></li>
-<li class="list"><p class="p">In the file manager, middle-click serves two roles. If you
-  middle-click a folder, it will open in a new tab. This mimics the
-  behavior of popular web browsers. If you middle-click a file, it
-  will open the file, just as if you had double-clicked.</p></li>
+<li class="list"><p class="p">A la descripció general de les <span class="gui">Activitats</span>,podeu obrir ràpidament una nova finestra per a una aplicació amb clic del mig. Simplement feu clic al mig a la icona de l'aplicació, ja sigui al tauler de l'esquerra o a la descripció general de les aplicacions. La descripció general de les aplicacions es mostra utilitzant el botó de graella del tauler.</p></li>
+<li class="list"><p class="p">La majoria de navegadors web permeten obrir ràpidament enllaços a noves pestanyes amb el botó del mig del ratolí. Feu clic a qualsevol enllaç amb el botó central del ratolí i s'obrirà en una pestanya nova.</p></li>
+<li class="list"><p class="p">Al gestor de fitxers, el clic del mig té dos rols. Si es fa clic a una carpeta, s'obrirà en una nova pestanya. Això imita el comportament dels navegadors web populars. Si es fa clic a un arxiu, s'obrirà el fitxer com si hagués fet doble clic.</p></li>
 </ul></div></div></div>
-<p class="p">Some specialized applications allow you to use the middle mouse
-button for other functions. Search your application’s help for
-<span class="em">middle-click</span> or <span class="em">middle mouse button</span>.</p>
+<p class="p">Algunes aplicacions especialitzades permeten utilitzar el botó del mig del ratolí per a altres funcions. Busqueu a l'ajuda de la vostra aplicació <span class="em">clic del mig</span> o <span class="em">botó del mig</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html.ca#tips" title="Tips">Mouse tips</a></li>
+<li class="links "><a href="mouse.html.ca#tips" title="Consells">Consells pel ratolí</a></li>
 <li class="links ">
-<a href="tips.html.ca" title="Tips &amp; tricks">Tips &amp; tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ca" title="Enter special characters">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.ca" title="Middle-click">middle click shortcuts</a></span>…</span>
+<a href="tips.html.ca" title="Tips &amp; tricks">Tips &amp; tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ca" title="Enter special characters">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.ca" title="Clic al mig">middle click shortcuts</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -123,7 +105,7 @@ button for other functions. Search your application’s help for
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

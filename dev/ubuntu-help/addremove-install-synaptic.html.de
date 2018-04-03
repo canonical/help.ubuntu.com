@@ -64,23 +64,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Synaptic zur erweiterten Anwendungsverwaltung nutzen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p"><span class="app">Synaptic Package Manager</span> ist leistungsstärker und erledigt einige Softwareverwaltungsaufgaben, die <span class="app">Ubuntu Software</span> nicht beherrscht. Synaptics Programmoberfläche ist komplizierter, unterstützt jedoch nicht die neueren <span class="app">Ubuntu Software</span> Fähigkeiten wie Benotungen und Beurteilungen von Anwendungen. Sie wird daher nicht für Erstanwender von Ubuntu empfohlen.</p>
-<p class="p">Synaptic wird nicht standardmäßig installiert, Sie können <span class="link"><a href="https://apps.ubuntu.com/cat/applications/synaptic" title="https://apps.ubuntu.com/cat/applications/synaptic">install</a></span> aus dem Ubuntu Paketarchiv nachinstallieren.</p>
+<p class="p">Synaptic wird nicht standardmäßig installiert, Sie können <span class="link"><a href="apt:synaptic" title="apt:synaptic">install</a></span> aus dem Ubuntu Paketarchiv nachinstallieren.</p>
 </div>
 <div id="install-software-with-synaptic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Anwendungen mit Synaptic installieren</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
-          will need to enter your password in the <span class="gui">Authenticate</span> window.
-        </p></li>
+<li class="steps"><p class="p">Öffnen Sie <span class="app">Synaptic</span> über die <span class="em">Aktivitäten</span> Suchleiste. Sie müssen Ihr Passwort im Fenster <span class="gui">Authentifizierung</span> eingeben.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Suchen</span>, um eine Anwendung zu finden, oder klicken Sie auf <span class="gui">Suchergebnisse filtern</span> und wählen Sie eine Kategorie aus.</p></li>
 <li class="steps"><p class="p">Klicken Sie mit der rechten Maustaste auf die Anwendung, die Sie installieren möchten, und wählen Sie <span class="gui">Zum Installieren vormerken</span>.</p></li>
 <li class="steps"><p class="p">Wenn Sie dazu aufgefordert werden zusätzliche Änderungen zu markieren, klicken Sie auf <span class="gui">Markieren</span>.</p></li>
@@ -119,7 +116,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

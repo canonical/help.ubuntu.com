@@ -64,17 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-chat.html.de" title="Chat &amp; Soziale Netzwerke">Chat &amp; Soziale Netzwerke</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-chat.html.de" title="Chat &amp; Soziale Netzwerke">Chat &amp; Soziale Netzwerke</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sofortnachrichten unter Ubuntu</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Mit der Anwendung <span class="app">Empathy</span> können Sie mit Personen in der Nähe plaudern, sowie mit Freunden und Kollegen, die Google Talk, AIM, Windows Live und viele andere Chat-Programme verwenden. Mithilfe eines Mikrofons oder einer Webcam können Sie damit auch Audio- bzw. Video-Anrufe tätigen.</p>
-<p class="p">
-    Empathy is not installed by default in Ubuntu, but you can <span class="link"><a href="https://apps.ubuntu.com/cat/applications/empathy" title="https://apps.ubuntu.com/cat/applications/empathy">install</a></span> it from the Ubuntu package archive. For help
-    with using Empathy, read the <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">Empathy manual</a></span>.
-  </p>
+<p class="p">Empathy ist nicht standardmäßig in Ubuntu installiert, aber Sie können es aus dem Ubuntu-Paketarchiv <span class="link"><a href="apt:empathy" title="apt:empathy">installieren</a></span>. Für Hilfe bei der Verwendung von Empathy lesen Sie bitte das <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">Empathy Handbuch</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -82,11 +79,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.de" title="Chat &amp; Soziale Netzwerke">Chat &amp; Soziale Netzwerke</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.de" title="Sofortnachrichten unter Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.de" title="Bildtelefonie">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.de" title="Wie kann ich Skype unter Ubuntu verwenden?">install skype</a></span>
-    </span>
+<a href="net-chat.html.de" title="Chat &amp; Soziale Netzwerke">Chat &amp; Soziale Netzwerke</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.de" title="Sofortnachrichten unter Ubuntu">Chat in einem beliebigen Netzwerk mit <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.de" title="Bildtelefonie">Videoanrufe machen</a></span>, <span class="link"><a href="net-chat-skype.html.de" title="Wie kann ich Skype unter Ubuntu verwenden?">Skype installieren</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -104,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

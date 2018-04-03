@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set screen blanking time</title>
+<title>Atur waktu pengosongan layar</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -75,24 +75,19 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set screen blanking time</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Atur waktu pengosongan layar</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To save power, you can adjust the time before the screen blanks when left
-  idle. You can also disable the blanking completely.</p>
+<p class="p">Untuk menyimpan daya, Anda dapat mengatur waktu sebelum layar menjadi kosong saat ditinggalkan. Anda juga dapat menonaktifkan pengosongan secara sepenuhnya.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To set the screen blanking time:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Untuk mengatur waktu pengosongan layar:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Daya</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Daya</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Blank screen</span> drop-down list under <span class="gui">Power
-      Saving</span> to set the time until the screen blanks, or disable the blanking
-      completely.</p></li>
+<li class="steps"><p class="p">Gunakan menu drop-down <span class="gui">Penggelapan layar</span> di bawah <span class="gui">Penghematan Daya</span> untuk mengatur waktu sampai layar menjadi kosong, atau menonaktifkan pengosongan secara menyeluruh.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">When your computer is left idle, the screen will automatically lock
-    itself for security reasons. To change this behavior, see
-    <span class="link"><a href="session-screenlocks.html.id" title="The screen locks itself too quickly">The screen locks itself too quickly</a></span>.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Bila komputer anda ditinggalkan saat kondisi menyala, layar secara otomatis akan mengunci dengan alasan keamanan. Untuk mengubah hal tersebut, lihat <span class="link"><a href="session-screenlocks.html.id" title="The screen locks itself too quickly">The screen locks itself too quickly</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -130,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -106,12 +106,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html.ca" title="Date &amp; time">Date &amp; time</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html.ca" title="Change the date and time">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.ca" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.ca" title="Change your timezone">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.ca" title="Calendar appointments">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html.ca" title="Data &amp; hora">Data &amp; hora</a><span class="desc"> — <span class="link"><a href="clock-set.html.ca" title="Canvieu la data i l'hora">Establir data i hora</a></span>, <span class="link"><a href="clock-world.html.ca" title="Afegiu un rellotge mundial">rellotges mundials</a></span>, <span class="link"><a href="clock-timezone.html.ca" title="Canvieu la vostra zona horària">zona horària</a></span>, <span class="link"><a href="clock-calendar.html.ca" title="Cites de calendari">calendari i cites</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -123,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

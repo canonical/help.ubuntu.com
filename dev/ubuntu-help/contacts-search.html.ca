@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Search for a contact</title>
+<title>Cercar un contacte</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,23 +67,19 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="contacts.html.ca" title="Contactes">Contactes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Search for a contact</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Cercar un contacte</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can search for an online contact in one of two ways:</p>
+<p class="p">Podeu cercar un contacte en línia de dues maneres:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">In the <span class="gui">Activities</span> overview, start typing the name of the
-      contact.</p></li>
-<li class="steps"><p class="p">Matching contacts will appear in the overview instead of the usual list
-      of applications.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to select the contact at the top of the list or
-      click the contact that you want to select if they are not at the
-      top.</p></li>
+<li class="steps"><p class="p">A la descripció general d'<span class="gui">Activitats</span>, comenceu a escriure el nom del contacte.</p></li>
+<li class="steps"><p class="p">Els contactes coincidents apareixeran a la vista general en comptes de la llista habitual d'aplicacions.</p></li>
+<li class="steps"><p class="p">Premeu <span class="key"><kbd>Entrar</kbd></span> per seleccionar el contacte a la part superior de la llista o feu clic al contacte que vulgueu seleccionar si no es troba a la part superior.</p></li>
 </ol></div></div></div>
-<p class="p">To search from inside <span class="app">Contacts</span>:</p>
+<p class="p">Per cercar des de dins <span class="app">Contactes</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click inside the search field.</p></li>
-<li class="steps"><p class="p">Start typing the name of the contact.</p></li>
+<li class="steps"><p class="p">Feu clic a dins del camp de cerca.</p></li>
+<li class="steps"><p class="p">Comenceu a escriure el nom del contacte.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -91,7 +87,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html.ca" title="Contactes">Contactes</a><span class="desc"> — Access your contacts.</span>
+<a href="contacts.html.ca" title="Contactes">Contactes</a><span class="desc"> — Accediu als vostres contactes</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -102,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

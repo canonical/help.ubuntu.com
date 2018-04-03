@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Controleer hoeveel schijfruimte er nog besschikbaar is</span></h1></div>
@@ -87,9 +87,7 @@
 <p class="p">Vrije schijfruimte en schijfcapaciteit controleren met <span class="app">Systeemmonitor</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open vanuit het <span class="gui">Activiteiten</span>overzicht de <span class="app">Systeemmonitor</span>-toepassing.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
-  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
-  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
+<li class="steps"><p class="p">Selecteer het tabblad <span class="gui">Bestandssystemen</span> om de partities van het systeem en het schijfgebruik te bekijken. De informatie wordt weergegeven in de kolommen <span class="gui">Totaal</span>, <span class="gui">Vrij</span>, <span class="gui">Beschikbaar</span> en <span class="gui">Gebruikt</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -98,9 +96,8 @@
 <div class="region"><div class="contents">
 <p class="p">Als de schijf te vol is moet u:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
-<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html.nl" title="Reservekopieën maken van uw belangrijke bestanden">backups</a></span> of the important files that
-   you won’t need for a while and delete them from the hard drive.</p></li>
+<li class="list"><p class="p">Bestanden die niet belangrijk zijn of bestanden die u niet meer gebruikt verwijderen.</p></li>
+<li class="list"><p class="p">Maak <span class="link"><a href="backup-why.html.nl" title="Reservekopieën maken van uw belangrijke bestanden">reservekopieën</a></span> van de belangrijke bestanden die u voorlopig niet nodig heeft en wis ze van de harde schijf.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -120,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

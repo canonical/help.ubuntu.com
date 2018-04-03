@@ -75,8 +75,12 @@
 <p class="p">Skype — бесплатная, но не свободная программа, её исходный код закрыт и не доступен для изменений.</p>
 <p class="p">Skype не установлен в Ubuntu по умолчанию. Выполните следующие шаги для установки <span class="app">Skype для Linux</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">Откройте веб-браузер и перейдите на <span class="link"><a href="https://www.skype.com/download-skype/skype-for-computer/" title="https://www.skype.com/download-skype/skype-for-computer/">страницу загрузки Skype</a></span>.</p></li>
-<li class="list"><p class="p">Нажмите кнопку <span class="gui">Загрузите Skype для Linux DEB</span>.</p></li>
+<li class="list"><p class="p">
+      Open your web browser and go to the <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">Download Skype</a></span> page.
+    </p></li>
+<li class="list"><p class="p">
+      Click the <span class="gui">Get Skype for Linux DEB</span> button.
+    </p></li>
 <li class="list"><p class="p">
       In the window which shows up, select <span class="gui">Open with</span> and <span class="gui">Software
       Install (default)</span>, and then click the <span class="gui">OK</span> button.
@@ -110,7 +114,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

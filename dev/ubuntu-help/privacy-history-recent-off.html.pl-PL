@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Turn off or limit file history tracking</title>
+<title>Wyłączanie lub ograniczanie śledzenia historii plików</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,48 +65,39 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Turn off or limit file history tracking</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wyłączanie lub ograniczanie śledzenia historii plików</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Tracking recently used files and folders makes it easier to find
-  items that you have been working on in the file manager and in file
-  dialogs in applications. You may wish to keep your file usage history
-  private instead, or only track your very recent history.</p>
+<p class="p">Śledzenie ostatnio używanych plików i katalogów ułatwia odnajdywanie elementów, na których pracowano w menedżerze plików i w oknach wyboru plików w programach. Można wybrać zachowanie prywatności historii używanych plików lub śledzić tylko najnowszą historię.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Turn off file history tracking</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Wyłączanie śledzenia historii plików</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Usage &amp; History</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Użycie i historia</span>.</p></li>
 <li class="steps">
-<p class="p">Set the <span class="gui">Recently Used</span> switch to <span class="gui">OFF</span>.</p>
-<p class="p">To re-enable this feature, set the <span class="gui">Recently Used</span> switch to
-     <span class="gui">ON</span>.</p>
+<p class="p">Przełącz <span class="gui">Ostatnio używane</span> na <span class="gui">◯</span> (wyłączone).</p>
+<p class="p">Aby z powrotem włączyć tę funkcję, ustaw <span class="gui">Ostatnio używane</span> na <span class="gui">|</span> (włączone).</p>
 </li>
-<li class="steps"><p class="p">Use the <span class="gui">Clear Recent History</span> button to purge the history
-      immediately.</p></li>
+<li class="steps"><p class="p">Użyj przycisku <span class="gui">Wyczyść historię</span>, aby od razu usunąć historię.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">This setting will not affect how your web browser stores information
-  about the web sites you visit.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">To ustawienie nie wpływa na to, jak przeglądarka WWW przechowuje informacje o odwiedzanych stronach.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Restrict the amount of time your file history is tracked</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Ograniczanie czasu, przez jaki historia plików jest śledzona</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Usage &amp; History</span>.</p></li>
-<li class="steps"><p class="p">Ensure the <span class="gui">Recently Used</span> switch is <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Select the length of time to <span class="gui">Retain History</span>. Choose from
-     options <span class="gui">1 day</span>, <span class="gui">7 days</span>, <span class="gui">30 days</span>, or
-     <span class="gui">Forever</span>.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Clear Recent History</span> button to purge the history
-      immediately.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Użycie i historia</span>.</p></li>
+<li class="steps"><p class="p">Upewnij się, że <span class="gui">Ostatnio używane</span> jest ustawione na <span class="gui">|</span> (włączone).</p></li>
+<li class="steps"><p class="p">Wybierz czas do <span class="gui">Zachowywania historii</span>: <span class="gui">1 dzień</span>, <span class="gui">7 dni</span>, <span class="gui">30 dni</span> lub <span class="gui">Bez ograniczenia</span>.</p></li>
+<li class="steps"><p class="p">Użyj przycisku <span class="gui">Wyczyść historię</span>, aby od razu usunąć historię.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -117,11 +108,7 @@
 <div class="region"><ul>
 <li class="links "><a href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a></li>
 <li class="links ">
-<a href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.pl-PL" title="Automatyczne blokowanie ekranu">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.pl-PL" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.pl-PL" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.pl-PL" title="Automatyczne blokowanie ekranu">Blokada ekranu</a></span>, <span class="link"><a href="privacy-history-recent-off.html.pl-PL" title="Wyłączanie lub ograniczanie śledzenia historii plików">historia używanych plików</a></span>, <span class="link"><a href="privacy-purge.html.pl-PL" title="Usuwanie plików w koszu i plików tymczasowych">usuwanie plików w koszu i plików tymczasowych</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -133,7 +120,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

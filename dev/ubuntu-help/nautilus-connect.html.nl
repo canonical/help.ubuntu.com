@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html.nl" title="Delen">Delen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html.nl" title="Delen">Delen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,29 +75,16 @@
 <div class="region">
 <div class="contents">
 <p class="p">U kunt verbinding maken met een server of netwerk om bestanden te zoeken en bekijken die op de server staan, alsof ze op uw eigen computer staan. Dit is een handige manier om te downloaden of uploaden van bestanden op het internet, of om bestanden te delen met andere mensen op uw lokale netwerk.</p>
-<p class="p">To browse files over the network, open the <span class="app">Files</span>
-application from the <span class="gui">Activities</span> overview, and click
-<span class="gui">Other Locations</span> in the sidebar. The file manager
-will find any computers on your local area network that advertize
-their ability to serve files. If you want to connect to a server
-on the internet, or if you do not see the computer you’re looking
-for, you can manually connect to a server by typing in its
-internet/network address.</p>
+<p class="p">Open de toepassing <span class="app">Bestanden</span> via het <span class="gui">Activiteiten</span>-overzicht en klik op <span class="gui">Andere locaties</span> in de zijbalk. Bestandsbeheer zal alle computers vinden op uw lokale netwerk  die aangeven bestanden te kunnen delen. Als u wilt verbinden met een server op het internet, of als u de door u gezochte computer niet ziet, dan kunt u handmatig met een server verbinding maken door diens netwerk- of internetadres te typen.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Met een bestandsserver verbinden</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">In de bestandsbeheerder, klik op <span class="gui">Andere locaties</span> in de zijbalk.</p></li>
 <li class="steps">
-<p class="p">In <span class="gui">Connect to Server</span>, enter the address of the server, in
-  the form of a
-   <span class="link"><a href="#urls" title="URLs schrijven">URL</a></span>. Details on supported URLs are
-   <span class="link"><a href="#types" title="Servertypen">listed below</a></span>.</p>
+<p class="p">Voer bij <span class="gui">Verbinden met server</span> het serveradres in de vorm van een <span class="link"><a href="#urls" title="URLs schrijven">URL</a></span> in. Meer informatie over ondersteunde URLs kunt u <span class="link"><a href="#types" title="Servertypen">hieronder vinden</a></span>.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u al eerder met deze server verbinding heeft gemaakt, dan kunt u het in de <span class="gui">Recente servers</span> lijst aanklikken.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Connect</span>. The files on the server will be shown. You
-    can browse the files just as you would for those on your own computer. The
-    server will also be added to the sidebar so you can access it quickly in
-    the future.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Verbinden</span>. De bestanden op de server zullen worden getoond. U kunt door de bestanden bladeren net als u zou doen met de bestanden op uw eigen computer. De server zal ook aan de zijbalk worden toegevoegd zodat u deze voortaan snel kunt openen.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -125,8 +112,7 @@ internet/network address.</p>
 <p class="p">Als u op een server een <span class="em">secure shell</span>-account heeft, dan kunt u hiermee verbinding maken. Veel webhosts bieden hun leden  SSH-accounts aan zodat ze hun bestanden veilig kunnen uploaden. SSH servers vereisen altijd dat u zich aanmeldt.</p>
 <p class="p">Een typische SSH-URL ziet er als volgt uit:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://gebruikersnaam@servernaam.voorbeeld.com/map</span></p></div></div></div></div>
-<p class="p">When using SSH, all the data you send (including your password)
-  is encrypted so that other users on your network can’t see it.</p>
+<p class="p">Als u SSH gebruikt, zullen alle door u verstuurde gegevens (inclusief uw wachtwoord) versleuteld worden zodat andere gebruikers op het netwerk die niet kunnen zien.</p>
 </dd>
 <dt class="terms">FTP (met aanmelding)</dt>
 <dd class="terms">
@@ -149,22 +135,15 @@ internet/network address.</p>
 </dd>
 <dt class="terms">WebDAV en Secure WebDAV</dt>
 <dd class="terms">
-<p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
-  share files on a local network and to store files on the internet. If the
-  server you’re connecting to supports secure connections, you should choose
-  this option. Secure WebDAV uses strong SSL encryption, so that other users
-  can’t see your password.</p>
+<p class="p">Gebaseerd op het op het web gebruikte HTTP-protocol, wordt WebDAV soms gebruikt om bestanden op een lokaal netwerk te delen en om bestanden op het internet op te slaan. Als de server waar u mee verbindt beveiligde verbindingen ondersteunt, kiest u deze optie. Secure WebDAV maakt gebruik van sterke SSL-encryptie, zodat andere gebruikers uw wachtwoord niet kunnen zien.</p>
 <p class="p">Een WebDAV-URL ziet er als volgt uit:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://voorbeeld.hostnaam.nl/pad</span></p></div></div></div></div>
 </dd>
-<dt class="terms">NFS share</dt>
+<dt class="terms">NFS delen</dt>
 <dd class="terms">
-<p class="p">UNIX computers traditionally use the Network File System protocol to
-  share files over a local network. With NFS, security is based on the UID of
-  the user accessing the share, so no authentication credentials are
-  needed when connecting.</p>
-<p class="p">A typical NFS share URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">nfs://servername/path</span></p></div></div></div></div>
+<p class="p">Unix-computers gebruiken van oudsher het Network File System protocol om bestanden op een lokaal netwerk te delen. Met NFS is de beveiliging gebaseerd op de UID van de gebruiker die toegang heeft tot het gedeelde bestand; er zijn dus geen authenticatiegegevens nodig bij het verbinden.</p>
+<p class="p">Een typische NFS-delen URL ziet er als volgt uit:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">nfs://servernaam/pad</span></p></div></div></div></div>
 </dd>
 </dl></div></div></div>
 </div></div>
@@ -196,7 +175,7 @@ internet/network address.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

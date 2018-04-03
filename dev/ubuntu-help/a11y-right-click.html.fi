@@ -65,11 +65,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.fi" title="Esteettömyys">Esteettömyys</a> › <a class="trail" href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="a11y.html.fi" title="Esteettömyys">Esteettömyys</a> › <a class="trail" href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -95,7 +95,7 @@
 <p class="p">Some special pointers, such as the resize pointers, do not change colors.
   You can still use simulated secondary click as normal, even if you do not get
   visual feedback from the pointer.</p>
-<p class="p">Jos käytät <span class="link"><a href="mouse-mousekeys.html.fi" title="Napsauta ja siirrä hiiren osoitinta sormiota käyttäen.">hiirinäppäimiä</a></span>, hiiren oikean painikkeen painallus onnistuu pitämällä hetken pohjassa numeronäppäintä <span class="key"><kbd>5</kbd></span>.</p>
+<p class="p">Jos käytät <span class="link"><a href="mouse-mousekeys.html.fi" title="Napsauta ja siirrä hiiren osoitinta sormiota käyttäen">hiirinäppäimiä</a></span>, hiiren oikean painikkeen painallus onnistuu pitämällä hetken pohjassa numeronäppäintä <span class="key"><kbd>5</kbd></span>.</p>
 <div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">Activities</span> overview, you are always able to long-press
     to right-click, even with this feature disabled. Long-press works slightly
     differently in the overview: you do not have to release the button to
@@ -120,7 +120,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

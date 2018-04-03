@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print two-sided and multi-page layouts</title>
+<title>Drukowanie dwustronne i układy wielostronicowe</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,26 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html.pl-PL" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html.pl-PL#paper" title="Różne rozmiary i układy papieru">Rozmiary i układy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html.pl-PL" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html.pl-PL#paper" title="Różne rozmiary i układy papieru">Rozmiary i układy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Print two-sided and multi-page layouts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Drukowanie dwustronne i układy wielostronicowe</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To print on both sides of each sheet of paper:</p>
+<p class="p">Aby wydrukować na obu stronach kartki papieru:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the print dialog by pressing
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Otwórz okno wydruku naciskając klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Przejdź do karty <span class="gui">Ustawienia strony</span> okna wydruku i wybierz opcję z rozwijanej listy <span class="gui">Dwustronnie</span>. Jeśli opcja jest wyłączona, to drukowanie obustronne jest niedostępne dla tej drukarki.</p>
-<p class="p">Printers handle two-sided printing in different ways. It is a good
-      idea to experiment with your printer to see how it works.</p>
+<p class="p">Drukarki obsługują drukowanie dwustronne na różne sposoby. Warto poeksperymentować z używaną drukarką, aby zobaczyć jak działa.</p>
 </li>
 <li class="steps"><p class="p">Można także drukować więcej niż jedną stronę dokumentu na <span class="em">stronę</span> kartki. Użyj opcji <span class="gui">Stron na kartkę</span>.</p></li>
 </ol></div></div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">The availability of these options may depend on the type of printer you
-    have, as well as the application you are using. This option may not always
-    be available.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Dostępność tych opcji może zależeć od typu używanej drukarki, a także używanego programu. Ta opcja może nie zawsze być dostępna.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -99,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

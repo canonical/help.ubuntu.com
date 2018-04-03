@@ -64,27 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="clock.html.pl-PL" title="Data i czas">Data i czas</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="clock.html.pl-PL" title="Data i czas">Data i czas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zmiana daty i czasu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If the date and time displayed on the top bar are incorrect or in the
-  wrong format, you can change them:</p>
+<p class="p">Jeśli data i czas wyświetlane na górnym pasku są niepoprawne albo w błędnym formacie, to można je zmienić:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Data i czas</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Data i czas</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Data i czas</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">If you have <span class="gui">Automatic Date &amp; Time</span> set to <span class="gui">ON</span>,
-      your date and time should update automatically if you have an internet
-      connection. To update your date and time manually, set this to
-      <span class="gui">OFF</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Date &amp; Time</span>, then adjust the time and date.</p></li>
-<li class="steps"><p class="p">You can change how the hour is displayed by selecting
-      <span class="gui">24-hour</span> or <span class="gui">AM/PM</span> for <span class="gui">Time Format</span>.</p></li>
+<li class="steps"><p class="p">Jeśli <span class="gui">Automatyczna data i czas</span> jest ustawiona na <span class="gui">|</span> (włączone), to data i czas powinny być automatycznie aktualizowane po połączeniu z Internetem. Aby ręcznie zaktualizować datę i czas, ustaw to na <span class="gui">◯</span> (wyłączone).</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Data i czas</span>, a następnie dostosuj czas i datę.</p></li>
+<li class="steps"><p class="p">Można zmienić sposób wyświetlania godzin wybierając <span class="gui">24-godzinny</span> lub <span class="gui">12-godzinny</span> <span class="gui">Format czasu</span>.</p></li>
 </ol></div></div></div>
-<p class="p">You may also wish to <span class="link"><a href="clock-timezone.html.pl-PL" title="Zmiana strefy czasowej">set the timezone
-  manually</a></span>.</p>
+<p class="p">Można także <span class="link"><a href="clock-timezone.html.pl-PL" title="Zmiana strefy czasowej">ręcznie ustawić strefę czasową</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -102,7 +96,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

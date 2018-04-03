@@ -2,9 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Add software repositories
-  </title>
+<title>Lisää ohjelmistolähteitä</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -66,12 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.fi" title="Install &amp; remove software">Lisää/poista ohjelmistoja</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="addremove.html.fi" title="Lisää ja poista ohjelmistoja">Lisää/poista ohjelmistoja</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Add software repositories
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Lisää ohjelmistolähteitä</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Ohjelmia on saatavilla kolmansien osapuolten ohjelmalähteistä (myös <span class="em">ohjelmistolähde</span>) aivan kuten myös Ubuntun omista ohjelmalähteistä. Jos haluat asentaa jotain kolmansien osapuolten ohjelmalähteistä, sinun tulee saattaa kyseiset ohjelmalähteet Ubuntun tietoon.</p>
@@ -81,9 +77,7 @@
 </div></div></div></div>
 <p class="p">
 </p>
-<p class="p">
-   To add a repository:
-   </p>
+<p class="p">Lisää ohjelmistolähde:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
         Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
@@ -96,7 +90,7 @@
 <li class="steps">
 <p class="p">Napsauta <span class="gui">LIsää</span> ja syötä ohjelmalähteen APT-rivi. APT-rivin pitäisi olla näkyvissä ohjelmiston verkkosivustolla. APT-rivin pitäisi vaikuttaa samankaltaiselta kuin alla:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
 <li class="steps"><p class="p">
@@ -117,8 +111,8 @@
 <p class="p">
       The Canonical Partner repository offers some proprietary applications 
       that don't cost any money to use but are closed source. They include 
-      software like <span class="app">Skype</span> and <span class="app">Adobe Flash Plugin</span>. Software
-      in this repository will appear in <span class="app">Ubuntu Software</span> search results
+      software like <span class="app">Adobe Flash Plugin</span>. Software in this
+      repository will appear in <span class="app">Ubuntu Software</span> search results
       but won't be installable until this repository is enabled.
     </p>
 <p class="p">
@@ -129,7 +123,7 @@
       <span class="gui">Add</span> and enter:
     </p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
 <p class="p">
       Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. Wait a 
@@ -143,20 +137,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.fi" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.fi" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.fi" title="Poista sovellus">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.fi" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.fi" title="Lisää ja poista ohjelmistoja">Lisää ja poista ohjelmistoja</a><span class="desc"> — <span class="link"><a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna sovelluksia</a></span>, <span class="link"><a href="addremove-remove.html.fi" title="Poista sovellus">poista sovelluksia</a></span>, <span class="link"><a href="addremove-sources.html.fi" title="Lisää ohjelmistolähteitä">lisää ohjelmistolähteitä</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-ppa.html.fi" title="Lisää PPA-ohjelmalähde">Lisää PPA-ohjelmalähde</a><span class="desc"> — 
-        Add PPAs to extend the software sources Ubuntu uses for
-        installation and upgrades.
-    </span>
+<a href="addremove-ppa.html.fi" title="Lisää PPA-ohjelmalähde">Lisää PPA-ohjelmalähde</a><span class="desc"> — Lisää PPA-ohjelmistolähteitä laajentaaksesi Ubuntun käyttämiä ohjelmistolähteitä.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -168,7 +155,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

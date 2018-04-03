@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Can I get notified when my color profile is inaccurate?</title>
+<title>Czy mogę otrzymywać powiadomienie, kiedy profil kolorów jest niedokładny?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,28 +65,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Can I get notified when my color profile is inaccurate?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Czy mogę otrzymywać powiadomienie, kiedy profil kolorów jest niedokładny?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can be reminded to recalibrate your devices after a specific period of
-  time. Unfortunately, it is not possible to tell without recalibrating whether
-  a device profile is accurate, so it is best to recalibrate devices
-  regularly.</p>
-<p class="p">Some companies have very specific calibration expiry policies for
-  profiles, as an inaccurate color profile can make a huge difference to an end
-  product.</p>
-<p class="p">If you set the timeout policy and a profile is older than the policy then
-  a red warning triangle will be shown in the <span class="gui">Color</span> panel next to
-  the profile. A warning notification will also be shown every time you log
-  into your computer.</p>
-<p class="p">To set the policy for display and printer devices, you specify the
-  maximum age of the profile in days:</p>
+<p class="p">Można otrzymywać przypomnienie o ponownym skalibrowaniu urządzeń po podanym czasie. Niestety, bez kalibracji nie da się powiedzieć, czy profil urządzenia jest dokładny, więc najlepiej jest regularnie kalibrować urządzenia.</p>
+<p class="p">Część firm ma bardzo szczegółowe zasady wygasania kalibracji profilów, jako że niedokładny profil kolorów ma ogromny wpływ na jakość produktu.</p>
+<p class="p">Jeśli ustawiono zasadę wygasania i profil jest starszy, niż zasada przewiduje, to w panelu <span class="gui">Kolor</span> obok profilu będzie wyświetlane ostrzeżenie. Powiadomienie z ostrzeżeniem będzie także wyświetlane podczas każdego logowania do komputera.</p>
+<p class="p">Aby ustawić zasadę dla ekranów i drukarek, podaj maksymalny wiek profilu w dniach:</p>
 <div class="screen"><pre class="contents "><span class="prompt output">$ </span><span class="input">gsettings set org.gnome.settings-daemon.plugins.color recalibrate-printer-threshold 180</span>
 <span class="prompt output">$ </span><span class="input">gsettings set org.gnome.settings-daemon.plugins.color recalibrate-display-threshold 90</span></pre></div>
 </div>
@@ -100,7 +91,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-why-calibrate.html.pl-PL" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
+<a href="color-why-calibrate.html.pl-PL" title="Dlaczego należy samodzielnie przeprowadzić kalibrację?">Dlaczego należy samodzielnie przeprowadzić kalibrację?</a><span class="desc"> — Kalibracja jest ważna, jeśli wyświetlane lub drukowane kolory mają być właściwe.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -112,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

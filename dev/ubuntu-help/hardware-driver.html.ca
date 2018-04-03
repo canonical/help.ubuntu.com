@@ -95,10 +95,10 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="hardware.html.ca" title="Maquinari i controladors">Maquinari i controladors</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.ca#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.ca" title="Printing">printers</a></span>,
+      <span class="link"><a href="hardware.html.ca#problems" title="Problemes comuns">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.ca" title="Imprimint">printers</a></span>,
       <span class="link"><a href="power.html.ca" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.ca" title="Color management">color management</a></span>,
+      <span class="link"><a href="color.html.ca" title="Gestió dels colors">color management</a></span>,
       <span class="link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></span>,
       <span class="link"><a href="disk.html.ca" title="Discs i emmagatzematge">disks</a></span>…
     </span>
@@ -108,11 +108,11 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html.ca" title="I cannot connect my Bluetooth device">I cannot connect my Bluetooth device</a><span class="desc"> — L'adaptador pot estar apagat o no disposar dels controladors necessaris, o el Bluetooth està desactivat o blocat.</span>
-</li>
-<li class="links ">
 <a href="power-nowireless.html.ca" title="I have no wireless network when I wake up my computer">I have no wireless network when I wake up my computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
+</li>
+<li class="links ">
+<a href="bluetooth-problem-connecting.html.ca" title="No puc connectar el meu dispositiu Bluetooth">No puc connectar el meu dispositiu Bluetooth</a><span class="desc"> — L'adaptador pot estar apagat o no disposar dels controladors necessaris, o el Bluetooth està desactivat o blocat.</span>
 </li>
 <li class="links ">
 <a href="power-suspendfail.html.ca" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
@@ -128,7 +128,7 @@ double-sided printing, but is otherwise completely functional.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

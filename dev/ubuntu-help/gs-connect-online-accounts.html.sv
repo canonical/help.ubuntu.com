@@ -80,16 +80,13 @@
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3"><li class="steps">
-<p class="p">Click the <span class="gui">Online Accounts</span> panel, then click the online
-      account service you want to use.</p>
-<p class="p">This will open a new window where you can sign in to your online
-      account.</p>
+<p class="p">Klicka på panelen <span class="gui">Nätkonton</span>, klicka sedan på nätkontotjänsten som du vill använda.</p>
+<p class="p">Detta kommer att öppna ett nytt fönster där du kan logga in på ditt nätkonto.</p>
 </li></ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa4.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4">
 <li class="steps"><p class="p">I de flesta fall så kommer du att vara tvungen att bevilja tillgång till nättjänsten efter inloggningen för att komma igång.</p></li>
-<li class="steps"><p class="p">For example, if you are connecting to your Google account, you
-       will have to click the <span class="gui">Allow</span> button.</p></li>
+<li class="steps"><p class="p">Till exempel, om du kopplar upp dig mot ditt Google-konto, så måste du klicka på knappen <span class="gui">Tillåt</span>.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa5.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Många nätkonton låter dig välja de tjänster du vill använda med ditt nätkonto. Om du inte vill använda en tjänst, inaktivera den genom att klicka på <span class="gui">AV/PÅ</span>-brytaren på högersidan av fönstret.</p></li></ol></div></div></div>
@@ -121,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

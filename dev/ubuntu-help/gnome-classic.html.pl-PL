@@ -68,67 +68,42 @@
 <div class="hgroup"><h1 class="title"><span class="title">Czym jest Klasyczne GNOME?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p"><span class="em">GNOME Classic</span> is a feature for users who prefer a more traditional
-  desktop experience. While <span class="em">GNOME Classic</span> is based on <span class="em">GNOME 3</span>
-  technologies, it provides a number of changes to the user interface, such as
-  the <span class="gui">Applications</span> and
-  <span class="gui">Places</span> menus on the top bar, and a window
-  list at the bottom of the screen.</p>
-<p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications. The <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span>
- overview is available by selecting the <span class="gui">Activities
- Overview</span> item from the menu.</p>
-<p class="p">To access the <span class="em"><span class="gui">Activities</span> overview</span>,
- you can also press the <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> key.</p>
+<p class="p"><span class="em">Klasyczne GNOME</span> to funkcja dla użytkowników preferujących bardziej tradycyjny pulpit. Chociaż <span class="em">Klasyczne GNOME</span> jest oparte na technologiach <span class="em">GNOME 3</span>, to dostarcza wiele zmian interfejsu użytkownika, np. menu <span class="gui">Programy</span> i <span class="gui">Miejsca</span> na górnym pasku oraz listę okien na dole ekranu.</p>
+<p class="p">Można używać menu <span class="gui">Programy</span> na górnym pasku do uruchamiania programów. <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> jest dostępny po wybraniu elementu <span class="gui">Ekran podglądu</span> z menu.</p>
+<p class="p">Aby otworzyć <span class="em">ekran podglądu</span>, można także nacisnąć klawisz <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lista okien</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">The window list at the bottom of the screen provides access to all your open
- windows and applications and lets you quickly minimize and restore them.</p>
-<p class="p">At the right-hand side of the window list, GNOME displays a short
- identifier for the current workspace, such as <span class="gui">1</span> for the first
- (top) workspace. In addition, the identifier also displays the total number
- of available workspaces. To switch to a different workspace, you can click
- the identifier and select the workspace you want to use from the menu.</p>
-<p class="p">If an application or a system component wants to get your attention, it
- will display a blue icon at the right-hand side of the window list. Clicking
- the blue icon shows the <span class="link"><a href="shell-notifications.html.pl-PL" title="Powiadomienia i obszar powiadamiania">message tray</a></span>,
- which lets you access all your notifications.</p>
+<p class="p">Lista okien na dole ekranu zapewnia dostęp do wszystkich otwartych okien i programów, umożliwiając ich szybkie minimalizowanie i przywracanie.</p>
+<p class="p">Po prawej stronie listy okien GNOME wyświetla krótki identyfikator obecnego obszaru roboczego, np. <span class="gui">1</span> dla pierwszego (górnego) obszaru. Dodatkowo identyfikator wyświetla także całkowitą liczbę dostępnych obszarów roboczych. Aby przełączyć na inny obszar, można kliknąć identyfikator i wybrać obszar do użycia z menu.</p>
+<p class="p">Jeśli program lub składnik systemu domaga się uwagi użytkownika, to wyświetli niebieską ikonę na prawo od listy okien. Kliknięcie tej ikony wyświetli <span class="link"><a href="shell-notifications.html.pl-PL" title="Powiadomienia i obszar powiadamiania">obszar powiadamiania</a></span>, dający dostęp do powiadomień.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Przełączanie z i na Klasyczne GNOME</span></h2></div>
 <div class="region"><div class="contents">
-<div class="note note-important" title="Ważne"><div class="inner"><div class="region"><div class="contents"><p class="p">GNOME Classic is only available on systems with certain GNOME Shell extensions
- installed. Some Linux distributions may not have these extensions available or
- installed by default.</p></div></div></div></div>
+<div class="note note-important" title="Ważne"><div class="inner"><div class="region"><div class="contents"><p class="p">Klasyczne GNOME jest dostępne tylko w systemach z zainstalowanymi pewnymi rozszerzeniami Powłoki GNOME. Część dystrybucji systemu Linux może nie mieć ich dostępnych lub domyślnie zainstalowanych.</p></div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Aby przełączyć z <span class="em">GNOME</span> na <span class="em">Klasyczne GNOME</span>:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then log out. Click the system menu on the right
-      side of the top bar, click your name and then choose the right option.</p></li>
-<li class="steps"><p class="p">A confirmation message will appear. Select <span class="gui">Log Out</span> to
-      confirm.</p></li>
-<li class="steps"><p class="p">At the login screen, select your name from the list.</p></li>
-<li class="steps"><p class="p">Enter your password in the password entry box.</p></li>
-<li class="steps"><p class="p">Click the options icon, which is displayed to the left of the <span class="gui">Sign
-      In</span> button, and select <span class="gui">GNOME Classic</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Sign In</span> button.</p></li>
+<li class="steps"><p class="p">Zapisz otwarte dokumenty i wyloguj się. Kliknij menu systemowe po prawej stronie górnego paska, kliknij swoją nazwę użytkownika, a następnie wybierz właściwą opcję.</p></li>
+<li class="steps"><p class="p">Zostanie wyświetlone pytanie o potwierdzenie. Kliknij przycisk <span class="gui">Wyloguj</span>, aby potwierdzić.</p></li>
+<li class="steps"><p class="p">Na ekranie logowania wybierz swoją nazwę użytkownika z listy.</p></li>
+<li class="steps"><p class="p">Wpisz hasło w polu wpisywania hasła.</p></li>
+<li class="steps"><p class="p">Kliknij ikonę opcji, wyświetlaną na lewo od przycisku <span class="gui">Zaloguj</span>, i wybierz <span class="gui">Klasyczne GNOME</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Zaloguj</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Aby przełączyć z <span class="em">Klasycznego GNOME</span> na <span class="em">GNOME</span>:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then log out. Click the system menu on the right
-      side of the top bar, click your name and then choose the right option.</p></li>
-<li class="steps"><p class="p">A confirmation message will appear. Select <span class="gui">Log Out</span> to
-      confirm.</p></li>
-<li class="steps"><p class="p">At the login screen, select your name from the list.</p></li>
-<li class="steps"><p class="p">Enter your password in the password entry box.</p></li>
-<li class="steps"><p class="p">Click the options icon, which is displayed to the left of the <span class="gui">Sign
-      In</span> button, and select <span class="gui">GNOME</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Sign In</span> button.</p></li>
+<li class="steps"><p class="p">Zapisz otwarte dokumenty i wyloguj się. Kliknij menu systemowe po prawej stronie górnego paska, kliknij swoją nazwę użytkownika, a następnie wybierz właściwą opcję.</p></li>
+<li class="steps"><p class="p">Zostanie wyświetlone pytanie o potwierdzenie. Kliknij przycisk <span class="gui">Wyloguj</span>, aby potwierdzić.</p></li>
+<li class="steps"><p class="p">Na ekranie logowania wybierz swoją nazwę użytkownika z listy.</p></li>
+<li class="steps"><p class="p">Wpisz hasło w polu wpisywania hasła.</p></li>
+<li class="steps"><p class="p">Kliknij ikonę opcji, wyświetlaną na lewo od przycisku <span class="gui">Zaloguj</span>, i wybierz <span class="gui">GNOME</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Zaloguj</span>.</p></li>
 </ol></div>
 </div></div>
 </div></div>
@@ -140,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

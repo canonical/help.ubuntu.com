@@ -70,31 +70,21 @@
 <div class="hgroup"><h1 class="title"><span class="title">Buscar ficheiros</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can search for files based on their name or file type directly
-  within the file manager.</p>
+<p class="p">Pode buscar ficheiros segundo o seu nome ou tipo de ficheiro directamente desde o xestor de ficheiros.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Buscar</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
-      <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview.</p></li>
+<li class="steps"><p class="p">Abra o aplicativo <span class="app">Ficheiros</span> desde a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>.</p></li>
 <li class="steps"><p class="p">Se sabe que os ficheiros que quere buscar están nun cartafol determinado, vaia a dito cartafol.</p></li>
 <li class="steps">
-<p class="p">Type a word or words that you know appear in the file name, and they
-      will be shown in the search bar. For example, if you name all your
-      invoices with the word “Invoice”, type <span class="input">invoice</span>. Words are
-      matched regardless of case.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of typing words directly to bring up the search bar, you can
-	click the magnifying glass in the toolbar, or press
-        <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div></div>
+<p class="p">Escriba unha ou varias palabras que saiba que aparecen no nome do ficheiro. Por exemplo, se todas as súas facturas conteñen no seu nome a palabra «Factura», teclee <span class="input">factura</span>. Prema <span class="key"><kbd>Intro</kbd></span>. Non fai falla ter en conta as maiúsculas e minúsculas.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">No lugar de escribir palabras directamente para mostrar a barra de busca, pode premer na lupa da barra de ferramentas ou prema <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div></div>
 </li>
 <li class="steps">
 <p class="p">Pode acotar os resultados por localización e tipo de ficheiro.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Prema <span class="gui">Cartafol persoal</span> para restrinxir os resultados das buscas ao seu cartafol <span class="file">Persoal</span>, ou <span class="gui">Todos os ficheiro</span>s para buscar en calquera lugar.</p></li>
-<li class="list"><p class="p">Click the <span class="gui">+</span> button and pick a <span class="gui">File Type</span> from
-	  the drop-down list to narrow the search results based on file type.
-	  Click the <span class="gui">×</span> button to remove this option and widen the
-	  search results.</p></li>
+<li class="list"><p class="p">Prema <span class="key"><kbd>+</kbd></span> e seleccione <span class="gui">Tipo de ficheiro</span> desde a lista despregábel para acotar os resultados da busca en función do tipo de ficheiro. Prema o botón <span class="key"><kbd>×</kbd></span> para quitar esta opción e facer os resultados da busca menos restrinxidos.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">Pode abrir, copiar, eliminar ou traballar cos seus ficheiros desde os resultados de busca, igual como se estivera en calquera cartafol no xestor de ficheiros.</p></li>
@@ -116,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

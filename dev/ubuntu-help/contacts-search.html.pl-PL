@@ -64,26 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="contacts.html.pl-PL" title="Kontakty">Kontakty</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="contacts.html.pl-PL" title="Kontakty">Kontakty</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wyszukiwanie kontaktu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can search for an online contact in one of two ways:</p>
+<p class="p">Można wyszukiwać kontakt online na dwa sposoby:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">In the <span class="gui">Activities</span> overview, start typing the name of the
-      contact.</p></li>
-<li class="steps"><p class="p">Matching contacts will appear in the overview instead of the usual list
-      of applications.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to select the contact at the top of the list or
-      click the contact that you want to select if they are not at the
-      top.</p></li>
+<li class="steps"><p class="p">Na <span class="gui">ekranie podglądu</span> zacznij pisać nazwę kontaktu.</p></li>
+<li class="steps"><p class="p">Pasujące kontakty zostaną wyświetlone zamiast listy programów.</p></li>
+<li class="steps"><p class="p">Naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>, aby wybrać kontakt na górze listy lub kliknij inny.</p></li>
 </ol></div></div></div>
-<p class="p">To search from inside <span class="app">Contacts</span>:</p>
+<p class="p">Aby wyszukiwać w <span class="app">Kontaktach</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click inside the search field.</p></li>
-<li class="steps"><p class="p">Start typing the name of the contact.</p></li>
+<li class="steps"><p class="p">Kliknij pole wyszukiwania.</p></li>
+<li class="steps"><p class="p">Zacznij pisać nazwę kontaktu.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -102,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

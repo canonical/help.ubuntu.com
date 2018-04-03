@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Festplatten und Speicherung</span></h1></div>
@@ -74,9 +74,7 @@
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.de" title="Datenträger und Partitionen verwalten"><span class="title">Datenträger und Partitionen verwalten</span><span class="linkdiv-dash"> — </span><span class="desc">Was sind Datenträger und Partitionen? So setzen Sie die Laufwerksverwaltung ein.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-resize.html.de" title="Die Größe des Dateisystems anpassen"><span class="title">Die Größe des Dateisystems anpassen</span><span class="linkdiv-dash"> — </span><span class="desc">Ein Dateisystem und dessen Partition schrumpfen oder vergrößern.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-repair.html.de" title="Ein beschädigtes Dateisystem reparieren"><span class="title">Ein beschädigtes Dateisystem reparieren</span><span class="linkdiv-dash"> — </span><span class="desc">Überprüfen Sie, ob ein Dateisystem beschädigt ist und versetzen Sie es in einen benutzbaren Zustand zurück.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.de" title="Startmedium erstellen"><span class="title">Startmedium erstellen</span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.de" title="Startmedium erstellen"><span class="title">Startmedium erstellen</span><span class="linkdiv-dash"> — </span><span class="desc">Wandeln Sie einen USB-Stick in ein Laufwerk um, von dem aus Sie Ubuntu starten und installieren können.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.de" title="Testen der Leistungsfähigkeit Ihrer Festplatte"><span class="title">Testen der Leistungsfähigkeit Ihrer Festplatte</span><span class="linkdiv-dash"> — </span><span class="desc">Ihre Festplatte Leistungstests unterziehen, um die Geschwindigkeit zu überprüfen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-check.html.de" title="Überprüfen Ihrer Festplatte auf Probleme"><span class="title">Überprüfen Ihrer Festplatte auf Probleme</span><span class="linkdiv-dash"> — </span><span class="desc">Sie können die Festplatte auf Probleme testen, um sicher zu stellen, dass sie »gesund« ist.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.de" title="Überprüfen, wieviel Festplattenspeicher verfügbar ist"><span class="title">Überprüfen, wieviel Festplattenspeicher verfügbar ist</span><span class="linkdiv-dash"> — </span><span class="desc">Verwenden Sie die <span class="gui">Festplattenbelegungsanalyse</span> oder die <span class="gui">Systemüberwachung</span> zum Überprüfen des vorhandenen Plattenplatzes und der Kapazität.</span></a></div>
@@ -97,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

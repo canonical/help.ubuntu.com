@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Songs don’t appear on my iPod when I copy them onto it</title>
+<title> Nummers verschijnen niet op mijn iPod wanneer ik ze daar naartoe kopieer</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,15 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title"> Nummers verschijnen niet op mijn iPod wanneer ik ze daar naartoe kopieer</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you plug an iPod into your computer, it will appear in your music player application and also in the file manager (the <span class="app">Files</span> application in the <span class="gui">Activities</span> overview). You must copy songs onto the iPod using the music player — if you copy them across using the file manager, it won’t work because the songs won’t be put into the right location. iPods have a special location for storing songs which music player applications know how to get to but the file manager does not.</p>
+<p class="p">Wanneer u een iPod aansluit op uw computer, dan verschijnt deze in zowel uw muziekafspeeltoepassing als in het bestandsbeheerprogramma  (de toepassing <span class="app">Files</span> in het <span class="gui">Activiteiten</span>-overzicht). U moet nummers naar de iPod kopiëren via de muziekspeler — als u ze kopieert via bestandsbeheer, dan zal het niet werken omdat de nummers niet op de juiste locatie geplaatst zullen worden. iPods hebben een speciale locatie voor het opslaan van nummers en muziekspelers weten waar dat is maar bestandsbeheer niet.</p>
 <p class="p">U moet ook wachten totdat de nummers gekopieerd zijn naar de iPod alvorens hem af te koppelen. Zorg ervoor dat u, voordat u de iPod afkoppelt, <span class="link"><a href="files-removedrive.html.nl" title="Een externe schijf veilig verwijderen">hem veilig verwijdert</a></span>. Hierdoor bent u ervan verzekerd dat alle nummers op de juiste manier gekopieerd zijn.</p>
-<p class="p">A further reason why songs might not be appearing on your iPod is that the music player application you’re using does not support converting the songs from one audio format to another. If you copy a song which is saved in an audio format that is not supported by your iPod (for example, an Ogg Vorbis (.oga) file), the music player will try to convert it to a format that the iPod does understand, such as MP3. If the appropriate conversion software (also called a codec or encoder) is not installed, the music player will not be able to do the conversion and so will not copy the song. Look in the software installer for an appropriate codec.</p>
+<p class="p">Nog een mogelijke reden waarom nummers niet op uw iPod verschijnen is dat de door u gebruikte muziekspeler-toepassing het converteren van muziekbestanden van het ene formaat naar het andere niet ondersteunt. Als u een nummer kopieert dat in een audioformaat is opgeslagen dat niet door uw iPod wordt ondersteund (bijvoorbeeld, een Ogg Vorbis (.oga) bestand), dan zal de muziekspeler proberen om het naar een audioformaat te converteren dat uw iPod wel begrijpt, zoals MP3. Als de juiste conversiesoftware (ook wel codec of encoder genoemd) niet aanwezig is, dan zal de muziekspeler niet in staat zijn de conversie uit te voeren, en en zal het nummer dus niet kopiëren. Zoek in het software-installatieprogramma naar de juiste codec.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -88,7 +88,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

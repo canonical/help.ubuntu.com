@@ -523,7 +523,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ta" title="Use alternative keyboard layouts">விசைப்பலகை லேயவுட்டுகள்</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ta" title="விசைப்பலகை சுட்டியை சிமிட்டச் செய்தல்">சுட்டி சிமிட்டல்</a></span>, <span class="link"><a href="a11y.html.ta#mobility" title="நகர்வதிலான குறைபாடுகள்">விசைப்பலகை அணுகல் தன்மை</a></span>…</span>
+<a href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ta" title="மாற்று விசைப்பலகை லேயவுட்டுகளைப் பயன்படுத்துதல்">விசைப்பலகை லேயவுட்டுகள்</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ta" title="விசைப்பலகை சுட்டியை சிமிட்டச் செய்தல்">சுட்டி சிமிட்டல்</a></span>, <span class="link"><a href="a11y.html.ta#mobility" title="நகர்வதிலான குறைபாடுகள்">விசைப்பலகை அணுகல் தன்மை</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -541,7 +541,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

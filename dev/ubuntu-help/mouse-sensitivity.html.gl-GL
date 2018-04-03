@@ -78,9 +78,9 @@
 <div class="contents">
 <p class="p">Se o punteiro se move demasiado rápido ou lento cando se move o rato ou usa a área táctil, pode axustar a velocidade do punteiro para estes dispositivos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Rato e «touchpad»</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Adjust the <span class="gui">Pointer Speed</span> slider until the pointer motion
       is comfortable for you. You will see one slider per each pointing device,
       such as mouse or touchpad.</p></li>
@@ -112,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

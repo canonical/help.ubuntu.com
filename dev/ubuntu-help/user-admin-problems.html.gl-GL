@@ -74,10 +74,9 @@
   <span class="link"><a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">administrative privileges</a></span>. Some tasks
   require administrative privileges in order to work, such as:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">connecting to networks or wireless networks,</p></li>
-<li class="list"><p class="p">viewing the contents of a different disk partition (for example, a
-      Windows partition), or</p></li>
-<li class="list"><p class="p">installing new applications.</p></li>
+<li class="list"><p class="p">Conectarse a algunhas redes con/sen fíos,</p></li>
+<li class="list"><p class="p">ver os contidos de particións de disco diferentes (p.ex. se ten unha partición de Windows), ou</p></li>
+<li class="list"><p class="p">instalar novos aplicativos.</p></li>
 </ul></div></div></div>
 <p class="p">You can <span class="link"><a href="user-admin-change.html.gl-GL" title="Como funcionan os privilexios de administración?">change who has administrative
   privileges</a></span>.</p>
@@ -111,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -65,46 +65,34 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Waarom wordt mijn computer uitgeschakeld wanneer ik hem dichtdoe?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you close the lid of your laptop, your computer will
-  <span class="link"><a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?"><span class="em">suspend</span></a></span> in order to save power.
-  This means that the computer is not actually turned off — it has just gone to
-  sleep. You can resume it by opening the lid. If it does not resume, try
-  clicking the mouse or pressing a key. If that still does not work, press the
-  power button.</p>
-<p class="p">Some computers are unable to suspend properly, normally because their
-  hardware is not completely supported by the operating system (for example,
-  the Linux drivers are incomplete). In this case, you may find that you are
-  unable to resume your computer after you have closed the lid. You can try to
-  <span class="link"><a href="power-suspendfail.html.nl" title="Why does my computer not turn back on after I suspended it?">fix the problem with suspend</a></span>, or you
-  can prevent the computer from trying to suspend when you close the lid.</p>
+<p class="p">Wanneer u uw laptop dichtdoet, wordt deze in de <span class="link"><a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?"><span class="em">pauzestand</span></a></span> gezet om energie te sparen. Dit houdt in dat de computer niet werkelijk wordt uitgeschakeld maar in de pauzestand wordt gezet. U kunt hem weer activeren door hem open te maken. Als dat niet gebeurt, probeer dan een muisklik te geven of op een toets te drukken. Als dat nog niet werkt, druk dan op de aan/uitknop.</p>
+<p class="p">Sommige computers kunnen niet op de juiste manier in de pauzestand worden gezet, meestal omdat hun hardware niet volledig wordt ondersteund door het besturingssysteem (bijv. de Linux stuurprogramma's zijn onvolledig). In dit geval kan het zijn dat u uw laptop niet kunt activeren nadat hij dicht is gemaakt. U kunt <span class="link"><a href="power-suspendfail.html.nl" title="Waarom wordt mijn computer niet meer actief nadat ik hem in de pauzestand heb gezet?">het probleem met de pauzestand oplossen</a></span> proberen, of u kunt voorkomen dat de computer in de pauzestand wordt gezet wanneer hij dicht gedaan wordt.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Voorkomen dat de computer in de pauzestand wordt gezet wanneer hij dicht wordt gedaan</span></h2></div>
 <div class="region"><div class="contents">
-<div class="note note-important" title="Belangrijk"><div class="inner"><div class="region"><div class="contents"><p class="p">These instructions will only work if you are using <span class="app">systemd</span>.
-    Contact your distribution for more information.</p></div></div></div></div>
-<div class="note note-important" title="Belangrijk"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-    change this setting.</p></div></div></div></div>
-<p class="p">If you do not want the computer to suspend when you close the lid, you can
-  change the setting for that behavior.</p>
+<div class="note note-important" title="Belangrijk"><div class="inner"><div class="region"><div class="contents"><p class="p">Deze instructies werken alleen als u <span class="app">systemd</span> gebruikt. Neem contact op met uw distributie voor meer informatie.</p></div></div></div></div>
+<div class="note note-important" title="Belangrijk"><div class="inner"><div class="region"><div class="contents">
+<p class="p">U dient <span class="app">Afstelhulp (Tweaks)</span> te hebben geïnstalleerd op uw computer om deze instelling te wijzigen.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool"><span class="app">Afstelhulp</span> installeren</a></span></p>
+</div></div></div></div>
+<p class="p">Als u niet wilt dat de computer in de pauzestand wordt gezet wanneer u hem dichtdoet, kunt u de instellingen daarvoor wijzigen:</p>
 <div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Wees zeer voorzichtig als u deze instelling wijzigt. Sommige laptops kunnen oververhit raken als ze actief blijven als de klep gesloten is, vooral als de laptop in een afgesloten plaats zoals een rugzak zit.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span>
-      overview and start typing <span class="gui">Tweaks</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Afstelhulp</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Afstelhulp</span> om de toepassing te openen.</p></li>
 <li class="steps"><p class="p">Klik op het tabblad <span class="gui">Energie</span>.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
-      <span class="gui">OFF</span>.</p></li>
-<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">In de pauzestand bij sluiten deksel</span> <span class="gui">UIT</span>.</p></li>
+<li class="steps"><p class="p">Sluit het <span class="gui">Afstelhulp</span>-venster.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -121,10 +109,10 @@
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?</a><span class="desc"> — Dit betekent dat uw computer in pauzestand wordt gezet zodat deze minder stroom verbruikt.</span>
+<a href="power-suspendfail.html.nl" title="Waarom wordt mijn computer niet meer actief nadat ik hem in de pauzestand heb gezet?">Waarom wordt mijn computer niet meer actief nadat ik hem in de pauzestand heb gezet?</a><span class="desc"> — Sommige computerhardware veroorzaakt problemen bij pauzestand.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html.nl" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?</a><span class="desc"> — Dit betekent dat uw computer in pauzestand wordt gezet zodat deze minder stroom verbruikt.</span>
 </li>
 </ul></div>
 </div></div>
@@ -137,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

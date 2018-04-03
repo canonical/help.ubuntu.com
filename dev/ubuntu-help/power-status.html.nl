@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,19 +75,14 @@
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Display the status of the battery and connected devices</span></h2></div>
+<div class="title title-steps"><h2><span class="title">De status van de accu en verbonden apparaten weergeven</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Energie</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel. The status of known devices
-      is displayed.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Energie</span> om het paneel te openen. De status van bekende apparaten wordt weergegeven.</p></li>
 </ol></div>
 </div></div>
-<p class="p">If an internal battery is detected, the <span class="gui">Battery</span> section
-    displays the status of one or more laptop batteries. The indicator bar
-    shows the percent charged, as well as time until fully charged if plugged
-    in, and time remaining when running on battery power.</p>
-<p class="p">The <span class="gui">Devices</span> section displays the status of connected
-    devices.</p>
+<p class="p">Als er een interne accu aangetroffen is, dan  toont de sectie <span class="gui">Accu</span> de status van een of meer laptopaccu's. De indicatorbalk toont het percentage geladen, evenals de tijd totdat de accu volledig geladen is indien aangesloten, en de resterende tijd wanneer er op de accu gewerkt wordt.</p>
+<p class="p">De sectie <span class="gui">Apparaten</span> toont de status van verbonden apparaten.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -113,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

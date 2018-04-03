@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#removable" title="Irrotettavat asemat ja ulkoiset levyt">Irrotettavat asemat ja ulkoiset levyt</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#removable" title="Irrotettavat asemat ja ulkoiset levyt">Irrotettavat asemat ja ulkoiset levyt</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a> › <a class="trail" href="media.html.fi#music" title="Musiikki ja kannettavat soittimet">Musiikki ja soittimet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a> › <a class="trail" href="media.html.fi#music" title="Musiikki ja kannettavat soittimet">Musiikki ja soittimet</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a> › <a class="trail" href="media.html.fi#photos" title="Valokuvat ja digikamerat">Valokuvat</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a> › <a class="trail" href="media.html.fi#photos" title="Valokuvat ja digikamerat">Valokuvat</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a> › <a class="trail" href="media.html.fi#videos" title="Videot ja videokamerat">Videot</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a> › <a class="trail" href="media.html.fi#videos" title="Videot ja videokamerat">Videot</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -81,9 +81,8 @@
 <p class="p">Voit käynnistää automaattisesti sovelluksen, kun liität tietyn laitteen. Saatat esimerkiksi haluta valokuvien hallinnan avautuvan, kun liität tietokoneeseen digitaalisen kameran. Voit myös estää sovelluksien käynnistymisen laitteita liittäessä.</p>
 <p class="p">Määritä seuraavasti, miten toimitaan kun tietty laite liitetään tietokoneeseen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
-    start typing <span class="gui">Details</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span> -yleisnäkymä ja ala kirjoittaa <span class="gui">Tietoja</span>.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Tietoja</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Removable Media</span>.</p></li>
 <li class="steps">
 <p class="p">Find your desired device or media type, and then choose an application
@@ -137,7 +136,7 @@
 <dt class="terms">Musiikkisoittimet</dt>
 <dd class="terms"><p class="p">Choose an application to manage the music library on your portable music
     player, or manage the files yourself using the file manager.</p></dd>
-<dt class="terms">E-book readers</dt>
+<dt class="terms">E-kirjojen lukijat</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to choose an application to
       manage the books on your e-book reader, or manage the files yourself
       using the file manager.</p></dd>
@@ -171,7 +170,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

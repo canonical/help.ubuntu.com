@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Manage volumes and partitions</title>
+<title>Zarządzanie woluminami i partycjami</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,57 +64,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Manage volumes and partitions</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zarządzanie woluminami i partycjami</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The word <span class="em">volume</span> is used to describe a storage device, like a hard
- disk. It can also refer to a <span class="em">part</span> of the storage on that device,
- because you can split the storage up into chunks. The computer makes this
- storage accessible via your file system in a process referred to as
- <span class="em">mounting</span>. Mounted volumes may be hard drives, USB drives, DVD-RWs, SD
- cards, and other media. If a volume is currently mounted, you can read (and
- possibly write) files on it.</p>
-<p class="p">Often, a mounted volume is called a <span class="em">partition</span>, though they are not
- necessarily the same thing. A “partition” refers to a <span class="em">physical</span> area of
- storage on a single disk drive. Once a partition has been mounted, it can be
- referred to as a volume because you can access the files on it. You can think
- of volumes as the labeled, accessible “storefronts” to the functional “back
- rooms” of partitions and drives.</p>
+<p class="p">Słowo <span class="em">wolumin</span> oznacza urządzenie do przechowywania danych, takie jak dysk twardy. Może także oznaczać <span class="em">część</span> tego urządzenia, ponieważ można je dzielić na części. Komputer udostępnia wolumin przez system plików w procesie o nazwie <span class="em">montowanie</span>. Zamontowane woluminy mogą być dyskami twardymi, dyskami USB, płytami DVD-RW, kartami SD itd. Jeśli wolumin jest obecnie zamontowany, to można odczytywać (i być może zapisywać) pliki na nim się znajdujące.</p>
+<p class="p">Często zamontowany wolumin jest nazywany <span class="em">partycją</span>, chociaż nie zawsze są tym samym. „Partycja” oznacza <span class="em">fizyczny</span> obszar na jednym dysku twardym. Po zamontowaniu partycja może być nazywana woluminem, ponieważ użytkownik ma dostęp do jej plików. Można myśleć o woluminach jako nazwanych, dostępnych „interfejsach” do „zapleczy” partycji i napędów.</p>
 </div>
 <div id="manage" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">View and manage volumes and partitions using the disk utility</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Wyświetlanie i zarządzanie woluminami i partycjami za pomocą narzędzia do obsługi dysków</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can check and modify your computer’s storage volumes with the disk
- utility.</p>
+<p class="p">Można sprawdzić i zmodyfikować woluminy komputera za pomocą narzędzia do obsługi dysków.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui">Activities</span> overview and start <span class="app">Disks</span>.</p></li>
-<li class="steps"><p class="p">In the list of storage devices on the left, you will find hard disks,
-    CD/DVD drives, and other physical devices. Click the device you want to
-    inspect.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui">ekran podglądu</span> i uruchom program <span class="app">Dyski</span>.</p></li>
+<li class="steps"><p class="p">Na liście urządzeń do przechowywania danych po lewej znajdują się dyski twarde, napędy CD/DVD i inne fizyczne urządzenia. Kliknij urządzenie do sprawdzenia.</p></li>
 <li class="steps">
-<p class="p">The right pane provides a visual breakdown of the volumes and
-    partitions present on the selected device. It also contains a variety of
-    tools used to manage these volumes.</p>
-<p class="p">Be careful: it is possible to completely erase the data on your disk with
-    these utilities.</p>
+<p class="p">Prawy panel dostarcza wizualny przegląd woluminów i partycji obecnych na wybranym urządzeniu. Zawiera on także zestaw narzędzi do zarządzania nimi.</p>
+<p class="p">Zachowaj ostrożność: za pomocą tych narzędzi można całkowicie usunąć dane na dysku.</p>
 </li>
 </ol></div></div></div>
-<p class="p">Your computer most likely has at least one <span class="em">primary</span> partition and a
- single <span class="em">swap</span> partition. The swap partition is used by the operating
- system for memory management, and is rarely mounted.  The primary partition
- contains your operating system, applications, settings, and personal files.
- These files can also be distributed among multiple partitions for security or
- convenience.</p>
-<p class="p">One primary partition must contain information that your computer uses to
-  start up, or <span class="em">boot</span>. For this reason it is sometimes called a boot
-  partition, or boot volume. To determine if a volume is bootable, select the
-  partition and click the menu button in the toolbar underneath the partition
-  list. Then, click <span class="gui">Edit Partition…</span> and look at its
-  <span class="gui">Flags</span>. External media such as USB drives and CDs may also contain
-  a bootable volume.</p>
+<p class="p">Komputer prawdopodobnie ma co najmniej jedną <span class="em">główną</span> partycję i jedną partycję <span class="em">wymiany</span>. Partycja wymiany jest używana przez system operacyjny do zarządzania pamięcią i zazwyczaj nie jest zamontowana. Główna partycja zawiera system operacyjny, programy, ustawienia i pliki użytkownika. Dla bezpieczeństwa lub wygody te pliki mogą znajdować się na kilku partycjach.</p>
+<p class="p">Jedna główna partycja musi zawierać informacje używane przez komputer do uruchomienia. Jest to partycja startowa (lub wolumin startowy). Aby ustalić, czy wolumin jest startowy, wybierz partycję lub kliknij przycisk menu na pasku narzędziowym pod listą partycji. Następnie kliknij <span class="gui">Modyfikuj partycję…</span> i sprawdź jej <span class="gui">Flagi</span>. Zewnętrzne nośniki, takie jak dyski USB i płyty CD także mogą zawierać partycję startową.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -122,12 +94,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html.pl-PL" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.pl-PL" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.pl-PL" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.pl-PL" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.pl-PL" title="Sprawdzanie wolnego miejsca na dysku">Miejsce na dysku</a></span>, <span class="link"><a href="disk-benchmark.html.pl-PL" title="Testowanie wydajności dysku twardego">wydajność</a></span>, <span class="link"><a href="disk-check.html.pl-PL" title="Sprawdzanie, czy dysk twardy sprawia problemy">problemy</a></span>, <span class="link"><a href="disk-partitions.html.pl-PL" title="Zarządzanie woluminami i partycjami">woluminy i partycje</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -138,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

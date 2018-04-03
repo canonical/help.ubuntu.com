@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-workspaces" title="Werken met werkbladen">Werkbladen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-workspaces" title="Werken met werkbladen">Werkbladen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een venster verplaatsen naar een ander werkblad</span></h1></div>
@@ -74,13 +74,9 @@
 <div class="title title-steps"><h2><span class="title">Met de muis:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
-<li class="steps"><p class="p">Click and drag the window toward the right of the screen.</p></li>
-<li class="steps"><p class="p">The <span class="em"><a href="shell-workspaces.html.nl" title="Wat is een werkblad en hoe kan ik het gebruiken?">workspace selector</a></span> will
-      appear.</p></li>
-<li class="steps"><p class="p">Drop the window onto an empty
-      workspace. This workspace now contains the window you have dropped, and a
-      new empty workspace appears at the bottom of the <span class="em">workspace
-      selector</span>.</p></li>
+<li class="steps"><p class="p">Sleep het venster naar de rechterkant van het scherm.</p></li>
+<li class="steps"><p class="p">De <span class="em"><a href="shell-workspaces.html.nl" title="Wat is een werkblad en hoe kan ik het gebruiken?">werkbladwisselaar</a></span> zal verschijnen.</p></li>
+<li class="steps"><p class="p">Laat het venster vallen in een lege werkruimte. De werkruimte bevat nu het venster dat u heeft laten vallen en er verschijnt een nieuwe lege werkruimte onderaan de <span class="em">werkruimtekiezer</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
@@ -88,8 +84,8 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Selecteer het venster dat u wilt verplaatsen (bijvoorbeeld met de <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> <span class="em"><a href="shell-windows-switching.html.nl" title="Schakelen tussen vensters">vensterwisselaar</a></span>).</p></li>
 <li class="steps">
-<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> om het venster naar het werkblad boven het huidige werkblad in de <span class="em">werkbladwisselaar</span> te verplaatsen .</p>
-<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> om het venster naar het werkblad onder het huidige werkblad in de <span class="em">werkbladwisselaar</span> te verplaatsen .</p>
+<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> om het venster naar het werkblad boven het huidige werkblad in de <span class="gui">werkbladwisselaar</span> te verplaatsen .</p>
+<p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> om het venster naar het werkblad onder het huidige werkblad in de <span class="gui">werkbladwisselaar</span> te verplaatsen .</p>
 </li>
 </ol></div>
 </div></div>
@@ -116,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

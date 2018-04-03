@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change date and measurement formats</title>
+<title>Zmiana formatu daty i jednostek</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,33 +64,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-language.html.pl-PL" title="Region i język">Region i język</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-language.html.pl-PL" title="Region i język">Region i język</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change date and measurement formats</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zmiana formatu daty i jednostek</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can control the formats that are used for dates, times, numbers,
-  currency, and measurement to match the local customs of your region.</p>
+<p class="p">Można zmienić formaty używane do wyświetlania dat, czasu, liczb, waluty i jednostek miary, aby pasowały do zwyczajów danego regionu.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Region i język</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Region i język</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Region i język</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Wybierz <span class="gui">Formaty</span>.</p></li>
-<li class="steps"><p class="p">Select the region and language that most closely matches the formats
-      you would like to use. If your region and language are not listed, click
-      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span>
-      at the bottom of the list to select from all available regions and
-      languages.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Formaty</span>.</p></li>
+<li class="steps"><p class="p">Wybierz region i język najbardziej pasujący do formatów, które chcesz używać. Jeśli potrzebnego regionu i języka nie ma na liście, to kliknij <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> na dole listy, aby wybrać ze wszystkich dostępnych regionów i języków.</p></li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">Gotowe</span>, aby zapisać.</p></li>
-<li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
-      changes to take effect</span> by clicking
-      <span class="gui">Restart Now</span>, or click
-      <span class="gui">×</span> to restart later.</p></li>
+<li class="steps"><p class="p">Odpowiedz na komunikat <span class="gui">Sesja musi zostać ponownie uruchomiona, aby zastosować zmiany</span> klikając przycisk <span class="gui">Uruchom ponownie</span> lub <span class="gui">×</span>, aby zrobić to później.</p></li>
 </ol></div></div></div>
-<p class="p">After you have selected a region, the area to the right of the list shows
-  various examples of how dates and other values are shown. Although not shown
-  in the examples, your region also controls the starting day of the week in
-  calendars.</p>
+<p class="p">Po wybraniu regionu obszar na prawo od listy wyświetli różne przykłady tego, jak daty i inne wartości będą pokazywane. Chociaż nie ma tego w przykładach, region wpływa także na pierwszy dzień tygodnia w kalendarzach.</p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli na komputerze jest wiele kont użytkowników, to dostępny jest oddzielny panel <span class="gui">Region i język</span> dla ekranu logowania. Kliknij przycisk <span class="gui">Ekran logowania</span> w górnym prawym rogu, aby przełączyć między panelami.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,7 +88,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.pl-PL" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html.pl-PL" title="Zmiana używanego języka">Język</a></span>, <span class="link"><a href="session-formats.html.pl-PL" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span>
+<a href="prefs-language.html.pl-PL" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html.pl-PL" title="Zmiana używanego języka">Język</a></span>, <span class="link"><a href="session-formats.html.pl-PL" title="Zmiana formatu daty i jednostek">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Alternatywne układy klawiatury">układy klawiatury</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -116,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

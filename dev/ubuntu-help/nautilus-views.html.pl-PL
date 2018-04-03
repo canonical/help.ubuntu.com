@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Preferencje widoków Menedżera plików</title>
+<title>Preferencje widoków programu Pliki</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,33 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » <a class="trail" href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » <a class="trail" href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Preferencje widoków <span class="app">Menedżera plików</span></span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Preferencje widoków programu <span class="app">Pliki</span></span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can change how files and folders are grouped and sorted by default.
-Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui">Preferences</span></span> in the top bar while
-<span class="app">Files</span> is open and select the <span class="gui">Views</span> tab.</p></div>
+<div class="contents"><p class="p">Można zmienić, jak pliki i katalogi są domyślnie grupowane i porządkowane. Wybierz <span class="guiseq"><span class="gui">Pliki</span> ▸ <span class="gui">Preferencje</span></span> na górnym pasku, kiedy otwarty jest program <span class="app">Pliki</span>, i wybierz kartę <span class="gui">Widoki</span>.</p></div>
 <div id="default-view" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Domyślny widok</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Arrange items</span></dt>
+<dt class="terms"><span class="gui">Porządkowanie</span></dt>
 <dd class="terms">
-<p class="p">You can change the default sort order that is used in folders using the
-    <span class="gui">Arrange items</span> drop-down list in the preferences to sort by name,
-    file size, file type, when they were last modified, when they were last
-    accessed or when they were trashed.</p>
-<p class="p">You can change how <span class="link"><a href="files-sort.html.pl-PL" title="Porządkowanie plików i katalogów">files are
-    sorted</a></span> in an individual folder by clicking the view options
-    
-    button in the toolbar and choosing <span class="gui">Name</span>,
-    <span class="gui">Size</span>, <span class="gui">Type</span> or <span class="gui">Last Modified</span>, or by
-    clicking the list column headers in list view.</p>
+<p class="p">Można zmienić domyślną kolejność porządkowania używaną w katalogach za pomocą rozwijanej listy <span class="gui">Porządkowanie</span> w preferencjach, aby porządkować według nazw, rozmiarów plików, ich typów, czasu ostatniej modyfikacji, czasu ostatniego otwarcia lub czasu przeniesienia do kosza.</p>
+<p class="p">Można zmienić jak <span class="link"><a href="files-sort.html.pl-PL" title="Porządkowanie plików i katalogów">pliki są porządkowane</a></span> w konkretnym katalogu klikając przycisk opcji widoku na pasku narzędziowym i wybierając <span class="gui">Nazwa</span>, <span class="gui">Rozmiar</span>, <span class="gui">Typ</span> lub <span class="gui">Ostatnia modyfikacja</span>, albo klikając nagłówki kolumn listy w widoku listy.</p>
 </dd>
-<dt class="terms"><span class="gui">Sort folders before files</span></dt>
-<dd class="terms"><p class="p">By default, the file manager no longer shows all folders before files.
-    To see all folders listed before files, enable this option.</p></dd>
+<dt class="terms"><span class="gui">Katalogi przed plikami</span></dt>
+<dd class="terms"><p class="p">Domyślnie menedżer plików nie wyświetla już wszystkich katalogów przed plikami. Aby to zmienić, włącz tę opcję.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -98,7 +87,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a><span class="desc"> — Wyświetlanie i ustawianie preferencji menedżera plików.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -109,7 +98,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

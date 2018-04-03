@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why do I have less battery life than I did on Windows/Mac OS?</title>
+<title>Dlaczego akumulator wystarcza na krócej niż w systemie Windows/macOS?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,29 +65,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why do I have less battery life than I did on Windows/Mac OS?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Dlaczego akumulator wystarcza na krócej niż w systemie Windows/macOS?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Some computers appear to have a shorter battery life when running on Linux
-than they do when running Windows or Mac OS. One reason for this is that
-computer vendors install special software for Windows/Mac OS that optimizes
-various hardware/software settings for a given model of computer. These tweaks
-are often highly specific, and may not be documented, so including them in
-Linux is difficult.</p>
-<p class="p">Unfortunately, there is not an easy way of applying these tweaks yourself
-without knowing exactly what they are. You may find that using some <span class="link"><a href="power-batterylife.html.pl-PL" title="Use less power and improve battery life">power-saving methods</a></span> helps, though. If your
-computer has a <span class="link"><a href="power-batteryslow.html.pl-PL" title="Why is my laptop slow when it is on battery?">variable-speed processor</a></span>,
-you might find that changing its settings is also useful.</p>
-<p class="p">Another possible reason for the discrepancy is that the method of estimating
-battery life is different on Windows/Mac OS than on Linux. The actual battery
-life could be exactly the same, but the different methods give different
-estimates.</p>
+<p class="p">Niektóry komputery wydają się mieć krótszy czas pracy na zasilaniu z akumulatora podczas używania systemu Linux w porównaniu do systemu Windows lub macOS. Jedną przyczyną jest fakt, że producenci komputerów instalują specjalne oprogramowanie dla systemu Windows/macOS optymalizujące różne ustawienia sprzętu/oprogramowania dla danego modelu komputera. Te ulepszenia są często szczegółowe i mogą nie być udokumentowane, więc dołączenie ich do systemu Linux jest trudne.</p>
+<p class="p">Niestety, nie ma łatwego sposobu zastosowania tych ulepszeń samodzielnie bez wiedzy, czym dokładnie są. Skorzystanie z pewnych <span class="link"><a href="power-batterylife.html.pl-PL" title="Używanie mniej prądu i polepszanie żywotności akumulatora">metod oszczędzania prądu</a></span> może jednak pomóc. Jeśli komputer ma <span class="link"><a href="power-batteryslow.html.pl-PL" title="Dlaczego laptop jest wolny podczas pracy na zasilaniu z akumulatora?">procesor o zmiennej prędkości</a></span>, to zmiana jego ustawień także jest przydatna.</p>
+<p class="p">Inną możliwą przyczyną tej rozbieżności jest fakt, że metoda szacowania czasu pracy na zasilaniu z akumulatora jest inna w systemie Windows/macOS niż w systemie Linux. Rzeczywisty czas pracy na zasilaniu z akumulatora może być dokładnie taki sam, ale różne metody dają różne szacunki.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -100,13 +89,13 @@ estimates.</p>
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batteryestimate.html.pl-PL" title="The estimated battery life is wrong">The estimated battery life is wrong</a><span class="desc"> — The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span>
+<a href="power-batteryslow.html.pl-PL" title="Dlaczego laptop jest wolny podczas pracy na zasilaniu z akumulatora?">Dlaczego laptop jest wolny podczas pracy na zasilaniu z akumulatora?</a><span class="desc"> — Część laptopów celowo spowalnia działanie podczas pracy na zasilaniu z akumulatora.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html.pl-PL" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-batteryestimate.html.pl-PL" title="Szacunkowy czas pracy na zasilaniu z akumulatora jest błędny">Szacunkowy czas pracy na zasilaniu z akumulatora jest błędny</a><span class="desc"> — Czas pracy na zasilaniu z akumulatora wyświetlany po kliknięciu <span class="gui">ikony akumulatora</span> jest liczbą szacunkową.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html.pl-PL" title="Why is my laptop slow when it is on battery?">Why is my laptop slow when it is on battery?</a><span class="desc"> — Some laptops intentionally slow down when they are running on battery.</span>
+<a href="power-batterylife.html.pl-PL" title="Używanie mniej prądu i polepszanie żywotności akumulatora">Używanie mniej prądu i polepszanie żywotności akumulatora</a><span class="desc"> — Wskazówki, jak zmniejszyć zapotrzebowanie komputera na prąd.</span>
 </li>
 </ul></div>
 </div></div>
@@ -119,7 +108,7 @@ estimates.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

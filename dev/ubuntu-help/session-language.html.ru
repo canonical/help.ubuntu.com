@@ -85,6 +85,10 @@
 </ol></div></div></div>
 <p class="p">Некоторые переводы могут быть неполными, некоторые приложения могут вообще не иметь поддержки для вашего языка. Все непереведённые текстовые сообщения будут показаны на языке, который использовали разработчики приложения, обычно это американский вариант английского языка.</p>
 <p class="p">В вашей домашней папке есть несколько специальных папок, в которых приложения могут сохранять музыку, изображения, документы и прочее. Эти папки используют стандартные имена, зависящие от выбранного языка. При следующем входе в систему вам будет предложено изменить названия этих папок на стандартные названия выбранного вами языка. Если вы планируете использовать новый язык постоянно, следует обновить названия папок.</p>
+<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -92,7 +96,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.ru" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html.ru" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html.ru" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">раскладки клавиатуры</a></span>…</span>
+<a href="prefs-language.html.ru" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html.ru" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html.ru" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html.ru" title="Использование других раскладок клавиатуры">раскладки клавиатуры</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -110,7 +114,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

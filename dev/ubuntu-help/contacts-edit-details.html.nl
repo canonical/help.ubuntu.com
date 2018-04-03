@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Kenmerken van contact bewerken</title>
+<title>Contactgegevens bewerken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,19 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="contacts.html.nl" title="Contacten">Contacten</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="contacts.html.nl" title="Contacten">Contacten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Kenmerken van contact bewerken</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Contactgegevens bewerken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Het bijwerken van kenmerken van een contact helpt u de informatie in uw adresboek actueel en compleet te houden.</p>
+<p class="p">Het bijwerken van contactgegevens helpt u de informatie in uw adresboek actueel en compleet te houden.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Kies een contactpersoon uit uw contactenlijst</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Bewerken</span> rechtsboven in de hoek van <span class="app">Contactpersonen</span>.</p></li>
 <li class="steps">
-<p class="p">Bewerk de contactpersoon-kenmerken</p>
-<p class="p">Om een <span class="em">kenmerk</span> toe te voegen zoals een nieuw telefoonnummer of e-mailadres klikt u op <span class="gui">Nieuw kenmerk</span> en kies het veld dat u wil toevoegen.</p>
+<p class="p">Bewerk de contactgegevens.</p>
+<p class="p">Om een <span class="em">gegeven</span> toe te voegen zoals een nieuw telefoonnummer of e-mailadres klikt u op <span class="gui">Nieuw kenmerk</span> en kiest u het veld dat u wil toevoegen.</p>
 </li>
 <li class="steps"><p class="p">Klik op <span class="gui">Gereed</span> om het bewerken van de contactpersoon te beëindigen.</p></li>
 </ol></div></div></div>
@@ -97,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

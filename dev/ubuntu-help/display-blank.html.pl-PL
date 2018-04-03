@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set screen blanking time</title>
+<title>Ustawianie czasu wygaszania ekranu</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,34 +65,29 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="hardware-problems-graphics.html.pl-PL" title="Problemy z ekranem">Problemy z ekranem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="hardware-problems-graphics.html.pl-PL" title="Problemy z ekranem">Problemy z ekranem</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-display.html.pl-PL" title="Ekran">Ekran</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-display.html.pl-PL" title="Ekran">Ekran</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#saving" title="Ustawienia oszczędzania energii">Ustawienia oszczędzania energii</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set screen blanking time</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ustawianie czasu wygaszania ekranu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To save power, you can adjust the time before the screen blanks when left
-  idle. You can also disable the blanking completely.</p>
+<p class="p">Aby oszczędzać prąd, można dostosować czas, po jakim ekran jest wygaszany w przypadku nieaktywności. Można także całkowicie wyłączyć wygaszanie.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To set the screen blanking time:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Aby ustawić czas wygaszania ekranu:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Zasilanie</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Zasilanie</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Zasilanie</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Blank screen</span> drop-down list under <span class="gui">Power
-      Saving</span> to set the time until the screen blanks, or disable the blanking
-      completely.</p></li>
+<li class="steps"><p class="p">Użyj rozwijanej listy <span class="gui">Wygaszanie ekranu</span> pod napisem <span class="gui">Oszczędzanie energii</span>, aby ustawić czas do wygaszenia ekranu, albo całkowicie je wyłączyć.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">When your computer is left idle, the screen will automatically lock
-    itself for security reasons. To change this behavior, see
-    <span class="link"><a href="session-screenlocks.html.pl-PL" title="The screen locks itself too quickly">The screen locks itself too quickly</a></span>.</p></div></div></div></div>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Po nieaktywności komputera ekran zostanie automatycznie zablokowany z powodów bezpieczeństwa. <span class="link"><a href="session-screenlocks.html.pl-PL" title="Ekran blokuje się za szybko">Ekran blokuje się za szybko</a></span> zawiera informacje, jak to zmienić.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -101,7 +96,7 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html.pl-PL" title="Ekran">Ekran</a><span class="desc"> — <span class="link"><a href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html.pl-PL" title="Change the resolution or rotation of the screen">rozmiar i obrót</a></span>, Jasność…</span>
+<a href="prefs-display.html.pl-PL" title="Ekran">Ekran</a><span class="desc"> — <span class="link"><a href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html.pl-PL" title="Zmiana rozdzielczości lub obrotu ekranu">rozmiar i obrót</a></span>, jasność…</span>
 </li>
 <li class="links ">
 <a href="hardware-problems-graphics.html.pl-PL" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — Rozwiązywanie problemów z ekranem i grafiką.</span>
@@ -113,11 +108,10 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html.pl-PL" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span>
+<a href="power-whydim.html.pl-PL" title="Dlaczego ekran jest po chwili przygaszany?">Dlaczego ekran jest po chwili przygaszany?</a><span class="desc"> — Ekran jest przygaszany, kiedy komputer nie jest używany, aby oszczędzać prąd.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html.pl-PL" title="Why does my screen go dim after a while?">Why does my screen go dim after a while?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
+<a href="session-screenlocks.html.pl-PL" title="Ekran blokuje się za szybko">Ekran blokuje się za szybko</a><span class="desc"> — Zmiana czasu, po jakim ekran zostanie zablokowany w ustawieniach prywatności.</span>
 </li>
 </ul></div>
 </div></div>
@@ -130,7 +124,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

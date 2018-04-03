@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Add a world clock</title>
+<title>Engadir un reloxo do mundo</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,35 +67,27 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="clock.html.gl-GL" title="Data e hora">Data e hora</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Add a world clock</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Engadir un reloxo do mundo</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Use <span class="app">Clocks</span> to add times in other cities.</p>
+<p class="p">Use <span class="app">Reloxos</span> para engadir as horas de outras cidades.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
-<p class="p">This requires the <span class="app">Clocks</span> application to be installed.</p>
-<p class="p">Most distributions come with <span class="app">Clocks</span> installed by default.
-    If yours does not, you may need to install it using your distribution’s
-    package manager.</p>
+<p class="p">Isto require que <span class="app">Reloxos</span> estea instalado no seu computador.</p>
+<p class="p">A maioría das distribucións veñen con <span class="app">Reloxos</span> instalado por omisión. Se a súa non o ten, pode instalalo empregando o xestor de paquetes da súa distribución.</p>
 </div></div></div></div>
-<p class="p">To add a world clock:</p>
+<p class="p">Para engadir un reloxo mundial:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Prema no reloxo desde a barra superior</p></li>
+<li class="steps"><p class="p">Prema no reloxo desde a barra superior.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Add world clocks…</span> link under the calendar to
-      launch <span class="app">Clocks</span>.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">If you already have one or more world clocks, click on one and
-       <span class="app">Clocks</span> will launch.</p></div></div></div></div>
+<p class="p">Prema a ligazón <span class="gui">Engadir reloxos mundiais…</span> debaixo do calendario par iniciar <span class="app">Reloxos</span>.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Se xa ten un ou máis reloxos do mundo, prema nun e iniciarase <span class="app">Reloxosks</span>.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">In the <span class="app">Clocks</span> window, click
-      <span class="gui">New</span> button or press
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> to add a new city.</p></li>
-<li class="steps"><p class="p">Start typing the name of the city into the search.</p></li>
-<li class="steps"><p class="p">Select the correct city or the closest location to you from the
-      list.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to finish adding the city.</p></li>
+<li class="steps"><p class="p">Na xanela <span class="app">Reloxos</span>, prema no botón <span class="gui">Novo</span>, ou prema <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> par engadir unha nova cidade.</p></li>
+<li class="steps"><p class="p">Comece escribindo o nome da cidade na busca.</p></li>
+<li class="steps"><p class="p">Seleccione a cidade correcta ou a localización máis cercana padesde a lista.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Engadir</span> para rematar de engadir a cidade.</p></li>
 </ol></div></div></div>
-<p class="p">Refer to the <span class="link"><a href="help:gnome-clocks" title="help:gnome-clocks">Clocks Help</a></span> for more
-  of the capabilities of <span class="app">Clocks</span>.</p>
+<p class="p">Consulte a <span class="link"><a href="help:gnome-clocks" title="help:gnome-clocks">Axuda de Reloxos</a></span> para obter maís información sobre as capacidades de <span class="app">Reloxos</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -103,17 +95,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html.gl-GL" title="Data e hora">Data e hora</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html.gl-GL" title="Cambiar a hora e data">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.gl-GL" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html.gl-GL" title="Data e hora">Data e hora</a><span class="desc"> — <span class="link"><a href="clock-set.html.gl-GL" title="Cambiar a hora e data">Estabelecer a data e a hora</a></span>, <span class="link"><a href="clock-world.html.gl-GL" title="Engadir un reloxo do mundo">reloxos do mundo</a></span> <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">fuso horario</a></span>, <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">calendario e citas</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
-<div class="region"><ul><li class="links "><a href="help:gnome-clocks/index" title="Clocks Help">Clocks Help</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="help:gnome-clocks/index" title="Axuda de Reloxos">Axuda de Reloxos</a></li></ul></div>
 </div></div>
 </div>
 </div>
@@ -124,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

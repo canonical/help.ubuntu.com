@@ -65,38 +65,26 @@
 </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu-logo"></span></span> Ubuntu-bureaubladhandleiding</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.nl" title="Aan de slag"><span class="title">Aan de slag met Gnome</span><span class="linkdiv-dash"> — </span><span class="desc">Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.nl" title="Afmelden, uitschakelen, van gebruiker wisselen"><span class="title">Afmelden, uitschakelen, van gebruiker wisselen</span><span class="linkdiv-dash"> — </span><span class="desc">Leer hoe u uw gebruikersaccount verlaat, door af te melden, van gebruiker te wisselen, enz.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.nl" title="Inleiding tot Gnome"><span class="title">Inleiding tot Gnome</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
-    <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.nl" title="Toepassingen starten"><span class="title">Toepassingen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.nl" title="Afmelden, uitschakelen of van gebruiker wisselen"><span class="title">Afmelden, uitschakelen of van gebruiker wisselen</span><span class="linkdiv-dash"> — </span><span class="desc">Leer hoe u uw gebruikersaccount verlaat, door af te melden, van gebruiker te wisselen, enz.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.nl" title="Inleiding tot Gnome"><span class="title">Inleiding tot Gnome</span><span class="linkdiv-dash"> — </span><span class="desc">Een visuele kennismaking met uw bureaublad, de bovenbalk, en het <span class="gui">Activiteiten</span>-overzicht.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.nl" title="Toepassingen starten"><span class="title">Toepassingen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Toepassingen starten vanuit het <span class="gui">activiteiten</span>-overzicht.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="shell-overview.html.nl" title="Uw bureaublad">Uw bureaublad</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html.nl" title="Agenda-afspraken">Agenda</a></span>, <span class="link"><a href="shell-notifications.html.nl" title="Notifications and the message tray">meldingen</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.nl" title="Handige sneltoetsen">sneltoetsen</a></span>, <span class="link"><a href="shell-windows.html.nl" title="Vensters en werkbladen">vensters en werkbladen</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html.nl" title="Agenda-afspraken">Agenda</a></span>, <span class="link"><a href="shell-notifications.html.nl" title="Meldingen en het berichtengebied">notificaties</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.nl" title="Handige sneltoetsen">sneltoetsen</a></span>, <span class="link"><a href="shell-windows.html.nl" title="Vensters en werkbladen">vensters en werkbladen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.nl" title="Bekabeld netwerk">wired</a></span>,
-      <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.nl" title="Webbrowsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos</a></span>, <span class="link"><a href="net-wired.html.nl" title="Bekabeld netwerk">bekabeld</a></span>, <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">verbindingsproblemen</a></span>, <span class="link"><a href="net-browser.html.nl" title="Webbrowsers">webbrowsen</a></span>, <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">e-mailaccounts</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="media.html.nl#photos" title="Foto's en digitale camera's">Digital cameras</a></span>,
-      <span class="link"><a href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">iPods</a></span>,
-      <span class="link"><a href="media.html.nl#photos" title="Foto's en digitale camera's">editing photos</a></span>,
-      <span class="link"><a href="media.html.nl#videos" title="Video's en videocamera's">playing videos</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.nl#photos" title="Foto's en digitale camera's">Digitale camera's</a></span>, <span class="link"><a href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">iPods</a></span>, <span class="link"><a href="media.html.nl#photos" title="Foto's en digitale camera's">foto's bewerken</a></span>, <span class="link"><a href="media.html.nl#videos" title="Video's en videocamera's">video's afspelen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden, mappen; &amp; zoeken</a></div>
@@ -112,7 +100,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.nl" title="Schijven &amp; opslag">schijven</a></span>...</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html.nl" title="disks">schijven</a></span>...</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="a11y.html.nl" title="Universele toegang">Universele toegang</a></div>
@@ -134,7 +122,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

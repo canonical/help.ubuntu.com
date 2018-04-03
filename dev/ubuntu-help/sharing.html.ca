@@ -70,10 +70,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Sharing</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.ca" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
-    shares, or WebDAV.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.ca" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.ca" title="Send files to a Bluetooth device"><span class="title">Send files to a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Com compartir fitxers amb dispositius Bluetooth com, per exemple, el mòbil.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth"><span class="title">Envia fitxers a un dispositiu Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Com compartir fitxers amb dispositius Bluetooth com, per exemple, el mòbil.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.ca" title="Navega per fitxers en un servidor o en una xarxa compartida"><span class="title">Navega per fitxers en un servidor o en una xarxa compartida</span><span class="linkdiv-dash"> — </span><span class="desc">Permet visualitzar i editar fitxers en una altra computadora a través de FTP, SSH, Windowsshares  o WebDAV.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-share.html.ca" title="Share files by email"><span class="title">Share files by email</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
     manager.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.ca" title="Share your desktop"><span class="title">Share your desktop</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people view and interact with your desktop using VNC.</span></a></div>
@@ -103,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

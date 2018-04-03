@@ -65,23 +65,17 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#faq" title="Vragen">Vragen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#faq" title="Vragen">Vragen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#faq" title="Vragen">Vragen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#faq" title="Vragen">Vragen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Waarom schakelde mijn computer uit toen de accu de 10% bereikte?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When the charge level of the battery gets too low, your computer will
-automatically turn off. It does this to make sure that the battery does not
-completely discharge, since this is bad for
-the battery. If the battery just ran out, the computer would not have time to
-shut down properly either.</p>
-<p class="p">Bear in mind that when your computer automatically turns off, your
-applications and documents <span class="em">are not</span> saved. To avoid losing your
-work, save it before the battery gets too low.</p>
+<p class="p">Wanneer het laadniveau van de accu te laag wordt, zal uw computer automatisch uitgezet worden. Dit wordt gedaan om ervoor te zorgen dat de accu niet volledige leeg raakt, aangezien dat slecht is voor de accu. Als de accu gewoon leeg zou raken, dan zou de computer ook geen tijd meer hebben om goed af te sluiten.</p>
+<p class="p">Denk eraan dat, wanneer uw computer automatisch wordt uitgezet, uw toepassingen en documenten <span class="em">niet</span> bewaard worden. Om geen werk verloren te laten gaan dient u het op te slaan voordat de accu te laag wordt.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -97,7 +91,7 @@ work, save it before the battery gets too low.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

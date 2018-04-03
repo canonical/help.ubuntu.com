@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -81,7 +81,7 @@
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="10" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="10" data-ttml-end="13">Laat het venster los zodra het oplicht.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">Om een venster weer te verkleinen: pak de titelbalk van het venster en sleep het weg van de randen van het scherm.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">U kunt ook klikken op de bovenste balk om het venster weg te slepen en te verkleinen.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38"> Om een venster links te maximaliseren: pak de titelbalk van het venster en sleep het naar de linkerkant.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">Om een venster links te maximaliseren: pak de titelbalk van het venster en sleep het naar de linkerkant.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="38" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="38" data-ttml-end="40">Laat het venster los zodra de linkerhelft van het scherm oplicht.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">Om een venster rechts te maximaliseren: pak de titelbalk van het venster en sleep het naar de rechterkant.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="44" data-ttml-end="48"><div class="media-ttml-node media-ttml-p" data-ttml-begin="44" data-ttml-end="48">Laat het venster los zodra de linkerhelft van het scherm oplicht.</div></div>
@@ -154,7 +154,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-switching.html.nl" title="Schakelen tussen vensters">Schakelen tussen vensters</a><span class="desc"> — Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span>
+<a href="shell-windows-switching.html.nl" title="Schakelen tussen vensters">Schakelen tussen vensters</a><span class="desc"> — Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -166,7 +166,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

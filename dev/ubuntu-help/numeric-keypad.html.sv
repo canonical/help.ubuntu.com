@@ -76,11 +76,10 @@
 <div class="contents">
 <p class="p">Med tangenten <span class="key"><kbd>Num Lock</kbd></span> kan du manuellt aktivera eller avaktivera det numeriska tangentbordet. Datorers BIOS-inställningar inkluderar ofta ett alternativ för att bestämma om det numeriska tangentbordet ska aktiveras vid systemstart. Detta är annars ett sätt att ändra inställningarna:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html.sv" title="Installera fler program">Installera</a></span> paketet <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Installera</a></span> paketet <span class="em">numlockx</span>.</p></li>
 <li class="steps"><p class="p">Öppna <span class="app"><span class="link"><a href="startup-applications.html.sv" title="Uppstartsprogram">Uppstartsprogram</a></span></span> och lägg till ett startprogram med kommandot: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
-<p class="p">Om du även vill ha det numeriska tangentbordet vid inloggningsskärmen kan du skapa en speciell konfigurationsfil. Tryck <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> för att öppna ett terminalfönster, och kör sedan detta kommando (det är ett enda långt kommando, även om det kan visas med radbrytning på din skärm - kopiera och klistra in för att det säkert ska bli rätt):</p>
-<p class="p"><span class="cmd">sudo sh -c 'printf "[Seat:*]\ngreeter-setup-script=numlockx on\n" &gt;/etc/lightdm/lightdm.conf.d/50-numlock.conf'</span></p>
+<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Det andra steget kan vara överflödigt på din dator, så prova först utan det.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

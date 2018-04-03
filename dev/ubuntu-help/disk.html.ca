@@ -70,18 +70,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Discs i emmagatzematge</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.ca" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.ca" title="Check how much disk space is left"><span class="title">Check how much disk space is left</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="gui">Disk Usage Analyzer</span> or <span class="gui">System Monitor</span> to
-    check space and capacity.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html.ca" title="Check your hard disk for problems"><span class="title">Check your hard disk for problems</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.ca" title="Ajusteu la mida d'un sistema de fitxers"><span class="title">Ajusteu la mida d'un sistema de fitxers</span><span class="linkdiv-dash"> — </span><span class="desc">Reduir o augmentar un sistema de fitxers i la seva partició.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html.ca" title="Comproveu el vostre disc dur per problemes"><span class="title">Comproveu el vostre disc dur per problemes</span><span class="linkdiv-dash"> — </span><span class="desc">Testegeu si el vostre disc dur te problemes per assegurar-vos que estigui correcte.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda"><span class="title">Comproveu la quantitat d'espai al disc que queda</span><span class="linkdiv-dash"> — </span><span class="desc">Utilitzeu l'<span class="gui">Analitzador d'ús del disc</span> o el <span class="gui">Monitor del sistema</span> per comprovar l'espai i la capacitat.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.ca" title="Crea un disc d'inici"><span class="title">Crea un disc d'inici</span><span class="linkdiv-dash"> — </span><span class="desc">Converteix una memòria USB en un volum des del qual podeu iniciar i instal·lar l'Ubuntu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.ca" title="Manage volumes and partitions"><span class="title">Manage volumes and partitions</span><span class="linkdiv-dash"> — </span><span class="desc">Understand what volumes and partitions are and use the disk utility
-    to manage them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.ca" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
-          state.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.ca" title="Test the performance of your hard disk"><span class="title">Test the performance of your hard disk</span><span class="linkdiv-dash"> — </span><span class="desc">Run benchmarks on your hard disk to check how fast it is.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-format.html.ca" title="Wipe everything off a removable disk"><span class="title">Wipe everything off a removable disk</span><span class="linkdiv-dash"> — </span><span class="desc">Remove all of the files and folders from an external hard disk or USB
-    flash drive by formatting it.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-format.html.ca" title="Elimineu-ho tot des d'un disc extraïble"><span class="title">Elimineu-ho tot des d'un disc extraïble</span><span class="linkdiv-dash"> — </span><span class="desc">Elimineu tots els fitxers i carpetes d'un disc dur extern o una unitat flash USB mitjançant el formateig.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.ca" title="Gestioneu els volums i les particions"><span class="title">Gestioneu els volums i les particions</span><span class="linkdiv-dash"> — </span><span class="desc">Enteneu quins volums i particions hi ha i utilitza la utilitat del disc per gestionar-los.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur"><span class="title">Proveu el rendiment del vostre disc dur</span><span class="linkdiv-dash"> — </span><span class="desc">Executeu "benchmarks" al vostre disc dur per comprovar-ne la rapidesa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.ca" title="Repareu un sistema de fitxers danyat"><span class="title">Repareu un sistema de fitxers danyat</span><span class="linkdiv-dash"> — </span><span class="desc">Comproveu si un sistema de fitxers està malmès i torneu-lo a un estat usable.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -89,10 +85,10 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="hardware.html.ca" title="Maquinari i controladors">Maquinari i controladors</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.ca#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.ca" title="Printing">printers</a></span>,
+      <span class="link"><a href="hardware.html.ca#problems" title="Problemes comuns">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.ca" title="Imprimint">printers</a></span>,
       <span class="link"><a href="power.html.ca" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.ca" title="Color management">color management</a></span>,
+      <span class="link"><a href="color.html.ca" title="Gestió dels colors">color management</a></span>,
       <span class="link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></span>,
       <span class="link"><a href="disk.html.ca" title="Discs i emmagatzematge">disks</a></span>…
     </span>
@@ -106,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

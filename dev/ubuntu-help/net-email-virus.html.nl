@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-email.html.nl" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-email.html.nl" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-security.html.nl" title="Veiligheid op het internet">Veiligheid op het internet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-security.html.nl" title="Veiligheid op het internet">Veiligheid op het internet</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,19 +75,8 @@
 <div class="region">
 <div class="contents">
 <p class="p">Virussen zijn programma's die problemen veroorzaken als ze er in slagen om op uw computer te komen. Een gebruikelijke manier waarop ze op uw computer terecht komen is via e-mailberichten.</p>
-<p class="p">Viruses that can affect computers running Linux are quite rare, so you are
-  <span class="link"><a href="net-antivirus.html.nl" title="Heb ik anti-virussoftware nodig?">unlikely to get a virus through email or
-  otherwise</a></span>. If you receive an email with a virus hidden in it, it will
-  probably have no effect on your computer. As such, you probably don’t need to
-  scan your email for viruses.</p>
-<p class="p">You may, however, wish to scan your email for viruses in case you happen
-  to forward a virus from one person to another. For example, if one of your
-  friends has a Windows computer with a virus and sends you a virus-infected
-  email, and you then forward that email to another friend with a Windows
-  computer, then the second friend might get the virus too. You could install
-  an anti-virus application to scan your emails to prevent this, but it’s
-  unlikely to happen and most people using Windows and Mac OS have anti-virus
-  software of their own anyway.</p>
+<p class="p">Virussen die computers aantasten waarop Linux draait zijn zeldzaam; het is dus <span class="link"><a href="net-antivirus.html.nl" title="Heb ik anti-virussoftware nodig?">onwaarschijnlijk dat u een virus krijgt via e-mail of anders</a></span>. Als u een e-mail ontvangt waarin een virus verstopt zit, zal dat waarschijnlijk geen effect hebben op uw computer. U hoeft dus waarschijnlijk uw e-mails niet op virussen te controleren.</p>
+<p class="p">Toch kan het zijn dat u uw e-mails wilt controleren op virussen voor het geval u toevallig een virus doorstuurt van de ene persoon naar de andere. Als bijvoorbeeld een van uw vrienden een Windows computer heeft met een virus en u een met een virus geïnfecteerde e-mail toestuurt, en u vervolgens die e-mail doorstuurt naar een andere vriend met een Windows computer, dan kan de tweede vriend het virus ook krijgen. U zou een anti-virustoepassing kunnen installeren en uw e-mails controleren om dit te voorkomen, maar het is niet waarschijnlijk dat het gebeurt en de meeste mensen die Windows en Mac OS gebruiken hebben toch zelf anti-virussoftware.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -106,8 +95,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html.nl" title="Heb ik anti-virussoftware nodig?">Heb ik anti-virussoftware nodig?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
-    software.</span>
+<a href="net-antivirus.html.nl" title="Heb ik anti-virussoftware nodig?">Heb ik anti-virussoftware nodig?</a><span class="desc"> — Er zijn maar weinig Linux virussen, dus heeft u waarschijnlijk geen anti-virussoftware nodig.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -119,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

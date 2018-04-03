@@ -70,13 +70,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Que é a visibilidade de Bluetooth?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bluetooth visibility refers to whether other devices can discover
-  your computer when searching for Bluetooth devices. When Bluetooth is turned
-  on and the <span class="gui">Bluetooth</span> panel is open, your computer will advertize
-  itself to all other devices within range, allowing them to attempt to connect
-  to your computer.</p>
-<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html.gl-GL" title="Set the display name for your computer">change</a></span> the name your
-    computer displays to other devices.</p></div></div></div></div>
+<p class="p">A visibilidade de Bluetooth refírese simplemente a se outros dispositivos poden descubrir o seu computador ao buscar dispositivos Bluetooth. Cando Bluetooth está activado e o panel de <span class="gui">Bluetooth</span> está aberto, o seu computador informará ao resto de dispositivos que estean ao alcance, permitíndolles que se intenten conectar ao seu computador.</p>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Pode <span class="link"><a href="sharing-displayname.html.gl-GL" title="Estabeleza o nome do seu computador">cambiar</a></span> o nome que o seu computador mostra a outros dispositivos.</p></div></div></div></div>
 <p class="p">Despois de <span class="link"><a href="bluetooth-connect-device.html.gl-GL" title="Conectar o seu computador a outro dispositivo Bluetooth">conectarse a un dispositivo</a></span>, nin o seu computador nin o dispositivo precisan estar visíbeis para comunicarse entre sí.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -84,7 +79,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html.gl-GL" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.gl-GL" title="Conectar o seu computador a outro dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.gl-GL" title="Send files to a Bluetooth device">enviar ficheiros</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.gl-GL" title="Apagar ou acender o Bluetooth">activar e desactivar</a></span>…</span>
+<a href="bluetooth.html.gl-GL" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.gl-GL" title="Conectar o seu computador a outro dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.gl-GL" title="Enviar ficheiros a un dispositivo Bluetooth">enviar ficheiros</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.gl-GL" title="Apagar ou acender o Bluetooth">activar e desactivar</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -95,7 +90,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

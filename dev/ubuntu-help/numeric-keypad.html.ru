@@ -76,18 +76,17 @@
 <div class="contents">
 <p class="p">С помощью клавиши <span class="key"><kbd>Num Lock</kbd></span> можно включить или отключить цифровой блок клавиатуры вручную. Кроме того, в настройках BIOS компьютера часто есть опция, позволяющая указать, должен ли цифровой блок включаться автоматически при загрузке компьютера. Если же такой опции нет, существует другой способ настроить это:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установите</a></span> пакет <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
 <li class="steps"><p class="p">Откройте <span class="app"><span class="link"><a href="startup-applications.html.ru" title="Автоматически запускаемые приложения">Автоматически запускаемые приложения</a></span></span> и добавьте новую программу с командой: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
-<p class="p">Если необходимо, чтобы цифровой блок был включён и на экране входа в систему, можно создать специальный конфигурационный файл. Нажмите <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>, чтобы открыть окно терминала, и введите эту команду (это одна длинная команда, даже если часть её отображается на другой строке — скопируйте и вставьте её, чтобы не ошибиться):</p>
-<p class="p"><span class="cmd">sudo sh -c 'printf "[Seat:*]\ngreeter-setup-script=numlockx on\n" &gt;/etc/lightdm/lightdm.conf.d/50-numlock.conf'</span></p>
+<div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">The second step may be redundant on your computer, so try without it first.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ru" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html.ru#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
+<a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ru" title="Использование других раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ru" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html.ru#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -98,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

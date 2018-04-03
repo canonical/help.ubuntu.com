@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Click, drag, or scroll with the touchpad</title>
+<title>Klikanie, przeciąganie i przewijanie za pomocą panelu dotykowego</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,79 +65,60 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Click, drag, or scroll with the touchpad</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Klikanie, przeciąganie i przewijanie za pomocą panelu dotykowego</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can click, double-click, drag, and scroll using only your touchpad,
-  without separate hardware buttons.</p></div>
+<div class="contents"><p class="p">Można klikać, wykonywać podwójne kliknięcie, przeciągać i przewijać używając tylko panelu dotykowego, bez oddzielnych przycisków.</p></div>
 <div id="tap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Tap to click</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Klikanie przez stuknięcie</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can tap your touchpad to click instead of using a button.</p>
+<p class="p">Można stukać panel dotykowy, aby klikać, zamiast używać przycisku.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Mysz i panel dotykowy</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Mysz i panel dotykowy</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Mysz i panel dotykowy</span>, aby otworzyć panel.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Tap to click</span>.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Touchpad</span> section only appears if your system has a
-        touchpad.</p></div></div></div></div>
+<p class="p">W sekcji <span class="gui">Panel dotykowy</span> zaznacz opcję <span class="gui">Klikanie przez stuknięcie</span>.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Sekcja <span class="gui">Panel dotykowy</span> jest wyświetlana tylko, jeśli komputer ma panel dotykowy.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">To click, tap on the touchpad.</p></li>
-<li class="list"><p class="p">To double-click, tap twice.</p></li>
-<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
-      second tap. Drag the item where you want it, then lift your finger to
-      drop.</p></li>
-<li class="list"><p class="p">If your touchpad supports multi-finger taps, right-click by tapping
-      with two fingers at once. Otherwise, you still need to use hardware
-      buttons to right-click. See <span class="link"><a href="a11y-right-click.html.pl-PL" title="Symulacja kliknięcia prawym przyciskiem myszy">Symulacja kliknięcia prawym przyciskiem myszy</a></span> for a method
-      of right-clicking without a second mouse button.</p></li>
-<li class="list"><p class="p">If your touchpad supports multi-finger taps,
-      <span class="link"><a href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy">middle-click</a></span> by tapping with three
-      fingers at once.</p></li>
+<li class="list"><p class="p">Aby kliknąć, stuknij panel dotykowy.</p></li>
+<li class="list"><p class="p">Aby kliknąć podwójnie, stuknij dwa razy.</p></li>
+<li class="list"><p class="p">Aby przeciągnąć element, stuknij podwójnie, ale nie podnoś palca po drugim stuknięciu. Przeciągnij element w wybrane miejsce, a następnie podnieś palec, aby przeciągnąć.</p></li>
+<li class="list"><p class="p">Jeśli panel dotykowy obsługuje stuknięcia wielodotykowe, to można klikać prawym przyciskiem przez stuknięcie dwoma palcami naraz. Jeśli nie, to trzeba używać do tego przycisków sprzętowych. <span class="link"><a href="a11y-right-click.html.pl-PL" title="Symulacja kliknięcia prawym przyciskiem myszy">Symulacja kliknięcia prawym przyciskiem myszy</a></span> zawiera informacje o sposobie klikania prawym przyciskiem bez drugiego przycisku myszy.</p></li>
+<li class="list"><p class="p">Jeśli panel dotykowy obsługuje stuknięcia wielodotykowe, to można <span class="link"><a href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy">klikać środkowym przyciskiem</a></span> przez stuknięcie trzema palcami naraz.</p></li>
 </ul></div></div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
-    are spread far enough apart. If your fingers are too close, your computer
-    may think they’re a single finger.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Podczas stukania lub przeciągania za pomocą wielu palców upewnij się, że palce są dostatecznie odsunięte od siebie. Jeśli palce są za blisko siebie, to komputer może je wykryć jako jeden palec.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Two finger scroll</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Przewijanie dwoma palcami</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can scroll using your touchpad using two fingers.</p>
+<p class="p">Można przewijać za pomocą panelu dotykowego dwoma palcami.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Mysz i panel dotykowy</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Mysz i panel dotykowy</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Mysz i panel dotykowy</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Two finger
-      scroll</span>.</p></li>
+<li class="steps"><p class="p">W sekcji <span class="gui">Panel dotykowy</span> zaznacz opcję <span class="gui">Przewijanie dwoma palcami</span>.</p></li>
 </ol></div></div></div>
-<p class="p">When this is selected, tapping and dragging with one finger will work as
-  normal, but if you drag two fingers across any part of the touchpad, it will
-  scroll instead. Move your fingers between the top and bottom of your touchpad
-  to scroll up and down, or move your fingers across the touchpad to scroll
-  sideways. Be careful to space your fingers a bit apart. If your fingers are
-  too close together, they just look like one big finger to your touchpad.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Two-finger scrolling may not work on all touchpads.</p></div></div></div></div>
+<p class="p">Kiedy ta opcja jest zaznaczona, stukanie i przeciąganie jednym palcem będzie działać jak zwykle, ale przeciągnięcie dwoma palcami przez dowolną część panelu dotykowego spowoduje przewinięcie. Przeciągnij palce do góry lub w dół, aby przewijać do góry lub w dół, albo w poprzek, aby przewijać na boki. Uważaj, aby palce były od siebie trochę odsunięte. Jeśli są zbyt blisko siebie, to panel dotykowy wykrywa je jako jeden duży palec.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Przewijanie dwoma palcami może nie działać na wszystkich panelach dotykowych.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="contentsticks" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Natural scrolling</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Naturalne przewijanie</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can drag content as if sliding a physical piece of paper using the
-  touchpad.</p>
+<p class="p">Można przeciągać treść za pomocą panelu dotykowego tak, jakby była kartką papieru.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Mysz i panel dotykowy</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Mysz i panel dotykowy</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Mysz i panel dotykowy</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
-      scrolling</span>.</p></li>
+<li class="steps"><p class="p">W sekcji <span class="gui">Panel dotykowy</span> zaznacz opcję <span class="gui">Naturalne przewijanie</span>.</p></li>
 </ol></div></div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">This feature is also known as <span class="em">Reverse Scrolling</span>.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Ta funkcja jest znana także jako <span class="em">Odwrócone przewijanie</span>.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -145,11 +126,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html.pl-PL" title="Mysz">Mysz</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html.pl-PL" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html.pl-PL" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html.pl-PL" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
-    </span>
+<a href="mouse.html.pl-PL" title="Mysz">Mysz</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.pl-PL" title="Używanie myszy leworęcznej">Mysz leworęczna</a></span>, <span class="link"><a href="mouse-sensitivity.html.pl-PL" title="Dostosowanie prędkości myszy i panelu dotykowego">prędkość kursora</a></span>, <span class="link"><a href="mouse-touchpad-click.html.pl-PL" title="Klikanie, przeciąganie i przewijanie za pomocą panelu dotykowego">klikanie i przewijanie za pomocą panelu dotykowego</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -160,7 +137,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

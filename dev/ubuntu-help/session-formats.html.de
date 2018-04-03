@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-language.html.de" title="Region und Sprache">Region und Sprache</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-language.html.de" title="Region und Sprache">Region und Sprache</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Datumsformat und Maßeinheiten ändern</span></h1></div>
@@ -80,6 +80,10 @@
 <li class="steps"><p class="p">Sie sollten sich nun <span class="gui">abmelden, damit die Änderungen wirksam werden</span>. Klicken Sie hierzu auf <span class="gui">Jetzt neustarten</span>, oder klicken Sie auf <span class="gui">X</span>, um den Neustart später auszuführen.</p></li>
 </ol></div></div></div>
 <p class="p">Nachdem Sie eine Region gewählt haben, wird rechts neben der Liste anhand verschiedener Beispiele gezeigt, wie das Datum und anderes mehr dargestellt wird. Obwohl in den Beispielen nicht aufgeführt, wird mit der Region auch der Wochentag festgelegt, mit dem die Kalenderwoche beginnt.</p>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -87,7 +91,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.de" title="Region und Sprache">Region und Sprache</a><span class="desc"> — <span class="link"><a href="session-language.html.de" title="Zu verwendende Sprache ändern">Sprache</a></span>, <span class="link"><a href="session-formats.html.de" title="Datumsformat und Maßeinheiten ändern">Region und Formate</a></span>, <span class="link"><a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span> …</span>
+<a href="prefs-language.html.de" title="Region und Sprache">Region und Sprache</a><span class="desc"> — <span class="link"><a href="session-language.html.de" title="Zu verwendende Sprache ändern">Sprache</a></span>, <span class="link"><a href="session-formats.html.de" title="Datumsformat und Maßeinheiten ändern">Region und Formate</a></span>, <span class="link"><a href="keyboard-layouts.html.de" title="Alternative Tastaturbelegungen verwenden">Tastaturbelegungen</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -105,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

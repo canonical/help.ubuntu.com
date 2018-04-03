@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>The screen locks itself too quickly</title>
+<title>Ekran blokuje się za szybko</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,30 +65,24 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="hardware-problems-graphics.html.pl-PL" title="Problemy z ekranem">Problemy z ekranem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="hardware-problems-graphics.html.pl-PL" title="Problemy z ekranem">Problemy z ekranem</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-display.html.pl-PL" title="Ekran">Ekran</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-display.html.pl-PL" title="Ekran">Ekran</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">The screen locks itself too quickly</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ekran blokuje się za szybko</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you leave your computer for a few minutes, the screen will
-  automatically lock itself so you have to enter your password to start using
-  it again. This is done for security reasons (so no one can mess with your
-  work if you leave the computer unattended), but it can be annoying if the
-  screen locks itself too quickly.</p>
-<p class="p">To wait a longer period before the screen is automatically locked:</p>
+<p class="p">Jeśli komputer zostanie zostawiony na kilka minut, ekran zostanie automatycznie zablokowany i trzeba będzie wpisać hasło, aby móc znowu go używać. Dzieje się to z przyczyn bezpieczeństwa (aby nikt nie mógł nic zepsuć, jeśli komputer został zostawiony bez nadzoru), ale jeśli ekran blokuje się za szybko, to może to być irytujące.</p>
+<p class="p">Aby automatycznie blokować ekran po dłuższym czasie:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Blokada ekranu</span>.</p></li>
-<li class="steps"><p class="p">If <span class="gui">Automatic Screen Lock</span> is on, you can change the value
-      in the <span class="gui">Lock screen after blank for</span> drop-down list.</p></li>
+<li class="steps"><p class="p">Jeśli opcja <span class="gui">Automatyczne blokowanie ekranu</span> jest włączona, to można zmienić wartość na rozwijanej liście <span class="gui">Czas od wygaszenia do zablokowania ekranu</span>.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">If you don’t ever want the screen to lock itself automatically, switch
-    <span class="gui">Automatic Screen Lock</span> to <span class="gui">OFF</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Aby ekran nigdy nie blokował się automatycznie, przełącz opcję <span class="gui">Automatyczne blokowanie ekranu</span> na <span class="gui">◯</span> (wyłączone).</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -97,7 +91,7 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html.pl-PL" title="Ekran">Ekran</a><span class="desc"> — <span class="link"><a href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html.pl-PL" title="Change the resolution or rotation of the screen">rozmiar i obrót</a></span>, Jasność…</span>
+<a href="prefs-display.html.pl-PL" title="Ekran">Ekran</a><span class="desc"> — <span class="link"><a href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html.pl-PL" title="Zmiana rozdzielczości lub obrotu ekranu">rozmiar i obrót</a></span>, jasność…</span>
 </li>
 <li class="links ">
 <a href="hardware-problems-graphics.html.pl-PL" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — Rozwiązywanie problemów z ekranem i grafiką.</span>
@@ -108,12 +102,11 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html.pl-PL" title="Automatyczne blokowanie ekranu">Automatyczne blokowanie ekranu</a><span class="desc"> — Prevent other people from using your desktop when you
-    go away from your computer.</span>
+<a href="privacy-screen-lock.html.pl-PL" title="Automatyczne blokowanie ekranu">Automatyczne blokowanie ekranu</a><span class="desc"> — Uniemożliwianie innym osobom używanie komputera, kiedy użytkownik jest nieobecny.</span>
 </li>
 <li class="links "><a href="shell-exit.html.pl-PL#lock-screen" title="Blokowanie ekranu">Blokowanie ekranu</a></li>
 <li class="links ">
-<a href="display-blank.html.pl-PL" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
+<a href="display-blank.html.pl-PL" title="Ustawianie czasu wygaszania ekranu">Ustawianie czasu wygaszania ekranu</a><span class="desc"> — Zmiana czasu wygaszania ekranu, aby oszczędzać prąd.</span>
 </li>
 </ul></div>
 </div></div>
@@ -126,7 +119,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,37 +64,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="user-accounts.html.pl-PL" title="Konta użytkowników">Użytkownicy</a> › <a class="trail" href="user-accounts.html.pl-PL#manage" title="Zarządzanie kontami użytkowników">Konta</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="user-accounts.html.pl-PL" title="Konta użytkowników">Użytkownicy</a> › <a class="trail" href="user-accounts.html.pl-PL#manage" title="Zarządzanie kontami użytkowników">Konta</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zmiana zdjęcia na ekranie logowania</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you log in or switch users, you will see a list of users with
-  their login photos. You can change your photo to a stock image or an
-  image of your own. You can even take a new login photo with your
-  webcam.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.pl-PL" title="How do administrative privileges work?">administrator privileges</a></span>
-  to edit user accounts other than your own.</p>
+<p class="p">Podczas logowania i przełączania użytkowników będzie wyświetlana lista użytkowników z ich zdjęciami. Można zmienić swoje zdjęcie na standardowy lub własny obraz. Można nawet zrobić nowe zdjęcie za pomocą kamery internetowej.</p>
+<p class="p">Do modyfikowania kont innych użytkowników wymagane są <span class="link"><a href="user-admin-explain.html.pl-PL" title="Jak działają uprawnienia administracyjne?">uprawnienia administratora</a></span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Użytkownicy</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Użytkownicy</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Użytkownicy</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">If you want to edit a user other than yourself, press
-      <span class="gui">Unlock</span> in the top right corner and type in your
-      password when prompted.</p></li>
+<li class="steps"><p class="p">Aby zmienić użytkownika innego niż własny, kliknij przycisk <span class="gui">Odblokuj</span> w górnym prawym rogu i wpisz swoje hasło.</p></li>
 <li class="steps">
-<p class="p">Click the picture next to your name. A drop-down gallery will be shown
-      with some stock login photos. If you like one of them, click it to use it
-      for yourself.</p>
+<p class="p">Kliknij obraz obok swojej nazwy użytkownika. Zostanie wyświetlona rozwijana galeria z kilkoma standardowymi zdjęciami. Jeśli któreś z nich się podoba, to kliknij je, aby użyć je dla siebie.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">If you would rather use a picture you already have on your
-          computer, click <span class="gui">Browse for more pictures…</span>.</p></li>
-<li class="list"><p class="p">If you have a webcam, you can take a new login photo right now by
-          clicking <span class="gui">Take a photo…</span>. Take your
-          picture, then move and resize the square outline to crop out the
-          parts you do not want. If you do not like the picture you took, click
-          <span class="gui">Take Another Picture</span> to try again, or
-          <span class="gui">Cancel</span> to give up.</p></li>
+<li class="list"><p class="p">Aby użyć zdjęcia z komputera, to kliknij <span class="gui">Przeglądaj więcej obrazów…</span>.</p></li>
+<li class="list"><p class="p">Jeśli komputer ma kamerę internetową, to można od razu zrobić nowe zdjęcie klikając <span class="gui">Zrób zdjęcie…</span>. Zrób zdjęcie, po czym dopasuj i zmień wymiary kwadratowej obwódki, aby wykadrować niechciane części. Jeśli zdjęcie się nie podoba, to kliknij przycisk <span class="gui">Zrób kolejne zdjęcie</span>, aby spróbować ponownie lub <span class="gui">Anuluj</span>, aby zrezygnować.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>
@@ -109,8 +95,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html.pl-PL" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html.pl-PL" title="Jak działają uprawnienia administracyjne?">Jak działają uprawnienia administracyjne?</a><span class="desc"> — Do zmiany ważnych części systemu wymagane są uprawnienia administracyjne.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -122,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

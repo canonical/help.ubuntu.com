@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#faq" title="Vragen">Vragen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#faq" title="Vragen">Vragen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#faq" title="Vragen">Vragen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#faq" title="Vragen">Vragen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,12 +75,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Wanneer u de levensduur van de accu controleert, kan het zijn dat de gemelde resterende tijd verschilt van de tijd die er werkelijk nog resteert. Dit komt doordat de resterende tijd van de accu alleen maar geschat kan worden. De schattingen zullen echter wel steeds nauwkeuriger worden.</p>
-<p class="p">In order to estimate the remaining battery life, a number of factors must be
-taken into account. One is the amount of power currently being used by the
-computer: power consumption varies depending on how many programs you have
-open, which devices are plugged in, and whether you are running any intensive
-tasks (like watching high-definition video or converting music files, for
-example). This changes from moment to moment, and is difficult to predict.</p>
+<p class="p">Om de resterende tijd van de accu te schatten, moet rekening gehouden worden met een aantal factoren. Eén daarvan is de hoeveelheid energie die de computer momenteel gebruikt: het energieverbruik varieert, afhankelijk van hoeveel programma's u geopend heeft, welke apparaten er zijn aangesloten en of er intensieve taken worden uitgevoerd (zoals het bekijken van een video of het converteren van muziekbestanden). Dit verandert van moment op moment en is moeilijk te voorspellen.</p>
 <p class="p">Een andere factor is hoe de accu ontlaadt. Sommige accu's ontladen sneller naarmate ze leger raken. Zonder precies te weten hoe de accu ontlaadt, kan er slechts een ruwe schatting worden gemaakt van de resterende accuduur.</p>
 <p class="p">Terwijl de accu ontlaadt zal Energiebeheer achter de ontlaadeigenschappen komen en leren hoe het de levensduur van de accu beter kan inschatten. De schattingen zullen echter nooit helemaal nauwkeurig zijn.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
@@ -110,7 +105,7 @@ example). This changes from moment to moment, and is difficult to predict.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

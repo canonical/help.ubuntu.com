@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Preview files and folders</title>
+<title>Previsualitza fitxers i carpetes</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,18 +67,17 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Preview files and folders</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Previsualitza fitxers i carpetes</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can quickly preview files without opening them in a full-blown
-application.  Select any file and press the space bar. The file will open in a
-simple preview window. Press the space bar again to dismiss the preview.</p>
-<p class="p">The built-in preview supports most file formats for documents, images,
-video, and audio. In the preview, you can scroll through your documents or seek
-through your video and audio.</p>
-<p class="p">To view a preview full-screen, press <span class="key"><kbd>F</kbd></span> or <span class="key"><kbd>F11</kbd></span>. Press
-<span class="key"><kbd>F</kbd></span> or <span class="key"><kbd>F11</kbd></span> again to leave full-screen, or press the space
-bar to exit the preview completely.</p>
+<div class="note note-important" title="Important"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Sushi</span> installed on your computer to perform
+  these steps.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Install <span class="app">Sushi</span></a></span></p>
+</div></div></div></div>
+<p class="p">Podeu obtenir una vista prèvia de fitxers sense haver d'obrir-los en una aplicació completa. Seleccioneu qualsevol fitxer i premeu la barra espaiadora. El fitxer s'obrirà en una finestra de previsualització senzilla. Premi la barra espaiadora de nou per descartar la vista prèvia.</p>
+<p class="p">La vista prèvia integrada admet la majoria de formats de fitxer per a documents, imatges, vídeo i àudio. A la vista prèvia, podeu desplaçar-vos pels vostres documents o cercar-los a través del vostre vídeo i àudio.</p>
+<p class="p">Per veure una previsualització a pantalla completa, premeu <span class="key"><kbd>F</kbd></span> o <span class="key"><kbd>F11</kbd></span>. Premeu <span class="key"><kbd>F</kbd></span> o <span class="key"><kbd>F11</kbd></span> de nou per sortir de la pantalla completa, o premeu la barra espaiadora per sortir de la vista prèvia completament.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -102,7 +101,7 @@ bar to exit the preview completely.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

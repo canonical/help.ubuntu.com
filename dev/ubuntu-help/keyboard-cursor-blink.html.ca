@@ -67,9 +67,9 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ca" title="Accés universal">Accés universal</a> › <a class="trail" href="a11y.html.ca#vision" title="Discapacitats visuals">Discapacitats visuals</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="keyboard.html.ca" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="keyboard.html.ca" title="Teclat">Teclat</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="keyboard.html.ca" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="keyboard.html.ca" title="Teclat">Teclat</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -79,8 +79,7 @@
 <p class="p">If you find it difficult to see the keyboard cursor in a text field, you
   can make it blink to make it easier to locate.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Obriu la descripció general de les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span>  i comenceu a escriure  <span class="gui">Accés Universal</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per obrir el quadre.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Cursor Blinking</span> in the <span class="gui">Typing</span> section.</p></li>
 <li class="steps"><p class="p">Use the <span class="gui">Speed</span> slider to adjust how quickly the cursor
@@ -94,7 +93,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.ca#vision" title="Discapacitats visuals">Discapacitats visuals</a></li>
 <li class="links ">
-<a href="keyboard.html.ca" title="Keyboard">Keyboard</a><span class="desc"> — 
+<a href="keyboard.html.ca" title="Teclat">Teclat</a><span class="desc"> — 
       <span class="link"><a href="keyboard-layouts.html.ca" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
       <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Make the keyboard cursor blink">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">keyboard accessibility</a></span>…
@@ -110,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

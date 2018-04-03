@@ -64,17 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Często używane porty sieciowe</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">This is a list of network ports commonly used by applications that provide
-  network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Enable or block firewall access">block or allow
-  access</a></span> to these applications. There are thousands of ports in use, so
-  this table isn’t complete.</p>
+<p class="p">To lista portów sieciowych często używanych przez programy dostarczające usługi sieciowe, takie jak udostępnianie plików i zdalne przeglądanie pulpitu. Można zmienić ustawienia zapory sieciowej systemu, aby <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Włączanie i blokowanie zapory sieciowej">zablokować lub włączyć dostęp</a></span> do tych programów. Lista nie jest pełna, jako że istnieją tysiące portów.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Port</p></td>
@@ -83,39 +79,34 @@
 </tr></thead>
 <tbody>
 <tr class="shade">
-<td><p class="p">5353/udp</p></td>
+<td><p class="p">5353/UDP</p></td>
 <td><p class="p">mDNS, Avahi</p></td>
-<td><p class="p">Allows systems to find each other, and describe which services
-          they offer, without you having to specify the details manually.</p></td>
+<td><p class="p">Umożliwia komputerom odnajdywanie się nawzajem i opisywanie udostępnianych usług bez potrzeby ręcznego podawania informacji.</p></td>
 </tr>
 <tr>
-<td><p class="p">631/udp</p></td>
+<td><p class="p">631/UDP</p></td>
 <td><p class="p">Drukowanie</p></td>
-<td><p class="p">Allows you to send print jobs to a printer over the network.</p></td>
+<td><p class="p">Umożliwia wysyłanie zadań wydruku do drukarki przez sieć.</p></td>
 </tr>
 <tr class="shade">
-<td><p class="p">631/tcp</p></td>
+<td><p class="p">631/TCP</p></td>
 <td><p class="p">Drukowanie</p></td>
-<td><p class="p">Allows you to share your printer with other people over the
-          network.</p></td>
+<td><p class="p">Umożliwia udostępnianie drukarki innym osobom przez sieć.</p></td>
 </tr>
 <tr>
-<td><p class="p">5298/tcp</p></td>
+<td><p class="p">5298/TCP</p></td>
 <td><p class="p">Obecność</p></td>
-<td><p class="p">Allows you to advertise your instant messaging status to other
-          people on the network, such as “online” or “busy”.</p></td>
+<td><p class="p">Umożliwia rozgłaszanie stanu komunikatora (np. „dostępny” lub „zajęty”) innym osobom w sieci.</p></td>
 </tr>
 <tr class="shade">
-<td><p class="p">5900/tcp</p></td>
+<td><p class="p">5900/TCP</p></td>
 <td><p class="p">Zdalny pulpit</p></td>
-<td><p class="p">Allows you to share your desktop so other people can view it or
-          provide remote assistance.</p></td>
+<td><p class="p">Umożliwia udostępnianie pulpitu, aby inne osoby mogły go przeglądać lub pomagać zdalnie.</p></td>
 </tr>
 <tr>
-<td><p class="p">3689/tcp</p></td>
+<td><p class="p">3689/TCP</p></td>
 <td><p class="p">Udostępnianie muzyki (DAAP)</p></td>
-<td><p class="p">Allows you to share your music library with others on your
-          network.</p></td>
+<td><p class="p">Umożliwia udostępnianie kolekcji muzyki innym osobom w sieci lokalnej.</p></td>
 </tr>
 </tbody>
 </table></div></div></div>
@@ -126,17 +117,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Enable or block firewall access">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">firewall ports</a></span>…
-    </span>
+<a href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Oprogramowanie antywirusowe</a></span>, <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Włączanie i blokowanie zapory sieciowej">podstawy zapory sieciowej</a></span>, <span class="link"><a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">porty zapory sieciowej</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html.pl-PL" title="Enable or block firewall access">Enable or block firewall access</a><span class="desc"> — You can control which programs can access the network. This helps to keep your computer secure.</span>
+<a href="net-firewall-on-off.html.pl-PL" title="Włączanie i blokowanie zapory sieciowej">Włączanie i blokowanie zapory sieciowej</a><span class="desc"> — Można kontrolować, które programy mogą używać sieci. Pomaga to zabezpieczać komputer.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -148,7 +135,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Ubuntu Desktop Guide</title>
+<title>מדריך שולחן העבודה של אובונטו</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -157,10 +157,10 @@
 <div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.he" title="Enter special characters">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.he" title="Middle-click">middle click shortcuts</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html.he" title="Get more help">Get more help</a></div>
+<div class="links-grid-link"><a href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a></div>
 <div class="desc"><span class="desc">
-        <span class="link"><a href="about-this-guide.html.he" title="About this guide">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html.he" title="Participate to improve this guide">help improve this guide</a></span>…
+        <span class="link"><a href="about-this-guide.html.he" title="מידע על מדריך זה">Tips on using this guide</a></span>,
+        <span class="link"><a href="get-involved.html.he" title="ניתן להשתתף כדי לשפר את המדריך הזה">help improve this guide</a></span>…
     </span></div>
 </div>
 </div></div></div>
@@ -171,7 +171,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

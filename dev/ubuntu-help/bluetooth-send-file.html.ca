@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Send files to a Bluetooth device</title>
+<title>Envia fitxers a un dispositiu Bluetooth</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,35 +71,24 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Send files to a Bluetooth device</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Envia fitxers a un dispositiu Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can send files to connected Bluetooth devices, such as some mobile
-  phones or other computers. Some types of devices do not allow the transfer
-  of files, or specific types of files. You can send files using the Bluetooth
-  settings window.</p>
+<p class="p">Podeu enviar fitxers a dispositius Bluetooth connectats, com ara alguns telèfons mòbils o altres ordinadors. Alguns tipus de dispositius no permeten la transferència de fitxers o d'algun tipus específic. Podeu enviar fitxers des de la finestra de configuració de Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch in the titlebar should be
-      set to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Obre la vista d' <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenci a escriure <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">fer clic a <span class="gui">Bluetooth</span> per obrir el panell.</p></li>
+<li class="steps"><p class="p">Assegureu-vos que està habilitat per Bluetooth: l'interruptor a la barra de títol s'hauria d'establir a <span class="gui">ON</span>.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Devices</span> list, select the device to which to send the
-      files. If the desired device is not shown as <span class="gui">Connected</span> in the
-      list, you need to <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">connect</a></span>
-      to it.</p>
-<p class="p">A panel specific to the external device appears.</p>
+<p class="p">A a llista de <span class="gui">Dispositius</span>, seleccioneu el dispositiu al qual enviar els fitxers. Si el dispositiu desitjat no es mostra com a <span class="gui">Connectat</span> a la llista, haureu de <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">connectar-vos-hi</a></span>.</p>
+<p class="p">Apareixerà un panell específic del dispositiu extern.</p>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Send Files…</span> and the file chooser will appear.</p></li>
+<li class="steps"><p class="p">Clic a <span class="gui">Enviar arxius…</span> i apareixerà el selector de fitxers.</p></li>
 <li class="steps">
 <p class="p">Escolliu el fitxer que voleu enviar i feu clic a <span class="gui">Selecciona</span>.</p>
 <p class="p">Per enviar més d'un fitxer d'una carpeta, mantingueu premuda la tecla <span class="key"><kbd>Ctrl</kbd></span> mentre seleccioneu els fitxers un a un.</p>
 </li>
-<li class="steps"><p class="p">The owner of the receiving device usually has to press a button to
-      accept the file. The <span class="gui">Bluetooth File Transfer</span> dialog will show
-      the progress bar. Click <span class="gui">Close</span> when the transfer is
-      complete.</p></li>
+<li class="steps"><p class="p">El propietari del dispositiu receptor normalment ha de prémer un botó per acceptar el fitxer. El diàleg <span class="gui">Transferència de fitxers per Bluetooth</span> mostrarà una barra de procés. Feu clic a <span class="gui">Tancar</span> quan la transferència s'hagi completat.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -109,11 +98,7 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — 
-      <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connect</a></span>,
-      <span class="link"><a href="bluetooth-send-file.html.ca" title="Send files to a Bluetooth device">send files</a></span>,
-      <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Turn Bluetooth on or off">turn on and off</a></span>…
-    </span>
+<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">enviar arxius</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span>
 </li>
 <li class="links ">
 <a href="sharing.html.ca" title="Sharing">Sharing</a><span class="desc"> — 
@@ -140,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

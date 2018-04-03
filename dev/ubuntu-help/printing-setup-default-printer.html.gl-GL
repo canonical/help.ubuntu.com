@@ -74,12 +74,12 @@
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">administrative privileges</a></span>
     on the system to set the default printer.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Impresoras</span>.</p></li>
 <li class="steps"><p class="p">Seleccione a impresora predeterminada da lista de impresoras dispoñíbeis.</p></li>
 <li class="steps"><p class="p">Prema o botón <span class="gui">Desbloquear</span> na esquina inferior esquerda e insira un contrasinal.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">Default printer</span> checkbox.</p></li>
+<li class="steps"><p class="p">Seleccione a caixa de verificación <span class="gui">Impresora por omisión</span>.</p></li>
 </ol></div></div></div>
 <p class="p">When you print in an application, the default printer is automatically
   used, unless you choose a different printer.</p>
@@ -112,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

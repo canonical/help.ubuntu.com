@@ -75,15 +75,15 @@
 <div class="region">
 <div class="contents"><p class="p">Pode premer, facer duplas pulsacións, arrastrar e desprazarse usando só a súa área táctil, sen usar botóns físicos aparte</p></div>
 <div id="tap" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Tap to click</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Toque para facer clic</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can tap your touchpad to click instead of using a button.</p>
+<p class="p">Pode tocar a súa área táctil para facer clic no lugar de usar un botón.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Rato e «touchpad»</span> para abrir o panel.</p></li>
 <li class="steps">
-<p class="p">Na lapela <span class="gui">Touchpad</span>, marque <span class="gui">Tocar para facer clic</span>.</p>
+<p class="p">Na sección <span class="gui">Área táctil</span>, marque <span class="gui">Tocar para facer clic</span>.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">A sección <span class="gui">Área táctil</span> só aparece se o seu sistema ten unha área táctil.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
@@ -106,9 +106,9 @@
 <div class="region"><div class="contents">
 <p class="p">Pode facer desprazamentos usando a súa área táctil usando dous dedos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Rato e «touchpad»</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Na sección <span class="gui">Touchpad</span>, marque <span class="gui">Desprazamento con dous dedos</span>.</p></li>
 </ol></div></div></div>
 <p class="p">When this is selected, tapping and dragging with one finger will work as
@@ -121,13 +121,13 @@
 </div></div>
 </div></div>
 <div id="contentsticks" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Natural scrolling</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Desprazamento natural</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Pode arrastrar o contido coma se estivera desprazando unha peda de papel física usando a área táctil.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Rato e «touchpad»</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
       scrolling</span>.</p></li>
 </ol></div></div></div>
@@ -150,7 +150,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

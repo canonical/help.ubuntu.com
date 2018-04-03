@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Du kan låta andra personer se och styra ditt skrivbord från en annan dator med ett skrivbordsvisningsprogram. Konfigurera <span class="gui">Skärmdelning</span> till att låta andra personer få åtkomst till ditt skrivbord och ställ in säkerhetsinställningarna.</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du måste ha paketet <span class="app">Vino</span> installerat för att <span class="gui">Skärmdelning</span> ska visas.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Du måste ha paketet <span class="app">Vino</span> installerat för att <span class="gui">Skärmdelning</span> ska visas.</p>
+<p class="p"><span class="link-button link"><a href="apt:vino" title="apt:vino">Installera Vino</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Dela</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Dela</span> för att öppna panelen.</p></li>
@@ -146,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

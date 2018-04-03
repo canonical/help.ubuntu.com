@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Prema <span class="gui">Engadir</span> e introduza a liña de APT do repositorio. Debería estar dispoñíbel no sitio web do repositorio e ter un aspecto similar a este:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Prema <span class="gui">Engadir orixe</span> e despois peche a xanela de <span class="app">Software e actualizacións</span>. O <span class="app">Ubuntu Software</span> buscará actualizacións nas orixes de software.</p></li>
@@ -95,10 +95,10 @@
 <div id="canonical-partner" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Activar o repositorio de socios de Canonical</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">O repositorio de socios de Canonical ofrece algúns aplicativos propietarios de balde pero son de código pechado. Inclúe software como  <span class="app">Skype</span> e <span class="app">Adobe Flash Plugin</span>. O software deste repositorio aparecerá nos resultados de busca de <span class="app">Ubuntu Software</span> pero non será instalábel até que este repositorio estea activado.</p>
+<p class="p">O repositorio dos socios de Canonical ofrece algúns aplicativos propietarios de forma gratuíta pero de código pechado. Inclúe software como <span class="app">Adobe Flash Plugin</span>. O software deste repositorio aparecerá nos resultados das buscas no <span class="app">Ubuntu Software</span> pero non o poderá instalar ata que active o repositorio.</p>
 <p class="p">Se desexa activar o repositorio, siga os pasos anteriores para abrir a lapela <span class="gui">Outro software</span> en <span class="app">Software e actualizacións</span>. Se pode ver o repositorio <span class="gui">Socios de Canonical</span> na lista, asegúrese que está marcado, despois peche a xanela <span class="app">Software e actualizacións</span>. Se non pode velo, prema <span class="gui">Engadir</span> e introdúzao:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
 <p class="p">Prema <span class="gui">Engadir orixe</span> e despois peche a xanela de <span class="app">Software e actualizacións</span>. Agarde un chisco a que o <span class="app">Ubuntu Software</span> descargue a información do repositorio.</p>
 </div></div>
@@ -127,7 +127,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

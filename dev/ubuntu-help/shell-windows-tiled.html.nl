@@ -64,19 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vensters tegelen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">U kunt een venster alleen maximaliseren aan de linker- of rechterkant van het scherm; hierdoor kunt u twee vensters naast elkaar plaatsen zodat u snel tussen beide kunt schakelen.</p>
-<p class="p">To maximize a window along a side of the screen, grab the titlebar and
-  drag it to the left or right side until half of the screen is highlighted.
-  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> and
-  press the <span class="key"><kbd>Left</kbd></span> or <span class="key"><kbd>Right</kbd></span> key.</p>
-<p class="p">To restore a window to its original size, drag it away from the side of
-  the screen, or use the same keyboard shortcut you used to maximize.</p>
+<p class="p">Om een venster op één helft van het scherm te maximaliseren, klik in de titelbalk en sleep het naar links of naar rechts totdat de helft van het scherm gemarkeerd is. Als u het toetsenbord gebruikt, houdt u de<span class="key"><kbd><span class="link"><a href="windows-key.html.nl" title="windows-key">Super</a></span></kbd></span>-toetsingedrukt en drukt u op de <span class="key"><kbd>Naar links</kbd></span>- of <span class="key"><kbd>Naar rechts</kbd></span>-toets.</p>
+<p class="p">Om een venster te herstellen naar de oorspronkelijke afmetingen sleept u het weg van de rand van het scherm, of u gebruikt dezelfde sneltoets die u gebruikt heeft om te maximaliseren.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Houd de <span class="key"><kbd>Alt</kbd></span>-toets ingedrukt en verplaats het venster door middel van slepen.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -101,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

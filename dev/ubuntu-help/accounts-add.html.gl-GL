@@ -72,9 +72,9 @@
 <div class="contents">
 <p class="p">Engadir unha conta axudaralle a ligar as súas contas en liña co seu escritorio GNOME. Polo tanto, os seus programas de correo-e, chat e outros aplicativos relacionados estarán configurados.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Contas en liña</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Contas en liña</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Contas en liñla</span> para abrir o panel.</p></li>
-<li class="steps"><p class="p">Prema o símbolo <span class="key"><kbd>+</kbd></span> na esquina inferior esquerda da xanela.</p></li>
+<li class="steps"><p class="p">Select an account from the list on the right.</p></li>
 <li class="steps"><p class="p">Seleccione o tipo de conta que quere engadir.</p></li>
 <li class="steps"><p class="p">Abrirase unha pequena xanela con unha páxina web que lle permitirá escribir as credenciais da súa conta en liña. Por exemplo, se está configurando unh aconta de Google, escriba o seu usuario e contrasinal de Google. Algúns fornecedores permítenlle crear unha nova conta desde o diálogo de inicio de sesión.</p></li>
 <li class="steps"><p class="p">Se escribiu as súas credenciais correctamente preguntaráselle para permitirlle a GNOME acceder ás súas contas en liña. Autorice o acceso para continuar.</p></li>
@@ -99,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

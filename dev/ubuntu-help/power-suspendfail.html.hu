@@ -113,9 +113,6 @@
 <a href="power-nowireless.html.hu" title="Felébresztés után nem működik a vezeték nélküli hálózat">Felébresztés után nem működik a vezeték nélküli hálózat</a><span class="desc"> — Néhány vezeték nélküli eszköz rosszul kezeli a számítógép felfüggesztését, és nem folytatja a működést megfelelően.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html.hu" title="Hogyan hibernálhatom a számítógépet?">Hogyan hibernálhatom a számítógépet?</a><span class="desc"> — A hibernálás alapesetben le van tiltva, mert nem elég jó a támogatása.</span>
-</li>
-<li class="links ">
 <a href="hardware-driver.html.hu" title="Mi az az illesztőprogram?">Mi az az illesztőprogram?</a><span class="desc"> — A hardver- vagy eszköz-illesztőprogram lehetővé teszi a számítógépnek a csatlakoztatott eszközök használatát.</span>
 </li>
 <li class="links ">
@@ -135,7 +132,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

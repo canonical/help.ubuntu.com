@@ -64,22 +64,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ekran</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="look-resolution.html.pl-PL" title="Change the resolution or rotation of the screen"><span class="title">Change the resolution or rotation of the screen</span><span class="linkdiv-dash"> — </span><span class="desc">Change the resolution of the screen and its orientation
-    (rotation).</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.pl-PL" title="Podłączanie drugiego monitora do komputera"><span class="title">Podłączanie drugiego monitora do komputera</span><span class="linkdiv-dash"> — </span><span class="desc">Ustawianie dodatkowego monitora.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.pl-PL" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.pl-PL" title="The screen locks itself too quickly"><span class="title">The screen locks itself too quickly</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.pl-PL" title="Ustawianie jasności ekranu"><span class="title">Ustawianie jasności ekranu</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
-    light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady"><span class="title">Zmiana tła pulpitu i ekranu blokady</span><span class="linkdiv-dash"> — </span><span class="desc">Set an image, color, or gradient as your desktop background or lock
-    screen background.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.pl-PL" title="Ekran blokuje się za szybko"><span class="title">Ekran blokuje się za szybko</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana czasu, po jakim ekran zostanie zablokowany w ustawieniach prywatności.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.pl-PL" title="Podłączanie drugiego monitora do komputera"><span class="title">Podłączanie drugiego monitora do komputera</span><span class="linkdiv-dash"> — </span><span class="desc">Konfiguracja dodatkowego monitora.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.pl-PL" title="Ustawianie czasu wygaszania ekranu"><span class="title">Ustawianie czasu wygaszania ekranu</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana czasu wygaszania ekranu, aby oszczędzać prąd.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.pl-PL" title="Ustawianie jasności ekranu"><span class="title">Ustawianie jasności ekranu</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana jasności ekranu, aby był czytelniejszy w mocnym oświetleniu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-resolution.html.pl-PL" title="Zmiana rozdzielczości lub obrotu ekranu"><span class="title">Zmiana rozdzielczości lub obrotu ekranu</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana rozdzielczości ekranu i jego orientacji (obrotu).</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady"><span class="title">Zmiana tła pulpitu i ekranu blokady</span><span class="linkdiv-dash"> — </span><span class="desc">Ustawianie obrazu, koloru lub gradientu jako tło pulpitu i ekranu blokady.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -97,7 +93,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,13 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Johdanto Gnomeen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Gnome 3 sisältää täysin uudelleen suunnitellun käyttöliittymän, joka on suunniteltu olemaan poissa käyttäjän tieltä, vähentämään häiriötekijöitä sekä auttamaan asioiden valmiiksi saamisessa. Kun kirjaudut sisään ensimmäisen kerran, näet tyhjän työpöydän ja yläpalkin.</p>
+<p class="p">Gnome 3 sisältää täysin uudelleen suunnitellun käyttöliittymän, jonka on tarkoitus pysyä poissa käyttäjän tieltä, vähentää häiriötekijöitä sekä auttaa asioiden valmiiksi saamisessa. Kun kirjaudut sisään ensimmäisen kerran, näet tyhjän työpöydän ja yläpalkin.</p>
 <div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Gnome-käyttöliittymän yläpalkki"></div></div>
 <p class="p">Yläpalkin kautta voit käyttää ikkunoita ja sovelluksia, kalenteria ja tapaamisia, sekä hallita <span class="link"><a href="status-icons.html.fi" title="Mitä kuvakkeet yläpalkissa tarkoittavat?">järjestelmän eri ominaisuuksia</a></span>, kuten ääntä, verkkoa ja virranhallintaa. Yläpalkissa olevan järjestelmävalikon kautta voit muuttaa tietokoneen asetuksia, hallita verkkoyhteyksiä, tarkistaa akun tilan, kirjautua ulos, vaihtaa käyttäjää tai sammuttaa tietokoneen.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
@@ -88,7 +88,7 @@
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Toiminnot-painike"></div></div>
 <p class="p">Käytä ikkunoita ja sovelluksia napsauttamalla <span class="gui">Toiminnot</span>-painiketta, tai siirrä hiiren osoitin näytön vasempaan yläreunaan. Vaihtoehtoisesti voit painaa näppäimistöstä <span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>-näppäintä. Näet avoinna olevat ikkunat ja sovellukset yleisnäkymässä. Aloita kirjoittaminen etsiäksesi sovelluksia, tiedostoja, kansioita, hakutuloksia internetistä ja muuta.</p>
 <div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="Telakka"></div></div>
-<p class="p">Yleisnäkymän vasemmassa laidassa on <span class="em">telakka</span>. Telakkassa on suosikkisovelluksesi sekä avoinna olevat sovellukset. Napsauta telakassa olevaa kuvaketta avataksesi sovelluksen. Jos sovellus on jo käynnissä, se näkyy korostettuna telakassa. Tällöin kuvakkeen napsauttaminen tuo esiin viimeksi avoinna olleen ikkunan. Voit myös raahata kuvakkeen yleisnäkymään, tai mihin tahansa oikealla yleisnäkymän oikeassa laidassa näkyvään työtilaan.</p>
+<p class="p">Yleisnäkymän vasemmassa laidassa on <span class="em">telakka</span>. Telakassa on suosikkisovelluksesi sekä avoinna olevat sovellukset. Napsauta telakassa olevaa kuvaketta avataksesi sovelluksen. Jos sovellus on jo käynnissä, se näkyy korostettuna telakassa. Tällöin kuvakkeen napsauttaminen tuo esiin viimeksi avoinna olleen ikkunan. Voit myös raahata kuvakkeen yleisnäkymään, tai mihin tahansa yleisnäkymän oikeassa laidassa näkyvään työtilaan.</p>
 <p class="p">Kuvakkeen napsauttaminen hiiren oikealla avaa valikon, jonka kautta voit valita käynnissä olevan sovelluksen minkä tahansa ikkunan, tai avata uuden ikkunan. Voit myös avata uuden ikkunan haluamastasi sovelluksesta napsauttamalla kuvaketta <span class="key"><kbd>Ctrl</kbd></span>-näppäin pohjassa.</p>
 <p class="p">Kun avaat yleisnäkymän, näet avoinna olevat ikkunat. Kaikki nykyisessä työtilassa avoinna olevat ikkunat esitetään pienoiskuvina. Kohdista haluamaasi ikkunaan napsauttamalla sen kuvaa.</p>
 <p class="p">Napsauta telakan alaosassa olevaa ruudukkopainiketta siirtyäksesi sovellusten yleisnäkymään. Sovellusten yleisnäkymässä näytetään kaikki koneelle asennetut sovellukset. Avaa haluamasi sovellus napsauttamalla sen kuvaketta, tai vetämällä kuvake työtilaan. Voit lisätä sovelluksen telakkaan vetämällä haluamasi kuvakkeen telakan päälle. Näin sovelluksen kuvake näkyy telakassa, vaikka kyseinen sovellus ei olisi käynnissä.</p>
@@ -109,7 +109,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Kello, kalenteri ja tapaamiset</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="Kello, kalenteri, tapahtumat ja ilmoitukset"></div></div>
-<p class="p">Napsauta yläpalkissa olevaa kellonaikaa nähdäksesi kuluvan päivän, kuukausikalenterin, luettelon tulevista tapahtumista ja uudet ilmoitukset. Kalenterin pikanäppäin on You can also open the calendar by pressing <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span>. Tätä kautta voit myös muuttaa päivää ja aikaa, tai avata <span class="app">Evolution</span>-kalenterisovelluksen.</p>
+<p class="p">Napsauta yläpalkissa olevaa kellonaikaa nähdäksesi kuluvan päivän, kuukausikalenterin, luettelon tulevista tapahtumista ja uudet ilmoitukset. Kalenterin pikanäppäin on <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span>. Tätä kautta voit myös muuttaa päivää ja aikaa, tai avata <span class="app">Evolution</span>-kalenterisovelluksen.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="clock-calendar.html.fi" title="Kalenteritapaamiset">Lue lisää kalenterista ja tapaamisista.</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-notifications.html.fi" title="Ilmoitukset ja viestialue">Lue lisää ilmoituksista ja viestialueesta.</a></span></p></li>
@@ -121,13 +121,7 @@
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit.png" width="250" class="media media-block" alt="Käyttäjävalikko"></div></div>
 <p class="p">Napsauta oikeassa yläkulmassa olevaa valikkoa hallitaksesi tietokoneen asetuksia.</p>
-<p class="p">When you leave your computer, you can lock your screen to prevent other
-  people from using it. You can also quickly switch users without logging out
-  completely to give somebody else access to the computer, or you can
-  suspend or power off the computer from the menu. If you have a screen 
-  that supports vertical or horizontal rotation, you can quickly rotate the 
-  screen from the system menu. If your screen does not support rotation, 
-  you will not see the button.</p>
+<p class="p">Kun poistut tietokoneeltasi, voit lukita näytön ja siten estää muita käyttämästä tietokonetta käyttäjätililläsi. Voit vaihtaa käyttäjien välillä kirjautumatta itse ulos, tai siirtää tietokoneen valmiustilaan tai sammuttaa tietokoneen järjestelmävalikosta. Jos laitteistosi tukee näyttöä, jonka suuntaa voi kääntää, voit kääntää näytön kuvan järjestelmävalikosta. Jos näyttösi ei tue kääntöä, kääntöpainiketta ei ole näkyvissä.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html.fi" title="Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen">Lue lisää käyttäjien vaihtamisesta, ulos kirjautumisesta sekä tietokoneen sammuttamisesta.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
@@ -135,11 +129,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Lukitusnäyttö</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Lukitusnäyttö"></div></div>
-<p class="p">When you lock your screen, or it locks automatically, the lock screen is
-  displayed. In addition to protecting your desktop while you’re away from your
-  computer, the lock screen displays the date and time. It also shows
-  information about your battery and network status, and allows you to control
-  media playback.</p>
+<p class="p">Kun lukitset tietokoneen, tai kun tietokone lukittuu automaattisesti, näytetään lukitusnäyttö. Se estää muita käyttämästä tietokonetta tunnuksellasi. Samalla se näyttää myös tietoa, kuten päivän, ajan, akkutason ja verkon tilan. Kaiken lisäksi voit hallita esimerkiksi musiikkisovellusta suoraan lukitusnäytöltä.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html.fi#lock-screen" title="Näytön lukitseminen">Lue lisää lukitusnäytöstä.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
@@ -169,7 +159,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -80,7 +80,7 @@
 </ol></div></div></div>
 <p class="p">Seleccione o tipo de impresora que usará para imprimir, da lista de máis embaixo:</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet-singlesided.html.gl-GL" title="Imprimir un pasquín nunha impresora dunha soa cara"><span class="title">Imprimir un pasquín nunha impresora dunha soa cara</span><span class="linkdiv-dash"> — </span><span class="desc">Print a booklet from a PDF using a single-sided printer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet-singlesided.html.gl-GL" title="Imprimir un pasquín nunha impresora dunha soa cara"><span class="title">Imprimir un pasquín nunha impresora dunha soa cara</span><span class="linkdiv-dash"> — </span><span class="desc">Imprimir un pasquín desde un PDF nunha impresora dunha soa cara.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-booklet-duplex.html.gl-GL" title="Print a booklet on a double-sided printer"><span class="title">Print a booklet on a double-sided printer</span><span class="linkdiv-dash"> — </span><span class="desc">Print folded booklets (like a book or pamphlet) from a PDF using normal
     A4/Letter-size paper.</span></a></div>
 </div></div></div>
@@ -99,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

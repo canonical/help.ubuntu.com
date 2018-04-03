@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,27 +77,23 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Region i język</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.pl-PL" title="Alternatywne układy klawiatury">Alternatywne układy klawiatury</a><span class="desc"> — Dodawanie układów klawiatury i przełączanie między nimi.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Ułatwienia dostępu</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-key-menu.html.pl-PL" title="Czym jest klawisz Menu?">Czym jest klawisz <span class="key"><kbd>Menu</kbd></span>?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
-    rather than with a right-click.</span>
+<a href="keyboard-key-menu.html.pl-PL" title="Czym jest klawisz Menu?">Czym jest klawisz <span class="key"><kbd>Menu</kbd></span>?</a><span class="desc"> — Klawisz <span class="key"><kbd>Menu</kbd></span> włącza menu kontekstowe za pomocą klawiatury, zamiast używania prawego przycisku myszy.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?">Czym jest klawisz <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
-    You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
-    keyboard.</span>
+<a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?">Czym jest klawisz <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — Klawisz <span class="key"><kbd>Super</kbd></span> otwiera <span class="gui">ekran podglądu</span>. Zwykle można go znaleźć obok klawisza <span class="key"><kbd>Alt</kbd></span>.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html.pl-PL" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
+<a href="keyboard-osk.html.pl-PL" title="Klawiatura ekranowa">Klawiatura ekranowa</a><span class="desc"> — Używanie klawiatury ekranowej do wpisywania tekstu przez klikanie przycisków za pomocą myszy lub ekranu dotykowego.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html.pl-PL" title="Klawiatura ekranowa">Klawiatura ekranowa</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
-    mouse or a touchscreen.</span>
+<a href="keyboard-nav.html.pl-PL" title="Nawigacja za pomocą klawiatury">Nawigacja za pomocą klawiatury</a><span class="desc"> — Używanie programów i pulpitu bez myszy.</span>
 </li>
 <li class="links ">
 <a href="a11y-bouncekeys.html.pl-PL" title="Włączenie odskakujących klawiszy">Włączenie odskakujących klawiszy</a><span class="desc"> — Ignorowanie szybko powtórzonych naciśnięć tego samego klawisza.</span>
@@ -114,22 +110,19 @@
 <div class="title title-links"><h2><span class="title">Pozostałe tematy</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-cursor-blink.html.pl-PL" title="Make the keyboard cursor blink">Make the keyboard cursor blink</a><span class="desc"> — Make the insertion point blink and control how quickly it
-    blinks.</span>
+<a href="numeric-keypad.html.pl-PL" title="Klawiatura numeryczna">Klawiatura numeryczna</a><span class="desc"> — Domyślne włączanie klawiatury numerycznej.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html.pl-PL" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
-    or change the delay and speed of repeat keys.</span>
+<a href="shell-keyboard-shortcuts.html.pl-PL" title="Przydatne skróty klawiszowe">Przydatne skróty klawiszowe</a><span class="desc"> — Nawigacja po pulpicie za pomocą klawiatury.</span>
 </li>
 <li class="links ">
-<a href="numeric-keypad.html.pl-PL" title="Numeric keypad">Numeric keypad</a><span class="desc"> — Enable the numeric keypad by default.</span>
+<a href="keyboard-cursor-blink.html.pl-PL" title="Ustawianie migania kursora klawiatury">Ustawianie migania kursora klawiatury</a><span class="desc"> — Ustawianie migania kursora wstawiania i sterowanie prędkością migania.</span>
 </li>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html.pl-PL" title="Przydatne skróty klawiszowe">Przydatne skróty klawiszowe</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="keyboard-shortcuts-set.html.pl-PL" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a><span class="desc"> — Dodawanie i zmienianie skrótów klawiszowych w ustawieniach <span class="gui">Klawiatury</span>.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html.pl-PL" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
-    settings.</span>
+<a href="keyboard-repeat-keys.html.pl-PL" title="Zarządzanie powtórzeniami naciśnięć klawisza">Zarządzanie powtórzeniami naciśnięć klawisza</a><span class="desc"> — Wyłączenie powtarzania liter po przytrzymaniu klawisza lub zmiana opóźnienia i prędkości powtórzeń.</span>
 </li>
 </ul></div>
 </div></div>
@@ -155,7 +148,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

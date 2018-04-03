@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I import color profiles?</title>
+<title>Com importo perfils de color?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,33 +65,24 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I import color profiles?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Com importo perfils de color?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can import a color profile by double clicking on a <span class="file">.ICC</span>
-  or <span class="file">.ICM</span> file in the file browser.</p>
-<p class="p">Alternatively you can manage your color profiles through the
-  <span class="gui">Color</span> panel.</p>
+<p class="p">Podeu importar un perfil de color fent doble clic a <span class="file">.ICC</span> o a l'arxiu<span class="file">.ICM</span> en el navegador de fitxers.</p>
+<p class="p">Alternativament, podeu gestionar els vostres perfils de color a través del panell de <span class="gui">Color</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
-      device.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import
-      a new profile.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to confirm your selection.</p></li>
+<li class="steps"><p class="p">Obre la vista d' <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenci a escriure <span class="gui">Color</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Color</span> per obrir el tauler i seleccionar el vostre dispositiu.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Afegir perfil</span> per seleccionar un perfil existent o importar-ne un de nou.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Afegir</span> per confirmar la vostra selecció.</p></li>
 </ol></div></div></div>
-<p class="p">The manufacturer of your display may supply a profile that you can use.
-  These profiles are usually made for the average display, so may not be perfect
-  for your specific one. For the best calibration, you should
-  <span class="link"><a href="color-calibrate-screen.html.ca" title="How do I calibrate my screen?">create your own profile</a></span> using a
-  colorimeter or a spectrophotometer.</p>
+<p class="p">El fabricant de la vostra pantalla pot proporcionar-vos un perfil que podeu utilitzar. Normalment, aquests perfils es fan per a la visualització mitjana, per tant, pot ser que no sigui perfecte per a la vostè. Per obtenir el millor calibratge, hauria de <span class="link"><a href="color-calibrate-screen.html.ca" title="Com calibro la meva pantalla?">crear el seu propi perfil</a></span> utilitzant un colorímetre o un espectrofotòmetre.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -104,10 +95,10 @@
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html.ca" title="How do I assign profiles to devices?">How do I assign profiles to devices?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.ca" title="Com puc assignar perfils als dispositius?">Com puc assignar perfils als dispositius?</a><span class="desc"> — Mireu a <span class="guiseq"><span class="gui">Configuració</span> ▸ <span class="gui">Color</span></span> per afegir un perfil de color per a la vostra pantalla.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html.ca" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-whatisprofile.html.ca" title="Què és un perfil de color?">Què és un perfil de color?</a><span class="desc"> — Un perfil de color és un fitxer simple que expressa un espai de color o una resposta del dispositiu.</span>
 </li>
 </ul></div>
 </div></div>
@@ -120,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

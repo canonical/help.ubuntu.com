@@ -64,30 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="user-accounts.html.pl-PL" title="Konta użytkowników">Użytkownicy</a> › <a class="trail" href="user-accounts.html.pl-PL#manage" title="Zarządzanie kontami użytkowników">Konta</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="user-accounts.html.pl-PL" title="Konta użytkowników">Użytkownicy</a> › <a class="trail" href="user-accounts.html.pl-PL#manage" title="Zarządzanie kontami użytkowników">Konta</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Automatyczne logowanie</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can change your settings so that you are automatically logged in to
-  your account when you start up your computer:</p>
+<p class="p">Można zmienić ustawienia tak, aby użytkownik był automatycznie logowany po włączeniu komputera:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Użytkownicy</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Użytkownicy</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Użytkownicy</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Select the user account that you want to log in to automatically at
-      startup.</p></li>
-<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Odblokuj</span> i wpisz hasło.</p></li>
-<li class="steps"><p class="p">Toggle the <span class="gui">Automatic Login</span> switch to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Zaznacz konto użytkownika, które ma być automatycznie logowane.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Odblokuj</span> i wpisz swoje hasło.</p></li>
+<li class="steps"><p class="p">Przełącz <span class="gui">Logowanie automatyczne</span> na <span class="gui">|</span> (włączone).</p></li>
 </ol></div></div></div>
-<p class="p">When you next start up your computer, you will be logged in automatically.
-  If you have this option enabled, you will not need to type in your password
-  to log in to your account which means that if someone else starts up your
-  computer, they will be able to access your account and your personal data
-  including your files and browser history.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">If your account type is <span class="em">Standard</span>, you cannot change this
-    setting. Contact your system administrator who can change this setting
-    for you.</p></div></div></div></div>
+<p class="p">Po następnym włączeniu komputera użytkownik zostanie automatycznie zalogowany. Jeśli włączono tę opcję, to nie będzie trzeba wpisywać hasła, aby się zalogować, co oznacza, że jeśli ktoś inny włączy komputer, to będzie miał dostęp do konta i prywatnych danych, w tym plików i historii przeglądarki.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli konto jest typu <span class="em">Standardowe</span>, to nie można zmienić tego ustawienia. Skontaktuj się z administratorem komputera, który może zmienić to ustawienie za użytkownika.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -99,8 +91,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-exit.html.pl-PL" title="Wylogowywanie, wyłączanie komputera i przełączanie użytkowników">Wylogowywanie, wyłączanie komputera i przełączanie użytkowników</a><span class="desc"> — Learn how to leave your user account, by logging out, switching
-    users, and so on.</span>
+<a href="shell-exit.html.pl-PL" title="Wylogowywanie, wyłączanie komputera i przełączanie użytkowników">Wylogowywanie, wyłączanie komputera i przełączanie użytkowników</a><span class="desc"> — Jak wylogować się, przełączyć użytkownika i tak dalej.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -112,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

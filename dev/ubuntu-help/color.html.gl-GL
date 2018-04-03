@@ -74,14 +74,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Xestión de cor</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html.gl-GL" title="Como asignar perfiles ao dispositivos?"><span class="title">Como asignar perfiles ao dispositivos?</span><span class="linkdiv-dash"> — </span><span class="desc">Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html.gl-GL" title="Como asignar perfiles ao dispositivos?"><span class="title">Como asignar perfiles ao dispositivos?</span><span class="linkdiv-dash"> — </span><span class="desc">Busque nas <span class="guiseq"><span class="gui">Preferencias</span> ▸ <span class="gui">Cor</span></span> para engadir un perfíl de cor para a súa pantalla.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html.gl-GL" title="Porque é importante a xestión de cor?"><span class="title">Porque é importante a xestión de cor?</span><span class="linkdiv-dash"> — </span><span class="desc">A xestión de cor é importante para deseñadores, fotógrafos e artistas.</span></a></div>
 </div></div></div></div>
 <div id="profiles" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Perfiles de cor</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html.gl-GL" title="Como importo os perfiles de cor?"><span class="title">Como importo os perfiles de cor?</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles can be imported by opening them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html.gl-GL" title="Como importo os perfiles de cor?"><span class="title">Como importo os perfiles de cor?</span><span class="linkdiv-dash"> — </span><span class="desc">Os perfís de cor impórtanse con só abrilos.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html.gl-GL" title="Onde podo conseguir perfiles de cor?"><span class="title">Onde podo conseguir perfiles de cor?</span><span class="linkdiv-dash"> — </span><span class="desc">Os fabricantes fornecen os perfiles de cor e tamén pode xeralos vostede.</span></a></div>
 </div>
 <div class="links-twocolumn">
@@ -94,17 +94,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Calibración</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html.gl-GL" title="Cal é a diferenza entre calibración e caracterización?"><span class="title">Cal é a diferenza entre calibración e caracterización?</span><span class="linkdiv-dash"> — </span><span class="desc">A calibración e a caracterización son cousas totalmente distintas.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html.gl-GL" title="Como calibrar a cámara?"><span class="title">Como calibrar a cámara?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrar a súa cámara é importante para capturar cores precisos.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html.gl-GL" title="Como calibrar a miña impresora?"><span class="title">Como calibrar a miña impresora?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrar a súa impresora é importante para imprimir cores precisos.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html.gl-GL" title="Como calibrar a miña pantalla?"><span class="title">Como calibrar a miña pantalla?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrar a súa pantalla é importante para mostrar cores precisos.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html.gl-GL" title="Como calibrar o meu escáner?"><span class="title">Como calibrar o meu escáner?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrar o seu escáner é importante para capturar cores precisos.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html.gl-GL" title="Podo compartir o meu perfil de cor?"><span class="title">Podo compartir o meu perfil de cor?</span><span class="linkdiv-dash"> — </span><span class="desc">Compartir perfiles de cor nunca é unha boa idea xa que o hardware cambia ao longo de tempo.</span></a></div>
 </div>
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html.gl-GL" title="Podo compartir o meu perfil de cor?"><span class="title">Podo compartir o meu perfil de cor?</span><span class="linkdiv-dash"> — </span><span class="desc">Compartir perfiles de cor nunca é unha boa idea xa que o hardware cambia ao longo de tempo.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html.gl-GL" title="Porque teño que facer unha calibración por min mesmo?"><span class="title">Porque teño que facer unha calibración por min mesmo?</span><span class="linkdiv-dash"> — </span><span class="desc">A calibración é importante se se preocupa polas cores que mostra ou imprime.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html.gl-GL" title="Que instrumentos de medida son compatíbeis?"><span class="title">Que instrumentos de medida son compatíbeis?</span><span class="linkdiv-dash"> — </span><span class="desc">Temos compatibilidade con un gran conxunto de dispositivos de calibración.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html.gl-GL" title="Que tipo de obxectivo son compatíbeis?"><span class="title">Que tipo de obxectivo son compatíbeis?</span><span class="linkdiv-dash"> — </span><span class="desc">Precísanse obxectivos de calibración para perfilar escáneres e cámaras.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html.gl-GL" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">A calibración e a caracterización son cousas totalmente distintas.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -112,13 +112,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Problemas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-testing.html.gl-GL" title="Como comprobo se a xestión de cor funciona correctamente?"><span class="title">Como comprobo se a xestión de cor funciona correctamente?</span><span class="linkdiv-dash"> — </span><span class="desc">Use the supplied test profiles to check that your profiles are being
-    applied correctly to your screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-testing.html.gl-GL" title="Como comprobo se a xestión de cor funciona correctamente?"><span class="title">Como comprobo se a xestión de cor funciona correctamente?</span><span class="linkdiv-dash"> — </span><span class="desc">Use os perfís de proba subministrados para comprobar que os seus perfís se aplican correctamente na pantalla.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html.gl-GL" title="Fáltalle información para a corrección de cor da pantalla completa?"><span class="title">Fáltalle información para a corrección de cor da pantalla completa?</span><span class="linkdiv-dash"> — </span><span class="desc">A corrección de cor da pantalla completa modifica todas as cores da pantalla en todas as xanelas.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="color-notifications.html.gl-GL" title="Podo obter unha notificación cando o meu perfil de cor non é preciso?"><span class="title">Podo obter unha notificación cando o meu perfil de cor non é preciso?</span><span class="linkdiv-dash"> — </span><span class="desc">Pode recibir unha notificación se o seu perfil de cor é antigo ou non é preciso.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html.gl-GL" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Os perfiles de monitor predeterminados non teñen unha data de calibración.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html.gl-GL" title="Por que os perfiles de monitor predeterminados non teñen unha caducidade para a calibración?"><span class="title">Por que os perfiles de monitor predeterminados non teñen unha caducidade para a calibración?</span><span class="linkdiv-dash"> — </span><span class="desc">Os perfiles de monitor predeterminados non teñen unha data de calibración.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -143,7 +142,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -67,9 +67,9 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ca" title="Accés universal">Accés universal</a> › <a class="trail" href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">Discapacitats de mobilitat</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="keyboard.html.ca" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="keyboard.html.ca" title="Teclat">Teclat</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="keyboard.html.ca" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="keyboard.html.ca" title="Teclat">Teclat</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -79,32 +79,22 @@
 <p class="p">Les <span class="em">tecles enganxoses</span> us permeten escriure les dreceres de teclat prement les tecles d'una a una en comptes d'haver-les de prémer totes alhora. Per exemple, la drecera de teclat <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.ca" title="What is the Super key?"><kbd>Súper</kbd></a></span>+<span class="key"><kbd>Tabulació</kbd></span></span> canvia entre finestres. Sense les tecles enganxoses activades, hauríeu de mantenir premudes les dues tecles alhora. En canvi, amb les tecles enganxoses activades, primer hauríeu de prémer <span class="key"><kbd>Súper</kbd></span> i, després, <span class="key"><kbd>Tabulació</kbd></span> per aconseguir el mateix efecte.</p>
 <p class="p">Activeu les tecles enganxoses si teniu problemes a l'hora de prémer més d'una tecla alhora.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Obriu la descripció general de les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span>  i comenceu a escriure  <span class="gui">Accés Universal</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per obrir el quadre.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Typing Assist (AccessX)</span> in the <span class="gui">Typing</span>
-      section.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Sticky Keys</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Assistència d'escriptura (AccessX)</span> a la secció <span class="gui">Escriptura</span>.</p></li>
+<li class="steps"><p class="p">Canvieu les <span class="gui">tecles permanents</span> a <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Suggeriment"><div class="inner">
-<div class="title title-note"><h2><span class="title">Quickly turn sticky keys on and off</span></h2></div>
+<div class="title title-note"><h2><span class="title">Canvieu ràpidament les tecles permanents a ON i OFF</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Under <span class="gui">Enable by Keyboard</span>, select
-    <span class="gui">Turn on accessibility features from the keyboard</span>
-    to turn sticky keys on and off from the keyboard. When this option is
-    selected, you can press <span class="key"><kbd>Shift</kbd></span> five times in a row to enable or
-    disable sticky keys.</p>
+<p class="p">A <span class="gui">Activa per Teclat</span>, seleccioneu <span class="gui">Activar les funcions d'accessibilitat des del teclat</span> per activar i desactivar les tecles lentes. Quan es selecciona aquesta opció, podeu mantenir premut <span class="key"><kbd>Shift</kbd></span> cinc vegades en una fila per activar o desactivar les tecles lentes.</p>
 <p class="p">També podeu activar les tecles enganxoses si feu clic a la <span class="link"><a href="a11y-icon.html.ca" title="Trobar el menú d'accés universal">icona d'accessibilitat</a></span> del quadre superior i seleccioneu les <span class="gui">Tecles enganxoses</span>. La icona d'accessibilitat només es mostra si s'ha activat alguna opció en el quadre d'<span class="gui">Accés universal</span>.</p>
 </div></div>
 </div></div>
 <p class="p">Si premeu dues tecles alhora, podeu fer que les tecles enganxoses es desactivin automàticament, de forma temporal, per tal que pugueu introduir una drecera de teclat de la forma «estàndard».</p>
 <p class="p">Per exemple, si tot i tenint activades les tecles enganxoses premeu <span class="key"><kbd>Súper</kbd></span> i <span class="key"><kbd>Tabulació</kbd></span> simultàniament, les tecles enganxoses no esperaran a què premeu una altra tecla. Només l'<span class="em">esperarien</span> si haguéssiu premut una única tecla. Això és útil si sou capaços de prémer algunes dreceres de teclat alhora (aquelles en què, per exemple, les tecles estan juntes), i d'altres no.</p>
 <p class="p">Seleccioneu <span class="gui">Inhabilita si es premen dues tecles alhora</span> per activar-ho.</p>
-<p class="p">You can have the computer make a “beep” sound when you start typing a
-  keyboard shortcut with sticky keys turned on. This is useful if you want to
-  know that sticky keys is expecting a keyboard shortcut to be typed, so the
-  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
-  when a modifier key is pressed</span> to enable this.</p>
+<p class="p">Podeu fer que l'ordinador faci un so "beep" quan comenceu a escriure una drecera de teclat amb les tecles permanents activades. Això és útil si voleu saber que les tecles permanents esperen que es teclegi un accés directe pel teclat, de manera que la següent tecla premuda s'interpretarà com a part d'una drecera. Seleccioneu <span class="gui">Beep quan es pressiona una tecla modificadora</span> per activar-ho.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -113,7 +103,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">Discapacitats de mobilitat</a></li>
 <li class="links ">
-<a href="keyboard.html.ca" title="Keyboard">Keyboard</a><span class="desc"> — 
+<a href="keyboard.html.ca" title="Teclat">Teclat</a><span class="desc"> — 
       <span class="link"><a href="keyboard-layouts.html.ca" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
       <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Make the keyboard cursor blink">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">keyboard accessibility</a></span>…
@@ -129,7 +119,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

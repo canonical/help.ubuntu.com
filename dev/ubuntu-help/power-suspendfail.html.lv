@@ -119,9 +119,6 @@
 <a href="power-suspend.html.lv" title="Kas notiek, iesnaudinot datoru?">Kas notiek, iesnaudinot datoru?</a><span class="desc"> — Iesnaudināšana liek datoram pāriet īpašā režīmā, kas patērē mazāk elektroenerģijas.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html.lv" title="Kā iemidzināt savu datoru?">Kā iemidzināt savu datoru?</a><span class="desc"> — Pēc noklusējuma iemidzināšana ir deaktivēta, jo tā nav labi atbalstīta.</span>
-</li>
-<li class="links ">
 <a href="power-closelid.html.lv" title="Kāpēc dators izslēdzas, aizverot tā vāku?">Kāpēc dators izslēdzas, aizverot tā vāku?</a><span class="desc"> — Klēpjdatori "iesnaužas", kad kāds aizver to vāku, lai ietaupītu elektroenerģiju.</span>
 </li>
 </ul></div>
@@ -135,7 +132,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

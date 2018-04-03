@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Add or remove a contact</title>
+<title>Afegir o eliminar un contacte</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,22 +67,19 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="contacts.html.ca" title="Contactes">Contactes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Add or remove a contact</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Afegir o eliminar un contacte</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To add a contact:</p>
+<p class="p">Per afegir un contacte:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press the <span class="gui">+</span> button.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">New contact</span> dialog, enter the contact name and their
-      information. Click on the drop down box next to each field to chose the
-      type of detail.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Premeu el botó <span class="gui">+</span>.</p></li>
+<li class="steps"><p class="p">Al diàleg <span class="gui">Nou contacte</span>, introduïu el nom del contacte i la seva informació. Feu clic al quadre desplegable al costat de cada camp per triar el tipus de detall.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Afegir</span>.</p></li>
 </ol></div></div></div>
-<p class="p">To remove a contact:</p>
+<p class="p">Per eliminar un contacte</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Trieu el contacte de la llista de contactes.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Edit</span> in the top-right corner of
-      <span class="app">Contacts</span>.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Editar</span> a la cantonada superior dreta de <span class="app">Contactes</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Suprimeix el contacte</span>.</p></li>
 </ol></div></div></div>
 </div>
@@ -91,7 +88,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html.ca" title="Contactes">Contactes</a><span class="desc"> — Access your contacts.</span>
+<a href="contacts.html.ca" title="Contactes">Contactes</a><span class="desc"> — Accediu als vostres contactes</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -102,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

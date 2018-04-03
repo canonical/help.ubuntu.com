@@ -64,42 +64,25 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Automatyczne blokowanie ekranu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you leave your computer, you should
-  <span class="link"><a href="shell-exit.html.pl-PL#lock-screen" title="Blokowanie ekranu">lock the screen</a></span> to prevent
-  other people from using your desktop and accessing your files. If you
-  sometimes forget to lock your screen, you may wish to have your computer’s
-  screen lock automatically after a set period of time. This will help to
-  secure your computer when you aren’t using it.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">When your screen is locked, your applications and system processes
-  will continue to run, but you will need to enter your password to begin using
-  them again.</p></div></div></div></div>
+<p class="p">Przed odejściem od komputera należy <span class="link"><a href="shell-exit.html.pl-PL#lock-screen" title="Blokowanie ekranu">zablokować ekran</a></span>, aby uniemożliwić innym osobom używanie komputera i plików użytkownika. Jeśli trudno pamiętać o blokowaniu ekranu, to można ustawić czas, po jakim ekran komputera jest blokowany automatycznie. Pomaga to zabezpieczyć komputer, kiedy nie jest używany.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Kiedy ekran jest zablokowany, programy i procesy systemu nadal działają, ale trzeba wpisać hasło, aby znowu móc ich używać.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To set the length of time before your screen locks
-    automatically:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Aby ustawić czas przed automatycznym zablokowaniem ekranu:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Wybierz <span class="gui">Blokada ekranu</span>.</p></li>
-<li class="steps"><p class="p">Make sure <span class="gui">Automatic Screen Lock</span> is switched <span class="gui">ON</span>,
-      then select a length of time from the drop-down list.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Blokada ekranu</span>.</p></li>
+<li class="steps"><p class="p">Upewnij się, że <span class="gui">Automatyczne blokowanie ekranu</span> jest ustawione na <span class="gui">|</span> (włączone), a następnie wybierz czas z rozwijanej listy.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Applications can present notifications to you that are still displayed
-    on your lock screen. This is convenient, for example, to see if you have
-    any email without unlocking your screen. If you’re concerned about other
-    people seeing these notifications, switch <span class="gui">Show Notifications</span>
-    off.</p></div></div></div></div>
-<p class="p">When your screen is locked, and you want to unlock it, press
-  <span class="key"><kbd>Esc</kbd></span>, or swipe up from the bottom of the screen with your mouse.
-  Then enter your password, and press <span class="key"><kbd>Enter</kbd></span> or click
-  <span class="gui">Unlock</span>. Alternatively, just start typing your password and the
-  lock curtain will be automatically raised as you type.</p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Programy mogą wyświetlać powiadomienia także na ekranie blokady. Jest to wygodne, na przykład, aby zobaczyć, czy jest nowa poczta bez odblokowywania ekranu. W razie obaw, że inne osoby mogą widzieć te powiadomienia, wyłącz <span class="gui">Wyświetlanie powiadomień</span>.</p></div></div></div></div>
+<p class="p">Kiedy ekran jest zablokowany i chcesz go odblokować, naciśnij klawisz <span class="key"><kbd>Esc</kbd></span> lub przeciągnij myszą z dołu do góry ekranu. Następnie wpisz hasło i naciśnij klawisz <span class="key"><kbd>Enter</kbd></span> lub kliknij przycisk <span class="gui">Odblokuj</span>. Można także od razu zacząć pisać hasło, a kurtyna blokady zostanie automatycznie podniesiona podczas pisania.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -107,11 +90,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.pl-PL" title="Automatyczne blokowanie ekranu">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.pl-PL" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.pl-PL" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.pl-PL" title="Automatyczne blokowanie ekranu">Blokada ekranu</a></span>, <span class="link"><a href="privacy-history-recent-off.html.pl-PL" title="Wyłączanie lub ograniczanie śledzenia historii plików">historia używanych plików</a></span>, <span class="link"><a href="privacy-purge.html.pl-PL" title="Usuwanie plików w koszu i plików tymczasowych">usuwanie plików w koszu i plików tymczasowych</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -119,8 +98,7 @@
 <div class="region"><ul>
 <li class="links "><a href="shell-exit.html.pl-PL#lock-screen" title="Blokowanie ekranu">Blokowanie ekranu</a></li>
 <li class="links ">
-<a href="session-screenlocks.html.pl-PL" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span>
+<a href="session-screenlocks.html.pl-PL" title="Ekran blokuje się za szybko">Ekran blokuje się za szybko</a><span class="desc"> — Zmiana czasu, po jakim ekran zostanie zablokowany w ustawieniach prywatności.</span>
 </li>
 </ul></div>
 </div></div>
@@ -133,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

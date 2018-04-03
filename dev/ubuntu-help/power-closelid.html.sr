@@ -81,15 +81,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Не дозволите рачунару да обустави рад када спустите поклопац</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents"><p class="p">Ова упутства ће радити само ако користите <span class="app">systemd</span>. Обратите се вашој дистрибуцији за више података.</p></div></div></div></div>
-<div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents"><p class="p">Треба да сте инсталирали програм <span class="app">Алат за лицкање</span> на вашем рачунару да бисте могли да измените ово подешавање.</p></div></div></div></div>
+<div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Требало би да сте инсталирали програм <span class="app">Алат за лицкање</span> на вашем рачунару да бисте могли да измените ово подешавање.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Инсталирајте <span class="app">Алат за лицкање</span></a></span></p>
+</div></div></div></div>
 <p class="p">Ако не желите да рачунар обустави рад када затворите поклопац, можете да измените подешавање тог понашања.</p>
 <div class="note note-warning" title="Упозорење"><div class="inner"><div class="region"><div class="contents"><p class="p">Будите веома пажљиви ако мењате ово подешавање. Неки преносни рачунари мог да се прегреју ако су остављени да раде са спуштеним поклопцем, поготово ако су у затвореном простору као што је ранац.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Алат за лицкање</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Алат за лицкање</span> да га отворите.</p></li>
 <li class="steps"><p class="p">Притисните на језичак <span class="gui">Напајање</span>.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
-      <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Пребаците <span class="gui">Обустави приликом спуштања поклопца</span> на <span class="gui">ИСКЉ.</span>.</p></li>
 <li class="steps"><p class="p">Затворите прозор <span class="gui">Алата за лицкање</span>.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -123,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a workspace, and how will it help me?</title>
+<title>Czym są obszary robocze i do czego mogę je używać?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,37 +64,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-workspaces" title="Używanie obszarów roboczych">Obszary robocze</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-workspaces" title="Używanie obszarów roboczych">Obszary robocze</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a workspace, and how will it help me?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Czym są obszary robocze i do czego mogę je używać?</span></h1></div>
 <div class="region">
 <div class="contents">
-<div class="media media-image floatend"><div class="inner"><img src="figures/shell-workspaces.png" height="434" width="162" class="media media-block" alt="Workspace selector"></div></div>
-<p class="p">Workspaces refer to the grouping of
-  windows on your desktop. You can create multiple workspaces, which act like
-  virtual desktops. Workspaces are meant to reduce clutter and make the desktop
-  easier to navigate.</p>
-<p class="p">Workspaces can be used to organize your work. For example, you could have
-  all your communication windows, such as e-mail and your chat program, on one
-  workspace, and the work you are doing on a different workspace. Your music
-  manager could be on a third workspace.</p>
+<div class="media media-image floatend"><div class="inner"><img src="figures/shell-workspaces.png" height="434" width="162" class="media media-block" alt="Przełącznik obszarów roboczych"></div></div>
+<p class="p">Obszary robocze odnoszą się do grupowania okien na pulpicie. Można utworzyć wiele obszarów, które działają jak wirtualne pulpity. Obszary robocze służą do zmniejszenia nieładu i ułatwiają nawigację na pulpicie.</p>
+<p class="p">Można używać obszarów roboczych do organizowania pracy. Na przykład, można trzymać wszystkie programy do komunikacji, takie jak klient poczty i komunikator na jednym obszarze, a wykonywaną pracę na innym. Na trzecim można umieścić odtwarzacz muzyki.</p>
 <p class="p">Używanie obszarów roboczych:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">In the
-    <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span> overview, move your cursor
-    to the right-most side of the screen.</p></li>
-<li class="list"><p class="p">A vertical panel will appear showing
-    workspaces in use, plus an empty workspace. This is the
-    workspace selector.</p></li>
-<li class="list"><p class="p">To add a workspace, drag and drop a window from an existing workspace
-    onto the empty workspace in the workspace selector. This workspace now
-    contains the window you have dropped,
-    and a new empty workspace will appear below it.</p></li>
-<li class="list"><p class="p">To remove a workspace, simply close all of its windows or move them to
-    other workspaces.</p></li>
+<li class="list"><p class="p">Na <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekranie podglądu</a></span> przenieś kursor do prawej krawędzi ekranu.</p></li>
+<li class="list"><p class="p">Pojawi się pionowy panel wyświetlający używane obszary robocze, plus jeden pusty. To przełącznik obszarów roboczych.</p></li>
+<li class="list"><p class="p">Aby dodać obszar roboczy, przeciągnij okno z istniejącego obszaru na pusty obszar na przełączniku obszarów roboczych. Ten obszar będzie teraz zawierał upuszczone okno, a nowy pusty obszar pojawi się pod nim.</p></li>
+<li class="list"><p class="p">Aby usunąć obszar roboczy, zamknij wszystkie znajdujące się na nim okna lub przenieś je na inne obszary.</p></li>
 </ul></div></div></div>
-<p class="p">There is always at least one workspace.</p>
+<p class="p">Zawsze jest co najmniej jeden obszar roboczy.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -107,11 +93,10 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html.pl-PL" title="Move a window to a different workspace">Move a window to a different workspace</a><span class="desc"> — Go to the <span class="gui">Activities</span> overview and drag the window to a
-    different workspace.</span>
+<a href="shell-workspaces-movewindow.html.pl-PL" title="Przenoszenie okna do innego obszaru roboczego">Przenoszenie okna do innego obszaru roboczego</a><span class="desc"> — Przejdź do <span class="gui">ekranu podglądu</span> i przeciągnij okno na inny obszar roboczy.</span>
 </li>
 <li class="links ">
-<a href="shell-workspaces-switch.html.pl-PL" title="Przełączanie między obszarami roboczymi">Przełączanie między obszarami roboczymi</a><span class="desc"> — Use the workspace selector.</span>
+<a href="shell-workspaces-switch.html.pl-PL" title="Przełączanie między obszarami roboczymi">Przełączanie między obszarami roboczymi</a><span class="desc"> — Używanie przełącznika obszarów roboczych.</span>
 </li>
 </ul></div>
 </div></div>
@@ -124,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

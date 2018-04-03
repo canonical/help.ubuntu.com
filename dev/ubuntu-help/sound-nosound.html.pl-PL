@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I cannot hear any sounds on the computer</title>
+<title>Nie słychać żadnych dźwięków na komputerze</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,97 +65,63 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="media.html.pl-PL#sound" title="Dźwięk">Dźwięk</a> » <a class="trail" href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="media.html.pl-PL#sound" title="Dźwięk">Dźwięk</a> » <a class="trail" href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I cannot hear any sounds on the computer</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Nie słychać żadnych dźwięków na komputerze</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If you cannot hear any sounds on your computer, for example when you try
-  to play music, go through the following troubleshooting tips.</p></div>
+<div class="contents"><p class="p">Jeśli nie słychać żadnych dźwięków na komputerze, na przykład podczas odtwarzania muzyki, to można spróbować poniższych wskazówek.</p></div>
 <div id="mute" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Make sure that the sound is not muted</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Upewnij się, że dźwięk nie jest wyciszony</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">system menu</a></span> and make sure that
-  the sound is not muted or turned down.</p>
-<p class="p">Some laptops have mute switches or keys on their keyboards — try pressing
-  that key to see if it unmutes the sound.</p>
-<p class="p">You should also check that you have not muted the application that you are
-  using to play sound (for example, your music player or movie player). The
-  application may have a mute or volume button in its main window, so check
-  that.</p>
-<p class="p">Also, you can check the <span class="gui">Applications</span> tab in the <span class="gui">Sound</span>
-  GUI:</p>
+<p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">menu systemowe</a></span> i upewnij się, że dźwięk nie jest wyciszony lub ustawiony na niską głośność.</p>
+<p class="p">Część laptopów ma przełączniki lub klawisze do wyciszania — spróbuj nacisnąć ten klawisz, aby zobaczyć, czy nie włączy to dźwięku.</p>
+<p class="p">Należy także sprawdzić, czy nie wyciszono programu używanego do odtwarzania dźwięku (np. odtwarzacza muzyki lub filmów). Program może mieć przycisk wyciszania lub głośności w głównym oknie, który należy sprawdzić.</p>
+<p class="p">Można także sprawdzić kartę <span class="gui">Programy</span> w panelu <span class="gui">Dźwięk</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Settings</span> from the <span class="gui">Activities</span> overview.</p></li>
-<li class="steps"><p class="p">Wybierz <span class="gui">Dźwięk</span>.</p></li>
-<li class="steps"><p class="p">Go to the <span class="gui">Applications</span> tab and check that your application
-      is not muted.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="app">Ustawienia</span> z <span class="gui">ekranu podglądu</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Dźwięk</span>.</p></li>
+<li class="steps"><p class="p">Przejdź do karty <span class="gui">Programy</span> i sprawdź, czy program nie jest wyciszony.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="speakers" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that the speakers are turned on and connected properly</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sprawdź, czy głośniki są włączone i poprawnie podłączone</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If your computer has external speakers, make sure that they are turned on
-  and that the volume is turned up. Make sure that the speaker cable is securely
-  plugged into the “output” audio socket on your computer. This socket
-  is usually light green in color.</p>
-<p class="p">Some sound cards can switch between the socket they use for output
-  (to the speakers) and the socket for input (from a microphone, for instance).
-  The output socket may be different when running Linux, Windows or Mac OS.
-  Try connecting the speaker cable to a different audio socket on your
-  computer.</p>
-<p class="p">A final thing to check is that the audio cable is securely plugged into the
- back of the speakers. Some speakers have more than one input, too.</p>
+<p class="p">Jeśli komputer ma zewnętrzne głośniki, to upewnij się, że są one włączone, a ich głośność jest ustawiona dostatecznie wysoko. Upewnij się, że kabel głośników jest bezpiecznie podłączony do złącza „wyjścia” dźwięku na komputerze. To zwykle jasnozielone złącze.</p>
+<p class="p">Część kart dźwiękowych może przełączać między złączem używanym dla wyjścia (do głośników) a złączem dla wejścia (np. z mikrofonu). Złącze wyjściowe może się różnić w systemach Linux, Windows i macOS. Spróbuj podłączyć kabel głośników do innego złącza dźwięku na komputerze.</p>
+<p class="p">Na koniec należy sprawdzić, czy kabel dźwiękowy jest bezpiecznie podłączony do tyłu głośników. Niektóre głośniki mogą mieć więcej niż jedno wejście.</p>
 </div></div>
 </div></div>
 <div id="device" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that the correct sound device is selected</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sprawdź, czy wybrane jest właściwe urządzenie dźwiękowe</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Some computers have multiple “sound devices” installed. Some of these are
-  capable of outputting sound and some are not, so you should check that you
-  have the correct sound device selected. This might involve some
-  trial-and-error to choose the right one.</p>
+<p class="p">Część komputerów ma zainstalowanych wiele „urządzeń dźwiękowych”. Niektóre z nich mogą wydawać dźwięki, a inne nie, więc należy sprawdzić, czy wybrano właściwe. Wypróbuj różne urządzenia, aż trafisz na właściwe.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Dźwięk</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Dźwięk</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Dźwięk</span>, aby otworzyć panel.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Output</span> tab, change the <span class="gui">Profile</span>
-      settings for the selected device and play a sound to see if it works.
-      You might need to go through the list and try each profile.</p>
-<p class="p">If that does not work, you might want to try doing the same for any
-      other devices that are listed.</p>
+<p class="p">W karcie <span class="gui">Wyjście</span> zmień <span class="gui">Profil</span> dla wybranego urządzenia i odtwórz dźwięk, aby zobaczyć, czy działa. Być może trzeba będzie wypróbować każdy profil na liście.</p>
+<p class="p">Jeśli to nie pomoże, można spróbować zrobić to samo dla wszystkich pozostałych urządzeń na liście.</p>
 </li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="hardware-detected" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Sprawdzanie, czy karta dźwiękowa została poprawnie wykryta</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sprawdź, czy karta dźwiękowa została poprawnie wykryta</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Your sound card may not have been detected properly probably because 
-  the drivers for the card are not installed. You may need to install the drivers
-  for the card manually. How you do this depends on the type of the card. </p>
-<p class="p">Run the <span class="cmd">lspci</span> command in the Terminal to find out what sound
-  card you have:</p>
+<p class="p">Karta dźwiękowa mogła nie zostać poprawnie wykryta, prawdopodobnie ponieważ sterowniki dla niej nie są zainstalowane. W takim przypadku należy je ręcznie zainstalować. Sposób instalacji zależy od typu karty.</p>
+<p class="p">Wykonaj polecenie <span class="cmd">lspci</span> w terminalu, aby poznać używaną kartę:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Go to the <span class="gui">Activities</span> overview and open a Terminal.</p></li>
-<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html.pl-PL" title="How do administrative privileges work?">superuser</a></span>;
-      either type <span class="cmd">sudo lspci</span> and type your password, or type
-      <span class="cmd">su</span>, enter the <span class="em">root</span> (administrative) password,
-      then type <span class="cmd">lspci</span>.</p></li>
-<li class="steps"><p class="p">Check if an <span class="em">audio controller</span> or <span class="em">audio device</span> is listed:
-      in such case you should see the make and model number of the sound card. 
-      Also, <span class="cmd">lspci -v</span> shows a list with more detailed information.</p></li>
+<li class="steps"><p class="p">Przejdź do <span class="gui">ekranu podglądu</span> i otwórz program Terminal.</p></li>
+<li class="steps"><p class="p">Wykonaj polecenie <span class="cmd">lspci</span> jako <span class="link"><a href="user-admin-explain.html.pl-PL" title="Jak działają uprawnienia administracyjne?">użytkownik root</a></span> — wpisz <span class="cmd">sudo lspci</span> i swoje hasło, albo <span class="cmd">su</span>, hasło <span class="em">roota</span> (administracyjne), a następnie <span class="cmd">lspci</span>.</p></li>
+<li class="steps"><p class="p">Sprawdź, czy na liście jest <span class="em">audio controller</span> (kontroler dźwięku) lub <span class="em">audio device</span> (urządzenie dźwiękowe): w takim przypadku powinien być wyświetlony producent i numer modelu karty dźwiękowej. Polecenie <span class="cmd">lspci -v</span> wyświetla bardziej szczegółową listę.</p></li>
 </ol></div></div></div>
-<p class="p">You may be able to find and install drivers for your card. It is best to
-  ask on support forums (or otherwise) for your Linux distribution for
-  instructions.</p>
-<p class="p">If you cannot get drivers for your sound card, you might prefer to buy a
-  new sound card. You can get sound cards that can be installed inside the
-  computer and external USB sound cards.</p>
+<p class="p">Zainstalowanie sterowników dla używanej karty może być możliwe. Najlepiej jest zapytać na forach wsparcia dla używanej dystrybucji systemu Linux.</p>
+<p class="p">Jeśli nie można znaleźć sterowników dla używanej karty dźwiękowej, to można kupić nową. Dostępne są karty do zainstalowania w komputerze i zewnętrzne karty dźwiękowe USB.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -163,8 +129,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
-    quality.</span>
+<a href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a><span class="desc"> — Rozwiązywanie problemów, takich jak brak dźwięku lub jego słaba jakość.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -175,7 +140,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

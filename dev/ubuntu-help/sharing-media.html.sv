@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Du kan bläddra igenom, söka och spela media på din dator via en enhet med <span class="sys">UPnP</span>- eller <span class="sys">DLNA</span>-stöd, som till exempel en telefon, TV eller spelkonsol. Konfigurera <span class="gui">Mediadelning</span> för att låta dessa enheter få åtkomst till mapparna som innehåller musik, foton och videor.</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Du måste ha paketet <span class="app">Rygel</span> installerat för att <span class="gui">Mediadelning</span> ska vara synligt.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Du måste ha paketet <span class="app">Rygel</span> installerat för att <span class="gui">Mediadelning</span> ska vara synligt.</p>
+<p class="p"><span class="link-button link"><a href="apt:rygel" title="apt:rygel">Installera Rygel</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Dela</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Dela</span> för att öppna panelen.</p></li>
@@ -115,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

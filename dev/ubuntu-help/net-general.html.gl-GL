@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Termos e consellos sobre redes</span></h1></div>
@@ -76,7 +76,7 @@
 <div class="linkdiv "><a class="linkdiv" href="net-proxy.html.gl-GL" title="Configuracións do sistema"><span class="title">Configuracións do sistema</span><span class="linkdiv-dash"> — </span><span class="desc">A proxy is an intermediary for web traffic, it can be used for accessing web services anonymously, for control or security purposes.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.gl-GL" title="Manterse seguro na Internet"><span class="title">Manterse seguro na Internet</span><span class="linkdiv-dash"> — </span><span class="desc">General tips to keep in mind when using the internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security-tips.html.gl-GL" title="Manterse seguro na Internet"><span class="title">Manterse seguro na Internet</span><span class="linkdiv-dash"> — </span><span class="desc">Suxestións xerais a ter en conta ao usar Internet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-macaddress.html.gl-GL" title="Que é un enderezo MAC?"><span class="title">Que é un enderezo MAC?</span><span class="linkdiv-dash"> — </span><span class="desc">O código único asignado ao hardware de rede.</span></a></div>
 </div>
 </div></div></div></div>
@@ -86,17 +86,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.gl-GL" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html.gl-GL" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html.gl-GL" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.gl-GL" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html.gl-GL" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
+<a href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a><span class="desc"> — <span class="link"><a href="net-wireless.html.gl-GL" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html.gl-GL" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html.gl-GL" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.gl-GL" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html.gl-GL" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Conectarse a unha rede sen fíos</a></span>, <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Redes ocultas</a></span>, <span class="link"><a href="net-editcon.html.gl-GL" title="net-editcon">Editar opcións da conexión</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Desconectando</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -108,7 +104,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

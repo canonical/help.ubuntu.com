@@ -81,6 +81,10 @@
 </ol></div></div></div>
 <p class="p">Algunas traducciones pueden estar incompletas y ciertas aplicaciones pueden no soportar su idioma por completo. Cualquier texto no traducido aparecerá en el idioma en el que se desarrolló el software de manera original, generalmente inglés americano.</p>
 <p class="p">Hay algunas carpetas especiales en la carpeta de inicio donde las aplicaciones pueden almacenar cosas como música, imágenes y documentos. Estas carpetas usan nombres estándar de acuerdo a su idioma. Cuando vuelva a entrar, se le preguntará si quiere cambiar el nombre de estas carpetas con los nombres estándar para el idioma seleccionado. Si va a utilizar el nuevo idioma todo el tiempo, debe actualizar los nombres de las carpetas.</p>
+<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -106,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

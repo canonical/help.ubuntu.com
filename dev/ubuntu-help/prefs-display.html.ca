@@ -74,10 +74,9 @@
     screen background.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-resolution.html.ca" title="Change the resolution or rotation of the screen"><span class="title">Change the resolution or rotation of the screen</span><span class="linkdiv-dash"> — </span><span class="desc">Change the resolution of the screen and its orientation
     (rotation).</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.ca" title="Connect another monitor to your computer"><span class="title">Connect another monitor to your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Set up an additional monitor.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.ca" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.ca" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
-    light.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.ca" title="Connecteu un altre monitor a l'ordinador"><span class="title">Connecteu un altre monitor a l'ordinador</span><span class="linkdiv-dash"> — </span><span class="desc">Configureu un monitor addicional.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.ca" title="Establiu el temps d'entrada en inactivitat de la pantalla"><span class="title">Establiu el temps d'entrada en inactivitat de la pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Canvieu el temps per entrar en inactivitat de la pantalla per estalviar energia.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.ca" title="Establiu la brillantor de la pantalla"><span class="title">Establiu la brillantor de la pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Canvieu la brillantor de la pantalla per fer-la més llegible amb llum brillant.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.ca" title="The screen locks itself too quickly"><span class="title">The screen locks itself too quickly</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span></a></div>
 </div></div></div></div>
@@ -87,8 +86,8 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="prefs.html.ca" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.ca" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.ca" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="keyboard.html.ca" title="Teclat">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.ca" title="Ratolí">mouse</a></span>,
       <span class="link"><a href="prefs-display.html.ca" title="Display &amp; screen">display</a></span>,
       <span class="link"><a href="prefs-language.html.ca" title="Region &amp; Language">languages</a></span>,
       <span class="link"><a href="user-accounts.html.ca" title="User accounts">user accounts</a></span>…
@@ -103,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

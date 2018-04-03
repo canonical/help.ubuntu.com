@@ -65,26 +65,22 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">De dubbelkliksnelheid aanpassen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Double-clicking only happens when you press the mouse button twice
-quickly enough. If the second press is too long after the first, you’ll
-just get two separate clicks, not a double click. If you have difficulty
-pressing the mouse button quickly, you should increase the timeout.</p>
+<p class="p">Dubbelklikken gebeurt alleen wanneer u de muisknop twee keer snel genoeg indrukt. Wanneer de tweede klik te lang na de eerste is, krijgt u alleen twee aparte klikken, geen dubbelklik. Als u moeite hebt met het snel indrukken van de muisknop, dan moet u de intervaltijd verhogen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Under <span class="gui">Pointing &amp; Clicking</span>, adjust the <span class="gui">Double-click</span>
-  slider to a value you find comfortable.</p></li>
+<li class="steps"><p class="p">Pas onder <span class="gui">Aanwijzen en klikken</span> de <span class="gui">Dubbelklik</span>-schuifregelaar naar wens aan.</p></li>
 </ol></div></div></div>
 <p class="p">Als uw muis nog steeds dubbelklikt wanneer u eenmaal wilt klikken, zelfs nadat u de time-out voor dubbelklikken heeft verhoogt, kan het zijn dat de muis defect is. Probeer of u dit probleem ook heeft als u een andere muis op uw computer aansluit. Als alternatief kunt u ook uw huidige muis op een andere computer aansluiten, om te kijken of u daar hetzelfde probleem heeft.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Deze instelling zal invloed hebben op zowel de muis als het touchpad en elk ander aanwijsapparaat.</p></div></div></div></div>
@@ -108,7 +104,7 @@ pressing the mouse button quickly, you should increase the timeout.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

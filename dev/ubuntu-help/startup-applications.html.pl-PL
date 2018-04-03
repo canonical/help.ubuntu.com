@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Startup Applications</title>
+<title>Programy startowe</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,30 +65,21 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Startup Applications</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Programy startowe</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can configure what applications should be started at login, in
-  addition to the default startup applications configured on the system.</p>
+<p class="p">Można skonfigurować programy uruchamiane podczas logowania, a także programy domyślnie uruchamiane.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Use the Dash to find and open
-      <span class="gui">Startup Applications</span>. Alternatively you can press
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and run the
-      <span class="cmd">gnome-session-properties</span> command.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add</span> and enter the command to be executed at login
-      (name and comment are optional). For example, to make Firefox start
-      automatically, it's sufficient to type <span class="cmd">firefox</span> in the
-      <span class="gui">Command</span> field and confirm with <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui">Programy startowe</span> za pomocą <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekranu podglądu</a></span>. Można także nacisnąć klawisze <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> i wykonać polecenie <span class="cmd">gnome-session-properties</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj</span> i wpisz polecenie do wykonywania podczas logowania (nazwa i komentarz są opcjonalne). Na przykład, aby Firefox był automatycznie uruchamiany, wystarczy wpisać <span class="cmd">firefox</span> w polu <span class="gui">Polecenie</span> i potwierdzić przyciskiem <span class="gui">Dodaj</span>.</p></li>
 </ol></div></div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">You can either type the command, or click the <span class="gui">Browse...</span>
-    button and select a command. Applications to autostart are typically
-    located in the <span class="code">/usr/bin</span> folder.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Można wpisać polecenie lub kliknąć przycisk <span class="gui">Przeglądaj…</span> i wybrać polecenie. Programy do automatycznego uruchamiania są zwykle położone w katalogu <span class="code">/usr/bin</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -109,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,17 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Met een verborgen draadloos netwerk verbinden</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">It is possible to set up a wireless network so that it is “hidden.” Hidden
- networks won’t show up in the list of wireless networks displayed in the
- <span class="gui">Network</span> settings. To connect to a hidden wireless network:</p>
+<p class="p">Het is mogelijk een draadloos netwerk zo in te stellen dat het ‘verborgen’ is. Verborgen netwerken worden niet opgenomen in de lijst met draadloos netwerken in de <span class="gui">Netwerk</span>-instellingen. Om verbinding te maken met een verborgen draadloos netwerk:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">Systeemmenu</a></span> aan de rechterzijde van de menubalk.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">system menu</a></span> from the right
+    side of the top bar.</p></li>
 <li class="steps"><p class="p">Selecteer <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Wifi niet verbonden</span>. Het wifi-gedeelte van het menu klapt uit.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Wifi-instellingen</span>.</p></li>
 <li class="steps"><p class="p">Klik op de knop <span class="gui">Met verborgen netwerk verbinden…</span>.</p></li>
@@ -83,16 +82,9 @@
 <li class="steps"><p class="p">Voer het wachtwoord of andere veiligheidsinformatie in.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Verbinden</span>.</p></li>
 </ol></div></div></div>
-<p class="p">You may have to check the settings of the wireless access point or router
-  to see what the network name is. If you don’t have the network name (SSID),
-  you can use the <span class="em">BSSID</span> (Basic Service Set Identifier, the access
-  point’s MAC address), which looks something like <span class="gui">02:00:01:02:03:04</span>
-  and can usually be found on the underside of the access point.</p>
+<p class="p">Mogelijk moet u de instellingen van het draadloos basisstation of router controleren om te zien wat de naam van het netwerk is. Als u de netwerknaam (SSID) niet heeft, kunt u de gebruik maken van <span class="em">BSSID</span> (Basic Service Set Identifier, het MAC-adres van het basisstation), dat er ongeveer zo uit ziet: <span class="gui">02:00:01:02:03:04</span>. Dit is doorgaans te vinden aan de onderkant van het basisstation.</p>
 <p class="p">U dient ook de beveiligingsinstellingen van het draadloos basisstation te controleren. Zoek naar termen zoals WEP en WPA.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">You may think that hiding your wireless network will improve security by
- preventing people who don’t know about it from connecting. In practice, this
- is not the case; the network is slightly harder to find but it is still
- detectable.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">U zou kunnen denken dat het verbergen van uw draadloos netwerk de veiligheid zal verbeteren door te voorkomen dat mensen die er geen weet van hebben verbinding maken. In de praktijk is dit niet het geval; het netwerk is iets moeilijker te vinden maar het kan worden opgespoord.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -100,18 +92,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-find.html.nl" title="I can’t see my wireless network in the list">I can’t see my wireless network in the list</a><span class="desc"> — The wireless could be turned off or broken, or you may be trying to
-    connect to a hidden network.</span>
+<a href="net-wireless-find.html.nl" title="Ik zie mijn draadloos netwerk niet in de lijst">Ik zie mijn draadloos netwerk niet in de lijst</a><span class="desc"> — Het draadloos-apparaat kan uitgeschakeld of stuk zijn, of misschien probeert u te verbinden met een verborgen netwerk.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -123,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

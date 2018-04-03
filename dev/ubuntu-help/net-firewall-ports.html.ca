@@ -78,30 +78,28 @@
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Port</p></td>
-<td><p class="p">Name</p></td>
-<td><p class="p">Description</p></td>
+<td><p class="p">Nom</p></td>
+<td><p class="p">Descripció</p></td>
 </tr></thead>
 <tbody>
 <tr class="shade">
 <td><p class="p">5353/udp</p></td>
 <td><p class="p">mDNS, Avahi</p></td>
-<td><p class="p">Allows systems to find each other, and describe which services
-          they offer, without you having to specify the details manually.</p></td>
+<td><p class="p">Permet que els sistemes es trobin entre ells i descriguin els serveis que ofereixen, sense que s'hagin d'especificar els detalls manualment.</p></td>
 </tr>
 <tr>
 <td><p class="p">631/udp</p></td>
-<td><p class="p">Printing</p></td>
-<td><p class="p">Allows you to send print jobs to a printer over the network.</p></td>
+<td><p class="p">Imprimint</p></td>
+<td><p class="p">Permet enviar treballs d'impressió a una impressora a través de la xarxa.</p></td>
 </tr>
 <tr class="shade">
 <td><p class="p">631/tcp</p></td>
-<td><p class="p">Printing</p></td>
-<td><p class="p">Allows you to share your printer with other people over the
-          network.</p></td>
+<td><p class="p">Imprimint</p></td>
+<td><p class="p">Permet compartir la vostra impressora amb altres persones a través de la xarxa.</p></td>
 </tr>
 <tr>
 <td><p class="p">5298/tcp</p></td>
-<td><p class="p">Presence</p></td>
+<td><p class="p">Presencia</p></td>
 <td><p class="p">Allows you to advertise your instant messaging status to other
           people on the network, such as “online” or “busy”.</p></td>
 </tr>
@@ -148,7 +146,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

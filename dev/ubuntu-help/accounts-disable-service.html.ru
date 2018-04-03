@@ -81,14 +81,16 @@
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Нажмите на <span class="gui">Сетевые учётные записи</span>, чтобы открыть этот раздел настроек.</p></li>
-<li class="steps"><p class="p">Выберите из списка слева учётную запись, которую хотите изменить.</p></li>
+<li class="steps"><p class="p">Select the account which you want to change from the list on the
+      right.</p></li>
 <li class="steps"><p class="p">A list of services that are available with this account will be
       shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html.ru" title="Online services and applications">Online services and applications</a></span>
       to see which applications access which services.</p></li>
 <li class="steps"><p class="p">Отключите любые службы, которые вам не нужны.</p></li>
 </ol></div></div></div>
 <p class="p">Как только для учётной записи была отключена какая-либо служба, приложения компьютера больше не смогут использовать эту учётную запись для подключения к этой службе.</p>
-<p class="p">Чтобы включить отключённую ранее службу, просто вернитесь в окно <span class="gui">Сетевые учётные записи</span> и включите её.</p>
+<p class="p">To turn on a service that you disabled, just go back to the <span class="gui">Online
+  Accounts</span> panel and switch it on.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -124,7 +126,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

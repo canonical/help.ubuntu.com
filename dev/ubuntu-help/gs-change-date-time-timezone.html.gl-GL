@@ -97,18 +97,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.gl-GL" title="Comezando">Comezar con GNOME</a><span class="desc"> — É novo en GNOME? Aprenda a como moverse.</span>
+<a href="getting-started.html.gl-GL" title="Comezando">Comezar con GNOME</a><span class="desc"> — É novo en GNOME? Aprenda como moverse.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html.gl-GL" title="Data e hora">Data e hora</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html.gl-GL" title="Cambiar a hora e data">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.gl-GL" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html.gl-GL" title="Data e hora">Data e hora</a><span class="desc"> — <span class="link"><a href="clock-set.html.gl-GL" title="Cambiar a hora e data">Estabelecer a data e a hora</a></span>, <span class="link"><a href="clock-world.html.gl-GL" title="Engadir un reloxo do mundo">reloxos do mundo</a></span> <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">fuso horario</a></span>, <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">calendario e citas</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -120,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

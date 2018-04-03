@@ -64,32 +64,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-windows" title="Praca z oknami">Okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-windows" title="Praca z oknami">Okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Przenoszenie i zmienianie rozmiaru okien</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can move and resize windows to help you work more efficiently. In
-  addition to the dragging behavior you might expect, GNOME features shortcuts
-  and modifiers to help you arrange windows quickly.</p>
+<p class="p">Można przenosić i zmieniać rozmiar okien, aby wydajniej pracować. Poza przeciąganiem okien GNOME zawiera skróty i modyfikatory pomagające szybko porządkować okna.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
-      <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> and drag anywhere in the
-      window. Hold down <span class="key"><kbd>Shift</kbd></span> while moving to snap the window to the
-      edges of the screen and other windows.</p></li>
-<li class="list"><p class="p">Resize a window by dragging the edges or corner of the window. Hold
-      down <span class="key"><kbd>Shift</kbd></span> while resizing to snap the window to the edges
-      of the screen and other windows.</p></li>
-<li class="list"><p class="p">Move or resize a window using only the keyboard. Press
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> to move a window or
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> to resize. Use the arrow
-      keys to move or resize, then press <span class="key"><kbd>Enter</kbd></span> to finish, or press
-      <span class="key"><kbd>Esc</kbd></span> to return to the original position and size.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.pl-PL" title="Maksymalizowanie i cofanie maksymalizacji okna">Maximize a window</a></span> by
-      dragging it to the top of the screen. Drag a window to one side of the
-      screen to maximize it along the side, allowing you to
-      <span class="link"><a href="shell-windows-tiled.html.pl-PL" title="Tile windows">tile windows side by side</a></span>.</p></li>
+<li class="list"><p class="p">Przenieś okno przeciągając pasek tytułu lub przytrzymując klawisz <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> i przeciągając w dowolnym miejscu okna. Przytrzymaj klawisz <span class="key"><kbd>Shift</kbd></span> podczas przenoszenia, aby przyciągnąć okno do krawędzi ekranu lub innych okien.</p></li>
+<li class="list"><p class="p">Zmień rozmiar okna przeciągając jego krawędzi lub róg. Przytrzymaj klawisz <span class="key"><kbd>Shift</kbd></span> podczas zmieniania rozmiaru, aby przyciągnąć okno do krawędzi ekranu lub innych okien.</p></li>
+<li class="list"><p class="p">Przenieś lub zmień rozmiar tylko za pomocą klawiatury. Naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span>, aby przenieść okno lub <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span>, aby zmienić rozmiar. Użyj klawiszy strzałek do przeniesienia lub zmiany rozmiaru, a następnie naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>, aby ukończyć lub <span class="key"><kbd>Esc</kbd></span>, aby wrócić do pierwotnego położenia i rozmiaru.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.pl-PL" title="Maksymalizowanie i cofanie maksymalizacji okna">Zmaksymalizuj okno</a></span> przeciągając je do góry ekranu. Przeciągnij okno do jednej ze stron ekranu, aby zmaksymalizować je po tej stronie, umożliwiając <span class="link"><a href="shell-windows-tiled.html.pl-PL" title="Układanie okien">ułożenie ich obok siebie</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -106,7 +92,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

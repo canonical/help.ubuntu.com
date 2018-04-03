@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,7 +77,7 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Alue- ja kieliasetukset</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.fi" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.fi" title="Käytä vaihtoehtoisia näppäimistöasetteluja">Käytä vaihtoehtoisia näppäimistöasetteluja</a><span class="desc"> — Lisää näppäimistöasetteluja ja vaihtele niiden välillä.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
@@ -93,13 +93,10 @@
 <a href="keyboard-osk.html.fi" title="Käytä virtuaalinäppäimistöä">Käytä virtuaalinäppäimistöä</a><span class="desc"> — Käytä virtuaalinäppäimistöä kirjoittaaksesi tekstiä hiiren tai kosketuslevyn avulla.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html.fi" title="Mikä on Menu-näppäin?">Mikä on <span class="key"><kbd>Menu</kbd></span>-näppäin?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
-    rather than with a right-click.</span>
+<a href="keyboard-key-menu.html.fi" title="Mikä on Menu-näppäin?">Mikä on <span class="key"><kbd>Menu</kbd></span>-näppäin?</a><span class="desc"> — <span class="key"><kbd>Menu</kbd></span>-näppäin avaa näppäimistöllä kontekstivalikon hiiren oikean painikkeella napsauttamisen sijaan.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?">Mikä on <span class="key"><kbd>Super</kbd></span>-näppäin?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
-    You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
-    keyboard.</span>
+<a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?">Mikä on <span class="key"><kbd>Super</kbd></span>-näppäin?</a><span class="desc"> — <span class="key"><kbd>Super</kbd></span>-näppäin avaa <span class="gui">Toiminnot</span>-yleisnäkymän. Super-näppäin on yleensä näppäimistössä <span class="key"><kbd>Alt</kbd></span>-näppäimen vieressä.</span>
 </li>
 <li class="links ">
 <a href="keyboard-nav.html.fi" title="Näppäimistöllä liikkuminen">Näppäimistöllä liikkuminen</a><span class="desc"> — Käytä sovelluksia ja työpöytää ilman hiirtä.</span>
@@ -151,7 +148,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

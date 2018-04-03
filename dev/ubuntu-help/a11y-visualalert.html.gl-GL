@@ -73,7 +73,7 @@
 <p class="p">O seu computador reproducirá unha alerta sonora simple para certos tipos de mensaxes e eventos. Se cree que é molesto escoitar estes sons, pode facer que tanto a pantalla completa como a xanela actual pestanexen cando unha alerta de son se reproduza.</p>
 <p class="p">Isto pode ser útil se está nun ambiente onde precisa que o seu computador sexa silencioso, como nunha biblioteca. Vexa <span class="link"><a href="sound-alert.html.gl-GL" title="Seleccione ou desactive as alertas de son">Seleccione ou desactive as alertas de son</a></span> para aprender como silenciar as alertas de son e activar as alertas visuais.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Prema sobre <span class="gui">Acceso universal</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Abra <span class="gui">Alertas visuais</span> e seleccione a lapela <span class="gui">Audición</span>.</p></li>
 <li class="steps"><p class="p">Troque <span class="gui">Alertas visuais</span> a <span class="gui">I</span>.</p></li>
@@ -103,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

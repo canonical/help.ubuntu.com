@@ -65,55 +65,29 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Verbinden met een VPN</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A VPN (or <span class="em">Virtual Private Network</span>) is a way of connecting to a
- local network over the internet. For example, say you want to connect to the
- local network at your workplace while you’re on a business trip. You would
- find an internet connection somewhere (like at a hotel) and then connect to
- your workplace’s VPN. It would be as if you were directly connected to the
- network at work, but the actual network connection would be through the
- hotel’s internet connection. VPN connections are usually <span class="em">encrypted</span>
- to prevent people from accessing the local network you’re connecting to
- without logging in.</p>
-<p class="p">There are a number of different types of VPN. You may have to install some
- extra software depending on what type of VPN you’re connecting to. Find out
- the connection details from whoever is in charge of the VPN and see which
- <span class="em">VPN client</span> you need to use. Then, go to the software installer
- application and search for the <span class="app">NetworkManager</span> package which works
- with your VPN (if there is one) and install it.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">If there isn’t a NetworkManager package for your type of VPN, you will
- probably have to download and install some client software from the company
- that provides the VPN software. You’ll probably have to follow some different
- instructions to get that working.</p></div></div></div></div>
+<p class="p">Een VPN (of <span class="em">Virtual Private Network</span>) is een manier om te verbinden met een lokaal netwerk via internet. Stel, bijvoorbeeld, dat u verbinding wilt maken met het lokale netwerk op uw werkplek terwijl u op zakenreis bent. U zou ergens (zoals in een hotel) een internetverbinding kunnen maken en dan verbinding maken met het VPN van uw werkplek. Het zou zijn alsof u direct verbonden was met het netwerk op het werk, maar de eigenlijke netwerkverbinding zou zijn via de internetverbinding van het hotel. VPN-verbindingen zijn meestal <span class="em">versleuteld</span> om te voorkomen dat mensen zonder in te loggen toegang krijgen tot het lokale netwerk waarmee u verbinding heeft.</p>
+<p class="p">Er zijn verschillende soorten VPN. U dient mogelijk enige extra software te installeren, afhankelijk van het type VPN waarmee u verbindt. Ga na wat de verbindingsdetails zijn bij degene die verantwoordelijk is voor het VPN en kijk welke <span class="em">VPN-client</span> u moet gebruiken. Ga daarna naar de software-installatie-toepassing en zoek naar het <span class="app">netwerkbeheer</span>-pakket dat werkt met uw VPN (als er een is) en installeer dat.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als er geen netwerkbeheerpakket is voor uw type VPN, dan zult u waarschijnlijk client-software moeten downloaden en installeren van het bedrijf dat de VPN-software levert. U zult mogelijk wat andere instructies moeten volgen om dat werkend te krijgen.</p></div></div></div></div>
 <p class="p">Om de VPN-verbinding in te stellen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Aan de onderkant van de lijst aan de linkerkant, klik op de <span class="gui">+</span>-knop om een nieuwe verbinding toe te voegen.</p></li>
+<li class="steps"><p class="p">Aan de onderkant van de lijst aan de linkerkant, klik op de <span class="key"><kbd>+</kbd></span>-knop om een nieuwe verbinding toe te voegen.</p></li>
 <li class="steps"><p class="p">Kies <span class="gui">VPN</span> in de interface-lijst.</p></li>
 <li class="steps"><p class="p">Kies welk soort VPN-verbinding u heeft.</p></li>
 <li class="steps"><p class="p">Vul de VPN-verbindingsdetails in en druk daarna op <span class="gui">Toevoegen</span> als u klaar bent.</p></li>
-<li class="steps"><p class="p">When you have finished setting-up the VPN, open the
-      <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">system menu</a></span> from the right side of
-      the top bar, click <span class="gui">VPN off</span> and select <span class="gui">Connect</span>. You
-      may need to enter a password for the connection before it is established.
-      Once the connection is made, you will see a lock shaped icon in the top
-      bar.</p></li>
-<li class="steps"><p class="p">Hopefully you will successfully connect to the VPN. If not, you may
-      need to double-check the VPN settings you entered. You can do this from
-      the <span class="gui">Network</span> panel that you used to create the connection.
-      Select the VPN connection from the list, then press the
-<span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to review the settings.</p></li>
-<li class="steps"><p class="p">To disconnect from the VPN, click the system menu on the top bar and
-      click <span class="gui">Turn Off</span> under the name of your VPN connection.</p></li>
+<li class="steps"><p class="p">Als u klaar bent met het instellen van de VPN, open dan het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">systeemmenu</a></span> rechts in de bovenbalk, klik op <span class="gui">VPN uit</span> en kies <span class="gui">Verbinden</span>. Mogelijk dient u, voordat de verbinding tot stand kan worden gebracht, een wachtwoord in te voeren. Zodra er verbinding is ziet u een slotvormig pictogram in de bovenbalk.</p></li>
+<li class="steps"><p class="p">Hopelijk zult u met succes verbinding maken met het VPN. Zo niet, dan moet u misschien de VPN-instellingen die u ingevoerd heeft controleren. U doet dit vanuit het paneel <span class="gui">Netwerk</span> dat u gebruikt heeft om de verbinding aan te maken. Kies uit de lijst VPN-verbinding en druk op de knop <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span> om de instellingen te bekijken.</p></li>
+<li class="steps"><p class="p">Om de verbinding met het VPN te verbreken, klik in de bovenbalk op het systeemmenu en kies <span class="gui">Verbinding verbreken</span> onder de naam van uw VPN-verbinding.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -125,11 +99,7 @@
 <a href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.nl" title="Verbinden met een bekabeld (Ethernet) netwerk">Bekabelde internetverbindingen</a></span>, <span class="link"><a href="net-fixed-ip-address.html.nl" title="Een verbinding met een vast IP-adres aanmaken">Vaste IP-adressen</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -141,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

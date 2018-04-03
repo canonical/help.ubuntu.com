@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -77,6 +77,7 @@
 <a href="#" class="ui-overlay-close" title="Zavřít">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-task-switching.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Přehrát" data-pause-label="Pozastavit"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Přepínání úloh</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="5" data-ttml-end="8"><div class="media-ttml-node media-ttml-p" data-ttml-begin="5" data-ttml-end="8">Přejeďte ukazatelem myši do rohu <span class="gui">Činnosti</span> v levém horním rohu obrazovky.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">Kliknutím na okno se přepnete na příslušnou úlohu.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Aby se okno maximalizovalo podél levé strany obrazovky, uchopte jej za záhlaví a přetáhněte doleva.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">Až se zvýrazní polovina obrazovky, okno upusťte.</div></div>
@@ -151,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -71,6 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">GNOME proporciona el lector de pantalla <span class="app">Orca</span> para leer la interfaz de usuario. Dependiendo de cómo haya instalado GNOME, puede no tener Orca instalado. Si no lo tiene, instale Orca primero.</p>
+<p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Instalar Orca</a></span></p>
 <p class="p">Para iniciar <span class="app">Orca</span> usando el teclado:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Pulse <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
 <p class="p">O para iniciar <span class="app">Orca</span> usando el teclado y el ratón:</p>
@@ -107,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

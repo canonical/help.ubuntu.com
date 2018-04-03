@@ -74,13 +74,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Podo obter unha notificación cando o meu perfil de cor non é preciso?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can be reminded to recalibrate your devices after a specific period of
-  time. Unfortunately, it is not possible to tell without recalibrating whether
-  a device profile is accurate, so it is best to recalibrate devices
-  regularly.</p>
-<p class="p">Some companies have very specific calibration expiry policies for
-  profiles, as an inaccurate color profile can make a huge difference to an end
-  product.</p>
+<p class="p">Podería ser recordado que ten que recalibrar os seus dispositivos despois dun período de tempo. Desafortunadamente, isto non é posíbel dicir, sen recalibrar, se un dispositivo é preciso, polo que o mellor é recalibrar os dispositivos regularmente.</p>
+<p class="p">Algunhas empresas teñen unhas directivas moi específicas para a caducidade das calibracións dos perfís, xa que perfiles de cor imprecisos poden marcar unha diferenza enorme nun produto final.</p>
 <p class="p">If you set the timeout policy and a profile is older than the policy then
   a red warning triangle will be shown in the <span class="gui">Color</span> panel next to
   the profile. A warning notification will also be shown every time you log
@@ -111,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

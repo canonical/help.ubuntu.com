@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="printing.html.nl#problems" title="Printerproblemen">Printerproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="printing.html.nl#problems" title="Printerproblemen">Printerproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een printopdracht annuleren, pauzeren, of  vrijgeven</span></h1></div>
@@ -83,16 +83,9 @@
 <li class="steps"><p class="p">Annuleer de printopdracht door op de stopknop te klikken.</p></li>
 </ol></div>
 </div></div>
-<p class="p">If this does not cancel the print job like you expected, try holding down
-  the <span class="em">cancel</span> button on your printer.</p>
-<p class="p">As a last resort, especially if you have a big print job with a lot of
-  pages that will not cancel, remove the paper from the printer’s paper input
-  tray. The printer should realize that there is no paper and will stop
-  printing. You can then try canceling the print job again, or try turning the
-  printer off and then on again.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Be careful that you don’t damage the printer when removing the paper,
-    though. If you would have to pull hard on the paper to remove it, you
-    should probably just leave it where it is.</p></div></div></div></div>
+<p class="p">Als dit de printopdracht niet annuleert zoals u had verwacht, probeer dan de knop <span class="em">Annuleren</span> van de printer ingedrukt te houden.</p>
+<p class="p">Als laatste redmiddel, vooral als u een grote afdruktaak heeft met veel pagina's en wanneer deze zich niet laat annuleren, kunt u het papier uit de papierlade halen. De printer zal merken dat er geen papier is en stoppen met afdrukken. Daarna kunt u weer proberen om de afdruktaak te annuleren, of de printer uit en weer aan te zetten.</p>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Pas wel op dat u de printer niet beschadigt bij het verwijderen van het papier. Als u te hard moet trekken om het papier te verwijderen, kunt u het beter laten zitten.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="pause-release-print-job" class="sect"><div class="inner">
@@ -122,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

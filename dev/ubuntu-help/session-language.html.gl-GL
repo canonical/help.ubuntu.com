@@ -72,16 +72,15 @@
 <div class="contents">
 <p class="p">Pode usar o seu escritorio e aplicativos en decenas de idiomas, sempre e cando teña instalados no seu computador os paquetes de idiomas axeitados.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Language</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Rexión e idioma</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Rexión e idioma</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Idioma</span>.</p></li>
 <li class="steps"><p class="p">Select your desired region and language. If your region and language
       are not listed, click
       <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span>
       at the bottom of the list to select from all available regions and
       languages.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Done</span> to save.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Feito</span> para gardar.</p></li>
 <li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
       changes to take effect</span> by clicking
       <span class="gui">Restart Now</span>, or click
@@ -92,6 +91,10 @@
   language in which the software was originally developed, usually American
   English.</p>
 <p class="p">Hai algúns cartafoles especiais no cartafol persoal onde os aplicativos poden almacenar cousas como música, imaxes e documentos. Estes cartafoles usan nomes estándar de acordo ao seu idioma. Cando volva a entrar, preguntaráselle se quere cambiar o nome destes cartafoles cos nomes estándar para o idioma seleccionado. Se vai empregar o novo idioma todo o tempo, debe actualizar os nomes dos cartafoles.</p>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -99,7 +102,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.gl-GL" title="Rexión e idioma">Rexión e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html.gl-GL" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.gl-GL" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">distribucións de teclado</a></span>…</span>
+<a href="prefs-language.html.gl-GL" title="Rexión e idioma">Rexión e idioma</a><span class="desc"> — <span class="link"><a href="session-language.html.gl-GL" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.gl-GL" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar disposicións de teclado alternativas">distribucións de teclado</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -117,7 +120,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

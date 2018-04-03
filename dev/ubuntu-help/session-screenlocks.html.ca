@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="prefs-display.html.ca" title="Display &amp; screen">Display &amp; screen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> › <a class="trail" href="hardware.html.ca#problems" title="Common problems">Problemes</a> » <a class="trail" href="hardware-problems-graphics.html.ca" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> › <a class="trail" href="hardware.html.ca#problems" title="Problemes comuns">Problemes</a> » <a class="trail" href="hardware-problems-graphics.html.ca" title="Screen problems">Screen problems</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -118,10 +118,10 @@
 <a href="privacy-screen-lock.html.ca" title="Automatically lock your screen">Automatically lock your screen</a><span class="desc"> — Prevent other people from using your desktop when you
     go away from your computer.</span>
 </li>
-<li class="links "><a href="shell-exit.html.ca#lock-screen" title="Lock the screen">Lock the screen</a></li>
 <li class="links ">
-<a href="display-blank.html.ca" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
+<a href="display-blank.html.ca" title="Establiu el temps d'entrada en inactivitat de la pantalla">Establiu el temps d'entrada en inactivitat de la pantalla</a><span class="desc"> — Canvieu el temps per entrar en inactivitat de la pantalla per estalviar energia.</span>
 </li>
+<li class="links "><a href="shell-exit.html.ca#lock-screen" title="Lock the screen">Lock the screen</a></li>
 </ul></div>
 </div></div>
 </div>
@@ -133,7 +133,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

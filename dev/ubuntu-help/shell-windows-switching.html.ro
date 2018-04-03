@@ -108,13 +108,22 @@
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
-<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul>
 <li class="links "><a href="shell-overview.html.ro#apps" title="Applications and windows">Applications and windows</a></li>
 <li class="links "><a href="shell-windows.html.ro#working-with-windows" title="Working with windows">Working with windows</a></li>
 </ul></div>
-</div></div></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vezi și</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="gs-switch-tasks.html.ro" title="Comutarea între sarcini">Un ghid despre comutarea între sarcini</a></li>
+<li class="links "><a href="gs-use-windows-workspaces.html.ro" title="Utilizarea ferestrelor și a spațiilor de lucru">Un ghid pentru utilizarea ferestrelor și a spațiilor de lucru</a></li>
+</ul></div>
+</div></div>
+</div>
 </div>
 </div>
 <div class="clear"></div>
@@ -123,7 +132,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

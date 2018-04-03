@@ -85,6 +85,10 @@
 </ol></div></div></div>
 <p class="p">Certaines traductions peuvent être incomplètes et certaines applications peuvent ne pas prendre du tout en charge votre langue. Tout texte non traduit apparaît dans la langue où il a été développé, généralement l'anglais américanisé.</p>
 <p class="p">Votre dossier personnel contient des dossiers prédéfinis où les applications peuvent stocker entre autres de la musique, des images ou des documents. Ces dossiers ont des noms standard en fonction de la langue sélectionnée. Quand vous vous reconnecterez, il vous sera demandé si vous souhaitez renommer ces dossier avec les noms standard de la langue sélectionnée. Si vous pensez utiliser la nouvelle langue sélectionnée tout le temps, il est conseillé de mettre à jour les noms de dossier.</p>
+<div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -92,7 +96,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.fr" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html.fr" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html.fr" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">agencement du clavier</a></span>…</span>
+<a href="prefs-language.html.fr" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html.fr" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html.fr" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html.fr" title="Utilisation d'agencements de clavier alternatifs">agencement du clavier</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -110,7 +114,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

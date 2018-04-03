@@ -124,9 +124,6 @@ because suspend is not supported properly by your hardware.</p></div>
 <a href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?">Kaj se zgodi, ko pošljem računalnik v pripravljenost?</a><span class="desc"> — Prehod v stanje pripravljenosti pošlje vaš računalnik v stanje pripravljenosti, da porabi manj energije.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html.sl" title="Kako dam računalnik v mirovanje?">Kako dam računalnik v mirovanje?</a><span class="desc"> — Mirovanje je privzeto onemogočeno, ker ni dobro podprto.</span>
-</li>
-<li class="links ">
 <a href="power-nowireless.html.sl" title="Ko računalnik povrnem iz stanja pripravljenosti, nimam brezžičnega omrežja">Ko računalnik povrnem iz stanja pripravljenosti, nimam brezžičnega omrežja</a><span class="desc"> — Nekatere brezžične naprave imajo težave z upravljanjem, ko je vaš računalnik poslan v stanje pripravljenosti in se ne povrne pravilno.</span>
 </li>
 <li class="links ">
@@ -143,7 +140,7 @@ because suspend is not supported properly by your hardware.</p></div>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

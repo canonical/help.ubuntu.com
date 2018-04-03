@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>The internet seems slow</title>
+<title>Internet jest wolny</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,66 +64,38 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">The internet seems slow</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Internet jest wolny</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you are using the internet and it seems slow, there are a number of
-  things that could be causing the slow down.</p>
-<p class="p">Try closing your web browser and then re-opening it, and disconnecting
-  from the internet and then reconnecting again. (Doing this resets a lot of
-  things that might be causing the internet to run slowly.)</p>
+<p class="p">Jeśli Internet wydaje się wolno działać, to może być tego wiele przyczyn.</p>
+<p class="p">Spróbuj zamknąć przeglądarkę WWW i ponownie ją uruchomić, oraz rozłączyć Internet i ponownie się połączyć. Zresetuje to wiele rzeczy mogących powodować wolne działanie Internetu.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p"><span class="em-bold em">Busy time of day</span></p>
-<p class="p">Internet service providers commonly setup internet connections so that
-      they are shared between several households. Even though you connect
-      separately, through your own phone line or cable connection, the
-      connection to the rest of the internet at the telephone exchange might
-      actually be shared. If this is the case and lots of your neighbors are
-      using the internet at the same time as you, you might notice a slow-down.
-      You’re most likely to experience this at times when your neighbors are
-      probably on the internet (in the evenings, for example).</p>
+<p class="p"><span class="em-bold em">Godziny szczytu</span></p>
+<p class="p">Dostawcy Internetu najczęściej ustawiają połączenia internetowe w taki sposób, że są one dzielone między kilkoma gospodarstwami. Chociaż użytkownik łączy się niezależnie, przez własną linię telefoniczną lub kablową, połączenie z Internetem może być dzielone w centrali telefonicznej. Jeśli tak jest i wielu sąsiadów używa Internetu w tym samym czasie (np. wieczorem), to można zaobserwować spowolnienie.</p>
 </li>
 <li class="list">
-<p class="p"><span class="em-bold em">Downloading lots of things at once</span></p>
-<p class="p">If you or someone else using your internet connection are downloading
-      several files at once, or watching videos, the internet connection might
-      not be fast enough to keep up with the demand. In this case, it will feel
-      slower.</p>
+<p class="p"><span class="em-bold em">Pobieranie wielu rzeczy naraz</span></p>
+<p class="p">Jeśli ktoś używający połączenia internetowego pobiera kilka plików jednocześnie lub ogląda filmy przez Internet, to połączenie może nie nadążać za zapotrzebowaniem i spowolnić.</p>
 </li>
 <li class="list">
-<p class="p"><span class="em-bold em">Unreliable connection</span></p>
-<p class="p">Some internet connections are just unreliable, especially temporary
-      ones or those in high demand areas. If you are in a busy coffee shop or a
-      conference center, the internet connection might be too busy or simply
-      unreliable.</p>
+<p class="p"><span class="em-bold em">Zawodne połączenie</span></p>
+<p class="p">Niektóre połączenia internetowe są po prostu zawodne, zwłaszcza połączenia tymczasowe i w miejscach z wieloma użytkownikami, np. w ruchliwej kawiarni albo centrum konferencyjnym.</p>
 </li>
 <li class="list">
-<p class="p"><span class="em-bold em">Low wireless connection signal</span></p>
-<p class="p">If you’re connected to the internet by wireless (wifi), check the
-      network icon on the top bar to see if you have good wireless signal. If
-      not, the internet may be slow because you don’t have a very strong
-      signal.</p>
+<p class="p"><span class="em-bold em">Niska siła sygnału połączenia bezprzewodowego</span></p>
+<p class="p">Jeśli połączono z siecią bezprzewodowo (Wi-Fi), to sprawdź siłę sygnału na ikonie na górnym pasku.</p>
 </li>
 <li class="list">
-<p class="p"><span class="em-bold em">Using a slower mobile internet connection</span></p>
-<p class="p">If you have a mobile internet connection and notice that it is slow,
-      you may have moved into an area where signal reception is poor. When this
-      happens, the internet connection will automatically switch from a fast
-      “mobile broadband” connection like 3G to a more reliable, but slower,
-      connection like GPRS.</p>
+<p class="p"><span class="em-bold em">Używanie wolniejszego połączenia internetowego, np. komórkowego</span></p>
+<p class="p">Jeśli używane jest komórkowe połączenie internetowe i zdaje się być wolne, to być może siła sygnału jest słaba w danym miejscu. Jeśli tak się stanie, to połączenie internetowe zostanie automatycznie przełączone z szybkiego połączenia komórkowego, takiego jak 3G, na bardziej niezawodne, ale wolniejsze połączenie, takie jak GPRS.</p>
 </li>
 <li class="list">
-<p class="p"><span class="em-bold em">Web browser has a problem</span></p>
-<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
-      This could be for any number of reasons — you could have visited a
-      website that the browser struggled to load, or you might have had the
-      browser open for a long time, for example. Try closing all of the
-      browser’s windows and then opening the browser again to see if this makes
-      a difference.</p>
+<p class="p"><span class="em-bold em">Błąd przeglądarki WWW</span></p>
+<p class="p">Czasami w przeglądarce internetowej występuje błąd, który spowalnia jej działanie. Błąd może mieć wiele przyczyn — być może odwiedzono stronę, która jest trudna do wczytania, albo przeglądarka była otwarta przez długi czas. Spróbuj zamknąć wszystkie okna przeglądarki i otworzyć je ponownie, co może pomóc.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -132,10 +104,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.pl-PL" title="Mojej sieci bezprzewodowej nie ma na liście">finding your wifi network</a></span>…
-    </span>
+<a href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z połączeniami bezprzewodowymi</a></span>, <span class="link"><a href="net-wireless-find.html.pl-PL" title="Mojej sieci bezprzewodowej nie ma na liście">jak znaleźć swoją sieć Wi-Fi</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -146,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

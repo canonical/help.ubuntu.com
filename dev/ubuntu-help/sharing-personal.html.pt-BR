@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Você pode permitir acesso a sua pasta <span class="file">Público</span> no seu diretório <span class="file">Home</span> (pasta pessoal) a outros computadores da rede. Configure <span class="gui">Compartilhamento de arquivos pessoais</span> para permitir que outras pessoas acessem o conteúdo da pasta.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Você deve ter o pacote <span class="app">gnome-user-share</span> instalado para que <span class="gui">Compartilhamento de arquivos pessoais</span> esteja visível.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Você deve ter o pacote <span class="app">gnome-user-share</span> instalado para que <span class="gui">Compartilhamento de arquivos pessoais</span> esteja visível.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-user-share" title="apt:gnome-user-share">Instalar gnome-user-share</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Compartilhamento</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Compartilhamento</span> para abrir o painel.</p></li>
@@ -125,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

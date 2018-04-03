@@ -67,9 +67,9 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ca" title="Accés universal">Accés universal</a> › <a class="trail" href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">Discapacitats de mobilitat</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="keyboard.html.ca" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="keyboard.html.ca" title="Teclat">Teclat</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="keyboard.html.ca" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="keyboard.html.ca" title="Teclat">Teclat</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -78,28 +78,20 @@
 <div class="contents">
 <p class="p">Activeu les <span class="em">tecles lentes</span> si voleu que hi hagi un retard entre la pulsació d'una tecla i l'aparició a la pantalla de la lletra associada. D'aquesta manera, haureu de mantenir premuda cada tecla que voleu escriure durant uns instants abans que aparegui. Utilitzeu les tecles lentes si acostumeu a prémer més d'una lletra alhora de forma accidental mentre escriviu, o si teniu dificultats per prémer la tecla correcta del teclat la primera vegada.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Obriu la descripció general de les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span>  i comenceu a escriure  <span class="gui">Accés Universal</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per obrir el quadre.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Typing Assist (AccessX)</span> in the <span class="gui">Typing</span>
-      section.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Slow Keys</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Assistència d'escriptura (AccessX)</span> a la secció <span class="gui">Escriptura</span>.</p></li>
+<li class="steps"><p class="p">Canvieu les<span class="gui">Tecles lentes</span> a <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Suggeriment"><div class="inner">
-<div class="title title-note"><h2><span class="title">Quickly turn slow keys on and off</span></h2></div>
+<div class="title title-note"><h2><span class="title">Activeu i desactiveu les tecles lentes ràpidament</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Under <span class="gui">Enable by Keyboard</span>, select
-    <span class="gui">Turn on accessibility features from the keyboard</span> to
-    turn slow keys on and off from the keyboard. When this option is selected,
-    you can press and hold <span class="key"><kbd>Shift</kbd></span> for eight seconds to enable or
-    disable slow keys.</p>
+<p class="p">A <span class="gui">Activa per Teclat</span>, seleccioneu <span class="gui">Activar les funcions d'accessibilitat des del teclat</span> per activar i desactivar les tecles lentes. Quan es selecciona aquesta opció, podeu mantenir premut <span class="key"><kbd>Shift</kbd></span> fdurant vuit segons per activar o desactivar les tecles lentes.</p>
 <p class="p">També podeu activar les tecles lentes si feu clic a la <span class="link"><a href="a11y-icon.html.ca" title="Trobar el menú d'accés universal">icona d'accessibilitat</a></span> de la barra superior i seleccioneu <span class="gui">Tecles lentes</span>. La icona d'accessibilitat només es mostra si s'ha activat alguna opció en el quadre d'<span class="gui">Accés universal</span>.</p>
 </div></div>
 </div></div>
 <p class="p">Utilitzeu la barra lliscant del <span class="gui">Retard d'acceptació</span> per controlar quanta estona heu de mantenir premuda una tecla perquè s'enregistri l'esdeveniment.</p>
-<p class="p">You can have your computer make a sound when you press a key, when a key
-  press is accepted, or when a key press is rejected because you didn’t hold
-  the key down long enough.</p>
+<p class="p">Podeu fer que l'ordinador faci un so quan es prem una tecla, quan s'accepta, o quan es rebutja perquè no ha estat prou temps premuda.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -108,7 +100,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">Discapacitats de mobilitat</a></li>
 <li class="links ">
-<a href="keyboard.html.ca" title="Keyboard">Keyboard</a><span class="desc"> — 
+<a href="keyboard.html.ca" title="Teclat">Teclat</a><span class="desc"> — 
       <span class="link"><a href="keyboard-layouts.html.ca" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
       <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Make the keyboard cursor blink">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">keyboard accessibility</a></span>…
@@ -124,7 +116,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

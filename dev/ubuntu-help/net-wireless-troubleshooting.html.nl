@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,9 +75,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Probleemoplosser draadloos netwerk</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">This is a step-by-step troubleshooting guide to help you identify and fix
-  wireless problems. If you cannot connect to a wireless network for some
-  reason, try following the instructions here.</p>
+<p class="p">Dit is een stap-voor-stap hulp voor het identificeren en oplossen van problemen met draadloos netwerken. Als u om een of andere reden geen verbinding met een draadloos netwerk kunt krijgen, probeer dan de volgende instructies op te volgen.</p>
 <p class="p">We zullen de volgende stappen doorlopen om uw computer te verbinden met het internet:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p">Uitvoeren van een initiële controle.</p></li>
@@ -90,14 +88,8 @@
 <div class="note" title="Opmerking"><div class="inner">
 <div class="title title-note"><h2><span class="title">De opdrachtregel gebruiken</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Some of the instructions in this guide ask you to type commands into the
-    <span class="em">command line</span> (Terminal). You can find the <span class="app">Terminal</span> application in
-    the <span class="gui">Activities</span> overview.</p>
-<p class="p">If you are not familiar with using a command line, don’t worry — this
-    guide will direct you at each step. All you need to remember is that
-    commands are case-sensitive (so you must type them <span class="em">exactly</span> as they
-    appear here), and to press <span class="key"><kbd>Enter</kbd></span> after typing each command to
-    run it.</p>
+<p class="p">Bij sommige van de instructies in deze handleiding wordt u gevraagd om opdrachten in te typen op de <span class="em">opdrachtregel</span> (Terminal). U vindt de <span class="app">terminaltoepassing</span> in het <span class="gui">Activiteiten</span>-overzicht.</p>
+<p class="p">Maakt u zich geen zorgen als u niet bekend bent met de opdrachtregel — deze handleiding zal u door elke stap leiden. Het is belangrijk om te onthouden dat opdrachten hoofdlettergevoelig zijn (daarom dient u ze <span class="em">precies</span> in te typen zoals ze hier weergegeven worden), en dat u na het typen op <span class="key"><kbd>Enter</kbd></span> moet drukken om de opdracht uit te voeren.</p>
 </div></div>
 </div></div>
 </div>
@@ -109,11 +101,7 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
 </li>
 <li class="links "><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardwareproblemen</a></li>
 </ul></div>
@@ -121,7 +109,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinding maken met een draadloos netwerk</a><span class="desc"> — Get on the internet — wirelessly.</span>
+<a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinding maken met een draadloos netwerk</a><span class="desc"> — Het internet op gaan - draadloos.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -133,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

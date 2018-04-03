@@ -64,70 +64,53 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » <a class="trail" href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » <a class="trail" href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencje zachowania menedżera plików</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can control whether you single-click or double-click files, how
-executable text files are handled, and the trash behavior. Click
-<span class="gui">Files</span> in the top bar, pick <span class="gui">Preferences</span> and select the <span class="gui">Behavior</span> tab.</p></div>
+<div class="contents"><p class="p">Można zdecydować, czy otwierać pliki pojedynczym lub podwójnym kliknięciem, jak obsługiwać wykonywalne pliki tekstowe i jak kosz ma się zachowywać. Kliknij <span class="gui">Pliki</span> na górnym pasku, wybierz <span class="gui">Preferencje</span> i kartę <span class="gui">Zachowanie</span>.</p></div>
 <div id="behavior" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zachowanie</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Single click to open items</span></dt>
-<dt class="terms"><span class="gui">Double click to open items</span></dt>
-<dd class="terms"><p class="p">By default, clicking selects files and double-clicking opens them.
-  You can instead choose to have files and folders open when you click on
-  them once. When you use single-click mode, you can hold down the
-  <span class="key"><kbd>Ctrl</kbd></span> key while clicking to select one or more files.</p></dd>
+<dt class="terms"><span class="gui">Przez pojedyncze kliknięcie</span></dt>
+<dt class="terms"><span class="gui">Przez podwójne kliknięcie</span></dt>
+<dd class="terms"><p class="p">Domyślnie kliknięcie zaznacza pliki, a podwójne kliknięcie je otwiera. Zamiast tego można wybrać otwieranie plików i katalogów po jedynym kliknięciu. W trybie otwierania przez pojedyncze kliknięcie można przytrzymać klawisz <span class="key"><kbd>Ctrl</kbd></span> podczas klikania, aby zaznaczyć jeden lub więcej plików.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div id="executable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Wykonywalne pliki tekstowe</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">An executable text file is a file that contains a program that you can run
- (execute). The <span class="link"><a href="nautilus-file-properties-permissions.html.pl-PL" title="Ustawianie uprawnień plików">file
- permissions</a></span> must also allow for the file to run as a program. The most
- common are <span class="sys">Shell</span>, <span class="sys">Python</span> and <span class="sys">Perl</span> scripts.
- These have extensions <span class="file">.sh</span>, <span class="file">.py</span> and <span class="file">.pl</span>,
- respectively.</p>
-<p class="p">When you open an executable text file, you can select from:</p>
+<p class="p">Wykonywalny plik tekstowy to plik zawierający program, który można uruchamiać (wykonywać). <span class="link"><a href="nautilus-file-properties-permissions.html.pl-PL" title="Ustawianie uprawnień plików">Uprawnienia pliku</a></span> muszą także zezwalać na wykonywanie pliku jako programu. Najczęściej są to skrypty <span class="sys">powłoki</span>, języka <span class="sys">Python</span> i <span class="sys">Perl</span>. Mają one rozszerzenia <span class="file">.sh</span>, <span class="file">.py</span> i <span class="file">.pl</span>.</p>
+<p class="p">Podczas otwierania wykonywalnego pliku tekstowego można wybrać:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Run executable text files when they are opened</span></p></li>
-<li class="list"><p class="p"><span class="gui">View executable text files when they are opened</span></p></li>
-<li class="list"><p class="p"><span class="gui">Ask each time</span></p></li>
+<li class="list"><p class="p"><span class="gui">Uruchamianie</span></p></li>
+<li class="list"><p class="p"><span class="gui">Wyświetlanie</span></p></li>
+<li class="list"><p class="p"><span class="gui">Pytanie, co robić</span></p></li>
 </ul></div></div></div>
-<p class="p">If <span class="gui">Ask each time</span> is selected, a dialog will pop up asking if you
- wish to run or view the selected text file.</p>
-<p class="p">Executable text files are also called <span class="em">scripts</span>. All scripts in the
- <span class="file">~/.local/share/nautilus/scripts</span> folder will appear in the context
- menu for a file under the <span class="gui">Scripts</span> submenu. When a
- script is executed from a local folder, all selected files will be pasted to
- the script as parameters. To execute a script on a file:</p>
+<p class="p">Wybranie <span class="gui">Pytanie, co robić</span> wyświetli okno z pytaniem, czy uruchomić lub wyświetlić dany plik tekstowy.</p>
+<p class="p">Wykonywalne pliki tekstowe są także zwane <span class="em">skryptami</span>. Wszystkie skrypty w katalogu <span class="file">~/.local/share/nautilus/scripts</span> będą wyświetlane w menu kontekstowym pliku w podmenu <span class="gui">Skrypty</span>. Kiedy skrypt jest wykonywany z lokalnego katalogu, wszystkie zaznaczone pliki zostaną wklejone do skryptu jako parametry. Aby wykonać skrypt na pliku:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Navigate to the desired folder.</p></li>
-<li class="steps"><p class="p">Select the desired file.</p></li>
-<li class="steps"><p class="p">Right click on the file to open the context menu and select the desired
-    script to execute from the <span class="gui">Scripts</span> menu.</p></li>
+<li class="steps"><p class="p">Przejdź do wybranego katalogu.</p></li>
+<li class="steps"><p class="p">Zaznacz wybrany plik.</p></li>
+<li class="steps"><p class="p">Kliknij plik prawym przyciskiem myszy, aby otworzyć menu kontekstowe i wybierz wybrany skrypt do wykonania z menu <span class="gui">Skrypty</span>.</p></li>
 </ol></div></div></div>
-<div class="note note-important" title="Ważne"><div class="inner"><div class="region"><div class="contents"><p class="p">A script will not be passed any parameters when executed from a remote
-  folder such as a folder showing web or <span class="sys">ftp</span> content.</p></div></div></div></div>
+<div class="note note-important" title="Ważne"><div class="inner"><div class="region"><div class="contents"><p class="p">Parametry nie zostaną przekazane do skryptu, kiedy jest wykonywany ze zdalnego katalogu, takiego jak treść WWW lub <span class="sys">FTP</span>.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="trash" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Kosz</span></h2></div>
 <div class="region">
 <div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Ask before emptying the Trash</span></dt>
-<dd class="terms"><p class="p">This option is selected by default.  When emptying the trash, a message will be displayed confirming that you would like to empty the trash or delete files.</p></dd>
+<dt class="terms"><span class="gui">Pytanie przed opróżnieniem kosza</span></dt>
+<dd class="terms"><p class="p">Ta opcja jest domyślnie zaznaczona. Podczas opróżniania kosza wyświetlany będzie komunikat proszący o potwierdzenie, czy na pewno opróżnić kosz lub usunąć pliki.</p></dd>
 </dl></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Proszę zobaczyć także</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html.pl-PL" title="Usuwanie plików i katalogów">Usuwanie plików i katalogów</a><span class="desc"> — Remove files or folders you no longer need.</span>
+<a href="files-delete.html.pl-PL" title="Usuwanie plików i katalogów">Usuwanie plików i katalogów</a><span class="desc"> — Usuwanie niepotrzebnych plików i katalogów.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -138,7 +121,7 @@ executable text files are handled, and the trash behavior. Click
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a><span class="desc"> — Wyświetlanie i ustawianie preferencji menedżera plików.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -149,7 +132,7 @@ executable text files are handled, and the trash behavior. Click
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

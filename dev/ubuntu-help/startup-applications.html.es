@@ -76,7 +76,7 @@
 <div class="contents">
 <p class="p">Puede configurar qué aplicaciones deben arrancarse en el inicio de la sesión, además de las aplicaciones iniciales predeterminadas configuradas en el sistema.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Use el tablero para encontrar y abrir <span class="gui">Aplicaciones al inicio</span>. También puede pulsar <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> y ejecutar la orden <span class="cmd">gnome-session-properties</span>.</p></li>
+<li class="steps"><p class="p">Abra <span class="gui">Aplicaciones al inicio</span> mediante el resumen <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span>. Alternativamente puede presionar <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> y ejecutar la orden <span class="cmd">gnome-session-properties</span>.</p></li>
 <li class="steps"><p class="p">Haga clic en <span class="gui">Añadir</span> y escriba la orden a ejecutar al iniciar la sesión (el nombre y el comentario son opcionales). Por ejemplo, para hacer que Firefox se inicie automáticamente basta con escribir <span class="cmd">firefox</span> en el campo <span class="gui">Orden</span> y confirmarlo con <span class="gui">Añadir</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Puede, o bien escribir la orden, o bien hacer clic en el botón <span class="gui">Examinar...</span> y elegir la orden. Las aplicaciones para arrancarse al inicio normalmente se encuentran en la carpeta <span class="code">/usr/bin</span>.</p></div></div></div></div>
@@ -100,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

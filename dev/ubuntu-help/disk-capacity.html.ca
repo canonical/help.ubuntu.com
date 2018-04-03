@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Check how much disk space is left</title>
+<title>Comproveu la quantitat d'espai al disc que queda</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,51 +67,37 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Check how much disk space is left</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Comproveu la quantitat d'espai al disc que queda</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can check how much disk space is left with <span class="app">Disk Usage Analyzer</span>
- or <span class="app">System Monitor</span>.</p></div>
+<div class="contents"><p class="p">Podeu consultar la quantitat d'espai lliure que  queda al disc amb l'<span class="app">Analitzador d'ús del disc</span> o el <span class="app">Monitor del sistema</span>.</p></div>
 <div id="disk-usage-analyzer" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check with Disk Usage Analyzer</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Consulteu l'analizador d'ús del disc</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To check the free disk space and disk capacity using <span class="app">Disk Usage
-  Analyzer</span>:</p>
+<p class="p">Per consultar la quantitat d'espai lliure que queda al disc utilitzant l'<span class="app">Analitzador d'ús del disc</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Open <span class="app">Disk Usage Analyzer</span> from the <span class="gui">Activities</span>
-      overview. The window will display a list of file locations together with
-      the usage and capacity of each.</p></li>
-<li class="list"><p class="p">Click one of the items in the list to view a detailed summary of the
-      usage for that item. Click the menu button, and then <span class="gui">Scan
-      Folder…</span> or <span class="gui">Scan Remote Folder…</span> to scan a different
-      location.</p></li>
+<li class="list"><p class="p">Obriu  <span class="app">Analitzador d'ús del disc</span> des de la vista general <span class="gui">Activitats</span>. La finestra mostrarà una llista d'ubicacions de fitxers juntament amb l'ús i la capacitat de cadascuna.</p></li>
+<li class="list"><p class="p">Feu clic a un dels elements de la llista per veure un resum detallat de l'ús d'aquest element. Feu clic al botó de menú i, a continuació <span class="gui">Escanejar la carpeta ...</span> o <span class="gui">Escanejar una carpeta remota ...</span> per escanejar una ubicació diferent.</p></li>
 </ul></div></div></div>
-<p class="p">The information is displayed according to <span class="gui">Folder</span>,
-  <span class="gui">Size</span>, <span class="gui">Contents</span> and when the data was last
-  <span class="gui">Modified</span>. See more details in <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/"><span class="app">Disk
-  Usage Analyzer</span></a></span>.</p>
+<p class="p">La informació es mostra segons <span class="gui">Carpeta</span>, <span class="gui">Mida</span>, <span class="gui">Contingut</span> i darrer cop que s'han <span class="gui">Modificat</span> les dades . Veure més detalls a <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/"><span class="app">Analitzador de l'ús del disc</span></a></span>.</p>
 </div></div>
 </div></div>
 <div id="system-monitor" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check with System Monitor</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Comproveu-ho amb el Monitor del sistema</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To check the free disk space and disk capacity with <span class="app">System Monitor</span>:</p>
+<p class="p">Per comprovar l'espai en el disc lliure i la capacitat del disc amb el <span class="app">Monitor del sistema</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="app">System Monitor</span> application from the <span class="gui">Activities</span>
-  overview.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
-  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
-  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
+<li class="steps"><p class="p">Obriu l'aplicació <span class="app">Monitor del sistema</span> des de la vista general d'<span class="gui">Activitats</span>.</p></li>
+<li class="steps"><p class="p">Seleccioneu la pestanya <span class="gui">Sistemes de fitxers</span> per veure les particions del sistema i l'ús de l'espai en disc. La informació es mostra segons <span class="gui">Total</span>, <span class="gui">Lliure</span>, <span class="gui">disponible</span> i <span class="gui">Utilitzat</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="disk-full" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">What if the disk is too full?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Què passa si el disc està massa ple?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the disk is too full you should:</p>
+<p class="p">Si el disc està massa ple podeu:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
-<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html.ca" title="Fer còpies de seguretat dels fitxers importants">backups</a></span> of the important files that
-   you won’t need for a while and delete them from the hard drive.</p></li>
+<li class="list"><p class="p">Elimineu fitxers que no siguin importants o que ja no necessiteu.</p></li>
+<li class="list"><p class="p">Feu <span class="link"><a href="backup-why.html.ca" title="Fer còpies de seguretat dels fitxers importants">copies de seguretat</a></span> dels fitxers importants que no necessitareu durant un temps llarg i elimineu-los del disc dur.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -120,7 +106,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Check how much disk space is left">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Test the performance of your hard disk">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Check your hard disk for problems">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Manage volumes and partitions">volums i particions</a></span>…</span>
+<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu el vostre disc dur per problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -131,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

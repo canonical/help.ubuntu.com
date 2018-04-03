@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Použití alternativního rozložení klávesnice</title>
+<title>Používání alternativního rozložení klávesnice</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,68 +65,37 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » <a class="trail" href="keyboard-shortcuts-set.html.cs" title="Nastavení klávesových zkratek">Nastavení klávesových zkratek</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » <a class="trail" href="keyboard-shortcuts-set.html.cs" title="Nastavení klávesových zkratek">Nastavení klávesových zkratek</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » <a class="trail" href="keyboard-shortcuts-set.html.cs" title="Nastavení klávesových zkratek">Nastavení klávesových zkratek</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » <a class="trail" href="keyboard-shortcuts-set.html.cs" title="Nastavení klávesových zkratek">Nastavení klávesových zkratek</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Použití alternativního rozložení klávesnice</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Používání alternativního rozložení klávesnice</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Pro klávesnice existují stovky rozložení pro různé jazyky. Dokonce i pro jednotlivé jazyky existují různá rozložení klávesnice jako například ergonomické rozložení Dvorak. U své klávesnice si můžete nastavit jakékoli rozložení, bez ohledu na to, jaké symboly máte na klávesách. Hodí se to především pokud často přepínáte mezi různými jazyky.</p>
+<p class="p">Klávesnice existují se stovkami různých rozložení pro různé jazyky. Často i pro jeden jazyk existuje více rozložení klávesnice, jako například rozložení Dvorak pro angličtinu, nebo pro češtinu QERTY. Můžete svoji klávesnici přimět chovat se jako klávesnice s jiným rozložením, než odpovídá popisům na jejích klávesách. To se hodí, když se často přepínáte mezi různými jazyky.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
-      select the language which is associated with the layout, then select a
-      layout and press <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Region a jazyk</span>.</p></li>
+<li class="steps"><p class="p">Kliknutím na <span class="gui">Region a jazyk</span> otevřete příslušný panel.</p></li>
+<li class="steps"><p class="p">Klikněte na tlačítko <span class="gui">+</span> v části <span class="gui">Vstupní zdroje</span>, vyberte jazyk, který patří k danému rozložení, pak vyberte samotné rozložení a zmáčkněte <span class="gui">Přidat</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Some rarely used keyboard layout variants are not available by default when you click
-    the <span class="gui">+</span> button. To make also those input sources available you can open a terminal
-    window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>
-    and run this command:</p>
+<p class="p">Pokud v systému existuje více uživatelských účtů, je v panelu <span class="gui">Region a jazyk</span> zvláštní část pro přihlašovací obrazovku. Kliknutím na tlačítko <span class="gui">Přihlašovací obrazovka</span> v pravém horním rohu se přepínáte mezi oběma nastaveními.</p>
+<p class="p">Některé málo používaná varianty rozložení klávesnice nejsou po kliknutí na tlačítko <span class="gui">+</span> přímo dostupné. Aby byly dostupné i tyto zdroje vstupu, můžete pomocí <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> otevřít okno s terminálem a napsat příkaz:</p>
 <p class="p"><span class="cmd">gsettings set org.gnome.desktop.input-sources show-all-sources true</span></p>
 </div></div></div></div>
-<div class="note note-sidebar" title="Postranní"><div class="inner"><div class="region"><div class="contents"><p class="p">You can preview an image of any layout by selecting it in the list of
-    <span class="gui">Input Sources</span> and clicking
-    <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="preview"></span></span></span></p></div></div></div></div>
-<p class="p">Certain languages offer some extra configuration options. You can
-  identify those languages because they have a
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="preview"></span></span></span> icon next to them. If you want to access
-  these extra parameters, select the language from the <span class="gui">Input Source</span>
-  list and a new
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" height="16" width="16" class="media media-inline" alt="preferences"></span></span></span> button will give you access
-  to the extra settings.</p>
-<p class="p">When you use multiple layouts, you can choose to have all windows use the
-  same layout or to set a different layout for each window. Using a different
-  layout for each window is useful, for example, if you’re writing an article
-  in another language in a word processor window. Your keyboard selection will
-  be remembered for each window as you switch between windows. Press the
-  <span class="gui">Options</span> button to select how you want to manage
-  multiple layouts.</p>
-<p class="p">The top bar will display a short identifier for the current layout, such as
-  <span class="gui">en</span> for the standard English layout. Click the layout indicator and
-  select the layout you want to use from the menu. If the selected language has
-  any extra settings, they will be shown below the list of available layouts.
-  This gives you a quick overview of your settings. You can also open an image
-  with the current keyboard layout for reference.</p>
-<p class="p">The fastest way to change to another layout is by using the 
-  <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
-  the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
-  By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
-  and to the previous one with
-  <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
-  change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
+<div class="note note-sidebar" title="Postranní"><div class="inner"><div class="region"><div class="contents"><p class="p">Můžete si nechat ukázat obrázek s rozložením. Stačí dané rozložení vybrat v seznamu <span class="gui">Vstupní zdroje</span> a kliknout na <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="náhled"></span></span></span>.</p></div></div></div></div>
+<p class="p">Některé jazyky nabízí dodatečné volby nastavení. Tyto jazyky poznáte podle toho, že vedle svého názvu mají ikonu <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="náhled"></span></span></span>. Pokud se k chcete k těmto nastavením dostat, vyberte příslušný jazyk v seznamu <span class="gui">Vstupní zdroj</span> a nové tlačítko <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" height="16" width="16" class="media media-inline" alt="předvolby"></span></span></span> vám poskytne přístup do dodatečných nastavení.</p>
+<p class="p">Když používáte více rozložení klávesnice, můžete si vybrat, jestli mají všechna okna používat to stejné rozložení, nebo má být možné nastavit pro každé okno jiné. Používání různých rozložení u různých oken je například užitečné, když píšete v textovém procesoru článek v odlišném jazyce. Výběr klávesnice se bude pamatovat pro každé okno zvlášť a bude se přepínat zároveň s přepínáním oken. Abyste si mohli vybrat, jak chcete zacházet s více rozloženími, zmáčkněte tlačítko <span class="gui">Volby</span>.</p>
+<p class="p">Na horní liště se zobrazuje zkratkové označení aktuální klávesnice, například <span class="gui">cs</span> pro standardní českou klávesnici. Po kliknutí na toto označení si můžete z nabídky vybrat rozložení, které potřebujete. Pokud má vybraný jazyk nějaká rozšiřující nastavení, zobrazí se pod po ním seznam dostupných rozložení. Tím získáte rychlý přehled o svých nastaveních. Jako pomoc si můžete také otevřít obrázek s aktuálním rozložením klávesnice.</p>
+<p class="p">Nejrychlejším způsobem, jak změnit rozložení klávesnice je použít <span class="gui">Klávesové zkratky</span> <span class="gui">Vstupního zdroje</span>. Tyto klávesové zkratky otevřou výběr <span class="gui">Vstupního zdroje</span>, ve kterém se můžete pohybovat tam a zpět. Standardně se můžete přepnout na následující vstupní zdroj pomocí <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>mezerník</kbd></span></span> a předchozí pomocí <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>mezerník</kbd></span></span>. V nastavení <span class="gui">Klávesnice</span> můžete tyto klávesové zkratky změnit.</p>
 <p class="p"><span class="media"><span class="media media-image"><img src="figures/input-methods-switcher.png" class="media media-inline" alt=""></span></span></p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -136,13 +105,13 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.cs" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html.cs#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
+<a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.cs" title="Používání alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.cs" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html.cs#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
 </li>
 <li class="links ">
 <a href="keyboard-shortcuts-set.html.cs" title="Nastavení klávesových zkratek">Nastavení klávesových zkratek</a><span class="desc"> — Jak definovat nebo změnit klávesové zkratky v nastavení <span class="gui">Klávesnice</span>.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html.cs" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html.cs" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span>
+<a href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html.cs" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html.cs" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html.cs" title="Používání alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -161,7 +130,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

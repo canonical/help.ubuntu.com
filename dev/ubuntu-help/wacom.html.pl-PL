@@ -64,16 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tablet graficzny firmy Wacom</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.pl-PL" title="Konfiguracja rysika"><span class="title">Konfiguracja rysika</span><span class="linkdiv-dash"> — </span><span class="desc">Define the button functions and pressure feel of the Wacom stylus.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.pl-PL" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the tablet between tablet mode and mouse mode.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.pl-PL" title="Use the tablet left-handed"><span class="title">Use the tablet left-handed</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.pl-PL" title="Wybieranie monitora"><span class="title">Wybieranie monitora</span><span class="linkdiv-dash"> — </span><span class="desc">Map the Wacom tablet to a specific monitor.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.pl-PL" title="Konfiguracja rysika"><span class="title">Konfiguracja rysika</span><span class="linkdiv-dash"> — </span><span class="desc">Określanie funkcji przycisków i siły nacisku rysika firmy Wacom.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.pl-PL" title="Ustawianie trybu śledzenia tabletu firmy Wacom"><span class="title">Ustawianie trybu śledzenia tabletu firmy Wacom</span><span class="linkdiv-dash"> — </span><span class="desc">Przełączanie tabletu między trybem tabletu a trybem myszy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.pl-PL" title="Używanie leworęcznego tabletu"><span class="title">Używanie leworęcznego tabletu</span><span class="linkdiv-dash"> — </span><span class="desc">Przełączanie tabletu firmy Wacom na <span class="gui">Orientację leworęczną</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.pl-PL" title="Wybieranie monitora"><span class="title">Wybieranie monitora</span><span class="linkdiv-dash"> — </span><span class="desc">Mapowanie tabletu firmy Wacom do konkretnego monitora.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -91,7 +91,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

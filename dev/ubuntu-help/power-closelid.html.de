@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="power.html.de" title="Energie und Akkus">Energie und Akkus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="power.html.de" title="Energie und Akkus">Energie und Akkus</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="power.html.de" title="Energie und Akkus">Energie und Akkus</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="power.html.de" title="Energie und Akkus">Energie und Akkus</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -81,15 +81,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Den Laptop nicht in Bereitschaft versetzen, wenn er zugeklappt wird</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Wichtig"><div class="inner"><div class="region"><div class="contents"><p class="p">Diese Anweisungen funktionieren nur, wenn sie <span class="app">systemd</span> verwenden. Kontaktieren Sie Ihre Distribution für weitere Informationen.</p></div></div></div></div>
-<div class="note note-important" title="Wichtig"><div class="inner"><div class="region"><div class="contents"><p class="p">Das <span class="app">Optimierungswerkzeug</span> muss auf Ihrem Rechner installiert sein, um diese Einstellung ändern zu können.</p></div></div></div></div>
+<div class="note note-important" title="Wichtig"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Das <span class="app">Optimierungswerkzeug</span> muss auf Ihrem Rechner installiert sein, um diese Einstellung ändern zu können.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Installieren Sie das <span class="app">Optimierungswerkzeug</span></a></span></p>
+</div></div></div></div>
 <p class="p">Wenn Sie nicht wollen, dass Ihr Rechner in Bereitschaft versetzt wird, wenn Sie ihn zuklappen, können Sie die Einstellungen für dieses Verhalten ändern.</p>
 <div class="note note-warning" title="Warnung"><div class="inner"><div class="region"><div class="contents"><p class="p">Seien Sie sehr vorsichtig mit dieser Einstellung. Einige Laptops können überhitzen, wenn Sie bei geschlossenem Deckel eingeschaltet sind, insbesondere, wenn sie sich in einer geschlossenen Umgebung befinden, z.B. in einer Tasche.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Optimierungswerkzeug</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Optimierungswerkzeug</span>, um die Anwendung zu öffnen.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf den Reiter <span class="gui">Energie</span>.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
-      <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Stellen Sie <span class="gui">Bei Schließen des Deckels in Bereitschaft gehen</span> auf <span class="gui">AUS</span>.</p></li>
 <li class="steps"><p class="p">Schließen Sie das Fenster <span class="gui">Optimierungswerkzeug</span>.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -123,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

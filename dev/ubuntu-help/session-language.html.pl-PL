@@ -64,39 +64,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-language.html.pl-PL" title="Region i język">Region i język</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-language.html.pl-PL" title="Region i język">Region i język</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zmiana używanego języka</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can use your desktop and applications in any of dozens of languages,
-  provided you have the proper language packs installed on your computer.</p>
+<p class="p">Można używać pulpitu i programów w setkach języków, jeśli na komputerze zainstalowano odpowiednie pakiety językowe.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Region i język</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Region i język</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Region i język</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Wybierz <span class="gui">Język</span>.</p></li>
-<li class="steps"><p class="p">Select your desired region and language. If your region and language
-      are not listed, click
-      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span>
-      at the bottom of the list to select from all available regions and
-      languages.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Język</span>.</p></li>
+<li class="steps"><p class="p">Wybierz region i język. Jeśli potrzebnego regionu i języka nie ma na liście, to kliknij <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> na dole listy, aby wybrać ze wszystkich dostępnych regionów i języków.</p></li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">Gotowe</span>, aby zapisać.</p></li>
-<li class="steps"><p class="p">Respond to the prompt, <span class="gui">Your session needs to be restarted for
-      changes to take effect</span> by clicking
-      <span class="gui">Restart Now</span>, or click
-      <span class="gui">×</span> to restart later.</p></li>
+<li class="steps"><p class="p">Odpowiedz na komunikat <span class="gui">Sesja musi zostać ponownie uruchomiona, aby zastosować zmiany</span> klikając przycisk <span class="gui">Uruchom ponownie</span> lub <span class="gui">×</span>, aby zrobić to później.</p></li>
 </ol></div></div></div>
-<p class="p">Some translations may be incomplete, and certain applications may not
-  support your language at all. Any untranslated text will appear in the
-  language in which the software was originally developed, usually American
-  English.</p>
-<p class="p">There are some special folders in your home folder where applications
-  can store things like music, pictures, and documents. These folders use
-  standard names according to your language. When you log back in, you will
-  be asked if you want to rename these folders to the standard names for
-  your selected language. If you plan to use the new language all the time,
-  you should update the folder names.</p>
+<p class="p">Część tłumaczeń może być niepełna, a część programów może w ogóle nie obsługiwać jakiegoś języka. Nieprzetłumaczone teksty będą wyświetlane w języku, w którym oryginalnie napisano dane oprogramowanie, co zwykle oznacza amerykańską odmianę angielskiego.</p>
+<p class="p">W katalogu domowym znajdują się specjalne katalogi, w których programy mogą przechowywać takie rzeczy, jak muzyka, zdjęcia i dokumenty. Te katalogi używają standardowych nazw w używanym języku. Po ponownym zalogowaniu się użytkownik zostanie zapytany, czy chce zmienić ich nazwy na standardowe w wybranym języku. Jeśli wybrany język będzie używany cały czas, to lepiej jest zaktualizować nazwy katalogów.</p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli na komputerze jest wiele kont użytkowników, to dostępny jest oddzielny panel <span class="gui">Region i język</span> dla ekranu logowania. Kliknij przycisk <span class="gui">Ekran logowania</span> w górnym prawym rogu, aby przełączyć między panelami.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -104,14 +89,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.pl-PL" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html.pl-PL" title="Zmiana używanego języka">Język</a></span>, <span class="link"><a href="session-formats.html.pl-PL" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span>
+<a href="prefs-language.html.pl-PL" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html.pl-PL" title="Zmiana używanego języka">Język</a></span>, <span class="link"><a href="session-formats.html.pl-PL" title="Zmiana formatu daty i jednostek">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Alternatywne układy klawiatury">układy klawiatury</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-formats.html.pl-PL" title="Change date and measurement formats">Change date and measurement formats</a><span class="desc"> — Choose a region used for date and time, numbers, currency,
-    and measurement.</span>
+<a href="session-formats.html.pl-PL" title="Zmiana formatu daty i jednostek">Zmiana formatu daty i jednostek</a><span class="desc"> — Wybór regionu używanego dla formatu daty i czasu, liczb, waluty i jednostek miary.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -123,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

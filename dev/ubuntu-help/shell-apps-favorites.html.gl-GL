@@ -64,17 +64,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html.gl-GL" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html.gl-GL#desktop" title="Customize your desktop">Customize your desktop</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html.gl-GL" title="O seu escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.gl-GL#desktop" title="Personalizar o seu escritorio">Personalizar o seu escritorio</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ancorar os seus aplicativos favoritos ao dash</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To add an application to the <span class="link"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">dash</a></span>
+<p class="p">To add an application to the <span class="link"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">dash</a></span>
   for easy access:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the
-      <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview by
+      <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview by
       clicking <span class="gui">Activities</span> at the top left of the screen</p></li>
 <li class="steps"><p class="p">Prema no botón de grella no panel e busque o aplicativo que quere engadir.</p></li>
 <li class="steps">
@@ -89,12 +89,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-overview.html.gl-GL#desktop" title="Customize your desktop">Customize your desktop</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.gl-GL#desktop" title="Personalizar o seu escritorio">Personalizar o seu escritorio</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html.gl-GL" title="Iniciar aplicativos">Iniciar aplicativos</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
+<a href="shell-apps-open.html.gl-GL" title="Iniciar aplicativos">Iniciar aplicativos</a><span class="desc"> — Iniciar aplicativos desde a vista de <span class="gui">Actividades</span>.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -106,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

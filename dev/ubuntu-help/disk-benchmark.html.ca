@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Test the performance of your hard disk</title>
+<title>Proveu el rendiment del vostre disc dur</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,46 +67,30 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Test the performance of your hard disk</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Proveu el rendiment del vostre disc dur</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To test the speed of your hard disk:</p>
+<p class="p">Per testejar la velocitat del vostre disc dur.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the
-      <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">Choose the disk from the list in the left pane.</p></li>
-<li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
-      menu.</p></li>
+<li class="steps"><p class="p">Obriu <span class="app">Discs</span>des de la drescripcií general d' <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span>.</p></li>
+<li class="steps"><p class="p">Trieu el disc de la llista al panell esquerre.</p></li>
+<li class="steps"><p class="p">Feu clic al botó de menú i seleccioneu <span class="gui">Disc de referència</span> des del menú.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Start Benchmark…</span> and adjust the <span class="gui">Transfer
       Rate</span> and <span class="gui">Access Time</span> parameters as desired.</p></li>
 <li class="steps">
-<p class="p">Click <span class="gui">Start Benchmarking</span> to test how fast data can be read
-      from the disk. <span class="link"><a href="user-admin-explain.html.ca" title="How do administrative privileges work?">Administrative
-      privileges</a></span> may be required. Enter your password, or the password
-      for the requested administrator account.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">If <span class="gui">Perform write-benchmark</span> is checked, the benchmark
-        will test how fast data can be read from and written to the disk. This
-        will take longer to complete.</p></div></div></div></div>
+<p class="p">Feu clic <span class="gui">Iniciar el test</span> per comprovar com de ràpid  es poden llegir les dades des del disc. Poden ser necessaris<span class="link"><a href="user-admin-explain.html.ca" title="How do administrative privileges work?">Privilegis administratius</a></span> may be required. Entreu la vostra contrasenya, o la contrasenya pel compte d'administrador.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Si està seleccionat<span class="gui">Efectuar un test d'escriptura</span>, el test comprovarà com de ràpid es poden llegir i escriure les dades al disc. Aquesta opció trigarà més a completar-se.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
-<p class="p">When the test is finished, the results will appear on the graph. The green
-  points and connecting lines indicate the samples taken; these correspond to
-  the right axis, showing access time, plotted against the bottom axis,
-  representing percentage time elapsed during the benchmark. The blue line
-  represents read rates, while the red line represents write rates; these are
-  shown as access data rates on the left axis, plotted against percentage of
-  the disk traveled, from the outside to the spindle, along the bottom
-  axis.</p>
-<p class="p">Below the graph, values are displayed for minimum, maximum and average
-  read and write rates, average access time and time elapsed since the last
-  benchmark test.</p>
+<p class="p">Quan finalitzi la prova, els resultats apareixeran en un gràfic. Els punts verds i les línies de connexió indiquen les mostres preses; Aquests corresponen a l'eix de la dreta, mostrant el temps d'accés, traçat contra l'eix inferior, que representa el percentatge temps de transcorregut durant el test. La línia blava representa les taxes de lectura, mentre que la línia vermella representa les taxes d'escriptura; es mostren com a velocitats de dades d'accés a l'eix esquerre, representades en percentatge del disc recorregut, des de l'exterior fins a l'eix, al llarg de l'eix inferior.</p>
+<p class="p">A sota del gràfic, es mostren els valors per a les taxes de lectura i escriptura mínimes, màximes i mitjanes, el temps d'accés mitjà i el temps transcorregut des de l'última prova de referència.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Check how much disk space is left">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Test the performance of your hard disk">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Check your hard disk for problems">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Manage volumes and partitions">volums i particions</a></span>…</span>
+<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu el vostre disc dur per problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -117,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,17 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bestanden en mappen kopiëren of verplaatsen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Een map of bestand kan naar een nieuwe plaats worden verplaatst of gekopieerd door het met de muis te verslepen, door de kopiëren- en plakken-opdrachten te gebruiken, of door sneltoetsen te gebruiken.</p>
-<p class="p">For example, you might want to copy a presentation onto a memory stick so
- you can take it to work with you. Or, you could make a back-up copy of a
- document before you make changes to it (and then use the old copy if you don’t
- like your changes).</p>
+<p class="p">Misschien wilt u bijvoorbeeld een presentatie naar een geheugenstick kopiëren zodat u die mee kunt nemen naar uw werk. Of u zou een reservekopie kunnen maken van een document voordat u er wijzigingen in aanbrengt (en daarna de oude kopie gebruiken als u de wijzigingen toch niet goed vindt).</p>
 <p class="p">Deze instructies slaan op zowel bestanden als mappen. U kopieert en verplaatst bestanden en mappen op precies dezelfde manier.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -106,11 +103,10 @@
 <div class="title title-steps"><h2><span class="title">Sleep bestanden om te kopiëren of verplaatsen</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open bestandsbeheer en ga naar de map met het bestand dat u wilt kopiëren.</p></li>
-<li class="steps"><p class="p">Klik in de menubalk op <span class="gui">Bestanden</span>, kies <span class="gui">Nieuw venster</span> (of druk <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>) om een nieuw venster te openen. Blader in het nieuwe venster naar de map waar u het bestand heen wil kopiëren of verplaatsen.</p></li>
+<li class="steps"><p class="p">Klik in de bovenbalk op <span class="gui">Bestanden</span>, kies <span class="gui">Nieuw venster</span> (of druk <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>) om een nieuw venster te openen. Blader in het nieuwe venster naar de map waar u het bestand heen wil kopiëren of verplaatsen.</p></li>
 <li class="steps">
 <p class="p">Klik en sleep het bestand van het ene venster naar het andere. Als de bestemming zich op <span class="em">hetzelfde</span> apparaat bevindt zal het worden <span class="em">verplaatst</span>, en als de bestemming zich op een <span class="em">ander</span> apparaat bevindt, dan wordt het <span class="em">gekopieerd</span>.</p>
-<p class="p">For example, if you drag a file from a USB memory stick to your Home folder,
- it will be copied, because you’re dragging from one device to another.</p>
+<p class="p">Bijvoorbeeld, als u een bestand vanaf een USB-stick naar uw persoonlijke map versleept, zal het worden gekopieerd omdat u het van het ene apparaat naar het andere versleept.</p>
 <p class="p">Om kopiëren van het bestand te forceren houdt u de <span class="key"><kbd>Ctrl</kbd></span>-toets ingedrukt terwijl u sleept, en om verplaatsen te forceren houdt u tijdens het slepen de <span class="key"><kbd>Shift</kbd></span>-toets ingedrukt.</p>
 </li>
 </ol></div>
@@ -140,7 +136,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Laitteisto ja ajurit</span></h1></div>
@@ -85,7 +85,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.fi" title="Use alternative keyboard layouts">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fi" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.fi" title="Käytä vaihtoehtoisia näppäimistöasetteluja">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fi" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware-auth.html.fi" title="Sormenjäljet &amp; älykortit">Sormenjäljet &amp; älykortit</a></div>
@@ -116,13 +116,13 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="bluetooth.html.fi#problems" title="Ongelmat">Bluetooth-ongelmat</a></li>
 <li class="links ">
-<a href="hardware-cardreader.html.fi" title="Kortinlukijoiden ongelmat">Kortinlukijoiden ongelmat</a><span class="desc"> — Muistikortinlukijoiden ongelmien ratkaisuja.</span>
+<a href="hardware-cardreader.html.fi" title="Kortinlukijoiden ongelmat">Kortinlukijoiden ongelmat</a><span class="desc"> — Muistikortinlukijoiden ongelmien ratkaisuja</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a><span class="desc"> — Tunnista ja ratkaise langattomien yhteyksien ongelmia.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html.fi" title="Näyttöongelmat">Näyttöongelmat</a><span class="desc"> — Näytön ja graafisten ongelmien ongelmanratkaisu</span>
+<a href="hardware-problems-graphics.html.fi" title="Näyttöongelmat">Näyttöongelmat</a><span class="desc"> — Näytön ja graafisten ongelmien ongelmanratkaisu.</span>
 </li>
 <li class="links ">
 <a href="printing.html.fi#problems" title="Tulostinongelmat">Tulostinongelmat</a><span class="desc"> — Havaitsemattomat tulostimet, tukokset, vääriltä näyttävät tulosteet…</span>
@@ -149,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

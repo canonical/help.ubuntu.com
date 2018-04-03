@@ -64,32 +64,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vensters verplaatsen en van grootte veranderen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can move and resize windows to help you work more efficiently. In
-  addition to the dragging behavior you might expect, GNOME features shortcuts
-  and modifiers to help you arrange windows quickly.</p>
+<p class="p">U kunt vensters verplaatsen en vergroten/verkleinen om efficiënter te werken. Naast het sleepgedrag dat u zou kunnen verwachten, beschikt Gnome over snelkoppelingen en wijzigingstoetsen om venster snel te kunnen ordenen.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
-      <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> and drag anywhere in the
-      window. Hold down <span class="key"><kbd>Shift</kbd></span> while moving to snap the window to the
-      edges of the screen and other windows.</p></li>
-<li class="list"><p class="p">Resize a window by dragging the edges or corner of the window. Hold
-      down <span class="key"><kbd>Shift</kbd></span> while resizing to snap the window to the edges
-      of the screen and other windows.</p></li>
-<li class="list"><p class="p">Move or resize a window using only the keyboard. Press
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> to move a window or
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> to resize. Use the arrow
-      keys to move or resize, then press <span class="key"><kbd>Enter</kbd></span> to finish, or press
-      <span class="key"><kbd>Esc</kbd></span> to return to the original position and size.</p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.nl" title="Een venster maximaliseren en weer herstellen">Maximize a window</a></span> by
-      dragging it to the top of the screen. Drag a window to one side of the
-      screen to maximize it along the side, allowing you to
-      <span class="link"><a href="shell-windows-tiled.html.nl" title="Vensters tegelen">tile windows side by side</a></span>.</p></li>
+<li class="list"><p class="p">Verplaats een venster door de titelbalk te verslepen, of houd <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> ingedrukt terwijl u het venster versleept. Houd <span class="key"><kbd>Shift</kbd></span> ingedrukt tijdens het verplaatsen om het venster naar de randen van het scherm en andere vensters te brengen.</p></li>
+<li class="list"><p class="p">Pas de grootte van een scherm aan door de randen of hoeken van het scherm te verslepen. Houd de <span class="key"><kbd>Shift</kbd></span>-toets ingedrukt terwijl u de grootte aanpast om het venster vast te maken aan de randen van het scherm en andere vensters.</p></li>
+<li class="list"><p class="p">De afmeting van een venster wijzigen of het venster verplaatsen via het toetsenbord. Druk op <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span> om een venster te verplaatsen of <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span> om de afmeting te wijzigen. Gebruik de pijltjestoetsen om te verplaatsen of de afmeting te wijzigen en druk daarna op <span class="key"><kbd>Enter</kbd></span> om de actie te voltooien, of druk op <span class="key"><kbd>Esc</kbd></span> om het venster terug te zetten op de oorspronkelijke plaats.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows-maximize.html.nl" title="Een venster maximaliseren en weer herstellen">Een venster maximaliseren</a></span> door het naar de bovenkant van het scherm te slepen. Sleep een venster naar één kant van het scherm om het aan die kant te maximaliseren; hiermee kunt u <span class="link"><a href="shell-windows-tiled.html.nl" title="Vensters tegelen">vensters naast elkaar plaatsen</a></span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -106,7 +92,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

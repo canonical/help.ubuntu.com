@@ -78,7 +78,7 @@
     </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html.id" title="Hapus segalanya dari disk lepas pasang"><span class="title">Hapus segalanya dari disk lepas pasang</span><span class="linkdiv-dash"> — </span><span class="desc">Hapus semua berkas dan folder dari suatu hard disk eksternal atau flash drive USB dengan memformatnya.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.id" title="Mengelola volume dan partisi"><span class="title">Mengelola volume dan partisi</span><span class="linkdiv-dash"> — </span><span class="desc">Memahami apa itu volume dan partisi dan memakai utilitas disk untuk mengelola mereka.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html.id" title="Periksa hard disk Anda apakah bermasalah"><span class="title">Periksa hard disk Anda apakah bermasalah</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html.id" title="Periksa hard disk Anda apakah bermasalah"><span class="title">Periksa hard disk Anda apakah bermasalah</span><span class="linkdiv-dash"> — </span><span class="desc">Uji hard disk Anda apakah bermasalah untuk memastikan itu sehat.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.id" title="Periksa seberapa banyak ruang disk yang tersisa"><span class="title">Periksa seberapa banyak ruang disk yang tersisa</span><span class="linkdiv-dash"> — </span><span class="desc">Pakai <span class="gui">Penganalisa Penggunaan Disk</span> atau <span class="gui">Pemantau Sistem</span> untuk memeriksa ruang dan kapasitas.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-repair.html.id" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
           state.</span></a></div>
@@ -100,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

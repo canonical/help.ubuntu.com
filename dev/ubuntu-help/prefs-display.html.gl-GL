@@ -71,13 +71,11 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.gl-GL" title="A pantalla bloquéase demasiado rápido"><span class="title">A pantalla bloquéase demasiado rápido</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie o tempo de espera antes de que se bloquee a pantalla na configuración de <span class="gui">Privacidade</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-background.html.gl-GL" title="Change the desktop and lock screen backgrounds"><span class="title">Change the desktop and lock screen backgrounds</span><span class="linkdiv-dash"> — </span><span class="desc">Set an image, color, or gradient as your desktop background or lock
-    screen background.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-resolution.html.gl-GL" title="Change the resolution or rotation of the screen"><span class="title">Change the resolution or rotation of the screen</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar a resolución da pantalla e a súa orientación (rotación).</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.gl-GL" title="Connect another monitor to your computer"><span class="title">Connect another monitor to your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Set up an additional monitor.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.gl-GL" title="Estabelecer o brillo da pantalla"><span class="title">Estabelecer o brillo da pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
-    light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.gl-GL" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-background.html.gl-GL" title="Cambiar o fondo de escritorio e da pantalla de bloqueo"><span class="title">Cambiar o fondo de escritorio e da pantalla de bloqueo</span><span class="linkdiv-dash"> — </span><span class="desc">Estabelecer unha imaxe, cor ou gradiente como o seu fondo de escritorio ou fondo de pantalla de bloqueo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-resolution.html.gl-GL" title="Cambiar o tamaño/rotación da pantalla"><span class="title">Cambiar o tamaño/rotación da pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar a resolución da pantalla e a súa orientación (rotación).</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.gl-GL" title="Conectar outro monitor ao seu computador"><span class="title">Conectar outro monitor ao seu computador</span><span class="linkdiv-dash"> — </span><span class="desc">Configurar un monitor adicional.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.gl-GL" title="Estabelecer o brillo da pantalla"><span class="title">Estabelecer o brillo da pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar o brillo da pantalla para facela máis lexíbel en condicións de moita luz ambiental.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.gl-GL" title="Estabelecer o tempo para apagar a pantalla"><span class="title">Estabelecer o tempo para apagar a pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar o tempo de espera para poñer apagar a pantalla para aforrar enerxía.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -95,7 +93,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

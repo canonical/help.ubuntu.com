@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Yhdistä piilotettuun verkkoon</span></h1></div>
@@ -74,8 +74,7 @@
  networks won’t show up in the list of wireless networks displayed in the
  <span class="gui">Network</span> settings. To connect to a hidden wireless network:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#yourname" title="Sinä ja tietokoneesi">system menu</a></span> from the right
-    side of the top bar.</p></li>
+<li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#yourname" title="Sinä ja tietokoneesi">järjestelmävalikko</a></span> yläpalkin oikeasta laidasta.</p></li>
 <li class="steps"><p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
       Wi-Fi Not Connected</span>. The Wi-Fi section of the menu will expand.</p></li>
@@ -87,7 +86,7 @@
 <li class="steps"><p class="p">For a new connection, type the network name and choose the type of
   wireless security from the <span class="gui">Wi-Fi security</span> drop-down list.</p></li>
 <li class="steps"><p class="p">Enter the password or other security details.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Connect</span>.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Yhdistä</span>.</p></li>
 </ol></div></div></div>
 <p class="p">You may have to check the settings of the wireless access point or router
   to see what the network name is. If you don’t have the network name (SSID),
@@ -113,7 +112,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-find.html.fi" title="I can’t see my wireless network in the list">I can’t see my wireless network in the list</a><span class="desc"> — The wireless could be turned off or broken, or you may be trying to
+<a href="net-wireless-find.html.fi" title="En näe langatonta verkkoani listalla">En näe langatonta verkkoani listalla</a><span class="desc"> — The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span>
 </li></ul></div>
 </div></div>
@@ -126,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

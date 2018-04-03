@@ -71,6 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">GNOME tillhandahåller skärmläsaren <span class="app">Orca</span> för att visa användargränssnittet på en uppdateringsbar punktskriftsskärm. Beroende på hur du installerade GNOME så kan det vara så att du inte har Orca installerat. Om inte, installera Orca först.</p>
+<p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Installera Orca</a></span></p>
 <p class="p">Se vidare i <span class="link"><a href="help:orca" title="help:orca">Hjälp för Orca</a></span> för ytterligare detaljer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -95,7 +96,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

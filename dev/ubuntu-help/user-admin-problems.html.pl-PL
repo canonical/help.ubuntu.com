@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Problems caused by administrative restrictions</title>
+<title>Problemy powodowane przez ograniczenia administracyjne</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,22 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="user-accounts.html.pl-PL" title="Konta użytkowników">Użytkownicy</a> › <a class="trail" href="user-accounts.html.pl-PL#privileges" title="Uprawnienia użytkowników">Uprawnienia</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="user-accounts.html.pl-PL" title="Konta użytkowników">Użytkownicy</a> › <a class="trail" href="user-accounts.html.pl-PL#privileges" title="Uprawnienia użytkowników">Uprawnienia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Problems caused by administrative restrictions</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Problemy powodowane przez ograniczenia administracyjne</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You may experience a few problems if you do not have
-  <span class="link"><a href="user-admin-explain.html.pl-PL" title="How do administrative privileges work?">administrative privileges</a></span>. Some tasks
-  require administrative privileges in order to work, such as:</p>
+<p class="p">Brak <span class="link"><a href="user-admin-explain.html.pl-PL" title="Jak działają uprawnienia administracyjne?">uprawnień administracyjnych</a></span> może powodować kilka problemów. Niektóre zadania ich wymagają, na przykład:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">łączenie z sieciami (także bezprzewodowymi),</p></li>
-<li class="list"><p class="p">wyświetlanie zawartości innej partycji dysku (na przykład systemu Windows),</p></li>
+<li class="list"><p class="p">wyświetlanie zawartości innej partycji dysku (np. systemu Windows),</p></li>
 <li class="list"><p class="p">instalowanie nowych programów.</p></li>
 </ul></div></div></div>
-<p class="p">You can <span class="link"><a href="user-admin-change.html.pl-PL" title="Change who has administrative privileges">change who has administrative
-  privileges</a></span>.</p>
+<p class="p">Można <span class="link"><a href="user-admin-change.html.pl-PL" title="Zmiana, kto ma uprawnienia administracyjne">zmienić, kto ma uprawnienia administracyjne</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -92,12 +89,10 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-change.html.pl-PL" title="Change who has administrative privileges">Change who has administrative privileges</a><span class="desc"> — You can allow users to make changes to the system by giving them
-    administrative privileges.</span>
+<a href="user-admin-explain.html.pl-PL" title="Jak działają uprawnienia administracyjne?">Jak działają uprawnienia administracyjne?</a><span class="desc"> — Do zmiany ważnych części systemu wymagane są uprawnienia administracyjne.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html.pl-PL" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-change.html.pl-PL" title="Zmiana, kto ma uprawnienia administracyjne">Zmiana, kto ma uprawnienia administracyjne</a><span class="desc"> — Można umożliwić użytkownikom wprowadzanie zmian w systemie dając im uprawnienia administracyjne.</span>
 </li>
 </ul></div>
 </div></div>
@@ -110,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

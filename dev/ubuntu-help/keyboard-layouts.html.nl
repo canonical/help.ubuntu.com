@@ -65,15 +65,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » <a class="trail" href="keyboard-shortcuts-set.html.nl" title="Sneltoetsen instellen">Sneltoetsen instellen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » <a class="trail" href="keyboard-shortcuts-set.html.nl" title="Sneltoetsen instellen">Sneltoetsen instellen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-language.html.nl" title="Regio &amp; taal">Regio &amp; taal</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-language.html.nl" title="Regio &amp; taal">Regio &amp; taal</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » <a class="trail" href="keyboard-shortcuts-set.html.nl" title="Sneltoetsen instellen">Sneltoetsen instellen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » <a class="trail" href="keyboard-shortcuts-set.html.nl" title="Sneltoetsen instellen">Sneltoetsen instellen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,51 +82,26 @@
 <div class="contents">
 <p class="p">Toetsenborden zijn er in honderden verschillende indelingen voor verschillende talen. Zelfs voor één taal zijn er vaak meerdere toetsenbordindelingen, zoals de Dvorak-indeling voor Engels. U kunt uw toetsenbord zo instellen dat deze zich gedraagt als een toetsenbord met een andere indeling, ongeacht de letters en symbolen die u op de toetsen ziet staan. Dit is handig wanneer u vaak wisselt van taal.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
-      select the language which is associated with the layout, then select a
-      layout and press <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en begin met het typen van <span class="gui">Regio en taal</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Regio &amp; taal</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Klik op de <span class="gui">+</span> knop in de sectie <span class="gui">Invoerbronnen</span>, kies de taal die hoort bij de indeling, kies dan een indeling en druk op <span class="gui">Toevoegen</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents">
+<p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p>
 <p class="p">Some rarely used keyboard layout variants are not available by default when you click
     the <span class="gui">+</span> button. To make also those input sources available you can open a terminal
     window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>
     and run this command:</p>
 <p class="p"><span class="cmd">gsettings set org.gnome.desktop.input-sources show-all-sources true</span></p>
 </div></div></div></div>
-<div class="note note-sidebar" title="Zijbalk"><div class="inner"><div class="region"><div class="contents"><p class="p">You can preview an image of any layout by selecting it in the list of
-    <span class="gui">Input Sources</span> and clicking
-    <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="preview"></span></span></span></p></div></div></div></div>
-<p class="p">Certain languages offer some extra configuration options. You can
-  identify those languages because they have a
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="preview"></span></span></span> icon next to them. If you want to access
-  these extra parameters, select the language from the <span class="gui">Input Source</span>
-  list and a new
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" height="16" width="16" class="media media-inline" alt="preferences"></span></span></span> button will give you access
-  to the extra settings.</p>
-<p class="p">When you use multiple layouts, you can choose to have all windows use the
-  same layout or to set a different layout for each window. Using a different
-  layout for each window is useful, for example, if you’re writing an article
-  in another language in a word processor window. Your keyboard selection will
-  be remembered for each window as you switch between windows. Press the
-  <span class="gui">Options</span> button to select how you want to manage
-  multiple layouts.</p>
-<p class="p">The top bar will display a short identifier for the current layout, such as
-  <span class="gui">en</span> for the standard English layout. Click the layout indicator and
-  select the layout you want to use from the menu. If the selected language has
-  any extra settings, they will be shown below the list of available layouts.
-  This gives you a quick overview of your settings. You can also open an image
-  with the current keyboard layout for reference.</p>
-<p class="p">The fastest way to change to another layout is by using the 
-  <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
-  the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
-  By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
-  and to the previous one with
-  <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
-  change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
+<div class="note note-sidebar" title="Zijbalk"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt een voorbeeld bekijken van een indeling door deze in de lijst met <span class="gui">Invoerbronnen</span> te selecteren en te klikken op <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="voorbeeld"></span></span></span></p></div></div></div></div>
+<p class="p">Sommige talen bieden een aantal extra configuratieopties. U herkent deze talen aan een <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="voorbeeld"></span></span></span> pictogram dat u ernaast ziet staan. Als u toegang wilt hebben tot deze extra parameters, selecteer dan de taal in de lijst met <span class="gui">Invoerbronnen</span>; een nieuwe <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" height="16" width="16" class="media media-inline" alt="voorkeuren"></span></span></span> knop geeft u toegang tot de extra instellingen.</p>
+<p class="p">Wanneer u meerdere indelingen gebruikt, kunt u ervoor kiezen dat alle vensters dezelfde indeling gebruiken of een andere indeling instellen voor elk venster. Het gebruik van een andere indeling voor elk venster is bijvoorbeeld handig wanneer u in een tekstverwerkingsvenster een artikel schrijft in een andere taal. De keuze van uw toetsenbord zal worden onthouden voor elk venster wanneer u van venster wisselt. Druk op de knop <span class="gui">Opties</span> om te selecteren hoe u om wilt gaan met meerdere indelingen.</p>
+<p class="p">In de bovenbalk ziet u een korte identificatie van de huidige indeling, zoals <span class="gui">en</span> voor de standaard Engelse indeling. Klik op de indelingenindicator en kies uit het menu de indeling die u wilt gebruiken. Als de geselecteerde taal over extra instellingen beschikt, dan ziet u deze onder de lijst met beschikbare indelingen. Dit geeft u een snel overzicht van uw instellingen. U kunt ook een afbeelding openen met de huidige toetsenbordindeling ter referentie.</p>
+<p class="p">De snelste manier om naar een andere indeling te gaan is via de <span class="gui">Sneltoetsen</span> voor <span class="gui">Invoerbronnen</span>. Met deze sneltoetsen opent u de <span class="gui">Invoebron</span>kiezer waarin u heen en weer kunt bewegen. Standaard gaat u naar de volgende invoerbron met <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Spatiebalk</kbd></span></span> en naar de vorige met <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Spatiebalk</kbd></span></span>. U kunt deze sneltoetsen wijzigen in de <span class="gui">Toetsenbord</span>-instellingen.</p>
 <p class="p"><span class="media"><span class="media media-image"><img src="figures/input-methods-switcher.png" class="media media-inline" alt=""></span></span></p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -136,21 +111,13 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-language.html.nl" title="Regio &amp; taal">Regio &amp; taal</a><span class="desc"> — 
-      <span class="link"><a href="session-language.html.nl" title="Een andere taal kiezen voor uzelf">Language</a></span>,
-      <span class="link"><a href="session-formats.html.nl" title="Formaat voor datum en maten wijzigen">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">keyboard layouts</a></span>…
-    </span>
+<a href="prefs-language.html.nl" title="Regio &amp; taal">Regio &amp; taal</a><span class="desc"> — <span class="link"><a href="session-language.html.nl" title="De taal die u wilt gebruiken wijzigen">Taal</a></span>, <span class="link"><a href="session-formats.html.nl" title="Formaat voor datum en maten wijzigen">regio en formaten</a></span>, <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">toetsenbordindelingen</a></span>…</span>
 </li>
 <li class="links ">
 <a href="keyboard-shortcuts-set.html.nl" title="Sneltoetsen instellen">Sneltoetsen instellen</a><span class="desc"> — Sneltoetsen definiëren of wijzigen in de <span class="gui">Toetsenbord</span>-instellingen.</span>
 </li>
 <li class="links ">
-<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Toetsenbordindelingen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">knipperen van de cursor</a></span>, <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">toetsenbordtoegankelijkheid</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -169,7 +136,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

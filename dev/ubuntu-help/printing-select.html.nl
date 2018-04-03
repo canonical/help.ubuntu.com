@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Alleen bepaalde pagina's afdrukken</span></h1></div>
@@ -72,15 +72,12 @@
 <div class="contents">
 <p class="p">Om alleen bepaalde pagina's van een document af te drukken:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the print dialog by pressing
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">General</span> tab, choose <span class="gui">Pages</span> from the
-      <span class="gui">Range</span> section.</p></li>
+<li class="steps"><p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> om het afdrukdialoogvenster te openen.</p></li>
+<li class="steps"><p class="p">Kies in het tabblad <span class="gui">Algemeen</span> <span class="gui">Pagina's</span> uit de sectie <span class="gui">Bereik</span>.</p></li>
 <li class="steps"><p class="p">Typ in het tekstvak de paginanummers die u wilt afdrukken, gescheiden door een komma. Gebruik een koppelteken om een bereik van pagina's aan te geven.</p></li>
 </ol></div></div></div>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
-<p class="p">For example, if you enter “1,3,5-7,9” in the <span class="gui">Pages</span> text box,
-    pages 1,3,5,6,7 and 9 will be printed.</p>
+<p class="p">Een voorbeeld: als u ‘1,3,5-7,9’ in het tekstvak <span class="gui">Pagina's</span> invoert, dan zullen de pagina's 1,3,5,6,7 en 9 afgedrukt worden.</p>
 <div class="media media-image"><div class="inner"><img src="figures/printing-select.png" class="media media-block" alt=""></div></div>
 </div></div></div></div>
 </div>
@@ -98,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

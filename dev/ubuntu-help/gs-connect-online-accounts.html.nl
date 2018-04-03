@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -80,19 +80,16 @@
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3"><li class="steps">
-<p class="p">Click the <span class="gui">Online Accounts</span> panel, then click the online
-      account service you want to use.</p>
-<p class="p">This will open a new window where you can sign in to your online
-      account.</p>
+<p class="p">Klik op het <span class="gui">Online-accounts</span>-paneel en klik dan op de online-account-dienst die u wilt gebruiken.</p>
+<p class="p">Hiermee opent u een nieuw venster waar u zich aan kunt melden bij uw online-account.</p>
 </li></ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa4.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4">
 <li class="steps"><p class="p">In de meeste gevallen dient u na aanmelding de online-dienst toegang te verlenen om te kunnen beginnen.</p></li>
-<li class="steps"><p class="p">For example, if you are connecting to your Google account, you
-       will have to click the <span class="gui">Allow</span> button.</p></li>
+<li class="steps"><p class="p">Bijvoorbeeld, als u verbinding maakt met uw Google-account, moet u klikken op de knop <span class="gui">Toestaan</span></p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa5.svg" width="100%" class="media media-block" alt=""></div></div>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Bij veel online-accounts kunt u de diensten kiezen die u met uw online-account wilt gebruiken. Als u een dienst niet wilt gebruiken, schakel die dan uit door te klikken op de <span class="gui">ON/OFF</span>-schakelaar aan de rechterkant van het venster.</p></li></ol></div></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Bij veel online-accounts kunt u de diensten kiezen die u met uw online-account wilt gebruiken. Als u een dienst niet wilt gebruiken, schakel die dan uit door te klikken op de <span class="gui">AAN/UIT</span>-schakelaar aan de rechterkant van het venster.</p></li></ol></div></div></div>
 </div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-browse-web.html.nl" title="Surfen op het web">Vorige</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.nl" title="Datum, tijd en tijdszone wijzigen">Volgende</a>
@@ -109,7 +106,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.nl" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html.nl" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html.nl" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html.nl" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span>
+<a href="accounts.html.nl" title="Online-accounts">Online-accounts</a><span class="desc"> — <span class="link"><a href="accounts-add.html.nl" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html.nl" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html.nl" title="Onlinediensten en toepassingen">Meer te weten komen over diensten</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -121,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

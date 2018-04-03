@@ -69,7 +69,7 @@
 <div class="region">
 <div class="contents">
 <p class="p"><span class="em">Gnome Klassiek</span> is een functie voor gebruikers die liever een traditioneel bureaublad hebben. Hoewel <span class="em">Gnome Klassiek</span> gebaseerd is op <span class="em">Gnome 3</span>-technieken, bevat het een aantal wijzigingen aan de gebruikersinterface, zoals de <span class="gui">Toepassingen</span>- en <span class="gui">Locaties</span>-menu's in de bovenste balk, en een vensterlijst aan de onderkant van het scherm.</p>
-<p class="p">U kunt het menu <span class="gui">Toepassingen</span> in de bovenste balk gebruiken om toepassingen te starten. Het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span> -overzicht is beschikbaar via het onderdeel <span class="gui">Activiteitenoverzicht</span> uit het menu.</p>
+<p class="p">U kunt het menu <span class="gui">Toepassingen</span> in de bovenbalk gebruiken om toepassingen te starten. Het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span> -overzicht is beschikbaar via het onderdeel <span class="gui">Activiteitenoverzicht</span> uit het menu.</p>
 <p class="p">Om toegang te krijgen tot het <span class="em"><span class="gui">Activiteiten</span> overzicht</span> kunt u ook drukken op de <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>-toets.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
@@ -77,7 +77,7 @@
 <div class="region"><div class="contents">
 <p class="p">De vensterlijst onderaan het scherm geeft toegang tot alle geopende vensters en toepassingen en u kunt ze snel minimaliseren en herstellen.</p>
 <p class="p">Rechts van de vensterlijst toont Gnome een korte identifier voor de huidige werkruimte, zoals <span class="gui">1</span> voor de eerste (bovenste) werkruimte. Daarnaast toont de identifier ook het totale aantal beschikbare werkruimtes. Om over te schakelen naar een andere werkruimte kunt u klikken op de identifier en uit het menu de werkruimte te kiezen die u wilt gebruiken.</p>
-<p class="p">Als een toepassing of een systeemcomponent uw aandacht wil, zal er rechts van de vensterlijst een blauw pictogram getoond worden. Door te klikken op het blauwe pictogram krijgt u het <span class="link"><a href="shell-notifications.html.nl" title="Notifications and the message tray">berichtenvak</a></span> waar u toegang krijgt tot al uw notificaties.</p>
+<p class="p">Als een toepassing of een systeemcomponent uw aandacht wil, zal er rechts van de vensterlijst een blauw pictogram getoond worden. Door te klikken op het blauwe pictogram krijgt u het <span class="link"><a href="shell-notifications.html.nl" title="Meldingen en het berichtengebied">berichtenvak</a></span> waar u toegang krijgt tot al uw notificaties.</p>
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">
@@ -87,7 +87,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Om van <span class="em">Gnome</span> naar <span class="em">Gnome Klassiek</span> over te schakelen:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Sla al uw geopende werk op, en meld dan af. Klik op het systeemmenu aan de rechterkant van de bovenste balk, klik op uw naam en kies dan de juiste optie.</p></li>
+<li class="steps"><p class="p">Sla al uw geopende werk op, en meld dan af. Klik op het systeemmenu aan de rechterkant van de bovenbalk, klik op uw naam en kies dan de juiste optie.</p></li>
 <li class="steps"><p class="p">Een bevestigingsbericht zal verschijnen. Selecteer <span class="gui">Afmelden</span> om te bevestigen.</p></li>
 <li class="steps"><p class="p">Kies in het aanmeldscherm uw naam uit de lijst.</p></li>
 <li class="steps"><p class="p">Vul uw wachtwoord in, in het wachtwoord-invoerveld. </p></li>
@@ -98,7 +98,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Om van <span class="em">Gnome Klassiek</span> naar <span class="em">Gnome</span> over te schakelen:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Sla al uw geopende werk op, en meld dan af. Klik op het systeemmenu aan de rechterkant van de bovenste balk, klik op uw naam en kies dan de juiste optie.</p></li>
+<li class="steps"><p class="p">Sla al uw geopende werk op, en meld dan af. Klik op het systeemmenu aan de rechterkant van de bovenbalk, klik op uw naam en kies dan de juiste optie.</p></li>
 <li class="steps"><p class="p">Een bevestigingsbericht zal verschijnen. Selecteer <span class="gui">Afmelden</span> om te bevestigen.</p></li>
 <li class="steps"><p class="p">Kies in het aanmeldscherm uw naam uit de lijst.</p></li>
 <li class="steps"><p class="p">Vul uw wachtwoord in, in het wachtwoord-invoerveld. </p></li>
@@ -115,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Gebruikers- &amp; systeeminstellingen</span></h1></div>
@@ -84,12 +84,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.nl" title="Uw persoonlijke bestanden delen">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media sharing</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Bluetooth delen</a></span>, <span class="link"><a href="sharing-personal.html.nl" title="Uw persoonlijke bestanden delen">Delen persoonlijk bestand</a></span>, <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Scherm delen</a></span>, <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a></div>
@@ -101,7 +96,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="accounts.html.nl" title="Online-accounts">Online-accounts</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html.nl" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html.nl" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html.nl" title="Online-services en -toepassingen">Meer te weten komen over diensten</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html.nl" title="Een account toevoegen">Een online-account toevoegen</a></span>, <span class="link"><a href="accounts-remove.html.nl" title="Een account verwijderen">Een account verwijderen</a></span>, <span class="link"><a href="accounts-which-application.html.nl" title="Onlinediensten en toepassingen">Meer te weten komen over diensten</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="startup-applications.html.nl" title="Opstarttoepassingen">Opstarttoepassingen</a></div>
@@ -109,27 +104,15 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="privacy-screen-lock.html.nl" title="Het scherm automatisch vergrendelen">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.nl" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.nl" title="Prullenbak legen &amp; tijdelijke bestanden definitief verwijderen">Purge trash &amp; temporary files</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html.nl" title="Het scherm automatisch vergrendelen">Schermvergrendeling</a></span>, <span class="link"><a href="privacy-history-recent-off.html.nl" title="Traceren van bestandsgeschiedenis uitzetten of beperken">Gebruiksgeschiedenis</a></span>, <span class="link"><a href="privacy-purge.html.nl" title="Purge trash &amp; temporary files">Prullenbak &amp; tijdelijke bestanden verwijderen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-language.html.nl" title="Regio &amp; taal">Regio &amp; taal</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="session-language.html.nl" title="Een andere taal kiezen voor uzelf">Language</a></span>,
-      <span class="link"><a href="session-formats.html.nl" title="Formaat voor datum en maten wijzigen">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">keyboard layouts</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.nl" title="De taal die u wilt gebruiken wijzigen">Taal</a></span>, <span class="link"><a href="session-formats.html.nl" title="Formaat voor datum en maten wijzigen">regio en formaten</a></span>, <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">toetsenbordindelingen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Toetsenbordindelingen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">knipperen van de cursor</a></span>, <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">toetsenbordtoegankelijkheid</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a></div>
@@ -141,11 +124,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="look-background.html.nl" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.nl" title="Change the resolution or rotation of the screen">size and rotation</a></span>,
-      brightness…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.nl" title="De achtergrond van het werkblad en van een vergrendeld scherm wijzigen">Achtergrond</a></span>, <span class="link"><a href="look-resolution.html.nl" title="De resolutie of de oriëntatie (rotatie) van het scherm wijzigen">grootte en rotatie</a></span>, <span class="link"><a href="display-dimscreen.html.nl" title="display-dimscreen">helderheid</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -162,7 +141,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

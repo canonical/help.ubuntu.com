@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the size of a filesystem</title>
+<title>De grootte van een bestandssysteem aanpassen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,52 +64,32 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Adjust the size of a filesystem</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De grootte van een bestandssysteem aanpassen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A filesystem can be grown to make use of the free space after its
-     partition. Often this is even possible while the filesystem is
-     mounted.</p>
-<p class="p">To make space for another partition after the filesystem, it can be
-     shrunk according to the free space within it.</p>
-<p class="p">Not all filesystems have resize support.</p>
-<p class="p">The partition size will be changed together with the filesystem size.
-     It is also possible to resize a partition without a filesystem in the
-     same way.</p>
+<p class="p">Een bestandssysteem kan uitgebreid worden door de vrije ruimte na de partitie te benutten. Vaak is dit zelfs mogelijk terwijl het bestandssysteem aangekoppeld is.</p>
+<p class="p">Om ruimte te maken voor een andere partitie na het bestandssysteem kan het worden verkleind overeenkomstig de vrije ruimte erin.</p>
+<p class="p">Niet alle bestandssystemen kunnen vergroot/verkleind worden.</p>
+<p class="p">De partitiegrootte zal samen met de grootte van het bestandssysteem worden gewijzigd. Het is ook mogelijk om op dezelfde manier de grootte van een partitie zonder een bestandssysteem te wijzigen.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Resize a filesystem/partition</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Een bestandssysteem/partitie vergroten of verkleinen</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Schijven</span> vanuit het <span class="gui">Activiteiten</span>-overzicht.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
-       of storage devices on the left. If there is more than one volume on
-       the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-       menu button. Then click <span class="gui">Resize Filesystem…</span> or
-       <span class="gui">Resize…</span> if there is no filesystem.</p></li>
+<li class="steps"><p class="p">Selecteer de schijf die u wilt controleren in de lijst met opslagapparaten aan de linkerkant. Als de schijf meer dan één volume bevat, selecteer dan het volume met daarop het bestandssysteem.</p></li>
+<li class="steps"><p class="p">Klik in de werkbalk onder de sectie <span class="gui">Volumen</span> op de menuknop. Klik daarna op <span class="gui">Bestandssysteem vergroten/verkleinen…</span>. of <span class="gui">Vergroten/verkleinen…</span> als er geen bestandssysteem is.</p></li>
 <li class="steps">
-<p class="p">A dialog will open where the new size can be chosen. The filesystem will
-       be mounted to calculate the minimum size by the amount of current
-       content. If shrinking is not supported the minimum size is the current
-       size. Leave enough space within the filesystem when shrinking to ensure
-       that it can work fast and reliably.</p>
-<p class="p">Depending on how much data has to be moved from the shrunk part, the
-       filesystem resize may take longer time.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">The filesystem resize automatically involves
-         <span class="link"><a href="disk-repair.html.nl" title="Repair a damaged filesystem">repairing</a></span> of the filesystem. Therefore
-         it is advised to back up important data before starting. The action
-         must not be stopped or it will result in a damaged filesystem.</p></div></div></div></div>
+<p class="p">Er wordt een dialoogvenster geopend waar de nieuwe grootte kan worden gekozen. Het bestandssysteem zal aangekoppeld worden om de minimale grootte te berekenen aan de hand van de huidige inhoud. Als krimpen niet mogelijk is, dan is de minimale grootte de huidige grootte. Houd bij het krimpen genoeg ruimte binnen het bestandssysteem over om er zeker van te zijn dat het snel en betrouwbaar kan werken.</p>
+<p class="p">Afhankelijk van hoeveel gegevens er moeten worden verplaatst uit het gekrompen gedeelte, kan het aanpassen van het bestandssysteem langer duren.</p>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Het aanpassen van de grootte van het bestandssysteem brengt automatisch de <span class="link"><a href="disk-repair.html.nl" title="Een beschadigd bestandssysteem repareren">reparatie</a></span> van dat bestandssysteem met zich mee. Het is daarom aan te raden voor het starten reservekopieën te maken van belangrijke gegevens. De actie mag niet gestopt worden, want anders zal het resultaat een beschadigd bestandssysteem zijn.</p></div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">Confirm to start the action by clicking
-         <span class="gui">Resize</span>.</p>
-<p class="p">The action will unmount the filesystem if resizing a mounted filesystem
-      is not supported. Be patient while the filesystem is resized.</p>
+<p class="p">Bevestig om de actie te starten door te klikken op <span class="gui">Vergroten/verkleinen</span>.</p>
+<p class="p">De actie zal het bestandssysteem afkoppelen als het aanpassen van de grootte van een aangekoppeld bestandssysteem niet ondersteund wordt. Wees geduldig terwijl de grootte van het bestandssysteem wordt aangepast.</p>
 </li>
-<li class="steps"><p class="p">After completion of the needed resize and repair actions the filesystem
-       is ready to be used again.</p></li>
+<li class="steps"><p class="p">Nadat de benodigde aanpassings- en reparatieacties voltooid zijn, kan het bestandssysteem weer gebruikt worden.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -129,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

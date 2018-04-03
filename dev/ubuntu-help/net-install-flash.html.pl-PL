@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Zainstaluj wtyczkę Flash</title>
+<title>Instalacja wtyczki Flash</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,59 +64,48 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-browser.html.pl-PL" title="Przeglądarki WWW">Przeglądarki WWW</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-browser.html.pl-PL" title="Przeglądarki WWW">Przeglądarki WWW</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Zainstaluj wtyczkę Flash</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Instalacja wtyczki Flash</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Flash is a <span class="em">plug-in</span> for your web browser that allows you to watch videos and use
-interactive web pages on some websites. While HTML5, which is a more modern solution, is increasingly
-offered, there are still some websites which won't work without Flash.</p>
-<p class="p">If you do not have Flash installed, you will probably see a message telling you so when you visit a website
-that needs it. Flash is available as a free (but not open-source) download for most web browsers.</p>
-<p class="p">There are two kinds of plug-ins available:</p>
+<p class="p">Flash to <span class="em">wtyczka</span> do przeglądarki WWW umożliwiająca oglądanie filmów i używanie interaktywnych stron na niektórych witrynach. Chociaż coraz częściej używany jest nowocześniejszy standard HTML5, bez wtyczki Flash nadal niektóre witryny mogą w ogóle nie działać.</p>
+<p class="p">Jeśli Flash nie jest zainstalowany, to strony go potrzebujące wyświetlają komunikat o jego braku. Flash jest dostępny bezpłatnie (ale nie jest oprogramowaniem open source) dla większości przeglądarek WWW.</p>
+<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">Firma Adobe ogłosiła koniec aktualizacji i udostępniania wtyczki Flash Player z końcem 2020 roku. W związku z tym wtyczka Flash nie powinna być używana po 2020 roku.</p></div></div></div></div>
+<p class="p">Dostępne są dwa rodzaje wtyczek:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="em">NPAPI</span> for <span class="app">Firefox</span> and other Gecko-based web browsers</p></li>
-<li class="list"><p class="p"><span class="em">PPAPI</span> for <span class="app">Chromium</span> and other Blink-based web browsers including <span class="app">Opera</span> and
-  <span class="app">Vivaldi</span></p></li>
+<li class="list"><p class="p"><span class="em">NPAPI</span> dla <span class="app">Firefoksa</span> i innych przeglądarek używających mechanizmu Gecko</p></li>
+<li class="list"><p class="p"><span class="em">PPAPI</span> dla <span class="app">Chromium</span> i innych przeglądarek używających mechanizmu Blink, w tym przeglądarki <span class="app">Opera</span> i <span class="app">Vivaldi</span></p></li>
 </ul></div></div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="app">Google Chrome</span> browser is shipped with Flash bundled, and does not need a plug-in.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Przeglądarka <span class="app">Google Chrome</span> ma wbudowaną wtyczkę Flash, więc nie wymaga oddzielnej wtyczki.</p></div></div></div></div>
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox. If you chose
- to install certain third-party software when you installed Ubuntu, <span class="app">flashplugin-installer</span> is
- probably installed already. Otherwise you can <span class="link"><a href="https://apps.ubuntu.com/cat/applications/flashplugin-installer" title="https://apps.ubuntu.com/cat/applications/flashplugin-installer">install it</a></span>
- and restart your browser.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Pakiet <span class="app">flashplugin-installer</span> dostarcza wtyczkę NPAPI dla Firefoksa. <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Zainstaluj go</a></span> i ponownie uruchom przeglądarkę.</p></div></div>
 </div></div>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">The <span class="app">adobe-flashplugin</span> package provides both the NPAPI and PPAPI plug-ins, i.e. it provides
- Flash for both Firefox and Chromium like web browsers.</p>
+<p class="p">Pakiet <span class="app">adobe-flashplugin</span> dostarcza wtyczki NPAPI i PPAPI, tzn. dostarcza wtyczkę Flash dla przeglądarek Firefox i Chromium (oraz pochodnych Chromium).</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that the <span class="link"><a href="addremove-sources.html.pl-PL#canonical-partner" title="Aktywacja repozytorium Partnerów Canonical">Canonical Partner repository is activated</a></span>.</p></li>
-<li class="steps"><p class="p">Install the <span class="link"><a href="https://apps.ubuntu.com/cat/applications/adobe-flashplugin" title="https://apps.ubuntu.com/cat/applications/adobe-flashplugin">adobe-flashplugin</a></span> package.</p></li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">Upewnij się, że <span class="link"><a href="addremove-sources.html.pl-PL#canonical-partner" title="Włączanie repozytorium Partnerów Canonical">włączono repozytorium Partnerów Canonical</a></span>.</p></li>
+<li class="steps"><p class="p">Zainstaluj pakiet <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
+<li class="steps"><p class="p">Ponownie uruchom przeglądarkę.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="browser-plugin-freshplayer-pepperflash" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">browser-plugin-freshplayer-pepperflash</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Some features of the PPAPI plug-in, such as 3D acceleration and premium video DRM, are not available
- in the NPAPI plugin. If you use Firefox or some other Gecko-based browser and need those features, you
- can install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package. It's a wrapper which makes
- Firefox use the PPAPI plug-in.</p>
+<p class="p">Niektóre funkcje wtyczki PPAPI, np. przyspieszenie 3D i obsługa filmów chronionych przez DRM, nie są dostępne we wtyczce NPAPI. Jeśli używany jest Firefox lub inna przeglądarka używająca mechanizmu Gecko i te funkcje są potrzebne, to można zainstalować pakiet <span class="app">browser-plugin-freshplayer-pepperflash</span>. To „wrapper” umożliwiający używanie wtyczki PPAPI w Firefoksie.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that <span class="app">adobe-flashplugin</span> is installed.</p></li>
+<li class="steps"><p class="p">Upewnij się, że pakiet <span class="app">adobe-flashplugin</span> jest zainstalowany.</p></li>
 <li class="steps">
-<p class="p">Open a terminal window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> and
-   install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package:</p>
+<p class="p">Otwórz okno terminala naciskając klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> i zainstaluj pakiet <span class="app">browser-plugin-freshplayer-pepperflash</span>:</p>
 <p class="p"><span class="cmd">sudo apt install browser-plugin-freshplayer-pepperflash</span></p>
 </li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">Ponownie uruchom przeglądarkę.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -125,7 +114,7 @@ that needs it. Flash is available as a free (but not open-source) download for m
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.pl-PL" title="Przeglądarki WWW">Przeglądarki WWW</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.pl-PL" title="Change which web browser opens websites by default">Zmiana domyślnej przeglądarki</a></span>, <span class="link"><a href="net-install-flash.html.pl-PL" title="Zainstaluj wtyczkę Flash">instalacja wtyczki Flash</a></span>…</span>
+<a href="net-browser.html.pl-PL" title="Przeglądarki WWW">Przeglądarki WWW</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.pl-PL" title="Zmiana przeglądarki, w której domyślnie otwierane są strony internetowe">Zmiana domyślnej przeglądarki</a></span>, <span class="link"><a href="net-install-flash.html.pl-PL" title="Instalacja wtyczki Flash">instalacja wtyczki Flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -136,7 +125,7 @@ that needs it. Flash is available as a free (but not open-source) download for m
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

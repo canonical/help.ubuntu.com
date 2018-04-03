@@ -64,16 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Alles van een verwijderbare schijf wissen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have a removable disk, like a USB memory stick or an external hard
- disk, you may sometimes wish to completely remove all of its files and
- folders. You can do this by <span class="em">formatting</span> the disk — this deletes all
- of the files on the disk and leaves it empty.</p>
+<p class="p">Als u een verwisselbare schijf heeft, zoals een USB-stick of een externe harde schijf, dan wilt u misschien op enig moment alle bestanden en mappen daarop verwijderen. U kunt dit doen door de schijf te <span class="em">formatteren</span> — dit verwijdert alle bestanden op de schijf en maakt hem dus helemaal leeg.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Formatteer de verwijderbare schijf</span></h2></div>
 <div class="region"><ol class="steps">
@@ -112,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -65,22 +65,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> › <a class="trail" href="mouse.html.fi#tips" title="Vinkit">Vinkit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> › <a class="trail" href="mouse.html.fi#tips" title="Vinkit">Vinkit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> › <a class="trail" href="mouse.html.fi#tips" title="Vinkit">Vinkit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="mouse.html.fi" title="Hiiri">Hiiri</a> › <a class="trail" href="mouse.html.fi#tips" title="Vinkit">Vinkit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.fi" title="Niksit ja vinkit">Niksit ja vinkit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="tips.html.fi" title="Niksit ja vinkit">Niksit ja vinkit</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hiiren keskimmäisen painikkeen napsautus</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
-with a scroll wheel, you can usually press directly down on the scroll
-wheel to middle-click. If you don’t have a middle mouse button, you
-can press the left and right mouse buttons at the same time to
-middle-click.</p>
+<p class="p">Useimmat hiiret ja kosketyslevyt sisältävät keskimmäisen painikkeen. Vieritysrullalla varustetuissa hiirissä on yleensä mahdollista painaa vieritysrulla pohjaan, jolloin painallus luetaan keskimmäisen painikkeen napsautukseksi. Jos hiiressäsi ei ole vieritysrullaa, voit painaa vasemman ja oikean painikkeen pohjaan samanaikaisesti napsauttaaksesi keskimmäistä painiketta.</p>
 <p class="p">Monikosketusta tukevilla kosketuslevyillä keskipainikkeen painalluksen voi tehdä napsauttamalla levyä kolmella sormella. <span class="link"><a href="mouse-touchpad-click.html.fi" title="Click, drag, or scroll with the touchpad">Kosketuslevyn hiirinapsautukset</a></span> pitää kuitenkin ottaa käyttöön toiminnon käyttämiseksi.</p>
 <p class="p">Monet sovellukset hyödyntävät hiiren keskipainiketta.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -89,9 +85,7 @@ middle-click.</p>
   application’s icon, either in the dash on the left, or in the applications
   overview. The applications overview is displayed using the grid button in the
   dash.</p></li>
-<li class="list"><p class="p">Most web browsers allow you to open links in tabs quickly with the
-  middle mouse button. Just click any link with your middle mouse button, and
-  it will open in a new tab.</p></li>
+<li class="list"><p class="p">Useimmat verkkoselaimet mahdollistavat linkkien avaamisen välilehtiin hiiren keskimmäisen painikkeen napsautuksella. Napsauta mitä tahansa linkkiä hiiren keskimmäisellä painikkeella, ja linkki avautuu uuteen välilehteen.</p></li>
 <li class="list"><p class="p">Tiedostonhallinnassa keskipainikkeella on kaksi tehtävää. Kansiota napsauttaessa kansio aukeaa uuteen välilehteen. Mitä tahansa tiedostoa napsauttaessa keskipainikkeen painallus vastaa normaalia tiedoston avaamista, eli kaksoispainallusta. Tiedoston napsautus keskipainikkeella siis avaa sen.</p></li>
 </ul></div></div></div>
 <p class="p">Some specialized applications allow you to use the middle mouse
@@ -117,7 +111,7 @@ button for other functions. Search your application’s help for
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

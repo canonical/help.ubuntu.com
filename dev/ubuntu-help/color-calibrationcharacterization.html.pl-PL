@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What’s the difference between calibration and characterization?</title>
+<title>Czym różni się kalibracja od charakterystyki?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,56 +65,24 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Czym różni się kalibracja od charakterystyki?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    Many people are initially confused about the difference between calibration
-    and characterization.
-    Calibration is the process of modifying the color behavior of a device.
-    This is typically done using two mechanisms:
-  </p>
+<p class="p">Różnica między kalibracją a charakteryzacją na początku jest myląca dla wielu osób. Kalibracja to proces modyfikowania zachowania kolorów urządzenia. Używa się do tego zwykle dwóch mechanizmów:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Changing controls or internal settings that it has</p></li>
-<li class="list"><p class="p">Applying curves to its color channels</p></li>
+<li class="list"><p class="p">Zmiana wewnętrznych ustawień urządzenia</p></li>
+<li class="list"><p class="p">Zastosowanie krzywych na kanałach kolorów urządzenia</p></li>
 </ul></div></div></div>
-<p class="p">
-    The idea of calibration is to put a device in a defined state with regard
-    to its color response.
-    Often this is used as a day to day means of maintaining reproducible behavior.
-    Typically calibration will be stored in device or systems specific file
-    formats that record the device settings or per-channel calibration curves.
-  </p>
-<p class="p">
-    Characterization (or profiling) is <span class="em">recording</span> the way
-    a device reproduces or responds to color.
-    Typically the result is stored in a device ICC profile.
-    Such a profile does not in itself modify color in any way.
-    It allows a system such as a CMM (Color Management Module) or a color aware
-    application to modify color when combined with another device profile.
-    Only by knowing the characteristics of two devices, can a way of
-    transferring color from one device representation to another be achieved.
-  </p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      Note that a characterization (profile) will only be valid for a device
-      if it’s in the same state of calibration as it was when it was
-      characterized.
-    </p></div></div></div></div>
-<p class="p">
-    In the case of display profiles there is some additional confusion because
-    often the calibration information is stored in the profile for convenience.
-    By convention it is stored in a tag called the <span class="em">vcgt</span> tag.
-    Although it is stored in the profile, none of the normal ICC based tools
-    or applications are aware of it, or do anything with it.
-    Similarly, typical display calibration tools and applications will not be
-    aware of, or do anything with the ICC characterization (profile) information.
-  </p>
+<p class="p">Kalibracja polega na ustawieniu urządzenia w określonym stanie odpowiedzi kolorów. Często jest używana jako codzienny sposób na utrzymywanie powtarzalnego zachowania. Kalibracja zwykle jest przechowywana w formacie pliku dla konkretnego urządzenia lub systemu, który nagrywa ustawienia urządzenia i krzywe kalibracji dla każdego kanału.</p>
+<p class="p">Charakteryzacja (lub profilowanie) to <span class="em">nagrywanie</span> sposobu, w jaki urządzenie odtwarza lub odpowiada na kolory. Zwykle wynik jest przechowywany w profilu ICC urządzenia. Taki profil sam z siebie nie modyfikuje kolorów w żaden sposób. Umożliwia systemowi, takiemu jak CMM (moduł zarządzania kolorami), lub programowi rozumiejącemu kolory modyfikować kolory po połączeniu z profilem innego urządzenia. Tylko znając charakterystykę dwóch urządzeń można uzyskać sposób na przenoszenie kolorów z jednej reprezentacji urządzenia na drugą.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Zauważ, że charakteryzacja (profil) jest prawidłowa dla urządzenia tylko, jeśli jest w tym samym stanie kalibracji, co podczas procesu charakteryzacji.</p></div></div></div></div>
+<p class="p">Profile ekranów są dodatkowo mylące, ponieważ często informacje o kalibracji są dla wygody przechowywane w profilu. Zwyczajowo są one w znaczniku o nazwie <span class="em">vcgt</span>. Chociaż te informacje są przechowywane w profilu, to żadne ze zwykłych narzędzi opartych na ICC ani programów o tym nie wiedzą, ani nic z nimi nie robią. Podobnie typowe narzędzia do kalibracji ekranów i programy nic nie wiedzą, ani nic nie robią z informacjami o charakteryzacji (profilu) ICC.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -130,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

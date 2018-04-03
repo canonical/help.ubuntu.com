@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Dodaj osobiste archiwum pakietów (PPA)</title>
+<title>Dodawanie osobistego archiwum pakietów (PPA)</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,49 +64,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.pl-PL" title="Install &amp; remove software">Add/remove software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="addremove.html.pl-PL" title="Instalowanie i usuwanie oprogramowania">Dodawanie/usuwanie oprogramowania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Dodaj osobiste archiwum pakietów (PPA)</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Dodawanie osobistego archiwum pakietów (PPA)</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    <span class="em">Personal Package Archives (PPAs)</span> are software repositories designed 
-    for Ubuntu users and are easier to install than other third-party 
-    repositories. PPAs are often used to distribute pre-release software so that it can be tested.
-  </p>
+<p class="p"><span class="em">Osobiste archiwum pakietów (PPA)</span> to repozytorium oprogramowania dla użytkowników Ubuntu, które jest łatwiejsze w obsłudze od innych repozytoriów stron trzecich. Są one często wykorzystywane do udostępniania oprogramowania przed wydaniem, umożliwiając jego testowanie.</p>
 <div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Dodawaj repozytoria oprogramowania tylko z zaufanych źródeł!</p>
-<p class="p">
-      Third-party software repositories are not checked for security or 
-      reliability by Ubuntu members, and may contain software which is harmful 
-      to your computer.
-    </p>
+<p class="p">Dodawaj repozytoria oprogramowania tylko z zaufanych źródeł!</p>
+<p class="p">Repozytoria oprogramowania stron trzecich nie są sprawdzane pod kątem bezpieczeństwa i jakości przez programistów Ubuntu, więc mogą zawierać oprogramowanie szkodliwe dla komputera.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Zainstaluj PPA</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Instalacja PPA</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        On the PPA's overview page, look for the heading <span class="gui">Adding this PPA to 
-        your system</span>. Make a note of the PPA's location, which should look 
-        similar to: <span class="code">ppa:mozillateam/firefox-next</span>.
-      </p></li>
-<li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">Ubuntu Software</span> launches, click <span class="gui">Software &amp; Updates</span>
-      </p></li>
+<li class="steps"><p class="p">Na głównej stronie PPA poszukaj nagłówka <span class="gui">Adding this PPA to your system</span> (Dodawanie tego PPA do komputera). Skopiuj położenie PPA, które wygląda w ten sposób: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
+<li class="steps"><p class="p">Kliknij ikonę <span class="app">Menedżera oprogramowania Ubuntu</span> na <span class="gui">pasku ulubionych</span> lub wyszukaj <span class="input">Oprogramowanie</span> za pomocą paska wyszukiwania <span class="em">ekranu podglądu</span>.</p></li>
+<li class="steps"><p class="p">Po uruchomieniu <span class="app">Menedżera oprogramowania Ubuntu</span> kliknij przycisk <span class="gui">Oprogramowanie i aktualizacje</span>.</p></li>
 <li class="steps"><p class="p">Przejdź do karty <span class="gui">Inne oprogramowanie</span>.</p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Add</span> and enter the PPA's location (as noted in step 1).
-      </p></li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Dodaj źródło</span>. Podaj swoje hasło w oknie uwierzytelnienia.</p></li>
-<li class="steps"><p class="p">
-        Close the <span class="app">Software &amp; Updates</span> window. <span class="app">Ubuntu Software</span> will then 
-        check your software sources for new software.
-      </p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj</span> i wklej położenie PPA (skopiowane w pierwszym kroku).</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj źródło</span>. Wpisz hasło w oknie uwierzytelnienia.</p></li>
+<li class="steps"><p class="p">Zamknij okno <span class="app">Oprogramowanie i aktualizacje</span>. <span class="app">Menedżer oprogramowania Ubuntu</span> wyszuka nowe oprogramowanie w źródłach.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -116,22 +94,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.pl-PL" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.pl-PL" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.pl-PL" title="Usuń program">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.pl-PL" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.pl-PL" title="Instalowanie i usuwanie oprogramowania">Instalowanie i usuwanie oprogramowania</a><span class="desc"> — <span class="link"><a href="addremove-install.html.pl-PL" title="Instalacja dodatkowych programów">Instalowanie programów</a></span>, <span class="link"><a href="addremove-remove.html.pl-PL" title="Usuwanie programu">usuwanie programów</a></span>, <span class="link"><a href="addremove-sources.html.pl-PL" title="Dodawanie repozytoriów oprogramowania">dodawanie repozytoriów</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-sources.html.pl-PL" title="Add software repositories">
-    Add software repositories
-  </a><span class="desc"> — 
-      Add repositories to extend the software sources Ubuntu uses for 
-      installation and upgrades.
-    </span>
+<a href="addremove-sources.html.pl-PL" title="Dodawanie repozytoriów oprogramowania">Dodawanie repozytoriów oprogramowania</a><span class="desc"> — Dodawanie repozytoriów, aby rozszerzyć źródła oprogramowania wykorzystywane przez Ubuntu do instalacji i aktualizacji.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -143,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

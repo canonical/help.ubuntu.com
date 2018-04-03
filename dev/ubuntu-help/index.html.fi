@@ -65,7 +65,7 @@
 </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntun logo"></span></span> Ubuntun työpöytäopas</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.fi" title="Käytön aloittaminen"><span class="title">Gnomen käytön aloittaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Käytätkö Gnomea ensimmäistä kertaa? Opettele perusasiat.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
@@ -91,12 +91,8 @@
 <div class="desc"><span class="desc"><span class="link"><a href="files-search.html.fi" title="Etsi tiedostoista">Etsiminen</a></span>, <span class="link"><a href="files-delete.html.fi" title="Poista tiedostoja ja kansioita">tiedostojen poistaminen</a></span>, <span class="link"><a href="files.html.fi#backup" title="Varmuuskopiointi">varmuuskopiot</a></span>, <span class="link"><a href="files.html.fi#removable" title="Irrotettavat asemat ja ulkoiset levyt">irrotettavat asemat</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html.fi" title="Install &amp; remove software">Install &amp; remove software</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html.fi" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.fi" title="Poista sovellus">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.fi" title="Add software repositories">add repositories</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="addremove.html.fi" title="Lisää ja poista ohjelmistoja">Lisää ja poista ohjelmistoja</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna sovelluksia</a></span>, <span class="link"><a href="addremove-remove.html.fi" title="Poista sovellus">poista sovelluksia</a></span>, <span class="link"><a href="addremove-sources.html.fi" title="Lisää ohjelmistolähteitä">lisää ohjelmistolähteitä</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a></div>
@@ -126,7 +122,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,31 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="power.html.pl-PL#problems" title="Problemy">Problemy z zasilaniem</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="power.html.pl-PL#problems" title="Problemy">Problemy z zasilaniem</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Po przebudzeniu komputera sieć bezprzewodowa nie działa</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have suspended your computer, you may find that your wireless
-  internet connection does not work when you resume it again. This happens when
-  the <span class="link"><a href="hardware-driver.html.pl-PL" title="Czym jest sterownik?">driver</a></span> for the wireless device does
-  not fully support certain power saving features.
-  Typically, the wireless connection fails to turn on properly when the
-  computer is resumed.</p>
-<p class="p">If this happens, try switching your wireless off and then back on
-  again:</p>
+<p class="p">Po przebudzeniu komputera z uśpienia może się okazać, że bezprzewodowe połączenie internetowe nie działa. Zdarza się to, kiedy <span class="link"><a href="hardware-driver.html.pl-PL" title="Czym jest sterownik?">sterownik</a></span> urządzenia bezprzewodowego nie obsługuje w pełni pewnych funkcji oszczędzania prądu.</p>
+<p class="p">W takim przypadku spróbuj wyłączyć sieć bezprzewodową i włączyć ją ponownie:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Wybierz <span class="gui">Wi-Fi</span>.</p></li>
-<li class="steps"><p class="p">Switch the wireless <span class="gui">OFF</span> and then <span class="gui">ON</span> again.</p></li>
-<li class="steps"><p class="p">If the wireless still does not work, switch <span class="gui">ON</span> the
-      <span class="gui">Airplane Mode</span> and then switch it <span class="gui">OFF</span> again.</p></li>
+<li class="steps"><p class="p">Przełącz sieć bezprzewodową na <span class="gui">◯</span> (wyłączone) i z powrotem na <span class="gui">|</span> (włączone).</p></li>
+<li class="steps"><p class="p">Jeśli sieć bezprzewodowa nadal nie działa, przełącz <span class="gui">Tryb samolotowy</span> na <span class="gui">|</span> (włączone) i z powrotem na <span class="gui">◯</span> (wyłączone).</p></li>
 </ol></div></div></div>
-<p class="p">If this does not work, restarting your computer should make the wireless
-  work again. If you are still having problems after that, connect to the
-  internet using an Ethernet cable and update your computer.</p>
+<p class="p">Jeśli to nie zadziała, ponowne uruchomienie komputera powinno naprawić sieć bezprzewodową. Jeśli po tym nadal są problemy, połącz się z Internetem za pomocą kabla Ethernet i zaktualizuj komputer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -103,11 +94,10 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-driver.html.pl-PL" title="Czym jest sterownik?">Czym jest sterownik?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
-    attached to it.</span>
+<a href="hardware-driver.html.pl-PL" title="Czym jest sterownik?">Czym jest sterownik?</a><span class="desc"> — Sterownik sprzętu/urządzenia umożliwia komputerowi używanie podłączonych do niego urządzeń.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html.pl-PL" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.pl-PL" title="Dlaczego komputer nie włącza się z powrotem po uśpieniu?">Dlaczego komputer nie włącza się z powrotem po uśpieniu?</a><span class="desc"> — Niektóre urządzenia powodują problemy z usypianiem.</span>
 </li>
 </ul></div>
 </div></div>
@@ -120,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

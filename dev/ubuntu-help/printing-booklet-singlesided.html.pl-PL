@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print a booklet on a single-sided printer</title>
+<title>Drukowanie broszury na drukarce jednostronnej</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,37 +64,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html.pl-PL" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html.pl-PL#paper" title="Różne rozmiary i układy papieru">Rozmiary i układy</a> » <a class="trail" href="printing-booklet.html.pl-PL" title="Drukowanie broszury">Drukowanie broszury</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html.pl-PL" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html.pl-PL#paper" title="Różne rozmiary i układy papieru">Rozmiary i układy</a> » <a class="trail" href="printing-booklet.html.pl-PL" title="Drukowanie broszury">Drukowanie broszury</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Print a booklet on a single-sided printer</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Drukowanie broszury na drukarce jednostronnej</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents">
-<p class="p">These instructions are for printing a booklet from a PDF document.</p>
-<p class="p">If you want to print a booklet from a <span class="app">LibreOffice</span> document,
-    first export it to a PDF by choosing <span class="guiseq"><span class="gui">File</span> ▸ <span class="gui">Export
-    as PDF…</span></span>. Your document needs to have a multiple of 4
-    number of pages (4, 8, 12, 16,…). You may need to add up to 3 blank
-    pages.</p>
+<p class="p">Te instrukcje służą do drukowania broszury z dokumentu PDF.</p>
+<p class="p">Aby wydrukować broszurę z dokumentu <span class="app">LibreOffice</span>, najpierw wyeksportuj go do pliku PDF wybierając <span class="guiseq"><span class="gui">Plik</span> ▸ <span class="gui">Eksportuj jako PDF…</span></span>. Dokument musi mieć liczbę stron będącą wielokrotnością 4 (4, 8, 12, 16 itd.). Może być potrzeba dodania do 3 pustych stron.</p>
 </div></div></div></div>
 <p class="p">Aby wydrukować:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the print dialog. This can normally be done through
-      <span class="gui">Print</span> in the menu or using the
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> keyboard shortcut.</p></li>
+<li class="steps"><p class="p">Otwórz okno wydruku. Zwykle można to zrobić przez <span class="gui">Wydrukuj</span> w menu lub za pomocą skrótu klawiszowego <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Kliknij przycisk <span class="gui">Właściwości…</span></p>
-<p class="p">In the <span class="gui">Orientation</span> drop-down list, make sure that
-      <span class="gui">Landscape</span> is selected.</p>
-<p class="p">Click <span class="gui">OK</span> to go back to the print dialog.</p>
+<p class="p">Upewnij się, że na rozwijanej liście <span class="gui">Orientacja</span> wybrana jest <span class="gui">Pozioma</span>.</p>
+<p class="p">Kliknij przycisk <span class="gui">OK</span>, aby wrócić do okna wydruku.</p>
 </li>
 <li class="steps">
-<p class="p">Under <span class="gui">Range and Copies</span>, choose <span class="gui">Pages</span>.</p>
-<p class="p">Type the numbers of the pages in this order (n is the total number of
-      pages, and a multiple of 4):</p>
+<p class="p">W sekcji <span class="gui">Zakres i kopie</span> wybierz <span class="gui">Strony</span>.</p>
+<p class="p">Wpisz numery stron w tej kolejności („n” to całkowita liczba stron, a także wielokrotność 4):</p>
 <p class="p">n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9, 10, n-9, n-10, 11, 12, n-11…</p>
-<p class="p">…until you have typed all of the pages.</p>
+<p class="p">…aż zostaną wpisane wszystkie strony.</p>
 <div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Przykłady:</p>
 <p class="p">4-stronicowa broszura: wpisz <span class="input">4,1,2,3</span>.</p>
@@ -105,23 +97,18 @@
 </div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">Choose the <span class="gui">Page Layout</span> tab.</p>
-<p class="p">Under <span class="gui">Layout</span>, select <span class="gui">Brochure</span>.</p>
-<p class="p">Under <span class="gui">Page Sides</span>, in the <span class="gui">Include</span> drop-down list,
-      select <span class="gui">Front sides / right pages</span>.</p>
+<p class="p">Wybierz kartę <span class="gui">Układ strony</span>.</p>
+<p class="p">W sekcji <span class="gui">Układ</span> wybierz <span class="gui">Broszura</span>.</p>
+<p class="p">W sekcji <span class="gui">Strony</span> z rozwijanej listy <span class="gui">Dołączanie</span> wybierz <span class="gui">Przednie strony/prawe strony</span>.</p>
 </li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Wydrukuj</span>.</p></li>
-<li class="steps"><p class="p">When all the pages have printed, flip the pages over and place them
-      back in the printer.</p></li>
-<li class="steps"><p class="p">Open the print dialog. This can normally be done through
-      <span class="gui">Print</span> in the menu or using the
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> keyboard shortcut.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Wydrukuj</span>.</p></li>
+<li class="steps"><p class="p">Po wydrukowaniu wszystkich stron odwróć kartki i umieść je z powrotem w drukarce.</p></li>
+<li class="steps"><p class="p">Otwórz okno wydruku. Zwykle można to zrobić przez <span class="gui">Wydrukuj</span> w menu lub za pomocą skrótu klawiszowego <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Choose the <span class="gui">Page Layout</span> tab.</p>
-<p class="p">Under <span class="gui">Page Sides</span>, in the <span class="gui">Include</span> drop-down list,
-      select <span class="gui">Back sides / left pages</span>.</p>
+<p class="p">Wybierz kartę <span class="gui">Układ strony</span>.</p>
+<p class="p">W sekcji <span class="gui">Strony</span> z rozwijanej listy <span class="gui">Dołączanie</span> wybierz <span class="gui">Tylne strony/lewe strony</span>.</p>
 </li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Wydrukuj</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Wydrukuj</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -129,8 +116,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-booklet.html.pl-PL" title="Drukowanie broszury">Drukowanie broszury</a><span class="desc"> — How to print a folded, multi-page booklet using A4 or Letter-sized
-    paper.</span>
+<a href="printing-booklet.html.pl-PL" title="Drukowanie broszury">Drukowanie broszury</a><span class="desc"> — Jak wydrukować składaną, wielostronicową broszurę za pomocą papieru A4 lub Letter.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -141,7 +127,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

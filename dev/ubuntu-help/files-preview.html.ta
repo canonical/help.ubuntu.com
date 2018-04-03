@@ -70,6 +70,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">கோப்புகள் மற்றும் கோப்புறைகளின் மாதிரிக்காட்சி காணல்</span></h1></div>
 <div class="region">
 <div class="contents">
+<div class="note note-important" title="முக்கியமானது"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Sushi</span> installed on your computer to perform
+  these steps.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Install <span class="app">Sushi</span></a></span></p>
+</div></div></div></div>
 <p class="p">நீங்கள் கோப்புகளை திறக்காமலே விரைவாக அவற்றின் மாதிரிக்காட்சிகளை ஒரு முழுவதும் பெரிதாக்கப்பட்ட பயன்பாட்டில் பார்க்கலாம். ஏதேனும் ஒரு கோப்பைத் தேர்ந்தெடுத்து space bar ஐ அழுத்தவும். அப்போது கோப்பு ஒரு எளிய மதிரிக்காட்சி சாளரத்தில் திறக்கும். மாதிரிக்காட்சியை மூட மீண்டும் space bar ஐ அழுத்தவும்.</p>
 <p class="p">உள்ளமைந்த இந்த மாதிரிக்காட்சி அம்சத்தில், ஆவணங்கள், படங்கள், வீடியோ மற்றும் ஆடியோ கோப்புகளின் பெரும்பாலான வடிவங்களை ஆதரிக்கிறது. மாதிரிக்காட்சியில், நீங்கள் உங்கள் ஆவணங்களை உலவிப் பார்க்கலாம் அல்லது உங்கள் வீடியோ மற்றும் ஆடியோவில் குறிப்பிட்ட இடங்களைத் தேடியடையலாம்.</p>
 <p class="p">To view a preview full-screen, press <span class="key"><kbd>F</kbd></span> or <span class="key"><kbd>F11</kbd></span>. Press
@@ -98,7 +103,7 @@ bar to exit the preview completely.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

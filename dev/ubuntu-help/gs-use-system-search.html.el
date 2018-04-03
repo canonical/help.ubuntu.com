@@ -75,7 +75,10 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Ανοίξτε την επισκόπηση <span class="gui">Δραστηριότητες</span> πατώντας το πλήκτρο <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Λογότυπο</kbd></a></span>. Ξεκινήστε να πληκτρολογείτε για αναζήτηση.</p>
+<p class="p">Open the <span class="gui">Activities</span> overview by clicking <span class="gui">Activities</span> 
+    at the top left of the screen, or by pressing the
+    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key. 
+    Start typing to search.</p>
 <p class="p">Αποτελέσματα ανάλογα με αυτό που έχετε γράψει θα εμφανίζονται όσο γράφετε. Το πρώτο αποτέλεσμα πάντα επισημαίνεται και εμφανίζεται στην κορυφή.</p>
 <p class="p">Για να μεταβείτε στο πρώτο επισημασμένο αποτέλεσμα, πατήστε το πλήκτρο <span class="key"><kbd>Enter</kbd></span>.</p>
 </li></ol></div></div></div>
@@ -86,8 +89,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">τις εφαρμογές που ταιριάζουν και εμφανίζονται στην κορυφή των αποτελεσμάτων αναζήτησης,</p></li>
 <li class="list"><p class="p">τις ρυθμίσεις που ταιριάζουν,</p></li>
-<li class="list"><p class="p">τις επαφές που ταιριάζουν και</p></li>
-<li class="list"><p class="p">τα έγγραφα που ταιριάζουν.</p></li>
+<li class="list"><p class="p">matching contacts,</p></li>
+<li class="list"><p class="p">matching documents,</p></li>
+<li class="list"><p class="p">matching calendar,</p></li>
+<li class="list"><p class="p">matching calculator,</p></li>
+<li class="list"><p class="p">matching software,</p></li>
+<li class="list"><p class="p">matching files,</p></li>
+<li class="list"><p class="p">matching terminal,</p></li>
+<li class="list"><p class="p">matching passwords and keys.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +119,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui"><a href="shell-introduction.html.el#yourname" title="Εσείς και ο υπολογιστή σας">μενού του συστήματος</a></span> στο δεξί μέρος της πάνω μπάρας.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο κουμπί ρυθμίσεις στο κάτω αριστερό μέρος του μενού.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στον πίνακα <span class="gui">Αναζήτηση</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Search</span> in the left panel.</p></li>
 <li class="steps"><p class="p">Στη λίστα των τοποθεσιών αναζήτησης, πατήστε τον διακόπτη <span class="gui">ΝΑΙ/ΟΧΙ</span> δίπλα στην τοποθεσία αναζήτησης που θέλετε να ενεργοποιήσετε ή να απενεργοποιήσετε.</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

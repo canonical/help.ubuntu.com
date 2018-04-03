@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Where do I get color profiles?</title>
+<title>On puc obtenir perfils de color?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,36 +65,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Where do I get color profiles?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">On puc obtenir perfils de color?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    The best way to get profiles is to generate them yourself, although
-    this does require some initial outlay.
-  </p>
-<p class="p">
-    Many manufacturers do try to provide color profiles for devices,
-    although sometimes they are wrapped up in <span class="em">driver bundles</span>
-    which you may need to download, extract and then search for the
-    color profiles.
-  </p>
-<p class="p">
-    Some manufacturers do not provide accurate profiles for the hardware
-    and the profiles are best avoided.
-    A good clue is to download the profile, and if the creation date is
-    more than a year before the date you bought the device then it’s
-    likely dummy data generated that is useless.
-  </p>
-<p class="p">
-    See <span class="link"><a href="color-why-calibrate.html.ca" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a></span> for information on why vendor-supplied
-    profiles are often worse than useless.
-  </p>
+<p class="p">La millor manera d'obtenir perfils és generar-los un mateix, encara que això requereixi una despesa inicial.</p>
+<p class="p">Molts fabricants intenten proporcionar perfils de color per a dispositius, tot i que de vegades es troben dins de <span class="em">paquets de controladors</span> que haureu de descarregar, extreure i, a continuació, cercar els perfils de color.</p>
+<p class="p">Alguns fabricants no proporcionen perfils precisos per al maquinari i és millor evitar els seus perfils. Una bona pista és descarregar-se el perfil i si la data de creació és més d'un any anterior a la data en què vau comprar el dispositiu, és probable que s'hagi generat amb dades simulades inútils.</p>
+<p class="p">Veure <span class="link"><a href="color-why-calibrate.html.ca" title="Per què he de fer jo la calibració?">Per què he de fer jo la calibració?</a></span> per obtenir informació sobre per què els perfils subministrats per proveïdors solen ser pitjor que inútils.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -107,17 +90,16 @@
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-testing.html.ca" title="How do I test if color management is working correctly?">How do I test if color management is working correctly?</a><span class="desc"> — Use the supplied test profiles to check that your profiles are being
-    applied correctly to your screen.</span>
+<a href="color-testing.html.ca" title="Com puc provar si la gestió del color funciona correctament?">Com puc provar si la gestió del color funciona correctament?</a><span class="desc"> — Utilitzeu els perfils de prova proporcionats per comprovar que els vostres perfils s'apliquen correctament a la vostra pantalla.</span>
 </li>
 <li class="links ">
-<a href="color-missingvcgt.html.ca" title="Missing information for whole-screen color correction?">Missing information for whole-screen color correction?</a><span class="desc"> — Whole-screen color correction modifies all the screen colors on all windows.</span>
+<a href="color-missingvcgt.html.ca" title="Falta informació per a la correcció del color de la pantalla sencera?">Falta informació per a la correcció del color de la pantalla sencera?</a><span class="desc"> — La correcció de color de tota la pantalla modifica tots els colors de la pantalla a totes les finestres.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html.ca" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-why-calibrate.html.ca" title="Per què he de fer jo la calibració?">Per què he de fer jo la calibració?</a><span class="desc"> — Calibrar és important si us preocupa els colors que mostreu o imprimiu.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html.ca" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
+<a href="color-whatisprofile.html.ca" title="Què és un perfil de color?">Què és un perfil de color?</a><span class="desc"> — Un perfil de color és un fitxer simple que expressa un espai de color o una resposta del dispositiu.</span>
 </li>
 </ul></div>
 </div></div>
@@ -130,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

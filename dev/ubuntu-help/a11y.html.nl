@@ -64,14 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Universele toegang</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Het Gnome-bureaublad bevat assisterende technologieën om gebruikers met een beperking en speciale behoeften te ondersteunen, en om te kunnen werken met algemene ondersteunende apparaten. Via het toegankelijkheidsmenu dat kan worden toegevoegd aan de bovenbalk, heeft u toegang tot veel van de toegankelijkheidsfuncties.</p>
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.nl" title="Het menu Universele toegang vinden"><span class="title">Het menu Universele toegang vinden</span><span class="linkdiv-dash"> — </span><span class="desc">Het menu Universele toegang is het pictogram op de bovenste balk dat eruit ziet als een persoon.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.nl" title="Het menu Universele toegang vinden"><span class="title">Het menu Universele toegang vinden</span><span class="linkdiv-dash"> — </span><span class="desc">Het menu Universele toegang is het pictogram in de bovenbalk dat eruit ziet als een persoon.</span></a></div></div></div></div>
 </div>
 <div id="vision" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Visuele beperkingen</span></h2></div>
@@ -91,8 +91,7 @@
 <div class="title title-links"><h3><span class="title">Slechtziendheid</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-contrast.html.nl" title="Contrast aanpassen">Contrast aanpassen</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
-    they’re easier to see.</span>
+<a href="a11y-contrast.html.nl" title="Contrast aanpassen">Contrast aanpassen</a><span class="desc"> — Vensters en knoppen meer of minder helder maken, zodat ze beter te zien zijn.</span>
 </li>
 <li class="links ">
 <a href="a11y-font-size.html.nl" title="De tekstgrootte op het scherm wijzigen">De tekstgrootte op het scherm wijzigen</a><span class="desc"> — Een groter lettertype gebruiken om het lezen van tekst te vergemakkelijken.</span>
@@ -121,8 +120,7 @@
 <div class="title title-links"><h3><span class="title">Muisbeweging</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-mousekeys.html.nl" title="De muisaanwijzer met behulp van het numerieke toetsenbord klikken en bewegen.">De muisaanwijzer met behulp van het numerieke toetsenbord klikken en bewegen.</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
-    keypad.</span>
+<a href="mouse-mousekeys.html.nl" title="De muisaanwijzer met behulp van het numerieke toetsenbord klikken en bewegen.">De muisaanwijzer met behulp van het numerieke toetsenbord klikken en bewegen.</a><span class="desc"> — Muistoetsen inschakelen om de muis via het numerieke toetsenbord te besturen.</span>
 </li>
 <li class="links ">
 <a href="mouse-sensitivity.html.nl" title="De snelheid van de muis en het touchpad aanpassen">De snelheid van de muis en het touchpad aanpassen</a><span class="desc"> — Wijzigen hoe snel de aanwijzer beweegt wanneer u de muis of touchpad gebruikt.</span>
@@ -147,7 +145,10 @@
 <div class="title title-links"><h3><span class="title">Toetsenbordgebruik</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-repeat-keys.html.nl" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Voorkom dat het toetsenbord letters herhaalt wanneer u een toets vasthoudt, of wijzig de vertraging en snelheid van herhaaltoetsen.</span>
+<a href="keyboard-osk.html.nl" title="Een schermtoetsenbord gebruiken">Een schermtoetsenbord gebruiken</a><span class="desc"> — Een schermtoetsenbord gebruiken om tekst in te voeren door met de muis of aanraken op knoppen te klikken.</span>
+</li>
+<li class="links ">
+<a href="keyboard-repeat-keys.html.nl" title="Herhaald indrukken van een toets beheren">Herhaald indrukken van een toets beheren</a><span class="desc"> — Voorkom dat het toetsenbord letters herhaalt wanneer u een toets vasthoudt, of wijzig de vertraging en snelheid van herhaaltoetsen.</span>
 </li>
 <li class="links ">
 <a href="a11y-stickykeys.html.nl" title="Plaktoetsen activeren">Plaktoetsen activeren</a><span class="desc"> — Sneltoetsen op het toetsenbord één voor één indrukken, in plaats van allemaal tegelijk.</span>
@@ -161,10 +162,6 @@
 <li class="links ">
 <a href="a11y-slowkeys.html.nl" title="Trage toetsen inschakelen">Trage toetsen inschakelen</a><span class="desc"> — Zorgt voor een vertraging tussen het moment dat een toets ingedrukt wordt, en het moment dat deze letter op het scherm verschijnt.</span>
 </li>
-<li class="links ">
-<a href="keyboard-osk.html.nl" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
-    mouse or a touchscreen.</span>
-</li>
 </ul></div>
 </div></div>
 </div>
@@ -173,8 +170,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Zie ook</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-key-menu.html.nl" title="Wat is de Menu-toets?">Wat is de <span class="key"><kbd>Menu</kbd></span>-toets?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
-    rather than with a right-click.</span>
+<a href="keyboard-key-menu.html.nl" title="Wat is de Menu-toets?">Wat is de <span class="key"><kbd>Menu</kbd></span>-toets?</a><span class="desc"> — De <span class="key"><kbd>Menu</kbd></span>-toets opent een contextmenu via het toetsenbord in plaats van een klik met de rechtermuisknop.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -194,7 +190,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

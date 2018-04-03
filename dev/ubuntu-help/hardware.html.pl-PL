@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sprzęt i sterowniki</span></h1></div>
@@ -77,80 +77,52 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="printing.html.pl-PL" title="Drukowanie">Drukowanie</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="printing-setup.html.pl-PL" title="Ustawianie lokalnej drukarki">Local setup</a></span>,
-      
-      <span class="link"><a href="printing-order.html.pl-PL" title="Make pages print in a different order">order and collate</a></span>,
-      <span class="link"><a href="printing-2sided.html.pl-PL" title="Print two-sided and multi-page layouts">two-sided and multi-page</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.pl-PL" title="Konfiguracja lokalnej drukarki">Lokalna drukarka</a></span>, <span class="link"><a href="printing-order.html.pl-PL" title="Drukowanie stron w innej kolejności">kolejność i segregowanie</a></span>, <span class="link"><a href="printing-2sided.html.pl-PL" title="Drukowanie dwustronne i układy wielostronicowe">dwustronnie i wielostronicowo</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a></div>
-<div class="desc"><span class="desc">
-    <span class="link"><a href="disk-capacity.html.pl-PL" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.pl-PL" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.pl-PL" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.pl-PL" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="hardware-auth.html.pl-PL" title="Fingerprints &amp; smart cards">Fingerprints &amp; smart cards</a></div>
-<div class="desc"><span class="desc">
-    <span class="link"><a href="session-fingerprint.html.pl-PL" title="Logowanie za pomocą odcisku palca">Fingerprint readers</a></span>,
-
-    smart cards…
-  </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.pl-PL" title="Sprawdzanie wolnego miejsca na dysku">Miejsce na dysku</a></span>, <span class="link"><a href="disk-benchmark.html.pl-PL" title="Testowanie wydajności dysku twardego">wydajność</a></span>, <span class="link"><a href="disk-check.html.pl-PL" title="Sprawdzanie, czy dysk twardy sprawia problemy">problemy</a></span>, <span class="link"><a href="disk-partitions.html.pl-PL" title="Zarządzanie woluminami i partycjami">woluminy i partycje</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">keyboard accessibility</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.pl-PL" title="Alternatywne układy klawiatury">Układy klawiatury</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Ustawianie migania kursora klawiatury">miganie kursora</a></span>, <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">ułatwienia dostępu klawiatury</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="mouse.html.pl-PL" title="Mysz">Mysz</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="mouse-lefthanded.html.pl-PL" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html.pl-PL" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html.pl-PL" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.pl-PL" title="Używanie myszy leworęcznej">Mysz leworęczna</a></span>, <span class="link"><a href="mouse-sensitivity.html.pl-PL" title="Dostosowanie prędkości myszy i panelu dotykowego">prędkość kursora</a></span>, <span class="link"><a href="mouse-touchpad-click.html.pl-PL" title="Klikanie, przeciąganie i przewijanie za pomocą panelu dotykowego">klikanie i przewijanie za pomocą panelu dotykowego</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="hardware-auth.html.pl-PL" title="Odciski palców i karty smartcard">Odciski palców i karty smartcard</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html.pl-PL" title="Logowanie za pomocą odcisku palca">Czytniki linii papilarnych</a></span>, karty smartcard…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.pl-PL" title="Why is color management important?">Dlaczego to jest ważne</a></span>, <span class="link"><a href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a></span>, <span class="link"><a href="color.html.pl-PL#calibration" title="Kalibracja">Jak skalibrować urządzenie</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.pl-PL" title="Dlaczego zarządzanie kolorami jest ważne?">Dlaczego to jest ważne</a></span>, <span class="link"><a href="color.html.pl-PL#profiles" title="Profile kolorów">profile kolorów</a></span>, <span class="link"><a href="color.html.pl-PL#calibration" title="Kalibracja">jak skalibrować urządzenie</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html.pl-PL" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.pl-PL" title="What happens when I suspend my computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.pl-PL" title="Why does my screen go dim after a while?">screen dimming</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.pl-PL" title="Sprawdzanie stanu akumulatora">Stan akumulatora</a></span>, <span class="link"><a href="power-suspend.html.pl-PL" title="Co dzieje się po uśpieniu komputera?">usypianie</a></span>, <span class="link"><a href="power-whydim.html.pl-PL" title="Dlaczego ekran jest po chwili przygaszany?">przygaszanie ekranu</a></span>…</span></div>
 </div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Więcej tematów</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html.pl-PL" title="Czym jest sterownik?">Czym jest sterownik?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
-    attached to it.</span>
+<a href="hardware-driver.html.pl-PL" title="Czym jest sterownik?">Czym jest sterownik?</a><span class="desc"> — Sterownik sprzętu/urządzenia umożliwia komputerowi używanie podłączonych do niego urządzeń.</span>
 </li></ul></div>
 </div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Często występujące problemy</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
-<li class="links ">
-<a href="hardware-cardreader.html.pl-PL" title="Media card reader problems">Media card reader problems</a><span class="desc"> — Troubleshoot media card readers</span>
-</li>
 <li class="links "><a href="bluetooth.html.pl-PL#problems" title="Problemy">Problemy z Bluetooth</a></li>
 <li class="links ">
-<a href="printing.html.pl-PL#problems" title="Problemy z drukarką">Problemy z drukarką</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
+<a href="hardware-cardreader.html.pl-PL" title="Problemy z czytnikami kart">Problemy z czytnikami kart</a><span class="desc"> — Rozwiązywanie problemów z czytnikami kart</span>
 </li>
 <li class="links ">
-<a href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
-    quality.</span>
+<a href="printing.html.pl-PL#problems" title="Problemy z drukarką">Problemy z drukarką</a><span class="desc"> — Niewykryte drukarki, zacięty papier, źle wyglądające wydruki…</span>
+</li>
+<li class="links ">
+<a href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a><span class="desc"> — Rozwiązywanie problemów, takich jak brak dźwięku lub jego słaba jakość.</span>
 </li>
 <li class="links ">
 <a href="hardware-problems-graphics.html.pl-PL" title="Problemy z ekranem">Problemy z ekranem</a><span class="desc"> — Rozwiązywanie problemów z ekranem i grafiką.</span>
@@ -167,7 +139,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html.pl-PL" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu">Podręcznik pulpitu Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -177,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

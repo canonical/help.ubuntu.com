@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z siecią bezprzewodową</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z siecią bezprzewodową</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » <a class="trail" href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z siecią bezprzewodową</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » <a class="trail" href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z siecią bezprzewodową</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -76,133 +76,76 @@
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Rozwiązywanie problemów z połączeniem bezprzewodowym</span></h1>
-<h2 class="subtitle"><span class="subtitle">Check that the wireless adapter was recognized</span></h2>
+<h2 class="subtitle"><span class="subtitle">Sprawdź, czy adapter bezprzewodowy został wykryty</span></h2>
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">Even though the wireless adapter is connected to the computer, it may not
-  have been recognized as a network device by the computer. In this step, you
-  will check whether the device was recognized properly.</p>
+<p class="p">Chociaż adapter bezprzewodowy jest podłączony do komputera, to mógł nie zostać wykryty jako urządzenie sieciowe. W tym kroku sprawdzimy, czy urządzenie zostało poprawnie wykryte.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open a Terminal window, type <span class="cmd">lshw -C network</span> and press
-      <span class="key"><kbd>Enter</kbd></span>. If this gives an error message, you may need to install
-      the <span class="app">lshw</span> program on your computer.</p></li>
+<li class="steps"><p class="p">Otwórz okno terminala, wpisz <span class="cmd">lshw -C network</span> i naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>. Jeśli wyświetlony zostanie komunikat o błędzie, to należy zainstalować program <span class="app">lshw</span> na komputerze.</p></li>
 <li class="steps">
-<p class="p">Look through the information that appeared and find the <span class="em">Wireless
-      interface</span> section. If your wireless adapter was detected properly,
-      you should see something similar (but not identical) to this:</p>
+<p class="p">Przejrzyj wyświetlone informacje i znajdź sekcję <span class="em">Wireless interface</span> (interfejs bezprzewodowy). Jeśli adapter bezprzewodowy został poprawnie wykryty, to powinny zostać wyświetlony tekst podobny (ale nie identyczny) do tego:</p>
 <div class="code"><pre class="contents ">*-network
        description: Wireless interface
        product: PRO/Wireless 3945ABG [Golan] Network Connection
        vendor: Intel Corporation</pre></div>
 </li>
 <li class="steps">
-<p class="p">If a wireless device is listed, continue on to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Device Drivers
-      step</a></span>.</p>
-<p class="p">If a wireless device is <span class="em">not</span> listed, the next steps you take
-      will depend on the type of device that you use. Refer to the section
-      below that is relevant to the type of wireless adapter that your computer
-      has (<span class="link"><a href="#pci" title="PCI (internal) wireless adapter">internal PCI</a></span>, <span class="link"><a href="#usb" title="USB wireless adapter">USB</a></span>,
-      or <span class="link"><a href="#pcmcia" title="Checking for a PCMCIA device">PCMCIA</a></span>).</p>
+<p class="p">Jeśli urządzenia bezprzewodowego nie ma na liście, to przejdź do <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">kroku sterowników</a></span>.</p>
+<p class="p">Jeśli urządzenia bezprzewodowego <span class="em">nie</span> ma na liście, to następny krok zależy od typu używanego urządzenia. Przejdź do tej sekcji poniżej, która opisuje typ adaptera bezprzewodowego w komputerze (<span class="link"><a href="#pci" title="Adapter bezprzewodowy PCI (wewnętrzny)">wewnętrzny PCI</a></span>, <span class="link"><a href="#usb" title="Adapter bezprzewodowy USB">USB</a></span> lub <span class="link"><a href="#pcmcia" title="Urządzenie PCMCIA">PCMCIA</a></span>).</p>
 </li>
 </ol></div></div></div>
 </div>
 <div id="pci" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">PCI (internal) wireless adapter</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Adapter bezprzewodowy PCI (wewnętrzny)</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Internal PCI adapters are the most common, and are found in most laptops
-  made within the past few years. To check if your PCI wireless adapter was
-  recognized:</p>
+<p class="p">Wewnętrzne adaptery PCI są najczęściej używane i można je znaleźć w większości laptopów wyprodukowany w ciągu ostatnich kilku lat. Aby sprawdzić, czy adapter bezprzewodowy PCI został wykryty:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open a Terminal, type <span class="cmd">lspci</span> and press <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps"><p class="p">Otwórz terminal, wpisz <span class="cmd">lspci</span> i naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="steps">
-<p class="p">Look through the list of devices that is shown and find any that are
-      marked <span class="code">Network controller</span> or <span class="code">Ethernet
-      controller</span>. Several devices may be marked in this way; the one
-      corresponding to your wireless adapter might include words like
-      <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> or
-      <span class="code">802.11</span>. Here is an example of what the entry might look
-      like:</p>
+<p class="p">Przejrzyj wyświetloną listę urządzeń i poszukaj urządzeń oznaczonych jako <span class="code">Network controller</span> (kontroler sieciowy) lub <span class="code">Ethernet controller</span> (kontroler ethernetowy). Kilka urządzeń może być oznaczonych w ten sposób, adapter bezprzewodowy może zawierać takie słowa, jak <span class="code">wireless</span> (bezprzewodowy), <span class="code">WLAN</span>, <span class="code">wifi</span> lub <span class="code">802.11</span>. Przykład takiego wpisu:</p>
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
-<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Device Drivers
-      step</a></span>. If you didn’t find anything related to your wireless
-      adapter, see
-      <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions below</a></span>.</p></li>
+<li class="steps"><p class="p">Jeśli na liście jest używany adapter bezprzewodowy, to przejdź do <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">kroku sterowników</a></span>. Jeśli na liście nie ma niczego powiązanego z adapterem bezprzewodowym, to przejdź do <span class="link"><a href="#not-recognized" title="Adapter bezprzewodowy nie został wykryty">instrukcji poniżej</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="usb" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">USB wireless adapter</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Adapter bezprzewodowy USB</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Wireless adapters that plug into a USB port on your computer are less
-  common. They can plug directly into a USB port, or may be connected by a USB
-  cable. 3G/mobile broadband adapters look quite similar to wireless (wifi)
-  adapters, so if you think you have a USB wireless adapter, double-check that
-  it is not actually a 3G adapter. To check if your USB wireless adapter was
-  recognized:</p>
+<p class="p">Adaptery bezprzewodowe podłączone do portu USB komputera są mniej popularne. Mogą być podłączone bezpośrednio do portu USB lub być podłączone kablem USB. Adaptery 3G/komórkowe wyglądają bardzo podobnie do adapterów bezprzewodowych (Wi-Fi), więc jeśli masz adapter USB, to upewnij się, że nie jest to adapter 3G. Aby sprawdzić, czy adapter bezprzewodowy USB został wykryty:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open a Terminal, type <span class="cmd">lsusb</span> and press <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps"><p class="p">Otwórz terminal, wpisz <span class="cmd">lsusb</span> i naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="steps">
-<p class="p">Look through the list of devices that is shown and find any that seem
-      to refer to a wireless or network device. The one corresponding to your
-      wireless adapter might include words like <span class="code">wireless</span>,
-      <span class="code">WLAN</span>, <span class="code">wifi</span> or <span class="code">802.11</span>. Here is an
-      example of what the entry might look like:</p>
+<p class="p">Przejrzyj wyświetloną listę urządzeń i poszukaj tych, które mogą odnosić się do urządzenia bezprzewodowego lub sieciowego. Adapter bezprzewodowy może zawierać takie słowa, jak <span class="code">wireless</span> (bezprzewodowy), <span class="code">WLAN</span>, <span class="code">wifi</span> lub <span class="code">802.11</span>. Przykład takiego wpisu:</p>
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
-<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Device Drivers
-      step</a></span>. If you didn’t find anything related to your wireless
-      adapter, see
-      <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions below</a></span>.</p></li>
+<li class="steps"><p class="p">Jeśli na liście jest używany adapter bezprzewodowy, to przejdź do <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">kroku sterowników</a></span>. Jeśli na liście nie ma niczego powiązanego z adapterem bezprzewodowym, to przejdź do <span class="link"><a href="#not-recognized" title="Adapter bezprzewodowy nie został wykryty">instrukcji poniżej</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="pcmcia" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Checking for a PCMCIA device</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Urządzenie PCMCIA</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">PCMCIA wireless adapters are typically rectangular cards which slot into
-  the side of your laptop. They are more commonly found in older computers. To
-  check if your PCMCIA adapter was recognized:</p>
+<p class="p">Adaptery bezprzewodowe PCMCIA są zwykle prostokątnymi kartami wkładanymi do gniazda na boku laptopa. Można je znaleźć w starszych komputerach. Aby sprawdzić, czy adapter PCMCIA został wykryty:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Start your computer <span class="em">without</span> the wireless adapter plugged
-      in.</p></li>
+<li class="steps"><p class="p">Uruchom komputer <span class="em">bez</span> podłączonego adaptera bezprzewodowego.</p></li>
 <li class="steps">
-<p class="p">Open a Terminal and type the following, then press
-      <span class="key"><kbd>Enter</kbd></span>:</p>
+<p class="p">Otwórz terminal i wpisz poniższe polecenie, a następnie naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>:</p>
 <div class="code"><pre class="contents ">tail -f /var/log/messages</pre></div>
-<p class="p">This will display a list of messages related to your computer’s
-      hardware, and will automatically update if anything to do with your
-      hardware changes.</p>
+<p class="p">Zostanie wyświetlona lista komunikatów związanych ze sprzętem komputera, i zostanie automatycznie zaktualizowana, jeśli coś ulegnie zmianie.</p>
 </li>
-<li class="steps"><p class="p">Insert your wireless adapter into the PCMCIA slot and see what
-      changes in the Terminal window. The changes should include some
-      information about your wireless adapter. Look through them and see if you
-      can identify it.</p></li>
-<li class="steps"><p class="p">To stop the command from running in the Terminal, press
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. After you have done that,
-      you can close the Terminal if you like.</p></li>
-<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Device
-      Drivers step</a></span>. If you didn’t find anything related to your wireless
-      adapter, see <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions
-      below</a></span>.</p></li>
+<li class="steps"><p class="p">Włóż adapter bezprzewodowy do gniazda PCMCIA i zobacz, co uległo zmianie w oknie terminala. Zmiany powinny zawierać jakieś informacje o adapterze bezprzewodowym. Przejrzyj je i zobacz, czy można je zidentyfikować.</p></li>
+<li class="steps"><p class="p">Aby zatrzymać działanie polecenia w terminalu, naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Następnie można zamknąć terminal.</p></li>
+<li class="steps"><p class="p">Jeśli znaleziono jakieś informacje o adapterze bezprzewodowym, to przejdź do <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">kroku sterowników</a></span>. Jeśli nic nie znaleziono, to przejdź do <span class="link"><a href="#not-recognized" title="Adapter bezprzewodowy nie został wykryty">instrukcji poniżej</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="not-recognized" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Wireless adapter was not recognized</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Adapter bezprzewodowy nie został wykryty</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If your wireless adapter was not recognized, it might not be working
-  properly or the correct drivers may not be installed for it. How you check to
-  see if there are any drivers you can install will depend on which Linux
-  distribution you are using (like Ubuntu, Arch, Fedora or openSUSE).</p>
-<p class="p">To get specific help, look at the support options on your distribution’s
-  website. These might include mailing lists and web chats where you can ask
-  about your wireless adapter, for example.</p>
+<p class="p">Jeśli adapter bezprzewodowy nie został wykryty, to może nie działać poprawnie lub właściwe sterowniki mogą nie zostać zainstalowane. Sposób wyszukiwania i instalowania sterowników zależy od używanej dystrybucji systemu Linux (np. Ubuntu, Arch, Fedora lub openSUSE).</p>
+<p class="p">Aby uzyskać konkretną pomoc, poszukaj wsparcia na stronie używanej dystrybucji. Można znaleźć na przykład listy pocztowe i kanały IRC, na których można zapytać o swój adapter bezprzewodowy (najczęściej w języku angielskim).</p>
 </div></div>
 </div></div>
 <div class="links nextlinks">
@@ -224,7 +167,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

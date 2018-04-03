@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Repair a damaged filesystem</title>
+<title>Reparar un sistema de ficheiros danado</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="disk.html.gl-GL" title="Discos e almacenamento">Discos e almacenamento</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Repair a damaged filesystem</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Reparar un sistema de ficheiros danado</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Filesystems can be corrupted due to unexpected power loss, system crashes
@@ -76,29 +76,28 @@
      <span class="em">check</span> the filesystem to prevent future data loss.</p>
 <p class="p">Sometimes a repair is required in order to mount or modify a filesystem.
      Even if a <span class="em">check</span> does not report any damage the filesystem might
-     still be marked as 'dirty' internally and require a repair.</p>
+     still be marked as ‘dirty’ internally and require a repair.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Check if a filesystem is damaged</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Comprobar se un sistema de ficheiros está danado</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
+<li class="steps"><p class="p">Abra <span class="app">Discos</span> desde a vista de <span class="gui">Actividades</span>.</p></li>
 <li class="steps"><p class="p">Select the disk containing the filesystem in question from the list of
        storage devices on the left. If there is more than one volume on the
        disk, select the volume which contains the filesystem.</p></li>
 <li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
     menu button. Then click <span class="gui">Check Filesystem…</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a check may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
+<p class="p">Dependendo de cantos datos se gardan no sistema de ficheiros unha comprobación pode levar unha boa miga. Confirme o inicio da acción no diálogo emerxente.</p>
 <p class="p">The action will not modify the filesystem but will unmount it if needed.
       Be patient while the filesystem is checked.</p>
 </li>
 <li class="steps"><p class="p">After completion you will be notified whether the filesystem is damaged.
        Note that in some cases even if the filesystem is undamaged it still
-       may need to be repaired to reset an internal 'dirty' marker.</p></li>
+       may need to be repaired to reset an internal ‘dirty’ marker.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Aviso"><div class="inner">
-<div class="title title-note"><h2><span class="title">Possible data loss when repairing</span></h2></div>
+<div class="title title-note"><h2><span class="title">Posíbel perda de datos na reparación</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">If the filesystem structure is damaged it can affect the files stored
      in it. In some cases these files can not be brought into a valid form
@@ -115,33 +114,21 @@
 </div></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Repair a filesystem</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Arranxar un sistema de ficheiros</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
+<li class="steps"><p class="p">Abra <span class="app">Discos</span> desde a vista de <span class="gui">Actividades</span>.</p></li>
 <li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
        of storage devices on the left. If there is more than one volume on
        the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Repair Filesystem…</span>.</p></li>
+<li class="steps"><p class="p">Na barra de ferramentas debaixo da sección <span class="gui">Volumes</span>, prema o botón de menú. Logo prema <span class="gui">Reparar sistema de ficheiros…</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a repair may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
-<p class="p">The action will unmount the filesystem if needed. The repair action tries
-   to bring the filesystem into a consistent state and moves files which were
-   damaged in a special folder. Be patient while the filesystem is
-   repaired.</p>
+<p class="p">Dependendo de cantos datos se gardan no sistema de ficheiros unha reparación pode levar unha boa miga. Confirme o inicio da acción no diálogo emerxente.</p>
+<p class="p">A acción desmontará o sistema de ficheiros se é preciso. A acción de reparación tentará levar ao sistema de ficheiros a un estado consistente e move ficheiros que foron danados a un cartafol especial. Sexa paciente mentres o sistema de ficheiros se repara.</p>
 </li>
 <li class="steps">
-<p class="p">After completion you will be notified whether the filesystem could be
-       successfully repaired. In case of success it can be used again in the
-       normal way.</p>
-<p class="p">If the filesystem could not be repaired, back it up by saving an image
-       of the volume to be able to retrieve important files later. This can
-       be done by mounting the image read-only or using forensic analysis tools
-       like <span class="app">sleuthkit</span>.</p>
-<p class="p">To make use of the volume again it has to be
-       <span class="link"><a href="disk-format.html.gl-GL" title="Limpar todo nun disco extraíbel">formatted</a></span> with a new filesystem. All
-       data will be discarded.</p>
+<p class="p">Despois do completado notificado se o sistema de ficheiros foi reparado con éxito. En caso de éxito poderá usalo de novo de forma normal.</p>
+<p class="p">Se non se puido reparar o sistema de ficheiros, faga unha copia de seguranza gardando unha imaxe do volume para poder recuperar ficheiros importantes máis tarde. Isto pode facelo montando a imaxe en modo só lectura e usando ferramentas de análise forense como <span class="app">sleuthkit</span>.</p>
+<p class="p">Para usar o volume de novo debe <span class="link"><a href="disk-format.html.gl-GL" title="Limpar todo nun disco extraíbel">formatalo</a></span> con un novo sistema de ficheiros. Perderanse todos os datos.</p>
 </li>
 </ol></div>
 </div></div>
@@ -162,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

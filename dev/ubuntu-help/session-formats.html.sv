@@ -80,6 +80,7 @@
 <li class="steps"><p class="p">Svara på frågan <span class="gui">Din session behöver startas om för att ändringar ska genomföras</span> genom att klicka på <span class="gui">Starta om nu</span> eller klicka på <span class="gui">×</span> för att starta om senare.</p></li>
 </ol></div></div></div>
 <p class="p">Efter att du valt en region, kommer ytan till höger om listan att visa olika exempel på hur datum och andra värden visas. Även om det inte visas i exemplen styr din region även vilken veckodag i veckan som först i kalendrar.</p>
+<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Om det finns flera användarkonton på ditt system finns det en separat instans av panelen <span class="gui">Region &amp; språk</span> för inloggningsskärmen. Klicka på <span class="gui">Inloggningsskärm</span>-knappen längst upp till höger för att växla mellan de två instanserna.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -105,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

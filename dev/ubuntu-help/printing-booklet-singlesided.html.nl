@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Een boek afdrukken met een enkelzijdige printer.</title>
+<title>Een boekje afdrukken op een enkelzijdige printer</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,62 +64,49 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » <a class="trail" href="printing-booklet.html.nl" title="Print a booklet">Print a booklet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » <a class="trail" href="printing-booklet.html.nl" title="Een boekje afdrukken">Een boekje afdrukken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Een boek afdrukken met een enkelzijdige printer.</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Een boekje afdrukken op een enkelzijdige printer</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
-<p class="p">These instructions are for printing a booklet from a PDF document.</p>
-<p class="p">If you want to print a booklet from a <span class="app">LibreOffice</span> document,
-    first export it to a PDF by choosing <span class="guiseq"><span class="gui">File</span> ▸ <span class="gui">Export
-    as PDF…</span></span>. Your document needs to have a multiple of 4
-    number of pages (4, 8, 12, 16,…). You may need to add up to 3 blank
-    pages.</p>
+<p class="p">Deze instructies zijn voor het afdrukken van een boekje uit een PDF-document.</p>
+<p class="p">Als u een boekje wilt afdrukken van een <span class="app">LibreOffice</span>-document, dan moet u het eerst exporteren naar een PDF via <span class="guiseq"><span class="gui">Bestand</span> ▸ <span class="gui">Exporteren als PDF…</span></span>. Uw document moet een veelvoud van 4 pagina's bevatten (4, 8, 12, 16,…). Het kan zijn dat u tot 3 lege pagina's moet toevoegen.</p>
 </div></div></div></div>
 <p class="p">Om af te drukken:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the print dialog. This can normally be done through
-      <span class="gui">Print</span> in the menu or using the
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> keyboard shortcut.</p></li>
+<li class="steps"><p class="p">Open het dialoogvenster Afdrukken. Dit doet u normaal via <span class="gui">Afdrukken</span> in het menu of via de sneltoets <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Properties…</span> button </p>
-<p class="p">In the <span class="gui">Orientation</span> drop-down list, make sure that
-      <span class="gui">Landscape</span> is selected.</p>
-<p class="p">Click <span class="gui">OK</span> to go back to the print dialog.</p>
+<p class="p">Klik op de knop <span class="gui">Eigenschappen…</span></p>
+<p class="p">Zorg ervoor dat in de keuzelijst <span class="gui">Oriëntatie</span> <span class="gui">Liggend</span> is geselecteerd.</p>
+<p class="p">Klik op <span class="gui">Ok</span> om terug te keren naar het afdrukdialoogvenster.</p>
 </li>
 <li class="steps">
-<p class="p">Under <span class="gui">Range and Copies</span>, choose <span class="gui">Pages</span>.</p>
-<p class="p">Type the numbers of the pages in this order (n is the total number of
-      pages, and a multiple of 4):</p>
+<p class="p">Kies onder <span class="gui">Bereik en kopieën</span> <span class="gui">Pagina's</span>.</p>
+<p class="p">Typ het aantal pagina's in deze volgorde (n is het totaal aantal pagina's, en een veelvoud van 4):</p>
 <p class="p">n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9, 10, n-9, n-10, 11, 12, n-11…</p>
 <p class="p">…totdat u alle pagina's heeft getypt.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Voorbeelden: </p>
-<p class="p">Boek met 4 pagina's: Typ <span class="input">4,1,2,3</span></p>
-<p class="p">Boek met 8 pagina's: Typ <span class="input">8,1,2,7,6,3,4,5</span></p>
-<p class="p">Boek met 12 pagina's: Typ<span class="input">12,1,2,11,10,3,4,9,8,5,6,7</span></p>
-<p class="p">Boek met 16 pagina's: Typ <span class="input">16,1,2,15,14,3,4,13,12,5,6,11,10,7,8,9</span></p>
-<p class="p">Boek met 20 pagina's: Typ<span class="input">20,1,2,19,18,3,4,17,16,5,6,15,14,7,8,13,12,9,10,11</span></p>
+<p class="p">Boekje met 4 pagina's: Typ <span class="input">4,1,2,3</span></p>
+<p class="p">Boekje met 8 pagina's: Typ <span class="input">8,1,2,7,6,3,4,5</span></p>
+<p class="p">Boekje met 12 pagina's: Typ<span class="input">12,1,2,11,10,3,4,9,8,5,6,7</span></p>
+<p class="p">Boekje met 16 pagina's: Typ <span class="input">16,1,2,15,14,3,4,13,12,5,6,11,10,7,8,9</span></p>
+<p class="p">Boekje met 20 pagina's: Typ<span class="input">20,1,2,19,18,3,4,17,16,5,6,15,14,7,8,13,12,9,10,11</span></p>
 </div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">Choose the <span class="gui">Page Layout</span> tab.</p>
-<p class="p">Under <span class="gui">Layout</span>, select <span class="gui">Brochure</span>.</p>
-<p class="p">Under <span class="gui">Page Sides</span>, in the <span class="gui">Include</span> drop-down list,
-      select <span class="gui">Front sides / right pages</span>.</p>
+<p class="p">Selecteer het tabblad <span class="gui">Paginalay-out</span>.</p>
+<p class="p">Selecteer onder <span class="gui">Lay-out</span> <span class="gui">Brochure</span>.</p>
+<p class="p">Klik op het<span class="gui">Geluidsmenu</span> in de <span class="gui">menubalk</span> en selecteer <span class="gui">Geluidsinstellingen</span>.</p>
 </li>
 <li class="steps"><p class="p">Klik op <span class="gui">Afdrukken</span>.</p></li>
-<li class="steps"><p class="p">When all the pages have printed, flip the pages over and place them
-      back in the printer.</p></li>
-<li class="steps"><p class="p">Open the print dialog. This can normally be done through
-      <span class="gui">Print</span> in the menu or using the
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> keyboard shortcut.</p></li>
+<li class="steps"><p class="p">Draai alle pagina's, zodra ze afgedrukt zijn, om en plaats ze terug in de printer.</p></li>
+<li class="steps"><p class="p">Open het dialoogvenster Afdrukken. Dit doet u normaal via <span class="gui">Afdrukken</span> in het menu of via de sneltoets <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Choose the <span class="gui">Page Layout</span> tab.</p>
-<p class="p">Under <span class="gui">Page Sides</span>, in the <span class="gui">Include</span> drop-down list,
-      select <span class="gui">Back sides / left pages</span>.</p>
+<p class="p">Selecteer het tabblad <span class="gui">Paginalay-out</span>.</p>
+<p class="p">Selecteer onder <span class="gui">Paginazijden</span> , in de keuzelijst <span class="gui">Opnemen</span>, <span class="gui">Achterzijde / linker pagina's</span>.</p>
 </li>
 <li class="steps"><p class="p">Klik op <span class="gui">Afdrukken</span>.</p></li>
 </ol></div></div></div>
@@ -129,8 +116,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-booklet.html.nl" title="Print a booklet">Print a booklet</a><span class="desc"> — How to print a folded, multi-page booklet using A4 or Letter-sized
-    paper.</span>
+<a href="printing-booklet.html.nl" title="Een boekje afdrukken">Een boekje afdrukken</a><span class="desc"> — Hoe u een gevouwen, meerdere pagina's tellend boekje afdrukt op papier van A4- of Letterformaat.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -141,7 +127,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

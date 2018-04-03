@@ -75,7 +75,7 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Öppna <span class="gui">Aktivitetsöversikt</span> genom att trycka på <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Börja skriva för att söka.</p>
+<p class="p">Öppna översiktsvyn <span class="gui">Aktiviteter</span> genom att klicka på <span class="gui">Aktiviteter</span> högst upp till vänster på skärmen, eller genom att trycka ned knappen <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Börja skriva för att söka.</p>
 <p class="p">Resultat som matchar det du har skrivit kommer att visas medan du skriver. Det första resultatet är alltid markerat och visas i längst upp.</p>
 <p class="p">Tryck på <span class="key"><kbd>Retur</kbd></span> för att växla till det första, markerade resultatet.</p>
 </li></ol></div></div></div>
@@ -86,8 +86,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">program som matchar, visas överst bland sökresultaten,</p></li>
 <li class="list"><p class="p">matchande inställningar,</p></li>
-<li class="list"><p class="p">matchande kontakter, och</p></li>
-<li class="list"><p class="p">matchande dokument.</p></li>
+<li class="list"><p class="p">matchande kontakter,</p></li>
+<li class="list"><p class="p">matchande dokument,</p></li>
+<li class="list"><p class="p">matchande kalender,</p></li>
+<li class="list"><p class="p">matchande kalkylator,</p></li>
+<li class="list"><p class="p">matchande programvara,</p></li>
+<li class="list"><p class="p">matchande filer,</p></li>
+<li class="list"><p class="p">matchande terminal,</p></li>
+<li class="list"><p class="p">matchande lösenord och nycklar.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +116,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klicka på <span class="gui"><a href="shell-introduction.html.sv#yourname" title="Du och din dator">systemmenyn</a></span> på höger sida av systemraden.</p></li>
 <li class="steps"><p class="p">Tryck på inställningsknappen längst ner till vänster i menyn.</p></li>
-<li class="steps"><p class="p">Klicka på panelen <span class="gui">Sök</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Sök</span> i den vänstra panelen.</p></li>
 <li class="steps"><p class="p">I listan över sökplatser, klicka på <span class="gui">AV/PÅ</span>-brytaren intill sökplatsen som du vill slå av eller slå på.</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

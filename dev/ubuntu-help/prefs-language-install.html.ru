@@ -99,7 +99,7 @@
 <a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — Используйте <span class="app">Менеджер приложений Ubuntu</span> для установки дополнительных полезных приложений.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html.ru" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html.ru" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html.ru" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">раскладки клавиатуры</a></span>…</span>
+<a href="prefs-language.html.ru" title="Язык и регион">Язык и регион</a><span class="desc"> — <span class="link"><a href="session-language.html.ru" title="Изменение языка">Язык</a></span>, <span class="link"><a href="session-formats.html.ru" title="Изменение форматов даты и единиц измерения">регион и форматы</a></span>, <span class="link"><a href="keyboard-layouts.html.ru" title="Использование других раскладок клавиатуры">раскладки клавиатуры</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -112,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

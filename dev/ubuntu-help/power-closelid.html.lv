@@ -81,15 +81,17 @@
 <div class="hgroup"><h2 class="title"><span class="title">Neļaut datoram iesnausties, kad aizver vāku</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Svarīgi"><div class="inner"><div class="region"><div class="contents"><p class="p">Šīs instrukcijas darbosies tikai tad, ja izmantojat <span class="app">systemd</span>. Sazinieties ar distribūciju, lai uzzinātu vairāk.</p></div></div></div></div>
-<div class="note note-important" title="Svarīgi"><div class="inner"><div class="region"><div class="contents"><p class="p">Jābūt uzinstalētai <span class="app">Piedarei</span>, lai mainītu šo iestatījumu.</p></div></div></div></div>
+<div class="note note-important" title="Svarīgi"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Jābūt uzinstalētai <span class="app">Piedarei</span>, lai mainītu šo iestatījumu.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Instalēt <span class="app">Piedari</span></a></span></p>
+</div></div></div></div>
 <p class="p">Ja automātiskā iesnaušanās, aizverot vāku, ir nevēlama, jūs varat izmainīt ar šo uzvedību saistītos iestatījumus. Jums būs jāievada <span class="link"><a href="user-admin-change.html.lv" title="Piešķirt vai noņemt administratīvās tiesības">administratora parole</a></span>, lai mainītu šos iestatījumus.</p>
 <div class="note note-warning" title="Brīdinājums"><div class="inner"><div class="region"><div class="contents"><p class="p">Kad izmainīts šis iestatījums, esiet uzmanīgi. Daži klēpjdatori var pārkarst, ja tos atstāj strādāt ar aizvērtu vāku, it īpaši somā vai līdzīgā noslēgtā telpā.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Piedare</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Piedare</span>, lai atvērtu lietotni.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Barošanas</span> cilni.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
-      <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Pārslēdziet <span class="gui">Iesnaudināt, kad ir aizvērts klēpjdatora vāks</span> uz <span class="gui">◯</span>.</p></li>
 <li class="steps"><p class="p">Aizveriet <span class="gui">Piedares</span> logu.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -123,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

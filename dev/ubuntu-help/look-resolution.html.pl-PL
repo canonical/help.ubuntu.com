@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change the resolution or rotation of the screen</title>
+<title>Zmiana rozdzielczości lub obrotu ekranu</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,49 +64,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-display.html.pl-PL" title="Ekran">Ekran</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-display.html.pl-PL" title="Ekran">Ekran</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change the resolution or rotation of the screen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zmiana rozdzielczości lub obrotu ekranu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can change how big (or how detailed) things appear on the screen by
-  changing the <span class="em">screen resolution</span>. You can change which way up things
-  appear (for example, if you have a rotating display) by changing the
-  <span class="em">rotation</span>.</p>
+<p class="p">Można zmienić, jak duże (lub jak szczegółowe) są rzeczy na ekranie zmieniając <span class="em">rozdzielczość ekranu</span>. Można zmienić kierunek, w jakim położone są rzeczy (np. jeśli ekran jest obrotowy), zmieniając <span class="em">obrót</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ekrany</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Ekrany</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ekrany</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">If you have multiple displays and they are not mirrored, you can have
-      different settings on each display. Select a display in the preview
-      area.</p></li>
+<li class="steps"><p class="p">Jeśli podłączonych jest kilka ekranów, ale nie jest używana opcja <span class="gui">Ten sam obraz</span>, to każdy ekran może mieć inne ustawienia. Wybierz ekran w obszarze podglądu.</p></li>
 <li class="steps"><p class="p">Wybierz rozdzielczość i obrót.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Apply</span>. The new settings will be applied for 20
-      seconds before reverting back. That way, if you cannot see anything with
-      the new settings, your old settings will be automatically restored. If
-      you are happy with the new settings, click <span class="gui">Keep Changes</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Zastosuj</span>. Nowe ustawienia zostaną będą używane przez 20 sekund, po czym zostaną przywrócone. W ten sposób, jeśli nowe ustawienia powodują brak obrazu, to poprzednie zostaną automatycznie przywrócone. Jeśli nowe ustawienia pasują, to kliknij przycisk <span class="gui">Zachowaj zmiany</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div id="resolution" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Rozdzielczość</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">The resolution is the number of pixels (dots on the screen) in each
-  direction that can be displayed. Each resolution has an <span class="em">aspect
-  ratio</span>, the ratio of the width to the height. Wide-screen displays use a
-  16∶9 aspect ratio, while traditional displays use 4∶3. If you choose a
-  resolution that does not match the aspect ratio of your display, the screen
-  will be letterboxed to avoid distortion, by adding black bars to the top and
-  bottom or both sides of the screen.</p>
-<p class="p">You can choose the resolution you prefer from the <span class="gui">Resolution</span>
-  drop-down list. If you choose one that is not right for your screen it may
-  <span class="link"><a href="look-display-fuzzy.html.pl-PL" title="Why do things look fuzzy/pixelated on my screen?">look fuzzy or pixelated</a></span>.</p>
+<p class="p">Rozdzielczość to liczba pikseli (punktów na ekranie), które można wyświetlać w każdym kierunku. Każda rozdzielczość ma <span class="em">format obrazu</span>, proporcje szerokości do wysokości. Ekrany panoramiczne mają format 16∶9, a tradycyjne 4∶3. Jeśli wybrano rozdzielczość niepasującą do formatu ekranu, to będzie on wyświetlał obraz tylko na części powierzchni (do górnej i dolnej krawędzi zostaną dodane czarne paski).</p>
+<p class="p">Można wybrać preferowaną rozdzielczość z rozwijanej listy <span class="gui">Rozdzielczość</span>. Wybranie niewłaściwej dla ekranu może spowodować <span class="link"><a href="look-display-fuzzy.html.pl-PL" title="Dlaczego rzeczy na ekranie są rozmyte/rozpikselowane?">rozmyty/rozpikselowany obraz</a></span>.</p>
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Obrót</span></h2></div>
-<div class="region"><div class="contents"><p class="p">On some laptops, you can physically rotate the screen in many directions.
-  It is useful to be able to change the display rotation. You can rotate what
-  you see on your screen by pressing the buttons with the arrows.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Ekrany niektórych laptopów mogą być fizycznie obracane w różnych kierunkach. Może przydać się zmiana obrotu ekranu. Można to zrobić klikając przyciski ze strzałkami.</p></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -114,13 +96,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.pl-PL" title="Ekran">Ekran</a><span class="desc"> — <span class="link"><a href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html.pl-PL" title="Change the resolution or rotation of the screen">rozmiar i obrót</a></span>, Jasność…</span>
+<a href="prefs-display.html.pl-PL" title="Ekran">Ekran</a><span class="desc"> — <span class="link"><a href="look-background.html.pl-PL" title="Zmiana tła pulpitu i ekranu blokady">Tło</a></span>, <span class="link"><a href="look-resolution.html.pl-PL" title="Zmiana rozdzielczości lub obrotu ekranu">rozmiar i obrót</a></span>, jasność…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-display-fuzzy.html.pl-PL" title="Why do things look fuzzy/pixelated on my screen?">Why do things look fuzzy/pixelated on my screen?</a><span class="desc"> — The screen resolution may be set incorrectly.</span>
+<a href="look-display-fuzzy.html.pl-PL" title="Dlaczego rzeczy na ekranie są rozmyte/rozpikselowane?">Dlaczego rzeczy na ekranie są rozmyte/rozpikselowane?</a><span class="desc"> — Rozdzielczość ekranu mogła zostać niewłaściwie ustawiona.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -132,7 +114,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -70,6 +70,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Priekšskatīt datnes un mapes</span></h1></div>
 <div class="region">
 <div class="contents">
+<div class="note note-important" title="Svarīgi"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Jābūt uzinstalētai <span class="app">Sushi</span>, lai veiktu šos soļus.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Instalēt <span class="app">Sushi</span></a></span></p>
+</div></div></div></div>
 <p class="p">Jūs varat ātri priekšskatīt datnes, neatverot tās ar lietotni. Izvēlieties jebkuru datni un nospiediet atstarpes taustiņu. Datne tiks atvērta vienkāršā priekšskatījuma logā. Nospiediet atstarpes taustiņu vēlreiz, lai aizvērtu priekšskatījumu.</p>
 <p class="p">Iebūvētais priekšskatījums atbalsta vairumu dokumentu, fotogrāfiju, video un audio datņu formātus. Priekšskatījumā jūs varat ritināt cauri dokumentiem vai meklēt video un audio datnēs.</p>
 <p class="p">Lai atvērtu pilnekrāna priekšskatījumu, spiediet <span class="key"><kbd>F</kbd></span> vai <span class="key"><kbd>F11</kbd></span> taustiņus. Spiediet <span class="key"><kbd>F</kbd></span> vai <span class="key"><kbd>F11</kbd></span> taustiņus vēlreiz, lai izslēgtu pilnekrāna skatu, vai atstarpes taustiņu, lai aizvērtu priekšskatījumu.</p>
@@ -96,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

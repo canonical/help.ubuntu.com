@@ -70,11 +70,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">File manager preferences</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.ca" title="File manager behavior preferences"><span class="title">File manager behavior preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Single-click to open files, run or view executable
-    text files, and specify trash behavior.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.ca" title="File manager display preferences"><span class="title">File manager display preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Control icon captions used in the file manager.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.ca" title="File manager preview preferences"><span class="title">File manager preview preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Control when thumbnails are used for files.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.ca" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Control what information is displayed in columns in list view.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.ca" title="Preferències del gestor d'arxius"><span class="title">Preferències del gestor d'arxius</span><span class="linkdiv-dash"> — </span><span class="desc">Un sol clic per obrir fitxers, executar o visualitzar fitxers de text, i especificar el comportament de la paperera.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.ca" title="Views preferences in Files"><span class="title">Views preferences in <span class="app">Files</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
     manager.</span></a></div>
 </div></div></div></div>
@@ -92,7 +91,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

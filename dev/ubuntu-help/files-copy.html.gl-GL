@@ -83,7 +83,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Seleccione o elemento que quere copiar premendo sobre el unha vez.</p></li>
 <li class="steps"><p class="p">Prema co botón dereito <span class="gui">Copiar</span> ou prema <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>.</p></li>
-<li class="steps"><p class="p">Vaia a outro cartafol onde queira poñer a copia do ficheiro</p></li>
+<li class="steps"><p class="p">Vaia a outro cartafol onde queira poñer a copia do ficheiro.</p></li>
 <li class="steps"><p class="p">Click the menu button and pick <span class="gui">Paste</span> to finish copying the
  file, or press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span>. There
  will now be a copy of the file in the original folder and the other
@@ -150,7 +150,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

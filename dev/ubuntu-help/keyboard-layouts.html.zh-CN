@@ -80,7 +80,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Use alternative keyboard layouts</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">对于各种语言，键盘有数百种不同的布局。即使是对于一种语言，也往往会有多种键盘布局，如适用于英语的 Dvorak 布局。无论印在键上的字母和符号如何，均可让键盘与布局不同的另一键盘的行为相同。如果常轮番使用多种语言，可以通过这种方式来高效地使用键盘。</p>
+<p class="p">各种语言对应数百种键盘布局，甚至一种语言还有多种键盘布局，比如英文的 Dvorak 布局。您可以让键盘输入多种语言，而不必考虑键上印刷的字母和符号。当您经常在多种语言之间切换时很有用。</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
@@ -90,6 +90,10 @@
       layout and press <span class="gui">Add</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents">
+<p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p>
 <p class="p">Some rarely used keyboard layout variants are not available by default when you click
     the <span class="gui">+</span> button. To make also those input sources available you can open a terminal
     window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>
@@ -161,7 +165,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

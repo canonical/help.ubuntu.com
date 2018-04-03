@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Color management</title>
+<title>Gestió dels colors</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,55 +71,53 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Color management</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Gestió dels colors</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html.ca" title="How do I assign profiles to devices?"><span class="title">How do I assign profiles to devices?</span><span class="linkdiv-dash"> — </span><span class="desc">Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html.ca" title="Why is color management important?"><span class="title">Why is color management important?</span><span class="linkdiv-dash"> — </span><span class="desc">Color management is important for designers, photographers and artists.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-assignprofiles.html.ca" title="Com puc assignar perfils als dispositius?"><span class="title">Com puc assignar perfils als dispositius?</span><span class="linkdiv-dash"> — </span><span class="desc">Mireu a <span class="guiseq"><span class="gui">Configuració</span> ▸ <span class="gui">Color</span></span> per afegir un perfil de color per a la vostra pantalla.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whyimportant.html.ca" title="Per què és important la gestió del color?"><span class="title">Per què és important la gestió del color?</span><span class="linkdiv-dash"> — </span><span class="desc">La gestió del color és important per als dissenyadors, fotògrafs i artistes.</span></a></div>
 </div></div></div></div>
 <div id="profiles" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Perfils de color</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html.ca" title="How do I import color profiles?"><span class="title">How do I import color profiles?</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles can be imported by opening them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html.ca" title="What is a color profile?"><span class="title">What is a color profile?</span><span class="linkdiv-dash"> — </span><span class="desc">A color profile is a simple file that expresses a color space or device response.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-howtoimport.html.ca" title="Com importo perfils de color?"><span class="title">Com importo perfils de color?</span><span class="linkdiv-dash"> — </span><span class="desc">Els perfils de color es poden importar obrint-los.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html.ca" title="On puc obtenir perfils de color?"><span class="title">On puc obtenir perfils de color?</span><span class="linkdiv-dash"> — </span><span class="desc">Els proveïdors proporcionen perfils de colors i es poden generar per un mateix.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html.ca" title="What is a color space?"><span class="title">What is a color space?</span><span class="linkdiv-dash"> — </span><span class="desc">A color space is a defined range of colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-gettingprofiles.html.ca" title="Where do I get color profiles?"><span class="title">Where do I get color profiles?</span><span class="linkdiv-dash"> — </span><span class="desc">Color profiles are provided by vendors and can be generated yourself.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisspace.html.ca" title="Què és un espai de color?"><span class="title">Què és un espai de color?</span><span class="linkdiv-dash"> — </span><span class="desc">Un espai de color és un rang definit de colors.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-whatisprofile.html.ca" title="Què és un perfil de color?"><span class="title">Què és un perfil de color?</span><span class="linkdiv-dash"> — </span><span class="desc">Un perfil de color és un fitxer simple que expressa un espai de color o una resposta del dispositiu.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="calibration" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Calibration</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Calibració</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html.ca" title="Can I share my color profile?"><span class="title">Can I share my color profile?</span><span class="linkdiv-dash"> — </span><span class="desc">Sharing color profiles is never a good idea as hardware changes over time.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html.ca" title="How do I calibrate my camera?"><span class="title">How do I calibrate my camera?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your camera is important to capture accurate colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html.ca" title="How do I calibrate my printer?"><span class="title">How do I calibrate my printer?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your printer is important to print accurate colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html.ca" title="How do I calibrate my scanner?"><span class="title">How do I calibrate my scanner?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your scanner is important to capture accurate colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html.ca" title="How do I calibrate my screen?"><span class="title">How do I calibrate my screen?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your screen is important to display accurate
-    colors.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html.ca" title="Com calibro el meu escànner?"><span class="title">Com calibro el meu escànner?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrar l'escàner és important per capturar colors precisos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html.ca" title="Com calibro la meva pantalla?"><span class="title">Com calibro la meva pantalla?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrar la seva pantalla és important per veure els colors precisos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html.ca" title="Com puc calibrar la meva càmera?"><span class="title">Com puc calibrar la meva càmera?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrar la seva càmera és important per capturar els colors precisos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html.ca" title="Com puc calibrar la meva impressora?"><span class="title">Com puc calibrar la meva impressora?</span><span class="linkdiv-dash"> — </span><span class="desc">El calibratge de la vostra impressora és important per imprimir els colors precisos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html.ca" title="Per què he de fer jo la calibració?"><span class="title">Per què he de fer jo la calibració?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrar és important si us preocupa els colors que mostreu o imprimiu.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html.ca" title="What color measuring instruments are supported?"><span class="title">What color measuring instruments are supported?</span><span class="linkdiv-dash"> — </span><span class="desc">We support a large number of calibration devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html.ca" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibration and characterization are different things entirely.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html.ca" title="Which target types are supported?"><span class="title">Which target types are supported?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibration targets are needed to do scanner and camera profiling.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html.ca" title="Why do I need to do calibration myself?"><span class="title">Why do I need to do calibration myself?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating is important if you care about the colors you display or print.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html.ca" title="Puc compartir el meu perfil de color?"><span class="title">Puc compartir el meu perfil de color?</span><span class="linkdiv-dash"> — </span><span class="desc">Compartir perfils de color no és una bona idea ja que el maquinari canvia amb el temps.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html.ca" title="Quina és la diferència entre el calibratge i la caracterització?."><span class="title">Quina és la diferència entre el calibratge i la caracterització?.</span><span class="linkdiv-dash"> — </span><span class="desc">El calibratge i la caracterització són coses completament diferents.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html.ca" title="Quins són els instruments de mesurament del color?"><span class="title">Quins són els instruments de mesurament del color?</span><span class="linkdiv-dash"> — </span><span class="desc">Admetem una gran quantitat de dispositius de calibratge.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html.ca" title="Quins tipus de destinació s'admeten?"><span class="title">Quins tipus de destinació s'admeten?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibration targets are needed to do scanner and camera profiling.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="problems" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Problems</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Problemes</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-notifications.html.ca" title="Can I get notified when my color profile is inaccurate?"><span class="title">Can I get notified when my color profile is inaccurate?</span><span class="linkdiv-dash"> — </span><span class="desc">You can be notified if your color profile is old and inaccurate.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-testing.html.ca" title="How do I test if color management is working correctly?"><span class="title">How do I test if color management is working correctly?</span><span class="linkdiv-dash"> — </span><span class="desc">Use the supplied test profiles to check that your profiles are being
-    applied correctly to your screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-testing.html.ca" title="Com puc provar si la gestió del color funciona correctament?"><span class="title">Com puc provar si la gestió del color funciona correctament?</span><span class="linkdiv-dash"> — </span><span class="desc">Utilitzeu els perfils de prova proporcionats per comprovar que els vostres perfils s'apliquen correctament a la vostra pantalla.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html.ca" title="Falta informació per a la correcció del color de la pantalla sencera?"><span class="title">Falta informació per a la correcció del color de la pantalla sencera?</span><span class="linkdiv-dash"> — </span><span class="desc">La correcció de color de tota la pantalla modifica tots els colors de la pantalla a totes les finestres.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html.ca" title="Missing information for whole-screen color correction?"><span class="title">Missing information for whole-screen color correction?</span><span class="linkdiv-dash"> — </span><span class="desc">Whole-screen color correction modifies all the screen colors on all windows.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html.ca" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Default monitor profiles do not have a calibration date.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html.ca" title="Per què els perfils del monitor per defecte no tenen una data de caducitat de la calibració?"><span class="title">Per què els perfils del monitor per defecte no tenen una data de caducitat de la calibració?</span><span class="linkdiv-dash"> — </span><span class="desc">Els perfils predeterminats pel monitor per defecte no tenen una data de calibratge.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notifications.html.ca" title="Puc rebre notificacions quan el meu perfil de color no sigui correcte?"><span class="title">Puc rebre notificacions quan el meu perfil de color no sigui correcte?</span><span class="linkdiv-dash"> — </span><span class="desc">Pot ser notificat si el seu perfil de color és antic i inexacte.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -130,18 +128,18 @@
 <div class="region"><ul>
 <li class="links ">
 <a href="hardware.html.ca" title="Maquinari i controladors">Maquinari i controladors</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.ca#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.ca" title="Printing">printers</a></span>,
+      <span class="link"><a href="hardware.html.ca#problems" title="Problemes comuns">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.ca" title="Imprimint">printers</a></span>,
       <span class="link"><a href="power.html.ca" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.ca" title="Color management">color management</a></span>,
+      <span class="link"><a href="color.html.ca" title="Gestió dels colors">color management</a></span>,
       <span class="link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></span>,
       <span class="link"><a href="disk.html.ca" title="Discs i emmagatzematge">disks</a></span>…
     </span>
 </li>
 <li class="links ">
 <a href="prefs.html.ca" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.ca" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.ca" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="keyboard.html.ca" title="Teclat">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.ca" title="Ratolí">mouse</a></span>,
       <span class="link"><a href="prefs-display.html.ca" title="Display &amp; screen">display</a></span>,
       <span class="link"><a href="prefs-language.html.ca" title="Region &amp; Language">languages</a></span>,
       <span class="link"><a href="user-accounts.html.ca" title="User accounts">user accounts</a></span>…
@@ -157,7 +155,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

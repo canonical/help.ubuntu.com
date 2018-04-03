@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Yksityisyysasetukset</span></h1></div>
@@ -75,11 +75,9 @@
   use these settings to clear your computer usage history and clean out
   unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.fi" title="Hävitä roskakorin sisältö ja väliaikaiset tiedostot"><span class="title">Hävitä roskakorin sisältö ja väliaikaiset tiedostot</span><span class="linkdiv-dash"> — </span><span class="desc">Määritä kuinka usein roskakorin sisältö ja väliaikaiset tiedostot poistetaan tietokoneeltasi.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.fi" title="Näytön automaattinen lukitseminen"><span class="title">Näytön automaattinen lukitseminen</span><span class="linkdiv-dash"> — </span><span class="desc">Estä muita henkilöitä käyttämästä tietokonetta, kun lähdet pois sen luota.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.fi" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
-    from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.fi" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
-    files.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.fi" title="Sammuta tai rajoita tiedostohistorian seurantaa"><span class="title">Sammuta tai rajoita tiedostohistorian seurantaa</span><span class="linkdiv-dash"> — </span><span class="desc">Estä tai rajoita tietokonettasi seuraamasta viimeksi käyttämiäsi tiedostoja.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-location.html.fi" title="Hallitse paikannuspalveluita"><span class="title">Hallitse paikannuspalveluita</span><span class="linkdiv-dash"> — </span><span class="desc">Ota käyttöön tai poista käytöstä sijainnin paikantaminen.</span></a></div>
 </div></div></div>
 </div>
@@ -99,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

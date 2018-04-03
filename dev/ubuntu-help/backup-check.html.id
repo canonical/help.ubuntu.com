@@ -70,9 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Periksa cadangan Anda</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">After you have backed up your files, you should make sure that the
- backup was successful. If it didn’t work properly, you could lose important
- data since some files could be missing from the backup.</p>
+<p class="p">Setelah Anda membuat cadangan berkas Anda, Anda mesti memastikan bahwa pembuatan cadangan tersebut sukses. Bila itu tidak bekerja dengan benar, Anda bisa kehilangan data penting karena beberapa berkas bisa hilang dari cadangan.</p>
 <p class="p">Bila Anda menggunakan <span class="app">Files</span> untuk menyalin atau memindahkan berkas, komputer akan memeriksa untuk memastikan bahwa semua data ditransfer dengan benar. Namun, jika Anda mentransfer data yang sangat penting bagi Anda, Anda mungkin ingin melakukan pemeriksaan tambahan untuk memastikan bahwa data Anda telah ditransfer dengan benar.</p>
 <p class="p">Anda dapat melakukan pemeriksaan tambahan dengan melihat melalui folder dan berkas yang disalin pada media tujuan. Dengan memeriksa untuk memastikan bahwa berkas dan folder yang Anda transfer memang benar ada dalam backup, Anda dapat memiliki kepercayaan lebih bahwa prosesnya sukses.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Bila Anda menyadari bahwa Anda melakukan backup banyak data secara berkala, Anda mungkin akan merasa lebih mudah bila memakai program backup khusus, seperti misalnya <span class="app">Déjà Dup</span>. Program seperti itu lebih kuat dan handal daripada sekedar menyalin dan menempel berkas.</p></div></div></div></div>
@@ -91,7 +89,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

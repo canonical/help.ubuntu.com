@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Jūs varat dod citiem cilvēkiem tīklā pieeju savai mapei <span class="file">Publiskie</span>, kas ir jūsu <span class="file">Mājas</span> mapē. Konfigurējiet  <span class="gui">Personīgo datņu koplietošana</span>, lai ļautu citiem piekļūt šīs mapes saturam.</p>
-<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Lai <span class="gui">Personiskā datņu koplietošana</span> būtu redzama, jābūt uzinstalētai pakotnei <span class="app">gnome-user-share</span>.</p></div></div></div></div>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Lai <span class="gui">Personiskā datņu koplietošana</span> būtu redzama, jābūt uzinstalētai pakotnei <span class="app">gnome-user-share</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-user-share" title="apt:gnome-user-share">Instalēt gnome-user-share</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Koplietošana</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Koplietošana</span>, lai atvērtu paneli.</p></li>
@@ -125,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

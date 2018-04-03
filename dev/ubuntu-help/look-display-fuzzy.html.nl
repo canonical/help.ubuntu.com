@@ -64,38 +64,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Waarom ziet alles op mijn scherm er wazig/korrelig uit?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Dit kan gebeuren omdat de schermresolutie die u heeft ingesteld niet geschikt is voor uw scherm.</p>
-<p class="p">To solve this, open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span>
-overview and start typing <span class="gui">Displays</span>. Click on <span class="gui">Displays</span>
-to open the panel. Try some of the <span class="gui">Resolution</span> options and set the
-one that makes the screen look better.</p>
+<p class="p">Om dit op te lossen, open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Schermen</span>. Klik op <span class="gui">Schermen</span> om het paneel te openen. Probeer enkele <span class="gui">Resolutie</span>-mogelijkheden uit en kies voor de resolutie die het scherm er beter uit laat ziet.</p>
 </div>
 <div id="multihead" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Wanneer er meerdere schermen aangesloten zijn</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you have two displays connected to the computer (for example, a normal
-  monitor and a projector), the displays might have different resolutions.
-  However, the computer’s graphics card can only display the screen in one
-  resolution at a time, so at least one of the displays might look fuzzy.</p>
-<p class="p">You can set it so that the two displays have different resolutions, but
-  you will not be able to display the same thing on both screens
-  simultaneously. In effect, you will have two independent screens connected at
-  the same time. You can move windows from one screen to another, but you
-  cannot show the same window on both screens at once.</p>
+<p class="p">Als u twee schermen heeft aangesloten op de computer (bijvoorbeeld een normale monitor en een projector), dan kan het zijn dat de schermen verschillende resoluties hebben. De grafische kaart in de computer kan echter het scherm slechts in één resolutie tegelijk weergeven waardoor minstens één van de schermen er vaag uitziet.</p>
+<p class="p">U kunt het zo instellen dat de twee schermen verschillende resoluties hebben, maar u kunt dan niet hetzelfde op beide schermen tegelijk weergeven. In feite heeft u twee onafhankelijke schermen die tegelijk zijn aangesloten. U kunt vensters verplaatsen van het ene scherm naar het andere, maar u kunt niet hetzelfde venster op beide schermen tegelijk tonen.</p>
 <p class="p">Om de schermen zo in te stellen dat ze zij elk een eigen resolutie hebben:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Schermen</span>.</p></li>
 <li class="steps"><p class="p">Klik op het <span class="gui">Schermen</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">The displays should be listed as <span class="gui">Mirrored</span>. Select your main
-      display.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Primary</span> in the list of display configurations, and
-      then click <span class="gui">Apply</span> to save.</p></li>
+<li class="steps"><p class="p">De schermen zouden in de lijst als <span class="gui">Gespiegeld</span> moeten staan. Kies uw hoofdscherm.</p></li>
+<li class="steps"><p class="p">Kies <span class="gui">Primair</span> in de lijst met schermconfiguraties en klik daarna op <span class="gui">Toepassen</span> om het op te slaan.</p></li>
 <li class="steps"><p class="p">Selecteer elk scherm apart in het grijze vak bovenaan het venster <span class="gui">Schermen</span>. Wijzig de <span class="gui">resolutie</span> tot dat scherm er goed uitziet.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -112,7 +100,7 @@ one that makes the screen look better.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html.nl" title="Change the resolution or rotation of the screen">Change the resolution or rotation of the screen</a><span class="desc"> — De resolutie en de oriëntatie (rotatie) van het scherm wijzigen.</span>
+<a href="look-resolution.html.nl" title="De resolutie of de oriëntatie (rotatie) van het scherm wijzigen">De resolutie of de oriëntatie (rotatie) van het scherm wijzigen</a><span class="desc"> — De resolutie en de oriëntatie (rotatie) van het scherm wijzigen.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -124,7 +112,7 @@ one that makes the screen look better.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Zgłaszanie problemu w Ubuntu</title>
+<title>Zgłaszanie problemu z Ubuntu</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,48 +64,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.pl-PL" title="Uzyskaj więcej pomocy">Uzyskaj więcej pomocy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="more-help.html.pl-PL" title="Więcej pomocy">Więcej pomocy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Zgłaszanie problemu w Ubuntu</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zgłaszanie problemu z Ubuntu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you notice a problem in Ubuntu, you can file a <span class="em">bug report</span>.</p>
+<p class="p">Jeśli wystąpił problem z Ubuntu, to można go zgłosić.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Type <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-<span class="input">ubuntu-bug nameofprogram</span></p>
-<p class="p">If you have a hardware issue or don't know the name of the program affected,
-    just type <span class="input">ubuntu-bug</span></p>
+<p class="p">Naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> i wpisz <span class="input">ubuntu-bug nazwa-programu</span>.</p>
+<p class="p">Jeśli to problem sprzętowy lub nie znasz nazwy programu, którego dotyczy problem, to wpisz tylko <span class="input">ubuntu-bug</span>.</p>
 </li>
-<li class="steps"><p class="p">After running one of the above commands, Ubuntu will gather information about the bug. This may take a few minutes.
-Review the collected information if you wish.
-Click <span class="gui">Send</span> to continue.</p></li>
-<li class="steps"><p class="p">A new web browser tab will open to continue processing the bug data. Ubuntu uses the 
-website <span class="app">Launchpad</span> to manage its bug reports. If you do not
-have a Launchpad account, you will need to register for one to file a bug and receive
-email updates about its status. You can do this by clicking <span class="gui">Create a new account</span>.</p></li>
-<li class="steps"><p class="p">After logging in to Launchpad, enter a description of the problem in the summary field.</p></li>
-<li class="steps"><p class="p">After clicking <span class="gui">Next</span> Launchpad will search for similar bugs in case the bug you
-are reporting has already been reported. If the bug has already been reported, you can mark that bug as 
-also affecting you. You can also subscribe to the bug report to receive updates about progress with
-fixing it. If the bug has not already been reported, click <span class="gui">No, I need to report a new bug</span>.</p></li>
+<li class="steps"><p class="p">Po wykonaniu jednego z powyższych poleceń Ubuntu zbierze informacje o błędzie. Może to zająć kilka minut. Można przejrzeć zebrane informacje. Kliknij przycisk <span class="gui">Wyślij</span>, aby kontynuować.</p></li>
+<li class="steps"><p class="p">Zostanie otwarta nowa karta w przeglądarce WWW, w której kontynuowane jest przetwarzanie informacji o błędzie. Ubuntu korzysta ze strony o nazwie <span class="app">Launchpad</span> do zarządzania zgłoszeniami błędów. Jeśli użytkownik nie ma na niej konta, to należy je utworzyć, aby zgłosić błąd i otrzymywać pocztą informacje o jego stanie. Można to zrobić klikając odnośnik <span class="gui">Create a new account</span> (Utwórz nowe konto).</p></li>
+<li class="steps"><p class="p">Po zalogowaniu w serwisie Launchpad wpisz opis problemu w polu „Summary” (w języku angielskim).</p></li>
+<li class="steps"><p class="p">Po kliknięciu przycisku <span class="gui">Next</span> (Dalej) serwis Launchpad wyszuka podobne błędy, na wypadek gdyby ktoś już miał ten problem. Jeśli błąd został już zgłoszony, to można go oznaczyć jako dotyczący również Ciebie. Można go także subskrybować, aby otrzymywać aktualizacje o procesie jego naprawiania. Jeśli błąd nie został jeszcze zgłoszony, to kliknij <span class="gui">No, I need to report a new bug</span> (Nie, potrzebuję zgłosić nowy błąd).</p></li>
 <li class="steps">
-<p class="p">Fill in the description field with as much information as you can. It's 
-important that you specify three things:</p>
+<p class="p">Wypełnij pole opisu jak największą ilością informacji (w języku angielskim). Najważniejsze jest podanie trzech rzeczy:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">What you expected to happen</p></li>
-<li class="list"><p class="p">What actually happened</p></li>
-<li class="list"><p class="p">If possible, a minimal series of steps necessary to make it happen, where step 1 is "start the
-program"</p></li>
+<li class="list"><p class="p">Co powinno się wydarzyć</p></li>
+<li class="list"><p class="p">Co się wydarzyło</p></li>
+<li class="list"><p class="p">Jeśli to możliwe, minimalna liczba działań wymaganych, aby powtórzyć błąd, z których pierwszy to „uruchom program”.</p></li>
 </ul></div></div></div>
 </li>
-<li class="steps"><p class="p">Your report will be given an ID number, and its status will be updated as it is being dealt with. Thanks for helping make Ubuntu better!</p></li>
+<li class="steps"><p class="p">Zgłoszenie otrzyma numer identyfikujący, a jego stan będzie zmieniany razem z postępem jego rozwiązywania. Dziękujemy za pomoc w ulepszaniu Ubuntu!</p></li>
 </ol></div></div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">If you get the "This is not a genuine Ubuntu package" error, it means that
-the software you are trying to report a bug about is not from the official Ubuntu
-repositories. In this case, you cannot use Ubuntu's built-in bug reporting tool.</p></div></div></div></div>
-<p class="p">For more information about reporting bugs in Ubuntu, please read the extensive <span class="link"><a href="https://help.ubuntu.com/community/ReportingBugs" title="https://help.ubuntu.com/community/ReportingBugs">online documentation</a></span>.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli wystąpi błąd „This is not a genuine Ubuntu package” (To nie jest prawdziwy pakiet Ubuntu), to oznacza to, że zgłaszany jest błąd w oprogramowaniu niepochodzącym z oficjalnych repozytoriów Ubuntu. W takim przypadku nie można skorzystać z wbudowanego narzędzia do zgłaszania błędów Ubuntu.</p></div></div></div></div>
+<p class="p"><span class="link"><a href="https://help.ubuntu.com/community/ReportingBugs" title="https://help.ubuntu.com/community/ReportingBugs">Dokumentacja online</a></span> (w języku angielskim) zawiera więcej informacji o zgłaszaniu błędów w Ubuntu.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -113,16 +99,13 @@ repositories. In this case, you cannot use Ubuntu's built-in bug reporting tool.
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.pl-PL" title="Uzyskaj więcej pomocy">Uzyskaj więcej pomocy</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html.pl-PL" title="O tym przewodniku">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html.pl-PL" title="Participate to improve this guide">help improve this guide</a></span>…
-    </span>
+<a href="more-help.html.pl-PL" title="Więcej pomocy">Więcej pomocy</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.pl-PL" title="O tym podręczniku">Wskazówki, jak korzystać z pomocy</a></span>, <span class="link"><a href="get-involved.html.pl-PL" title="Dołącz do nas, aby ulepszyć ten podręcznik">pomaganie w ulepszaniu pomocy</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="get-involved.html.pl-PL" title="Participate to improve this guide">Participate to improve this guide</a><span class="desc"> — Jak i gdzie zgłaszać problemy z tych tematów pomocy.</span>
+<a href="get-involved.html.pl-PL" title="Dołącz do nas, aby ulepszyć ten podręcznik">Dołącz do nas, aby ulepszyć ten podręcznik</a><span class="desc"> — Jak i gdzie zgłaszać problemy z tematami pomocy.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -134,7 +117,7 @@ repositories. In this case, you cannot use Ubuntu's built-in bug reporting tool.
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

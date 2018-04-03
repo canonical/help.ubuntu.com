@@ -70,11 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Onde gardar a súa copia de seguranza</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You should store backup copies of your files somewhere separate from your
- computer — on an external hard disk, for example. That way, if the computer
- breaks, the backup will still be intact. For maximum security, you shouldn’t
- keep the backup in the same building as your computer. If there is a fire or
- theft, both copies of the data could be lost if they are kept together.</p>
+<p class="p">Debería gardar as copias de respaldo dos seus ficheiros nalgún sitio separado do seu equipo, nun disco duro externo, por exemplo. Desta maneira se o seu equipo rompe, a copia de seguranza estará intacta. Para unha máxima seguranza, non debería manter o respaldo no mesmo edificio que o seu equipo. Se hai un incendio ou un roubo, as dúas copias dos datos pódense perder se se manteñen xuntas.</p>
 <p class="p">É importante seleccionar un <span class="em">medio de respaldo</span> axeitado tamén. Debe almacer os seus respaldos nun dispositivo que teña capacidade dabondo para tódolos ficheiros respaldados.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Opcións de almacenamento locais e remotas</span></h2></div>
@@ -106,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

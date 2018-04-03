@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html.de#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Schreibtisch</a> › <a class="trail" href="shell-overview.html.de#apps" title="Anwendungen und Fenster">Anwendungen und Fenster</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -76,8 +76,8 @@
 <div class="contents">
 <p class="p">Sie können einstellen, welche Anwendungen beim Anmelden, zusätzlich zu den Standardanwendungen, welche vom System eingestellt wurden, gestartet werden sollen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Use the Dash to find and open
-      <span class="gui">Startup Applications</span>. Alternatively you can press
+<li class="steps"><p class="p">Open <span class="gui">Startup Applications</span> via the <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Activities</a></span> overview.
+      Alternatively you can press
       <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and run the
       <span class="cmd">gnome-session-properties</span> command.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Hinzufügen</span> und geben Sie den Befehl ein der beim Login ausgeführt werden soll (Name und Kommentar sind optional). Zum Beispiel um Firefox automatisch starten zu lassen, ist es ausreichend <span class="cmd">firefox</span> in das <span class="gui">Befehl</span>-Feld einzugeben und mit <span class="gui">Hinzufügen</span> zu bestätigen.</p></li>
@@ -103,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

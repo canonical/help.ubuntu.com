@@ -74,9 +74,9 @@
 <p class="p">You need <span class="link"><a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">administrator privileges</a></span>
   to add user accounts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Users</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Usuarios</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
       type in your password when prompted.</p></li>
 <li class="steps"><p class="p">Press the <span class="gui">+</span> button, below the list of
@@ -85,8 +85,7 @@
 <p class="p">If you want the new user to have
       <span class="link"><a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">administrative access</a></span> to the
       computer, select <span class="gui">Administrator</span> for the account type.</p>
-<p class="p">Administrators can do things like add and delete users, install software
-      and drivers, and change the date and time.</p>
+<p class="p">Os administradores poden facer cousas como engadir e eliminar usuarios, instar software e controladores, e cambiar a data e a hora.</p>
 </li>
 <li class="steps"><p class="p">Enter the new user’s full name. The username will be filled in
       automatically based on the full name. If you do not like the proposed
@@ -94,15 +93,11 @@
 <li class="steps">
 <p class="p">You can choose to set a password for the new user, or let them set it
       themselves on their first login.</p>
-<p class="p">If you choose to set the password now,
-      you can press the <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="generate password"></span></span></span> icon to
-      automatically generate a random password.</p>
+<p class="p">Se quere estabelecer un contrasinal agora, pode premer a icona <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="xerar un contrasinal"></span></span></span> para xerar un contrasinal aleatorio automaticamente.</p>
 </li>
-<li class="steps"><p class="p">Prema <span class="gui">Engadir</span></p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Engadir</span>.</p></li>
 </ol></div></div></div>
-<p class="p">If you want to change the password after creating the account, select the
-  account, <span class="gui">Unlock</span> the panel and press the current
-  password status.</p>
+<p class="p">Se quere cambiar o contrasinal despoisd e crear unha conta, seleccione a conta , <span class="gui">Desbloquee</span> o panel e prema o estado do contrasinal actual.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">Users</span> panel, you can click the image next to the
     user’s name to the right to set an image for the account. This image will
     be shown in the login window. GNOME provides some stock photos you can use,
@@ -130,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

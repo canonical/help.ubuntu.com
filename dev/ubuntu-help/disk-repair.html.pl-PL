@@ -64,84 +64,49 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Naprawianie uszkodzonego systemu plików</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Filesystems can be corrupted due to unexpected power loss, system crashes
-     and unsafe removal of the drive.
-     After such an incident it is recommended to <span class="em">repair</span> or at least
-     <span class="em">check</span> the filesystem to prevent future data loss.</p>
-<p class="p">Sometimes a repair is required in order to mount or modify a filesystem.
-     Even if a <span class="em">check</span> does not report any damage the filesystem might
-     still be marked as 'dirty' internally and require a repair.</p>
+<p class="p">Systemy plików mogą zostać uszkodzone z powodu nagłej utraty zasilania, awarii systemu i niebezpiecznego usunięcia urządzenia. Po takim wypadku zalecane jest <span class="em">naprawienie</span>, albo chociaż <span class="em">sprawdzenie</span> systemu plików, aby uniknąć utraty danych w przyszłości.</p>
+<p class="p">Czasami naprawa jest wymagana, aby zamontować lub zmodyfikować system plików. Nawet jeśli <span class="em">sprawdzenie</span> nie zgłasza żadnych uszkodzeń, to system plików może być wewnętrznie oznaczony jako „brudny” i wymagać naprawy.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Check if a filesystem is damaged</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Sprawdzanie, czy system plików jest uszkodzony</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list of
-       storage devices on the left. If there is more than one volume on the
-       disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Check Filesystem…</span>.</p></li>
+<li class="steps"><p class="p">Otwórz program <span class="app">Dyski</span> z <span class="gui">ekranu podglądu</span>.</p></li>
+<li class="steps"><p class="p">Wybierz dysk zawierający system plików z listy urządzeń do przechowywania danych po lewej. Jeśli na dysku jest więcej niż jeden wolumin, to wybierz ten zawierający system plików.</p></li>
+<li class="steps"><p class="p">Na pasku narzędziowym pod sekcją <span class="gui">Woluminy</span> kliknij przycisk menu. Następnie kliknij <span class="gui">Sprawdź system plików…</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a check may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
-<p class="p">The action will not modify the filesystem but will unmount it if needed.
-      Be patient while the filesystem is checked.</p>
+<p class="p">W zależności od ilości danych przechowywanych w systemie plików sprawdzanie może potrwać chwilę dłużej. Potwierdź w oknie, które się pojawi, aby rozpocząć działanie.</p>
+<p class="p">Działanie nie zmodyfikuje systemu plików, ale odmontuje go w razie potrzeby. Zachowaj cierpliwość podczas sprawdzania.</p>
 </li>
-<li class="steps"><p class="p">After completion you will be notified whether the filesystem is damaged.
-       Note that in some cases even if the filesystem is undamaged it still
-       may need to be repaired to reset an internal 'dirty' marker.</p></li>
+<li class="steps"><p class="p">Po ukończeniu zostanie wyświetlona informacja, czy system plików jest uszkodzony. Zauważ, że w niektórych przypadkach nawet jeśli system plików nie jest uszkodzony, wymaga on naprawy, aby przywrócić wewnętrzne oznaczenie „czystości”.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Ostrzeżenie"><div class="inner">
-<div class="title title-note"><h2><span class="title">Possible data loss when repairing</span></h2></div>
+<div class="title title-note"><h2><span class="title">Możliwa utrata danych podczas naprawiania</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the filesystem structure is damaged it can affect the files stored
-     in it. In some cases these files can not be brought into a valid form
-     again and will be deleted or moved to a special directory. It is normally
-     the <span class="em">lost+found</span> folder in the top level directory of the filesystem
-     where these recovered file parts can be found.</p>
-<p class="p">If the data is too valuable to be lost during this process, you are
-     advised to back it up by saving an image of the volume before
-     repairing.</p>
-<p class="p">This image can be then processed with forensic analysis tools like
-     <span class="app">sleuthkit</span> to further recover missing files and data parts
-     which were not restored during the repair, and also previously removed
-     files.</p>
+<p class="p">Jeśli struktura systemu plików jest uszkodzona, to może to wpłynąć na przechowywane na nim pliki. W niektórych przypadkach tych plików nie da się przywrócić do prawidłowej postaci i zostaną usunięte lub przeniesione do specjalnego katalogu. Zwykle to katalog <span class="em">lost+found</span> w głównym katalogu systemu plików.</p>
+<p class="p">Jeśli dane są zbyt wartościowe, aby utracić je podczas tego procesu, to zalecamy utworzyć ich kopię zapasową przez zapisanie obrazu woluminu przed naprawą.</p>
+<p class="p">Taki obraz można potem przetworzyć za pomocą narzędzi do analizy śledczej, takich jak <span class="app">sleuthkit</span>, aby przywrócić brakujące pliki i części danych nieprzywrócone podczas naprawy, a także poprzednio usunięte pliki.</p>
 </div></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Repair a filesystem</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Naprawianie systemu plików</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
-       of storage devices on the left. If there is more than one volume on
-       the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Repair Filesystem…</span>.</p></li>
+<li class="steps"><p class="p">Otwórz program <span class="app">Dyski</span> z <span class="gui">ekranu podglądu</span>.</p></li>
+<li class="steps"><p class="p">Wybierz dysk zawierający system plików z listy urządzeń do przechowywania danych po lewej. Jeśli na dysku jest więcej niż jeden wolumin, to wybierz ten zawierający system plików.</p></li>
+<li class="steps"><p class="p">Na pasku narzędziowym pod sekcją <span class="gui">Woluminy</span> kliknij przycisk menu. Następnie kliknij <span class="gui">Napraw system plików…</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a repair may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
-<p class="p">The action will unmount the filesystem if needed. The repair action tries
-   to bring the filesystem into a consistent state and moves files which were
-   damaged in a special folder. Be patient while the filesystem is
-   repaired.</p>
+<p class="p">W zależności od ilości danych przechowywanych w systemie plików naprawa może potrwać chwilę dłużej. Potwierdź w oknie, które się pojawi, aby rozpocząć działanie.</p>
+<p class="p">Działanie odmontuje system plików w razie potrzeby. Naprawa próbuje przywrócić system plików do spójnego stanu i przenosi uszkodzone pliki do specjalnego katalogu. Zachowaj cierpliwość podczas naprawy.</p>
 </li>
 <li class="steps">
-<p class="p">After completion you will be notified whether the filesystem could be
-       successfully repaired. In case of success it can be used again in the
-       normal way.</p>
-<p class="p">If the filesystem could not be repaired, back it up by saving an image
-       of the volume to be able to retrieve important files later. This can
-       be done by mounting the image read-only or using forensic analysis tools
-       like <span class="app">sleuthkit</span>.</p>
-<p class="p">To make use of the volume again it has to be
-       <span class="link"><a href="disk-format.html.pl-PL" title="Wipe everything off a removable disk">formatted</a></span> with a new filesystem. All
-       data will be discarded.</p>
+<p class="p">Po ukończeniu zostanie wyświetlona informacja, czy system plików został pomyślnie naprawiony. Jeśli tak się stało, to można używać go jak zwykle.</p>
+<p class="p">Jeśli system plików nie został naprawiony, to utwórz jego kopię zapasową przez zapisanie obrazu woluminu, aby odzyskać ważne pliki w późniejszym czasie. Można to zrobić montując obraz tylko do odczytu lub za pomocą narzędzi do analizy śledczej, takich jak <span class="app">sleuthkit</span>.</p>
+<p class="p">Aby ponownie używać woluminu, należy go <span class="link"><a href="disk-format.html.pl-PL" title="Formatowanie dysku wymiennego">sformatować</a></span>, tworząc nowy system plików. Wszystkie dane zostaną usunięte.</p>
 </li>
 </ol></div>
 </div></div>
@@ -151,12 +116,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html.pl-PL" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.pl-PL" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.pl-PL" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.pl-PL" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.pl-PL" title="Sprawdzanie wolnego miejsca na dysku">Miejsce na dysku</a></span>, <span class="link"><a href="disk-benchmark.html.pl-PL" title="Testowanie wydajności dysku twardego">wydajność</a></span>, <span class="link"><a href="disk-check.html.pl-PL" title="Sprawdzanie, czy dysk twardy sprawia problemy">problemy</a></span>, <span class="link"><a href="disk-partitions.html.pl-PL" title="Zarządzanie woluminami i partycjami">woluminy i partycje</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -167,7 +127,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,22 +64,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Privacy-instellingen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The <span class="em">Privacy Settings</span> in GNOME help you control whether or not
-  certain parts of your desktop are visible to others. You can also
-  use these settings to clear your computer usage history and clean out
-  unnecessary files.</p>
+<p class="p">Via de <span class="em">Privacy-instellingen</span> in gnome regelt u of bepaalde delen van uw bureaublad wel of niet zichtbaar zijn voor anderen. U kunt deze instellingen ook gebruiken om de geschiedenis van uw computergebruik te wissen en onnodige bestanden te verwijderen.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.nl" title="Het scherm automatisch vergrendelen"><span class="title">Het scherm automatisch vergrendelen</span><span class="linkdiv-dash"> — </span><span class="desc">Voorkom dat andere mensen uw computer gebruiken wanneer u even bij uw computer weg gaat.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.nl" title="Prullenbak legen &amp; tijdelijke bestanden definitief verwijderen"><span class="title">Prullenbak legen &amp; tijdelijke bestanden definitief verwijderen</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
-    from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.nl" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
-    files.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.nl" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Geef op hoe vaak bestanden in uw prullenbak en tijdelijke bestanden van uw computer zullen worden verwijderd.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.nl" title="Traceren van bestandsgeschiedenis uitzetten of beperken"><span class="title">Traceren van bestandsgeschiedenis uitzetten of beperken</span><span class="linkdiv-dash"> — </span><span class="desc">Het traceren van recent gebruikte bestanden door uw computer stoppen of beperken.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-location.html.nl" title="Locatiediensten instellen"><span class="title">Locatiediensten instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Geolocatie in- of uitschakelen.</span></a></div>
 </div></div></div>
 </div>
@@ -99,7 +94,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

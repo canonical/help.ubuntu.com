@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-workspaces" title="Używanie obszarów roboczych">Obszary robocze</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-workspaces" title="Używanie obszarów roboczych">Obszary robocze</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Przełączanie między obszarami roboczymi</span></h1></div>
@@ -73,24 +73,16 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Używanie myszy:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span>.</p></li>
-<li class="steps"><p class="p">Click on a workspace in the <span class="link"><a href="shell-workspaces.html.pl-PL" title="What is a workspace, and how will it help me?">workspace
-  selector</a></span> on the right side of the screen to view the open windows on
-  that workspace.</p></li>
-<li class="steps"><p class="p">Click on any window thumbnail to activate the workspace.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span>.</p></li>
+<li class="steps"><p class="p">Kliknij obszar roboczy na <span class="link"><a href="shell-workspaces.html.pl-PL" title="Czym są obszary robocze i do czego mogę je używać?">przełączniku obszarów roboczych</a></span> po prawej stronie ekranu, aby wyświetlić otwarte okna na tym obszarze.</p></li>
+<li class="steps"><p class="p">Kliknij dowolną miniaturę okna, aby aktywować obszar roboczy.</p></li>
 </ol></div>
 </div></div>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Używanie klawiatury:</span></h2></div>
 <div class="region"><ul class="list">
-<li class="list"><p class="p">Press
-    <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>
-    or <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> to move to
-    the workspace shown above the current workspace in the workspace selector.
-    </p></li>
-<li class="list"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
-    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span> to move to the
-    workspace shown below the current workspace in the workspace selector.</p></li>
+<li class="list"><p class="p">Naciśnij klawisze <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span> lub <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span>, aby przejść do obszaru roboczego nad obecnym obszarem na przełączniku obszarów roboczych.</p></li>
+<li class="list"><p class="p">Naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> lub <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>, aby przejść do obszaru roboczego pod obecnym obszarem na przełączniku obszarów roboczych.</p></li>
 </ul></div>
 </div></div>
 </div>
@@ -104,7 +96,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html.pl-PL" title="What is a workspace, and how will it help me?">What is a workspace, and how will it help me?</a><span class="desc"> — Obszary robocze są sposobem na grupowanie okien na pulpicie.</span>
+<a href="shell-workspaces.html.pl-PL" title="Czym są obszary robocze i do czego mogę je używać?">Czym są obszary robocze i do czego mogę je używać?</a><span class="desc"> — Obszary robocze są sposobem na grupowanie okien na pulpicie.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -116,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -73,23 +73,11 @@
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connect</a></span>,
-      <span class="link"><a href="bluetooth-send-file.html.ca" title="Send files to a Bluetooth device">send files</a></span>,
-      <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Turn Bluetooth on or off">turn on and off</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="color.html.ca" title="Color management">Color management</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="color-whyimportant.html.ca" title="Why is color management important?">Why is this important</a></span>,
-      <span class="link"><a href="color.html.ca#profiles" title="Perfils de color">Color profiles</a></span>,
-      <span class="link"><a href="color.html.ca#calibration" title="Calibration">How to calibrate a device</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">enviar arxius</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.ca" title="Check how much disk space is left">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Test the performance of your hard disk">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Check your hard disk for problems">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Manage volumes and partitions">volums i particions</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu el vostre disc dur per problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware-auth.html.ca" title="Fingerprints &amp; smart cards">Fingerprints &amp; smart cards</a></div>
@@ -100,19 +88,16 @@
   </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html.ca" title="Keyboard">Keyboard</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard-layouts.html.ca" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">keyboard accessibility</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.ca" title="Per què és important la gestió del color?">Per què és important</a></span>, <span class="link"><a href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a></span>, <span class="link"><a href="color.html.ca#calibration" title="Calibració">Com calibrar un dispositiu</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html.ca" title="Mouse">Mouse</a></div>
+<div class="links-grid-link"><a href="printing.html.ca" title="Imprimint">Imprimint</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="mouse-lefthanded.html.ca" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html.ca" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html.ca" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+      <span class="link"><a href="printing-setup.html.ca" title="Set up a local printer">Local setup</a></span>,
+      
+      <span class="link"><a href="printing-order.html.ca" title="Feu que les pàgines s'imprimeixin en un ordre diferent">order and collate</a></span>,
+      <span class="link"><a href="printing-2sided.html.ca" title="Print two-sided and multi-page layouts">two-sided and multi-page</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -124,12 +109,19 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="printing.html.ca" title="Printing">Printing</a></div>
+<div class="links-grid-link"><a href="mouse.html.ca" title="Ratolí">Ratolí</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="printing-setup.html.ca" title="Set up a local printer">Local setup</a></span>,
-      
-      <span class="link"><a href="printing-order.html.ca" title="Make pages print in a different order">order and collate</a></span>,
-      <span class="link"><a href="printing-2sided.html.ca" title="Print two-sided and multi-page layouts">two-sided and multi-page</a></span>…
+      <span class="link"><a href="mouse-lefthanded.html.ca" title="Utilitzeu el ratolí per la ma esquerra">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.ca" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.ca" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="keyboard-layouts.html.ca" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">keyboard accessibility</a></span>…
     </span></div>
 </div>
 </div></div></div>
@@ -142,18 +134,18 @@
 </div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Common problems</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Problemes comuns</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="bluetooth.html.ca#problems" title="Problems">Bluetooth problems</a></li>
 <li class="links ">
 <a href="hardware-cardreader.html.ca" title="Media card reader problems">Media card reader problems</a><span class="desc"> — Troubleshoot media card readers</span>
 </li>
 <li class="links ">
-<a href="power.html.ca#problems" title="Problems">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
+<a href="power.html.ca#problems" title="Problemes">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
 </li>
 <li class="links ">
 <a href="printing.html.ca#problems" title="Printer problems">Printer problems</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
 </li>
+<li class="links "><a href="bluetooth.html.ca#problems" title="Problemes">Problemes del Bluetooth</a></li>
 <li class="links ">
 <a href="hardware-problems-graphics.html.ca" title="Screen problems">Screen problems</a><span class="desc"> — 
       Troubleshoot screen and graphics problems.
@@ -182,7 +174,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

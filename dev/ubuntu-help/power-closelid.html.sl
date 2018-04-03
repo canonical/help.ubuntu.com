@@ -87,8 +87,12 @@
 <div class="region"><div class="contents">
 <div class="note note-important" title="Pomembno"><div class="inner"><div class="region"><div class="contents"><p class="p">These instructions will only work if you are using <span class="app">systemd</span>.
     Contact your distribution for more information.</p></div></div></div></div>
-<div class="note note-important" title="Pomembno"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-    change this setting.</p></div></div></div></div>
+<div class="note note-important" title="Pomembno"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
+    change this setting.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
+      <span class="app">Tweaks</span></a></span></p>
+</div></div></div></div>
 <p class="p">If you do not want the computer to suspend when you close the lid, you can
   change the setting for that behavior.</p>
 <div class="note note-warning" title="Opozorilo"><div class="inner"><div class="region"><div class="contents"><p class="p">Pri spreminjanju te nastavitve bodite previdni. Nekateri prenosniki se lahko pregrejejo, če delujejo z zaprtim pokrovom, še posebno, če so v omejenem prostoru kot je nahrbtnik.</p></div></div></div></div>
@@ -136,7 +140,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why does my wireless network keep disconnecting?</title>
+<title>Dlaczego sieć bezprzewodowa ciągle się rozłącza?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,60 +65,36 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why does my wireless network keep disconnecting?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Dlaczego sieć bezprzewodowa ciągle się rozłącza?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You may find that you have been disconnected from a wireless network even
- though you wanted to stay connected. Your computer will normally try to
- reconnect to the network as soon as this happens (the network icon on the top
- bar will display three dots if it is trying to reconnect), but it can be
- annoying, especially if you were using the internet at the time.</p></div>
+<div class="contents"><p class="p">Może się zdarzyć, że sieć bezprzewodowa jest rozłączana bez powodu. Komputer zwykle stara się połączyć ponownie jak najszybciej (ikona sieci na górnym pasku wyświetli trzy kropki, tak jak przy łączeniu), ale może to być irytujące, zwłaszcza podczas korzystania z Internetu.</p></div>
 <div id="signal" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Słaby sygnał bezprzewodowy</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A common reason for being disconnected from a wireless network is that you
- have low signal. Wireless networks have a limited range, so if you are too far
- away from the wireless base station you may not be able to get a strong enough
- signal to maintain a connection. Walls and other objects between you and the
- base station can also weaken the signal.</p>
-<p class="p">The network icon on the top bar displays how strong your wireless signal is.
- If the signal looks low, try moving closer to the wireless base station.</p>
+<p class="p">Częstą przyczyną rozłączeń z sieci bezprzewodowej jest słaby sygnał. Sieci bezprzewodowe mają ograniczony zasięg, więc jeśli komputer jest za daleko od stacji bazowej, to sygnał może być za słaby, aby utrzymać połączenie. Ściany i inne przeszkody między komputerem a stacją bazową także mogą osłabić sygnał.</p>
+<p class="p">Ikona sieci na górnym pasku pokazuje siłę sygnału bezprzewodowego. Jeśli sygnał jest słaby, spróbuj przenieść komputer bliżej stacji bazowej (lub stację bliżej komputera).</p>
 </div></div>
 </div></div>
 <div id="network" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Network connection not being established properly</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Połączenie sieciowe nie jest poprawnie nawiązywane</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
- have successfully connected at first, but then you will be disconnected soon
- after. This normally happens because your computer was only partially
- successful in connecting to the network — it managed to establish a connection,
- but was unable to finalize the connection for some reason and so was
- disconnected.</p>
-<p class="p">A possible reason for this is that you entered the wrong wireless
- passphrase, or that your computer was not allowed on the network (because the
- network requires a username to log in, for example).</p>
+<p class="p">Czasami podczas łączenia się z siecią bezprzewodową może wydawać się, że połączono pomyślnie, ale zaraz następuje rozłączenie. Zwykle zdarza się to, jeśli komputer tylko częściowo połączył się z siecią — nawiązał połączenie, ale z jakiegoś powodu go nie sfinalizował, co spowodowało rozłączenie.</p>
+<p class="p">Możliwą przyczyną jest wpisanie błędnego hasła sieci bezprzewodowej, albo fakt, że komputer nie ma pozwolenia na używanie sieci (ponieważ sieć wymaga nazwy użytkownika do zalogowania, na przykład).</p>
 </div></div>
 </div></div>
 <div id="hardware" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Unreliable wireless hardware/drivers</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Some wireless network hardware can be a little unreliable. Wireless
- networks are complicated, so wireless cards and base stations occasionally run
- into minor problems and may drop connections. This is annoying, but it happens
- quite regularly with many devices. If you are disconnected from wireless
- connections from time to time, this may be the only reason. If it happens very
- regularly, you may want to consider getting some different hardware.</p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Zawodny sprzęt/sterowniki bezprzewodowe</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Niektóre urządzenia bezprzewodowe mogą być nieco zawodne. Sieci bezprzewodowe są skomplikowane, więc karty i stacje bazowe sporadycznie sprawiają problemy i mogą się rozłączać. Jest to irytujące, ale przy niektórych urządzeniach zdarza się całkiem często. Jeśli połączenia bezprzewodowe są od czasu do czasu rozłączane, to może być jedyną przyczyną. Jeśli zdarza się to bardzo regularnie, to można zastanowić się nad wymianą sprzętu.</p></div></div>
 </div></div>
 <div id="busy" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Busy wireless networks</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Wireless networks in busy places (in universities and coffee shops, for
- example) often have many computers trying to connect to them at once. Sometimes
- these networks get too busy and may not be able to handle all of the computers
- that are trying to connect, so some of them get disconnected.</p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sieci bezprzewodowe z wieloma użytkownikami</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Do sieci bezprzewodowych w ruchliwych miejscach (np. na uniwersytetach i w kawiarniach) często próbuje połączyć się wiele komputerów jednocześnie. Czasami takie sieci są zbyt zajęte i mogą nie móc obsłużyć wszystkich komputerów próbujących się połączyć, co powoduje rozłączenie części z nich.</p></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -127,20 +103,17 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.pl-PL" title="Mojej sieci bezprzewodowej nie ma na liście">finding your wifi network</a></span>…
-    </span>
+<a href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z połączeniami bezprzewodowymi</a></span>, <span class="link"><a href="net-wireless-find.html.pl-PL" title="Mojej sieci bezprzewodowej nie ma na liście">jak znaleźć swoją sieć Wi-Fi</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">Ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Why does my wireless network keep disconnecting?">Rozłączanie</a></span>…</span>
+<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Dlaczego sieć bezprzewodowa ciągle się rozłącza?">rozłączanie</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią bezprzewodową</a><span class="desc"> — Get on the internet — wirelessly.</span>
+<a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią bezprzewodową</a><span class="desc"> — Połącz się z Internetem — bezprzewodowo.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -152,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

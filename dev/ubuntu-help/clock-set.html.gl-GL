@@ -72,31 +72,20 @@
 <div class="contents">
 <p class="p">Se a data e hora mostradas na barra superior son incorrectas, ou teñen o formato incorrecto, pode cambialas:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>      
-      overview and start typing <span class="gui">Date &amp; Time</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Date &amp; Time</span> to open the panel.</p></li>
-<li class="steps"><p class="p">If you have <span class="gui">Automatic Date &amp; Time</span> set to <span class="gui">ON</span>,
-      your date and time should update automatically if you have an internet
-      connection. To update your date and time manually, set this to
-      <span class="gui">OFF</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Date &amp; Time</span>, then adjust the time and date.</p></li>
-<li class="steps"><p class="p">You can change how the hour is displayed by selecting
-      <span class="gui">24-hour</span> or <span class="gui">AM/PM</span> for <span class="gui">Time Format</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Data e hora </span>.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Data e hora</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Se configurou <span class="gui">Data e hora automática</span> a <span class="gui">Activado</span>, a súa data e hora debería actualizarse automaticamente se conta con conexión a internet. Para actualizar a súa data e hora manualmente, <span class="gui">Desactivea</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Data e hora</span>, para axustar a data e hora.</p></li>
+<li class="steps"><p class="p">Pode cambiar o formato da hora mostrada seleccionando os formatos <span class="gui">24 horas</span> ou <span class="gui">AM/PM</span> para o <span class="gui">Formato da hora</span>.</p></li>
 </ol></div></div></div>
-<p class="p">You may also wish to <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">set the timezone
-  manually</a></span>.</p>
+<p class="p">Tamén pode querer <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">estabelecer o fuso horario manualmente</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html.gl-GL" title="Data e hora">Data e hora</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html.gl-GL" title="Cambiar a hora e data">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.gl-GL" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html.gl-GL" title="Data e hora">Data e hora</a><span class="desc"> — <span class="link"><a href="clock-set.html.gl-GL" title="Cambiar a hora e data">Estabelecer a data e a hora</a></span>, <span class="link"><a href="clock-world.html.gl-GL" title="Engadir un reloxo do mundo">reloxos do mundo</a></span> <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">fuso horario</a></span>, <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">calendario e citas</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -107,7 +96,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

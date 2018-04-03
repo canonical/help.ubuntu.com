@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="disk.html.nl" title="Schijven &amp; opslag">Schijven &amp; opslag</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Controleer of er problemen zijn met u harde schijf</span></h1></div>
@@ -74,33 +74,23 @@
 <div class="hgroup"><h2 class="title"><span class="title">De harde schijf controleren</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Harde schijven hebben een ingebouwd controlehulpmiddel genaamd <span class="app">SMART</span> (Self-Monitoring, Analysis, and Reporting Technology), dat voortdurend de schijf controleert op mogelijke problemen. SMART waarschuwt u ook wanneer de schijf op het punt staat te falen, waardoor u het verlies van belangrijke gegevens kunt voorkomen.</p>
-<p class="p">Although SMART runs automatically, you can also check your disk’s
- health by running the <span class="app">Disks</span> application:</p>
+<p class="p">Alhoewel SMART automatisch draait, kunt u ook de gezondheid van uw schijf controleren via de toepassing <span class="app">Schijfgereedschap</span>:</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Check your disk’s health using the Disks application</span></h3></div>
+<div class="title title-steps"><h3><span class="title">De gezondheid van uw schijf controleren via de toepassing Schijven</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Schijven</span> vanuit het <span class="gui">Activiteiten</span>-overzicht.</p></li>
 <li class="steps"><p class="p">Selecteer de schijf die u wilt controleren in de lijst met opslagapparaten aan de linkerkant. U ziet dan informatie over en de status van de schijf verschijnen.</p></li>
-<li class="steps"><p class="p">Click the menu button and select <span class="gui">SMART Data &amp; Self-Tests…</span>.
-    The <span class="gui">Overall Assessment</span> should say “Disk is OK”.</p></li>
+<li class="steps"><p class="p">Klik op de menuknop en kies <span class="gui">SMART-gegevens en zelftests…</span>. Bij de <span class="gui">Totaalbeoordeling</span> zou moeten staan ‘Schijf is in orde’.</p></li>
 <li class="steps"><p class="p">Meer informatie vindt u onder <span class="gui">SMART-Attributen</span>; u kunt ook klikken op de knop <span class="gui">Zelftest starten</span> om een zelftest te doen.</p></li>
 </ol></div>
 </div></div>
 </div></div>
 </div></div>
 <div id="disk-not-healthy" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">What if the disk isn’t healthy?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Wat als de schijf niet gezond is?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
-  <span class="em">isn’t</span> healthy, there may be no cause for alarm. However, it’s better
-  to be prepared with a <span class="link"><a href="backup-why.html.nl" title="Reservekopieën maken van uw belangrijke bestanden">backup</a></span> to prevent data
-  loss.</p>
-<p class="p">If the status says “Pre-fail”, the disk is still reasonably healthy but
- signs of wear have been detected which mean it might fail in the near future.
- If your hard disk (or computer) is a few years old, you are likely to see
- this message on at least some of the health checks. You should
- <span class="link"><a href="backup-how.html.nl" title="Hoe een reservekopie te maken">backup your important files regularly</a></span> and check
- the disk status periodically to see if it gets worse.</p>
+<p class="p">Zelfs als de <span class="gui">Totaalbeoordeling</span> aangeeft dat de schijf <span class="em">niet</span>gezond is, is er nog geen reden tot paniek. Maar het is wel beter is om voorbereid te zijn door het maken van een <span class="link"><a href="backup-why.html.nl" title="Reservekopieën maken van uw belangrijke bestanden">reservekopie</a></span> om gegevensverlies te voorkomen.</p>
+<p class="p">Als de status ‘Pre-fail’ is, zal de schijf nog steeds redelijk gezond zijn, maar er zijn tekenen van slijtage gedetecteerd wat betekent dat hij mogelijk stuk gaat in de nabije toekomst. Als uw harde schijf (of computer) al een paar jaar oud is, zult u waarschijnlijk dit bericht zien bij op z'n minst sommige van de controles. U zou regelmatig een <span class="link"><a href="backup-how.html.nl" title="Hoe een reservekopie te maken">reservekopie moeten maken van uw belangrijke bestanden</a></span> en de schijfstatus periodiek controleren om te zien of het erger wordt.</p>
 <p class="p">Als het erger wordt kunt u de computer/harde schijf naar een reparateur brengen voor verdere diagnose of reparatie.</p>
 </div></div>
 </div></div>
@@ -120,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

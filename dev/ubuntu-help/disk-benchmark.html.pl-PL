@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Test the performance of your hard disk</title>
+<title>Testowanie wydajności dysku twardego</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,54 +64,32 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Test the performance of your hard disk</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Testowanie wydajności dysku twardego</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To test the speed of your hard disk:</p>
+<p class="p">Aby przetestować prędkość dysku twardego:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the
-      <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">Choose the disk from the list in the left pane.</p></li>
-<li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
-      menu.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Start Benchmark…</span> and adjust the <span class="gui">Transfer
-      Rate</span> and <span class="gui">Access Time</span> parameters as desired.</p></li>
+<li class="steps"><p class="p">Otwórz program <span class="app">Dyski</span> z <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekranu podglądu</a></span>.</p></li>
+<li class="steps"><p class="p">Wybierz dysk z listy w lewym panelu.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk menu i wybierz <span class="gui">Test wydajności dysku…</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Rozpocznij test wydajności…</span> i dostosuj parametry <span class="gui">Prędkość przesyłania</span> oraz <span class="gui">Czas dostępu</span> według uznania.</p></li>
 <li class="steps">
-<p class="p">Click <span class="gui">Start Benchmarking</span> to test how fast data can be read
-      from the disk. <span class="link"><a href="user-admin-explain.html.pl-PL" title="How do administrative privileges work?">Administrative
-      privileges</a></span> may be required. Enter your password, or the password
-      for the requested administrator account.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">If <span class="gui">Perform write-benchmark</span> is checked, the benchmark
-        will test how fast data can be read from and written to the disk. This
-        will take longer to complete.</p></div></div></div></div>
+<p class="p">Kliknij przycisk <span class="gui">Rozpocznij testowanie wydajności…</span>, aby sprawdzić, jak szybko dane są odczytywane z dysku. Mogą być wymagane <span class="link"><a href="user-admin-explain.html.pl-PL" title="Jak działają uprawnienia administracyjne?">uprawnienia administracyjne</a></span>. Wpisz swoje hasło lub hasło konta administratora.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Zaznaczenie opcji <span class="gui">Wykonanie testu zapisu</span> spowoduje przetestowanie prędkości odczytu i zapisu. Zajmie to więcej czasu.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
-<p class="p">When the test is finished, the results will appear on the graph. The green
-  points and connecting lines indicate the samples taken; these correspond to
-  the right axis, showing access time, plotted against the bottom axis,
-  representing percentage time elapsed during the benchmark. The blue line
-  represents read rates, while the red line represents write rates; these are
-  shown as access data rates on the left axis, plotted against percentage of
-  the disk traveled, from the outside to the spindle, along the bottom
-  axis.</p>
-<p class="p">Below the graph, values are displayed for minimum, maximum and average
-  read and write rates, average access time and time elapsed since the last
-  benchmark test.</p>
+<p class="p">Po ukończeniu testu wyniki zostaną wyświetlone na wykresie. Zielone punkty i łączące je linie wskazują wykonane próbki. Odpowiadają one prawej osi, pokazując czas dostępu, nałożonej na dolną oś, przedstawiającą czas testu w procentach. Niebieska linia przedstawia prędkość odczytu, a czerwona przedstawia prędkość zapisu. Są one wyświetlane jako prędkość dostępu do danych na lewej osi, nałożonej na procent przeskanowanego dysku wzdłuż dolnej osi.</p>
+<p class="p">Pod wykresem wyświetlane są wartości dla minimalnej, maksymalnej i średniej prędkości zapisu, średniego czasu dostępu i czasu od ostatniego testu wydajności.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html.pl-PL" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.pl-PL" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.pl-PL" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.pl-PL" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.pl-PL" title="Sprawdzanie wolnego miejsca na dysku">Miejsce na dysku</a></span>, <span class="link"><a href="disk-benchmark.html.pl-PL" title="Testowanie wydajności dysku twardego">wydajność</a></span>, <span class="link"><a href="disk-check.html.pl-PL" title="Sprawdzanie, czy dysk twardy sprawia problemy">problemy</a></span>, <span class="link"><a href="disk-partitions.html.pl-PL" title="Zarządzanie woluminami i partycjami">woluminy i partycje</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -122,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

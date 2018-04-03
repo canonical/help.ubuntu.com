@@ -77,7 +77,7 @@
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="10">Luk chat-meddelelsen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Forsinket besvarelse</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="22"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="22">En chat-meddelelse nær toppen af skærmen forsvinder efter et stykke tid, hvis ikke du flytter din mus hen over meddelelsen.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="22" data-ttml-end="24"><div class="media-ttml-node media-ttml-p" data-ttml-begin="22" data-ttml-end="24">Klik på uret i toplinjen, for at gå tilbage til din ubesvarede meddelelse.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="22" data-ttml-end="24"><div class="media-ttml-node media-ttml-p" data-ttml-begin="22" data-ttml-end="24">Klik på uret i toplinjen for at gå tilbage til din ubesvarede meddelelse.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="24" data-ttml-end="26"><div class="media-ttml-node media-ttml-p" data-ttml-begin="24" data-ttml-end="26">Vælg din meddelelse fra påmindelseslisten.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="26" data-ttml-end="28"><div class="media-ttml-node media-ttml-p" data-ttml-begin="26" data-ttml-end="28">Begynd at skrive dit svar.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="32" data-ttml-end="35"><div class="media-ttml-node media-ttml-p" data-ttml-begin="32" data-ttml-end="35">Tryk på <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd>V</kbd></span></span> for at vise påmindelseslisten</div></div>
@@ -93,7 +93,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Flyt din mus hen over chat-meddelelsen som dukker op nær toppen af skærmen.</p></li>
 <li class="steps"><p class="p">Begynd at skrive dit svar, og tryk på <span class="key"><kbd>Enter</kbd></span> når du er færdig.</p></li>
-<li class="steps"><p class="p">Klik på luk-knappen i øverste højre hjørne af chat-meddelelsen, for at lukke chat-meddelelsen.</p></li>
+<li class="steps"><p class="p">Klik på luk-knappen i øverste højre hjørne af chat-meddelelsen for at lukke chat-meddelelsen.</p></li>
 </ol></div></div></div>
 <p class="p"></p>
 </div></div>
@@ -102,7 +102,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Besvarelse af chat-meddelelse efter ventetid ved brug af musen</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Når en chat-meddelelse dukker op nær toppen af skærmen og du ikke flytter din mus hen over meddelelsen, forsvinder den efter et stykke tid.</p></li>
-<li class="steps"><p class="p">Klik på uret i toplinjen, for at gå tilbage til din ubesvarede meddelelse.</p></li>
+<li class="steps"><p class="p">Klik på uret i toplinjen for at gå tilbage til din ubesvarede meddelelse.</p></li>
 <li class="steps"><p class="p">Vælg den meddelelse du vil svare på fra påmindelseslisten, og klik på den.</p></li>
 <li class="steps"><p class="p">Begynd at skrive dit svar, når chat-meddelelsen vises.</p></li>
 </ol></div></div></div></div></div>
@@ -122,7 +122,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -72,12 +72,12 @@
 <div class="contents">
 <p class="p">Pode cambiar as súas preferencias para que poida iniciar a sesión automaticamente na súa conta cando arrinca o computador:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Usuarios</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Seleccione a conta de usuario na que quere iniciar sesión automaticamente no arrinque.</p></li>
 <li class="steps"><p class="p">Prema o botón <span class="gui">Desbloquear</span> e escriba o seu contrasinal.</p></li>
-<li class="steps"><p class="p">Toggle the <span class="gui">Automatic Login</span> switch to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Cambie <span class="gui">Inicio de sesión automático</span> a <span class="gui">I</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Cando arrinque o computador de novo, iniciarase a sesión automaticamente. Se ten esta opción activada non terá que escribir o seu contrasinal para iniciar sesión na súa conta o que significa que calquera poderá iniciar o seu computador, poderá acceder á súa conta e os seus datos persoais, incluíndo os seus ficheiros e historial de navegación.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Se o seu tipo de conta é <span class="em">Estándar</span> non poderá cambiar esta preferencia. Contacte co seu administrador de sistemas para que cambie esta preferencia por vostede.</p></div></div></div></div>
@@ -92,7 +92,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-exit.html.gl-GL" title="Log out, power off or switch users">Log out, power off or switch users</a><span class="desc"> — Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span>
+<a href="shell-exit.html.gl-GL" title="Saír da sesión, apagar e trocar de usuarios">Saír da sesión, apagar e trocar de usuarios</a><span class="desc"> — Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -104,7 +104,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

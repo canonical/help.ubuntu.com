@@ -73,7 +73,7 @@
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="bluetooth.html.gl-GL" title="Bluetooth">Bluetooth</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.gl-GL" title="Conectar o seu computador a outro dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.gl-GL" title="Send files to a Bluetooth device">enviar ficheiros</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.gl-GL" title="Apagar ou acender o Bluetooth">activar e desactivar</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.gl-GL" title="Conectar o seu computador a outro dispositivo Bluetooth">Conectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.gl-GL" title="Enviar ficheiros a un dispositivo Bluetooth">enviar ficheiros</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.gl-GL" title="Apagar ou acender o Bluetooth">activar e desactivar</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="disk.html.gl-GL" title="Discos e almacenamento">Discos e almacenamento</a></div>
@@ -82,7 +82,7 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html.gl-GL" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-status.html.gl-GL" title="Comprobe o estado da batería">Battery status</a></span>,
       <span class="link"><a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
       <span class="link"><a href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
     </span></div>
@@ -101,7 +101,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.gl-GL" title="Teclado">Teclado</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar disposicións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a></div>
@@ -135,7 +135,7 @@
 <a href="hardware-cardreader.html.gl-GL" title="Problemas no lector de tarxetas multimedia">Problemas no lector de tarxetas multimedia</a><span class="desc"> — Resolver problemas en lectores de tarxetas multimedia</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a><span class="desc"> — Identificar e arranxar problemas con conexións sen fíos.</span>
 </li>
 </ul></div></div></div></div></div>
 </div></div>
@@ -153,7 +153,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

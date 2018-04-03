@@ -76,13 +76,12 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.ca" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.ca" title="Com puc posar l'ordinador en hibernació?"><span class="title">Com puc posar l'ordinador en hibernació?</span><span class="linkdiv-dash"> — </span><span class="desc">La funció d'hibernació està inhabilitada perquè no funciona bé a tots els ordinadors.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.ca" title="Get the most out of your laptop battery"><span class="title">Get the most out of your laptop battery</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ca" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
     users, and so on.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.ca" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.ca" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.ca" title="Use less power and improve battery life"><span class="title">Use less power and improve battery life</span><span class="linkdiv-dash"> — </span><span class="desc">Tips to reduce the power consumption of your computer.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.ca" title="What happens when I suspend my computer?"><span class="title">What happens when I suspend my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspend sends your computer to sleep so it uses less power.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.ca" title="Why does my computer turn off when I close the lid?"><span class="title">Why does my computer turn off when I close the lid?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops go to sleep when you close the lid, in order to save
@@ -94,7 +93,7 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.ca" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.ca" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.ca" title="Establiu el temps d'entrada en inactivitat de la pantalla"><span class="title">Establiu el temps d'entrada en inactivitat de la pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Canvieu el temps per entrar en inactivitat de la pantalla per estalviar energia.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.ca" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
@@ -117,7 +116,7 @@
 </div></div></div></div></div>
 </div></div>
 <div id="problems" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Problems</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Problemes</span></h2></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -138,7 +137,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Més informació</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html.ca#problems" title="Common problems">Problemes de maquinari</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.ca#problems" title="Problemes comuns">Problemes de maquinari</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -150,18 +149,18 @@
 <div class="region"><ul>
 <li class="links ">
 <a href="hardware.html.ca" title="Maquinari i controladors">Maquinari i controladors</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.ca#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.ca" title="Printing">printers</a></span>,
+      <span class="link"><a href="hardware.html.ca#problems" title="Problemes comuns">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.ca" title="Imprimint">printers</a></span>,
       <span class="link"><a href="power.html.ca" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.ca" title="Color management">color management</a></span>,
+      <span class="link"><a href="color.html.ca" title="Gestió dels colors">color management</a></span>,
       <span class="link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></span>,
       <span class="link"><a href="disk.html.ca" title="Discs i emmagatzematge">disks</a></span>…
     </span>
 </li>
 <li class="links ">
 <a href="prefs.html.ca" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.ca" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.ca" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="keyboard.html.ca" title="Teclat">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.ca" title="Ratolí">mouse</a></span>,
       <span class="link"><a href="prefs-display.html.ca" title="Display &amp; screen">display</a></span>,
       <span class="link"><a href="prefs-language.html.ca" title="Region &amp; Language">languages</a></span>,
       <span class="link"><a href="user-accounts.html.ca" title="User accounts">user accounts</a></span>…
@@ -177,7 +176,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

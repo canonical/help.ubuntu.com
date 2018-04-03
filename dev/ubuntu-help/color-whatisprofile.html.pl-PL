@@ -65,36 +65,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Czym jest profil kolorów?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    A color profile is a set of data that characterizes either a device
-    such as a projector or a color space such as sRGB.
-  </p>
-<p class="p">
-    Most color profiles are in the form of an ICC profile, which is a
-    small file with a <span class="input">.ICC</span> or <span class="input">.ICM</span> file
-    extension.
-  </p>
-<p class="p">
-    Color profiles can be embedded into images to specify the gamut range
-    of the data.
-    This ensures that users see the same colors on different devices.
-  </p>
-<p class="p">
-    Every device that is processing color should have its own ICC
-    profile and when this is achieved the system is said to have an
-    <span class="em">end-to-end color-managed workflow</span>.
-    With this kind of workflow you can be sure that colors are not being
-    lost or modified.
-  </p>
+<p class="p">Profil kolorów to zestaw danych charakteryzujący urządzenie, takie jak projektor, lub przestrzeń kolorów, taką jak sRGB.</p>
+<p class="p">Większość profili kolorów jest w formie profilu ICC, który jest małym plikiem z rozszerzeniem <span class="input">.ICC</span> lub <span class="input">.ICM</span>.</p>
+<p class="p">Profile kolorów mogą być osadzane w obrazach, aby określić zakres gamy. Zapewnia to, że użytkownicy widzą te same kolory na różnych urządzeniach.</p>
+<p class="p">Każde urządzenie przetwarzające kolory powinno mieć własny profil ICC, i kiedy tak się dzieje, to komputer ma pełne zarządzanie kolorami. Można mieć wtedy pewność, że kolory nie są stracone ani zmodyfikowane.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -107,19 +90,19 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-canshareprofiles.html.pl-PL" title="Can I share my color profile?">Can I share my color profile?</a><span class="desc"> — Sharing color profiles is never a good idea as hardware changes over time.</span>
+<a href="color-canshareprofiles.html.pl-PL" title="Czy mogę podzielić się swoim profilem?">Czy mogę podzielić się swoim profilem?</a><span class="desc"> — Dzielenie się profilami kolorów to zły pomysł, ponieważ sprzęt zmienia się z czasem.</span>
 </li>
 <li class="links ">
-<a href="color-whatisspace.html.pl-PL" title="Czym jest przestrzeń kolorów?">Czym jest przestrzeń kolorów?</a><span class="desc"> — A color space is a defined range of colors.</span>
+<a href="color-whatisspace.html.pl-PL" title="Czym jest przestrzeń kolorów?">Czym jest przestrzeń kolorów?</a><span class="desc"> — Przestrzeń kolorów to określony zakres kolorów.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html.pl-PL" title="How do I import color profiles?">How do I import color profiles?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-howtoimport.html.pl-PL" title="Jak importować profile kolorów?">Jak importować profile kolorów?</a><span class="desc"> — Profile kolorów można importować otwierając je.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html.pl-PL" title="Jak przydzielać profile urządzeniom?">Jak przydzielać profile urządzeniom?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.pl-PL" title="Jak przydzielać profile urządzeniom?">Jak przydzielać profile urządzeniom?</a><span class="desc"> — <span class="guiseq"><span class="gui">Ustawienia</span> ▸ <span class="gui">Kolor</span></span> umożliwia dodawanie profilu kolorów dla ekranu.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html.pl-PL" title="Where do I get color profiles?">Where do I get color profiles?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>
+<a href="color-gettingprofiles.html.pl-PL" title="Skąd wziąć profile kolorów?">Skąd wziąć profile kolorów?</a><span class="desc"> — Profile kolorów są dostępne u dostawców oraz można je tworzyć samodzielnie.</span>
 </li>
 </ul></div>
 </div></div>
@@ -132,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

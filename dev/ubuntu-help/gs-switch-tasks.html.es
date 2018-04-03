@@ -77,6 +77,7 @@
 <a href="#" class="ui-overlay-close" title="Cerrar">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-task-switching.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Reproducir" data-pause-label="Pausar"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Cambiar entre tareas</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="5" data-ttml-end="8"><div class="media-ttml-node media-ttml-p" data-ttml-begin="5" data-ttml-end="8">Mueva el cursor del ratón hacia la esquina de <span class="gui">Actividades</span> en la parte superior izquierda de la pantalla.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">Pulse una ventana para cambiarse a esa tarea.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Para maximizar una ventana a lo largo del lado izquierdo de la pantalla, arrastre la barra de título de la ventana hacia la izquierda.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">Cuando la mitad de la pantalla esté resaltada, suelte la ventana.</div></div>
@@ -151,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

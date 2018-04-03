@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Do I need to scan my emails for viruses?</title>
+<title>Czy muszę skanować moje wiadomości e-mail pod kątem wirusów?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,31 +65,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-email.html.pl-PL" title="Poczta e-mail i klienty poczty">Poczta e-mail i klienty poczty</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-email.html.pl-PL" title="Poczta e-mail i klienty poczty">Poczta e-mail i klienty poczty</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Do I need to scan my emails for viruses?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Czy muszę skanować moje wiadomości e-mail pod kątem wirusów?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Viruses are programs that cause problems if they manage to find their way
-  onto your computer. A common way of them getting onto your computer is
-  through email messages.</p>
-<p class="p">Viruses that can affect computers running Linux are quite rare, so you are
-  <span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">unlikely to get a virus through email or
-  otherwise</a></span>. If you receive an email with a virus hidden in it, it will
-  probably have no effect on your computer. As such, you probably don’t need to
-  scan your email for viruses.</p>
-<p class="p">You may, however, wish to scan your email for viruses in case you happen
-  to forward a virus from one person to another. For example, if one of your
-  friends has a Windows computer with a virus and sends you a virus-infected
-  email, and you then forward that email to another friend with a Windows
-  computer, then the second friend might get the virus too. You could install
-  an anti-virus application to scan your emails to prevent this, but it’s
-  unlikely to happen and most people using Windows and Mac OS have anti-virus
-  software of their own anyway.</p>
+<p class="p">Wirusy to małe programy, które mogą powodować problemy, jeśli znajdą się na komputerze. Często dostają się do komputera przez wiadomości e-mail.</p>
+<p class="p">Wirusy na komputery z systemem Linux są bardzo rzadkie, więc <span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">jest mała szansa na zarażenie się przez pocztę e-mail lub każdą inną drogę</a></span>. Odebranie wiadomości z ukrytym w niej wirusem nie wpłynie na komputer. Dlatego raczej nie ma potrzeby skanowania wiadomości pod kątem wirusów.</p>
+<p class="p">Można jednak skanować wiadomości e-mail pod kątem wirusów, aby uniknąć przekazywania wirusów od jednej osoby do drugiej. Na przykład, jeśli jeden ze znajomych ma komputer z systemem Windows zarażony wirusem i wysłał wirus w wiadomości, to inny znajomy także może go dostać. Można zainstalować program antywirusowy do skanowania wiadomości e-mail, aby tego uniknąć, ale taka sytuacja zdarza się bardzo rzadko, a większość komputerów z systemami Windows i macOS już ma swoje oprogramowanie antywirusowe.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,25 +85,17 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Enable or block firewall access">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">firewall ports</a></span>…
-    </span>
+<a href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Oprogramowanie antywirusowe</a></span>, <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Włączanie i blokowanie zapory sieciowej">podstawy zapory sieciowej</a></span>, <span class="link"><a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">porty zapory sieciowej</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-email.html.pl-PL" title="Poczta e-mail i klienty poczty">Poczta e-mail i klienty poczty</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html.pl-PL" title="Change which mail application is used to write emails">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html.pl-PL" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
-    </span>
+<a href="net-email.html.pl-PL" title="Poczta e-mail i klienty poczty">Poczta e-mail i klienty poczty</a><span class="desc"> — <span class="link"><a href="net-default-email.html.pl-PL" title="Zmiana klienta poczty używanego do pisania wiadomości e-mail">Domyślny klient poczty</a></span>, <span class="link"><a href="net-email-virus.html.pl-PL" title="Czy muszę skanować moje wiadomości e-mail pod kątem wirusów?">Czy muszę obawiać się wirusów?</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Czy potrzebuję oprogramowania antywirusowego?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
-    software.</span>
+<a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Czy potrzebuję oprogramowania antywirusowego?</a><span class="desc"> — Istnieje mało wirusów dla systemu Linux, więc nie potrzeba oprogramowania antywirusowego.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -128,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

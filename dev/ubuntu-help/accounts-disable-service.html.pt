@@ -75,12 +75,14 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Contas em linha</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Contas em linha</span> para abrir o painel.</p></li>
-<li class="steps"><p class="p">Selecione a conta que quer mudar da lista da esquerda.</p></li>
+<li class="steps"><p class="p">Select the account which you want to change from the list on the
+      right.</p></li>
 <li class="steps"><p class="p">Mostrar-se-á uma lista dos serviços disponíveis para esta conta em <span class="gui">Utilizar para</span>. Consulte a <span class="link"><a href="accounts-which-application.html.pt" title="Serviços e aplicações em linha">Serviços e aplicações em linha</a></span> para ver que aplicações acedem a que serviços.</p></li>
 <li class="steps"><p class="p">Desative os serviços que não quer que usar.</p></li>
 </ol></div></div></div>
 <p class="p">Uma vez que tenha desativar um serviço para uma conta, as aplicações da sua computador não poderão usar a conta para voltar a ligar a esse serviço.</p>
-<p class="p">Para ativar um serviço que tenha desativar, volte à janela de <span class="gui">Contas em linha</span> e o ative.</p>
+<p class="p">To turn on a service that you disabled, just go back to the <span class="gui">Online
+  Accounts</span> panel and switch it on.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -111,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

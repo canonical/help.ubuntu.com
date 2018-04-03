@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Μπορείτε να περιηγηθείτε, να αναζητήσετε και να παίξετε τα μέσα στον υπολογιστή σας χρησιμοποιώντας μια ενεργή συσκευή <span class="sys">UPnP</span> ή <span class="sys">DLNA</span> όπως ένα τηλέφωνο, τηλεόραση ή κονσόλα παιχνιδιού. Ρυθμίστε την <span class="gui">Κοινή χρήση μέσων</span> για να επιτρέψετε σε αυτές τις συσκευές να προσπελάσουν τους φακέλους που περιέχουν τη μουσική, τις φωτογραφίες και τα βίντεό σας.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">Πρέπει να έχετε εγκατεστημένο το πακέτο <span class="app">Rygel</span> για να είναι ορατή η <span class="gui">Κοινή χρήση πολυμέσων</span>.</p></div></div></div></div>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Πρέπει να έχετε εγκατεστημένο το πακέτο <span class="app">Rygel</span> για να είναι ορατή η <span class="gui">Κοινή χρήση πολυμέσων</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:rygel" title="apt:rygel">Εγκατάσταση Rygel</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Κοινή χρήση</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Κοινή χρήση</span> για να ανοίξετε τον πίνακα.</p></li>
@@ -118,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

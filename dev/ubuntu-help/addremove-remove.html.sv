@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Ett program är mjukvara som har ett grafiskt användargränssnitt. Du kan använda <span class="app">Programvara för Ubuntu</span> för att ta bort program du inte längre använder.</p>
-<p class="p">Program finns tillgängliga i två format: snap-paket och Debian-paket. För att ta bort (eller installera) ett snap-paket behöver du logga in till Snap Store/Ubuntu One. Vissa program finns i båda formaten. I de fallen listas snap-paketet först i <span class="app">Programvara för Ubuntu</span>.</p>
+<p class="p">Program finns tillgängliga i två format: snap-paket och Debian-paket. Vissa program finns i båda formaten. I de fallen listas snap-paketet först i <span class="app">Programvara för Ubuntu</span>.</p>
 <p class="p">Du kan även vilja ta bort mjukvara som inte har ett grafiskt gränssnitt. För att ta bort sådan mjukvara kan du använda <span class="link"><a href="addremove-install-synaptic.html.sv" title="Använd Synaptic för en mer avancerad programhantering">Synaptic</a></span>. Märk att <span class="app">Synaptic</span> inte listar snap-paket.</p>
 <p class="p">För att ta bort ett program:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -80,8 +80,7 @@
 <li class="steps"><p class="p">Hitta programmet du vill ta bort genom att använda sökrutan, eller leta igenom listan över installerade program.</p></li>
 <li class="steps"><p class="p">Välj programmet och klicka på <span class="gui">Ta bort</span>.</p></li>
 <li class="steps"><p class="p">Bekräfta att du vill ta bort programmet.</p></li>
-<li class="steps"><p class="p">Om du tar bort ett snap-paket, logga in till Snap Store/Ubuntu One.</p></li>
-<li class="steps"><p class="p">Du kan ombes att fylla i ditt lösenord (dvs. lösenordet för din användare, inte lösenordet för Snap Store/Ubuntu One). Efter att du har gjort det kommer programmet tas bort.</p></li>
+<li class="steps"><p class="p">Du kan ombes att fylla i ditt lösenord. Efter att du har gjort det kommer programmet tas bort.</p></li>
 </ol></div></div></div>
 <div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Vissa program kräver att andra program finns närvarande för att fungera korrekt. Om du försöker ta bort ett program som krävs av ett annat program kommer båda tas bort. Du kommer ombes att bekräfta om det verkligen är din avsikt innan programmen tas bort.</p></div></div></div></div>
 </div>
@@ -114,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

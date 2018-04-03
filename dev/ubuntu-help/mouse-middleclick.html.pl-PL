@@ -65,54 +65,36 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.pl-PL" title="Porady i wskazówki">Porady i wskazówki</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="tips.html.pl-PL" title="Porady i wskazówki">Porady i wskazówki</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> › <a class="trail" href="mouse.html.pl-PL#tips" title="Wskazówki">Wskazówki</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> › <a class="trail" href="mouse.html.pl-PL#tips" title="Wskazówki">Wskazówki</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> › <a class="trail" href="mouse.html.pl-PL#tips" title="Wskazówki">Wskazówki</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> › <a class="trail" href="mouse.html.pl-PL#tips" title="Wskazówki">Wskazówki</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kliknięcie środkowym przyciskiem myszy</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
-with a scroll wheel, you can usually press directly down on the scroll
-wheel to middle-click. If you don’t have a middle mouse button, you
-can press the left and right mouse buttons at the same time to
-middle-click.</p>
-<p class="p">On touchpads that support multi-finger taps, you can tap with three
-fingers at once to middle-click. You have to
-<span class="link"><a href="mouse-touchpad-click.html.pl-PL" title="Click, drag, or scroll with the touchpad">enable tap clicking</a></span> in the
-touchpad settings for this to work.</p>
-<p class="p">Many applications use middle-click for advanced click shortcuts.</p>
+<p class="p">Wiele myszy i niektóre panele dotykowe mają środkowy przycisk. W przypadku myszy z kółkiem zwykle można nacisnąć kółko, aby wykonać kliknięcie środkowym przyciskiem. Jeśli urządzenie nie ma środkowego przycisku, to można nacisnąć lewy i prawy przycisk jednocześnie, aby to zrobić.</p>
+<p class="p">W przypadku paneli dotykowych obsługujących stuknięcia wielodotykowe można stuknąć trzema palcami jednocześnie, aby wykonać kliknięcie środkowym przyciskiem. Należy <span class="link"><a href="mouse-touchpad-click.html.pl-PL" title="Klikanie, przeciąganie i przewijanie za pomocą panelu dotykowego">włączyć klikanie stuknięciem</a></span> w ustawieniach panelu dotykowego, aby to działało.</p>
+<p class="p">Wiele programów używa kliknięcia środkowym przyciskiem do zaawansowanych skrótów.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
-  window for an application with middle-click. Simply middle-click on the
-  application’s icon, either in the dash on the left, or in the applications
-  overview. The applications overview is displayed using the grid button in the
-  dash.</p></li>
-<li class="list"><p class="p">Most web browsers allow you to open links in tabs quickly with the
-  middle mouse button. Just click any link with your middle mouse button, and
-  it will open in a new tab.</p></li>
-<li class="list"><p class="p">In the file manager, middle-click serves two roles. If you
-  middle-click a folder, it will open in a new tab. This mimics the
-  behavior of popular web browsers. If you middle-click a file, it
-  will open the file, just as if you had double-clicked.</p></li>
+<li class="list"><p class="p">Na <span class="gui">ekranie podglądu</span> można szybko otworzyć nowe okno programu za pomocą kliknięcia środkowym przyciskiem myszy. Kliknij ikonę programu, na pasku ulubionych po lewej lub w podglądzie programów, środkowym przyciskiem myszy. Podgląd programów jest wyświetlany po kliknięciu ostatniego przycisku na pasku ulubionych.</p></li>
+<li class="list"><p class="p">Większość przeglądarek WWW umożliwia szybkie otwieranie odnośników w kartach za pomocą środkowego przycisku myszy. Kliknij dowolny odnośnik środkowym przyciskiem myszy, a zostanie on otwarty w nowej karcie.</p></li>
+<li class="list"><p class="p">W menedżerze plików kliknięcie środkowym przyciskiem myszy pełni dwie role. Kliknięcie katalogu środkowym przyciskiem otwiera go w nowej karcie (podobnie jak w popularnych przeglądarkach WWW). Kliknięcie pliku środkowym przyciskiem otwiera go, podobnie do podwójnego kliknięcia.</p></li>
 </ul></div></div></div>
-<p class="p">Some specialized applications allow you to use the middle mouse
-button for other functions. Search your application’s help for
-<span class="em">middle-click</span> or <span class="em">middle mouse button</span>.</p>
+<p class="p">Niektóre wyspecjalizowane programy umożliwiają używanie środkowego przycisku myszy do innych funkcji. Poszukaj <span class="em">kliknięcia środkowym przyciskiem</span> lub <span class="em">środkowego przycisku myszy</span> w pomocy programu.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html.pl-PL#tips" title="Wskazówki">Mouse tips</a></li>
 <li class="links ">
-<a href="tips.html.pl-PL" title="Porady i wskazówki">Porady i wskazówki</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.pl-PL" title="Wpisywanie znaków specjalnych">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy">middle click shortcuts</a></span>…</span>
+<a href="tips.html.pl-PL" title="Porady i wskazówki">Porady i wskazówki</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.pl-PL" title="Wpisywanie znaków specjalnych">Znaki specjalne</a></span>, <span class="link"><a href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy">skróty za pomocą kliknięcia środkowym przyciskiem myszy</a></span>…</span>
 </li>
+<li class="links "><a href="mouse.html.pl-PL#tips" title="Wskazówki">Wskazówki nt. myszy</a></li>
 </ul></div>
 </div></div></div>
 </div>
@@ -123,7 +105,7 @@ button for other functions. Search your application’s help for
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

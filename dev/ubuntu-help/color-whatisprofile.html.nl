@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,13 +77,7 @@
 <p class="p">Een kleurprofiel is een set gegevens die óf een apparaat zoals een projector óf een kleurruimte zoals sRGB kenmerkt.</p>
 <p class="p">De meeste kleurprofielen zijn in de vorm van een ICC-profiel, dat een klein bestand is met een <span class="input">.ICC</span> of <span class="input">.ICM</span>-bestandsextensie.</p>
 <p class="p">Kleurprofielen kunnen ingebed zijn in afbeeldingen om het kleurengamma van de gegevens te specificeren. Dit zorgt ervoor dat gebruikers dezelfde kleuren zien op verschillende apparaten.</p>
-<p class="p">
-    Every device that is processing color should have its own ICC
-    profile and when this is achieved the system is said to have an
-    <span class="em">end-to-end color-managed workflow</span>.
-    With this kind of workflow you can be sure that colors are not being
-    lost or modified.
-  </p>
+<p class="p">Elk apparaat dat met kleuren werkt zou zijn eigen ICC-profiel moeten hebben en wanneer dit  bereikt is wordt gezegd dat het systeem een <span class="em">end-to-end color-managed workflow</span> heeft.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -121,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

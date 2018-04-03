@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.de" title="Tipps und Tricks">Tipps und Tricks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="tips.html.de" title="Tipps und Tricks">Tipps und Tricks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sonderzeichen eingeben</span></h1></div>
@@ -85,8 +85,8 @@
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zeichen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Eine weitere mit GNOME gelieferte nützliche Anwendung ist <span class="app">Zeichen</span>. Damit können Sie mittels Kategorien oder Schlüsselwörtern nach unüblichen Zeichen suchen und diese einfügen.</p>
-<p class="p">Sie finden die Anwendung <span class="app">Zeichen</span> in der <span class="gui">Aktivitäten</span>-Übersicht. Weitere Informationen zu dieser Anwendung finden Sie im <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">Zeichen-Handbuch</a></span>.</p>
+<p class="p">GNOME liefert die Anwendung <span class="app">Zeichen</span> mit. Mit ihr können Sie mittels Kategorien oder Schlüsselwörtern nach unüblichen Zeichen wie beispielsweise Emoticons suchen und diese einfügen, indem Sie Kategorien durchsuchen oder nach Schlüsselwörtern suchen.</p>
+<p class="p">Öffnen Sie <span class="app">Zeichen</span> in der Aktivitäten-Übersicht.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -94,7 +94,10 @@
 <div class="region"><div class="contents">
 <p class="p">Eine Compose-Taste ist eine spezielle Taste, die Ihnen das Drücken mehrerer Tasten auf einmal ermöglicht, um ein spezielles Zeichen zu erzeugen. Um beispielsweise den akzentuierten Buchstaben <span class="em">é</span> einzugeben, drücken Sie die <span class="key"><kbd>Compose-Taste</kbd></span>, dann <span class="key"><kbd>'</kbd></span> und dann <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Tastaturen haben keine festen Compose-Tasten. Stattdessen können Sie eine der vorhandenen Tasten Ihrer Tastatur als Compose-Taste festlegen.</p>
-<div class="note note-important" title="Wichtig"><div class="inner"><div class="region"><div class="contents"><p class="p">Das <span class="app">Optimierungswerkzeug</span> muss auf Ihrem Rechner installiert sein, um diese Einstellung ändern zu können.</p></div></div></div></div>
+<div class="note note-important" title="Wichtig"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Das <span class="app">Optimierungswerkzeug</span> muss auf Ihrem Rechner installiert sein, um diese Einstellung ändern zu können.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Installieren Sie das <span class="app">Optimierungswerkzeug</span></a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Eine Compose-Taste festlegen</span></h3></div>
 <div class="region"><ol class="steps">
@@ -104,7 +107,7 @@
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Deaktiviert</span> im Abschnitt <span class="gui">Compose-Taste</span>.</p></li>
 <li class="steps"><p class="p">Aktivieren Sie den Schalter im Dialog und suchen Sie die gewünschte Tastenkombination, die Sie verwenden wollen.</p></li>
 <li class="steps"><p class="p">Aktivieren Sie das Ankreuzfeld an der Taste, die Sie als Compose-Taste verwenden wollen.</p></li>
-<li class="steps"><p class="p">Close the dialog.</p></li>
+<li class="steps"><p class="p">Schließen Sie den Dialog.</p></li>
 <li class="steps"><p class="p">Schließen Sie das Fenster <span class="gui">Optimierungswerkzeug</span>.</p></li>
 </ol></div>
 </div></div>
@@ -121,13 +124,13 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ersetzungscodes</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Sie können jedes Unicode-Zeichen ausschließlich über die Tastatur mit dem numerischen Ersetzungscode des Zeichens eingegeben werden. Jedes Zeichen wird über einen vierstelligen Code definiert. Um den Code für Ihr gewünschtes Zeichen zu suchen, suchen Sie nach dem Zeichen in der Zeichentabelle und schauen Sie in der Statuszeile nach den <span class="gui">Zeichendetails</span>. Der Code besteht aus vier Zeichen nach <span class="gui">U+</span>.</p>
-<p class="p">Um ein Zeichen über dessen Ersetzungscode einzugeben, halten Sie die <span class="key"><kbd>Strg</kbd></span>- und <span class="key"><kbd>Umschalttaste</kbd></span> gedrückt, geben Sie <span class="key"><kbd>u</kbd></span> gefolgt von dem vierstelligen Ersetzungscode ein und lassen Sie dann die <span class="key"><kbd>Strg</kbd></span>- und <span class="key"><kbd>Umschalttaste</kbd></span> los. Falls Sie oft Zeichen verwenden, die Sie nicht leichter über andere Wege erreichen können, dann sollten Sie sich den entsprechenden Ersetzungscode merken, so dass Sie ihn schneller eingeben können.</p>
+<p class="p">Sie können jedes Unicode-Zeichen ausschließlich über die Tastatur mit dem numerischen Ersetzungscode des Zeichens eingeben. Jedes Zeichen ist über einen vierstelligen Code definiert. Suchen Sie nach dem Zeichen in der Anwendung <span class="app">Zeichen</span>, um den Code für Ihr gewünschtes Zeichen zu erhalten. Der Code besteht aus vier Zeichen nach <span class="gui">U+</span>.</p>
+<p class="p">Um ein Zeichen über dessen Ersetzungscode einzugeben, drücken Sie <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, geben Sie dann den vierstelligen Ersetzungscode ein und drücken Sie dann die <span class="key"><kbd>Leertaste</kbd></span> oder die <span class="key"><kbd>Eingabetaste</kbd></span>. Falls Sie oft Zeichen verwenden, die Sie nicht leichter über andere Wege erreichen können, dann sollten Sie sich den entsprechenden Ersetzungscode einprägen, so dass Sie ihn schneller eingeben können.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tastaturbelegungen</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Sie können Ihre Tastatur so einstellen, dass Sie sich wie eine Tastatur für eine andere Sprache verhält, ungeachtet der auf den Tasten abgebildeten Buchstaben. Sie können sogar mittels eines Symbols im oberen Panel einfach zwischen verschiedenen Tastaturbelegungen wechseln. In <span class="link"><a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span> finden Sie weitere Informationen darüber.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Sie können Ihre Tastatur so einstellen, dass Sie sich wie eine Tastatur für eine andere Sprache verhält, ungeachtet der auf den Tasten abgebildeten Buchstaben. Sie können sogar mittels eines Symbols im oberen Panel einfach zwischen verschiedenen Tastaturbelegungen wechseln. In <span class="link"><a href="keyboard-layouts.html.de" title="Alternative Tastaturbelegungen verwenden">Alternative Tastaturbelegungen verwenden</a></span> finden Sie weitere Informationen darüber.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Eingabemethoden</span></h2></div>
@@ -148,7 +151,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.de" title="Alternative Tastaturbelegungen verwenden">Alternative Tastaturbelegungen verwenden</a><span class="desc"> — Tastaturbelegungen hinzufügen und zwischen diesen wechseln.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -160,7 +163,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

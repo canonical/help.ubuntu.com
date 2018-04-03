@@ -2,9 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Install additional applications
-  </title>
+<title>Instalacja dodatkowych programów</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -66,59 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.pl-PL" title="Install &amp; remove software">Add/remove software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="addremove.html.pl-PL" title="Instalowanie i usuwanie oprogramowania">Dodawanie/usuwanie oprogramowania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Install additional applications
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Instalacja dodatkowych programów</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">Ubuntu Software</span>.
-   </p>
-<p class="p">
-    Applications are available in two formats: snap packages and Debian packages.
-    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    In order to install (or remove) a snap you have to log on to the Snap Store/Ubuntu One. Some 
-    applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be
-    listed first.
-   </p>
-<p class="p">
-    You may also wish to install software that does not have a GUI. To install
-    such software, you can use <span class="link"><a href="addremove-install-synaptic.html.pl-PL" title="Użyj Synaptica do bardziej zaawansowanego zarządzania oprogramowaniem">Synaptic</a></span>.
-    Note that <span class="app">Synaptic</span> does not list snaps.
-  </p>
-<p class="p">
-    To install an application:
-  </p>
+<p class="p">Zespół programistów Ubuntu wybrał domyślny zestaw programów, które uznano za najbardziej przydatne w codziennych zastosowaniach. Można jednak instalować więcej programów, aby dostosować Ubuntu do swoich potrzeb, za pomocą <span class="app">Menedżera oprogramowania Ubuntu</span>.</p>
+<p class="p">Programy są dostępne w dwóch formatach: pakiety snap (zwane dalej <span class="em">snapami</span>) i pakiety systemu Debian. Część programów jest dostępna w obu formatach. W takiej sytuacji <span class="app">Menedżer oprogramowania Ubuntu</span> wyświetli snapa wyżej na liście.</p>
+<p class="p">Można także instalować oprogramowanie niemające graficznego interfejsu. Aby to zrobić, można skorzystać z programu <span class="link"><a href="addremove-install-synaptic.html.pl-PL" title="Używanie programu Synaptic do bardziej zaawansowanego zarządzania oprogramowaniem">Synaptic</a></span>. Zauważ, że <span class="app">Synaptic</span> nie obsługuje snapów.</p>
+<p class="p">Aby zainstalować program:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">Ubuntu Software</span> launches, search for an application, or select 
-        a category and find an application from the list.
-      </p></li>
-<li class="steps"><p class="p">
-        Select the application that you want to install and click 
-        <span class="gui">Install</span>.
-      </p></li>
-<li class="steps"><p class="p">
-        If you're installing a snap, log on to the Snap Store/Ubuntu One.
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password
-        (that is, your user password, not your Snap Store/Ubuntu One password). 
-        Once you have done that the installation will begin. 
-        The installation usually finishes quickly, but could take a while if you 
-        have a slow Internet connection.
-      </p></li>
+<li class="steps"><p class="p">Kliknij ikonę <span class="app">Menedżera oprogramowania Ubuntu</span> na <span class="gui">pasku ulubionych</span> lub wyszukaj <span class="input">Oprogramowanie</span> za pomocą paska wyszukiwania <span class="em">ekranu podglądu</span>.</p></li>
+<li class="steps"><p class="p">Po uruchomieniu <span class="app">Menedżera oprogramowania Ubuntu</span> wyszukaj program lub wybierz kategorię i znajdź go na liście.</p></li>
+<li class="steps"><p class="p">Wybierz program do zainstalowania i kliknij przycisk <span class="gui">Zainstaluj</span>.</p></li>
+<li class="steps"><p class="p">Użytkownik zostanie poproszony o uwierzytelnienie się przez wpisanie hasła. Po uwierzytelnieniu rozpocznie się instalacja. Zwykle nie trwa ona długo, ale może to zależeć od prędkości połączenia z Internetem.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -127,29 +87,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.pl-PL" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.pl-PL" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.pl-PL" title="Usuń program">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.pl-PL" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.pl-PL" title="Instalowanie i usuwanie oprogramowania">Instalowanie i usuwanie oprogramowania</a><span class="desc"> — <span class="link"><a href="addremove-install.html.pl-PL" title="Instalacja dodatkowych programów">Instalowanie programów</a></span>, <span class="link"><a href="addremove-remove.html.pl-PL" title="Usuwanie programu">usuwanie programów</a></span>, <span class="link"><a href="addremove-sources.html.pl-PL" title="Dodawanie repozytoriów oprogramowania">dodawanie repozytoriów</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-language-install.html.pl-PL" title="Install languages">Install languages</a><span class="desc"> — Install more translations and related language support packages.</span>
+<a href="prefs-language-install.html.pl-PL" title="Instalacja języków">Instalacja języków</a><span class="desc"> — Instalacja innych tłumaczeń i pakietów obsługi języków.</span>
 </li>
 <li class="links ">
-<a href="addremove-remove.html.pl-PL" title="Usuń program">Usuń program</a><span class="desc"> — 
-      Remove applications that you no longer use.
-    </span>
+<a href="addremove-remove.html.pl-PL" title="Usuwanie programu">Usuwanie programu</a><span class="desc"> — Usuwanie nieużywanych programów.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html.pl-PL" title="Użyj Synaptica do bardziej zaawansowanego zarządzania oprogramowaniem">Użyj Synaptica do bardziej zaawansowanego zarządzania oprogramowaniem</a><span class="desc"> — 
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span>
+<a href="addremove-install-synaptic.html.pl-PL" title="Używanie programu Synaptic do bardziej zaawansowanego zarządzania oprogramowaniem">Używanie programu Synaptic do bardziej zaawansowanego zarządzania oprogramowaniem</a><span class="desc"> — Synaptic jest funkcjonalną, ale skomplikowaną alternatywą dla <span class="app">Menedżera oprogramowania Ubuntu</span>.</span>
 </li>
 </ul></div>
 </div></div>
@@ -162,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

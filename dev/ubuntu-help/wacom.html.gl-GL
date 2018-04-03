@@ -70,10 +70,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Tableta gráfica Wacom</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.gl-GL" title="Configure o seu «stylus»"><span class="title">Configure o seu «stylus»</span><span class="linkdiv-dash"> — </span><span class="desc">Define as funcións de botón e sensación de presión para os «stylus» Wacom.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.gl-GL" title="Configure o «stylus»"><span class="title">Configure o «stylus»</span><span class="linkdiv-dash"> — </span><span class="desc">Define as funcións de botón e sensación de presión para os «stylus» Wacom.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.gl-GL" title="Estabelece o modo de seguimento da tableta Wacom"><span class="title">Estabelece o modo de seguimento da tableta Wacom</span><span class="linkdiv-dash"> — </span><span class="desc">Cambia a tableta entre modo tableta e modo ratón.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.gl-GL" title="Seleccione unha pantalla"><span class="title">Seleccione unha pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Mapear a tableta Wacom a unha pantala específica.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.gl-GL" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Cambia a tableta entre modo tableta e modo ratón.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.gl-GL" title="Usar a tableta para zurdos"><span class="title">Usar a tableta para zurdos</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.gl-GL" title="Usar a tableta para zurdos"><span class="title">Usar a tableta para zurdos</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar a tableta Wacom a <span class="gui">Orientación zurda</span>.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -91,7 +91,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

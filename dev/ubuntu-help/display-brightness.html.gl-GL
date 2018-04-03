@@ -85,11 +85,10 @@
     key to use these keys.</p></div></div></div></div>
 <p class="p">You can also adjust the screen brightness by using the <span class="gui">Power</span> panel.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To set the screen brightness using the Power panel:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Para configurar o brillo da pantalla usando o panel de Enerxía:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>
-      overview and start typing <span class="gui">Power</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Enerxía</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Enerxía</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Adjust the <span class="gui">Screen brightness</span> slider to the value you want to
       use. The change should take effect immediately.</p></li>
 </ol></div>
@@ -108,7 +107,7 @@
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a><span class="desc"> — <span class="link"><a href="look-background.html.gl-GL" title="Change the desktop and lock screen backgrounds">Fondo</a></span>, <span class="link"><a href="look-resolution.html.gl-GL" title="Change the resolution or rotation of the screen">tamaño e rotación</a></span>, brillo…</span>
+<a href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a><span class="desc"> — <span class="link"><a href="look-background.html.gl-GL" title="Cambiar o fondo de escritorio e da pantalla de bloqueo">Fondo</a></span>, <span class="link"><a href="look-resolution.html.gl-GL" title="Cambiar o tamaño/rotación da pantalla">tamaño e rotación</a></span>, brillo…</span>
 </li>
 <li class="links ">
 <a href="hardware-problems-graphics.html.gl-GL" title="Problemas de pantalla">Problemas de pantalla</a><span class="desc"> — Resolución de problemas de pantalla e gráficos.</span>
@@ -122,7 +121,7 @@
 <a href="a11y-contrast.html.gl-GL" title="Axustar o contraste">Axustar o contraste</a><span class="desc"> — Facer que as xanelas e os botóns da pantalla sexan máis (ou menos) vívidos, para que sexan máis fáciles de ver.</span>
 </li>
 <li class="links ">
-<a href="power-autobrightness.html.gl-GL" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
+<a href="power-autobrightness.html.gl-GL" title="Estabelecer o brillo automático">Estabelecer o brillo automático</a><span class="desc"> — Controlar automaticamente o brillo da pantalla para reducir o uso de batería.</span>
 </li>
 <li class="links ">
 <a href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?">Porqué a pantalla escurece logo duns segundos?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
@@ -141,7 +140,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

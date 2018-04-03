@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="keyboard.html.ca" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="keyboard.html.ca" title="Teclat">Teclat</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="keyboard.html.ca" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="keyboard.html.ca" title="Teclat">Teclat</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -114,11 +114,11 @@
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="key"><kbd>WWW</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Home folder</p></td>
+<td style="border-top-style: solid;"><p class="p">Carpeta de l'usuari</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="key"><kbd>Explorer</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Search</p></td>
+<td style="border-top-style: solid;"><p class="p">Cercar</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> or <span class="key"><kbd>Search</kbd></span></p></td>
 </tr>
 </table></div>
@@ -232,14 +232,14 @@
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">Screenshots</span></h3></div>
+<div class="title title-table"><h3><span class="title">Captures de pantalla</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Save a screenshot to file</p></td>
+<td><p class="p">Desa la captura de pantalla a un fitxer</p></td>
 <td><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to file</p></td>
+<td style="border-top-style: solid;"><p class="p">Desa la captura de pantalla d'una finestra a un fitxer</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -275,11 +275,11 @@
 <td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Audio mute)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Volume down</p></td>
+<td style="border-top-style: solid;"><p class="p">Abaixa el volum</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Audio lower volume)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Volume up</p></td>
+<td style="border-top-style: solid;"><p class="p">Apuja el volum</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Audio raise volume)</p></td>
 </tr>
 <tr>
@@ -287,27 +287,27 @@
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Audio media)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Play (or play/pause)</p></td>
+<td style="border-top-style: solid;"><p class="p">Reprodueix (o reprodueix/pausa)</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Audio play)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Pause playback</p></td>
+<td style="border-top-style: solid;"><p class="p">Fes una pausa a la reproducció</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Audio pause)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Stop playback</p></td>
+<td style="border-top-style: solid;"><p class="p">Atura la reproducció</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Audio stop)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Previous track</p></td>
+<td style="border-top-style: solid;"><p class="p">Pista anterior</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio previous)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Next track</p></td>
+<td style="border-top-style: solid;"><p class="p">Pista següent</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio next)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Eject</p></td>
+<td style="border-top-style: solid;"><p class="p">Expulsa</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Eject)</p></td>
 </tr>
 </table></div>
@@ -327,11 +327,11 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Log out</p></td>
+<td style="border-top-style: solid;"><p class="p">Surt</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Lock screen</p></td>
+<td style="border-top-style: solid;"><p class="p">Bloqueja la pantalla</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -391,11 +391,11 @@
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>8</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Zoom in</p></td>
+<td style="border-top-style: solid;"><p class="p">Apropa</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>=</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Zoom out</p></td>
+<td style="border-top-style: solid;"><p class="p">Allunya</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>-</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -407,11 +407,11 @@
 <td style="border-top-style: solid;"><p class="p">Disabled</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Increase text size</p></td>
+<td style="border-top-style: solid;"><p class="p">Augmenta la mida del text</p></td>
 <td style="border-top-style: solid;"><p class="p">Disabled</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Decrease text size</p></td>
+<td style="border-top-style: solid;"><p class="p">Redueix la mida del text</p></td>
 <td style="border-top-style: solid;"><p class="p">Disabled</p></td>
 </tr>
 <tr>
@@ -424,7 +424,7 @@
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-table"><h3><span class="title">Windows</span></h3></div>
+<div class="title title-table"><h3><span class="title">Finestres</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p">Activate the window menu</p></td>
@@ -439,11 +439,11 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Maximize window</p></td>
+<td style="border-top-style: solid;"><p class="p">Maximitza la finestra</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Restore window</p></td>
+<td style="border-top-style: solid;"><p class="p">Restaura la finestra</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -451,19 +451,19 @@
 <td style="border-top-style: solid;"><p class="p">Disabled</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Close window</p></td>
+<td style="border-top-style: solid;"><p class="p">Tanca la finestra</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Hide window</p></td>
+<td style="border-top-style: solid;"><p class="p">Amaga la finestra</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window</p></td>
+<td style="border-top-style: solid;"><p class="p">Mou la finestra</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Resize window</p></td>
+<td style="border-top-style: solid;"><p class="p">Redimensiona la finestra</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -504,7 +504,7 @@
 </div></div>
 </div></div>
 <div id="custom" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Custom shortcuts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Personalitza les dreceres</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">To create your own application keyboard shortcut in the
   <span class="app">Keyboard</span> settings:</p>
@@ -536,7 +536,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.ca" title="Keyboard">Keyboard</a><span class="desc"> — 
+<a href="keyboard.html.ca" title="Teclat">Teclat</a><span class="desc"> — 
       <span class="link"><a href="keyboard-layouts.html.ca" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
       <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Make the keyboard cursor blink">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">keyboard accessibility</a></span>…
@@ -558,7 +558,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

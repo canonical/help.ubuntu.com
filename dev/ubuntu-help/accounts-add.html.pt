@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Contas em linha</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Contas em linha</span> para abrir o painel.</p></li>
-<li class="steps"><p class="p">Carregue o botão <span class="gui">+</span> no canto inferior esquerda da janela.</p></li>
+<li class="steps"><p class="p">Select an account from the list on the right.</p></li>
 <li class="steps"><p class="p">Selecione a conta que quer acrescentar.</p></li>
 <li class="steps"><p class="p">Abrir-se-á uma pequena janela ou diálogo com um lugar site onde poderá introduzir as credenciais da conta em linha. Se está a configurar uma conta de Google, introduza seu nome de utilizador e palavra-passe de Google. Alguns provedores permite-lhe criar uma conta desde o diálogo de início de sessão.</p></li>
 <li class="steps"><p class="p">Se tem introduzido suas credenciais corretamente, pedir-se-lhe-á que permita a GNOME aceder a sua conta em linha. Autorize o acesso para continuar.</p></li>
@@ -99,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

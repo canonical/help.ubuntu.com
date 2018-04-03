@@ -75,20 +75,17 @@
 <div class="title title-steps"><h2><span class="title">Engadir un marcador:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abrir o cartafol (ou a localización) que quere engadir aos marcadores.</p></li>
-<li class="steps"><p class="p">Click the window menu in the toolbar and pick <span class="gui">Bookmark this
-      Location</span>.</p></li>
+<li class="steps"><p class="p">Prema o menú da xanela na barra de ferramentas e selecconie <span class="gui">Marcar esta localización</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Eliminar un marcador:</span></h2></div>
-<div class="region"><ol class="steps"><li class="steps"><p class="p">Right-click on the bookmark in the sidebar and select
-      <span class="gui">Remove</span> from the menu.</p></li></ol></div>
+<div class="region"><ol class="steps"><li class="steps"><p class="p">Prema co botón dereito sobre o marcador na barra lateral e seleccione <span class="gui">Eliminar</span> desde o menú.</p></li></ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Renomear un marcador</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Right-click on the bookmark in the sidebar and select
-      <span class="gui">Rename…</span>.</p></li>
+<li class="steps"><p class="p">Prema co botón dereito no marcador dese panel lateral e seleccione <span class="gui">Renomear…</span>.</p></li>
 <li class="steps">
 <p class="p">Na casiña <span class="gui">Nome</span> escriba o nome novo para o marcador.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Renaming a bookmark does not rename the folder. If you have
@@ -115,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

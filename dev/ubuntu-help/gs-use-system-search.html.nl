@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -75,7 +75,7 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Open het <span class="gui">Activiteitenoverzicht</span> door te drukken op de <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-toets. Begin met typen om te zoeken.</p>
+<p class="p">Open het <span class="gui">Activiteiten</span>overzicht door in de linkerbovenhoek te klikken op <span class="gui">Activiteiten</span>, of door te drukken op de <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-toets. Begin met typen om te zoeken.</p>
 <p class="p">Resultaten die overeenkomen met wat u heeft ingetypt zullen verschijnen terwijl u typt. Het eerste resultaat is altijd opgelicht en staat bovenaan.</p>
 <p class="p">Druk op <span class="key"><kbd>Enter</kbd></span> om naar het eerste opgelichte resultaat te gaan.</p>
 </li></ol></div></div></div>
@@ -86,8 +86,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">overeenkomende toepassingen, weergegeven bovenaan de zoekresultaten,</p></li>
 <li class="list"><p class="p">overeenkomende instellingen.</p></li>
-<li class="list"><p class="p">overeenkomende contacten, en</p></li>
-<li class="list"><p class="p">overeenkomende documenten.</p></li>
+<li class="list"><p class="p">overeenkomende contacten,</p></li>
+<li class="list"><p class="p">overeenkomende documenten,</p></li>
+<li class="list"><p class="p">overeenkomende agenda,</p></li>
+<li class="list"><p class="p">overeenkomende rekenmachine,</p></li>
+<li class="list"><p class="p">overeenkomende software,</p></li>
+<li class="list"><p class="p">overeenkomende bestanden,</p></li>
+<li class="list"><p class="p">overeenkomende terminal,</p></li>
+<li class="list"><p class="p">overeenkomende wachtwoorden en sleutels.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +116,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klik op het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk.</p></li>
 <li class="steps"><p class="p">Klik op de knop Instellingen linksonder in het menu.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Search</span> panel.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Search</span> in the left panel.</p></li>
 <li class="steps"><p class="p">Klik in de lijst met zoeklocaties op de <span class="gui">AAN/UIT</span>-schakelaar naast de zoeklocatie die u wilt in- of uitschakelen.</p></li>
 </ol></div>
 </div></div>
@@ -131,7 +137,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html.nl" title="Toepassingen starten">Toepassingen starten</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
+<a href="shell-apps-open.html.nl" title="Toepassingen starten">Toepassingen starten</a><span class="desc"> — Toepassingen starten vanuit het <span class="gui">activiteiten</span>-overzicht.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -143,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

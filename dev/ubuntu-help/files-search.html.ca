@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Search for files</title>
+<title>Cerca fitxers</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,44 +67,29 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Search for files</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Cerca fitxers</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can search for files based on their name or file type directly
-  within the file manager.</p>
+<p class="p">Podeu cercar fitxers basats en el nom o el tipus de fitxer directament dins del gestor de fitxers.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Search</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Cercar</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
       <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">If you know the files you want are under a particular folder, go to
-      that folder.</p></li>
+<li class="steps"><p class="p">Si sap que els fitxers que vol es troben en una carpeta particular,  vagi a aquesta carpeta.</p></li>
 <li class="steps">
-<p class="p">Type a word or words that you know appear in the file name, and they
-      will be shown in the search bar. For example, if you name all your
-      invoices with the word “Invoice”, type <span class="input">invoice</span>. Words are
-      matched regardless of case.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of typing words directly to bring up the search bar, you can
-	click the magnifying glass in the toolbar, or press
-        <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div></div>
+<p class="p">Escrigui una paraula o paraules que sap que apareixen al nom del fitxer, i es mostraran sota la barra de cerca. Per exemple, si citeu totes les vostres factures amb la paraula "Factura", escriviu <span class="input">Factura</span>. Les paraules coincideixen independentment de si estan en majúscula o no.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">En lloc d'escriure paraules directament per mostrar la barra de cerca, podeu fer clic a la lupa a la barra d'eines, o prémer <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">You can narrow your results by location and file type.</p>
+<p class="p">Podeu reduir els resultats per ubicació i tipus de fitxer.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Click <span class="gui">Home</span> to restrict the search results to your
-          <span class="file">Home</span> folder, or <span class="gui">All Files</span> to search
-          everywhere.</p></li>
-<li class="list"><p class="p">Click the <span class="gui">+</span> button and pick a <span class="gui">File Type</span> from
-	  the drop-down list to narrow the search results based on file type.
-	  Click the <span class="gui">×</span> button to remove this option and widen the
-	  search results.</p></li>
+<li class="list"><p class="p">Feu clic a <span class="gui">Inici</span> per restringir els resultats de la cerca a la vostra carpeta <span class="file">Inici</span>, o <span class="gui">Tots els fitxers</span>per cercar a tot arreu.</p></li>
+<li class="list"><p class="p">Feu clic al botó <span class="gui">+</span> i trieu un <span class="gui">Tipus de fitxer</span>des de la llista desplegable per restringir els resultats de cerca segons el tipus de fitxer. Feu clic al botó <span class="gui">×</span> per eliminar aquesta opció i ampliar els resultats de la cerca.</p></li>
 </ul></div></div></div>
 </li>
-<li class="steps"><p class="p">You can open, copy, delete, or otherwise work with your files from the
-      search results, just as you would from any folder in the file
-      manager.</p></li>
-<li class="steps"><p class="p">Click the magnifying glass in the toolbar again to exit the search and
-      return to the folder.</p></li>
+<li class="steps"><p class="p">Pot obrir, copiar, esborrar o treballar amb els seus fitxers des dels resultats de la cerca, tal com ho faria des de qualsevol carpeta del gestor de fitxers.</p></li>
+<li class="steps"><p class="p">Feu clic a la lupa de la barra d'eines de nou per sortir de la cerca i tornar a la carpeta.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -122,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

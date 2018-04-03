@@ -92,6 +92,10 @@
   language in which the software was originally developed, usually American
   English.</p>
 <p class="p">பயன்பாடுகள் இசை, படங்கள் மற்றும் ஆவணங்கள் என்பது போன்றவற்றை சேகரிக்கும் சில சிறப்புக் கோப்புறைகள் உங்கள் இல்லக் கோப்புறையில் இருக்கும். இந்தக் கோப்புறைகள் உங்கள் மொழிக்கு ஏற்ப தரநிலையான பெயர்களைப் பயன்படுத்தும். நீங்கள் மீண்டும் புகுபதிவு செய்யும் போது இந்தக் கோப்புறைகளின் பெயர்களையும் நீங்கள் தேர்ந்தெடுத்த மொழிக்கு மாற்ற வேண்டுமா எனக் கேட்கப்படும். இனி எப்போதுமே புதிய மொழியையே பயன்படுத்த வேண்டுமானால் நீங்கள் கோப்புறை பெயர்கலை புதுப்பிக்க வேண்டும்.</p>
+<div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -99,7 +103,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.ta" title="பகுதி &amp; மொழி">பகுதி &amp; மொழி</a><span class="desc"> — <span class="link"><a href="session-language.html.ta" title="பயன்படுத்த வேண்டிய மொழியை மாற்றுதல்">மொழி</a></span>, <span class="link"><a href="session-formats.html.ta" title="தேதி மற்றும் அளவீட்டு வடிவமைப்புகளை மாற்றுதல்">பகுதி மற்றும் வடிவமைப்புகள்</a></span>, <span class="link"><a href="keyboard-layouts.html.ta" title="Use alternative keyboard layouts">விசைப்பலகை லேயவுட்டுகள்</a></span>…</span>
+<a href="prefs-language.html.ta" title="பகுதி &amp; மொழி">பகுதி &amp; மொழி</a><span class="desc"> — <span class="link"><a href="session-language.html.ta" title="பயன்படுத்த வேண்டிய மொழியை மாற்றுதல்">மொழி</a></span>, <span class="link"><a href="session-formats.html.ta" title="தேதி மற்றும் அளவீட்டு வடிவமைப்புகளை மாற்றுதல்">பகுதி மற்றும் வடிவமைப்புகள்</a></span>, <span class="link"><a href="keyboard-layouts.html.ta" title="மாற்று விசைப்பலகை லேயவுட்டுகளைப் பயன்படுத்துதல்">விசைப்பலகை லேயவுட்டுகள்</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -117,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

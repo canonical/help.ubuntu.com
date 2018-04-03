@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,24 +82,22 @@
 <div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.fi" title="Määritä kaksoisnapsautuksen nopeus"><span class="title">Määritä kaksoisnapsautuksen nopeus</span><span class="linkdiv-dash"> — </span><span class="desc">Määritä kuinka nopeasti hiiren painiketta on napsautettava toistamiseen, jotta se rekisteröidään kaksoisnapsautukseksi.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.fi" title="Napsauta ja siirrä hiiren osoitinta sormiota käyttäen."><span class="title">Napsauta ja siirrä hiiren osoitinta sormiota käyttäen.</span><span class="linkdiv-dash"> — </span><span class="desc">Hallitse hiirtä numeronäppäimistöllä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.fi" title="Napsauta ja siirrä hiiren osoitinta sormiota käyttäen"><span class="title">Napsauta ja siirrä hiiren osoitinta sormiota käyttäen</span><span class="linkdiv-dash"> — </span><span class="desc">Hallitse hiirtä numeronäppäimistöllä.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.fi" title="Simuloi hiiren oikean napin painallusta"><span class="title">Simuloi hiiren oikean napin painallusta</span><span class="linkdiv-dash"> — </span><span class="desc">Paina ja pidä hiiren vasenta nappia pohjassa painaaksesi hiiren oikeaa nappia.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.fi" title="Simuloi napsautusta kohdistamalla"><span class="title">Simuloi napsautusta kohdistamalla</span><span class="linkdiv-dash"> — </span><span class="desc">The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
-    by holding the mouse still.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.fi" title="Simuloi napsautusta kohdistamalla"><span class="title">Simuloi napsautusta kohdistamalla</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">Napsautus kohdistamalla</span> mahdollistaa hiiren painikkeiden käytön kohdistamalla ja pitämällä hiirtä paikoillaan hetken.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Yleisiä ongelmia</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.fi" title="Hiiren osoitin ei liiku"><span class="title">Hiiren osoitin ei liiku</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.fi" title="Hiiren osoitin ei liiku"><span class="title">Hiiren osoitin ei liiku</span><span class="linkdiv-dash"> — </span><span class="desc">Miten tarkistetaan hiiri jos se ei toimi.</span></a></div></div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.fi" title="Hiiren toimintaa edeltää viive"><span class="title">Hiiren toimintaa edeltää viive</span><span class="linkdiv-dash"> — </span><span class="desc">Herätä hiiri heiluttamalla hiirtä tai napsauttamalla sen painikkeita.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Vinkit</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.fi" title="Hiiren keskimmäisen painikkeen napsautus"><span class="title">Hiiren keskimmäisen painikkeen napsautus</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
-    more.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.fi" title="Hiiren keskimmäisen painikkeen napsautus"><span class="title">Hiiren keskimmäisen painikkeen napsautus</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä hiiren keskimmäistä painiketta esimerkiksi sovellusten ja välilehtien avaamiseen.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
 </div></div>
@@ -124,7 +122,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

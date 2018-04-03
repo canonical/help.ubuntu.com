@@ -64,43 +64,25 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Het scherm automatisch vergrendelen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you leave your computer, you should
-  <span class="link"><a href="shell-exit.html.nl#lock-screen" title="Het scherm vergrendelen">lock the screen</a></span> to prevent
-  other people from using your desktop and accessing your files. If you
-  sometimes forget to lock your screen, you may wish to have your computer’s
-  screen lock automatically after a set period of time. This will help to
-  secure your computer when you aren’t using it.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">When your screen is locked, your applications and system processes
-  will continue to run, but you will need to enter your password to begin using
-  them again.</p></div></div></div></div>
+<p class="p">Wanneer u uw computer verlaat, dient u <span class="link"><a href="shell-exit.html.nl#lock-screen" title="Het scherm vergrendelen">het scherm vergrendelen</a></span> te kiezen om te voorkomen dat anderen uw computer gebruiken en toegang hebben tot uw bestanden. Als u soms vergeet uw scherm te vergrendelen, dan kunt u ervoor kiezen uw scherm automatisch te vergrendelen na een bepaalde periode. Dit zal de veiligheid vergroten wanneer u de computer niet gebruikt.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Wanneer uw scherm vergrendeld is, zullen uw toepassingen en systeemprocessen blijven draaien, maar u zult uw wachtwoord moeten invoeren om ze weer te gebruiken.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To set the length of time before your screen locks
-    automatically:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">De tijdsduur instellen voordat uw scherm automatisch wordt vergrendeld:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Privacy</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Privacy</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Selecteer <span class="gui">Schermvergrendeling</span>.</p></li>
-<li class="steps"><p class="p">Make sure <span class="gui">Automatic Screen Lock</span> is switched <span class="gui">ON</span>,
-      then select a length of time from the drop-down list.</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat <span class="gui">Automatische schermvergrendeling</span> <span class="gui">AAN</span> staat, en kies daarna uit de keuzelijst de tijdsduur.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Applications can present notifications to you that are still displayed
-    on your lock screen. This is convenient, for example, to see if you have
-    any email without unlocking your screen. If you’re concerned about other
-    people seeing these notifications, switch <span class="gui">Show Notifications</span>
-    off.</p></div></div></div></div>
-<p class="p">When your screen is locked, and you want to unlock it, press
-  <span class="key"><kbd>Esc</kbd></span>, or swipe up from the bottom of the screen with your mouse.
-  Then enter your password, and press <span class="key"><kbd>Enter</kbd></span> or click
-  <span class="gui">Unlock</span>. Alternatively, just start typing your password and the
-  lock curtain will be automatically raised as you type.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Toepassingen kunnen meldingen aan u doorgeven door ze op uw vergrendelde scherm te tonen. Dit is bijvoorbeeld handig om te zien of er e-mail is zonder uw scherm te ontgrendelen. Als u niet wilt dat anderen deze meldingen te zien krijgen, dan kunt u <span class="gui">Meldingen tonen</span> uitzetten.</p></div></div></div></div>
+<p class="p">Wanneer uw scherm vergrendeld is, en u wilt het ontgrendelen, druk dan op <span class="key"><kbd>Esc</kbd></span> of veeg omhoog vanaf de onderkant van het scherm met de muis. Voer daarna uw wachtwoord in en druk op <span class="key"><kbd>Enter</kbd></span> of klik op <span class="gui">Ontgrendelen</span>. U kunt ook gewoon beginnen met intypen van uw wachtwoord waardoor het vergrendelde scherm automatisch opgerold wordt.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -108,11 +90,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.nl" title="Het scherm automatisch vergrendelen">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.nl" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.nl" title="Prullenbak legen &amp; tijdelijke bestanden definitief verwijderen">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.nl" title="Het scherm automatisch vergrendelen">Schermvergrendeling</a></span>, <span class="link"><a href="privacy-history-recent-off.html.nl" title="Traceren van bestandsgeschiedenis uitzetten of beperken">Gebruiksgeschiedenis</a></span>, <span class="link"><a href="privacy-purge.html.nl" title="Purge trash &amp; temporary files">Prullenbak &amp; tijdelijke bestanden verwijderen</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -133,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -65,43 +65,26 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Schakelen tussen vensters</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can see all the running applications that have a graphical user
-  interface in the <span class="em">window switcher</span>. This makes
-  switching between tasks a single-step process and provides a full picture of
-  which applications are running.</p>
-<p class="p">From a workspace:</p>
+<p class="p">Alle draaiende toepassingen die een grafische gebruikersinterface hebben zijn te zien in de <span class="em">vensterwisselaar</span>. Zo kunt u in een enkele stap tussen taken wisselen en u krijgt een volledig overzicht van de toepassingen die draaien.</p>
+<p class="p">Vanuit een werkblad:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press
-      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      to bring up the <span class="gui">window switcher</span>.</p></li>
-<li class="steps"><p class="p">Release <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> to select the next
-      (highlighted) window in the switcher.</p></li>
-<li class="steps"><p class="p">Otherwise, still holding down the <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>
-      Super</kbd></a></span> key, press <span class="key"><kbd>Tab</kbd></span> to cycle through the list of open
-      windows, or <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to cycle
-      backwards.</p></li>
+<li class="steps"><p class="p">Druk op <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> om de <span class="gui">vensterwisselaar</span> te krijgen.</p></li>
+<li class="steps"><p class="p">Laat <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> los om het volgende (gemarkeerde) venster in de wisselaar te selecteren.</p></li>
+<li class="steps"><p class="p">U kunt ook, terwijl u de <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd> Super</kbd></a></span>-toets ingedrukt houdt, op <span class="key"><kbd>Tab</kbd></span> drukken om door de lijst van geopende vensters te lopen, of <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> om terug te bladeren.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Windows in the window switcher are grouped by application. Previews of
-    applications with multiple windows pop down as you click through. Hold down
-    <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> and press <span class="key"><kbd>`</kbd></span> (or the
-    key above <span class="key"><kbd>Tab</kbd></span>) to step through the list.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Vensters in de vensterwisselaar zijn gegroepeerd per toepassing. Voorbeelden van toepassingen met meerdere vensters verschijnen terwijl u doorklikt. Houd  <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> ingedrukt en druk op <span class="key"><kbd>`</kbd></span> (of de toets boven de <span class="key"><kbd>Tab</kbd></span>-toets) om door de lijst te lopen.</p></div></div></div></div>
 <p class="p">U kunt ook van het ene toepassingspictogram naar het andere gaan in de vensterwisselaar met de toetsen <span class="key"><kbd>→</kbd></span> of <span class="key"><kbd>←</kbd></span>, of er een kiezen door erop te klikken met de muis.</p>
 <p class="p">Voorbeelden van toepassingen met een enkel venster kunnen worden getoond met de toets <span class="key"><kbd>↓</kbd></span>.</p>
-<p class="p">From the <span class="gui">Activities</span> overview, click on a
-  <span class="link"><a href="shell-windows.html.nl" title="Vensters en werkbladen">window</a></span> to switch to it and leave the
-  overview. If you have multiple
-  <span class="link"><a href="shell-windows.html.nl#working-with-workspaces" title="Werken met werkbladen">workspaces</a></span> open,
-  you can click on each workspace to view the open windows on each
-  workspace.</p>
+<p class="p">Klik vanuit het <span class="gui">Activiteiten</span>-overzicht op een <span class="link"><a href="shell-windows.html.nl" title="Vensters en werkbladen">venster</a></span> om er naartoe te gaan en uit het overzicht te stappen. Indien u meerdere <span class="link"><a href="shell-windows.html.nl#working-with-workspaces" title="Werken met werkbladen">werkruimtes</a></span> geopend heeft, dan kunt u op elke werkruimte klikken om de geopende vensters in die werkruimte te bekijken.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -129,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

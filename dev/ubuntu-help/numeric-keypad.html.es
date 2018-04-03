@@ -76,11 +76,10 @@
 <div class="contents">
 <p class="p">Mediante la tecla <span class="key"><kbd>Bloq Núm</kbd></span> es posible encender o apagar manualmente el teclado numérico. Además, la configuración del BIOS en muchos equipos incluyen una opción para especificar si el equipo debe arrancar con el teclado numérico encendido. Si no es así, existe otra manera de configurarlo:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html.es" title="Instalar aplicaciones adicionales">Instalar</a></span> del paquete <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Instale</a></span> el paquete <span class="em">numlockx</span>.</p></li>
 <li class="steps"><p class="p">Abra <span class="app"><span class="link"><a href="startup-applications.html.es" title="Aplicaciones al inicio">Aplicaciones al inicio</a></span></span> y añada el programa de arranque correspondiente a esta orden: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
-<p class="p">Para activar el teclado numérico también en la pantalla de acceso, puede crearse un archivo de configuración especial. Presione <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> para abrir una ventana de consola y, a continuación, ejecute esta orden (es una orden larga: aunque pueda aparecer en varias líneas en la pantalla, cópiela y péguela para evitar errores de escritura):</p>
-<p class="p"><span class="cmd">sudo sh -c 'printf "[Seat:*]\ngreeter-setup-script=numlockx on\n" &gt;/etc/lightdm/lightdm.conf.d/50-numlock.conf'</span></p>
+<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">El segundo paso podría ser redundante en su equipo. Intente primero sin este paso.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

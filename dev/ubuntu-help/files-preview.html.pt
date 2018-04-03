@@ -70,6 +70,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Visualizar ficheiros e diretórios</span></h1></div>
 <div class="region">
 <div class="contents">
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Sushi</span> installed on your computer to perform
+  these steps.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Install <span class="app">Sushi</span></a></span></p>
+</div></div></div></div>
 <p class="p">Pode visualizar ficheiros rapidamente sem abrir num aplicação completa. Selecione um ficheiro e carregue a barra de espaço. O ficheiro abrir-se-á  numa janela simples de vista prévia. Carregue a barra de espaço de novo para fechar a vista prévia.</p>
 <p class="p">A vista prévia suporta a maioria de formatos de ficheiro para documentos, imagens, vídeo e som. Na vista prévia pode deslocar por seus documentos ou procurar através de seus vídeos e ficheiros de som.</p>
 <p class="p">Para ver uma vista prévia a ecrã completo, carregue <span class="key"><kbd>F</kbd></span> ou <span class="key"><kbd>F11</kbd></span>. Carregue <span class="key"><kbd>F</kbd></span> ou <span class="key"><kbd>F11</kbd></span> de novo para sair do modo a ecrã completo, ou carregue a barra de espaço para sair por completo da vista prévia.</p>
@@ -96,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

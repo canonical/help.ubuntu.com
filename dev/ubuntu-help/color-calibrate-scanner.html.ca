@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I calibrate my scanner?</title>
+<title>Com calibro el meu escànner?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,54 +65,46 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I calibrate my scanner?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Com calibro el meu escànner?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you want your scanner to represent the color accurately in scans, you
-  should calibrate it.</p>
+<p class="p">Si voleu que el vostre escàner representi el color amb precisió en els escaneigs, heu de calibrar-lo.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure your scanner is connected to your computer with a cable or
-      over the network.</p></li>
-<li class="steps"><p class="p">Scan your calibration target and save it as an uncompressed TIFF
-      file.</p></li>
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
-      scanner.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Calibrate…</span> to commence the
-      calibration.</p></li>
+<li class="steps"><p class="p">Assegureu-vos que l'escàner estigui connectat a l'ordinador amb un cable o a través de la xarxa.</p></li>
+<li class="steps"><p class="p">Escanegeu el vostre objectiu de calibratge i deseu-lo com a fitxer TIFF no comprimit.</p></li>
+<li class="steps"><p class="p">Obre la vista d' <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenci a escriure <span class="gui">Color</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Color</span> per obrir el panell i seleccionar el vostre escànner.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Calibrar…</span> per iniciar la calibració.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Scanner devices are incredibly stable over time and temperature, so do
-    not usually need to be recalibrated.</p></div></div></div></div>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Els dispositius d'escàner són increïblement estables al llarg del temps i temperatura, de manera que generalment no cal recalibrar-los.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibració">Calibració</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html.ca" title="How do I calibrate my camera?">How do I calibrate my camera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-screen.html.ca" title="Com calibro la meva pantalla?">Com calibro la meva pantalla?</a><span class="desc"> — Calibrar la seva pantalla és important per veure els colors precisos.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html.ca" title="How do I calibrate my printer?">How do I calibrate my printer?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
+<a href="color-calibrate-camera.html.ca" title="Com puc calibrar la meva càmera?">Com puc calibrar la meva càmera?</a><span class="desc"> — Calibrar la seva càmera és important per capturar els colors precisos.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html.ca" title="How do I calibrate my screen?">How do I calibrate my screen?</a><span class="desc"> — Calibrating your screen is important to display accurate
-    colors.</span>
+<a href="color-calibrate-printer.html.ca" title="Com puc calibrar la meva impressora?">Com puc calibrar la meva impressora?</a><span class="desc"> — El calibratge de la vostra impressora és important per imprimir els colors precisos.</span>
 </li>
 <li class="links ">
-<a href="color-calibrationtargets.html.ca" title="Which target types are supported?">Which target types are supported?</a><span class="desc"> — Calibration targets are needed to do scanner and camera profiling.</span>
+<a href="color-calibrationtargets.html.ca" title="Quins tipus de destinació s'admeten?">Quins tipus de destinació s'admeten?</a><span class="desc"> — Calibration targets are needed to do scanner and camera profiling.</span>
 </li>
 </ul></div>
 </div></div>
@@ -125,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

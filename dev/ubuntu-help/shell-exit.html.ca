@@ -185,20 +185,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
+<li class="links ">
+<a href="shell-overview.html.ca" title="El vostre escriptori">El vostre escriptori</a><span class="desc"> — 
+      <span class="link"><a href="clock-calendar.html.ca" title="Cites de calendari">Calendar</a></span>,
+      <span class="link"><a href="shell-notifications.html.ca" title="Notifications and the message tray">notifications</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.ca" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-windows.html.ca" title="Windows and workspaces">windows and workspaces</a></span>…
+    </span>
+</li>
 <li class="links "><a href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu">Guia de l'escriptori de l'Ubuntu</a></li>
 <li class="links ">
 <a href="power.html.ca" title="Power &amp; battery">Power &amp; battery</a><span class="desc"> — 
       <span class="link"><a href="power-status.html.ca" title="Check the battery status">Battery status</a></span>,
       <span class="link"><a href="power-suspend.html.ca" title="What happens when I suspend my computer?">suspend</a></span>,
       <span class="link"><a href="power-whydim.html.ca" title="Why does my screen go dim after a while?">screen dimming</a></span>…
-    </span>
-</li>
-<li class="links ">
-<a href="shell-overview.html.ca" title="Your desktop">Your desktop</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html.ca" title="Calendar appointments">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html.ca" title="Notifications and the message tray">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html.ca" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html.ca" title="Windows and workspaces">windows and workspaces</a></span>…
     </span>
 </li>
 </ul></div>
@@ -218,7 +218,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

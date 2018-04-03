@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change which web browser opens websites by default</title>
+<title>Zmiana przeglądarki, w której domyślnie otwierane są strony internetowe</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,35 +64,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-browser.html.pl-PL" title="Przeglądarki WWW">Przeglądarki WWW</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-browser.html.pl-PL" title="Przeglądarki WWW">Przeglądarki WWW</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change which web browser opens websites by default</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zmiana przeglądarki, w której domyślnie otwierane są strony internetowe</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you click a link to a web page in any application, a web browser will
-  automatically open up to that page. However, if you have more than one
-  browser installed, the page may not open up in the browser you wanted it to
-  open in. To fix this, change the default web browser:</p>
+<p class="p">Po kliknięciu odnośnika do strony internetowej w dowolnym programie przeglądarka WWW automatycznie ją otworzy. Jeśli jednak zainstalowana jest więcej niż jedna przeglądarka, to strona może zostać otwarta w niewłaściwej. Aby to naprawić, zmień domyślą przeglądarkę WWW:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Informacje</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Informacje</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Informacje</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
-      of the window.</p></li>
-<li class="steps"><p class="p">Choose which web browser you would like to open links by
-      changing the <span class="gui">Web</span> option.</p></li>
+<li class="steps"><p class="p">Wybierz <span class="gui">Domyślne programy</span> z listy po lewej stronie okna.</p></li>
+<li class="steps"><p class="p">Wybierz, która przeglądarka ma otwierać odnośniki zmieniają opcję <span class="gui">WWW</span>.</p></li>
 </ol></div></div></div>
-<p class="p">When you open up a different web browser, it might tell you that it’s not
-  the default browser any more. If this happens, click the <span class="gui">Cancel</span>
-  button (or similar) so that it does not try to set itself as the default
-  browser again.</p>
+<p class="p">Uruchomienie innej przeglądarki może wyświetlić komunikat, że nie jest to już domyślna przeglądarka. Jeśli tak się wydarzy, kliknij przycisk <span class="gui">Anuluj</span> (lub podobny), aby przeglądarka nie próbowała więcej ustawić się jako domyślną.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.pl-PL" title="Przeglądarki WWW">Przeglądarki WWW</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.pl-PL" title="Change which web browser opens websites by default">Zmiana domyślnej przeglądarki</a></span>, <span class="link"><a href="net-install-flash.html.pl-PL" title="Zainstaluj wtyczkę Flash">instalacja wtyczki Flash</a></span>…</span>
+<a href="net-browser.html.pl-PL" title="Przeglądarki WWW">Przeglądarki WWW</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.pl-PL" title="Zmiana przeglądarki, w której domyślnie otwierane są strony internetowe">Zmiana domyślnej przeglądarki</a></span>, <span class="link"><a href="net-install-flash.html.pl-PL" title="Instalacja wtyczki Flash">instalacja wtyczki Flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -103,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

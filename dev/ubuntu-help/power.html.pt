@@ -78,10 +78,9 @@
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.pt" title="Verifique o estado da bateria"><span class="title">Verifique o estado da bateria</span><span class="linkdiv-dash"> — </span><span class="desc">Mostrar o estado da bateria e dos dispositivos conetados.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.pt" title="Desativar os dispositivos sem fios não usados"><span class="title">Desativar os dispositivos sem fios não usados</span><span class="linkdiv-dash"> — </span><span class="desc">Pode-se apagar o Bluetooth, a rede WiFi e a rede de banda larga para reduzir o consumo de bateria.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pt" title="Fechar a sessão, apagar ou mudar de utilizador"><span class="title">Fechar a sessão, apagar ou mudar de utilizador</span><span class="linkdiv-dash"> — </span><span class="desc">Aprender como sair da sua conta de utilizador, fechando a sessão, mudando de utilizador, etc.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.pt" title="How do I hibernate my computer?"><span class="title">How do I hibernate my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernate is disabled by default since it's not well supported.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.pt" title="Por que se apaga minha computador quando fecho a tampa?"><span class="title">Por que se apaga minha computador quando fecho a tampa?</span><span class="linkdiv-dash"> — </span><span class="desc">Os portáteis suspendem-se quando se fecha a tampa para poupar energia.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.pt" title="Por que se apaga minha computador quando fecho a tampa?"><span class="title">Por que se apaga minha computador quando fecho a tampa?</span><span class="linkdiv-dash"> — </span><span class="desc">Os portáteis suspendem-se quando se fecha a tampa para poupar energia.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.pt" title="Que ocorre quando suspendo a computador?"><span class="title">Que ocorre quando suspendo a computador?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspender põe o seu computador a dormir para que use menos energia.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.pt" title="Sacar o máximo partido à bateria de seu portátil"><span class="title">Sacar o máximo partido à bateria de seu portátil</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.pt" title="Utilizar menos energia e melhorar a vida da bateria"><span class="title">Utilizar menos energia e melhorar a vida da bateria</span><span class="linkdiv-dash"> — </span><span class="desc">Conselhos para reduzir o consumo de energia da sua computador.</span></a></div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

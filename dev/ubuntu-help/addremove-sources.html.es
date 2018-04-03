@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Pulse <span class="gui">Añadir</span> e introduzca la línea de APT del repositorio. Debería estar disponible en el sitio web del repositorio, y tener un aspecto similar a este:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Añadir origen</span> y cierre la ventana <span class="app">Software y actualizaciones</span>. Acto seguido, <span class="app">Ubuntu Software</span> comprobará sus orígenes de software en busca de actualizaciones nuevas.</p></li>
@@ -95,7 +95,7 @@
 <div id="canonical-partner" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Activar el repositorio de socios de Canonical</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">El repositorio de socios de Canonical ofrece algunas aplicaciones propietarias que no cuestan dinero pero son de código fuente cerrado. Se incluyen aplicaciones como <span class="app">Skype</span> y <span class="app">Adobe Flash Plugin</span>. Las aplicaciones de este repositorio aparecerán en los resultados de búsqueda de <span class="app">Ubuntu Software</span>, pero su instalación no se realizará hasta que este repositorio se habilite.</p>
+<p class="p">El repositorio de Socios de Canonical ofrece algunas aplicaciones propietarias que no cuestan dinero pero son de código cerrado. Incluyen software como <span class="app">Adobe Flash Plugin</span>. El software en este repositorio aparecerá en los resultados de búsqueda de <span class="app">Ubuntu Software</span>, pero no se podrá instalar hasta que este repositorio esté activado.</p>
 <p class="p">
       To enable the repository, follow the steps above to open the <span class="gui">Other 
       Software</span> tab in <span class="app">Software &amp; Updates</span>. If you see the 
@@ -104,7 +104,7 @@
       <span class="gui">Add</span> and enter:
     </p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
 <p class="p">Pulse en <span class="gui">Añadir origen</span> y cierre después la ventana <span class="app">Software y actualizaciones</span>. Espere un momento a que <span class="app">Ubuntu Software</span> para descargue la información del repositorio.</p>
 </div></div>
@@ -133,7 +133,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

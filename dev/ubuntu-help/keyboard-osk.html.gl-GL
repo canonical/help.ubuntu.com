@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use an on-screen keyboard</title>
+<title>Usar un teclado en pantalla</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -73,21 +73,18 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use an on-screen keyboard</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Usar un teclado en pantalla</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you do not have a keyboard attached to your computer or prefer not to
-  use it, you can turn on the <span class="em">on-screen keyboard</span> to enter text.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">The on-screen keyboard is automatically enabled if you use a
-    touchscreen</p></div></div></div></div>
+<p class="p">Se non ten un teclado conectado ao seu computador ou se prefire non usalo, pode activar o <span class="em">teclado en pantalla</span> para escribir texto.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">O teclado en pantalla actívase automaticamente se usa unha pantalla táctil.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Prema sobre <span class="gui">Acceso universal</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Switch on <span class="gui">Screen Keyboard</span> in the <span class="gui">Typing</span>
       section.</p></li>
 </ol></div></div></div>
-<p class="p">When you next have the opportunity to type, the on-screen keyboard will
-  open at the bottom of the screen.</p>
+<p class="p">A seguinte vez que poida escribir, o tecaldo en pantalla aparecerá na parte inferior da pantalla.</p>
 <p class="p">Press the <span class="gui">123</span> button to enter numbers and
   symbols. More symbols are available if you then press the
   <span class="gui">{#*</span> button. To return to the alphabet keyboard,
@@ -107,7 +104,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
 <li class="links ">
-<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
+<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar disposicións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -119,7 +116,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

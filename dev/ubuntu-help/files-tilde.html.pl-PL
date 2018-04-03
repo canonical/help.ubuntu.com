@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a file with a ~ at the end of its name?</title>
+<title>Czym są pliki ze znakiem ~ na końcu ich nazw?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,25 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#faq" title="Wskazówki i pytania">Wskazówki i pytania</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#faq" title="Wskazówki i pytania">Wskazówki i pytania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a file with a <span class="file">~</span> at the end of its name?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Czym są pliki ze znakiem <span class="file">~</span> na końcu ich nazw?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Files with a <span class="file">~</span> at the end of their names (for example,
-  <span class="file">example.txt~</span>) are automatically created backup copies of
-  documents edited in the <span class="app">gedit</span> text editor or other applications.
-  It is safe to delete them, but there is no harm to leave them on your
-  computer.</p>
-<p class="p">These files are hidden by default. If you are seeing them, that is because
-  you either selected <span class="gui">Show Hidden Files</span> (in the view options menu
-  
-  of the <span class="app">Files</span> toolbar) or pressed
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. You can hide them again by
-  repeating either of these steps.</p>
-<p class="p">These files are treated in the same way as normal hidden files. See
-  <span class="link"><a href="files-hidden.html.pl-PL" title="Ukrywanie pliku">Ukrywanie pliku</a></span> for advice on dealing with hidden files.</p>
+<p class="p">Pliki ze znakiem <span class="file">~</span> na końcu nazw (np. <span class="file">przykład.txt~</span>) są automatycznie tworzonymi kopiami zapasowymi dokumentów modyfikowanych w edytorze tekstu <span class="app">gedit</span> lub innych programach. Można je bezpiecznie usuwać, ale zostawienie ich na komputerze w niczym nie szkodzi.</p>
+<p class="p">Te pliki są domyślnie ukryte. Jeśli są widoczne, to zaznaczono opcję <span class="gui">Ukryte pliki</span> (w menu opcji widoku na pasku narzędziowym programu <span class="app">Pliki</span>) lub naciśnięto klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Można je ukryć z powrotem powtarzając jedno z powyższych działań.</p>
+<p class="p">Te pliki są traktowane w ten sam sposób, co zwykłe ukryte pliki. <span class="link"><a href="files-hidden.html.pl-PL" title="Ukrywanie pliku">Ukrywanie pliku</a></span> zawiera więcej informacji.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -94,8 +84,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html.pl-PL" title="Ukrywanie pliku">Ukrywanie pliku</a><span class="desc"> — Make a file invisible, so you cannot see it in the file
-    manager.</span>
+<a href="files-hidden.html.pl-PL" title="Ukrywanie pliku">Ukrywanie pliku</a><span class="desc"> — Ustawianie pliku jako niewidoczny w menedżerze plików.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -107,7 +96,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

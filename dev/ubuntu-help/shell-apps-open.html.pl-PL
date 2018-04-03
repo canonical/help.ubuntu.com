@@ -64,58 +64,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uruchamianie programów</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Move your mouse pointer to the
-  <span class="gui">Activities</span> corner at the top left of the screen to show the
-  <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span> overview. This is where you
-  can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> key.</p>
-<p class="p">There are several ways of opening an application once you’re in the
-  <span class="gui">Activities</span> overview:</p>
+<p class="p">Przesuń kursor myszy do przycisku <span class="gui">Podgląd</span> w górnym lewym rogu ekranu, aby wyświetlić <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span>. W tym miejscu można znaleźć wszystkie programy użytkownika. Można otworzyć ekran podglądu także naciskając klawisz <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>.</p>
+<p class="p">Po otwarciu <span class="gui">ekranu podglądu</span> dostępnych jest kilka sposobów otwierania programu:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Start typing the name of an application — searching begins instantly.
-      (If this doesn’t happen, click the search bar at the top of the screen
-      and start typing.) If you don’t know the exact name of an application, try
-      to type an related term. Click the application’s icon to start it.</p></li>
+<li class="list"><p class="p">Zacznij pisać nazwę programu — wyszukiwanie zostanie od razu rozpoczęte. Jeśli tak się nie zdarzy, to kliknij pasek wyszukiwania na górze ekranu i zacznij pisać. Jeśli nie znasz dokładnej nazwy programu, to zacznij pisać powiązane z nim słowo. Kliknij ikonę programu, aby go uruchomić.</p></li>
 <li class="list">
-<p class="p">Some applications have icons in the <span class="em">dash</span>, the vertical strip
-      of icons on the left-hand side of the <span class="gui">Activities</span> overview.
-      Click one of these to start the corresponding application.</p>
-<p class="p">If you have applications that you use very frequently, you can
-      <span class="link"><a href="shell-apps-favorites.html.pl-PL" title="Przypinanie ulubionych programów do paska bocznego">add them to the dash</a></span>
-      yourself.</p>
+<p class="p">Niektóre programy mają ikony na <span class="em">pasku ulubionych</span>, pionowym pasku ikon po lewej stronie <span class="gui">ekranu podglądu</span>. Kliknij jedną z nich, aby uruchomić dany program.</p>
+<p class="p">Jeśli jakieś programy są bardzo często używane, to można samodzielnie <span class="link"><a href="shell-apps-favorites.html.pl-PL" title="Przypinanie ulubionych programów do paska bocznego">dodać je do paska ulubionych</a></span>.</p>
 </li>
-<li class="list"><p class="p">Click the grid button at the bottom of the dash. You will see the
-      frequently used applications if the <span class="gui">Frequent</span>
-      view is enabled. If you want to run a new application, press the
-      <span class="gui">All</span> button at the bottom to view all the
-      applications. Press on the application to start it.</p></li>
+<li class="list"><p class="p">Kliknij ostatni przycisk na pasku ulubionych. Zostaną wyświetlone często używane programy, jeśli włączono widok <span class="gui">Często używane</span>. Aby uruchomić nowy program, kliknij przycisk <span class="gui">Wszystkie</span> na dole, aby wyświetlić wszystkie programy. Kliknij program, aby go uruchomić.</p></li>
 <li class="list">
-<p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html.pl-PL" title="What is a workspace, and how will it help me?">workspace</a></span> by dragging its icon from
-      the dash, and dropping it onto one of the workspaces on the right-hand
-      side of the screen. The application will open in the chosen
-      workspace.</p>
-<p class="p">You can launch an application in a <span class="em">new</span> workspace by dragging
-      its icon to the empty workspace at the bottom of the workspace
-      switcher, or to the small gap between two workspaces.</p>
+<p class="p">Można uruchomić program na oddzielnym <span class="link"><a href="shell-workspaces.html.pl-PL" title="Czym są obszary robocze i do czego mogę je używać?">obszarze roboczym</a></span> przeciągając jego ikonę z paska ulubionych na jeden z obszarów roboczych po prawej stronie ekranu. Program zostanie otwarty na wybranym obszarze.</p>
+<p class="p">Można uruchomić program na <span class="em">nowym</span> obszarze roboczym przeciągając jego ikonę na pusty obszar na dole przełącznika obszarów roboczych lub mały odstęp między dwoma obszarami.</p>
 </li>
 </ul></div></div></div>
 <div class="note note-tip" title="Wskazówka"><div class="inner">
-<div class="title title-note"><h2><span class="title">Szybkie wykonywanie polecenia</span></h2></div>
+<div class="title title-note"><h2><span class="title">Szybkie uruchamianie polecenia</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Another way of launching an application is to press
-    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, enter its
-    <span class="em">command name</span>, and then press the <span class="key"><kbd>Enter</kbd></span> key.</p>
-<p class="p">For example, to launch <span class="app">Rhythmbox</span>, press
-    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-    ‘<span class="cmd">rhythmbox</span>’ (without the single-quotes). The name of the app is
-    the command to launch the program.</p>
+<p class="p">Innym sposobem uruchomienia programu jest naciśnięcie klawiszy <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, wpisanie jego <span class="em">polecenia</span>, a następnie naciśnięcie klawisz <span class="key"><kbd>Enter</kbd></span>.</p>
+<p class="p">Na przykład, aby uruchomić program <span class="app">Rhythmbox</span>, naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> i wpisz „<span class="cmd">rhythmbox</span>” (bez cudzysłowów). Nazwa programu to polecenie do jego uruchomienia.</p>
 </div></div>
 </div></div>
 </div>
@@ -125,17 +98,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
+<li class="links "><a href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu">Podręcznik pulpitu Ubuntu</a></li>
 <li class="links ">
 <a href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit użytkownika</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.pl-PL" title="Spotkania w kalendarzu">Kalendarz</a></span>, <span class="link"><a href="shell-notifications.html.pl-PL" title="Powiadomienia i obszar powiadamiania">powiadomienia</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.pl-PL" title="Przydatne skróty klawiszowe">skróty klawiszowe</a></span>, <span class="link"><a href="shell-windows.html.pl-PL" title="Okna i obszary robocze">okna i obszary robocze</a></span>…</span>
 </li>
-<li class="links "><a href="index.html.pl-PL" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-apps-favorites.html.pl-PL" title="Przypinanie ulubionych programów do paska bocznego">Przypinanie ulubionych programów do paska bocznego</a><span class="desc"> — Add (or remove) frequently-used program icons on the dash.</span>
+<a href="shell-apps-favorites.html.pl-PL" title="Przypinanie ulubionych programów do paska bocznego">Przypinanie ulubionych programów do paska bocznego</a><span class="desc"> — Dodawanie (i usuwanie) często używanych programów na pasku ulubionych.</span>
 </li>
 <li class="links "><a href="gs-launch-applications.html.pl-PL" title="Uruchamianie programów">Samouczek uruchamiania programów</a></li>
 <li class="links "><a href="gs-use-system-search.html.pl-PL" title="Używanie wyszukiwania systemowego">Samouczek używania wyszukiwania systemowego</a></li>
@@ -150,7 +123,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

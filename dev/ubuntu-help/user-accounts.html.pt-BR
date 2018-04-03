@@ -91,13 +91,13 @@
 </div></div></div></div></div>
 </div></div>
 <div id="privileges" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Privilégios de usuário</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Privilégios de usuário</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.pt-BR" title="Alterando quem tem privilégios administrativos"><span class="title">Alterando quem tem privilégios administrativos</span><span class="linkdiv-dash"> — </span><span class="desc">Você pode permitir que usuários façam alterações no sistema, dando-lhes privilégios administrativos.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.pt-BR" title="Como funcionam os privilégios administrativos?"><span class="title">Como funcionam os privilégios administrativos?</span><span class="linkdiv-dash"> — </span><span class="desc">Você precisa de privilégios administrativos para alterar partes importantes do seu sistema.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.pt-BR" title="Problemas causados por restrições administrativas"><span class="title">Problemas causados por restrições administrativas</span><span class="linkdiv-dash"> — </span><span class="desc">Você só pode fazer algumas coisas, como instalar aplicativos, apenas se tiver privilégios administrativos.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.pt-BR" title="Problemas causados por restrições administrativas"><span class="title">Problemas causados por restrições administrativas</span><span class="linkdiv-dash"> — </span><span class="desc">Você só pode fazer algumas coisas, como instalar aplicativos, apenas se tiver privilégios administrativos.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -116,7 +116,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

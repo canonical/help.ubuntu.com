@@ -75,7 +75,7 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Flyt din musemarkør til hjørnet med <span class="gui">Aktiviteter</span>, øverst til venstre på skærmen, for at vise <span class="gui">Aktivitetsoversigten</span>.</p></li>
+<li class="steps"><p class="p">Flyt din musemarkør til hjørnet med <span class="gui">Aktiviteter</span>, øverst til venstre på skærmen for at vise <span class="gui">Aktivitetsoversigten</span>.</p></li>
 <li class="steps"><p class="p">Vælg browserikonet <span class="app">Firefox</span> fra linjen på venstre side af skærmen.</p></li>
 </ol></div></div></div>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan også starte browseren ved <span class="link"><a href="gs-use-system-search.html.da" title="Brug systemsøgningen">blot at skrive</a></span> <span class="em">Firefox</span> i <span class="gui">Aktivitetsoversigten</span>.</p></div></div></div></div>
@@ -87,7 +87,7 @@
 <p class="p">Hvis webstedet findes i historikken eller bogmærkerne, vises en rullegardinsliste under adresselinjen.</p>
 </li>
 <li class="steps"><p class="p">Du kan hurtigt vælge et websted fra rullegardinslisten ved at bruge piletasterne.</p></li>
-<li class="steps"><p class="p">Tryk på <span class="key"><kbd>Enter</kbd></span> efter du har valgt webstedet, for at besøge det.</p></li>
+<li class="steps"><p class="p">Tryk på <span class="key"><kbd>Enter</kbd></span> efter du har valgt webstedet for at besøge det.</p></li>
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
@@ -120,7 +120,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

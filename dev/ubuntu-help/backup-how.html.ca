@@ -72,15 +72,11 @@
 <div class="contents">
 <p class="p">La manera més senzilla de fer les còpies de seguretat dels fitxers i paràmetres de configuració és deixar que una aplicació de còpies de seguretat se'n faci càrrec. Hi ha nombroses aplicacions d'aquest tipus, com per exemple el <span class="app">Déjà Dup</span>.</p>
 <p class="p">L'ajuda de l'aplicació de còpies de seguretat que hàgiu escollit us indicarà com configurar l'aplicació per fer les còpies, i què haureu de fer per recuperar la informació que teniu copiada.</p>
-<p class="p">Una altra opció és simplement <span class="link"><a href="files-copy.html.ca" title="Copy or move files and folders">copiar els fitxers</a></span> a una ubicació segura, com per exemple un disc dur extern, un altre ordinador de la xarxa, o un llapis USB. Els vostres <span class="link"><a href="backup-thinkabout.html.ca" title="On puc trobar els fitxers que vull desar en una còpia de seguretat?">fitxers personals</a></span> i paràmetres de configuració solen estar al directori personal i, per tant, els podeu copiar d'allà.</p>
+<p class="p">Una altra opció és simplement <span class="link"><a href="files-copy.html.ca" title="Copieu o moveu arxius i carpetes.">copiar els fitxers</a></span> a una ubicació segura, com per exemple un disc dur extern, un altre ordinador de la xarxa, o un llapis USB. Els vostres <span class="link"><a href="backup-thinkabout.html.ca" title="On puc trobar els fitxers que vull desar en una còpia de seguretat?">fitxers personals</a></span> i paràmetres de configuració solen estar al directori personal i, per tant, els podeu copiar d'allà.</p>
 <p class="p">La quantitat d'informació de la que podeu fer una còpia de seguretat depèn de la mida del dispositiu d'emmagatzemament que utilitzeu. Si disposeu de prou espai al dispositiu on realitzareu la còpia, el millor que podeu fer és copiar tot el directori personal, amb les següents excepcions:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Files that are already backed up somewhere else, such as to a CD, DVD,
- or other removable media.</p></li>
-<li class="list"><p class="p">Files that you can recreate easily. For example, if you are a
- programmer, you do not have to back up the files that get produced when you
- compile your programs. Instead, just make sure that you back up the original
- source files.</p></li>
+<li class="list"><p class="p">Arxius que ja s'han copiat en un altre lloc, com ara un CD, DVD o altres suports extraïbles.</p></li>
+<li class="list"><p class="p">Arxius que podeu recrear fàcilment. Per exemple, si sou programador, no heu de fer una còpia de seguretat dels fitxers que es produeixen quan compileu els vostres programes. En lloc d'això, assegureu-vos que feu una còpia de seguretat dels fitxers font originals.</p></li>
 <li class="list"><p class="p">Qualsevol fitxer de la paperera. Trobareu el directori de la Paperera a <span class="cmd">~/.local/share/Trash</span>.</p></li>
 </ul></div></div></div>
 </div>
@@ -100,7 +96,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

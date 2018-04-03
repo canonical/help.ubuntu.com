@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dźwięk, filmy i zdjęcia</span></h1></div>
@@ -75,18 +75,13 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem"><span class="title">Problemy z dźwiękiem</span><span class="linkdiv-dash"> — </span><span class="desc">Troubleshoot problems like having no sound or having poor sound
-    quality.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.pl-PL" title="Choose or disable the alert sound"><span class="title">Choose or disable the alert sound</span><span class="linkdiv-dash"> — </span><span class="desc">Choose the sound to play for messages, set the alert volume, or
-    disable alert sounds.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.pl-PL" title="Używanie innego mikrofonu"><span class="title">Używanie innego mikrofonu</span><span class="linkdiv-dash"> — </span><span class="desc">Use an analog or USB microphone and select a default input
-    device.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem"><span class="title">Problemy z dźwiękiem</span><span class="linkdiv-dash"> — </span><span class="desc">Rozwiązywanie problemów, takich jak brak dźwięku lub jego słaba jakość.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.pl-PL" title="Używanie innego mikrofonu"><span class="title">Używanie innego mikrofonu</span><span class="linkdiv-dash"> — </span><span class="desc">Używanie mikrofonu analogowego lub USB i wybór domyślnego urządzenia wejściowego.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.pl-PL" title="Używanie innych głośników lub słuchawek"><span class="title">Używanie innych głośników lub słuchawek</span><span class="linkdiv-dash"> — </span><span class="desc">Podłączanie głośników lub słuchawek i wybór domyślnego urządzenia wyjścia dźwięku.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.pl-PL" title="Używanie innych głośników lub słuchawek"><span class="title">Używanie innych głośników lub słuchawek</span><span class="linkdiv-dash"> — </span><span class="desc">Connect speakers or headphones and select a default audio output
-    device.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.pl-PL" title="Zmiana głośności dźwięku"><span class="title">Zmiana głośności dźwięku</span><span class="linkdiv-dash"> — </span><span class="desc">Set the sound volume for the computer and control the
-    loudness of each application.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.pl-PL" title="Wybieranie lub wyłączanie dźwięków alarmów"><span class="title">Wybieranie lub wyłączanie dźwięków alarmów</span><span class="linkdiv-dash"> — </span><span class="desc">Wybór dźwięku odtwarzanego dla komunikatów, ustawianie jego głośności lub wyłączanie go.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.pl-PL" title="Zmiana głośności dźwięku"><span class="title">Zmiana głośności dźwięku</span><span class="linkdiv-dash"> — </span><span class="desc">Ustawianie głośności dźwięku komputera i sterowanie głośnością każdego programu.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -104,37 +99,33 @@
 <div class="hgroup"><h2 class="title"><span class="title">Muzyka i przenośne odtwarzacze</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.pl-PL" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.pl-PL" title="Mój nowy iPod nie działa"><span class="title">Mój nowy iPod nie działa</span><span class="linkdiv-dash"> — </span><span class="desc">Brand-new iPods need to be set-up using the iTunes software before you can use them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.pl-PL" title="Mój nowy iPod nie działa"><span class="title">Mój nowy iPod nie działa</span><span class="linkdiv-dash"> — </span><span class="desc">Nowe iPody muszą zostać przygotowane za pomocą oprogramowania iTunes, zanim można ich używać.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.pl-PL" title="Nie mogę odtwarzać utworów kupionych w sklepie internetowym"><span class="title">Nie mogę odtwarzać utworów kupionych w sklepie internetowym</span><span class="linkdiv-dash"> — </span><span class="desc">Obsługa tego formatu pliku może nie być zainstalowana lub utwory mogą mieć ochronę przed kopiowaniem.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pl-PL" title="Open applications for devices or discs"><span class="title">Open applications for devices or discs</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically run applications for CDs and DVDs, cameras,
-    audio players, and other devices and media.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.pl-PL" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Use a media player to copy the songs and safely remove the iPod afterward.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pl-PL" title="Otwieranie programów dla urządzeń i płyt"><span class="title">Otwieranie programów dla urządzeń i płyt</span><span class="linkdiv-dash"> — </span><span class="desc">Automatyczne uruchamianie programów dla płyt CD/DVD, aparatów, odtwarzaczy muzyki i innych urządzeń i nośników.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.pl-PL" title="Utwory nie pojawiają się na iPodzie po skopiowaniu"><span class="title">Utwory nie pojawiają się na iPodzie po skopiowaniu</span><span class="linkdiv-dash"> — </span><span class="desc">Używanie odtwarzacza multimediów do kopiowania utworów i bezpieczne odłączanie iPoda.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="photos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zdjęcia i aparaty</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.pl-PL" title="Media card reader problems"><span class="title">Media card reader problems</span><span class="linkdiv-dash"> — </span><span class="desc">Troubleshoot media card readers</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pl-PL" title="Open applications for devices or discs"><span class="title">Open applications for devices or discs</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically run applications for CDs and DVDs, cameras,
-    audio players, and other devices and media.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pl-PL" title="Otwieranie programów dla urządzeń i płyt"><span class="title">Otwieranie programów dla urządzeń i płyt</span><span class="linkdiv-dash"> — </span><span class="desc">Automatyczne uruchamianie programów dla płyt CD/DVD, aparatów, odtwarzaczy muzyki i innych urządzeń i nośników.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.pl-PL" title="Problemy z czytnikami kart"><span class="title">Problemy z czytnikami kart</span><span class="linkdiv-dash"> — </span><span class="desc">Rozwiązywanie problemów z czytnikami kart</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="videos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Filmy i kamery</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pl-PL" title="Open applications for devices or discs"><span class="title">Open applications for devices or discs</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically run applications for CDs and DVDs, cameras,
-    audio players, and other devices and media.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html.pl-PL" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Check that they have the right video codecs installed.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.pl-PL" title="Tworzenie śmiesznych zdjęć i filmów za pomocą kamery internetowej"><span class="title">Tworzenie śmiesznych zdjęć i filmów za pomocą kamery internetowej</span><span class="linkdiv-dash"> — </span><span class="desc">To jest jak Twój osobisty album fotografii.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.pl-PL" title="Dlaczego nie mogę odtwarzać płyt DVD?"><span class="title">Dlaczego nie mogę odtwarzać płyt DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">Właściwe kodeki nie są zainstalowane lub płyta DVD może mieć błędny region.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.pl-PL" title="Inni nie mogą odtwarzać filmów zrobionych na komputerze"><span class="title">Inni nie mogą odtwarzać filmów zrobionych na komputerze</span><span class="linkdiv-dash"> — </span><span class="desc">Sprawdź, czy mają zainstalowane właściwe kodeki wideo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pl-PL" title="Otwieranie programów dla urządzeń i płyt"><span class="title">Otwieranie programów dla urządzeń i płyt</span><span class="linkdiv-dash"> — </span><span class="desc">Automatyczne uruchamianie programów dla płyt CD/DVD, aparatów, odtwarzaczy muzyki i innych urządzeń i nośników.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.pl-PL" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">You might not have the right codecs installed, or the DVD might be
-    the wrong region.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.pl-PL" title="How do I enable restricted codecs to play DVDs?"><span class="title">How do I enable restricted codecs to play DVDs?</span><span class="linkdiv-dash"> — </span><span class="desc">Most commercial DVDs are encrypted and will not play without decryption software.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.pl-PL" title="Robienie zabawnych zdjęć i filmów za pomocą kamery internetowej"><span class="title">Robienie zabawnych zdjęć i filmów za pomocą kamery internetowej</span><span class="linkdiv-dash"> — </span><span class="desc">Własny fotoautomat!</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.pl-PL" title="Jak włączyć kodeki do odtwarzania płyt DVD?"><span class="title">Jak włączyć kodeki do odtwarzania płyt DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">Większość komercyjnych płyt DVD jest zaszyfrowana i nie może być odtwarzana bez oprogramowania do odszyfrowywania.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -142,7 +133,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html.pl-PL" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu">Podręcznik pulpitu Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -152,7 +143,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

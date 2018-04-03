@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.he" title="צעדים ראשונים">צעדים ראשונים ב־GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.he" title="צעדים ראשונים">צעדים ראשונים ב־GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -75,7 +75,10 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">פתחו את <span class="gui">סקירת הפעילויות</span> באמצעות לחיצה על מקש ה־<span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. התחילו להקליד על מנת לחפש.</p>
+<p class="p">Open the <span class="gui">Activities</span> overview by clicking <span class="gui">Activities</span> 
+    at the top left of the screen, or by pressing the
+    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key. 
+    Start typing to search.</p>
 <p class="p">תוצאות מתאימות למה שהקלדתם תופענה בעודכם מקלידים. התוצאה הראשונה תמיד תודגש ותופיע בחלק העליון.</p>
 <p class="p">לחצו <span class="key"><kbd>Enter</kbd></span> על מנת לעבור לתוצאה המודגשת.</p>
 </li></ol></div></div></div>
@@ -86,8 +89,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">יישומים מתאימים, מוצגים בחלק העליון של תוצאות החיפוש</p></li>
 <li class="list"><p class="p">הגדרות מתאימות</p></li>
-<li class="list"><p class="p">אנשי קשר מתאימים</p></li>
-<li class="list"><p class="p">מסמכים מתאימים</p></li>
+<li class="list"><p class="p">matching contacts,</p></li>
+<li class="list"><p class="p">matching documents,</p></li>
+<li class="list"><p class="p">matching calendar,</p></li>
+<li class="list"><p class="p">matching calculator,</p></li>
+<li class="list"><p class="p">matching software,</p></li>
+<li class="list"><p class="p">matching files,</p></li>
+<li class="list"><p class="p">matching terminal,</p></li>
+<li class="list"><p class="p">matching passwords and keys.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +119,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">לחצו על <span class="gui"><a href="shell-introduction.html.he#yourname" title="You and your computer">תפריט המערכת</a></span> בצדו השמאלי של הלוח העליון.</p></li>
 <li class="steps"><p class="p">לחצו על לחצן ההגדרות בחלקו הימני התחתון של התפריט.</p></li>
-<li class="steps"><p class="p">לחצו על הלוח <span class="gui">חיפוש</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Search</span> in the left panel.</p></li>
 <li class="steps"><p class="p">ברשימת המקומות לחיפוש, לחצו על המתג <span class="gui">גע/תק</span> הסמוך למקום שברצונכם לאפשר או לבטל את החיפוש בו.</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

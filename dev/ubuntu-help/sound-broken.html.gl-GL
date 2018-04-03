@@ -77,7 +77,7 @@
 <p class="p">Hai unha serie de formas nas que a reprodución de son no seu equipo pode estragarse. Cal dos seguintes temas describe mellor o problema que ten?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="sound-crackle.html.gl-GL" title="Escoito tics e zumbidos cando se reproduce son."><span class="title">Escoito tics e zumbidos cando se reproduce son.</span><span class="linkdiv-dash"> — </span><span class="desc">Comprobe os cabos de son e os controladores da tarxeta de son.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html.gl-GL" title="I cannot hear any sounds on the computer"><span class="title">I cannot hear any sounds on the computer</span><span class="linkdiv-dash"> — </span><span class="desc">Check that the sound is not muted, that cables are plugged in properly,
+<div class="linkdiv "><a class="linkdiv" href="sound-nosound.html.gl-GL" title="Non podo escoitar ningún son do computador"><span class="title">Non podo escoitar ningún son do computador</span><span class="linkdiv-dash"> — </span><span class="desc">Check that the sound is not muted, that cables are plugged in properly,
     and that the sound card is detected.</span></a></div>
 </div></div></div>
 </div>
@@ -100,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

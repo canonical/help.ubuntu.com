@@ -75,7 +75,10 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Abra o <span class="gui">Panorama de atividades</span> premindo a tecla <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Comece a digitar para procurar.</p>
+<p class="p">Open the <span class="gui">Activities</span> overview by clicking <span class="gui">Activities</span> 
+    at the top left of the screen, or by pressing the
+    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key. 
+    Start typing to search.</p>
 <p class="p">A medida que escreve, resultados que coincidem com o que digitou aparecerão. O primeiro resultado é sempre realçado e mostrado em cima.</p>
 <p class="p">Prima <span class="key"><kbd>Enter</kbd></span> para alternar para o primeiro resultado realçado.</p>
 </li></ol></div></div></div>
@@ -86,8 +89,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">aplicações correspondentes, mostradas no topo dos resultados de procura,</p></li>
 <li class="list"><p class="p">definições correspondentes,</p></li>
-<li class="list"><p class="p">contactos correspondentes, e</p></li>
-<li class="list"><p class="p">documentos correspondentes.</p></li>
+<li class="list"><p class="p">matching contacts,</p></li>
+<li class="list"><p class="p">matching documents,</p></li>
+<li class="list"><p class="p">matching calendar,</p></li>
+<li class="list"><p class="p">matching calculator,</p></li>
+<li class="list"><p class="p">matching software,</p></li>
+<li class="list"><p class="p">matching files,</p></li>
+<li class="list"><p class="p">matching terminal,</p></li>
+<li class="list"><p class="p">matching passwords and keys.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +119,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Carregue no <span class="gui"><a href="shell-introduction.html.pt#yourname" title="Você e o seu computador">menu de sistema</a></span> no lado direito da barra superior.</p></li>
 <li class="steps"><p class="p">Carregue no botão de definições na parte inferior do menu.</p></li>
-<li class="steps"><p class="p">Carregue no painel <span class="gui">Procura</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Search</span> in the left panel.</p></li>
 <li class="steps"><p class="p">Na lista de localizações de procura, clique no interruptor <span class="gui">LIG/DES</span> próximo da localização de procura que deseja ativar ou desativar.</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

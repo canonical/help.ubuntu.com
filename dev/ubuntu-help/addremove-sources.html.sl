@@ -94,7 +94,7 @@
 <li class="steps">
 <p class="p">Kliknite <span class="gui">Dodaj</span> in vnesite vrstico APT za skladišče. Ta bi morala biti na voljo na spletišču odložišča in bi morala biti videti podobno:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Kliknite <span class="gui">Dodaj vir</span> in nato zaprite okno <span class="app">Programi in posodobitve</span>. <span class="app">Programi Ubuntu</span> bo preveril vaše programske vire za posodobitve.</p></li>
@@ -104,10 +104,16 @@
 <div id="canonical-partner" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Omogočitev skladišča partnerjev Canonicala</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Skladišče Canonical Partner ponuja nekaj lastniških programov, ki nič ne stanejo ampak imajo zaprto kodo. To vključuje programe kot so <span class="app">Skype</span> in <span class="app">Adobe Flash Plugin</span>. Programi v tem skladišču bodo prikazani kot rezultati iskanj v <span class="app">Programi Ubuntu</span> ampak jih ni mogoče namestite dokler to skladišče ni omogočeno.</p>
+<p class="p">
+      The Canonical Partner repository offers some proprietary applications 
+      that don't cost any money to use but are closed source. They include 
+      software like <span class="app">Adobe Flash Plugin</span>. Software in this
+      repository will appear in <span class="app">Ubuntu Software</span> search results
+      but won't be installable until this repository is enabled.
+    </p>
 <p class="p">Za omogočitev skladišča sledite korakom zgoraj za odprtje zavihka <span class="gui">Drugi programi</span> v <span class="app">Programi in posodobitve</span>. V primeru da na seznamu vidite <span class="gui">Partnerje Canonicala</span>, se prepričajte da je označeno, nato zaprite okno <span class="app">Programi in posodobitve</span>. Če pa tega ni na seznamu, kliknite na <span class="gui">Dodaj</span> in vnesite:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
 <p class="p">Kliknite <span class="gui">Dodaj vir</span> in nato zaprite okno <span class="app">Programi in posodobitve</span>. Počakajte trenutek, da <span class="app">Programi Ubuntu</span> prejme podatke o skladiščih.</p>
 </div></div>
@@ -143,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

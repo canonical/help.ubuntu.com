@@ -158,11 +158,10 @@
 <a href="keyboard-nav.html.gl-GL" title="Disposicións de teclado">Disposicións de teclado</a><span class="desc"> — Usar os aplicativos e escritorio sen un rato.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html.gl-GL" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Facer que o teclado non repita as letras cando se manteña unha tecla premida, ou cambiar o retardo e a velocidade de repetición das teclas.</span>
+<a href="keyboard-osk.html.gl-GL" title="Usar un teclado en pantalla">Usar un teclado en pantalla</a><span class="desc"> — Usar un teclado en pantalla para introducir texto premendo botóns co rato ou unha pantalla táctil.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html.gl-GL" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
-    mouse or a touchscreen.</span>
+<a href="keyboard-repeat-keys.html.gl-GL" title="Xestionar a pulsación de teclas repetidas">Xestionar a pulsación de teclas repetidas</a><span class="desc"> — Facer que o teclado non repita as letras cando se manteña unha tecla premida, ou cambiar o retardo e a velocidade de repetición das teclas.</span>
 </li>
 </ul></div>
 </div></div>
@@ -192,7 +191,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

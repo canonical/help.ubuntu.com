@@ -64,28 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Czy potrzebuję oprogramowania antywirusowego?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you are used to Windows or Mac OS, you are probably also used to having
-  anti-virus software running all of the time. Anti-virus software runs in the
-  background, constantly checking for computer viruses that might find their
-  way onto your computer and cause problems.</p>
-<p class="p">Anti-virus software does exist for Linux, but you probably don’t need to
-  use it. Viruses that affect Linux are still very rare. Some argue that this
-  is because Linux is not as widely used as other operating systems, so no one
-  writes viruses for it. Others argue that Linux is intrinsically more secure,
-  and security problems that viruses could make use of are fixed very
-  quickly.</p>
-<p class="p">Whatever the reason, Linux viruses are so rare that you don’t really need
-  to worry about them at the moment.</p>
-<p class="p">If you want to be extra-safe, or if you want to check for viruses in files
-  that you are passing between yourself and people using Windows and Mac OS,
-  you can still install anti-virus software. Check in the software installer or
-  search online; a number of applications are available.</p>
+<p class="p">Użytkownicy przyzwyczajeni do systemów Windows i macOS są także przyzwyczajeni do oprogramowania antywirusowego działającego cały czas. Działa ono w tle, stale wyszukując wirusów komputerowych, które mogły znaleźć się na komputerze i powodować problemy.</p>
+<p class="p">Istnieje oprogramowanie antywirusowe dla systemu Linux, ale zazwyczaj nie ma potrzeby jego używania. Wirusy skierowane na system Linux są nadal bardzo rzadkie. Niektórzy twierdzą, że jest to spowodowane względnie małą popularnością systemu Linux, więc nikt nie pisze na niego wirusów. Inni twierdzą, że Linux jest sam z siebie bardziej bezpieczny, a problemy z zabezpieczeniami, które mogłyby zostać wykorzystane przez wirusy są bardzo szybko naprawiane.</p>
+<p class="p">Niezależnie od przyczyny, wirusy dla systemu Linux są tak rzadkie, że nie trzeba się ich obawiać.</p>
+<p class="p">Nadal można zainstalować oprogramowanie antywirusowe, na przykład aby wyszukiwać wirusy w plikach przekazywanych do i od użytkowników systemów Windows i macOS. W instalatorze programów i Internecie dostępnych jest wiele programów antywirusowych.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -93,18 +81,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Enable or block firewall access">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">firewall ports</a></span>…
-    </span>
+<a href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Oprogramowanie antywirusowe</a></span>, <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Włączanie i blokowanie zapory sieciowej">podstawy zapory sieciowej</a></span>, <span class="link"><a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">porty zapory sieciowej</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email-virus.html.pl-PL" title="Do I need to scan my emails for viruses?">Do I need to scan my emails for viruses?</a><span class="desc"> — Viruses are unlikely to infect your computer, but could infect the
-    computers of people you email.</span>
+<a href="net-email-virus.html.pl-PL" title="Czy muszę skanować moje wiadomości e-mail pod kątem wirusów?">Czy muszę skanować moje wiadomości e-mail pod kątem wirusów?</a><span class="desc"> — Wirusy raczej nie zarażą tego komputera, ale mogą zarazić komputery odbiorców wiadomości.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -116,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Recover a file from the Trash</title>
+<title>Recupera un fitxer de la Paperera</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,33 +67,21 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Recover a file from the Trash</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Recupera un fitxer de la Paperera</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you delete a file with the file manager, the file is normally placed
-  into the <span class="gui">Trash</span>, and should be able to be restored.</p>
+<p class="p">Si suprimiu un fitxer amb el gestor de fitxers, el fitxer normalment es col·loca a la <span class="gui">Paperera</span>, i s'hauria de poder restaurar.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To restore a file from the Trash:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Per restaurar un fitxer de la paperera:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="app">Files</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="app">Files</span> to open the file manager.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
-      click <span class="gui">Files</span> in the top bar and pick <span class="gui">Sidebar</span>.</p></li>
-<li class="steps"><p class="p">If your deleted file is there, click on it and select
-      <span class="gui">Restore</span>. It will be restored to the folder from where it was
-      deleted.</p></li>
+<li class="steps"><p class="p">Obriu la vista general <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span>i comenceu a escriure <span class="app">Fitxers</span>.</p></li>
+<li class="steps"><p class="p">feu clic a <span class="app">Ftxers</span> per obrir el gestor de fitxers.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Paperera</span> a la barra lateral. Si no veieu la barra lateral feu clic a <span class="gui">Ftxers</span> a la barra superior i trieu <span class="gui">Barra lateral</span>.</p></li>
+<li class="steps"><p class="p">Si el fitxer esborrat hi és, feu clic i seleccioneu<span class="gui">Restaurar</span>. Es restaurarà a la carpeta des d'on s'hagi esborrat.</p></li>
 </ol></div>
 </div></div>
-<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
-  </kbd></span></span>, or by using the command line, the file has been permanently
-  deleted. Files that have been permanently deleted can’t be recovered from the
-  <span class="gui">Trash</span>.</p>
-<p class="p">There are a number of recovery tools available that are sometimes able to
-  recover files that were permanently deleted. These tools are generally not
-  very easy to use, however. If you accidentally permanently deleted a file,
-  it’s probably best to ask for advice on a support forum to see if you can
-  recover it.</p>
+<p class="p">Si heu suprimit el fitxer prement <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete </kbd></span></span>, o usant la línia d'ordres, el fitxer s'haurà eliminat definitivament. Els fitxers que s'han eliminat definitivament no es poden recuperar de la  <span class="gui">Paperera</span>.</p>
+<p class="p">Hi ha diverses eines de recuperació disponibles que de vegades són capaces de recuperar fitxers que s'han eliminat de manera permanent. Normalment, aquestes eines no són massa fàcils d'utilitzar. Si heu suprimit un fitxer per error de forma definitiva, és probable que el millor sigui demanar consell en un fòrum de suport per veure si podeu recuperar-lo</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -106,11 +94,10 @@
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-delete.html.ca" title="Delete files and folders">Delete files and folders</a><span class="desc"> — Remove files or folders you no longer need.</span>
+<a href="files-delete.html.ca" title="Eliminar fitxers i carpetes.">Eliminar fitxers i carpetes.</a><span class="desc"> — Eliminar els arxius o carpetes que ja no necessitareu.</span>
 </li>
 <li class="links ">
-<a href="files-lost.html.ca" title="Find a lost file">Find a lost file</a><span class="desc"> — Follow these tips if you can’t find a file you created or
-    downloaded.</span>
+<a href="files-lost.html.ca" title="Trobar un fitxer perdut">Trobar un fitxer perdut</a><span class="desc"> — Seguiu aquests consells si no podeu trobar un fitxer que hagueu creat o baixat.</span>
 </li>
 </ul></div>
 </div></div>
@@ -123,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

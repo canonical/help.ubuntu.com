@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Ubuntu Desktop Guide</title>
+<title>Podręcznik pulpitu Ubuntu</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,15 +65,13 @@
 </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Logo systemu Ubuntu"></span></span> Podręcznik pulpitu Ubuntu</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.pl-PL" title="Wprowadzenie do środowiska"><span class="title">Wprowadzenie do środowiska GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Nowy użytkownik środowiska GNOME? Dowiedz się, jak go używać.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.pl-PL" title="Uruchamianie programów"><span class="title">Uruchamianie programów</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pl-PL" title="Wprowadzenie do GNOME"><span class="title">Wprowadzenie do GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
-    <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pl-PL" title="Wylogowywanie, wyłączanie komputera i przełączanie użytkowników"><span class="title">Wylogowywanie, wyłączanie komputera i przełączanie użytkowników</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
-    users, and so on.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.pl-PL" title="Uruchamianie programów"><span class="title">Uruchamianie programów</span><span class="linkdiv-dash"> — </span><span class="desc">Uruchamianie programów z <span class="gui">ekranu podglądu</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pl-PL" title="Wprowadzenie do GNOME"><span class="title">Wprowadzenie do GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Wizualne wprowadzenie do pulpitu, górnego paska i <span class="gui">ekranu podglądu</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pl-PL" title="Wylogowywanie, wyłączanie komputera i przełączanie użytkowników"><span class="title">Wylogowywanie, wyłączanie komputera i przełączanie użytkowników</span><span class="linkdiv-dash"> — </span><span class="desc">Jak wylogować się, przełączyć użytkownika i tak dalej.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
@@ -93,12 +91,8 @@
 <div class="desc"><span class="desc"><span class="link"><a href="files-search.html.pl-PL" title="Wyszukiwanie plików">Wyszukiwanie</a></span>, <span class="link"><a href="files-delete.html.pl-PL" title="Usuwanie plików i katalogów">usuwanie plików</a></span>, <span class="link"><a href="files.html.pl-PL#backup" title="Kopie zapasowe">kopie zapasowe</a></span>, <span class="link"><a href="files.html.pl-PL#removable" title="Nośniki wymienne i dyski zewnętrzne">napędy wymienne</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html.pl-PL" title="Install &amp; remove software">Install &amp; remove software</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html.pl-PL" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.pl-PL" title="Usuń program">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.pl-PL" title="Add software repositories">add repositories</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="addremove.html.pl-PL" title="Instalowanie i usuwanie oprogramowania">Instalowanie i usuwanie oprogramowania</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="addremove-install.html.pl-PL" title="Instalacja dodatkowych programów">Instalowanie programów</a></span>, <span class="link"><a href="addremove-remove.html.pl-PL" title="Usuwanie programu">usuwanie programów</a></span>, <span class="link"><a href="addremove-sources.html.pl-PL" title="Dodawanie repozytoriów oprogramowania">dodawanie repozytoriów</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia użytkownika i systemu</a></div>
@@ -114,14 +108,11 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="tips.html.pl-PL" title="Porady i wskazówki">Porady i wskazówki</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.pl-PL" title="Wpisywanie znaków specjalnych">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy">middle click shortcuts</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.pl-PL" title="Wpisywanie znaków specjalnych">Znaki specjalne</a></span>, <span class="link"><a href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy">skróty za pomocą kliknięcia środkowym przyciskiem myszy</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html.pl-PL" title="Uzyskaj więcej pomocy">Uzyskaj więcej pomocy</a></div>
-<div class="desc"><span class="desc">
-        <span class="link"><a href="about-this-guide.html.pl-PL" title="O tym przewodniku">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html.pl-PL" title="Participate to improve this guide">help improve this guide</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="more-help.html.pl-PL" title="Więcej pomocy">Więcej pomocy</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html.pl-PL" title="O tym podręczniku">Wskazówki, jak korzystać z pomocy</a></span>, <span class="link"><a href="get-involved.html.pl-PL" title="Dołącz do nas, aby ulepszyć ten podręcznik">pomaganie w ulepszaniu pomocy</a></span>…</span></div>
 </div>
 </div></div></div>
 </div></div>
@@ -131,7 +122,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

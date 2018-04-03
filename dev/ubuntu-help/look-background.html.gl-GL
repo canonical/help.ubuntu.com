@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change the desktop and lock screen backgrounds</title>
+<title>Cambiar o fondo de escritorio e da pantalla de bloqueo</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,23 +67,18 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change the desktop and lock screen backgrounds</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Cambiar o fondo de escritorio e da pantalla de bloqueo</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can change the image used for your backgrounds or set it to be a
-  solid color.</p>
+<p class="p">Pode cambiar a imaxe usada como fondo de escritorio ou estabelecer un cor sólido.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Background</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Background</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">Background</span> or <span class="gui">Lock Screen</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Fondo de escritorio</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Fondos</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Seleccione <span class="gui">Fondo de escritorio</span> ou <span class="gui">Pantalla de bloqueo</span>.</p></li>
 <li class="steps">
 <p class="p">Existen tres opcións mostrados arriba:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Select <span class="gui">Wallpapers</span> to use one of the many professional
-          background images that ship with GNOME. Some wallpapers change
-          throughout the day. These wallpapers have a small clock icon in the
-          bottom-right corner.</p></li>
+<li class="list"><p class="p">Seleccione <span class="gui">Fondos de escritorio</span> para usar unha das moitas imaxes de fondo profesionais coas que se distribúe GNOME. Algúns fondos de escritorio cambian ao largo do dia. Estos fondos terán unha pequena icona de reloxo na esquina inferior dereita.</p></li>
 <li class="list"><p class="p">Select <span class="gui">Pictures</span> to use one of your own photos from your
           <span class="file">Pictures</span> folder. Most photo management applications
           store photos there. If you would like to use an image that is not in
@@ -105,7 +100,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a><span class="desc"> — <span class="link"><a href="look-background.html.gl-GL" title="Change the desktop and lock screen backgrounds">Fondo</a></span>, <span class="link"><a href="look-resolution.html.gl-GL" title="Change the resolution or rotation of the screen">tamaño e rotación</a></span>, brillo…</span>
+<a href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a><span class="desc"> — <span class="link"><a href="look-background.html.gl-GL" title="Cambiar o fondo de escritorio e da pantalla de bloqueo">Fondo</a></span>, <span class="link"><a href="look-resolution.html.gl-GL" title="Cambiar o tamaño/rotación da pantalla">tamaño e rotación</a></span>, brillo…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -121,7 +116,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zoeken naar bestanden</span></h1></div>
@@ -77,20 +77,14 @@
 <li class="steps"><p class="p">Open <span class="app">Bestanden</span> vanuit het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
 <li class="steps"><p class="p">Als u weet dat de bestanden die u wilt hebben in een bepaalde map zitten, ga dan naar die map.</p></li>
 <li class="steps">
-<p class="p">Type a word or words that you know appear in the file name, and they
-      will be shown in the search bar. For example, if you name all your
-      invoices with the word “Invoice”, type <span class="input">invoice</span>. Words are
-      matched regardless of case.</p>
+<p class="p">Typ een woord (of woorden) waarvan u weet dat het in de bestandsnaam voorkomt, en de bestanden zullen getoond worden in de zoekbalk. Bijvoorbeeld, als u al uw facturen namen geeft die het woord ‘Factuur’ bevatten, typt u <span class="input">factuur</span>. Woorden worden onafhankelijk van hoofdlettergebruik gevonden.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">In plaats van het direct intypen van woorden om de zoekbalk te krijgen, kunt u in de taakbalk klikken op het vergrootglas of drukken op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div></div>
 </li>
 <li class="steps">
 <p class="p">U kunt de zoekresultaten specifieker maken door locatie en/of bestandstype op te geven.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Klik <span class="gui">Thuis</span> om de zoekresultaten tot uw <span class="file">Thuis</span> map te beperken, of <span class="gui">Alle bestanden</span> om overal te zoeken.</p></li>
-<li class="list"><p class="p">Click the <span class="gui">+</span> button and pick a <span class="gui">File Type</span> from
-	  the drop-down list to narrow the search results based on file type.
-	  Click the <span class="gui">×</span> button to remove this option and widen the
-	  search results.</p></li>
+<li class="list"><p class="p">Klik de <span class="key"><kbd>+</kbd></span>-knop en kies uit het keuzemenu een <span class="gui">bestandstype</span> om de zoekresultaten te beperken, gebaseerd op bestandstype. Klik de <span class="key"><kbd>x</kbd></span>-knop om deze optie te verwijderen en de zoekresultaten te verbreden.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">U kunt vanuit de zoekresultaten bestanden openen, kopiëren, verwijderen of op een andere manier met bestanden werken, net zoals u zou doen vanuit een map in bestandsbeheer.</p></li>
@@ -112,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

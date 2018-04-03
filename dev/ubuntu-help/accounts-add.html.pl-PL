@@ -64,17 +64,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="accounts.html.pl-PL" title="Konta online">Konta online</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="accounts.html.pl-PL" title="Konta online">Konta online</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dodawanie konta</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Dodanie konta pomoże powiązać konta online ze środowiskiem GNOME. Dzięki temu klient poczty, komunikator i inne podobne programy zostaną przygotowane bez udziału użytkownika.</p>
+<p class="p">Dodanie konta pomoże powiązać konta online ze środowiskiem GNOME. Dzięki temu klient poczty, komunikator i inne podobne programy zostaną skonfigurowane bez udziału użytkownika.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Konta online</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Konta online</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Konta online</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Kliknij przycisk <span class="gui">+</span> w dolnym lewym rogu okna.</p></li>
+<li class="steps"><p class="p">Wybierz konto z listy po prawej.</p></li>
 <li class="steps"><p class="p">Wybierz typ konta do dodania.</p></li>
 <li class="steps"><p class="p">Zostanie otwarte małe okno ze stroną internetową, gdzie można podać dane uwierzytelniające konta online. Na przykład, jeśli ustawiane jest konto Google, to podaj nazwę użytkownika i hasło Google. Niektóre serwisy umożliwiają utworzenie nowego konta prosto z okna logowania.</p></li>
 <li class="steps"><p class="p">Jeśli poprawnie podano dane uwierzytelniające, to użytkownik zostanie poproszony o udzielenie GNOME dostępu do konta online. Upoważnij dostęp, aby kontynuować.</p></li>
@@ -88,7 +88,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.pl-PL" title="Konta online">Konta online</a><span class="desc"> — <span class="link"><a href="accounts-add.html.pl-PL" title="Dodawanie konta">Dodawanie konta online</a></span>, <span class="link"><a href="accounts-remove.html.pl-PL" title="Usuwanie konta">Usuwanie konta</a></span>, <span class="link"><a href="accounts-which-application.html.pl-PL" title="Usługi internetowe a programy">Informacje o usługach</a></span>…</span>
+<a href="accounts.html.pl-PL" title="Konta online">Konta online</a><span class="desc"> — <span class="link"><a href="accounts-add.html.pl-PL" title="Dodawanie konta">Dodawanie konta online</a></span>, <span class="link"><a href="accounts-remove.html.pl-PL" title="Usuwanie konta">usuwanie konta</a></span>, <span class="link"><a href="accounts-which-application.html.pl-PL" title="Usługi internetowe a programy">informacje o usługach</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -99,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

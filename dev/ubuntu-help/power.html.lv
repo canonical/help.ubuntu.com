@@ -81,7 +81,6 @@
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.lv" title="Kas notiek, iesnaudinot datoru?"><span class="title">Kas notiek, iesnaudinot datoru?</span><span class="linkdiv-dash"> — </span><span class="desc">Iesnaudināšana liek datoram pāriet īpašā režīmā, kas patērē mazāk elektroenerģijas.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.lv" title="Kā iemidzināt savu datoru?"><span class="title">Kā iemidzināt savu datoru?</span><span class="linkdiv-dash"> — </span><span class="desc">Pēc noklusējuma iemidzināšana ir deaktivēta, jo tā nav labi atbalstīta.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.lv" title="Kāpēc dators izslēdzas, aizverot tā vāku?"><span class="title">Kāpēc dators izslēdzas, aizverot tā vāku?</span><span class="linkdiv-dash"> — </span><span class="desc">Klēpjdatori "iesnaužas", kad kāds aizver to vāku, lai ietaupītu elektroenerģiju.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.lv" title="Lietot mazāk enerģijas un paildzināt bateriju mūžu"><span class="title">Lietot mazāk enerģijas un paildzināt bateriju mūžu</span><span class="linkdiv-dash"> — </span><span class="desc">Ieteikumi, lai samazinātu jūsu datora enerģijas patēriņu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.lv" title="Paildzināt klēpjdatora baterijas mūžu"><span class="title">Paildzināt klēpjdatora baterijas mūžu</span><span class="linkdiv-dash"> — </span><span class="desc">Tādi padomi kā “Neizlādējiet bateriju līdz galam”.</span></a></div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

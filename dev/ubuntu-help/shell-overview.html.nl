@@ -64,28 +64,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uw bureaublad</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.nl" title="Inleiding tot Gnome"><span class="title">Inleiding tot Gnome</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
-    <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.nl" title="Afmelden, uitschakelen, van gebruiker wisselen"><span class="title">Afmelden, uitschakelen, van gebruiker wisselen</span><span class="linkdiv-dash"> — </span><span class="desc">Leer hoe u uw gebruikersaccount verlaat, door af te melden, van gebruiker te wisselen, enz.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.nl" title="Inleiding tot Gnome"><span class="title">Inleiding tot Gnome</span><span class="linkdiv-dash"> — </span><span class="desc">Een visuele kennismaking met uw bureaublad, de bovenbalk, en het <span class="gui">Activiteiten</span>-overzicht.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.nl" title="Afmelden, uitschakelen of van gebruiker wisselen"><span class="title">Afmelden, uitschakelen of van gebruiker wisselen</span><span class="linkdiv-dash"> — </span><span class="desc">Leer hoe u uw gebruikersaccount verlaat, door af te melden, van gebruiker te wisselen, enz.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.nl" title="Toepassingen starten"><span class="title">Toepassingen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.nl" title="Toepassingen starten"><span class="title">Toepassingen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Toepassingen starten vanuit het <span class="gui">activiteiten</span>-overzicht.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Uw bureaublad aanpassen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.nl" title="Agenda-afspraken"><span class="title">Agenda-afspraken</span><span class="linkdiv-dash"> — </span><span class="desc">Uw afspraken weergeven in de agenda aan de bovenkant van het scherm.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.nl" title="Notifications and the message tray"><span class="title">Notifications and the message tray</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
-    certain events happen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.nl" title="Meldingen en het berichtengebied"><span class="title">Meldingen en het berichtengebied</span><span class="linkdiv-dash"> — </span><span class="desc">Berichten verschijnen aan de bovenkant van het scherm en vertellen u wanneer bepaalde gebeurtenissen plaatsvinden.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.nl" title="Pin your favorite apps to the dash"><span class="title">Pin your favorite apps to the dash</span><span class="linkdiv-dash"> — </span><span class="desc">Add (or remove) frequently-used program icons on the dash.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.nl" title="Zet uw favoriete toepassingen op de Starter"><span class="title">Zet uw favoriete toepassingen op de Starter</span><span class="linkdiv-dash"> — </span><span class="desc">Veelgebruikte programmapictogrammen toevoegen aan (of verwijderen uit) de Starter.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="apps" class="sect"><div class="inner">
@@ -93,14 +91,13 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.nl" title="Handige sneltoetsen"><span class="title">Handige sneltoetsen</span><span class="linkdiv-dash"> — </span><span class="desc">Door het bureaublad lopen via het toetsenbord.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.nl" title="Het vergrendelingsscherm"><span class="title">Het vergrendelingsscherm</span><span class="linkdiv-dash"> — </span><span class="desc">The decorative and functional lock screen conveys useful
-    information.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.nl" title="Het vergrendelingsscherm"><span class="title">Het vergrendelingsscherm</span><span class="linkdiv-dash"> — </span><span class="desc">Het decoratieve en functionele vergrendelde scherm geeft nuttige informatie.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="startup-applications.html.nl" title="Opstarttoepassingen"><span class="title">Opstarttoepassingen</span><span class="linkdiv-dash"> — </span><span class="desc">Kies welke toepassingen te starten wanneer u zich aanmeldt.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.nl" title="Schakelen tussen vensters"><span class="title">Schakelen tussen vensters</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.nl" title="Schakelen tussen vensters"><span class="title">Schakelen tussen vensters</span><span class="linkdiv-dash"> — </span><span class="desc">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows.html.nl" title="Vensters en werkbladen"><span class="title">Vensters en werkbladen</span><span class="linkdiv-dash"> — </span><span class="desc">Uw vensters verplaatsen en organiseren.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html.nl" title="Wat betekenen de pictogrammen in de bovenste balk?"><span class="title">Wat betekenen de pictogrammen in de bovenste balk?</span><span class="linkdiv-dash"> — </span><span class="desc">Verklaart de betekenis van de pictogrammen aan de rechterkant van de bovenste balk.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.nl" title="Wat betekenen de pictogrammen in de bovenbalk?"><span class="title">Wat betekenen de pictogrammen in de bovenbalk?</span><span class="linkdiv-dash"> — </span><span class="desc">Verklaart de betekenis van de pictogrammen aan de rechterkant van de bovenbalk.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -118,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

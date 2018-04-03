@@ -80,6 +80,10 @@
 <li class="steps"><p class="p">Responda a confirmação, <span class="gui">Sua sessão precisa ser reiniciada para que as alterações tenham efeito</span> clicando em <span class="gui">Reiniciar agora</span> ou em <span class="gui">×</span> para reiniciar posteriormente.</p></li>
 </ol></div></div></div>
 <p class="p">Depois de ter selecionado a região, a área à direita da lista mostra vários exemplos de como as datas e outros valores são mostrados. Apesar de não mostrado nos exemplos, sua região também controla o dia que inicia a semana nos calendários.</p>
+<div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -87,7 +91,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.pt-BR" title="Região &amp; idioma">Região &amp; idioma</a><span class="desc"> — <span class="link"><a href="session-language.html.pt-BR" title="Alterando que idioma você usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.pt-BR" title="Alterando os formatos de data e medidas">região e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Use alternative keyboard layouts">disposições de teclado</a></span>…</span>
+<a href="prefs-language.html.pt-BR" title="Região &amp; idioma">Região &amp; idioma</a><span class="desc"> — <span class="link"><a href="session-language.html.pt-BR" title="Alterando que idioma você usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.pt-BR" title="Alterando os formatos de data e medidas">região e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Usando disposições alternativas de teclado">disposições de teclado</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -105,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

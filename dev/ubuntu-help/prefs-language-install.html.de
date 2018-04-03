@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sprachen installieren</span></h1></div>
@@ -72,11 +72,9 @@
 <div class="contents">
 <p class="p">Wenn Sie Ubuntu installieren, wird die von Ihnen ausgewählte Sprache und Englisch installiert. Sie können jederzeit weitere Sprachen installieren.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
-      Support</span>.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und geben Sie <span class="gui">Region &amp; Sprachen</span> ein.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Region &amp; Sprache</span> um das Fenster zu öffnen.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf die Schaltfläche <span class="gui">Installierte Sprachen verwalten</span>, um <span class="gui">Sprachen</span> zu öffnen.</p></li>
 <li class="steps"><p class="p">Klicken Sie <span class="gui">Sprachen hinzufügen/entfernen …</span>. Das Fenster <span class="gui">Installierte Sprachen</span> listet alle verfügbaren Sprachen auf. Die aktuell installierten Sprachen sind dabei ausgewählt.</p></li>
 <li class="steps"><p class="p">Wählen Sie die Sprachen, die Sie installieren wollen, und entfernen Sie bereits installierte Sprachen, indem Sie sie abwählen.</p></li>
 <li class="steps"><p class="p">Klicken Sie <span class="gui">Änderungen anwenden</span>.</p></li>
@@ -98,7 +96,7 @@
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-language.html.de" title="Region und Sprache">Region und Sprache</a><span class="desc"> — <span class="link"><a href="session-language.html.de" title="Zu verwendende Sprache ändern">Sprache</a></span>, <span class="link"><a href="session-formats.html.de" title="Datumsformat und Maßeinheiten ändern">Region und Formate</a></span>, <span class="link"><a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span> …</span>
+<a href="prefs-language.html.de" title="Region und Sprache">Region und Sprache</a><span class="desc"> — <span class="link"><a href="session-language.html.de" title="Zu verwendende Sprache ändern">Sprache</a></span>, <span class="link"><a href="session-formats.html.de" title="Datumsformat und Maßeinheiten ändern">Region und Formate</a></span>, <span class="link"><a href="keyboard-layouts.html.de" title="Alternative Tastaturbelegungen verwenden">Tastaturbelegungen</a></span> …</span>
 </li>
 <li class="links ">
 <a href="addremove-install.html.de" title="Zusätzliche Anwendungen installieren">Zusätzliche Anwendungen installieren</a><span class="desc"> — Verwenden <span class="app">Ubuntu Software</span> um zusätzliche Programme zu installieren und Ubuntu nützlicher zu machen.</span>
@@ -114,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

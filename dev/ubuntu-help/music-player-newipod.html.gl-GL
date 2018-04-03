@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>My new iPod won’t work</title>
+<title>O meu iPod novo non funciona</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,10 +67,10 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html.gl-GL" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html.gl-GL#music" title="Música e reprodutores de son portátiles">Música e reprodutores</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">My new iPod won’t work</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">O meu iPod novo non funciona</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have a new iPod that has never been connected to a computer before, it won’t be recognized properly when you connect it to a Linux computer. This is because iPods need to be set up and updated using the <span class="app">iTunes</span> software, which only runs on Windows and Mac OS.</p>
+<p class="p">Se ten un iPod novo que non se conectou nunca antes a un computador, non se recoñecerá correctamente cando o conecte a un computador Linux. Isto é debido a que os iPods precisan configurarse e actualizarse usando o programa <span class="app">iTunes</span>, que só funciona en Windows e en Mac OS.</p>
 <p class="p">Para configurar un iPod, instale iTunes nun computador con Windows ou Mac e conécteo. Terá que seguir uns poucos pasos para configuralo. Se se lle pregutna polo <span class="gui">Formato de volume</span>, seleccione <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> ou similar. O outro formato (HFS/Mac) non funciona ben en Linux.</p>
 <p class="p">Unha vez que remate de configuralo, o iPod debería funcionar normalmente cando o conecte a un equipo Linux.</p>
 </div>
@@ -88,7 +88,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

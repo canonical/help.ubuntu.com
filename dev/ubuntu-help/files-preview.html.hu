@@ -70,6 +70,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Fájlok és mappák előnézete</span></h1></div>
 <div class="region">
 <div class="contents">
+<div class="note note-important" title="Fontos"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Sushi</span> installed on your computer to perform
+  these steps.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Install <span class="app">Sushi</span></a></span></p>
+</div></div></div></div>
 <p class="p">Gyorsan megjelenítheti a fájlok előnézetét egy teljes felszereltségű alkalmazásban való megnyitás nélkül is. Válasszon ki egy fájlt, és nyomja meg a szóközt. A fájl megnyílik egy egyszerű előnézet ablakban. Nyomja meg újra a szóközt az előnézet bezárásához.</p>
 <p class="p">A beépített előnézet támogatja a legtöbb dokumentum-, kép-, video- és hangformátumot. Az előnézetben végiggörgetheti a dokumentumokat, vagy beletekerhet a video- és hangfájlokba.</p>
 <p class="p">A teljes képernyős előnézethez nyomja meg az <span class="key"><kbd>F</kbd></span> vagy <span class="key"><kbd>F11</kbd></span> billentyűt. Nyomja meg újra az <span class="key"><kbd>F</kbd></span> vagy <span class="key"><kbd>F11</kbd></span> billentyűt a teljes képernyős mód elhagyásához, vagy nyomja meg a szóközt az előnézet teljes bezárásához.</p>
@@ -96,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

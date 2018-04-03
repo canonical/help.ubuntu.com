@@ -75,12 +75,14 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Διαδικτυακοί λογαριασμοί</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Διαδικτυακοί λογαριασμοί</span> για να ανοίξετε τον πίνακα.</p></li>
-<li class="steps"><p class="p">Επιλέξτε τον λογαριασμό που θέλετε να αλλάξετε από την λίστα στα αριστερά.</p></li>
+<li class="steps"><p class="p">Select the account which you want to change from the list on the
+      right.</p></li>
 <li class="steps"><p class="p">Θα εμφανιστεί μια λίστα με τις υπηρεσίες που είναι διαθέσιμες στον λογαριασμό, στην ενότητα <span class="gui">Χρήση για</span>. Δείτε ποιες εφαρμογές έχουν πρόσβαση στις υπηρεσίες στο <span class="link"><a href="accounts-which-application.html.el" title="Διαδικτυακές υπηρεσίες και εφαρμογές">Διαδικτυακές υπηρεσίες και εφαρμογές</a></span>.</p></li>
 <li class="steps"><p class="p">Απενεργοποιήστε όποιες από τις υπηρεσίες δεν θέλετε να χρησιμοποιήσετε.</p></li>
 </ol></div></div></div>
 <p class="p">Μόλις απενεργοποιηθεί μια υπηρεσία έχει για έναν λογαριασμό, οι εφαρμογές στον υπολογιστή σας δεν θα μπορούν να χρησιμοποιήσουν τον λογαριασμό για να συνδεθούν πια με αυτήν την υπηρεσία.</p>
-<p class="p">Για την ενεργοποίηση μιας υπηρεσίας που απενεργοποιήσατε, απλά επιστρέψτε στο παράθυρο <span class="gui">Διαδικτυακοί λογαριασμοί</span> και ενεργοποιήστε το.</p>
+<p class="p">To turn on a service that you disabled, just go back to the <span class="gui">Online
+  Accounts</span> panel and switch it on.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -111,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

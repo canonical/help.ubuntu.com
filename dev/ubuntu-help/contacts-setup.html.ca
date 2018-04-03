@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Starting Contacts for the first time</title>
+<title>Iniciar Contactes per primer cop</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,27 +67,19 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="contacts.html.ca" title="Contactes">Contactes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Starting Contacts for the first time</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Iniciar Contactes per primer cop</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you run <span class="app">Contacts</span> for the first time, the <span class="gui">Select
-  Address Book</span> window opens.</p>
-<p class="p">If you have <span class="link"><a href="accounts.html.ca" title="Online accounts">online accounts</a></span> configured, they
-  are listed with <span class="gui">Local Address Book</span>. Select an item from the
-  list and click <span class="gui">Done</span>. All new contacts you create
-  will be saved to the address book you choose. You are also able to view and
-  edit contacts in other address books.</p>
-<p class="p">If you have no online accounts configured, click
-  <span class="gui">Online Accounts</span> to begin the setup. If you do not
-  wish to set up online accounts at this time, click <span class="gui">Local
-  Address Book</span>.</p>
+<p class="p">Quan executeu <span class="app">Contactes</span> per primer cop, s'obre la finestra  <span class="gui">Seleccionar la llibreta d'adreces</span>.</p>
+<p class="p">si teniu configurats <span class="link"><a href="accounts.html.ca" title="Comptes en línia">comptes en línia</a></span> es llisten amb la <span class="gui">Llibreta d'adreces local </span>.Seleccioneu un element de la llista i feu clic a <span class="gui">Fet</span>. Tots els contactes nous que creeu es desaran a la llibreta d'adreces que trieu. També podeu veure i editar contactes a altres llibretes d'adreces.</p>
+<p class="p">Si no teniu comptes en línia configurades, feu clic a <span class="gui">Comptes en línia</span> per començar a configurar-los. Si no voleu configurar comptes en línia en aquest moment, feu clic a <span class="gui">Llibreta d'adreces local</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html.ca" title="Contactes">Contactes</a><span class="desc"> — Access your contacts.</span>
+<a href="contacts.html.ca" title="Contactes">Contactes</a><span class="desc"> — Accediu als vostres contactes</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -98,7 +90,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

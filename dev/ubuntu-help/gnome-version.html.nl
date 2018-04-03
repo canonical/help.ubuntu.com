@@ -64,19 +64,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bepaal welke versie van Gnome wordt uitgevoerd</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">U kunt bekijken welke versie van Gnome wordt uitgevoerd op uw systeem door naar het <span class="gui">Details</span>-paneel in <span class="gui">Instellingen</span> te gaan.</p>
+<p class="p">You can determine the version of GNOME that is running on your system by
+  going to the <span class="gui">Details/About</span> panel in <span class="gui">Settings</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Details</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
+      start typing <span class="gui">About</span>.</p></li>
 <li class="steps">
-<p class="p">Klik op <span class="gui">Details</span> om het paneel te openen.</p>
-<p class="p">A window appears showing information about your system, including your
-      distribution’s name and the GNOME version.</p>
+<p class="p">Click on <span class="gui">About</span> to open the panel.</p>
+<p class="p">Een venster verschijnt met informatie over uw systeem, waaronder de naam van uw distributie en de Gnome-versie.</p>
 </li>
 </ol></div></div></div>
 </div>
@@ -96,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

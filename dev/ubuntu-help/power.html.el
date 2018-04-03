@@ -82,7 +82,6 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.el" title="Πάρτε το περισσότερο από την μπαταρία του φορητού υπολογιστή σας"><span class="title">Πάρτε το περισσότερο από την μπαταρία του φορητού υπολογιστή σας</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.el" title="Πώς μπορώ να κάνω αδρανοποίηση του υπολογιστή μου;"><span class="title">Πώς μπορώ να κάνω αδρανοποίηση του υπολογιστή μου;</span><span class="linkdiv-dash"> — </span><span class="desc">Η αδρανοποίηση του υπολογιστή είναι απενεργοποιημένη από προεπιλογή αφού δεν υποστηρίζεται ικανοποιητικά.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.el" title="Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;"><span class="title">Τι συμβαίνει όταν αναστέλλω τον υπολογιστή μου;</span><span class="linkdiv-dash"> — </span><span class="desc">Η αναστολή στέλνει τον υπολογιστή σας σε ύπνο, έτσι ώστε χρησιμοποιεί λιγότερη ισχύ.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.el" title="Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας"><span class="title">Χρησιμοποιήστε λιγότερη ισχύ και βελτιώστε τη ζωή της μπαταρίας</span><span class="linkdiv-dash"> — </span><span class="desc">Συμβουλές για μείωση της κατανάλωσης ισχύος του υπολογιστή σας.</span></a></div>
 </div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

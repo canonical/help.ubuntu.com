@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="bluetooth.html.pl-PL" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="bluetooth.html.pl-PL" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Łączenie komputera z urządzeniem Bluetooth</span></h1></div>
@@ -72,30 +72,21 @@
 <div class="contents">
 <p class="p">Przed użyciem urządzenia Bluetooth, takiego jak mysz lub słuchawki z mikrofonem, należy połączyć komputer z urządzeniem.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Bluetooth</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Upewnij się, że Bluetooth jest włączony: przełącznik na górze powinien wskazywać <span class="gui">|</span> (włączone). Kiedy panel jest otwarty, a przełącznik wskazuje <span class="gui">|</span>, komputer zacznie wyszukiwać urządzenia.</p></li>
 <li class="steps"><p class="p">Ustaw drugie urządzenie Bluetooth jako <span class="link"><a href="bluetooth-visibility.html.pl-PL" title="Czym jest widoczność Bluetooth?">widoczne</a></span> i umieść je nie dalej niż 5-10 metrów od komputera.</p></li>
 <li class="steps"><p class="p">Kliknij urządzenie na liście <span class="gui">Urządzenia</span>. Zostanie otwarty panel dla urządzenia.</p></li>
 <li class="steps">
-<p class="p">If required, confirm the PIN on your other device. The device should
-      show you the PIN you see on your computer screen. Confirm the PIN on the
-      device (you may need to click <span class="gui">Pair</span> or <span class="gui">Confirm</span>),
-      then click <span class="gui">Confirm</span> on the computer.</p>
-<p class="p">You need to finish your entry within about 20 seconds on most devices,
-      or the connection will not be completed. If that happens, return to the
-      device list and start again.</p>
+<p class="p">Jeśli to potrzebne, potwierdź kod PIN na drugim urządzeniu. Powinno ono wyświetlić kod PIN widoczny na komputerze. Potwierdź go (klikając <span class="gui">Połącz</span> lub <span class="gui">Potwierdź</span>), a następnie kliknij przycisk <span class="gui">Potwierdź</span> na komputerze.</p>
+<p class="p">Na większości urządzeń należy wpisać kod w ciągu 20 sekund, albo połączenie nie zostanie nawiązane. Jeśli tak się stanie, wróć do listy urządzeń i zacznij ponownie.</p>
 </li>
-<li class="steps"><p class="p">The entry for the device in the <span class="gui">Devices</span> list will show a
-      <span class="gui">Connected</span> status.</p></li>
-<li class="steps"><p class="p">To edit the device, click on it in the <span class="gui">Device</span> list. You
-      will see a panel specific to the device. It may display additional
-      options applicable to the type of device to which you are connecting.</p></li>
+<li class="steps"><p class="p">Wpis urządzenia na liście <span class="gui">Urządzenia</span> będzie wyświetlał stan <span class="gui">Połączone</span>.</p></li>
+<li class="steps"><p class="p">Aby zmodyfikować urządzenie, kliknij je na liście <span class="gui">Urządzenia</span>. Zostanie wyświetlony panel dla tego urządzenia. Może on zawierać dodatkowe opcje właściwe dla danego typu urządzenia.</p></li>
 <li class="steps"><p class="p">Po zmianie ustawień zamknij panel.</p></li>
 </ol></div></div></div>
 <div class="media media-image floatend"><div class="inner"><img src="figures/bluetooth-menu.png" class="media media-block" alt="Ikona Bluetooth na górnym pasku"></div></div>
-<p class="p">When one or more Bluetooth devices are connected, the Bluetooth icon
-  appears in the system status area.</p>
+<p class="p">Kiedy co najmniej jedno urządzenie Bluetooth jest połączone, w obszarze stanu systemu wyświetlana jest ikona Bluetooth.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -110,10 +101,10 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing-bluetooth.html.pl-PL" title="Control sharing over Bluetooth">Control sharing over Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
+<a href="bluetooth-remove-connection.html.pl-PL" title="Rozłączanie urządzenia Bluetooth">Rozłączanie urządzenia Bluetooth</a><span class="desc"> — Usuwanie urządzenia z listy urządzeń Bluetooth.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-remove-connection.html.pl-PL" title="Rozłączanie urządzenia Bluetooth">Rozłączanie urządzenia Bluetooth</a><span class="desc"> — Usuwanie urządzenia z listy urządzeń Bluetooth.</span>
+<a href="sharing-bluetooth.html.pl-PL" title="Sterowanie udostępnianiem przez Bluetooth">Sterowanie udostępnianiem przez Bluetooth</a><span class="desc"> — Umożliwienie wysyłania plików na komputer przez Bluetooth.</span>
 </li>
 </ul></div>
 </div></div>
@@ -126,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

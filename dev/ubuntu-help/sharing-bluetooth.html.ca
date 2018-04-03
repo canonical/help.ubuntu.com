@@ -81,18 +81,16 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Allow files to be shared into your <span class="file">Downloads</span> folder</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Make sure that <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Turn Bluetooth on or off"><span class="gui">Bluetooth</span>
+<li class="steps"><p class="p">Obre la vista d' <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenci a escriure <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">fer clic a <span class="gui">Bluetooth</span> per obrir el panell.</p></li>
+<li class="steps"><p class="p">Make sure that <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth"><span class="gui">Bluetooth</span>
       is switched on</a></span>.</p></li>
 <li class="steps"><p class="p">Bluetooth-enabled devices can send files to your
       <span class="file">Downloads</span> folder only when the <span class="gui">Bluetooth</span> panel is
       open.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html.ca" title="Set the display name for your computer">change</a></span> the name your
-    computer displays to other devices.</p></div></div></div></div>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Pot <span class="link"><a href="sharing-displayname.html.ca" title="Set the display name for your computer">canviar</a></span> el nom que l'ordinador mostra als altres dispositius.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -101,11 +99,7 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — 
-      <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connect</a></span>,
-      <span class="link"><a href="bluetooth-send-file.html.ca" title="Send files to a Bluetooth device">send files</a></span>,
-      <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Turn Bluetooth on or off">turn on and off</a></span>…
-    </span>
+<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">enviar arxius</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span>
 </li>
 <li class="links ">
 <a href="sharing.html.ca" title="Sharing">Sharing</a><span class="desc"> — 
@@ -139,7 +133,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

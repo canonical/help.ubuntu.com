@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change which mail application is used to write emails</title>
+<title>Zmiana klienta poczty używanego do pisania wiadomości e-mail</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,24 +64,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-email.html.pl-PL" title="Poczta e-mail i klienty poczty">Poczta e-mail i klienty poczty</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-email.html.pl-PL" title="Poczta e-mail i klienty poczty">Poczta e-mail i klienty poczty</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change which mail application is used to write emails</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zmiana klienta poczty używanego do pisania wiadomości e-mail</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you click a button or link to send a new email (for example, in your
-  word processing application), your default mail application will open up with
-  a blank message, ready for you to write. However, if you have more than one
-  mail application installed, the wrong mail application might open up. You
-  can fix this by changing which one is the default email application:</p>
+<p class="p">Po kliknięciu przycisku lub odnośnika do wysyłania nowej wiadomości (np. w edytorze tekstu) domyślny klient poczty otworzy pustą wiadomość, gotową do napisania. Jeśli jednak zainstalowany jest więcej niż jeden klient, to wiadomość może zostać otwarta w niewłaściwym. Aby to naprawić, zmień domyślnego klienta poczty:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Informacje</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Informacje</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Informacje</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
-      of the window.</p></li>
-<li class="steps"><p class="p">Choose which email client you would like to be used by default by
-      changing the <span class="gui">Mail</span> option.</p></li>
+<li class="steps"><p class="p">Wybierz <span class="gui">Domyślne programy</span> z listy po lewej stronie okna.</p></li>
+<li class="steps"><p class="p">Wybierz, którego klienta poczty domyślnie używać zmieniając opcję <span class="gui">Poczta</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -89,10 +83,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html.pl-PL" title="Poczta e-mail i klienty poczty">Poczta e-mail i klienty poczty</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html.pl-PL" title="Change which mail application is used to write emails">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html.pl-PL" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
-    </span>
+<a href="net-email.html.pl-PL" title="Poczta e-mail i klienty poczty">Poczta e-mail i klienty poczty</a><span class="desc"> — <span class="link"><a href="net-default-email.html.pl-PL" title="Zmiana klienta poczty używanego do pisania wiadomości e-mail">Domyślny klient poczty</a></span>, <span class="link"><a href="net-email-virus.html.pl-PL" title="Czy muszę skanować moje wiadomości e-mail pod kątem wirusów?">Czy muszę obawiać się wirusów?</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -103,7 +94,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

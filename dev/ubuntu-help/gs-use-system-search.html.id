@@ -75,7 +75,10 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Buka <span class="gui">Ringkasan Aktivitas</span> dengan menekan tombol <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Mulailah mengetik untuk mencari.</p>
+<p class="p">Open the <span class="gui">Activities</span> overview by clicking <span class="gui">Activities</span> 
+    at the top left of the screen, or by pressing the
+    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key. 
+    Start typing to search.</p>
 <p class="p">Hasil yang cocok dengan apa yang telah Anda ketikkan akan muncul ketika Anda mengetik. Hasil pertama selalu disorot dan ditampilkan di puncak.</p>
 <p class="p">Tekan <span class="key"><kbd>Enter</kbd></span> untuk bertukar ke hasil pertama yang disorot.</p>
 </li></ol></div></div></div>
@@ -86,8 +89,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">aplikasi yang cocok, ditampilkan di bagian puncak hasil pencarian,</p></li>
 <li class="list"><p class="p">pengaturan yang cocok,</p></li>
-<li class="list"><p class="p">kontak yang cocok, dan</p></li>
-<li class="list"><p class="p">dokumen yang cocok.</p></li>
+<li class="list"><p class="p">matching contacts,</p></li>
+<li class="list"><p class="p">matching documents,</p></li>
+<li class="list"><p class="p">matching calendar,</p></li>
+<li class="list"><p class="p">matching calculator,</p></li>
+<li class="list"><p class="p">matching software,</p></li>
+<li class="list"><p class="p">matching files,</p></li>
+<li class="list"><p class="p">matching terminal,</p></li>
+<li class="list"><p class="p">matching passwords and keys.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +119,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klik <span class="gui"><a href="shell-introduction.html.id#yourname" title="Anda dan komputer Anda">menu sistem</a></span> pada sisi kanan bilah puncak.</p></li>
 <li class="steps"><p class="p">Tekan tombol pengaturan di kiri dasar menu.</p></li>
-<li class="steps"><p class="p">Klik panel <span class="gui">Cari</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Search</span> in the left panel.</p></li>
 <li class="steps"><p class="p">Dalam daftar lokasi pencarian, klik saklar <span class="gui">NYALA/MATI</span> di sebelah lokasi pencarian yang ingin Anda fungsikan atau nonaktifkan.</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

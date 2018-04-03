@@ -74,20 +74,16 @@
 <div class="hgroup"><h1 class="title"><span class="title">Como asignar perfiles ao dispositivos?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You may want to assign a color profile for your screen or printer so that
-  the colors which it shows are more accurate.</p>
+<p class="p">Pode asignar un perfil de cor á pantalla ou impresora para que as cores mostradas sexan máis exactas.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the device for which you want to add a profile.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import
-      a new profile.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to confirm your selection.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Cor</span>.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Cor</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Seleccione o dispositivo ao que quere engadirlle un perfíl.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Engadir perfil</span> para seleccionar un perfil existente ou importar un ficheiro novo.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Engadir</span> para confirmar a súa selección.</p></li>
 </ol></div></div></div>
 <p class="p">Cada dispositivo pode ter asignados varios perfiles, pero só un deles pode ser o perfil <span class="em">predeterminado</span>. O perfil predeterminado úsase cando non hai información adicional que permita elixir o perfil automaticamente. Un exemplo de selección automática sería se se crease un perfil para papel satinado e outro para papel normal.</p>
-<p class="p">If calibration hardware is connected, the <span class="gui">Calibrate…</span> button
-  will create a new profile.</p>
+<p class="p">Se o hardware de calibración está conectado, o botón <span class="gui">Calibrar…</span> creará un perfil novo.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -102,7 +98,7 @@
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-howtoimport.html.gl-GL" title="Como importo os perfiles de cor?">Como importo os perfiles de cor?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-howtoimport.html.gl-GL" title="Como importo os perfiles de cor?">Como importo os perfiles de cor?</a><span class="desc"> — Os perfís de cor impórtanse con só abrilos.</span>
 </li>
 <li class="links ">
 <a href="color-why-calibrate.html.gl-GL" title="Porque teño que facer unha calibración por min mesmo?">Porque teño que facer unha calibración por min mesmo?</a><span class="desc"> — A calibración é importante se se preocupa polas cores que mostra ou imprime.</span>
@@ -121,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

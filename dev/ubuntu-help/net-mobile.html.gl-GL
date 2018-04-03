@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Connect to mobile broadband</title>
+<title>Conectarse a banda larga móbil</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Connect to mobile broadband</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Conectarse a banda larga móbil</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can set up a connection to a cellular (3G) network with your
@@ -75,8 +75,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">If you do not have a built-in 3G modem, connect your phone or
     Internet stick to a USB port on your computer.</p></li>
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#yourname" title="Vostede e o seu computador">system menu</a></span> from the right
-    side of the top bar.</p></li>
+<li class="steps"><p class="p">Abrir o <span class="gui"><a href="shell-introduction.html.gl-GL#yourname" title="Vostede e o seu computador">menú do sistema</a></span> na parte dereita da barra superior.</p></li>
 <li class="steps">
 <p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-cellular-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
@@ -112,11 +111,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Conectarse a unha rede sen fíos</a></span>, <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Redes ocultas</a></span>, <span class="link"><a href="net-editcon.html.gl-GL" title="net-editcon">Editar opcións da conexión</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Desconectando</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -127,7 +122,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

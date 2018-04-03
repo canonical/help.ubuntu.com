@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">De internetverbinding lijkt traag</span></h1></div>
@@ -75,14 +75,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">Druk tijdstip</span></p>
-<p class="p">Internet service providers commonly setup internet connections so that
-      they are shared between several households. Even though you connect
-      separately, through your own phone line or cable connection, the
-      connection to the rest of the internet at the telephone exchange might
-      actually be shared. If this is the case and lots of your neighbors are
-      using the internet at the same time as you, you might notice a slow-down.
-      You’re most likely to experience this at times when your neighbors are
-      probably on the internet (in the evenings, for example).</p>
+<p class="p">Internetproviders stellen internetverbindingen doorgaans zo in dat ze door verschillende huishoudens gedeeld worden. Ook al maakt u afzonderlijk verbinding, via uw eigen telefoonlijn of kabelverbinding, toch kan de verbinding met de rest van het internet bij de telefooncentrale in werkelijkheid gedeeld zijn. Als dit het geval is, en er veel buren samen met u op het internet zitten, dan kunt u vertraging ondervinden. Dit zult u meestal ervaren wanneer de kans groot is dat uw buren op het internet zitten ('s avonds bijvoorbeeld).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Veel tegelijk downloaden</span></p>
@@ -94,27 +87,15 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Zwak signaal draadloze verbinding</span></p>
-<p class="p">If you’re connected to the internet by wireless (wifi), check the
-      network icon on the top bar to see if you have good wireless signal. If
-      not, the internet may be slow because you don’t have a very strong
-      signal.</p>
+<p class="p"> Als u een draadloze verbinding heeft met het internet (wifi), controleer dan het netwerkpictogram in de bovenbalk om te zien of u een goed signaal heeft. Zo niet, dan kan het internet traag zijn omdat u geen sterk signaal heeft.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Een langzamere mobiele internetverbinding gebruiken</span></p>
-<p class="p">If you have a mobile internet connection and notice that it is slow,
-      you may have moved into an area where signal reception is poor. When this
-      happens, the internet connection will automatically switch from a fast
-      “mobile broadband” connection like 3G to a more reliable, but slower,
-      connection like GPRS.</p>
+<p class="p">Als u een mobiele internetverbinding heeft en merkt dat die traag is, dan kan het zijn dat u zich in een gebied bevindt waar de signaalontvangst slecht is. Als dit gebeurt zal de internetverbinding automatisch overgaan van een snelle ‘mobiele breedband’-verbinding zoals 3G naar een betrouwbaardere, maar tragere, verbinding zoals GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Er is een probleem met de webbrowser</span></p>
-<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
-      This could be for any number of reasons — you could have visited a
-      website that the browser struggled to load, or you might have had the
-      browser open for a long time, for example. Try closing all of the
-      browser’s windows and then opening the browser again to see if this makes
-      a difference.</p>
+<p class="p">Soms lopen webbrowsers tegen een probleem aan waardoor ze trager werken. Dit kan meerdere oorzaken hebben — mogelijk heeft u een website bezocht die de browser met moeite kon laden, of misschien had u de browser al lange tijd open staan. Probeer alle vensters van de browser te sluiten en daarna de browser weer te openen om te zien of dit verschil uitmaakt.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -123,7 +104,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html.nl" title="I can’t see my wireless network in the list">Uw wifi-netwerk vinden</a></span>...</span>
+<a href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html.nl" title="Ik zie mijn draadloos netwerk niet in de lijst">Uw wifi-netwerk vinden</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -134,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -70,15 +70,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Contactes</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Use <span class="app">Contacts</span> to store, access or edit information for your
- contacts, locally or in your <span class="link"><a href="accounts.html.ca" title="Online accounts">Online Accounts</a></span>.</p>
+<p class="p">Utilitzeu <span class="app">Contactes</span> per emmagatzemar accedir o editar informació dels vostres contactes, localment o als vostres <span class="link"><a href="accounts.html.ca" title="Comptes en línia">Comptes en línia</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.ca" title="Starting Contacts for the first time"><span class="title">Starting Contacts for the first time</span><span class="linkdiv-dash"> — </span><span class="desc">Store your contacts in a local address book or in an online account.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.ca" title="Add or remove a contact"><span class="title">Add or remove a contact</span><span class="linkdiv-dash"> — </span><span class="desc">Add or remove a contact in the local address book.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.ca" title="Connect with your contact"><span class="title">Connect with your contact</span><span class="linkdiv-dash"> — </span><span class="desc">Email, chat with, or phone a contact.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.ca" title="Edit contact details"><span class="title">Edit contact details</span><span class="linkdiv-dash"> — </span><span class="desc">Edit the information for each contact.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.ca" title="Link and unlink contacts"><span class="title">Link and unlink contacts</span><span class="linkdiv-dash"> — </span><span class="desc">Combine information for a contact from multiple sources.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.ca" title="Search for a contact"><span class="title">Search for a contact</span><span class="linkdiv-dash"> — </span><span class="desc">Search for a contact.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.ca" title="Iniciar Contactes per primer cop"><span class="title">Iniciar Contactes per primer cop</span><span class="linkdiv-dash"> — </span><span class="desc">Guardeu els vostres contactes en una llibreta d'adreces local o en un compte en línia.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.ca" title="Afegir o eliminar un contacte"><span class="title">Afegir o eliminar un contacte</span><span class="linkdiv-dash"> — </span><span class="desc">Afegiu o elimineu un contacte a la llibreta d'adreces local.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-search.html.ca" title="Cercar un contacte"><span class="title">Cercar un contacte</span><span class="linkdiv-dash"> — </span><span class="desc">Cercar un contacte</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.ca" title="Connecteu amb un contacte"><span class="title">Connecteu amb un contacte</span><span class="linkdiv-dash"> — </span><span class="desc">Envieu un correu electrònic, xategeu o truqueu un contacte.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.ca" title="Editeu els detalls del contacte"><span class="title">Editeu els detalls del contacte</span><span class="linkdiv-dash"> — </span><span class="desc">Editeu la informació de cada contacte.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.ca" title="Enllaçar i desenllaçar contactes"><span class="title">Enllaçar i desenllaçar contactes</span><span class="linkdiv-dash"> — </span><span class="desc">Combineu la informació d'un contacte de diverses fonts.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -103,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

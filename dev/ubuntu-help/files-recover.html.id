@@ -70,7 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Memulihkan berkas dari Tong Sampah</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bila Anda menghapus berkas tanpa manajer berkas, berkas biasanya ditempatkan ke dalam <span class="gui">Tong Sampah</span>, dan mestinya dapat dipulihkan.</p>
+<p class="p">Bila Anda menghapus berkas tanpa pengelola berkas, berkas biasanya ditempatkan ke dalam <span class="gui">Tong Sampah</span>, dan mestinya dapat dipulihkan.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Untuk memulihkan berkas dari Tong Sampah:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -107,7 +107,7 @@
     downloaded.</span>
 </li>
 <li class="links ">
-<a href="files-delete.html.id" title="Menghapus berkas dan folder">Menghapus berkas dan folder</a><span class="desc"> — Menghapus berkas atau folder yang tidak Anda perlukan lagi.</span>
+<a href="files-delete.html.id" title="Menghapus berkas-berkas dan folder-folder">Menghapus berkas-berkas dan folder-folder</a><span class="desc"> — Menghapus berkas-berkas atau folder-folder yang tidak Anda perlukan lagi.</span>
 </li>
 </ul></div>
 </div></div>
@@ -120,7 +120,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

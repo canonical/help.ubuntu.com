@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pliki, katalogi i wyszukiwanie</span></h1></div>
@@ -75,14 +75,13 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="files-copy.html.pl-PL" title="Kopiowanie i przenoszenie plików i katalogów"><span class="title">Kopiowanie i przenoszenie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Kopiowanie i przenoszenie elementów do nowego katalogu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-preview.html.pl-PL" title="Podgląd plików i katalogów"><span class="title">Podgląd plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Quickly show and hide previews for documents, images, videos, and
-    more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-sort.html.pl-PL" title="Porządkowanie plików i katalogów"><span class="title">Porządkowanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange files by name, size, type, or when they were changed.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-browse.html.pl-PL" title="Przeglądanie plików i katalogów"><span class="title">Przeglądanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Manage and organize files with the file manager.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-preview.html.pl-PL" title="Podgląd plików i katalogów"><span class="title">Podgląd plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Szybkie wyświetlanie i ukrywanie podglądu dokumentów, obrazów, filmów i nie tylko.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-sort.html.pl-PL" title="Porządkowanie plików i katalogów"><span class="title">Porządkowanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Porządkowanie plików według nazw, rozmiaru, typu i daty modyfikacji.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html.pl-PL" title="Przeglądanie plików i katalogów"><span class="title">Przeglądanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Zarządzanie i organizowanie plików za pomocą menedżera plików.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-delete.html.pl-PL" title="Usuwanie plików i katalogów"><span class="title">Usuwanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Remove files or folders you no longer need.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-search.html.pl-PL" title="Wyszukiwanie plików"><span class="title">Wyszukiwanie plików</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html.pl-PL" title="Usuwanie plików i katalogów"><span class="title">Usuwanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Usuwanie niepotrzebnych plików i katalogów.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.pl-PL" title="Wyszukiwanie plików"><span class="title">Wyszukiwanie plików</span><span class="linkdiv-dash"> — </span><span class="desc">Wyszukiwanie plików na podstawie ich nazw i typów.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-rename.html.pl-PL" title="Zmiana nazwy pliku lub katalogu"><span class="title">Zmiana nazwy pliku lub katalogu</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana nazwy pliku lub katalogu.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -91,36 +90,26 @@
 <div class="hgroup"><h2 class="title"><span class="title">Inne zadania związane z plikami</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.pl-PL" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
-    shares, or WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-open.html.pl-PL" title="Otwieranie plików w innych programach"><span class="title">Otwieranie plików w innych programach</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
-    type of file. You can change the default too.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików"><span class="title">Preferencje menedżera plików</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza"><span class="title">Przywracanie pliku z Kosza</span><span class="linkdiv-dash"> — </span><span class="desc">Deleted files are normally sent to the Trash, but can be
-    recovered.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.pl-PL" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
-    from your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html.pl-PL" title="Otwieranie plików w innych programach"><span class="title">Otwieranie plików w innych programach</span><span class="linkdiv-dash"> — </span><span class="desc">Otwieranie plików za pomocą programu, który nie jest domyślny dla tego typu. Można także zmienić domyślny program.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików"><span class="title">Preferencje menedżera plików</span><span class="linkdiv-dash"> — </span><span class="desc">Wyświetlanie i ustawianie preferencji menedżera plików.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.pl-PL" title="Przeglądanie plików na serwerze lub udziale sieciowym"><span class="title">Przeglądanie plików na serwerze lub udziale sieciowym</span><span class="linkdiv-dash"> — </span><span class="desc">Wyświetlanie i modyfikowanie plików na innym komputerze przez FTP, SSH, zasoby Windows lub WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza"><span class="title">Przywracanie pliku z Kosza</span><span class="linkdiv-dash"> — </span><span class="desc">Usunięte pliki są zwykle wysyłane do Kosza, ale można je odzyskać.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.pl-PL" title="Usuwanie plików w koszu i plików tymczasowych"><span class="title">Usuwanie plików w koszu i plików tymczasowych</span><span class="linkdiv-dash"> — </span><span class="desc">Ustawianie, jak często pliki w koszu i pliki tymczasowe są usuwane z komputera.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.pl-PL" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
-    files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-share.html.pl-PL" title="Wysyłanie plików pocztą"><span class="title">Wysyłanie plików pocztą</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
-    manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html.pl-PL" title="Wyszukiwanie zgubionego pliku"><span class="title">Wyszukiwanie zgubionego pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
-    downloaded.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.pl-PL" title="Właściwości pliku"><span class="title">Właściwości pliku</span><span class="linkdiv-dash"> — </span><span class="desc">View basic file information, set permissions, and choose
-    default applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.pl-PL" title="Zapisywanie plików na płycie CD lub DVD"><span class="title">Zapisywanie plików na płycie CD lub DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Put files and documents onto a blank CD or DVD using a CD/DVD
-    burner.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.pl-PL" title="Wysyłanie plików pocztą"><span class="title">Wysyłanie plików pocztą</span><span class="linkdiv-dash"> — </span><span class="desc">Łatwe przesyłanie plików do kontaktów e-mail z menedżera plików.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.pl-PL" title="Wyszukiwanie zgubionego pliku"><span class="title">Wyszukiwanie zgubionego pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Wskazówki co robić, jeśli nie można odnaleźć utworzonego lub pobranego pliku.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.pl-PL" title="Wyłączanie lub ograniczanie śledzenia historii plików"><span class="title">Wyłączanie lub ograniczanie śledzenia historii plików</span><span class="linkdiv-dash"> — </span><span class="desc">Zatrzymywanie lub ograniczanie śledzenia ostatnio używanych plików przez komputer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.pl-PL" title="Właściwości pliku"><span class="title">Właściwości pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Wyświetlanie podstawowych informacji o pliku, ustawianie uprawnień i wybieranie domyślnych programów.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.pl-PL" title="Zapisywanie plików na płycie CD lub DVD"><span class="title">Zapisywanie plików na płycie CD lub DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Umieszczanie plików i dokumentów na pustej płycie CD lub DVD za pomocą nagrywarki.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="removable" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Nośniki wymienne i dyski zewnętrzne</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pl-PL" title="Open applications for devices or discs"><span class="title">Open applications for devices or discs</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically run applications for CDs and DVDs, cameras,
-    audio players, and other devices and media.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.pl-PL" title="Safely remove an external drive"><span class="title">Safely remove an external drive</span><span class="linkdiv-dash"> — </span><span class="desc">Eject or unmount a USB flash drive, CD, DVD, or other device.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.pl-PL" title="Bezpieczne usuwanie zewnętrznego dysku"><span class="title">Bezpieczne usuwanie zewnętrznego dysku</span><span class="linkdiv-dash"> — </span><span class="desc">Wysuwanie lub odmontowywanie dysku USB, płyty CD i DVD lub innego urządzenia.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pl-PL" title="Otwieranie programów dla urządzeń i płyt"><span class="title">Otwieranie programów dla urządzeń i płyt</span><span class="linkdiv-dash"> — </span><span class="desc">Automatyczne uruchamianie programów dla płyt CD/DVD, aparatów, odtwarzaczy muzyki i innych urządzeń i nośników.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="backup" class="sect"><div class="inner">
@@ -141,16 +130,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Wskazówki i pytania</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.pl-PL" title="Edit folder bookmarks"><span class="title">Edit folder bookmarks</span><span class="linkdiv-dash"> — </span><span class="desc">Add, delete, and rename bookmarks in the file manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-select.html.pl-PL" title="Select files by pattern"><span class="title">Select files by pattern</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> to select multiple
-    files which have similar names.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-templates.html.pl-PL" title="Templates for commonly-used document types"><span class="title">Templates for commonly-used document types</span><span class="linkdiv-dash"> — </span><span class="desc">Quickly create new documents from custom file templates.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.pl-PL" title="Czym są pliki ze znakiem ~ na końcu ich nazw?"><span class="title">Czym są pliki ze znakiem <span class="file">~</span> na końcu ich nazw?</span><span class="linkdiv-dash"> — </span><span class="desc">To pliki zapasowe. Są domyślnie ukryte.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.pl-PL" title="Modyfikowanie zakładek"><span class="title">Modyfikowanie zakładek</span><span class="linkdiv-dash"> — </span><span class="desc">Dodawanie, usuwanie i zmienianie nazw zakładek w menedżerze plików.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-templates.html.pl-PL" title="Szablony często używanych typów dokumentów"><span class="title">Szablony często używanych typów dokumentów</span><span class="linkdiv-dash"> — </span><span class="desc">Szybkie tworzenie nowych dokumentów z szablonów.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.pl-PL" title="Ukrywanie pliku"><span class="title">Ukrywanie pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Make a file invisible, so you cannot see it in the file
-    manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.pl-PL" title="Ustawianie uprawnień plików"><span class="title">Ustawianie uprawnień plików</span><span class="linkdiv-dash"> — </span><span class="desc">Control who can view and edit your files and folders.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.pl-PL" title="What is a file with a ~ at the end of its name?"><span class="title">What is a file with a <span class="file">~</span> at the end of its name?</span><span class="linkdiv-dash"> — </span><span class="desc">These are backup files. They are hidden by default.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.pl-PL" title="Ukrywanie pliku"><span class="title">Ukrywanie pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Ustawianie pliku jako niewidoczny w menedżerze plików.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.pl-PL" title="Ustawianie uprawnień plików"><span class="title">Ustawianie uprawnień plików</span><span class="linkdiv-dash"> — </span><span class="desc">Kontrola, kto może wyświetlać i modyfikować pliki i katalogi użytkownika.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-select.html.pl-PL" title="Zaznaczanie plików według wzorów"><span class="title">Zaznaczanie plików według wzorów</span><span class="linkdiv-dash"> — </span><span class="desc">Naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span>, aby zaznaczyć wiele plików z podobnymi nazwami.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -158,7 +145,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html.pl-PL" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu">Podręcznik pulpitu Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -168,7 +155,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

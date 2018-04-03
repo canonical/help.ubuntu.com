@@ -64,33 +64,30 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-chat.html.nl" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-chat.html.nl" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Videogesprekken</span></h1></div>
 <div class="region">
-<div class="contents">
-<p class="p">U kunt vanuit Ubuntu videogesprekken voeren zonder extra software te installeren door gebruik te maken van <span class="app">Empathy</span> - via de netwerken van <span class="em">Google Talk</span>, <span class="em">MSN </span>, <span class="em">Jabber </span>, en <span class="em">SIP</span>. 
-Raadpleeg <span class="link"><a href="https://help.gnome.org/users/empathy/stable/?audio-video" title="https://help.gnome.org/users/empathy/stable/?audio-video">de Empathy-handleiding</a></span> voor hulp over het houden van videogesprekken met <span class="app">Empathy</span>.</p>
-<div class="list"><div class="inner">
-<div class="title title-list"><h2><span class="title">Andere toepassingen die videogesprekken ondersteunen zijn o.a.</span></h2></div>
+<div class="contents"><div class="list"><div class="inner">
+<div class="title title-list"><h2><span class="title">Applications which support video calls include</span></h2></div>
 <div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="https://apps.ubuntu.com/cat/applications/skype" title="https://apps.ubuntu.com/cat/applications/skype">Skype</a></span></span></p></li>
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="https://apps.ubuntu.com/cat/applications/ekiga" title="https://apps.ubuntu.com/cat/applications/ekiga">Ekiga</a></span></span></p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="net-chat-empathy.html.nl" title="Chatten in Ubuntu">Empathy</a></span></span>
+    </p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="net-chat-skype.html.nl" title="Hoe kan ik Skype gebruiken in Ubuntu?">Skype</a></span></span>
+    </p></li>
+<li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Ekiga</a></span></span></p></li>
 </ul></div>
-</div></div>
-</div>
+</div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.nl" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.nl" title="Chatten in Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.nl" title="Videogesprekken">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.nl" title="Hoe kan ik Skype gebruiken in Ubuntu?">install skype</a></span>
-    </span>
+<a href="net-chat.html.nl" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.nl" title="Chatten in Ubuntu">Chatten op een netwerk met behulp van <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.nl" title="Videogesprekken">video gesprekken voeren</a></span>, <span class="link"><a href="net-chat-skype.html.nl" title="Hoe kan ik Skype gebruiken in Ubuntu?">skype installeren</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -113,7 +110,7 @@ Raadpleeg <span class="link"><a href="https://help.gnome.org/users/empathy/stabl
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

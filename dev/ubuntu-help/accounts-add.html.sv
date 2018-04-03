@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätkonton</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Nätkonton</span> för att öppna panelen.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">+</span>-knappen i nedre vänstra hörnet av fönstret.</p></li>
+<li class="steps"><p class="p">Välj ett konto från listan till höger.</p></li>
 <li class="steps"><p class="p">Välj typen av konto som du vill lägga till.</p></li>
 <li class="steps"><p class="p">Ett litet webbplatsfönster eller dialogruta kommer att öppnas där du kan mata in dina autentiseringsuppgifter för ditt nätkonto. Om du till exempel ska ställa in ett Google-konto så mata in ditt användarnamn och lösenord från Google. Vissa leverantörer låter dig skapa ett nytt konto från dialogrutan för inloggning.</p></li>
 <li class="steps"><p class="p">Om du har matat in autentiseringsuppgifter korrekt så kommer du att bli tillfrågad om du vill ge GNOME behörighet att nå ditt nätkonto. Ge behörighet för att fortsätta.</p></li>
@@ -99,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

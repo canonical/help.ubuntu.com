@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.cs" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="addremove.html.cs" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Přidávání zdrojů softwaru</span></h1></div>
@@ -79,13 +79,13 @@
 </p>
 <p class="p">Pro přidání repozitáře:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klikněte na ikonu <span class="app">Ubuntu Software</span> v <span class="gui">Docku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
+<li class="steps"><p class="p">Klikněte na ikonu <span class="app">Ubuntu Software</span> v <span class="gui">Doku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
 <li class="steps"><p class="p">Když se <span class="app">Ubuntu Software</span> spustí, klikněte na <span class="gui">Software &amp; Aktualizace</span></p></li>
 <li class="steps"><p class="p">Budete požádání o zadání hesla. Jakmile tak učiníte, přejděte na kartu<span class="gui">Ostatní software</span>.</p></li>
 <li class="steps">
 <p class="p">Klikněte na <span class="gui">Přidat</span> a vložte APT řádku zdroje. Ta by měla být dostupná na webové stránce zdroje softwaru a měla by vypadat podobně jako:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
 <li class="steps"><p class="p">
@@ -106,8 +106,8 @@
 <p class="p">
       The Canonical Partner repository offers some proprietary applications 
       that don't cost any money to use but are closed source. They include 
-      software like <span class="app">Skype</span> and <span class="app">Adobe Flash Plugin</span>. Software
-      in this repository will appear in <span class="app">Ubuntu Software</span> search results
+      software like <span class="app">Adobe Flash Plugin</span>. Software in this
+      repository will appear in <span class="app">Ubuntu Software</span> search results
       but won't be installable until this repository is enabled.
     </p>
 <p class="p">
@@ -118,7 +118,7 @@
       <span class="gui">Add</span> and enter:
     </p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
 <p class="p">
       Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. Wait a 
@@ -150,7 +150,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

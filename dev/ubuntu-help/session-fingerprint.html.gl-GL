@@ -72,7 +72,7 @@
 <div class="contents"><p class="p">If your system has a supported fingerprint scanner, you can record your
   fingerprint and use it to log in.</p></div>
 <div id="record" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Record a fingerprint</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Rexistrar unha pegada dixital</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Before you can log in with your fingerprint, you need to record it so that
   the system can use it to identify you.</p>
@@ -80,9 +80,9 @@
 <p class="p">You need <span class="link"><a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">administrator privileges</a></span>
   to edit user accounts other than your own.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Users</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Usuarios</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Disabled</span>, next to <span class="gui">Fingerprint Login</span> to
       add a fingerprint for the selected account. If you are adding the
       fingerprint for a different user, you will first need to
@@ -100,12 +100,11 @@
 </div></div>
 </div></div>
 <div id="verify" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that your fingerprint works</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Comprobar que a súa pegada dixital funciona</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Agora comprobe que funciona o seu novo inicio de sesión con pegada dixital. Se rexistra unha pegada dixital, aínda ten a opción de iniciar sesión co seu contrasinal.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then <span class="link"><a href="shell-exit.html.gl-GL#logout" title="Saír da sesión ou trocar de usuario">log
-      out</a></span>.</p></li>
+<li class="steps"><p class="p">Garde calquera traballo aberto, e logo <span class="link"><a href="shell-exit.html.gl-GL" title="Saír da sesión, apagar e trocar de usuarios">peche a sesión</a></span>.</p></li>
 <li class="steps"><p class="p">Na pantalla de inicio de sesión, seleccione o seu nome de usuario da lista. Aparecerá o formulario de entrada de contrasinal.</p></li>
 <li class="steps"><p class="p">Instead of typing your password, you should be able to swipe your
       finger on the fingerprint reader.</p></li>
@@ -128,7 +127,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

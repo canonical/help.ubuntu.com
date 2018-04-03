@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Screenshots and screencasts</title>
+<title>Zrzuty i nagrania ekranu</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,86 +64,56 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.pl-PL" title="Porady i wskazówki">Porady i wskazówki</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="tips.html.pl-PL" title="Porady i wskazówki">Porady i wskazówki</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Screenshots and screencasts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Zrzuty i nagrania ekranu</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can take a picture of your screen (a <span class="em">screenshot</span>) or record a
-  video of what is happening on the screen (a <span class="em">screencast</span>). This is
-  useful if you want to show someone how to do something on the computer, for
-  example. Screenshots and screencasts are just normal picture and video files,
-  so you can email them and share them on the web.</p></div>
+<div class="contents"><p class="p">Można zrobić zdjęcie ekranu (<span class="em">zrzut ekranu</span>) lub nagrać wideo tego, co dzieje się na ekranie (<span class="em">nagranie ekranu</span>). Jest to przydatne na przykład do pokazywania innym, jak zrobić coś na komputerze. Zrzuty i nagrania ekranu to zwykłe pliki obrazów i filmów, więc można je wysyłać pocztą e-mail i udostępniać w Internecie.</p></div>
 <div id="screenshot" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Wykonanie zrzutu ekranu</span></h2></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Screenshot</span> from the
-      <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">In the <span class="app">Screenshot</span> window, select whether to grab the whole
-      screen, the current window, or an area of the screen. Set a delay if you
-      need to select a window or otherwise set up your desktop for the
-      screenshot. Then choose any effects you want.</p></li>
+<li class="steps"><p class="p">Otwórz program <span class="app">Zrzut ekranu</span> z <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekranu podglądu</a></span>.</p></li>
+<li class="steps"><p class="p">W oknie <span class="app">Zrzut ekranu</span> wybierz, czy zapisać cały ekran, obecne okno lub obszar ekranu. Ustaw opóźnienie, jeśli potrzeba wybrać okno lub przygotować ekran na zrzut w inny sposób. Następnie wybierz efekty.</p></li>
 <li class="steps">
-<p class="p">Click <span class="gui">Take Screenshot</span>.</p>
-<p class="p">If you selected <span class="gui">Select area to grab</span>, the pointer changes
-       into a crosshair. Click and drag the area you want for the
-       screenshot.</p>
+<p class="p">Kliknij przycisk <span class="gui">Wykonaj zrzut ekranu</span>.</p>
+<p class="p">Jeśli wybrano opcję <span class="gui">Zaznaczony obszar</span>, to kursor zmieni się w krzyżyk. Kliknij i przeciągnij obszar do zapisania jako zrzut ekranu.</p>
 </li>
 <li class="steps">
-<p class="p">In the <span class="gui">Save Screenshot</span> window, enter a file name and choose
-      a folder, then click <span class="gui">Save</span>.</p>
-<p class="p">Alternatively, import the screenshot directly into an image-editing
-      application without saving it first. Click <span class="gui">Copy to Clipboard</span>
-      then paste the image in the other application, or drag the screenshot
-      thumbnail to the application.</p>
+<p class="p">W oknie <span class="gui">Zapis zrzutu ekranu</span> wpisz nazwę pliku i wybierz katalog, a następnie kliknij przycisk <span class="gui">Zapisz</span>.</p>
+<p class="p">Można także zaimportować zrzut ekranu bezpośrednio do programu do obróbki obrazów bez zapisywania go. Kliknij przycisk <span class="gui">Skopiuj do schowka</span>, a następnie wklej obraz do innego programu lub przeciągnij do niego miniaturę zrzutu.</p>
 </li>
 </ol></div></div></div></div>
 <div id="keyboard-shortcuts" class="sect"><div class="inner">
 <div class="hgroup"><h3 class="title"><span class="title">Skróty klawiszowe</span></h3></div>
 <div class="region"><div class="contents">
-<p class="p">Quickly take a screenshot of the desktop, a window, or an area at any
-    time using these global keyboard shortcuts:</p>
+<p class="p">W każdej chwili można szybko wykonywać zrzuty ekranu, okna lub obszaru za pomocą tych globalnych skrótów klawiszowych:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="key"><kbd>Prt Scrn</kbd></span> to take a screenshot of the desktop.</p></li>
-<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Prt Scrn</kbd></span></span> to take a
-        screenshot of a window.</p></li>
-<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Prt Scrn</kbd></span></span> to take a
-        screenshot of an area you select.</p></li>
+<li class="list"><p class="p"><span class="key"><kbd>Prt Scrn</kbd></span> wykonuje zrzut ekranu.</p></li>
+<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Prt Scrn</kbd></span></span> wykonuje zrzut okna.</p></li>
+<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Prt Scrn</kbd></span></span> wykonuje zrzut zaznaczonego obszaru.</p></li>
 </ul></div></div></div>
-<p class="p">When you use a keyboard shortcut, the image is automatically saved in
-    your <span class="file">Pictures</span> folder in your home folder with a file name that
-    begins with <span class="file">Screenshot</span> and includes the date and time it was
-    taken.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">If you do not have a <span class="file">Pictures</span> folder, the images will be
-      saved in your home folder instead.</p></div></div></div></div>
-<p class="p">You can also hold down <span class="key"><kbd>Ctrl</kbd></span> with any of the above shortcuts
-    to copy the screenshot image to the clipboard instead of saving it.</p>
+<p class="p">Po użyciu skrótu klawiszowego obraz jest automatycznie zapisywany w katalogu <span class="file">Obrazy</span> w katalogu domowym jako plik o nazwie zaczynającej się od <span class="file">Zrzut ekranu</span> i zawierającej datę i czas jego wykonania.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli użytkownik nie ma katalogu <span class="file">Obrazy</span>, to obrazy będą zapisywane w katalogu domowym.</p></div></div></div></div>
+<p class="p">Można także przytrzymać klawisz <span class="key"><kbd>Ctrl</kbd></span> podczas używania powyższych skrótów, aby skopiować zrzut do schowka zamiast go zapisywać.</p>
 </div></div>
 </div></div>
 </div>
 </div></div>
 <div id="screencast" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Make a screencast</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Wykonywanie nagrania ekranu</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can make a video recording of what is happening on your screen:</p>
+<p class="p">Można wykonać nagranie wideo tego, co dzieje się na ekranie:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Press
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span>
-      to start recording what is on your screen.</p>
-<p class="p">A red circle is displayed in the top right corner of the screen
-      when the recording is in progress.</p>
+<p class="p">Naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span>, aby zacząć nagrywać to, co dzieje się na ekranie.</p>
+<p class="p">W czasie trwania nagrywania w górnym prawym rogu ekranu wyświetlane jest czerwone kółko.</p>
 </li>
-<li class="steps"><p class="p">Once you have finished, press
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span>
-      again to stop the recording.</p></li>
-<li class="steps"><p class="p">The video is automatically saved in your <span class="file">Videos</span> folder
-      in your home folder, with a file name that starts with
-      <span class="file">Screencast</span> and includes the date and time it was taken.</p></li>
+<li class="steps"><p class="p">Po ukończeniu naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span> ponownie, aby zatrzymać nagrywanie.</p></li>
+<li class="steps"><p class="p">Plik wideo jest automatycznie zapisywany w katalogu <span class="file">Wideo</span> w katalogu domowym jako plik o nazwie zaczynającej się od <span class="file">Nagranie ekranu</span> i zawierającej datę i czas jego wykonania.</p></li>
 </ol></div></div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">If you do not have a <span class="file">Videos</span> folder, the videos will be
-    saved in your home folder instead.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli użytkownik nie ma katalogu <span class="file">Wideo</span>, to pliki wideo będą zapisywane w katalogu domowym.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -151,7 +121,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html.pl-PL" title="Porady i wskazówki">Porady i wskazówki</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.pl-PL" title="Wpisywanie znaków specjalnych">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy">middle click shortcuts</a></span>…</span>
+<a href="tips.html.pl-PL" title="Porady i wskazówki">Porady i wskazówki</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.pl-PL" title="Wpisywanie znaków specjalnych">Znaki specjalne</a></span>, <span class="link"><a href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy">skróty za pomocą kliknięcia środkowym przyciskiem myszy</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -162,7 +132,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

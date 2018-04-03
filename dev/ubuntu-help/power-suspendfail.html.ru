@@ -118,9 +118,6 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-hibernate.html.ru" title="Как мне перевести мой компьютер в спящий режим?">Как мне перевести мой компьютер в спящий режим?</a><span class="desc"> — Спящий режим отключён по умолчанию, поскольку плохо поддерживается.</span>
-</li>
-<li class="links ">
 <a href="power-closelid.html.ru" title="Почему мой компьютер отключается, когда я закрываю его крышку?">Почему мой компьютер отключается, когда я закрываю его крышку?</a><span class="desc"> — Ноутбуки переходят в ждущий режим при закрытии крышки для экономии электроэнергии.</span>
 </li>
 <li class="links ">
@@ -143,7 +140,7 @@ because suspend is not supported properly by your hardware.</p></div>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use alternative keyboard layouts</title>
+<title>Alternatywne układy klawiatury</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,73 +65,37 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » <a class="trail" href="keyboard-shortcuts-set.html.pl-PL" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » <a class="trail" href="keyboard-shortcuts-set.html.pl-PL" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » <a class="trail" href="keyboard-shortcuts-set.html.pl-PL" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » <a class="trail" href="keyboard-shortcuts-set.html.pl-PL" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-language.html.pl-PL" title="Region i język">Region i język</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="prefs-language.html.pl-PL" title="Region i język">Region i język</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use alternative keyboard layouts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Alternatywne układy klawiatury</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Keyboards come in hundreds of different layouts for different languages.
-  Even for a single language, there are often multiple keyboard layouts, such
-  as the Dvorak layout for English. You can make your keyboard behave like a
-  keyboard with a different layout, regardless of the letters and symbols
-  printed on the keys. This is useful if you often switch between multiple
-  languages.</p>
+<p class="p">Klawiatury mają setki różnych układów dla różnych języków. Nawet dla jednego języka często dostępnych jest wiele układów klawiatury, np. układ Dvoraka dla języka angielskiego. Można ustawić inny układ dla klawiatury, niezależnie od liter i symboli wydrukowanych na klawiszach. Jest to przydatne, jeśli potrzeba często przełączać między kilkoma językami.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
-      select the language which is associated with the layout, then select a
-      layout and press <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Region i język</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Region i język</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">+</span> w sekcji <span class="gui">Źródła wprowadzania</span>, wybierz język powiązany z układem, a następnie wybierz układ i kliknij przycisk <span class="gui">Dodaj</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Some rarely used keyboard layout variants are not available by default when you click
-    the <span class="gui">+</span> button. To make also those input sources available you can open a terminal
-    window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>
-    and run this command:</p>
+<p class="p">Jeśli na komputerze jest wiele kont użytkowników, to dostępny jest oddzielny panel <span class="gui">Region i język</span> dla ekranu logowania. Kliknij przycisk <span class="gui">Ekran logowania</span> w górnym prawym rogu, aby przełączyć między panelami.</p>
+<p class="p">Część rzadko używanych układów klawiatury nie jest domyślnie dostępna po kliknięciu przycisku <span class="gui">+</span>. Aby były one dostępne, można otworzyć okno terminala naciskając klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> i wykonać to polecenie:</p>
 <p class="p"><span class="cmd">gsettings set org.gnome.desktop.input-sources show-all-sources true</span></p>
 </div></div></div></div>
-<div class="note note-sidebar" title="Panel boczny"><div class="inner"><div class="region"><div class="contents"><p class="p">You can preview an image of any layout by selecting it in the list of
-    <span class="gui">Input Sources</span> and clicking
-    <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="preview"></span></span></span></p></div></div></div></div>
-<p class="p">Certain languages offer some extra configuration options. You can
-  identify those languages because they have a
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="preview"></span></span></span> icon next to them. If you want to access
-  these extra parameters, select the language from the <span class="gui">Input Source</span>
-  list and a new
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" height="16" width="16" class="media media-inline" alt="preferences"></span></span></span> button will give you access
-  to the extra settings.</p>
-<p class="p">When you use multiple layouts, you can choose to have all windows use the
-  same layout or to set a different layout for each window. Using a different
-  layout for each window is useful, for example, if you’re writing an article
-  in another language in a word processor window. Your keyboard selection will
-  be remembered for each window as you switch between windows. Press the
-  <span class="gui">Options</span> button to select how you want to manage
-  multiple layouts.</p>
-<p class="p">The top bar will display a short identifier for the current layout, such as
-  <span class="gui">en</span> for the standard English layout. Click the layout indicator and
-  select the layout you want to use from the menu. If the selected language has
-  any extra settings, they will be shown below the list of available layouts.
-  This gives you a quick overview of your settings. You can also open an image
-  with the current keyboard layout for reference.</p>
-<p class="p">The fastest way to change to another layout is by using the 
-  <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
-  the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
-  By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
-  and to the previous one with
-  <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
-  change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
+<div class="note note-sidebar" title="Panel boczny"><div class="inner"><div class="region"><div class="contents"><p class="p">Można wyświetlić podgląd układu zaznaczając go na liście <span class="gui">Źródła wprowadzania</span> i klikając przycisk <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="podgląd"></span></span></span>.</p></div></div></div></div>
+<p class="p">Pewne języki oferują dodatkowe opcje konfiguracji. Języki z opcjami mają ikonę <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="podgląd"></span></span></span>. Aby z nich skorzystać, wybierz język z listy <span class="gui">Źródło wprowadzania</span>, a następnie nowy przycisk <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" height="16" width="16" class="media media-inline" alt="preferencje"></span></span></span>.</p>
+<p class="p">Podczas używania wielu układów można wybrać, aby wszystkie okna miały ten sam układ lub aby każde okno miało swój własny. Używanie różnych układów dla każdego okna jest przydatne na przykład do pisania artykułu w innym języku w oknie edytora tekstu. Wybór klawiatury będzie pamiętany dla każdego okna podczas przełączania między oknami. Kliknij przycisk <span class="gui">Opcje</span>, aby wybrać sposób zarządzania wieloma układami.</p>
+<p class="p">Górny pasek będzie wyświetlał krótki identyfikator obecnego układu, na przykład <span class="gui">pl</span> dla standardowego układu języka polskiego. Kliknij wskaźnik układu i wybierz układ do użycia z menu. Jeśli wybrany język ma dodatkowe ustawienia, to będą wyświetlane pod listą dostępnych układów. Daje to szybki przegląd ustawień. Można także otworzyć podgląd obecnego układu.</p>
+<p class="p">Najszybszym sposobem zmiany na inny układ jest użycie <span class="gui">skrótów klawiszowych</span> <span class="gui">źródeł wprowadzania</span>. Te skróty otwierają okno wyboru <span class="gui">Źródła wprowadzania</span>, w którym można przechodzić do przodu i do tyłu. Domyślnie można przełączać na następne źródło wprowadzania za pomocą klawiszy <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Spacja</kbd></span></span> i na poprzedni za pomocą klawiszy <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Spacja</kbd></span></span>. Można zmienić te skróty w ustawieniach <span class="gui">Klawiatury</span>.</p>
 <p class="p"><span class="media"><span class="media media-image"><img src="figures/input-methods-switcher.png" class="media media-inline" alt=""></span></span></p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -141,25 +105,20 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Alternatywne układy klawiatury">Układy klawiatury</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Ustawianie migania kursora klawiatury">miganie kursora</a></span>, <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">ułatwienia dostępu klawiatury</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html.pl-PL" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html.pl-PL" title="Zmiana używanego języka">Język</a></span>, <span class="link"><a href="session-formats.html.pl-PL" title="Change date and measurement formats">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">układy klawiatury</a></span>…</span>
+<a href="prefs-language.html.pl-PL" title="Region i język">Region i język</a><span class="desc"> — <span class="link"><a href="session-language.html.pl-PL" title="Zmiana używanego języka">Język</a></span>, <span class="link"><a href="session-formats.html.pl-PL" title="Zmiana formatu daty i jednostek">region i formaty</a></span>, <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Alternatywne układy klawiatury">układy klawiatury</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html.pl-PL" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
-    settings.</span>
+<a href="keyboard-shortcuts-set.html.pl-PL" title="Ustawianie skrótów klawiszowych">Ustawianie skrótów klawiszowych</a><span class="desc"> — Dodawanie i zmienianie skrótów klawiszowych w ustawieniach <span class="gui">Klawiatury</span>.</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips-specialchars.html.pl-PL" title="Wpisywanie znaków specjalnych">Wpisywanie znaków specjalnych</a><span class="desc"> — Type characters not found on your keyboard, including foreign alphabets, mathematical symbols, and dingbats.</span>
+<a href="tips-specialchars.html.pl-PL" title="Wpisywanie znaków specjalnych">Wpisywanie znaków specjalnych</a><span class="desc"> — Wpisywanie znaków, których nie ma na klawiaturze, w tym z innych alfabetów, symbole matematyczne i inne kształty.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -171,7 +130,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

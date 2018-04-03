@@ -70,9 +70,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Vieta un valoda</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.lv" title="Izmantojiet alternatīvus tastatūru izkārtojumus"><span class="title">Izmantojiet alternatīvus tastatūru izkārtojumus</span><span class="linkdiv-dash"> — </span><span class="desc">Pievienot tastatūru izkārtojumus un starp tiem pārslēgties.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-language.html.lv" title="Mainīt datora valodu"><span class="title">Mainīt datora valodu</span><span class="linkdiv-dash"> — </span><span class="desc">Pārslēgt lietotāja saskarni un palīdzības tekstus uz citu valodu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-formats.html.lv" title="Mainīt datuma un mērvienību formātus"><span class="title">Mainīt datuma un mērvienību formātus</span><span class="linkdiv-dash"> — </span><span class="desc">Izvēlēties reģionu, kuram pieskaņot datumu un laiku, skaitļus, valūtu un mērvienības.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.lv" title="Use alternative keyboard layouts"><span class="title">Use alternative keyboard layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

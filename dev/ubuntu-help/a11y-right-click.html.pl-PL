@@ -65,11 +65,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pl-PL" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="a11y.html.pl-PL" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -78,7 +78,7 @@
 <div class="contents">
 <p class="p">Można klikać prawym przyciskiem myszy przez przytrzymanie lewego przycisku myszy. Jest to przydatne, jeśli ruszanie pojedynczymi palcami jednej ręki sprawia trudności, albo jeśli urządzenie wskazujące ma tylko jeden przycisk.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ułatwienia dostępu</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Naciśnij <span class="gui">Wspomaganie klikania</span> w sekcji <span class="gui">Wskazywanie i klikanie</span>.</p></li>
 <li class="steps"><p class="p">Przełącz <span class="gui">Symulowanie przycisku pomocniczego</span> na <span class="gui">|</span> (włączone).</p></li>
@@ -86,7 +86,7 @@
 <p class="p">Można zmienić czas przytrzymania lewego przycisku myszy potrzebny do zarejestrowania go jako kliknięcie prawym przyciskiem myszy zmieniając <span class="gui">Opóźnienie akceptacji</span>.</p>
 <p class="p">Aby kliknąć prawym przyciskiem myszy za pomocą symulowanego przycisku pomocniczego, przytrzymaj lewy przycisk myszy tam, gdzie chcesz wykonać kliknięcie. Puść go, kiedy kursor w pełni wypełni się innym kolorem.</p>
 <p class="p">Niektóre kursory nie zmieniają koloru, na przykład te do zmiany rozmiaru okna. Nawet wtedy można używać symulowanego przycisku pomocniczego, po prostu kursor nie będzie się zmieniał.</p>
-<p class="p">Jeśli używasz funkcji <span class="link"><a href="mouse-mousekeys.html.pl-PL" title="Click and move mouse pointer using the keypad">Klawisze myszy</a></span>, to można także klikać prawym przyciskiem myszy przytrzymując klawisz <span class="key"><kbd>5</kbd></span> na klawiaturze numerycznej.</p>
+<p class="p">Jeśli używasz funkcji <span class="link"><a href="mouse-mousekeys.html.pl-PL" title="Klikanie i przenoszenie kursora myszy za pomocą klawiatury numerycznej">Klawisze myszy</a></span>, to można także klikać prawym przyciskiem myszy przytrzymując klawisz <span class="key"><kbd>5</kbd></span> na klawiaturze numerycznej.</p>
 <div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Na <span class="gui">ekranie podglądu</span> zawsze można przytrzymywać lewy przycisk, aby kliknąć prawym przyciskiem myszy, nawet jeśli ta funkcja jest wyłączona. Działa on jednak trochę inaczej: nie trzeba puścić przycisku, aby nastąpiło kliknięcie.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -95,11 +95,7 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html.pl-PL" title="Mysz">Mysz</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html.pl-PL" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html.pl-PL" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html.pl-PL" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
-    </span>
+<a href="mouse.html.pl-PL" title="Mysz">Mysz</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.pl-PL" title="Używanie myszy leworęcznej">Mysz leworęczna</a></span>, <span class="link"><a href="mouse-sensitivity.html.pl-PL" title="Dostosowanie prędkości myszy i panelu dotykowego">prędkość kursora</a></span>, <span class="link"><a href="mouse-touchpad-click.html.pl-PL" title="Klikanie, przeciąganie i przewijanie za pomocą panelu dotykowego">klikanie i przewijanie za pomocą panelu dotykowego</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a></li>
 </ul></div>
@@ -112,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

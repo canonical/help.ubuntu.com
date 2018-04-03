@@ -77,11 +77,10 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.sl" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.sl" title="Kaj se zgodi, ko pošljem računalnik v pripravljenost?"><span class="title">Kaj se zgodi, ko pošljem računalnik v pripravljenost?</span><span class="linkdiv-dash"> — </span><span class="desc">Prehod v stanje pripravljenosti pošlje vaš računalnik v stanje pripravljenosti, da porabi manj energije.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.sl" title="Kako dam računalnik v mirovanje?"><span class="title">Kako dam računalnik v mirovanje?</span><span class="linkdiv-dash"> — </span><span class="desc">Mirovanje je privzeto onemogočeno, ker ni dobro podprto.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.sl" title="Kako dobiti največ iz baterije prenosnika"><span class="title">Kako dobiti največ iz baterije prenosnika</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.sl" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kako se odjavite, preklapljate med uporabniki in še več.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.sl" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kako se odjavite, preklapljate med uporabniki in še več.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.sl" title="Poraba manjše količine energije in podaljšanje trajanja baterije"><span class="title">Poraba manjše količine energije in podaljšanje trajanja baterije</span><span class="linkdiv-dash"> — </span><span class="desc">Namigi za zmanjšanje porabe vašega računalnika.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.sl" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.sl" title="Zakaj se moj računalnik ob zaprtju pokrova izklopi?"><span class="title">Zakaj se moj računalnik ob zaprtju pokrova izklopi?</span><span class="linkdiv-dash"> — </span><span class="desc">Prenosniki gredo ob zaprtju pokrova v stanje pripravljenosti za varčevanje z energijo.</span></a></div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

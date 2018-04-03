@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Media card reader problems</title>
+<title>Problemy z czytnikami kart</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,45 +65,23 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html.pl-PL#photos" title="Zdjęcia i aparaty">Zdjęcia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html.pl-PL#photos" title="Zdjęcia i aparaty">Zdjęcia</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Media card reader problems</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Problemy z czytnikami kart</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Many computers contain readers for SD, MMC, SM, MS, CF, and other storage media
-cards. These should be automatically detected and <span class="link"><a href="disk-partitions.html.pl-PL" title="Manage volumes and partitions">mounted</a></span>. Here are some
-troubleshooting steps if they are not:</p>
+<p class="p">Wiele komputerów ma czytniki kart SD, MMC, SM, MS, CF i innych. Są one automatycznie wykrywane i <span class="link"><a href="disk-partitions.html.pl-PL" title="Zarządzanie woluminami i partycjami">montowane</a></span>. Poniższe instrukcje mogą pomóc, jeśli coś nie działa.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"> Make sure that the card is put in correctly. Many cards look as though they are
-upside down when correctly inserted. Also make sure that the card is firmly seated
-in the slot; some cards, especially CF, require a small amount of force to insert
-correctly. (Be careful not to push too hard! If you come up against something solid,
-do not force it.)</p></li>
-<li class="steps"><p class="p">Open <span class="app">Files</span> from the
-  <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span> overview. Does the inserted
-  card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
-  card appears in this list but is not mounted; click it once to mount. (If the
-  sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
-  the top bar and select the <span class="gui">Sidebar</span>.)</p></li>
-<li class="steps"><p class="p">If your card does not show up in the sidebar, press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, then type
-  <span class="input">computer:///</span> and press <span class="key"><kbd>Enter</kbd></span>. If your card reader
-  is correctly configured, the reader should come up as a drive when no card is
-  present, and the card itself when the card has been mounted.</p></li>
-<li class="steps"><p class="p">If you see the card reader but not the card, the problem may be with the card itself.
-Try a different card or check the card on a different reader if possible.</p></li>
+<li class="steps"><p class="p">Upewnij się, że karta jest właściwie włożona. Wiele kart po poprawnym włożeniu wygląda, jakby były do góry nogami. Upewnij się też, że karta mocno siedzi w gnieździe. Niektóre karty, zwłaszcza CF, wymagają włożenia nieco siły. Uważaj, żeby nie ścisnąć za mocno. Nie pchaj, jeśli gniazdo sprawia opór.</p></li>
+<li class="steps"><p class="p">Otwórz program <span class="app">Pliki</span> z <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekranu podglądu</a></span>. Czy włożona karta pojawiła się na liście <span class="gui">Urządzenia</span> w lewym panelu? Czasami karta pojawia się na tej liście, ale nie jest zamontowana. Kliknij ją, aby zamontować. Jeśli panel boczny jest niewidoczny, to naciśnij klawisz <span class="key"><kbd>F9</kbd></span> lub kliknij <span class="gui">Pliki</span> na górnym pasku i zaznacz opcję <span class="gui">Panel boczny</span>.</p></li>
+<li class="steps"><p class="p">Jeśli karta nie pojawia się na panelu bocznym, to naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, a następnie wpisz <span class="input">computer:///</span> i naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>. Jeśli czytnik kart jest poprawnie skonfigurowany, to powinien być wyświetlany jako napęd, kiedy żadna karta nie jest włożona, i jako karta, kiedy jest włożona.</p></li>
+<li class="steps"><p class="p">Jeśli widoczny jest czytnik kart, ale nie karta, to problem może leżeć w karcie. Spróbuj użyć innej karty lub sprawdź kartę w innym czytniku, jeśli to możliwe.</p></li>
 </ol></div></div></div>
-<p class="p">If no cards or drives are shown when browsing the <span class="gui">Computer</span>
-location, it is possible that your card reader does not work with Linux due to
-driver issues. If your card reader is internal (inside the computer instead of
-sitting outside) this is more likely. The best solution is to directly connect
-your device (camera, cell phone, etc.) to a USB port on the computer. USB
-external card readers are also available, and are far better supported by
-Linux.</p>
+<p class="p">Jeśli żadne karty ani napędy nie są wyświetlane w położeniu <span class="gui">Komputer</span>, to możliwe, że czytnik kart nie działa w systemie Linux z powodu problemów ze sterownikiem. Jeśli czytnik kart jest wewnętrzny (w środku komputera, nie oddzielnie), to jest to bardziej prawdopodobne. Najlepszym rozwiązaniem jest bezpośrednie podłączenie urządzenia (aparatu, telefonu itp.) do portu USB w komputerze. Dostępne są także zewnętrzne czytniki USB, które są dużo lepiej obsługiwane w systemie Linux.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -122,7 +100,7 @@ Linux.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

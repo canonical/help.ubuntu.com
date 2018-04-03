@@ -75,8 +75,7 @@
   internet connection you’ve made with another interface, such as to a wired
   network or over the cellular network.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#yourname" title="You and your computer">system menu</a></span> from the right
-    side of the top bar.</p></li>
+<li class="steps"><p class="p">Obriu el  <span class="gui"><a href="shell-introduction.html.ca#yourname" title="You and your computer">menú de sistema</a></span> des de la part dreta a la barra superior.</p></li>
 <li class="steps"><p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
       Wi-Fi Not Connected</span> or the name of the wireless network to which
@@ -112,7 +111,7 @@ will need this information to connect to the hotspot you’ve just created.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

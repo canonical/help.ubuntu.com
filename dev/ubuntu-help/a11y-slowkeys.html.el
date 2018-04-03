@@ -102,7 +102,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.el#mobility" title="Κινητικά προβλήματα">Κινητικά προβλήματα</a></li>
 <li class="links ">
-<a href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.el" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.el" title="Κάντε τον δρομέα πληκτρολογίου να αναβοσβήνει">αναβόσβησμα δρομέα</a></span>, <span class="link"><a href="a11y.html.el#mobility" title="Κινητικά προβλήματα">προσιτότητα πληκτρολογίου</a></span>…</span>
+<a href="keyboard.html.el" title="Πληκτρολόγιο">Πληκτρολόγιο</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.el" title="Χρήση εναλλακτικών διατάξεων πληκτρολογίου">Διατάξεις πληκτρολογίου</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.el" title="Κάντε τον δρομέα πληκτρολογίου να αναβοσβήνει">αναβόσβησμα δρομέα</a></span>, <span class="link"><a href="a11y.html.el#mobility" title="Κινητικά προβλήματα">προσιτότητα πληκτρολογίου</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -114,7 +114,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

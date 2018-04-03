@@ -74,35 +74,23 @@
 <div class="hgroup"><h2 class="title"><span class="title">Memeriksa hard disk</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Hard disk memiliki alat uji kesehatan bawaan bernama <span class="app">SMART</span> (Self-Monitoring, Analysis, and Reporting Technology; Teknologi Pemantauan Mandiri, Analisis, dan Pelaporan), yang secara terus-menerus memeriksa disk tentang masalah-masalah potensial. SMART juga memperingatkan Anda bila disk akan gagal, membantu Anda menghindari kehilangan data yang penting.</p>
-<p class="p">Although SMART runs automatically, you can also check your disk’s
- health by running the <span class="app">Disks</span> application:</p>
+<p class="p">Walaupun SMART berjalan secara otomatis, Anda juga dapat memeriksa kesehatan disk Anda dengan menjalankan aplikasi <span class="app">Disk</span>:</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Check your disk’s health using the Disks application</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Memeriksa kesehatan disk Anda memakai aplikasi Disk</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
-<li class="steps"><p class="p">Select the disk you want to check from the list of storage devices on
-    the left. Information and status of the disk will be shown.</p></li>
-<li class="steps"><p class="p">Click the menu button and select <span class="gui">SMART Data &amp; Self-Tests…</span>.
-    The <span class="gui">Overall Assessment</span> should say “Disk is OK”.</p></li>
-<li class="steps"><p class="p">See more information under <span class="gui">SMART Attributes</span>, or click the
-    <span class="gui">Start Self-test</span> button to run a self-test.</p></li>
+<li class="steps"><p class="p">Buka <span class="app">Pengaturan</span> dari ringkasan <span class="gui">Aktivitas</span>.</p></li>
+<li class="steps"><p class="p">Pilih disk yang Anda ingin periksa dari daftar perangkat penyimpanan di sebelah kiri. Informasi dan status disk akan ditampilkan.</p></li>
+<li class="steps"><p class="p">Klik tombol menu dan pilih <span class="gui">SMART Data &amp; Periksa Mandiri…</span>. <span class="gui">Pendataan Keseluruhan</span> mengatakan "Disk OK".</p></li>
+<li class="steps"><p class="p">Lihat infomrasi lebih lanjut pada <span class="gui">Atribut SMART</span>, atau klik tombol <span class="gui">Mulai Periksa-Mandiri</span> untuk menjalankan pemeriksaan secara mandiri.</p></li>
 </ol></div>
 </div></div>
 </div></div>
 </div></div>
 <div id="disk-not-healthy" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">What if the disk isn’t healthy?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Bagaimana bila disk tidak sehat?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
-  <span class="em">isn’t</span> healthy, there may be no cause for alarm. However, it’s better
-  to be prepared with a <span class="link"><a href="backup-why.html.id" title="Backup berkas-berkas penting Anda">backup</a></span> to prevent data
-  loss.</p>
-<p class="p">If the status says “Pre-fail”, the disk is still reasonably healthy but
- signs of wear have been detected which mean it might fail in the near future.
- If your hard disk (or computer) is a few years old, you are likely to see
- this message on at least some of the health checks. You should
- <span class="link"><a href="backup-how.html.id" title="Bagaimana melakukan back up">backup your important files regularly</a></span> and check
- the disk status periodically to see if it gets worse.</p>
+<p class="p">Bahkan bila <span class="gui">Pemeriksaan Keseluruhan</span> mengindikasikan bahwa disk <span class="em">tidak</span> sehat, mungkin tidak ada alasan untuk alarm. Namun, lebih baik bersiap-siap dengan suatu <span class="link"><a href="backup-why.html.id" title="Backup berkas-berkas penting Anda">backup</a></span> untuk mencegah kehilangan data.</p>
+<p class="p">Jika status mengatakan "Pre-fail", disk masih cukup sehat tetapi tanda-tanda memakai telah terdeteksi yang berarti mungkin gagal dalam waktu dekat. Jika hard disk Anda (atau komputer) adalah berumur beberapa tahun, Anda akan cenderung untuk melihat pesan ini pada setidaknya beberapa pemeriksaan kesehatan. Anda harus <span class="link"><a href="backup-how.html.id" title="Bagaimana melakukan back up">backup file penting Anda secara teratur</a></span> dan memeriksa status disk secara berkala untuk melihat apakah itu akan lebih buruk.</p>
 <p class="p">Bila itu semakin buruk, Anda mungkin ingin membawa komputer/hard disk ke seorang profesional untuk diagnosis atau perbaikan lebih lanjut.</p>
 </div></div>
 </div></div>
@@ -122,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

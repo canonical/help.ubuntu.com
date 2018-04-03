@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Schermproblemen</span></h1></div>
@@ -75,9 +75,9 @@
 <div class="linkdiv "><a class="linkdiv" href="display-brightness.html.nl" title="De helderheid van het scherm instellen"><span class="title">De helderheid van het scherm instellen</span><span class="linkdiv-dash"> — </span><span class="desc">De helderheid van het scherm verhogen om het beter leesbaar te maken bij fel licht.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-blank.html.nl" title="De tijd voordat het scherm zwart wordt instellen"><span class="title">De tijd voordat het scherm zwart wordt instellen</span><span class="linkdiv-dash"> — </span><span class="desc">De tijd voordat het scherm zwart wordt wijzigen om energie te sparen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.nl" title="Het scherm vergrendeld zichzelf te snel"><span class="title">Het scherm vergrendeld zichzelf te snel</span><span class="linkdiv-dash"> — </span><span class="desc">Wijzigen hoe lang er gewacht moet worden voordat het scherm vergrendeld wordt in de <span class="gui">Privacy</span>-instellingen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?"><span class="title">Waarom wordt mijn scherm na enige tijd zwart?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.nl" title="Waarom wordt mijn computer niet meer actief nadat ik hem in de pauzestand heb gezet?"><span class="title">Waarom wordt mijn computer niet meer actief nadat ik hem in de pauzestand heb gezet?</span><span class="linkdiv-dash"> — </span><span class="desc">Sommige computerhardware veroorzaakt problemen bij pauzestand.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?"><span class="title">Waarom wordt mijn scherm na enige tijd zwart?</span><span class="linkdiv-dash"> — </span><span class="desc">Om energie te sparen zal het scherm zwart worden wanneer de computer inactief is .</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.nl" title="Waarom ziet alles op mijn scherm er wazig/korrelig uit?"><span class="title">Waarom ziet alles op mijn scherm er wazig/korrelig uit?</span><span class="linkdiv-dash"> — </span><span class="desc">De schermresolutie is mogelijk verkeerd ingesteld.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.nl" title="Why does my computer not turn back on after I suspended it?"><span class="title">Why does my computer not turn back on after I suspended it?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.nl" title="Ik kan mijn computer niet aanzetten"><span class="title">Ik kan mijn computer niet aanzetten</span><span class="linkdiv-dash"> — </span><span class="desc">Loszittende kabels en hardwareproblemen zijn mogelijke oorzaken.</span></a></div>
 </div></div></div>
 </div>
@@ -95,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

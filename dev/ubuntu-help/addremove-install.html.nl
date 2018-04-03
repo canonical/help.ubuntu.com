@@ -64,14 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.nl" title="Software toevoegen &amp; verwijderen">Software toevoegen/verwijderen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="addremove.html.nl" title="Software toevoegen &amp; verwijderen">Software toevoegen/verwijderen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Extra toepassingen installeren</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Een toepassing is software die beschikt over een grafische gebruikersinterface (GUI). Het ontwikkelteam van Ubuntu heeft een standaard set toepassingen uitgekozen die naar haar mening Ubuntu zeer bruikbaar maakt voor de meeste dagelijkse taken. Maar u zult vast meer software willen installeren om Ubuntu nog bruikbaarder voor u te maken. U kunt <span class="app">Ubuntu Software</span> gebruiken om toepassingen te installeren.</p>
-<p class="p">Toepassingen zijn beschikbaar in twee vormen: snap-pakketten en Debian-pakketten. Vanaf nu wordt een toepassing die als snap-pakket beschikbaar is een <span class="em">snap</span> genoemd. Om een snap te installeren (of te verwijderen) moet u zich aanmelden bij de Snap-winkel/Ubuntu One. Sommige toepassingen zijn beschikbaar in beide vormen. In zo'n geval zal de snap als eerste in de lijst in <span class="app">Ubuntu Software</span> voorkomen.</p>
+<p class="p">
+    Applications are available in two formats: snap packages and Debian packages.
+    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
+    Some applications are available in both formats. In such a case in
+    <span class="app">Ubuntu Software</span> the snap will be listed first.
+   </p>
 <p class="p">Het kan ook zijn dat u software wilt installeren die niet over een GUI beschikt. Om dergelijke software te installeren kunt u <span class="link"><a href="addremove-install-synaptic.html.nl" title="Gebruik Synaptic voor geavanceerder softwarebeheer">Synaptic</a></span> gebruiken. Merk op dat <span class="app">Synaptic</span> geen snaps opneemt in de lijst.</p>
 <p class="p">Om een toepassing te installeren:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -81,8 +86,12 @@
       </p></li>
 <li class="steps"><p class="p">Nadat <span class="app">Ubuntu Software</span> geopend is, kunt u zoeken naar een toepassing of een categorie kiezen en uit de lijst een toepassing selecteren.</p></li>
 <li class="steps"><p class="p">Kies de toepassing waarin u geïnteresseerd bent en klik op <span class="gui">Installeren</span>.</p></li>
-<li class="steps"><p class="p">Als u een snap installeert, dient u zich aan te melden bij de snap-winkel/Ubuntu One.</p></li>
-<li class="steps"><p class="p">Voor de authenticatie zal er worden gevraagd uw wachtwoord in te voeren (dat wil zeggen uw gebruikerswachtwoord, niet uw snap-winkel/Ubuntu One-wachtwoord). Nadat u dat gedaan heeft zal de installatie beginnen. Meestal is de installatie gauw klaar, maar het kan even duren als u een langzame internetverbinding heeft.</p></li>
+<li class="steps"><p class="p">
+        You will be asked to authenticate by entering your password. 
+        Once you have done that the installation will begin. 
+        The installation usually finishes quickly, but could take a while if you 
+        have a slow Internet connection.
+      </p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -117,7 +126,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

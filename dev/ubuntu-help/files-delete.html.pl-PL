@@ -64,53 +64,36 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#common-file-tasks" title="Często wykonywane zadania">Często wykonywane zadania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Usuwanie plików i katalogów</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you do not want a file or folder any more, you can delete it. When you
-  delete an item it is moved to the <span class="gui">Trash</span> folder, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza">restore
-  items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
-  decide you need them, or if they were accidentally deleted.</p>
+<p class="p">Jeśli jakiś plik lub katalog jest już niepotrzebny, to można go usunąć. Po usunięciu element jest przenoszony do <span class="gui">Kosza</span>, gdzie jest przechowywany do czasu opróżnienia. Można <span class="link"><a href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza">przywracać elementy</a></span> z <span class="gui">Kosza</span> to ich oryginalnych położeń, jeśli okażą się z powrotem potrzebne lub zostały usunięte przez pomyłkę.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Aby przenieść plik do kosza:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the item you want to place in the trash by clicking it
-    once.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Delete</kbd></span> on your keyboard. Alternatively, drag the
-    item to the <span class="gui">Trash</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Zaznacz element do umieszczenia w koszu klikając go raz.</p></li>
+<li class="steps"><p class="p">Naciśnij klawisz <span class="key"><kbd>Delete</kbd></span>. Można także przeciągnąć element do <span class="gui">Kosza</span> w panelu bocznym.</p></li>
 </ol></div>
 </div></div>
-<p class="p">The file will be moved to the trash, and you’ll be presented with an
-  option to <span class="gui">Undo</span> the deletion. The <span class="gui">Undo</span> button will appear
-  for a few seconds. If you select <span class="gui">Undo</span>, the file will be restored
-  to its original location.</p>
-<p class="p">To delete files permanently, and free up disk space on your computer, you
-  need to empty the trash. To empty the trash, right-click <span class="gui">Trash</span> in
-  the sidebar and select <span class="gui">Empty Trash</span>.</p>
+<p class="p">Plik zostanie przeniesiony do kosza i zostanie wyświetlona opcja <span class="gui">cofnięcia</span> usunięcia. Przycisk <span class="gui">Cofnij</span> będzie wyświetlany przez kilka sekund. Jeśli zostanie kliknięty, to plik zostanie przywrócony do jego oryginalnego położenia.</p>
+<p class="p">Aby trwale usunąć pliki i zwolnić miejsce na komputerze, należy opróżnić kosz. Aby to zrobić, kliknij <span class="gui">Kosz</span> na panelu bocznym prawym przyciskiem myszy i wybierz <span class="gui">Opróżnij kosz</span>.</p>
 </div>
 <div id="permanent" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Permanently delete a file</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Trwałe usuwanie pliku</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can immediately delete a file permanently, without having to send it
-    to the trash first.</p>
+<p class="p">Można od razu trwale usunąć plik, bez potrzeby wysyłania go do kosza.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Aby trwale usunąć plik:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the item you want to delete.</p></li>
-<li class="steps"><p class="p">Press and hold the <span class="key"><kbd>Shift</kbd></span> key, then press the
-    <span class="key"><kbd>Delete</kbd></span> key on your keyboard.</p></li>
-<li class="steps"><p class="p">Because you cannot undo this, you will be asked to confirm that
-    you want to delete the file or folder.</p></li>
+<li class="steps"><p class="p">Zaznacz element do usunięcia.</p></li>
+<li class="steps"><p class="p">Wciśnij i przytrzymaj klawisz <span class="key"><kbd>Shift</kbd></span>, a następnie naciśnij klawisz <span class="key"><kbd>Delete</kbd></span>.</p></li>
+<li class="steps"><p class="p">Ponieważ nie można tego cofnąć, użytkownik zostanie zapytany o potwierdzenie przed usunięciem pliku lub katalogu.</p></li>
 </ol></div>
 </div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Deleted files on a <span class="link"><a href="files.html.pl-PL#removable" title="Nośniki wymienne i dyski zewnętrzne">removable device
-  </a></span> may not be visible on other operating systems, such Windows or Mac
-  OS. The files are still there, and will be available when you plug the device
-  back into your computer.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Usunięte pliki na <span class="link"><a href="files.html.pl-PL#removable" title="Nośniki wymienne i dyski zewnętrzne">urządzeniu wymiennym</a></span> mogą być niewidoczne w innych systemach operacyjnych, takich jak Windows lub macOS. Pliki nadal tam są, i będą dostępne po podłączeniu do komputera.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -125,8 +108,7 @@
 <div class="region"><ul>
 <li class="links "><a href="nautilus-behavior.html.pl-PL#trash" title="Kosz">Preferencje kosza menedżera plików</a></li>
 <li class="links ">
-<a href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza">Przywracanie pliku z Kosza</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
-    recovered.</span>
+<a href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza">Przywracanie pliku z Kosza</a><span class="desc"> — Usunięte pliki są zwykle wysyłane do Kosza, ale można je odzyskać.</span>
 </li>
 </ul></div>
 </div></div>
@@ -139,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

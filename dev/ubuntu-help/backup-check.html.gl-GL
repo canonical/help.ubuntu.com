@@ -70,7 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Comprobe a súa copia de seguranza</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Despois de respaldar os seus ficheiros debería asegurarse de que a copia de seguranza se realizou correctamente. Se non fixo correctamente pode perder datos importantes, xa que algúns ficheiros poden faltar na súa copia de seguranza</p>
+<p class="p">Despois de respaldar os seus ficheiros debería asegurarse de que a copia de seguranza se realizou correctamente. Se non fixo correctamente pode perder datos importantes, xa que algúns ficheiros poden faltar na súa copia de seguranza.</p>
 <p class="p">Ao usar <span class="app">Ficheiros</span> para copiar ou mover ficheiros, o computador compróbaos para asegurarse de que todos os datos foron transferidos correctamente. Porén, se está transferindo datos que son moi importantes para vostede, debe levar a cabo comprobacións adicionais para confirmar que os seus datos foron transferidos correctamente.</p>
 <p class="p">Pode facer unha comprobación mirando os ficheiros e cartafoles copiados no soporte de destino. Ao abrir e comprobar os ficheiros copiados, poderá ver se os ficheiros comprobados se copiaron correctamente.</p>
 <div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Se observa que soe facer a miúdo copias de seguranza de grandes cantidades de datos, pode que lle resulte máis doado usar un programa específico de copias de seguraza, como <span class="app">Déjà Dup</span>. Ese programa é máis potente e fiáble que simplemente copiar e pegar os ficheiros.</p></div></div></div></div>
@@ -89,7 +89,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Konta online</span></h1></div>
@@ -93,11 +93,7 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat.html.pl-PL" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.pl-PL" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.pl-PL" title="Połączenia wideo">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.pl-PL" title="How can I use Skype on Ubuntu?">install skype</a></span>
-    </span>
+<a href="net-chat.html.pl-PL" title="Komunikatory i serwisy społecznościowe">Komunikatory i serwisy społecznościowe</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.pl-PL" title="Komunikatory w Ubuntu">Rozmawianie w każdej sieci za pomocą programu <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.pl-PL" title="Wideorozmowy">wideorozmowy</a></span>, <span class="link"><a href="net-chat-skype.html.pl-PL" title="Jak mogę korzystać z programu Skype w Ubuntu?">instalacja programu Skype</a></span></span>
 </li>
 <li class="links "><a href="gs-connect-online-accounts.html.pl-PL" title="Łączenie z kontami online">Samouczek łączenia z kontami online</a></li>
 </ul></div>
@@ -111,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

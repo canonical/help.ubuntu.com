@@ -78,11 +78,11 @@
   computer is resumed.</p>
 <p class="p">Tente apagar a súa tarxeta sen fíos e volvela a acender</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span>.</p></li>
-<li class="steps"><p class="p">Switch the wireless <span class="gui">OFF</span> and then <span class="gui">ON</span> again.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Rede</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Seleccione <span class="gui">Wifi</span>.</p></li>
+<li class="steps"><p class="p"><span class="gui">Desactive</span> o WiFi e logo <span class="gui">Actíveo</span>.</p></li>
 <li class="steps"><p class="p">If the wireless still does not work, switch <span class="gui">ON</span> the
       <span class="gui">Airplane Mode</span> and then switch it <span class="gui">OFF</span> again.</p></li>
 </ol></div></div></div>
@@ -119,7 +119,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

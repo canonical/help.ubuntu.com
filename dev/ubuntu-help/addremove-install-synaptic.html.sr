@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p"><span class="app">Синаптик управник пакета</span> је моћнији и може да одради неке задатке управљања софтвером које <span class="app">Убунтуов софтвер</span> не може. Синаптиково сучеље је компликованије и не подржава новије функције <span class="app">Убунтуовог софтвера</span> као што је оцењивање и прегледање и стога се не препоручује за коришћење новајлијама у Убунтуу.</p>
-<p class="p">Синаптик није унапред инсталиран, али га и можете <span class="link"><a href="https://apps.ubuntu.com/cat/applications/synaptic" title="https://apps.ubuntu.com/cat/applications/synaptic">инсталирати</a></span> из архиве Убунтуових пакета.</p>
+<p class="p">Синаптик није унапред инсталиран, али га и можете <span class="link"><a href="apt:synaptic" title="apt:synaptic">инсталирати</a></span> из архиве Убунтуових пакета.</p>
 </div>
 <div id="install-software-with-synaptic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Инсталирајте програме Синаптиком</span></h2></div>
@@ -130,7 +130,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

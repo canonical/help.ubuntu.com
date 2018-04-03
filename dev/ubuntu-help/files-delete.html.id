@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Menghapus berkas dan folder</title>
+<title>Menghapus berkas-berkas dan folder-folder</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#common-file-tasks" title="Tugas umum">Tugas umum</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Menghapus berkas dan folder</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Menghapus berkas-berkas dan folder-folder</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you do not want a file or folder any more, you can delete it. When you
@@ -79,17 +79,11 @@
 <div class="title title-steps"><h2><span class="title">Untuk mengirim berkas ke tong sampah:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Pilih berkas yang ingin Anda tempatkan ke tong sampah dengan mengkliknya sekali.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Delete</kbd></span> on your keyboard. Alternatively, drag the
-    item to the <span class="gui">Trash</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Tekan <span class="key"><kbd>Hapus</kbd></span> pada papan tik Anda. Cara lainnya, seret dan lepaskan item ke <span class="gui">Tong Sampah</span> di bilah samping.</p></li>
 </ol></div>
 </div></div>
-<p class="p">The file will be moved to the trash, and you’ll be presented with an
-  option to <span class="gui">Undo</span> the deletion. The <span class="gui">Undo</span> button will appear
-  for a few seconds. If you select <span class="gui">Undo</span>, the file will be restored
-  to its original location.</p>
-<p class="p">To delete files permanently, and free up disk space on your computer, you
-  need to empty the trash. To empty the trash, right-click <span class="gui">Trash</span> in
-  the sidebar and select <span class="gui">Empty Trash</span>.</p>
+<p class="p">Bkas akan dipindahkan ke tong sampah, dan Anda akan ditampilkan pilihan untuk <span class="gui">Urungkan</span> penghapusan. Tombol <span class="gui">Urungkan</span> akan tampil untuk beberapa detik. Bila Anda memilih <span class="gui">Urungkan</span>, berkas akan dikembalikan ke lokasi semula.</p>
+<p class="p">Untuk menghapus berkas-berkas secara permanen, dan menambah ruang kosong pada komputer Anda, Anda perlu untuk mengosongkan tong sampah. Untuk mengosongkan tong sampah, klik kanan <span class="gui">Tong Sampah</span> pada bilah samping dan pilih <span class="gui">Kosongkan Tong Sampah</span>.</p>
 </div>
 <div id="permanent" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Menghapus berkas secara permanen</span></h2></div>
@@ -100,8 +94,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Pilih butir yang ingin Anda hapus.</p></li>
 <li class="steps"><p class="p">Tekan dan tahan tombol <span class="key"><kbd>Shift</kbd></span>, lalu tekan tombol <span class="key"><kbd>Delete</kbd></span> pada papan tik Anda.</p></li>
-<li class="steps"><p class="p">Because you cannot undo this, you will be asked to confirm that
-    you want to delete the file or folder.</p></li>
+<li class="steps"><p class="p">Karena Anda tidak bisa membatalkan ini, Anda akan diminta untuk mengkonfirmasi bahwa Anda ingin menghapus berkas atau folder.</p></li>
 </ol></div>
 </div></div>
 <div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Deleted files on a <span class="link"><a href="files.html.id#removable" title="Removable drives and external disks">removable device
@@ -123,7 +116,7 @@
 <li class="links ">
 <a href="files-recover.html.id" title="Memulihkan berkas dari Tong Sampah">Memulihkan berkas dari Tong Sampah</a><span class="desc"> — Berkas yang dihapus biasanya dikirim ke Tong Sampah, tapi dapat dipulihkan.</span>
 </li>
-<li class="links "><a href="nautilus-behavior.html.id#trash" title="Tong Sampah">Preferensi tong sampah manajer berkas</a></li>
+<li class="links "><a href="nautilus-behavior.html.id#trash" title="Tong Sampah">Preferensi tong sampah pengelola berkas</a></li>
 </ul></div>
 </div></div>
 </div>
@@ -135,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,34 +64,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-workspaces" title="Werken met werkbladen">Werkbladen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-workspaces" title="Werken met werkbladen">Werkbladen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wat is een werkblad en hoe kan ik het gebruiken?</span></h1></div>
 <div class="region">
 <div class="contents">
-<div class="media media-image floatend"><div class="inner"><img src="figures/shell-workspaces.png" height="434" width="162" class="media media-block" alt="Workspace selector"></div></div>
-<p class="p">Workspaces refer to the grouping of
-  windows on your desktop. You can create multiple workspaces, which act like
-  virtual desktops. Workspaces are meant to reduce clutter and make the desktop
-  easier to navigate.</p>
+<div class="media media-image floatend"><div class="inner"><img src="figures/shell-workspaces.png" height="434" width="162" class="media media-block" alt="Werkbladwisselaar"></div></div>
+<p class="p">De term werkbladen verwijst naar het groeperen van vensters op uw bureaublad. U kunt meerdere werkbladen aanmaken; deze fungeren als virtuele bureaubladen. Werkbladen zijn bedoeld om te voorkomen dat het rommelig wordt en zorgen ervoor dat het gemakkelijker is door het bureaublad te navigeren.</p>
 <p class="p">U zou werkbladen kunnen gebruiken om uw werk te organiseren. Zo zou u alle communicatievensters, zoals e-mail en chattoepassingen in één werkblad kunnen plaatsen en het werk waar u mee bezig bent op een ander werkblad. Uw muziekprogramma zou u in een derde werkblad kunnen plaatsen.</p>
-<p class="p">Using workspaces:</p>
+<p class="p">Werkbladen gebruiken:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">In the
-    <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview, move your cursor
-    to the right-most side of the screen.</p></li>
-<li class="list"><p class="p">A vertical panel will appear showing
-    workspaces in use, plus an empty workspace. This is the
-    workspace selector.</p></li>
-<li class="list"><p class="p">To add a workspace, drag and drop a window from an existing workspace
-    onto the empty workspace in the workspace selector. This workspace now
-    contains the window you have dropped,
-    and a new empty workspace will appear below it.</p></li>
-<li class="list"><p class="p">To remove a workspace, simply close all of its windows or move them to
-    other workspaces.</p></li>
+<li class="list"><p class="p">Breng in het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht de cursor naar de rechterkant van het scherm.</p></li>
+<li class="list"><p class="p">Er verschijnt een verticaal paneel met daarin werkruimtes die in gebruik zijn, plus een lege werkruimte. Dit is de werkruimtekiezer.</p></li>
+<li class="list"><p class="p">Om een werkruimte toe te voegen sleept u een venster van een bestaande werkruimte naar de lege werkruimte in de werkruimtekiezer.Deze werkruimte bevat nu het venster dat u heeft laten vallen en er zal eronder een nieuwe lege werkruimte verschijnen.</p></li>
+<li class="list"><p class="p">Om een werkruimte te verwijderen sluit u gewoon alle vensters erin of verplaatst u ze naar andere werkruimtes.</p></li>
 </ul></div></div></div>
-<p class="p">There is always at least one workspace.</p>
+<p class="p">Er is altijd minstens één werkblad.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -120,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

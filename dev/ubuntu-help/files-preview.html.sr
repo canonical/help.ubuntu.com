@@ -70,6 +70,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Погледајте датотеке и фасцикле</span></h1></div>
 <div class="region">
 <div class="contents">
+<div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Треба да сте инсталирали програм <span class="app">Суши</span> на вашем рачунару да бисте могли да одрадите ове кораке.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Инсталирајте <span class="app">Суши</span></a></span></p>
+</div></div></div></div>
 <p class="p">Можете брзо да прегледате датотеке без отварања у програму за ту намену. Изаберите било коју датотеку и притисните размакницу. Датотека ће се отворити у једноставном прозору прегледа. Поново притисните размакницу да одбаците преглед.</p>
 <p class="p">Уграђени преглед подржава већину формата датотека за документе, слике, снимке, и звук. У прегледу, можете да прелиставате документе или да премотавате ваше снимке и звук.</p>
 <p class="p">Да прикажете преглед преко целог екрана, притисните тастер <span class="key"><kbd>Ф</kbd></span> или <span class="key"><kbd>Ф11</kbd></span>. Притисните тастер <span class="key"><kbd>Ф</kbd></span> или <span class="key"><kbd>Ф11</kbd></span> да напустите приказ преко целог екрана, или притисните размакницу да затворите преглед.</p>
@@ -96,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

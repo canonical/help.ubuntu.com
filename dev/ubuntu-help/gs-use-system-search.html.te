@@ -75,7 +75,10 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> కీ వత్తుట ద్వారా <span class="gui">కార్యకలాపాల అవలోకనం</span> తెరువుము. వెతుకుటకు టైపు చేయండి.</p>
+<p class="p">Open the <span class="gui">Activities</span> overview by clicking <span class="gui">Activities</span> 
+    at the top left of the screen, or by pressing the
+    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key. 
+    Start typing to search.</p>
 <p class="p">మీరు టైపు చేసిన దానితో సరిపోయిన ఫలితాలు మీరు టైపు చేయగానే కనపడును. ఎల్లప్పుడూ మొదటి ఫలితం ఉద్దీపించబడి అన్నిటికంటే పైన చూపబడును.</p>
 <p class="p">మొదట ఉద్దీపనం చేయబడిన ఫలితంకు మారుటకు <span class="key"><kbd>Enter</kbd></span> వత్తుము.</p>
 </li></ol></div></div></div>
@@ -86,8 +89,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">సరిపోలిన అనువర్తనాలు, అన్వేషణ ఫలితాల పైన చూపబడును,</p></li>
 <li class="list"><p class="p">సరిపోలిన అమరికలు,</p></li>
-<li class="list"><p class="p">సరిపోలిన పరిచయాలు, మరియు</p></li>
-<li class="list"><p class="p">సరిపోలిన పత్రములు.</p></li>
+<li class="list"><p class="p">matching contacts,</p></li>
+<li class="list"><p class="p">matching documents,</p></li>
+<li class="list"><p class="p">matching calendar,</p></li>
+<li class="list"><p class="p">matching calculator,</p></li>
+<li class="list"><p class="p">matching software,</p></li>
+<li class="list"><p class="p">matching files,</p></li>
+<li class="list"><p class="p">matching terminal,</p></li>
+<li class="list"><p class="p">matching passwords and keys.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -111,7 +120,7 @@
 <li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.te#yourname" title="మీరు మరియు మీ కంప్యూటరు">system menu</a></span>
         on the right side of the top bar.</p></li>
 <li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Search</span> panel.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Search</span> in the left panel.</p></li>
 <li class="steps"><p class="p">అన్వేషణ స్థానాల జాబితా నుండి, మీరు చేతనం లేదా అచేతనం చేయాలనుకుంటున్న అన్వేషణ స్థానం తరువాత వున్న <span class="gui">ఆన్/ఆఫ్</span> స్విచ్ నొక్కుము.</p></li>
 </ol></div>
 </div></div>
@@ -144,7 +153,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

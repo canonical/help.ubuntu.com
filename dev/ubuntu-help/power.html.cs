@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,11 +77,10 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.cs" title="Kontrola stavu baterie"><span class="title">Kontrola stavu baterie</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zobrazit stav baterie a připojených zařízení.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.cs" title="Co se stane, když svůj počítač uspím?"><span class="title">Co se stane, když svůj počítač uspím?</span><span class="linkdiv-dash"> — </span><span class="desc">Uspáním se pozastaví běh vašeho počítač, aby se snížila spotřeba.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.cs" title="Jak mohu uspat svůj počítač na disk?"><span class="title">Jak mohu uspat svůj počítač na disk?</span><span class="linkdiv-dash"> — </span><span class="desc">Režim spánku (hibernace) není ve výchozím nastavení zapnuta, jelikož nemá dobrou podporu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.cs" title="Odhlášení nebo přepnutí uživatele, vypnutí"><span class="title">Odhlášení nebo přepnutí uživatele, vypnutí</span><span class="linkdiv-dash"> — </span><span class="desc">Naučte se, jak správně odejít od svého účtu, ať už odhlášením nebo přepnutím uživatele apod.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.cs" title="Proč se můj počítač vypne, když zavřu víko?"><span class="title">Proč se můj počítač vypne, když zavřu víko?</span><span class="linkdiv-dash"> — </span><span class="desc">Noteboky se po zavření víka uspávají, aby ušetřily energii.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.cs" title="Proč se můj počítač vypne, když zavřu víko?"><span class="title">Proč se můj počítač vypne, když zavřu víko?</span><span class="linkdiv-dash"> — </span><span class="desc">Noteboky se po zavření víka uspávají, aby ušetřily energii.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie"><span class="title">Snižte spotřebu a prodlužte výdrž baterie</span><span class="linkdiv-dash"> — </span><span class="desc">Tipy na snížení spotřeby vašeho počítače.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.cs" title="Vymáčkněte z baterie svého notebooku co nejvíce"><span class="title">Vymáčkněte z baterie svého notebooku co nejvíce</span><span class="linkdiv-dash"> — </span><span class="desc">Rady jako „Nenechte baterii vybít úplně do dna“</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.cs" title="Vypnutí nepoužívaných bezdrátových technologií"><span class="title">Vypnutí nepoužívaných bezdrátových technologií</span><span class="linkdiv-dash"> — </span><span class="desc">Jak šetřit baterii vypnutím Bluetooth, Wi-Fi a mobilního připojení.</span></a></div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

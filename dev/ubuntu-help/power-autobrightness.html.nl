@@ -65,26 +65,22 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Automatische helderheid instellen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If your computer has an integrated light sensor, it can be used to
-  automatically control screen brightness. This ensures that the screen is
-  always easy to see in different ambient light conditions, and helps to reduce
-  battery consumption.</p>
+<p class="p">Als uw computer beschikt over een geïntegreerde lichtsensor, dan kan dit gebruikt worden om automatisch de schermhelderheid te regelen. Dit zorgt ervoor dat het scherm altijd goed te zien is bij verschillende lichtomstandigheden van de omgeving en het helpt het accuverbruik te verminderen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Energie</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Energie</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Power Saving</span> section, ensure that
-      <span class="gui">Automatic brightness</span> is set to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Zorg ervoor dat in de sectie <span class="gui">Energiebesparing</span> <span class="gui">Automatische helderheid</span> op <span class="gui">Aan</span> staat.</p></li>
 </ol></div></div></div>
-<p class="p">To disable automatic screen brightness, switch it to <span class="gui">OFF</span>.</p>
+<p class="p">Om automatische schermhelderheid uit te schakelen kiest u voor <span class="gui">Uit</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -108,7 +104,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

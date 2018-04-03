@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="Máis tarefas relacionadas con ficheiros">Máis tarefas relacionadas con ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Propiedades do ficheiro</span></h1></div>
@@ -72,20 +72,16 @@
 <div class="contents">
 <p class="p">Prema co botón dereito sobre un ficheiro e seleccione <span class="gui">Propiedades</span>.</p>
 <p class="p">A xanela de propiedades do ficheiro móstralle información como o tipo de ficheiro, o tamaño do ficheiro e cando foi modificado por última vez. Se usa esta información a miúdo, pode facer que se mostre na <span class="link"><a href="nautilus-list.html.gl-GL" title="Files list columns preferences">visualización en lista con columnas</a></span> ou nas <span class="link"><a href="nautilus-display.html.gl-GL#icon-captions" title="Lendas das iconas">lendas das iconas</a></span>.</p>
-<p class="p">A información que se fornece na lapela <span class="gui">Básico</span> explícase embaixo. Tamén están as lapelas <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.gl-GL" title="Estabelecer os permisos dun ficheiro">Permisos</a></span></span> e <span class="gui"><span class="link"><a href="files-open.html.gl-GL#default" title="Seleccione a localización onde gardar o ficheiro.">Abrir con</a></span></span>. Para certos tipos de ficheros, como as imaxes e vídeos, haberá unha lapela adicional que lle fornece información como as dimensións, duración e códecs.</p>
+<p class="p">A información que se fornece na lapela <span class="gui">Básico</span> explícase embaixo. Tamén están as lapelas <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.gl-GL" title="Estabelecer os permisos dun ficheiro">Permisos</a></span></span> e <span class="gui"><span class="link"><a href="files-open.html.gl-GL#default" title="Seleccione a localización onde gardar o ficheiro">Abrir con</a></span></span>. Para certos tipos de ficheros, como as imaxes e vídeos, haberá unha lapela adicional que lle fornece información como as dimensións, duración e códecs.</p>
 </div>
 <div id="basic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Propiedades básicas</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Name</span></dt>
+<dt class="terms"><span class="gui">Nome</span></dt>
 <dd class="terms"><p class="p">Pode renomear o ficheiro cambiando este campo. Tamén pode renomear un ficheiro desde fora da xanela de propiedades. Vexa <span class="link"><a href="files-rename.html.gl-GL" title="Renomear un ficheiro ou cartafol">Renomear un ficheiro ou cartafol</a></span>.</p></dd>
-<dt class="terms"><span class="gui">Type</span></dt>
+<dt class="terms"><span class="gui">Tipo</span></dt>
 <dd class="terms">
-<p class="p">This helps you identify the type of the file, such as PDF document,
-    OpenDocument Text, or JPEG image. The file type determines which
-    applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.gl-GL" title="Abrir ficheiros con outros aplicativos">Abrir ficheiros con outros aplicativos</a></span>
-    for more information on this.</p>
+<p class="p">Isto axúdalle a identificar o tipo de ficheiro, como un documento PDF, texto OpenDocument, ou imaxe JPEG. O tipo de ficheiro determina que aplicativos poden abrir o ficheiro, entre outras cousas. Por exemplo, non pode abrir unha imaxe con un reprodutor de música. Vexa <span class="link"><a href="files-open.html.gl-GL" title="Abrir ficheiros con outros aplicativos">Abrir ficheiros con outros aplicativos</a></span> para obter máis información</p>
 <p class="p">Entre parénteses móstrase o <span class="em">tipo MIME</span> do ficheiro; o tipo MIME é unha forma estándar que os ficheiros usan para referirse ao tipo de ficheiro.</p>
 </dd>
 <dt class="terms">Contido</dt>
@@ -95,7 +91,7 @@
 <p class="p">Este campo móstrase se está ollando un ficheiro (e non un cartafol). O tamaño dun ficheiro permítelle ver cando espazo de disco está empregando. Isto tamén é un indicador de canto tempo lle levará descargar un ficheiro ou envialo por correo electrónico (leva máis tempo enviar/recibir ficheiros máis grandes).</p>
 <p class="p">Os tamañs pódense dar en bytes, KB, MB ou GB; nos tres últimos casos, o tamaño en bytes aparece entre parénteses. Técnicamente, 1KB son 1024 bytes, 1MB son 1024 KB e así sucesivamente.</p>
 </dd>
-<dt class="terms">Parent Folder</dt>
+<dt class="terms">Cartafol pai</dt>
 <dd class="terms"><p class="p">The location of each file on your computer is given by its <span class="em">absolute
     path</span>. This is a unique “address” of the file on your computer, made up
     of a list of the folders that you would need to go into to find the file.
@@ -115,7 +111,7 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.gl-GL#more-file-tasks" title="Máis tarefas relacionadas con ficheiros">Máis tarefas relacionadas con ficheiros</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
@@ -132,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

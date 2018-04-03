@@ -248,7 +248,7 @@
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fr" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html.fr#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fr" title="Utilisation d'agencements de clavier alternatifs">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fr" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html.fr#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html.fr#mobility" title="Mobilité défaillante">Mobilité défaillante</a></li>
 </ul></div>
@@ -268,7 +268,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

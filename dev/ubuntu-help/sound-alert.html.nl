@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Waarschuwingsgeluid kiezen of uitschakelen</span></h1></div>
@@ -72,17 +72,12 @@
 <div class="contents">
 <p class="p">Uw computer zal een eenvoudig waarschuwingsgeluid afspelen voor bepaalde berichten en gebeurtenissen. U kunt verschillende geluidsfragmenten voor waarschuwingen kiezen, het geluidsvolume voor waarschuwingen onafhankelijk van het volume voor uw systeem instellen, of waarschuwingsgeluiden geheel uitschakelen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Sound</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Sound Effects</span> tab, select an alert sound. Each sound
-      will play when you click on it so you can hear how it sounds.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Geluid</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Geluid</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Kies een waarschuwingsgeluid in het tabblad <span class="gui">Geluidseffecten</span>. Elk geluid zal afgespeeld worden wanneer u erop klikt zodat u kunt horen hoe het klinkt.</p></li>
 </ol></div></div></div>
-<p class="p">Use the volume slider in the <span class="gui">Sound Effects</span> tab to set the
-  volume of the alert sound. This will not affect the volume of your music,
-  movies, or other sound files.</p>
-<p class="p">To disable alert sounds entirely, switch the <span class="gui">Alert volume</span> to
-  <span class="gui">OFF</span>.</p>
+<p class="p">Om het volume van het waarschuwingsgeluid aan te passen gebruikt u de volumeregelaar in het tabblad <span class="gui">Geluidseffecten</span>. Deze aanpassing heeft geen invloed op het volume van uw muziek, films of andere geluidsbestanden.</p>
+<p class="p">Om het waarschuwingsgeluid helemaal uit te schakelen zet u <span class="gui">Waarschuwingsvolume</span> <span class="gui">UIT</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -108,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

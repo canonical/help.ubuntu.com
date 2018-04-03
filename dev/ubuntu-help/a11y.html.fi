@@ -64,14 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Esteettömyys</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Gnome-työpöytä sisältää esteettömyystoimintoja, jotka tukevat käyttäjiä, joilla on erikoistarpeita tai yleisiä esteettömyyteen liittyviä apulaitteita. Monet esteettömyystoiminnoista ovat saatavilla yläpalkin esteettömyysvalikon kautta.</p>
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.fi" title="Löydä esteettömyystoimintojen valikko"><span class="title">Löydä esteettömyystoimintojen valikko</span><span class="linkdiv-dash"> — </span><span class="desc">Esteettömyysvalikko on henkilön näköinen kuvake yläpaneelissa.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.fi" title="Löydä esteettömyystoimintojen valikko"><span class="title">Löydä esteettömyystoimintojen valikko</span><span class="linkdiv-dash"> — </span><span class="desc">Esteettömyysvalikko on henkilön näköinen kuvake yläpalkissa.</span></a></div></div></div></div>
 </div>
 <div id="vision" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Näkörajoitteisuudet</span></h2></div>
@@ -100,8 +100,7 @@
 <a href="a11y-mag.html.fi" title="Näytön alueen suurentaminen">Näytön alueen suurentaminen</a><span class="desc"> — Suurenna työpöytääsi, jolloin näet kaiken helpommin.</span>
 </li>
 <li class="links ">
-<a href="a11y-contrast.html.fi" title="Säädä kontrastia">Säädä kontrastia</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
-    they’re easier to see.</span>
+<a href="a11y-contrast.html.fi" title="Säädä kontrastia">Säädä kontrastia</a><span class="desc"> — Aseta ikkunoiden ja painikkeiden väritasot sopiviksi, jotta näkeminen on aiempaa helpompaa.</span>
 </li>
 </ul></div>
 </div></div>
@@ -124,7 +123,7 @@
 <a href="mouse-sensitivity.html.fi" title="Muuta hiiren ja kosketuslevyn nopeutta">Muuta hiiren ja kosketuslevyn nopeutta</a><span class="desc"> — Muuta hiiren osoittimen nopeutta, kun käytät hiirtä tai kosketuslevyä.</span>
 </li>
 <li class="links ">
-<a href="mouse-mousekeys.html.fi" title="Napsauta ja siirrä hiiren osoitinta sormiota käyttäen.">Napsauta ja siirrä hiiren osoitinta sormiota käyttäen.</a><span class="desc"> — Hallitse hiirtä numeronäppäimistöllä.</span>
+<a href="mouse-mousekeys.html.fi" title="Napsauta ja siirrä hiiren osoitinta sormiota käyttäen">Napsauta ja siirrä hiiren osoitinta sormiota käyttäen</a><span class="desc"> — Hallitse hiirtä numeronäppäimistöllä.</span>
 </li>
 </ul></div>
 </div></div>
@@ -138,8 +137,7 @@
 <a href="a11y-right-click.html.fi" title="Simuloi hiiren oikean napin painallusta">Simuloi hiiren oikean napin painallusta</a><span class="desc"> — Paina ja pidä hiiren vasenta nappia pohjassa painaaksesi hiiren oikeaa nappia.</span>
 </li>
 <li class="links ">
-<a href="a11y-dwellclick.html.fi" title="Simuloi napsautusta kohdistamalla">Simuloi napsautusta kohdistamalla</a><span class="desc"> — The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
-    by holding the mouse still.</span>
+<a href="a11y-dwellclick.html.fi" title="Simuloi napsautusta kohdistamalla">Simuloi napsautusta kohdistamalla</a><span class="desc"> — <span class="gui">Napsautus kohdistamalla</span> mahdollistaa hiiren painikkeiden käytön kohdistamalla ja pitämällä hiirtä paikoillaan hetken.</span>
 </li>
 </ul></div>
 </div></div>
@@ -172,8 +170,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Lue myös</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-key-menu.html.fi" title="Mikä on Menu-näppäin?">Mikä on <span class="key"><kbd>Menu</kbd></span>-näppäin?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
-    rather than with a right-click.</span>
+<a href="keyboard-key-menu.html.fi" title="Mikä on Menu-näppäin?">Mikä on <span class="key"><kbd>Menu</kbd></span>-näppäin?</a><span class="desc"> — <span class="key"><kbd>Menu</kbd></span>-näppäin avaa näppäimistöllä kontekstivalikon hiiren oikean painikkeella napsauttamisen sijaan.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -193,7 +190,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

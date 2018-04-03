@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Conectar cunha rede sen fíos</span></h1></div>
@@ -75,14 +75,13 @@
   internet connection you’ve made with another interface, such as to a wired
   network or over the cellular network.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#yourname" title="Vostede e o seu computador">system menu</a></span> from the right
-    side of the top bar.</p></li>
+<li class="steps"><p class="p">Abrir o <span class="gui"><a href="shell-introduction.html.gl-GL#yourname" title="Vostede e o seu computador">menú do sistema</a></span> na parte dereita da barra superior.</p></li>
 <li class="steps"><p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
       Wi-Fi Not Connected</span> or the name of the wireless network to which
     you are already connected. The Wi-Fi section of the menu will expand.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Wi-Fi Settings</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot…</span> button.</p></li>
+<li class="steps"><p class="p">Prema nas <span class="gui">Preferencias da Wifi</span>.</p></li>
+<li class="steps"><p class="p">Prema no botón <span class="gui">Usar como Punto de acceso…</span></p></li>
 <li class="steps"><p class="p">If you are already connected to a wireless network, you will be
   asked if you want to disconnect from that network. A single wireless adapter
   can connect to or create only one network at a time. Click <span class="gui">Turn On</span>
@@ -97,11 +96,7 @@ will need this information to connect to the hotspot you’ve just created.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Conectarse a unha rede sen fíos</a></span>, <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Redes ocultas</a></span>, <span class="link"><a href="net-editcon.html.gl-GL" title="net-editcon">Editar opcións da conexión</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Desconectando</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -112,7 +107,7 @@ will need this information to connect to the hotspot you’ve just created.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

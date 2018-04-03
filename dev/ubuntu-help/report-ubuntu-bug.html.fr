@@ -83,9 +83,9 @@
 <li class="steps">
 <p class="p">Remplissez le champ de description avec autant d'informations que possible. Il est important de spécifier trois choses :</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">Le comportement attendu</p></li>
-<li class="list"><p class="p">Le comportement effectivement constaté</p></li>
-<li class="list"><p class="p">Si possible, un descriptif pas à pas des étapes nécessaires pour le reproduire, l'étape 1 étant « démarrer le programme ».</p></li>
+<li class="list"><p class="p">le comportement attendu ;</p></li>
+<li class="list"><p class="p">le comportement effectivement constaté ;</p></li>
+<li class="list"><p class="p">si possible, un descriptif pas à pas des étapes nécessaires pour le reproduire, l'étape 1 étant « démarrer le programme ».</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">Un numéro sera attribué à votre rapport, et son statut sera mis à jour lorsqu'il sera traité. Merci d'aider à améliorer Ubuntu !</p></li>
@@ -117,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

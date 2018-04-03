@@ -72,12 +72,11 @@
 <div class="contents">
 <p class="p">Se quere cambiar o tamaño do papel do seu documento (por exemplo, imprimir un documento PDF de papel A4 nun papel tipo US Letter), pode cambiar o formato de impresión para o documento.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the print dialog by pressing
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Abra o diálogo de impresión premendo <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps"><p class="p">Seleccione a lapela <span class="gui">Configuración de páxina</span>.</p></li>
 <li class="steps"><p class="p">Under the <span class="gui">Paper</span> column, choose your <span class="gui">Paper size</span>
       from the drop-down list.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Print</span> to print your document.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Imprimir</span> e o seu documento debería imprimirse.</p></li>
 </ol></div></div></div>
 <p class="p">You can also use the <span class="gui">Orientation</span> drop-down list to choose a
   different orientation:</p>
@@ -102,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

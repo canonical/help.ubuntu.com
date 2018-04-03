@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="hardware-problems-graphics.html.nl" title="Schermproblemen">Schermproblemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html.nl#problems" title="Problemen">Stroomproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html.nl#problems" title="Problemen">Stroomproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -76,29 +76,15 @@
 <div class="contents"><p class="p">Er zijn een aantal redenen waarom u uw computer niet kunt aanzetten. Dit onderwerp geeft een kort overzicht van sommige van de mogelijke oorzaken.</p></div>
 <div id="nopower" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Computer niet aangesloten, lege accu, of een loszittende kabel</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Make sure that the power cables of the computer are firmly plugged in and
-  the power outlets are switched on. Make sure that the monitor is plugged in
-  and switched on too. If you have a laptop, connect the charging cable (in
-  case it has run out of battery). You may also want to check that the battery
-  is correctly fitted in place (check the underside of the laptop) if it is
-  removable.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Zorg ervoor dat de stroomkabels van de computer goed zijn aangesloten en er stroom is. Zorg er ook voor dat de monitor is aangesloten en aan staat. Als u een laptop heeft, sluit de kabel aan (voor het geval dat accu leeg is). U kunt ook controleren of de accu goed op zijn plaats zit indien deze verwijderbaar is (controleer de onderkant van de laptop).</p></div></div>
 </div></div>
 <div id="hardwareproblem" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Probleem met de hardware van de computer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">A component of your computer may be broken or malfunctioning. If this is
-  the case, you will need to get your computer repaired. Common faults include
-  a broken power supply unit, incorrectly-fitted components (such as the
-  memory or RAM) and a faulty motherboard.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Het kan zijn dat een onderdeel van uw computer kapot is of niet goed werkt. Als dit het geval is, dan dient u uw computer te laten repareren. Veelvoorkomende gebreken zijn een kapotte voeding, onderdelen die niet goed zijn gemonteerd (zoals het geheugen/RAM) en een defect moederbord.</p></div></div>
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">De computer geeft een pieptoon en wordt dan uitgeschakeld</span></h2></div>
-<div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
-  (or fails to start), it may be indicating that it has detected a problem.
-  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
-  of beeps is intended to tell you what the problem with the computer is.
-  Different manufacturers use different beep codes, so you will have to consult
-  the manual for your computer’s motherboard, or take your computer in for
-  repairs.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Als de computer meerdere pieptonen geeft wanneer hij, direct nadat u hem heeft aangezet uitgeschakeld wordt (of helemaal niet wil starten), dan kan dit erop wijzen dat er een probleem is aangetroffen. Deze pieptonen worden soms <span class="em">beep codes</span> genoemd en het pieptonenpatroon is bedoeld om u te vertellen om welk probleem met de computer het gaat. Verschillende fabrikanten gebruiken verschillende ‘beep codes’, dus u zult de handleiding van het moederbord moeten raadplegen of uw computer ter reparatie aanbieden.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">De ventilator van de computer draait, maar er is niets te zien op het scherm</span></h2></div>
@@ -128,7 +114,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

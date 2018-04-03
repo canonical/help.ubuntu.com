@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Käytön aloittaminen</span></h1></div>
@@ -89,18 +89,15 @@
 <a href="#" class="ui-overlay-close" title="Sulje">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-task-switching.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Toista" data-pause-label="Keskeytä"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Tehtävien välillä vaihtaminen</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="5" data-ttml-end="8"><div class="media-ttml-node media-ttml-p" data-ttml-begin="5" data-ttml-end="8">Liikuta hiiren osoitin näytön vasemmassa yläkulmassa olevaan <span class="gui">Toiminnot</span>-kulmaan.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">Napsauta ikkunaa vaihtaaksesi kyseiseen tehtävään.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Suurentaaksesi ikkunan näytön vasempaan laitaan, tartu kiinni ikkunan ikkunapalkista ja vedä se näytön vasempaan laitaan.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">Kun puolet näytöstä on korostettuna, vapauta ikkuna.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">Suurentaaksesi ikkunan näytön oikeaan laitaan, tartu kiinni ikkunan ikkunapalkista ja vedä se näytön oikeaan laitaan.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="18" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="18" data-ttml-end="20">Kun puolet näytöstä on korostettuna, vapauta ikkuna.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="23" data-ttml-end="27"><div class="media-ttml-node media-ttml-p" data-ttml-begin="23" data-ttml-end="27">Paina <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd> Tab</kbd></span></span> avataksesi <span class="gui">ikkunavaihtiminen</span>.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="27" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="27" data-ttml-end="29">Release <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super
-           </kbd></a></span> to select the next highlighted window.
-           </div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="29" data-ttml-end="32"><div class="media-ttml-node media-ttml-p" data-ttml-begin="29" data-ttml-end="32">To cycle through the list of open windows, do not release
-           <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> but hold
-           it down, and press <span class="key"><kbd>Tab</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="27" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="27" data-ttml-end="29">Vapauta <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span> valitseksi seuraavan korostetun ikkunan.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="29" data-ttml-end="32"><div class="media-ttml-node media-ttml-p" data-ttml-begin="29" data-ttml-end="32">Kiertääksesi läpi avoinna olevien ikkunoiden listaa, älä vapauta <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-näppäintä, vaan pidä se pohjassa, ja paina <span class="key"><kbd>Tab</kbd></span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="35" data-ttml-end="37"><div class="media-ttml-node media-ttml-p" data-ttml-begin="35" data-ttml-end="37">Paina <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span> avataksesi <span class="gui">Toiminnot-yleisnäkymän</span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="37" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="37" data-ttml-end="40">Aloita sen sovelluksen nimen kirjoittaminen, johon haluat vaihtaa.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="40" data-ttml-end="43"><div class="media-ttml-node media-ttml-p" data-ttml-begin="40" data-ttml-end="43">Kun sovellus ilmestyy ensimmäisenä tuloksena, paina <span class="key"><kbd> Enter</kbd></span> vaihtaaksesi siihen.</div></div>
@@ -116,24 +113,15 @@
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">Suurentaaksesi ikkunan, tartu ikkunan ikkunapalkista kiinni ja vedä ikkuna näytön yläosaan.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="10" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="10" data-ttml-end="13">Kun ikkuna korostuu, vapauta se hiiren napista.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">Palauttaaksesi ikkunan koon, tartu ikkunan ikkunapalkista kiinni ja vedä ikkuna pois näytön reunasta.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">You can also click the top bar to drag the window away and
-            unmaximize it.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">Voit myös napsauttaa yläpalkkia vetääksesi ikkunan pois ja siten palauttaaksesi ikkunan koon.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">Suurentaaksesi ikkunan näytön vasempaan laitaan, tartu kiinni ikkunan ikkunapalkista ja vedä se näytön vasempaan laitaan.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="38" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="38" data-ttml-end="40">Kun puolet näytöstä on korostettuna, vapauta ikkuna.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">Suurentaaksesi ikkunan näytön oikeaan laitaan, tartu kiinni ikkunan ikkunapalkista ja vedä se näytön oikeaan laitaan.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="44" data-ttml-end="48"><div class="media-ttml-node media-ttml-p" data-ttml-begin="44" data-ttml-end="48">Kun puolet näytöstä on korostettuna, vapauta ikkuna.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="54" data-ttml-end="60"><div class="media-ttml-node media-ttml-p" data-ttml-begin="54" data-ttml-end="60">To maximize a window using the keyboard, hold down the
-            <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key and
-            press <span class="key"><kbd>↑</kbd></span>.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="61" data-ttml-end="66"><div class="media-ttml-node media-ttml-p" data-ttml-begin="61" data-ttml-end="66">To restore the window to its unmaximized size, hold down the
-            <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key and
-            press <span class="key"><kbd>↓</kbd></span>.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="66" data-ttml-end="73"><div class="media-ttml-node media-ttml-p" data-ttml-begin="66" data-ttml-end="73">To maximize a window along the right side of the screen, hold
-            down the <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>
-            key and press <span class="key"><kbd>→</kbd></span>.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="76" data-ttml-end="82"><div class="media-ttml-node media-ttml-p" data-ttml-begin="76" data-ttml-end="82">To maximize a window along the left side of the screen, hold
-            down the <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>
-            key and press <span class="key"><kbd>←</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="54" data-ttml-end="60"><div class="media-ttml-node media-ttml-p" data-ttml-begin="54" data-ttml-end="60">Suurenna ikkuna näppäimistöä käyttäen pitämällä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja painamalla nuolinäppäintä <span class="key"><kbd>↑</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="61" data-ttml-end="66"><div class="media-ttml-node media-ttml-p" data-ttml-begin="61" data-ttml-end="66">Palauttaaksesi ikkunan koon, pidä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja paina nuolinäppäintä <span class="key"><kbd>↓</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="66" data-ttml-end="73"><div class="media-ttml-node media-ttml-p" data-ttml-begin="66" data-ttml-end="73">Suurentaaksesi ikkunan näytön oikeaan laitaan, pidä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja paina nuolinäppäintä <span class="key"><kbd>→</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="76" data-ttml-end="82"><div class="media-ttml-node media-ttml-p" data-ttml-begin="76" data-ttml-end="82">Suurentaaksesi ikkuna näytön vasempaan laitaan, pidä pohjassa <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ja paina nuolinäppäintä <span class="key"><kbd>←</kbd></span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="83" data-ttml-end="89"><div class="media-ttml-node media-ttml-p" data-ttml-begin="83" data-ttml-end="89">Siirtyäksesi nykyisen työtilan alla olevaan työtilaan, paina  <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span>+<span class="key"><kbd>Page Down</kbd></span></span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="90" data-ttml-end="97"><div class="media-ttml-node media-ttml-p" data-ttml-begin="90" data-ttml-end="97">Siirtyäksesi nykyisen työtilan yllä olevaan työtilaan, paina <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>.</div></div>
 </div>
@@ -165,7 +153,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

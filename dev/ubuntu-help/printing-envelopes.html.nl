@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print envelopes</title>
+<title>Enveloppen afdrukken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,33 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Print envelopes</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Enveloppen afdrukken</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Most printers will allow you to print directly onto an envelope. This is especially useful if you have a lot of letters to send,
-  for example.</p></div>
+<div class="contents"><p class="p">Bij de meeste printers kunt u rechtstreeks op een envelop afdrukken. Dit is vooral nuttig als u bijvoorbeeld een heleboel brieven te versturen heeft.</p></div>
 <div id="envelope" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Op enveloppen afdrukken</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">There are two things you need to check when trying to print onto an
-  envelope.</p>
-<p class="p">The first is that your printer knows what size the envelope is. Press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print dialog, go to
-  the <span class="gui">Page Setup</span> tab and choose the <span class="gui">Paper type</span> as “Envelope”
-  if you can. If you cannot do this, see if you can change the <span class="gui">Paper
-  size</span> to an envelope size (for example, <span class="gui">C5</span>). The pack of
-  envelopes will say what size they are; most envelopes come in standard
-  sizes.</p>
-<p class="p">Secondly, you need to make sure that the envelopes are loaded with the
-  right side up in the printer’s in-tray. Check the printer’s manual for this,
-  or try to print a single envelope and check which side is printed on to see
-  which way is the right way up.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Some printers are not designed to be able to print envelopes, especially
-    some laser printers. Check your printer’s manual to see if it accepts
-    envelopes. Otherwise, you could damage the printer by feeding an envelope
-    in.</p></div></div></div></div>
+<p class="p">Er zijn twee dingen die u dient te controleren wanneer u op een envelop wilt afdrukken.</p>
+<p class="p">Ten eerste dat uw printer weet wat de grootte van de envelop is. Druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> om het afdrukvenster te openen, ga naar het tabblad <span class="gui">Pagina-instellingen</span> en selecteer ‘Envelop’ in het keuzemenu <span class="gui">Papiersoort</span>, als het mogelijk is. Indien dit niet mogelijk is, kijk dan of u in het keuzemenu <span class="gui">Papiergrootte</span>kunt kiezen voor een envelopgrootte  (b.v. <span class="gui">C5</span>). Op de envelopverpakking kunt u de grootte terugvinden; de meeste enveloppen hebben standaardgroottes.</p>
+<p class="p">Ten tweede dient u ervoor te zorgen dat de enveloppen met de juiste kant naar boven in de papierlade worden gelegd. Ga dit na in de handleiding van de printer, of probeer een enkele envelop af te drukken en kijk welke kant bedrukt is om te zien welke de goede kant is.</p>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Sommige printers zijn niet ontworpen om op enveloppen af te drukken, vooral sommige laserprinters. Ga na in de handleiding van de printer of deze ook geschikt is voor enveloppen, anders kunt u mogelijk uw printer beschadigen bij het invoeren van een envelop.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -107,7 +93,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

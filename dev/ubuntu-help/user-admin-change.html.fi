@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="user-accounts.html.fi" title="Käyttäjätilit">Käyttäjät</a> › <a class="trail" href="user-accounts.html.fi#privileges" title="Käyttäjäoikeudet">Oikeudet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="user-accounts.html.fi" title="Käyttäjätilit">Käyttäjät</a> › <a class="trail" href="user-accounts.html.fi#privileges" title="Käyttäjäoikeudet">Oikeudet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Valitse ne tilit, joilla on pääkäyttäjäoikeudet</span></h1></div>
@@ -74,18 +74,17 @@
   important parts of the system. You can change which users have administrative
   privileges and which ones do not. They are a good way of keeping your system
   secure and preventing potentially damaging unauthorized changes.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.fi" title="Kuinka pääkäyttäjäoikeudet toimivat?">administrator privileges</a></span>
-  to change account types.</p>
+<p class="p">Tarvitset <span class="link"><a href="user-admin-explain.html.fi" title="Kuinka pääkäyttäjäoikeudet toimivat?">pääkäyttäjän oikeudet</a></span> muuttaaksesi tilien tyyppejä.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Users</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Käyttäjät</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
       type in your password when prompted.</p></li>
 <li class="steps"><p class="p">Valitse käyttäjä, jonka käyttöoikeuksia haluat muuttaa.</p></li>
 <li class="steps"><p class="p">Click the label <span class="gui">Standard</span> next to <span class="gui">Account Type</span>
       and select <span class="gui">Administrator</span>.</p></li>
-<li class="steps"><p class="p">The user’s privileges will be changed when they next log in.</p></li>
+<li class="steps"><p class="p">Käyttäjän oikeudet muuttuvat seuraavan sisäänkirjautumisen yhteydessä.</p></li>
 </ol></div></div></div>
 <div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents">
 <p class="p">The first user account on the system is usually the one that has
@@ -105,8 +104,7 @@
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html.fi" title="Kuinka pääkäyttäjäoikeudet toimivat?">Kuinka pääkäyttäjäoikeudet toimivat?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html.fi" title="Kuinka pääkäyttäjäoikeudet toimivat?">Kuinka pääkäyttäjäoikeudet toimivat?</a><span class="desc"> — Tarvitset pääkäyttäjäoikeuksia järjestelmän tärkeiden asetusten muuttamiseen.</span>
 </li>
 <li class="links ">
 <a href="user-admin-problems.html.fi" title="Pääkäyttäjäoikeuksien puuttumisesta koituvat rajoitteet">Pääkäyttäjäoikeuksien puuttumisesta koituvat rajoitteet</a><span class="desc"> — You can do some things, like installing applications, only if you
@@ -123,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

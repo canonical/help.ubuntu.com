@@ -64,19 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Online-accounts</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">U kunt uw aanmeldgegevens voor online-diensten, zoals Google en Facebook, invoeren in het <span class="app">Online-accounts</span>-venster. Hierdoor kunnen toepassingen toegang krijgen tot online diensten zoals e-mail, agenda, chatten en documenten.</p>
+<p class="p">U kunt uw aanmeldgegevens voor onlinediensten, zoals Google en Facebook, invoeren in het <span class="app">Online-accounts</span>-paneel. Hierdoor kunnen toepassingen toegang krijgen tot onlinediensten zoals e-mail, agenda, chatten en documenten.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.nl" title="Een account toevoegen"><span class="title">Een account toevoegen</span><span class="linkdiv-dash"> — </span><span class="desc">Toepassingen toestaan om uw online-accounts te bereiken voor foto's, contacten, agenda's en meer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.nl" title="Een account verwijderen"><span class="title">Een account verwijderen</span><span class="linkdiv-dash"> — </span><span class="desc">De toegang van uw toepassingen tot een diensten-provider verwijderen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.nl" title="Een account toevoegen"><span class="title">Een account toevoegen</span><span class="linkdiv-dash"> — </span><span class="desc">Toestaan dat toepassingen toegang hebben tot uw accounts online voor foto's, contacten, agenda's en meer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.nl" title="Een account verwijderen"><span class="title">Een account verwijderen</span><span class="linkdiv-dash"> — </span><span class="desc">De toegang van uw toepassingen tot een dienstenprovider verwijderen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.nl" title="Waarom zou ik een account toevoegen?"><span class="title">Waarom zou ik een account toevoegen?</span><span class="linkdiv-dash"> — </span><span class="desc">Waarom uw accounts voor e-mail of sociale media aan uw bureaublad toevoegen?</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.nl" title="Bepaal tot welke online diensten een account toegang geeft"><span class="title">Bepaal tot welke online diensten een account toegang geeft</span><span class="linkdiv-dash"> — </span><span class="desc">Bij sommige online-accounts kunt u meerdere diensten gebruiken (zoals agenda en e-mail). U kunt zelf bepalen welke van deze diensten gebruikt kunnen worden door uw lokale toepassingen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.nl" title="Online-services en -toepassingen"><span class="title">Online-services en -toepassingen</span><span class="linkdiv-dash"> — </span><span class="desc">Toepassingen kunnen de in <span class="app">Online accounts</span> aangemaakte accounts gebruiken, en de diensten die zij benutten.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.nl" title="Bepaal tot welke online diensten een account toegang geeft"><span class="title">Bepaal tot welke online diensten een account toegang geeft</span><span class="linkdiv-dash"> — </span><span class="desc">Bij sommige online-accounts kunt u meerdere diensten gebruiken (zoals agenda en e-mail). U kunt zelf bepalen welke van deze diensten gebruikt kunnen worden door uw toepassingen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.nl" title="Onlinediensten en toepassingen"><span class="title">Onlinediensten en toepassingen</span><span class="linkdiv-dash"> — </span><span class="desc">Toepassingen kunnen gebruik maken van de in <span class="app">Online-accounts</span> aangemaakte accounts en de diensten die zij benutten.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.nl" title="Waarom staat mijn accounttype niet in de lijst?"><span class="title">Waarom staat mijn accounttype niet in de lijst?</span><span class="linkdiv-dash"> — </span><span class="desc">Wat als een bepaalde provider voor online diensten niet in de lijst staat?</span></a></div>
 </div></div></div>
 </div>
@@ -93,11 +93,7 @@
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat.html.nl" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.nl" title="Chatten in Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.nl" title="Videogesprekken">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.nl" title="Hoe kan ik Skype gebruiken in Ubuntu?">install skype</a></span>
-    </span>
+<a href="net-chat.html.nl" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.nl" title="Chatten in Ubuntu">Chatten op een netwerk met behulp van <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.nl" title="Videogesprekken">video gesprekken voeren</a></span>, <span class="link"><a href="net-chat-skype.html.nl" title="Hoe kan ik Skype gebruiken in Ubuntu?">skype installeren</a></span></span>
 </li>
 <li class="links "><a href="gs-connect-online-accounts.html.nl" title="Verbinding maken met online-accounts">Een handleiding over het verbinding maken met online-accounts</a></li>
 </ul></div>
@@ -111,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

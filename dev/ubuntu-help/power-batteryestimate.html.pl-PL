@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>The estimated battery life is wrong</title>
+<title>Szacunkowy czas pracy na zasilaniu z akumulatora jest błędny</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,38 +65,22 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> › <a class="trail" href="power.html.pl-PL#faq" title="Pytania">Pytania</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">The estimated battery life is wrong</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Szacunkowy czas pracy na zasilaniu z akumulatora jest błędny</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you check the remaining battery life, you may find that the time
-remaining that it reports is different to how long the battery actually lasts.
-This is because the amount of remaining battery life can only be estimated.
-Normally, the estimates improve over time.</p>
-<p class="p">In order to estimate the remaining battery life, a number of factors must be
-taken into account. One is the amount of power currently being used by the
-computer: power consumption varies depending on how many programs you have
-open, which devices are plugged in, and whether you are running any intensive
-tasks (like watching high-definition video or converting music files, for
-example). This changes from moment to moment, and is difficult to predict.</p>
-<p class="p">Another factor is how the battery discharges. Some batteries lose charge
-faster the emptier they get. Without precise knowledge of how the battery
-discharges, only a rough estimate of remaining battery life can be made.</p>
-<p class="p">As the battery discharges, the power manager will figure out its discharge
-properties and will learn how to make better estimates of battery life. They
-will never be completely accurate, though.</p>
+<p class="p">Podczas sprawdzania pozostałego czasu pracy na zasilaniu z akumulatora może okazać, się, że podany czas różni się od czasu rzeczywistego. Dzieje się tak, ponieważ pozostały czas pracy na zasilaniu z akumulatora może być tylko szacowany. Zwykle szacunki z czasem są coraz bardziej dokładne.</p>
+<p class="p">Aby oszacować pozostały czas pracy na zasilaniu z akumulatora, pod uwagę branych jest wiele czynników. Jednym jest poziom prądu obecnie używanego przez komputer: zapotrzebowanie na prąd różni się w zależności od liczby otwartych programów, liczby podłączonych urządzeń i czy wykonywane są wymagające zadania (takie jak oglądanie filmów o wysokiej rozdzielczości czy konwertowanie plików muzycznych). Co chwilę się to zmienia i trudno to przewidzieć.</p>
+<p class="p">Innym czynnikiem jest sposób rozładowywania akumulatora. Niektóre akumulatory rozładowują się tym szybciej, im bardziej są puste. Bez dokładnej wiedzy o sposobie rozładowywania akumulatora można tylko w przybliżeniu oszacować pozostały czas pracy na zasilaniu z akumulatora.</p>
+<p class="p">W trakcie rozładowywania akumulatora menedżer zasilania wylicza jego właściwości rozładunku i poznaje, jak lepiej szacować czas pracy na zasilaniu z akumulatora. Nigdy nie będzie on jednak zupełnie dokładny.</p>
 <div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents">
-<p class="p">If you get a completely ridiculous battery life estimate (say, hundreds of
-  days), the power manager is probably missing some of the data it needs to
-  make a sensible estimate.</p>
-<p class="p">If you unplug the power and run the laptop on battery for a while, then
-  plug it in and let it recharge again, the power manager should be able to get
-  the data it needs.</p>
+<p class="p">Jeśli pozostały czas pracy na zasilaniu z akumulatora jest zupełnie niedorzeczny (np. setki godzin), to menedżer zasilania prawdopodobnie nie ma części danych potrzebnych do wykonania rozsądnego szacunku.</p>
+<p class="p">Menedżer zasilania powinien uzyskać potrzebne dane, jeśli użytkownik odłączy laptop z gniazdka, pozwoli mu działać jakiś czas na zasilaniu z akumulatora, a następnie podłączy go z powrotem i poczeka, aż się naładuje.</p>
 </div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -109,8 +93,7 @@ will never be completely accurate, though.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterywindows.html.pl-PL" title="Why do I have less battery life than I did on Windows/Mac OS?">Why do I have less battery life than I did on Windows/Mac OS?</a><span class="desc"> — Tweaks from the manufacturer and differing battery life estimates may
-    be the cause of this problem.</span>
+<a href="power-batterywindows.html.pl-PL" title="Dlaczego akumulator wystarcza na krócej niż w systemie Windows/macOS?">Dlaczego akumulator wystarcza na krócej niż w systemie Windows/macOS?</a><span class="desc"> — Przyczyną problemu mogą być ulepszenia producenta i inny sposób szacowania czasu pracy na zasilaniu z komputera.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -122,7 +105,7 @@ will never be completely accurate, though.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

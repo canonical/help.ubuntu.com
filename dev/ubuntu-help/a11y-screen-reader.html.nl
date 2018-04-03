@@ -64,13 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#vision" title="Visuele beperkingen">Visuele beperkingen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#vision" title="Visuele beperkingen">Visuele beperkingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Scherm hardop lezen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Gnome levert de <span class="app">Orca</span>-schermlezer waarmee de gebruikersinterface kan worden uitgesproken. Afhankelijk van hoe u Gnome geïnstalleerd heeft kan het zijn dat Orca bij u niet geïnstalleerd is. Als dat het geval is dient u Orca eerst te installeren.</p>
+<p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Orca installeren</a></span></p>
 <p class="p">Om <span class="app">Orca</span> te starten via het toetsenbord:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Druk op <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
 <p class="p">Of om <span class="app">Orca</span> te starten via muis en toetsenbord:</p>
@@ -81,7 +82,7 @@
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
 <div class="title title-note"><h2><span class="title">Schermlezer snel in- of uitschakelen</span></h2></div>
-<div class="region"><div class="contents"><p class="p">U kunt Schermlezer aan- en uitzetten door te klikken op het <span class="link"><a href="a11y-icon.html.nl" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenste balk en <span class="gui">Schermlezer</span> te selecteren. </p></div></div>
+<div class="region"><div class="contents"><p class="p">U kunt Schermlezer aan- en uitzetten door te klikken op het <span class="link"><a href="a11y-icon.html.nl" title="Het menu Universele toegang vinden">toegankelijkheidspictogram</a></span> in de bovenbalk en <span class="gui">Schermlezer</span> te selecteren.</p></div></div>
 </div></div>
 <p class="p">Kijk in de <span class="link"><a href="help:orca" title="help:orca">Hulp voor Orca</a></span> voor meer informatie.</p>
 </div>
@@ -107,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -85,7 +85,7 @@
 </div></div>
 <p class="p">Primeiro, mire ao sRGB, que é o menor espazo e que pode codificar o menor número de cores. É unha aproximación dunha pantalla CRT de 10 anos de antigüidade e a maioría dos monitores modernos poden mostrar moitas máis cores que estas. sRGB é un estándar do <span class="em">menor-denominador-común</span> e úsase nun gran número de aplicativos (incluíndo Internet).</p>
 <p class="p">AdobeRGB úsase frecuentemente como un <span class="em">espazo de edición</span>. Pode codificar máis cores que sRGB, o que significa que pode axustar as cores nunha fotografía sen preocuparse de que o brillo dos cores se corte ou os negros se pisen.</p>
-<p class="p">ProPHoto é o maior sitio dispoñíbel e úsase frecuentemente para arquivar documentos. Pode codificar case todo o rango de cores detectados polo ollo humano e incluso codificar que o ollo humano non pode detectar.</p>
+<p class="p">ProPHoto é o maior sitio dispoñíbel e úsase frecuentemente para arquivar documentos. Pode codificar case todo o rango de cores detectados polo ollo humano e incluso codificar que o ollo humano non pode detectar!</p>
 <p class="p">
     Now, if ProPhoto is clearly better, why don’t we use it for everything?
     The answer is to do with <span class="em">quantization</span>.
@@ -118,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

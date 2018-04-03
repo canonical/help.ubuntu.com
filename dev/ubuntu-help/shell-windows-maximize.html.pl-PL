@@ -64,28 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-windows" title="Praca z oknami">Okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-windows" title="Praca z oknami">Okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Maksymalizowanie i cofanie maksymalizacji okna</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can maximize a window to take up all of the space on your desktop
-  and unmaximize a window to restore it to its normal size. You can also
-  maximize windows vertically along the left and right sides of the screen,
-  so you can easily look at two windows at once. See
-  <span class="link"><a href="shell-windows-tiled.html.pl-PL" title="Tile windows">Tile windows</a></span> for details.</p>
-<p class="p">To maximize a window, grab the titlebar and drag it to the top of the
-  screen, or just double-click the titlebar. To maximize a window using the
-  keyboard, hold down the <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> key and
-  press <span class="key"><kbd>↑</kbd></span>, or press
-  <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
-<p class="p">To restore a window to its unmaximized size, drag it away from the edges
-  of the screen. If the window is fully maximized, you can double-click the
-  titlebar to restore it. You can also use the same keyboard shortcuts you
-  used to maximize the window.</p>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Hold down the <span class="key"><kbd>Super</kbd></span> key and drag anywhere in a window to move
-    it.</p></div></div></div></div>
+<p class="p">Można zmaksymalizować okno, aby zajmowało całe miejsc na pulpicie i cofnąć maksymalizację, aby przywrócić je do zwykłego rozmiaru. Można także zmaksymalizować okna pionowo po lewej i prawej stronie ekranu, aby wyświetlać dwa okna jednocześnie. <span class="link"><a href="shell-windows-tiled.html.pl-PL" title="Układanie okien">Układanie okien</a></span> zawiera więcej informacji.</p>
+<p class="p">Aby zmaksymalizować okno, chwyć pasek tytułu i przeciągnij go do góry ekranu lub kliknij go podwójnie. Aby zmaksymalizować okno za pomocą klawiatury, przytrzymaj klawisz <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> i naciśnij klawisz <span class="key"><kbd>↑</kbd></span>, albo naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
+<p class="p">Aby przywrócić okno do stanu sprzed maksymalizacji, przeciągnij je od krawędzi ekranu. Jeśli okno jest całkowicie zmaksymalizowane, to można podwójnie kliknąć pasek tytułu, aby je przywrócić. Można także użyć tych samych skrótów klawiszowych, których użyto do maksymalizacji.</p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Przytrzymaj klawisz <span class="key"><kbd>Super</kbd></span> i przeciągnij okno w dowolnym miejscu, aby je przenieść.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -97,7 +85,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-tiled.html.pl-PL" title="Tile windows">Tile windows</a><span class="desc"> — Maximize two windows side-by-side.</span>
+<a href="shell-windows-tiled.html.pl-PL" title="Układanie okien">Układanie okien</a><span class="desc"> — Maksymalizowanie dwóch okien obok siebie.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -109,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

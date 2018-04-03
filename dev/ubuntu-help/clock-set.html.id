@@ -72,19 +72,13 @@
 <div class="contents">
 <p class="p">Bila tanggal dan waktu yang ditampilkan pada bilah puncak salah atau salah format, Anda dapat mengubahnya:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span>      
-      overview and start typing <span class="gui">Date &amp; Time</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tanggal &amp; Waktu</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tanggal &amp; Waktu</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">If you have <span class="gui">Automatic Date &amp; Time</span> set to <span class="gui">ON</span>,
-      your date and time should update automatically if you have an internet
-      connection. To update your date and time manually, set this to
-      <span class="gui">OFF</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Date &amp; Time</span>, then adjust the time and date.</p></li>
-<li class="steps"><p class="p">You can change how the hour is displayed by selecting
-      <span class="gui">24-hour</span> or <span class="gui">AM/PM</span> for <span class="gui">Time Format</span>.</p></li>
+<li class="steps"><p class="p">Apabila Anda mengatur <span class="gui">Tanggal &amp; Waktu Otomatis</span> menjadi <span class="gui">ON</span>, tanggal dan waktu Anda seharusnya akan terbarui secara otomatis saat Anda memiliki koneksi internet. Untuk memperbarui tanggal dan waktu secara manual, atur bagian ini ke <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Tanggal &amp; Waktu</span>, lalu atur waktu dan tanggal.</p></li>
+<li class="steps"><p class="p">Anda juga dapat mengubah bagaimana jam ditampilkan dengan memilih format <span class="gui">24-jam</span> atau <span class="gui">AM/PM</span> untuk <span class="gui">Format Waktu</span>.</p></li>
 </ol></div></div></div>
-<p class="p">You may also wish to <span class="link"><a href="clock-timezone.html.id" title="Ubah zona waktu Anda">set the timezone
-  manually</a></span>.</p>
+<p class="p">Anda mungkin ingin untuk <span class="link"><a href="clock-timezone.html.id" title="Ubah zona waktu Anda">mengatur zona waktu manual</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -102,7 +96,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -84,14 +84,9 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">De verpakking en instructies van uw draadloos apparaat (vooral de gebruikershandleiding van uw router)</p></li>
 <li class="list"><p class="p">De schijf met stuurprogramma's voor uw draadloze adapter (zelfs als deze alleen maar Windows-stuurprogramma's bevat)</p></li>
-<li class="list"><p class="p">The manufacturers and model numbers of your computer, wireless adapter
-      and router. This information can usually be found on the
-      underside or reverse of the device.</p></li>
-<li class="list"><p class="p">Any version or revision numbers that may be printed on your wireless
-      network devices or their packaging. These can be especially helpful, so
-      look carefully.</p></li>
-<li class="list"><p class="p">Anything on the driver disc that identifies either the device itself,
-      its “firmware” version, or the components (chipset) it uses.</p></li>
+<li class="list"><p class="p">De fabrikant en de modelnummers van uw computer, draadloze adapter en router. Deze informatie kan in het algemeen gevonden worden onderop/achterop het apparaat.</p></li>
+<li class="list"><p class="p">Versienummers van uw draadloze apparaten, die op uw apparaten of hun verpakking staan. Vooral deze helpen, dus zoek hier goed naar.</p></li>
+<li class="list"><p class="p">Alles op de schijf met stuurprogramma's waardoor of het apparaat zelf, de ‘firmware’-versie of de door het apparaat gebruikte componenten (chipset) kunnen worden geïdentificeerd.</p></li>
 </ul></div></div></div>
 <p class="p">Indien mogelijk, probeer om toegang te krijgen tot een werkende internetverbinding zodat u software en stuurprogramma's kunt downloaden als dat nodig is. (Uw computer direct met een kabel op de router aansluiten is één van de mogelijkheden, maar doe dit alleen wanneer dit nodig is.)</p>
 <p class="p">Als u zoveel mogelijk informatie verzameld heeft, klikt u op <span class="gui">Volgende</span>.</p>
@@ -104,7 +99,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Opsporen en oplossen van problemen met draadloze verbindingen.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -115,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

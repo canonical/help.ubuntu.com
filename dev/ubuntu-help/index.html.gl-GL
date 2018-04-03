@@ -67,16 +67,16 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Logotipo de Ubuntu"></span></span> Guía do Escritorio do Ubuntu</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.gl-GL" title="Comezando"><span class="title">Comezar con GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">É novo en GNOME? Aprenda a como moverse.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.gl-GL" title="Comezando"><span class="title">Comezar con GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">É novo en GNOME? Aprenda como moverse.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.gl-GL" title="Iniciar aplicativos"><span class="title">Iniciar aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.gl-GL" title="Iniciar aplicativos"><span class="title">Iniciar aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Iniciar aplicativos desde a vista de <span class="gui">Actividades</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.gl-GL" title="Introdución a GNOME"><span class="title">Introdución a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.gl-GL" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.gl-GL" title="Saír da sesión, apagar e trocar de usuarios"><span class="title">Saír da sesión, apagar e trocar de usuarios</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html.gl-GL" title="Your desktop">Your desktop</a></div>
+<div class="links-grid-link"><a href="shell-overview.html.gl-GL" title="O seu escritorio">O seu escritorio</a></div>
 <div class="desc"><span class="desc">
       <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">Calendar</a></span>,
       <span class="link"><a href="shell-notifications.html.gl-GL" title="Notificacións e a bandexa de mensaxes">notifications</a></span>,
@@ -85,7 +85,7 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
+<div class="links-grid-link"><a href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.gl-GL" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html.gl-GL" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html.gl-GL" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.gl-GL" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html.gl-GL" title="Software de correo electrónico">contas de correo-e</a></span>…</span></div>
 </div>
 <div class="links-grid ">
@@ -128,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

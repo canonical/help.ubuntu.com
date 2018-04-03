@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Log out, power off or switch users</title>
+<title>Saír da sesión, apagar e trocar de usuarios</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Log out, power off or switch users</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Saír da sesión, apagar e trocar de usuarios</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">When you have finished using your computer, you can turn it off, suspend
   it (to save power), or leave it powered on and log out.</p></div>
@@ -131,10 +131,10 @@
 <div class="title"><h3><span class="title">Vexa tamén</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">Que acontece cando suspendo o meu computador?</a><span class="desc"> — Suspender pon o seu computador a durmir para que use menos enerxía.</span>
+<a href="power-autosuspend.html.gl-GL" title="Configurar a suspensión automática">Configurar a suspensión automática</a><span class="desc"> — Configure o seu computador para suspendelo automaticamente.</span>
 </li>
 <li class="links ">
-<a href="power-autosuspend.html.gl-GL" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">Que acontece cando suspendo o meu computador?</a><span class="desc"> — Suspender pon o seu computador a durmir para que use menos enerxía.</span>
 </li>
 <li class="links ">
 <a href="power-batterylife.html.gl-GL" title="Use menos enerxía para mellorar a vida da súa batería">Use menos enerxía para mellorar a vida da súa batería</a><span class="desc"> — Consellos para reducir o consumo de enerxía do seu computador.</span>
@@ -176,14 +176,14 @@
 <div class="region"><ul>
 <li class="links ">
 <a href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.gl-GL" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-status.html.gl-GL" title="Comprobe o estado da batería">Battery status</a></span>,
       <span class="link"><a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
       <span class="link"><a href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
     </span>
 </li>
 <li class="links "><a href="index.html.gl-GL" title="Guia do escritorio Ubuntu">Guia do escritorio Ubuntu</a></li>
 <li class="links ">
-<a href="shell-overview.html.gl-GL" title="Your desktop">Your desktop</a><span class="desc"> — 
+<a href="shell-overview.html.gl-GL" title="O seu escritorio">O seu escritorio</a><span class="desc"> — 
       <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">Calendar</a></span>,
       <span class="link"><a href="shell-notifications.html.gl-GL" title="Notificacións e a bandexa de mensaxes">notifications</a></span>,
       <span class="link"><a href="shell-keyboard-shortcuts.html.gl-GL" title="Atallos de teclado útiles">keyboard shortcuts</a></span>,
@@ -207,7 +207,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

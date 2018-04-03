@@ -70,12 +70,13 @@
 <div class="hgroup"><h1 class="title"><span class="title">Определение используемой версии GNOME</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Вы можете посмотреть версию GNOME в панели <span class="gui">Подробности</span> в <span class="gui">Параметрах</span> системы.</p>
+<p class="p">You can determine the version of GNOME that is running on your system by
+  going to the <span class="gui">Details/About</span> panel in <span class="gui">Settings</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
-      start typing <span class="gui">Details</span>.</p></li>
+      start typing <span class="gui">About</span>.</p></li>
 <li class="steps">
-<p class="p">Нажмите <span class="gui">Подробности</span>, чтобы открыть этот раздел настроек.</p>
+<p class="p">Click on <span class="gui">About</span> to open the panel.</p>
 <p class="p">A window appears showing information about your system, including your
       distribution’s name and the GNOME version.</p>
 </li>
@@ -97,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,52 +64,30 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Otwieranie plików w innych programach</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you double-click (or middle-click) a file in the file manager, it
-  will be opened with the default application for that file type. You can open
-  it in a different application, search online for applications, or set the
-  default application for all files of the same type.</p>
-<p class="p">To open a file with an application other than the default, right-click
-  the file and select the application you want from the top of the menu. If
-  you do not see the application you want, select <span class="gui">Open With Other
-  Application</span>. By default, the file manager only shows applications that
-  are known to handle the file. To look through all the applications on your
-  computer, click <span class="gui">View All Applications</span>.</p>
-<p class="p">If you still cannot find the application you want, you can search for
-more applications by clicking <span class="gui">Find New Applications</span>. The
-file manager will search online for packages containing applications
-that are known to handle files of that type.</p>
+<p class="p">Po podwójnym kliknięciu (lub kliknięciu środkowym przyciskiem myszy) pliku w menedżerze plików zostanie on otwarty w domyślnym programie dla tego typu plików. Można otworzyć go w innym programie, wyszukać programów w Internecie lub ustawić domyślny program dla wszystkich plików tego samego typu.</p>
+<p class="p">Aby otworzyć plik w programie innym niż domyślny, kliknij plik prawym przyciskiem myszy i wybierz program na górze menu. Jeśli nie ma tam danego programu, to wybierz <span class="gui">Otwórz za pomocą innego programu</span>. Domyślnie menedżer plików wyświetla tylko programy, o których wiadomo, że mogą obsłużyć ten plik. Aby przejrzeć wszystkie programy na komputerze, kliknij przycisk <span class="gui">Wyświetl wszystkie programy</span>.</p>
+<p class="p">Jeśli nadal nie można znaleźć danego programu, to można wyszukać więcej programów klikając przycisk <span class="gui">Znajdź nowe programy</span>. Menedżer plików wyszuka w Internecie pakiety zawierające programy, które mogą obsługiwać pliki tego typu.</p>
 </div>
 <div id="default" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zmiana domyślnego programu</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can change the default application that is used to open files of a
-  given type. This will allow you to open your preferred application when you
-  double-click to open a file. For example, you might want your favorite music
-  player to open when you double-click an MP3 file.</p>
+<p class="p">Można zmienić domyślny program używany do otwierania plików danego typu. Umożliwia to otwieranie preferowanego programu po podwójnym kliknięciu pliku. Na przykład, można ustawić otwieranie ulubionego odtwarzacza muzyki po podwójnym kliknięciu pliku MP3.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select a file of the type whose default application you want to
-    change. For example, to change which application is used to open MP3 files,
-    select a <span class="file">.mp3</span> file.</p></li>
-<li class="steps"><p class="p">Right-click the file and select <span class="gui">Properties</span>.</p></li>
+<li class="steps"><p class="p">Wybierz plik typu, dla którego zmienić domyślny program. Na przykład, aby zmienić program używany do otwierania plików MP3, wybierz plik <span class="file">.mp3</span>.</p></li>
+<li class="steps"><p class="p">Kliknij plik prawym przyciskiem myszy i wybierz <span class="gui">Właściwości</span>.</p></li>
 <li class="steps"><p class="p">Wybierz kartę <span class="gui">Otwieranie</span>.</p></li>
 <li class="steps">
-<p class="p">Select the application you want and click
-    <span class="gui">Set as default</span>.</p>
-<p class="p">If <span class="gui">Other Applications</span> contains an application you sometimes
-    want to use, but do not want to make the default, select that application
-    and click <span class="gui">Add</span>. This will add it to <span class="gui">Recommended
-    Applications</span>. You will then be able to use this application by
-    right-clicking the file and selecting it from the list.</p>
+<p class="p">Wybierz program i kliknij przycisk <span class="gui">Ustaw jako domyślny</span>.</p>
+<p class="p">Jeśli sekcja <span class="gui">Inne programy</span> zawiera program, którego chcesz czasem używać, ale nie ma być ustawiony jako domyślny, to wybierz go i kliknij przycisk <span class="gui">Dodaj</span>. Spowoduje to dodanie go to sekcji <span class="gui">Zalecane programy</span>. Będzie wtedy można używać tego programu przez kliknięcie pliku prawym przyciskiem myszy i wybranie go z listy.</p>
 </li>
 </ol></div></div></div>
-<p class="p">This changes the default application not just for the selected file,
-  but for all files with the same type.</p>
+<p class="p">Powoduje to zmianę domyślnego programu nie tylko dla wybranego pliku, ale dla wszystkich plików tego samego typu.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -126,7 +104,7 @@ that are known to handle files of that type.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.cs" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="addremove.html.cs" title="Instalace a odstranění softwaru">Přidat/odebrat software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Odstranění aplikace</span></h1></div>
@@ -73,15 +73,15 @@
 <p class="p">Aplikace je software, který má grafické uživatelské rozhraní (GUI). K odstranění aplikací, které již nepoužíváte můžete použít <span class="app">Ubuntu Software</span>.</p>
 <p class="p">Applications are available in two formats: snap packages and Debian packages. 
    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-   In order to remove (or install) a snap you have to log on to the Snap Store/Ubuntu One.
-   Some applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
+   Some applications are available in both formats. In such a case in
+   <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
 <p class="p">You may also wish to remove software that does not have a GUI.
     To remove such software, you can use
     <span class="link"><a href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
   </p>
 <p class="p">Pro odstranění aplikace:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klikněte na ikonu <span class="app">Ubuntu Software</span> v <span class="gui">Docku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
+<li class="steps"><p class="p">Klikněte na ikonu <span class="app">Ubuntu Software</span> v <span class="gui">Doku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
 <li class="steps"><p class="p">Když se <span class="app">Ubuntu Software</span> otevře, klikněte na tlačítko <span class="gui">Nainstalované</span> umístěné nahoře.</p></li>
 <li class="steps"><p class="p">Nalezněte aplikaci, kterou chcete odinstalovat, za použití vyhledávání nebo se podívejte do seznamu nainstalovaných aplikací.</p></li>
 <li class="steps"><p class="p">Vyberte aplikaci a klikněte na <span class="gui">Odstranit</span>.</p></li>
@@ -89,10 +89,7 @@
         Confirm that you want to remove the application.
       </p></li>
 <li class="steps"><p class="p">
-    If you're removing a snap, log on to the Snap Store/Ubuntu One. 
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password (that is, your user password, not your Snap Store/Ubuntu One password).
+        You will be asked to authenticate by entering your password.
         After you have done that, the application will be removed.
       </p></li>
 </ol></div></div></div>
@@ -127,7 +124,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

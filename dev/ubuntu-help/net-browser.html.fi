@@ -64,14 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Selaimet</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.fi" title="Change which web browser opens websites by default"><span class="title">Change which web browser opens websites by default</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default web browser by going to <span class="gui">Details</span> in <span class="gui">Settings</span>.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.fi" title="Flash-lisäosan asentaminen"><span class="title">Flash-lisäosan asentaminen</span><span class="linkdiv-dash"> — </span><span class="desc">You may need to install Flash to be able to view some websites, which display videos and interactive web pages.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.fi" title="Flash-lisäosan asentaminen"><span class="title">Flash-lisäosan asentaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Saatat mahdollisesti tarvita Flash-asennusta, jotta voit käyttää joitain vuorovaikutteisia tai videoita sisältäviä verkkosivuja.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.fi" title="Vaihda verkkosivut oletuksena avaavaa verkkoselainta"><span class="title">Vaihda verkkosivut oletuksena avaavaa verkkoselainta</span><span class="linkdiv-dash"> — </span><span class="desc">Vaihda oletusselainta <span class="gui">Asetukset</span>-ikkunan <span class="gui">Tiedot</span>-osiosta.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -84,7 +84,7 @@
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-browse-web.html.fi" title="Selaa verkkoa">A tutorial on browsing the web</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-browse-web.html.fi" title="Selaa verkkoa">Opas internetin selaamiseen</a></li></ul></div>
 </div></div>
 </div>
 </div>
@@ -95,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

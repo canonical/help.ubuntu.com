@@ -77,7 +77,7 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Vieta un valoda</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.lv" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.lv" title="Izmantojiet alternatīvus tastatūru izkārtojumus">Izmantojiet alternatīvus tastatūru izkārtojumus</a><span class="desc"> — Pievienot tastatūru izkārtojumus un starp tiem pārslēgties.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
@@ -110,6 +110,9 @@
 <div class="title title-links"><h2><span class="title">Citas tēmas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
+<a href="numeric-keypad.html.lv" title="Ciparu tastatūra">Ciparu tastatūra</a><span class="desc"> — Ieslēgt ciparu tastatūru pēc noklusējuma.</span>
+</li>
+<li class="links ">
 <a href="keyboard-shortcuts-set.html.lv" title="Iestatīt tastatūras saīsnes">Iestatīt tastatūras saīsnes</a><span class="desc"> — Definējiet vai mainiet tastatūras saīsnes <span class="gui">Tastatūra</span> iestatījumos.</span>
 </li>
 <li class="links ">
@@ -117,9 +120,6 @@
 </li>
 <li class="links ">
 <a href="shell-keyboard-shortcuts.html.lv" title="Noderīgas tastatūras saīsnes">Noderīgas tastatūras saīsnes</a><span class="desc"> — Pārvietojieties pa darbvirsmu, izmantojot tastatūru.</span>
-</li>
-<li class="links ">
-<a href="numeric-keypad.html.lv" title="Numeric keypad">Numeric keypad</a><span class="desc"> — Enable the numeric keypad by default.</span>
 </li>
 <li class="links ">
 <a href="keyboard-repeat-keys.html.lv" title="Pārvaldīt atkārtotos tautiņu spiedienus">Pārvaldīt atkārtotos tautiņu spiedienus</a><span class="desc"> — Liec tastatūrai neatkārtot burtus, kad piespied un turi taustiņu, vai maniet atkārtošanās aizkavi un ātrumu.</span>
@@ -148,7 +148,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

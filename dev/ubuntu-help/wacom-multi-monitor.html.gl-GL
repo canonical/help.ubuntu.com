@@ -70,13 +70,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Seleccione unha pantalla</span></h1></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
-    start typing <span class="gui">Wacom Tablet</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Tableta Wacom</span>.</p></li>
 <li class="steps">
-<p class="p">Click on <span class="gui">Wacom Tablet</span> to open the panel.</p>
-<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
-    <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
-    <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
+<p class="p">Prema na <span class="gui">Tableta Wacom</span>para abrir o panel.</p>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Se non se detecta ningunha tableta, pediráselle que <span class="gui">Conecte ou acenda a súa tableta Wacom</span>.
+Prema a ligazón <span class="gui">Preferencias de Bluetooth</span> para conectar unha tableta inarámica.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Prema <span class="gui">Mapa que monitorizar…</span>.</p></li>
 <li class="steps"><p class="p">Marque <span class="gui">Mapear a unha única pantalla</span>.</p></li>
@@ -97,11 +95,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html.gl-GL" title="Tableta gráfica Wacom">Tableta gráfica Wacom</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html.gl-GL" title="Seleccione unha pantalla">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html.gl-GL" title="Configure o seu «stylus»">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html.gl-GL" title="Usar a tableta para zurdos">use the tablet left handed</a></span>…
-  </span>
+<a href="wacom.html.gl-GL" title="Tableta gráfica Wacom">Tableta gráfica Wacom</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html.gl-GL" title="Seleccione unha pantalla">Mapear un monitor</a></span>, <span class="link"><a href="wacom-stylus.html.gl-GL" title="Configure o «stylus»">Configurar un stylus</a></span>, <span class="link"><a href="wacom-left-handed.html.gl-GL" title="Usar a tableta para zurdos">Usar unha tableta para zurdos</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -112,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

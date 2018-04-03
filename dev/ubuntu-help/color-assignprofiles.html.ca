@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I assign profiles to devices?</title>
+<title>Com puc assignar perfils als dispositius?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,33 +65,25 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I assign profiles to devices?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Com puc assignar perfils als dispositius?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You may want to assign a color profile for your screen or printer so that
-  the colors which it shows are more accurate.</p>
+<p class="p">És possible que vulgueu assignar un perfil de color a la vostra pantalla o impressora perquè els colors que mostrin siguin més precisos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the device for which you want to add a profile.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import
-      a new profile.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to confirm your selection.</p></li>
+<li class="steps"><p class="p">Obre la vista d' <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenci a escriure <span class="gui">Color</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Color</span> per obrir el panell.</p></li>
+<li class="steps"><p class="p">Seleccioneu el dispositiu per al qual vulgueu afegir un perfil.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Afegir perfil</span> per seleccionar un perfil existent o importar-ne un de nou.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Afegir</span> per confirmar la vostra selecció.</p></li>
 </ol></div></div></div>
-<p class="p">Each device can have multiple profiles assigned to it, but only one
-  profile can be the <span class="em">default</span> profile. The default profile is used when
-  there is no extra information to allow the profile to be chosen
-  automatically. An example of this automatic selection would be if one profile
-  was created for glossy paper and another plain paper.</p>
-<p class="p">If calibration hardware is connected, the <span class="gui">Calibrate…</span> button
-  will create a new profile.</p>
+<p class="p">Cada dispositiu pot tenir diversos perfils assignats a ell, però només un perfil pot ser el perfil <span class="em">per defecte</span>. El perfil predeterminat s'utilitza quan no hi ha informació addicional per permetre que el perfil es seleccioni automàticament. Un exemple d'aquesta selecció automàtica seria si es creés un perfil per a paper brillant i un altre paper normal.</p>
+<p class="p">Si el maquinari de calibratge està connectat, el botó <span class="gui">Calibrar…</span> crearà un nou perfil..</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -99,24 +91,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html.ca" title="Color management">Color management</a><span class="desc"> — 
-      <span class="link"><a href="color-whyimportant.html.ca" title="Why is color management important?">Why is this important</a></span>,
-      <span class="link"><a href="color.html.ca#profiles" title="Perfils de color">Color profiles</a></span>,
-      <span class="link"><a href="color.html.ca#calibration" title="Calibration">How to calibrate a device</a></span>…
-    </span>
+<a href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.ca" title="Per què és important la gestió del color?">Per què és important</a></span>, <span class="link"><a href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a></span>, <span class="link"><a href="color.html.ca#calibration" title="Calibració">Com calibrar un dispositiu</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-howtoimport.html.ca" title="How do I import color profiles?">How do I import color profiles?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-howtoimport.html.ca" title="Com importo perfils de color?">Com importo perfils de color?</a><span class="desc"> — Els perfils de color es poden importar obrint-los.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html.ca" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-why-calibrate.html.ca" title="Per què he de fer jo la calibració?">Per què he de fer jo la calibració?</a><span class="desc"> — Calibrar és important si us preocupa els colors que mostreu o imprimiu.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html.ca" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
+<a href="color-whatisprofile.html.ca" title="Què és un perfil de color?">Què és un perfil de color?</a><span class="desc"> — Un perfil de color és un fitxer simple que expressa un espai de color o una resposta del dispositiu.</span>
 </li>
 </ul></div>
 </div></div>
@@ -129,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

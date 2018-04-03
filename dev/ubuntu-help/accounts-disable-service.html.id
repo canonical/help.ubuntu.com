@@ -75,12 +75,14 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akun Daring</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Pilih akun yang ingin Anda ubah dari daftar di kiri.</p></li>
+<li class="steps"><p class="p">Select the account which you want to change from the list on the
+      right.</p></li>
 <li class="steps"><p class="p">Daftar layanan yang tersedia dengan akun ini akan ditunjukkan di bawah <span class="gui">Pakai untuk</span>. Lihat <span class="link"><a href="accounts-which-application.html.id" title="Aplikasi dan layanan daring">Aplikasi dan layanan daring</a></span> mengenai aplikasi mana mengakses layanan apa.</p></li>
 <li class="steps"><p class="p">Matikan sebarang layanan yang tak ingin Anda pakai.</p></li>
 </ol></div></div></div>
 <p class="p">Sekali suatu layanan telah dinonaktifkan bagi suatu akun, aplikasi pada komputer Anda tak akan bisa lagi memakai akun itu untuk menyambung ke layanan tersebut.</p>
-<p class="p">Untuk memfungsikan suatu layanan yang Anda nonaktifkan, kembalilah ke jendela <span class="gui">Akun Daring</span> dan nyalakan itu.</p>
+<p class="p">To turn on a service that you disabled, just go back to the <span class="gui">Online
+  Accounts</span> panel and switch it on.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -111,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

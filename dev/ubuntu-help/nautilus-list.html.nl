@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Files list columns preferences</title>
+<title>Bestandsbeheer-voorkeuren: lijstkolommen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,65 +64,52 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Files list columns preferences</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Bestandsbeheer-voorkeuren: lijstkolommen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">There are eleven columns of information that you can display in the
-  <span class="gui">Files</span> list view. Click <span class="gui">Files</span> in the top bar, pick
-  <span class="gui">Preferences</span> and choose the <span class="gui">List Columns</span> tab to select
-  which columns will be visible.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Use the <span class="gui">Move Up</span> and <span class="gui">Move Down</span> buttons to choose
-    the order in which the selected columns will appear. Click <span class="gui">Reset to
-    Default</span> to undo any changes and return to the default columns.</p></div></div></div></div>
+<p class="p">Er zijn elf informatiekolommen die u in de lijstweergave van bestandsbeheer kunt weergeven. Klik in de bovenbalk op <span class="gui">Bestanden</span> , klik op <span class="gui">Voorkeuren</span> en kies het tabblad <span class="gui">Lijstkolommen</span> om te kiezen welke kolommen zichtbaar zullen zijn.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Gebruik de knoppen <span class="gui">Naar boven</span> en <span class="gui">Naar beneden</span> om de volgorde te kiezen waarin de geselecteerde kolommen zullen verschijnen. Klik op <span class="gui">Terug naar standaardweergave</span> om de wijzigingen ongedaan te maken en terug te gaan naar de standaardkolommen.</p></div></div></div></div>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Naam</span></dt>
 <dd class="terms">
-<p class="p">The name of folders and files.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Name</span> column cannot be hidden.</p></div></div></div></div>
+<p class="p">De naam van mappen en bestanden.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">De kolom <span class="gui">Naam</span> kan niet worden verborgen.</p></div></div></div></div>
 </dd>
 <dt class="terms"><span class="gui">Grootte</span></dt>
 <dd class="terms"><p class="p">De grootte van een map wordt aangegeven als het aantal items in die map. De grootte van een bestand wordt gegeven in bytes, KB of MB.</p></dd>
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms"><p class="p">Weergegeven als map, of bestandstype zoals PDF-document, JPEG-afbeelding, MP3 audio.</p></dd>
 <dt class="terms"><span class="gui">Gewijzigd</span></dt>
-<dd class="terms"><p class="p">Gives the date of the last time the file was modified.</p></dd>
+<dd class="terms"><p class="p">Geeft de datum van de laatste keer dat het bestand werd gewijzigd.</p></dd>
 <dt class="terms"><span class="gui">Eigenaar</span></dt>
 <dd class="terms"><p class="p">De naam van de gebruiker die eigenaar is van de map of het bestand.</p></dd>
 <dt class="terms"><span class="gui">Groep</span></dt>
-<dd class="terms"><p class="p">The group the file is owned by. Each user is normally in their own
-      group, but it is possible to have many users in one group. For example, a
-      department may have their own group in a work environment.</p></dd>
+<dd class="terms"><p class="p">De groep waartoe het bestand behoort. Elke gebruiker zit normaalgesproken in een eigen groep, maar het is mogelijk dat meerdere gebruikers in één groep zitten. Zo kan een afdeling een eigen groep hebben in een werkomgeving.</p></dd>
 <dt class="terms"><span class="gui">Rechten</span></dt>
 <dd class="terms">
-<p class="p">Displays the file access permissions. For example,
-      <span class="gui">drwxrw-r--</span></p>
+<p class="p">Geeft de toegangsrechten tot het bestand weer, bijv. <span class="gui">drwxrw-r--</span></p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">The first character is the file type. <span class="gui">-</span> means regular
-          file and <span class="gui">d</span> means directory (folder). In rare cases, other
-          characters can also be shown.</p></li>
+<li class="list"><p class="p">Het eerste teken <span class="gui">-</span> is het bestandstype. <span class="gui">-</span> betekent normaal bestand en <span class="gui">d</span> betekent directory (map). In zeldzame gevallen kunnen er ook andere tekens weergegeven worden.</p></li>
 <li class="list"><p class="p">De volgende drie tekens <span class="gui">rwx</span> geven de rechten aan voor de gebruiker die eigenaar is van het bestand.</p></li>
 <li class="list"><p class="p">De volgende drie tekens <span class="gui">rw-</span> geven de rechten aan voor alle leden van de groep die eigenaar is van het bestand.</p></li>
 <li class="list"><p class="p">De laatste drie tekens in de kolom <span class="gui">r--</span> geven de rechten aan voor alle andere gebruikers van het systeem.</p></li>
 </ul></div></div></div>
-<p class="p">Each permission has the following meanings:</p>
+<p class="p">De betekenis van de rechten:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">r</span>: readable, meaning that you can open the file or
-          folder</p></li>
-<li class="list"><p class="p"><span class="gui">w</span>: writable, meaning that you can save changes to it</p></li>
-<li class="list"><p class="p"><span class="gui">x</span>: executable, meaning that you can run it if it is a
-          program or script file, or you can access subfolders and files if it
-          is a folder</p></li>
-<li class="list"><p class="p"><span class="gui">-</span>: permission not set</p></li>
+<li class="list"><p class="p"><span class="gui">r</span>: leesbaar, hetgeen inhoudt dat u het bestand of de map kunt openen</p></li>
+<li class="list"><p class="p"><span class="gui">w</span>: schrijfbaar, hetgeen betekent dat u wijzigingen kunt opslaan</p></li>
+<li class="list"><p class="p"><span class="gui">x</span>: uitvoerbaar, hetgeen betekent dat u het kan uitvoeren als het een programma of scriptbestand is, of dat u toegang heeft tot submappen en bestanden als het een map is</p></li>
+<li class="list"><p class="p"><span class="gui">-</span>: permissie niet ingesteld</p></li>
 </ul></div></div></div>
 </dd>
 <dt class="terms"><span class="gui">MIME-type</span></dt>
 <dd class="terms"><p class="p">Geeft het MIME-type van het item weer.</p></dd>
 <dt class="terms"><span class="gui">Locatie</span></dt>
 <dd class="terms"><p class="p">Het pad naar de locatie van het bestand.</p></dd>
-<dt class="terms"><span class="gui">Modified — Time</span></dt>
+<dt class="terms"><span class="gui">Gewijzigd — Tijd</span></dt>
 <dd class="terms"><p class="p">Geeft de datum en tijd van de laatste keer dat het bestand werd gewijzigd.</p></dd>
 <dt class="terms"><span class="gui">Benaderd</span></dt>
 <dd class="terms"><p class="p">Geeft de datum of tijd van de laatste keer dat het bestand werd gewijzigd.</p></dd>
@@ -144,7 +131,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Użyj Synaptica do bardziej zaawansowanego zarządzania oprogramowaniem</title>
+<title>Używanie programu Synaptic do bardziej zaawansowanego zarządzania oprogramowaniem</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,44 +64,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.pl-PL" title="Install &amp; remove software">Add/remove software</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="addremove.html.pl-PL" title="Instalowanie i usuwanie oprogramowania">Dodawanie/usuwanie oprogramowania</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Użyj Synaptica do bardziej zaawansowanego zarządzania oprogramowaniem</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Używanie programu Synaptic do bardziej zaawansowanego zarządzania oprogramowaniem</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    <span class="app">Synaptic Package Manager</span> is more powerful and can do some 
-    software management tasks which <span class="app">Ubuntu Software</span> can't. 
-    Synaptic's interface is more complicated and doesn't support newer
-    <span class="app">Ubuntu Software</span> features like ratings and reviews and therefore
-    isn't recommended for use by those new to Ubuntu.
-  </p>
-<p class="p">
-    Synaptic isn't installed by default, but you can <span class="link"><a href="https://apps.ubuntu.com/cat/applications/synaptic" title="https://apps.ubuntu.com/cat/applications/synaptic">install</a></span> it from the Ubuntu package archive.
-  </p>
+<p class="p"><span class="app">Menedżer pakietów Synaptic</span> jest bardziej funkcjonalny i umożliwia wykonywanie zadań, których <span class="app">Menedżer oprogramowania Ubuntu</span> nie potrafi. Interfejs programu Synaptic jest bardziej skomplikowany i nie obsługuje nowszych funkcji <span class="app">Menedżera oprogramowania Ubuntu</span>, takich jak oceny i recenzje, więc nie jest zalecany nowym użytkownikom Ubuntu.</p>
+<p class="p">Synaptic nie jest domyślnie zainstalowany, ale można <span class="link"><a href="apt:synaptic" title="apt:synaptic">zainstalować</a></span> go z archiwum pakietów Ubuntu.</p>
 </div>
 <div id="install-software-with-synaptic" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Instalacja oprogramowania z Synaptic</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Instalacja oprogramowania za pomocą programu Synaptic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
-          will need to enter your password in the <span class="gui">Authenticate</span> window.
-        </p></li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Szukaj</span>, aby wyszukać program, albo kliknij <span class="gui">Wybór</span> i wybierz właściwą kategorię.</p></li>
-<li class="steps"><p class="p">Prawoklikiem wskaż program, jaki ma zostać zainstalowany, i wybierz <span class="gui">Zaznacz do zainstalowania</span>.</p></li>
-<li class="steps"><p class="p">
-          If you are asked to mark additional changes, click <span class="gui">Mark</span>.
-        </p></li>
-<li class="steps"><p class="p">
-          Select any other applications that you would like to install.
-        </p></li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Zastosuj</span>, a następnie w oknie jakie się pojawi także kliknij <span class="gui">Zastosuj</span>. Wybrany program zostanie pobrany i zainstalowany.</p></li>
+<li class="steps"><p class="p">Otwórz program <span class="app">Synaptic</span> za pomocą paska wyszukiwania na <span class="em">ekranie podglądu</span>. Należy wpisać hasło w oknie <span class="gui">Uwierzytelnianie</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Szukaj</span>, aby wyszukać program lub kliknij <span class="gui">Działy</span> i wybierz właściwą kategorię.</p></li>
+<li class="steps"><p class="p">Kliknij program do zainstalowania prawym przyciskiem myszy i zaznacz pole <span class="gui">Zaznacz do instalacji</span>.</p></li>
+<li class="steps"><p class="p">Jeśli Synaptic prosi o zaznaczenie dodatkowych zmian, kliknij przycisk <span class="gui">Zaznacz</span>.</p></li>
+<li class="steps"><p class="p">Zaznacz pozostałe programy do zainstalowania.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Zastosuj</span>, a następnie w oknie, które zostanie otwarte także kliknij <span class="gui">Zastosuj</span>. Wybrany program zostanie pobrany i zainstalowany.</p></li>
 </ol></div></div></div>
-<p class="p">
-      For more information about using <span class="app">Synaptic</span>, consult the <span class="link"><a href="https://help.ubuntu.com/community/SynapticHowto" title="https://help.ubuntu.com/community/SynapticHowto">Synaptic How To</a></span>.
-    </p>
+<p class="p"><span class="link"><a href="https://help.ubuntu.com/community/SynapticHowto" title="https://help.ubuntu.com/community/SynapticHowto">Poradnik programu Synaptic</a></span> zawiera więcej informacji o używaniu programu <span class="app">Synaptic</span> (w języku angielskim).</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -110,28 +93,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.pl-PL" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.pl-PL" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.pl-PL" title="Usuń program">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.pl-PL" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.pl-PL" title="Instalowanie i usuwanie oprogramowania">Instalowanie i usuwanie oprogramowania</a><span class="desc"> — <span class="link"><a href="addremove-install.html.pl-PL" title="Instalacja dodatkowych programów">Instalowanie programów</a></span>, <span class="link"><a href="addremove-remove.html.pl-PL" title="Usuwanie programu">usuwanie programów</a></span>, <span class="link"><a href="addremove-sources.html.pl-PL" title="Dodawanie repozytoriów oprogramowania">dodawanie repozytoriów</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.pl-PL" title="Install additional applications">
-    Install additional applications
-  </a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.pl-PL" title="Instalacja dodatkowych programów">Instalacja dodatkowych programów</a><span class="desc"> — Używanie <span class="app">Menedżera oprogramowania Ubuntu</span> do instalacji dodatkowych programów.</span>
 </li>
 <li class="links ">
-<a href="addremove-remove.html.pl-PL" title="Usuń program">Usuń program</a><span class="desc"> — 
-      Remove applications that you no longer use.
-    </span>
+<a href="addremove-remove.html.pl-PL" title="Usuwanie programu">Usuwanie programu</a><span class="desc"> — Usuwanie nieużywanych programów.</span>
 </li>
 </ul></div>
 </div></div>
@@ -144,7 +116,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

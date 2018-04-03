@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>My new iPod won’t work</title>
+<title>Mijn nieuwe iPod werkt niet</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,13 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">My new iPod won’t work</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Mijn nieuwe iPod werkt niet</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have a new iPod that has never been connected to a computer before, it won’t be recognized properly when you connect it to a Linux computer. This is because iPods need to be set up and updated using the <span class="app">iTunes</span> software, which only runs on Windows and Mac OS.</p>
+<p class="p">Als u een nieuwe iPod heeft die nog nooit eerder op een computer is aangesloten, dan zal die niet op de juiste manier herkend worden wanneer u hem aansluit op een Linux computer. Dit komt doordat iPods ingesteld en bijgewerkt moeten worden via de <span class="app">iTunes</span> software en die draait alleen op Windows en Mac OS.</p>
 <p class="p">Om uw iPod in te stellen, installeer iTunes op een Windows of Mac computer en sluit hem aan. U wordt door een aantal stappen geleid om hem in te stellen. Wanneer gevraagd wordt naar het <span class="gui">Bestandsformaat</span>, kies <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> of iets soortgelijks. Het andere formaat (HFS/Mac) werkt niet zo goed met Linux.</p>
 <p class="p">Nadat u de set-up heeft voltooid zou de iPod normaal moeten werken als u hem aansluit op een Linux computer.</p>
 </div>
@@ -88,7 +88,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -85,8 +85,8 @@
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Karakterek</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A GNOME másik hasznos alkalmazása a <span class="app">Karakterek</span>. Lehetővé teszi szokatlan karakterek megkeresését és beszúrását a karakterkategóriák tallózásával vagy kulcsszavak keresésével.</p>
-<p class="p">A Karakterek alkalmazást megtalálja a Tevékenységek áttekintésben. A Karakterekkel kapcsolatos további információkért lásd a <span class="link"><a href="https://help.gnome.org/users/gucharmap/stable/" title="https://help.gnome.org/users/gucharmap/stable/">Karakterek kézikönyvét</a></span>.</p>
+<p class="p">A GNOME tartalmaz egy karaktertábla alkalmazást is, amely lehetővé teszi szokatlan karakterek – beleértve az emodzsikat is – megkeresését és beszúrását a karakterkategóriák tallózásával vagy kulcsszavak keresésével.</p>
+<p class="p">Nyissa meg a <span class="app">Karaktereket</span> a <span class="gui">Tevékenységek</span> áttekintésből.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -94,7 +94,10 @@
 <div class="region"><div class="contents">
 <p class="p">A kombináló billentyű egy speciális billentyű, amely lehetővé teszi speciális karakterek beírását több billentyű egymás utáni lenyomásával. Például egy ékezetes <span class="em">é</span> betű beírásához megnyomhatja a <span class="key"><kbd>kombináló</kbd></span> billentyűt, majd a <span class="key"><kbd>'</kbd></span>, végül az <span class="key"><kbd>e</kbd></span> billentyűket.</p>
 <p class="p">A billentyűzeteken nincs fizikai kombináló billentyű. Ehelyett megadhatja, hogy a billentyűzetén található billentyűk közül melyiket szeretné kombináló billentyűként használni.</p>
-<div class="note note-important" title="Fontos"><div class="inner"><div class="region"><div class="contents"><p class="p">Ezen beállítás módosításához telepítve kell lennie a <span class="app">Finomhangolónak</span> a számítógépre.</p></div></div></div></div>
+<div class="note note-important" title="Fontos"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Ezen beállítás módosításához telepítve kell lennie a <span class="app">Finomhangolónak</span> a számítógépre.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">A <span class="app">Finomhangoló</span> telepítése</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Kombináló billentyű definiálása</span></h3></div>
 <div class="region"><ol class="steps">
@@ -104,7 +107,7 @@
 <li class="steps"><p class="p">Kattintson a <span class="gui">Letiltva</span> gombra a <span class="gui">Kombináló billentyű</span> beállítás mellett.</p></li>
 <li class="steps"><p class="p">Kapcsolja be a kapcsolót az ablakban, és válassza ki a használni kívánt gyorsbillentyűt.</p></li>
 <li class="steps"><p class="p">Jelölje be a kombináló billentyűként használni kívánt billentyű jelölőnégyzetét.</p></li>
-<li class="steps"><p class="p">Close the dialog.</p></li>
+<li class="steps"><p class="p">A párbeszédablak bezárása.</p></li>
 <li class="steps"><p class="p">Zárja be a <span class="gui">Finomhangoló</span> ablakot.</p></li>
 </ol></div>
 </div></div>
@@ -121,8 +124,8 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Kódpontok</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Bármely Unicode karaktert beírhatja a karakter numerikus kódpontjának begépelésével. Minden karaktert egy négykarakteres kódpont azonosít. Egy karakter kódpontját megtalálhatja, ha megkeresi a karaktert a Karaktertábla alkalmazásban, ekkor az megjelenik az állapotsoron és a <span class="gui">Karakter adatai</span> lapon is. A kódpont az <span class="gui">U+</span> utáni négy karakter.</p>
-<p class="p">Egy karakter kódponttal való beírásához tartsa lenyomva a <span class="key"><kbd>Ctrl</kbd></span> és <span class="key"><kbd>Shift</kbd></span> billentyűket, üsse le az <span class="key"><kbd>U</kbd></span> billentyűt, írja be a négykarakteres kódpontot, ezután engedje fel a <span class="key"><kbd>Ctrl</kbd></span> és <span class="key"><kbd>Shift</kbd></span> billentyűket. Ha gyakran használ más módszerekkel nehezen elérhető karaktereket, hasznos lehet a kódpontjaik memorizálása, hogy gyorsan beírhassa azokat.</p>
+<p class="p">Bármely Unicode karaktert beírhatja a karakter numerikus kódpontjának begépelésével. Minden karaktert egy négykarakteres kódpont azonosít. Egy karakter kódpontját megtalálhatja, ha megkeresi a karaktert a <span class="app">Karakterek</span> alkalmazásban. A kódpont az <span class="gui">U+</span> utáni négy karakter.</p>
+<p class="p">Egy karakter kódponttal való beírásához tartsa lenyomva a <span class="key"><kbd>Ctrl</kbd></span> és <span class="key"><kbd>Shift</kbd></span> billentyűket, üsse le az <span class="key"><kbd>U</kbd></span> billentyűt, írja be a négykarakteres kódpontot, és nyomja meg a <span class="key"><kbd>Szóköz</kbd></span> vagy <span class="key"><kbd>Enter</kbd></span> billentyűt. Ha gyakran használ más módszerekkel nehezen elérhető karaktereket, hasznos lehet a kódpontjaik memorizálása, hogy gyorsan beírhassa azokat.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
@@ -160,7 +163,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

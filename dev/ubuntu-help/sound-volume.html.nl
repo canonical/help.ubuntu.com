@@ -64,20 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Het geluidsvolume wijzigen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Om het geluidsvolume te wijzigen, open het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenste balk, en beweeg de volumeregelaar naar links of naar rechts. U kunt het geluid volledig uitzetten door door de volumeregelaar naar links te slepen.</p>
-<p class="p">Some keyboards have keys that let you control the volume. They normally
-  look like stylized speakers with waves coming out of them. They are often
-  near the “F” keys at the top. On laptop keyboards, they are usually on the
-  “F” keys.  Hold down the <span class="key"><kbd class="key-Fn">Fn</kbd></span> key on your keyboard to use them.</p>
-<p class="p">If you have external speakers, you can also change the volume
-  using the speakers’ volume control. Some headphones have a
-  volume control too.</p>
+<p class="p">Om het geluidsvolume te wijzigen, open het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">systeemmenu</a></span> aan de rechterkant van de bovenbalk, en beweeg de volumeregelaar naar links of naar rechts. U kunt het geluid volledig uitzetten door door de volumeregelaar naar links te slepen.</p>
+<p class="p">Sommige toetsenborden hebben toetsen waarmee u het geluidsvolume kunt regelen. Meestal zien ze eruit als gestileerde luidsprekers waar “geluidsgolven” uit komen; ze bevinden zich vaak naast de functietoetsen bovenaan. Op laptop-toetsenborden bevinden ze zich meestal op de functietoetsen. Houd de <span class="key"><kbd class="key-Fn">Fn</kbd></span>-toets op uw toetsenbord ingedrukt om ze te gebruiken.</p>
+<p class="p">Als u externe luidsprekers heeft, dan kunt u natuurlijk ook het volume wijzigen via de volumeknop op de luidsprekers zelf. Sommige hoofdtelefoons hebben ook een volumeregelaar.</p>
 </div>
 <div id="apps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Het geluidsvolume voor individuele toepassingen wijzigen</span></h2></div>
@@ -85,11 +80,10 @@
 <p class="p">U kunt het volume voor de ene toepassing aanpassen, maar die van een andere onveranderd laten. Dit is bijvoorbeeld handig wanneer u muziek luistert terwijl u op het web surft. U kunt dan het volume in de browser dempen zodat geluiden van websites niet de muziek storen.</p>
 <p class="p">Sommige toepassingen hebben volumeknoppen in het hoofdvenster. Als uw toepassing zijn eigen volumebeheerder heeft, dient u die te gebruiken om het volume te wijzigen. Als dat niet het geval is:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span>
-      overview and start typing <span class="gui">Sound</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Geluid</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Geluid</span> om het paneel te openen.</p></li>
 <li class="steps">
-<p class="p">Ga naar het <span class="gui">Toepassingen</span>-tabblad en wijzig het volume van de getoonde toepassingen daar.</p>
+<p class="p">Ga naar het tabblad <span class="gui">Toepassingen</span> en wijzig het volume van de getoonde toepassingen daar.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Alleen toepassingen die geluiden afspelen staan in de lijst. Als een toepassing wel geluid afspeelt maar niet in de lijst is opgenomen, dan kan het zijn dat deze de functie, waarmee u zo het volume kunt regelen, niet ondersteunt. In dat geval kunt u het volume ervan niet wijzigen.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
@@ -111,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

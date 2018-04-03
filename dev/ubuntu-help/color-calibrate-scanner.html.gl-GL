@@ -74,22 +74,15 @@
 <div class="hgroup"><h1 class="title"><span class="title">Como calibrar o meu escáner?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you want your scanner to represent the color accurately in scans, you
-  should calibrate it.</p>
+<p class="p">Se desexa que o seu escáner mostre os colores con exactitude nos escaneamentos, debería calibralo.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure your scanner is connected to your computer with a cable or
-      over the network.</p></li>
-<li class="steps"><p class="p">Scan your calibration target and save it as an uncompressed TIFF
-      file.</p></li>
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
-      scanner.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Calibrate…</span> to commence the
-      calibration.</p></li>
+<li class="steps"><p class="p">Asegúrese que o seu escáner está conectado ao seu computador con un cable ou pola rede.</p></li>
+<li class="steps"><p class="p">Analice o obxectivo de calibración e gárdea como un ficheiro TIFF sen comprimir.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Cor</span>.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Cor</span> para abrir o panel e seleccione o seu escáner.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Calibrar…</span> para iniciar o calibrado.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Scanner devices are incredibly stable over time and temperature, so do
-    not usually need to be recalibrated.</p></div></div></div></div>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Os escáneres son incribelmente estábeis no tempo e temperatura polo que xeralmente non precisan recalibrarse.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -124,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

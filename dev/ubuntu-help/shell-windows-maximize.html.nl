@@ -64,28 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een venster maximaliseren en weer herstellen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can maximize a window to take up all of the space on your desktop
-  and unmaximize a window to restore it to its normal size. You can also
-  maximize windows vertically along the left and right sides of the screen,
-  so you can easily look at two windows at once. See
-  <span class="link"><a href="shell-windows-tiled.html.nl" title="Vensters tegelen">Vensters tegelen</a></span> for details.</p>
-<p class="p">To maximize a window, grab the titlebar and drag it to the top of the
-  screen, or just double-click the titlebar. To maximize a window using the
-  keyboard, hold down the <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> key and
-  press <span class="key"><kbd>↑</kbd></span>, or press
-  <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
-<p class="p">To restore a window to its unmaximized size, drag it away from the edges
-  of the screen. If the window is fully maximized, you can double-click the
-  titlebar to restore it. You can also use the same keyboard shortcuts you
-  used to maximize the window.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Hold down the <span class="key"><kbd>Super</kbd></span> key and drag anywhere in a window to move
-    it.</p></div></div></div></div>
+<p class="p">U kunt een venster maximaliseren zodat alle ruimte op uw bureaublad gebruikt wordt, of een venster terugbrengen naar de vorige afmetingen. U kunt ook vensters in de breedte van het scherm maximaliseren, zodat u gemakkelijk twee vensters tegelijk kunt bekijken. Zie <span class="link"><a href="shell-windows-tiled.html.nl" title="Vensters tegelen">Vensters tegelen</a></span> voor meer informatie.</p>
+<p class="p">Om een venster te maximaliseren, klik in de titelbalk en sleep het naar de bovenkant van het scherm, of dubbelklik in de titelbalk. Om een venster te maximaliseren via het toetsenbord, houd de <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>-toets ingedrukt en druk op <span class="key"><kbd>↑</kbd></span>, of druk op <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span>.</p>
+<p class="p">Om een venster te herstellen naar de vorige afmetingen, sleept u het weg van de randen van het scherm. Als het venster gemaximaliseerd is, kunt u dubbelklikken in de titelbalk om het te herstellen. U kunt ook de sneltoetsen <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd><span class="link"><a href="windows-key.html.nl" title="windows-key">Super</a></span></kbd></span>+<span class="key"><kbd>↓</kbd></span></span> gebruiken.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Houd de <span class="key"><kbd>Super</kbd></span>-toets ingedrukt en verplaats het venster door middel van slepen.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -109,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

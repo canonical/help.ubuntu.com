@@ -65,32 +65,25 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jak przydzielać profile urządzeniom?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You may want to assign a color profile for your screen or printer so that
-  the colors which it shows are more accurate.</p>
+<p class="p">Można przydzielić profil kolorów dla ekranu lub drukarki, aby wyświetlane i drukowane kolory były dokładniejsze.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Kolor</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Select the device for which you want to add a profile.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import
-      a new profile.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to confirm your selection.</p></li>
+<li class="steps"><p class="p">Wybierz urządzenie, dla którego dodać profil.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj profil</span>, aby wybrać istniejący profil lub zaimportować nowy profil.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj</span>, aby potwierdzić wybór.</p></li>
 </ol></div></div></div>
-<p class="p">Each device can have multiple profiles assigned to it, but only one
-  profile can be the <span class="em">default</span> profile. The default profile is used when
-  there is no extra information to allow the profile to be chosen
-  automatically. An example of this automatic selection would be if one profile
-  was created for glossy paper and another plain paper.</p>
-<p class="p">If calibration hardware is connected, the <span class="gui">Calibrate…</span> button
-  will create a new profile.</p>
+<p class="p">Każde urządzenie może mieć przydzielonych wiele profili, ale tylko jeden może być <span class="em">domyślny</span>. Domyślny profil jest używany, kiedy nie ma dodatkowych informacji umożliwiających automatyczny wybór profilu. Przykładem automatycznego wyboru jest przypadek, gdy jeden profil został utworzony dla papieru błyszczącego, a drugi dla zwykłego.</p>
+<p class="p">Jeśli sprzęt do kalibracji jest podłączony, to przycisk <span class="gui">Skalibruj…</span> utworzy nowy profil.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,20 +91,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.pl-PL" title="Why is color management important?">Dlaczego to jest ważne</a></span>, <span class="link"><a href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a></span>, <span class="link"><a href="color.html.pl-PL#calibration" title="Kalibracja">Jak skalibrować urządzenie</a></span>…</span>
+<a href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.pl-PL" title="Dlaczego zarządzanie kolorami jest ważne?">Dlaczego to jest ważne</a></span>, <span class="link"><a href="color.html.pl-PL#profiles" title="Profile kolorów">profile kolorów</a></span>, <span class="link"><a href="color.html.pl-PL#calibration" title="Kalibracja">jak skalibrować urządzenie</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-whatisprofile.html.pl-PL" title="Czym jest profil kolorów?">Czym jest profil kolorów?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-whatisprofile.html.pl-PL" title="Czym jest profil kolorów?">Czym jest profil kolorów?</a><span class="desc"> — Profil kolorów to prosty plik odzwierciedlający przestrzeń kolorów lub odpowiedź urządzenia.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html.pl-PL" title="How do I import color profiles?">How do I import color profiles?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-why-calibrate.html.pl-PL" title="Dlaczego należy samodzielnie przeprowadzić kalibrację?">Dlaczego należy samodzielnie przeprowadzić kalibrację?</a><span class="desc"> — Kalibracja jest ważna, jeśli wyświetlane lub drukowane kolory mają być właściwe.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html.pl-PL" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
+<a href="color-howtoimport.html.pl-PL" title="Jak importować profile kolorów?">Jak importować profile kolorów?</a><span class="desc"> — Profile kolorów można importować otwierając je.</span>
 </li>
 </ul></div>
 </div></div>
@@ -124,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

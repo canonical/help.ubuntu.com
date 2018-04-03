@@ -75,12 +75,14 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Cuentas en línea</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Cuentas en línea</span> para abrir el panel.</p></li>
-<li class="steps"><p class="p">Seleccione la cuenta que quiere cambiar de la lista de la izquierda.</p></li>
+<li class="steps"><p class="p">Select the account which you want to change from the list on the
+      right.</p></li>
 <li class="steps"><p class="p">Se mostrará una lista de los servicios disponibles para esta cuenta en <span class="gui">Usar para</span>. Consulte la <span class="link"><a href="accounts-which-application.html.es" title="Servicios y aplicaciones en línea">Servicios y aplicaciones en línea</a></span> para ver qué aplicaciones acceden a qué servicios.</p></li>
 <li class="steps"><p class="p">Desactive los servicios que no quiere que usar.</p></li>
 </ol></div></div></div>
 <p class="p">Una vez que haya desactivado un servicio para una cuenta, las aplicaciones de su equipo no podrán usar la cuenta para volver a conectarse a ese servicio.</p>
-<p class="p">Para activar un servicio que haya desactivado, vuelva a la ventana de <span class="gui">Cuentas en línea</span> y actívelo.</p>
+<p class="p">To turn on a service that you disabled, just go back to the <span class="gui">Online
+  Accounts</span> panel and switch it on.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -111,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

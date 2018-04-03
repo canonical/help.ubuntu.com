@@ -87,12 +87,10 @@
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Characters</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Another useful application shipped with GNOME is <span class="app">Characters</span>.
-    It lets you find and insert unusual characters by browsing character
-    categories or searching for keywords.</p>
-<p class="p">You can launch Characters from the Activities overview. For more
-    information on Characters, see the <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">
-    Characters Manual</a></span>.</p>
+<p class="p">GNOME comes with a character map application that allows you to
+    find and insert unusual characters, including emoji, by browsing
+    character categories or searching for keywords.</p>
+<p class="p">You can launch <span class="app">Characters</span> from the Activities overview.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -101,8 +99,12 @@
 <p class="p">கம்போஸ் விசை என்பது, ஒரு வரிசையிலுள்ள பல விசைகளை ஒன்றாக அழுத்தி ஒரு சிறப்பு எழுத்தை வரவழைக்க உதவும் விசையாகும். உதாரணமாக நீங்கள் உச்சரிப்பு அழுத்தம் கொண்ட<span class="em">é</span> என்ற எழுத்தை தட்டச்சு செய்ய <span class="key"><kbd>கம்போஸ்</kbd></span> விசையை அழுத்தி பிறகு <span class="key"><kbd>'</kbd></span> பிறகு <span class="key"><kbd>e</kbd></span> ஐ அழுத்தலாம்.</p>
 <p class="p">Keyboards don’t have specific compose keys. Instead, you can define
     one of the existing keys on your keyboard as a compose key.</p>
-<div class="note note-important" title="முக்கியமானது"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-      change this setting.</p></div></div></div></div>
+<div class="note note-important" title="முக்கியமானது"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
+      change this setting.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
+        <span class="app">Tweaks</span></a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">ஒரு கம்போஸ் விசையை வரையறுத்தல்</span></h3></div>
 <div class="region"><ol class="steps">
@@ -133,18 +135,22 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">குறியீட்டுப் புள்ளிகள்</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">நீங்கள் எந்த ஒரு ஒருங்குறி எழுத்தையும் அதன் குறியீட்டுப் புள்ளியைக் கொண்டு உங்கள் விசைப்பலகையை மட்டும் கொண்டு உள்ளிட முடியும். ஒவ்வொரு எழுத்தும் நான்கெழுத்து குறியீட்டுப் புள்ளியால் அடையாளம் காணப்படுகிறது. ஒரு எழுத்தின் குறியீட்டுப் புள்ளியைக் கண்டுபிடிக்க, எழுத்து மேப் பயன்பாட்டில் அந்த எழுத்தைக் கண்டுபிடித்து நிலைப் பட்டியைக் காணவும் அல்லது <span class="gui">எழுத்து விவரங்கள்</span> தாவலைக் காணவும். <span class="gui">U+</span> க்கு அடுத்துள்ள நான்கு எழுத்துகளே குறியீட்டுப் புள்ளியாகும்.</p>
-<p class="p">To enter a character by its code point, hold down <span class="key"><kbd>Ctrl</kbd></span> and
-  <span class="key"><kbd>Shift</kbd></span>, type <span class="key"><kbd>U</kbd></span> followed by the four-character code
-  point, then release <span class="key"><kbd>Ctrl</kbd></span> and <span class="key"><kbd>Shift</kbd></span>. If you often use
-  characters that you can’t easily access with other methods, you might find
+<p class="p">You can enter any Unicode character using only your keyboard with the
+  numeric code point of the character. Every character is identified by a
+  four-character code point. To find the code point for a character, look it up
+  in the <span class="app">Characters</span> application. The code point is the four characters
+  after <span class="gui">U+</span>.</p>
+<p class="p">To enter a character by its code point, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, then type the
+  four-character code and press <span class="key"><kbd>Space</kbd></span> or <span class="key"><kbd>Enter</kbd></span>. If you often
+  use characters that you can’t easily access with other methods, you might find
   it useful to memorize the code point for those characters so you can enter
   them quickly.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">விசைப்பலகை லேயவுட்டுகள்</span></h2></div>
-<div class="region"><div class="contents"><p class="p">நீங்கள் உங்கள் விசைப்பலகையை வேறு மொழி விசைப்பலகை போல செயல்படவைக்கவும் முடியும், உஙக்ள் விசைப்பலகையில் அச்சிடப்பட்டுள்ள எழுத்துகள் முக்கியமல்ல. மேல் பட்டியில் உள்ள சின்னத்தைப் பயன்படுத்தி வெவ்வேறு விசைப்பலகை லேயவுட்டுகளிடையே விரைவாகவும் மாறலாம். எப்படி என அறிய <span class="link"><a href="keyboard-layouts.html.ta" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span> ஐப் பார்க்கவும்.</p></div></div>
+<div class="region"><div class="contents"><p class="p">நீங்கள் உங்கள் விசைப்பலகையை வேறு மொழி விசைப்பலகை போல செயல்படவைக்கவும் முடியும், உஙக்ள் விசைப்பலகையில் அச்சிடப்பட்டுள்ள எழுத்துகள் முக்கியமல்ல. மேல் பட்டியில் உள்ள சின்னத்தைப் பயன்படுத்தி வெவ்வேறு விசைப்பலகை லேயவுட்டுகளிடையே விரைவாகவும் மாறலாம். எப்படி என அறிய <span class="link"><a href="keyboard-layouts.html.ta" title="மாற்று விசைப்பலகை லேயவுட்டுகளைப் பயன்படுத்துதல்">மாற்று விசைப்பலகை லேயவுட்டுகளைப் பயன்படுத்துதல்</a></span> ஐப் பார்க்கவும்.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">உள்ளீட்டு முறைகள்</span></h2></div>
@@ -165,7 +171,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.ta" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.ta" title="மாற்று விசைப்பலகை லேயவுட்டுகளைப் பயன்படுத்துதல்">மாற்று விசைப்பலகை லேயவுட்டுகளைப் பயன்படுத்துதல்</a><span class="desc"> — விசைப்பலகை லேயவுட்டுகளைச் சேர்த்தல் மற்றும் அவற்றுக்கிடையே மாறுதல்.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -177,7 +183,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -88,7 +88,7 @@
 <li class="steps">
 <p class="p">Cliquez sur <span class="gui">Ajouter…</span> et entrez la ligne APT du dépôt. Celle-ci devrait être disponible à partir du site web du dépôt, et devrait être similaire à :</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Ajouter la source</span> puis fermez la fenêtre <span class="app">Logiciels &amp; mises à jour</span>. <span class="app">Logiciels Ubuntu</span> vérifiera alors les nouvelles mises à jour de vos sources de logiciels.</p></li>
@@ -98,10 +98,16 @@
 <div id="canonical-partner" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Activer le dépôt des partenaires de Canonical</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Le dépôt Canonical Partner offre quelques applications propriétaires qui sont gratuites à utiliser, mais ne sont pas open sources. Ils comprennent des logiciels comme <span class="app">Skype</span> et <span class="app">l'extension Adobe Flash</span>. Les logiciels de ce dépôt apparaissent dans les résultats de <span class="app">Logiciels Ubuntu</span> mais ne seront pas installables tant que ce dépôt ne sera pas activé.</p>
+<p class="p">
+      The Canonical Partner repository offers some proprietary applications 
+      that don't cost any money to use but are closed source. They include 
+      software like <span class="app">Adobe Flash Plugin</span>. Software in this
+      repository will appear in <span class="app">Ubuntu Software</span> search results
+      but won't be installable until this repository is enabled.
+    </p>
 <p class="p">Pour activer ce dépôt, suivez les étapes ci-dessus pour ouvrir l'onglet <span class="gui">Autres logiciels</span> dans <span class="app">Logiciels &amp; mises à jour</span>. Si vous voyez le dépôt <span class="gui">Partenaires de Canonical</span> dans la liste, assurez-vous qu'il soit coché puis fermez la fenêtre de <span class="app">Logiciels &amp; mises à jour</span>. Si vous ne le voyez pas, cliquez sur <span class="gui">Ajouter</span> puis saisissez :</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
 <p class="p">Cliquez sur <span class="gui">Ajouter la source</span> puis fermez la fenêtre <span class="app">Logiciels &amp; mises à jour</span>. Attendez un instant que <span class="app">Logiciels Ubuntu</span> télécharge les informations relatives au dépôt.</p>
 </div></div>
@@ -130,7 +136,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

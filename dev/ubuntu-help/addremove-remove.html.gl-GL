@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Un aplicativo é software que ten unha interface gráfica de usuario (GUI). Pode usar <span class="app">Ubuntu Software</span> para eliminar aplicativos que xa non usa.</p>
-<p class="p">Os aplicativos están dispoñíbeis en dous formatos: paquetes snap e paquetes Debian. Aos paquetes dispoñíbeis como snaps chamarémoslle de agora en diante <span class="em">snap</span>. Para instalar ou eliminar un snap ten que iniciar sesión na Tenda de snaps/Ubuntu One. Algúns aplicativos están dispoñíbeis en ambos os formatos. Neste caso o snap aparecerá primeiro no <span class="app">Ubuntu Software</span>.</p>
+<p class="p">Os aplicativos están dispoñíbeis en dous formatos: paquetes snap e paquetes Debian. Un aplicativo dispoñíbel como paquete snap será nomeado de agora en diante como <span class="em">snap</span>. Algúns aplicativos están dispoñíbeis en ambos os formatos. Neste caso no <span class="app">Ubuntu Software</span> o snap aparecerá primeiro na lista.</p>
 <p class="p">Tamén pode eliminar software que non ten unha interface gráfica. Para facelo pode usar o <span class="link"><a href="addremove-install-synaptic.html.gl-GL" title="Use Synaptic para unha xestión de software máis avanzada">Synaptic</a></span>. Teña en conta que o <span class="app">Synaptic</span> non lista snaps.</p>
 <p class="p">Para eliminar un aplicativo:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -80,8 +80,7 @@
 <li class="steps"><p class="p">Busque o aplicativo que desexa retirar usando a caixa de busca ou mire na lista de aplicativos instalados.</p></li>
 <li class="steps"><p class="p">Seleccione o aplicativo e prema <span class="gui">Eliminar</span>.</p></li>
 <li class="steps"><p class="p">Confirmar que desexa eliminar un aplicativo.</p></li>
-<li class="steps"><p class="p">Se vai a eliminar un snap, inicie sesión na Tenda de Snap/Ubuntu One.</p></li>
-<li class="steps"><p class="p">Pediráselle que se autentique por medio do contrasinal (que é o seu contrasinal, non o contrasinal da Tenda de snaps/Ubuntu One). Feito isto, o aplicativo será retirado.</p></li>
+<li class="steps"><p class="p">Pediráselle que se autentique por medio do contrasinal. Despois de facer isto, o aplicativo será retirado.</p></li>
 </ol></div></div></div>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Algúns aplicativos dependen doutros para funcionar correctamente. Se elimina un aplicativo que é necesario para outro programa, eliminaranse ambos os dous. Pediráselle a confirmación antes de proceder.</p></div></div></div></div>
 </div>
@@ -114,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

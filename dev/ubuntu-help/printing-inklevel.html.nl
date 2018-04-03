@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How can I check my printer’s ink or toner levels?</title>
+<title>Hoe kan ik het inkt- of tonerniveau van mijn printer controleren?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,22 +64,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How can I check my printer’s ink or toner levels?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hoe kan ik het inkt- of tonerniveau van mijn printer controleren?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Hoe u controleert hoeveel inkt of toner er nog in uw printer zit hangt af van het model en de fabrikant van uw printer, en van de stuurprogramma's en toepassingen die op uw computer zijn geïnstalleerd.</p>
 <p class="p">Sommige printers hebben een ingebouwd scherm om inktniveaus en andere informatie weer te geven.</p>
-<p class="p">Some printers report toner or ink levels to the computer, which can be
-  found in the <span class="gui">Printers</span> panel in <span class="app">Settings</span></p>
+<p class="p">Sommige printers geven een melding van het inkt- of tonerniveau; u vindt dit in het <span class="gui">Printers</span>-paneel bij <span class="app">Instellingen</span></p>
 <p class="p">De hulpmiddelen voor stuurprogramma's en status voor de meeste HP-printers komen van het ‘HP Linux Imaging and Printing (HPLIP)’-project . Het kan zijn dat andere fabrikanten niet-vrije stuurprogramma's met gelijke functies leveren.</p>
-<p class="p">Alternatively, you can install an application to check or monitor
-  ink levels. <span class="app">Inkblot</span> shows ink status for many HP, Epson
-  and Canon printers. See if your printer is on the <span class="link"><a href="http://libinklevel.sourceforge.net/#supported" title="http://libinklevel.sourceforge.net/#supported">list of
-  supported models</a></span>. Another ink levels application for Epson and
-  some other printers is <span class="app">mtink</span>.</p>
+<p class="p">U kunt ook een toepassing installeren om het inktniveau te controleren en  in de gaten houden. <span class="app">Inkblot</span> toont de inktstatus voor vele HP, Epson en Canon-printers. Controleer of uw printer voorkomt in de <span class="link"><a href="http://libinklevel.sourceforge.net./#supported" title="http://libinklevel.sourceforge.net./#supported">lijst met ondersteunde modellen</a></span>. Een andere toepassing voor het inktniveaubeheer van Epson en sommige andere printers is <span class="app">mktink</span>.</p>
 <p class="p">Sommige printers worden nog niet goed ondersteund in Linux, en anderen zijn niet ontworpen om hun inktniveaus weer te geven.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -106,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

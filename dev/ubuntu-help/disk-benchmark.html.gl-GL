@@ -72,18 +72,13 @@
 <div class="contents">
 <p class="p">Para probar a velocidade do seu disco duro:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the
-      <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">Choose the disk from the list in the left pane.</p></li>
-<li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
-      menu.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Start Benchmark…</span> and adjust the <span class="gui">Transfer
-      Rate</span> and <span class="gui">Access Time</span> parameters as desired.</p></li>
+<li class="steps"><p class="p">Abra <span class="app">Discos</span> desde a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>.</p></li>
+<li class="steps"><p class="p">Seleccione o disco desde a lista do panel esquerdo.</p></li>
+<li class="steps"><p class="p">Prema o botón de menú e seleccione <span class="gui">Probar rendemento do unidade…</span> desde o menú.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Iniciar proba de rendemento</span> e axuste os parámetros <span class="gui">Taxa de transferencia</span> e <span class="gui">Tempo de acceso</span> como desexe.</p></li>
 <li class="steps">
 <p class="p">Prema <span class="gui">Iniciar proba de rendemento</span> para probar a rapidez da lectura do disco. Requírense <span class="link"><a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">privilexios de administrador</a></span>. Escriba o seu contrasinal, ou o contrasinal de administrador que se lle pida.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">If <span class="gui">Perform write-benchmark</span> is checked, the benchmark
-        will test how fast data can be read from and written to the disk. This
-        will take longer to complete.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Se está marcado <span class="gui">Levar a cabo unha proba de rendemento</span>, a proba de rendemento tamén probará a rapidez de lectura e escritura do disco . Aínda que tamén levará moito máis tempo rematala.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 <p class="p">Cando a proba remate, os resultados aparecerán no gráfico. Os puntos verdes e as liñas que se conectan indican os exemplos tomados; isto corresponde aos eixos vermellos, mostrando o tempo de acceso, mostrados fronte ao eixo inferior, que representa a porcentaxe de tempo gastada. A liña azul representa as taxas de lectura, mentres que a liña vermella representa as taxas de escritura; estas móstranse como taxas de acceso de datos no eixo esquerdo, fronte á porcentaxe de disco navegado, desde fóra até o eixo, máis aló do eixo inferior.</p>
@@ -105,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

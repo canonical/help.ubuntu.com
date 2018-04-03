@@ -97,7 +97,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.sl" title="Tipkovnica">Tipkovnica</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.sl" title="Uporaba nadomestnih razporeditev tipk">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sl" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.sl" title="Use alternative keyboard layouts">Razporeditve tipkovnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.sl" title="Ali naj vrivnik tipkovnice utripa">utripanje vrivnka</a></span>, <span class="link"><a href="a11y.html.sl#mobility" title="Težave z gibanjem">dostopnost tipkovnice </a></span> ...</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="printing.html.sl" title="Tiskanje">Tiskanje</a></div>
@@ -153,7 +153,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

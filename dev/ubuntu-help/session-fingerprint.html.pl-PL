@@ -64,54 +64,36 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="hardware-auth.html.pl-PL" title="Fingerprints &amp; smart cards">Fingerprints &amp; smart cards</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="hardware-auth.html.pl-PL" title="Odciski palców i karty smartcard">Odciski palców i karty smartcard</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Logowanie za pomocą odcisku palca</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If your system has a supported fingerprint scanner, you can record your
-  fingerprint and use it to log in.</p></div>
+<div class="contents"><p class="p">Jeśli komputer ma obsługiwany czytnik linii papilarnych, to można zapisać swoje linie papilarne i używać ich do logowania się.</p></div>
 <div id="record" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Record a fingerprint</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Zapisywanie odcisku palca</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Before you can log in with your fingerprint, you need to record it so that
-  the system can use it to identify you.</p>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">If your finger is too dry, you may have difficulty registering your
-    fingerprint. If this happens, moisten your finger slightly, dry it with a
-    clean, lint-free cloth, and retry.</p></div></div></div></div>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.pl-PL" title="How do administrative privileges work?">administrator privileges</a></span>
-  to edit user accounts other than your own.</p>
+<p class="p">Zanim będzie można logować się za pomocą odcisku palca, należy go zapisać, aby komputer mógł go używać do identyfikacji użytkownika.</p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli palec jest zbyt suchy, to zarejestrowanie jego odcisku może sprawiać trudności. Jeśli tak się dzieje, to odrobinę nawilż palec, wysusz go czystą, niekłaczącą się ścierką i spróbuj ponownie.</p></div></div></div></div>
+<p class="p">Do modyfikowania kont innych użytkowników wymagane są <span class="link"><a href="user-admin-explain.html.pl-PL" title="Jak działają uprawnienia administracyjne?">uprawnienia administratora</a></span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Użytkownicy</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Użytkownicy</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Użytkownicy</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Press on <span class="gui">Disabled</span>, next to <span class="gui">Fingerprint Login</span> to
-      add a fingerprint for the selected account. If you are adding the
-      fingerprint for a different user, you will first need to
-      <span class="gui">Unlock</span> the panel.</p></li>
-<li class="steps"><p class="p">Select the finger that you want to use for the fingerprint, then
-      <span class="gui">Next</span>.</p></li>
-<li class="steps"><p class="p">Follow the instructions in the dialog and swipe your finger at a
-      <span class="em">moderate speed</span> over your fingerprint reader. Once the computer
-      has a good record of your fingerprint, you will see a <span class="gui">Done!</span>
-      message.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Next</span>. You will see a confirmation message that
-      your fingerprint was saved successfully. Select <span class="gui">Close</span> to
-      finish.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Wyłączone</span> obok <span class="gui">Logowania za pomocą odcisku palca</span>, aby dodać odcisk palca dla wybranego konta. Jeśli dodawany jest odcisk palca dla innego użytkownika, to należy najpierw kliknąć przycisk <span class="gui">Odblokuj</span>.</p></li>
+<li class="steps"><p class="p">Wybierz palec, którego odcisk zapisać, a następnie kliknij przycisk <span class="gui">Dalej</span>.</p></li>
+<li class="steps"><p class="p">Postępuj zgodnie z instrukcjami w oknie i <span class="em">niezbyt szybko</span> przeciągnij palec przez czytnik linii papilarnych. Kiedy komputer będzie miał dobry zapis odcisków palca, wyświetli komunikat <span class="gui">Gotowe</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dalej</span>. Zostanie wyświetlony komunikat potwierdzający, że pomyślnie zapisano odcisk palca. Kliknij przycisk <span class="gui">Zamknij</span>, aby ukończyć.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="verify" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that your fingerprint works</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sprawdzanie, czy odcisk palca działa</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Now check that your new fingerprint login works. If you register a
-  fingerprint, you still have the option to log in with your password.</p>
+<p class="p">Teraz sprawdź, czy logowanie za pomocą odcisku palca działa. Jeśli zarejestrowano odcisk palca, to nadal można logować się za pomocą hasła.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then <span class="link"><a href="shell-exit.html.pl-PL#logout" title="Wylogowywanie i przełączanie użytkowników">log
-      out</a></span>.</p></li>
-<li class="steps"><p class="p">At the login screen, select your name from the list. The password
-      entry form will appear.</p></li>
-<li class="steps"><p class="p">Instead of typing your password, you should be able to swipe your
-      finger on the fingerprint reader.</p></li>
+<li class="steps"><p class="p">Zapisz otwarte dokumenty, a następnie <span class="link"><a href="shell-exit.html.pl-PL#logout" title="Wylogowywanie i przełączanie użytkowników">wyloguj się</a></span>.</p></li>
+<li class="steps"><p class="p">Na ekranie logowania wybierz swoją nazwę użytkownika z listy. Pojawi się pole wpisywania hasła.</p></li>
+<li class="steps"><p class="p">Można przeciągnąć palec przez czytnik linii papilarnych zamiast wpisywać hasło.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -120,11 +102,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html.pl-PL" title="Fingerprints &amp; smart cards">Fingerprints &amp; smart cards</a><span class="desc"> — 
-    <span class="link"><a href="session-fingerprint.html.pl-PL" title="Logowanie za pomocą odcisku palca">Fingerprint readers</a></span>,
-
-    smart cards…
-  </span>
+<a href="hardware-auth.html.pl-PL" title="Odciski palców i karty smartcard">Odciski palców i karty smartcard</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html.pl-PL" title="Logowanie za pomocą odcisku palca">Czytniki linii papilarnych</a></span>, karty smartcard…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -135,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

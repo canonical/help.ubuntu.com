@@ -72,7 +72,7 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="session-formats.html.ru" title="Изменение форматов даты и единиц измерения"><span class="title">Изменение форматов даты и единиц измерения</span><span class="linkdiv-dash"> — </span><span class="desc">Выберите региональный формат даты и времени, чисел, валюты и единиц измерения.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-language.html.ru" title="Изменение языка"><span class="title">Изменение языка</span><span class="linkdiv-dash"> — </span><span class="desc">Переключение пользовательского интерфейса и текста справочной системы на другой язык.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры"><span class="title">Использование альтернативных раскладок клавиатуры</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте раскладки клавиатуры и переключайтесь между ними.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.ru" title="Использование других раскладок клавиатуры"><span class="title">Использование других раскладок клавиатуры</span><span class="linkdiv-dash"> — </span><span class="desc">Добавление раскладок клавиатуры и переключение между ними.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

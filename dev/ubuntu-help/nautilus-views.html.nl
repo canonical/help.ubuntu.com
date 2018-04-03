@@ -64,26 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Weergaven-voorkeuren in <span class="app">Bestanden</span></span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can change how files and folders are grouped and sorted by default.
-Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui">Preferences</span></span> in the top bar while
-<span class="app">Files</span> is open and select the <span class="gui">Views</span> tab.</p></div>
+<div class="contents"><p class="p">U kunt de wijze waarop bestanden en mappen gegroepeerd en gesorteerd worden wijzigen. Kies in de bovenbalk <span class="guiseq"><span class="gui">Bestanden</span> ▸ <span class="gui">Voorkeuren</span></span> terwijl <span class="app">Bestanden</span> is geopend en kies het tabblad <span class="gui">Weergaven</span>.</p></div>
 <div id="default-view" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Standaardweergave</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Items ordenen</span></dt>
 <dd class="terms">
 <p class="p">U kan in de voorkeuren de voor mappen gebruikte standaard sorteervolgorde met behulp van de <span class="gui">Items sorteren</span> keuzelijst wijzigen om op naam, bestandsgrootte, bestandstype, wijzigingsdatum, wanneer ze het laatst geopend zijn, of wanneer ze naar de prullenbak zijn verplaatst te sorteren.</p>
-<p class="p">You can change how <span class="link"><a href="files-sort.html.nl" title="Bestanden en mappen sorteren">files are
-    sorted</a></span> in an individual folder by clicking the view options
-    
-    button in the toolbar and choosing <span class="gui">Name</span>,
-    <span class="gui">Size</span>, <span class="gui">Type</span> or <span class="gui">Last Modified</span>, or by
-    clicking the list column headers in list view.</p>
+<p class="p">U kunt per map aangeven hoe u de <span class="link"><a href="files-sort.html.nl" title="Bestanden en mappen sorteren">bestanden wilt laten sorteren</a></span> door in de taakbalk op de knop Weergaveopties te klikken en vervolgens op <span class="gui">Naam</span>, <span class="gui">Grootte</span>, <span class="gui">Type</span> of <span class="gui">Laatst gewijzigd</span> te kiezen, of door in lijstweergave op de kopteksten van de lijstkolommen te klikken.</p>
 </dd>
 <dt class="terms"><span class="gui">Mappen vóór bestanden sorteren</span></dt>
 <dd class="terms"><p class="p">De bestandsbeheerder geeft niet langer de mappen vóór de bestanden weer. Kies deze optie om alle mappen vóórde lijst met bestanden te laten weergeven.</p></dd>
@@ -105,7 +98,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

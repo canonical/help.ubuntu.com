@@ -81,6 +81,7 @@
 </ol></div></div></div>
 <p class="p">Vissa översättningar kan vara inkompletta och vissa program kanske inte stöder ditt språk alls. Oöversatt text kommer att visas på det språk som programmet ursprungligen utvecklades på, vanligtvis amerikansk engelska.</p>
 <p class="p">De finns vissa specialmappar i din hemkatalog där program kan spara saker som musik, bilder och dokument. Dessa mappar använder standardnamn på ditt språk. När du loggar in igen kommer du att blir tillfrågade om du vill byta namn på dessa mappar till standardnamnen på ditt valda språk. Om du planerar att använda det nya språket hela tiden bör du uppdatera mappnamnen.</p>
+<div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Om det finns flera användarkonton på ditt system finns det en separat instans av panelen <span class="gui">Region &amp; språk</span> för inloggningsskärmen. Klicka på <span class="gui">Inloggningsskärm</span>-knappen längst upp till höger för att växla mellan de två instanserna.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -106,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

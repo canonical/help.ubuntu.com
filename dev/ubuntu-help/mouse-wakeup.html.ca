@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mouse reacts with delay before it starts working</title>
+<title>El ratolí reacciona amb retard abans de comenci a funcionar</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,23 +65,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="mouse.html.ca" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.ca#problems" title="Common problems">Common problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="mouse.html.ca" title="Ratolí">Ratolí</a> › <a class="trail" href="mouse.html.ca#problems" title="Problemes comuns">Problemes comuns</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="mouse.html.ca" title="Mouse">Mouse</a> › <a class="trail" href="mouse.html.ca#problems" title="Common problems">Common problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="mouse.html.ca" title="Ratolí">Ratolí</a> › <a class="trail" href="mouse.html.ca#problems" title="Problemes comuns">Problemes comuns</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Mouse reacts with delay before it starts working</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">El ratolí reacciona amb retard abans de comenci a funcionar</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Wireless and optical mice, as well as touchpads on laptops, may need to
-  “wake up” before they start working. They automatically go to sleep when not in
-  use to save battery power. To wake up your mouse or touchpad, you can click on
-  a mouse button or wiggle the mouse.</p></div>
+<div class="contents"><p class="p">Els ratolins sense fil i òptics, així com els teclats tàctils als portàtils, poden necessitar "despertar-se" abans de començar a funcionar. Automàticament "s'adormen" quan no s'utilitzen per estalviar energia de la bateria. Per despertar el ratolí o el teclat tàctil, podeu fer clic a un botó del ratolí o moure'l.</p></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="mouse.html.ca#problems" title="Common problems">Common mouse problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="mouse.html.ca#problems" title="Problemes comuns">Problemes comuns del ratolí</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -91,7 +88,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

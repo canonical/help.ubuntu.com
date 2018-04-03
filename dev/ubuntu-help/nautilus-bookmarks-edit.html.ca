@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Edit folder bookmarks</title>
+<title>Edita els marcadors de la carpeta</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,37 +67,28 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#faq" title="Tips and questions">Tips and questions</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Edit folder bookmarks</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Edita els marcadors de la carpeta</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Your bookmarks are listed in the sidebar of the file manager.</p>
+<p class="p">Els vostres marcadors apareixen a la barra lateral del gestor de fitxers.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Add a bookmark:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Afegir un marcador:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the folder (or location) that you want to bookmark.</p></li>
-<li class="steps"><p class="p">Click the window menu in the toolbar and pick <span class="gui">Bookmark this
-      Location</span>.</p></li>
+<li class="steps"><p class="p">Obriu la carpeta (o ubicació) que voleu marcar.</p></li>
+<li class="steps"><p class="p">Feu clic al menú de la finestra a la barra d'eines i seleccioneu<span class="gui">Marca aquesta ubicació</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Delete a bookmark:</span></h2></div>
-<div class="region"><ol class="steps"><li class="steps"><p class="p">Right-click on the bookmark in the sidebar and select
-      <span class="gui">Remove</span> from the menu.</p></li></ol></div>
+<div class="title title-steps"><h2><span class="title">Esborrar un marcador:</span></h2></div>
+<div class="region"><ol class="steps"><li class="steps"><p class="p">Feu clic amb el botó dret al marcador a la barra lateral i seleccioneu <span class="gui">Suprimir</span> del menú.</p></li></ol></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Rename a bookmark:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Reanomenar un marcador:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Right-click on the bookmark in the sidebar and select
-      <span class="gui">Rename…</span>.</p></li>
+<li class="steps"><p class="p">Feu clic amb el botó dret al marcador a la barra lateral i seleccioneu<span class="gui">Reanomenar…</span>.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Name</span> text box, type the new name for the
-      bookmark.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Renaming a bookmark does not rename the folder. If you have
-        bookmarks to two different folders in two different locations, but
-        which each have the same name, the bookmarks will have the same name,
-        and you won’t be able to tell them apart. In these cases, it is useful
-        to give a bookmark a name other than the name of the folder it points
-        to.</p></div></div></div></div>
+<p class="p">A la caixa de text  <span class="gui">Nom</span>, escriviu el nou nom del marcador.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Canviar el nom d'un marcador no canvia el nom de la carpeta. Si teniu adreces d'interès a dues carpetes diferents en dues ubicacions diferents, però que tenen el mateix nom, les adreces d'interès tindran el mateix nom i no podreu separar-les. En aquests casos, és útil donar a un marcador un nom que no sigui el nom de la carpeta al qual apunta.</p></div></div></div></div>
 </li>
 </ol></div>
 </div></div>
@@ -116,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

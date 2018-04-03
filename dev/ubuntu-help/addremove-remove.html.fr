@@ -71,7 +71,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Une application est un logiciel qui dispose d'une interface utilisateur graphique. Vous pouvez utiliser <span class="app">Logiciels Ubuntu</span> pour supprimer les applications que vous n'utilisez plus.</p>
-<p class="p">Les applications sont disponibles sous deux formats : les paquets Snap et les paquets Debian. Une application disponible sous forme de paquet Snap est à partir de maintenant désignée comme <span class="em">paquet Snap</span>. Pour supprimer (ou installer) un paquet Snap, vous devez vous connecter à la logithèque de paquets Snap/Ubuntu One. Certaines applications sont disponibles sous les deux formats. Dans ce cas, le paquet Snap apparaît en premier dans <span class="app">Logiciels Ubuntu</span>.</p>
+<p class="p">Applications are available in two formats: snap packages and Debian packages. 
+   An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
+   Some applications are available in both formats. In such a case in
+   <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
 <p class="p">Vous voudrez peut-être également supprimer des logiciels qui ne disposent pas d'interface graphique. Pour supprimer de tels logiciels, vous pouvez utiliser <span class="link"><a href="addremove-install-synaptic.html.fr" title="Utiliser Synaptic pour gérer les logiciels de façon plus avancée">Synaptic</a></span>. Notez que <span class="app">Synaptic</span> ne liste pas les Snaps.</p>
 <p class="p">Pour supprimer une application :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -83,8 +86,7 @@
 <li class="steps"><p class="p">Trouvez l'application que vous souhaitez désinstaller en utilisant la zone de recherche ou en regardant dans la liste des applications installées.</p></li>
 <li class="steps"><p class="p">Sélectionnez l'application et cliquez sur <span class="gui">Supprimer</span>.</p></li>
 <li class="steps"><p class="p">Confirmez que vous voulez supprimer l'application.</p></li>
-<li class="steps"><p class="p">Si vous supprimez un paquet Snap, connectez-vous à la logithèque de paquets Snap/Ubuntu One.</p></li>
-<li class="steps"><p class="p">Il vous sera demandé de saisir votre mot de passe (c'est-à-dire votre mot de passe d'utilisateur, pas votre mot de passe pour la logithèque de paquets Snap/Ubuntu One) pour vous authentifier. Après cela, l'application sera supprimée.</p></li>
+<li class="steps"><p class="p">Vous devrez vous authentifier en entrant votre mot de passe. Une fois fait, l'application sera supprimée.</p></li>
 </ol></div></div></div>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Certaines applications dépendent d'autres applications pour fonctionner correctement. Si vous essayez de supprimer une application qui est requise par une autre application, les deux seront supprimées. Vous serez invité à confirmer si vous souhaitez réellement le faire avant que les applications ne soient supprimées.</p></div></div></div></div>
 </div>
@@ -117,7 +119,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

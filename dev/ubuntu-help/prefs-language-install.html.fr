@@ -70,7 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Installer des langues</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Lorsque vous installez Ubuntu, la langue choisie lors de l'installation est installée avec l'Anglais, mais vous pouvez ajouter d'autres langues.</p>
+<p class="p">Lorsque vous installez Ubuntu, la langue choisie lors de l'installation est installée avec l'anglais, mais vous pouvez ajouter d'autres langues.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Region &amp; Language</span>.</p></li>
@@ -101,7 +101,7 @@
 <a href="addremove-install.html.fr" title="Installer des applications supplémentaires">Installer des applications supplémentaires</a><span class="desc"> — Utiliser <span class="app">Logiciels Ubuntu</span> pour installer des applications supplémentaires et rendre Ubuntu plus utile.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html.fr" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html.fr" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html.fr" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">agencement du clavier</a></span>…</span>
+<a href="prefs-language.html.fr" title="Pays &amp; langue.">Pays &amp; langue.</a><span class="desc"> — <span class="link"><a href="session-language.html.fr" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html.fr" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html.fr" title="Utilisation d'agencements de clavier alternatifs">agencement du clavier</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -114,7 +114,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

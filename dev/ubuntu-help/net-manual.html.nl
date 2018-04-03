@@ -65,51 +65,33 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Netwerkinstellingen handmatig instellen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If your network doesn’t automatically assign network settings to your
-  computer, you may have to manually enter the settings yourself. This topic
-  assumes that you already know the correct settings to use. If not, you may
-  need to ask your network administrator or look at the settings of your router
-  or network switch.</p>
+<p class="p">Als uw netwerk niet automatisch netwerkinstellingen toewijst aan uw computer, dan moet u mogelijk zelf de instellingen handmatig invoeren. Dit onderwerp gaat ervan uit dat u de juiste instellingen die gebruikt moeten worden al kent. Zo niet, dan kunt u contact opnemen met uw netwerkbeheerder, of de instellingen van uw router of netwerkswitch bekijken.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Om uw netwerkinstellingen handmatig in te voeren:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
 <li class="steps">
-<p class="p">In the left pane, select the network connection that you want to set
-      up manually. If you plug in to the network with a cable, click
-      <span class="gui">Wired</span>, then click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button in the lower right corner of
-      the panel. For a <span class="gui">Wi-Fi</span> connection, the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button will be located next to the active network.</p>
-<p class="p">Make sure that your wireless card is turned on or a network cable is
-      plugged in.</p>
+<p class="p">Kies in het linkerpaneel de netwerkverbinding die u handmatig wilt instellen. Als u met een kabel op het netwerk aansluit, dan klikt u op <span class="gui">Bekabeld</span> en daarna op de knop <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span> in de hoek rechts onder in het paneel. bij een <span class="gui">wifi</span>-verbinding bevindt de knop <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span> zich naast het actieve netwerk.</p>
+<p class="p">Zorg ervoor dat uw draadloze kaart is ingeschakeld of dat een netwerkkabel is aangesloten.</p>
 </li>
-<li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
-      and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.nl" title="Wat is een IP-adres?">IP Address</a></span> and
-      <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">DNS</span> section, switch <span class="gui">Automatic</span> to
-      <span class="gui">OFF</span>. Enter the IP address of a DNS server you want to use.
-      Enter additional DNS server addresses using the <span class="gui">+</span> button.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="gui">IPv4</span> of <span class="gui">IPv6</span> in het linkerdeelvenster en wijzig de <span class="gui">Adressen</span> naar <span class="em">Handmatig</span>.</p></li>
+<li class="steps"><p class="p">Typ het <span class="gui"><a href="net-what-is-ip-address.html.nl" title="Wat is een IP-adres?">IP-adres</a></span> en <span class="gui">Gateway</span> in, evenals het juiste <span class="gui">netmasker</span>.</p></li>
+<li class="steps"><p class="p">Zet in de <span class="gui">DNS</span>-sectie <span class="gui">Automatisch</span> <span class="gui">UIT</span>. Voer het IP-adres van een DNS-server die u wilt gebruiken in. Voer meer adressen van DNS-servers in via de knop <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Routes</span> section, switch <span class="gui">Automatic</span> to
       <span class="gui">OFF</span>. Enter the <span class="gui">Address</span>, <span class="gui">Netmask</span>,
       <span class="gui">Gateway</span> and <span class="gui">Metric</span> for a route you want to use.
       Enter additional routes using the <span class="gui">+</span> button.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Apply</span>. If you are not connected to the network, click
-      the system status area on the top bar and connect. Test the network
-      settings by trying to visit a website or look at shared files on the
-      network, for example.</p></li>
+<li class="steps"><p class="p">Kik op <span class="gui">Toepassen</span>. Als u niet verbonden bent met het netwerk, ga dan naar het systeemstatusgebied in de bovenbalk en maak verbinding. Test de netwerkinstellingen door bijvoorbeeld te proberen een website te bezoeken of gedeelde bestanden op het netwerk te bekijken.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -122,11 +104,7 @@
 <a href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.nl" title="Verbinden met een bekabeld (Ethernet) netwerk">Bekabelde internetverbindingen</a></span>, <span class="link"><a href="net-fixed-ip-address.html.nl" title="Een verbinding met een vast IP-adres aanmaken">Vaste IP-adressen</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -138,7 +116,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

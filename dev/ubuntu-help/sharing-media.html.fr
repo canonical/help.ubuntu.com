@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Vous pouvez explorer et lire les médias sur votre ordinateur en utilisant un périphérique certifié <span class="sys">UpnP</span> ou <span class="sys">DLNA</span>, comme un téléphone, une TV ou une console de jeu. Configurez <span class="gui">Partager les médias</span> afin d'autoriser ces périphériques à accéder aux dossiers contenant votre musique, vos photos ou vos vidéos</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Le paquet <span class="app">Rygel</span> doit être installé pour que <span class="gui">Partager les médias</span> soit visible.</p></div></div></div></div>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Le paquet <span class="app">Rygel</span> doit être installé pour que <span class="gui">Partager les médias</span> soit visible.</p>
+<p class="p"><span class="link-button link"><a href="apt:rygel" title="apt:rygel">Installer rygel</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Sharing</span>.</p></li>
@@ -119,7 +122,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

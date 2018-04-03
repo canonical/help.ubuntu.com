@@ -72,18 +72,13 @@
 <div class="contents">
 <p class="p">Untuk menguji kecepatan hard disk Anda:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the
-      <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview.</p></li>
-<li class="steps"><p class="p">Choose the disk from the list in the left pane.</p></li>
-<li class="steps"><p class="p">Click the menu button and select <span class="gui">Benchmark disk…</span> from the
-      menu.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Start Benchmark…</span> and adjust the <span class="gui">Transfer
-      Rate</span> and <span class="gui">Access Time</span> parameters as desired.</p></li>
+<li class="steps"><p class="p">Buka <span class="app">Disk</span> dari ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span>.</p></li>
+<li class="steps"><p class="p">Pilih disk dari daftar yang ada di panel kiri</p></li>
+<li class="steps"><p class="p">Klik tombol menu dan pilih <span class="gui">Uji banding disk...</span> pada menu.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Mulai Uji Banding...</span> dan setel parameter <span class="gui">Laju Transfer</span> dan <span class="gui">Waktu Akses</span> sesuai keinginan.</p></li>
 <li class="steps">
 <p class="p">Klik <span class="gui">Mulai Uji Banding</span> untuk menguji sebarapa cepat data dapat dibaca dari disk. <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Privilese administrasif</a></span> mungkin diperlukan. Masukkan sandi Anda, atau sandi bagi akun administrator yang diminta.</p>
-<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">If <span class="gui">Perform write-benchmark</span> is checked, the benchmark
-        will test how fast data can be read from and written to the disk. This
-        will take longer to complete.</p></div></div></div></div>
+<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Bila <span class="gui">Juga lakukan uji banding tulis</span> dicontreng, uji banding akan menguji seberapa cepat data dapat dibaca dari dan ditulis ke disk. Ini membutuhkan waktu lebih lama.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 <p class="p">Ketika pengujian selesai, hasil akan muncul pada diagram. Titik-titik hijau dan garis-garis penghubung menunjukkan cuplikan yang diambil; ini berhubungan dengan sumbu kanan, yang menunjukkan waktu akses, diplot terhadap sumbu dasar, yang merepresentasikan persentase waktu berlangsung selama benchmark. Garis biru merepresentasikan laju baca, sementara garis merah merepresentasikan laju tulis; ini ditunjukkan sebagai laju data akses pada sumbu kiri, yang diplot terhadap persentase dari disk yang ditempuh, dari spindle luar, sepanjang sumbu dasar.</p>
@@ -105,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

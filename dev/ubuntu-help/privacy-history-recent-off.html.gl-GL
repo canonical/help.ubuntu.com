@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Turn off or limit file history tracking</title>
+<title>Desactivar ou limitar o seguimento do historial de ficheiros</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,26 +67,23 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="privacy.html.gl-GL" title="Preferencias de privacidade">Preferencias de privacidade</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="Máis tarefas relacionadas con ficheiros">Máis tarefas relacionadas con ficheiros</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Turn off or limit file history tracking</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Desactivar ou limitar o seguimento do historial de ficheiros</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Tracking recently used files and folders makes it easier to find
-  items that you have been working on in the file manager and in file
-  dialogs in applications. You may wish to keep your file usage history
-  private instead, or only track your very recent history.</p>
+<p class="p">Se fai un seguemento dos ficheiros usados recentemente fai máis doado atopar ficheiros nos que estivo traballando no xestor de ficheiros e nos diálogos de ficheiros en aplicativos, porén pode querer manter estes elementos en privado, ou só facer un seguemento do seu historial máis recente.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Desactivar o seguimento do historial</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Usage &amp; History</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Privacidade</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Seleccione <span class="gui">Uso e historial</span>.</p></li>
 <li class="steps">
-<p class="p">Set the <span class="gui">Recently Used</span> switch to <span class="gui">OFF</span>.</p>
+<p class="p">Estabeleza <span class="gui">Usados recentemente</span> a <span class="gui">Desactivado</span>.</p>
 <p class="p">To re-enable this feature, set the <span class="gui">Recently Used</span> switch to
      <span class="gui">ON</span>.</p>
 </li>
@@ -96,12 +93,12 @@
 </div></div>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Esta configuración non afectará aos navegadores web que almacenan información sobre os sitios web que visita.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Restrict the amount of time your file history is tracked</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Restrinxir a cantidade de tempo que se fai seguemento do historial de ficheiros</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Usage &amp; History</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Privacidade</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Seleccione <span class="gui">Uso e historial</span>.</p></li>
 <li class="steps"><p class="p">Ensure the <span class="gui">Recently Used</span> switch is <span class="gui">ON</span>.</p></li>
 <li class="steps"><p class="p">Select the length of time to <span class="gui">Retain History</span>. Choose from
      options <span class="gui">1 day</span>, <span class="gui">7 days</span>, <span class="gui">30 days</span>, or
@@ -116,11 +113,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.gl-GL#more-file-tasks" title="Máis tarefas relacionadas con ficheiros">Máis tarefas relacionadas con ficheiros</a></li>
 <li class="links ">
 <a href="privacy.html.gl-GL" title="Preferencias de privacidade">Preferencias de privacidade</a><span class="desc"> — 
       <span class="link"><a href="privacy-screen-lock.html.gl-GL" title="Bloquear a pantalla automaticamente">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.gl-GL" title="Turn off or limit file history tracking">Usage history</a></span>,
+      <span class="link"><a href="privacy-history-recent-off.html.gl-GL" title="Desactivar ou limitar o seguimento do historial de ficheiros">Usage history</a></span>,
       <span class="link"><a href="privacy-purge.html.gl-GL" title="Limpar o lixo e ficheiros temporais">Purge trash &amp; temporary files</a></span>…
     </span>
 </li>
@@ -134,7 +131,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

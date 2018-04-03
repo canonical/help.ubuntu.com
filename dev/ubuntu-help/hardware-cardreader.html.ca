@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ca" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html.ca#photos" title="Photos and digital cameras">Photos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ca" title="So, vídeo &amp; imatges">So, vídeo &amp; imatges</a> › <a class="trail" href="media.html.ca#photos" title="Fotos i càmeres digitals">Fotos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> › <a class="trail" href="hardware.html.ca#problems" title="Common problems">Problemes</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> › <a class="trail" href="hardware.html.ca#problems" title="Problemes comuns">Problemes</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,7 +75,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Many computers contain readers for SD, MMC, SM, MS, CF, and other storage media
-cards. These should be automatically detected and <span class="link"><a href="disk-partitions.html.ca" title="Manage volumes and partitions">mounted</a></span>. Here are some
+cards. These should be automatically detected and <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">mounted</a></span>. Here are some
 troubleshooting steps if they are not:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p"> Make sure that the card is put in correctly. Many cards look as though they are
@@ -110,8 +110,8 @@ Linux.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="media.html.ca#photos" title="Photos and digital cameras">Photos</a></li>
-<li class="links "><a href="hardware.html.ca#problems" title="Common problems">Problemes de maquinari</a></li>
+<li class="links "><a href="media.html.ca#photos" title="Fotos i càmeres digitals">Fotos</a></li>
+<li class="links "><a href="hardware.html.ca#problems" title="Problemes comuns">Problemes de maquinari</a></li>
 </ul></div>
 </div></div></div>
 </div>
@@ -122,7 +122,7 @@ Linux.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

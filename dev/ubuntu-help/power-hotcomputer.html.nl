@@ -64,29 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html.nl#problems" title="Problemen">Stroomproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html.nl#problems" title="Problemen">Stroomproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mijn computer wordt erg warm</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Most computers get warm after a while, and some can get quite hot. This is
-normal: it is simply part of the way that the computer cools itself. However,
-if your computer gets very warm it could be a sign that it is overheating,
-which can potentially cause damage.</p>
-<p class="p">Most laptops get reasonably warm once you have been using them for a while.
-It is generally nothing to worry about — computers produce a lot of heat and
-laptops are very compact, so they need to remove their heat rapidly and their
-outer casing warms up as a result. Some laptops do get too hot, however, and
-may be uncomfortable to use. This is normally the result of a poorly-designed
-cooling system. You can sometimes get additional cooling accessories which fit
-to the bottom of the laptop and provide more efficient cooling.</p>
-<p class="p">If you have a desktop computer which feels hot to the touch, it may have
-insufficient cooling. If this concerns you, you can buy extra cooling fans or
-check that the cooling fans and vents are free from dust and other blockages.
-You might want to consider putting the computer in a better-ventilated area too
-— if kept in confined spaces (for example, in a cupboard), the cooling system in the
-computer may not be able to remove heat and circulate cool air fast enough.</p>
+<p class="p">De meeste computers worden na een tijdje warm en sommige kunnen behoorlijk warm worden. Dit is normaal: het hoort gewoon bij de manier waarop de computer zichzelf koelt. Als uw computer echter erg warm wordt, kan dat een teken zijn dat hij oververhit is, hetgeen mogelijk tot schade kan leiden.</p>
+<p class="p">De meeste laptops worden vrij warm als ze een poosje gebruikt worden. Doorgaans is het niets om u zorgen over te maken — computers produceren een veel warmte en laptops zijn zeer compact, dus moeten ze hun warmte snel kwijt, waardoor de buitenkant warm wordt. Maar sommige laptops worden wel te warm en kunnen ongemakkelijk in het gebruik zijn. Dit komt normaal gesproken door een slecht ontworpen koelsysteem. Soms kunt u extra koelaccessoires vinden die voor een efficiëntere koeling aan de onderkant van de laptop geplaatst kunnen worden.</p>
+<p class="p">Als u een desktopcomputer heeft die bij aanraken warm aanvoelt, krijgt die mogelijk onvoldoende koeling. Als u zich hierover zorgen maakt, kunt u extra koelventilatoren kopen of controleren of de koelventilatoren en ventilatieopeningen vrij zijn van stof of andere blokkades. Ook kunt u overwegen de computer in een beter geventileerde ruimte te zetten — in besloten ruimten (bijv. in een kast) kan het zijn dat het koelsysteem van de computer de hitte niet kwijt kan en niet snel genoeg koele lucht kan laten circuleren.</p>
 <p class="p">Sommige mensen maken zich zorgen over hun gezondheid als ze een warme laptop gebruiken. Er wordt gesuggereerd dat bij langdurig gebruik van een warme laptop op schoot de (mannelijke) vruchtbaarheid kan aantasten. Ook zijn er meldingen van kleine brandwondjes (in extreme gevallen). Als u zich zorgen maakt over deze mogelijke problemen, dan kunt u een arts om advies vragen. Natuurlijk kunt u er ook voor kiezen de laptop niet op schoot te nemen.</p>
 <p class="p">De meeste moderne computers zullen vanzelf uitschakelen wanneer ze te warm worden om schade te voorkomen. Als uw computer bij herhaling uitschakelt kan dit de reden zijn. Als uw computer oververhit raakt, dan is het waarschijnlijk nodig hem te laten repareren.</p>
 </div>
@@ -106,7 +92,7 @@ computer may not be able to remove heat and circulate cool air fast enough.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -77,39 +77,32 @@
 <a href="#" class="ui-overlay-close" title="Luk">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-windows-and-workspaces.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Afspil" data-pause-label="Pause"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Vinduer og arbejdsområder</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">To maximize a window, grab the window’s titlebar and drag it to
-            the top of the screen.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="10">Tag fat i vinduets titellinje og træk den til toppen af skærmen for at maksimere vinduet.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="10" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="10" data-ttml-end="13">Slip vinduet, når skærmen er fremhævet.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">To unmaximize a window, grab the window’s titlebar and drag it
-            away from the edges of the screen.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">Du kan også klikke på toplinjen, for at trække vinduet væk og afmaksimere det.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">To maximize a window along the left side of the screen, grab
-            the window’s titlebar and drag it to the left.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">Tag fat i vinduets titellinje og træk den væk fra skærmens kanter for at gendanne vinduet fra maksimeret tilstand.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">Du kan også klikke på toplinjen og trække vinduet væk for at gendanne det.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">Tag fat i vinduets titellinje og træk den til venstre for at maksimere vinduet langs den venstre side af skærmen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="38" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="38" data-ttml-end="40">Slip vinduet, når halvdelen af skærmen er fremhævet.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">To maximize a window along the right side of the screen, grab
-            the window’s titlebar and drag it to the right.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">Tag fat i vinduets titellinje og træk den til højre for at maksimere vinduet langs den højre side af skærmen.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="44" data-ttml-end="48"><div class="media-ttml-node media-ttml-p" data-ttml-begin="44" data-ttml-end="48">Slip vinduet, når halvdelen af skærmen er fremhævet.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="54" data-ttml-end="60"><div class="media-ttml-node media-ttml-p" data-ttml-begin="54" data-ttml-end="60">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>↑</kbd></span>, for at maksimere et vindue med tastaturet.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="61" data-ttml-end="66"><div class="media-ttml-node media-ttml-p" data-ttml-begin="61" data-ttml-end="66">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>↓</kbd></span>, for at gendanne vinduet til sin umaksimerede størrelse.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="66" data-ttml-end="73"><div class="media-ttml-node media-ttml-p" data-ttml-begin="66" data-ttml-end="73">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>→</kbd></span>, for at maksimere et vindue langs højre side af skærmen.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="76" data-ttml-end="82"><div class="media-ttml-node media-ttml-p" data-ttml-begin="76" data-ttml-end="82">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>←</kbd></span>, for at maksimere et vindue langs venstre side af skærmen.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="83" data-ttml-end="89"><div class="media-ttml-node media-ttml-p" data-ttml-begin="83" data-ttml-end="89">Tryk på <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span>+<span class="key"><kbd>Page Down</kbd></span></span>, for at flytte til et arbejdsområde som er under det nuværende arbejdsområde.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="90" data-ttml-end="97"><div class="media-ttml-node media-ttml-p" data-ttml-begin="90" data-ttml-end="97">Tryk på <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>, for at flytte til et arbejdsområde som er over det nuværende arbejdsområde.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="54" data-ttml-end="60"><div class="media-ttml-node media-ttml-p" data-ttml-begin="54" data-ttml-end="60">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>↑</kbd></span> for at maksimere et vindue med tastaturet.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="61" data-ttml-end="66"><div class="media-ttml-node media-ttml-p" data-ttml-begin="61" data-ttml-end="66">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>↓</kbd></span> for at gendanne vinduet til sin umaksimerede størrelse.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="66" data-ttml-end="73"><div class="media-ttml-node media-ttml-p" data-ttml-begin="66" data-ttml-end="73">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>→</kbd></span> for at maksimere et vindue langs højre side af skærmen.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="76" data-ttml-end="82"><div class="media-ttml-node media-ttml-p" data-ttml-begin="76" data-ttml-end="82">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>←</kbd></span> for at maksimere et vindue langs venstre side af skærmen.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="83" data-ttml-end="89"><div class="media-ttml-node media-ttml-p" data-ttml-begin="83" data-ttml-end="89">Tryk på <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span>+<span class="key"><kbd>Page Down</kbd></span></span> for at flytte til et arbejdsområde som er under det nuværende arbejdsområde.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="90" data-ttml-end="97"><div class="media-ttml-node media-ttml-p" data-ttml-begin="90" data-ttml-end="97">Tryk på <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span> for at flytte til et arbejdsområde som er over det nuværende arbejdsområde.</div></div>
 </div>
 </div></div></div>
 </div></div>
 </div></div>
 <div id="use-workspaces-and-windows-maximize" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Maksimér og afmaksimér vinduer</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Maksimér og gendan vinduer</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">To maximize a window so that it takes up all of the space on
-       your desktop, grab the window’s titlebar and drag it to the top of the
-       screen.</p></li>
+<li class="steps"><p class="p">Tag fat i vinduets titellinje og træk den til toppen af skærmen for at maksimere et vindue, så det fylder hele skrivebordets område.</p></li>
 <li class="steps"><p class="p">Slip vinduet for at maksimere det, når skærmen er fremhævet.</p></li>
-<li class="steps"><p class="p">To restore a window to its unmaximized size, grab the window’s
-       titlebar and drag it away from the edges of the screen.</p></li>
+<li class="steps"><p class="p">Tag fat i vinduets titellinje og træk det væk fra skærmens kanter for at gendanne et vindue til dets umaksimerede størrelse.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -118,26 +111,25 @@
 <div class="region"><div class="contents">
 <p class="p"></p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
-       titlebar and drag it to the left or right side of the screen.</p></li>
+<li class="steps"><p class="p">Tag fat i vinduets titellinje og træk det til venstre eller højre side af skærmen for at maksimere et vindue langs en side af skærmen.</p></li>
 <li class="steps"><p class="p">Slip vinduet for at maksimere det langs den valgte side af skærmen, når halvdelen af skærmen er fremhævet.</p></li>
-<li class="steps"><p class="p">Tag fat i titellinjen på det andet vindue, og træk det til den modsatte side af skærmen, for at maksimere to vinduer side om side.</p></li>
+<li class="steps"><p class="p">Tag fat i titellinjen på det andet vindue, og træk det til den modsatte side af skærmen for at maksimere to vinduer side om side.</p></li>
 <li class="steps"><p class="p">Slip vinduet for at maksimere det langs den modsatte side af skærmen, når halvdelen af skærmen er fremhævet.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="use-workspaces-and-windows-maximize-keyboard" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Maksimér og afmaksimér vinduer ved brug af tastaturet</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Maksimér og gendan vinduer ved brug af tastaturet</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>↑</kbd></span>, for at maksimere et vindue med tastaturet.</p></li>
+<li class="steps"><p class="p">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>↑</kbd></span> for at maksimere et vindue med tastaturet.</p></li>
 <li class="steps"><p class="p">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>↓</kbd></span> for at maksimere et vindue ved brug af tastaturet.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div id="use-workspaces-and-windows-tile-keyboard" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fliselæg vinduer ved brug af tastaturet</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>→</kbd></span>, for at maksimere et vindue langs højre side af skærmen.</p></li>
-<li class="steps"><p class="p">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>←</kbd></span>, for at maksimere et vindue langs venstre side af skærmen.</p></li>
+<li class="steps"><p class="p">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>→</kbd></span> for at maksimere et vindue langs højre side af skærmen.</p></li>
+<li class="steps"><p class="p">Hold <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-tasten nede og tryk på <span class="key"><kbd>←</kbd></span> for at maksimere et vindue langs venstre side af skærmen.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div id="use-workspaces-and-windows-workspaces-keyboard" class="sect"><div class="inner">
@@ -174,7 +166,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I can’t play the songs I bought from an online music store</title>
+<title>Ik kan de nummers die ik gekocht heb bij een online muziekwinkel niet afspelen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,15 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I can’t play the songs I bought from an online music store</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ik kan de nummers die ik gekocht heb bij een online muziekwinkel niet afspelen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you downloaded some music from an online store you may find that it won’t play on your computer, especially if you bought it on a Windows or Mac OS computer and then copied it over.</p>
-<p class="p">This could be because the music is in a format that is not recognized by your computer. To be able to play a song you need to have support for the right audio formats installed — for example, if you want to play MP3 files, you need MP3 support installed. If you don’t have support for a given audio format, you should see a message telling you so when you try to play a song. The message should also provide instructions for how to install support for that format so that you can play it.</p>
-<p class="p">If you do have support installed for the song’s audio format but still can’t play it, the song might be <span class="em">copy protected</span> (also known as being <span class="em">DRM restricted</span>). DRM is a way of restricting who can play a song and on what devices they can play it. The company that sold the song to you is in control of this, not you. If a music file has DRM restrictions, you will probably not be able to play it — you generally need special software from the vendor to play DRM restricted files, but this software is often not supported on Linux.</p>
+<p class="p">Als u muziek hebt gedownload van een webwinkel, dan kan het zijn dat die niet kan worden afgespeeld op uw computer, vooral als u deze kocht op een Windows- of Mac OS-computer en het daarna kopieerde.</p>
+<p class="p">De reden zou kunnen zijn dat de muziek in een formaat is dat niet herkend wordt door uw computer. Om een nummer te kunnen afspelen moet u ondersteuning geïnstalleerd hebben voor de juiste audioformaten - als u bijvoorbeeld MP3-bestanden wilt afspelen moet u MP3-ondersteuning geïnstalleerd hebben. Als u geen ondersteuning heeft voor een bepaald audioformaat, dan zou u een bericht moeten zien dat u dat vertelt wanneer u een nummer probeert te spelen. Het bericht zou ook instructies moeten bevatten hoe ondersteuning te installeren voor dat formaat, zodat u het kunt afspelen.</p>
+<p class="p">Als u wel ondersteuning heeft geïnstalleerd voor het audioformaat van het nummer maar het nog steeds niet kunt afspelen, dan kan het zijn dat het nummer <span class="em">beveiligd tegen kopiëren</span> (ook bekend als <span class="em">DRM restricted</span>) is. DRM is een manier van beperken wie een nummer kan afspelen en op welke apparaten. Het bedrijf dat u het nummer verkocht beheert dit, niet u. Als een muziekbestand DRM-restricties heeft, dan kunt u het waarschijnlijk niet afspelen — over het algemeen heeft u speciale software nodig van de verkoper om DRM-beperkte bestanden te spelen, maar deze software wordt vaak niet ondersteund in Linux.</p>
 <p class="p">U kunt meer te weten komen over DRM bij de <span class="link"><a href="http://www.eff.org/issues/drm" title="http://www.eff.org/issues/drm">Electronic Frontier Foundation</a></span> (Engelstalig).</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -89,7 +89,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

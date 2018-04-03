@@ -70,9 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Menyembunyikan berkas</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The <span class="app">Files</span> file manager gives you the ability to hide and unhide
-  files at your discretion. When a file is hidden, it is not displayed by the
-  file manager, but it is still there in its folder.</p>
+<p class="p">Manajer berkas <span class="app">Files</span> memberikan Anda kemampuan untuk menyembunyikan dan menampilkan berkas-berkas sesuai keperluan Anda. Bila berkas tersembunyi, berkas tersebut tidak ditampilkan oleh pengelola berkas, namun berkas tersebut masih berada pada folder itu.</p>
 <p class="p">To hide a file, <span class="link"><a href="files-rename.html.id" title="Mengubah nama berkas atau folder">rename it</a></span> with a
   <span class="file">.</span> at the beginning of its name. For example, to hide a file
   named <span class="file">example.txt</span>, you should rename it to
@@ -143,7 +141,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

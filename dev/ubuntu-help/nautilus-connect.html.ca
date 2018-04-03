@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Browse files on a server or network share</title>
+<title>Navega per fitxers en un servidor o en una xarxa compartida</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,97 +71,59 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Browse files on a server or network share</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Navega per fitxers en un servidor o en una xarxa compartida</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can connect to a server or network share to browse and
-view files on that server, exactly as if they were on your
-own computer. This is a convenient way to download or upload
-files on the internet, or to share files with other people on
-your local network.</p>
-<p class="p">To browse files over the network, open the <span class="app">Files</span>
-application from the <span class="gui">Activities</span> overview, and click
-<span class="gui">Other Locations</span> in the sidebar. The file manager
-will find any computers on your local area network that advertize
-their ability to serve files. If you want to connect to a server
-on the internet, or if you do not see the computer you’re looking
-for, you can manually connect to a server by typing in its
-internet/network address.</p>
+<p class="p">Podeu connectar-vos a un servidor o compartir xarxa per explorar i visualitzar fitxers en aquest servidor, exactament com si estiguessin al vostre propi ordinador. Aquesta és una manera pràctica de descarregar o carregar fitxers a Internet o compartir fitxers amb altres persones a la vostra xarxa local.</p>
+<p class="p">Per explorar els fitxers a través de la xarxa, obriu l'aplicació <span class="app">Fitxers</span> des de la vista conjunta d'<span class="gui">Activitats</span>, i feu clic a <span class="gui">altres localitzacions</span> a la barra lateral. El gestor de fitxers trobarà qualsevol ordinador a la vostra xarxa local que publiqui la seva capacitat de servir fitxers. Si voleu connectar-vos a un servidor d'Internet o si no veieu l'equip que esteu cercant, podeu connectar-vos-hi manualment escrivint la seva adreça d'internet / xarxa.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Connect to a file server</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Connecteu-vos a un servidor de fitxers</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">In the file manager, click <span class="gui">Other Locations</span> in the
-   sidebar.</p></li>
+<li class="steps"><p class="p">Al gestor de fitxers, feu clic <span class="gui">Altres localitzacions</span> a la barra lateral.</p></li>
 <li class="steps">
-<p class="p">In <span class="gui">Connect to Server</span>, enter the address of the server, in
-  the form of a
-   <span class="link"><a href="#urls" title="Writing URLs">URL</a></span>. Details on supported URLs are
-   <span class="link"><a href="#types" title="Types of servers">listed below</a></span>.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">If you have connected to the server before, you can click on it in the
-    <span class="gui">Recent Servers</span> list.</p></div></div></div></div>
+<p class="p">A <span class="gui">Connectar a un Servidor</span>, introduïu l'adreça del servidor, en forma d'<span class="link"><a href="#urls" title="Escriure les URLs">URL</a></span>. Els detalls de les URL admeses s'<span class="link"><a href="#types" title="Tipus de servidor">enumeren a continuació</a></span>.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Si us heu connectat al servidor prèviament, podeu seleccionar-lo a la llista de <span class="gui">Servidors recents</span>.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Connect</span>. The files on the server will be shown. You
-    can browse the files just as you would for those on your own computer. The
-    server will also be added to the sidebar so you can access it quickly in
-    the future.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Connectar</span>. Es mostraran els fitxers del servidor. Podeu navegar pels fitxers com si estiguéssiu a la pròpia computadora. El servidor s'afegirà a la barra lateral per a què pugui accedir-hi ràpidament en el futur.</p></li>
 </ol></div>
 </div></div>
 </div>
 <div id="urls" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Writing URLs</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Escriure les URLs</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A <span class="em">URL</span>, or <span class="em">uniform resource locator</span>, is a form of address
- that refers to a location or file on a network. The address is formatted like this:</p>
+<p class="p">Una <span class="em">URL</span>, o <span class="em">Uniform Resource Locator</span>, és una forma d'adreça que fa referència a una ubicació o fitxer en una xarxa. L'adreça està formada com a:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">The <span class="em">scheme</span> specifies the protocol or type of server. The
-  <span class="em">example.com</span> portion of the address is called the <span class="em">domain name</span>.
-  If a username is required, it is inserted before the server name:</p>
+<p class="p">L'<span class="em">esquema (protocol)</span> especifica el protocol o tipus de servidor. La porció d'adreça <span class="em">example.com</span> s'anomena <span class="em">nom del domini</span>. Si es requereix un nom d'usuari, s'insereix abans del nom del servidor:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://username@servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">Some schemes require the port number to be specified. Insert it after the domain name:</p>
+<p class="p">Alguns esquemes (protocols) requereixen que s'especifiqui el número de port. Inseriu-lo després del nom del domini:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com:port/folder</span></p></div></div></div></div>
-<p class="p">Below are specific examples for the various server types that are supported.</p>
+<p class="p">A continuació es mostren exemples específics per als diferents tipus de servidor admesos.</p>
 </div></div>
 </div></div>
 <div id="types" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Types of servers</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Tipus de servidor</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can connect to different types of servers. Some servers are public,
-   and allow anybody to connect. Other servers require you to log in with a
-   username and password.</p>
-<p class="p">You may not have permissions to perform certain actions on files on a server.
-  For example, on public FTP sites, you will probably not be able to delete
-  files.</p>
-<p class="p">The URL you enter depends on the protocol that the
-  server uses to export its file shares.</p>
+<p class="p">Podeu connectar-vos a diferents tipus de servidors. Alguns servidors són públics i permeten que tothom connecti. Altres servidors requereixen que inicieu sessió amb un nom d'usuari i contrasenya.</p>
+<p class="p">Podeu no tenir permisos per realitzar certes accions sobre fitxers en un servidor. Per exemple, en llocs FTP públics, probablement no podreu esborrar fitxers.</p>
+<p class="p">L'URL que introduïu depèn del protocol que el servidor utilitzi per exportar les seves accions sobre fitxers.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">SSH</dt>
 <dd class="terms">
-<p class="p">If you have a <span class="em">secure shell</span> account on a server, you
-  can connect using this method. Many web hosts provide SSH accounts
-  to members so they can securely upload files. SSH servers always
-  require you to log in.</p>
-<p class="p">A typical SSH URL looks like this:</p>
+<p class="p">Si teniu un compte <span class="em">SSH</span> a un servidor, podeu connectar-vos mitjançant aquest mètode. Molts proveïdors d'allotjament web proporcionen comptes SSH als membres perquè pugin fitxers de manera segura. Els servidors SSH sempre requereixen un inici de sessió.</p>
+<p class="p">Una URL SSH normalment es mostra com:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">When using SSH, all the data you send (including your password)
-  is encrypted so that other users on your network can’t see it.</p>
+<p class="p">Quan utilitzeu SSH, totes les dades que envieu (inclosa la vostra contrasenya) es xifren perquè els altres usuaris de la vostra xarxa no puguin veure-la.</p>
 </dd>
-<dt class="terms">FTP (with login)</dt>
+<dt class="terms">FTP (Autentificar-se amb)</dt>
 <dd class="terms">
-<p class="p">FTP is a popular way to exchange files on the Internet.
-  Because data is not encrypted over FTP, many servers now provide
-  access through SSH. Some servers, however, still allow or require
-  you to use FTP to upload or download files. FTP sites with logins
-  will usually allow you to delete and upload files.</p>
-<p class="p">A typical FTP URL looks like this:</p>
+<p class="p">FTP és una popular forma d'intercanviar fitxers a Internet. Com que les dades no es xifren sobre FTP, molts servidors proporcionen accés a través de SSH. Alguns servidors, tanmateix, encara permeten o requereixen que utilitzeu FTP per carregar o descarregar fitxers. Els llocs FTP amb inici de sessió normalment permeten eliminar i carregar fitxers.</p>
+<p class="p">Una URL FTP es mostra com:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://username@ftp.example.com/path/</span></p></div></div></div></div>
 </dd>
-<dt class="terms">Public FTP</dt>
+<dt class="terms">FTP public</dt>
 <dd class="terms">
-<p class="p">Sites that allow you to download files will sometimes provide
-  public or anonymous FTP access. These servers do not require a
-  username and password, and will usually not allow you to delete
-  or upload files.</p>
-<p class="p">A typical anonymous FTP URL looks like this:</p>
+<p class="p">Els llocs que permeten descarregar fitxers a vegades ofereixen accés FTP públic o anònim. Aquests servidors no requereixen un nom d'usuari ni una contrasenya, i normalment no permeten que esborreu o carregueu fitxers.</p>
+<p class="p">Una URL d'un FTP anònim es mostra com :</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://ftp.example.com/path/</span></p></div></div></div></div>
 <p class="p">Some anonymous FTP sites require you to log in with a
   public username and password, or with a public username using
@@ -233,7 +195,7 @@ internet/network address.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

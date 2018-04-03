@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.fi" title="Vaihda tehtävien välillä">Seuraava</a></div>
@@ -88,23 +88,17 @@
 <div id="launch-apps-mouse" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Käynnistä sovelluksia hiirellä</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Move your mouse pointer to the <span class="gui">Activities</span> corner at the
-     top left of the screen to show the <span class="gui">Activities Overview</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Show Applications</span> icon that is shown at the
-     bottom of the bar on the left-hand side of the screen.</p></li>
-<li class="steps"><p class="p">A list of applications is shown. Click the application you want to
-     run, for example, Help.</p></li>
+<li class="steps"><p class="p">Siirrä hiiren osoitin näytön vasemman yläreunan <span class="gui">Toiminnot</span>-kulmaan avataksesi <span class="gui">Toiminnot-yleisnäkymän</span>.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Näytä sovellukset</span> -painiketta näytön vasemman puolen palkin alaosasta.</p></li>
+<li class="steps"><p class="p">Luettelo sovelluksista ilmestyy näkyviin. Napsauta haluamaasi sovellusta, esimerkiksi Ohje.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div id="launch-app-keyboard" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Käynnistä sovelluksia näppäimistöllä</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui">Activities Overview</span> by pressing the
-    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key.</p></li>
-<li class="steps"><p class="p">Start typing the name of the application you want to launch.
-     Searching for the application begins instantly.</p></li>
-<li class="steps"><p class="p">Once the icon of the application is shown and selected, press <span class="key"><kbd>
-    Enter</kbd></span> to launch the application.</p></li>
+<li class="steps"><p class="p">Avaa <span class="gui">Toiminnot-yleisnäkymä</span> painamalla <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>.</p></li>
+<li class="steps"><p class="p">Aloita sen sovelluksen nimen kirjoittaminen, jonka haluat käynnistää. Sovelluksen hakeminen käynnistyy välittömästi.</p></li>
+<li class="steps"><p class="p">Kun sovelluksen kuvake on korostettuna, paina <span class="key"><kbd> Enter</kbd></span> käynnistääksesi sovelluksen.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.fi" title="Vaihda tehtävien välillä">Seuraava</a></div>
@@ -132,7 +126,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

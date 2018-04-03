@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Can I share my color profile?</title>
+<title>Czy mogę podzielić się swoim profilem?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,38 +65,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Can I share my color profile?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Czy mogę podzielić się swoim profilem?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    Color profiles that you have created yourself are specific to the
-    hardware and lighting conditions that you calibrated for.
-    A display that has been powered for a few hundred hours
-    is going to have a very different color profile to a similar display
-    with the next serial number that has been lit for a thousand hours.
-  </p>
-<p class="p">
-    This means if you share your color profile with somebody, you might
-    be getting them <span class="em">closer</span> to calibration, but it’s misleading
-    at best to say that their display is calibrated.
-  </p>
-<p class="p">
-    Similarly, unless everyone has recommended controlled lighting
-    (no sunlight from windows, black walls, daylight bulbs etc.) in a
-    room where viewing and editing images takes place, sharing a profile
-    that you created in your own specific lighting conditions doesn’t make
-    a lot of sense.
-  </p>
-<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      You should carefully check the redistribution conditions for profiles
-      downloaded from vendor websites or that were created on your behalf.
-    </p></div></div></div></div>
+<p class="p">Profile kolorów utworzone przez użytkownika są przeznaczone dla sprzętu i warunków oświetleniowych, dla których przeprowadzono kalibrację. Ekran włączony przez kilkaset godzin ma zupełnie inny profil kolorów niż podobny ekran o zbliżonym numerze seryjnym, który był włączony przez tysiąc godzin.</p>
+<p class="p">Oznacza to, że jeśli ktoś inny użyje tego profilu kolorów, to być może <span class="em">jest bliżej</span> kalibracji, ale co najmniej mylące jest powiedzenie, że ma skalibrowany ekran.</p>
+<p class="p">Podobnie, chyba że wszyscy mają zalecane, kontrolowane warunki oświetleniowe (zasłonięte okna, czarne ściany, żarówki dzienne itp.) w pomieszczeniu, gdzie obrazy są wyświetlane i retuszowane, dzielenie się profilem utworzonym w konkretnych warunkach oświetleniowych nie ma większego sensu.</p>
+<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">Należy dokładnie sprawdzać warunki rozprowadzania profilów pobranych ze stron dostawców i utworzonych przez innych.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -108,7 +89,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-whatisprofile.html.pl-PL" title="Czym jest profil kolorów?">Czym jest profil kolorów?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-whatisprofile.html.pl-PL" title="Czym jest profil kolorów?">Czym jest profil kolorów?</a><span class="desc"> — Profil kolorów to prosty plik odzwierciedlający przestrzeń kolorów lub odpowiedź urządzenia.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -120,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

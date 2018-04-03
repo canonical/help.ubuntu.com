@@ -81,7 +81,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Förhindra datorn från att försättas i vänteläge när locket stängs</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Viktigt"><div class="inner"><div class="region"><div class="contents"><p class="p">Dessa instruktioner kommer bara att fungera om du använder <span class="app">systemd</span>. Kontakta din distribution för mer information.</p></div></div></div></div>
-<div class="note note-important" title="Viktigt"><div class="inner"><div class="region"><div class="contents"><p class="p">Du måste ha <span class="app">Justering</span> installerat på din dator för att ändra denna inställning.</p></div></div></div></div>
+<div class="note note-important" title="Viktigt"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Du måste ha <span class="app">Justering</span> installerat på din dator för att ändra denna inställning.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Installera <span class="app">Justering</span></a></span></p>
+</div></div></div></div>
 <p class="p">Om du inte vill att datorn ska försättas i vänteläge när du stänger locket kan du ändra inställningarna för det beteendet.</p>
 <div class="note note-warning" title="Varning"><div class="inner"><div class="region"><div class="contents"><p class="p">Var aktsam när du ändrar denna inställning. Vissa bärbara datorer kan överhettas om de lämnas körandes med locket stängt, speciellt om de befinner sig i ett slutet utrymme som till exempel en ryggsäck.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -122,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

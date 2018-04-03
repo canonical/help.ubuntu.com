@@ -73,9 +73,7 @@
 <p class="p">Anda dapat menghapus akun daring yang tidak ingin Anda pakai lagi.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Banyak layanan daring menyediakan suatu token otorisasi yang disimpan oleh GNOME sebagai pengganti kata sandi. Bila Anda menghapus suatu akun, Anda juga mesti mencabut sertifikat itu dalam layanan daring. Ini akan memastikan bahwa tidak ada aplikasi atau situs web lain yang dapat menyambung ke layanan tersebut memakai otorisasi untuk GNOME.</p>
-<p class="p">How to revoke the authorization depends on the service provider. Check
-    your settings on the provider’s website for authorized or connected apps
-    or sites. Look for an app called “GNOME” and remove it.</p>
+<p class="p">Bagaimana cara mencabut otorisasi yang bergantung kepada penyedia layanan. Periksa pengaturan Anda pada situs web penyedia mengotorisasi atau menyambungkan apps atau situs. Carilah app bernama "GNOME" dan hapuslah.</p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
@@ -110,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

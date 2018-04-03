@@ -87,8 +87,10 @@
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Carateres</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Outra útil aplicação distribuído com GNOME é <span class="app">Carateres</span>. Permite-lhe  procurar e inserir carateres pouco habituais procurando em categorias de carateres ou procurando por palavras-chave.</p>
-<p class="p">Pode lançar Carateres desde a vista de Atividades. Para obter mais informação sobre Carateres, consulte o <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">manual de Carateres</a></span>.</p>
+<p class="p">GNOME comes with a character map application that allows you to
+    find and insert unusual characters, including emoji, by browsing
+    character categories or searching for keywords.</p>
+<p class="p">You can launch <span class="app">Characters</span> from the Activities overview.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -97,8 +99,12 @@
 <p class="p">Uma chave composta é uma chave especial que lhe permite carregar várias teclas seguidas para obter um caráter especial. Por exemplo, para usar a letras com chame <span class="em">é</span> pode carregar <span class="key"><kbd>compor</kbd></span> despúes <span class="key"><kbd>'</kbd></span> e depois <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Keyboards don’t have specific compose keys. Instead, you can define
     one of the existing keys on your keyboard as a compose key.</p>
-<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-      change this setting.</p></div></div></div></div>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
+      change this setting.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
+        <span class="app">Tweaks</span></a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definir uma tecla de composição</span></h3></div>
 <div class="region"><ol class="steps">
@@ -129,18 +135,22 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pontos de codigo</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Pode introduzir qualquer caráter Unicode utilizando só o teclado com o ponto de codigo numérico do caráter. A cada caráter identifica-se com um ponto de codigo de quatro carateres. Para encontrar o ponto de codigo dum caráter, procure o caráter no aplicação de mapa de carateres e olhe na barra de status ou na flange <span class="gui">Detalhes de caráter</span>. O ponto de codigo são os quatro carateres que há após <span class="gui">Ou+</span>.</p>
-<p class="p">To enter a character by its code point, hold down <span class="key"><kbd>Ctrl</kbd></span> and
-  <span class="key"><kbd>Shift</kbd></span>, type <span class="key"><kbd>U</kbd></span> followed by the four-character code
-  point, then release <span class="key"><kbd>Ctrl</kbd></span> and <span class="key"><kbd>Shift</kbd></span>. If you often use
-  characters that you can’t easily access with other methods, you might find
+<p class="p">You can enter any Unicode character using only your keyboard with the
+  numeric code point of the character. Every character is identified by a
+  four-character code point. To find the code point for a character, look it up
+  in the <span class="app">Characters</span> application. The code point is the four characters
+  after <span class="gui">U+</span>.</p>
+<p class="p">To enter a character by its code point, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, then type the
+  four-character code and press <span class="key"><kbd>Space</kbd></span> or <span class="key"><kbd>Enter</kbd></span>. If you often
+  use characters that you can’t easily access with other methods, you might find
   it useful to memorize the code point for those characters so you can enter
   them quickly.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Distribuições de teclado</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Pode fazer que o teclado se comporte como o teclado de outro idioma, independentemente das letras impressas nas teclas. Inclusive pode mudar facilmente entre diferentes distribuições de teclado com um ícone na barra superior. Para saber como o fazer, consulte a <span class="link"><a href="keyboard-layouts.html.pt" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Pode fazer que o teclado se comporte como o teclado de outro idioma, independentemente das letras impressas nas teclas. Inclusive pode mudar facilmente entre diferentes distribuições de teclado com um ícone na barra superior. Para saber como o fazer, consulte a <span class="link"><a href="keyboard-layouts.html.pt" title="Utilizar distribuições de teclado alternativas">Utilizar distribuições de teclado alternativas</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Métodos primeiramente</span></h2></div>
@@ -161,7 +171,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.pt" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.pt" title="Utilizar distribuições de teclado alternativas">Utilizar distribuições de teclado alternativas</a><span class="desc"> — Acrescentar distribuições do teclado e mudar entre elas.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -173,7 +183,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

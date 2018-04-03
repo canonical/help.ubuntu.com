@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Control location services</title>
+<title>Sterowanie usługami ustalania położenia</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,26 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Control location services</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Sterowanie usługami ustalania położenia</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Geolocation, or location services, uses cell tower positioning, GPS, and
-  nearby Wi-Fi access points to determine your current location for use in
-  setting your timezone and by applications such as <span class="app">Maps</span>. When
-  enabled, it is possible for your location to be shared over the network with
-  a great deal of precision.</p>
+<p class="p">Geolokalizacja, lub usługi ustalania położenia, używa pozycjonowania stacji sieci komórkowej, GPS i pobliskich punktów dostępowych Wi-Fi, aby ustalić obecne położenie komputera do użytku podczas ustawiania strefy czasowej i przez takie programy, jak <span class="app">Mapy</span>. Kiedy jest włączone, można udostępniać swoje położenie przez sieć z bardzo wysoką dokładnością.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Turn off the geolocation features of your desktop</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Wyłączanie funkcji geolokalizacji</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Prywatność</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Prywatność</span>, aby otworzyć panel.</p></li>
 <li class="steps">
-<p class="p">Set the <span class="gui">Location Services</span> switch to <span class="gui">OFF</span>.</p>
-<p class="p">To re-enable this feature, set the <span class="gui">Location Services</span> switch
-     to <span class="gui">ON</span>.</p>
+<p class="p">Przełącz <span class="gui">Usługi położenia</span> na <span class="gui">◯</span> (wyłączone).</p>
+<p class="p">Aby z powrotem włączyć tę funkcję, ustaw <span class="gui">Usługi położenia</span> na <span class="gui">|</span> (włączone).</p>
 </li>
 </ol></div>
 </div></div>
@@ -93,11 +88,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.pl-PL" title="Automatyczne blokowanie ekranu">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.pl-PL" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.pl-PL" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.pl-PL" title="Ustawienia prywatności">Ustawienia prywatności</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.pl-PL" title="Automatyczne blokowanie ekranu">Blokada ekranu</a></span>, <span class="link"><a href="privacy-history-recent-off.html.pl-PL" title="Wyłączanie lub ograniczanie śledzenia historii plików">historia używanych plików</a></span>, <span class="link"><a href="privacy-purge.html.pl-PL" title="Usuwanie plików w koszu i plików tymczasowych">usuwanie plików w koszu i plików tymczasowych</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -108,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

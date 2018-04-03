@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Uw IP-adres achterhalen</span></h1></div>
@@ -77,11 +77,9 @@
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
 <li class="steps">
-<p class="p">Choose which connection, <span class="gui">Wi-Fi</span> or <span class="gui">Wired</span>, from
-      the left pane.</p>
-<p class="p">The IP address for a wired connection will be displayed on the
-      right.</p>
-<p class="p">Klik op de <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span>-knop om uw IP-adres voor het draadloze netwerk te zien in het <span class="gui">Details</span>-paneel.</p>
+<p class="p">Kies de verbinding, <span class="gui">Wifi</span> of <span class="gui">Bekabeld</span>, in het linkerpaneel.</p>
+<p class="p">Het IP-adres voor een bekabelde verbinding zal rechts getoond worden.</p>
+<p class="p">Klik op de <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span>-knop om uw IP-adres voor het draadloze netwerk te zien in het paneel <span class="gui">Details</span>.</p>
 </li>
 </ol></div>
 </div></div>
@@ -123,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -65,28 +65,23 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a> › <a class="trail" href="power.html.nl#saving" title="Energiebesparing-instellingen">Energiebesparing-instellingen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Automatische pauzestand instellen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can configure your computer to automatically suspend when idle.
-  Different intervals can be specified for running on battery or plugged in.</p>
+<p class="p">U kunt uw computer zo instellen dat deze automatisch in pauzestand gaat wanneer hij niet gebruikt wordt. Er kunnen verschillende intervallen worden opgegeven voor het werken op accu- of netstroom.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Energie</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Energie</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Suspend &amp; Power Button</span> section, click
-      <span class="gui">Automatic suspend</span>.</p></li>
+<li class="steps"><p class="p">Klik in de sectie <span class="gui">Pauzestand &amp; uitschakelen</span> op <span class="gui">Automatisch in pauzestand zetten</span>.</p></li>
 <li class="steps">
-<p class="p">Choose <span class="gui">On Battery Power</span> or <span class="gui">Plugged In</span>, set the
-      switch to <span class="gui">ON</span>, and select a <span class="gui">Delay</span>. Both options can
-      be configured.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">On a desktop computer, there is one option labeled
-        <span class="gui">When Idle</span>.</p></div></div></div></div>
+<p class="p">Kies <span class="gui">Op accustroom</span> of <span class="gui">Op netstroom</span>, zet de schakelaar op <span class="gui">AAN</span> en kies een <span class="gui">Vertraging</span>. Beide opties kunnen worden geconfigureerd.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Op een desktopcomputer is er één optie met de naam <span class="gui">Wanneer inactief</span>.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 </div>
@@ -115,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

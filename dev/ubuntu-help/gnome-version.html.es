@@ -70,11 +70,13 @@
 <div class="hgroup"><h1 class="title"><span class="title">Determinar qué versión de GNOME se está ejecutando.</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Puede conocer la versión de GNOME que se está ejecutando en su sistema yendo al panel <span class="gui">Detalles</span> en la <span class="gui">Configuración</span>.</p>
+<p class="p">You can determine the version of GNOME that is running on your system by
+  going to the <span class="gui">Details/About</span> panel in <span class="gui">Settings</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Detalles</span>.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Activities</a></span> overview and
+      start typing <span class="gui">About</span>.</p></li>
 <li class="steps">
-<p class="p">Pulse en <span class="gui">Detalles</span> para abrir el panel.</p>
+<p class="p">Click on <span class="gui">About</span> to open the panel.</p>
 <p class="p">Aparece una ventana que muestra información sobre su sistema, incluyendo el nombre de la distribución y la versión de GNOME.</p>
 </li>
 </ol></div></div></div>
@@ -95,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,13 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Region a jazyk</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice"><span class="title">Použití alternativního rozložení klávesnice</span><span class="linkdiv-dash"> — </span><span class="desc">Přidání rozložení klávesnice a přepnutí mezi nimi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.cs" title="Používání alternativního rozložení klávesnice"><span class="title">Používání alternativního rozložení klávesnice</span><span class="linkdiv-dash"> — </span><span class="desc">Rozložení klávesnice a jak se mezi nimi přepínat.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-formats.html.cs" title="Změna formátů data a měrných jednotek"><span class="title">Změna formátů data a měrných jednotek</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vybrat region určující formát data, času a čísel, měnu a jednotky.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-language.html.cs" title="Změna jazyka, který používáte"><span class="title">Změna jazyka, který používáte</span><span class="linkdiv-dash"> — </span><span class="desc">Jak se přepnou na jiný jazyk pro uživatelské rozhraní a text nápovědy.</span></a></div>
 </div></div></div></div>
@@ -98,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

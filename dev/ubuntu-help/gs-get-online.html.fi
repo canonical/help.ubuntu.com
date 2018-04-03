@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -79,20 +79,12 @@
 <div class="media media-image"><div class="inner"><img src="gs-go-online1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">The network connection icon on the right-hand side of the top
-       bar shows that you are offline.</p>
-<p class="p">The offline status can be caused by a number of reasons: for
-       example, a network cable has been unplugged, the computer has been set
-       to run in <span class="em">airplane mode</span>, or there are no available Wi-Fi
-       networks in your area.</p>
-<p class="p">If you want to use a wired connection, just plug in a network
-      cable to go online. The computer will try to set up the network
-      connection for you automatically.</p>
-<p class="p">While the computer sets up a network connection for you, the
-      network connection icon shows three dots.</p>
+<p class="p">Verkkoyhteyden kuvake yläpalkin oikeassa kulmassa näyttää, että olet yhteydettömässä tilassa.</p>
+<p class="p">Yhteydetön tila voi johtua monesta syystä, esimerkiksi verkkokaapeli saattaa olla irti, tietokone voi olla asetettu <span class="em">lentokonetilaan</span> tai wifi-verkkoja ei ole käytettävissä sijainnissasi.</p>
+<p class="p">Jos haluat käyttää langallista yhteyttä, kytke johto tietokoneeseen. Tietokone yrittää määrittää ja muodostaa verkkoyhteyden automaattisesti.</p>
+<p class="p">Kun tietokone muodostaa verkkoyhteyttä, verkkoyhteyden kuvake näyttää kolmea pistettä.</p>
 </li>
-<li class="steps"><p class="p">Once the network connection has been successfully set up, the
-      network connection icon changes to the networked computer symbol.</p></li>
+<li class="steps"><p class="p">Kun verkkoyhteys on muodostettu onnistuneesti, verkkoyhteyden kuvake muuttuu osoittamaan kiinteän verkon yhteyttä.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -104,17 +96,14 @@
 <div class="title title-steps"><h3><span class="title">Yhdistä langattomaan wifi-verkkoon seuraavasti:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Napsauta <span class="gui"><a href="shell-introduction.html.fi#yourname" title="Sinä ja tietokoneesi">järjestelmävalikkoa</a></span> yläpalkin oikeasta laidasta.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Wi-Fi Not Connected</span>. The Wi-Fi section of the menu
-        will expand.</p></li>
+<li class="steps"><p class="p">Valitse <span class="gui">Wi-Fi - Ei yhdistetty</span>. Valikon wifi-osio laajenee.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Valitse verkko</span>.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-important" title="Tärkeä"><div class="inner"><div class="region"><div class="contents"><p class="p">You can only connect to a Wi-Fi network if your computer hardware
-        supports it and you are in an area with Wi-Fi coverage.</p></div></div></div></div>
+<div class="note note-important" title="Tärkeä"><div class="inner"><div class="region"><div class="contents"><p class="p">Voit yhdistää langattomaan wifi-verkkoon vain jos tietokoneesi laitteisto tukee sitä ja olet wifi-verkon kantoalueella.</p></div></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-go-online3.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4"><li class="steps">
-<p class="p">From the list of available Wi-Fi networks, select the network you
-    want to connect to, and click <span class="gui">Connect</span> to confirm.</p>
+<p class="p">Valitse haluamasi wifi-verkko ja napsauta <span class="gui">Yhdistä</span> vahvistaaksesi yhteyden muodostamisen.</p>
 <p class="p">Riippuen verkon asetuksista, sinulta saatetaan kysyä salasanaa verkkoon liittymiseksi.</p>
 </li></ol></div></div></div>
 </div></div>
@@ -146,7 +135,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -69,16 +69,18 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Видео позиви</span></h1></div>
 <div class="region">
-<div class="contents">
-<p class="p">Можете обављати видео позиве из Убунтуа без инсталирања било каквог додатног програма користећи <span class="app">Интернет писмоношу</span> — путем мрежа <span class="em">Гугл разговора</span>, <span class="em">МСН-а</span>, <span class="em">Џабера</span>, и <span class="em">СИП-а</span>. Видите <span class="link"><a href="https://help.gnome.org/users/empathy/stable/audio-video" title="https://help.gnome.org/users/empathy/stable/audio-video">упутство Интернет писмоноше</a></span> за помоћ о обављању видео позива <span class="app">Интернет писмоношом</span>.</p>
-<div class="list"><div class="inner">
-<div class="title title-list"><h2><span class="title">У друге програме који подржавају видео позиве спадају</span></h2></div>
+<div class="contents"><div class="list"><div class="inner">
+<div class="title title-list"><h2><span class="title">Applications which support video calls include</span></h2></div>
 <div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="https://apps.ubuntu.com/cat/applications/skype" title="https://apps.ubuntu.com/cat/applications/skype">Скајп</a></span></span></p></li>
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="https://apps.ubuntu.com/cat/applications/ekiga" title="https://apps.ubuntu.com/cat/applications/ekiga">Екига</a></span></span></p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="net-chat-empathy.html.sr" title="Брзе поруке на Убунтуу">Empathy</a></span></span>
+    </p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="net-chat-skype.html.sr" title="Како могу да користим Скајп на Убунтуу?">Skype</a></span></span>
+    </p></li>
+<li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Екига</a></span></span></p></li>
 </ul></div>
-</div></div>
-</div>
+</div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
@@ -112,7 +114,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

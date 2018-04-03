@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a color profile?</title>
+<title>Què és un perfil de color?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,36 +65,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a color profile?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Què és un perfil de color?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    A color profile is a set of data that characterizes either a device
-    such as a projector or a color space such as sRGB.
-  </p>
-<p class="p">
-    Most color profiles are in the form of an ICC profile, which is a
-    small file with a <span class="input">.ICC</span> or <span class="input">.ICM</span> file
-    extension.
-  </p>
-<p class="p">
-    Color profiles can be embedded into images to specify the gamut range
-    of the data.
-    This ensures that users see the same colors on different devices.
-  </p>
-<p class="p">
-    Every device that is processing color should have its own ICC
-    profile and when this is achieved the system is said to have an
-    <span class="em">end-to-end color-managed workflow</span>.
-    With this kind of workflow you can be sure that colors are not being
-    lost or modified.
-  </p>
+<p class="p">Un perfil de color és un conjunt de dades que caracteritza un dispositiu com un projector o un espai de color com és el sRGB.</p>
+<p class="p">La majoria dels perfils de color tenen la forma d'un perfil ICC, que és un petit arxiu amb extensió <span class="input">.ICC</span> o <span class="input">.ICM</span>.</p>
+<p class="p">Els perfils de color es poden incrustar en imatges per especificar el rang de colors de les dades. D'aquesta manera, els usuaris veuen els mateixos colors en diferents dispositius.</p>
+<p class="p">Cada dispositiu que processi color ha de tenir el seu propi perfil ICC i quan s'obté es diu que el sistema un <span class="em">sistema de gestió del color d'extrem a extrem</span>. Amb aquest tipus de flux de treball, podeu estar segur que els colors no es perdran ni modificaran.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -107,19 +90,19 @@
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-canshareprofiles.html.ca" title="Can I share my color profile?">Can I share my color profile?</a><span class="desc"> — Sharing color profiles is never a good idea as hardware changes over time.</span>
+<a href="color-howtoimport.html.ca" title="Com importo perfils de color?">Com importo perfils de color?</a><span class="desc"> — Els perfils de color es poden importar obrint-los.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html.ca" title="How do I assign profiles to devices?">How do I assign profiles to devices?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.ca" title="Com puc assignar perfils als dispositius?">Com puc assignar perfils als dispositius?</a><span class="desc"> — Mireu a <span class="guiseq"><span class="gui">Configuració</span> ▸ <span class="gui">Color</span></span> per afegir un perfil de color per a la vostra pantalla.</span>
 </li>
 <li class="links ">
-<a href="color-howtoimport.html.ca" title="How do I import color profiles?">How do I import color profiles?</a><span class="desc"> — Color profiles can be imported by opening them.</span>
+<a href="color-gettingprofiles.html.ca" title="On puc obtenir perfils de color?">On puc obtenir perfils de color?</a><span class="desc"> — Els proveïdors proporcionen perfils de colors i es poden generar per un mateix.</span>
 </li>
 <li class="links ">
-<a href="color-whatisspace.html.ca" title="What is a color space?">What is a color space?</a><span class="desc"> — A color space is a defined range of colors.</span>
+<a href="color-canshareprofiles.html.ca" title="Puc compartir el meu perfil de color?">Puc compartir el meu perfil de color?</a><span class="desc"> — Compartir perfils de color no és una bona idea ja que el maquinari canvia amb el temps.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html.ca" title="Where do I get color profiles?">Where do I get color profiles?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>
+<a href="color-whatisspace.html.ca" title="Què és un espai de color?">Què és un espai de color?</a><span class="desc"> — Un espai de color és un rang definit de colors.</span>
 </li>
 </ul></div>
 </div></div>
@@ -132,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

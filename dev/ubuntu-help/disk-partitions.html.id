@@ -71,43 +71,22 @@
 <div class="region">
 <div class="contents">
 <p class="p">Kata <span class="em">volume</span> dipakai untuk menjelaskan suatu perangkat penyimpanan, seperti sebuah hard disk. Itu juga bisa mengacu kepada sebuah <span class="em">bagian</span> dari penyimpanan pada perangkat, karena Anda dapat memecah penyimpanan ke dalam bongkahan-bongkahan. Komputer membuat penyimpanan ini dapat diakses melalui sistem berkas Anda dalam suatu proses yang dikenal sebagai <span class="em">mengait</span>. Volume yang dikat mungkin berubah hard disk, USB, DVD-RW, kartu SD, dan media lain. Bila suatu volume saat ini sedang dikait, Anda dapat membaca (dan mungkin menulis) berkas-berkas padanya.</p>
-<p class="p">Often, a mounted volume is called a <span class="em">partition</span>, though they are not
- necessarily the same thing. A “partition” refers to a <span class="em">physical</span> area of
- storage on a single disk drive. Once a partition has been mounted, it can be
- referred to as a volume because you can access the files on it. You can think
- of volumes as the labeled, accessible “storefronts” to the functional “back
- rooms” of partitions and drives.</p>
+<p class="p">Seringkali, suatu volume yang dikait dinamai sebagai <span class="em">partisi</span>, walaupun belum tentu mereka merupakan hal yang sama. Suatu "partisi" mengacu ke suatu wilayah penyimpanan <span class="em">fisik</span> pada suatu disk tunggal. Sekali sebuah partisi telah dikait, itu dapat diacu sebagai suatu volume karena Anda dapat mengakses berkas-berkas padanya. </p>
 </div>
 <div id="manage" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lihat dan kelola volume dan partisi memakai utilitas disk</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can check and modify your computer’s storage volumes with the disk
- utility.</p>
+<p class="p">Anda dapat memeriksa dan mengubah volume penyimpanan komputer Anda dengan utilitas disk.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui">Activities</span> overview and start <span class="app">Disks</span>.</p></li>
-<li class="steps"><p class="p">In the list of storage devices on the left, you will find hard disks,
-    CD/DVD drives, and other physical devices. Click the device you want to
-    inspect.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui">Aktivitas</span> dan mulai <span class="app">Disk</span>.</p></li>
+<li class="steps"><p class="p">Pada daftar perangkat penyimpanan di sebelah kiri, Anda akan menemukan hardisk, drive CD/DVD, dan perangkat fisik lainnya. Klik pada perangkat yang akan Anda periksa.</p></li>
 <li class="steps">
-<p class="p">The right pane provides a visual breakdown of the volumes and
-    partitions present on the selected device. It also contains a variety of
-    tools used to manage these volumes.</p>
+<p class="p">Di panel kanan, area berlabel <span class="gui">Volume</span> menyediakan rincian visual dari volumen dari partisi yang ada pada perangkat yang dipilih. Itu juga memuat berbagai perkakas yang dipakai untuk mengelola volume ini.</p>
 <p class="p">Berhati-hatilah: mungkin saja menghapus sepenuhnya data pada disk Anda dengan utilitas ini.</p>
 </li>
 </ol></div></div></div>
-<p class="p">Your computer most likely has at least one <span class="em">primary</span> partition and a
- single <span class="em">swap</span> partition. The swap partition is used by the operating
- system for memory management, and is rarely mounted.  The primary partition
- contains your operating system, applications, settings, and personal files.
- These files can also be distributed among multiple partitions for security or
- convenience.</p>
-<p class="p">One primary partition must contain information that your computer uses to
-  start up, or <span class="em">boot</span>. For this reason it is sometimes called a boot
-  partition, or boot volume. To determine if a volume is bootable, select the
-  partition and click the menu button in the toolbar underneath the partition
-  list. Then, click <span class="gui">Edit Partition…</span> and look at its
-  <span class="gui">Flags</span>. External media such as USB drives and CDs may also contain
-  a bootable volume.</p>
+<p class="p">Komputer Anda kemungkinan besar memiliki setidaknya satu <span class="em">primer</span> partisi dan satu <span class="em">swap</span> partisi. Partisi swap digunakan oleh sistem operasi untuk manajemen memori, dan jarang dipasang. Partisi utama berisi sistem operasi, aplikasi, pengaturan, dan file pribadi. File-file ini juga dapat didistribusikan di antara beberapa partisi untuk keamanan atau kenyamanan.</p>
+<p class="p">Salah satu partisi utama harus berisi informasi yang menggunakan komputer Anda untuk memulai, atau <span class="em">boot</span>. Untuk alasan ini kadang-kadang disebut partisi boot, atau volume boot. Untuk menentukan apakah volume bisa dipakai boot, pilih partisi dan klik tombol menu pada bilah alat di bawah daftar partisi. Lalu klik <span class="gui">Sunting Partisi...</span> dan lihat pada <span class="gui">Bendera</span> . Media eksternal seperti USB drive dan CD juga mengandung volume yang bisa dipakai boot.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -126,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

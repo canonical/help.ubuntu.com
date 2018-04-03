@@ -80,14 +80,15 @@
 <div class="hgroup"><h1 class="title"><span class="title">Använd alternativa tangentbordslayouter</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Tangentbord finns i hundratals olika layouter för olika språk. Även för ett och samma språk finns det ofta flera tangentbordslayouter, som Dvorak-layout för svenska. Du kan få ditt tangentbord att bete sig som ett tangentbord med en annan layout, oavsett vilka bokstäver och symboler som finns tryckta på tangenterna. Använd det här om du ofta behöver växla mellan flera språk.</p>
+<p class="p">Tangentbord levereras i hundratals olika layouter för olika språk. Ofta finns det till och med flera tangentbordslayouter för ett och samma språk, exempelvis Dvorak-layouten för engelska. Du kan få ditt tangentbord att bete sig som ett tangentbord med en annan layout, oavsett bokstäverna och symbolerna som står skrivna på tangenterna. Detta är användbart om du ofta växlar mellan flera språk.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Region &amp; språk</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Region &amp; språk</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">+</span>-knappen i avsnittet <span class="gui">Inmatningskällor</span>, välj språket som är associerat med layouten, välj sedan en layout och tryck på <span class="gui">Add</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Några varianter av tangentbordslayouter som används sällan ingår inte som standard i listan över tillgängliga inmatningskällor när du klickar på <span class="gui">+</span>-knappen. För att utöka listan kan du öppna ett terminalfönster genom att trycka på <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> och köra det här kommandot:</p>
+<p class="p">Om det finns flera användarkonton på ditt system finns det en separat instans av panelen <span class="gui">Region &amp; språk</span> för inloggningsskärmen. Klicka på <span class="gui">Inloggningsskärm</span>-knappen längst upp till höger för att växla mellan de två instanserna.</p>
+<p class="p">Några sällan använda varianter av tangentbordslayout finns inte tillgängliga som standard då du klickar på <span class="gui">+</span>-knappen. För att även göra dessa inmatningskällor tillgängliga kan du öppna ett terminalfönster genom att trycka ned <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> och köra detta kommando:</p>
 <p class="p"><span class="cmd">gsettings set org.gnome.desktop.input-sources show-all-sources true</span></p>
 </div></div></div></div>
 <div class="note note-sidebar" title="Sidopanel"><div class="inner"><div class="region"><div class="contents"><p class="p">Du kan förhandsgranska en bild av vilken layout som helst genom att välja den i listan av <span class="gui">Inmatningskällor</span> och klicka på <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="förhandsgranska"></span></span></span></p></div></div></div></div>
@@ -129,7 +130,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

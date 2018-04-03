@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.he" title="Get more help">Get more help</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Report a problem in Ubuntu</span></h1></div>
@@ -113,16 +113,16 @@ repositories. In this case, you cannot use Ubuntu's built-in bug reporting tool.
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.he" title="Get more help">Get more help</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html.he" title="About this guide">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html.he" title="Participate to improve this guide">help improve this guide</a></span>…
+<a href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a><span class="desc"> — 
+        <span class="link"><a href="about-this-guide.html.he" title="מידע על מדריך זה">Tips on using this guide</a></span>,
+        <span class="link"><a href="get-involved.html.he" title="ניתן להשתתף כדי לשפר את המדריך הזה">help improve this guide</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">עיון נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="get-involved.html.he" title="Participate to improve this guide">Participate to improve this guide</a><span class="desc"> — How and where to report problems with these help topics.</span>
+<a href="get-involved.html.he" title="ניתן להשתתף כדי לשפר את המדריך הזה">ניתן להשתתף כדי לשפר את המדריך הזה</a><span class="desc"> — איך והיכן לדווח על בעיות עם נושאי עזרה אלה.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -134,7 +134,7 @@ repositories. In this case, you cannot use Ubuntu's built-in bug reporting tool.
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

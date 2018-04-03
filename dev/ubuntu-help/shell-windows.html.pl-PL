@@ -64,33 +64,26 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Okna i obszary robocze</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Like other desktops, GNOME uses windows to display your running
-  applications. Using both the <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span>
-  overview and the <span class="em">dash</span>, you can launch new applications and control
-  active windows.</p>
-<p class="p">You can also group your applications together within workspaces. Visit the
-  window and workspace help topics below to better learn how to use these
-  features.</p>
+<p class="p">Podobnie jak inne środowiska, GNOME używa okien do wyświetlania uruchomionych programów. Za pomocą <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekranu podglądu</a></span> i <span class="em">paska ulubionych</span> można uruchamiać nowe programy i kontrolować aktywne okna.</p>
+<p class="p">Można także grupować programy w obszarach roboczych. Pomoc na temat okien i obszarów roboczych dostępna poniżej zawiera informacje o tym, jak używać tych funkcji.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Praca z oknami</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.pl-PL" title="Find a lost window"><span class="title">Find a lost window</span><span class="linkdiv-dash"> — </span><span class="desc">Check the <span class="gui">Activities</span> overview or other workspaces.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.pl-PL" title="Maksymalizowanie i cofanie maksymalizacji okna"><span class="title">Maksymalizowanie i cofanie maksymalizacji okna</span><span class="linkdiv-dash"> — </span><span class="desc">Double-click or drag a titlebar to maximize or restore a
-    window.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.pl-PL" title="Przenoszenie i zmienianie rozmiaru okien"><span class="title">Przenoszenie i zmienianie rozmiaru okien</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange windows in a workspace to help you work more
-    efficiently.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.pl-PL" title="Maksymalizowanie i cofanie maksymalizacji okna"><span class="title">Maksymalizowanie i cofanie maksymalizacji okna</span><span class="linkdiv-dash"> — </span><span class="desc">Podwójne kliknięcie lub przeciągnięcie paska tytułu, aby zmaksymalizować lub przywrócić okno.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.pl-PL" title="Odnajdywanie zgubionego okna"><span class="title">Odnajdywanie zgubionego okna</span><span class="linkdiv-dash"> — </span><span class="desc">Sprawdź <span class="gui">ekran podglądu</span> i inne obszary robocze.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.pl-PL" title="Przenoszenie i zmienianie rozmiaru okien"><span class="title">Przenoszenie i zmienianie rozmiaru okien</span><span class="linkdiv-dash"> — </span><span class="desc">Porządkowanie okien na obszarze roboczym, aby wydajniej pracować.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.pl-PL" title="Przełączanie między oknami"><span class="title">Przełączanie między oknami</span><span class="linkdiv-dash"> — </span><span class="desc">Naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.pl-PL" title="Tile windows"><span class="title">Tile windows</span><span class="linkdiv-dash"> — </span><span class="desc">Maximize two windows side-by-side.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.pl-PL" title="Układanie okien"><span class="title">Układanie okien</span><span class="linkdiv-dash"> — </span><span class="desc">Maksymalizowanie dwóch okien obok siebie.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -98,11 +91,10 @@
 <div class="hgroup"><h2 class="title"><span class="title">Używanie obszarów roboczych</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.pl-PL" title="What is a workspace, and how will it help me?"><span class="title">What is a workspace, and how will it help me?</span><span class="linkdiv-dash"> — </span><span class="desc">Obszary robocze są sposobem na grupowanie okien na pulpicie.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.pl-PL" title="Move a window to a different workspace"><span class="title">Move a window to a different workspace</span><span class="linkdiv-dash"> — </span><span class="desc">Go to the <span class="gui">Activities</span> overview and drag the window to a
-    different workspace.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.pl-PL" title="Czym są obszary robocze i do czego mogę je używać?"><span class="title">Czym są obszary robocze i do czego mogę je używać?</span><span class="linkdiv-dash"> — </span><span class="desc">Obszary robocze są sposobem na grupowanie okien na pulpicie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.pl-PL" title="Przenoszenie okna do innego obszaru roboczego"><span class="title">Przenoszenie okna do innego obszaru roboczego</span><span class="linkdiv-dash"> — </span><span class="desc">Przejdź do <span class="gui">ekranu podglądu</span> i przeciągnij okno na inny obszar roboczy.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.pl-PL" title="Przełączanie między obszarami roboczymi"><span class="title">Przełączanie między obszarami roboczymi</span><span class="linkdiv-dash"> — </span><span class="desc">Use the workspace selector.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.pl-PL" title="Przełączanie między obszarami roboczymi"><span class="title">Przełączanie między obszarami roboczymi</span><span class="linkdiv-dash"> — </span><span class="desc">Używanie przełącznika obszarów roboczych.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -119,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

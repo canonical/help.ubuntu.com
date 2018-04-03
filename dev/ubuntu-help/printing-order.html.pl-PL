@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Make pages print in a different order</title>
+<title>Drukowanie stron w innej kolejności</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html.pl-PL" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html.pl-PL#paper" title="Różne rozmiary i układy papieru">Rozmiary i układy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="printing.html.pl-PL" title="Drukowanie">Drukowanie</a> › <a class="trail" href="printing.html.pl-PL#paper" title="Różne rozmiary i układy papieru">Rozmiary i układy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Make pages print in a different order</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Drukowanie stron w innej kolejności</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="reverse" class="sect"><div class="inner">
@@ -77,10 +77,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Aby odwrócić kolejność:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print
-        dialog.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">General</span> tab, under <span class="gui">Copies</span>, check
-        <span class="gui">Reverse</span>. The last page will be printed first, and so on.</p></li>
+<li class="steps"><p class="p">Naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>, aby otworzyć okno wydruku.</p></li>
+<li class="steps"><p class="p">W karcie <span class="gui">Ogólne</span>, sekcji <span class="gui">Kopie</span>, zaznacz opcję <span class="gui">Odwrotnie</span>. Ostatnia strona zostanie wydrukowana najpierw, i tak dalej.</p></li>
 </ol></div>
 </div></div>
 </div></div>
@@ -88,18 +86,12 @@
 <div id="collate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Segregowanie</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you are printing more than one copy of the document, the print-outs
-  will be grouped by page number by default (that is, all of the copies of page
-  one come out, then the copies of page two, and so on). <span class="em">Collating</span>
-  will make each copy come out with its pages grouped together in the right
-  order instead.</p>
+<p class="p">Jeśli drukowana jest więcej niż jedna kopia dokumentu, to domyślnie kartki będą grupowane według numerów stron (tzn. najpierw wszystkie kopie pierwszej strony, potem kopie drugiej strony itd.). <span class="em">Segregowanie</span> spowoduje drukowanie każdej kopii z jej stronami w jednej grupie we właściwej kolejności.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Aby posegregować:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print
-     dialog.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">General</span> tab, under <span class="gui">Copies</span>, check
-      <span class="gui">Collate</span>.</p></li>
+<li class="steps"><p class="p">Naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>, aby otworzyć okno wydruku.</p></li>
+<li class="steps"><p class="p">W karcie <span class="gui">Ogólne</span>, sekcji <span class="gui">Kopie</span>, zaznacz opcję <span class="gui">Posegregowane</span>.</p></li>
 </ol></div>
 </div></div>
 </div></div>
@@ -118,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

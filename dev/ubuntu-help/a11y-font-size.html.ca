@@ -70,21 +70,15 @@
 <div class="hgroup"><h1 class="title"><span class="title">Canviar la mida del text a la pantalla</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have difficulty reading the text on your screen, you can change the
-  size of the font.</p>
+<p class="p">Si teniu dificultats per llegir el text a la vostra pantalla podeu canviar la mida del tipus de lletra.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Obriu la descripció general de les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span>  i comenceu a escriure  <span class="gui">Accés Universal</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per obrir el quadre.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Large Text</span> to <span class="gui">ON</span> in the <span class="gui">Seeing</span>
-      section.</p></li>
+<li class="steps"><p class="p">Canvieu el <span class="gui">Text gran </span> a <span class="gui">ON</span> a la secció <span class="gui">Vista</span>.</p></li>
 </ol></div></div></div>
 <p class="p">També podeu canviar ràpidament la mida del text si feu clic a la <span class="link"><a href="a11y-icon.html.ca" title="Trobar el menú d'accés universal">icona d'accessibilitat</a></span> de la barra superior i trieu <span class="gui">Text gran</span>.</p>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">In many applications, you can increase the text size at any time by
-    pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. To reduce the text
-    size, press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
-<p class="p"><span class="gui">Large Text</span> will scale the text by 1.2 times. You can use
-  <span class="app">Tweaks</span> to make text size bigger or smaller.</p>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">A moltes aplicacions, podeu augmentar la mida del text en qualsevol moment prement <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. Per reduir la mida del text premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div></div>
+<p class="p"><span class="gui">Text gran</span> escalarà el text 1,2 vegades. Podeu utilitzar <span class="app">Ajustos</span> per fer el text més gran o més petit.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -100,7 +94,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

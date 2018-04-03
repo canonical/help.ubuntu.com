@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Link and unlink contacts</title>
+<title>Łączenie i rozłączanie kontaktów</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,43 +64,34 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="contacts.html.pl-PL" title="Kontakty">Kontakty</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="contacts.html.pl-PL" title="Kontakty">Kontakty</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Link and unlink contacts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Łączenie i rozłączanie kontaktów</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="link-contacts" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Link contacts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Łączenie kontaktów</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can combine duplicate contacts from your local address book and online
-  accounts into one <span class="app">Contacts</span> entry. This feature helps you keep your
-  address book organized, with all details about one contact in one place.</p>
+<p class="p">Można łączyć podwójne kontakty z lokalnej książki adresowej i kont online w jeden wpis w programie <span class="app">Kontakty</span>. Ta funkcja pomaga organizować książkę adresową, umieszczając wszystkie informacje o kontakcie w jednym miejscu.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Enable <span class="em">selection mode</span> by pressing the tick button above the
-      contact list.</p></li>
-<li class="steps"><p class="p">A checkbox will appear next to each contact. Tick the checkboxes next
-      to the contacts that you want to merge.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Link</span> to link the selected
-      contacts.</p></li>
+<li class="steps"><p class="p">Włącz <span class="em">tryb zaznaczania</span> klikając przycisk z haczykiem nad listą kontaktów.</p></li>
+<li class="steps"><p class="p">Obok każdego kontaktu pojawi się pole wyboru. Zaznacz pola obok kontaktów do połączenia.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Powiąż</span>, aby połączyć zaznaczone kontakty.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="unlink-contacts" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Unlink contacts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Rozłączanie kontaktów</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You may want to unlink contacts if you accidentally linked contacts which
-  should not be linked.</p>
+<p class="p">Można rozłączyć kontakty, jeśli zostały połączone przez przypadek.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the contact you wish to unlink from your list of contact.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Edit</span> in the top-right corner of
-      <span class="app">Contacts</span>.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Linked Accounts</span>.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlink</span> to unlink the entry from the
-      contact.</p></li>
-<li class="steps"><p class="p">Close the window once you have finished unlinking the entries.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Done</span> to finish editing the
-      contact.</p></li>
+<li class="steps"><p class="p">Wybierz kontakt do rozłączenia z listy kontaktów.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Modyfikuj</span> w górnym prawym rogu programu <span class="app">Kontakty</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Powiązane konta</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Usuń powiązanie</span>, aby rozłączyć wpis z kontaktu.</p></li>
+<li class="steps"><p class="p">Zamknij okno po ukończeniu rozłączania wpisów.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Gotowe</span>, aby ukończyć modyfikowanie kontaktu.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -120,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

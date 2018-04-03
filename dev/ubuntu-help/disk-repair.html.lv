@@ -2,7 +2,7 @@
 <html lang=lv>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Repair a damaged filesystem</title>
+<title>Salabot bojātu datņu sistēmu</title>
 <link rel="stylesheet" type="text/css" href="lv.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,81 +67,46 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="disk.html.lv" title="Diski un uzglabāšana">Diski un uzglabāšana</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Repair a damaged filesystem</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Salabot bojātu datņu sistēmu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Filesystems can be corrupted due to unexpected power loss, system crashes
-     and unsafe removal of the drive.
-     After such an incident it is recommended to <span class="em">repair</span> or at least
-     <span class="em">check</span> the filesystem to prevent future data loss.</p>
-<p class="p">Sometimes a repair is required in order to mount or modify a filesystem.
-     Even if a <span class="em">check</span> does not report any damage the filesystem might
-     still be marked as 'dirty' internally and require a repair.</p>
+<p class="p">Datņu sistēma var tik sabojāta dēļ negaidīta strāvas zuduma, sistēmas avārijas vai nedrošas dziņa izņemšanas. Pēc tāda incidenta ir vēlams <span class="em">salabot</span> vai vismaz <span class="em">pārbaudīt</span> datņu sistēmu, lai novērstu datu zudumu nākotnē.</p>
+<p class="p">Dažkārt ir nepieciešama labošana, lai montētu vai modificētu datņu sistēmu. Pat ja <span class="em">pārbaudīšana</span> neziņo ne par kādiem bojājumiem, datņu sistēma vēl aizvien varētu iekšēji tikt marķēta kā “netīra” un tā būtu jālabo.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Check if a filesystem is damaged</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Pārbaudīt vai datņu sistēma ir bojāta</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet lietotni <span class="app">Diski</span> no <span class="gui">Aktivitāšu</span> pārskata.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list of
-       storage devices on the left. If there is more than one volume on the
-       disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Check Filesystem…</span>.</p></li>
+<li class="steps"><p class="p">Izvēlieties disku, kurš satur vajadzīgo datņu sistēmu, no krātuvju ierīču saraksta pa kreisi. Ja uz diska ir vairāk kā viens sējums, izvēlieties to sējumu, kurš satur vajadzīgo datņu sistēmu.</p></li>
+<li class="steps"><p class="p">Rīkjoslā zem <span class="gui">Sējumu</span> sadaļas spiediet izvēlnes pogu. Tad spiediet <span class="gui">Pārbaudīt datņu sistēmu…</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a check may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
-<p class="p">The action will not modify the filesystem but will unmount it if needed.
-      Be patient while the filesystem is checked.</p>
+<p class="p">Atkarībā no tā, cik daudz dati ir saglabāti datņu sistēmā, pārbaude var aizņemt vairāk laika. Apstipriniet darbības sākumu uznirstošajā dialoglodziņā.</p>
+<p class="p">Darbība nemodificēs datņu sistēmu, bet to atmontēs, ja tas ir nepieciešams. Datņu sistēmas pārbaude var aizņemt daudz laika.</p>
 </li>
-<li class="steps"><p class="p">After completion you will be notified whether the filesystem is damaged.
-       Note that in some cases even if the filesystem is undamaged it still
-       may need to be repaired to reset an internal 'dirty' marker.</p></li>
+<li class="steps"><p class="p">Pēc pabeigšanas jums paziņos, vai datņu sistēma ir bojāta. Ņemiet vērā, ka dažos gadījumos datņu sistēma varētu būt nebojāta, bet to tāpat vajadzētu salabot, lai atiestatītu iekšējo marķieri “netīra”.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Brīdinājums"><div class="inner">
-<div class="title title-note"><h2><span class="title">Possible data loss when repairing</span></h2></div>
+<div class="title title-note"><h2><span class="title">Iespējamie datu zudumi labojot</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the filesystem structure is damaged it can affect the files stored
-     in it. In some cases these files can not be brought into a valid form
-     again and will be deleted or moved to a special directory. It is normally
-     the <span class="em">lost+found</span> folder in the top level directory of the filesystem
-     where these recovered file parts can be found.</p>
-<p class="p">If the data is too valuable to be lost during this process, you are
-     advised to back it up by saving an image of the volume before
-     repairing.</p>
-<p class="p">This image can be then processed with forensic analysis tools like
-     <span class="app">sleuthkit</span> to further recover missing files and data parts
-     which were not restored during the repair, and also previously removed
-     files.</p>
+<p class="p">Ja datņu sistēmas struktūra ir bojāta, tas var ietekmēt tajā saglabātās datnes. Dažos gadījumos šīs datnes vairs nevar atjaunot derīgā formā un tās tiks izdzēstas vai pārvietotas uz īpašu direktoriju. Parasti atgūtās datņu daļas ir atrodamas mapē <span class="em">lost+found</span> augšējā līmeņa direktorijā datņu sistēmā.</p>
+<p class="p">Ja dati ir pārāk vērtīgi, lai tos pazaudētu šajā procesā, vēlams tos dublēt, pirms labošana saglabājot sējuma attēlu.</p>
+<p class="p">Šo attēlu tad var apstrādāt ar izmeklēšanas analīzes rīkiem, piemēram, <span class="app">sleuthkit</span>, lai atrastu vēl vairāk pazudušu datņu un to daļas, kas netika atrastas labošanas laikā, kā arī iepriekš dzēstas datnes.</p>
 </div></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Repair a filesystem</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Salabot datņu sistēmu</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet lietotni <span class="app">Diski</span> no <span class="gui">Aktivitāšu</span> pārskata.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
-       of storage devices on the left. If there is more than one volume on
-       the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Repair Filesystem…</span>.</p></li>
+<li class="steps"><p class="p">Izvēlieties disku, kurš satur vajadzīgo datņu sistēmu, no krātuvju ierīču saraksta pa kreisi. Ja uz diska ir vairāk kā viens sējums, izvēlieties to sējumu, kurš satur vajadzīgo datņu sistēmu.</p></li>
+<li class="steps"><p class="p">Rīkjoslā zem <span class="gui">Sējumu</span> sadaļas spiediet izvēlnes pogu. Tad spiediet <span class="gui">Salabot datņu sistēmu…</span>.</p></li>
 <li class="steps">
-<p class="p">Depending on how much data is stored in the filesystem a repair may take
-       longer time. Confirm to start the action in the dialog that pops up.</p>
-<p class="p">The action will unmount the filesystem if needed. The repair action tries
-   to bring the filesystem into a consistent state and moves files which were
-   damaged in a special folder. Be patient while the filesystem is
-   repaired.</p>
+<p class="p">Atkarībā no tā, cik daudz dati ir saglabāti datņu sistēmā, labošana var aizņemt vairāk laika. Apstipriniet darbības sākumu uznirstošajā dialoglodziņā.</p>
+<p class="p">Darbība atmontēs datņu sistēmu, ja nepieciešams. Labošanas darbība mēģinās novest datņu sistēmu konsekventā stāvoklī un pārvietos uz īpašu mapi bojātās datnes. Datņu sistēmas labošana var aizņemt daudz laika.</p>
 </li>
 <li class="steps">
-<p class="p">After completion you will be notified whether the filesystem could be
-       successfully repaired. In case of success it can be used again in the
-       normal way.</p>
-<p class="p">If the filesystem could not be repaired, back it up by saving an image
-       of the volume to be able to retrieve important files later. This can
-       be done by mounting the image read-only or using forensic analysis tools
-       like <span class="app">sleuthkit</span>.</p>
-<p class="p">To make use of the volume again it has to be
-       <span class="link"><a href="disk-format.html.lv" title="Notīriet visu no izņemamā diska">formatted</a></span> with a new filesystem. All
-       data will be discarded.</p>
+<p class="p">Pēc pabeigšanas jums paziņos, vai datņu sistēmu varēja veiksmīgi salabot. Veiksmes gadījumā to atkal varēs lietot normāli.</p>
+<p class="p">Ja datņu sistēmu nevar salabot, izveidojiet tās rezerves kopiju, saglabājot sējuma attēlu, no kura vēlāk varēsiet vēlāk iegūt svarīgās datnes. To var izdarīt, montējot attēlu tikai lasīšanas režīmā un izmantojot izmeklēšanas rīkus, kā piemēram <span class="app">sleuthkit</span>.</p>
+<p class="p">Lai atkal izmantotu visu sējumu, tam ir jābūt <span class="link"><a href="disk-format.html.lv" title="Notīriet visu no izņemamā diska">formatētam</a></span> ar jaunu datņu sistēmu. Visi dati tiks izmesti.</p>
 </li>
 </ol></div>
 </div></div>
@@ -162,7 +127,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

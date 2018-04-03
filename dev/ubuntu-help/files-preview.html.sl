@@ -70,6 +70,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Predogled datotek in map</span></h1></div>
 <div class="region">
 <div class="contents">
+<div class="note note-important" title="Pomembno"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Sushi</span> installed on your computer to perform
+  these steps.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Install <span class="app">Sushi</span></a></span></p>
+</div></div></div></div>
 <p class="p">Predogled datotek lahko vidite brez odpiranja v namenskem programu. Izberite katerokoli datoteko in pritisnite preslednico. Datoteka se bo odprla v oknu predogleda. Za zaprtje predogleda ponovno pritisnite preslednico.</p>
 <p class="p">Vgrajeni predogled podpira večino vrst datotek za dokumente, slike, video in zvok. V predogledu lahko drsate med dokumenti ali iščete po videu ali zvoku.</p>
 <p class="p">To view a preview full-screen, press <span class="key"><kbd>F</kbd></span> or <span class="key"><kbd>F11</kbd></span>. Press
@@ -98,7 +103,7 @@ bar to exit the preview completely.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

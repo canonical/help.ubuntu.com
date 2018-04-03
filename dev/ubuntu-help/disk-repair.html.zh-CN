@@ -76,7 +76,7 @@
      <span class="em">check</span> the filesystem to prevent future data loss.</p>
 <p class="p">Sometimes a repair is required in order to mount or modify a filesystem.
      Even if a <span class="em">check</span> does not report any damage the filesystem might
-     still be marked as 'dirty' internally and require a repair.</p>
+     still be marked as ‘dirty’ internally and require a repair.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Check if a filesystem is damaged</span></h2></div>
 <div class="region"><ol class="steps">
@@ -94,7 +94,7 @@
 </li>
 <li class="steps"><p class="p">After completion you will be notified whether the filesystem is damaged.
        Note that in some cases even if the filesystem is undamaged it still
-       may need to be repaired to reset an internal 'dirty' marker.</p></li>
+       may need to be repaired to reset an internal ‘dirty’ marker.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="警告"><div class="inner">
@@ -162,7 +162,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

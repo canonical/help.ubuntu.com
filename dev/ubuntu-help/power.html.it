@@ -76,12 +76,11 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.it" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.it" title="Come faccio a ibernare il mio computer?"><span class="title">Come faccio a ibernare il mio computer?</span><span class="linkdiv-dash"> — </span><span class="desc">L'ibernazione è disabilitata per impostazione predefinita poiché non è pienamente supportata.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.it" title="Cosa succede quando si sospende il computer?"><span class="title">Cosa succede quando si sospende il computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Con la sospensione il computer si mette in pausa in modo da usare meno energia.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.it" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Imparare come terminare la sessione, cambiare utente e altro.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.it" title="Ottenere il massimo dalla batteria del portatile"><span class="title">Ottenere il massimo dalla batteria del portatile</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.it" title="Ottenere il massimo dalla batteria del portatile"><span class="title">Ottenere il massimo dalla batteria del portatile</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.it" title="Perché il computer si spegne se chiudo il coperchio?"><span class="title">Perché il computer si spegne se chiudo il coperchio?</span><span class="linkdiv-dash"> — </span><span class="desc">Il computer portatile, per risparmiare energia, va in sospensione se viene chiuso il coperchio.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.it" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.it" title="Usare meno energia e aumentare la durata della batteria"><span class="title">Usare meno energia e aumentare la durata della batteria</span><span class="linkdiv-dash"> — </span><span class="desc">Tips to reduce the power consumption of your computer.</span></a></div>
@@ -172,7 +171,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

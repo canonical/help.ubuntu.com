@@ -76,9 +76,9 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Мрежа</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Мрежа</span> да отворите панел.</p></li>
-<li class="steps"><p class="p">У левом окну, изаберите мрежну везу за коју желите да има сталну адресу. Ако се каблом прикључите на мрежу, кликните <span class="gui">Жичана</span>, затим кликните на дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> у доњем десном углу панела. За <span class="gui">Бежичну</span> везу, дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> ће се налазити поред радне мреже.</p></li>
+<li class="steps"><p class="p">У левом окну, изаберите мрежну везу којој желите да доделите сталну адресу. Ако се каблом прикључите на мрежу, кликните <span class="gui">Жичана</span>, затим кликните на дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> у доњем десном углу панела. За <span class="gui">Бежичну</span> везу, дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> ће се налазити поред радне мреже.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">ИПв4</span> или <span class="gui">ИПв6</span> у левом окну и измените <span class="gui">Адресе</span> на <span class="em">Ручно</span>.</p></li>
-<li class="steps"><p class="p">Укуцајте <span class="gui"><a href="net-what-is-ip-address.html.sr" title="Шта је то ИП адреса?">ИП адресу</a></span> и <span class="gui">Мрежни пролаз</span>, као и одговарајућу <span class="gui">Мрежну маску</span>.</p></li>
+<li class="steps"><p class="p">Укуцајте <span class="gui"><a href="net-what-is-ip-address.html.sr" title="Шта је то ИП адреса?">Адресу</a></span> и <span class="gui">Мрежни пролаз</span>, као и одговарајућу <span class="gui">Мрежну маску</span>.</p></li>
 <li class="steps"><p class="p">У одељку <span class="gui">ДНС</span>, пребаците <span class="gui">Самостално</span> на <span class="gui">ИСКЉ.</span>. Унесите ИП адресу ДНС сервера који желите да користите. Унесите додатне адресе ДНС сервера користећи дугме <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">У одељку <span class="gui">Руте</span>, пребаците <span class="gui">Самостално</span> на <span class="gui">ИСКЉ.</span>. Унесите <span class="gui">Адресу</span>, <span class="gui">Мрежну маску</span>, <span class="gui">Мрежни пролаз</span> и <span class="gui">Метрички</span> за руту коју желите да користите. Унесите додатне руте користећи дугме <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Примени</span>. Мрежна веза ће сада имати сталну ИП адресу.</p></li>
@@ -109,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

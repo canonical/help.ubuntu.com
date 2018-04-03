@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.fi" title="Työpöytäsi">Työpöytä</a> › <a class="trail" href="shell-overview.html.fi#desktop" title="Mukauta työpöytääsi">Mukauta työpöytääsi</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="shell-overview.html.fi" title="Työpöytäsi">Työpöytä</a> › <a class="trail" href="shell-overview.html.fi#desktop" title="Mukauta työpöytääsi">Mukauta työpöytääsi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ilmoitukset ja viestialue</span></h1></div>
@@ -75,8 +75,7 @@
 <div class="region"><div class="contents">
 <p class="p">If an application or a system component wants to get your attention, a
   notification will be shown at the top of the screen.</p>
-<p class="p">For example, if you get a new chat message or a new email, you will get a
-  notification informing you.</p>
+<p class="p">Jos esimerkiksi saat uuden pikaviestimen viestin tai sähköpostin, sinulle näytetään ilmoitus.</p>
 <p class="p">Other notifications have selectable option buttons. To close one of these
   notifications without selecting one of its options, click the close
   button.</p>
@@ -105,12 +104,11 @@
 <div id="hidenotifications" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ilmoitusten piilottaminen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you’re working on something and do not want to be bothered, you can
-  switch off notifications.</p>
+<p class="p">Jos työskentelet, etkä halua tulla häirityksi, voit poistaa ilmoitukset käytöstä.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Notifications</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Notifications</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Ilmoitukset</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Notification Banners</span> to <span class="gui">OFF</span>.</p></li>
 </ol></div></div></div>
 <p class="p">When switched off, most notifications
@@ -137,7 +135,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

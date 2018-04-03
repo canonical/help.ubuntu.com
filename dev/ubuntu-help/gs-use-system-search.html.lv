@@ -75,7 +75,7 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Atveriet <span class="gui">Aktivitāšu pārlūku</span>, spiežot taustiņu <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Sāciet rakstīt, lai meklētu.</p>
+<p class="p">Atveriet <span class="gui">Aktivitāšu</span> pārskatu ekrāna augšējā kreisajās stūrī, vai spiežot taustiņu <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Sāciet rakstīt, lai meklētu.</p>
 <p class="p">Rezultāti, kas atbilst ierakstītajam, parādīsies rakstīšanas laikā.Pirmais rezultāts vienmēr ir izcelts un atrodas augšpusē.</p>
 <p class="p">Spiediet <span class="key"><kbd>Enter</kbd></span>, lai pārslēgtos uz pirmo izcelto rezultātu.</p>
 </li></ol></div></div></div>
@@ -86,8 +86,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">atbilstošās lietotnes, kas būs meklēšanas rezultātu augšpusē,</p></li>
 <li class="list"><p class="p">atbilstošie iestatījumi,</p></li>
-<li class="list"><p class="p">atbilstošie kontakti un</p></li>
-<li class="list"><p class="p">atbilstošie dokumenti.</p></li>
+<li class="list"><p class="p">atbilstošie kontakti,</p></li>
+<li class="list"><p class="p">atbilstošie dokumenti,</p></li>
+<li class="list"><p class="p">atbilstošie kalendāri,</p></li>
+<li class="list"><p class="p">atbilstošie kalkulatori,</p></li>
+<li class="list"><p class="p">atbilstošā programmatūra,</p></li>
+<li class="list"><p class="p">atbilstošās datnes,</p></li>
+<li class="list"><p class="p">atbilstošie termināļi,</p></li>
+<li class="list"><p class="p">atbilstās paroles un atslēgas.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +116,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Spiediet <span class="gui"><a href="shell-introduction.html.lv#yourname" title="Jūs un jūsu dators">sistēmas izvēlni</a></span> augšējās joslas labajā pusē.</p></li>
 <li class="steps"><p class="p">Spiediet iestatījumu pogu izvēlnes apakšā pa kreisi.</p></li>
-<li class="steps"><p class="p">Spiediet paneli <span class="gui">Meklēšana</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Meklēt</span> kreisajā panelī.</p></li>
 <li class="steps"><p class="p">Meklēšanas vietu sarakstā, spiediet uz slēdža, kas ir pie meklēšanas vietas, kuru vēlaties aktivēt vai deaktivēt.</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

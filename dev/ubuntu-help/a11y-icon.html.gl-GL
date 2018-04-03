@@ -77,9 +77,9 @@
 <div class="desc">O menú de acceso universal pódese encontrar na barra superior.</div>
 </div>
 </div></div>
-<p class="p">Se non ve o menú de menú de acceso universal, pode activalo desde o panel de <span class="gui">Acceso Universal</span>.</p>
+<p class="p">Se non ve o menú de menú de acceso universal, pode activalo desde o panel de <span class="gui">Acceso Universal</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Prema sobre <span class="gui">Acceso universal</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Troque <span class="gui">Mostrar sempre o menú de acceso universal</span> a <span class="gui">I</span>.</p></li>
 </ol></div></div></div>
@@ -101,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

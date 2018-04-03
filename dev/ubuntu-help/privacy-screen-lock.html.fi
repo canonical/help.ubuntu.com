@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="privacy.html.fi" title="Yksityisyysasetukset">Yksityisyysasetukset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="privacy.html.fi" title="Yksityisyysasetukset">Yksityisyysasetukset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Näytön automaattinen lukitseminen</span></h1></div>
@@ -85,7 +85,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Yksityisyys</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Screen Lock</span>.</p></li>
 <li class="steps"><p class="p">Make sure <span class="gui">Automatic Screen Lock</span> is switched <span class="gui">ON</span>,
       then select a length of time from the drop-down list.</p></li>
@@ -108,15 +108,14 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html.fi" title="Yksityisyysasetukset">Yksityisyysasetukset</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.fi" title="Näytön automaattinen lukitseminen">Screen lock</a></span>, <span class="link"><a href="privacy-history-recent-off.html.fi" title="Turn off or limit file history tracking">käyttöhistoria</a></span>, <span class="link"><a href="privacy-purge.html.fi" title="Purge trash &amp; temporary files">tyhjennä roskakori ja väliaikaiset tiedostot</a></span>…</span>
+<a href="privacy.html.fi" title="Yksityisyysasetukset">Yksityisyysasetukset</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.fi" title="Näytön automaattinen lukitseminen">Näytön lukitseminen</a></span>, <span class="link"><a href="privacy-history-recent-off.html.fi" title="Sammuta tai rajoita tiedostohistorian seurantaa">käyttöhistoria</a></span>, <span class="link"><a href="privacy-purge.html.fi" title="Hävitä roskakorin sisältö ja väliaikaiset tiedostot">tyhjennä roskakori ja väliaikaiset tiedostot</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html.fi" title="Näyttö lukitsee itsensä liian nopeasti">Näyttö lukitsee itsensä liian nopeasti</a><span class="desc"> — Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span>
+<a href="session-screenlocks.html.fi" title="Näyttö lukitsee itsensä liian nopeasti">Näyttö lukitsee itsensä liian nopeasti</a><span class="desc"> — Muuta näytön lukitsemisen aikarajaa <span class="gui">Yksityisyys</span>-asetuksista.</span>
 </li>
 <li class="links "><a href="shell-exit.html.fi#lock-screen" title="Näytön lukitseminen">Näytön lukitseminen</a></li>
 </ul></div>
@@ -130,7 +129,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -76,8 +76,8 @@
 <div class="contents">
 <p class="p">Lahko nastavite kateri programi naj se zaženejo ob prijavi zraven privzetih programov, ki jih je nastavil sistem.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Use the Dash to find and open
-      <span class="gui">Startup Applications</span>. Alternatively you can press
+<li class="steps"><p class="p">Open <span class="gui">Startup Applications</span> via the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview.
+      Alternatively you can press
       <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and run the
       <span class="cmd">gnome-session-properties</span> command.</p></li>
 <li class="steps"><p class="p">Kliknite <span class="gui">Dodaj</span> in vnesite ukaz, ki se bo izvedel ob prijavi (ime in komentar sta izbirni polji). Na primer, če želite samodejno zagnati Firefox je dovolj da vpišete <span class="cmd">firefox</span> v polje <span class="gui">Ukaz</span> in potrdite s klikom na <span class="gui">Dodaj</span>.</p></li>
@@ -103,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

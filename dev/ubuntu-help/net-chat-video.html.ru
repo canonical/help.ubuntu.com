@@ -69,16 +69,18 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Видеозвонки</span></h1></div>
 <div class="region">
-<div class="contents">
-<p class="p">Видеозвонки в Ubuntu можно осуществлять без установки каких-либо дополнительных программ с помощью <span class="app">Empathy</span> — через сети <span class="em">Google Talk</span>, <span class="em">MSN</span>, <span class="em">Jabber</span> и <span class="em">SIP</span>. Для справки о выполнении видеозвонков в <span class="app">Empathy</span> см. <span class="link"><a href="https://help.gnome.org/users/empathy/stable/audio-video" title="https://help.gnome.org/users/empathy/stable/audio-video">Руководство по Empathy</a></span>.</p>
-<div class="list"><div class="inner">
-<div class="title title-list"><h2><span class="title">Другие приложения, поддерживающие видеозвонки:</span></h2></div>
+<div class="contents"><div class="list"><div class="inner">
+<div class="title title-list"><h2><span class="title">Applications which support video calls include</span></h2></div>
 <div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="https://apps.ubuntu.com/cat/applications/skype" title="https://apps.ubuntu.com/cat/applications/skype">Skype</a></span></span></p></li>
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="https://apps.ubuntu.com/cat/applications/ekiga" title="https://apps.ubuntu.com/cat/applications/ekiga">Ekiga</a></span></span></p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="net-chat-empathy.html.ru" title="Мгновенные сообщения в Ubuntu">Empathy</a></span></span>
+    </p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="net-chat-skype.html.ru" title="Как я могу использовать Skype в Ubuntu?">Skype</a></span></span>
+    </p></li>
+<li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Ekiga</a></span></span></p></li>
 </ul></div>
-</div></div>
-</div>
+</div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
@@ -108,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

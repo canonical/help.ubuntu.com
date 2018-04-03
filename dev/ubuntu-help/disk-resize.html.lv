@@ -2,7 +2,7 @@
 <html lang=lv>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the size of a filesystem</title>
+<title>Pielāgot datņu sistēmas izmēru</title>
 <link rel="stylesheet" type="text/css" href="lv.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,49 +67,29 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="disk.html.lv" title="Diski un uzglabāšana">Diski un uzglabāšana</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Adjust the size of a filesystem</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Pielāgot datņu sistēmas izmēru</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A filesystem can be grown to make use of the free space after its
-     partition. Often this is even possible while the filesystem is
-     mounted.</p>
-<p class="p">To make space for another partition after the filesystem, it can be
-     shrunk according to the free space within it.</p>
-<p class="p">Not all filesystems have resize support.</p>
-<p class="p">The partition size will be changed together with the filesystem size.
-     It is also possible to resize a partition without a filesystem in the
-     same way.</p>
+<p class="p">Datņu sistēmu var palielināt, lai tā varētu izmantot vietu pēc tās nodalījuma. Nereti tas ir iespējams pat tad, ja datņu sistēma ir montēta.</p>
+<p class="p">Lai atbrīvotu vietu citam nodalījumam pēc datņu sistēmas, to var samazināt, ja tajā ir pietiekami daudz brīvas vietas.</p>
+<p class="p">Ne visas datņu sistēmas atbalsta izmēra maiņu.</p>
+<p class="p">Nodalījuma izmērs tiks mainīts kopā ar datņu sistēmas izmēru. Var arī mainīt nodalījuma izmēru, nemainot datņu sistēmas izmēru tādā pat veidā.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Resize a filesystem/partition</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Mainīt datņu sistēmas / nodalījuma izmēru</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet lietotni <span class="app">Diski</span> no <span class="gui">Aktivitāšu</span> pārskata.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
-       of storage devices on the left. If there is more than one volume on
-       the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-       menu button. Then click <span class="gui">Resize Filesystem…</span> or
-       <span class="gui">Resize…</span> if there is no filesystem.</p></li>
+<li class="steps"><p class="p">Izvēlieties disku, kurš satur vajadzīgo datņu sistēmu, no krātuvju ierīču saraksta pa kreisi. Ja uz diska ir vairāk kā viens sējums, izvēlieties to sējumu, kurš satur vajadzīgo datņu sistēmu.</p></li>
+<li class="steps"><p class="p">Rīkjoslā zem <span class="gui">Sējumu</span> sadaļas spiediet izvēlnes pogu. Tad spiediet <span class="gui">Mainīt datņu sistēmas izmēru…</span> vai <span class="gui">Mainīt izmēru…</span> ja tur nav datņu sistēmas.</p></li>
 <li class="steps">
-<p class="p">A dialog will open where the new size can be chosen. The filesystem will
-       be mounted to calculate the minimum size by the amount of current
-       content. If shrinking is not supported the minimum size is the current
-       size. Leave enough space within the filesystem when shrinking to ensure
-       that it can work fast and reliably.</p>
-<p class="p">Depending on how much data has to be moved from the shrunk part, the
-       filesystem resize may take longer time.</p>
-<div class="note note-warning" title="Brīdinājums"><div class="inner"><div class="region"><div class="contents"><p class="p">The filesystem resize automatically involves
-         <span class="link"><a href="disk-repair.html.lv" title="Repair a damaged filesystem">repairing</a></span> of the filesystem. Therefore
-         it is advised to back up important data before starting. The action
-         must not be stopped or it will result in a damaged filesystem.</p></div></div></div></div>
+<p class="p">Dialoglodziņš tiks atvērts, kur varēs izvēlēties jauno izmēru. Datņu sistēma tiks montēta, lai aprēķinātu minimālo izmēru, vadoties no esošā satura izmēra. Ja nav atbalstīta samazināšana, minimālais izmērs būs pašreizējais izmērs. Samazinot izmēru, atstājiet datņu sistēmā pietiekami daudz brīvas vietas, lai nodrošinātu, ka samazināšana notiks ātri no uzticami.</p>
+<p class="p">Atkarībā no tā, cik daudz dati ir jāpārvieto no samazinātās daļas, datņu sistēmas izmēra maiņa var aizņemt daudz laika.</p>
+<div class="note note-warning" title="Brīdinājums"><div class="inner"><div class="region"><div class="contents"><p class="p">Datņu sistēmas izmēra maiņa iekļauj arī datņu sistēmas <span class="link"><a href="disk-repair.html.lv" title="Salabot bojātu datņu sistēmu">labošanu</a></span>. Tāpēc vēlams izveidot rezerves kopijas svarīgajiem datiem. Šo darbību nevar apturēt, citādi tiks sabojāta datņu sistēma.</p></div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">Confirm to start the action by clicking
-         <span class="gui">Resize</span>.</p>
-<p class="p">The action will unmount the filesystem if resizing a mounted filesystem
-      is not supported. Be patient while the filesystem is resized.</p>
+<p class="p">Apstipriniet darbības sākumu, spiežot <span class="gui">Mainīt izmēru</span>.</p>
+<p class="p">Darbība atmontēs datņu sistēmu, ja montētas datņu sistēmas izmēra maiņa nav atbalstīta. Datņu sistēmas izmēra maiņa var aizņemt daudz laika.</p>
 </li>
-<li class="steps"><p class="p">After completion of the needed resize and repair actions the filesystem
-       is ready to be used again.</p></li>
+<li class="steps"><p class="p">Pēc izmēra maiņas un labošanas darbību pabeigšanas, datņu sistēma ir atkal gatava lietošanai.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -129,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

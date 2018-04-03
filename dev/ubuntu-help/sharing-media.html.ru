@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Просматривать, производить поиск в файлах мультимедиа и проигрывать мультимедия со своего компьютера можно с помощью устройств, поддерживающих <span class="sys">UPnP</span> или <span class="sys">DLNA</span>, такими, как смартфон, телевизор или игровая консоль. Настройте <span class="gui">Общий доступ к мультимедиа</span>, чтобы эти устройства имели доступ к вашим папкам, содержащим музыку, фото и видео.</p>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Чтобы параметр <span class="gui">Общий доступ к мультимедиа</span> стал видимым, в системе должен быть установлен пакет <span class="app">Rygel</span>.</p></div></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Чтобы параметр <span class="gui">Общий доступ к мультимедиа</span> стал видимым, в системе должен быть установлен пакет <span class="app">Rygel</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:rygel" title="apt:rygel">Установите Rygel</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Sharing</span>.</p></li>
@@ -125,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

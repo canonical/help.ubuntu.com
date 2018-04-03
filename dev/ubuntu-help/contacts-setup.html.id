@@ -70,17 +70,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Memulai Kontak untuk pertama kali</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you run <span class="app">Contacts</span> for the first time, the <span class="gui">Select
-  Address Book</span> window opens.</p>
-<p class="p">If you have <span class="link"><a href="accounts.html.id" title="Akun daring">online accounts</a></span> configured, they
-  are listed with <span class="gui">Local Address Book</span>. Select an item from the
-  list and click <span class="gui">Done</span>. All new contacts you create
-  will be saved to the address book you choose. You are also able to view and
-  edit contacts in other address books.</p>
-<p class="p">If you have no online accounts configured, click
-  <span class="gui">Online Accounts</span> to begin the setup. If you do not
-  wish to set up online accounts at this time, click <span class="gui">Local
-  Address Book</span>.</p>
+<p class="p">Ketika Anda menjalankan <span class="app">Kontak</span> untuk pertama kali, jendela <span class="gui">Pilih Buku Alamat</span> terbuka.</p>
+<p class="p">Bila <span class="link"><a href="accounts.html.id" title="Akun daring">akun daring</a></span> telah terkonfigurasi, mereka didaftar pada <span class="gui">Buku Alamat Lokal</span>. Pilih satu butir pada daftar dan klik <span class="gui">Selesai</span>. Semua kontak baru yang telah dibuat akan disimpan ke buku alamat yang Anda pilih. Anda juga dapat melihat atau mengubah kontak yang berada pada buku alamat yang lain.</p>
+<p class="p">Bila Anda belum mengkonfigurasi akun daring, klik <span class="gui">Akun Daring</span> untuk mulai menyiapkan. Bila Anda tak ingin menata akun daring saat ini, klik <span class="gui">Buku Alamat Lokal</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,7 +90,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

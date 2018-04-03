@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bladwijzers van mappen toevoegen</span></h1></div>
@@ -75,28 +75,20 @@
 <div class="title title-steps"><h2><span class="title">Een bladwijzer toevoegen:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open de map (of locatie) waarvoor u een bladwijzer wilt maken.</p></li>
-<li class="steps"><p class="p">Click the window menu in the toolbar and pick <span class="gui">Bookmark this
-      Location</span>.</p></li>
+<li class="steps"><p class="p">Klik op het venstermenu in de menubalk en kies <span class="gui">Bladwijzer maken voor deze locatie</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Een bladwijzer verwijderen:</span></h2></div>
-<div class="region"><ol class="steps"><li class="steps"><p class="p">Right-click on the bookmark in the sidebar and select
-      <span class="gui">Remove</span> from the menu.</p></li></ol></div>
+<div class="region"><ol class="steps"><li class="steps"><p class="p">Klik met rechts op de bladwijzer in de zijbalk en kies <span class="gui">Verwijderen</span> uit het menu.</p></li></ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Een bladwijzer hernoemen:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Right-click on the bookmark in the sidebar and select
-      <span class="gui">Rename…</span>.</p></li>
+<li class="steps"><p class="p">Klik met rechts op de bladwijzer in de zijbalk en kies <span class="gui">Hernoemen…</span>.</p></li>
 <li class="steps">
 <p class="p">Voer een nieuwe naam voor de bladwijzer in het <span class="gui">Naam</span> tekstveld in.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Renaming a bookmark does not rename the folder. If you have
-        bookmarks to two different folders in two different locations, but
-        which each have the same name, the bookmarks will have the same name,
-        and you won’t be able to tell them apart. In these cases, it is useful
-        to give a bookmark a name other than the name of the folder it points
-        to.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Het hernoemen van een bladwijzer hernoemt niet de naam van de map. Als u bladwijzers naar twee verschillende mappen op twee verschillende locaties heeft, maar ze hebben dezelfde naam, dan zal de bladwijzer dezelfde naam hebben en kunt u ze niet onderscheiden. In deze gevallen is het nuttig een bladwijzer een andere naam te geven dan de naam van de map waarnaar deze verwijst.</p></div></div></div></div>
 </li>
 </ol></div>
 </div></div>
@@ -115,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

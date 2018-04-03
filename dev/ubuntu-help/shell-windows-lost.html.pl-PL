@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Find a lost window</title>
+<title>Odnajdywanie zgubionego okna</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,38 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-windows" title="Praca z oknami">Okna</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#apps" title="Programy i okna">Programy i okna</a> » <a class="trail" href="shell-windows.html.pl-PL" title="Okna i obszary robocze">Okna i obszary robocze</a> › <a class="trail" href="shell-windows.html.pl-PL#working-with-windows" title="Praca z oknami">Okna</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Find a lost window</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Odnajdywanie zgubionego okna</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A window on a different workspace, or hidden behind another window, is
-  easily found using the <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span>
-  overview:</p>
+<p class="p">Okno na innym obszarze roboczym lub schowane za innym oknem można łatwo znaleźć za pomocą <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekranu podglądu</a></span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Open the <span class="gui">Activities</span> overview. If the missing window is on
-      the current
-      <span class="link"><a href="shell-windows.html.pl-PL#working-with-workspaces" title="Używanie obszarów roboczych">workspace</a></span>, it
-      will be shown here in thumbnail. Simply click the thumbnail to redisplay
-      the window, or</p></li>
-<li class="list"><p class="p">Click different workspaces in the
-      <span class="link"><a href="shell-workspaces.html.pl-PL" title="What is a workspace, and how will it help me?">workspace selector</a></span> at the
-      right-hand side of the screen to try to find your window, or</p></li>
-<li class="list"><p class="p">Right-click the application in the dash and its open windows will be
-      listed. Click the window in the list to switch to it.</p></li>
+<li class="list"><p class="p">Otwórz <span class="gui">ekran podglądu</span>. Jeśli zgubione okno jest na obecnym <span class="link"><a href="shell-windows.html.pl-PL#working-with-workspaces" title="Używanie obszarów roboczych">obszarze roboczym</a></span>, to będzie wyświetlane tutaj jako miniatura. Kliknij miniaturę, aby je wyświetlić, albo</p></li>
+<li class="list"><p class="p">Kliknij inny obszar roboczy na <span class="link"><a href="shell-workspaces.html.pl-PL" title="Czym są obszary robocze i do czego mogę je używać?">przełączniku obszarów roboczych</a></span> po prawej stronie ekranu, aby znaleźć zgubione okno, albo</p></li>
+<li class="list"><p class="p">Kliknij program na pasku ulubionych prawym przyciskiem myszy, a zostaną wyświetlone jego otwarte okna. Kliknij okno na liście, aby na nie przełączyć.</p></li>
 </ul></div></div></div>
-<p class="p">Using the window switcher:</p>
+<p class="p">Używanie przełącznika okien:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Press
-      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      to display the <span class="link"><a href="shell-windows-switching.html.pl-PL" title="Przełączanie między oknami">window switcher</a></span>.
-      Continue to hold down the <span class="key"><kbd>Super</kbd></span> key and press <span class="key"><kbd>Tab</kbd></span>
-      to cycle through the open windows, or
-      <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to cycle backwards.</p></li>
-<li class="list"><p class="p">If an application has multiple open windows, hold down
-      <span class="key"><kbd>Super</kbd></span> and press <span class="key"><kbd>`</kbd></span> (or the key above <span class="key"><kbd>Tab</kbd></span>)
-      to step through them.</p></li>
+<li class="list"><p class="p">Naciśnij klawisze <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>, aby wyświetlić <span class="link"><a href="shell-windows-switching.html.pl-PL" title="Przełączanie między oknami">przełącznik okien</a></span>. Ciągle przytrzymując klawisz <span class="key"><kbd>Super</kbd></span> naciśnij klawisz <span class="key"><kbd>Tab</kbd></span>, aby przejść między otwartymi oknami lub klawisze <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>, aby przejść do tyłu.</p></li>
+<li class="list"><p class="p">Jeśli program ma kilka otwartych okien, to przytrzymaj klawisz <span class="key"><kbd>Super</kbd></span> i naciśnij <span class="key"><kbd>`</kbd></span> (klawisz nad klawiszem <span class="key"><kbd>Tab</kbd></span>), aby przejść między nimi.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -112,7 +96,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -71,6 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">A GNOME alatt az <span class="app">Orka</span> képernyőolvasó segítségével olvastatható fel a felhasználói felület. A GNOME telepítésének módjától függően lehet, hogy az Orka nincs telepítve. Ebben az esetben előbb telepítse az Orkát.</p>
+<p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Az Orka telepítése</a></span></p>
 <p class="p">Az <span class="app">Orka</span> indításához a billentyűzet használatával:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Nyomja meg a <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+++<span class="key"><kbd>Alt</kbd></span>+++<span class="key"><kbd>S</kbd></span></span> kombinációt.</p></li></ol></div></div></div>
 <p class="p">Vagy az <span class="app">Orka</span> elindítható billentyűzettel és egérrel is:</p>
@@ -107,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -75,7 +75,10 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Откройте <span class="gui">Обзор</span>, нажав клавишу <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Чтобы начать поиск, начните вводить символы.</p>
+<p class="p">Open the <span class="gui">Activities</span> overview by clicking <span class="gui">Activities</span> 
+    at the top left of the screen, or by pressing the
+    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key. 
+    Start typing to search.</p>
 <p class="p">Результаты поиска будут появляться по мере набора символов. Первый результат всегда выделяется и помещается в самой верхней строчке слева.</p>
 <p class="p">Нажмите клавишу <span class="key"><kbd>Enter</kbd></span>, чтобы переключиться на первый выделенный результат.</p>
 </li></ol></div></div></div>
@@ -86,8 +89,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">приложения, показанные в верхней части страницы результатов поиска;</p></li>
 <li class="list"><p class="p">параметры;</p></li>
-<li class="list"><p class="p">контакты;</p></li>
-<li class="list"><p class="p">документы.</p></li>
+<li class="list"><p class="p">matching contacts,</p></li>
+<li class="list"><p class="p">matching documents,</p></li>
+<li class="list"><p class="p">matching calendar,</p></li>
+<li class="list"><p class="p">matching calculator,</p></li>
+<li class="list"><p class="p">matching software,</p></li>
+<li class="list"><p class="p">matching files,</p></li>
+<li class="list"><p class="p">matching terminal,</p></li>
+<li class="list"><p class="p">matching passwords and keys.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -111,7 +120,7 @@
 <li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.ru#yourname" title="Вы и ваш компьютер">system menu</a></span>
         on the right side of the top bar.</p></li>
 <li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Search</span> panel.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Search</span> in the left panel.</p></li>
 <li class="steps"><p class="p">В списке местоположений для поиска нажмите переключатель <span class="gui">Вкл/Выкл</span> рядом с тем местоположением, которое вы хотите включить или исключить.</p></li>
 </ol></div>
 </div></div>
@@ -144,7 +153,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

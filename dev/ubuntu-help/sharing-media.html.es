@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Puede explorar, buscar y reproducir los medios en su equipo usando un dispositivo que soporte <span class="sys">UPnP</span> o <span class="sys">DLNA</span> como puede ser un teléfono, una televisión o una videoconsola. Configure la <span class="gui">Compartición de medios</span> para permitir a estos dispositivos acceder a las carpetas que contienen su música, fotos y vídeos.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Debe tener instalado el paquete <span class="app">Rygel</span> para que la <span class="gui">Compartición de medios</span> esté visible.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Debe tener instalado el paquete <span class="app">Rygel</span> para que la <span class="gui">Compartición de medios</span> esté visible.</p>
+<p class="p"><span class="link-button link"><a href="apt:rygel" title="apt:rygel">Instalar Rygel</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Compartición</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Compartición</span> para abrir el panel.</p></li>
@@ -115,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

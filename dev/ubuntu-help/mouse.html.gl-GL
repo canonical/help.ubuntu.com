@@ -90,7 +90,7 @@
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Problemas comúns</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.gl-GL" title="O punteiro do rato non se move"><span class="title">O punteiro do rato non se move</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.gl-GL" title="O punteiro do rato non se move"><span class="title">O punteiro do rato non se move</span><span class="linkdiv-dash"> — </span><span class="desc">Como comprobar porqué o seu rato non funciona.</span></a></div></div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.gl-GL" title="O rato reacciona con atraso despois de comezar a traballar"><span class="title">O rato reacciona con atraso despois de comezar a traballar</span><span class="linkdiv-dash"> — </span><span class="desc">Se ten que mover ou premer o rato antes de que comece a responder.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
@@ -123,7 +123,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

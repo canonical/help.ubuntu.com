@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bestanden en mappen sorteren</span></h1></div>
@@ -85,7 +85,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Lijstweergave</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Om bestanden in een andere volgorde te sorteren klikt u op één van de kolommen in bestandsbeheer. Klik bijvoorbeeld op <span class="gui">Type</span> om te sorteren op bestandstype. Klik opnieuw op de kolom om in de omgekeerde volgorde te sorteren.</p>
-<p class="p">In lijstweergave kunt u kolommen met meer attributen laten weergeven en op die kolommen sorteren. Klik in de taakbalk op de knop Weergaveopties en kies <span class="gui">Zichtbare kolommen…</span> en selecteer de kolommen waarvan u wilt dat die zichtbaar zijn. U kunt vervolgens op die kolommen sorteren. Zie <span class="link"><a href="nautilus-list.html.nl" title="Files list columns preferences">Files list columns preferences</a></span> voor een beschrijving van de beschikbare kolommen.</p>
+<p class="p">In lijstweergave kunt u kolommen met meer attributen laten weergeven en op die kolommen sorteren. Klik in de taakbalk op de knop Weergaveopties en kies <span class="gui">Zichtbare kolommen…</span> en selecteer de kolommen waarvan u wilt dat die zichtbaar zijn. U kunt vervolgens op die kolommen sorteren. Zie <span class="link"><a href="nautilus-list.html.nl" title="Bestandsbeheer-voorkeuren: lijstkolommen">Bestandsbeheer-voorkeuren: lijstkolommen</a></span> voor een beschrijving van de beschikbare kolommen.</p>
 </div></div>
 </div></div>
 <div id="ways" class="sect"><div class="inner">
@@ -115,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Enable or block firewall access</title>
+<title>Włączanie i blokowanie zapory sieciowej</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,33 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Enable or block firewall access</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Włączanie i blokowanie zapory sieciowej</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Your system should be equipped with a <span class="em">firewall</span> that allows it to
-  block programs from being accessed by other people on the internet or your
-  network. This helps to keep your computer secure.</p>
-<p class="p">Many applications can use your network connection. For instance, you can
-  share files or let someone view your desktop remotely when connected to a
-  network. Depending on how your computer is set up, you may need to adjust the
-  firewall to allow these services to work as intended.</p>
-<p class="p">Each program that provides network services uses a specific <span class="em">network
-  port</span>. To enable other computers on the network to access a service, you
-  may need to “open” its assigned port on the firewall:</p>
+<p class="p">System powinien być wyposażony w <span class="em">zaporę sieciową</span> (ang. firewall) umożliwiającą blokowanie dostępu innych osób w Internecie lub sieci lokalnej do programów na komputerze. Pomaga to zabezpieczać komputer.</p>
+<p class="p">Wiele programów może używać połączenia sieciowego. Na przykład, można udostępniać pliki lub umożliwić komuś zdalne przeglądanie pulpitu. W zależności od konfiguracji komputera, być może należy dostosować zaporę sieciową, aby te usługi mogły poprawnie działać.</p>
+<p class="p">Każdy program używający sieci korzysta z konkretnego <span class="em">portu sieciowego</span>. Aby inne komputery w sieci mogły używać usług danego programu, należy „otworzyć” przydzielony mu port w zaporze sieciowej:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Go to <span class="gui">Activities</span> in the top left corner of the screen and
-      start your firewall application. You may need to install a firewall
-      manager yourself if you can’t find one (for example, Firestarter or
-      GUFW).</p></li>
-<li class="steps"><p class="p">Open or disable the port for your network service, depending on
-      whether you want people to be able to access it or not. Which port you
-      need to change will <span class="link"><a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">depend on the
-      service</a></span>.</p></li>
-<li class="steps"><p class="p">Save or apply the changes, following any additional instructions given
-      by the firewall tool.</p></li>
+<li class="steps"><p class="p">Przejdź do <span class="gui">ekranu podglądu</span> w górnym lewym rogu ekranu i uruchom program do zarządzania zaporą sieciową. Jeśli żadnego nie ma, to należy go zainstalować (np. Firestarter lub GUFW).</p></li>
+<li class="steps"><p class="p">Otwórz lub wyłącz port dla usługi sieciowej, w zależności od tego, czy inne osoby mają mieć do niej dostęp. Port, który należy zmienić <span class="link"><a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">zależy od usługi</a></span>.</p></li>
+<li class="steps"><p class="p">Zapisz lub zastosuj zmiany, postępując zgodnie z instrukcjami podanymi przez narzędzie do zarządzania zaporą.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -99,18 +85,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Enable or block firewall access">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">firewall ports</a></span>…
-    </span>
+<a href="net-security.html.pl-PL" title="Bezpieczeństwo w Internecie">Bezpieczeństwo w Internecie</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?">Oprogramowanie antywirusowe</a></span>, <span class="link"><a href="net-firewall-on-off.html.pl-PL" title="Włączanie i blokowanie zapory sieciowej">podstawy zapory sieciowej</a></span>, <span class="link"><a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">porty zapory sieciowej</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">Często używane porty sieciowe</a><span class="desc"> — You need to specify the right network port to enable/disable network
-    access for a program with your firewall.</span>
+<a href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe">Często używane porty sieciowe</a><span class="desc"> — Do włączenia/wyłączenia dostępu programu do sieci w zaporze sieciowej potrzebny jest właściwy port.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -122,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

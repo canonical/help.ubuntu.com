@@ -64,17 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#setup" title="Een printer instellen">Setup</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#setup" title="Een printer instellen">Setup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een lokale printer instellen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Your system can recognize many types of printers automatically once
-  they are connected. Most printers are connected with a USB cable that
-  attaches to your computer.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You do not need to select whether you want to install a network or local
-    printer now. They are listed in one window.</p></div></div></div></div>
+<p class="p">Uw systeem kan vele soorten printers automatisch herkennen wanneer die eenmaal aangesloten zijn. De meeste printers worden aangesloten op de computer met een USB-kabel.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U hoeft nog niet te kiezen of u een netwerk- of lokale printer wilt installeren. Ze worden in één venster weergegeven.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Zorg ervoor dat de printer aan staat.</p></li>
 <li class="steps"><p class="p">Sluit de kabel van de printer aan op uw systeem. Het kan zijn dat u activiteit ziet op het scherm terwijl het systeem zoekt naar stuurprogramma's, en mogelijk wordt u gevraagd om  authenticatie om die te installeren.</p></li>
@@ -84,8 +81,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Unlock</span> button in the top-right corner and enter
-      your password.</p></li>
+<li class="steps"><p class="p">Klik op de knop <span class="gui">Ontgrendelen</span> in de rechterbovenhoek en voer uw wachtwoord in.</p></li>
 <li class="steps"><p class="p">Klik op de <span class="gui">+</span>-knop.</p></li>
 <li class="steps"><p class="p">In het net verschenen venster, selecteer uw nieuwe printer. Klik op Click <span class="gui">Toevoegen</span>.</p></li>
 </ol></div></div></div>
@@ -114,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

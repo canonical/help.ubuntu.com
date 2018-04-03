@@ -78,11 +78,10 @@
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.id" title="Periksa status baterai"><span class="title">Periksa status baterai</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?"><span class="title">Apa yang terjadi ketika saya mensuspensi komputer?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspensi mengatur komputer Anda agar tidur sehingga memakai lebih sedikit daya.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.id" title="Get the most out of your laptop battery"><span class="title">Get the most out of your laptop battery</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.id" title="How do I hibernate my computer?"><span class="title">How do I hibernate my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernate is disabled by default since it's not well supported.</span></a></div>
-</div>
-<div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.id" title="Log keluar, mematikan, atau berganti pengguna"><span class="title">Log keluar, mematikan, atau berganti pengguna</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
     users, and so on.</span></a></div>
+</div>
+<div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai"><span class="title">Memakai daya lebih sedikit dan meningkatkan umur baterai</span><span class="linkdiv-dash"> — </span><span class="desc">Tip untuk mengurangi konsumsi daya komputer Anda.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.id" title="Mengapa komputer saya mati ketika saya menutup lid?"><span class="title">Mengapa komputer saya mati ketika saya menutup lid?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops go to sleep when you close the lid, in order to save
     power.</span></a></div>
@@ -93,11 +92,11 @@
 <div class="hgroup"><h2 class="title"><span class="title">Power saving settings</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.id" title="Atur waktu pengosongan layar"><span class="title">Atur waktu pengosongan layar</span><span class="linkdiv-dash"> — </span><span class="desc">Ubah waktu mengosongkan layar untuk menghemat daya.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.id" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?"><span class="title">Mengapa layar saya meredup setelah beberapa saat?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.id" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?"><span class="title">Mengapa layar saya meredup setelah beberapa saat?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.id" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -163,7 +162,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

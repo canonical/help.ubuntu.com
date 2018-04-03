@@ -70,13 +70,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Apa itu kenampakan Bluetooth?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bluetooth visibility refers to whether other devices can discover
-  your computer when searching for Bluetooth devices. When Bluetooth is turned
-  on and the <span class="gui">Bluetooth</span> panel is open, your computer will advertize
-  itself to all other devices within range, allowing them to attempt to connect
-  to your computer.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html.id" title="Set the display name for your computer">change</a></span> the name your
-    computer displays to other devices.</p></div></div></div></div>
+<p class="p">Kenampakan Bluetooth hanya mengacu pada apakah perangkat lain dapat menemukan komputer Anda ketika sedang mencari perangkat Bluetooth. Ketika visibilitas Bluetooth diaktifkan dan <span class="gui">Bluetooth</span> panel terbuka, komputer Anda akan mengiklankan dirinya ke semua perangkat lain dalam jangkauan, yang memungkinkan mereka untuk berusaha melakukan koneksi ke Anda.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Anda dapat <span class="link"><a href="sharing-displayname.html.id" title="Set the display name for your computer">mengubah</a></span> nama komputer Anda yang ditampilkan ke perangkat lain.</p></div></div></div></div>
 <p class="p">Setelah Anda <span class="link"><a href="bluetooth-connect-device.html.id" title="Hubungkan komputer Anda ke perangkat Bluetooth">tersambung ke suatu perangkat</a></span>, komputer Anda maupun perangkat tak perlu nampak untuk saling berkomunikasi.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -95,7 +90,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,12 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#common-file-tasks" title="Běžné činnosti">Běžné činnosti</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="files.html.cs" title="Soubory, složky a hledání">Soubory</a> › <a class="trail" href="files.html.cs#common-file-tasks" title="Běžné činnosti">Běžné činnosti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Náhled souborů a složek</span></h1></div>
 <div class="region">
 <div class="contents">
+<div class="note note-important" title="Důležité"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Abyste mohli změnit tato nastavení, musíte mít v počítači nainstalovánu aplikaci <span class="app">Sushi</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Nainstalovat aplikaci <span class="app">Sushi</span></a></span></p>
+</div></div></div></div>
 <p class="p">Na obsah souboru se můžete rychle mrknout, aniž byste jej museli otevírat v plnohodnotné aplikaci. Vyberte libovolný soubor a zmáčkněte <span class="key"><kbd>mezerník</kbd></span>. Soubor se otevře v okně s jednoduchým náhledem. Po opětovném zmáčknutí mezerníku náhled zmizí.</p>
 <p class="p">Vestavěné náhledy podporují většinu formátů dokumentů, obrázků, videa a zvuku. V náhledu můžete procházet dokumenty a přeskakovat ve videu a zvuku.</p>
 <p class="p">Abyste viděli náhled na celé obrazovce, zmáčkněte <span class="key"><kbd>F</kbd></span> nebo <span class="key"><kbd>F11</kbd></span>. Celou obrazovku můžete opustit opětovným zmáčknutím <span class="key"><kbd>F</kbd></span> nebo <span class="key"><kbd>F11</kbd></span>, nebo zmáčkněte <span class="key"><kbd>mezerník</kbd></span> a náhled se opustí úplně.</p>
@@ -96,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

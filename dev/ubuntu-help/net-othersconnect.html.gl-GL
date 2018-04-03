@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Other users can’t connect to the internet</title>
+<title>Outros usuarios non pódense conectar a Internet</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,31 +64,29 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.gl-GL" title="Problemas de rede">Problemas de rede</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="net-problem.html.gl-GL" title="Problemas de rede">Problemas de rede</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Other users can’t connect to the internet</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Outros usuarios non pódense conectar a Internet</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you set up a network connection, all other users on your computer
   will normally be able to use it. If the connection information is not shared,
   you should check the connection settings.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Network</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span> from the list on the left.</p></li>
-<li class="steps"><p class="p">Click the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to open the connection
-      details.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Identity</span> from the pane on the left.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Rede</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Seleccione <span class="gui">Wifi</span> desde a lista da esquerda.</p></li>
+<li class="steps"><p class="p">Prema o botón <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="preferencias"></span></span> para abrir os detalles da conexión.</p></li>
+<li class="steps"><p class="p">Seleccione <span class="gui">Identidade</span> desde o panel da esquerda.</p></li>
 <li class="steps"><p class="p">At the bottom of the <span class="gui">Identity</span> panel, check the <span class="gui">Make
       available to other users</span> option to allow other users to use the
       network connection.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Apply</span> to save the changes.</p></li>
 </ol></div></div></div>
 <p class="p">Os outros usuarios do computador poderán agora conectarse para usar a conexión sen ter que escribir ningunha información máis.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Any user can change this setting.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Calquera usuario pode cambiar esta preferencia</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -96,13 +94,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.gl-GL" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html.gl-GL" title="I can’t see my wireless network in the list">atopar a súa rede sen fíos</a></span>…</span>
+<a href="net-problem.html.gl-GL" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html.gl-GL" title="Non podo ver a miña rede sen fíos na lista">atopar a súa rede sen fíos</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-othersedit.html.gl-GL" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Debe desmarcar a opción <span class="gui">Dispoñibel para todos os usuarios</span> nas configuracións de conexión da rede.</span>
+<a href="net-othersedit.html.gl-GL" title="Outros usuarios non poden editar as conexións de rede">Outros usuarios non poden editar as conexións de rede</a><span class="desc"> — Debe desmarcar a opción <span class="gui">Dispoñibel para todos os usuarios</span> nas configuracións de conexión da rede.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -114,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

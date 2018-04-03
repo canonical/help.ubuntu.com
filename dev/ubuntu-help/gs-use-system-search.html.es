@@ -75,7 +75,7 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Abra la <span class="gui">Vista de actividades</span> pulsando la tecla <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> y empiece a escribir para buscar.</p>
+<p class="p">Abra la vista de <span class="gui">actividades</span> pulsando en <span class="gui">Actividades</span> en la esquina superior izquierda de la pantalla o pulsando la tecla <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Súper</kbd></a></span>. Empiece a escribir para buscar</p>
 <p class="p">Los resultados que coincidan con lo que ha escritor aparecerán a medida que escribe. El primer resultado siempre se resalta y se muestra en la parte superior.</p>
 <p class="p">Pulse <span class="key"><kbd>Intro</kbd></span> para cambiar al primer resultado resaltado.</p>
 </li></ol></div></div></div>
@@ -86,8 +86,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">aplicaciones coincidentes, mostradas en la parte superior de los resultados de búsqueda</p></li>
 <li class="list"><p class="p">configuraciones coincidentes,</p></li>
-<li class="list"><p class="p">contactos coincidentes, y</p></li>
-<li class="list"><p class="p">documentos coincidentes.</p></li>
+<li class="list"><p class="p">contactos coincidentes,</p></li>
+<li class="list"><p class="p">documentos coincidentes,</p></li>
+<li class="list"><p class="p">calendario coincidentes,</p></li>
+<li class="list"><p class="p">calculadora coincidente,</p></li>
+<li class="list"><p class="p">software coincidente,</p></li>
+<li class="list"><p class="p">archivos coincidentes,</p></li>
+<li class="list"><p class="p">terminal coincidente,</p></li>
+<li class="list"><p class="p">contraseñas y claves coincidentes.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +116,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Pulse en el <span class="gui"><a href="shell-introduction.html.es#yourname" title="Usted y su equipo">menú del sistema</a></span> en la parte derecha de la barra superior.</p></li>
 <li class="steps"><p class="p">Pulse el botón de configuración en la parte inferior izquierda del menú.</p></li>
-<li class="steps"><p class="p">Pulse el panel <span class="gui">Buscar</span>.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Buscar</span> el panel izquierdo.</p></li>
 <li class="steps"><p class="p">En la lista de direcciones de búsqueda, pulse el interruptor de <span class="gui">ENCENDIDO/APAGADO</span> que está al lado de la dirección de búsqueda que quiera activar o desactivar.</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

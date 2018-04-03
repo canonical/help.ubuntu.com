@@ -64,31 +64,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een andere microfoon gebruiken</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">U kunt een externe microfoon gebruiken om met vrienden of collega's op het werk te praten, stemopnames te maken, of bij het gebruik van andere multimediatoepassingen. Zelfs als uw computer een ingebouwde microfoon of een webcam met een microfoon heeft, dan levert een aparte microfoon meestal toch een betere geluidskwaliteit op.</p>
-<p class="p">If your microphone has a circular plug, just plug it into the appropriate
-  audio socket on your computer. Most computers have two sockets: one for
-  microphones and one for speakers. This socket is usually light red in color
-  or is accompanied by a picture of a microphone. Microphones plugged
-  into the appropriate socket are usually used by default. If not, see the
-  instructions below for selecting a default input device.</p>
+<p class="p">Als uw microfoon een ronde stekker heeft, stop die dan in de daarvoor bestemde aansluiting op uw computer. De meeste computers hebben twee aansluitingen: één voor microfoons en één voor luidsprekers. Deze aansluiting is meestal lichtrood van kleur of heeft een afbeelding van een microfoon naast de aansluiting. Microfoons aangesloten op de daarvoor bestemde aansluiting zullen meestal standaard gebruikt worden. Als dat niet zo is, lees dan de instructies hieronder over het selecteren van een standaard invoerapparaat.</p>
 <p class="p">Als u een USB-microfoon heeft, sluit die dan aan op één van de USB-poorten op uw computer. USB-microfoons worden behandeld als aparte audio-apparaten, u dient mogelijk op te geven welke microfoon standaard gebruikt moet worden.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Standaard geluidsinvoerapparaat selecteren</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Sound</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Geluid</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Geluid</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Selecteer in het tabblad <span class="gui">Invoer</span> het apparaat dat u wilt gebruiken. Als het goed is reageert de invoerniveau-indicator wanneer u spreekt.</p></li>
 </ol></div>
 </div></div>
-<p class="p">You can adjust the volume and switch the microphone off from this
-  panel.</p>
+<p class="p">Vanuit dit paneel kunt u het volume aanpassen en de microfoon uit zetten.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -114,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

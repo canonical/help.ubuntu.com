@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#photos" title="Foto's en digitale camera's">Foto's</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#photos" title="Foto's en digitale camera's">Foto's</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#music" title="Muziek en draagbare geluidsspelers">Muziek en audiospelers</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#removable" title="Verwijderbare schijven en externe schijven">Verwijderbare schijven en externe schijven</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#removable" title="Verwijderbare schijven en externe schijven">Verwijderbare schijven en externe schijven</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#videos" title="Video's en videocamera's">Video's</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="media.html.nl" title="Geluid, video &amp; foto's">Geluid, video &amp; foto's</a> › <a class="trail" href="media.html.nl#videos" title="Video's en videocamera's">Video's</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -98,7 +98,7 @@
 <dt class="terms">Audioschijven</dt>
 <dd class="terms"><p class="p">Kies uw favoriete muziektoepassing of cd-ripper om audio-cd's te verwerken. Als u audio-DVD's (DVD-A) gebruikt, moet u onder <span class="gui">Overige media…</span> aangeven hoe u ze wil openen. Als u een audio-cd met de bestandsbeheerder opent, zullen de tracks als WAV-bestanden worden weergegeven die met elke audiospeler-toepassing af te spelen zijn.</p></dd>
 <dt class="terms">Videoschijven</dt>
-<dd class="terms"><p class="p">Kies uw favoriete videotoepassing om DVD's te verwerken. Gebruik de <span class="gui">Overige media…</span>-knop om een toepassing voor Blu-ray, HD DVD, video CD (VCD), en super video cd (SVCD) in te stellen. Zie <span class="link"><a href="video-dvd.html.nl" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span> als DVD's of andere videoschijven niet correct functioneren als u ze invoert.</p></dd>
+<dd class="terms"><p class="p">Kies uw favoriete videotoepassing om DVD's te verwerken. Gebruik de <span class="gui">Overige media…</span>-knop om een toepassing voor Blu-ray, HD DVD, video CD (VCD), en super video cd (SVCD) in te stellen. Zie <span class="link"><a href="video-dvd.html.nl" title="Waarom kunnen dvd's niet worden afgespeeld?">Waarom kunnen dvd's niet worden afgespeeld?</a></span> als DVD's of andere videoschijven niet correct functioneren als u ze invoert.</p></dd>
 <dt class="terms">Blanco schijven</dt>
 <dd class="terms"><p class="p">Gebruik de <span class="gui">Overige media…</span>-knop om een brandprogramma voor blanco cd's, blanco DVD's, blanco Blu-ray schijven, en blanco HD DVDs te kiezen.</p></dd>
 <dt class="terms">Camera's en fotos</dt>
@@ -113,7 +113,7 @@
 <dt class="terms">Software</dt>
 <dd class="terms">
 <p class="p">Sommige schijven en verwisselbare media bevatten software waarvan het de bedoeling is dat het automatisch wordt uitgevoerd zodra de media wordt ingevoerd. Gebruik de optie <span class="gui">Software</span> om te bepalen wat er moet gebeuren als er media met autorun software wordt ingevoerd. Er zal u altijd om bevestiging worden gevraagd voordat software wordt uitgevoerd.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don’t trust.</p></div></div></div></div>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Voer nooit software uit vanaf een medium dat u niet vertrouwt.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>
@@ -136,7 +136,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

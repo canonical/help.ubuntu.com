@@ -76,10 +76,10 @@
 <div class="contents">
 <p class="p">Para cambiar as teclas que premer para un atallo de teclado:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Keyboard</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Keyboard</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">Shortcuts</span> tab.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Teclado</span> par abrir o panel.</p></li>
+<li class="steps"><p class="p">Prema na lapela <span class="gui">Atallos</span>.</p></li>
 <li class="steps"><p class="p">Seleccione unha categoría no panel esquerdo, e a rila para a acción desexada da dereita. A definición do atallo actual cambiará a <span class="gui">Novo acelerador…</span></p></li>
 <li class="steps"><p class="p">Prema a combinación de teclas desexada, ou prema <span class="key"><kbd>Retroceso</kbd></span> para limpar.</p></li>
 </ol></div></div></div>
@@ -99,23 +99,23 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Iniciar a calculadora</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> or <span class="key"><kbd>Calculator</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> ou <span class="key"><kbd>Calculadora</kbd></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Iniciar o cliente de correo-e</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> or <span class="key"><kbd>Mail</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> ou <span class="key"><kbd>Correo electrónico</kbd></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Iniciar o navegador web</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="key"><kbd>WWW</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> ou <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> ou <span class="key"><kbd>WWW</kbd></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Cartafol persoal</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="key"><kbd>Explorer</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> ou <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> ou <span class="key"><kbd>Explorador</kbd></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Buscar</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> or <span class="key"><kbd>Search</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> ou <span class="key"><kbd>Busca</kbd></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -206,19 +206,19 @@
 <td style="border-top-style: solid;"><p class="p">Desactivado</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Desde o seu espazo de traballo:</p></td>
+<td style="border-top-style: solid;"><p class="p">Mover ao espazo de traballo da esquerda</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Desde o seu espazo de traballo:</p></td>
+<td style="border-top-style: solid;"><p class="p">Mover ao espazo de traballo da dereita</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Desde o seu espazo de traballo:</p></td>
+<td style="border-top-style: solid;"><p class="p">Mover ao espazo de traballo de arriba</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>RePáx</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Desde o seu espazo de traballo:</p></td>
+<td style="border-top-style: solid;"><p class="p">Mover ao espazo de traballo de abaixo</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Av Páx</kbd></span></span></p></td>
 </tr>
 </table></div>
@@ -230,23 +230,23 @@
 <div class="title title-table"><h3><span class="title">Facer unha captura de pantalla</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Save a screenshot to file</p></td>
+<td><p class="p">Gardar unha captura de pantalla nun ficheiro</p></td>
 <td><p class="p"><span class="key"><kbd>Impr</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to file</p></td>
+<td style="border-top-style: solid;"><p class="p">Gardar unha captura dunha xanela a un ficheiro</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Imp</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of an area to file</p></td>
+<td style="border-top-style: solid;"><p class="p">Gardar unha captura dun área nun ficheiro</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Copia o texto seleccionado ou elementos ao portaretallos.</p></td>
+<td style="border-top-style: solid;"><p class="p">Copiar unha captura de pantalla ao portaretallos</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Tomar unha captura de pantalla dunha xanela.</p></td>
+<td style="border-top-style: solid;"><p class="p">Copiar unha captura de pantalla dunha xanela ao portaretallos</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -267,43 +267,43 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p">Volume</p></td>
-<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Audio mute)</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Silenciar son)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Volume</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Audio lower volume)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Baixar o volume)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Volume</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Audio raise volume)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Subir o volume)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Música e reprodutores</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Audio media)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Multimedia son)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Reproducir (ou reproducir/pausar)</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Audio play)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Reproducir son)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Pausar a reprodución</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Audio pause)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Pausar audio)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Deter a reprodución</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Audio stop)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Deter son)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Pista anterior</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio previous)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Seguinte son)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Seguinte pista</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio next)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Anterior son)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Expulsar</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Eject)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Expulsar)</p></td>
 </tr>
 </table></div>
 </div>
@@ -422,7 +422,7 @@
 <div class="title title-table"><h3><span class="title">Compartido por Windows</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Que é a tecla «Windows»?</p></td>
+<td><p class="p">Activar o menú da xanela</p></td>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Espacio</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -438,7 +438,7 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Para pechar a xanela:</p></td>
+<td style="border-top-style: solid;"><p class="p">Restaurar xanela</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -462,7 +462,7 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Mova unha xanela a un espazo de traballo diferente:</p></td>
+<td style="border-top-style: solid;"><p class="p">Trocar a xanela en todos os espazos de traballo ou en un</p></td>
 <td style="border-top-style: solid;"><p class="p">Desactivado</p></td>
 </tr>
 <tr>
@@ -501,11 +501,9 @@
 <div id="custom" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Opcións personalizadas</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To create your own application keyboard shortcut in the
-  <span class="app">Keyboard</span> settings:</p>
+<p class="p">Para crear a seu propio atallo de teclado de aplicativo nas preferencias do <span class="gui">Teclado</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button. The <span class="gui">Custom
-      Shortcut</span> window will appear.</p></li>
+<li class="steps"><p class="p">Prema o botón <span class="gui">+</span>. Abrirase a xanela <span class="gui">Atallos personalizados</span>.</p></li>
 <li class="steps"><p class="p">Type a <span class="gui">Name</span> to identify the shortcut, and a
       <span class="gui">Command</span> to run an application, then click <span class="gui">Add</span>.
       For example, if you wanted the shortcut to open <span class="app">Rhythmbox</span>, you
@@ -523,7 +521,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
+<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar disposicións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -541,7 +539,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

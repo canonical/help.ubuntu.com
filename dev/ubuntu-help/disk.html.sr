@@ -70,16 +70,15 @@
 <div class="hgroup"><h1 class="title"><span class="title">Дискови и складишта</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.sr" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.sr" title="Create a startup disk"><span class="title">
     Create a startup disk
   </span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.sr" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
-          state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.sr" title="Испробајте особине вашег чврстог диска"><span class="title">Испробајте особине вашег чврстог диска</span><span class="linkdiv-dash"> — </span><span class="desc">Извршите пробна испитивања на вашем чврстом диску да проверите колико је брз.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html.sr" title="Обришите све са уклоњивог диска"><span class="title">Обришите све са уклоњивог диска</span><span class="linkdiv-dash"> — </span><span class="desc">Уклоните све датотеке и фасцикле са спољног чврстог диска или УСБ диска њиховим форматирањем.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.sr" title="Подесите величину система датотека"><span class="title">Подесите величину система датотека</span><span class="linkdiv-dash"> — </span><span class="desc">Смањите или повећајте систем датотека и његову партицију.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.sr" title="Поправите оштећен систем датотека"><span class="title">Поправите оштећен систем датотека</span><span class="linkdiv-dash"> — </span><span class="desc">Проверите да ли је систем датотека оштећен и вратите га у употребљиво стање.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-check.html.sr" title="Проверите ваш чврсти диск за проблемима"><span class="title">Проверите ваш чврсти диск за проблемима</span><span class="linkdiv-dash"> — </span><span class="desc">Испитајте ваш чврсти диск за проблемима да се уверите да је исправан.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.sr" title="Проверите колико је преостало простора на диску"><span class="title">Проверите колико је преостало простора на диску</span><span class="linkdiv-dash"> — </span><span class="desc">Употребите <span class="gui">Анализер искоришћености диска</span> или <span class="gui">Праћење система</span> да проверите простор и капацитет.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.sr" title="Управљајте волуменима и партицијама"><span class="title">Управљајте волуменима и партицијама</span><span class="linkdiv-dash"> — </span><span class="desc">Да схватите шта су то волумени и партиције и да користите програм за управљање њима.</span></a></div>
@@ -100,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

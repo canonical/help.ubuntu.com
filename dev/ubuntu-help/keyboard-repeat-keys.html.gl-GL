@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Manage repeated key presses</title>
+<title>Xestionar a pulsación de teclas repetidas</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -73,7 +73,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Manage repeated key presses</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Xestionar a pulsación de teclas repetidas</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">By default, when you hold down a key on your keyboard, the letter
@@ -82,7 +82,7 @@
   disable this feature, or change how long it takes before key presses
   start repeating, or how quickly key presses repeat.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Acceso universal</span>.</p></li>
 <li class="steps"><p class="p">Prema sobre <span class="gui">Acceso universal</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Repeat Keys</span> in the <span class="gui">Typing</span> section.</p></li>
 <li class="steps">
@@ -98,7 +98,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">Deficiencias motoras</a></li>
 <li class="links ">
-<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
+<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar disposicións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -110,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

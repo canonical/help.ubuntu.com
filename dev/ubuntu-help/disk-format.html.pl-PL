@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wipe everything off a removable disk</title>
+<title>Formatowanie dysku wymiennego</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,50 +64,33 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Wipe everything off a removable disk</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Formatowanie dysku wymiennego</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have a removable disk, like a USB memory stick or an external hard
- disk, you may sometimes wish to completely remove all of its files and
- folders. You can do this by <span class="em">formatting</span> the disk — this deletes all
- of the files on the disk and leaves it empty.</p>
+<p class="p">W przypadku wymiennych dysków, takich jak dysk USB lub zewnętrzny dysk twardy, można całkowicie usunąć wszystkie pliki i katalogi. Nazywa się to <span class="em">formatowaniem</span> dysku.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Format a removable disk</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Formatowanie dysku wymiennego</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
+<li class="steps"><p class="p">Otwórz program <span class="app">Dyski</span> z <span class="gui">ekranu podglądu</span>.</p></li>
 <li class="steps">
-<p class="p">Select the disk you want to wipe from the list of storage devices on the
-    left.</p>
-<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">Make sure that you have selected the correct disk! If you choose the
-      wrong disk, all of the files on the other disk will be deleted!</p></div></div></div></div>
+<p class="p">Wybierz dysk do wyczyszczenia z listy urządzeń do przechowywania danych po lewej.</p>
+<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">Upewnij się, że wybrano właściwy dysk! Jeśli wybrano inny dysk, to wszystkie jego pliki zostaną usunięte.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Format…</span>.</p></li>
+<li class="steps"><p class="p">Na pasku narzędziowym pod sekcją <span class="gui">Woluminy</span> kliknij przycisk menu. Następnie kliknij <span class="gui">Sformatuj…</span>.</p></li>
 <li class="steps">
-<p class="p">In the window that pops up, choose a file system <span class="gui">Type</span> for the
-    disk.</p>
-<p class="p">If you use the disk on Windows and Mac OS computers in addition to Linux
-   computers, choose <span class="gui">FAT</span>. If you only use it on Windows, <span class="gui">NTFS</span>
-   may be a better option. A brief description of the <span class="gui">file system type</span>
-   will be presented as a label.</p>
+<p class="p">W wyświetlonym oknie wybierz <span class="gui">Typ</span> systemu plików dla dysku.</p>
+<p class="p">Jeśli oprócz komputera z systemem Linux używane są komputery z systemami Windows lub macOS, to wybierz <span class="gui">FAT</span>. Jeśli urządzenie będzie używane tylko w systemie Windows, to <span class="gui">NTFS</span> może być lepszą opcją. <span class="gui">Typy systemów plików</span> mają krótkie opisy.</p>
 </li>
-<li class="steps"><p class="p">Give the disk a name and click <span class="gui">Format…</span> to continue and show a
-    confirmation window. Check the details carefully, and click
-    <span class="gui">Format</span> to wipe the disk.</p></li>
-<li class="steps"><p class="p">Once the formatting has finished, click the eject icon to safely remove
-    the disk. It should now be blank and ready to use again.</p></li>
+<li class="steps"><p class="p">Wpisz nazwę dysku i kliknij przycisk <span class="gui">Sformatuj…</span>, aby przejść do okna potwierdzenia. Uważnie przeczytaj podane informacje i kliknij przycisk <span class="gui">Sformatuj…</span>, aby wyczyścić dysk.</p></li>
+<li class="steps"><p class="p">Po ukończeniu formatowania kliknij ikonę wysunięcia, aby bezpiecznie usunąć dysk. Powinien być teraz pusty i gotowy do użycia.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Ostrzeżenie"><div class="inner">
-<div class="title title-note"><h2><span class="title">Formatting a disk does not securely delete your files</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Formatting a disk is not a completely secure way of wiping all of its
- data. A formatted disk will not appear to have files on it, but it is
- possible that special recovery software could retrieve the files. If you
- need to securely delete the files, you will need to use a command-line
- utility, such as <span class="app">shred</span>.</p></div></div>
+<div class="title title-note"><h2><span class="title">Formatowanie dysku nie usuwa plików na zawsze</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Formatowanie dysku nie jest całkowicie bezpiecznym sposobem usuwania wszystkich danych. Sformatowany plik wygląda, jakby nie miał żadnych plików, ale specjalistyczne oprogramowanie może je odzyskać. Do bezpiecznego usuwania plików należy użyć narzędzia wiersza poleceń, takiego jak <span class="app">shred</span>.</p></div></div>
 </div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -115,12 +98,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html.pl-PL" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.pl-PL" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.pl-PL" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.pl-PL" title="Manage volumes and partitions">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html.pl-PL" title="Dyski i przechowywanie danych">Dyski i przechowywanie danych</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.pl-PL" title="Sprawdzanie wolnego miejsca na dysku">Miejsce na dysku</a></span>, <span class="link"><a href="disk-benchmark.html.pl-PL" title="Testowanie wydajności dysku twardego">wydajność</a></span>, <span class="link"><a href="disk-check.html.pl-PL" title="Sprawdzanie, czy dysk twardy sprawia problemy">problemy</a></span>, <span class="link"><a href="disk-partitions.html.pl-PL" title="Zarządzanie woluminami i partycjami">woluminy i partycje</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -131,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

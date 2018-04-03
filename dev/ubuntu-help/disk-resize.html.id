@@ -82,7 +82,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Resize a filesystem/partition</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
+<li class="steps"><p class="p">Buka <span class="app">Pengaturan</span> dari ringkasan <span class="gui">Aktivitas</span>.</p></li>
 <li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
        of storage devices on the left. If there is more than one volume on
        the disk, select the volume which contains the filesystem.</p></li>
@@ -129,7 +129,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

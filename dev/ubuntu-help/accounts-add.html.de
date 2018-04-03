@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="accounts.html.de" title="Online-Konten">Online-Konten</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="accounts.html.de" title="Online-Konten">Online-Konten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ein Konto hinzufügen</span></h1></div>
@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Online-Konten</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Online-Konten</span>, um das Panel zu öffnen.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf das <span class="gui">+</span>-Symbol in der linken unteren Ecke des Fensters.</p></li>
+<li class="steps"><p class="p">Wählen Sie ein Konto in der Liste auf der rechten Seite aus.</p></li>
 <li class="steps"><p class="p">Wählen Sie den hinzuzufügenden Konto-Typ aus.</p></li>
 <li class="steps"><p class="p">Ein kleines Internetseiten-Fenster wird geöffnet, in welchem Sie die Anmeldedaten Ihres Online-Kontos eingeben. Wenn Sie beispielsweise ein Google-Konto einrichten, geben Sie Benutzername und Passwort Ihres Google-Kontos ein. Einige Internetanbieter bieten das Anlegen eines Benutzerkontos im Anmeldefenster an.</p></li>
 <li class="steps"><p class="p">Wenn Sie Ihre Anmeldedaten korrekt eingegeben haben, werden Sie um Bestätigung gebeten, dass GNOME Zugriff auf Ihr Online-Konto erhält. Gewähren Sie Zugriff, um fortzusetzen.</p></li>
@@ -99,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

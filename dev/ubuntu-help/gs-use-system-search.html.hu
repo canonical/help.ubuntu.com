@@ -75,7 +75,7 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Nyissa meg a <span class="gui">Tevékenységek</span> áttekintést a <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> billentyű megnyomásával. Kezdjen el gépelni a kereséshez.</p>
+<p class="p">Nyissa meg a <span class="gui">Tevékenységek</span> áttekintést képernyő bal felső sarkában lévő <span class="gui">Tevékenységek</span> menüre kattintva, vagy a <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> billentyű megnyomásával. Kezdjen el gépelni a kereséshez.</p>
 <p class="p">A begépelt szövegnek megfelelő találatok megjelennek a gépelés közben. Az első találat mindig kiemelve, felül jelenik meg.</p>
 <p class="p">Az első kiemelt találatra váltáshoz nyomja meg az <span class="key"><kbd>Enter</kbd></span> billentyűt.</p>
 </li></ol></div></div></div>
@@ -87,7 +87,13 @@
 <li class="list"><p class="p">a megfelelő alkalmazások, a találatok listájának elején,</p></li>
 <li class="list"><p class="p">a megfelelő beállítások,</p></li>
 <li class="list"><p class="p">a megfelelő névjegyek, és</p></li>
-<li class="list"><p class="p">a megfelelő dokumentumok.</p></li>
+<li class="list"><p class="p">a megfelelő dokumentumok,</p></li>
+<li class="list"><p class="p">a megfelelő naptár,</p></li>
+<li class="list"><p class="p">a megfelelő számológép,</p></li>
+<li class="list"><p class="p">a megfelelő szoftverek,</p></li>
+<li class="list"><p class="p">a megfelelő fájlok,</p></li>
+<li class="list"><p class="p">a megfelelő terminál,</p></li>
+<li class="list"><p class="p">a megfelelő jelszavak és kulcsok.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +116,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Kattintson a <span class="gui"><a href="shell-introduction.html.hu#yourname" title="Ön és a számítógépe">rendszer menüre</a></span> a felső sáv jobb oldalán.</p></li>
 <li class="steps"><p class="p">Nyomja meg a Beállítások gombot a menü bal alsó részén.</p></li>
-<li class="steps"><p class="p">Kattintson a <span class="gui">Keresés</span> panelre.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Keresés</span> elemre a bal oldali panelen.</p></li>
 <li class="steps"><p class="p">A keresési helyek listájában kattintson a <span class="gui">BE/KI</span> kapcsolóra az engedélyezni vagy letiltani kívánt keresési hely mellett.</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

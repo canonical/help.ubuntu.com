@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Afmelden, uitschakelen, van gebruiker wisselen</title>
+<title>Afmelden, uitschakelen of van gebruiker wisselen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,38 +64,27 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Afmelden, uitschakelen, van gebruiker wisselen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Afmelden, uitschakelen of van gebruiker wisselen</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">Wanneer u klaar bent met het gebruiken van uw computer kunt u deze uitschakelen, in de pauzestand zetten (om energie te besparen), of hem aan laten staan en u alleen afmelden.</p></div>
 <div id="logout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Afmelden of van gebruiker wisselen</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Om anderen uw computer te laten gebruiken kunt u zich afmelden of aangemeld blijven en alleen van gebruiker wisselen. Als u alleen maar van gebruiker wisselt, dan zullen al uw toepassingen blijven draaien en alles zal zich bevinden waar u het achterliet wanneer u zich weer aanmeldt.</p>
-<p class="p">To <span class="gui">Log Out</span> or <span class="gui">Switch User</span>, click the
-  <span class="link"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">system menu</a></span> on the right side of the
-  top bar, click your name and then choose the right option.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Log Out</span> and <span class="gui">Switch User</span> entries only appear in
-    the menu if you have more than one user account on your system.</p></div></div></div></div>
+<p class="p"><span class="gui">Afmelden</span> of <span class="gui">Wisselen van gebruiker</span> doet u als volgt: klik op het <span class="link"><a href="unity-menubar-intro.html.nl" title="unity-menubar-intro">systeemmenu</a></span> uiterst rechts in de bovenbalk, klik op uw naam en kies dan de gewenste optie.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">De onderdelen <span class="gui">Afmelden</span> en <span class="gui">Gebruiker wisselen</span> verschijnen alleen in het menu als u meer dan één gebruikersaccount op uw systeem heeft.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="lock-screen" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Het scherm vergrendelen</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you’re leaving your computer for a short time, you should lock your
-  screen to prevent other people from accessing your files or running
-  applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html.nl" title="Het vergrendelingsscherm">lock screen</a></span> curtain and enter your
-  password to log back in. If you don’t lock your screen, it will lock
-  automatically after a certain amount of time.</p>
-<p class="p">To lock your screen, click the system menu on the right side of the top
-  bar and press the lock screen button at the bottom of the menu.</p>
-<p class="p">When your screen is locked, other users can log in to their own accounts
-  by clicking <span class="gui">Log in as another user</span> on the password screen. You
-  can switch back to your desktop when they are finished.</p>
+<p class="p">Als u uw computer korte tijd achterlaat, dan moet u uw scherm vergrendelen om te voorkomen dat anderen toegang krijgen tot uw bestanden en draaiende toepassingen. Wanneer u terug komt, kunt u het <span class="link"><a href="shell-lockscreen.html.nl" title="Het vergrendelingsscherm">vergrendelde scherm</a></span> opheffen en uw wachtwoord invoeren om u weer aan te melden. Als u uw scherm niet vergrendelt, dan zal het automatisch vergrendeld worden na een bepaalde tijd.</p>
+<p class="p">Om uw scherm te vergrendelen: klik op het <span class="gui">Systeemmenu</span> rechts in de bovenbalk en klik op de knop <span class="gui">Scherm vergrendelen</span> aan de onderkant van het menu.</p>
+<p class="p">Wanneer uw scherm vergrendeld is, kunnen andere gebruikers zich aanmelden via hun eigen account door te klikken op <span class="gui">Gebruiker wisselen</span> in het wachtwoordscherm. Wanneer zij klaar zijn kunt u terugkeren naar uw bureaublad.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -117,15 +106,8 @@
 <div class="hgroup"><h2 class="title"><span class="title">Pauzestand</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">To save power, suspend your computer when you are not using it. If you use
-  a laptop, GNOME, by default, suspends your computer automatically when you
-  close the lid.
-  This saves your state to your computer’s memory and powers off most of the
-  computer’s functions. A very small amount of power is still used during
-  suspend.</p>
-<p class="p">To suspend your computer manually, click the system menu on the right side
-  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
-  click the power off button, or simply long-click the power off button.</p>
+<p class="p">Zet uw computer in de pauzestand wanneer u deze niet gebruikt, om zo stroom te besparen. Als u een laptop heeft, zal Gnome uw computer automatisch in de pauzestand zetten wanneer u hem dichtdoet . Hiermee wordt alles opgeslagen in het geheugen van de computer en worden de meeste van de functies op uw computer uitgeschakeld. Er wordt nog een heel klein beetje stroom gebruikt tijdens de pauzestand.</p>
+<p class="p">Om uw computer handmatig in de pauzestand te zetten: klik op het <span class="gui">Systeemmenu</span> rechts in de bovenbalk. Van daaruit kunt u de <span class="key"><kbd>Alt</kbd></span>-toets ingedrukt houden terwijl u op de knop <span class="gui">Uitschakelen</span> drukt, of u drukt gewoon lang op de knop <span class="gui">Uitschakelen</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -133,7 +115,7 @@
 <div class="title"><h3><span class="title">Zie ook</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html.nl" title="Automatische pauzestand instellen">Automatische pauzestand instellen</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.nl" title="Automatische pauzestand instellen">Automatische pauzestand instellen</a><span class="desc"> — Automatische pauzestand instellen voor uw computer.</span>
 </li>
 <li class="links ">
 <a href="power-batterylife.html.nl" title="Gebruik minder stroom en verbeter de levensduur van de accu">Gebruik minder stroom en verbeter de levensduur van de accu</a><span class="desc"> — Tips om het energieverbruik van uw computer te verminderen.</span>
@@ -147,20 +129,12 @@
 </div>
 </div></div>
 <div id="shutdown" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Afsluiten of opnieuw opstarten</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Uitschakelen of opnieuw opstarten</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you want to power off your computer entirely, or do a full restart,
-  click the system menu on the right side of the top bar and press the power
-  off button at the bottom of the menu. A dialog will open offering you the
-  options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
-<p class="p">If there are other users logged in, you may not be allowed to power off or
-  restart the computer because this will end their sessions.  If you are an
-  administrative user, you may be asked for your password to power off.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You may want to power off your computer if you wish to move it and do
-    not have a battery, if your battery is low or does not hold charge well. A
-    powered off computer also uses <span class="link"><a href="power-batterylife.html.nl" title="Gebruik minder stroom en verbeter de levensduur van de accu">less
-    energy</a></span> than one which is suspended.</p></div></div></div></div>
+<p class="p">Als u de computer uit wilt zetten of opnieuw wilt starten: klik op het <span class="gui">Systeemmenu</span> rechts in de bovenbalk en druk op de knop <span class="gui">Uitschakelen</span> aan de onderkant van het menu. Er wordt een dialoogvenster geopend waarin u kunt kiezen tussen <span class="gui">Opnieuw starten</span> of <span class="gui">Uitschakelen</span>.</p>
+<p class="p">Als er andere gebruikers aangemeld zijn, dan kan het zijn dat u de computer niet mag uitschakelen of herstarten omdat daarmee hun sessies beëindigd zullen worden. Als u beheerder bent, dan kan het zijn dat u uw wachtwoord moet invoeren om uit te schakelen.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Het kan zijn dat u de computer uit wilt schakelen als u deze wilt verplaatsen en u geen accu heeft, als uw accu bijna leeg is of niet goed oplaadt. Een computer die uitgeschakeld is verbruikt ook <span class="link"><a href="power-batterylife.html.nl" title="Gebruik minder stroom en verbeter de levensduur van de accu">minder energie</a></span> dan een computer in pauzestand.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -181,7 +155,7 @@
 <div class="region"><ul>
 <li class="links "><a href="index.html.nl" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></li>
 <li class="links ">
-<a href="shell-overview.html.nl" title="Uw bureaublad">Uw bureaublad</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.nl" title="Agenda-afspraken">Agenda</a></span>, <span class="link"><a href="shell-notifications.html.nl" title="Notifications and the message tray">meldingen</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.nl" title="Handige sneltoetsen">sneltoetsen</a></span>, <span class="link"><a href="shell-windows.html.nl" title="Vensters en werkbladen">vensters en werkbladen</a></span>…</span>
+<a href="shell-overview.html.nl" title="Uw bureaublad">Uw bureaublad</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.nl" title="Agenda-afspraken">Agenda</a></span>, <span class="link"><a href="shell-notifications.html.nl" title="Meldingen en het berichtengebied">notificaties</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.nl" title="Handige sneltoetsen">sneltoetsen</a></span>, <span class="link"><a href="shell-windows.html.nl" title="Vensters en werkbladen">vensters en werkbladen</a></span>…</span>
 </li>
 <li class="links ">
 <a href="power.html.nl" title="Voeding &amp; accu">Voeding &amp; accu</a><span class="desc"> — <span class="link"><a href="power-status.html.nl" title="Controleer de accustatus">Accustatus</a></span>, <span class="link"><a href="power-suspend.html.nl" title="Wat gebeurt er wanneer ik mijn computer in de pauzestand zet?">pauzestand</a></span>, <span class="link"><a href="power-whydim.html.nl" title="Waarom wordt mijn scherm na enige tijd zwart?">scherm dimmen</a></span>…</span>
@@ -203,7 +177,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

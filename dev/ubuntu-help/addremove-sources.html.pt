@@ -94,7 +94,7 @@
 <li class="steps">
 <p class="p">Clique em <span class="gui">Adicionar</span> e digite a linha APT para o repositório. Tal deve estar disponível no site do repositório, e deve ser semelhante a:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
 <li class="steps"><p class="p">
@@ -111,13 +111,13 @@
 <p class="p">
       The Canonical Partner repository offers some proprietary applications 
       that don't cost any money to use but are closed source. They include 
-      software like <span class="app">Skype</span> and <span class="app">Adobe Flash Plugin</span>. Software
-      in this repository will appear in <span class="app">Ubuntu Software</span> search results
+      software like <span class="app">Adobe Flash Plugin</span>. Software in this
+      repository will appear in <span class="app">Ubuntu Software</span> search results
       but won't be installable until this repository is enabled.
     </p>
 <p class="p">Para ativar o repositório, siga os passos acima para abrir o separador <span class="gui">Outro Software</span> em <span class="app">Software e Atualizações</span>. Se vir o repositório <span class="gui">Parceiros da Canonical</span> na lista, certifique-se que está marcado e depois feche a janela <span class="app">Software e Atualizações</span>. Se não o vir, clique em <span class="gui">Adicionar</span> e insira:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
 <p class="p">Clique em <span class="gui">Adicionar Fonte</span> e feche a janela <span class="app">Software &amp; Updates</span>. Espere um momento para que <span class="app">Ubuntu Software</span> transfire a informação do repositório.</p>
 </div></div>
@@ -153,7 +153,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

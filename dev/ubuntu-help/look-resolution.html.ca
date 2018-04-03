@@ -75,9 +75,8 @@
   appear (for example, if you have a rotating display) by changing the
   <span class="em">rotation</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Displays</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Displays</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenceu a escriure <span class="gui">Mostrar</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Pantalles</span> per obrir el panell.</p></li>
 <li class="steps"><p class="p">If you have multiple displays and they are not mirrored, you can have
       different settings on each display. Select a display in the preview
       area.</p></li>
@@ -89,7 +88,7 @@
 </ol></div></div></div>
 </div>
 <div id="resolution" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Resolution</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Resolució</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">The resolution is the number of pixels (dots on the screen) in each
   direction that can be displayed. Each resolution has an <span class="em">aspect
@@ -104,7 +103,7 @@
 </div></div>
 </div></div>
 <div id="rotation" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Rotation</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Rotació</span></h2></div>
 <div class="region"><div class="contents"><p class="p">On some laptops, you can physically rotate the screen in many directions.
   It is useful to be able to change the display rotation. You can rotate what
   you see on your screen by pressing the buttons with the arrows.</p></div></div>
@@ -137,7 +136,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

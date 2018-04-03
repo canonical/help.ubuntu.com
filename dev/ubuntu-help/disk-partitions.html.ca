@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Manage volumes and partitions</title>
+<title>Gestioneu els volums i les particions</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,54 +67,26 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Manage volumes and partitions</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Gestioneu els volums i les particions</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The word <span class="em">volume</span> is used to describe a storage device, like a hard
- disk. It can also refer to a <span class="em">part</span> of the storage on that device,
- because you can split the storage up into chunks. The computer makes this
- storage accessible via your file system in a process referred to as
- <span class="em">mounting</span>. Mounted volumes may be hard drives, USB drives, DVD-RWs, SD
- cards, and other media. If a volume is currently mounted, you can read (and
- possibly write) files on it.</p>
-<p class="p">Often, a mounted volume is called a <span class="em">partition</span>, though they are not
- necessarily the same thing. A “partition” refers to a <span class="em">physical</span> area of
- storage on a single disk drive. Once a partition has been mounted, it can be
- referred to as a volume because you can access the files on it. You can think
- of volumes as the labeled, accessible “storefronts” to the functional “back
- rooms” of partitions and drives.</p>
+<p class="p">La paraula <span class="em">volum</span> s'utilitza per descriure un dispositiu d'emmagatzematge, com un disc dur. També pot referir-se a una <span class="em">part</span> del dispositiu d'emmagatzemament, perquè podeu dividir l'emmagatzematge en trossos. L'ordinador fa que s'hi pugui accedir a través del vostre sistema de fitxers en un procés anomenat <span class="em">muntage</span>. Els volums muntats poden ser discs durs, unitats USB, DVD-RW, targetes SD i altres suports. Si un volum està muntat, podeu llegir (i possiblement escriure-hi) fitxers.</p>
+<p class="p">Sovint, un volum muntat s'anomena <span class="em">partició</span>, tot i que no són necessàriament el mateix. na "partició" fa referència a una àrea <span class="em">física</span> d'emmagatzematge en una única unitat de disc. Una vegada que s'ha muntat una partició, es pot referir a un volum perquè pot accedir als fitxers en ell. Podeu pensar en els volums com els "magatzems" etiquetats i accessibles a les "habitacions posteriors" funcionals de les particions i discs..</p>
 </div>
 <div id="manage" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">View and manage volumes and partitions using the disk utility</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Consulteu i gestioneu volums i particions mitjançant la utilitat del disc</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can check and modify your computer’s storage volumes with the disk
- utility.</p>
+<p class="p">Podeu consultar i modificar els volums d'emmagatzematge de l'ordinador amb la utilitat del disc.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui">Activities</span> overview and start <span class="app">Disks</span>.</p></li>
-<li class="steps"><p class="p">In the list of storage devices on the left, you will find hard disks,
-    CD/DVD drives, and other physical devices. Click the device you want to
-    inspect.</p></li>
+<li class="steps"><p class="p">Obriu la vista conjunt d'<span class="gui">Activitats</span> i inicieu <span class="app">Discs</span>.</p></li>
+<li class="steps"><p class="p">A la llista de dispositius d'emmagatzematge de l'esquerra, trobareu discs durs, unitats de CD / DVD i altres dispositius físics. Feu clic al dispositiu que vulgueu inspeccionar.</p></li>
 <li class="steps">
-<p class="p">The right pane provides a visual breakdown of the volumes and
-    partitions present on the selected device. It also contains a variety of
-    tools used to manage these volumes.</p>
-<p class="p">Be careful: it is possible to completely erase the data on your disk with
-    these utilities.</p>
+<p class="p">El panell dret proporciona un desglossament visual dels volums i les particions presents al dispositiu seleccionat. També conté diverses eines per gestionar aquests volums.</p>
+<p class="p">Aneu amb compte: és possible esborrar completament les dades del vostre disc amb aquestes utilitats.</p>
 </li>
 </ol></div></div></div>
-<p class="p">Your computer most likely has at least one <span class="em">primary</span> partition and a
- single <span class="em">swap</span> partition. The swap partition is used by the operating
- system for memory management, and is rarely mounted.  The primary partition
- contains your operating system, applications, settings, and personal files.
- These files can also be distributed among multiple partitions for security or
- convenience.</p>
-<p class="p">One primary partition must contain information that your computer uses to
-  start up, or <span class="em">boot</span>. For this reason it is sometimes called a boot
-  partition, or boot volume. To determine if a volume is bootable, select the
-  partition and click the menu button in the toolbar underneath the partition
-  list. Then, click <span class="gui">Edit Partition…</span> and look at its
-  <span class="gui">Flags</span>. External media such as USB drives and CDs may also contain
-  a bootable volume.</p>
+<p class="p">És probable que el vostre ordinador tingui com a mínim una partició<span class="em">primaria</span> i una única partició d'<span class="em">intercanvi</span>. La partició d'intercanvi la utilitza el sistema operatiu per a la gestió de la memòria, i rarament es munta. La partició principal conté el vostre sistema operatiu, aplicacions, configuració i fitxers personals. Aquests fitxers també es poden distribuir entre diverses particions per seguretat o comoditat.</p>
+<p class="p">Una partició primària ha de contenir informació que l'ordinador utilitza per iniciar-se, o bé<span class="em">arrencar</span>. Per aquest motiu a vegades se l'anomena partició d'arrencada o volum d'arrencada. Per determinar si un volum es pot arrencar, seleccioneu la partició i feu clic al botó de menú de la barra d'eines a sota de la llista de particions. Aleshores, feu clic a <span class="gui">Editar Partició…</span> i mireu les <span class="gui">Marques</span>. Els mitjans externs, com ara unitats USB i CD, també poden contenir un volum d'arrencada.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -122,7 +94,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Check how much disk space is left">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Test the performance of your hard disk">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Check your hard disk for problems">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Manage volumes and partitions">volums i particions</a></span>…</span>
+<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu el vostre disc dur per problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -133,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

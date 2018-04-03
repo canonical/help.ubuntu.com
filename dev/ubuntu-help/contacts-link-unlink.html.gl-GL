@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="contacts.html.gl-GL" title="Contactos">Contactos</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="contacts.html.gl-GL" title="Contactos">Contactos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ligar e desligar contactos</span></h1></div>
@@ -76,8 +76,7 @@
 <p class="p">Pode combinar contactos duplicados desde o caderno de enderezos local e as contas en liña na entrada de <span class="app">Contactos</span>. Esta característica axúdalle a manter a súa axenda de enderezos organizada, con todos os detalles dun contacto no mesmo sitio.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Active o <span class="em">modo de selección</span> premendo no botón de marca sobre a lista de contactos.</p></li>
-<li class="steps"><p class="p">A checkbox will appear next to each contact. Tick the checkboxes next
-      to the contacts that you want to merge.</p></li>
+<li class="steps"><p class="p">Aparecerá unha caixa de verificación ao carón de cada contacto. Marque as caixas dos contactos que queira unir.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Ligar</span> para ligar os contactos seleccionados.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -89,10 +88,9 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Seleccione o contacto co que desexa desligar desde a súa lista de contactos.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Editar</span> na esquina superior dereita de <span class="app">Contactos</span>.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Linked Accounts</span>.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlink</span> to unlink the entry from the
-      contact.</p></li>
-<li class="steps"><p class="p">Close the window once you have finished unlinking the entries.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Contas ligadas</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Desligar</span> para desligar a entrada do contacto.</p></li>
+<li class="steps"><p class="p">Peche a xanela en canto remate o desligado de entradas.</p></li>
 <li class="steps"><p class="p">Prema en <span class="gui">Feito</span> para rematar a edición do contacto.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -113,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

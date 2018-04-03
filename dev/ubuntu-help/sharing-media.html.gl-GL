@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="prefs-sharing.html.gl-GL" title="Preferencias de compartición">Preferencias de compartición</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.gl-GL" title="Compartir">Compartir</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="sharing.html.gl-GL" title="Compartir">Compartir</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,19 +75,22 @@
 <div class="region">
 <div class="contents">
 <p class="p">Pode explorar, buscar e reproducir multimedia no seu computador usando un dispositivo con <span class="sys">UPnP</span> ou <span class="sys">DLNA</span> como un teléfono, TV ou consola de xogos. Configure <span class="gui">Compartición multimedia</span>para permitirlle a eses dispositivos acceder aos cartafoles que conteñen música, fotos e vídeos.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Debe ter o paquete <span class="app">Rygel</span> instalado para que <span class="gui">Compartición multimedia</span> estea visíbel.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Debe ter o paquete <span class="app">Rygel</span> instalado para que <span class="gui">Compartición multimedia</span> estea visíbel.</p>
+<p class="p"><span class="link-button link"><a href="apt:rygel" title="apt:rygel">Instalar Rygel</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Sharing</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sharing</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Compartición</span> no lateral dereito.</p></li>
 <li class="steps">
 <p class="p">Se <span class="gui">Compartición</span> está <span class="gui">Desactivado</span>, <span class="gui">actíveo</span>.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">If the text below <span class="gui">Computer Name</span> allows
-      you to edit it, you can <span class="link"><a href="sharing-displayname.html.gl-GL" title="Set the display name for your computer">change</a></span>
+      you to edit it, you can <span class="link"><a href="sharing-displayname.html.gl-GL" title="Estabeleza o nome do seu computador">change</a></span>
       the name your computer displays on the network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Compartición multimedia</span>.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Media Sharing</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Troque <span class="gui">Compartición multimedia</span> a <span class="gui">I</span>.</p></li>
 <li class="steps"><p class="p">By default, <span class="file">Music</span>, <span class="file">Pictures</span> and 
       <span class="file">Videos</span> are shared. To remove one of these, click the
       <span class="gui">×</span> next to the folder name.</p></li>
@@ -99,7 +102,7 @@
 </ol></div></div></div>
 </div>
 <div id="networks" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Networks</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Redes</span></h2></div>
 <div class="region"><div class="contents"><p class="p">The <span class="gui">Networks</span> section lists the networks to which you are
   currently connected. Use the <span class="gui">ON | OFF</span> switch next to each to
   choose where your media can be shared.</p></div></div>
@@ -115,7 +118,7 @@
 <li class="links ">
 <a href="prefs-sharing.html.gl-GL" title="Preferencias de compartición">Preferencias de compartición</a><span class="desc"> — 
       <span class="link"><a href="sharing-bluetooth.html.gl-GL" title="Controlar a compartición por Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.gl-GL" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.gl-GL" title="Compartir os seus ficheiros persoais">Personal file sharing</a></span>,
       <span class="link"><a href="sharing-desktop.html.gl-GL" title="Compartir o meu escritorio remoto">Screen sharing</a></span>,
       <span class="link"><a href="sharing-media.html.gl-GL" title="Comparta a súa música, fotos e vídeos">Media sharing</a></span>…
     </span>
@@ -130,7 +133,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

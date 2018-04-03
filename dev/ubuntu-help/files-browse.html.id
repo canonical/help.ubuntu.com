@@ -71,32 +71,15 @@
 <div class="region">
 <div class="contents">
 <p class="p">Gunakan <span class="app">File</span> Manajer file untuk mencari dan mengatur file di komputer Anda. Anda juga dapat menggunakannya untuk mengelola file pada perangkat penyimpanan (seperti hard disk eksternal), pada <span class="link"><a href="nautilus-connect.html.id" title="Browse files on a server or network share"> file server </a></span>, dan pada jaringan berbagi.</p>
-<p class="p">To start the file manager, open <span class="app">Files</span> in the
-<span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview. You can also search
-for files and folders through the overview in the same way you would
-<span class="link"><a href="shell-apps-open.html.id" title="Memulai aplikasi">search for applications</a></span>.
-</p>
+<p class="p">Untuk memulai pengelola berkas, buka <span class="app">Berkas</span> pada ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span>. Anda juga dapat mencari berkas dan folder-folder melalui ringkasan dengan cara yang serupa dengan <span class="link"><a href="shell-apps-open.html.id" title="Memulai aplikasi">cari aplikasi</a></span>.</p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mengeksplorasi isi folder</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">In the file manager, double-click any folder to view its contents, and
-double-click or <span class="link"><a href="mouse-middleclick.html.id" title="Klik tengah">middle-click</a></span> any file to
-open it with the default application for that file. Middle-click a folder to
-open it in a new tab. You can also right-click a folder to open it in a new tab
-or new window.</p>
-<p class="p">When looking through the files in a folder, you can quickly <span class="link"><a href="files-preview.html.id" title="Pratinjau berkas dan folder">preview each file</a></span> by pressing the space bar
-to be sure you have the right file before opening it, copying it, or
-deleting it.</p>
-<p class="p">The <span class="em">path bar</span> above the list of files and folders shows you which
-folder you’re viewing, including the parent folders of the current folder.
-Click a parent folder in the path bar to go to that folder. Right-click any
-folder in the path bar to open it in a new tab or window, or access its
-properties.</p>
-<p class="p">If you want to quickly <span class="link"><a href="files-search.html.id" title="Cari berkas">search for a file</a></span>,
-in or below the folder you are viewing, start typing its name. A <span class="em">search
-bar</span> will appear at the top of the window and only files which match your
-search will be shown. Press <span class="key"><kbd>Esc</kbd></span> to cancel the search.</p>
+<p class="p">Dalam file manager, klik ganda folder untuk melihat isinya, dan klik ganda atau <span class="link"><a href="mouse-middleclick.html.id" title="Klik tengah">klik tombol tengah</a></span> pada berkas apapun untuk membukanya dengan aplikasi yang baku untuk berkas tersebut. Anda juga dapat klik kanan folder untuk membukanya di tab baru atau jendela baru.</p>
+<p class="p">Apabila melihat ke berkas-berkas di dalam folder, Anda dapat dengan cepat <span class="link"><a href="files-preview.html.id" title="Pratinjau berkas dan folder">meninjau tiap berkas</a></span> dengan cara menekan tombol spasi untk memastikan berkas yang tepat sebelum membukanya, menyalinnya atau menghapusnya.</p>
+<p class="p"><span class="em">baris alamat</span> di atas daftar berkas dan folder menampilkan kepada Anda di mana folder yang sedang Anda lihat, termasuk induk folder dari folder yang dimaksud. Klik induk folder di baris alamat untuk pergi ke folder tersebut. Klik kanan pada folder di baris alamat untuk membukanya pada tab baru atau jendela, atau mengakses propertinya.</p>
+<p class="p">Jika Anda ingin secara cepat <span class="link"><a href="files-search.html.id" title="Cari berkas">mencari berkas</a></span>, di dalam atau di bawah folder yang sedang Anda lihat, mulai ketik namanya. <span class="em">baris pencarian</span> akan tampil di atas jende dan hanya berkas yang cocok dengan pencarian Anda yang akan di tampilkan. Tekan <span class="key"><kbd>Esc</kbd></span> untuk membatalkan pencarian.</p>
 <p class="p">You can quickly access common places from the <span class="em">sidebar</span>. If you do
 not see the sidebar, click <span class="gui">Files</span> in the top bar and then select
 <span class="gui">Sidebar</span>. You can add bookmarks to folders that you use often and
@@ -127,7 +110,7 @@ and then select <span class="gui">Bookmark this Location</span>.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

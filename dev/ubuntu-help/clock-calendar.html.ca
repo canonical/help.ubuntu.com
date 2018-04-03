@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Calendar appointments</title>
+<title>Cites de calendari</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,35 +65,29 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ca" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html.ca#desktop" title="Customize your desktop">Customize your desktop</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ca" title="El vostre escriptori">Desktop</a> › <a class="trail" href="shell-overview.html.ca#desktop" title="Customize your desktop">Customize your desktop</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="clock.html.ca" title="Date &amp; time">Date &amp; time</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="clock.html.ca" title="Data &amp; hora">Data &amp; hora</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Calendar appointments</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Cites de calendari</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
-<p class="p">This requires you to use your <span class="app">Evolution</span> calendar or for you
-    to have an online account set up which <span class="gui">Calendar</span> supports.</p>
-<p class="p">Most distributions come with <span class="app">Evolution</span> installed by default.
-    If yours does not, you may need to install it using your distribution’s
-    package manager.</p>
+<p class="p">Això requereix que utilitzeu el vostre calendari <span class="app">Evolution</span>  o perquè tingueu configurat un compte en línia que suporti <span class="gui">Calendar</span>.</p>
+<p class="p">La major part de distribucions venen amb <span class="app">Evolution</span> instal·lat per defecte. Si a la vostra no ho està, és possible que hagueu d'instal·lar-la utilitzant el gestor de paquets de la vostra distribució.</p>
 </div></div></div></div>
-<p class="p">To view your appointments:</p>
+<p class="p">Per veure les vostres cites:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Feu clic al rellotge del quadre superior.</p></li>
 <li class="steps">
-<p class="p">Click the date for which you want to see your appointments from the
-      calendar.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">A dot is shown under each date that has an appointment.</p></div></div></div></div>
-<p class="p">Existing appointments will be displayed to the left of the calendar.
-      As appointments are added to your <span class="app">Evolution</span> calendar, they
-      will appear in the clock’s appointment list.</p>
+<p class="p">Feu clic a la data per la qual voleu veure les vostres cites del calendari.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Es mostra un punt sota cada data que té una cita.</p></div></div></div></div>
+<p class="p">Les cites existents es mostraran a l'esquerra del calendari. A mesura que s'afegeixen cites al vostre calendari <span class="app">Evolution</span>, apareixeran a la llista de cites del rellotge.</p>
 </li>
 </ol></div></div></div>
-<div class="media media-image"><div class="inner"><img src="figures/shell-appts.png" width="500" class="media media-block" alt="Clock, calendar, and appointments"></div></div>
+<div class="media media-image"><div class="inner"><img src="figures/shell-appts.png" width="500" class="media media-block" alt="Rellotge, calendari i cites"></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -102,12 +96,7 @@
 <div class="region"><ul>
 <li class="links "><a href="shell-overview.html.ca#desktop" title="Customize your desktop">Customize your desktop</a></li>
 <li class="links ">
-<a href="clock.html.ca" title="Date &amp; time">Date &amp; time</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html.ca" title="Change the date and time">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.ca" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.ca" title="Change your timezone">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.ca" title="Calendar appointments">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html.ca" title="Data &amp; hora">Data &amp; hora</a><span class="desc"> — <span class="link"><a href="clock-set.html.ca" title="Canvieu la data i l'hora">Establir data i hora</a></span>, <span class="link"><a href="clock-world.html.ca" title="Afegiu un rellotge mundial">rellotges mundials</a></span>, <span class="link"><a href="clock-timezone.html.ca" title="Canvieu la vostra zona horària">zona horària</a></span>, <span class="link"><a href="clock-calendar.html.ca" title="Cites de calendari">calendari i cites</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -119,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

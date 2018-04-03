@@ -65,73 +65,36 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z siecią bezprzewodową</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z siecią bezprzewodową</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » <a class="trail" href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z siecią bezprzewodową</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » <a class="trail" href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z siecią bezprzewodową</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html.pl-PL" title="Rozwiązywanie problemów z połączeniem bezprzewodowym">Poprzednia</a></div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Rozwiązywanie problemów z siecią bezprzewodową</span></h1>
-<h2 class="subtitle"><span class="subtitle">Make sure that working device drivers are installed</span></h2>
+<h2 class="subtitle"><span class="subtitle">Upewnij się, że działające sterowniki urządzenia są zainstalowane</span></h2>
 </div>
 <div class="region">
 <div class="contents">
-<p class="p">In this step you can check to see if you can get working device drivers
-  for your wireless adapter. A <span class="em">device driver</span> is a piece of software
-  which tells the computer how to make a hardware device work properly. Even
-  though the wireless adapter has been recognized by the computer, it may not
-  have drivers which work very well. You may be able to find different drivers
-  for the wireless adapter which do work. Try some of the options below:</p>
+<p class="p">W tym kroku sprawdzimy, czy można pobrać działające sterowniki dla adaptera bezprzewodowego. <span class="em">Sterownik</span> to mały program mówiący komputerowi, jak właściwie używać urządzenia. Nawet jeśli adapter bezprzewodowy został wykryty przez komputer, może nie mieć dobrze działających sterowników. Często można znaleźć inne sterowniki dla adaptera, które będą działały. Można spróbować poniższych wskazówek.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Check to see if your wireless adapter is on a list of supported
-      devices.</p>
-<p class="p">Most Linux distributions keep a list of wireless devices that they
-      have support for. Sometimes, these lists provide extra information on how
-      to get the drivers for certain adapters working properly. Go to the list
-      for your distribution (for example,
-      <span class="link"><a href="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported" title="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">Ubuntu</a></span>,
-      <span class="link"><a href="https://wiki.archlinux.org/index.php/Wireless_network_configuration" title="https://wiki.archlinux.org/index.php/Wireless_network_configuration">Arch</a></span>,
-      <span class="link"><a href="http://linuxwireless.org/en/users/Drivers" title="http://linuxwireless.org/en/users/Drivers">Fedora</a></span> or
-      <span class="link"><a href="http://en.opensuse.org/HCL:Network_(Wireless)" title="http://en.opensuse.org/HCL:Network_(Wireless)">openSUSE</a></span>)
-      and see if your make and model of wireless adapter is listed. You may be
-      able to use some of the information there to get your wireless drivers
-      working.</p>
+<p class="p">Zobacz, czy adapter bezprzewodowy jest na liście obsługiwanych urządzeń.</p>
+<p class="p">Większość dystrybucji systemu Linux ma listę obsługiwanych urządzeń bezprzewodowych. Czasami te listy zawierają dodatkowe informacje na temat konfiguracji konkretnych adapterów. Przejdź do listy dla używanej dystrybucji (np. <span class="link"><a href="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported" title="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">Ubuntu</a></span>, <span class="link"><a href="https://wiki.archlinux.org/index.php/Wireless_network_configuration" title="https://wiki.archlinux.org/index.php/Wireless_network_configuration">Arch</a></span>, <span class="link"><a href="http://linuxwireless.org/en/users/Drivers" title="http://linuxwireless.org/en/users/Drivers">Fedora</a></span> lub <span class="link"><a href="http://en.opensuse.org/HCL:Network_(Wireless)" title="http://en.opensuse.org/HCL:Network_(Wireless)">openSUSE</a></span>, w języku angielskim) i zobacz, czy producent i model używanego adaptera bezprzewodowego jest na liście. Mogą tam być informacje przydatne do skonfigurowania sterowników.</p>
 </li>
 <li class="list">
-<p class="p">Look for restricted (binary) drivers.</p>
-<p class="p">Many Linux distributions only come with device drivers which are
-      <span class="em">free</span> and <span class="em">open source</span>. This is because they cannot
-      distribute drivers which are proprietary, or closed-source. If the
-      correct driver for your wireless adapter is only available in a non-free,
-      or “binary-only” version, it may not be installed by default. If this is
-      the case, look on the wireless adapter manufacturer’s website to see if
-      they have any Linux drivers.</p>
-<p class="p">Some Linux distributions have a tool that can download restricted
-      drivers for you. If your distribution has one of these, use it to see if
-      it can find any wireless drivers for you.</p>
+<p class="p">Poszukaj ograniczonych (binarnych) sterowników.</p>
+<p class="p">Wiele dystrybucji systemu Linux zawiera tylko sterowniki będące <span class="em">wolnym oprogramowaniem</span> i <span class="em">oprogramowaniem open source</span>, ponieważ nie mogą rozpowszechniać sterowników własnościowych lub o zamkniętym źródle. Jeśli właściwy sterownik dla używanego adaptera bezprzewodowego jest dostępny tylko w niewolnej, binarnej wersji, to może nie być domyślnie zainstalowany. Jeśli tak się dzieje, poszukaj sterowników dla systemu Linux na stronie producenta adaptera.</p>
+<p class="p">Niektóre dystrybucje systemu Linux mają narzędzie, które może pobrać ograniczone sterowniki za użytkownika. Jeśli używana dystrybucja ma takie narzędzie, to użyj go do wyszukania sterowników.</p>
 </li>
 <li class="list">
-<p class="p">Use the Windows drivers for your adapter.</p>
-<p class="p">In general, you cannot use a device driver designed for one operating
-      system (like Windows) on another operating system (like Linux). This is
-      because they have different ways of handling devices. For wireless
-      adapters, however, you can install a compatibility layer called
-      <span class="em">NDISwrapper</span> which lets you use some Windows wireless drivers on
-      Linux. This is useful because wireless adapters almost always have
-      Windows drivers available for them, whereas Linux drivers are sometimes
-      not available. You can learn more about how to use NDISwrapper
-      <span class="link"><a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page" title="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page">here</a></span>.
-      Note that not all wireless drivers can be used through NDISwrapper.</p>
+<p class="p">Użyj sterowników systemu Windows dla adaptera.</p>
+<p class="p">Zasadniczo nie można używać sterownika zaprojektowanego dla jednego systemu operacyjnego (np. Windows) w innym systemie (np. Linux). Jest tak, ponieważ obsługują one urządzenia na różne sposoby. W przypadku adapterów bezprzewodowych można jednak zainstalować warstwę zgodności o nazwie <span class="em">NDISwrapper</span>, która umożliwia używanie niektórych sterowników bezprzewodowych dla systemu Windows w systemie Linux. Jest to przydatne, ponieważ adaptery bezprzewodowe niemal zawsze mają dostępne sterowniki dla systemu Windows, a niekoniecznie dla systemu Linux. <span class="link"><a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page" title="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page">Ta strona</a></span> zawiera więcej informacji o tym, jak używać NDISwrapper. Zauważ, że nie wszystkich sterowników bezprzewodowych można używać przez warstwę NDISwrapper.</p>
 </li>
 </ul></div></div></div>
-<p class="p">If none of these options work, you may want to try a different wireless
-  adapter to see if you can get that working. USB wireless adapters are often
-  quite cheap, and will plug into any computer. You should check that the
-  adapter is compatible with your Linux distribution before buying it,
-  though.</p>
+<p class="p">Jeśli żadna z tych wskazówek nie pomaga, to można wypróbować inny adapter bezprzewodowy, aby zobaczyć, czy działa. Adaptery bezprzewodowe USB są często względnie tanie i można podłączyć je do każdego komputera. Przed zakupem należy jednak sprawdzić, czy jest on zgodny z używaną dystrybucją systemu Linux.</p>
 </div>
 <div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html.pl-PL" title="Rozwiązywanie problemów z połączeniem bezprzewodowym">Poprzednia</a></div>
 <div class="sect sect-links" role="navigation">
@@ -150,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

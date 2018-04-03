@@ -78,10 +78,9 @@
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.ru" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.ru" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ru" title="Завершение сеанса, выключение компьютера или переключение пользователей"><span class="title">Завершение сеанса, выключение компьютера или переключение пользователей</span><span class="linkdiv-dash"> — </span><span class="desc">Способы завершения работы с учётной записью: завершение сеанса, переключение пользователей и другие.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.ru" title="Как мне перевести мой компьютер в спящий режим?"><span class="title">Как мне перевести мой компьютер в спящий режим?</span><span class="linkdiv-dash"> — </span><span class="desc">Спящий режим отключён по умолчанию, поскольку плохо поддерживается.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.ru" title="Как получить максимум возможного от аккумулятора ноутбука"><span class="title">Как получить максимум возможного от аккумулятора ноутбука</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.ru" title="Как получить максимум возможного от аккумулятора ноутбука"><span class="title">Как получить максимум возможного от аккумулятора ноутбука</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.ru" title="Почему мой компьютер отключается, когда я закрываю его крышку?"><span class="title">Почему мой компьютер отключается, когда я закрываю его крышку?</span><span class="linkdiv-dash"> — </span><span class="desc">Ноутбуки переходят в ждущий режим при закрытии крышки для экономии электроэнергии.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.ru" title="Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора"><span class="title">Уменьшение потребляемой мощности и увеличение времени работы от аккумулятора</span><span class="linkdiv-dash"> — </span><span class="desc">Советы по уменьшению энергопотребления компьютера</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.ru" title="Что происходит при переходе компьютера в ждущий режим?"><span class="title">Что происходит при переходе компьютера в ждущий режим?</span><span class="linkdiv-dash"> — </span><span class="desc">В ждущем режиме компьютер «засыпает» и потребляет меньшую мощность.</span></a></div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

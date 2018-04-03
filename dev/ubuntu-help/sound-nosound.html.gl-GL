@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I cannot hear any sounds on the computer</title>
+<title>Non podo escoitar ningún son do computador</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,7 +71,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I cannot hear any sounds on the computer</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Non podo escoitar ningún son do computador</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">If you cannot hear any sounds on your computer, for example when you try
   to play music, go through the following troubleshooting tips.</p></div>
@@ -86,8 +86,7 @@
   using to play sound (for example, your music player or movie player). The
   application may have a mute or volume button in its main window, so check
   that.</p>
-<p class="p">Also, you can check the <span class="gui">Applications</span> tab in the <span class="gui">Sound</span>
-  GUI:</p>
+<p class="p">Tamén, pode comprobar a lapela de <span class="gui">Aplicativos</span> na interface de <span class="gui">Son</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra as <span class="app">Preferencias</span> desde a vista de <span class="gui">Actividades</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Son</span>.</p></li>
@@ -120,9 +119,9 @@
   have the correct sound device selected. This might involve some
   trial-and-error to choose the right one.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Son</span> para abrir o panel.</p></li>
 <li class="steps">
 <p class="p">In the <span class="gui">Output</span> tab, change the <span class="gui">Profile</span>
       settings for the selected device and play a sound to see if it works.
@@ -139,8 +138,7 @@
 <p class="p">Your sound card may not have been detected properly probably because 
   the drivers for the card are not installed. You may need to install the drivers
   for the card manually. How you do this depends on the type of the card. </p>
-<p class="p">Run the <span class="cmd">lspci</span> command in the Terminal to find out what sound
-  card you have:</p>
+<p class="p">Execute a orde <span class="cmd">lspci</span> no Terminal para obter máis información sobre a súa tarxeta de son:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Vaia á vista previa de <span class="gui">Actividades</span> e abra un terminal.</p></li>
 <li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html.gl-GL" title="Como funcionan os privilexios administrativos?">superuser</a></span>;
@@ -151,12 +149,8 @@
       in such case you should see the make and model number of the sound card. 
       Also, <span class="cmd">lspci -v</span> shows a list with more detailed information.</p></li>
 </ol></div></div></div>
-<p class="p">You may be able to find and install drivers for your card. It is best to
-  ask on support forums (or otherwise) for your Linux distribution for
-  instructions.</p>
-<p class="p">If you cannot get drivers for your sound card, you might prefer to buy a
-  new sound card. You can get sound cards that can be installed inside the
-  computer and external USB sound cards.</p>
+<p class="p">Pode que encontre e saiba instalar os controladores para a súa tarxeta. O mellor é pedir instrucións nos foros de soporte (ou similares) para a súa distribución de Linux.</p>
+<p class="p">Se non pode conseguir os controladores para a tarxeta de son, é posíbel que prefira comprar unha tarxeta de son nova. Pode obter tarxetas de son que se poden instalar no equipo e tarxetas de son externas USB.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -175,7 +169,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

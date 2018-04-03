@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Other people can’t play the videos I made</title>
+<title>Inni nie mogą odtwarzać filmów zrobionych na komputerze</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,48 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html.pl-PL#videos" title="Filmy i kamery">Filmy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html.pl-PL#videos" title="Filmy i kamery">Filmy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Inni nie mogą odtwarzać filmów zrobionych na komputerze</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you made a video on your Linux computer and sent it to someone using
-  Windows or Mac OS, you may find that they have problems playing the
-  video.</p>
-<p class="p">To be able to play your video, the person you sent it to must have the
-  right <span class="em">codecs</span> installed. A codec is a little piece of software that
-  knows how to take the video and display it on the screen. There are lots of
-  different video formats and each requires a different codec to play it back.
-  You can check which format your video is by doing:</p>
+<p class="p">Jeśli na komputerze z systemem Linux zrobiono film i wysłano go do kogoś używającego systemu Windows lub macOS, to może się okazać, że ma on problemy z jego odtworzeniem.</p>
+<p class="p">Aby móc odtwarzać ten film, właściwe <span class="em">kodeki</span> muszą być zainstalowane na komputerze odbiorcy. Kodek to oprogramowanie potrafiące przetworzyć plik z filmem i wyświetlić go na ekranie. Dostępnych jest wiele różnych formatów wideo i każdy z nich do odtworzenia wymaga innego kodeka. Można sprawdzić, jakiego formatu jest plik z filmem:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Open <span class="app">Files</span> from the
-      <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span> overview.</p></li>
-<li class="list"><p class="p">Right-click on the video file and select <span class="gui">Properties</span>.</p></li>
-<li class="list"><p class="p">Go to the <span class="gui">Audio/Video</span> or <span class="gui">Video</span> tab and look at
-      which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
-      <span class="gui">Audio</span> (if the video also has audio).</p></li>
+<li class="list"><p class="p">Otwórz program <span class="app">Pliki</span> z <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekranu podglądu</a></span>.</p></li>
+<li class="list"><p class="p">Kliknij plik wideo prawym przyciskiem myszy i wybierz <span class="gui">Właściwości</span>.</p></li>
+<li class="list"><p class="p">Przejdź do karty <span class="gui">Dźwięk/obraz</span> lub <span class="gui">Wideo</span> i zobacz, jaki <span class="gui">Kodek</span> jest wyświetlany w sekcjach <span class="gui">Wideo</span> i <span class="gui">Dźwięk</span> (jeśli plik z filmem ma też dźwięk).</p></li>
 </ul></div></div></div>
-<p class="p">Ask the person having problems with playback if they have the right codec
-  installed. They may find it helpful to search the web for the name of the
-  codec plus the name of their video playback application. For example, if your
-  video uses the <span class="em">Theora</span> format and you have a friend using Windows
-  Media Player to try and watch it, search for “theora windows media player”.
-  You will often be able to download the right codec for free if it’s not
-  installed.</p>
-<p class="p">If you can’t find the right codec, try the
-  <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span>. It works
-  on Windows and Mac OS as well as Linux, and supports a lot of different video
-  formats. Failing that, try converting your video into a different format.
-  Most video editors are able to do this, and specific video converter
-  applications are available. Check the software installer application to see
-  what’s available.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">There are a few other problems which might prevent someone from playing
-    your video. The video could have been damaged when you sent it to them
-    (sometimes big files aren’t copied across perfectly), they could have
-    problems with their video playback application, or the video may not have
-    been created properly (there could have been some errors when you saved the
-    video).</p></div></div></div></div>
+<p class="p">Zapytaj osobę mającą problem z odtwarzaniem, czy ma zainstalowany właściwy kodek. Pomocne może być wyszukanie w Internecie nazwy kodeka plus nazwy odtwarzacza filmów. Na przykład, jeśli film używa formatu <span class="em">Theora</span>, a znajoma używa programu Windows Media Player do jego odtworzenia, to należy wyszukać „theora windows media player”. Często można bezpłatnie pobrać właściwy kodek, jeśli nie jest zainstalowany.</p>
+<p class="p">Jeśli nie można odnaleźć właściwego kodeku, to wypróbuj program <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC</a></span>. Działa on w systemach Windows i macOS, a także Linux, i obsługuje wiele różnych formatów wideo. Jeśli to się nie powiedzie, to spróbuj konwertować film na inny format. Większość edytorów wideo może to zrobić, a dostępne są także specjalistyczne programy do konwersji filmów. Poszukaj dostępnych programów w instalatorze oprogramowania.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Kilka innych problemów może uniemożliwiać komuś odtwarzanie filmu. Mógł on zostać uszkodzony podczas wysyłania (czasami duże pliki nie są kopiowane idealnie), odtwarzacz filmów może działać nieprawidłowo, albo film nie został poprawnie utworzony (mogły wystąpić błędy podczas jego zapisywania).</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -121,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

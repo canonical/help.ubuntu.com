@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>File manager behavior preferences</title>
+<title>Preferències del gestor d'arxius</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,16 +67,16 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.ca" title="File manager preferences">File manager preferences</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">File manager behavior preferences</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Preferències del gestor d'arxius</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">You can control whether you single-click or double-click files, how
 executable text files are handled, and the trash behavior. Click
 <span class="gui">Files</span> in the top bar, pick <span class="gui">Preferences</span> and select the <span class="gui">Behavior</span> tab.</p></div>
 <div id="behavior" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Behavior</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Comportament</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Single click to open items</span></dt>
-<dt class="terms"><span class="gui">Double click to open items</span></dt>
+<dt class="terms"><span class="gui">Clic simple per obrir els elements</span></dt>
+<dt class="terms"><span class="gui">Clic doble per obrir els elements</span></dt>
 <dd class="terms"><p class="p">By default, clicking selects files and double-clicking opens them.
   You can instead choose to have files and folders open when you click on
   them once. When you use single-click mode, you can hold down the
@@ -84,7 +84,7 @@ executable text files are handled, and the trash behavior. Click
 </dl></div></div></div></div></div>
 </div></div>
 <div id="executable" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Executable text files</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Fitxer de text executable</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">An executable text file is a file that contains a program that you can run
  (execute). The <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Set file permissions">file
@@ -92,42 +92,35 @@ executable text files are handled, and the trash behavior. Click
  common are <span class="sys">Shell</span>, <span class="sys">Python</span> and <span class="sys">Perl</span> scripts.
  These have extensions <span class="file">.sh</span>, <span class="file">.py</span> and <span class="file">.pl</span>,
  respectively.</p>
-<p class="p">When you open an executable text file, you can select from:</p>
+<p class="p">Quan obriu un fitxer de text executable, podeu seleccionar entre:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Run executable text files when they are opened</span></p></li>
-<li class="list"><p class="p"><span class="gui">View executable text files when they are opened</span></p></li>
-<li class="list"><p class="p"><span class="gui">Ask each time</span></p></li>
+<li class="list"><p class="p"><span class="gui">Executeu fitxers de text executables quan s'obrin</span></p></li>
+<li class="list"><p class="p"><span class="gui">Visualitzeu fitxers de text executables quan s'obrin</span></p></li>
+<li class="list"><p class="p"><span class="gui">Preguntar cada vegada</span></p></li>
 </ul></div></div></div>
-<p class="p">If <span class="gui">Ask each time</span> is selected, a dialog will pop up asking if you
- wish to run or view the selected text file.</p>
-<p class="p">Executable text files are also called <span class="em">scripts</span>. All scripts in the
- <span class="file">~/.local/share/nautilus/scripts</span> folder will appear in the context
- menu for a file under the <span class="gui">Scripts</span> submenu. When a
- script is executed from a local folder, all selected files will be pasted to
- the script as parameters. To execute a script on a file:</p>
+<p class="p">Si està seleccionat <span class="gui">Preguntar cada vegada</span>, es mostrarà un diàleg flotant preguntant-vos si el voleu executar o visualitzar.</p>
+<p class="p">Els fitxers text executables també s'anomenen <span class="em">scripts</span>. Tots els scripts a la carpeta <span class="file">~/.local/share/nautilus/scripts</span> apareixerà al menú contextual per a un fitxer sota el <span class="gui">Script</span> submenu. Quan un script s'executa des d'una carpeta local, tots els fitxers seleccionats s'enganxaran al script com a paràmetres. Per executar un script en un fitxer:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Navigate to the desired folder.</p></li>
-<li class="steps"><p class="p">Select the desired file.</p></li>
-<li class="steps"><p class="p">Right click on the file to open the context menu and select the desired
-    script to execute from the <span class="gui">Scripts</span> menu.</p></li>
+<li class="steps"><p class="p">Navegar a la carpeta desitjada.</p></li>
+<li class="steps"><p class="p">Seleccioneu l'arxiu desitjat.</p></li>
+<li class="steps"><p class="p">Feu clic amb el botó dret al fitxer per obrir el menú contextual i seleccioneu la seqüència que desitgeu executar des del menú <span class="gui">Scripts</span>.</p></li>
 </ol></div></div></div>
-<div class="note note-important" title="Important"><div class="inner"><div class="region"><div class="contents"><p class="p">A script will not be passed any parameters when executed from a remote
-  folder such as a folder showing web or <span class="sys">ftp</span> content.</p></div></div></div></div>
+<div class="note note-important" title="Important"><div class="inner"><div class="region"><div class="contents"><p class="p">Un script no passarà cap paràmetre quan s'executi des d'una carpeta remota, com ara una carpeta que mostra contingut web o <span class="sys">ftp</span>.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="trash" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Trash</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Paperera</span></h2></div>
 <div class="region">
 <div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Ask before emptying the Trash</span></dt>
-<dd class="terms"><p class="p">This option is selected by default.  When emptying the trash, a message will be displayed confirming that you would like to empty the trash or delete files.</p></dd>
+<dt class="terms"><span class="gui">Preguntar abans de buidar la Paperera</span></dt>
+<dd class="terms"><p class="p">Aquesta opció es selecciona de manera predeterminada. Quan es buidi la paperera, es mostrarà un missatge per confirmar que voleu buidar la paperera o eliminar els fitxers.</p></dd>
 </dl></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Vegeu també</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="files-delete.html.ca" title="Delete files and folders">Delete files and folders</a><span class="desc"> — Remove files or folders you no longer need.</span>
+<a href="files-delete.html.ca" title="Eliminar fitxers i carpetes.">Eliminar fitxers i carpetes.</a><span class="desc"> — Eliminar els arxius o carpetes que ja no necessitareu.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -149,7 +142,7 @@ executable text files are handled, and the trash behavior. Click
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

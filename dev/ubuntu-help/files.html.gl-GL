@@ -74,7 +74,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Tarefas comúns</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-search.html.gl-GL" title="Buscar ficheiros"><span class="title">Buscar ficheiros</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.gl-GL" title="Buscar ficheiros"><span class="title">Buscar ficheiros</span><span class="linkdiv-dash"> — </span><span class="desc">Buscar os ficheiros baseándose no nome do ficheiro e o tipo.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-copy.html.gl-GL" title="Copiar ou mover ficheiros e cartafoles"><span class="title">Copiar ou mover ficheiros e cartafoles</span><span class="linkdiv-dash"> — </span><span class="desc">Copiar ou mover elementos a un novo cartafol.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-delete.html.gl-GL" title="Eliminar ficheiros e cartafoles"><span class="title">Eliminar ficheiros e cartafoles</span><span class="linkdiv-dash"> — </span><span class="desc">Quitar ficheiros ou cartafois que non se necesitan.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-browse.html.gl-GL" title="Explorar ficheiros e cartafoles"><span class="title">Explorar ficheiros e cartafoles</span><span class="linkdiv-dash"> — </span><span class="desc">Xestione e organice ficheiros co xestor de ficheiros.</span></a></div>
@@ -87,24 +87,23 @@
 </div></div></div></div></div>
 </div></div>
 <div id="more-file-tasks" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">More file-related tasks</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Máis tarefas relacionadas con ficheiros</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="files-open.html.gl-GL" title="Abrir ficheiros con outros aplicativos"><span class="title">Abrir ficheiros con outros aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
     type of file. You can change the default too.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html.gl-GL" title="Buscar un ficheiro perdido"><span class="title">Buscar un ficheiro perdido</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
-    downloaded.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.gl-GL" title="Buscar un ficheiro perdido"><span class="title">Buscar un ficheiro perdido</span><span class="linkdiv-dash"> — </span><span class="desc">Siga estas indicacións se non atopa o ficheiro que creou ou descargou.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-share.html.gl-GL" title="Compartir ficheiro por correo electrónico"><span class="title">Compartir ficheiro por correo electrónico</span><span class="linkdiv-dash"> — </span><span class="desc">Transfira ficheiros de forma doada aos seus contactos de correo desde o xestor de ficheiros.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.gl-GL" title="Desactivar ou limitar o seguimento do historial de ficheiros"><span class="title">Desactivar ou limitar o seguimento do historial de ficheiros</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
+    files.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.gl-GL" title="Escribir ficheiro nun CD ou DVD"><span class="title">Escribir ficheiro nun CD ou DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Poñer ficheiros e documentos nun CD ou DVD baleiro usando unha gravadora de CD/DVD.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.gl-GL" title="Examinar ficheiros nun servidor ou compartición de rede"><span class="title">Examinar ficheiros nun servidor ou compartición de rede</span><span class="linkdiv-dash"> — </span><span class="desc">Ver e editar ficheiros noutro equipo sobre FTP, SSH, compartidos de Windows ou WebDAV.</span></a></div>
 </div>
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.gl-GL" title="Examinar ficheiros nun servidor ou compartición de rede"><span class="title">Examinar ficheiros nun servidor ou compartición de rede</span><span class="linkdiv-dash"> — </span><span class="desc">Ver e editar ficheiros noutro equipo sobre FTP, SSH, compartidos de Windows ou WebDAV.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.gl-GL" title="Limpar o lixo e ficheiros temporais"><span class="title">Limpar o lixo e ficheiros temporais</span><span class="linkdiv-dash"> — </span><span class="desc">Estabeleza cada canto tempo se limpará o lixo e os ficheiros temporais do seu computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros"><span class="title">Preferencias do xestor de ficheiros</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros"><span class="title">Preferencias do xestor de ficheiros</span><span class="linkdiv-dash"> — </span><span class="desc">Ver e estabelecer preferencias desde o navegador de ficheiros.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.gl-GL" title="Propiedades do ficheiro"><span class="title">Propiedades do ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Ver información básica do ficheiro, asignar permisos e seleccionar aplicativos predeterminados.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-recover.html.gl-GL" title="Recuperar un ficheiro eliminado"><span class="title">Recuperar un ficheiro eliminado</span><span class="linkdiv-dash"> — </span><span class="desc">Os ficheiros eliminados normalmente envíanse ao lixo, polo que pode recuperalos.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.gl-GL" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
-    files.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -133,15 +132,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Consellos e preguntas</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.gl-GL" title="Agochar un ficheiro"><span class="title">Agochar un ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Make a file invisible, so you cannot see it in the file
-    manager.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.gl-GL" title="Agochar un ficheiro"><span class="title">Agochar un ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Facer un ficheiro invisíbel, para que non se poida ver no xestor de ficheiros.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.gl-GL" title="Editar marcadores de cartafoles"><span class="title">Editar marcadores de cartafoles</span><span class="linkdiv-dash"> — </span><span class="desc">Engadir, eliminar e renomear marcadores no xestor de ficheiros.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.gl-GL" title="Estabelecer os permisos dun ficheiro"><span class="title">Estabelecer os permisos dun ficheiro</span><span class="linkdiv-dash"> — </span><span class="desc">Controle quen pode ver e editar os seus ficheiros e cartafoles.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="files-templates.html.gl-GL" title="Modelos para tipos de documentos usados comunmente"><span class="title">Modelos para tipos de documentos usados comunmente</span><span class="linkdiv-dash"> — </span><span class="desc">Crear rapidamente documentos desde ficheiros de plantillas personalizados.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.gl-GL" title="Que é un ficheiro cunha «~» ao final do seu nome?"><span class="title">Que é un ficheiro cunha «~» ao final do seu nome?</span><span class="linkdiv-dash"> — </span><span class="desc">Estes son ficheiros de copias de seguranza. Están ocultos de maneira predeterminada.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-select.html.gl-GL" title="Seleccionar ficheiros por patróns"><span class="title">Seleccionar ficheiros por patróns</span><span class="linkdiv-dash"> — </span><span class="desc">Prema <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> para trocar entre as xanelas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.gl-GL" title="What is a file with a ~ at the end of its name?"><span class="title">What is a file with a <span class="file">~</span> at the end of its name?</span><span class="linkdiv-dash"> — </span><span class="desc">Estes son ficheiros de copias de seguranza. Están ocultos de maneira predeterminada.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -159,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

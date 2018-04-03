@@ -79,7 +79,7 @@
 <li class="steps"><p class="p">Slå om <span class="gui">Automatiskt inlogging</span> till <span class="gui">PÅ</span>.</p></li>
 </ol></div></div></div>
 <p class="p">När du startar din dator nästa gång kommer du att loggas in automatiskt. Om du har detta alternativ aktiverat behöver du inte skriva in ditt lösenord för att logga in på ditt konto vilket innebär att om någon annan startar din dator så kommer de att ha åtkomst till ditt konto och dina personliga data inklusive dina filer och webbläsarhistorik.</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Om din kontotyp är <span class="em">Standard</span> så kan du inte ändra denna inställning. Kontakta systemadministratören som kan ändra denna inställningen åt dig.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Om din kontotyp är <span class="em">Standard</span> så kan du inte ändra denna inställning. Kontakta systemadministratören som kan ändra denna inställning åt dig.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -103,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

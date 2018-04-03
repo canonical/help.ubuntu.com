@@ -76,23 +76,19 @@
   files to other computers or perform <span class="link"><a href="backup-why.html.id" title="Backup berkas-berkas penting Anda">backups</a></span> by
   putting files onto a blank disc. To write files to a CD or DVD:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Place an empty disc into your CD/DVD writable drive.</p></li>
+<li class="steps"><p class="p">Tempatkan cakram kosong ke dalam penulis CD / DVD Anda.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Blank CD/DVD-R Disc</span> notification that pops up at the
-      bottom of the screen, select <span class="gui">Open with CD/DVD Creator</span>. The
-      <span class="gui">CD/DVD Creator</span> folder window will open.</p>
-<p class="p">(Anda juga dapat mengklik <span class="gui">Disc CD/DVD-R Kosong</span> di bawah <span class="gui">Perangkat</span> di bilah sisi manajer berkas.)</p>
+<p class="p">Pada notifikasi <span class="gui">CD/DVD-R Kosong</span> yang muncul pada bagian bawah layar, pilih <span class="gui">Buka dengan Pembuat CD/DVD</span>. Jendela folder <span class="gui">Pembuat CD/DVD</span> akan terbuka.</p>
+<p class="p">(Anda juga dapat mengklik <span class="gui">Disc CD/DVD-R Kosong</span> di bawah <span class="gui">Perangkat</span> di bilah sisi pengelola berkas.)</p>
 </li>
-<li class="steps"><p class="p">In the <span class="gui">Disc Name</span> field, type a name for the disc.</p></li>
+<li class="steps"><p class="p">Dalam kotak teks <span class="gui">Nama Cakram</span>, ketikkan nama bagi cakram.</p></li>
 <li class="steps"><p class="p">Tarik atau salin berkas yang diinginkan ke dalam jendela.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tulis ke Disc</span>.</p></li>
 <li class="steps">
 <p class="p">Di bawah <span class="gui">Pilih disc yang akan ditulisi</span>, pilih disc kosong.</p>
 <p class="p">(Anda bisa memilih <span class="gui">Berkas gambar</span> sebagai gantinya. Hal ini akan menempatkan berkas ke dalam <span class="em">image disc</span>, yang akan disimpan pada komputer Anda. Anda kemudian dapat membakar bahwa image disc ke disc kosong di kemudian hari.)</p>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Properties</span> if you want to adjust burning speed, the
-      location of temporary files, and other options. The default options
-      should be fine.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Properti</span> bila Anda ingin mengatur kecepatan pembakaran, lokasi berkas sementara, dan opsi-opsi lainnya. Opsi baku seharusnya sudah tepat.</p></li>
 <li class="steps">
 <p class="p">Klik tombol <span class="gui">Bakar</span> untuk mulai merekam.</p>
 <p class="p">Bila <span class="gui">Bakar Beberapa Salinan</span> dipilih, Anda akan dimintai disc tambahan.</p>
@@ -101,15 +97,10 @@
 </ol></div></div></div>
 </div>
 <div id="problem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Bila cakram tidak dibakar secara benar</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
-  able to see the files you put onto the disc when you insert it into a
-  computer.</p>
-<p class="p">In this case, try burning the disc again but use a lower burning speed,
-  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
-  You can choose the speed by clicking the <span class="gui">Properties</span> button in the
-  <span class="gui">CD/DVD Creator</span> window.</p>
+<p class="p">Terkadang komputer tidak merekam data dengan benar, dan Anda tidak akan dapat melihat file yang Anda masukkan ke cakram ketika Anda memasukkannya ke komputer.</p>
+<p class="p">Dalam hal ini, coba bakar ulang cakram namun gunakan kecepatan pemakaran yang rendah, misal, 12x dari pada menggunakan 48x. Membakar dengan kecepatan rendah lebih bisa diandalkan. Anda dapat memilih kecepatan dengan mengklik tombol <span class="gui">Properti</span> di jendela <span class="gui">Pembuat CD/DVD</span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -126,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

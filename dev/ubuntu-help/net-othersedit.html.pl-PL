@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Other users can’t edit the network connections</title>
+<title>Inni użytkownicy nie mogą modyfikować połączeń sieciowych</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,28 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Other users can’t edit the network connections</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Inni użytkownicy nie mogą modyfikować połączeń sieciowych</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you can edit a network connection but other users on your computer
-  can’t, you may have set the connection to be <span class="em">available to all users</span>.
-  This makes it so that everyone on the computer can <span class="em">connect</span> using
-  that connection.</p>
+<p class="p">Jeśli tylko jeden użytkownik na komputerze może modyfikować połączenie sieciowe, to być może ustawiono opcję <span class="em">Dostępne dla wszystkich użytkowników</span>. Sprawia to, że wszyscy użytkownicy na komputerze mogą <span class="em">łączyć się</span> za pomocą tego połączenia.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span> from the list on the left.</p></li>
-<li class="steps"><p class="p">Click the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to open the connection
-      details.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Identity</span> from the pane on the left.</p></li>
-<li class="steps"><p class="p">At the bottom of the <span class="gui">Identity</span> panel, check the <span class="gui">Make
-      available to other users</span> option to allow other users to use the
-      network connection.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Apply</span> to save the changes.</p></li>
+<li class="steps"><p class="p">Wybierz <span class="gui">Wi-Fi</span> z listy po lewej.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ustawienia"></span></span>, aby otworzyć informacje o połączeniu.</p></li>
+<li class="steps"><p class="p">Wybierz <span class="gui">Tożsamość</span> z panelu po lewej.</p></li>
+<li class="steps"><p class="p">Na dole panelu <span class="gui">Tożsamość</span> zaznacz opcję <span class="gui">Dostępne dla innych użytkowników</span>, aby pozostali użytkownicy mogli używać połączenia sieciowego.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Zastosuj</span>, aby zapisać zmiany.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -94,21 +87,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.pl-PL" title="Mojej sieci bezprzewodowej nie ma na liście">finding your wifi network</a></span>…
-    </span>
+<a href="net-problem.html.pl-PL" title="Problemy z siecią">Problemy z siecią</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.pl-PL" title="Rozwiązywanie problemów z siecią bezprzewodową">Rozwiązywanie problemów z połączeniami bezprzewodowymi</a></span>, <span class="link"><a href="net-wireless-find.html.pl-PL" title="Mojej sieci bezprzewodowej nie ma na liście">jak znaleźć swoją sieć Wi-Fi</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html.pl-PL" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="net-othersconnect.html.pl-PL" title="Inni użytkownicy nie mogą łączyć się z Internetem">Inni użytkownicy nie mogą łączyć się z Internetem</a><span class="desc"> — Można zapisać ustawienia (takie jak hasło) połączenia sieciowego, aby każdy użytkownik komputera mógł się z nim łączyć.</span>
 </li>
 <li class="links ">
-<a href="net-othersconnect.html.pl-PL" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — You can save settings (like the password) for a network connection so that everyone who uses the computer will be able to connect to it.</span>
+<a href="user-admin-explain.html.pl-PL" title="Jak działają uprawnienia administracyjne?">Jak działają uprawnienia administracyjne?</a><span class="desc"> — Do zmiany ważnych części systemu wymagane są uprawnienia administracyjne.</span>
 </li>
 </ul></div>
 </div></div>
@@ -121,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

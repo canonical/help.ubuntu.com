@@ -107,13 +107,13 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
+<li class="links ">
+<a href="display-blank.html.id" title="Atur waktu pengosongan layar">Atur waktu pengosongan layar</a><span class="desc"> — Ubah waktu mengosongkan layar untuk menghemat daya.</span>
+</li>
 <li class="links "><a href="shell-exit.html.id#lock-screen" title="Kunci layar">Kunci layar</a></li>
 <li class="links ">
 <a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Secara otomatis mengunci layar Anda</a><span class="desc"> — Prevent other people from using your desktop when you
     go away from your computer.</span>
-</li>
-<li class="links ">
-<a href="display-blank.html.id" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
 </li>
 </ul></div>
 </div></div>
@@ -126,7 +126,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

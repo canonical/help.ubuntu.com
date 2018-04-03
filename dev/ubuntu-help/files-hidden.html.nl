@@ -64,16 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#faq" title="Tips en vragen">Tips en vragen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Een bestand verbergen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">In de <span class="app">Bestanden</span>-bestandsbeheerder kunt u naar wens bestanden verbergen of weer zichtbaar maken. Wanneer een bestand verborgen is, dan wordt het niet getoond in bestandsbeheer, maar het is nog wel aanwezig in de map.</p>
-<p class="p">Om een bestand te verbergen <span class="link"><a href="files-rename.html.nl" title="Een bestand of map hernoemen">hernoemt</a></span> u het zodat de naam met een <span class="file">.</span> begint. Bijvoorbeeld, om het bestand met de naam <span class="file">voorbeeld.txt</span> te verbergen moet u hernoemen naar <span class="file">.voorbeeld.txt</span>.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">You can hide folders in the same way that you can hide files. Hide a
-  folder by placing a <span class="file">.</span> at the beginning of the folder’s name.</p></div></div></div></div>
+<p class="p">Om een bestand te verbergen <span class="link"><a href="files-rename.html.nl" title="Een bestand of map hernoemen">hernoemt</a></span> u het zodat de naam met een <span class="key"><kbd>.</kbd></span> begint. Bijvoorbeeld, om het bestand met de naam <span class="file">voorbeeld.txt</span> te verbergen moet u hernoemen naar <span class="file">.voorbeeld.txt</span>.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt mappen op dezelfde manier verbergen als bestanden. Verberg een map door een <span class="file">.</span> aan het begin van de mapnaam te plaatsen.</p></div></div></div></div>
 </div>
 <div id="show-hidden" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Alle verborgen bestanden weergeven</span></h2></div>
@@ -85,7 +84,7 @@
 <div id="unhide" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Een bestand zichtbaar maken</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Om een bestand weer zichtbaar te maken: ga naar de map waarin zich het verborgen bestand bevindt, klik in de taakbalk op de knop Weergaveopties en kies <span class="gui">Verborgen bestanden weergeven</span>. Zoek vervolgens het verborgen bestand en hernoem het zodat het niet meer met een <span class="file">.</span>begint. Bijvoorbeeld, om een bestand met de naam <span class="file">.voorbeeld.txt</span> zichtbaar te maken, hernoemt u het naar <span class="file">voorbeeld.txt</span>.</p>
+<p class="p">Om een bestand weer zichtbaar te maken: ga naar de map waarin zich het verborgen bestand bevindt, klik in de taakbalk op de knop Weergaveopties en kies <span class="gui">Verborgen bestanden weergeven</span>. Zoek vervolgens het verborgen bestand en hernoem het zodat het niet meer met een <span class="key"><kbd>.</kbd></span>begint. Bijvoorbeeld, om een bestand met de naam <span class="file">.voorbeeld.txt</span> zichtbaar te maken, hernoemt u het naar <span class="file">voorbeeld.txt</span>.</p>
 <p class="p">Zodra u het bestand heeft hernoemd, kunt u in de taakbalk op de knop Weergaveopties klikken en <span class="gui">Verborgen bestanden weergeven</span> kiezen, of u drukt op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> om de overige verborgen bestanden weer te verbergen.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Normaal krijgt u verborgen bestanden in bestandsbeheer te zien totdat u bestandsbeheer sluit. Zie <span class="link"><a href="nautilus-views.html.nl" title="Weergaven-voorkeuren in Bestanden">Weergaven-voorkeuren in <span class="app">Bestanden</span></a></span> als u wilt weten hoe u de instellingen zo kunt wijzigen dat bestandsbeheer altijd verborgen bestanden toont.</p></div></div></div></div>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">De meeste verborgen bestanden hebben een <span class="file">.</span> aan het begin van hun naam. Andere kunnen daarentegen een <span class="file">~</span> hebben aan het einde van hun naam. Dit zijn reservekopiebestanden. Zie <span class="link"><a href="files-tilde.html.nl" title="Wat is een bestand met een ~ aan het einde van de naam?">Wat is een bestand met een <span class="file">~</span> aan het einde van de naam?</a></span> voor meer informatie hierover.</p></div></div></div></div>
@@ -113,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

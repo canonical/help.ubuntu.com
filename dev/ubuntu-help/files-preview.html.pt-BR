@@ -70,6 +70,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Visualizando arquivos e pastas</span></h1></div>
 <div class="region">
 <div class="contents">
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Você precisa ter <span class="app">Sushi</span> instalado em seu computador para realizar essas etapas.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Instalar <span class="app">Sushi</span></a></span></p>
+</div></div></div></div>
 <p class="p">Você pode pré-visualizar rapidamente arquivos sem abri-los em um aplicativo maduro. Selecione qualquer arquivo e pressione a barra de espaço. O arquivo vai abrir em uma janela simples de pré-visualização. Pressione a barra de espaço novamente para fechar a pré-visualização.</p>
 <p class="p">A pré-visualização embutida suporta a maioria dos formatos de arquivos de documentos, imagens, vídeos e áudio. Na pré-visualização, você pode navegador nos documentos ou buscar no vídeo e áudio.</p>
 <p class="p">Para uma pré-visualização em tela cheia, pressione <span class="key"><kbd>F</kbd></span> ou <span class="key"><kbd>F11</kbd></span>. Pressione <span class="key"><kbd>F</kbd></span> ou <span class="key"><kbd>F11</kbd></span> novamente para sair da tela cheia ou pressione barra de espaço para sair por completo da pré-visualização.</p>
@@ -96,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="printing.html.nl" title="Afdrukken">Afdrukken</a> › <a class="trail" href="printing.html.nl#paper" title="Verschillende papierformaten en indelingen">Formaten en indeling</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pagina's in een andere volgorde laten afdrukken</span></h1></div>
@@ -77,10 +77,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Om de volgorde om te keren:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print
-        dialog.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">General</span> tab, under <span class="gui">Copies</span>, check
-        <span class="gui">Reverse</span>. The last page will be printed first, and so on.</p></li>
+<li class="steps"><p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> om het Afdrukdialoogvenster te openen.</p></li>
+<li class="steps"><p class="p">Plaats in het tabblad <span class="gui">Algemeen</span> van het venster Afdrukken onder <span class="em">Kopieën</span> een vinkje bij <span class="gui">Omgekeerde volgorde</span>.  De laatste pagina zal als eerste worden afgedrukt, enzovoort.</p></li>
 </ol></div>
 </div></div>
 </div></div>
@@ -88,18 +86,12 @@
 <div id="collate" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Sorteren</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you are printing more than one copy of the document, the print-outs
-  will be grouped by page number by default (that is, all of the copies of page
-  one come out, then the copies of page two, and so on). <span class="em">Collating</span>
-  will make each copy come out with its pages grouped together in the right
-  order instead.</p>
+<p class="p">Als u meer dan één exemplaar van het document afdrukt, dan zullen de afdrukken standaard gegroepeerd worden per paginanummer (d.w.z. eerst verschijnen alle afdrukken van pagina een, dan die van pagina twee, enz.). <span class="em">Sorteren</span> zorgt ervoor dat elke kopie wordt afgedrukt met de pagina's ervan gegroepeerd in de juiste volgorde.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Om te sorteren:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print
-     dialog.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">General</span> tab, under <span class="gui">Copies</span>, check
-      <span class="gui">Collate</span>.</p></li>
+<li class="steps"><p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> om het Afdrukdialoogvenster te openen.</p></li>
+<li class="steps"><p class="p">Plaats in het tabblad <span class="gui">Algemeen</span> onder <span class="em">Kopieën</span> een vinkje bij <span class="gui">Sorteren</span>.</p></li>
 </ol></div>
 </div></div>
 </div></div>
@@ -118,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

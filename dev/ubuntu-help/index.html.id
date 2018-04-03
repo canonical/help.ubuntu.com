@@ -89,7 +89,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="files.html.id" title="Berkas, folder, &amp; cari">Berkas, folder, &amp; cari</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.id" title="Cari berkas">Mencari</a></span>, <span class="link"><a href="files-delete.html.id" title="Menghapus berkas dan folder">hapus berkas</a></span>, <span class="link"><a href="files.html.id#backup" title="Backing up">backup</a></span>, <span class="link"><a href="files.html.id#removable" title="Removable drives and external disks">drive lepas pasang</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.id" title="Cari berkas">Mencari</a></span>, <span class="link"><a href="files-delete.html.id" title="Menghapus berkas-berkas dan folder-folder">hapus berkas</a></span>, <span class="link"><a href="files.html.id#backup" title="Backing up">backup</a></span>, <span class="link"><a href="files.html.id#removable" title="Removable drives and external disks">drive lepas pasang</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="addremove.html.id" title="Pasang &amp; hapus perangkat lunak">Pasang &amp; hapus perangkat lunak</a></div>
@@ -123,7 +123,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

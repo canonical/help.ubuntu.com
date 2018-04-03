@@ -64,30 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html.nl#problems" title="Problemen">Stroomproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="power.html.nl#problems" title="Problemen">Stroomproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ik heb geen draadloos netwerk na het weer actief worden van mijn computer</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have suspended your computer, you may find that your wireless
-  internet connection does not work when you resume it again. This happens when
-  the <span class="link"><a href="hardware-driver.html.nl" title="Wat is een stuurprogramma?">driver</a></span> for the wireless device does
-  not fully support certain power saving features.
-  Typically, the wireless connection fails to turn on properly when the
-  computer is resumed.</p>
+<p class="p">Als u uw computer in pauzestand heeft gezet, dan kan het zijn dat uw draadloze verbinding niet werkt als u deze hervat. Dit gebeurt als het <span class="link"><a href="hardware-driver.html.nl" title="Wat is een stuurprogramma?">stuurprogramma</a></span> voor het draadloze apparaat bepaalde energiebesparende functies niet ondersteunt. Over het algemeen wordt de draadloze verbinding niet op de juiste wijze ingeschakeld als de computer wordt hervat.</p>
 <p class="p">Als dit gebeurt probeer dan om draadloos uit en daarna weer in te schakelen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Selecteer <span class="gui">Wifi</span>.</p></li>
-<li class="steps"><p class="p">Switch the wireless <span class="gui">OFF</span> and then <span class="gui">ON</span> again.</p></li>
-<li class="steps"><p class="p">If the wireless still does not work, switch <span class="gui">ON</span> the
-      <span class="gui">Airplane Mode</span> and then switch it <span class="gui">OFF</span> again.</p></li>
+<li class="steps"><p class="p">Zet draadloos <span class="gui">UIT</span> en daarna weer <span class="gui">AAN</span>.</p></li>
+<li class="steps"><p class="p">Wanneer het draadloos nog steeds niet werkt, zet <span class="gui">Vliegtuigstand</span> dan <span class="gui">AAN</span> en daarna weer <span class="gui">UIT</span>.</p></li>
 </ol></div></div></div>
-<p class="p">If this does not work, restarting your computer should make the wireless
-  work again. If you are still having problems after that, connect to the
-  internet using an Ethernet cable and update your computer.</p>
+<p class="p">Als dit niet werkt, dan zou het opnieuw starten van uw computer het draadloze netwerk weer moeten laten werken. Als u daarna nog steeds problemen heeft, maak dan verbinding met het internet via de ethernetkabel en werk uw computer bij.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -102,10 +94,10 @@
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-driver.html.nl" title="Wat is een stuurprogramma?">Wat is een stuurprogramma?</a><span class="desc"> — Een hardware/apparaatstuurprogramma stelt uw computer in staat aangesloten apparaten te gebruiken.</span>
+<a href="power-suspendfail.html.nl" title="Waarom wordt mijn computer niet meer actief nadat ik hem in de pauzestand heb gezet?">Waarom wordt mijn computer niet meer actief nadat ik hem in de pauzestand heb gezet?</a><span class="desc"> — Sommige computerhardware veroorzaakt problemen bij pauzestand.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html.nl" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="hardware-driver.html.nl" title="Wat is een stuurprogramma?">Wat is een stuurprogramma?</a><span class="desc"> — Een hardware/apparaatstuurprogramma stelt uw computer in staat aangesloten apparaten te gebruiken.</span>
 </li>
 </ul></div>
 </div></div>
@@ -118,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

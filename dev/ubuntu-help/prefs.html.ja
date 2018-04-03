@@ -104,7 +104,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.ja" title="キーボード">キーボード</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.ja" title="Use alternative keyboard layouts">キーボードレイアウト</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ja" title="キーボードのカーソルを点滅させる">カーソル点滅</a></span>, <span class="link"><a href="a11y.html.ja#mobility" title="運動障害">キーボードのアクセシビリティ</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.ja" title="別のキーボードレイアウトを使用する">キーボードレイアウト</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ja" title="キーボードのカーソルを点滅させる">カーソル点滅</a></span>, <span class="link"><a href="a11y.html.ja#mobility" title="運動障害">キーボードのアクセシビリティ</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="privacy.html.ja" title="プライバシー設定">プライバシー設定</a></div>
@@ -129,7 +129,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-language.html.ja" title="地域と言語">地域と言語</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.ja" title="使用する言語を変更する">言語</a></span>, <span class="link"><a href="session-formats.html.ja" title="日付や計量単位のフォーマットを変更する">地域とフォーマット</a></span>, <span class="link"><a href="keyboard-layouts.html.ja" title="Use alternative keyboard layouts">キーボードレイアウト</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.ja" title="使用する言語を変更する">言語</a></span>, <span class="link"><a href="session-formats.html.ja" title="日付や計量単位のフォーマットを変更する">地域とフォーマット</a></span>, <span class="link"><a href="keyboard-layouts.html.ja" title="別のキーボードレイアウトを使用する">キーボードレイアウト</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="clock.html.ja" title="日付と時刻">日付と時刻</a></div>
@@ -167,7 +167,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

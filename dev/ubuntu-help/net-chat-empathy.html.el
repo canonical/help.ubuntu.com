@@ -72,7 +72,7 @@
 <div class="contents">
 <p class="p">Με την εφαρμογή <span class="app">Άμεσης αποστολής μηνυμάτων empathy</span>, μπορείτε να συνομιλήσετε με τους ανθρώπους σε απευθείας σύνδεση και με τους φίλους και συναδέλφους που χρησιμοποιούν το Google Talk, AIM, Windows Live και πολλά άλλα προγράμματα συνομιλίας. Με ένα μικρόφωνο ή μια κάμερα μπορείτε να έχετε κλήσεις φωνής ή και κλήσεις με βίντεο.</p>
 <p class="p">
-    Empathy is not installed by default in Ubuntu, but you can <span class="link"><a href="https://apps.ubuntu.com/cat/applications/empathy" title="https://apps.ubuntu.com/cat/applications/empathy">install</a></span> it from the Ubuntu package archive. For help
+    Empathy is not installed by default in Ubuntu, but you can <span class="link"><a href="apt:empathy" title="apt:empathy">install</a></span> it from the Ubuntu package archive. For help
     with using Empathy, read the <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">Empathy manual</a></span>.
   </p>
 </div>
@@ -104,7 +104,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

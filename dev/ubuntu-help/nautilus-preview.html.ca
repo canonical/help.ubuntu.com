@@ -80,7 +80,7 @@ pick <span class="gui">Preferences</span> and select the <span class="gui">Previ
 <p class="p">By default, all previews are done for <span class="gui">Local Files Only</span>, those
     on your computer or connected external drives. You can set this feature to
     <span class="gui">Always</span> or <span class="gui">Never</span>. The file manager can
-    <span class="link"><a href="nautilus-connect.html.ca" title="Browse files on a server or network share">browse files on other computers</a></span> over
+    <span class="link"><a href="nautilus-connect.html.ca" title="Navega per fitxers en un servidor o en una xarxa compartida">browse files on other computers</a></span> over
     a local area network or the internet. If you often browse files over a local
     area network, and the network has high bandwidth, you may want to set the
     preview option to <span class="gui">Always</span>.</p>
@@ -108,8 +108,7 @@ pick <span class="gui">Preferences</span> and select the <span class="gui">Previ
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html.ca" title="Preview files and folders">Preview files and folders</a><span class="desc"> — Quickly show and hide previews for documents, images, videos, and
-    more.</span>
+<a href="files-preview.html.ca" title="Previsualitza fitxers i carpetes">Previsualitza fitxers i carpetes</a><span class="desc"> — Mostra i amaga ràpidament previsualitzacions de documents, imatges, vídeos i més.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -121,7 +120,7 @@ pick <span class="gui">Preferences</span> and select the <span class="gui">Previ
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

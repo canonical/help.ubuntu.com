@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Manage repeated key presses</title>
+<title>Herhaald indrukken van een toets beheren</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,28 +65,24 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="a11y.html.nl" title="Universele toegang">Universele toegang</a> › <a class="trail" href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Manage repeated key presses</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Herhaald indrukken van een toets beheren</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">By default, when you hold down a key on your keyboard, the letter
-  or symbol will be repeated until you release the key. If you have
-  difficulty picking your finger back up quickly enough, you can
-  disable this feature, or change how long it takes before key presses
-  start repeating, or how quickly key presses repeat.</p>
+<p class="p">Standaard is het zo dat, wanneer u een toets op het toetsenbord ingedrukt houdt, de letter of het symbool herhaald zal worden totdat u de toets loslaat. Als u moeite heeft om uw vinger snel van een toets te halen, kunt u deze functie uitschakelen, of wijzigen hoe lang het duurt voordat de ingedrukte toetsaanslag herhaald wordt.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Universele toegang</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Universele toegang</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Repeat Keys</span> in the <span class="gui">Typing</span> section.</p></li>
+<li class="steps"><p class="p">Druk op <span class="gui">Herhaaltoetsen</span> onder het kopje <span class="gui">Typen</span>.</p></li>
 <li class="steps">
-<p class="p">Switch <span class="gui">Repeat Keys</span> to <span class="gui">OFF</span>.</p>
+<p class="p">Zet <span class="gui">herhaaltoetsen</span> <span class="gui">Uit</span>.</p>
 <p class="p">U kunt ook de schuifregelaar <span class="gui">Vertraging</span> aanpassen om te regelen hoe lang u de toets ingedrukt moet houden om hem te herhalen, en de <span class="gui">Snelheid</span> aanpassen om te regelen hoe snel het indrukken van een toets herhaald wordt.</p>
 </li>
 </ol></div></div></div>
@@ -98,11 +94,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">Beperkte mobiliteit</a></li>
 <li class="links ">
-<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Toetsenbordindelingen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">knipperen van de cursor</a></span>, <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">toetsenbordtoegankelijkheid</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -114,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wat betekenen de pictogrammen in de bovenste balk?</title>
+<title>Wat betekenen de pictogrammen in de bovenbalk?</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,14 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Wat betekenen de pictogrammen in de bovenste balk?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wat betekenen de pictogrammen in de bovenbalk?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Deze paragraaf verklaart de betekenis van de pictogrammen aan de rechter-bovenkant van het scherm. Beter gezegd, de verschillende varianten van de pictogrammen van de Gnome-interface worden beschreven.</p>
-<div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Bovenste balk in Gnome Shell"></div></div>
+<div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Bovenbalk in Gnome Shell"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="status-icons.html.nl#universalicons" title="Menupictogrammen voor Universele toegang">Menupictogrammen voor Universele toegang</a></li>
 <li class="links "><a href="status-icons.html.nl#audioicons" title="Volumebeheer-pictogrammen">Volumebeheer-pictogrammen</a></li>
@@ -337,7 +337,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

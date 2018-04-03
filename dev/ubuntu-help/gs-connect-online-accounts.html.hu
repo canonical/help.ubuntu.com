@@ -80,16 +80,13 @@
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3"><li class="steps">
-<p class="p">Click the <span class="gui">Online Accounts</span> panel, then click the online
-      account service you want to use.</p>
-<p class="p">This will open a new window where you can sign in to your online
-      account.</p>
+<p class="p">Kattintson az <span class="gui">Online fiókok</span> panelre, majd a használni kívánt online fiók szolgáltatásra.</p>
+<p class="p">Ez egy új ablakot nyit meg, ahol bejelentkezhet az online fiókjába.</p>
 </li></ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa4.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4">
 <li class="steps"><p class="p">A legtöbb esetben a bejelentkezés után hozzáférést kell adnia az online szolgáltatáshoz a folytatáshoz.</p></li>
-<li class="steps"><p class="p">For example, if you are connecting to your Google account, you
-       will have to click the <span class="gui">Allow</span> button.</p></li>
+<li class="steps"><p class="p">Ha például a Google fiókjához szeretne kapcsolódni, akkor az <span class="gui">Engedélyezés</span> gombra kell kattintania.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa5.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Számos online fiók lehetővé teszi a használni kívánt szolgáltatások kiválasztását. Ha egy szolgáltatást nem szeretne használni, akkor tiltsa le az ablak jobb oldalán lévő <span class="gui">BE/KI</span> kapcsolóval.</p></li></ol></div></div></div>
@@ -121,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

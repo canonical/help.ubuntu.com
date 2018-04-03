@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set screen brightness</title>
+<title>Atur kecerahan layar</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,34 +71,23 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set screen brightness</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Atur kecerahan layar</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Depending on your hardware, you can change the brightness of your screen to
-  save power or to make the screen more readable in bright light.</p>
-<p class="p">To change the brightness of your screen, click the
-  <span class="gui"><a href="shell-introduction.html.id#yourname" title="Anda dan komputer Anda">system menu</a></span> on the right side
-  of the top bar and adjust the screen brightness slider to the value you want
-  to use. The change should take effect immediately.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Many laptop keyboards have special keys to adjust the brightness. These
-    often have a picture that looks like the sun. Hold down the <span class="key"><kbd class="key-Fn">Fn</kbd></span>
-    key to use these keys.</p></div></div></div></div>
-<p class="p">You can also adjust the screen brightness by using the <span class="gui">Power</span> panel.</p>
+<p class="p">Tergantung dari perangkat keras Anda, Anda dapat mengubah kecerahan layar Anda untuk menghemat daya atau membuat layar lebih mudah dibaca saat berada di cahaya yang terang.</p>
+<p class="p">Untuk mengubah kecerahan layar Anda, klik <span class="gui"><a href="shell-introduction.html.id#yourname" title="Anda dan komputer Anda">menu system</a></span> pada bagian kanan dari bilah atas dan geser bilah kecerahan layar ke nilai yang Anda inginkan. Perubahan tersebut harusnya langsung dapat dirasakan.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Banyak papan tik laptop memiliki tombol khusus untuk mengatur kecerahan layar. Umumnya memiliki gambar yang terlihat seperti matahari. Tekan dan tahan tombol <span class="key"><kbd class="key-Fn">Fn</kbd></span> untuk menggunakan tombol tersebut.</p></div></div></div></div>
+<p class="p">Anda juga dapat mengatur kecerahan layar dengan menggunakan panel <span class="gui">Daya</span>.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To set the screen brightness using the Power panel:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Untuk mengatur kecerahan layar menggunakan panel Daya:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Daya</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Daya</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Adjust the <span class="gui">Screen brightness</span> slider to the value you want to
-      use. The change should take effect immediately.</p></li>
+<li class="steps"><p class="p">Geser <span class="gui">Kecerahan layar</span> ke nilai yang ingin Anda gunakan. Efek perubahannya harusnya langsung terjadi.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If your computer features an integrated light sensor, the screen
-    brightness will automatically be adjusted for you. You can disable automatic
-    screen brightness in the <span class="gui">Power</span> panel.</p></div></div></div></div>
-<p class="p">If it is possible to set the brightness of your screen, you can also have
-  the screen dim automatically to save power. For more information, see
-  <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">Mengapa layar saya meredup setelah beberapa saat?</a></span>.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Bila komputer Anda memiliki integrasi fitur sensor cahaya, kecerahan layar akan otomatis disesuaikan untuk Anda. Anda dapat menonaktifkan kecerahan layar otomatis pada panel <span class="gui">Daya</span>.</p></div></div></div></div>
+<p class="p">Bila memungkinkan untuk mengatur kecerahan layar, Anda juga dapat meredupkan layar secara otomatis untuk menghemat Daya. Untuk informasi lebih lanjut, lihat <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">Mengapa layar saya meredup setelah beberapa saat?</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -118,8 +107,7 @@
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-contrast.html.id" title="Atur kontras">Atur kontras</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
-    they’re easier to see.</span>
+<a href="a11y-contrast.html.id" title="Atur kontras">Atur kontras</a><span class="desc"> — Membuat jendela dan tombol pada layar lebih (atau kurang) tajam, sehingga lebih mudah dilihat.</span>
 </li>
 <li class="links ">
 <a href="power-autobrightness.html.id" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
@@ -141,7 +129,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,15 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html.pl-PL#music" title="Muzyka i przenośne odtwarzacze">Muzyka i odtwarzacze</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html.pl-PL#music" title="Muzyka i przenośne odtwarzacze">Muzyka i odtwarzacze</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Mój nowy iPod nie działa</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have a new iPod that has never been connected to a computer before, it won’t be recognized properly when you connect it to a Linux computer. This is because iPods need to be set up and updated using the <span class="app">iTunes</span> software, which only runs on Windows and Mac OS.</p>
-<p class="p">To set up your iPod, install iTunes on a Windows or Mac computer and plug it in. You will be led through a few steps to set it up. If asked for the <span class="gui">Volume Format</span>, choose <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> or similar. The other format (HFS/Mac) does not work as well with Linux.</p>
-<p class="p">Once you have finished setup, the iPod should work normally when you plug it into a Linux computer.</p>
+<p class="p">Jeśli nowy iPod nie był jeszcze nigdy podłączany do komputera, to nie będzie poprawnie wykrywany po podłączeniu do komputera z systemem Linux. Dzieje się tak, ponieważ iPody muszą zostać skonfigurowane i zaktualizowane za pomocą oprogramowania <span class="app">iTunes</span>, które działa tylko w systemach Windows i macOS.</p>
+<p class="p">Aby skonfigurować iPoda, zainstaluj oprogramowanie iTunes na komputerze z systemem Windows lub macOS i go podłącz. Użytkownik zostanie przeprowadzony przez kilka kroków. Na pytanie o <span class="gui">Format woluminu</span> wybierz <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> lub podobne. Drugi format (HFS/Mac) nie działa zbyt dobrze w systemie Linux.</p>
+<p class="p">Po ukończeniu przygotowywania iPod powinien poprawnie działać po podłączeniu do komputera z systemem Linux.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -88,7 +88,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,28 +64,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-browser.html.nl" title="Webbrowsers">Webbrowsers</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-browser.html.nl" title="Webbrowsers">Webbrowsers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wijzigen in welke webbrowser websites geopend moeten worden</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you click a link to a web page in any application, a web browser will
-  automatically open up to that page. However, if you have more than one
-  browser installed, the page may not open up in the browser you wanted it to
-  open in. To fix this, change the default web browser:</p>
+<p class="p">Wanneer u in een toepassing op een link naar een webpagina klikt, dan zal automatisch een webbrowser met die pagina worden geopend. Als u echter meer dan één browser geïnstalleerd heeft, dan kan het zijn dat de pagina niet in de webbrowser van uw voorkeur wordt geopend. U kunt hier iets aan doen door de standaard webbrowser te wijzigen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Details</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
-      of the window.</p></li>
-<li class="steps"><p class="p">Choose which web browser you would like to open links by
-      changing the <span class="gui">Web</span> option.</p></li>
+<li class="steps"><p class="p">Kies <span class="gui">Standaardtoepassingen</span> in de lijst aan de linkerkant van het venster.</p></li>
+<li class="steps"><p class="p">Kies in welke webbrowser u links wilt openen door de <span class="gui">Web</span>-optie te wijzigen.</p></li>
 </ol></div></div></div>
-<p class="p">When you open up a different web browser, it might tell you that it’s not
-  the default browser any more. If this happens, click the <span class="gui">Cancel</span>
-  button (or similar) so that it does not try to set itself as the default
-  browser again.</p>
+<p class="p">Het kan zijn dat, wanneer u een andere webbrowser kiest om te openen, u een bericht krijgt dat het niet langer de standaard webbrowser is. Als dat het geval is, klik dan op de knop <span class="gui">Annuleren</span> (of iets dergelijks) zodat het niet zal pogen zichzelf weer als de standaard webbrowser in te stellen.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -103,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

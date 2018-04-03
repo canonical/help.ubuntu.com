@@ -64,41 +64,37 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Drukowanie</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.pl-PL" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Check the amount of ink or toner left in printer cartridges.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.pl-PL" title="Drukowanie do pliku"><span class="title">Drukowanie do pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
-    it to a printer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.pl-PL" title="Jak sprawdzić poziom tuszu lub toneru drukarki?"><span class="title">Jak sprawdzić poziom tuszu lub toneru drukarki?</span><span class="linkdiv-dash"> — </span><span class="desc">Sprawdzanie ilości tuszu lub toneru w kartridżach drukarki.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.pl-PL" title="Drukowanie do pliku"><span class="title">Drukowanie do pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Zapisywanie dokumentu jako plik PDF, PostScript lub SVG zamiast drukowania go.</span></a></div>
 </div></div></div></div>
 <div id="setup" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Ustawianie drukarki</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Konfiguracja drukarki</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.pl-PL" title="Ustawianie lokalnej drukarki"><span class="title">Ustawianie lokalnej drukarki</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a printer that is connected to your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.pl-PL" title="Ustawianie domyślnej drukarki"><span class="title">Ustawianie domyślnej drukarki</span><span class="linkdiv-dash"> — </span><span class="desc">Pick the printer that you use most often.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.pl-PL" title="Konfiguracja lokalnej drukarki"><span class="title">Konfiguracja lokalnej drukarki</span><span class="linkdiv-dash"> — </span><span class="desc">Konfiguracja drukarki podłączonej do komputera.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.pl-PL" title="Ustawianie domyślnej drukarki"><span class="title">Ustawianie domyślnej drukarki</span><span class="linkdiv-dash"> — </span><span class="desc">Wybieranie najczęściej używanej drukarki.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.pl-PL" title="Zmiana nazwy lub położenia drukarki"><span class="title">Zmiana nazwy lub położenia drukarki</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
-    settings.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.pl-PL" title="Zmiana nazwy lub położenia drukarki"><span class="title">Zmiana nazwy lub położenia drukarki</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana nazwy lub położenia drukarki w ustawieniach drukarki.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="paper" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Różne rozmiary i układy papieru</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.pl-PL" title="Change the paper size when printing"><span class="title">Change the paper size when printing</span><span class="linkdiv-dash"> — </span><span class="desc">Print a document on a different paper size or orientation.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.pl-PL" title="Drukowanie broszury"><span class="title">Drukowanie broszury</span><span class="linkdiv-dash"> — </span><span class="desc">How to print a folded, multi-page booklet using A4 or Letter-sized
-    paper.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-select.html.pl-PL" title="Drukowanie tylko podanych stron"><span class="title">Drukowanie tylko podanych stron</span><span class="linkdiv-dash"> — </span><span class="desc">Drukowanie tylko podanych stron lub zakresów stron.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.pl-PL" title="Drukowanie broszury"><span class="title">Drukowanie broszury</span><span class="linkdiv-dash"> — </span><span class="desc">Jak wydrukować składaną, wielostronicową broszurę za pomocą papieru A4 lub Letter.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.pl-PL" title="Drukowanie dwustronne i układy wielostronicowe"><span class="title">Drukowanie dwustronne i układy wielostronicowe</span><span class="linkdiv-dash"> — </span><span class="desc">Drukowanie na obu stronach papieru lub wielu stron na kartkę.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.pl-PL" title="Drukowanie kopert"><span class="title">Drukowanie kopert</span><span class="linkdiv-dash"> — </span><span class="desc">Upewnij się, że koperta jest właściwie włożona i wybrano odpowiedni rozmiar papieru.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html.pl-PL" title="Make pages print in a different order"><span class="title">Make pages print in a different order</span><span class="linkdiv-dash"> — </span><span class="desc">Collate and reverse the print order.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.pl-PL" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
-    chosen the correct paper size.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.pl-PL" title="Print two-sided and multi-page layouts"><span class="title">Print two-sided and multi-page layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Print on both sides of the paper, or multiple pages per sheet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.pl-PL" title="Drukowanie stron w innej kolejności"><span class="title">Drukowanie stron w innej kolejności</span><span class="linkdiv-dash"> — </span><span class="desc">Segregowanie i odwracanie kolejności wydruku.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-select.html.pl-PL" title="Drukowanie tylko podanych stron"><span class="title">Drukowanie tylko podanych stron</span><span class="linkdiv-dash"> — </span><span class="desc">Drukowanie tylko podanych stron lub zakresów stron.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.pl-PL" title="Zmiana rozmiaru papieru podczas drukowania"><span class="title">Zmiana rozmiaru papieru podczas drukowania</span><span class="linkdiv-dash"> — </span><span class="desc">Drukowanie dokumentu na innym rozmiarze papieru lub orientacji.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -107,13 +103,10 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.pl-PL" title="Cancel, pause or release a print job"><span class="title">Cancel, pause or release a print job</span><span class="linkdiv-dash"> — </span><span class="desc">Cancel a pending print job and remove it from the queue.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.pl-PL" title="Clearing a paper jam"><span class="title">Clearing a paper jam</span><span class="linkdiv-dash"> — </span><span class="desc">How you clear a paper jam will depend on the make and model of
-    printer that you have.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.pl-PL" title="Anulowanie, wstrzymywanie i wznawianie zadania wydruku"><span class="title">Anulowanie, wstrzymywanie i wznawianie zadania wydruku</span><span class="linkdiv-dash"> — </span><span class="desc">Anulowanie oczekującego zadania wydruku i usuwanie go z kolejki.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.pl-PL" title="Dlaczego na wydrukach są smugi, kreski lub niewłaściwe kolory?"><span class="title">Dlaczego na wydrukach są smugi, kreski lub niewłaściwe kolory?</span><span class="linkdiv-dash"> — </span><span class="desc">Jeśli wydruki są w smugach, wyblaknięte lub nie mają kolorów, to sprawdź poziomy tuszu lub wyczyść głowice drukujące.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.pl-PL" title="Why are there streaks, lines or the wrong colors on my print-outs?"><span class="title">Why are there streaks, lines or the wrong colors on my
-  print-outs?</span><span class="linkdiv-dash"> — </span><span class="desc">If print-outs are streaky, fading, or missing colors, check your ink
-    levels or clean the print head.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.pl-PL" title="Usuwanie zaciętego papieru"><span class="title">Usuwanie zaciętego papieru</span><span class="linkdiv-dash"> — </span><span class="desc">Sposób usuwania zaciętego papieru zależy od producenta i modelu używanej drukarki.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -140,7 +133,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

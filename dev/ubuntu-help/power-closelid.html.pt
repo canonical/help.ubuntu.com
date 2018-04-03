@@ -86,8 +86,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Parar a suspensão da computador quando se fecha a tampa</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Estas instruções só funcionarão se está a usar <span class="app">systemd</span>. Consulte a sua distribuição para obter mais informação.</p></div></div></div></div>
-<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-    change this setting.</p></div></div></div></div>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
+    change this setting.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
+      <span class="app">Tweaks</span></a></span></p>
+</div></div></div></div>
 <p class="p">Se não quer que a computador se suspenda ao fechar a tampa, pode mudar a configuração desse comportamento.</p>
 <div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Tenha cuidado se muda esta configuração. Alguns portáteis podem-se sobrecalentar se deixam-se acendidos com a tampa fechada, especialmente se estão num lugar fechado como uma mochila.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -130,7 +134,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -94,8 +94,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html.id" title="Menyembunyikan berkas">Menyembunyikan berkas</a><span class="desc"> — Make a file invisible, so you cannot see it in the file
-    manager.</span>
+<a href="files-hidden.html.id" title="Menyembunyikan berkas">Menyembunyikan berkas</a><span class="desc"> — Buat berkas tidak tampak, sehingga Anda tidak dapat melihatnya di pengelola berkas.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -107,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

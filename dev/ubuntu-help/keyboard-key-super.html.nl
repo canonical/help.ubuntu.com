@@ -65,30 +65,23 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wat is de <span class="key"><kbd>Super</kbd></span>-toets?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you press the <span class="key"><kbd>Super</kbd></span> key, the <span class="gui">Activities</span>
-  overview is displayed. This key can usually be found on the bottom-left of
-  your keyboard, next to the <span class="key"><kbd>Alt</kbd></span> key, and usually has a Windows logo
-  on it. It is sometimes called the <span class="em">Windows key</span> or system key.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">If you have an Apple keyboard, you will have a <span class="key"><kbd>⌘</kbd></span> (Command)
-    key instead of the Windows key, while Chromebooks have a magnifying glass
-    instead.</p></div></div></div></div>
-<p class="p">To change which key is used to display the <span class="gui">Activities</span>
-  overview:</p>
+<p class="p">Wanneer u op de <span class="key"><kbd>Super</kbd></span>-toets drukt, dan zal het <span class="gui">Activiteiten</span>-overzicht getoond worden. Deze toets kan doorgaans gevonden worden aan de linkeronderkant van uw toetsenbord, naast de <span class="key"><kbd>Alt</kbd></span>-toets en heeft meestal het Windows-logo erop. Deze wordt ook wel de <span class="em">Windows-toets</span> of <span class="em">systeemtoets</span> genoemd.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u een Apple-toetsenbord heeft, dan heeft u een <span class="key"><kbd>⌘</kbd></span>-toets (Command) in plaats van de Windows-toets, terwijl Chromebooks een vergrootglas hebben.</p></div></div></div></div>
+<p class="p">Voor het wijzigen van de toets die gebruikt wordt om het <span class="gui">activiteitenoverzicht</span> te tonen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht, en open dan de <span class="app">Instellingen</span>.</p></li>
 <li class="steps"><p class="p">Druk op <span class="gui">Toetsenbord</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Shortcuts</span> tab.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">System</span> on the left side of the window, and
-      <span class="gui">Show the activities overview</span> on the right.</p></li>
+<li class="steps"><p class="p">Klik op het tabblad <span class="gui">Sneltoetsen</span>.</p></li>
+<li class="steps"><p class="p">Kies aan de linkerkant van het venster <span class="gui">Systeem</span>, en aan de rechterkant <span class="gui">Activiteitenoverzicht tonen</span>.</p></li>
 <li class="steps"><p class="p">Druk de gewenste toetscombinatie in.</p></li>
 </ol></div></div></div>
 </div>
@@ -98,11 +91,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Toetsenbordindelingen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">knipperen van de cursor</a></span>, <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">toetsenbordtoegankelijkheid</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -120,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Verbinding maken met een draadloos netwerk</span></h1></div>
@@ -72,36 +72,22 @@
 <div class="contents">
 <p class="p">Als u een computer heeft waarop een draadloos netwerk ingeschakeld is, dan kunt u verbinden met een draadloos netwerk dat binnen bereik is om toegang te krijgen tot internet, gedeelde bestanden te bekijken op het netwerk, enz.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">Systeemmenu</a></span> aan de rechterzijde van de menubalk.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">system menu</a></span> from the right
+    side of the top bar.</p></li>
 <li class="steps"><p class="p">Selecteer <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Wifi niet verbonden</span>. Het wifi-gedeelte van het menu klapt uit.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk selecteren</span>.</p></li>
 <li class="steps">
-<p class="p">Click the name of the network you want, then click
-    <span class="gui">Connect</span>.</p>
-<p class="p">If the name of the network is not in the list, try clicking
-    <span class="gui">More</span> to see if the network is further down the list. If you 
-    still do not see the network, you may be out of range, or the network
-    <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">might be hidden</a></span>.</p>
+<p class="p">Kies de naam van het gewenste netwerk en klik op <span class="gui">Verbinden</span>.</p>
+<p class="p">Als de naam van het netwerk niet in de lijst staat, kies dan <span class="gui">Meer</span> om te zien of het netwerk verder naar beneden in de lijst staat. Als u het netwerk nog niet ziet, dan kan het zijn dat u buiten bereik bent of het netwerk <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">kan verborgen zijn</a></span>.</p>
 </li>
 <li class="steps">
 <p class="p">Als het netwerk met een (<span class="link"><a href="net-wireless-wepwpa.html.nl" title="Wat betekenen WEP en WPA?">wachtwoord</a></span>) beveiligd is moet u het wachtwoord invoeren als de prompt daarom vraagt en daarna op <span class="gui">Verbinden</span> klikken.</p>
-<p class="p">If you do not know the key, it may be written on the underside of the
-    wireless router or base station, or in its instruction manual, or you may
-    have to ask the person who administers the wireless network.</p>
+<p class="p">Als u de sleutel niet heeft, dan kunt u die mogelijk vinden aan de onderkant van de draadloos router of het basisstation, in de handleiding daarvan, of u moet het vragen aan degene die het draadloos netwerk beheert.</p>
 </li>
 <li class="steps"><p class="p">Het netwerkpictogram zal van uiterlijk veranderen wanneer de computer probeert verbinding te maken met het netwerk.</p></li>
-<li class="steps"><p class="p">If the connection is successful, the icon will change to a dot with
-    several curved bars above it
-    (<span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>). More bars
-    indicate a stronger connection to the network. Fewer bars mean the
-    connection is weaker and might not be very reliable.</p></li>
+<li class="steps"><p class="p">Als de verbinding geslaagd is, dan zal het pictogram in een punt met een paar balkjes erboven (<span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>) veranderen. Hoe meer balkjes er zijn, hoe beter de verbinding met het netwerk. Als er niet veel balkjes zijn, dan is de verbinding zwak en mogelijk niet erg betrouwbaar.</p></li>
 </ol></div></div></div>
-<p class="p">If the connection is not successful, you may be asked for your password
-  again or it might just tell you that the connection has been disconnected.
-  There are a number of things that could have caused this to happen. You could
-  have entered the wrong password, the wireless signal could be too weak, or
-  your computer’s wireless card might have a problem, for example. See
-  <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a></span> for more help.</p>
+<p class="p">Als de verbinding niet is gelukt, dan kan er mogelijk opnieuw naar uw wachtwoord gevraagd worden of u krijgt alleen de melding dat de verbinding is verbroken. Er kunnen meerdere oorzaken hiervoor zijn. Misschien heeft u het verkeerde wachtwoord opgegeven, het signaal kan te zwak zijn, of er kan een probleem zijn met uw draadloze netwerkkaart. Zie <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a></span> voor meer hulp.</p>
 <p class="p">Een sterkere verbinding met een draadloos netwerk hoeft niet te betekenen dat u een snellere internetverbinding heeft, of dat u een hogere downloadsnelheid krijgt. De draadloos verbinding verbindt uw computer met het <span class="em">apparaat dat de internetverbinding verzorgt</span> (zoals een router of modem), maar de twee verbindingen zijn feitelijk verschillend en zullen dus op verschillende snelheden werken.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -110,18 +96,14 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a><span class="desc"> — Opsporen en oplossen van problemen met draadloze verbindingen.</span>
 </li>
 <li class="links ">
 <a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?</a><span class="desc"> — Het kan zijn dat het signaal zwak is, of het netwerk laat u niet op de juiste manier verbinding maken.</span>
@@ -137,7 +119,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

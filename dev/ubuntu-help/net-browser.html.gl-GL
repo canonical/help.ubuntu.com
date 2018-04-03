@@ -64,13 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Navegadores web</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.gl-GL" title="Change which web browser opens websites by default"><span class="title">Change which web browser opens websites by default</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie o navegador web predeterminado indo a <span class="gui">Detalles</span> na <span class="gui">Preferencias</span>.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.gl-GL" title="Cambie o navegador web co que se abren os sitios web por omisión"><span class="title">Cambie o navegador web co que se abren os sitios web por omisión</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie o navegador web predeterminado indo a <span class="gui">Detalles</span> na <span class="gui">Preferencias</span>.</span></a></div></div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.gl-GL" title="Instalar o engadido de Flash"><span class="title">Instalar o engadido de Flash</span><span class="linkdiv-dash"> — </span><span class="desc">Quizais necesite instalar Flash para poder ver algúns sitios web que mostran vídeos ou en páxinas web interactivas.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -79,7 +79,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.gl-GL" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.gl-GL" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html.gl-GL" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html.gl-GL" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.gl-GL" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html.gl-GL" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
+<a href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a><span class="desc"> — <span class="link"><a href="net-wireless.html.gl-GL" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html.gl-GL" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html.gl-GL" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.gl-GL" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html.gl-GL" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -95,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

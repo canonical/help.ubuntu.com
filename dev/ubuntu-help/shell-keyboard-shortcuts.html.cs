@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="shell-overview.html.cs" title="Vaše uživatelské prostředí">Uživatelské prostředí</a> › <a class="trail" href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="hardware.html.cs" title="Hardware a ovladače">Hardware</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="keyboard.html.cs" title="Klávesnice">Klávesnice</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.cs" title="Tipy a triky">Tipy a triky</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="tips.html.cs" title="Tipy a triky">Tipy a triky</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -203,7 +203,7 @@
 <div class="region"><ul>
 <li class="links "><a href="shell-overview.html.cs#apps" title="Aplikace a okna">Aplikace a okna</a></li>
 <li class="links ">
-<a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.cs" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html.cs#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
+<a href="keyboard.html.cs" title="Klávesnice">Klávesnice</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.cs" title="Používání alternativního rozložení klávesnice">Rozložení klávesnice</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.cs" title="Nastavení blikání textového kurzoru">blikání kurzoru</a></span>, <span class="link"><a href="a11y.html.cs#mobility" title="Pohybová postižení">zpřístupnění klávesnice</a></span>…</span>
 </li>
 <li class="links ">
 <a href="tips.html.cs" title="Tipy a triky">Tipy a triky</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.cs" title="Zadávání speciálních znaků">Speciální znaky</a></span>, <span class="link"><a href="mouse-middleclick.html.cs" title="Kliknutí prostředním tlačítkem">klávesové zkratky s prostředním tlačítkem</a></span>…</span>
@@ -236,7 +236,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

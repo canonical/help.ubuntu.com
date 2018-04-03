@@ -64,22 +64,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-email.html.nl" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-email.html.nl" title="E mail &amp; e-mailsoftware">E mail &amp; e-mailsoftware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wijzigen welk e-mailprogramma gebruikt wordt om e-mails te schrijven</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you click a button or link to send a new email (for example, in your
-  word processing application), your default mail application will open up with
-  a blank message, ready for you to write. However, if you have more than one
-  mail application installed, the wrong mail application might open up. You
-  can fix this by changing which one is the default email application:</p>
+<p class="p">Wanneer u op een knop of link klikt om een nieuwe e-mail te verzenden (bijvoorbeeld in uw tekstverwerker), dan wordt uw standaard e-mailprogramma geopend met een leeg bericht, klaar voor u om een e-mailbericht te schrijven. Heeft u echter meer dan één e-mailprogramma geïnstalleerd, dan kan het zijn dat het verkeerde e-mailprogramma geopend wordt. Dit kunt u oplossen door uw standaard e-mailprogramma te wijzigen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Details</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Details</span> om het paneel te openen.</p></li>
-<li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
-      of the window.</p></li>
+<li class="steps"><p class="p">Kies <span class="gui">Standaardtoepassingen</span> in de lijst aan de linkerkant van het venster.</p></li>
 <li class="steps"><p class="p">Kies welk e-mailprogramma u standaard wilt gebruiken door middel van de <span class="gui">Mail</span>-optie.</p></li>
 </ol></div></div></div>
 </div>
@@ -99,7 +94,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

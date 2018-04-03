@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Aan de slag</span></h1></div>
@@ -74,7 +74,7 @@
 <a href="#" class="ui-overlay-close" title="Close">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-launching-applications.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Afspelen" data-pause-label="Pauze"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Toepassingen starten</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="5" data-ttml-end="7.5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="5" data-ttml-end="7.5">Breng de muisaanwijzer naar de <span class="gui">Activiteiten</span>-hoek linksboven van het scherm.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="5" data-ttml-end="7.5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="5" data-ttml-end="7.5">Breng de muisaanwijzer naar de <span class="gui">Activiteiten</span>-hoek linksboven in het scherm.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="7.5" data-ttml-end="9.5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="7.5" data-ttml-end="9.5">Klik op het pictogram <span class="gui">Toepassingen tonen</span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9.5" data-ttml-end="11"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9.5" data-ttml-end="11">Klik op de toepassing die u wilt starten, bijvoorbeeld Hulp.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="21"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="21">U kunt ook het toetsenbord gebruiken voor het openen van het <span class="gui">Activiteitenoverzicht</span> door de <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-toets in te drukken.</div></div>
@@ -89,8 +89,9 @@
 <a href="#" class="ui-overlay-close" title="Close">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-task-switching.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Afspelen" data-pause-label="Pauze"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Van taak wisselen</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="5" data-ttml-end="8"><div class="media-ttml-node media-ttml-p" data-ttml-begin="5" data-ttml-end="8">Breng de muisaanwijzer naar de <span class="gui">Activiteiten</span>-hoek linksboven in het scherm.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">Klik op een venster om over te schakelen naar die taak.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14"> Om een venster links te maximaliseren: pak de titelbalk van het venster en sleep het naar de linkerkant.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Om een venster links te maximaliseren: pak de titelbalk van het venster en sleep het naar de linkerkant.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">Laat het venster los zodra de linkerhelft van het scherm oplicht.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">Om een venster rechts te maximaliseren: pak de titelbalk van het venster en sleep het naar de rechterkant.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="18" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="18" data-ttml-end="20">Laat het venster los zodra de linkerhelft van het scherm oplicht.</div></div>
@@ -114,7 +115,7 @@
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="10" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="10" data-ttml-end="13">Laat het venster los zodra het oplicht.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="20">Om een venster weer te verkleinen: pak de titelbalk van het venster en sleep het weg van de randen van het scherm.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="25" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="25" data-ttml-end="29">U kunt ook klikken op de bovenste balk om het venster weg te slepen en te verkleinen.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38"> Om een venster links te maximaliseren: pak de titelbalk van het venster en sleep het naar de linkerkant.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="34" data-ttml-end="38"><div class="media-ttml-node media-ttml-p" data-ttml-begin="34" data-ttml-end="38">Om een venster links te maximaliseren: pak de titelbalk van het venster en sleep het naar de linkerkant.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="38" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="38" data-ttml-end="40">Laat het venster los zodra de linkerhelft van het scherm oplicht.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">Om een venster rechts te maximaliseren: pak de titelbalk van het venster en sleep het naar de rechterkant.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="44" data-ttml-end="48"><div class="media-ttml-node media-ttml-p" data-ttml-begin="44" data-ttml-end="48">Laat het venster los zodra de linkerhelft van het scherm oplicht.</div></div>
@@ -129,7 +130,7 @@
 </div></div>
 </div>
 <div class="links topiclinks"><div class="inner">
-<div class="title title-links title-heading"><h2><span class="title">Veelvoorkomend taken</span></h2></div>
+<div class="title title-links title-heading"><h2><span class="title">Veelvoorkomende taken</span></h2></div>
 <div class="region">
 <div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.nl" title="Datum, tijd en tijdszone wijzigen">Datum, tijd en tijdszone wijzigen</a></div></div>
 <div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.nl" title="De achtergrond wijzigen">De achtergrond wijzigen</a></div></div>
@@ -153,7 +154,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

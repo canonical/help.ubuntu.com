@@ -64,37 +64,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bestandsbeheer-weergavevoorkeuren</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can control how the file manager displays captions under icons.  Click
-<span class="gui">Files</span> in the top bar, pick <span class="gui">Preferences</span> and select the
-<span class="gui">Display</span> tab.</p></div>
+<div class="contents"><p class="p">U kunt bepalen hoe het bestandsbeheer bijschriften onder de pictogrammen weergeeft. Klik in de bovenbalk op <span class="gui">Bestanden</span>, kies <span class="gui">Voorkeuren</span> en ga naar het <span class="gui">Weergave</span>-tabblad.</p></div>
 <div id="icon-captions" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pictogrambijschriften</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="Bestandsbeheerder-pictogrammen met bijschriften"></div></div>
 <p class="p">Wanneer u pictogrammenweergave gebruikt, kunt u kiezen voor het weergeven van extra informatie over bestanden en mappen in een bijschrift onder elk pictogram. Dit is bijvoorbeeld nuttig als u vaak wilt zien wie de eigenaar van een bestand is of wanneer het voor het laatst gewijzigd is.</p>
-<p class="p">You can zoom in a folder by clicking the view options button in the
-  
-  toolbar and choosing a zoom level with the slider. As you zoom in, the
-  file manager will display more and more information in captions. You can
-  choose up to three things to show in captions. The first will be displayed at
-  most zoom levels. The last will only be shown at very large sizes.</p>
-<p class="p">The information you can show in icon captions is the same as the
-  columns you can use in list view. See <span class="link"><a href="nautilus-list.html.nl" title="Files list columns preferences">Files list columns preferences</a></span>
-  for more information.</p>
+<p class="p">U kunt op een map inzoomen door in de menubalk te klikken op de weergaveoptiesknop en met de schuifregelaar een zoomniveau te kiezen. Het bestandsbeheer zal tijdens het inzoomen meer en meer informatie in de bijschriften weergeven. U kunt maximaal drie dingen in de bijschriften laten weergeven. Het eerste zal in de meeste zoomniveaus worden weergegeven. Het laatste zal pas bij zeer hoge niveaus worden weergegeven.</p>
+<p class="p">De informatie die u kunt tonen in een pictogrambijschrift is dezelfde als de kolommen die u in de lijstweergave kunt gebruiken. Zie <span class="link"><a href="nautilus-list.html.nl" title="Bestandsbeheer-voorkeuren: lijstkolommen">Bestandsbeheer-voorkeuren: lijstkolommen</a></span> voor meer informatie.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lijstweergave</span></h2></div>
-<div class="region"><div class="contents"><p class="p">When viewing files as a list, you can <span class="gui">Navigate folders in a
-  tree</span>. This shows expanders on each directory in the file list, so
-  that the contents of several folders can be shown at once. This is useful if
-  the folder structure is relevant, such as if your music files are organized
-  with a folder per artist, and a subfolder per album.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Wanneer u bestanden in een lijst bekijkt, kunt u <span class="gui">navigeren door mappen in een boom</span>. Elke map in de bestandslijst is uitklapbaar, zodat u de inhoud van verschillende mappen in één overzicht kunt zien. Dit is nuttig wanneer de mappenstructuur relevant is, zoals wanneer uw muziekbestanden gerangschikt zijn met een map per artiest, en een submap per album.</p></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -112,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

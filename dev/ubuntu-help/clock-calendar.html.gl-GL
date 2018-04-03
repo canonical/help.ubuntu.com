@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="clock.html.gl-GL" title="Data e hora">Data e hora</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html.gl-GL" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html.gl-GL#desktop" title="Customize your desktop">Customize your desktop</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html.gl-GL" title="O seu escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.gl-GL#desktop" title="Personalizar o seu escritorio">Personalizar o seu escritorio</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,22 +75,16 @@
 <div class="region">
 <div class="contents">
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
-<p class="p">This requires you to use your <span class="app">Evolution</span> calendar or for you
-    to have an online account set up which <span class="gui">Calendar</span> supports.</p>
-<p class="p">Most distributions come with <span class="app">Evolution</span> installed by default.
-    If yours does not, you may need to install it using your distribution’s
-    package manager.</p>
+<p class="p">Isto require que use o seu calendario de <span class="app">Evolution</span> ou que conte con unha conta en liña configurada que admite <span class="gui">Calendario</span>.</p>
+<p class="p">A maioría das distribucións veñen con <span class="app">Evolution</span> instalado por omisión. Se a súa non o ten, debe instalalo empregando o xestor de paquetes da súa distribución.</p>
 </div></div></div></div>
 <p class="p">Para ver os seus apuntamentos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Prema no reloxo desde a barra superior</p></li>
+<li class="steps"><p class="p">Prema no reloxo desde a barra superior.</p></li>
 <li class="steps">
-<p class="p">Click the date for which you want to see your appointments from the
-      calendar.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">A dot is shown under each date that has an appointment.</p></div></div></div></div>
-<p class="p">Existing appointments will be displayed to the left of the calendar.
-      As appointments are added to your <span class="app">Evolution</span> calendar, they
-      will appear in the clock’s appointment list.</p>
+<p class="p">Prema na data para a que quere ver os seus apuntamentos no Calendario.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Móstrase un punto debaixo de cada data que ten unha cita.</p></div></div></div></div>
+<p class="p">Os apuntamentos existentes mostraranse na parte esquerda do calendario. En canto engada un apuntamento ao calendario de <span class="app">Evolution</span>, aparecerán na lista de apuntamentos do reloxo.</p>
 </li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="figures/shell-appts.png" width="500" class="media media-block" alt="Reloxo, calendario e apuntamentos"></div></div>
@@ -100,15 +94,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-overview.html.gl-GL#desktop" title="Customize your desktop">Customize your desktop</a></li>
 <li class="links ">
-<a href="clock.html.gl-GL" title="Data e hora">Data e hora</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html.gl-GL" title="Cambiar a hora e data">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.gl-GL" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html.gl-GL" title="Data e hora">Data e hora</a><span class="desc"> — <span class="link"><a href="clock-set.html.gl-GL" title="Cambiar a hora e data">Estabelecer a data e a hora</a></span>, <span class="link"><a href="clock-world.html.gl-GL" title="Engadir un reloxo do mundo">reloxos do mundo</a></span> <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">fuso horario</a></span>, <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">calendario e citas</a></span>…</span>
 </li>
+<li class="links "><a href="shell-overview.html.gl-GL#desktop" title="Personalizar o seu escritorio">Personalizar o seu escritorio</a></li>
 </ul></div>
 </div></div></div>
 </div>
@@ -119,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

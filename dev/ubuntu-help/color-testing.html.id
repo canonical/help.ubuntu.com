@@ -86,13 +86,9 @@
 <li class="steps"><p class="p">Pilih perangkat yang ingin Anda tambahi profil. Anda mungkin ingin membuat catatan tentang profile mana yang saat ini sedang dipakai.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tambah profil</span> untuk memilih suatu profil uji, yang mestinya ada di bagian bawah daftar.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Tambah</span> untuk mengkonfirmasi pilihan Anda.</p></li>
-<li class="steps"><p class="p">To revert to your previous profile, select the device in the
-      <span class="gui">Color</span> panel, then select the profile that you were using
-      before you tried one of the test profiles and press <span class="gui">Enable</span> to
-      use it again.</p></li>
+<li class="steps"><p class="p">Untuk kembali ke profil sebelumnya, pilih perangkat dalam <span class="gui">Warna</span> Panel, lalu pilih profil yang Anda gunakan sebelum Anda mencoba salah satu profil tes dan tekan <span class="gui">Aktifkan</span> untuk menggunakan lagi.</p></li>
 </ol></div></div></div>
-<p class="p">Using these profiles, you can clearly see when an application supports
-  color management.</p>
+<p class="p">Menggunakan profil ini Anda dapat melihat dengan jelas ketika aplikasi mendukung manajemen warna.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -116,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

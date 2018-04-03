@@ -64,45 +64,32 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="wacom.html.pl-PL" title="Tablet graficzny firmy Wacom">Tablet graficzny firmy Wacom</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="wacom.html.pl-PL" title="Tablet graficzny firmy Wacom">Tablet graficzny firmy Wacom</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wybieranie monitora</span></h1></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Tablet firmy Wacom</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Tablet firmy Wacom</span>.</p></li>
 <li class="steps">
 <p class="p">Kliknij <span class="gui">Tablet firmy Wacom</span>, aby otworzyć panel.</p>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
-    <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
-    <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli nie wykryto żadnego tabletu, to zostanie wyświetlony komunikat <span class="gui">Proszę podłączyć lub włączyć tablet firmy Wacom</span>. Kliknij odnośnik <span class="gui">Ustawienia Bluetooth</span>, aby podłączyć tablet bezprzewodowy.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Map to Monitor…</span></p></li>
-<li class="steps"><p class="p">Check <span class="gui">Map to single monitor</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Mapuj do monitora…</span>.</p></li>
+<li class="steps"><p class="p">Zaznacz opcję <span class="gui">Mapowanie do pojedynczego monitora</span>.</p></li>
 <li class="steps">
-<p class="p">Next to <span class="gui">Output</span>, select the monitor you wish to receive
-   input from your graphics tablet.</p>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Only the monitors that are configured will be
-      selectable.</p></div></div></div></div>
+<p class="p">Obok napisu <span class="gui">Wyjście</span> wybierz monitor, który ma odbierać wejście z tabletu.</p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Można wybrać tylko skonfigurowane monitory.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Switch <span class="gui">Keep aspect ratio (letterbox)</span> to <span class="gui">ON</span> to
-    match the drawing area of the tablet to the proportions of the monitor.
-      This setting, also called <span class="em">force proportions</span>,
-      <span class="em">letterboxes</span> the drawing area on a tablet to correspond more
-      directly to a display. For example, a 4∶3 tablet would be mapped so that
-      the drawing area would correspond to a widescreen display.</p></li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Zamknij</span>.</p></li>
+<li class="steps"><p class="p">Przełącz <span class="gui">Zachowanie proporcji (kaszety)</span> na <span class="gui">|</span> (włączone), aby dopasować obszar rysowania tabletu do proporcji monitora. To ustawienie, zwane także <span class="em">wymuszonymi proporcjami</span>, dodaje nieaktywne obszary na dole i górze obszaru rysowania tabletu, aby obszar bardziej bezpośrednio pasował do ekranu. Na przykład, tablet o proporcjach 4∶3 będzie mapowany tak, aby obszar rysowania pasował do monitora szerokoekranowego.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Zamknij</span>.</p></li>
 </ol></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html.pl-PL" title="Tablet graficzny firmy Wacom">Tablet graficzny firmy Wacom</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html.pl-PL" title="Wybieranie monitora">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html.pl-PL" title="Konfiguracja rysika">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html.pl-PL" title="Use the tablet left-handed">use the tablet left handed</a></span>…
-  </span>
+<a href="wacom.html.pl-PL" title="Tablet graficzny firmy Wacom">Tablet graficzny firmy Wacom</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html.pl-PL" title="Wybieranie monitora">Mapowanie monitora</a></span>, <span class="link"><a href="wacom-stylus.html.pl-PL" title="Konfiguracja rysika">konfiguracja rysika</a></span>, <span class="link"><a href="wacom-left-handed.html.pl-PL" title="Używanie leworęcznego tabletu">używanie tabletu lewą ręką</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -113,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

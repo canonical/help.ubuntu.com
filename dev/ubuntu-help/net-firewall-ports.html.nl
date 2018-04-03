@@ -64,17 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-security.html.nl" title="Veiligheid op het internet">Veiligheid op het internet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-security.html.nl" title="Veiligheid op het internet">Veiligheid op het internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Veelgebruikte netwerkpoorten</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">This is a list of network ports commonly used by applications that provide
-  network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.nl" title="Firewalltoegang inschakelen of blokkeren.">block or allow
-  access</a></span> to these applications. There are thousands of ports in use, so
-  this table isn’t complete.</p>
+<p class="p">Dit is een lijst met netwerkpoorten die veel gebruikt worden door toepassingen die netwerkdiensten aanbieden, zoals het delen van bestanden of bureaublad bekijken op afstand. U kunt uw firewall zo instellen dat de toegang tot deze toepassingen wordt <span class="link"><a href="net-firewall-on-off.html.nl" title="Firewalltoegang inschakelen of blokkeren.">geblokkeerd of toegestaan</a></span>. Er worden duizenden poorten gebruikt, dus deze tabel is niet compleet.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Poort</p></td>
@@ -100,8 +96,7 @@
 <tr>
 <td><p class="p">5298/tcp</p></td>
 <td><p class="p">Aanwezigheid</p></td>
-<td><p class="p">Allows you to advertise your instant messaging status to other
-          people on the network, such as “online” or “busy”.</p></td>
+<td><p class="p">Hiermee wijzigt u uw chat-status, bedoeld voor andere mensen op het netwerk, zoals ‘online’ of ‘bezet’.</p></td>
 </tr>
 <tr class="shade">
 <td><p class="p">5900/tcp</p></td>
@@ -140,7 +135,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

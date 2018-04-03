@@ -78,10 +78,9 @@
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.sv" title="Kontrollera batteristatus"><span class="title">Kontrollera batteristatus</span><span class="linkdiv-dash"> — </span><span class="desc">Visa status för batteriet och anslutna enheter.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.sv" title="Använd mindre ström och förbättra batteridriftstiden"><span class="title">Använd mindre ström och förbättra batteridriftstiden</span><span class="linkdiv-dash"> — </span><span class="desc">Tips på hur du reducerar din dators strömförbrukning.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.sv" title="Få ut det mesta ur din bärbara dators batteri"><span class="title">Få ut det mesta ur din bärbara dators batteri</span><span class="linkdiv-dash"> — </span><span class="desc">Tips så som ”Låt inte batteriet bli för lågt”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.sv" title="Hur försätter jag min dator i viloläge?"><span class="title">Hur försätter jag min dator i viloläge?</span><span class="linkdiv-dash"> — </span><span class="desc">Viloläge är inaktiverat som standard eftersom det saknar bra stöd.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.sv" title="Logga ut, stäng av eller växla användare"><span class="title">Logga ut, stäng av eller växla användare</span><span class="linkdiv-dash"> — </span><span class="desc">Lär dig hur du lämnar ditt användarkonto genom att logga ut, växla användare, och så vidare.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.sv" title="Logga ut, stäng av eller växla användare"><span class="title">Logga ut, stäng av eller växla användare</span><span class="linkdiv-dash"> — </span><span class="desc">Lär dig hur du lämnar ditt användarkonto genom att logga ut, växla användare, och så vidare.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.sv" title="Slå av trådlösa teknologier som inte används"><span class="title">Slå av trådlösa teknologier som inte används</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi och mobilt bredband kan slås av för att minska batterianvändning.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.sv" title="Vad händer när jag försätter min dator i vänteläge?"><span class="title">Vad händer när jag försätter min dator i vänteläge?</span><span class="linkdiv-dash"> — </span><span class="desc">Vänteläge försätter din dator i ett strömsparläge där den drar mindre ström.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.sv" title="Varför stängs min dator av när jag stänger locket?"><span class="title">Varför stängs min dator av när jag stänger locket?</span><span class="linkdiv-dash"> — </span><span class="desc">Bärbara datorer försätts i strömsparläge när du stänger locket för att spara ström.</span></a></div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

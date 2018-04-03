@@ -82,51 +82,26 @@
 <div class="contents">
 <p class="p">A különböző nyelvekhez több száz billentyűzetkiosztás készült. Még egyetlen nyelv esetén is több kiosztás van, például angol nyelvhez a Dvorak kiosztás. Billentyűzetének viselkedése megváltoztatható, a billentyűkre nyomtatott betűktől és szimbólumoktól függetlenül átállítható másik kiosztás használatára. Ez több nyelv használata közti gyakori váltás esetén hasznos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
-      select the language which is associated with the layout, then select a
-      layout and press <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Terület és nyelv</span> kifejezést.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Terület és nyelv</span> ikonra a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">Nyomja meg a <span class="gui">+</span> gombot a <span class="gui">Bemeneti források</span> szakaszban, válassza ki a kiosztáshoz tartozó nyelvet, és nyomja meg a <span class="gui">Hozzáadás</span> gombot.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents">
+<p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p>
 <p class="p">Some rarely used keyboard layout variants are not available by default when you click
     the <span class="gui">+</span> button. To make also those input sources available you can open a terminal
     window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>
     and run this command:</p>
 <p class="p"><span class="cmd">gsettings set org.gnome.desktop.input-sources show-all-sources true</span></p>
 </div></div></div></div>
-<div class="note note-sidebar" title="Oldalsáv"><div class="inner"><div class="region"><div class="contents"><p class="p">You can preview an image of any layout by selecting it in the list of
-    <span class="gui">Input Sources</span> and clicking
-    <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="preview"></span></span></span></p></div></div></div></div>
-<p class="p">Certain languages offer some extra configuration options. You can
-  identify those languages because they have a
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="preview"></span></span></span> icon next to them. If you want to access
-  these extra parameters, select the language from the <span class="gui">Input Source</span>
-  list and a new
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" height="16" width="16" class="media media-inline" alt="preferences"></span></span></span> button will give you access
-  to the extra settings.</p>
-<p class="p">When you use multiple layouts, you can choose to have all windows use the
-  same layout or to set a different layout for each window. Using a different
-  layout for each window is useful, for example, if you’re writing an article
-  in another language in a word processor window. Your keyboard selection will
-  be remembered for each window as you switch between windows. Press the
-  <span class="gui">Options</span> button to select how you want to manage
-  multiple layouts.</p>
-<p class="p">The top bar will display a short identifier for the current layout, such as
-  <span class="gui">en</span> for the standard English layout. Click the layout indicator and
-  select the layout you want to use from the menu. If the selected language has
-  any extra settings, they will be shown below the list of available layouts.
-  This gives you a quick overview of your settings. You can also open an image
-  with the current keyboard layout for reference.</p>
-<p class="p">The fastest way to change to another layout is by using the 
-  <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
-  the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
-  By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
-  and to the previous one with
-  <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
-  change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
+<div class="note note-sidebar" title="Oldalsáv"><div class="inner"><div class="region"><div class="contents"><p class="p">Bármely kiosztás képét megjelenítheti. Válassza ki a <span class="gui">Bemeneti források</span> listából a kiosztást, majd nyomja meg az <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="előnézet"></span></span></span> gombot.</p></div></div></div></div>
+<p class="p">Bizonyos nyelvek további beállítási lehetőségeket is kínálnak. Ezeket a nyelveket a mellettük lévő <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="előnézet"></span></span></span> ikonról ismerheti fel. Ezen extra paraméterek eléréséhez válassza ki a nyelvet a <span class="gui">Bemeneti források</span> listájából, és nyomja meg a megjelenő <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" height="16" width="16" class="media media-inline" alt="beállítások"></span></span></span> gombot.</p>
+<p class="p">Több kiosztás használatakor eldöntheti, hogy minden ablak ugyanazt a kiosztást használja-e, vagy minden ablak más-más kiosztást. Az eltérő kiosztás használata akkor lehet hasznos, ha például egy szövegszerkesztő ablakban másik nyelven ír egy cikket. Az egyes ablakokhoz kiválasztott kiosztás ilyenkor megmarad az ablakok közti váltáskor. Nyomja meg a <span class="gui">Beállítások</span> gombot a további kiosztások kezelésének kiválasztásához.</p>
+<p class="p">A felső soron megjelenik az aktuális kiosztás rövid azonosítója, például <span class="gui">en</span> a szabványos angol, <span class="gui">hu</span> a szabványos magyar kiosztáshoz. Kattintson a kiosztásjelzőre, és válassza ki a használni kívánt kiosztást a menüből. Ha a kijelölt nyelvhez tartoznak extra beállítások, akkor azok az elérhető kiosztások listája alatt jelennek meg. Referenciaként megnyithatja a jelenlegi billentyűzetkiosztás képét is.</p>
+<p class="p">Másik kiosztásra váltani a <span class="gui">Bemeneti forrás</span> <span class="gui">gyorsbillentyűkkel</span> lehet. Ezek a gyorsbillentyűk megnyitják a <span class="gui">Bemenetiforrás-választót</span>, amelyben előre és hátra lépkedhet. Alapesetben a következő bemeneti forrásra a <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Szóköz</kbd></span></span>, az előzőre a <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Szóköz</kbd></span></span> kombinációval válthat. Ezeket a gyorsbillentyűket a <span class="gui">Billentyűzet</span> beállításai között módosíthatja.</p>
 <p class="p"><span class="media"><span class="media media-image"><img src="figures/input-methods-switcher.png" class="media media-inline" alt=""></span></span></p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -161,7 +136,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

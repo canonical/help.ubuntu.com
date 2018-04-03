@@ -74,9 +74,8 @@
 <p class="p">
     Applications are available in two formats: snap packages and Debian packages.
     An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    In order to install (or remove) a snap you have to log on to the Snap Store/Ubuntu One. Some 
-    applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be
-    listed first.
+    Some applications are available in both formats. In such a case in
+    <span class="app">Ubuntu Software</span> the snap will be listed first.
    </p>
 <p class="p">Вам может также понадобиться установить программу без графического интерфейса. Для установки таких программ можно воспользоваться <span class="link"><a href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Synaptic</a></span>. Обратите внимание, что <span class="app">Synaptic</span> не показывает snap-пакеты.</p>
 <p class="p">Для того, чтобы установить приложение:</p>
@@ -88,11 +87,7 @@
 <li class="steps"><p class="p">После запуска <span class="app">Менеджера приложений Ubuntu</span> выполните поиск требуемого приложения или выберите категорию и найдите это приложение в списке.</p></li>
 <li class="steps"><p class="p">Выберите нужное приложение и нажмите <span class="gui">Установить</span>.</p></li>
 <li class="steps"><p class="p">
-        If you're installing a snap, log on to the Snap Store/Ubuntu One.
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password
-        (that is, your user password, not your Snap Store/Ubuntu One password). 
+        You will be asked to authenticate by entering your password. 
         Once you have done that the installation will begin. 
         The installation usually finishes quickly, but could take a while if you 
         have a slow Internet connection.
@@ -131,7 +126,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

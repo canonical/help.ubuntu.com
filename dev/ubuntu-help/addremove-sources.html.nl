@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.nl" title="Software toevoegen &amp; verwijderen">Software toevoegen/verwijderen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="addremove.html.nl" title="Software toevoegen &amp; verwijderen">Software toevoegen/verwijderen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Softwarebronnen toevoegen</span></h1></div>
@@ -88,7 +88,7 @@
 <li class="steps">
 <p class="p">Klik op <span class="gui">Toevoegen</span> en voer de APT-regel van de pakketbron in. Deze zou te vinden moeten zijn op de website van de bron en moet er ongeveer zo uit zien:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Klik op <span class="gui">Bron toevoegen</span> en sluit daarna het <span class="app">Software &amp; Updates</span>-venster. <span class="app">Ubuntu Software</span> zal dan in de softwarebronnen zoeken naar nieuwe updates.</p></li>
@@ -98,10 +98,16 @@
 <div id="canonical-partner" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">De bron Partners van Canonical activeren</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">De bron Partners van Canonical biedt een aantal bedrijfseigen toepassingen die geen geld kosten om ze te gebruiken, maar die in de gesloten-broncategorie vallen. Hier vindt u software zoals <span class="app">Skype</span> en <span class="app">Adobe Flash Plugin</span>. De toepassingen uit deze bron verschijnen wel in de zoekresultaten van <span class="app">Ubuntu Software</span>, maar kunnen pas geïnstalleerd worden als deze bron is ingeschakeld.</p>
+<p class="p">
+      The Canonical Partner repository offers some proprietary applications 
+      that don't cost any money to use but are closed source. They include 
+      software like <span class="app">Adobe Flash Plugin</span>. Software in this
+      repository will appear in <span class="app">Ubuntu Software</span> search results
+      but won't be installable until this repository is enabled.
+    </p>
 <p class="p">Volg de stappen hierboven waarmee u het tabblad <span class="gui">Overige software</span> in <span class="app">Software &amp; Updates</span> opent, om de bron in te schakelen. Als u de bron <span class="gui">Partners van Canonical</span> in de lijst ziet, controleer dan of er een vinkje bij staat en sluit het <span class="app">Software &amp; Updates</span>-venster. Als u de bron niet ziet, klik dan op <span class="gui">Toevoegen</span> en typ:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
 <p class="p">Klik op <span class="gui">Bron toevoegen</span> en sluit daarna het <span class="app">Software &amp; Updates</span>-venster. Wacht even totdat <span class="app">Ubuntu Software</span> de broninformatie heeft opgehaald.</p>
 </div></div>
@@ -130,7 +136,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

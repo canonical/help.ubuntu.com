@@ -80,6 +80,10 @@
 <li class="steps"><p class="p">Responda a la solicitud, <span class="gui">Debe reiniciar su sesión para que los cambios surtan efecto</span> pulsando en <span class="gui">Reiniciar ahora</span>, o pulse <span class="gui">×</span> para reiniciar más tarde.</p></li>
 </ol></div></div></div>
 <p class="p">Después de que ha seleccionado la región, el área de la derecha de la lista muestra varios ejemplos de cómo se muestran las fechas y otros valores. Aunque no se muestra en los ejemplos, su región también controla el día de inicio de la semana en los calendarios.</p>
+<div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -105,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

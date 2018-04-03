@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Можно разрешить другим пользователям наблюдать за вашим рабочим столом и управлять им с другого компьютера с помощью приложения для просмотра рабочего стола. Настройте <span class="app">Общий доступ к экрану</span> чтобы разрешить доступ к своему рабочему столу и настроить параметры безопасности.</p>
-<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">Чтобы параметр <span class="gui">Общий доступ к экрану</span> стал видимым, в системе должен быть установлен пакет<span class="app">Vino</span>.</p></div></div></div></div>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Чтобы параметр <span class="gui">Общий доступ к экрану</span> стал видимым, в системе должен быть установлен пакет<span class="app">Vino</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:vino" title="apt:vino">Установите Vino</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Sharing</span>.</p></li>
@@ -168,7 +171,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

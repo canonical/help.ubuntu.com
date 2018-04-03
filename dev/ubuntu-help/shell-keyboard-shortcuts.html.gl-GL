@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html.gl-GL" title="Your desktop">Escritorio</a> › <a class="trail" href="shell-overview.html.gl-GL#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="shell-overview.html.gl-GL" title="O seu escritorio">Escritorio</a> › <a class="trail" href="shell-overview.html.gl-GL#apps" title="Aplicativos e xanelas">Aplicativos e xanelas</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="keyboard.html.gl-GL" title="Teclado">Teclado</a> » </div>
 <div class="trail">
@@ -115,12 +115,7 @@
 <td style="border-top-style: solid;"><p class="p">Mostrar a lista de aplicativos.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">
-      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> or
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span>, and
-      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
-    </p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>PevPax</kbd></span></span> ou<span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Arriba</kbd></span></span>, e <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>AvPax</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Abaixo</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.gl-GL" title="Trocar entre os espazos de traballo">Cambiar entre os espazos de traballo</a></span></p></td>
 </tr>
 <tr>
@@ -128,16 +123,16 @@
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.gl-GL" title="Mova unha xanela a un espazo de traballo diferente:">Mover as xanelas a un espazo de traballo diferente</a></span>.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the left.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Maiús</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Mover a xanela actual ao monitor da esquerda.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the right.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Maiús</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Mover a xanela actual ao monitor da dereita.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Supr</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.gl-GL" title="Log out, power off or switch users">Power Off</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.gl-GL" title="Saír da sesión, apagar e trocar de usuarios">Power Off</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
@@ -216,7 +211,7 @@
 <a href="tips.html.gl-GL" title="Consellos e trucos">Consellos e trucos</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.gl-GL" title="Inserir caracteres especiais">Caracteres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html.gl-GL" title="Clic central">atallos de botón do medio</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
+<a href="keyboard.html.gl-GL" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar disposicións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -248,7 +243,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

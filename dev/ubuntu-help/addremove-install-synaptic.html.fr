@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Le <span class="app">Gestionnaire de paquets Synaptic</span> est plus puissant et peut réaliser des tâches de gestion de paquets qui ne peuvent être accomplies avec <span class="app">Logiciels Ubuntu</span>. L'interface de Synaptic est plus complexe et ne prends pas en charge les dernières fonctionnalités introduites dans <span class="app">Logiciels Ubuntu</span> comme les notes et les commentaires. Synaptic n'est donc pas recommandé pour les nouveaux utilisateurs d'Ubuntu.</p>
-<p class="p">Synaptic n'est pas installé par défaut, mais vous pouvez <span class="link"><a href="https://apps.ubuntu.com/cat/applications/synaptic" title="https://apps.ubuntu.com/cat/applications/synaptic">l'installer</a></span> depuis l'archive de paquets Ubuntu.</p>
+<p class="p">Synaptic n'est pas installé par défaut, mais vous pouvez <span class="link"><a href="apt:synaptic" title="apt:synaptic">l'installer</a></span> depuis l'archive de paquets Ubuntu.</p>
 </div>
 <div id="install-software-with-synaptic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Installer des logiciels avec Synaptic</span></h2></div>
@@ -119,7 +119,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

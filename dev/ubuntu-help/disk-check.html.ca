@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Check your hard disk for problems</title>
+<title>Comproveu el vostre disc dur per problemes</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,47 +67,32 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Check your hard disk for problems</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Comproveu el vostre disc dur per problemes</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="disk-status" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Checking the hard disk</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">S'està comprovant el disc dur</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Hard disks have a built-in health-check tool called <span class="app">SMART</span>
- (Self-Monitoring, Analysis, and Reporting Technology), which continually
- checks the disk for potential problems. SMART also warns you if the disk
- is about to fail, helping you avoid loss of important data.</p>
-<p class="p">Although SMART runs automatically, you can also check your disk’s
- health by running the <span class="app">Disks</span> application:</p>
+<p class="p">Els discs durs porten una eina  integrada per a la verificació del seu estat que s'anomena <span class="app">SMART</span> (Auto-Monitoring, Analysis i Reporting Technology), que controla contínuament el disc per detectar possibles problemes. SMART també us avisa si el disc està a punt de fallar, ajudant-vos a evitar la pèrdua de dades importants.</p>
+<p class="p">Encara que SMART s'executi automàticament, també podeu comprovar l'estat del vostres discs executant l'aplicació <span class="app">Discs</span>:</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Check your disk’s health using the Disks application</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Validar l'estat del vostre disc dur mitjançant l'aplicació Discs</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
-<li class="steps"><p class="p">Select the disk you want to check from the list of storage devices on
-    the left. Information and status of the disk will be shown.</p></li>
+<li class="steps"><p class="p">Obrir<span class="app">Discs</span> des de la vista d'<span class="gui">Activitats</span>.</p></li>
+<li class="steps"><p class="p">Seleccioneu el disc que voleu consultar des de la llista de dispositius d'emmagatzematge de l'esquerra. Es mostrarà la informació i l'estat del disc.</p></li>
 <li class="steps"><p class="p">Click the menu button and select <span class="gui">SMART Data &amp; Self-Tests…</span>.
     The <span class="gui">Overall Assessment</span> should say “Disk is OK”.</p></li>
-<li class="steps"><p class="p">See more information under <span class="gui">SMART Attributes</span>, or click the
-    <span class="gui">Start Self-test</span> button to run a self-test.</p></li>
+<li class="steps"><p class="p">Veure més informació a <span class="gui">Atributs SMART</span>, o  feu clic al botó <span class="gui">Iniciar les auto-proves</span> per executar una auto-prova.</p></li>
 </ol></div>
 </div></div>
 </div></div>
 </div></div>
 <div id="disk-not-healthy" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">What if the disk isn’t healthy?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Què passa si el disc no està bé?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Even if the <span class="gui">Overall Assessment</span> indicates that the disk
-  <span class="em">isn’t</span> healthy, there may be no cause for alarm. However, it’s better
-  to be prepared with a <span class="link"><a href="backup-why.html.ca" title="Fer còpies de seguretat dels fitxers importants">backup</a></span> to prevent data
-  loss.</p>
-<p class="p">If the status says “Pre-fail”, the disk is still reasonably healthy but
- signs of wear have been detected which mean it might fail in the near future.
- If your hard disk (or computer) is a few years old, you are likely to see
- this message on at least some of the health checks. You should
- <span class="link"><a href="backup-how.html.ca" title="Fer una còpia de seguretat">backup your important files regularly</a></span> and check
- the disk status periodically to see if it gets worse.</p>
-<p class="p">If it gets worse, you may wish to take the computer/hard disk to a
- professional for further diagnosis or repair.</p>
+<p class="p">Fins i tot si l'<span class="gui">Avaluació global</span> assenyala que el disc <span class="em">no està</span> bé, tpot ser que no hi hagi cap alarma. No obstant això, és millor preparar-se amb una <span class="link"><a href="backup-why.html.ca" title="Fer còpies de seguretat dels fitxers importants">còpia de seguretat</a></span> per evitar la pèrdua de dades.</p>
+<p class="p">Si l'estat diu "Pre-errada", el disc segueix estant raonablement bé però s'han detectat signes de desgast que signifiquen que pot fallar en un futur proper. Si el vostre disc dur (o ordinador) té alguns anys, és probable que vegeu aquest missatge almenys en alguns dels controls. Heu de fer <span class="link"><a href="backup-how.html.ca" title="Fer una còpia de seguretat">còpies de seguretat dels fitxers importants amb regularitat</a></span> i verificar l'estat del disc periòdicament per veure si empitjora.</p>
+<p class="p">Si s'agreuja, és possible que vulgueu portar l'ordinador / disc dur a un professional per a fer un diagnòstic més profund o a repar.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -115,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Check how much disk space is left">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Test the performance of your hard disk">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Check your hard disk for problems">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Manage volumes and partitions">volums i particions</a></span>…</span>
+<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu el vostre disc dur per problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -126,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

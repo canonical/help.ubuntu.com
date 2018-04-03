@@ -64,52 +64,35 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="wacom.html.pl-PL" title="Tablet graficzny firmy Wacom">Tablet graficzny firmy Wacom</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="wacom.html.pl-PL" title="Tablet graficzny firmy Wacom">Tablet graficzny firmy Wacom</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Konfiguracja rysika</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Tablet firmy Wacom</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Tablet firmy Wacom</span>.</p></li>
 <li class="steps">
 <p class="p">Kliknij <span class="gui">Tablet firmy Wacom</span>, aby otworzyć panel.</p>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
-    <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
-    <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli nie wykryto żadnego tabletu, to zostanie wyświetlony komunikat <span class="gui">Proszę podłączyć lub włączyć tablet firmy Wacom</span>. Kliknij odnośnik <span class="gui">Ustawienia Bluetooth</span>, aby podłączyć tablet bezprzewodowy.</p></div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">The lower part of the panel contains details and settings specific
-   to your stylus, with the device name (the stylus class) and diagram to the
-   left. These settings can be adjusted:</p>
+<p class="p">Dolna część panelu zawiera informacje i ustawienia rysika, w tym nazwę urządzenia (klasę rysika) i diagram po lewej. Ustawienia można dostosować:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Eraser Pressure Feel:</span> use the slider to adjust the
-       “feel” (how physical pressure is translated to digital values) between
-       <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
-<li class="list"><p class="p"><span class="gui">Button/Scroll Wheel</span> configuration (these change to
-       reflect the stylus). Click the menu next to each label to select one of
-       these functions: No Action, Left Mouse Button Click, Middle Mouse Button
-       Click, Right Mouse Button Click, Scroll Up, Scroll Down, Scroll Left,
-       Scroll Right, Back, or Forward.</p></li>
-<li class="list"><p class="p"><span class="gui">Tip Pressure Feel:</span> use the slider to adjust the
-       “feel” between <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
+<li class="list"><p class="p"><span class="gui">Siła nacisku gumki:</span> użyj suwaka, aby dostosować siłę nacisku (jak fizyczny nacisk jest tłumaczony na wartości cyfrowe) między <span class="gui">Lekka</span> a <span class="gui">Mocna</span>.</p></li>
+<li class="list"><p class="p">Konfiguracja <span class="gui">przycisku/kółka przewijania</span> (zmieniają się, aby odzwierciedlać rysik). Kliknij menu obok każdej etykiety, aby wybrać jedną z tych funkcji: brak działania, kliknięcie lewym przyciskiem myszy, kliknięcie środkowym przyciskiem myszy, kliknięcie prawym przyciskiem myszy, przewinięcie do góry, przewinięcie w dół, przewinięcie w lewo, przewinięcie w prawo, wstecz lub dalej.</p></li>
+<li class="list"><p class="p"><span class="gui">Siła nacisku czubka:</span> użyj suwaka, aby dostosować siłę nacisku między <span class="gui">Lekka</span> a <span class="gui">Mocna</span>.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">If you have more than one stylus, when the additional
- stylus gets close to the tablet, a pager will be displayed next to the stylus
- device name. Use the pager to choose which stylus to configure.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli używany jest więcej niż jeden rysik, to kiedy dodatkowy zbliży się do tabletu, zostanie wyświetlony przełącznik obok nazwy urządzenia rysika. Użyj go, aby wybrać rysik do konfiguracji.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html.pl-PL" title="Tablet graficzny firmy Wacom">Tablet graficzny firmy Wacom</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html.pl-PL" title="Wybieranie monitora">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html.pl-PL" title="Konfiguracja rysika">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html.pl-PL" title="Use the tablet left-handed">use the tablet left handed</a></span>…
-  </span>
+<a href="wacom.html.pl-PL" title="Tablet graficzny firmy Wacom">Tablet graficzny firmy Wacom</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html.pl-PL" title="Wybieranie monitora">Mapowanie monitora</a></span>, <span class="link"><a href="wacom-stylus.html.pl-PL" title="Konfiguracja rysika">konfiguracja rysika</a></span>, <span class="link"><a href="wacom-left-handed.html.pl-PL" title="Używanie leworęcznego tabletu">używanie tabletu lewą ręką</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -120,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

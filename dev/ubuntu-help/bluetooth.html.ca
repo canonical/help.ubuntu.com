@@ -70,29 +70,25 @@
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bluetooth is a wireless protocol that allows you to connect many different
-types of devices to your computer. Bluetooth is commonly used for headsets
-and input devices like mice and keyboards. You can also use Bluetooth to
-<span class="link"><a href="bluetooth-send-file.html.ca" title="Send files to a Bluetooth device">send files between devices</a></span>, such as
-from your computer to your cell phone.</p>
+<p class="p">Bluetooth és un protocol sense fil que permet connectar diversos tipus de dispositius a l'ordinador. S'utilitza habitualment per a auriculars i dispositius d'entrada com ratolins i teclats. També es pot utilitzar per <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">enviar arxius entre dispositius</a></span>, com ara des de l'ordinador al telèfon mòbil.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.ca" title="Turn Bluetooth on or off"><span class="title">Turn Bluetooth on or off</span><span class="linkdiv-dash"> — </span><span class="desc">Enable or disable the Bluetooth device on your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth"><span class="title">Activar o desactivar el Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Activar o desactiva el dispositiu Bluetooth de l'ordinador.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth"><span class="title">Connectar l'ordinador a un dispositiu Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Aparellar dispositius Bluetooth.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.ca" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.ca" title="Disconnect a Bluetooth device"><span class="title">Disconnect a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Com esborrar un dispositiu de la llista de dispositius Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.ca" title="Send files to a Bluetooth device"><span class="title">Send files to a Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">Com compartir fitxers amb dispositius Bluetooth com, per exemple, el mòbil.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.ca" title="Què és la visibilitat del Bluetooth?"><span class="title">Què és la visibilitat del Bluetooth?</span><span class="linkdiv-dash"> — </span><span class="desc">Whether other devices can discover your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.ca" title="Desconnecta un dispositiu Bluetooth"><span class="title">Desconnecta un dispositiu Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Com esborrar un dispositiu de la llista de dispositius Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth"><span class="title">Envia fitxers a un dispositiu Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Com compartir fitxers amb dispositius Bluetooth com, per exemple, el mòbil.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.ca" title="Què és la visibilitat del Bluetooth?"><span class="title">Què és la visibilitat del Bluetooth?</span><span class="linkdiv-dash"> — </span><span class="desc">Si altres dispositius poden detectar l'ordinador.</span></a></div>
 </div></div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Problems</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Problemes</span></h2></div>
 <div class="region">
-<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html.ca" title="I cannot connect my Bluetooth device"><span class="title">I cannot connect my Bluetooth device</span><span class="linkdiv-dash"> — </span><span class="desc">L'adaptador pot estar apagat o no disposar dels controladors necessaris, o el Bluetooth està desactivat o blocat.</span></a></div></div></div></div></div>
+<div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="bluetooth-problem-connecting.html.ca" title="No puc connectar el meu dispositiu Bluetooth"><span class="title">No puc connectar el meu dispositiu Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">L'adaptador pot estar apagat o no disposar dels controladors necessaris, o el Bluetooth està desactivat o blocat.</span></a></div></div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Més informació</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html.ca#problems" title="Common problems">Problemes de maquinari</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.ca#problems" title="Problemes comuns">Problemes de maquinari</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -103,10 +99,10 @@ from your computer to your cell phone.</p>
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="hardware.html.ca" title="Maquinari i controladors">Maquinari i controladors</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.ca#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.ca" title="Printing">printers</a></span>,
+      <span class="link"><a href="hardware.html.ca#problems" title="Problemes comuns">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.ca" title="Imprimint">printers</a></span>,
       <span class="link"><a href="power.html.ca" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.ca" title="Color management">color management</a></span>,
+      <span class="link"><a href="color.html.ca" title="Gestió dels colors">color management</a></span>,
       <span class="link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></span>,
       <span class="link"><a href="disk.html.ca" title="Discs i emmagatzematge">disks</a></span>…
     </span>
@@ -120,7 +116,7 @@ from your computer to your cell phone.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Participate to improve this guide</title>
+<title>ניתן להשתתף כדי לשפר את המדריך הזה</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,19 +64,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.he" title="Get more help">Get more help</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Participate to improve this guide</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">ניתן להשתתף כדי לשפר את המדריך הזה</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">This help system is created by a volunteer community. You are welcome to participate. If you notice a problem with these help pages (like typos, incorrect instructions or topics 
 that should be covered but aren't), you can file a <span class="em">bug report</span>.</p>
-<p class="p">To file a bug, press <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type 
-<span class="input">ubuntu-bug ubuntu-docs</span>. Press <span class="gui">Enter</span> to begin the bug collection process.</p>
-<p class="p">See the <span class="link"><a href="report-ubuntu-bug.html.he" title="Report a problem in Ubuntu">Ubuntu bug reporting 
-instructions</a></span> for more information about how to file your bug.</p>
-<p class="p">Thanks for helping make the Ubuntu Help better!</p>
+<p class="p">כדי להגיש דיווח על תקלה, יש ללחוץ על <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> ולהקליד <span class="input">ubuntu-bug ubuntu-docs</span>. ללחוץ על <span class="gui">Enter</span> כדי להתחיל את הליך האיסוף לדיווח על הבאג.</p>
+<p class="p">ניתן לעיין ב<span class="link"><a href="report-ubuntu-bug.html.he" title="Report a problem in Ubuntu">הנחיות לדיווח על באגים באובונטו</a></span> לקבלת מידע נוסף על הגשת דיווח על התקלה שחווית.</p>
+<p class="p">תודה לך על שיפור העזרה באובונטו!</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -84,9 +82,9 @@ instructions</a></span> for more information about how to file your bug.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.he" title="Get more help">Get more help</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html.he" title="About this guide">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html.he" title="Participate to improve this guide">help improve this guide</a></span>…
+<a href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a><span class="desc"> — 
+        <span class="link"><a href="about-this-guide.html.he" title="מידע על מדריך זה">Tips on using this guide</a></span>,
+        <span class="link"><a href="get-involved.html.he" title="ניתן להשתתף כדי לשפר את המדריך הזה">help improve this guide</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -105,7 +103,7 @@ instructions</a></span> for more information about how to file your bug.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

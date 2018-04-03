@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Keyboard navigation</title>
+<title>Navegació per teclat</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,13 +67,13 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ca" title="Accés universal">Accés universal</a> › <a class="trail" href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">Discapacitats de mobilitat</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="keyboard.html.ca" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="keyboard.html.ca" title="Teclat">Teclat</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="keyboard.html.ca" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="keyboard.html.ca" title="Teclat">Teclat</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Keyboard navigation</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Navegació per teclat</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">This page details keyboard navigation for people who cannot use a mouse or
@@ -82,33 +82,33 @@
   <span class="link"><a href="shell-keyboard-shortcuts.html.ca" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a></span> instead.</p>
 <div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">If you cannot use a pointing device like a mouse, you can control the
     mouse pointer using the numeric keypad on your keyboard. See
-    <span class="link"><a href="mouse-mousekeys.html.ca" title="Click and move mouse pointer using the keypad">Click and move mouse pointer using the keypad</a></span> for details.</p></div></div></div></div>
+    <span class="link"><a href="mouse-mousekeys.html.ca" title="Feu clic i moveu el punter del ratolí usant el teclat numèric">Feu clic i moveu el punter del ratolí usant el teclat numèric</a></span> for details.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">Navigate user interfaces</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="key"><kbd>Tab</kbd></span> and <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td><p class="p"><span class="key"><kbd>Tab</kbd></span> i <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
 <td>
 <p class="p">Move keyboard focus between different controls. <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> moves between groups of controls, such as from a
       sidebar to the main content.
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> can also break out of a
       control that uses <span class="key"><kbd>Tab</kbd></span> itself, such as a text area.</p>
-<p class="p">Hold down <span class="key"><kbd>Shift</kbd></span> to move focus in reverse order.</p>
+<p class="p">Manteniu polsat <span class="key"><kbd>Shift</kbd></span> per moure el focus en ordre invers.</p>
 </td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Arrow keys</p></td>
+<td style="border-top-style: solid;"><p class="p">Tecles fletxa</p></td>
 <td style="border-top-style: solid;"><p class="p">Move selection between items in a single control, or among a set of
       related controls. Use the arrow keys to focus buttons in a toolbar, select
       items in a list or icon view, or select a radio button from a group.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+Arrow keys</span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+Tecles fletxa</span></p></td>
 <td style="border-top-style: solid;"><p class="p">In a list or icon view, move the keyboard focus to another item
     without changing which item is selected.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+Arrow keys</span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+Tecles fletxa</span></p></td>
 <td style="border-top-style: solid;"><p class="p">In a list or icon view, select all items from the currently selected
     item to the newly focused item.</p></td>
 <td style="border-top-style: solid;"><p class="p">In a tree view, items that have children can be expanded or collapsed,
@@ -117,21 +117,17 @@
     pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Space</kbd></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Activate a focused item such as a button, check box, or list
-    item.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Espai</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Activeu un element centrat, com ara un botó, una casella de selecció o un element de llista.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Epai</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">In a list or icon view, select or deselect the focused item without
     deselecting other items.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Alt</kbd></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Hold down the <span class="key"><kbd>Alt</kbd></span> key to reveal <span class="em">accelerators</span>:
-    underlined letters on menu items, buttons, and other controls. Press
-    <span class="key"><kbd>Alt</kbd></span> plus the underlined letter to activate a control, just
-    as if you had clicked on it.</p></td>
+<td style="border-top-style: solid;"><p class="p">Mantingueu premuda la tecla <span class="key"><kbd>Alt</kbd></span> per revelar <span class="em">els acceleradors</span>: lletres subratllades en els elements del menú, botons i altres controls. Premeu <span class="key"><kbd>Alt</kbd></span> la tecla subratllada per activar un control, tal com si fes clic a sobre.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Esc</kbd></span></p></td>
@@ -139,34 +135,28 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>F10</kbd></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Open the first menu on the menubar of a window. Use the arrow keys
-    to navigate the menus.</p></td>
+<td style="border-top-style: solid;"><p class="p">Obriu el primer menú a la barra de menú d'una finestra. Utilitzeu les tecles de fletxa per navegar pels menús.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><a href="keyboard-key-super.html.ca" title="What is the Super key?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Open the application menu on the top bar.</p></td>
+<td style="border-top-style: solid;"><p class="p">Obriu el menú de l'aplicació a la barra superior.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
-    <span class="key"><a href="keyboard-key-menu.html.ca" title="What is the Menu key?"><kbd>Menu</kbd></a></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Pop up the context menu for the current selection, as if you had
-      right-clicked.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> o <span class="key"><a href="keyboard-key-menu.html.ca" title="What is the Menu key?"><kbd>Menu</kbd></a></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Mostra el menú contextual de la selecció actual, com si hagués fet clic amb el botó dret.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">In the file manager, pop up the context menu for the current folder,
-    as if you had right-clicked on the background and not on any item.</p></td>
+<td style="border-top-style: solid;"><p class="p">Al gestor de fitxers, apareix el menú contextual de la carpeta actual, tal com si hagués fet clic dret al fons i no en cap element.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageUp</kbd></span></span> and
-    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageDown</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">In a tabbed interface, switch to the tab to the left or
-    right.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageUp</kbd></span></span> i <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageDown</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">En una interfície amb pestanyes, canvieu a la pestanya a l'esquerra o a la dreta.</p></td>
 </tr>
 </table></div>
 </div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h2><span class="title">Navigate the desktop</span></h2></div>
+<div class="title title-table"><h2><span class="title">Navega per l'escriptori</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p">
@@ -218,21 +208,20 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Cycle through all open windows on a workspace.</p></td>
+<td style="border-top-style: solid;"><p class="p">Cicle a través de totes les finestres obertes en un espai de treball.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.ca#messagetray" title="The message tray">Open the message
-    tray.</a></span> Press <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.ca#messagetray" title="The message tray">Obriu la safata de missatges.</a></span> Premeu <span class="key"><kbd>Esc</kbd></span> per tancar-la.</p></td>
 </tr>
 </table></div>
 </div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h2><span class="title">Navigate windows</span></h2></div>
+<div class="title title-table"><h2><span class="title">Finestres de navegació</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
-<td><p class="p">Close the current window.</p></td>
+<td><p class="p">Tancar la finestra actual.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F5</kbd></span></span> or
@@ -314,7 +303,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">Discapacitats de mobilitat</a></li>
 <li class="links ">
-<a href="keyboard.html.ca" title="Keyboard">Keyboard</a><span class="desc"> — 
+<a href="keyboard.html.ca" title="Teclat">Teclat</a><span class="desc"> — 
       <span class="link"><a href="keyboard-layouts.html.ca" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
       <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Make the keyboard cursor blink">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">keyboard accessibility</a></span>…
@@ -337,7 +326,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Numeric keypad</title>
+<title>Klawiatura numeryczna</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,41 +65,28 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Numeric keypad</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Klawiatura numeryczna</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">With the <span class="key"><kbd>Num Lock</kbd></span> key you can manually switch on or off
-  the numeric keypad on your keyboard. Also, computers' BIOS settings often
-  include an option to decide if the computer should be started with the
-  numeric keypad enabled. Otherwise, this is a way to configure it:</p>
+<p class="p">Za pomocą klawisza <span class="key"><kbd>Num Lock</kbd></span> można ręcznie włączać i wyłączać klawiaturę numeryczną. Ustawienia BIOS komputera często zawierają opcję, czy komputer ma być uruchamiany z włączoną klawiaturą numeryczną. Jeśli jej nie ma, można to skonfigurować w ten sposób:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html.pl-PL" title="Install additional applications">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
-<li class="steps"><p class="p">Open <span class="app"><span class="link"><a href="startup-applications.html.pl-PL" title="Startup Applications">Startup Applications</a></span></span>
-      and add a startup program with the command: <span class="cmd">numlockx on</span></p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Zainstaluj</a></span> pakiet <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="app"><span class="link"><a href="startup-applications.html.pl-PL" title="Programy startowe">Programy startowe</a></span></span> i dodaj program uruchamiany poleceniem <span class="cmd">numlockx on</span>.</p></li>
 </ol></div></div></div>
-<p class="p">If you want the numeric keyboard to be on also at the login screen,
-  you can create a special configuration file. Press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> to open a terminal
-  window, and then run this command (it's one long command, even if it may be
-  shown wrapped on the screen - copy and paste to get it right):</p>
-<p class="p"><span class="cmd">sudo sh -c 'printf "[Seat:*]\ngreeter-setup-script=numlockx on\n" &gt;/etc/lightdm/lightdm.conf.d/50-numlock.conf'</span></p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Drugi krok może nie być potrzebny na danym komputerze, więc najpierw spróbuj bez niego.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Alternatywne układy klawiatury">Układy klawiatury</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Ustawianie migania kursora klawiatury">miganie kursora</a></span>, <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">ułatwienia dostępu klawiatury</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -110,7 +97,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

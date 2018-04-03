@@ -65,11 +65,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.pl-PL" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="a11y.html.pl-PL" title="Ułatwienia dostępu">Ułatwienia dostępu</a> › <a class="trail" href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -79,7 +79,7 @@
 <p class="p"><span class="em">Trwałe klawisze</span> umożliwiają wpisywanie skrótów klawiszowych po jednym klawiszu na raz, zamiast naciskania wszystkich klawiszy jednocześnie. Na przykład skrót klawiszowy <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> przełącza między oknami. Z wyłączonymi trwałymi klawiszami trzeba nacisnąć oba klawisze jednocześnie, a po ich włączeniu wystarczy nacisnąć klawisz <span class="key"><kbd>Super</kbd></span>, a następnie klawisz <span class="key"><kbd>Tab</kbd></span>.</p>
 <p class="p">Można włączyć trwałe klawisze, jeśli naciskanie kilku klawiszy na raz sprawia trudności.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Ułatwienia dostępu</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ułatwienia dostępu</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Naciśnij <span class="gui">Wspomaganie pisania (AccessX)</span> w sekcji <span class="gui">Pisanie</span>.</p></li>
 <li class="steps"><p class="p">Przełącz <span class="gui">Trwałe klawisze</span> na <span class="gui">|</span> (włączone).</p></li>
@@ -92,7 +92,7 @@
 </div></div>
 </div></div>
 <p class="p">Naciśnięcie dwóch klawiszy jednocześnie może tymczasowo wyłączać trwałe klawisze, aby można było wprowadzić skrót klawiszowy w zwykły sposób.</p>
-<p class="p">Na przykład: jeśli trwałe klawisze są włączone, ale naciśnięto klawisze <span class="key"><kbd>Super</kbd></span> i <span class="key"><kbd>Tab</kbd></span> jednocześnie, system nie będzie czekał na następne klawisze. Czekałby, jeśli naciśnięto by tylko jeden klawisz. Jest to przydatne, jeśli naciskanie niektórych skrótów klawiszowych sprawia trudności, a innych nie (na przykład z klawiszami blisko siebie).</p>
+<p class="p">Na przykład: jeśli trwałe klawisze są włączone, ale naciśnięto klawisze <span class="key"><kbd>Super</kbd></span> i <span class="key"><kbd>Tab</kbd></span> jednocześnie, system nie będzie czekał na następne klawisze. Czekałby, jeśli naciśnięto by tylko jeden klawisz. Jest to przydatne, jeśli naciskanie niektórych skrótów klawiszowych sprawia trudności, a innych nie (np. z klawiszami blisko siebie).</p>
 <p class="p">Wybierz <span class="gui">Wyłączenie po jednoczesnym przyciśnięciu dwóch klawiszy</span>, aby włączyć tę funkcję.</p>
 <p class="p">Komputer może wydawać dźwięk po rozpoczęciu wpisywania skrótu klawiszowego z włączonymi trwałymi klawiszami. Jest to przydatne, jeśli potrzeba wiedzieć, że trwałe klawisze oczekują wpisania skrótu, więc następne naciśnięcie klawisza zostanie zinterpretowane jako część skrótu. Wybierz <span class="gui">Sygnał dźwiękowy po naciśnięciu klawisza modyfikacji</span>, aby włączyć tę funkcję.</p>
 </div>
@@ -102,11 +102,7 @@
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Alternatywne układy klawiatury">Układy klawiatury</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Ustawianie migania kursora klawiatury">miganie kursora</a></span>, <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">ułatwienia dostępu klawiatury</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">Niepełnosprawność ruchowa</a></li>
 </ul></div>
@@ -119,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

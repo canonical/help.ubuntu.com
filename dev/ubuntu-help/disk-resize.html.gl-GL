@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the size of a filesystem</title>
+<title>Axustar o tamaño dun sistema de ficheiros</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,49 +67,35 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="disk.html.gl-GL" title="Discos e almacenamento">Discos e almacenamento</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Adjust the size of a filesystem</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Axustar o tamaño dun sistema de ficheiros</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A filesystem can be grown to make use of the free space after its
-     partition. Often this is even possible while the filesystem is
-     mounted.</p>
-<p class="p">To make space for another partition after the filesystem, it can be
-     shrunk according to the free space within it.</p>
-<p class="p">Not all filesystems have resize support.</p>
-<p class="p">The partition size will be changed together with the filesystem size.
-     It is also possible to resize a partition without a filesystem in the
-     same way.</p>
+<p class="p">Un sistema de ficheiros pode agrandarse para usar o espazo libre despois da súa partición. Normalmente isto é posíbel incluso cando o sistema de ficheiros está montado.</p>
+<p class="p">Para usar outra partición despois do sistema de ficheiros, pode reducila segundo o espazo libre nela.</p>
+<p class="p">Non todos os sistemas de ficheiros aceptan o redimensionamento.</p>
+<p class="p">O tamaño da partición pode cambiarse xunto ao tamaño do sistema de ficheiros. Tamén é posíbel redimensionar unha partición sen un sistema de ficheiros da mesma maneira.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Resize a filesystem/partition</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Redimensionar un sistema de ficheiros/partición</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
+<li class="steps"><p class="p">Abra <span class="app">Discos</span> desde a vista de <span class="gui">Actividades</span>.</p></li>
 <li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
        of storage devices on the left. If there is more than one volume on
        the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-       menu button. Then click <span class="gui">Resize Filesystem…</span> or
-       <span class="gui">Resize…</span> if there is no filesystem.</p></li>
+<li class="steps"><p class="p">Na sección de volumes debaixo da sección <span class="gui">Volumes</span> prema o botón de menú. Logo prema <span class="gui">Redimensionar sistema de ficheiros …</span> ou <span class="gui">Redimensionar…</span> se non ten un sistema de ficheiros.</p></li>
 <li class="steps">
 <p class="p">A dialog will open where the new size can be chosen. The filesystem will
        be mounted to calculate the minimum size by the amount of current
        content. If shrinking is not supported the minimum size is the current
        size. Leave enough space within the filesystem when shrinking to ensure
        that it can work fast and reliably.</p>
-<p class="p">Depending on how much data has to be moved from the shrunk part, the
-       filesystem resize may take longer time.</p>
-<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">The filesystem resize automatically involves
-         <span class="link"><a href="disk-repair.html.gl-GL" title="Repair a damaged filesystem">repairing</a></span> of the filesystem. Therefore
-         it is advised to back up important data before starting. The action
-         must not be stopped or it will result in a damaged filesystem.</p></div></div></div></div>
+<p class="p">O redimensionado levará máis tempo dependendo da cantidade de datos que ten que mover a parte de encollido.</p>
+<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">O redimensionado do sistema de ficheiros automaticamente involucra o <span class="link"><a href="disk-repair.html.gl-GL" title="Reparar un sistema de ficheiros danado">reparado</a></span> do mesmo. Polo tanto recomendámoslle facer un respaldo dos datos importantes antes de comezar. Esta acción non debe parala ou podería resultar nun sistema de ficheiros danado.</p></div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">Confirm to start the action by clicking
-         <span class="gui">Resize</span>.</p>
-<p class="p">The action will unmount the filesystem if resizing a mounted filesystem
-      is not supported. Be patient while the filesystem is resized.</p>
+<p class="p">Comfirme para comezar a acción premendo <span class="gui">Redimensionar</span>.</p>
+<p class="p">A acción desmontará o sistema de ficheiros, non se admite o redimensionado dun sistema de ficheiros montado. Teña paciencia mentres o sistema de ficheiros se redimensiona.</p>
 </li>
-<li class="steps"><p class="p">After completion of the needed resize and repair actions the filesystem
-       is ready to be used again.</p></li>
+<li class="steps"><p class="p">Despois de completar o redimensionamento necesario e as accións de reparación, o sistema de ficheiros está listo para usarse de novo.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -129,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

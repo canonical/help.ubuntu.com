@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Browse files and folders</title>
+<title>Navega per fitxers i carpetes</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,45 +67,20 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#common-file-tasks" title="Common tasks">Common tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Browse files and folders</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Navega per fitxers i carpetes</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Use the <span class="app">Files</span> file manager to browse and organize the files on
-your computer. You can also use it to manage files on storage devices (like
-external hard disks), on <span class="link"><a href="nautilus-connect.html.ca" title="Browse files on a server or network share">file servers</a></span>, and
-on network shares.</p>
-<p class="p">To start the file manager, open <span class="app">Files</span> in the
-<span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview. You can also search
-for files and folders through the overview in the same way you would
-<span class="link"><a href="shell-apps-open.html.ca" title="Start applications">search for applications</a></span>.
-</p>
+<p class="p">Utilitzeu el gestor d'arxius <span class="app">Arxius</span> per buscar i organitzar els fitxers a l'ordinador. També podeu utilitzar-lo per gestionar els fitxers en dispositius d'emmagatzematge (com ara discos durs externs) <span class="link"><a href="nautilus-connect.html.ca" title="Navega per fitxers en un servidor o en una xarxa compartida">servidors d'arxius</a></span>, i en xarxes compartides.</p>
+<p class="p">Per iniciar el gestor d'arxius, obriu <span class="app">Fitxers</span> a la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span>. També podeu cercar fitxers i carpetes a través de la vista general de la mateixa manera que <span class="link"><a href="shell-apps-open.html.ca" title="Start applications">cercaríeu aplicacions</a></span>.</p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Exploring the contents of folders</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Exploració del contingut de les carpetes</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">In the file manager, double-click any folder to view its contents, and
-double-click or <span class="link"><a href="mouse-middleclick.html.ca" title="Middle-click">middle-click</a></span> any file to
-open it with the default application for that file. Middle-click a folder to
-open it in a new tab. You can also right-click a folder to open it in a new tab
-or new window.</p>
-<p class="p">When looking through the files in a folder, you can quickly <span class="link"><a href="files-preview.html.ca" title="Preview files and folders">preview each file</a></span> by pressing the space bar
-to be sure you have the right file before opening it, copying it, or
-deleting it.</p>
-<p class="p">The <span class="em">path bar</span> above the list of files and folders shows you which
-folder you’re viewing, including the parent folders of the current folder.
-Click a parent folder in the path bar to go to that folder. Right-click any
-folder in the path bar to open it in a new tab or window, or access its
-properties.</p>
-<p class="p">If you want to quickly <span class="link"><a href="files-search.html.ca" title="Search for files">search for a file</a></span>,
-in or below the folder you are viewing, start typing its name. A <span class="em">search
-bar</span> will appear at the top of the window and only files which match your
-search will be shown. Press <span class="key"><kbd>Esc</kbd></span> to cancel the search.</p>
-<p class="p">You can quickly access common places from the <span class="em">sidebar</span>. If you do
-not see the sidebar, click <span class="gui">Files</span> in the top bar and then select
-<span class="gui">Sidebar</span>. You can add bookmarks to folders that you use often and
-they will appear in the sidebar. Drag a folder to the sidebar, and drop it over
-<span class="gui">New bookmark</span>, which appears dynamically, or click the window menu 
-and then select <span class="gui">Bookmark this Location</span>.</p>
+<p class="p">Al gestor de fitxers, feu doble clic a qualsevol carpeta per veure el seu contingut i feu doble clic o feu clic amb el botó <span class="link"><a href="mouse-middleclick.html.ca" title="Clic al mig"> del mig</a></span> a qualsevol fitxer per obrir-lo amb l'aplicació predeterminada d'aquest fitxer. Feu clic amb el botó del mig en una carpeta per obrir-la en una pestanya nova. També podeu fer clic amb el botó de la dreta en una carpeta per obrir-la en una pestanya nova o finestra nova.</p>
+<p class="p">En mirar els fitxers d'una carpeta, podeu obtenir rapidament una <span class="link"><a href="files-preview.html.ca" title="Previsualitza fitxers i carpetes">vista prèvia de cada fitxer</a></span> prement la barra espaiadora per assegurar-vos que teniu el fitxer adequat abans d'obrir-lo, copiar-lo o suprimir-lo.</p>
+<p class="p">La <span class="em">barra de ruta</span> situada a sobre de la llista de fitxers i carpetes  mostra la carpeta que visualitzeu, incloses les carpetes pare de la carpeta actual. Feu clic a una carpeta pare a la barra de ruta per anar a aquesta carpeta. Feu clic amb el botó dret a qualsevol carpeta de la barra de ruta per obrir-lo en una nova pestanya o finestra, o accedir a les seves propietats</p>
+<p class="p">Si voleu<span class="link"><a href="files-search.html.ca" title="Cerca fitxers">cercar ràpidament un fitxer</a></span>, dins o sota de la carpeta que està veient, comenci a escriure el seu nom. Una <span class="em">barra de cerca</span> apareixerà a la part superior de la finestra i només es mostraran els fitxers que coincideixin amb la vostra cerca. Premeu <span class="key"><kbd>Esc</kbd></span> per cancel·lar la cerca.</p>
+<p class="p">Podeu accedir ràpidament a llocs comuns des de la <span class="em">barra lateral</span>. Si no veu la barra lateral, faci clic a <span class="gui">Fitxers</span> a la barra superior i aleshores seleccioni <span class="gui">Barra lateral</span>. Podeu afegir marcadors a les carpetes que utilitzeu sovint i apareixeran a la barra lateral. Arrossegueu una carpeta a la barra lateral i deixeu-la caure sobre <span class="gui">Nou marcador</span>, apareixerà dinàmicament, o feu clic al menú de la finestra i, a continuació, seleccioneu<span class="gui">Marqueu aquesta posició</span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -118,7 +93,7 @@ and then select <span class="gui">Bookmark this Location</span>.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-copy.html.ca" title="Copy or move files and folders">Copy or move files and folders</a><span class="desc"> — Copy or move items to a new folder.</span>
+<a href="files-copy.html.ca" title="Copieu o moveu arxius i carpetes.">Copieu o moveu arxius i carpetes.</a><span class="desc"> — Copieu o moveu elements a una carpeta nova.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -130,7 +105,7 @@ and then select <span class="gui">Bookmark this Location</span>.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I cannot hear any sounds on the computer</title>
+<title>Ik hoor helemaal geen geluid op de computer</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,68 +65,46 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » <a class="trail" href="sound-broken.html.nl" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="media.html.nl#sound" title="Basisgeluid">Geluid</a> » <a class="trail" href="sound-broken.html.nl" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="sound-broken.html.nl" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="sound-broken.html.nl" title="Geluidsproblemen">Geluidsproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I cannot hear any sounds on the computer</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ik hoor helemaal geen geluid op de computer</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">If you cannot hear any sounds on your computer, for example when you try
-  to play music, go through the following troubleshooting tips.</p></div>
+<div class="contents"><p class="p">Als u geen geluid hoort op uw computer, bijvoorbeeld bij het afspelen van muziek, probeer dan de volgende stappen uit om te zien of u het probleem kunt oplossen.</p></div>
 <div id="mute" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zorg ervoor dat het geluid niet gedempt is.</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">system menu</a></span> and make sure that
-  the sound is not muted or turned down.</p>
-<p class="p">Some laptops have mute switches or keys on their keyboards — try pressing
-  that key to see if it unmutes the sound.</p>
-<p class="p">You should also check that you have not muted the application that you are
-  using to play sound (for example, your music player or movie player). The
-  application may have a mute or volume button in its main window, so check
-  that.</p>
-<p class="p">Also, you can check the <span class="gui">Applications</span> tab in the <span class="gui">Sound</span>
-  GUI:</p>
+<p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">Systeemmenu</a></span> en controleer of het geluid niet is gedempt of uitgezet.</p>
+<p class="p">Sommige laptops hebben schakelaars of toetsen op hun toetsenbord om het geluid te dempen—probeer op die toets te drukken om te kijken of het geluid daardoor niet meer gedempt wordt.</p>
+<p class="p">U dient ook te controleren of u het geluid van de toepassing die u gebruikt voor het afspelen van geluid (b.v. uw muziekspeler of mediaspeler) niet heeft gedempt. Mogelijk heeft de toepassing een knop voor het dempen of een volumeknop in haar hoofdvenster, dus controleer dit a.u.b.</p>
+<p class="p">Ook kunt u het tabblad <span class="gui">Toepassingen</span> in de <span class="gui">Geluid</span>-gui controleren:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Settings</span> from the <span class="gui">Activities</span> overview.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Sound</span>.</p></li>
-<li class="steps"><p class="p">Go to the <span class="gui">Applications</span> tab and check that your application
-      is not muted.</p></li>
+<li class="steps"><p class="p">Open <span class="app">Instellingen</span> vanuit het <span class="gui">Activiteiten</span>-overzicht.</p></li>
+<li class="steps"><p class="p">Klik op het<span class="gui">Geluid</span>.</p></li>
+<li class="steps"><p class="p">Ga naar het tabblad <span class="gui">Toepassingen</span> en controleer of uw toepassing niet gedempt is.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="speakers" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Controleer of de luidsprekers op de juiste manier verbonden en ingeschakeld zijn.</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If your computer has external speakers, make sure that they are turned on
-  and that the volume is turned up. Make sure that the speaker cable is securely
-  plugged into the “output” audio socket on your computer. This socket
-  is usually light green in color.</p>
-<p class="p">Some sound cards can switch between the socket they use for output
-  (to the speakers) and the socket for input (from a microphone, for instance).
-  The output socket may be different when running Linux, Windows or Mac OS.
-  Try connecting the speaker cable to a different audio socket on your
-  computer.</p>
-<p class="p">A final thing to check is that the audio cable is securely plugged into the
- back of the speakers. Some speakers have more than one input, too.</p>
+<p class="p">Als uw computer externe luidsprekers heeft, controleer dan of ze ingeschakeld zijn en het volume hoog genoeg staat. Controleer of de luidsprekerkabel goed is aangesloten op de ‘uitvoer’-audioaansluiting op uw computer. Deze aansluiting is gewoonlijk lichtgroen van kleur.</p>
+<p class="p">Sommige geluidskaarten kunnen de aansluitingen die ze voor uitvoer (naar de luidsprekers) en invoer (van bijvoorbeeld een microfoon) gebruiken omwisselen. De uitvoeraansluiting kan anders zijn op Linux dan op Windows of Mac OS. Probeer de luidsprekerkabel op een andere audio-aansluiting op uw computer aan te sluiten.</p>
+<p class="p">Een laatste stap is het controleren of de audiokabel goed aangesloten is op de achterkant van de luidsprekers. Sommige luidsprekers hebben ook meer dan één invoer.</p>
 </div></div>
 </div></div>
 <div id="device" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that the correct sound device is selected</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Controleer of het juiste geluidsapparaat is geselecteerd</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Some computers have multiple “sound devices” installed. Some of these are
-  capable of outputting sound and some are not, so you should check that you
-  have the correct sound device selected. This might involve some
-  trial-and-error to choose the right one.</p>
+<p class="p">Op sommige computers zijn meerdere “geluidsapparaten” geïnstalleerd. Sommige hiervan kunnen geluid uitvoeren en sommige niet, dus moet u ervoor zorgen dat u het juiste apparaat geselecteerd heeft. Dit kan inhouden dat u wat moet uitproberen voordat u het juiste apparaat heeft.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Sound</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Geluid</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Geluid</span> om het paneel te openen.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Output</span> tab, change the <span class="gui">Profile</span>
-      settings for the selected device and play a sound to see if it works.
-      You might need to go through the list and try each profile.</p>
+<p class="p">Wijzig in het tabblad <span class="gui">Uitvoer</span> de <span class="gui">Profiel</span>-instellingen voor het geselecteerde apparaat en speel een geluid af om te zien of het werkt. Mogelijk moet u de lijst doorlopen en elk profiel proberen.</p>
 <p class="p">Als dat niet werkt, dan kunt u proberen hetzelfde te doen voor elk ander apparaat dat in de lijst staat.</p>
 </li>
 </ol></div></div></div>
@@ -135,24 +113,14 @@
 <div id="hardware-detected" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Controleren of de geluidskaart op de juiste manier werd gedetecteerd</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Your sound card may not have been detected properly probably because 
-  the drivers for the card are not installed. You may need to install the drivers
-  for the card manually. How you do this depends on the type of the card. </p>
-<p class="p">Run the <span class="cmd">lspci</span> command in the Terminal to find out what sound
-  card you have:</p>
+<p class="p">Het kan zijn dat uw geluidskaart niet gedetecteerd werd omdat er geen stuurprogramma voor de kaart geïnstalleerd is. U dient mogelijk het stuurprogramma voor de kaart handmatig te installeren. Hoe u dat doet hangt af van de kaart die u heeft.</p>
+<p class="p">Voer de opdracht <span class="cmd">lspci</span> uit in de <span class="app">Terminal</span> om er achter te komen welke geluidskaart u heeft:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Go to the <span class="gui">Activities</span> overview and open a Terminal.</p></li>
-<li class="steps"><p class="p">Run <span class="cmd">lspci</span> as <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">superuser</a></span>;
-      either type <span class="cmd">sudo lspci</span> and type your password, or type
-      <span class="cmd">su</span>, enter the <span class="em">root</span> (administrative) password,
-      then type <span class="cmd">lspci</span>.</p></li>
-<li class="steps"><p class="p">Check if an <span class="em">audio controller</span> or <span class="em">audio device</span> is listed:
-      in such case you should see the make and model number of the sound card. 
-      Also, <span class="cmd">lspci -v</span> shows a list with more detailed information.</p></li>
+<li class="steps"><p class="p">Ga naar het <span class="gui">Activiteiten</span>-overzicht en open een terminalvenster.</p></li>
+<li class="steps"><p class="p">Voer <span class="cmd">lspci</span> uit als <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">superuser</a></span>; typ <span class="cmd">sudo lspci</span> en voer uw wachtwoord in, of typ <span class="cmd">su</span>, geef het <span class="em">root</span>(beheerders)-wachtwoord op, en typ dan <span class="cmd">lspci</span>.</p></li>
+<li class="steps"><p class="p">Ga na of er een <span class="em">audiocontroller</span> of <span class="em">audio-apparaat</span> in de lijst staat: in zo een geval zou u het merk- en modelnummer van de geluidskaart moeten zien. Ook toont <span class="cmd">lspci -v</span> een lijst met meer gedetailleerde informatie.</p></li>
 </ol></div></div></div>
-<p class="p">You may be able to find and install drivers for your card. It is best to
-  ask on support forums (or otherwise) for your Linux distribution for
-  instructions.</p>
+<p class="p">U kunt mogelijk stuurprogramma's voor uw kaart vinden en installeren door te zoeken op het internet. Het beste kunt u ondersteuningsforums (of iets dergelijks) voor uw Linux-distributie benaderen voor instructies.</p>
 <p class="p">Als u geen stuurprogramma's voor uw geluidskaart kunt krijgen, dan kunt u overwegen een nieuwe geluidskaart aan te schaffen. U kunt externe USB-geluidskaarten kopen, of geluidskaarten die in de computer kunnen worden geplaatst.</p>
 </div></div>
 </div></div>
@@ -172,7 +140,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

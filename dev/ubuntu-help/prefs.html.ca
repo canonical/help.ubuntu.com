@@ -71,21 +71,12 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html.ca" title="Color management">Color management</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="color-whyimportant.html.ca" title="Why is color management important?">Why is this important</a></span>,
-      <span class="link"><a href="color.html.ca#profiles" title="Perfils de color">Color profiles</a></span>,
-      <span class="link"><a href="color.html.ca#calibration" title="Calibration">How to calibrate a device</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="accounts.html.ca" title="Comptes en línia">Comptes en línia</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html.ca" title="Afegeix un compte">Afegir un compte en línia</a></span>, <span class="link"><a href="accounts-remove.html.ca" title="Suprimiu un compte">Eliminar un compte</a></span>, <span class="link"><a href="accounts-which-application.html.ca" title="Serveis i aplicacions en línia">Aprendre sobre els serveis</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="clock.html.ca" title="Date &amp; time">Date &amp; time</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="clock-set.html.ca" title="Change the date and time">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.ca" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.ca" title="Change your timezone">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.ca" title="Calendar appointments">calendar and appointments</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="clock.html.ca" title="Data &amp; hora">Data &amp; hora</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html.ca" title="Canvieu la data i l'hora">Establir data i hora</a></span>, <span class="link"><a href="clock-world.html.ca" title="Afegiu un rellotge mundial">rellotges mundials</a></span>, <span class="link"><a href="clock-timezone.html.ca" title="Canvieu la vostra zona horària">zona horària</a></span>, <span class="link"><a href="clock-calendar.html.ca" title="Cites de calendari">calendari i cites</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-display.html.ca" title="Display &amp; screen">Display &amp; screen</a></div>
@@ -96,28 +87,8 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="keyboard.html.ca" title="Keyboard">Keyboard</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard-layouts.html.ca" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">keyboard accessibility</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html.ca" title="Mouse">Mouse</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="mouse-lefthanded.html.ca" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html.ca" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html.ca" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="accounts.html.ca" title="Online accounts">Online accounts</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="accounts-add.html.ca" title="Add an account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html.ca" title="Remove an account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html.ca" title="Online services and applications">Learn about services</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.ca" title="Per què és important la gestió del color?">Per què és important</a></span>, <span class="link"><a href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a></span>, <span class="link"><a href="color.html.ca#calibration" title="Calibració">Com calibrar un dispositiu</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="power.html.ca" title="Power &amp; battery">Power &amp; battery</a></div>
@@ -133,6 +104,14 @@
       <span class="link"><a href="privacy-screen-lock.html.ca" title="Automatically lock your screen">Screen lock</a></span>,
       <span class="link"><a href="privacy-history-recent-off.html.ca" title="Turn off or limit file history tracking">Usage history</a></span>,
       <span class="link"><a href="privacy-purge.html.ca" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="mouse.html.ca" title="Ratolí">Ratolí</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="mouse-lefthanded.html.ca" title="Utilitzeu el ratolí per la ma esquerra">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.ca" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.ca" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -153,16 +132,20 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html.ca#sound" title="Basic sound">Sound</a></div>
-<div class="desc"><span class="desc">
-     <span class="link"><a href="sound-volume.html.ca" title="Change the sound volume">Volume</a></span>,
-     <span class="link"><a href="sound-usespeakers.html.ca" title="Use different speakers or headphones">speakers and headphones</a></span>,
-     <span class="link"><a href="sound-usemic.html.ca" title="Use a different microphone">microphones</a></span>…
-   </span></div>
+<div class="links-grid-link"><a href="media.html.ca#sound" title="Basic sound">So</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.ca" title="Change the sound volume">Volum</a></span>, <span class="link"><a href="sound-usespeakers.html.ca" title="Use different speakers or headphones">altaveus i auriculars</a></span>, <span class="link"><a href="sound-usemic.html.ca" title="Use a different microphone">micròfons</a></span>...</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="startup-applications.html.ca" title="Startup Applications">Startup Applications</a></div>
 <div class="desc"><span class="desc">Choose what applications to start when you log in.</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="keyboard-layouts.html.ca" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">keyboard accessibility</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="user-accounts.html.ca" title="User accounts">User accounts</a></div>
@@ -195,7 +178,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

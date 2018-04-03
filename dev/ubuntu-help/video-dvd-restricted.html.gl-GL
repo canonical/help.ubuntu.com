@@ -72,15 +72,15 @@
 <div class="contents"><p class="p">A asistencia para DVD non pode ser fornecida por Ubuntu debido a restricións legais e técnicas. A maior parte dos DVD están cifrados polo que requiren o uso de software de descifrado para reproducilos.</p></div>
 <div id="fluendo" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Usar Fluendo para reproducir DVD legalmente</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Pode mercar un decodificador comercial de DVD que manexe a protección contra copias en <span class="link"><a href="https://apps.ubuntu.com/cat/applications/fluendo-dvd" title="https://apps.ubuntu.com/cat/applications/fluendo-dvd">Fluendo</a></span>. Funciona con Linux e é de uso legal en todos os países.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Pode mercar un descodificador comercial en DVD que poida manexar a protección contra copias en <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. Funciona con Linux e debería ser legal en todos os países.</p></div></div>
 </div></div>
 <div id="restricted" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Usar outro software de descifrado</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Nalgúns países, o uso sen licenza do seguinte software de descifrado non está permitido pola lei. Verifique que ten dereito a usalo.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Instale <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvdnav4" title="https://apps.ubuntu.com/cat/applications/libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvdread4" title="https://apps.ubuntu.com/cat/applications/libdvdread4">libdvdread4</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-bad" title="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-ugly" title="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> e <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvd-pkg" title="https://apps.ubuntu.com/cat/applications/libdvd-pkg">libdvd-pkg</a></span>.</p></li>
-<li class="steps"><p class="p">Abra o Panel e inicie un <span class="app">Terminal</span>.</p></li>
+<li class="steps"><p class="p">Instale <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> e <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
+<li class="steps"><p class="p">Abra unha xanela da terminal premendo <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Execute a orde</p>
 <p class="p"><span class="cmd">sudo dpkg-reconfigure libdvd-pkg</span></p>
@@ -99,7 +99,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd.html.gl-GL" title="Why won’t DVDs play?">Why won’t DVDs play?</a><span class="desc"> — Pode que non teña instalados os códecs axeitados, ou que o reprodutor sexa dunha rexión incorrecta.</span>
+<a href="video-dvd.html.gl-GL" title="Por que non se reproducen os DVD?">Por que non se reproducen os DVD?</a><span class="desc"> — Pode que non teña instalados os códecs axeitados, ou que o reprodutor sexa dunha rexión incorrecta.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -111,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

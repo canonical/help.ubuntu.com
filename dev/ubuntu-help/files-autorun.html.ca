@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Open applications for devices or discs</title>
+<title>Obrir aplicacions per a dispositius o discos</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,94 +65,55 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ca" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html.ca#music" title="Music and portable audio players">Music and players</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ca" title="So, vídeo &amp; imatges">So, vídeo &amp; imatges</a> › <a class="trail" href="media.html.ca#photos" title="Fotos i càmeres digitals">Fotos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ca" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html.ca#photos" title="Photos and digital cameras">Photos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ca" title="So, vídeo &amp; imatges">So, vídeo &amp; imatges</a> › <a class="trail" href="media.html.ca#music" title="Music and portable audio players">Music and players</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#removable" title="Removable drives and external disks">Removable drives and external disks</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ca" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html.ca#videos" title="Videos and video cameras">Videos</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.ca" title="So, vídeo &amp; imatges">So, vídeo &amp; imatges</a> › <a class="trail" href="media.html.ca#videos" title="Vídeos i càmeres de vídeo">Vídeos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Open applications for devices or discs</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Obrir aplicacions per a dispositius o discos</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can have an application automatically start when you plug in a device
-  or insert a disc or media card. For example, you might want your photo
-  organizer to start when you plug in a digital camera. You can also turn this
-  off, so that nothing happens when you plug something in.</p>
-<p class="p">To decide which applications should start when you plug in various
-  devices: </p>
+<p class="p">Podeu iniciar una aplicació automàticament quan connecteu un dispositiu o inseriu un disc o una targeta multimèdia. Per exemple, és possible que vulgueu que el vostre organitzador de fotos comenci quan connecteu una càmera digital. També podeu activar-ho, de manera que no passi res quan el connecteu.</p>
+<p class="p">Per decidir quines aplicacions s'han d'iniciar quan es connectin diversos dispositius:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-    start typing <span class="gui">Details</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Removable Media</span>.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenceu a escriure <span class="gui">Detalls</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Detalls</span> per obrir el panell.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Suports extraïbles</span>.</p></li>
 <li class="steps">
-<p class="p">Find your desired device or media type, and then choose an application
-    or action for that media type. See below for a description of the different
-    types of devices and media.</p>
-<p class="p">Instead of starting an application, you can also set it so that the
-    device will be shown in the file manager, with the <span class="gui">Open folder</span>
-    option. When that happens, you will be asked what to do, or nothing will
-    happen automatically.</p>
+<p class="p">Cerqueu el tipus de dispositiu o suport desitjat i, a continuació, seleccioneu una aplicació o acció per a aquest tipus de suport. Vegeu a continuació per obtenir una descripció dels diferents tipus de dispositius i suports.</p>
+<p class="p">En lloc d'iniciar una aplicació, també podeu configurar-la per a què el dispositiu es mostri al gestor de fitxers, amb l'opció. <span class="gui">Obre la carpeta</span>. Quan això succeeix, s'ús preguntarà què fer, o automàticament no passarà res.</p>
 </li>
-<li class="steps"><p class="p">If you do not see the device or media type that you want to change in
-    the list (such as Blu-ray discs or E-book readers), click <span class="gui">Other
-    Media…</span> to see a more detailed list of devices. Select the type of
-    device or media from the <span class="gui">Type</span> drop-down and the application or
-    action from the <span class="gui">Action</span> drop-down.</p></li>
+<li class="steps"><p class="p">Si no veu el tipus de dispositiu o tipus de suport que vol canviar a la llista (com ara discs Blu-ray o lectors de llibres electrònics), feu clic a <span class="gui">Altres suports ... </span> per veure una llista més detallada de dispositius. Seleccioneu el tipus de dispositiu o suport del menú desplegable <span class="gui">Tipus</span> i l'aplicació o acció del menú desplegable <span class="gui">Acció</span>.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">If you do not want any applications to be opened automatically, whatever
-    you plug in, select <span class="gui">Never prompt or start programs on media
-    insertion</span> at the bottom of the <span class="gui">Details</span> window.</p></div></div></div></div>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Si no voleu que s'obrin cap aplicació automàticament, sigui quina sigui la vostra connexió, seleccioneu <span class="gui">No sol·liciteu ni inicieu programes quan s'insereixi un suport extern</span> a la part inferior de la finestra <span class="gui">Detalls</span>.</p></div></div></div></div>
 </div>
 <div id="files-types-of-devices" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Types of devices and media</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Tipus de dispositius i suports</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Audio discs</dt>
-<dd class="terms"><p class="p">Choose your favorite music application or CD audio extractor to handle
-    audio CDs. If you use audio DVDs (DVD-A), select how to open them under
-    <span class="gui">Other Media…</span>. If you open an audio disc with the file manager,
-    the tracks will appear as WAV files that you can play in any audio player
-    application.</p></dd>
+<dt class="terms">Discs d'àudio</dt>
+<dd class="terms"><p class="p">Trieu la vostra aplicació de música preferida o un extractor de CD per gestionar els CD d'àudio. Si utilitzeu DVD d'àudio (DVD-A), seleccioneu com obrir-los en <span class="gui">Altres suports ...</span>. Si obriu un disc d'àudio amb el gestor de fitxers, les pistes es mostraran com a fitxers WAV que podeu reproduir en qualsevol aplicació de reproducció d'àudio.</p></dd>
 <dt class="terms">Video discs</dt>
-<dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
-    <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
-    video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.ca" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
-    </p></dd>
+<dd class="terms"><p class="p">Trieu la vostra aplicació de vídeo preferida per gestionar DVD de vídeo. Utilitzeu el botó<span class="gui">Altres mitjans ...</span> per configurar una aplicació per a reproductors Blu-ray, HD DVD, CD de vídeo (VCD) i super CD de vídeo (SVCD). Si els DVD o altres discs de vídeo no funcionen correctament quan els inseriu, consulteu<span class="link"><a href="video-dvd.html.ca" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.</p></dd>
 <dt class="terms">Esborrar discs</dt>
-<dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
-    application for blank CDs, blank DVDs, blank Blu-ray discs, and blank HD
-    DVDs.</p></dd>
-<dt class="terms">Cameras and photos</dt>
+<dd class="terms"><p class="p">Utilitzeu el botó <span class="gui">Altres mitjans ...</span> per seleccionar una aplicació de gravació de disc per CDs en blanc, DVDs en blanc, discs Blu-ray en blanc i HD DVD en blanc.</p></dd>
+<dt class="terms">Càmeres i fotos</dt>
 <dd class="terms">
-<p class="p">Use the <span class="gui">Photos</span> drop-down to choose a photo-management
-    application to run when you plug in your digital camera, or when you insert
-    a media card from a camera, such as a CF, SD, MMC, or MS card. You can also
-    simply browse your photos using the file manager.</p>
-<p class="p">Under <span class="gui">Other Media…</span>, you can select an application to open
-    Kodak picture CDs, such as those you might have made in a store. These are
-    regular data CDs with JPEG images in a folder called
-    <span class="file">Pictures</span>.</p>
+<p class="p">Utilitzeu el menú desplegable <span class="gui">Fotos</span> per triar l'aplicació de gestió fotogràfica que s'executarà quan connecti la seva càmera digital o quan insereixi una targeta multimèdia des d'una càmera, com ara una targeta CF, SD, MMC o MS. També podeu navegar les vostres fotos mitjançant el gestor de fitxers.</p>
+<p class="p">Des d'<span class="gui">Altres suports ...</span>, podeu seleccionar una aplicació per obrir CDs de fotografies Kodak, com ara les que podeu haver fet en una botiga. Aquests són CD de dades regulars amb imatges JPEG en una carpeta anomenada<span class="file">Imatges</span>.</p>
 </dd>
-<dt class="terms">Music players</dt>
-<dd class="terms"><p class="p">Choose an application to manage the music library on your portable music
-    player, or manage the files yourself using the file manager.</p></dd>
-<dt class="terms">E-book readers</dt>
-<dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to choose an application to
-      manage the books on your e-book reader, or manage the files yourself
-      using the file manager.</p></dd>
-<dt class="terms">Software</dt>
+<dt class="terms">Reproductors de música</dt>
+<dd class="terms"><p class="p">Trieu una aplicació per gestionar la biblioteca de música del vostre reproductor de música portàtil, o gestioneu els fitxers des del gestor de fitxers.</p></dd>
+<dt class="terms">Lectors de llibres digitals</dt>
+<dd class="terms"><p class="p">utilitzeu el botó <span class="gui">Altres suports ... </span> per triar una aplicació per administrar els llibres al vostre lector de llibres electrònics o administrar els fitxers usant el gestor de fitxers.</p></dd>
+<dt class="terms">Programari</dt>
 <dd class="terms">
-<p class="p">Some discs and removable media contain software that is supposed to be
-      run automatically when the media is inserted. Use the <span class="gui">Software</span>
-      option to control what to do when media with autorun software is
-      inserted. You will always be prompted for a confirmation before software
-      is run.</p>
-<div class="note note-warning" title="Atenció"><div class="inner"><div class="region"><div class="contents"><p class="p">Never run software from media you don’t trust.</p></div></div></div></div>
+<p class="p">Alguns discs i suports extraïbles contenen programari que se suposa s'executa automàticament quan s'introdueix el suport. Utilitzeu l'opció <span class="gui">Software</span> per controlar què fer quan s'inclouen els suports amb el programari autorun. Sempre s'ús demanarà una confirmació abans d'executar el programari.</p>
+<div class="note note-warning" title="Atenció"><div class="inner"><div class="region"><div class="contents"><p class="p">No utilitzeu mai programari dels suports en que no confieu.</p></div></div></div></div>
 </dd>
 </dl></div></div></div></div></div>
 </div></div>
@@ -161,10 +122,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
+<li class="links "><a href="media.html.ca#photos" title="Fotos i càmeres digitals">Fotos</a></li>
 <li class="links "><a href="media.html.ca#music" title="Music and portable audio players">Music and players</a></li>
-<li class="links "><a href="media.html.ca#photos" title="Photos and digital cameras">Photos</a></li>
 <li class="links "><a href="files.html.ca#removable" title="Removable drives and external disks">Removable drives and external disks</a></li>
-<li class="links "><a href="media.html.ca#videos" title="Videos and video cameras">Videos</a></li>
+<li class="links "><a href="media.html.ca#videos" title="Vídeos i càmeres de vídeo">Vídeos</a></li>
 </ul></div>
 </div></div></div>
 </div>
@@ -175,7 +136,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

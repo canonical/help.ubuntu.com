@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Write files to a CD or DVD</title>
+<title>Escriure fitxers en un CD o DVD</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,54 +67,36 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ca" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.ca#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Write files to a CD or DVD</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Escriure fitxers en un CD o DVD</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can put files onto a blank disc by using <span class="gui">CD/DVD Creator</span>.
-  The option to create a CD or DVD will appear in the file manager as soon as
-  you place the CD into your CD/DVD writer. The file manager lets you transfer
-  files to other computers or perform <span class="link"><a href="backup-why.html.ca" title="Fer còpies de seguretat dels fitxers importants">backups</a></span> by
-  putting files onto a blank disc. To write files to a CD or DVD:</p>
+<p class="p">Pot posar arxius en un disc en blanc utilitzant <span class="gui">CD/DVD Creator</span>. L'opció de crear un CD o DVD apareixerà al gestor de fitxers tan aviat com col·loqueu el CD al vostre escriptor de CD/DVD. El gestor de fitxers us permet transferir fitxers a altres equips o realitzar <span class="link"><a href="backup-why.html.ca" title="Fer còpies de seguretat dels fitxers importants">copies de seguretat</a></span> posant els fitxers en un disc en blanc. Per escriure fitxers en un CD o DVD:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Place an empty disc into your CD/DVD writable drive.</p></li>
+<li class="steps"><p class="p">Col·loqueu un disc buit a la unitat de gravació de CD / DVD.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Blank CD/DVD-R Disc</span> notification that pops up at the
-      bottom of the screen, select <span class="gui">Open with CD/DVD Creator</span>. The
-      <span class="gui">CD/DVD Creator</span> folder window will open.</p>
-<p class="p">(You can also click on <span class="gui">Blank CD/DVD-R Disc</span> under
-      <span class="gui">Devices</span> in the file manager sidebar.)</p>
+<p class="p">A la notificació <span class="gui">Disc CD/DVD-R en blanc</span> que apareix a sota la pantalla, seleccioneu <span class="gui">Obrir el creador de CD/DVDs</span>. S'obrirà una finestra amb la carpeta del<span class="gui">creador de CD/DVDs</span>.</p>
+<p class="p">(Pot fer clic també al <span class="gui">Disc CD/DVD-R en blanc</span> sota <span class="gui">Dispositius</span> a la barra lateral del gestor de fitxers.)</p>
 </li>
-<li class="steps"><p class="p">In the <span class="gui">Disc Name</span> field, type a name for the disc.</p></li>
-<li class="steps"><p class="p">Drag or copy the desired files into the window.</p></li>
+<li class="steps"><p class="p">Al camp <span class="gui">Nom del disc</span>, escrigui un nom pel disc.</p></li>
+<li class="steps"><p class="p">Arrossegueu o copieu els fitxers desitjats a la finestra.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Escriu al disc</span>.</p></li>
 <li class="steps">
-<p class="p">Under <span class="gui">Select a disc to write to</span>, choose the blank disc.</p>
-<p class="p">(You could choose <span class="gui">Image file</span> instead. This will put the
-      files in a <span class="em">disc image</span>, which will be saved on your computer. You
-      can then burn that disc image onto a blank disc at a later date.)</p>
+<p class="p">A <span class="gui">Seleccioneu un disc per escriure-hi</span>, trieu el disc en blanc.</p>
+<p class="p">(En aquest cas, podeu triar l' <span class="gui">arxiu d'imatge</span> Es desaran els fitxers en un <span class="em">disc imatge</span>, que es guardarà a l'ordinador. Aleshores, podreu gravar aquesta imatge del disc en un disc en blanc més endavant).</p>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Properties</span> if you want to adjust burning speed, the
-      location of temporary files, and other options. The default options
-      should be fine.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Propietats</span>si voleu ajustar la velocitat de gravació, la ubicació dels fitxers temporals i altres opcions. Les opcions predeterminades haurien d'estar bé.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Burn</span> button to begin recording.</p>
-<p class="p">If <span class="gui">Burn Several Copies</span> is selected, you will be prompted
-      for additional discs.</p>
+<p class="p">Feu clic al botó <span class="gui">Gravar</span> per començar a gravar.</p>
+<p class="p">Si s'ha seleccionat <span class="gui">Gravar Diverses Copies</span>, s'ús demanarà discs addicionals.</p>
 </li>
-<li class="steps"><p class="p">When the disc burning is complete, it will eject automatically. Choose
-      <span class="gui">Make More Copies</span> or <span class="gui">Close</span> to exit.</p></li>
+<li class="steps"><p class="p">Quan la gravació del disc s'hagi completat, s'expulsarà automàticament. Trieu <span class="gui">Fer més còpies</span> o <span class="gui">Tancar</span> per sortir..</p></li>
 </ol></div></div></div>
 </div>
 <div id="problem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Si el disc no s'ha gravat correctament</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
-  able to see the files you put onto the disc when you insert it into a
-  computer.</p>
-<p class="p">In this case, try burning the disc again but use a lower burning speed,
-  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
-  You can choose the speed by clicking the <span class="gui">Properties</span> button in the
-  <span class="gui">CD/DVD Creator</span> window.</p>
+<p class="p">De vegades l'ordinador no registra les dades correctament, i no podrà veure els fitxers copiats al disc quan l'inseriu a l'ordinador.</p>
+<p class="p">En aquest cas, intenteu gravar el disc de nou però utilitzeu una velocitat de gravació inferior, per exemple, 12x en lloc de 48x. Gravar a velocitats més lentes és més fiable. Podeu triar la velocitat fent clic al botó <span class="gui">Propietats</span> a la finestra <span class="gui">Creador de CD/DVD</span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -131,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

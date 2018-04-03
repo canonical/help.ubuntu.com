@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Other people can’t play the videos I made</title>
+<title>Outras persoas non poden reproducir os vídeos que eu creo</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,14 +67,13 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="media.html.gl-GL" title="Son, vídeo e imaxes">Son, vídeo e imaxes</a> › <a class="trail" href="media.html.gl-GL#videos" title="Vídeos e videocámaras">Vídeos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Outras persoas non poden reproducir os vídeos que eu creo</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Se vostede fixo un vídeo no seu computador Linux e envioullo a alguén que usa Windows ou Mac OS, pode atopar problemas ao reproducir o vídeo.</p>
 <p class="p">Para poder reproducir o seu vídeo a persoa á que llo enviou debe instalar os <span class="em">codecs</span> axeitados. Un códec é un programa que sabe como tratar un vídeo e mostrarllo na pantalla. Hai moitos formatos de vídeo diferentes e cada un require un códec diferente para poder reproducilo.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Open <span class="app">Files</span> from the
-      <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview.</p></li>
+<li class="list"><p class="p">Abra as <span class="app">Preferencias</span> desde a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>.</p></li>
 <li class="list"><p class="p">Right-click on the video file and select <span class="gui">Properties</span>.</p></li>
 <li class="list"><p class="p">Go to the <span class="gui">Audio/Video</span> or <span class="gui">Video</span> tab and look at
       which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
@@ -87,19 +86,8 @@
   Media Player to try and watch it, search for “theora windows media player”.
   You will often be able to download the right codec for free if it’s not
   installed.</p>
-<p class="p">If you can’t find the right codec, try the
-  <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC media player</a></span>. It works
-  on Windows and Mac OS as well as Linux, and supports a lot of different video
-  formats. Failing that, try converting your video into a different format.
-  Most video editors are able to do this, and specific video converter
-  applications are available. Check the software installer application to see
-  what’s available.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">There are a few other problems which might prevent someone from playing
-    your video. The video could have been damaged when you sent it to them
-    (sometimes big files aren’t copied across perfectly), they could have
-    problems with their video playback application, or the video may not have
-    been created properly (there could have been some errors when you saved the
-    video).</p></div></div></div></div>
+<p class="p">Se non pode encontrar o códec axeitado, ténteo co reprodutor multimedia <span class="link"><a href="http://www.videolan.org/vlc/" title="http://www.videolan.org/vlc/">VLC</a></span>. Funciona en Windows, Mac OS y Linux, e permite unha grande cantidade de formatos de vídeo diferentes. De non ser así, tente converter o vídeo nun formato diferente. A maioría dos editores de vídeo son capaces de facer isto e os aplicativos específicos de converter vídeo están dispoñíbeis. Comprobe o aplicativo de instalación de software para ver o que está dispoñíbel.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Hai algúns problemas máis, que poden evitar que alguén reproduza o vídeo. O vídeo podería terse danado cando se enviou (a veces os ficheiros grandes non se copian á perfección), pode haber problemas co seu aplicativo de reprodución de vídeo ou o vídeo pode non terse creado correctamente (poderían terse producido algúns erros no momento de gardar o vídeo).</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -115,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

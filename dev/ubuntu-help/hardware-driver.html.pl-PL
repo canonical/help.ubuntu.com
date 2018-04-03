@@ -64,29 +64,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Czym jest sterownik?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Devices are the physical “parts” of your computer. They may be
-<span class="em">external</span> like printers and monitor or <span class="em">internal</span> like graphics
-and audio cards.</p>
-<p class="p">In order for your computer to be able to use these devices, it needs to know
-how to communicate with them. This is done by a piece of software called a
-<span class="em">device driver</span>.</p>
-<p class="p">When you attach a device to your computer, you must have the correct driver
-installed for that device to work. For example, if you plug in a printer but
-the correct driver is not available, you will not be able to use the printer.
-Normally, each model of device uses a driver that is not compatible with any
-other model.</p>
-<p class="p">On Linux, the drivers for most devices are installed by default, so
-everything should work when you plug it in. However, the drivers may need to be
-installed manually or may not be available at all. </p>
-<p class="p">In addition, some existing drivers are incomplete or partially
-non-functional. For example, you might find that your printer cannot do
-double-sided printing, but is otherwise completely functional.</p>
+<p class="p">Urządzenia to fizyczne „części” komputera. Mogą być <span class="em">zewnętrzne</span>, np. drukarki lub monitor, albo <span class="em">wewnętrzne</span>, np. karty graficzne i dźwiękowe.</p>
+<p class="p">Aby komputer mógł używać tych urządzeń, musi wiedzieć, jak się z nimi komunikować. Robi to program o nazwie <span class="em">sterownik urządzenia</span>.</p>
+<p class="p">Aby urządzenie działało po podłączeniu do komputera, musi być zainstalowany właściwy sterownik. Na przykład, nie będzie można używać drukarki, do której nie ma właściwego sterownika. Zwykle każdy model urządzenia używa sterownika niezgodnego z każdym innym modelem.</p>
+<p class="p">W systemie Linux sterowniki większości urządzeń są domyślnie zainstalowane, więc wszystko powinno działać po podłączeniu. Część sterowników może jednak być niedostępna lub trzeba je zainstalować ręcznie.</p>
+<p class="p">Oprócz tego, niektóre istniejące sterowniki są niepełne lub częściowo niefunkcjonalne. Na przykład, drukarka może nie móc drukować obustronnie, ale poza tym wszystko działa.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -101,15 +89,13 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth-problem-connecting.html.pl-PL" title="Nie mogę połączyć mojego urządzenia Bluetooth">Nie mogę połączyć mojego urządzenia Bluetooth</a><span class="desc"> — The adapter could be turned off or may not have drivers, or Bluetooth
-    might be disabled or blocked.</span>
+<a href="power-suspendfail.html.pl-PL" title="Dlaczego komputer nie włącza się z powrotem po uśpieniu?">Dlaczego komputer nie włącza się z powrotem po uśpieniu?</a><span class="desc"> — Niektóre urządzenia powodują problemy z usypianiem.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html.pl-PL" title="Po przebudzeniu komputera sieć bezprzewodowa nie działa">Po przebudzeniu komputera sieć bezprzewodowa nie działa</a><span class="desc"> — Some wireless devices have problems handling when your computer is
-    suspended and does not resume properly.</span>
+<a href="bluetooth-problem-connecting.html.pl-PL" title="Nie mogę połączyć mojego urządzenia Bluetooth">Nie mogę połączyć mojego urządzenia Bluetooth</a><span class="desc"> — Adapter może być wyłączony lub może nie mieć sterowników, albo Bluetooth może być wyłączony lub zablokowany.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html.pl-PL" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-nowireless.html.pl-PL" title="Po przebudzeniu komputera sieć bezprzewodowa nie działa">Po przebudzeniu komputera sieć bezprzewodowa nie działa</a><span class="desc"> — Niektóre urządzenia bezprzewodowe nie radzą sobie z uśpieniem komputera, i mogą nie wznowić działania po przebudzeniu.</span>
 </li>
 </ul></div>
 </div></div>
@@ -122,7 +108,7 @@ double-sided printing, but is otherwise completely functional.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

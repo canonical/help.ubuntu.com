@@ -88,30 +88,25 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="clock.html.gl-GL" title="Data e hora">Data e hora</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="clock-set.html.gl-GL" title="Cambiar a hora e data">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.gl-GL" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">calendar and appointments</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html.gl-GL" title="Cambiar a hora e data">Estabelecer a data e a hora</a></span>, <span class="link"><a href="clock-world.html.gl-GL" title="Engadir un reloxo do mundo">reloxos do mundo</a></span> <span class="link"><a href="clock-timezone.html.gl-GL" title="Cambiar a súa hora do sistema">fuso horario</a></span>, <span class="link"><a href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo">calendario e citas</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html.gl-GL" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-status.html.gl-GL" title="Comprobe o estado da batería">Battery status</a></span>,
       <span class="link"><a href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?">suspend</a></span>,
       <span class="link"><a href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?">screen dimming</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-display.html.gl-GL" title="Pantalla e monitor">Pantalla e monitor</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.gl-GL" title="Change the desktop and lock screen backgrounds">Fondo</a></span>, <span class="link"><a href="look-resolution.html.gl-GL" title="Change the resolution or rotation of the screen">tamaño e rotación</a></span>, brillo…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.gl-GL" title="Cambiar o fondo de escritorio e da pantalla de bloqueo">Fondo</a></span>, <span class="link"><a href="look-resolution.html.gl-GL" title="Cambiar o tamaño/rotación da pantalla">tamaño e rotación</a></span>, brillo…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-sharing.html.gl-GL" title="Preferencias de compartición">Preferencias de compartición</a></div>
 <div class="desc"><span class="desc">
       <span class="link"><a href="sharing-bluetooth.html.gl-GL" title="Controlar a compartición por Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.gl-GL" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.gl-GL" title="Compartir os seus ficheiros persoais">Personal file sharing</a></span>,
       <span class="link"><a href="sharing-desktop.html.gl-GL" title="Compartir o meu escritorio remoto">Screen sharing</a></span>,
       <span class="link"><a href="sharing-media.html.gl-GL" title="Comparta a súa música, fotos e vídeos">Media sharing</a></span>…
     </span></div>
@@ -120,7 +115,7 @@
 <div class="links-grid-link"><a href="privacy.html.gl-GL" title="Preferencias de privacidade">Preferencias de privacidade</a></div>
 <div class="desc"><span class="desc">
       <span class="link"><a href="privacy-screen-lock.html.gl-GL" title="Bloquear a pantalla automaticamente">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.gl-GL" title="Turn off or limit file history tracking">Usage history</a></span>,
+      <span class="link"><a href="privacy-history-recent-off.html.gl-GL" title="Desactivar ou limitar o seguimento do historial de ficheiros">Usage history</a></span>,
       <span class="link"><a href="privacy-purge.html.gl-GL" title="Limpar o lixo e ficheiros temporais">Purge trash &amp; temporary files</a></span>…
     </span></div>
 </div>
@@ -130,7 +125,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-language.html.gl-GL" title="Rexión e idioma">Rexión e idioma</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.gl-GL" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.gl-GL" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">distribucións de teclado</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.gl-GL" title="Cambiar o idioma que usa">Idioma</a></span>, <span class="link"><a href="session-formats.html.gl-GL" title="Cambiar a hora e data">rexión e formatos</a></span>, <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar disposicións de teclado alternativas">distribucións de teclado</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.gl-GL#sound" title="Son básico">Son</a></div>
@@ -138,15 +133,11 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="wacom.html.gl-GL" title="Tableta gráfica Wacom">Tableta gráfica Wacom</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="wacom-multi-monitor.html.gl-GL" title="Seleccione unha pantalla">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html.gl-GL" title="Configure o seu «stylus»">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html.gl-GL" title="Usar a tableta para zurdos">use the tablet left handed</a></span>…
-  </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="wacom-multi-monitor.html.gl-GL" title="Seleccione unha pantalla">Mapear un monitor</a></span>, <span class="link"><a href="wacom-stylus.html.gl-GL" title="Configure o «stylus»">Configurar un stylus</a></span>, <span class="link"><a href="wacom-left-handed.html.gl-GL" title="Usar a tableta para zurdos">Usar unha tableta para zurdos</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.gl-GL" title="Teclado">Teclado</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar disposicións de teclado alternativas">Disposicións de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.gl-GL" title="Facer que parpadee o cursor do teclado">pestanexo do cursor</a></span>, <span class="link"><a href="a11y.html.gl-GL#mobility" title="Deficiencias motoras">accesibilidade do teclado</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="color.html.gl-GL" title="Xestión de cor">Xestión de cor</a></div>
@@ -167,7 +158,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

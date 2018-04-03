@@ -75,26 +75,18 @@
 <div class="region">
 <div class="contents">
 <p class="p">Os efectos dun perfil de cor son a veces sutiles e pode que sexan difíciles de ver, se non cambiou moito.</p>
-<p class="p">GNOME comes with several profiles for testing that make it very clear when
-  the profiles are being applied:</p>
+<p class="p">GNOME ven con varios perfiles para probas que explica perfectamente como se aplican os perfiles:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Blue</dt>
-<dd class="terms"><p class="p">This will turn the screen blue and tests if the calibration curves are
-      being sent to the display.</p></dd>
+<dt class="terms">Azul</dt>
+<dd class="terms"><p class="p">Isto cambiará a pantalla a azul e probará se as curvas de calibración son enviadas ao dispositivo.</p></dd>
 </dl></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the device for which you want to add a profile. You may wish to
-      make a note of which profile is currently being used.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select a test profile, which should be
-      at the bottom of the list.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to confirm your selection.</p></li>
-<li class="steps"><p class="p">To revert to your previous profile, select the device in the
-      <span class="gui">Color</span> panel, then select the profile that you were using
-      before you tried one of the test profiles and press <span class="gui">Enable</span> to
-      use it again.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Cor</span>.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Cor</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Seelccione os dispositivos para os que quere engadir un perfíl. Pode desexar tomar unha nota do perfíl que está usándose actualmente.</p></li>
+<li class="steps"><p class="p">A premer <span class="gui">Engadir perfil</span> pode seleccionar un perfíl de proba que debería estar na parte inferior da lista.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Engadir</span> para confirmar a súa selección.</p></li>
+<li class="steps"><p class="p">Para volver ao seu perfíl anterior, seleccione a o dispositivo no panel <span class="gui">Cor</span>, logo seleccione o perfíl que estaba usando antes de probar o perfíl de proba e prema <span class="gui">Activado</span> para usalo de novo.</p></li>
 </ol></div></div></div>
 <p class="p">Using these profiles, you can clearly see when an application supports
   color management.</p>
@@ -121,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

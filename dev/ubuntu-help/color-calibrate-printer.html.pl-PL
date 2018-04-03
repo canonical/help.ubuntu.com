@@ -65,37 +65,23 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jak skalibrować drukarkę?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    There are two ways to profile a printer device:
-  </p>
+<p class="p">Można utworzyć profil dla drukarki na dwa sposoby:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Using a photospectrometer device like the Pantone ColorMunki</p></li>
-<li class="list"><p class="p">Downloading a printing a reference file from a color company</p></li>
+<li class="list"><p class="p">Za pomocą spektrofotometra, takiego jak Pantone ColorMunki</p></li>
+<li class="list"><p class="p">Pobierając plik referencyjny od firmy zajmującej się kolorami</p></li>
 </ul></div></div></div>
-<p class="p">
-    Using a color company to generate a printer profile is usually the
-    cheapest option if you only have one or two different paper types.
-    By downloading the reference chart from the companies website you
-    can then send them back the print in a padded envelope where they
-    will scan the paper, generate the profile and email you back an
-    accurate ICC profile.
-  </p>
-<p class="p">
-    Using an expensive device such as a ColorMunki works out cheaper only
-    if you are profiling a large number of ink sets or paper types.
-  </p>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      If you change your ink supplier, make sure you recalibrate the printer!
-    </p></div></div></div></div>
+<p class="p">Skorzystanie z usług firmy zajmującej się kolorami do utworzenia profilu dla drukarki jest zwykle najtańsze, jeśli korzysta się tylko z jednego lub dwóch różnych rodzajów papieru. Można pobrać wykres referencyjny ze strony firmy, wydrukować go i wysłać do firmy, która go zeskanuje, utworzy profil i wyśle dokładny profil ICC.</p>
+<p class="p">Skorzystanie z drogiego urządzenia, takiego jak ColorMunki, jest tańsze tylko, jeśli tworzone są profile dla dużej liczby rodzajów tuszu i papieru.</p>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Po zmianie producenta tuszu należy ponownie skalibrować drukarkę.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -108,14 +94,13 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html.pl-PL" title="Jak skalibrować aparat?">Jak skalibrować aparat?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-camera.html.pl-PL" title="Jak skalibrować aparat?">Jak skalibrować aparat?</a><span class="desc"> — Kalibracja aparatu jest ważna, aby zdjęcia miały dokładne kolory.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html.pl-PL" title="Jak skalibrować ekran?">Jak skalibrować ekran?</a><span class="desc"> — Calibrating your screen is important to display accurate
-    colors.</span>
+<a href="color-calibrate-screen.html.pl-PL" title="Jak skalibrować ekran?">Jak skalibrować ekran?</a><span class="desc"> — Kalibracja ekranu jest ważna, aby ekran wyświetlał dokładne kolory.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html.pl-PL" title="Jak skalibrować skaner?">Jak skalibrować skaner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
+<a href="color-calibrate-scanner.html.pl-PL" title="Jak skalibrować skaner?">Jak skalibrować skaner?</a><span class="desc"> — Kalibracja skanera jest ważna, aby zeskanowane dokumenty miały dokładne kolory.</span>
 </li>
 </ul></div>
 </div></div>
@@ -128,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

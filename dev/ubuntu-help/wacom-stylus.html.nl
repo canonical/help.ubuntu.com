@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="wacom.html.nl" title="Wacom-tekentablet">Wacom-tekentablet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="wacom.html.nl" title="Wacom-tekentablet">Wacom-tekentablet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">De pen configureren</span></h1></div>
@@ -74,19 +74,14 @@
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Wacom-tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Klik op <span class="gui">Wacom-tablet</span> om het paneel te openen.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
-    <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
-    <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als er geen tablet gedetecteerd is ziet u de opmerking <span class="gui"> Sluit het Wacom-tablet aan en zet het aan</span>. Klik op de <span class="gui">Bluetooth-instellingen</span>-link om met een draadloze tablet te verbinden.</p></div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">Het onderste deel van het paneel bevat details en instellingen specifiek voor uw pen, met links de apparaatnaam (de penklasse) en het diagram. Deze instellingen kunnen worden aangepast:</p>
+<p class="p">Het onderste deel van het paneel bevat details en instellingen specifiek voor uw pen, met links de naam van het apparaat (de penklasse) en het diagram. Deze instellingen kunnen worden aangepast:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Eraser Pressure Feel:</span> use the slider to adjust the
-       “feel” (how physical pressure is translated to digital values) between
-       <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
+<li class="list"><p class="p"><span class="gui">Drukgevoeligheid gom:</span> gebruik de schuifbalk om de "gevoeligheid" aan te passen (hoe fysieke druk vertaald wordt naar digitale waarden) tussen <span class="gui">Zacht</span> en <span class="gui">Stevig</span>.</p></li>
 <li class="list"><p class="p"><span class="gui">Knop/scrollwiel</span>-configuratie (deze wijzigingen betreffen de pen). Klik op het menu bij elk label om één van deze functies te selecteren: Geen actie, Linkermuisknopklik, Middelmuisknopklik, Rechtermuisknopklik, Omhoog scrollen, Omlaag scrollen, Naar links scrollen, Naar rechts scrollen, Terug, of Volgende.</p></li>
-<li class="list"><p class="p"><span class="gui">Tip Pressure Feel:</span> use the slider to adjust the
-       “feel” between <span class="gui">Soft</span> and <span class="gui">Firm</span>.</p></li>
+<li class="list"><p class="p"><span class="gui">Tip drukgevoeligheid:</span> gebruik de schuifregelaar om de ‘druk’ aan te passen tussen <span class="gui">Zacht</span> en <span class="gui">Stevig</span>.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>
@@ -108,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

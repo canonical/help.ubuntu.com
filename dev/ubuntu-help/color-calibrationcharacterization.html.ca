@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What’s the difference between calibration and characterization?</title>
+<title>Quina és la diferència entre el calibratge i la caracterització?.</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,62 +65,30 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Quina és la diferència entre el calibratge i la caracterització?.</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    Many people are initially confused about the difference between calibration
-    and characterization.
-    Calibration is the process of modifying the color behavior of a device.
-    This is typically done using two mechanisms:
-  </p>
+<p class="p">Moltes persones es confonen inicialment sobre la diferència entre calibratge i caracterització. El calibratge és el procés de modificar el comportament del color d'un dispositiu. Normalment es fa amb dos mecanismes:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Changing controls or internal settings that it has</p></li>
-<li class="list"><p class="p">Applying curves to its color channels</p></li>
+<li class="list"><p class="p">Canviant els controls o la configuració interna que té</p></li>
+<li class="list"><p class="p">Aplicant corbes als seus canals de color</p></li>
 </ul></div></div></div>
-<p class="p">
-    The idea of calibration is to put a device in a defined state with regard
-    to its color response.
-    Often this is used as a day to day means of maintaining reproducible behavior.
-    Typically calibration will be stored in device or systems specific file
-    formats that record the device settings or per-channel calibration curves.
-  </p>
-<p class="p">
-    Characterization (or profiling) is <span class="em">recording</span> the way
-    a device reproduces or responds to color.
-    Typically the result is stored in a device ICC profile.
-    Such a profile does not in itself modify color in any way.
-    It allows a system such as a CMM (Color Management Module) or a color aware
-    application to modify color when combined with another device profile.
-    Only by knowing the characteristics of two devices, can a way of
-    transferring color from one device representation to another be achieved.
-  </p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      Note that a characterization (profile) will only be valid for a device
-      if it’s in the same state of calibration as it was when it was
-      characterized.
-    </p></div></div></div></div>
-<p class="p">
-    In the case of display profiles there is some additional confusion because
-    often the calibration information is stored in the profile for convenience.
-    By convention it is stored in a tag called the <span class="em">vcgt</span> tag.
-    Although it is stored in the profile, none of the normal ICC based tools
-    or applications are aware of it, or do anything with it.
-    Similarly, typical display calibration tools and applications will not be
-    aware of, or do anything with the ICC characterization (profile) information.
-  </p>
+<p class="p">La idea del calibratge és posar un dispositiu en un estat definit pel que fa a la seva resposta al color. Moltes vegades s'utilitza com a mitjà per mantenir un comportament reproduïble. Normalment, el calibratge s'emmagatzema en formats de fitxer específics del dispositiu o fitxers específics del sistema que registren la configuració del dispositiu o les corbes de calibratge per canal.</p>
+<p class="p">La caracterització (o perfilat) <span class="em">grava</span> la manera en què un dispositiu reprodueix o respon al color. Normalment, el resultat s'emmagatzema en un perfil ICC de dispositiu. Aquest perfil no modifica de cap manera el color. Permet que un sistema com un CMM (Mòdul de gestió de colors) o una aplicació de color, modifiqui el color quan es combini amb un altre perfil de dispositiu. Només coneixent les característiques de dos dispositius, es pot aconseguir la transferència de la representació del color de l'un  a l'altre.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Tingueu en compte que una caracterització (perfil) només serà vàlida per a un dispositiu si es troba en el mateix estat de calibratge que quan es va caracteritzar.</p></div></div></div></div>
+<p class="p">En el cas dels perfils de visualització, hi ha certa confusió addicional perquè, sovint, la informació de calibratge s'emmagatzema al perfil per obtenir-ne la comoditat. Per convenció, s'emmagatzema en una etiqueta anomenada etiqueta <span class="em">vcgt</span>.  Encara que s'emmagatzema al perfil, cap de les eines o aplicacions basades en ICC normals ho tenen en compte ni en fan res. El mateix passa amb les eines i aplicacions de calibratge de visualització típiques, que no tindran en compte ni faran res amb la informació de la caracterització de la informació ICC (perfil).</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibració">Calibració</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -130,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

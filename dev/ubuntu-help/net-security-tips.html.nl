@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Veilig blijven op het internet</span></h1></div>
@@ -81,10 +81,7 @@
 <p class="p">Om kwaadwillige zaken te voorkomen, denk aan de volgende tips:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Wees voorzichtig met e-mails, bijlagen of links u toegestuurd door mensen die u niet kent.</p></li>
-<li class="list"><p class="p">If a website’s offer is too good to be true, or asks for sensitive
-      information that seems unnecessary, then think twice about what
-      information you are submitting and the potential consequences if that
-      information is compromised by identity thieves or other criminals.</p></li>
+<li class="list"><p class="p">Als de aanbieding van een website te goed om waar te zijn is, of vraagt om gevoelige informatie die niet nodig lijkt, denk dan eerst goed na over wat u indient en de eventuele consequenties wanneer die informatie in handen komt van identiteitsdieven of andere criminelen.</p></li>
 <li class="list"><p class="p">Wees voorzichtig met het geven van <span class="link"><a href="user-admin-explain.html.nl" title="Hoe werken beheerdersrechten?">toestemming op root-niveau</a></span> aan een toepassing, vooral toepassingen die u niet eerder gebruikt heeft of die niet erg bekend zijn. Het geven van toestemming op root-niveau aan iemand of iets maakt dat uw computer een hoog risico op misbruik loopt.</p></li>
 <li class="list"><p class="p">Zorg ervoor dat u alleen de benodigde diensten voor externe toegang draait. Het draaien van SSH of VNC kan nuttig zijn, maar het geeft ook eventuele indringers toegang tot uw computer als het niet op de juiste wijze beveiligd is. U kunt overwegen een <span class="link"><a href="net-firewall-on-off.html.nl" title="Firewalltoegang inschakelen of blokkeren.">firewall</a></span> te gebruiken om te helpen uw computer tegen indringers te beveiligen.</p></li>
 </ul></div></div></div>
@@ -105,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Networking, web &amp; email</title>
+<title>Rede, web e correo electrónico</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,16 +67,12 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Networking, web &amp; email</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Rede, web e correo electrónico</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Disconnecting</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Conectarse a unha rede sen fíos</a></span>, <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Redes ocultas</a></span>, <span class="link"><a href="net-editcon.html.gl-GL" title="net-editcon">Editar opcións da conexión</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Desconectando</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="sharing.html.gl-GL" title="Compartir">Compartir</a></div>
@@ -101,13 +97,13 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-browser.html.gl-GL" title="Navegadores web">Navegadores web</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html.gl-GL" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-default-browser.html.gl-GL" title="Cambie o navegador web co que se abren os sitios web por omisión">Change the default browser</a></span>,
       <span class="link"><a href="net-install-flash.html.gl-GL" title="Instalar o engadido de Flash">install Flash</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.gl-GL" title="Problemas de rede">Problemas de rede</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html.gl-GL" title="I can’t see my wireless network in the list">atopar a súa rede sen fíos</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de erros en redes sen fíos</a></span>, <span class="link"><a href="net-wireless-find.html.gl-GL" title="Non podo ver a miña rede sen fíos na lista">atopar a súa rede sen fíos</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-wired.html.gl-GL" title="Rede con cable">Rede con cable</a></div>
@@ -145,7 +141,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

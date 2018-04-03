@@ -110,15 +110,15 @@ toolbar.</p>
 <div id="ways" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ways of sorting files</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Name</dt>
+<dt class="terms">Nom</dt>
 <dd class="terms"><p class="p">Sorts alphabetically by the name of the file.</p></dd>
-<dt class="terms">Size</dt>
+<dt class="terms">Mida</dt>
 <dd class="terms"><p class="p">Sorts by the size of the file (how much disk space it takes up). Sorts
       from smallest to largest by default.</p></dd>
-<dt class="terms">Type</dt>
+<dt class="terms">Tipus</dt>
 <dd class="terms"><p class="p">Sorts alphabetically by the file type. Files of the same type are
       grouped together, then sorted by name.</p></dd>
-<dt class="terms">Last Modified</dt>
+<dt class="terms">Última modificació</dt>
 <dd class="terms"><p class="p">Sorts by the date and time that a file was last changed. Sorts from
       oldest to newest by default.</p></dd>
 </dl></div></div></div></div></div>
@@ -137,7 +137,7 @@ toolbar.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

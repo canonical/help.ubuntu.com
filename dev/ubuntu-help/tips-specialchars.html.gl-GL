@@ -76,7 +76,7 @@
 <div role="navigation" class="links sectionlinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Métodos para inserir caracteres</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="tips-specialchars.html.gl-GL#characters" title="Characters">Characters</a></li>
+<li class="links "><a href="tips-specialchars.html.gl-GL#characters" title="Mapa de caracteres">Mapa de caracteres</a></li>
 <li class="links "><a href="tips-specialchars.html.gl-GL#compose" title="Tecla Compose">Tecla Compose</a></li>
 <li class="links "><a href="tips-specialchars.html.gl-GL#ctrlshiftu" title="Puntos de código">Puntos de código</a></li>
 <li class="links "><a href="tips-specialchars.html.gl-GL#layout" title="Disposicións de teclado">Disposicións de teclado</a></li>
@@ -85,14 +85,12 @@
 </div></div>
 </div>
 <div id="characters" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Characters</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Mapa de caracteres</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Another useful application shipped with GNOME is <span class="app">Characters</span>.
-    It lets you find and insert unusual characters by browsing character
-    categories or searching for keywords.</p>
-<p class="p">You can launch Characters from the Activities overview. For more
-    information on Characters, see the <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">
-    Characters Manual</a></span>.</p>
+<p class="p">GNOME comes with a character map application that allows you to
+    find and insert unusual characters, including emoji, by browsing
+    character categories or searching for keywords.</p>
+<p class="p">You can launch <span class="app">Characters</span> from the Activities overview.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -101,23 +99,26 @@
 <p class="p">Unha chave composta é unha chave especial que lle permite premer varias teclas seguidas para obter un caracter especial. Por exemplo para usar a letra con tilde <span class="em">é</span> pode premer <span class="key"><kbd>compoñer</kbd></span> despois <span class="key"><kbd>'</kbd></span> e despois <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Keyboards don’t have specific compose keys. Instead, you can define
     one of the existing keys on your keyboard as a compose key.</p>
-<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-      change this setting.</p></div></div></div></div>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
+      change this setting.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
+        <span class="app">Tweaks</span></a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definir unha tecla composta</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span>
         overview and start typing <span class="gui">Tweaks</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
+<li class="steps"><p class="p">Prema na lapela <span class="gui">Teclado e rato</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
         setting.</p></li>
 <li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
         want to use.</p></li>
-<li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
-        key.</p></li>
-<li class="steps"><p class="p">Close the dialog.</p></li>
-<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
+<li class="steps"><p class="p">Marque a caixa de verificación da tecla que quere usar como tecla de Composición.</p></li>
+<li class="steps"><p class="p">Pechar a xanela de configuración da rede.</p></li>
+<li class="steps"><p class="p">Seleccione na xanela <span class="gui">Retoques</span>.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Pode teclear moitos caracteres comúns usando a tecla composta, por exemplo:</p>
@@ -133,18 +134,22 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Puntos de código</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Pode introducir calquera caracter Unicode usando só o teclado co punto de código numérico do caracter. Cada caracter identifícase cun punto de código de catro caracteres. Para encontrar o punto de código dun caracter, busque o caracter no aplicativo de mapa de caracteres e mire na barra de estado ou na lapela <span class="gui">Detalles de caracter</span>. O punto de código son os catro caracteres que hai despois de <span class="gui">U+</span>.</p>
-<p class="p">To enter a character by its code point, hold down <span class="key"><kbd>Ctrl</kbd></span> and
-  <span class="key"><kbd>Shift</kbd></span>, type <span class="key"><kbd>U</kbd></span> followed by the four-character code
-  point, then release <span class="key"><kbd>Ctrl</kbd></span> and <span class="key"><kbd>Shift</kbd></span>. If you often use
-  characters that you can’t easily access with other methods, you might find
+<p class="p">You can enter any Unicode character using only your keyboard with the
+  numeric code point of the character. Every character is identified by a
+  four-character code point. To find the code point for a character, look it up
+  in the <span class="app">Characters</span> application. The code point is the four characters
+  after <span class="gui">U+</span>.</p>
+<p class="p">To enter a character by its code point, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, then type the
+  four-character code and press <span class="key"><kbd>Space</kbd></span> or <span class="key"><kbd>Enter</kbd></span>. If you often
+  use characters that you can’t easily access with other methods, you might find
   it useful to memorize the code point for those characters so you can enter
   them quickly.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Disposicións de teclado</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Pode facer que o teclado se comporte como o teclado doutro idioma, independentemente das teclas impresas nas teclas. Incluso pode cambiar facilmente entre diferentes distribucións de teclado cunha icona na barra superior. Para saber como facelo, consulte a <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Usar distribucións de teclado alternativas</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Pode facer que o teclado se comporte como o teclado doutro idioma, independentemente das teclas impresas nas teclas. Incluso pode cambiar facilmente entre diferentes distribucións de teclado cunha icona na barra superior. Para saber como facelo, consulte a <span class="link"><a href="keyboard-layouts.html.gl-GL" title="Usar disposicións de teclado alternativas">Usar disposicións de teclado alternativas</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Métodos de entrada</span></h2></div>
@@ -168,7 +173,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.gl-GL" title="Usar distribucións de teclado alternativas">Usar distribucións de teclado alternativas</a><span class="desc"> — Engadir disposicións de teclado e cambiar entre elas.</span>
+<a href="keyboard-layouts.html.gl-GL" title="Usar disposicións de teclado alternativas">Usar disposicións de teclado alternativas</a><span class="desc"> — Engadir disposicións de teclado e cambiar entre elas.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -180,7 +185,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

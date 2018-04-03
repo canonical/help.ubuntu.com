@@ -65,36 +65,26 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You may find that you have been disconnected from a wireless network even
- though you wanted to stay connected. Your computer will normally try to
- reconnect to the network as soon as this happens (the network icon on the top
- bar will display three dots if it is trying to reconnect), but it can be
- annoying, especially if you were using the internet at the time.</p></div>
+<div class="contents"><p class="p">Het kan zijn dat de verbinding met een draadloos netwerk verbroken werd terwijl u toch verbonden had willen blijven. Normaal gesproken zal uw computer proberen opnieuw verbinding te maken met het netwerk zodra dit gebeurt (het netwerkpictogram in de bovenbalk zal pulseren wanneer het probeert opnieuw verbinding te maken), maar het kan vervelend zijn, vooral als dit gebeurt terwijl u het internet gebruikte.</p></div>
 <div id="signal" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zwak signaal</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Een veelvoorkomende reden voor een verbroken verbinding met een draadloos netwerk is dat u een zwak signaal heeft. Draadloze netwerken hebben een beperkt bereik, dus als u zich te ver van het basisstation bevindt kunt u mogelijk geen signaal krijgen dat sterk genoeg is om de verbinding te behouden. Muren en andere objecten tussen u en het basisstation kunnen het signaal ook verzwakken.</p>
-<p class="p">The network icon on the top bar displays how strong your wireless signal is.
- If the signal looks low, try moving closer to the wireless base station.</p>
+<p class="p">Het netwerkpictogram in de bovenbalk toont hoe sterk uw signaal is. Als het signaal er zwak uitziet, probeer dan dichter bij het basisstation te komen.</p>
 </div></div>
 </div></div>
 <div id="network" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Netwerkverbinding is niet op de  juiste manier tot stand gebracht</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
- have successfully connected at first, but then you will be disconnected soon
- after. This normally happens because your computer was only partially
- successful in connecting to the network — it managed to establish a connection,
- but was unable to finalize the connection for some reason and so was
- disconnected.</p>
+<p class="p">Soms, wanneer u met een draadloos netwerk verbindt, lijkt het eerst alsof u met succes verbonden bent, maar dan wordt de verbinding verbroken. Normaal gesproken gebeurt dit omdat uw computer slechts ten dele met succes verbonden was met het netwerk — er werd verbinding gemaakt, maar om de een of andere reden kon de verbinding niet worden voltooid, dus werd de verbinding verbroken.</p>
 <p class="p">Een mogelijke reden hiervoor is dat u het verkeerde wachtwoord heeft ingevoerd, of dat uw computer niet toegelaten werd tot het netwerk (omdat het netwerk bijvoorbeeld voor het aanmelden een gebruikersnaam nodig heeft.</p>
 </div></div>
 </div></div>
@@ -113,21 +103,17 @@
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html.nl" title="I can’t see my wireless network in the list">Uw wifi-netwerk vinden</a></span>...</span>
+<a href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html.nl" title="Ik zie mijn draadloos netwerk niet in de lijst">Uw wifi-netwerk vinden</a></span>...</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinding maken met een draadloos netwerk</a><span class="desc"> — Get on the internet — wirelessly.</span>
+<a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinding maken met een draadloos netwerk</a><span class="desc"> — Het internet op gaan - draadloos.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -139,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

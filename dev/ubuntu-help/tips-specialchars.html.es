@@ -85,8 +85,10 @@
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Caracteres</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Otra útil aplicación distribuida con GNOME es <span class="app">Caracteres</span>. Le permite buscar e insertar caracteres poco habituales buscando en categorías de caracteres o buscando por palabras clave.</p>
-<p class="p">Puede lanzar Caracteres desde la vista de Actividades. Para obtener más información sobre Caracteres, consulte el <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">manual de Caracteres</a></span>.</p>
+<p class="p">GNOME comes with a character map application that allows you to
+    find and insert unusual characters, including emoji, by browsing
+    character categories or searching for keywords.</p>
+<p class="p">You can launch <span class="app">Characters</span> from the Activities overview.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -94,7 +96,10 @@
 <div class="region"><div class="contents">
 <p class="p">Una clave compuesta es una clave especial que le permite pulsar varias teclas seguidas para obtener un carácter especial. Por ejemplo, para usar la letras con tilde <span class="em">é</span> puede pulsar <span class="key"><kbd>componer</kbd></span> despúes <span class="key"><kbd>'</kbd></span> y después <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Los teclados no tienen teclas de composición específicas. En su lugar, puede definir una de las teclas existentes en su teclado, como tecla para componer.</p>
-<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents"><p class="p">Necesita tener instalado <span class="app">Retoques</span> en su equipo para modificar esta opción.</p></div></div></div></div>
+<div class="note note-important" title="Importante"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Necesita tener instalado <span class="app">Retoques</span> en su equipo para modificar esta opción.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Instalar <span class="app">Retoques</span></a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Definir una tecla de composición</span></h3></div>
 <div class="region"><ol class="steps">
@@ -121,8 +126,17 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Puntos de código</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Puede introducir cualquier carácter Unicode usando solo el teclado con el punto de código numérico del carácter. Cada carácter se identifica con un punto de código de cuatro caracteres. Para encontrar el punto de código de un carácter, busque el carácter en la aplicación de mapa de caracteres y mire en la barra de estado o en la pestaña <span class="gui">Detalles de carácter</span>. El punto de código son los cuatro caracteres que hay después de <span class="gui">U+</span>.</p>
-<p class="p">Para introducir un carácter por su punto de código, mantenga pulsadas <span class="key"><kbd>Ctrl</kbd></span> y <span class="key"><kbd> Mayús</kbd></span>, teclee <span class="key"><kbd>u</kbd></span> seguido por los cuatros caracteres del punto de código, a continuación, suelte <span class="key"><kbd>Ctrl</kbd></span> y <span class="key"><kbd>Mayús</kbd></span>. Si suele usar caracteres a los que no puede acceder fácilmente con otros métodos, puede que le resulte útil memorizar el punto de código para esos caracteres de manera que pueda introducirlos rápidamente.</p>
+<p class="p">You can enter any Unicode character using only your keyboard with the
+  numeric code point of the character. Every character is identified by a
+  four-character code point. To find the code point for a character, look it up
+  in the <span class="app">Characters</span> application. The code point is the four characters
+  after <span class="gui">U+</span>.</p>
+<p class="p">To enter a character by its code point, press
+  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, then type the
+  four-character code and press <span class="key"><kbd>Space</kbd></span> or <span class="key"><kbd>Enter</kbd></span>. If you often
+  use characters that you can’t easily access with other methods, you might find
+  it useful to memorize the code point for those characters so you can enter
+  them quickly.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
@@ -148,7 +162,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.es" title="Usar distribuciones de teclado alternativas">Usar distribuciones de teclado alternativas</a><span class="desc"> — Añadir distribuciones de teclado y cambiar entre ellas.</span>
+<a href="keyboard-layouts.html.es" title="Usar distribuciones de teclado alternativas">Usar distribuciones de teclado alternativas</a><span class="desc"> — Añadir distribuciones del teclado y cambiar entre ellas.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -160,7 +174,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -78,18 +78,11 @@
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tampilan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Tampilan</span> untuk membuka panel.</p></li>
 <li class="steps">
-<p class="p">Click on the monitor that you would like to activate or deactivate,
-      then in the list of monitor configuration select <span class="gui">Turn Off</span> to
-      deactivate the monitor, or one of <span class="gui">Primary</span>,
-      <span class="gui">Secondary</span>, or <span class="gui">Mirror</span> to activate it.</p>
-<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">The primary monitor is the one with the
-        <span class="link"><a href="shell-introduction.html.id" title="Pengenalan ke GNOME">top bar</a></span>, and where the
-        <span class="gui">Activities</span> overview is shown.</p></div></div></div></div>
+<p class="p">Klik pada monitor yang ingin Anda aktifkan ato nonaktifkan, lalu dalam daftar konfigurasi monitor pilih <span class="gui">Matikan&gt;</span> untuk menonaktifkan monitor.</p>
+<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Monitor utama adalah yang dengan <span class="link"><a href="shell-introduction.html.id" title="Pengenalan ke GNOME">bar atas</a></span>, dengan ringkasan <span class="gui">Aktivitas</span> yang ditampilkan.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">To rotate the orientation of the monitor, use the buttons with the
-      arrows until the preview is correct.</p></li>
-<li class="steps"><p class="p">When you are happy with your settings, click <span class="gui">Apply</span> and then
-      click <span class="gui">Keep Changes</span>.</p></li>
+<li class="steps"><p class="p">Untuk memutar orientasi monitor, gunakan tombol dengan anak panah sampai tampilan benar.</p></li>
+<li class="steps"><p class="p">Ketika Anda puas dengan pengaturan Anda, klik <span class="gui">Terapkan</span> lalu klik <span class="gui">Pertahankan Konfigurasi Ini</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -109,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

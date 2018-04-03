@@ -71,15 +71,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Una aplicación es un software que dispone de una interfaz gráfica de usuario (IGU). El equipo de desarrollo de ubuntu ha elegido un conjunto de aplicaciones predeterminadas que pensamos que pueden hacer a Ubuntu muy útil para la mayoría de las tareas diarias. Sin embargo, muy probablemente deseará instalar más aplicaciones para hacer a Ubuntu todavía más útil para usted. Para instalar una aplicación, puede usar <span class="app">Ubuntu Software</span>.La</p>
-<p class="p">Las aplicaciones están disponibles en dos formatos: paquetes snap y paquetes Deybina. Nos referiremos a partir de ahora a las aplicaciones disponibles como paquetes snap como <span class="em">snap</span>. Para instalar (o eliminar) un snap tiene que iniciar sesión en el Snap Store/Ubuntu One. Algunas aplicaciones están disponibles en ambos formatos. En tal caso el snap aparecerá primero en <span class="app">Ubuntu Software</span>.</p>
+<p class="p">Las aplicaciones están disponibles en dos formatos: paquetes snap y paquetes Debian. A partir de ahora, una aplicación disponible como paquete snap se le llama <span class="em">snap</span>. Algunas aplicaciones están disponibles en ambos formatos. En tal caso, en <span class="app">Ubuntu Software</span>, el snap se mostrará primero.</p>
 <p class="p">Es posible que también desee instalar software que no tiene una IGU. Para instalar este tipo de software puede usar <span class="link"><a href="addremove-install-synaptic.html.es" title="Use Synaptic para una gestión de software más avanzada">Synaptic</a></span>. Tenga en cuenta que <span class="app">Synaptic</span> no muestra snaps.</p>
 <p class="p">Para instalar una aplicación:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Haga clic en el icono de <span class="app">Ubuntu Software</span> en el <span class="gui">Dock</span> o busque <span class="input">Software</span> en la barra de búsqueda de <span class="em">Actividades</span>.</p></li>
 <li class="steps"><p class="p">Cuando se abra <span class="app">Software de Ubuntu</span> busque una aplicación o seleccione una categoría y elija una aplicación de la lista.</p></li>
 <li class="steps"><p class="p">Seleccione la aplicación que desea instalar y pulse <span class="gui">Instalar</span>.</p></li>
-<li class="steps"><p class="p">Si está instalando un snap, inicie sesión en Snap Store/Ubuntu One.</p></li>
-<li class="steps"><p class="p">Se le pedirá que se identifique introduciendo su contraseña (su contraseña de usuario, no su contraseña de Snap Store/Ubuntu One). Una vez que lo haya hecho comenzará la instalación. La instalación normalmente tarda poco en completarse, pero podría tardar cierto tiempo si tiene una conexión a internet lenta.</p></li>
+<li class="steps"><p class="p">Se le pedirá que se autentifique ingresando su contraseña. Una vez hecho esto, la instalación comenzará. La instalación es generalmente rápida, pero podría tardar un tiempo si tiene una conexión a Internet lenta.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -114,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

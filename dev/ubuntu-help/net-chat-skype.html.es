@@ -75,8 +75,8 @@
 <p class="p">El uso de Skype es gratuito, pero no es software libre; su código fuente es privativo y no está disponible para su modificación.</p>
 <p class="p">Skype no viene instalado de forma predeterminada en Ubuntu. Siga los siguientes pasos para instalar <span class="app">Skype para Linux</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">Abra su navegador web y vaya a la <span class="link"><a href="https://www.skype.com/download-skype/skype-for-computer/" title="https://www.skype.com/download-skype/skype-for-computer/">página de descarga de Skype</a></span>.</p></li>
-<li class="list"><p class="p">Pulse el botón <span class="gui">Descargar Skype para Linux DEB</span>.</p></li>
+<li class="list"><p class="p">Abra su navegador web y vaya a la página de <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">descarga de Skype</a></span>.</p></li>
+<li class="list"><p class="p">Presione el botón <span class="gui">Conseguir Skype para Linux DEB</span>.</p></li>
 <li class="list"><p class="p">En la ventana que aparece, seleccione <span class="gui">Abrir con</span> e <span class="gui">Instalar software (predeterminada)</span> y pulse luego el botón <span class="gui">Aceptar</span>.</p></li>
 <li class="list"><p class="p">Se abre <span class="app">Ubuntu Software</span>. Pulse el botón <span class="gui">Instalar</span> y autentíquese.</p></li>
 </ul></div></div></div>
@@ -105,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -65,31 +65,24 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Czym jest klawisz <span class="key"><kbd>Super</kbd></span>?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you press the <span class="key"><kbd>Super</kbd></span> key, the <span class="gui">Activities</span>
-  overview is displayed. This key can usually be found on the bottom-left of
-  your keyboard, next to the <span class="key"><kbd>Alt</kbd></span> key, and usually has a Windows logo
-  on it. It is sometimes called the <span class="em">Windows key</span> or system key.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">If you have an Apple keyboard, you will have a <span class="key"><kbd>⌘</kbd></span> (Command)
-    key instead of the Windows key, while Chromebooks have a magnifying glass
-    instead.</p></div></div></div></div>
-<p class="p">To change which key is used to display the <span class="gui">Activities</span>
-  overview:</p>
+<p class="p">Po naciśnięciu klawisz <span class="key"><kbd>Super</kbd></span> wyświetlany jest <span class="gui">ekran podglądu</span>. Ten klawisz zwykle można znaleźć w dolnym lewym rogu klawiatury, obok klawisza <span class="key"><kbd>Alt</kbd></span>, i zwykle ma logo systemu Windows. Jest czasami nazywany <span class="em">klawiszem Windows key</span> lub klawiszem systemowym.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Klawiatury firmy Apple mają klawisz <span class="key"><kbd>⌘</kbd></span> (Command) zamiast klawisza Windows, podczas gdy laptopy Chromebook mają klawisz z lupą.</p></div></div></div></div>
+<p class="p">Aby zmienić, który klawisz wyświetla <span class="gui">ekran podglądu</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span>, a następnie otwórz <span class="app">Ustawienia</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span>, a następnie otwórz <span class="app">Ustawienia</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Klawiatura</span>.</p></li>
 <li class="steps"><p class="p">Kliknij kartę <span class="gui">Skróty</span>.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">System</span> on the left side of the window, and
-      <span class="gui">Show the activities overview</span> on the right.</p></li>
-<li class="steps"><p class="p">Hold down the desired key combination.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">System</span> po lewej stronie okno, a następnie <span class="gui">Wyświetlenie ekranu podglądu</span> po prawej.</p></li>
+<li class="steps"><p class="p">Przytrzymaj wybraną kombinację klawiszy.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -98,17 +91,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Make the keyboard cursor blink">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.pl-PL" title="Klawiatura">Klawiatura</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.pl-PL" title="Alternatywne układy klawiatury">Układy klawiatury</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pl-PL" title="Ustawianie migania kursora klawiatury">miganie kursora</a></span>, <span class="link"><a href="a11y.html.pl-PL#mobility" title="Niepełnosprawność ruchowa">ułatwienia dostępu klawiatury</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html.pl-PL" title="Przydatne skróty klawiszowe">Przydatne skróty klawiszowe</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.pl-PL" title="Przydatne skróty klawiszowe">Przydatne skróty klawiszowe</a><span class="desc"> — Nawigacja po pulpicie za pomocą klawiatury.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -120,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I’ve entered the correct password, but I still can’t connect</title>
+<title>Ik heb het juiste wachtwoord ingevoerd, maar ik kan nog geen verbinding maken</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,33 +64,33 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I’ve entered the correct password, but I still can’t connect</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ik heb het juiste wachtwoord ingevoerd, maar ik kan nog geen verbinding maken</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html.nl" title="Wat betekenen WEP en WPA?">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
+<p class="p">Als u er zeker van bent dat u het juiste <span class="link"><a href="net-wireless-wepwpa.html.nl" title="Wat betekenen WEP en WPA?">wachtwoord voor draadloos netwerk</a></span> heeft ingevoerd, maar u kunt nog steeds geen verbinding maken met een draadloos netwerk, probeer dan het volgende:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Controleer of u het juiste wachtwoord heeft</p>
-<p class="p">Passwords are case-sensitive (it matters whether they have capital or lower-case letters), so check that you didn’t get the case of one of the letters wrong.</p>
+<p class="p"> Wachtwoorden zijn hoofdlettergevoelig (het maakt uit of ze hoofdletters of kleine letters bevatten); controleer dus op de juiste invoer van hoofdletters en kleine letters.</p>
 </li>
 <li class="list">
 <p class="p">Probeer het hex- of ASCII-wachtwoord</p>
-<p class="p">The password you enter can also be represented in a different way — as a string of characters in hexadecimal (numbers 0-9 and letters a-f) called a pass key. Each password has an equivalent pass key. If you have access to the pass key as well as the password/passphrase, try typing the pass key instead. Make sure you select the correct <span class="gui">wireless security</span> option when asked for your password (for example, select <span class="gui">WEP 40/128-bit Key</span> if you’re typing the 40-character pass key for a WEP-encrypted connection).</p>
+<p class="p">Het in te voeren wachtwoord kan ook op een andere manier weergegeven worden — als een reeks van tekens in hexadecimaal (cijfers 0-9 en letters a-f), aanmeldcode genaamd. Elk wachtwoord heeft een overeenkomende aanmeldcode. Als u toegang heeft tot zowel de aanmeldcode als het wachtwoord/de wachtwoordzin, probeer dan de aanmeldcode in te voeren. Zorg ervoor dat u de juiste optie voor <span class="gui">beveiliging draadloos netwerk</span> selecteert wanneer naar uw wachtwoord wordt gevraagd (kies bijvoorbeeld <span class="gui">WEP 40/128-bit Key</span> als u de uit 40 tekens bestaande aanmeldcode voor een WEP-versleutelde verbinding intypt).</p>
 </li>
 <li class="list">
 <p class="p">Probeer uw draadloze netwerkkaart uit en dan weer in te schakelen</p>
-<p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a></span> for more information.</p>
+<p class="p">Soms lopen draadloze netwerkkaarten vast of hebben een klein probleem waardoor er geen verbinding kan worden gemaakt. Probeer de kaart uit en dan weer in te schakelen om hem te resetten — zie <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a></span> voor meer informatie.</p>
 </li>
 <li class="list">
-<p class="p">Check that you’re using the correct type of wireless security</p>
-<p class="p">When prompted for your wireless security password, you can choose which type of wireless security to use. Make sure you choose the one that is used by the router or wireless base station. This should be selected by default, but sometimes it will not be for some reason. If you don’t know which one it is, use trial and error to go through the different options.</p>
+<p class="p">Controleer of u het juiste type beveiliging voor het draadloos netwerk gebruikt</p>
+<p class="p">Wanneer u gevraagd wordt naar uw beveiligingswachtwoord, dan kunt u kiezen welk soort beveiliging u gebruikt. Zorg ervoor dat u die kiest welke gebruikt wordt door de router of het basisstation. Dit zou standaard geselecteerd moeten zijn, maar soms is dat om een of andere reden niet het geval. Als u niet weet welke u moet hebben, probeer dan de verschillende opties uit.</p>
 </li>
 <li class="list">
 <p class="p">Controleer of uw netwerkkaart op de juiste manier ondersteund wordt</p>
-<p class="p">Some wireless cards aren’t supported very well. They show up as a wireless connection, but they can’t connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <span class="em">firmware</span>). See <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a></span> for more information.</p>
+<p class="p">Sommige netwerkkaarten worden niet goed ondersteund. Ze worden getoond als een draadloze verbinding, maar ze kunnen geen verbinding maken met een netwerk omdat hun stuurprogramma's dit niet kunnen. Probeer een ander stuurprogramma te vinden of kijk of u extra handelingen moet verrichten (zoals het installeren van andere <span class="em">firmware</span>). Zie <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a></span> voor meer informatie.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -99,11 +99,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -114,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

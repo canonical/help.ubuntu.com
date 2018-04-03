@@ -70,13 +70,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Tampilan &amp; layar</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.id" title="Atur kecerahan layar"><span class="title">Atur kecerahan layar</span><span class="linkdiv-dash"> — </span><span class="desc">Ubah kecerahan layar agar layar lebih mudah dibaca saat berada di cahaya yang terang.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.id" title="Atur waktu pengosongan layar"><span class="title">Atur waktu pengosongan layar</span><span class="linkdiv-dash"> — </span><span class="desc">Ubah waktu mengosongkan layar untuk menghemat daya.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-background.html.id" title="Change the desktop and lock screen backgrounds"><span class="title">Change the desktop and lock screen backgrounds</span><span class="linkdiv-dash"> — </span><span class="desc">Set an image, color, or gradient as your desktop background or lock
     screen background.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-resolution.html.id" title="Change the resolution or rotation of the screen"><span class="title">Change the resolution or rotation of the screen</span><span class="linkdiv-dash"> — </span><span class="desc">Ubah resolusi layar dan orientasinya (rotasi).</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.id" title="Sambungkan monitor lain ke komputer Anda"><span class="title">Sambungkan monitor lain ke komputer Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Menata monitor tambahan.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.id" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.id" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
-    light.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.id" title="The screen locks itself too quickly"><span class="title">The screen locks itself too quickly</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span></a></div>
 </div></div></div></div>
@@ -96,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

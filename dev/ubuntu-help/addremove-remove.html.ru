@@ -73,8 +73,8 @@
 <p class="p">Приложение — это программа, имеющая графический интерфейс (GUI). Для удаления приложений, которые больше не нужны, можно использовать <span class="app">Менеджер приложений Ubuntu</span>.</p>
 <p class="p">Applications are available in two formats: snap packages and Debian packages. 
    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-   In order to remove (or install) a snap you have to log on to the Snap Store/Ubuntu One.
-   Some applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
+   Some applications are available in both formats. In such a case in
+   <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
 <p class="p">Вам может также понадобиться удалить программы, не имеющих графического интерфейса. Для удаления таких программ можно воспользоваться <span class="link"><a href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Synaptic</a></span>. Обратите внимание, что в <span class="app">Synaptic</span> не отображаются snap-пакеты.</p>
 <p class="p">Для того, чтобы удалить приложение:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -87,10 +87,7 @@
 <li class="steps"><p class="p">Выберите приложение и щёлкните <span class="gui">Удалить</span>.</p></li>
 <li class="steps"><p class="p">Подтвердите своё намерение удалить приложение.</p></li>
 <li class="steps"><p class="p">
-    If you're removing a snap, log on to the Snap Store/Ubuntu One. 
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password (that is, your user password, not your Snap Store/Ubuntu One password).
+        You will be asked to authenticate by entering your password.
         After you have done that, the application will be removed.
       </p></li>
 </ol></div></div></div>
@@ -125,7 +122,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -78,15 +78,15 @@
     the order in which the selected columns will appear. Click <span class="gui">Reset to
     Default</span> to undo any changes and return to the default columns.</p></div></div></div></div>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Name</span></dt>
+<dt class="terms"><span class="gui">Nom</span></dt>
 <dd class="terms">
 <p class="p">The name of folders and files.</p>
 <div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Name</span> column cannot be hidden.</p></div></div></div></div>
 </dd>
-<dt class="terms"><span class="gui">Size</span></dt>
+<dt class="terms"><span class="gui">Mida</span></dt>
 <dd class="terms"><p class="p">The size of a folder is given as the number of items contained in the
       folder. The size of a file is given as bytes, KB, or MB.</p></dd>
-<dt class="terms"><span class="gui">Type</span></dt>
+<dt class="terms"><span class="gui">Tipus</span></dt>
 <dd class="terms"><p class="p">Displayed as folder, or file type such as PDF document, JPEG image,
       MP3 audio, and more.</p></dd>
 <dt class="terms"><span class="gui">Modified</span></dt>
@@ -149,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I cannot connect my Bluetooth device</title>
+<title>No puc connectar el meu dispositiu Bluetooth</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> › <a class="trail" href="hardware.html.ca#problems" title="Common problems">Problemes</a> » <a class="trail" href="bluetooth.html.ca#problems" title="Problems">Bluetooth problems</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> › <a class="trail" href="hardware.html.ca#problems" title="Problemes comuns">Problemes</a> » <a class="trail" href="bluetooth.html.ca#problems" title="Problemes">Problemes del Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I cannot connect my Bluetooth device</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">No puc connectar el meu dispositiu Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Hi ha diversos motius pels quals no podeu connectar-vos a un dispositiu Bluetooth, com un telèfon o uns auriculars.</p>
@@ -75,24 +75,13 @@
 <dt class="terms">La connexió està blocada o no és de confiança</dt>
 <dd class="terms"><p class="p">Alguns dispositius Bluetooth bloquen per defecte les connexions, o necessiten que modifiqueu algun paràmetre de configuració perquè es puguin efectuar. Assegureu-vos que el dispositiu està configurat de tal manera que les permeti.</p></dd>
 <dt class="terms">No s'ha reconegut el maquinari Bluetooth</dt>
-<dd class="terms"><p class="p">Your Bluetooth adapter or dongle may not have been recognized by the
-      computer. This could be because
-      <span class="link"><a href="hardware-driver.html.ca" title="What is a driver?">drivers</a></span> for the adapter are not
-      installed. Some Bluetooth adapters are not supported on Linux, so you may
-      not be able to get the right drivers for them. In this case, you will
-      probably have to get a different Bluetooth adapter.</p></dd>
-<dt class="terms">Adapter is not switched on</dt>
-<dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Open the
-        Bluetooth panel and check that it is not
-        <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Turn Bluetooth on or off">disabled</a></span>.</p></dd>
+<dd class="terms"><p class="p">És possible que l'ordinador no hagi reconegut el vostre adaptador Bluetooth o el dispositiu. Això pot passar perquè els <span class="link"><a href="hardware-driver.html.ca" title="What is a driver?">drivers</a></span> per l'adaptador no s'hagin instal·lat. Alguns adaptadors Bluetooth no són compatibles amb Linux, de manera que és possible que no pugueu aconseguir els controladors adequats. En aquest cas, és probable que haureu d'obtenir un adaptador Bluetooth diferent.</p></dd>
+<dt class="terms">L'adaptador no està activat</dt>
+<dd class="terms"><p class="p">Assegureu-vos que l'adaptador de Bluetooth estigui activat. Obriu el panell de Bluetooth i comproveu que no estigui<span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">desactivat</a></span>.</p></dd>
 <dt class="terms">La connexió del dispositiu Bluetooth està desactivada</dt>
-<dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
-      connect to, and that it is <span class="link"><a href="bluetooth-visibility.html.ca" title="Què és la visibilitat del Bluetooth?">discoverable
-      or visible</a></span>. For example, if you are trying to connect to a phone,
-      make sure that it is not in airplane mode.</p></dd>
+<dd class="terms"><p class="p">Comproveu que el Bluetooth estigui activat al dispositiu al que us intenteu connectar, i que està <span class="link"><a href="bluetooth-visibility.html.ca" title="Què és la visibilitat del Bluetooth?">detectable o visible</a></span>. Per exemple, si intenteu connectar-vos a un telèfon, assegureu-vos que no estigui en mode d'avió.</p></dd>
 <dt class="terms">No s'ha trobat cap adaptador Bluetooth al vostre ordinador</dt>
-<dd class="terms"><p class="p">Many computers do not have Bluetooth adapters. You can buy an adapter
-      if you want to use Bluetooth.</p></dd>
+<dd class="terms"><p class="p">Moltes computadores no tenen adaptadors Bluetooth. Podeu comprar un adaptador si voleu utilitzar Bluetooth.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -100,7 +89,7 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="bluetooth.html.ca#problems" title="Problems">Bluetooth problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="bluetooth.html.ca#problems" title="Problemes">Problemes del Bluetooth</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
@@ -118,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

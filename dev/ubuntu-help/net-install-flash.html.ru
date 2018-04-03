@@ -72,6 +72,8 @@
 <div class="contents">
 <p class="p">Flash — это <span class="em">расширение</span> (плагин) для веб-браузера, позволяющее смотреть видео и использовать интерактивные веб-страницы на некоторых сайтах. Хотя HTML5, как более современное решение, получает всё большее распространение, всё ещё есть некоторые веб-сайты, которые не могут работать без Flash.</p>
 <p class="p">Если Flash не установлен, то, вероятно, при посещении веб-страницы, использующей эту технологию, будет показано сообщение об этом. Flash можно загрузить бесплатно для большинства веб-браузеров (но он не является программой с открытым исходным кодом).</p>
+<div class="note note-warning" title="Предупреждение"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe has announced that they will stop updating and distributing the Flash Player at the end
+ of 2020. Consequently, for security reasons, the Flash plug-in should not be used after 2020.</p></div></div></div></div>
 <p class="p">Доступно два типа расширений:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="em">NPAPI</span> для <span class="app">Firefox</span> и других браузеров на движке Gecko</p></li>
@@ -81,7 +83,8 @@
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Пакет <span class="app">flashplugin-installer</span> предоставляет NPAPI-расширение для Firefox. Если вы выбрали установку отдельных сторонних приложений во время установки Ubuntu, то <span class="app">flashplugin-installer</span>, вероятно, у вас уже установлен. Если нет, можно <span class="link"><a href="https://apps.ubuntu.com/cat/applications/flashplugin-installer" title="https://apps.ubuntu.com/cat/applications/flashplugin-installer">установить его</a></span> и перезапустить браузер.</p></div></div>
+<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox.
+ <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Install the package</a></span> and restart your browser.</p></div></div>
 </div></div>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>
@@ -89,7 +92,7 @@
 <p class="p">Пакет <span class="app">adobe-flashplugin</span> содержит расширения обоих типов (NPAPI  и PPAPI), то есть предоставляет Flash как для браузеров типа Firefox, так и типа Chromium.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Убедитесь, что <span class="link"><a href="addremove-sources.html.ru#canonical-partner" title="Активация репозитория «Партнёры Canonical»">репозиторий «Партнёры Canonical» подключен</a></span>.</p></li>
-<li class="steps"><p class="p">Установите пакет <span class="link"><a href="https://apps.ubuntu.com/cat/applications/adobe-flashplugin" title="https://apps.ubuntu.com/cat/applications/adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
+<li class="steps"><p class="p">Установите пакет <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
 <li class="steps"><p class="p">Перезапустите браузер.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -130,7 +133,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

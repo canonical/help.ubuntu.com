@@ -80,14 +80,8 @@
 <p class="p">Uz skārienpaliktņiem, kuri atbalsta vairāku pirkstu sitienus, tu vari uzsist ar 3 pirkstiem reizē lai veiktu vidējo klikšķi. Jums ir <span class="link"><a href="mouse-touchpad-click.html.lv" title="Spiediet, velciet vai ritiniet ar skārienpaliktni">jāieslēdz klikšķi ar uzsitienu</a></span> sava skārienpaliktņa iestatījumos, lai tas strādātu.</p>
 <p class="p">Daudzas lietotnes izmanto vidējo klikšķi dažām klikšķināšanas saīsnēm.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
-  window for an application with middle-click. Simply middle-click on the
-  application’s icon, either in the dash on the left, or in the applications
-  overview. The applications overview is displayed using the grid button in the
-  dash.</p></li>
-<li class="list"><p class="p">Most web browsers allow you to open links in tabs quickly with the
-  middle mouse button. Just click any link with your middle mouse button, and
-  it will open in a new tab.</p></li>
+<li class="list"><p class="p"><span class="gui">Aktivitātes</span> pārskatā, jūs varat ātri atvērt jaunu logu katrai lietotnei ar vidējo klikšķi. Vienkārši veic vidējo klikšķi uz lietotnes ikonas panelī pa kreisi vai lietotņu pārskatā. Lietotņu pārskats tiek attēlots, izmantojot režģa pogu panelī.</p></li>
+<li class="list"><p class="p">Vairums tīmekļa pārlūku ļauj jums atvērt saites jaunās cilnēs ar vidējo klikšķi Vienkārši nospied uz jebkuras saites ar vidējo klikšķi un tā atvērs jaunu cilni.</p></li>
 <li class="list"><p class="p">Datņu pārvaldniekā vidējam klikšķim ir divas lomas. Ja veiksi vidējo klikšķi uz mapes, tā atvērsies jaunā cilnē. Tas imitē interneta pārlūku darbību. Ja veiksi vidējo klikšķi uz datnes, tas atvērs šo datni tā pat, kā ja būtu veicis dubultklikšķi.</p></li>
 </ul></div></div></div>
 <p class="p">Dažas specializētas lietotnes ļauj izmantot vidējo klikšķi dažādām citām funkcijām. Meklē savas lietotnes dokumentāciju par <span class="em">vidējo klikšķi</span> vai <span class="em">vidējo peles pogu</span>.</p>
@@ -111,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

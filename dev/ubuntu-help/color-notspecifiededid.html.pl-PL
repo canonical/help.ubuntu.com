@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why don’t the default monitor profiles have a calibration expiry?</title>
+<title>Dlaczego kalibracja domyślnego profilu monitora nie wygasa?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,54 +65,43 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » <a class="trail" href="color-why-calibrate.html.pl-PL" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » <a class="trail" href="color-why-calibrate.html.pl-PL" title="Dlaczego należy samodzielnie przeprowadzić kalibrację?">Dlaczego należy samodzielnie przeprowadzić kalibrację?</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » <a class="trail" href="color-gettingprofiles.html.pl-PL" title="Where do I get color profiles?">Where do I get color profiles?</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » <a class="trail" href="color-gettingprofiles.html.pl-PL" title="Skąd wziąć profile kolorów?">Skąd wziąć profile kolorów?</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » <a class="trail" href="color-why-calibrate.html.pl-PL" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#calibration" title="Kalibracja">Kalibracja</a> » <a class="trail" href="color-why-calibrate.html.pl-PL" title="Dlaczego należy samodzielnie przeprowadzić kalibrację?">Dlaczego należy samodzielnie przeprowadzić kalibrację?</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » <a class="trail" href="color-gettingprofiles.html.pl-PL" title="Where do I get color profiles?">Where do I get color profiles?</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » <a class="trail" href="color-gettingprofiles.html.pl-PL" title="Skąd wziąć profile kolorów?">Skąd wziąć profile kolorów?</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Dlaczego kalibracja domyślnego profilu monitora nie wygasa?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    The default color profile used for each monitor is generated
-    automatically based on the display 
-    <span class="link"><a href="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data" title="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data">
-    EDID</a></span> which is stored in a memory chip inside the monitor.
-    The EDID only gives us a snapshot of the available colors the monitor
-    was capable of displaying when it was manufactured, and does not
-    contain much other information for color correction.
-  </p>
+<p class="p">Domyślny profil kolorów używany dla każdego monitora jest automatycznie tworzony na podstawie danych <span class="link"><a href="https://pl.wikipedia.org/wiki/EDID" title="https://pl.wikipedia.org/wiki/EDID">EDID</a></span> ekranu, które są przechowywane w układzie pamięci wewnątrz monitora. Dane EDID zapewniają tylko wycinek dostępnych kolorów, jakie monitor był w stanie wyświetlać, kiedy został wyprodukowany, ale nie zawierają wiele informacji o korekcie kolorów.</p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Wyświetla obrazy w zwykłym rozmiarze" data-zoom-out-title="Zmniejsza obrazy"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-profile-default.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">As the EDID cannot be updated, it has no expiry date.</div>
+<div class="desc">Jako że danych EDID nie można zmienić, profil nie ma daty wygaśnięcia.</div>
 </div>
 </div></div>
-<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      Getting a profile from the monitor vendor or creating a profile
-      yourself would lead to more accurate color correction.
-    </p></div></div></div></div>
+<div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Użycie profilu od dostawcy monitora lub utworzenie profilu samodzielnie zapewnia dokładniejszą korekcję kolorów.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul>
+<li class="links ">
+<a href="color-why-calibrate.html.pl-PL" title="Dlaczego należy samodzielnie przeprowadzić kalibrację?">Dlaczego należy samodzielnie przeprowadzić kalibrację?</a><span class="desc"> — Kalibracja jest ważna, jeśli wyświetlane lub drukowane kolory mają być właściwe.</span>
+</li>
 <li class="links "><a href="color.html.pl-PL#problems" title="Problemy">Problemy</a></li>
 <li class="links ">
-<a href="color-gettingprofiles.html.pl-PL" title="Where do I get color profiles?">Where do I get color profiles?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>
-</li>
-<li class="links ">
-<a href="color-why-calibrate.html.pl-PL" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
+<a href="color-gettingprofiles.html.pl-PL" title="Skąd wziąć profile kolorów?">Skąd wziąć profile kolorów?</a><span class="desc"> — Profile kolorów są dostępne u dostawców oraz można je tworzyć samodzielnie.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -124,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

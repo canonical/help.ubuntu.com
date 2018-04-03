@@ -64,36 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » <a class="trail" href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » <a class="trail" href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencje podglądu menedżera plików</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The file manager creates thumbnails to preview image, video, and text
-files. Thumbnail previews can be slow for large files or over networks, so
-you can control when previews are made. Click <span class="gui">Files</span> in the top bar,
-pick <span class="gui">Preferences</span> and select the <span class="gui">Preview</span> tab.</p>
+<p class="p">Menedżer plików tworzy miniatury, aby móc wyświetlać podgląd obrazów, filmów i plików tekstowych. Tworzenie miniatur może być wolne w przypadku dużych plików lub przez sieć, więc można zmienić, kiedy są tworzone. Kliknij <span class="gui">Pliki</span> na górnym pasku, wybierz <span class="gui">Preferencje</span> i kartę <span class="gui">Podgląd</span>.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Pliki</span></dt>
 <dd class="terms">
-<p class="p">By default, all previews are done for <span class="gui">Local Files Only</span>, those
-    on your computer or connected external drives. You can set this feature to
-    <span class="gui">Always</span> or <span class="gui">Never</span>. The file manager can
-    <span class="link"><a href="nautilus-connect.html.pl-PL" title="Browse files on a server or network share">browse files on other computers</a></span> over
-    a local area network or the internet. If you often browse files over a local
-    area network, and the network has high bandwidth, you may want to set the
-    preview option to <span class="gui">Always</span>.</p>
-<p class="p">In addition, you can use the <span class="gui">Only for files smaller than</span>
-    setting to limit the size of files previewed.</p>
+<p class="p">Domyślnie wszystkie miniatury są tworzone tylko dla plików lokalnych, tych na komputerze i podłączonych dyskach zewnętrznych. Można ustawić tę funkcję na <span class="gui">Zawsze</span> lub <span class="gui">Nigdy</span>. Menedżer plików może <span class="link"><a href="nautilus-connect.html.pl-PL" title="Przeglądanie plików na serwerze lub udziale sieciowym">przeglądać pliki na innych komputerach</a></span> przez sieć lokalną lub Internet. Jeśli często przeglądane są pliki w sieci lokalnej lub sieć ma dużą wydajność, to można ustawić tworzenie miniatur na opcję <span class="gui">Zawsze</span>.</p>
+<p class="p">Oprócz tego można użyć ustawienia <span class="gui">Tylko dla plików mniejszych niż</span>, aby ograniczyć rozmiar plików, dla których tworzone są miniatury.</p>
 </dd>
 <dt class="terms"><span class="gui">Katalogi</span></dt>
-<dd class="terms"><p class="p">If you show file sizes in <span class="link"><a href="nautilus-list.html.pl-PL" title="Files list columns preferences">list view columns</a></span>
-    or <span class="link"><a href="nautilus-display.html.pl-PL#icon-captions" title="Podpisy ikon">icon captions</a></span>, folders will
-    be shown with a count of how many files and folders they contain. Counting items
-    in a folder can be slow, especially for very large folders, or over a network.
-    You can turn this feature on or off, or turn it on only for files on your
-    computer and local external drives.</p></dd>
+<dd class="terms"><p class="p">Jeśli wyświetlane są rozmiary plików w <span class="link"><a href="nautilus-list.html.pl-PL" title="Preferencje kolumn listy plików">kolumnach widoku listy</a></span> lub <span class="link"><a href="nautilus-display.html.pl-PL#icon-captions" title="Podpisy ikon">podpisach ikon</a></span>, to katalogi będą wyświetlane z liczbą plików i katalogów w nich zawartych. Obliczanie liczby elementów w katalogu może być wolne, zwłaszcza w przypadku bardzo dużych katalogów lub przez sieć. Można włączyć lub wyłączyć tę funkcję, albo włączyć ją tylko dla plików na komputerze i lokalnych dyskach zewnętrznych.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -102,14 +87,13 @@ pick <span class="gui">Preferences</span> and select the <span class="gui">Previ
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików">Preferencje menedżera plików</a><span class="desc"> — Wyświetlanie i ustawianie preferencji menedżera plików.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-preview.html.pl-PL" title="Podgląd plików i katalogów">Podgląd plików i katalogów</a><span class="desc"> — Quickly show and hide previews for documents, images, videos, and
-    more.</span>
+<a href="files-preview.html.pl-PL" title="Podgląd plików i katalogów">Podgląd plików i katalogów</a><span class="desc"> — Szybkie wyświetlanie i ukrywanie podglądu dokumentów, obrazów, filmów i nie tylko.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -121,7 +105,7 @@ pick <span class="gui">Preferences</span> and select the <span class="gui">Previ
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

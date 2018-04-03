@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I hear crackling or buzzing when sounds are playing</title>
+<title>Słychać trzaski lub szumy podczas odtwarzania dźwięku</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,39 +65,29 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="media.html.pl-PL#sound" title="Dźwięk">Dźwięk</a> » <a class="trail" href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="media.html.pl-PL#sound" title="Dźwięk">Dźwięk</a> » <a class="trail" href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I hear crackling or buzzing when sounds are playing</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Słychać trzaski lub szumy podczas odtwarzania dźwięku</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you hear crackling or buzzing when sounds are playing on your computer,
- you may have a problem with the audio cables or connectors, or a problem with
- the drivers for the sound card.</p>
+<p class="p">Jeśli podczas odtwarzania dźwięku na komputerze słychać trzaski lub szumy, to może występować problem z kablami lub złączami audio, albo problem ze sterownikami karty dźwiękowej.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Check that the speakers are plugged in correctly.</p>
-<p class="p">If the speakers are not fully plugged in, or if they are plugged into the
-  wrong socket, you might hear a buzzing sound.</p>
+<p class="p">Sprawdź, czy głośniki są poprawnie podłączone.</p>
+<p class="p">Jeśli głośniki nie są całkowicie podłączone lub są podłączone do niewłaściwego gniazda, to można usłyszeć szumy.</p>
 </li>
 <li class="list">
-<p class="p">Make sure the speaker/headphone cable is not damaged.</p>
-<p class="p">Audio cables and connectors can gradually wear with use. Try plugging the
-  cable or headphones into another audio device (like an MP3 player or a CD
-  player) to check if there is still a crackling sound. If there is, you may need
-  to replace the cable or headphones.</p>
+<p class="p">Upewnij się, że kabel głośników/słuchawek nie jest uszkodzony.</p>
+<p class="p">Kable i złącza audio często z czasem się psują. Spróbuj podłączyć kabel lub słuchawki do innego urządzenia dźwiękowego (takiego jak odtwarzacz MP3 lub płyt CD), aby sprawdzić, czy nadal słychać trzaski. Jeśli tak, to należy wymienić kabel lub słuchawki.</p>
 </li>
 <li class="list">
-<p class="p">Check if the sound drivers are not very good.</p>
-<p class="p">Some sound cards do not work very well on Linux because they do not have very
-  good drivers. This problem is more difficult to identify. Try searching for
-  the make and model of your sound card on the internet, plus the search term
-  “Linux”, to see if other people are having the same problem.</p>
-<p class="p">You can use the <span class="cmd">lspci</span> command to get more information about your
-  sound card.</p>
+<p class="p">Sprawdź, czy sterowniki dźwiękowe nie są słabej jakości.</p>
+<p class="p">Niektóre karty dźwiękowe nie działają zbyt dobrze w systemie Linux, ponieważ nie mają zbyt dobrych sterowników. Ten problem jest trudniejszy do zidentyfikowania. Spróbuj poszukać informacji o producencie i modelu karty dźwiękowej w Internecie, razem ze słowem „Linux”, aby zobaczyć, czy inni mają ten sam problem.</p>
+<p class="p">Można użyć polecenia <span class="cmd">lspci</span>, aby uzyskać więcej informacji o karcie dźwiękowej.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -106,8 +96,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
-    quality.</span>
+<a href="sound-broken.html.pl-PL" title="Problemy z dźwiękiem">Problemy z dźwiękiem</a><span class="desc"> — Rozwiązywanie problemów, takich jak brak dźwięku lub jego słaba jakość.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -118,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

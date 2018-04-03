@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="contacts.html.nl" title="Contacten">Contacten</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="contacts.html.nl" title="Contacten">Contacten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Met uw contact verbinden</span></h1></div>
@@ -73,11 +73,10 @@
 <p class="p">Om een e-mail te sturen naar, te chatten of te telefoneren met iemand in <span class="app">Contacten</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Kies een contactpersoon uit uw contactenlijst</p></li>
-<li class="steps"><p class="p">Klik op het <span class="em">kenmerk</span> dat u wil gebruiken. Bijvoorbeeld, als u uw contactpersoon wilt e-mailen, klikt u op het e-mailadres.</p></li>
-<li class="steps"><p class="p">The corresponding application will be launched using the contact’s
-      details.</p></li>
+<li class="steps"><p class="p">Klik op het <span class="em">detail</span> dat u wil gebruiken. Bijvoorbeeld, als u uw contactpersoon wilt e-mailen, klikt u op het e-mailadres.</p></li>
+<li class="steps"><p class="p">De bijbehorende toepassing zal gestart worden met de gegevens van het contact.</p></li>
 </ol></div></div></div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als er geen toepassing beschikbaar is voor het kenmerk dat u wilt gebruiken, kunt u het niet selecteren.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als er geen toepassing beschikbaar is voor het detail dat u wilt gebruiken, kunt u het niet selecteren.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -95,7 +94,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -75,28 +75,19 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-web-browser1-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Move your mouse pointer to the <span class="gui">Activities</span> corner at
-      the top left of the screen to show the <span class="gui">Activities Overview</span>.
-      </p></li>
-<li class="steps"><p class="p">Select the <span class="app">Firefox</span> browser icon from the bar on the
-      left-hand side of the screen.</p></li>
+<li class="steps"><p class="p">Siirrä hiiren osoitin näytön vasemman yläreunan <span class="gui">Toiminnot</span>-kulmaan avataksesi <span class="gui">Toiminnot-yleisnäkymän</span>.</p></li>
+<li class="steps"><p class="p">Valitse <span class="app">Firefox</span>-selaimen kuvake näytön vasemman reunan palkista.</p></li>
 </ol></div></div></div>
 <div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">Vaihtoehtoisesti voit käynnistää selaimen <span class="link"><a href="gs-use-system-search.html.fi" title="Käytä hakua">kirjoittamalla</a></span> <span class="em">Firefox</span> <span class="gui">Toiminnot-yleisnäkymässä</span>.</p></div></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-web-browser2-firefox.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
-<li class="steps"><p class="p">Click the address bar at the top of the browser window and start
-       typing in the website you want to visit.</p></li>
+<li class="steps"><p class="p">Napsauta osoitepalkkia selainikkunan yläosassa ja aloita haluamasi verkkosivun osoitteen kirjoittaminen.</p></li>
 <li class="steps">
-<p class="p">Typing in a website starts searching for it in the
-       browser history and bookmarks, so you do not need to remember the exact
-        address.</p>
-<p class="p">If the website is found in the history or bookmarks, a drop-down list
-         is shown below the address bar.</p>
+<p class="p">Verkkosivun kirjoittamisen myötä selain alkaa etsiä selaushistoriaa ja kirjanmerkkejä, joten sinun ei tarvitse muistaa sivun tarkkaa osoitetta.</p>
+<p class="p">Jos verkkosivu löytyy selaushistoriasta tai kirjanmerkeistä, pudotusvalikko ilmestyy osoitepalkin alapuolelle.</p>
 </li>
-<li class="steps"><p class="p">From the drop-down list, you can quickly select a website
-       using the arrow keys.</p></li>
-<li class="steps"><p class="p">After you have selected a website, press <span class="key"><kbd>Enter</kbd></span> to
-       visit it.</p></li>
+<li class="steps"><p class="p">Voit valita verkkosivun pudotusvalikosta nopeasti käyttämällä nuolinäppäimiä.</p></li>
+<li class="steps"><p class="p">Kun olet valinnut verkkosivun, paina <span class="key"><kbd>Enter</kbd></span> siirtyäksesi kyseiselle sivulle.</p></li>
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
@@ -114,7 +105,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.fi" title="Selaimet">Selaimet</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.fi" title="Change which web browser opens websites by default">Vaihda oletusselainta</a></span>, <span class="link"><a href="net-install-flash.html.fi" title="Flash-lisäosan asentaminen">asenna Flash</a></span>…</span>
+<a href="net-browser.html.fi" title="Selaimet">Selaimet</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.fi" title="Vaihda verkkosivut oletuksena avaavaa verkkoselainta">Vaihda oletusselainta</a></span>, <span class="link"><a href="net-install-flash.html.fi" title="Flash-lisäosan asentaminen">asenna Flash</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -126,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

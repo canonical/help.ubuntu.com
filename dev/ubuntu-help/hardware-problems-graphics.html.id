@@ -72,12 +72,11 @@
 <div class="contents">
 <p class="p">Most problems with the display are caused by issues with graphics drivers or configuration. Which of the topics below best describes the problem you are experiencing?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.id" title="Atur kecerahan layar"><span class="title">Atur kecerahan layar</span><span class="linkdiv-dash"> — </span><span class="desc">Ubah kecerahan layar agar layar lebih mudah dibaca saat berada di cahaya yang terang.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.id" title="Atur waktu pengosongan layar"><span class="title">Atur waktu pengosongan layar</span><span class="linkdiv-dash"> — </span><span class="desc">Ubah waktu mengosongkan layar untuk menghemat daya.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.id" title="Mengapa berbagai hal terlihat kabur/kotak-kotak pada layar saya?"><span class="title">Mengapa berbagai hal terlihat kabur/kotak-kotak pada layar saya?</span><span class="linkdiv-dash"> — </span><span class="desc">Resolusi layar mungkin tak ditata secara benar.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?"><span class="title">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?"><span class="title">Mengapa layar saya meredup setelah beberapa saat?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.id" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.id" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
-    light.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.id" title="The screen locks itself too quickly"><span class="title">The screen locks itself too quickly</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.id" title="Komputer saya tak bisa menyala"><span class="title">Komputer saya tak bisa menyala</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
@@ -97,7 +96,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

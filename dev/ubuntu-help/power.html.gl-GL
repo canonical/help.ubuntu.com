@@ -75,28 +75,27 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-status.html.gl-GL" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.gl-GL" title="Como hibernar o meu computador?"><span class="title">Como hibernar o meu computador?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernar está desactivado de xeito predeterminado porque non é compatíbel por completo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.gl-GL" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-status.html.gl-GL" title="Comprobe o estado da batería"><span class="title">Comprobe o estado da batería</span><span class="linkdiv-dash"> — </span><span class="desc">Mostrar o estado da batería e os dispositivos conectados.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.gl-GL" title="Desactivar as tecnoloxías sen fíos se uso"><span class="title">Desactivar as tecnoloxías sen fíos se uso</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.gl-GL" title="Porque se apaga o meu computador cando pecha a tapa?"><span class="title">Porque se apaga o meu computador cando pecha a tapa?</span><span class="linkdiv-dash"> — </span><span class="desc">Os portátiles suspéndense cando se pecha a tapa para aforrar enerxía.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?"><span class="title">Que acontece cando suspendo o meu computador?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspender pon o seu computador a durmir para que use menos enerxía.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.gl-GL" title="Que acontece cando suspendo o meu computador?"><span class="title">Que acontece cando suspendo o meu computador?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspender pon o seu computador a durmir para que use menos enerxía.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.gl-GL" title="Sacar o máximo partido da batería do seu portátil"><span class="title">Sacar o máximo partido da batería do seu portátil</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.gl-GL" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.gl-GL" title="Sacar o máximo partido da batería do seu portátil"><span class="title">Sacar o máximo partido da batería do seu portátil</span><span class="linkdiv-dash"> — </span><span class="desc">Consellos como «Non deixe que a súa batería se descargue demasiado».</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.gl-GL" title="Saír da sesión, apagar e trocar de usuarios"><span class="title">Saír da sesión, apagar e trocar de usuarios</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como saír da súa conta de usuario, saíndo a sesión, cambiando de usuario, etc.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.gl-GL" title="Use menos enerxía para mellorar a vida da súa batería"><span class="title">Use menos enerxía para mellorar a vida da súa batería</span><span class="linkdiv-dash"> — </span><span class="desc">Consellos para reducir o consumo de enerxía do seu computador.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="saving" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Power saving settings</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Preferencias de enerxía</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.gl-GL" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?"><span class="title">Porqué a pantalla escurece logo duns segundos?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.gl-GL" title="Configurar a suspensión automática"><span class="title">Configurar a suspensión automática</span><span class="linkdiv-dash"> — </span><span class="desc">Configure o seu computador para suspendelo automaticamente.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.gl-GL" title="Estabelecer o brillo automático"><span class="title">Estabelecer o brillo automático</span><span class="linkdiv-dash"> — </span><span class="desc">Controlar automaticamente o brillo da pantalla para reducir o uso de batería.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.gl-GL" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.gl-GL" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.gl-GL" title="Estabelecer o tempo para apagar a pantalla"><span class="title">Estabelecer o tempo para apagar a pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar o tempo de espera para poñer apagar a pantalla para aforrar enerxía.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.gl-GL" title="Porqué a pantalla escurece logo duns segundos?"><span class="title">Porqué a pantalla escurece logo duns segundos?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

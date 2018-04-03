@@ -76,12 +76,11 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.hu" title="Akkumulátorállapot ellenőrzése"><span class="title">Akkumulátorállapot ellenőrzése</span><span class="linkdiv-dash"> — </span><span class="desc">Az akkumulátor és a csatlakoztatott eszközök állapotának megjelenítése.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.hu" title="Hogyan hibernálhatom a számítógépet?"><span class="title">Hogyan hibernálhatom a számítógépet?</span><span class="linkdiv-dash"> — </span><span class="desc">A hibernálás alapesetben le van tiltva, mert nem elég jó a támogatása.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.hu" title="Hozza ki a legtöbbet a laptopja akkumulátorából"><span class="title">Hozza ki a legtöbbet a laptopja akkumulátorából</span><span class="linkdiv-dash"> — </span><span class="desc">Tippek, úgy mint „Ne hagyja az akkumulátort túlságosan lemerülni”.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.hu" title="Kevesebb energia használata és az akkumulátoros üzemidő javítása"><span class="title">Kevesebb energia használata és az akkumulátoros üzemidő javítása</span><span class="linkdiv-dash"> — </span><span class="desc">Tippek a számítógép áramfogyasztásának csökkentéséhez.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.hu" title="Kijelentkezés, kikapcsolás vagy felhasználóváltás"><span class="title">Kijelentkezés, kikapcsolás vagy felhasználóváltás</span><span class="linkdiv-dash"> — </span><span class="desc">A felhasználói fiók elhagyása kijelentkezéssel, felhasználóváltással stb.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.hu" title="Kijelentkezés, kikapcsolás vagy felhasználóváltás"><span class="title">Kijelentkezés, kikapcsolás vagy felhasználóváltás</span><span class="linkdiv-dash"> — </span><span class="desc">A felhasználói fiók elhagyása kijelentkezéssel, felhasználóváltással stb.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.hu" title="Mi történik a számítógép felfüggesztésekor?"><span class="title">Mi történik a számítógép felfüggesztésekor?</span><span class="linkdiv-dash"> — </span><span class="desc">A felfüggesztés alvó állapotba helyezi számítógépét, így az kevesebb energiát használ.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.hu" title="Miért kapcsol ki a számítógépem, amikor lezárom a fedelét?"><span class="title">Miért kapcsol ki a számítógépem, amikor lezárom a fedelét?</span><span class="linkdiv-dash"> — </span><span class="desc">A laptopok az energiafelhasználás csökkentése érdekében alvó állapotba kerülnek, amikor lezárja a fedelüket.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.hu" title="Nem használt vezeték nélküli technológiák kikapcsolása"><span class="title">Nem használt vezeték nélküli technológiák kikapcsolása</span><span class="linkdiv-dash"> — </span><span class="desc">Kikapcsolható a Bluetooth, Wi-Fi és a mobil széles sáv az akkumulátorhasználat csökkentéséhez.</span></a></div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

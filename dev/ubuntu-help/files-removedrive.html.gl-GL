@@ -72,10 +72,9 @@
 <div class="contents">
 <p class="p">Cando use dispositivos de almacenamento externo, como memorias USB ou similares, deberá extraelos con seguranza antes de desconectalos. Se simplemente desconecta o dispositivo, corre o risco de facelo cando o aplicativo aínda o está usando. Isto podería provocar que algúns dos seus ficheiros se perdan ou se danen. Cando use un disco óptico como un CD ou DVD, poderá seguir estes mesmos pasos para expulsar o disco do seu computador.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Formatar un disco extraíbel</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Formatar un disco extraíbel:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">From the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview,
-      open <span class="app">Files</span>.</p></li>
+<li class="steps"><p class="p">Desde a vista <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> abra <span class="app">Ficheiros</span>.</p></li>
 <li class="steps">
 <p class="p">Localizar o dispositivo na barra lateral. Debería ter unha icona de extracción pequena ao carón do nome. Prema a icona de extracción para quitar de forma segura ou extraer o dispositivo.</p>
 <p class="p">Logo prema co botón dereito sobre un espazo en branco e seleccione <span class="gui">pegar</span>.</p>
@@ -110,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

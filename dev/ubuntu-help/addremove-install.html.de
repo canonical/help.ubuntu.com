@@ -64,25 +64,31 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zusätzliche Anwendungen installieren</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Eine Anwendung ist Software mit einer grafischen Benutzungsoberfläche (GUI). Das Ubuntu-Entwicklungsteam hat eine Vorauswahl von Anwendungen getroffen, von denen es glaubt, dass sie Ubuntu sehr praktisch für die meisten täglichen Aufgaben machen. Vermutlich werden Sie weitere Anwendungen installieren wollen, um Ubuntu an Ihre Bedürfnisse anzupassen. Zur Installation von Programmen können Sie <span class="app">Ubuntu Software</span> verwenden.</p>
-<p class="p">Anwendung stehen in zwei Formaten zur Verfügung: als Snap-Pakete and als Debian-Pakete. Eine Anwendung, die als Snap-Paket zur Verfügung steht, wird von nun an als <span class="em">Snap</span> bezeichnet. Um einen Snap zu installieren (oder zu entfernen), müssen Sie sich bei Snap Store/Ubuntu One anmelden. Einige Anwendungen sind in beiden Formaten erhältlich. In solchen Fällen wird in <span class="app">Ubuntu Software</span> der Snap als erstes aufgelistet.</p>
+<p class="p">
+    Applications are available in two formats: snap packages and Debian packages.
+    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
+    Some applications are available in both formats. In such a case in
+    <span class="app">Ubuntu Software</span> the snap will be listed first.
+   </p>
 <p class="p">Falls Sie Anwendungen installieren wollen, die keine graphische Oberfläche besitzen, können Sie <span class="link"><a href="addremove-install-synaptic.html.de" title="Synaptic zur erweiterten Anwendungsverwaltung nutzen">Synaptic</a></span> benutzen. Beachten Sie, dass <span class="app">Synaptic</span> keine Snaps anzeigt.</p>
 <p class="p">Zur Installation einer Anwendung:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Klicken Sie auf das <span class="app">Ubuntu Software</span> Symbol im <span class="gui">Dock</span>, oder suchen Sie nach <span class="input">Software</span> in der <span class="em">Aktivitäten</span> Suchleiste.</p></li>
 <li class="steps"><p class="p">Sobald <span class="app">Ubuntu Software</span> gestartet ist, suchen Sie nach einer Anwendung, wählen Sie eine Kategorie oder eine Anwendung aus der Liste.</p></li>
 <li class="steps"><p class="p">Wählen Sie die Anwendung aus, die Sie installieren wollen und klicken Sie auf <span class="gui">Installieren</span>.</p></li>
-<li class="steps"><p class="p">Falls Sie einen Snap installieren wollen, melden Sie sich bei Snap Store/Ubuntu One an.</p></li>
-<li class="steps"><p class="p">Sie werden nach Ihrem Passwort gefragt (dies ist Ihr Benutzerpasswort, nicht Ihr Snap Store/Ubuntu One Passwort). Nachdem Sie es eingegeben haben, startet die Installation. Die Installation verläuft gewöhnlicherweise schnell, es kann aber eine Weile dauern, falls Sie eine langsame Internetverbindung haben.</p></li>
+<li class="steps"><p class="p">
+        You will be asked to authenticate by entering your password. 
+        Once you have done that the installation will begin. 
+        The installation usually finishes quickly, but could take a while if you 
+        have a slow Internet connection.
+      </p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -117,7 +123,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

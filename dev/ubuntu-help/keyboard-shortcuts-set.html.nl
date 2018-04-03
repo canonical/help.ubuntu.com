@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -441,7 +441,7 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Toggle shaded state</p></td>
+<td style="border-top-style: solid;"><p class="p">Schaduw in- en uitschakelen</p></td>
 <td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
@@ -461,19 +461,19 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Toggle window on all workspaces or one</p></td>
+<td style="border-top-style: solid;"><p class="p">Van venster wisselen op alle werkbladen of slechts één</p></td>
 <td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Raise window if covered, otherwise lower it</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster naar voren halen als het bedekt is, anders naar achteren</p></td>
 <td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Raise window above other windows</p></td>
+<td style="border-top-style: solid;"><p class="p">Vensters boven andere vensters plaatsen</p></td>
 <td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Lower window below other windows</p></td>
+<td style="border-top-style: solid;"><p class="p">Venster onder andere vensters plaatsen</p></td>
 <td style="border-top-style: solid;"><p class="p">Uitgeschakeld</p></td>
 </tr>
 <tr>
@@ -500,22 +500,13 @@
 <div id="custom" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Aangepaste sneltoetsen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To create your own application keyboard shortcut in the
-  <span class="app">Keyboard</span> settings:</p>
+<p class="p">Uw eigen sneltoetsen definiëren in de <span class="gui">Toetsenbord</span>instellingen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button. The <span class="gui">Custom
-      Shortcut</span> window will appear.</p></li>
-<li class="steps"><p class="p">Type a <span class="gui">Name</span> to identify the shortcut, and a
-      <span class="gui">Command</span> to run an application, then click <span class="gui">Add</span>.
-      For example, if you wanted the shortcut to open <span class="app">Rhythmbox</span>, you
-      could name it <span class="input">Music</span> and use the <span class="input">rhythmbox</span>
-      command.</p></li>
+<li class="steps"><p class="p">Klik op de knop <span class="gui">+</span>. Het venster <span class="gui">Aangepaste sneltoets</span> zal verschijnen.</p></li>
+<li class="steps"><p class="p">Typ een <span class="gui">naam</span> in voor de sneltoets en een <span class="gui">opdracht</span> om de toepassing uit te voeren; klik vervolgens op <span class="gui">Toepassen</span>.  Als u bijvoorbeeld wilt dat de sneltoets <span class="app">Rhythmbox</span> opent, dan zou u bij Naam <span class="input">Muziek</span> kunnen opgeven en bij Opdracht de <span class="input">rhythmbox</span>-opdracht.</p></li>
 <li class="steps"><p class="p">Klik in de zojuist toegevoegde rij op <span class="gui">Uitgeschakeld</span>. Wanneer dit verandert in <span class="gui">Nieuwe sneltoets...</span> drukt u op de gewenste toetsencombinatie.</p></li>
 </ol></div></div></div>
-<p class="p">The command name that you type should be a valid system command. You can
-  check that the command works by opening a Terminal and typing it in there.
-  The command that opens an application cannot have the same name as the
-  application itself.</p>
+<p class="p">De naam van de opdracht die u typt moet een geldige systeemopdracht zijn. U kunt controleren of de opdracht werkt door het terminalvenster te openen en het daar in te typen. De opdracht die een toepassing opent hoeft niet exact dezelfde naam te hebben als de toepassing zelf.</p>
 <p class="p">Als u de opdracht die geassocieerd is met een aangepaste sneltoets wilt wijzigen, dubbelklik dan op de <span class="em">naam</span> van de sneltoets. Het venster <span class="gui">Aangepaste sneltoets</span> zal verschijnen en u kunt de opdracht bewerken.</p>
 </div></div>
 </div></div>
@@ -525,11 +516,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Toetsenbordindelingen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">knipperen van de cursor</a></span>, <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">toetsenbordtoegankelijkheid</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -547,7 +534,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="accounts.html.cs" title="Účty on-line">Účty on-line</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="accounts.html.cs" title="Účty on-line">Účty on-line</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Řízení, který účet služby on-line může být použit k přístupu</span></h1></div>
@@ -75,12 +75,12 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Účty on-line</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Účty on-line</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">V seznamu nalevo vyberte účet, ve kterém chcete provést změny.</p></li>
+<li class="steps"><p class="p">V seznamu napravo vyberte účet, ve kterém chcete provést změny.</p></li>
 <li class="steps"><p class="p">Seznam služeb, které jsou dostupné u tohoto účtu bude zobrazen u <span class="gui">Použít pro</span>. Podívejte se na <span class="link"><a href="accounts-which-application.html.cs" title="Služby a aplikace on-line">Služby a aplikace on-line</a></span>, které aplikace přistupují ke kterým účtům.</p></li>
 <li class="steps"><p class="p">Vypněte libovolné služby, které nechcete používat.</p></li>
 </ol></div></div></div>
 <p class="p">Jakmile je služba u účtu zakázaná, aplikace ji již nemohou po připojení k účtu použít.</p>
-<p class="p">Abyste zapnuli službu, kterou jste zakázali, stačí se vrátit do okna <span class="gui">Účty on-line</span> a zapnout ji.</p>
+<p class="p">Abyste zapnuli službu, kterou jste zakázali, stačí se vrátit do panelu <span class="gui">Účty on-line</span> a zapnout ji.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -111,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

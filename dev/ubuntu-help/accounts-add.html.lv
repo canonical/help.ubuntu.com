@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tiešsaistes konti</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Tiešsaistes konti</span>, lai atvērtu paneli.</p></li>
-<li class="steps"><p class="p">Spiediet <span class="gui">+</span> pogu loga apakšējajā kreisajā stūrī.</p></li>
+<li class="steps"><p class="p">Izvēlieties kontu, saraksta pa labi.</p></li>
 <li class="steps"><p class="p">Izvēlieties konta veidu, kuru vēlaties pievienot.</p></li>
 <li class="steps"><p class="p">Mazs tīmekļa vietnes logs vai dialoglodziņš tiks atvērts, kurā jūs varēsiet ievadīt sava tiešsaistes konta akreditācijas datus. Piemēram, ja iestatāt Google kontu, ievadiet savu Google lietotājvārdu un paroli. Daži pakalpojumu sniedzēji jums ļauj veidot jaunu kontu no ierakstīšanās dialoglodziņa.</p></li>
 <li class="steps"><p class="p">Ja esat ievadījis jūsu akreditācijas datus korekti, jums tiks vaicāts atļaut GNOME pieeju jūsu tiešsaistes kontam. Lai turpinātu, sankcionējiet piekļuvi.</p></li>
@@ -99,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

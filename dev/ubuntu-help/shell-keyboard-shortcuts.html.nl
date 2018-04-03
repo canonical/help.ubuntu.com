@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -86,9 +86,7 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> of de <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>-toets</p></td>
-<td><p class="p">Switch between the <span class="gui">Activities</span> overview and desktop. In
-    the overview, start typing to instantly search your applications, contacts,
-    and documents.</p></td>
+<td><p class="p">Ga van het <span class="gui">Activiteiten</span>-overzicht naar het bureaublad. Begin te typen in het overzicht om meteen uw toepassingen, contacten en documenten te doorzoeken.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
@@ -96,56 +94,42 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.nl" title="Schakelen tussen vensters">Quickly switch between
-    windows</a></span>. Hold down <span class="key"><kbd>Shift</kbd></span> for reverse order.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.nl" title="Schakelen tussen vensters">Snel van venster wisselen</a></span>. Houd de <span class="key"><kbd>Shift</kbd></span>-toets ingedrukt voor de omgekeerde volgorde.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
 <td style="border-top-style: solid;">
-<p class="p">Switch between windows from the same application, or from the selected
-      application after <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p>
-<p class="p">This shortcut uses <span class="key"><kbd>`</kbd></span> on US keyboards, where the <span class="key"><kbd>`</kbd></span>
-      key is above <span class="key"><kbd>Tab</kbd></span>. On all other keyboards, the shortcut is
-      <span class="key"><kbd>Super</kbd></span> plus the key above <span class="key"><kbd>Tab</kbd></span>.</p>
+<p class="p">Schakelen tussen vensters van dezelfde toepassing, of van de geselecteerde toepassing na <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p>
+<p class="p">Deze sneltoets gebruikt <span class="key"><kbd>`</kbd></span> op US toetsenborden, waarbij de <span class="key"><kbd>`</kbd></span>-toets zich boven de <span class="key"><kbd>Tab</kbd></span>-toets bevindt. Op alle andere toetsenborden is de sneltoets <span class="key"><kbd>Super</kbd></span> plus wat er zich boven de <span class="key"><kbd>Tab</kbd></span>-toets bevindt.</p>
 </td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Give keyboard focus to the top bar. In the <span class="gui">Activities</span>
-      overview, switch keyboard focus between the top bar, dash, windows
-      overview, applications list, search field, and message tray. Use the
-      arrow keys to navigate.</p></td>
+<td style="border-top-style: solid;"><p class="p">Geef toetsenbordfocus aan de bovenbalk. Wissel in het <span class="gui">Activiteiten</span>-overzicht van toetsenbordfocus tussen de bovenbalk, de starter, het vensteroverzicht, de lijst met toepassingen, het zoekveld en het berichtengebied. Gebruik de pijltjestoetsen om te navigeren.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">De lijst met toepassingen tonen.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">
-      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> or
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span>, and
-      <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span>
-    </p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.nl" title="Wisselen tussen werkbladen">Switch between
-     workspaces</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> or <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span>, en <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.nl" title="Wisselen tussen werkbladen">Wisselen van werkblad</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> and <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.nl" title="Een venster verplaatsen naar een ander werkblad">Move the current window to a
-     different workspace</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.nl" title="Een venster verplaatsen naar een ander werkblad">Het huidige venster naar een ander werkblad verplaatsen</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the left.</p></td>
+<td style="border-top-style: solid;"><p class="p">Huidige venster één scherm naar links verplaatsen.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the right.</p></td>
+<td style="border-top-style: solid;"><p class="p">Huidige venster één scherm naar rechts verplaatsen.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.nl" title="Afmelden, uitschakelen, van gebruiker wisselen">Uitschakelen</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.nl" title="Afmelden, uitschakelen of van gebruiker wisselen">Uitschakelen</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
@@ -153,9 +137,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Open <span class="link"><a href="shell-notifications.html.nl#messagetray" title="Het berichtengebied">the message
-    tray</a></span>. Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> again or
-    <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
+<td style="border-top-style: solid;"><p class="p">Open <span class="link"><a href="shell-notifications.html.nl#messagetray" title="Het berichtengebied">het berichtengebied</a></span>. Druk nogmaals op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> of <span class="key"><kbd>Esc</kbd></span> om het te sluiten.</p></td>
 </tr>
 </table></div>
 </div>
@@ -224,11 +206,7 @@
 </li>
 <li class="links "><a href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a></li>
 <li class="links ">
-<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Toetsenbordindelingen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">knipperen van de cursor</a></span>, <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">toetsenbordtoegankelijkheid</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -242,13 +220,10 @@
 <a href="keyboard-nav.html.nl" title="Toetsenbordnavigatie">Toetsenbordnavigatie</a><span class="desc"> — Toepassingen en het bureaublad gebruiken zonder muis.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html.nl" title="Wat is de Menu-toets?">Wat is de <span class="key"><kbd>Menu</kbd></span>-toets?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
-    rather than with a right-click.</span>
+<a href="keyboard-key-menu.html.nl" title="Wat is de Menu-toets?">Wat is de <span class="key"><kbd>Menu</kbd></span>-toets?</a><span class="desc"> — De <span class="key"><kbd>Menu</kbd></span>-toets opent een contextmenu via het toetsenbord in plaats van een klik met de rechtermuisknop.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?">Wat is de <span class="key"><kbd>Super</kbd></span>-toets?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
-    You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
-    keyboard.</span>
+<a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?">Wat is de <span class="key"><kbd>Super</kbd></span>-toets?</a><span class="desc"> — De <span class="key"><kbd>Super</kbd></span>-toets opent het <span class="gui">Activiteiten</span>-overzicht. U vindt deze meestal naast de <span class="key"><kbd>Alt</kbd></span>-toets op uw toetsenbord.</span>
 </li>
 </ul></div>
 </div></div>
@@ -261,7 +236,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

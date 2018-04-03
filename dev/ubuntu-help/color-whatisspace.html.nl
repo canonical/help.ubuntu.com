@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> › <a class="trail" href="color.html.nl#profiles" title="Kleurprofielen">Kleurprofielen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -86,12 +86,7 @@
 <p class="p">Kijk eerst naar sRGB, dit heeft de kleinste ruimte en kan het minste aantal kleuren coderen. Het is een benadering van een CRT-scherm van tien jaar oud; de meeste moderne schermen kunnen meer kleuren weergeven. sRGB is een <span class="em">least-common-denominator</span>-standaard en wordt gebruikt in een groot aantal toepassingen (inclusief het internet).</p>
 <p class="p">AdobeRGB wordt vaak als <span class="em">editing space</span> gebruikt. Het ondersteunt meer kleuren dan sRGB, wat betekent dat u kleuren van een foto kunt aanpassen zonder dat u bang hoeft te zijn dat de helderste kleuren ‘geclipped’ worden of de donkerste kleuren ‘gecrushed’.</p>
 <p class="p">PhoPhoto is het grootste beschikbare palet en wordt vaak gebruikt voor het archiveren van documenten. Het kan bijna het volledige bereik dat het menselijke oog detecteert coderen, en zelfs kleuren die niet door het oog kunnen worden waargenomen.</p>
-<p class="p">
-    Now, if ProPhoto is clearly better, why don’t we use it for everything?
-    The answer is to do with <span class="em">quantization</span>.
-    If you only have 8 bits (256 levels) to encode each channel, then a
-    larger range is going to have bigger steps between each value.
-  </p>
+<p class="p">Als ProPhoto nou zoveel beter is, waarom gebruiken we het dan niet voor alles? Het antwoord heeft te maken met <span class="em">kwantisering</span>. Als men slechts 8 bits heeft (256 levels) om elk kanaal te coderen, dan heeft een groter bereik ook grotere stappen tussen de waardes.</p>
 <p class="p">Grotere stappen betekent een grotere fout tussen de opgenomen kleur en de opgeslagen kleur, en voor sommige kleuren is dit een groot probleem. Het blijkt dat grondkleuren, net als huidskleuren, erg belangrijk zijn, en zelfs bij kleine fouten zullen  ongetrainde kijkers merken dat er iets mis is met de foto.</p>
 <p class="p">Natuurlijk zal het gebruik van een 16-bits afbeelding veel meer stappen hebben en een veel kleinere kwantisatiefout opleveren, maar dit verdubbelt de grootte van elk afbeeldingsbestand. Vandaag de dag zijn de meeste afbeeldingen 8bpp, dat is 8 bits per pixel.</p>
 <p class="p">Kleurbeheer is een proces voor het converteren van een kleur van een kleurruimte naar een andere, waarbij een kleurruimte een bekende gedefinieerde ruimte zoals sRGB kan zijn, of een aangepaste ruimte zoals een profiel voor uw monitor of printer.</p>
@@ -118,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

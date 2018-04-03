@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,12 +77,15 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Regio &amp; taal</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Alternatieve toetsenbordindelingen gebruiken</a><span class="desc"> — Toetsenbordindelingen toevoegen en tussen indelingen omschakelen</span>
+<a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Alternatieve toetsenbordindelingen gebruiken</a><span class="desc"> — Toetsenbordindelingen toevoegen en verwisselen.</span>
 </li></ul></div>
 </div></div>
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Universele toegang</span></h2></div>
 <div class="region"><ul>
+<li class="links ">
+<a href="keyboard-osk.html.nl" title="Een schermtoetsenbord gebruiken">Een schermtoetsenbord gebruiken</a><span class="desc"> — Een schermtoetsenbord gebruiken om tekst in te voeren door met de muis of aanraken op knoppen te klikken.</span>
+</li>
 <li class="links ">
 <a href="a11y-stickykeys.html.nl" title="Plaktoetsen activeren">Plaktoetsen activeren</a><span class="desc"> — Sneltoetsen op het toetsenbord één voor één indrukken, in plaats van allemaal tegelijk.</span>
 </li>
@@ -96,17 +99,10 @@
 <a href="a11y-slowkeys.html.nl" title="Trage toetsen inschakelen">Trage toetsen inschakelen</a><span class="desc"> — Zorgt voor een vertraging tussen het moment dat een toets ingedrukt wordt, en het moment dat deze letter op het scherm verschijnt.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html.nl" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
-    mouse or a touchscreen.</span>
+<a href="keyboard-key-menu.html.nl" title="Wat is de Menu-toets?">Wat is de <span class="key"><kbd>Menu</kbd></span>-toets?</a><span class="desc"> — De <span class="key"><kbd>Menu</kbd></span>-toets opent een contextmenu via het toetsenbord in plaats van een klik met de rechtermuisknop.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html.nl" title="Wat is de Menu-toets?">Wat is de <span class="key"><kbd>Menu</kbd></span>-toets?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
-    rather than with a right-click.</span>
-</li>
-<li class="links ">
-<a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?">Wat is de <span class="key"><kbd>Super</kbd></span>-toets?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
-    You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
-    keyboard.</span>
+<a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?">Wat is de <span class="key"><kbd>Super</kbd></span>-toets?</a><span class="desc"> — De <span class="key"><kbd>Super</kbd></span>-toets opent het <span class="gui">Activiteiten</span>-overzicht. U vindt deze meestal naast de <span class="key"><kbd>Alt</kbd></span>-toets op uw toetsenbord.</span>
 </li>
 </ul></div>
 </div></div>
@@ -120,7 +116,7 @@
 <a href="shell-keyboard-shortcuts.html.nl" title="Handige sneltoetsen">Handige sneltoetsen</a><span class="desc"> — Door het bureaublad lopen via het toetsenbord.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html.nl" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Voorkom dat het toetsenbord letters herhaalt wanneer u een toets vasthoudt, of wijzig de vertraging en snelheid van herhaaltoetsen.</span>
+<a href="keyboard-repeat-keys.html.nl" title="Herhaald indrukken van een toets beheren">Herhaald indrukken van een toets beheren</a><span class="desc"> — Voorkom dat het toetsenbord letters herhaalt wanneer u een toets vasthoudt, of wijzig de vertraging en snelheid van herhaaltoetsen.</span>
 </li>
 <li class="links ">
 <a href="numeric-keypad.html.nl" title="Numerieke toetsenblok">Numerieke toetsenblok</a><span class="desc"> — Het numerieke toetsenblok standaard inschakelen.</span>
@@ -140,7 +136,7 @@
 <a href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — <span class="link"><a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html.nl" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html.nl" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html.nl" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html.nl" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span>
 </li>
 <li class="links ">
-<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.nl" title="Schijven &amp; opslag">schijven</a></span>...</span>
+<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html.nl" title="disks">schijven</a></span>...</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -152,7 +148,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

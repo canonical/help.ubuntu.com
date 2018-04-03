@@ -82,7 +82,6 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.zh-CN" title="使用很少电源，延长电池寿命"><span class="title">使用很少电源，延长电池寿命</span><span class="linkdiv-dash"> — </span><span class="desc">减少计算机能耗的技巧。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.zh-CN" title="如何让我的电脑休眠？"><span class="title">如何让我的电脑休眠？</span><span class="linkdiv-dash"> — </span><span class="desc">由于休眠功能尚不完善，Ubuntu 默认将其禁用。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.zh-CN" title="挂起或休眠计算机时会发生什么？"><span class="title">挂起或休眠计算机时会发生什么？</span><span class="linkdiv-dash"> — </span><span class="desc">挂起将使您的电脑进入睡眠状态，使用较少的电能。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.zh-CN" title="笔记本电池放电过度"><span class="title">笔记本电池放电过度</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
 </div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

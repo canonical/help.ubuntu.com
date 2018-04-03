@@ -99,7 +99,7 @@
 <p class="p">In summary, administrative privileges allow you to change important parts
   of your system when needed, but prevent you from doing it accidentally.</p>
 <div class="note" title="Nota"><div class="inner">
-<div class="title title-note"><h2><span class="title">What does “super user” mean?</span></h2></div>
+<div class="title title-note"><h2><span class="title">Que significa «super usuario»?</span></h2></div>
 <div class="region"><div class="contents"><p class="p">A user with administrative privileges is sometimes called a <span class="em">super
     user</span>. This is simply because that user has more privileges than normal
     users. You might see people discussing things like <span class="cmd">su</span> and
@@ -108,7 +108,7 @@
 </div></div>
 </div>
 <div id="advantages" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Why are administrative privileges useful?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Por que son os privilexios de administración útiles?</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Requiring users to have administrative privileges before important system
   changes are made is useful because it helps to prevent your system from being
@@ -155,7 +155,7 @@
 <a href="printing-setup-default-printer.html.gl-GL" title="Estabelecer a impresora predeterminada">Estabelecer a impresora predeterminada</a><span class="desc"> — Seleccionar a impresora que usa máis frecuentemente.</span>
 </li>
 <li class="links ">
-<a href="net-othersedit.html.gl-GL" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — Debe desmarcar a opción <span class="gui">Dispoñibel para todos os usuarios</span> nas configuracións de conexión da rede.</span>
+<a href="net-othersedit.html.gl-GL" title="Outros usuarios non poden editar as conexións de rede">Outros usuarios non poden editar as conexións de rede</a><span class="desc"> — Debe desmarcar a opción <span class="gui">Dispoñibel para todos os usuarios</span> nas configuracións de conexión da rede.</span>
 </li>
 <li class="links ">
 <a href="user-admin-problems.html.gl-GL" title="Problemas causados polas restricións administrativas">Problemas causados polas restricións administrativas</a><span class="desc"> — You can do some things, like installing applications, only if you
@@ -172,7 +172,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -83,6 +83,10 @@
       <span class="gui">×</span> to restart later.</p></li>
 </ol></div></div></div>
 <p class="p">Αφού επιλέξετε μια περιοχή, ο χώρος στα δεξιά της λίστας εμφανίζει διάφορα παραδείγματα για το πως εμφανίζονται οι ημερομηνίες καθώς και άλλες τιμές. Αν και δεν εμφανίζεται στα παραδείγματα, η περιοχή σας ελέγχει επίσης την ημέρα έναρξης της βδομάδας στα ημερολόγια.</p>
+<div class="note note-tip" title="Συμβουλή"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -90,7 +94,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a><span class="desc"> — <span class="link"><a href="session-language.html.el" title="Αλλάξτε τη γλώσσα που χρησιμοποιείτε">Γλώσσα</a></span>, <span class="link"><a href="session-formats.html.el" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Περιοχή και τύποι</a></span>, <span class="link"><a href="keyboard-layouts.html.el" title="Use alternative keyboard layouts">Διατάξεις πληκτρολογίου</a></span>…</span>
+<a href="prefs-language.html.el" title="Περιοχή &amp; γλώσσα">Περιοχή &amp; γλώσσα</a><span class="desc"> — <span class="link"><a href="session-language.html.el" title="Αλλάξτε τη γλώσσα που χρησιμοποιείτε">Γλώσσα</a></span>, <span class="link"><a href="session-formats.html.el" title="Αλλαγή μορφών ημερομηνίας και μέτρησης">Περιοχή και τύποι</a></span>, <span class="link"><a href="keyboard-layouts.html.el" title="Χρήση εναλλακτικών διατάξεων πληκτρολογίου">Διατάξεις πληκτρολογίου</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -108,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

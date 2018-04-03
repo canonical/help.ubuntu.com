@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,30 +75,27 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-status.html.pl-PL" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.pl-PL" title="Get the most out of your laptop battery"><span class="title">Get the most out of your laptop battery</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.pl-PL" title="How do I hibernate my computer?"><span class="title">How do I hibernate my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Hibernate is disabled by default since it's not well supported.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.pl-PL" title="Use less power and improve battery life"><span class="title">Use less power and improve battery life</span><span class="linkdiv-dash"> — </span><span class="desc">Tips to reduce the power consumption of your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-status.html.pl-PL" title="Sprawdzanie stanu akumulatora"><span class="title">Sprawdzanie stanu akumulatora</span><span class="linkdiv-dash"> — </span><span class="desc">Wyświetlanie stanu akumulatora i podłączonych urządzeń.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.pl-PL" title="Co dzieje się po uśpieniu komputera?"><span class="title">Co dzieje się po uśpieniu komputera?</span><span class="linkdiv-dash"> — </span><span class="desc">Uśpienie wstrzymuje działanie komputera, więc używa mniej prądu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.pl-PL" title="Dlaczego komputer wyłącza się po zamknięciu pokrywy?"><span class="title">Dlaczego komputer wyłącza się po zamknięciu pokrywy?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptopy przechodzą do stanu uśpienia po zamknięciu pokrywy, aby oszczędzać prąd.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.pl-PL" title="Jak wydłużyć czas działania na zasilaniu z akumulatora"><span class="title">Jak wydłużyć czas działania na zasilaniu z akumulatora</span><span class="linkdiv-dash"> — </span><span class="desc">Wskazówki, takie jak „nie wyładowuj akumulatora za bardzo”.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.pl-PL" title="What happens when I suspend my computer?"><span class="title">What happens when I suspend my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspend sends your computer to sleep so it uses less power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.pl-PL" title="Why does my computer turn off when I close the lid?"><span class="title">Why does my computer turn off when I close the lid?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops go to sleep when you close the lid, in order to save
-    power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pl-PL" title="Wylogowywanie, wyłączanie komputera i przełączanie użytkowników"><span class="title">Wylogowywanie, wyłączanie komputera i przełączanie użytkowników</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
-    users, and so on.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.pl-PL" title="Wyłączanie nieużywanych sieci bezprzewodowych"><span class="title">Wyłączanie nieużywanych sieci bezprzewodowych</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.pl-PL" title="Używanie mniej prądu i polepszanie żywotności akumulatora"><span class="title">Używanie mniej prądu i polepszanie żywotności akumulatora</span><span class="linkdiv-dash"> — </span><span class="desc">Wskazówki, jak zmniejszyć zapotrzebowanie komputera na prąd.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pl-PL" title="Wylogowywanie, wyłączanie komputera i przełączanie użytkowników"><span class="title">Wylogowywanie, wyłączanie komputera i przełączanie użytkowników</span><span class="linkdiv-dash"> — </span><span class="desc">Jak wylogować się, przełączyć użytkownika i tak dalej.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.pl-PL" title="Wyłączanie nieużywanych sieci bezprzewodowych"><span class="title">Wyłączanie nieużywanych sieci bezprzewodowych</span><span class="linkdiv-dash"> — </span><span class="desc">Można wyłączać urządzenia Bluetooth, Wi-Fi i komórkowe, aby oszczędzać akumulator.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="saving" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ustawienia oszczędzania energii</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.pl-PL" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.pl-PL" title="Ustawianie automatycznego usypiania"><span class="title">Ustawianie automatycznego usypiania</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.pl-PL" title="Dlaczego ekran jest po chwili przygaszany?"><span class="title">Dlaczego ekran jest po chwili przygaszany?</span><span class="linkdiv-dash"> — </span><span class="desc">Ekran jest przygaszany, kiedy komputer nie jest używany, aby oszczędzać prąd.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.pl-PL" title="Konfiguracja automatycznego usypiania"><span class="title">Konfiguracja automatycznego usypiania</span><span class="linkdiv-dash"> — </span><span class="desc">Konfiguracja automatycznego usypiania komputera.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.pl-PL" title="Why does my screen go dim after a while?"><span class="title">Why does my screen go dim after a while?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.pl-PL" title="Włączanie automatycznej jasności"><span class="title">Włączanie automatycznej jasności</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.pl-PL" title="Ustawianie czasu wygaszania ekranu"><span class="title">Ustawianie czasu wygaszania ekranu</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana czasu wygaszania ekranu, aby oszczędzać prąd.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.pl-PL" title="Włączanie automatycznej jasności"><span class="title">Włączanie automatycznej jasności</span><span class="linkdiv-dash"> — </span><span class="desc">Automatyczne sterowanie jasnością ekranu, aby oszczędzać akumulator.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -106,13 +103,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Pytania</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.pl-PL" title="The estimated battery life is wrong"><span class="title">The estimated battery life is wrong</span><span class="linkdiv-dash"> — </span><span class="desc">The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.pl-PL" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Allowing the battery to completely discharge is bad for it.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.pl-PL" title="Dlaczego akumulator wystarcza na krócej niż w systemie Windows/macOS?"><span class="title">Dlaczego akumulator wystarcza na krócej niż w systemie Windows/macOS?</span><span class="linkdiv-dash"> — </span><span class="desc">Przyczyną problemu mogą być ulepszenia producenta i inny sposób szacowania czasu pracy na zasilaniu z komputera.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.pl-PL" title="Dlaczego komputer wyłączył się, kiedy poziom naładowania akumulatora spadł do 10%?"><span class="title">Dlaczego komputer wyłączył się, kiedy poziom naładowania akumulatora spadł do 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Zupełne rozładowanie akumulatora może go uszkodzić.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.pl-PL" title="Why do I have less battery life than I did on Windows/Mac OS?"><span class="title">Why do I have less battery life than I did on Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Tweaks from the manufacturer and differing battery life estimates may
-    be the cause of this problem.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.pl-PL" title="Why is my laptop slow when it is on battery?"><span class="title">Why is my laptop slow when it is on battery?</span><span class="linkdiv-dash"> — </span><span class="desc">Some laptops intentionally slow down when they are running on battery.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.pl-PL" title="Dlaczego laptop jest wolny podczas pracy na zasilaniu z akumulatora?"><span class="title">Dlaczego laptop jest wolny podczas pracy na zasilaniu z akumulatora?</span><span class="linkdiv-dash"> — </span><span class="desc">Część laptopów celowo spowalnia działanie podczas pracy na zasilaniu z akumulatora.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.pl-PL" title="Szacunkowy czas pracy na zasilaniu z akumulatora jest błędny"><span class="title">Szacunkowy czas pracy na zasilaniu z akumulatora jest błędny</span><span class="linkdiv-dash"> — </span><span class="desc">Czas pracy na zasilaniu z akumulatora wyświetlany po kliknięciu <span class="gui">ikony akumulatora</span> jest liczbą szacunkową.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -121,17 +117,14 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.pl-PL" title="Komputer się nie włącza"><span class="title">Komputer się nie włącza</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html.pl-PL" title="My computer gets really hot"><span class="title">My computer gets really hot</span><span class="linkdiv-dash"> — </span><span class="desc">Computers usually get warm, but if they get too hot they can overheat, which can be damaging.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.pl-PL" title="Po przebudzeniu komputera sieć bezprzewodowa nie działa"><span class="title">Po przebudzeniu komputera sieć bezprzewodowa nie działa</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
-    suspended and does not resume properly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html.pl-PL" title="Czy mój komputer będzie działał z zasilaczem w innym kraju?"><span class="title">Czy mój komputer będzie działał z zasilaczem w innym kraju?</span><span class="linkdiv-dash"> — </span><span class="desc">Komputer będzie działał, ale może być potrzebny inny kabel zasilający lub adapter podróżny.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.pl-PL" title="Dlaczego komputer nie włącza się z powrotem po uśpieniu?"><span class="title">Dlaczego komputer nie włącza się z powrotem po uśpieniu?</span><span class="linkdiv-dash"> — </span><span class="desc">Niektóre urządzenia powodują problemy z usypianiem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html.pl-PL" title="Komputer robi się bardzo gorący"><span class="title">Komputer robi się bardzo gorący</span><span class="linkdiv-dash"> — </span><span class="desc">Komputery zwykle są ciepłe, ale zbyt wysoka temperatura może spowodować przegrzanie, które może uszkodzić komputer.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.pl-PL" title="The laptop fan is always running"><span class="title">The laptop fan is always running</span><span class="linkdiv-dash"> — </span><span class="desc">Some fan-control software could be missing, or your laptop may be
-    running hot.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.pl-PL" title="Why does my computer not turn back on after I suspended it?"><span class="title">Why does my computer not turn back on after I suspended it?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html.pl-PL" title="Will my computer work with a power supply in another country?"><span class="title">Will my computer work with a power supply in another country?</span><span class="linkdiv-dash"> — </span><span class="desc">Your computer will work, but you might need a different power cable or
-    a travel adapter.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.pl-PL" title="Komputer się nie włącza"><span class="title">Komputer się nie włącza</span><span class="linkdiv-dash"> — </span><span class="desc">Luźne kable i problemy sprzętowe to możliwe przyczyny.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.pl-PL" title="Po przebudzeniu komputera sieć bezprzewodowa nie działa"><span class="title">Po przebudzeniu komputera sieć bezprzewodowa nie działa</span><span class="linkdiv-dash"> — </span><span class="desc">Niektóre urządzenia bezprzewodowe nie radzą sobie z uśpieniem komputera, i mogą nie wznowić działania po przebudzeniu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.pl-PL" title="Wentylator w laptopie działa przez cały czas"><span class="title">Wentylator w laptopie działa przez cały czas</span><span class="linkdiv-dash"> — </span><span class="desc">Może brakować oprogramowania sterującego wentylatorem lub laptop się nagrzał.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -164,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

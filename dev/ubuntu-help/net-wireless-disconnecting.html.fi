@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-problem.html.fi" title="Yhteysongelmat">Yhteysongelmat</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-problem.html.fi" title="Yhteysongelmat">Yhteysongelmat</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,7 +82,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Heikko langaton signaali</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Yleisin syy yhteyden katkeamiseen on heikko signaali. Langattomilla tukiasemilla on tietty kantomatka, ja jos olet sen ulkopuolella, signaali ei ole ehkä tarpeeksi vahva tiedon siirtämisen. Seinät ja muut esteet tukiaseman ja tietokoneen välissä voivat heikentää signaalia merkittävästi.</p>
-<p class="p">Verkkovalikon kuvake oikealla yläpaneelissa ilmaisee signaalin vahvuuden. Jos verkkopalkkeja on vähän, yritä siirtyä mahdollisuuksien mukaan lähemmäksi langatonta tukiasemaa.</p>
+<p class="p">Verkkovalikon kuvake oikealla yläpalkissa ilmaisee signaalin vahvuuden. Jos verkkopalkkeja on vähän, yritä siirtyä mahdollisuuksien mukaan lähemmäksi langatonta tukiasemaa.</p>
 </div></div>
 </div></div>
 <div id="network" class="sect"><div class="inner">
@@ -115,7 +115,7 @@
 <a href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.fi" title="Langattomaan verkkoon yhdistäminen">Langattomaan lähiverkkoon yhdistäminen</a></span>, <span class="link"><a href="net-wireless-hidden.html.fi" title="Yhdistä piilotettuun verkkoon">piilotetut verkot</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.fi" title="Miksi langaton yhteys katkeaa?">yhteyden katkeaminen</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-problem.html.fi" title="Yhteysongelmat">Yhteysongelmat</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html.fi" title="I can’t see my wireless network in the list">langattoman verkon löytäminen</a></span>…</span>
+<a href="net-problem.html.fi" title="Yhteysongelmat">Yhteysongelmat</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html.fi" title="En näe langatonta verkkoani listalla">langattoman verkon löytäminen</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -134,7 +134,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

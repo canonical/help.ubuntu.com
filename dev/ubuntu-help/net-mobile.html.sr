@@ -84,7 +84,7 @@
 <li class="steps"><p class="p">Изаберите план у складу са врстом уређаја за повезивање. Ово ће одредити назив приступне тачке. Притисните <span class="gui">Следеће</span>.</p></li>
 <li class="steps"><p class="p">Потврдите подешавања која сте изабрали притиском на дугме <span class="gui">Примени</span>. Чаробњак ће се затворити а панел <span class="gui">Мреже</span> ће приказати својства ваше везе.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Неки телефони имају поставку под називом <span class="em">УСБ повезивање</span> која не захтева подешавање на рачунару. Када је подешавање активирано на телефону, веза ће се појавити као <span class="gui">Повезан жичано</span> у системском изборнику а <span class="gui">УСБ жичана</span> на мрежном панелу.</p></div></div></div></div>
+<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Неки телефони имају подешавање под називом <span class="em">УСБ бирање</span> које не захтева подешавање на вашем рачунару. Када је подешавање активирано на телефону, веза ће бити приказана као <span class="gui">Жичана веза</span> у системском изборнику а <span class="gui">УСБ веза</span> на панелу мреже.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -102,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

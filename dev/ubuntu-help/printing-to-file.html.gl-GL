@@ -76,16 +76,15 @@
   This can be useful if you want to transfer the document to another machine
   or to share it with someone.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To print to file:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Para imprimir nun ficheiro:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the print dialog by pressing
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Abra o diálogo de impresión premendo <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Imprimir a ficheiro</span> baixo <span class="gui">Impresora</span> na lapela <span class="gui">Xeral</span>.</p></li>
 <li class="steps"><p class="p">Para cambiar o nome do ficheiro predeterminada e onde se gardará o ficheiro, prema o nome de ficheiro embaixo da selección de impresora. Prema <span class="gui">Seleccionar</span> en canto remate a selección.</p></li>
 <li class="steps"><p class="p"><span class="sys">PDF</span> is the default file type for the document. If you want
       to use a different <span class="gui">Output format</span>, select either
       <span class="sys">PostScript</span> or <span class="sys">SVG</span>.</p></li>
-<li class="steps"><p class="p">Choose your other page preferences.</p></li>
+<li class="steps"><p class="p">Seleccione as outras preferencias de páxina.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Imprimir</span> para gardar o ficheiro.</p></li>
 </ol></div>
 </div></div>
@@ -106,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -80,7 +80,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.fr" title="Clavier">Clavier</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fr" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html.fr#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.fr" title="Utilisation d'agencements de clavier alternatifs">Agencement du clavier</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fr" title="Clignotement du curseur">clignotement du curseur</a></span>, <span class="link"><a href="a11y.html.fr#mobility" title="Mobilité défaillante">accessibilité du clavier</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a></div>
@@ -117,7 +117,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-language.html.fr" title="Pays &amp; langue.">Pays &amp; langue.</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.fr" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html.fr" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives">agencement du clavier</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.fr" title="Modification de la langue">Langue</a></span>, <span class="link"><a href="session-formats.html.fr" title="Modification des formats de la date et du système de mesure">région et formats</a></span>, <span class="link"><a href="keyboard-layouts.html.fr" title="Utilisation d'agencements de clavier alternatifs">agencement du clavier</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.fr#sound" title="Notions de base sur le son">Son</a></div>
@@ -158,7 +158,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

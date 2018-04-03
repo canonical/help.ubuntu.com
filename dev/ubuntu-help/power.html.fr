@@ -78,10 +78,9 @@
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.fr" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.fr" title="Déconnexion, extinction, ou changement d'utilisateur"><span class="title">Déconnexion, extinction, ou changement d'utilisateur</span><span class="linkdiv-dash"> — </span><span class="desc">Apprendre à quitter son compte utilisateur, en se déconnectant, en changeant d'utilisateur…</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.fr" title="Mise en veille de l'ordinateur quand l'écran est rabattu"><span class="title">Mise en veille de l'ordinateur quand l'écran est rabattu</span><span class="linkdiv-dash"> — </span><span class="desc">Pour économiser l'énergie, les ordinateurs portables se mettent en veille quand vous rabattez l'écran.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.fr" title="Pourquoi j'hiberne mon ordinateur ?"><span class="title">Pourquoi j'hiberne mon ordinateur ?</span><span class="linkdiv-dash"> — </span><span class="desc">L'hibernation est désactivée par défaut car elle n'est pas bien supportée.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.fr" title="Que se passe-t-il lorsque je mets en veille mon ordinateur ?"><span class="title">Que se passe-t-il lorsque je mets en veille mon ordinateur ?</span><span class="linkdiv-dash"> — </span><span class="desc">La mise en veille désactivera la plupart des fonctionnalités de votre ordinateur afin qu'il utilise moins d'énergie.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.fr" title="Que se passe-t-il lorsque je mets en veille mon ordinateur ?"><span class="title">Que se passe-t-il lorsque je mets en veille mon ordinateur ?</span><span class="linkdiv-dash"> — </span><span class="desc">La mise en veille désactivera la plupart des fonctionnalités de votre ordinateur afin qu'il utilise moins d'énergie.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.fr" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.fr" title="Utilisation optimale de la batterie de votre portable"><span class="title">Utilisation optimale de la batterie de votre portable</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.fr" title="Économie d'énergie et accroissement de la longévité de la batterie"><span class="title">Économie d'énergie et accroissement de la longévité de la batterie</span><span class="linkdiv-dash"> — </span><span class="desc">Conseils pour réduire la consommation d'énergie de votre ordinateur.</span></a></div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -70,9 +70,9 @@
 <div class="hgroup"><h1 class="title"><span class="title">Περιοχή &amp; γλώσσα</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.el" title="Use alternative keyboard layouts"><span class="title">Use alternative keyboard layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-language.html.el" title="Αλλάξτε τη γλώσσα που χρησιμοποιείτε"><span class="title">Αλλάξτε τη γλώσσα που χρησιμοποιείτε</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε σε διαφορετική γλώσσα για την διεπαφή χρήστη και το κείμενο βοήθειας.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-formats.html.el" title="Αλλαγή μορφών ημερομηνίας και μέτρησης"><span class="title">Αλλαγή μορφών ημερομηνίας και μέτρησης</span><span class="linkdiv-dash"> — </span><span class="desc">Επιλέξτε μια περιοχή που χρησιμοποιείτε για ημερομηνία και ώρα, αριθμούς, νόμισμα και μετρήσεις.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.el" title="Χρήση εναλλακτικών διατάξεων πληκτρολογίου"><span class="title">Χρήση εναλλακτικών διατάξεων πληκτρολογίου</span><span class="linkdiv-dash"> — </span><span class="desc">Προσθέστε διατάξεις πληκτρολογίου και εναλλάξτε μεταξύ τους.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

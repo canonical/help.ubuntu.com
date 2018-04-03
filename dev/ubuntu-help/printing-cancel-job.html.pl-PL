@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Cancel, pause or release a print job</title>
+<title>Anulowanie, wstrzymywanie i wznawianie zadania wydruku</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,51 +64,38 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="printing.html.pl-PL#problems" title="Problemy z drukarką">Problemy z drukarką</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> › <a class="trail" href="hardware.html.pl-PL#problems" title="Często występujące problemy">Problemy</a> » <a class="trail" href="printing.html.pl-PL#problems" title="Problemy z drukarką">Problemy z drukarką</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Cancel, pause or release a print job</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Anulowanie, wstrzymywanie i wznawianie zadania wydruku</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can cancel a pending print job and remove it from the queue in the
-  printer settings.</p></div>
+<div class="contents"><p class="p">Można anulować oczekujące zadanie wydruku i usunąć je z kolejki w ustawieniach drukarki.</p></div>
 <div id="cancel-print-job" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Cancel a print job</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Anulowanie zadania wydruku</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you accidentally started printing a document, you can cancel the print
-  so that you do not need to waste any ink or paper.</p>
+<p class="p">Jeśli przez przypadek rozpoczęto drukowanie dokumentu, to można anulować drukowanie, aby nie marnować tuszu ani papieru.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">How to cancel a print job:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Aby anulować zadanie wydruku:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Drukarki</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Drukarki</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Drukarki</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Show Jobs</span> button on the right-hand side of the
-      <span class="gui">Printers</span> dialog.</p></li>
-<li class="steps"><p class="p">Cancel the print job by clicking the stop button.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Wyświetl zadania</span> po prawej stronie okna <span class="gui">Drukarki</span>.</p></li>
+<li class="steps"><p class="p">Anuluj zadanie wydruku klikając przycisk zatrzymania.</p></li>
 </ol></div>
 </div></div>
-<p class="p">If this does not cancel the print job like you expected, try holding down
-  the <span class="em">cancel</span> button on your printer.</p>
-<p class="p">As a last resort, especially if you have a big print job with a lot of
-  pages that will not cancel, remove the paper from the printer’s paper input
-  tray. The printer should realize that there is no paper and will stop
-  printing. You can then try canceling the print job again, or try turning the
-  printer off and then on again.</p>
-<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">Be careful that you don’t damage the printer when removing the paper,
-    though. If you would have to pull hard on the paper to remove it, you
-    should probably just leave it where it is.</p></div></div></div></div>
+<p class="p">Jeśli nie anuluje to zadania wydruku, to spróbuj przytrzymać przycisk <span class="em">Anuluj</span> na drukarce.</p>
+<p class="p">Jako ostatnia deska ratunku, zwłaszcza w przypadku dużego zadania wydruku o wielu stronach, które nie chce się anulować, wyjmij papier z podajnika drukarki. Drukarka powinna zauważyć, że nie ma już papieru i zatrzymać drukowanie. Można wtedy jeszcze raz spróbować anulować zadanie wydruku lub wyłączyć i włączyć drukarkę.</p>
+<div class="note note-warning" title="Ostrzeżenie"><div class="inner"><div class="region"><div class="contents"><p class="p">Zachowaj ostrożność, aby nie uszkodzić drukarki podczas wyjmowania papieru. Jeśli do wyjęcia papieru potrzeba dużo siły, to lepiej jest go zostawić.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="pause-release-print-job" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Pause and release a print job</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Wstrzymywanie i wznawianie zadania wydruku</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you want to pause or release a print job, you can do so by going to the
-  jobs dialog in the printer settings and click the appropriate button.</p>
+<p class="p">Można wstrzymywać i wznawiać zadania wydruku przechodząc do okna zadań w ustawieniach drukarki i klikając odpowiedni przycisk.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Drukarki</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Drukarki</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Drukarki</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Show Jobs</span> button on the right-hand side of the
-      <span class="gui">Printers</span> dialog and either pause or release the print job
-      based on your needs.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Wyświetl zadania</span> po prawej stronie okna <span class="gui">Drukarki</span> i wstrzymaj lub wznów zadanie wydruku.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -117,7 +104,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html.pl-PL#problems" title="Problemy z drukarką">Problemy z drukarką</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
+<a href="printing.html.pl-PL#problems" title="Problemy z drukarką">Problemy z drukarką</a><span class="desc"> — Niewykryte drukarki, zacięty papier, źle wyglądające wydruki…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -128,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

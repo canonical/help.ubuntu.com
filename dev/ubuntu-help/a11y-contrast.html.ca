@@ -70,22 +70,15 @@
 <div class="hgroup"><h1 class="title"><span class="title">Ajustar el contrast</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can adjust the contrast of windows and buttons so that they’re easier
-  to see. This is not the same as 
-  changing the brightness of the whole screen; only parts of the
-  <span class="em">user interface</span> will change.</p>
+<p class="p">Podeu ajustar el contrast de finestres i botons per a què siguin més fàcils de veure. No és el mateix que canviar la brillantor de tota la pantalla; tan sols parts de la <span class="em">interfície d'usuari</span> canviaran.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Universal Access</span>.</p></li>
+<li class="steps"><p class="p">Obriu la descripció general de les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span>  i comenceu a escriure  <span class="gui">Accés Universal</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per obrir el quadre.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">High Contrast</span> to <span class="gui">ON</span> in the
-      <span class="gui">Seeing</span> section.</p></li>
+<li class="steps"><p class="p">Canvia<span class="gui">Alt Contrast</span> a <span class="gui">ACTIU</span> a la secció <span class="gui">Vista</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Suggeriment"><div class="inner">
-<div class="title title-note"><h2><span class="title">Quickly turn high contrast on and off</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can turn high contrast on and off by clicking the
-    <span class="link"><a href="a11y-icon.html.ca" title="Trobar el menú d'accés universal">accessibility icon</a></span> on the top bar and
-    selecting <span class="gui">High Contrast</span>.</p></div></div>
+<div class="title title-note"><h2><span class="title">Activa i desactiva ràpidament el contrast alt</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Podeu activar i desactivar alt contrast fent clic sobre <span class="link"><a href="a11y-icon.html.ca" title="Trobar el menú d'accés universal">la icona accesibilitat</a></span> a la barra superior i seleccionant <span class="gui">Alt Contrast</span>.</p></div></div>
 </div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -98,8 +91,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html.ca" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
-    light.</span>
+<a href="display-brightness.html.ca" title="Establiu la brillantor de la pantalla">Establiu la brillantor de la pantalla</a><span class="desc"> — Canvieu la brillantor de la pantalla per fer-la més llegible amb llum brillant.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -111,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

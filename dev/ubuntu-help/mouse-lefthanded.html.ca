@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use your mouse left-handed</title>
+<title>Utilitzeu el ratolí per la ma esquerra</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,34 +65,30 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="mouse.html.ca" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="mouse.html.ca" title="Ratolí">Ratolí</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="mouse.html.ca" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="mouse.html.ca" title="Ratolí">Ratolí</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use your mouse left-handed</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Utilitzeu el ratolí per la ma esquerra</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can swap the behavior of the left and right buttons on your
-  mouse or touchpad to make it more comfortable for left-handed use.</p>
+<p class="p">Podeu canviar el comportament dels botons esquerra i dreta del ratolí o al tauler tàctil per fer-lo més còmode per a l'ús amb la mà esquerra.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">General</span> section, switch <span class="gui">Primary button</span>
-      to <span class="gui">Right</span>.</p></li>
+<li class="steps"><p class="p">Obriu la descripció d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenceu a escriure<span class="gui">Ratolí &amp; Tauleta</span>.</p></li>
+<li class="steps"><p class="p">Feu clic sobre <span class="gui">Ratoló &amp; Tauleta</span> per obrir el panell,</p></li>
+<li class="steps"><p class="p">A la secció <span class="gui">General</span> , canvieu <span class="gui">el botó primari</span> a<span class="gui">Dreta</span>.</p></li>
 </ol></div></div></div>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">This setting will affect both your mouse and touchpad, as well as any
-    other pointing device.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Aquesta configuració afectarà tant el ratolí com el tauler tàctil, així com qualsevol altre dispositiu apuntador.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html.ca" title="Mouse">Mouse</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html.ca" title="Use your mouse left-handed">Left-handed</a></span>,
+<a href="mouse.html.ca" title="Ratolí">Ratolí</a><span class="desc"> — 
+      <span class="link"><a href="mouse-lefthanded.html.ca" title="Utilitzeu el ratolí per la ma esquerra">Left-handed</a></span>,
       <span class="link"><a href="mouse-sensitivity.html.ca" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
       <span class="link"><a href="mouse-touchpad-click.html.ca" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
     </span>
@@ -106,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

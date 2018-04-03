@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#desktop" title="Dostosowywanie pulpitu">Dostosowywanie pulpitu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#desktop" title="Dostosowywanie pulpitu">Dostosowywanie pulpitu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Powiadomienia i obszar powiadamiania</span></h1></div>
@@ -73,53 +73,31 @@
 <div id="what" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Czym jest powiadomienie?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If an application or a system component wants to get your attention, a
-  notification will be shown at the top of the screen.</p>
-<p class="p">For example, if you get a new chat message or a new email, you will get a
-  notification informing you.</p>
-<p class="p">Other notifications have selectable option buttons. To close one of these
-  notifications without selecting one of its options, click the close
-  button.</p>
-<p class="p">Clicking the close button on some notifications dismisses them. Others,
-  like Rhythmbox or your chat application, will stay hidden in the message 
-  tray.</p>
+<p class="p">Jeśli program lub składnik systemu chce zwrócić na siebie uwagę użytkownika, to na górze ekranu zostanie wyświetlone powiadomienie.</p>
+<p class="p">Na przykład, po otrzymaniu nowej wiadomości w komunikatorze lub wiadomości e-mail zostanie wyświetlone powiadomienie z informacją o niej.</p>
+<p class="p">Inne powiadomienia mają przyciski z opcjami. Aby zamknąć takie powiadomienie bez wybierania żadnej opcji, kliknij przycisk zamknięcia.</p>
+<p class="p">Kliknięcie przycisku zamknięcia na niektórych powiadomieniach je odrzuca. Inne, takie jak powiadomienia odtwarzacza muzyki lub komunikatora, będą ukryte w obszarze powiadamiania.</p>
 </div></div>
 </div></div>
 <div id="messagetray" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Obszar powiadamiania</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">The message tray gives you a way to get
-  back to your notifications when it is convenient for you. It appears when you
-  click on the clock, or press
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. The
-  message tray contains all the notifications that you have not acted upon or
-  that permanently reside in it.</p>
-<p class="p">You can view the notifications by clicking on the message tray items.
-  These are usually messages sent by applications. However, chat notifications
-  are given special treatment, and are represented by the individual contacts
-  who sent you the chat messages.</p>
-<p class="p">You can close the message tray by pressing
-  <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> again or <span class="key"><kbd>Esc</kbd></span>.</p>
+<p class="p">Obszar powiadamiania umożliwia powrót do powiadomień w dogodnej chwili. Jest wyświetlany po kliknięciu zegara lub naciśnięciu klawiszy <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. Obszar powiadamiania zawiera wszystkie powiadomienia, na które nie zareagowano lub które są w obszarze na stałe.</p>
+<p class="p">Można wyświetlać powiadomienia klikając elementy w obszarze powiadamiania. Są to zwykle komunikaty wysyłane przez programy. Wiadomości z komunikatora są wyświetlane inaczej: jako wiadomości od konkretnych kontaktów.</p>
+<p class="p">Można zamknąć obszar powiadamiania naciskając klawisze <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> ponownie lub klawisz <span class="key"><kbd>Esc</kbd></span>.</p>
 </div></div>
 </div></div>
 <div id="hidenotifications" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ukrywanie powiadomień</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you’re working on something and do not want to be bothered, you can
-  switch off notifications.</p>
+<p class="p">Jeśli użytkownik jest w trakcie pracy i nie chce, żeby mu przeszkadzać, to można wyłączyć powiadomienia.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Powiadomienia</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Powiadomienia</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Powiadomienia</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Notification Banners</span> to <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Przełącz <span class="gui">Wyskakujące powiadomienia</span> na <span class="gui">◯</span> (wyłączone).</p></li>
 </ol></div></div></div>
-<p class="p">When switched off, most notifications
-  will not pop up at the top of the screen.  Notifications will
-  still be available in the message tray when you display it (by clicking on
-  the clock, or by pressing <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span>), and
-  they will start popping up again when you switch the toggle to <span class="gui">ON</span>
-  again.</p>
-<p class="p">You can also disable or re-enable notifications for individual
-  applications from the <span class="gui">Notifications</span> panel.</p>
+<p class="p">Po wyłączeniu większość powiadomień nie będzie wyświetlanych na górze ekranu. Powiadomienia będą nadal dostępne w obszarze powiadamiania po jego wyświetleniu (klikając zegar lub naciskając klawisze <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span>), i będą wyświetlane z powrotem po przełączeniu ich na <span class="gui">|</span> (włączone).</p>
+<p class="p">Można także wyłączyć lub ponownie włączyć powiadomienia dla poszczególnych programów w panelu <span class="gui">Powiadomienia</span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -136,7 +114,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

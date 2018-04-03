@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Можете да допустите другима да прегледају и управљају вашом радном површином са другог рачунара са програмом за преглед радне површи. Подесите <span class="gui">Дељење екрана</span> да дозволите другима да приступе вашој радној површи и да подесе поставке безбедности.</p>
-<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Морате имати инсталран пакет <span class="app">Вино</span> да би <span class="gui">Дељење екрана</span> било видљиво.</p></div></div></div></div>
+<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Морате имати инсталран пакет <span class="app">Вино</span> да би <span class="gui">Дељење екрана</span> било видљиво.</p>
+<p class="p"><span class="link-button link"><a href="apt:vino" title="apt:vino">Инсталирајте Вино</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Дељење</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Дељење</span> да отворите панел.</p></li>
@@ -146,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

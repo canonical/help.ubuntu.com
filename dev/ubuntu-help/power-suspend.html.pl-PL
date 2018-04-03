@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What happens when I suspend my computer?</title>
+<title>Co dzieje się po uśpieniu komputera?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,30 +65,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What happens when I suspend my computer?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Co dzieje się po uśpieniu komputera?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you <span class="em">suspend</span> the computer, you send it to sleep. All of your
-applications and documents remain open, but the screen and other parts of the
-computer switch off to save power. The computer is still switched on though,
-and it will still be using a small amount of power. You can wake it up by
-pressing a key or clicking the mouse. If that does not work, try pressing the
-power button.</p>
-<p class="p">Some computers have problems with hardware support which mean that they
-<span class="link"><a href="power-suspendfail.html.pl-PL" title="Why does my computer not turn back on after I suspended it?">may not be able to suspend properly</a></span>. It is
-a good idea to test suspend on your computer to see if it does work before
-relying on it.</p>
+<p class="p"><span class="em">Uśpienie</span> wstrzymuje działanie komputera. Wszystkie programy i dokumenty pozostają otwarte, ale ekran i inne części komputera są wyłączane, aby oszczędzać prąd. Komputer jest nadal włączony i nadal używa trochę prądu. Można go przebudzić naciskając klawisz lub klikając mysz. Jeśli to nie zadziała, to spróbuj nacisnąć przycisk zasilania.</p>
+<p class="p">Niektóre komputery mają problemy z obsługą sprzętu, co oznacza że <span class="link"><a href="power-suspendfail.html.pl-PL" title="Dlaczego komputer nie włącza się z powrotem po uśpieniu?">mogą nie być w stanie się poprawnie uśpić</a></span>. Dobrze jest przetestować usypianie komputera, aby zobaczyć czy działa zanim zacznie być używane.</p>
 <div class="note note-important" title="Ważne"><div class="inner">
-<div class="title title-note"><h2><span class="title">Always save your work before suspending</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You should save all of your work before suspending the computer, just in
-  case something goes wrong and your open applications and documents cannot be
-  recovered when you resume the computer again.</p></div></div>
+<div class="title title-note"><h2><span class="title">Zawsze zapisuj pracę przed uśpieniem</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Należy zapisywać pracę przed uśpieniem komputera, w razie gdyby coś się nie powiodło i otwarte programy i dokumenty nie mogły zostać przywrócone po jego przebudzeniu.</p></div></div>
 </div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -97,29 +87,24 @@ relying on it.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.pl-PL" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.pl-PL" title="What happens when I suspend my computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.pl-PL" title="Why does my screen go dim after a while?">screen dimming</a></span>…
-    </span>
+<a href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a><span class="desc"> — <span class="link"><a href="power-status.html.pl-PL" title="Sprawdzanie stanu akumulatora">Stan akumulatora</a></span>, <span class="link"><a href="power-suspend.html.pl-PL" title="Co dzieje się po uśpieniu komputera?">usypianie</a></span>, <span class="link"><a href="power-whydim.html.pl-PL" title="Dlaczego ekran jest po chwili przygaszany?">przygaszanie ekranu</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-batterylife.html.pl-PL" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-suspendfail.html.pl-PL" title="Dlaczego komputer nie włącza się z powrotem po uśpieniu?">Dlaczego komputer nie włącza się z powrotem po uśpieniu?</a><span class="desc"> — Niektóre urządzenia powodują problemy z usypianiem.</span>
 </li>
 <li class="links ">
-<a href="power-autosuspend.html.pl-PL" title="Ustawianie automatycznego usypiania">Ustawianie automatycznego usypiania</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-closelid.html.pl-PL" title="Dlaczego komputer wyłącza się po zamknięciu pokrywy?">Dlaczego komputer wyłącza się po zamknięciu pokrywy?</a><span class="desc"> — Laptopy przechodzą do stanu uśpienia po zamknięciu pokrywy, aby oszczędzać prąd.</span>
+</li>
+<li class="links ">
+<a href="power-autosuspend.html.pl-PL" title="Konfiguracja automatycznego usypiania">Konfiguracja automatycznego usypiania</a><span class="desc"> — Konfiguracja automatycznego usypiania komputera.</span>
 </li>
 <li class="links "><a href="shell-exit.html.pl-PL#suspend" title="Usypianie">Usypianie</a></li>
 <li class="links ">
-<a href="power-suspendfail.html.pl-PL" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
-</li>
-<li class="links ">
-<a href="power-closelid.html.pl-PL" title="Why does my computer turn off when I close the lid?">Why does my computer turn off when I close the lid?</a><span class="desc"> — Laptops go to sleep when you close the lid, in order to save
-    power.</span>
+<a href="power-batterylife.html.pl-PL" title="Używanie mniej prądu i polepszanie żywotności akumulatora">Używanie mniej prądu i polepszanie żywotności akumulatora</a><span class="desc"> — Wskazówki, jak zmniejszyć zapotrzebowanie komputera na prąd.</span>
 </li>
 </ul></div>
 </div></div>
@@ -132,7 +117,7 @@ relying on it.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

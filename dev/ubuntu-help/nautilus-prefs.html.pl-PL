@@ -64,19 +64,17 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencje menedżera plików</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.pl-PL" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Control what information is displayed in columns in list view.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.pl-PL" title="Preferencje podglądu menedżera plików"><span class="title">Preferencje podglądu menedżera plików</span><span class="linkdiv-dash"> — </span><span class="desc">Control when thumbnails are used for files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.pl-PL" title="Preferencje widoków Menedżera plików"><span class="title">Preferencje widoków <span class="app">Menedżera plików</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
-    manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.pl-PL" title="Preferencje wyświetlania menedżera plików"><span class="title">Preferencje wyświetlania menedżera plików</span><span class="linkdiv-dash"> — </span><span class="desc">Control icon captions used in the file manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.pl-PL" title="Preferencje zachowania menedżera plików"><span class="title">Preferencje zachowania menedżera plików</span><span class="linkdiv-dash"> — </span><span class="desc">Single-click to open files, run or view executable
-    text files, and specify trash behavior.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.pl-PL" title="Preferencje kolumn listy plików"><span class="title">Preferencje kolumn listy plików</span><span class="linkdiv-dash"> — </span><span class="desc">Sterowanie, jakie informacje są wyświetlane w kolumnach widoku listy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.pl-PL" title="Preferencje podglądu menedżera plików"><span class="title">Preferencje podglądu menedżera plików</span><span class="linkdiv-dash"> — </span><span class="desc">Sterowanie wyświetlaniem miniatur plików.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.pl-PL" title="Preferencje widoków programu Pliki"><span class="title">Preferencje widoków programu <span class="app">Pliki</span></span><span class="linkdiv-dash"> — </span><span class="desc">Określanie domyślnej kolejności porządkowania i grupowania w menedżerze plików.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.pl-PL" title="Preferencje wyświetlania menedżera plików"><span class="title">Preferencje wyświetlania menedżera plików</span><span class="linkdiv-dash"> — </span><span class="desc">Sterowanie podpisami ikon w menedżerze plików.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.pl-PL" title="Preferencje zachowania menedżera plików"><span class="title">Preferencje zachowania menedżera plików</span><span class="linkdiv-dash"> — </span><span class="desc">Pojedyncze kliknięcie otwiera pliki, uruchamianie lub wyświetlanie wykonywanych plików tekstowych i zachowanie kosza.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -92,7 +90,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

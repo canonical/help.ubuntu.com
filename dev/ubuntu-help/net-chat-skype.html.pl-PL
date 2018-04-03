@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How can I use Skype on Ubuntu?</title>
+<title>Jak mogę korzystać z programu Skype w Ubuntu?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,42 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-chat.html.pl-PL" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-chat.html.pl-PL" title="Komunikatory i serwisy społecznościowe">Komunikatory i serwisy społecznościowe</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How can I use Skype on Ubuntu?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Jak mogę korzystać z programu Skype w Ubuntu?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    <span class="app">Skype</span> is proprietary software that allows you to make calls over
-    the Internet using your computer.
-  </p>
-<p class="p">
-    Skype uses decentralized peer-to-peer technologies, so your calls do not go
-    through a central server, but through distributed servers and other users.
-  </p>
-<p class="p">
-    The Skype software is free to use, but it is not free software; the source
-    code is proprietary and not available for modification.
-  </p>
-<p class="p">
-    Skype is not installed by default on Ubuntu. Follow these steps to install
-    <span class="app">Skype for Linux</span>:
-  </p>
+<p class="p"><span class="app">Skype</span> jest własnościowym oprogramowaniem umożliwiającym dzwonienie przez Internet za pomocą komputera.</p>
+<p class="p">Skype używa zdecentralizowanej technologii P2P, więc rozmowy nie przechodzą przez centralny serwer, ale przez rozproszone serwery oraz innych użytkowników.</p>
+<p class="p">Skype jest dostępny bezpłatnie, ale nie jest wolnym oprogramowaniem — kod źródłowy jest własnościowy i nie może być przez nikogo zmieniany.</p>
+<p class="p">Skype nie jest domyślnie zainstalowany w Ubuntu. Aby zainstalować <span class="app">Skype dla systemu Linux</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">
-      Open your web browser and go to the <span class="link"><a href="https://www.skype.com/download-skype/skype-for-computer/" title="https://www.skype.com/download-skype/skype-for-computer/">Skype download page</a></span>.
-    </p></li>
-<li class="list"><p class="p">
-      Click the <span class="gui">Download Skype for Linux DEB</span> button.
-    </p></li>
-<li class="list"><p class="p">
-      In the window which shows up, select <span class="gui">Open with</span> and <span class="gui">Software
-      Install (default)</span>, and then click the <span class="gui">OK</span> button.
-    </p></li>
-<li class="list"><p class="p">
-      <span class="app">Ubuntu Software</span> is opened. Click the <span class="gui">Install</span> button and authenticate.
-    </p></li>
+<li class="list"><p class="p">Otwórz przeglądarkę i przejdź na <span class="link"><a href="https://www.skype.com/pl/get-skype/" title="https://www.skype.com/pl/get-skype/">stronę pobierania Skype</a></span>.</p></li>
+<li class="list"><p class="p">Kliknij przycisk <span class="gui">Pobierz Skype’a dla Linuksa DEB</span>.</p></li>
+<li class="list"><p class="p">W oknie, które zostanie otwarte, zaznacz opcję <span class="gui">Otwórz za pomocą</span> i <span class="gui">Instalacja oprogramowania (domyślny)</span>, a następnie kliknij przycisk <span class="gui">OK</span>.</p></li>
+<li class="list"><p class="p">Zostanie otwarty <span class="app">Menedżer oprogramowania Ubuntu</span>. Kliknij przycisk <span class="gui">Zainstaluj</span> i uwierzytelnij się.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -108,17 +87,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.pl-PL" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.pl-PL" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.pl-PL" title="Połączenia wideo">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.pl-PL" title="How can I use Skype on Ubuntu?">install skype</a></span>
-    </span>
+<a href="net-chat.html.pl-PL" title="Komunikatory i serwisy społecznościowe">Komunikatory i serwisy społecznościowe</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.pl-PL" title="Komunikatory w Ubuntu">Rozmawianie w każdej sieci za pomocą programu <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.pl-PL" title="Wideorozmowy">wideorozmowy</a></span>, <span class="link"><a href="net-chat-skype.html.pl-PL" title="Jak mogę korzystać z programu Skype w Ubuntu?">instalacja programu Skype</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat-video.html.pl-PL" title="Połączenia wideo">Połączenia wideo</a><span class="desc"> — Jakich programów można używać do wykonywania połączeń wideo?</span>
+<a href="net-chat-video.html.pl-PL" title="Wideorozmowy">Wideorozmowy</a><span class="desc"> — Jakich programów można używać do wideorozmów?</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -130,7 +105,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

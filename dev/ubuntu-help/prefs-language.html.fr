@@ -72,7 +72,7 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="session-language.html.fr" title="Modification de la langue"><span class="title">Modification de la langue</span><span class="linkdiv-dash"> — </span><span class="desc">Modifier le langue pour l'interface utilisateur et le texte d'aide.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-formats.html.fr" title="Modification des formats de la date et du système de mesure"><span class="title">Modification des formats de la date et du système de mesure</span><span class="linkdiv-dash"> — </span><span class="desc">Choisir une région afin de définir la date et l'heure, les nombres, la devise et le système de mesure.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.fr" title="Utiliser des configurations de clavier alternatives"><span class="title">Utiliser des configurations de clavier alternatives</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter des configurations de clavier et basculer entre elles.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.fr" title="Utilisation d'agencements de clavier alternatifs"><span class="title">Utilisation d'agencements de clavier alternatifs</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter des agencements au clavier et basculer entre eux.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

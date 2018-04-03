@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>O tym przewodniku</title>
+<title>O tym podręczniku</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,53 +64,28 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.pl-PL" title="Uzyskaj więcej pomocy">Uzyskaj więcej pomocy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="more-help.html.pl-PL" title="Więcej pomocy">Więcej pomocy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">O tym przewodniku</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">O tym podręczniku</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    This guide gives you a tour of Ubuntu desktop features, answers your 
-    computer-related questions, and provides tips on using your computer 
-    effectively.
-  </p>
+<p class="p">Ten podręcznik opisuje funkcje Ubuntu, odpowiada na pytania związane z komputerem i udziela wskazówek na temat efektywnego korzystania z niego.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">
-        The guide is divided into small, task-oriented topics - not chapters. 
-        This means that you don't need to skim through an entire manual to find 
-        answers to your questions.
-      </p></li>
-<li class="list"><p class="p">
-        Related items are linked together. "See Also" links at the bottom of 
-        some pages direct you to related topics.
-      </p></li>
-<li class="list"><p class="p">
-        The text input box at the top of this guide acts as a <span class="em">search 
-        bar</span>, and relevant results will appear beneath it as soon as you 
-        start typing. Left-click on any result to open its page.
-      </p></li>
-<li class="list"><p class="p">
-        The guide is constantly being improved. Although we attempt to provide 
-        you with a comprehensive collection of helpful information, we know we 
-        won't answer all of your questions here. We will keep adding more 
-        information to make things more helpful, though.
-      </p></li>
+<li class="list"><p class="p">Podręcznik jest podzielony na małe, zadaniowe tematy — nie rozdziały. Oznacza to, że nie trzeba przeglądać całego dokumentu, aby znaleźć właściwe odpowiedzi.</p></li>
+<li class="list"><p class="p">Powiązane elementy są połączone. Odnośniki „Patrz także” na dole niektórych stron kierują na podobne tematy.</p></li>
+<li class="list"><p class="p">Pole wprowadzania tekstu na górze podręcznika to <span class="em">pasek wyszukiwania</span>, a właściwe wyniki pojawią się od razu po rozpoczęciu wpisywania. Kliknięcie wyniku otworzy jego stronę.</p></li>
+<li class="list"><p class="p">Podręcznik jest cały czas ulepszany. Chociaż staramy się dostarczyć wyczerpujący zestaw przydatnych informacji, nie możemy zapewnić odpowiedzi na każde pytanie. Nie przestajemy jednak dodawać nowych tematów.</p></li>
 </ul></div></div></div>
-<p class="p">Dziękujemy za czas poświęcony na przeczytanie <span class="em">Przewodnika po pulpicie Ubuntu</span>.</p>
-<p class="p">
-    -- The Ubuntu Documentation team
-  </p>
+<p class="p">Dziękujemy za poświęcenie czasu na przeczytanie <span class="em">Podręcznika pulpitu Ubuntu</span>.</p>
+<p class="p">-- Zespół dokumentacji Ubuntu</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.pl-PL" title="Uzyskaj więcej pomocy">Uzyskaj więcej pomocy</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html.pl-PL" title="O tym przewodniku">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html.pl-PL" title="Participate to improve this guide">help improve this guide</a></span>…
-    </span>
+<a href="more-help.html.pl-PL" title="Więcej pomocy">Więcej pomocy</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.pl-PL" title="O tym podręczniku">Wskazówki, jak korzystać z pomocy</a></span>, <span class="link"><a href="get-involved.html.pl-PL" title="Dołącz do nas, aby ulepszyć ten podręcznik">pomaganie w ulepszaniu pomocy</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -121,7 +96,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

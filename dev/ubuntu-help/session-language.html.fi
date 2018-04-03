@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="prefs-language.html.fi" title="Alue- ja kieliasetukset">Alue- ja kieliasetukset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="prefs-language.html.fi" title="Alue- ja kieliasetukset">Alue- ja kieliasetukset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vaihda käytettävä kieli</span></h1></div>
@@ -92,6 +92,10 @@
   language in which the software was originally developed, usually American
   English.</p>
 <p class="p">Jotkin kansiot käyttävät kielikohtaista nimeä. Näissä kansioissa säilytetään muun muassa musiikkia, kuvia ja asiakirjoja. Kun kirjaudut kielen vaihtamisen jälkeen seuraavan kerran sisään, sinulta kysytään haluatko vaihtaa näiden kansioiden nimet omalle kielellesi. Jos aiot käyttää kieltä jatkossa, sinun kannattaa päivittää kansioiden nimet.</p>
+<div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -99,7 +103,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">Alue- ja kieliasetukset</a><span class="desc"> — <span class="link"><a href="session-language.html.fi" title="Vaihda käytettävä kieli">Kieliasetukset</a></span>, <span class="link"><a href="session-formats.html.fi" title="Vaihda päiväyksen ja mittojen muotoja">alue ja muotoilut</a></span>, <span class="link"><a href="keyboard-layouts.html.fi" title="Use alternative keyboard layouts">näppäimistöasettelu</a></span>…</span>
+<a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">Alue- ja kieliasetukset</a><span class="desc"> — <span class="link"><a href="session-language.html.fi" title="Vaihda käytettävä kieli">Kieliasetukset</a></span>, <span class="link"><a href="session-formats.html.fi" title="Vaihda päiväyksen ja mittojen muotoja">alue ja muotoilut</a></span>, <span class="link"><a href="keyboard-layouts.html.fi" title="Käytä vaihtoehtoisia näppäimistöasetteluja">näppäimistöasettelu</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -117,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

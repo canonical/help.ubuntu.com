@@ -80,16 +80,13 @@
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3"><li class="steps">
-<p class="p">Click the <span class="gui">Online Accounts</span> panel, then click the online
-      account service you want to use.</p>
-<p class="p">This will open a new window where you can sign in to your online
-      account.</p>
+<p class="p">Klik på panelet <span class="gui">Onlinekonti</span>, og klik så på den onlinekontotjeneste, du vil bruge.</p>
+<p class="p">Dette vil åbne et nyt vindue, hvor du kan logge ind på din onlinekonto.</p>
 </li></ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa4.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4">
-<li class="steps"><p class="p">Du skal for det meste give tilladelse til online-tjenesten efter du har logget ind, for at komme i gang.</p></li>
-<li class="steps"><p class="p">For example, if you are connecting to your Google account, you
-       will have to click the <span class="gui">Allow</span> button.</p></li>
+<li class="steps"><p class="p">Du skal for det meste give tilladelse til online-tjenesten efter du har logget ind for at komme i gang.</p></li>
+<li class="steps"><p class="p">Klik f.eks. på knappen <span class="gui">Tillad</span> for at forbinde til din Google-konto.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa5.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Mange onlinekonti lader dig vælge de tjenester, du vil bruge med din online-konto. Hvis du ikke vil bruge en tjeneste, så deaktivér den ved at klikke på kontakten <span class="gui">TIL/FRA</span> på højre side af vinduet.</p></li></ol></div></div></div>
@@ -125,7 +122,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

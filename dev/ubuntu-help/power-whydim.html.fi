@@ -65,11 +65,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a> › <a class="trail" href="power.html.fi#saving" title="Virranhallinnan asetukset">Virranhallinnan asetukset</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a> › <a class="trail" href="power.html.fi#saving" title="Virranhallinnan asetukset">Virranhallinnan asetukset</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a> › <a class="trail" href="power.html.fi#saving" title="Virranhallinnan asetukset">Virranhallinnan asetukset</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="power.html.fi" title="Virransäästö ja akku">Virransäästö ja akku</a> › <a class="trail" href="power.html.fi#saving" title="Virranhallinnan asetukset">Virranhallinnan asetukset</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html.fi#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="hardware-problems-graphics.html.fi" title="Näyttöongelmat">Näyttöongelmat</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html.fi#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="hardware-problems-graphics.html.fi" title="Näyttöongelmat">Näyttöongelmat</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -83,7 +83,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span>
       overview and start typing <span class="gui">Power</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Virranhallinta</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Dim screen when inactive</span> to <span class="gui">OFF</span> in the <span class="gui">Power
       Saving</span> section.</p></li>
 </ol></div></div></div>
@@ -95,7 +95,7 @@
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware-problems-graphics.html.fi" title="Näyttöongelmat">Näyttöongelmat</a><span class="desc"> — Näytön ja graafisten ongelmien ongelmanratkaisu</span>
+<a href="hardware-problems-graphics.html.fi" title="Näyttöongelmat">Näyttöongelmat</a><span class="desc"> — Näytön ja graafisten ongelmien ongelmanratkaisu.</span>
 </li>
 <li class="links "><a href="power.html.fi#saving" title="Virranhallinnan asetukset">Virranhallinnan asetukset</a></li>
 </ul></div>
@@ -104,14 +104,13 @@
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="display-brightness.html.fi" title="Aseta näytön kirkkaus">Aseta näytön kirkkaus</a><span class="desc"> — Change the screen brightness to make it more readable in bright
-    light.</span>
+<a href="display-brightness.html.fi" title="Aseta näytön kirkkaus">Aseta näytön kirkkaus</a><span class="desc"> — Muuta näytön kirkkautta parantaaksesi luettavuutta kirkkaassa valossa.</span>
+</li>
+<li class="links ">
+<a href="display-blank.html.fi" title="Aseta näytön pimenemisaika">Aseta näytön pimenemisaika</a><span class="desc"> — Muuta näytön pimenemisviivettä säästääksesi virtaa.</span>
 </li>
 <li class="links ">
 <a href="power-batterylife.html.fi" title="Käytä vähemmän virtaa ja säästä siten akkua">Käytä vähemmän virtaa ja säästä siten akkua</a><span class="desc"> — Vinkkejä tietokoneen virrankäytön vähentämiseksi.</span>
-</li>
-<li class="links ">
-<a href="display-blank.html.fi" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Muuta näytön pimenemisviivettä säästääksesi virtaa.</span>
 </li>
 </ul></div>
 </div></div>
@@ -124,7 +123,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

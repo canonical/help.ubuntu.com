@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="privacy.html.gl-GL" title="Preferencias de privacidade">Preferencias de privacidade</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="Máis tarefas relacionadas con ficheiros">Máis tarefas relacionadas con ficheiros</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -79,11 +79,11 @@
   background. They can increase performance by providing a copy of data that
   was downloaded or computed.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Automatically empty your trash and clear temporary files</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Limpar automaticamente o lixo e os ficheiros temporais</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Privacidade</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Eliminar lixo e ficheiros temporais</span>.</p></li>
 <li class="steps"><p class="p">Set one or both of the <span class="gui">Automatically empty Trash</span> or
       <span class="gui">Automatically purge Temporary Files</span> switches to
@@ -101,11 +101,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.gl-GL#more-file-tasks" title="Máis tarefas relacionadas con ficheiros">Máis tarefas relacionadas con ficheiros</a></li>
 <li class="links ">
 <a href="privacy.html.gl-GL" title="Preferencias de privacidade">Preferencias de privacidade</a><span class="desc"> — 
       <span class="link"><a href="privacy-screen-lock.html.gl-GL" title="Bloquear a pantalla automaticamente">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.gl-GL" title="Turn off or limit file history tracking">Usage history</a></span>,
+      <span class="link"><a href="privacy-history-recent-off.html.gl-GL" title="Desactivar ou limitar o seguimento do historial de ficheiros">Usage history</a></span>,
       <span class="link"><a href="privacy-purge.html.gl-GL" title="Limpar o lixo e ficheiros temporais">Purge trash &amp; temporary files</a></span>…
     </span>
 </li>
@@ -119,7 +119,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

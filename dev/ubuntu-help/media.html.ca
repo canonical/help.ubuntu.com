@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Sound, video &amp; pictures</title>
+<title>So, vídeo &amp; imatges</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Sound, video &amp; pictures</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">So, vídeo &amp; imatges</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="sound" class="sect"><div class="inner">
@@ -95,8 +95,8 @@
 <div class="title"><h3><span class="title">Més informació</span></h3></div>
 <div class="region"><ul><li class="links ">
 <a href="prefs.html.ca" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.ca" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.ca" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="keyboard.html.ca" title="Teclat">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.ca" title="Ratolí">mouse</a></span>,
       <span class="link"><a href="prefs-display.html.ca" title="Display &amp; screen">display</a></span>,
       <span class="link"><a href="prefs-language.html.ca" title="Region &amp; Language">languages</a></span>,
       <span class="link"><a href="user-accounts.html.ca" title="User accounts">user accounts</a></span>…
@@ -110,31 +110,28 @@
 <div class="hgroup"><h2 class="title"><span class="title">Music and portable audio players</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.ca" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.ca" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">Brand-new iPods need to be set-up using the iTunes software before you can use them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.ca" title="El meu iPod nou no funciona"><span class="title">El meu iPod nou no funciona</span><span class="linkdiv-dash"> — </span><span class="desc">Els nous iPod necessiten configurar-se amb el programari iTunes abans de poder utilitzar-los.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.ca" title="Les cançons no apareixen al meu iPod quan les copio"><span class="title">Les cançons no apareixen al meu iPod quan les copio</span><span class="linkdiv-dash"> — </span><span class="desc">Utilitzeu un reproductor multimèdia per copiar les cançons i retireu l'iPod després de forma segura.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ca" title="Open applications for devices or discs"><span class="title">Open applications for devices or discs</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically run applications for CDs and DVDs, cameras,
-    audio players, and other devices and media.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.ca" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Use a media player to copy the songs and safely remove the iPod afterward.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.ca" title="No es poden reproduir les cançons que ha comprat en una botiga de música en línia"><span class="title">No es poden reproduir les cançons que ha comprat en una botiga de música en línia</span><span class="linkdiv-dash"> — </span><span class="desc">El suport per a aquest format de fitxer pot no estar instal·lat o les cançons es podrien estar "protegides de còpia".</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ca" title="Obrir aplicacions per a dispositius o discos"><span class="title">Obrir aplicacions per a dispositius o discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executa automàticament aplicacions per a CD i DVD, càmeres, reproductors d'àudio i altres dispositius i suports.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="photos" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Photos and digital cameras</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Fotos i càmeres digitals</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.ca" title="Media card reader problems"><span class="title">Media card reader problems</span><span class="linkdiv-dash"> — </span><span class="desc">Troubleshoot media card readers</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ca" title="Open applications for devices or discs"><span class="title">Open applications for devices or discs</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically run applications for CDs and DVDs, cameras,
-    audio players, and other devices and media.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ca" title="Obrir aplicacions per a dispositius o discos"><span class="title">Obrir aplicacions per a dispositius o discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executa automàticament aplicacions per a CD i DVD, càmeres, reproductors d'àudio i altres dispositius i suports.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="videos" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Videos and video cameras</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Vídeos i càmeres de vídeo</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="app-cheese.html.ca" title="Creeu fotografies divertides i vídeos amb la càmera web"><span class="title">Creeu fotografies divertides i vídeos amb la càmera web</span><span class="linkdiv-dash"> — </span><span class="desc">És com la vostra cabina fotogràfica personal.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ca" title="Open applications for devices or discs"><span class="title">Open applications for devices or discs</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically run applications for CDs and DVDs, cameras,
-    audio players, and other devices and media.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ca" title="Obrir aplicacions per a dispositius o discos"><span class="title">Obrir aplicacions per a dispositius o discos</span><span class="linkdiv-dash"> — </span><span class="desc">Executa automàticament aplicacions per a CD i DVD, càmeres, reproductors d'àudio i altres dispositius i suports.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="video-sending.html.ca" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Check that they have the right video codecs installed.</span></a></div>
 </div>
 <div class="links-twocolumn">
@@ -158,7 +155,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

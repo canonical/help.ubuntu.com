@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="mouse.html.ca" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="mouse.html.ca" title="Ratolí">Ratolí</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="mouse.html.ca" title="Mouse">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="mouse.html.ca" title="Ratolí">Ratolí</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -80,9 +80,8 @@
 <div class="region"><div class="contents">
 <p class="p">You can tap your touchpad to click instead of using a button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Obriu la descripció d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenceu a escriure<span class="gui">Ratolí &amp; Tauleta</span>.</p></li>
+<li class="steps"><p class="p">Feu clic sobre <span class="gui">Ratoló &amp; Tauleta</span> per obrir el panell,</p></li>
 <li class="steps">
 <p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Tap to click</span>.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Touchpad</span> section only appears if your system has a
@@ -100,7 +99,7 @@
       buttons to right-click. See <span class="link"><a href="a11y-right-click.html.ca" title="Simular un clic amb el botó secundari del ratolí">Simular un clic amb el botó secundari del ratolí</a></span> for a method
       of right-clicking without a second mouse button.</p></li>
 <li class="list"><p class="p">If your touchpad supports multi-finger taps,
-      <span class="link"><a href="mouse-middleclick.html.ca" title="Middle-click">middle-click</a></span> by tapping with three
+      <span class="link"><a href="mouse-middleclick.html.ca" title="Clic al mig">middle-click</a></span> by tapping with three
       fingers at once.</p></li>
 </ul></div></div></div>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
@@ -113,9 +112,8 @@
 <div class="region"><div class="contents">
 <p class="p">You can scroll using your touchpad using two fingers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Obriu la descripció d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenceu a escriure<span class="gui">Ratolí &amp; Tauleta</span>.</p></li>
+<li class="steps"><p class="p">Feu clic sobre <span class="gui">Ratoló &amp; Tauleta</span> per obrir el panell,</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Two finger
       scroll</span>.</p></li>
 </ol></div></div></div>
@@ -134,9 +132,8 @@
 <p class="p">You can drag content as if sliding a physical piece of paper using the
   touchpad.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Obriu la descripció d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenceu a escriure<span class="gui">Ratolí &amp; Tauleta</span>.</p></li>
+<li class="steps"><p class="p">Feu clic sobre <span class="gui">Ratoló &amp; Tauleta</span> per obrir el panell,</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
       scrolling</span>.</p></li>
 </ol></div></div></div>
@@ -148,8 +145,8 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html.ca" title="Mouse">Mouse</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html.ca" title="Use your mouse left-handed">Left-handed</a></span>,
+<a href="mouse.html.ca" title="Ratolí">Ratolí</a><span class="desc"> — 
+      <span class="link"><a href="mouse-lefthanded.html.ca" title="Utilitzeu el ratolí per la ma esquerra">Left-handed</a></span>,
       <span class="link"><a href="mouse-sensitivity.html.ca" title="Adjust speed of the mouse and touchpad">speed and sensitivity</a></span>,
       <span class="link"><a href="mouse-touchpad-click.html.ca" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
     </span>
@@ -163,7 +160,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -70,28 +70,16 @@
 <div class="hgroup"><h1 class="title"><span class="title">Què és la visibilitat del Bluetooth?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Bluetooth visibility refers to whether other devices can discover
-  your computer when searching for Bluetooth devices. When Bluetooth is turned
-  on and the <span class="gui">Bluetooth</span> panel is open, your computer will advertize
-  itself to all other devices within range, allowing them to attempt to connect
-  to your computer.</p>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">You can <span class="link"><a href="sharing-displayname.html.ca" title="Set the display name for your computer">change</a></span> the name your
-    computer displays to other devices.</p></div></div></div></div>
-<p class="p">After you have
-  <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">connected to a device</a></span>,
-  neither your computer nor the device needs to be visible to communicate with
-  each other.</p>
+<p class="p">La visibilitat de Bluetooth fa referència a si altres dispositius poden detectar l'equip quan cerquen dispositius Bluetooth. Quan Bluetooth està actiu i el panell de <span class="gui">Bluetooth</span> està obert, el seu equip es publicarà a tots els altres dispositius dins del rang, permetent-los intentar connectar-se al seu ordinador.</p>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Pot <span class="link"><a href="sharing-displayname.html.ca" title="Set the display name for your computer">canviar</a></span> el nom que l'ordinador mostra als altres dispositius.</p></div></div></div></div>
+<p class="p">Un cop <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">connectat a un dispositiu</a></span>, ni l'ordinador ni el dispositiu necessiten ser visibles per comunicar-se entre ells.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — 
-      <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connect</a></span>,
-      <span class="link"><a href="bluetooth-send-file.html.ca" title="Send files to a Bluetooth device">send files</a></span>,
-      <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Turn Bluetooth on or off">turn on and off</a></span>…
-    </span>
+<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">enviar arxius</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -102,7 +90,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

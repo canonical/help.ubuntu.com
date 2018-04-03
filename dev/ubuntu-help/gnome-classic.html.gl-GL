@@ -75,7 +75,7 @@
   <span class="gui">Places</span> menus on the top bar, and a window
   list at the bottom of the screen.</p>
 <p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications. The <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>
+ applications. The <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span>
  overview is available by selecting the <span class="gui">Activities
  Overview</span> item from the menu.</p>
 <p class="p">To access the <span class="em"><span class="gui">Activities</span> overview</span>,
@@ -108,7 +108,7 @@
 <li class="steps"><p class="p">Escriba o seu contrasinal na caixa de entrada de contrasinal.</p></li>
 <li class="steps"><p class="p">Click the options icon, which is displayed to the left of the <span class="gui">Sign
       In</span> button, and select <span class="gui">GNOME Classic</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Sign In</span> button.</p></li>
+<li class="steps"><p class="p">Prema sobre o botón <span class="gui">Iniciar sesión</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
@@ -122,7 +122,7 @@
 <li class="steps"><p class="p">Escriba o seu contrasinal na caixa de entrada de contrasinal.</p></li>
 <li class="steps"><p class="p">Click the options icon, which is displayed to the left of the <span class="gui">Sign
       In</span> button, and select <span class="gui">GNOME</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Sign In</span> button.</p></li>
+<li class="steps"><p class="p">Prema sobre o botón <span class="gui">Iniciar sesión</span>.</p></li>
 </ol></div>
 </div></div>
 </div></div>
@@ -134,7 +134,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

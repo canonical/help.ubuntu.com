@@ -75,12 +75,14 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-terminology.html.sr" title="shell-terminology">Активности</a></span> и почните да куцате <span class="gui">Налози на мрежи</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">налоге на мрежи</span> да отворите панел.</p></li>
-<li class="steps"><p class="p">Изаберите налог који желите да измените са списка на левој страни.</p></li>
+<li class="steps"><p class="p">Select the account which you want to change from the list on the
+      right.</p></li>
 <li class="steps"><p class="p">Списак услуга које су доступне са овим налогом биће приказане под <span class="gui">Користи за</span>. Погледајте <span class="link"><a href="accounts-which-application.html.sr" title="Услуге и програми на мрежи">Услуге и програми на мрежи</a></span> да видите који програми приступају којим услугама.</p></li>
 <li class="steps"><p class="p">Искључите све оне услуге које не желите да користите.</p></li>
 </ol></div></div></div>
 <p class="p">Када искључите услугу за налог, програми на вашем рачунару неће више бити у могућности да користе налог да се повежу на ту услугу.</p>
-<p class="p">Да укључите услугу коју сте искључили, вратите се на прозор <span class="gui">Налога на мрежи</span> и укључите је.</p>
+<p class="p">To turn on a service that you disabled, just go back to the <span class="gui">Online
+  Accounts</span> panel and switch it on.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -111,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

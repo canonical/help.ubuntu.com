@@ -74,8 +74,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Bagaimana saya mengarahkan profil ke perangkat?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You may want to assign a color profile for your screen or printer so that
-  the colors which it shows are more accurate.</p>
+<p class="p">Anda mungkin ingin menentukan suatu profil warna bagi layar atau pencetak Anda sehingga warna yang ditampilkannya lebih akurat.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Warna</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Warna</span> untuk membuka panel.</p></li>
@@ -118,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,33 +75,28 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.pl-PL" title="Adjust speed of the mouse and touchpad"><span class="title">Adjust speed of the mouse and touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Change how quickly the pointer moves when you use your mouse or
-    touchpad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.pl-PL" title="Adjust the double-click speed"><span class="title">Adjust the double-click speed</span><span class="linkdiv-dash"> — </span><span class="desc">Control how quickly you need to press the mouse button
-    a second time to double-click.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.pl-PL" title="Click and move mouse pointer using the keypad"><span class="title">Click and move mouse pointer using the keypad</span><span class="linkdiv-dash"> — </span><span class="desc">Enable mouse keys to control the mouse with the numeric
-    keypad.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.pl-PL" title="Click, drag, or scroll with the touchpad"><span class="title">Click, drag, or scroll with the touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Click, drag, or scroll using taps and gestures on your
-    touchpad.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.pl-PL" title="Dostosowanie podwójnego kliknięcia"><span class="title">Dostosowanie podwójnego kliknięcia</span><span class="linkdiv-dash"> — </span><span class="desc">Sterowanie, jak szybko trzeba nacisnąć przycisk myszy drugi raz, aby wykonać podwójne kliknięcie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.pl-PL" title="Dostosowanie prędkości myszy i panelu dotykowego"><span class="title">Dostosowanie prędkości myszy i panelu dotykowego</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana prędkości poruszania się kursora podczas używania myszy lub panelu dotykowego.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.pl-PL" title="Klikanie i przenoszenie kursora myszy za pomocą klawiatury numerycznej"><span class="title">Klikanie i przenoszenie kursora myszy za pomocą klawiatury numerycznej</span><span class="linkdiv-dash"> — </span><span class="desc">Sterowanie myszą za pomocą klawiatury numerycznej.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.pl-PL" title="Klikanie, przeciąganie i przewijanie za pomocą panelu dotykowego"><span class="title">Klikanie, przeciąganie i przewijanie za pomocą panelu dotykowego</span><span class="linkdiv-dash"> — </span><span class="desc">Klikanie, przeciąganie i przewijanie za pomocą stuknięć i gestów na panelu dotykowym.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.pl-PL" title="Symulacja klikania przez najechanie"><span class="title">Symulacja klikania przez najechanie</span><span class="linkdiv-dash"> — </span><span class="desc">Funkcja <span class="gui">Klikanie po najechaniu</span> (klikanie spoczynkowe) umożliwia klikanie przez przytrzymanie myszy w miejscu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.pl-PL" title="Symulacja kliknięcia prawym przyciskiem myszy"><span class="title">Symulacja kliknięcia prawym przyciskiem myszy</span><span class="linkdiv-dash"> — </span><span class="desc">Naciśnięcie i przytrzymanie lewego przycisku myszy, aby kliknąć prawym przyciskiem myszy.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.pl-PL" title="Use your mouse left-handed"><span class="title">Use your mouse left-handed</span><span class="linkdiv-dash"> — </span><span class="desc">Reverse the left and right mouse buttons in the mouse settings.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.pl-PL" title="Używanie myszy leworęcznej"><span class="title">Używanie myszy leworęcznej</span><span class="linkdiv-dash"> — </span><span class="desc">Odwracanie lewego i prawego przycisku myszy w ustawieniach.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="problems" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Często występujące problemy</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.pl-PL" title="Mouse pointer is not moving"><span class="title">Mouse pointer is not moving</span><span class="linkdiv-dash"> — </span><span class="desc">How to check why your mouse is not working.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.pl-PL" title="Mouse reacts with delay before it starts working"><span class="title">Mouse reacts with delay before it starts working</span><span class="linkdiv-dash"> — </span><span class="desc">If you have to wiggle or click the mouse before it responds.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.pl-PL" title="Mysz reaguje z opóźnieniem, zanim zaczyna działać"><span class="title">Mysz reaguje z opóźnieniem, zanim zaczyna działać</span><span class="linkdiv-dash"> — </span><span class="desc">Jeśli trzeba poruszyć myszą lub kliknąć, zanim można jej używać.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.pl-PL" title="Nie można ruszyć kursora myszy"><span class="title">Nie można ruszyć kursora myszy</span><span class="linkdiv-dash"> — </span><span class="desc">Jak sprawdzić, dlaczego mysz nie działa.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="tips" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Wskazówki</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy"><span class="title">Kliknięcie środkowym przyciskiem myszy</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
-    more.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy"><span class="title">Kliknięcie środkowym przyciskiem myszy</span><span class="linkdiv-dash"> — </span><span class="desc">Używanie środkowego przycisku myszy do otwierania programów, kart i nie tylko.</span></a></div></div>
 <div class="links-twocolumn"></div>
 </div></div></div></div></div>
 </div></div>
@@ -126,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

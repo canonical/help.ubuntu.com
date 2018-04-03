@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Paketquellen hinzufügen</span></h1></div>
@@ -79,16 +79,13 @@
 </p>
 <p class="p">Eine Paketquelle hinzufügen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Klicken Sie auf das <span class="app">Ubuntu Software</span> Symbol im <span class="gui">Dock</span>, oder suchen Sie nach <span class="input">Software</span> in der <span class="em">Aktivitäten</span> Suchleiste.</p></li>
 <li class="steps"><p class="p">Sobald <span class="app">Ubuntu Software</span> gestartet ist, klicken Sie auf <span class="gui">Software &amp; Updates</span></p></li>
 <li class="steps"><p class="p">Sie werden aufgefordert, Ihr Passwort einzugeben. Nachdem Sie das getan haben, wählen Sie den Reiter <span class="gui">Andere Programme</span>.</p></li>
 <li class="steps">
 <p class="p">Klicken Sie auf <span class="gui">Hinzufügen</span> und geben Sie die APT-Zeile der Quelle ein. Diese sollte auf der Website der Paketquelle verfügbar sein und ungefähr folgendermaßen aussehen:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Klicken Sie auf  <span class="gui">Softwarequelle hinzufügen</span>, schließen Sie das <span class="app">Software &amp; Updates</span> Fenster. <span class="app">Ubuntu Software</span> wird sodann die Softwarequellen nach aktualisierter Software durchsuchen.</p></li>
@@ -98,10 +95,16 @@
 <div id="canonical-partner" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Die Paketquelle von Canonical-Partnern aktivieren</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Die Canonical-Partnerpaketquellen bieten einige proprietäre Anwendungen, die zwar kein Geld kosten, jedoch unfreie Software enthalten.  Dort finden Sie Anwendungen wie <span class="app">Skype</span> und <span class="app">Adobe Flash Plugin</span>. Programme aus dieser Paketquelle erscheinen in <span class="app">Ubuntu Software</span> -Suchergebnissen, können jedoch erst installiert werden, wenn die Paketquelle freigeschaltet ist.</p>
+<p class="p">
+      The Canonical Partner repository offers some proprietary applications 
+      that don't cost any money to use but are closed source. They include 
+      software like <span class="app">Adobe Flash Plugin</span>. Software in this
+      repository will appear in <span class="app">Ubuntu Software</span> search results
+      but won't be installable until this repository is enabled.
+    </p>
 <p class="p">Um die Paketquelle einzurichten, befolgen Sie die obigen Schritte um den Reiter <span class="gui">Andere Programme</span> tab in <span class="app">Software &amp; Updates</span> zu öffnen. Wenn Sie  die Paketquelle <span class="gui">Canonical Partner</span> in der Liste sehen, wählen Sie diese aus. Schließen Sie das <span class="app">Software &amp; Updates</span> Fenster. Falls Sie es nicht sehen, klicken Sie auf<span class="gui">Hinzufügen</span> und geben Sie ein:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
 <p class="p">Klicken Sie  <span class="gui">Paketquelle hinzufügen</span>, schließen Sie dann das <span class="app">Software &amp; Aktualisierungen</span> Fenster. Warten Sie bis <span class="app">Ubuntu Software</span> die Paketquelleninformationen  heruntergeladen hat.</p>
 </div></div>
@@ -130,7 +133,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

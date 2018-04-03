@@ -73,13 +73,10 @@
 <p class="p">Untuk mengirim surel, mengobrol, atau menelepon seseorang dalam <span class="app">Kontak</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Pilih kontak dari daftar kontak Anda.</p></li>
-<li class="steps"><p class="p">Press on the <span class="em">detail</span> that you want to use. For example, to
-      email your contact, press the email address.</p></li>
-<li class="steps"><p class="p">The corresponding application will be launched using the contact’s
-      details.</p></li>
+<li class="steps"><p class="p">Tekan pada <span class="gui">Rincian</span> yang ingin Anda pakai. Sebagai contoh, untuk mengirim surel ke kontak Anda, tekan alamat surel.</p></li>
+<li class="steps"><p class="p">Aplikasi yang sesuai akan diluncurkan dengan menggunakan rincian kontak.</p></li>
 </ol></div></div></div>
-<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">If there is no available application for the detail that you wish to
-    use, you will not be able to select it.</p></div></div></div></div>
+<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Jika tidak ada aplikasi yang tersedia untuk detail yang ingin Anda gunakan, Anda tidak akan mampu untuk memilihnya.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -97,7 +94,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

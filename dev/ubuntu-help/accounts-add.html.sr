@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-terminology.html.sr" title="shell-terminology">Активности</a></span> и почните да куцате <span class="gui">Налози на мрежи</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">налоге на мрежи</span> да отворите панел.</p></li>
-<li class="steps"><p class="p">Кликните на дугме <span class="gui">+</span> у доњем левом углу прозора.</p></li>
+<li class="steps"><p class="p">Select an account from the list on the right.</p></li>
 <li class="steps"><p class="p">Изаберите врсту налога који желите да додате.</p></li>
 <li class="steps"><p class="p">Отвориће се прозорче веб сајта у коме ћете моћи да унесете податке вашег налога на мрежи. На пример, ако подешавате Гуглов налог, унесите ваше корисничко име и лозинку за Гугл. Неки достављачи вам омогућавају да направите нови налог из прозорчета за пријављивање.</p></li>
 <li class="steps"><p class="p">Ако сте исправно унели ваше податке, биће вам затражено да дозволите Гномов приступ вашем налогу на мрежи. Овластите приступ да наставите.</p></li>
@@ -99,7 +99,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

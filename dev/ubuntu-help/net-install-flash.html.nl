@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-browser.html.nl" title="Webbrowsers">Webbrowsers</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-browser.html.nl" title="Webbrowsers">Webbrowsers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">De Flash plug-in installeren</span></h1></div>
@@ -72,6 +72,8 @@
 <div class="contents">
 <p class="p">Flash is een <span class="em">plug-in</span> voor uw webbrowser waarmee u video's kunt bekijken en interactieve webpagina's kunt gebruiken op bepaalde websites. Hoewel HTML5, een modernere oplossing, meer en meer geboden wordt, zijn er nog altijd websites die niet werken zonder Flash.</p>
 <p class="p">Als u Flash niet geïnstalleerd heeft, dan ziet u waarschijnlijk een bericht dat u dit vertelt wanneer u een website bezoekt die het nodig heeft. Flash is te krijgen als een vrije (maar niet opensource) download voor de meeste webbrowsers.</p>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe has announced that they will stop updating and distributing the Flash Player at the end
+ of 2020. Consequently, for security reasons, the Flash plug-in should not be used after 2020.</p></div></div></div></div>
 <p class="p">Er zijn twee soorten plug-ins beschikbaar:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="em">NPAPI</span> voor <span class="app">Firefox</span> en andere op Gecko gebaseerde webbrowsers</p></li>
@@ -81,10 +83,8 @@
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox. If you chose
- to install certain third-party software when you installed Ubuntu, <span class="app">flashplugin-installer</span> is
- probably installed already. Otherwise you can <span class="link"><a href="https://apps.ubuntu.com/cat/applications/flashplugin-installer" title="https://apps.ubuntu.com/cat/applications/flashplugin-installer">install it</a></span>
- and restart your browser.</p></div></div>
+<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox.
+ <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Install the package</a></span> and restart your browser.</p></div></div>
 </div></div>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>
@@ -92,7 +92,7 @@
 <p class="p">Het pakket <span class="app">adobe-flashplugin</span> bevat zowel de NPAPI als PPAPI plug-ins, dat wil zeggen dat het Flash bevat voor browsers als Firefox en Chromium.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Zorg ervoor dat de <span class="link"><a href="addremove-sources.html.nl#canonical-partner" title="De bron Partners van Canonical activeren">softwarebron "Partners van Canonical" is geactiveerd</a></span>.</p></li>
-<li class="steps"><p class="p">Het pakket <span class="link"><a href="https://apps.ubuntu.com/cat/applications/adobe-flashplugin" title="https://apps.ubuntu.com/cat/applications/adobe-flashplugin">adobe-flashplugin</a></span> installeren.</p></li>
+<li class="steps"><p class="p">Het pakket <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span> installeren.</p></li>
 <li class="steps"><p class="p">Uw browser opnieuw starten.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -127,7 +127,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

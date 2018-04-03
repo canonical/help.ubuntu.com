@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.de" title="Erste Schritte">Erste Schritte mit GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="getting-started.html.de" title="Erste Schritte">Erste Schritte mit GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -75,7 +75,7 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Öffnen Sie die <span class="gui">Aktivitäten-Übersicht</span> durch Drücken der <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-Taste. Tippen Sie, um mit der Suche zu beginnen.</p>
+<p class="p">Öffnen Sie die <span class="gui">Aktivitäten</span>-Übersicht durch einen Mausklick auf <span class="gui">Aktivitäten</span> in der oberen linken Ecke des Bildschirms oder durch Drücken der <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>-Taste. Tippen Sie anschließend einfach einen Suchbegriff, um mit der Suche zu beginnen.</p>
 <p class="p">Während Sie tippen, erscheinen zu Ihrer Eingabe passende Ergebnisse. Das erste Ergebnis wird immer hervorgehoben und ganz oben angezeigt.</p>
 <p class="p">Drücken Sie die <span class="key"><kbd>Eingabetaste</kbd></span>, um zum ersten hervorgehobenen Ergebnis zu wechseln.</p>
 </li></ol></div></div></div>
@@ -86,8 +86,14 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">passende Anwendungen, angezeigt am Anfang der Suchergebnisse,</p></li>
 <li class="list"><p class="p">passende Einstellungen,</p></li>
-<li class="list"><p class="p">passende Kontakte, und</p></li>
-<li class="list"><p class="p">passende Dokumente.</p></li>
+<li class="list"><p class="p">passende Kontakte,</p></li>
+<li class="list"><p class="p">passende Dokumente,</p></li>
+<li class="list"><p class="p">passender Kalender,</p></li>
+<li class="list"><p class="p">passender Rechner,</p></li>
+<li class="list"><p class="p">passende Software,</p></li>
+<li class="list"><p class="p">passende Dateien,</p></li>
+<li class="list"><p class="p">passendes Terminal,</p></li>
+<li class="list"><p class="p">passende Passwörter und Schlüssel.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +116,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klicken Sie auf das <span class="gui"><a href="shell-introduction.html.de#yourname" title="Sie und Ihr Rechner">Systemmenü</a></span> auf der rechten Seite der oberen Leiste.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf den Einstellungen-Knopf im linken unteren Bereich des Menüs.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf die <span class="gui">Suchen</span>-Leiste.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Suchen</span> in der linken Leiste.</p></li>
 <li class="steps"><p class="p">Klicken Sie in der Liste der Suchpfade die <span class="gui">AN/AUS</span>-Schalter neben dem Suchpfad zum Aktivieren oder Deaktivieren.</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

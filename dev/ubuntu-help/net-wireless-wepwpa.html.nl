@@ -64,18 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wat betekenen WEP en WPA?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">WEP and WPA (along with WPA2) are names for different encryption tools
-  used to secure your wireless connection. Encryption scrambles the network
-  connection so that no one can “listen in” to it and look at which web pages
-  you are viewing, for example. WEP stands for <span class="em">Wired Equivalent
-  Privacy</span>, and WPA stands for <span class="em">Wireless Protected Access</span>. WPA2 is
-  the second version of the WPA standard.</p>
+<p class="p"> WEP en WPA (samen met WPA2) zijn namen van verschillende encryptiehulpmiddelen om uw draadloze verbinding te beveiligen. Encryptie versleutelt de netwerkverbinding zodat niemand kan ‘afluisteren’ en kan zien naar welke webpagina's u kijkt bijvoorbeeld. WEP staat voor <span class="em">Wired Equivalent Privacy</span>, and WPA staat voor <span class="em">Wireless Protected Access</span>. WPA2 is de tweede versie van de WPA-standaard.</p>
 <p class="p">Het gebruik van <span class="em">enige</span> versleuteling is altijd beter dan geen, maar WEP is de minst veilige van deze standaarden; gebruik deze niet als u het kunt vermijden. WPA2 is de veiligste van de drie. Als uw draadloze kaart en router WPA2 ondersteunen, dan moet u deze gebruiken wanneer u uw draadloze netwerk instelt.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -83,11 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -98,7 +89,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

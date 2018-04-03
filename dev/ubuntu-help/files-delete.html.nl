@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#common-file-tasks" title="Veelvoorkomende taken">Veelvoorkomende taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bestanden en mappen verwijderen</span></h1></div>
@@ -78,10 +78,7 @@
 <li class="steps"><p class="p">Druk de  <span class="key"><kbd>Delete</kbd></span>-toets op het toetsenbord. U kunt het item ook naar de <span class="gui">Prullenbak</span> in de zijbalk slepen.</p></li>
 </ol></div>
 </div></div>
-<p class="p">The file will be moved to the trash, and you’ll be presented with an
-  option to <span class="gui">Undo</span> the deletion. The <span class="gui">Undo</span> button will appear
-  for a few seconds. If you select <span class="gui">Undo</span>, the file will be restored
-  to its original location.</p>
+<p class="p">Het  bestand zal naar de prullenbak worden verplaatst, en u krijgt de keuze voor het <span class="gui">ongedaan maken</span> van de verwijdering. De knop <span class="gui">Ongedaan maken</span> zal enkele seconden te zien zijn. Als u <span class="gui">Ongedaan maken</span> kiest, dan zal het bestand naar de oorspronkelijke locatie teruggezet worden.</p>
 <p class="p">Om bestanden permanent te verwijderen en zo schijfruimte op uw computer vrij te maken, dient u de prullenbak te legen. Om de prullenbak te legen klikt u met rechts op de <span class="gui">Prullenbak</span> in de zijbalk en kiest u <span class="gui">Prullenbak legen</span>.</p>
 </div>
 <div id="permanent" class="sect"><div class="inner">
@@ -92,7 +89,7 @@
 <div class="title title-steps"><h3><span class="title">Een bestand permanent verwijderen:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Selecteer het item dat u wilt verwijderen.</p></li>
-<li class="steps"><p class="p">Houd de <span class="key"><kbd>Shift</kbd></span>-toets ingedrukt en druk vervolgens op de <span class="key"><kbd>Delete</kbd></span>-toets op u toetsenbord.</p></li>
+<li class="steps"><p class="p">Houd de <span class="gui">Shift</span>-toets ingedrukt en druk vervolgens op de <span class="key"><kbd>Delete</kbd></span>-toets op u toetsenbord.</p></li>
 <li class="steps"><p class="p">Omdat u dit niet ongedaan kunt maken, wordt u gevraagd te bevestigen om een bestand of de map te verwijderen.</p></li>
 </ol></div>
 </div></div>
@@ -124,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

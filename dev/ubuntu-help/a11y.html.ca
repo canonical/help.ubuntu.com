@@ -70,17 +70,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Accés universal</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The GNOME desktop includes assistive technologies to support users with
-  various impairments and special needs, and to interact with common assistive
-  devices. An accessibility menu can be added to the top bar, giving easier
-  access to many of the accessibility features.</p>
+<p class="p">L'escriptori del GNOME inclou tecnologies d'assistència per donar suport a usuaris amb limitacions i necessitats especials, i per interactuar amb els dispositius assistents més comuns. Es pot afegir un menú d'accessibilitat a la barra superior per facilitar l'accés a moltes de les funcions d'accessibilitat.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.ca" title="Trobar el menú d'accés universal"><span class="title">Trobar el menú d'accés universal</span><span class="linkdiv-dash"> — </span><span class="desc">El menú d'accés universal és la icona del quadre superior que s'assembla a una persona.</span></a></div></div></div></div>
 </div>
 <div id="vision" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Discapacitats visuals</span></h2></div>
 <div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner">
-<div class="title title-links"><h3><span class="title">Ceguera</span></h3></div>
+<div class="title title-links"><h3><span class="title">Ceguesa</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
 <a href="a11y-braille.html.ca" title="Llegir la pantalla en Braille">Llegir la pantalla en Braille</a><span class="desc"> — Com utilitzar el lector de pantalla <span class="app">Orca</span> amb una pantalla Braille actualitzable.</span>
@@ -94,14 +91,13 @@
 <div class="title title-links"><h3><span class="title">Poca visió</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-contrast.html.ca" title="Ajustar el contrast">Ajustar el contrast</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
-    they’re easier to see.</span>
+<a href="a11y-contrast.html.ca" title="Ajustar el contrast">Ajustar el contrast</a><span class="desc"> — Feu que les finestres i els botons de la pantalla siguin més (o menys) vius, de manera que siguin més fàcils de veure.</span>
+</li>
+<li class="links ">
+<a href="a11y-mag.html.ca" title="Amplia una àrea de la pantalla">Amplia una àrea de la pantalla</a><span class="desc"> — Amplieu la pantalla perquè sigui més fàcil veure les coses.</span>
 </li>
 <li class="links ">
 <a href="a11y-font-size.html.ca" title="Canviar la mida del text a la pantalla">Canviar la mida del text a la pantalla</a><span class="desc"> — Com utilitzar tipus de lletra més grans per a fer el text més fàcil de llegir.</span>
-</li>
-<li class="links ">
-<a href="a11y-mag.html.ca" title="Magnify a screen area">Magnify a screen area</a><span class="desc"> — Zoom in on your screen so that it is easier to see things.</span>
 </li>
 <li class="links ">
 <a href="keyboard-cursor-blink.html.ca" title="Make the keyboard cursor blink">Make the keyboard cursor blink</a><span class="desc"> — Make the insertion point blink and control how quickly it
@@ -129,8 +125,7 @@
     touchpad.</span>
 </li>
 <li class="links ">
-<a href="mouse-mousekeys.html.ca" title="Click and move mouse pointer using the keypad">Click and move mouse pointer using the keypad</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
-    keypad.</span>
+<a href="mouse-mousekeys.html.ca" title="Feu clic i moveu el punter del ratolí usant el teclat numèric">Feu clic i moveu el punter del ratolí usant el teclat numèric</a><span class="desc"> — Activa les tecles del ratolí per controlar el ratolí amb el teclat numèric.</span>
 </li>
 </ul></div>
 </div></div>
@@ -138,15 +133,13 @@
 <div class="title title-links"><h3><span class="title">Com fer clic i arrossegar</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-doubleclick.html.ca" title="Adjust the double-click speed">Adjust the double-click speed</a><span class="desc"> — Control how quickly you need to press the mouse button
-    a second time to double-click.</span>
+<a href="mouse-doubleclick.html.ca" title="Ajusteu la velocitat del doble de clic">Ajusteu la velocitat del doble de clic</a><span class="desc"> — Controleu la rapidesa amb què s'ha de prémer el botó del ratolí una segona vegada per fer doble clic.</span>
 </li>
 <li class="links ">
 <a href="a11y-right-click.html.ca" title="Simular un clic amb el botó secundari del ratolí">Simular un clic amb el botó secundari del ratolí</a><span class="desc"> — Com fer que en prémer i mantenir el botó primari del ratolí es faci clic amb el botó secundari.</span>
 </li>
 <li class="links ">
-<a href="a11y-dwellclick.html.ca" title="Simular un clic mantenint el ratolí immòbil">Simular un clic mantenint el ratolí immòbil</a><span class="desc"> — The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
-    by holding the mouse still.</span>
+<a href="a11y-dwellclick.html.ca" title="Simular un clic passant el ratolí per sobre">Simular un clic passant el ratolí per sobre</a><span class="desc"> — La funció<span class="gui">Clic en passar per sobre</span> permet fer clic mantenint el ratolí immòbil.</span>
 </li>
 </ul></div>
 </div></div>
@@ -163,11 +156,11 @@
 <a href="a11y-stickykeys.html.ca" title="Activació les tecles enganxoses">Activació les tecles enganxoses</a><span class="desc"> — Com escriure les dreceres de teclat prement una única tecla cada vegada en comptes d'havent-les de mantenir totes premudes alhora.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html.ca" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
-</li>
-<li class="links ">
 <a href="keyboard-repeat-keys.html.ca" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
     or change the delay and speed of repeat keys.</span>
+</li>
+<li class="links ">
+<a href="keyboard-nav.html.ca" title="Navegació per teclat">Navegació per teclat</a><span class="desc"> — Utilitzeu aplicacions i l'escriptori sense ratolí.</span>
 </li>
 <li class="links ">
 <a href="keyboard-osk.html.ca" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
@@ -202,7 +195,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

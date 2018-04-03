@@ -2,9 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Install additional applications
-  </title>
+<title>Asenna lisäsovelluksia</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -66,12 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.fi" title="Install &amp; remove software">Lisää/poista ohjelmistoja</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="addremove.html.fi" title="Lisää ja poista ohjelmistoja">Lisää/poista ohjelmistoja</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Install additional applications
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Asenna lisäsovelluksia</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">
@@ -84,9 +80,8 @@
 <p class="p">
     Applications are available in two formats: snap packages and Debian packages.
     An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    In order to install (or remove) a snap you have to log on to the Snap Store/Ubuntu One. Some 
-    applications are available in both formats. In such a case in <span class="app">Ubuntu Software</span> the snap will be
-    listed first.
+    Some applications are available in both formats. In such a case in
+    <span class="app">Ubuntu Software</span> the snap will be listed first.
    </p>
 <p class="p">
     You may also wish to install software that does not have a GUI. To install
@@ -110,11 +105,7 @@
         <span class="gui">Install</span>.
       </p></li>
 <li class="steps"><p class="p">
-        If you're installing a snap, log on to the Snap Store/Ubuntu One.
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password
-        (that is, your user password, not your Snap Store/Ubuntu One password). 
+        You will be asked to authenticate by entering your password. 
         Once you have done that the installation will begin. 
         The installation usually finishes quickly, but could take a while if you 
         have a slow Internet connection.
@@ -127,11 +118,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.fi" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.fi" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.fi" title="Poista sovellus">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.fi" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.fi" title="Lisää ja poista ohjelmistoja">Lisää ja poista ohjelmistoja</a><span class="desc"> — <span class="link"><a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna sovelluksia</a></span>, <span class="link"><a href="addremove-remove.html.fi" title="Poista sovellus">poista sovelluksia</a></span>, <span class="link"><a href="addremove-sources.html.fi" title="Lisää ohjelmistolähteitä">lisää ohjelmistolähteitä</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -147,9 +134,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="addremove-remove.html.fi" title="Poista sovellus">Poista sovellus</a><span class="desc"> — 
-      Remove applications that you no longer use.
-    </span>
+<a href="addremove-remove.html.fi" title="Poista sovellus">Poista sovellus</a><span class="desc"> — Poista sovelluksia, joita et enää käytä.</span>
 </li>
 </ul></div>
 </div></div>
@@ -162,7 +147,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

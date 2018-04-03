@@ -64,15 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wat is een stuurprogramma?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Devices are the physical “parts” of your computer. They may be
-<span class="em">external</span> like printers and monitor or <span class="em">internal</span> like graphics
-and audio cards.</p>
+<p class="p">Apparaten zij de fysieke "delen" van uw computer. Ze kunnen <span class="em">extern</span> zijn, zoals printers en monitoren of <span class="em">intern</span> zoals grafische kaarten en geluidskaarten.</p>
 <p class="p">Om deze apparaten te kunnen gebruiken moet uw computer weten hoe ermee te communiceren. Dit wordt gedaan door een stukje software genaamd <span class="em">apparaat-stuurprogramma</span>.</p>
 <p class="p">Wanneer u een apparaat aansluit op uw computer, dan moet u het juiste stuurprogramma geïnstalleerd hebben om het te laten werken. Als u bijvoorbeeld een printer aansluit, maar het juiste stuurprogramma is niet beschikbaar, dan kunt u de printer niet gebruiken. Normaal gesproken gebruikt elk model van een apparaat een stuurprogramma dat niet compatibel is met een ander model.</p>
 <p class="p">In Linux zijn de stuurprogramma's voor de meeste apparaten standaard geïnstalleerd, dus alles wat u aansluit zou moeten werken. Maar het kan ook zijn dat een stuurprogramma handmatig moet worden geïnstalleerd of helemaal niet te krijgen is.</p>
@@ -84,21 +82,20 @@ and audio cards.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.nl" title="Schijven &amp; opslag">schijven</a></span>...</span>
+<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html.nl" title="disks">schijven</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-nowireless.html.nl" title="Ik heb geen draadloos netwerk na het weer actief worden van mijn computer">Ik heb geen draadloos netwerk na het weer actief worden van mijn computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
-    suspended and does not resume properly.</span>
+<a href="power-nowireless.html.nl" title="Ik heb geen draadloos netwerk na het weer actief worden van mijn computer">Ik heb geen draadloos netwerk na het weer actief worden van mijn computer</a><span class="desc"> — Met sommige draadloze apparaten krijgt u problemen wanneer uw computer in de pauzestand is gezet en werken daarna niet meer.</span>
 </li>
 <li class="links ">
 <a href="bluetooth-problem-connecting.html.nl" title="Ik kan mijn Bluetooth-apparaat niet aansluiten">Ik kan mijn Bluetooth-apparaat niet aansluiten</a><span class="desc"> — Het kan zijn dat de adapter is uitgeschakeld, of geen stuurprogramma heeft, of Bluetooth kan uitgeschakeld of geblokkeerd zijn.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html.nl" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.nl" title="Waarom wordt mijn computer niet meer actief nadat ik hem in de pauzestand heb gezet?">Waarom wordt mijn computer niet meer actief nadat ik hem in de pauzestand heb gezet?</a><span class="desc"> — Sommige computerhardware veroorzaakt problemen bij pauzestand.</span>
 </li>
 </ul></div>
 </div></div>
@@ -111,7 +108,7 @@ and audio cards.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

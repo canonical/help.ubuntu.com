@@ -64,20 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Schijven &amp; opslag</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.nl" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html.nl" title="Alles van een verwijderbare schijf wissen"><span class="title">Alles van een verwijderbare schijf wissen</span><span class="linkdiv-dash"> — </span><span class="desc">Verwijder alle bestanden en mappen van een externe harde schijf of usb-stick door te formatteren.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.nl" title="Controleer hoeveel schijfruimte er nog besschikbaar is"><span class="title">Controleer hoeveel schijfruimte er nog besschikbaar is</span><span class="linkdiv-dash"> — </span><span class="desc">Gebruik <span class="gui">Schijfgebruik</span> of <span class="gui">Systeemmonitor</span> om ruimte en capaciteit te controleren.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html.nl" title="Controleer of er problemen zijn met u harde schijf"><span class="title">Controleer of er problemen zijn met u harde schijf</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html.nl" title="Controleer of er problemen zijn met u harde schijf"><span class="title">Controleer of er problemen zijn met u harde schijf</span><span class="linkdiv-dash"> — </span><span class="desc">Testen of er problemen zijn met u harde schijf om te zorgen dat deze in een goede staat verkeert.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.nl" title="De grootte van een bestandssysteem aanpassen"><span class="title">De grootte van een bestandssysteem aanpassen</span><span class="linkdiv-dash"> — </span><span class="desc">Een bestandssysteem en diens partities vergroten of verkleinen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.nl" title="De prestaties van u harde schijf testen"><span class="title">De prestaties van u harde schijf testen</span><span class="linkdiv-dash"> — </span><span class="desc">Prestatiemetingen (benchmarks) uitvoeren op uw harde schijf om te controleren hoe snel die is.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.nl" title="Een beschadigd bestandssysteem repareren"><span class="title">Een beschadigd bestandssysteem repareren</span><span class="linkdiv-dash"> — </span><span class="desc">Controleer of een bestandssysteem beschadigd is en  breng het terug in een bruikbare staat.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.nl" title="Een opstartschijf aanmaken"><span class="title">Een opstartschijf aanmaken</span><span class="linkdiv-dash"> — </span><span class="desc">Maak van een usb-stick een volume van waaruit u kunt opstarten en Ubuntu installeren.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.nl" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
-          state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.nl" title="Volumes en partities beheren"><span class="title">Volumes en partities beheren</span><span class="linkdiv-dash"> — </span><span class="desc">Begrijpen wat Volumen en partities zijn en hoe het schijfgereedschap te gebruiken om ze te beheren.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -85,7 +84,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.nl" title="Schijven &amp; opslag">schijven</a></span>...</span>
+<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html.nl" title="disks">schijven</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -96,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

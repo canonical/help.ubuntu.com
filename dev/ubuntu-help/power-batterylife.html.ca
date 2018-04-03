@@ -87,8 +87,8 @@
     case.</p></li>
 <li class="list"><p class="p">Use the <span class="gui">Power</span> panel in <span class="app">Settings</span> to change your
     power settings. There are a number of options that will help to save power:
-    you can <span class="link"><a href="display-blank.html.ca" title="Set screen blanking time">automatically blank the screen</a></span>
-    after a certain time, reduce the <span class="link"><a href="display-brightness.html.ca" title="Set screen brightness">screen
+    you can <span class="link"><a href="display-blank.html.ca" title="Establiu el temps d'entrada en inactivitat de la pantalla">automatically blank the screen</a></span>
+    after a certain time, reduce the <span class="link"><a href="display-brightness.html.ca" title="Establiu la brillantor de la pantalla">screen
     brightness</a></span>, and have the computer
     <span class="link"><a href="power-autosuspend.html.ca" title="Set up automatic suspend">automatically suspend</a></span> if you have not
     used it for a certain period of time.</p></li>
@@ -100,7 +100,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Laptops, netbooks, and other devices with batteries</span></h2></div>
 <div class="region"><div class="contents"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reduce the <span class="link"><a href="display-brightness.html.ca" title="Set screen brightness">screen
+<p class="p">Reduce the <span class="link"><a href="display-brightness.html.ca" title="Establiu la brillantor de la pantalla">screen
      brightness</a></span>. Powering the screen accounts for a significant fraction
      of a laptop power consumption.</p>
 <p class="p">Most laptops have buttons on the keyboard (or a keyboard shortcut) that
@@ -145,11 +145,10 @@
 <li class="links ">
 <a href="power-status.html.ca" title="Check the battery status">Check the battery status</a><span class="desc"> — Display the status of the battery and connected devices.</span>
 </li>
-<li class="links "><a href="shell-exit.html.ca#shutdown" title="Power off or restart">Power off or restart</a></li>
 <li class="links ">
-<a href="display-brightness.html.ca" title="Set screen brightness">Set screen brightness</a><span class="desc"> — Change the screen brightness to make it more readable in bright
-    light.</span>
+<a href="display-brightness.html.ca" title="Establiu la brillantor de la pantalla">Establiu la brillantor de la pantalla</a><span class="desc"> — Canvieu la brillantor de la pantalla per fer-la més llegible amb llum brillant.</span>
 </li>
+<li class="links "><a href="shell-exit.html.ca#shutdown" title="Power off or restart">Power off or restart</a></li>
 <li class="links "><a href="shell-exit.html.ca#suspend" title="Suspend">Suspend</a></li>
 <li class="links ">
 <a href="power-wireless.html.ca" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
@@ -175,7 +174,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

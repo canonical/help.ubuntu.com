@@ -76,10 +76,10 @@
   unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.gl-GL" title="Bloquear a pantalla automaticamente"><span class="title">Bloquear a pantalla automaticamente</span><span class="linkdiv-dash"> — </span><span class="desc">Impedir que outras persoas poidan usar o seu escritorio cando se ausente do seu computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.gl-GL" title="Limpar o lixo e ficheiros temporais"><span class="title">Limpar o lixo e ficheiros temporais</span><span class="linkdiv-dash"> — </span><span class="desc">Estabeleza cada canto tempo se limpará o lixo e os ficheiros temporais do seu computador.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.gl-GL" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.gl-GL" title="Desactivar ou limitar o seguimento do historial de ficheiros"><span class="title">Desactivar ou limitar o seguimento do historial de ficheiros</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.gl-GL" title="Control location services"><span class="title">Control location services</span><span class="linkdiv-dash"> — </span><span class="desc">Enable or disable geolocation.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.gl-GL" title="Limpar o lixo e ficheiros temporais"><span class="title">Limpar o lixo e ficheiros temporais</span><span class="linkdiv-dash"> — </span><span class="desc">Estabeleza cada canto tempo se limpará o lixo e os ficheiros temporais do seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.gl-GL" title="Control location services"><span class="title">Control location services</span><span class="linkdiv-dash"> — </span><span class="desc">Para activar ou desactivar a xeolocalización.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -98,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

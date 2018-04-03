@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
@@ -73,7 +73,7 @@
 <p class="p">Bluetooth on langaton yhteystapa, jonka avulla on mahdollista yhdistää useita erilaisia laitteita toisiinsa. Bluetoothia käytetään yleisesti mikrofoneissa, kuulokkeissa ja syötelaiteissa, kuten hiirissä ja näppäimistöissä. Bluetoothia voi käyttää myös <span class="link"><a href="bluetooth-send-file.html.fi" title="Lähetä tiedostoja Bluetooth-laitteeseen">tiedostojen siirtoon laitteiden välillä</a></span>, esimerkiksi tietokoneen ja matkapuhelimen välillä.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.fi" title="Bluetoothin kytkeminen päälle tai pois"><span class="title">Bluetoothin kytkeminen päälle tai pois</span><span class="linkdiv-dash"> — </span><span class="desc">Kytke tietokoneesi Bluetooth-lähetin päälle tai pois päältä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.fi" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.fi" title="Hallitse jakamista Bluetoothin välityksellä"><span class="title">Hallitse jakamista Bluetoothin välityksellä</span><span class="linkdiv-dash"> — </span><span class="desc">Salli tiedostoja lähetettävän tietokoneellesi Bluetoothin välityksellä.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.fi" title="Katkaise yhteys Bluetooth-laitteeseen"><span class="title">Katkaise yhteys Bluetooth-laitteeseen</span><span class="linkdiv-dash"> — </span><span class="desc">Laitteen poistaminen Bluetooth-laitteiden luettelosta.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.fi" title="Lähetä tiedostoja Bluetooth-laitteeseen"><span class="title">Lähetä tiedostoja Bluetooth-laitteeseen</span><span class="linkdiv-dash"> — </span><span class="desc">Jaa tiedostoja Bluetooth-laitteille, kuten puhelimiin</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.fi" title="Yhdistä tietokoneesi Bluetooth-laitteeseen"><span class="title">Yhdistä tietokoneesi Bluetooth-laitteeseen</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth-laitteiden parittaminen.</span></a></div>
@@ -109,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

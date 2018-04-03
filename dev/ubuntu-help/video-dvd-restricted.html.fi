@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a> › <a class="trail" href="media.html.fi#videos" title="Videot ja videokamerat">Videot</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a> › <a class="trail" href="media.html.fi#videos" title="Videot ja videokamerat">Videot</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Miten otan rajoitetut tiedostomuodot käyttöön?</span></h1></div>
@@ -72,20 +72,20 @@
 <div class="contents"><p class="p">DVD-tukea ei voida toimittaa Ubuntun mukana oikeudellisten ja teknisten rajoitusten vuoksi. Useimmat kaupalliset DVD-levyt ovat salattuja ja vaativat salauksenpurkuohjelmiston niiden toistamiseksi.</p></div>
 <div id="fluendo" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fluendon käyttäminen lailliseen DVD-levyjen toistoon</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Voit ostaa kaupallisen DVD-levyjen salauksenpurkuohjelmiston Fluendolta. Se toimii normaalisti Linuxin kanssa ja sen pitäisi olla laillinen kaikissa maissa. Fluendon salauksenpurkuohjelmisto on myytävänä Ubuntun sovellusvalikoimassa.</p></div></div>
+<div class="region"><div class="contents"><p class="p">You can buy a commercial DVD decoder that can handle copy protection from <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. It works with Linux and should be legal to use in all countries.</p></div></div>
 </div></div>
 <div id="restricted" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Käytä vaihtoehtoisia purkuohjelmia</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-warning" title="Varoitus"><div class="inner"><div class="region"><div class="contents"><p class="p">Joissain maissa kopiointisuojausten ohittaminen ei ole sallittua. Suomessa tällaisten ohjelmistojen asennus ja käyttö on sallittua, mutta levitys ei. Varmista muissa maissa ennen suojauksen ohitusta toimenpiteen laillisuus.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Install <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvdnav4" title="https://apps.ubuntu.com/cat/applications/libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvdread4" title="https://apps.ubuntu.com/cat/applications/libdvdread4">libdvdread4</a></span>,
-<span class="link"><a href="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-bad" title="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-ugly" title="https://apps.ubuntu.com/cat/applications/gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span>, and <span class="link"><a href="https://apps.ubuntu.com/cat/applications/libdvd-pkg" title="https://apps.ubuntu.com/cat/applications/libdvd-pkg">libdvd-pkg</a></span>.</p></li>
-<li class="steps"><p class="p">Open the Dash and launch a <span class="app">Terminal</span>.</p></li>
+<li class="steps"><p class="p">Asenna <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> ja <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
+<li class="steps"><p class="p">Open a terminal window by pressing
+   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Run the command</p>
+<p class="p">Suorita komento</p>
 <p class="p"><span class="cmd">sudo dpkg-reconfigure libdvd-pkg</span></p>
-<p class="p">and confirm in order to install <span class="em">libdvdcss2</span>.</p>
+<p class="p">ja vahvista asentaaksesi <span class="em">libdvdcss2</span>:n.</p>
 </li>
 </ol></div></div></div>
 </div></div>
@@ -100,7 +100,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd.html.fi" title="Miksi DVD:t eivät toimi?">Miksi DVD:t eivät toimi?</a><span class="desc"> — Et ole ehkä asentanut vaadittavia tiedostomuotoja, tai DVD voi olla väärästä sijainnista.</span>
+<a href="video-dvd.html.fi" title="Miksi DVD:t eivät toimi?">Miksi DVD:t eivät toimi?</a><span class="desc"> — Et ole ehkä asentanut vaadittavia koodekkeja, tai DVD voi olla aluerajoitettu.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -112,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

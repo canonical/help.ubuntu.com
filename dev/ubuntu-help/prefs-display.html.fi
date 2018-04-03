@@ -64,21 +64,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Näyttö</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.fi" title="Aseta näytön kirkkaus"><span class="title">Aseta näytön kirkkaus</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
-    light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-background.html.fi" title="Change the desktop and lock screen backgrounds"><span class="title">Change the desktop and lock screen backgrounds</span><span class="linkdiv-dash"> — </span><span class="desc">Set an image, color, or gradient as your desktop background or lock
-    screen background.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.fi" title="Aseta näytön kirkkaus"><span class="title">Aseta näytön kirkkaus</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön kirkkautta parantaaksesi luettavuutta kirkkaassa valossa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.fi" title="Aseta näytön pimenemisaika"><span class="title">Aseta näytön pimenemisaika</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön pimenemisviivettä säästääksesi virtaa.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-resolution.html.fi" title="Change the resolution or rotation of the screen"><span class="title">Change the resolution or rotation of the screen</span><span class="linkdiv-dash"> — </span><span class="desc">Vaihda näytön tarkuutta ja suuntaa (kiertoa).</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.fi" title="Liitä toinen näyttö tietokoneeseesi"><span class="title">Liitä toinen näyttö tietokoneeseesi</span><span class="linkdiv-dash"> — </span><span class="desc">Määritä lisänäyttö.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.fi" title="Näyttö lukitsee itsensä liian nopeasti"><span class="title">Näyttö lukitsee itsensä liian nopeasti</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.fi" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön pimenemisviivettä säästääksesi virtaa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-background.html.fi" title="Muuta työpöydän ja lukitusnäytön taustaa"><span class="title">Muuta työpöydän ja lukitusnäytön taustaa</span><span class="linkdiv-dash"> — </span><span class="desc">Aseta kuva, väri tai liukuväri työpöydän tai lukitusnäytön taustakuvaksi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.fi" title="Näyttö lukitsee itsensä liian nopeasti"><span class="title">Näyttö lukitsee itsensä liian nopeasti</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön lukitsemisen aikarajaa <span class="gui">Yksityisyys</span>-asetuksista.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -96,7 +93,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

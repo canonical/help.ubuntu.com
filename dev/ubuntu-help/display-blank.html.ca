@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set screen blanking time</title>
+<title>Establiu el temps d'entrada en inactivitat de la pantalla</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,29 +71,23 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="power.html.ca" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.ca#saving" title="Power saving settings">Power saving settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> › <a class="trail" href="hardware.html.ca#problems" title="Common problems">Problemes</a> » <a class="trail" href="hardware-problems-graphics.html.ca" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> › <a class="trail" href="hardware.html.ca#problems" title="Problemes comuns">Problemes</a> » <a class="trail" href="hardware-problems-graphics.html.ca" title="Screen problems">Screen problems</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set screen blanking time</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Establiu el temps d'entrada en inactivitat de la pantalla</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To save power, you can adjust the time before the screen blanks when left
-  idle. You can also disable the blanking completely.</p>
+<p class="p">Per estalviar energia, podeu ajustar el temps abans que la pantalla entri en mode d'espera i quedi inactiva. També podeu desactivar completament la desconnexió.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To set the screen blanking time:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Per establir el temps d'entrada en inactivitat:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span>
-      overview and start typing <span class="gui">Power</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Blank screen</span> drop-down list under <span class="gui">Power
-      Saving</span> to set the time until the screen blanks, or disable the blanking
-      completely.</p></li>
+<li class="steps"><p class="p">Obriu la vista general <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenceu a escriure <span class="gui">Alimentació</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Alimentació</span> per obrir el panell.</p></li>
+<li class="steps"><p class="p">Utilitzeu la llista del desplegable<span class="gui">Pantalla en blanc</span>a <span class="gui">Estalvi d'energia</span> per establir el temps en que la pantalla entra en inactivitat, o desactivar-lo completament</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">When your computer is left idle, the screen will automatically lock
-    itself for security reasons. To change this behavior, see
-    <span class="link"><a href="session-screenlocks.html.ca" title="The screen locks itself too quickly">The screen locks itself too quickly</a></span>.</p></div></div></div></div>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Quan l'ordinador estigui inactiu, la pantalla es bloquejarà automàticament per raons de seguretat. Per canviar aquest comportament, mireu <span class="link"><a href="session-screenlocks.html.ca" title="The screen locks itself too quickly">The screen locks itself too quickly</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -137,7 +131,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

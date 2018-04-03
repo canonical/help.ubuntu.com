@@ -75,18 +75,8 @@
 <div class="region">
 <div class="contents">
 <p class="p">Os perfiles de cor que creou vostede mesmo son específicos do hardware e das condicións de cor moi diferente que un dispositivo similar con un número de serie próximo, se esta última estivo acendida unhas mil horas.</p>
-<p class="p">
-    This means if you share your color profile with somebody, you might
-    be getting them <span class="em">closer</span> to calibration, but it’s misleading
-    at best to say that their display is calibrated.
-  </p>
-<p class="p">
-    Similarly, unless everyone has recommended controlled lighting
-    (no sunlight from windows, black walls, daylight bulbs etc.) in a
-    room where viewing and editing images takes place, sharing a profile
-    that you created in your own specific lighting conditions doesn’t make
-    a lot of sense.
-  </p>
+<p class="p">Isto significa que se comparte o seu perfil de cor con alguén, pode que estea <span class="em">mellorando</span> a súa calibración, pero é incorrecto decir que o seu dispositivo está calibrado.</p>
+<p class="p">De forma similar, a menos que todo o mundo teña o control de luz recomendado (sen luz solar de xanelas, paredes negras, bombillas de día, etc.) nunha habitación onde se editan imaxes, compartir un perfil que creou baixo as súas propias condicións de luz específicas non ten moito sentido.</p>
 <div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Debería comprobar coidadosamente as condicións de redistribución dos perfiles descargados das páxinas web dos fabricantes ou que se crearon no seu nome.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -111,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

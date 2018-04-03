@@ -113,9 +113,6 @@
 <a href="power-closelid.html.sr" title="Зашто се мој рачунар гаси када спустим поклопац?">Зашто се мој рачунар гаси када спустим поклопац?</a><span class="desc"> — Преносни рачунар се успављује када спустите поклопац, да би сачувао енергију.</span>
 </li>
 <li class="links ">
-<a href="power-hibernate.html.sr" title="Како да замрзнем рачунар?">Како да замрзнем рачунар?</a><span class="desc"> — Замрзавање је унапред искључено зато што није довољно подржано.</span>
-</li>
-<li class="links ">
 <a href="power-nowireless.html.sr" title="Немам бежичну мрежу када пробудим рачунар">Немам бежичну мрежу када пробудим рачунар</a><span class="desc"> — Неки бежични уређаји имају проблеме са радом када је ваш рачунар обустављен а није се повратио како треба.</span>
 </li>
 <li class="links ">
@@ -135,7 +132,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

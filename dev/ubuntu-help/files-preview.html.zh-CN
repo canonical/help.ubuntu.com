@@ -70,6 +70,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">预览文件和文件夹</span></h1></div>
 <div class="region">
 <div class="contents">
+<div class="note note-important" title="重要"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Sushi</span> installed on your computer to perform
+  these steps.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Install <span class="app">Sushi</span></a></span></p>
+</div></div></div></div>
 <p class="p">您可以不用打开一个文件，而通过一个成熟的程序里快速预览它。选中任一文件，然后按空格键，将会打开一个小预览窗口，再按空格键关闭预览窗口。</p>
 <p class="p">内置的预览插件支持绝大多数文档、图片、视频和音乐，在预览窗口里，您可以滚动浏览文档或播放音视频文件。</p>
 <p class="p">To view a preview full-screen, press <span class="key"><kbd>F</kbd></span> or <span class="key"><kbd>F11</kbd></span>. Press
@@ -98,7 +103,7 @@ bar to exit the preview completely.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

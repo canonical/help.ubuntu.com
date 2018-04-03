@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why do I need to do calibration myself?</title>
+<title>Per què he de fer jo la calibració?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,52 +65,38 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why do I need to do calibration myself?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Per què he de fer jo la calibració?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    Generic profiles are usually bad.
-    When a manufacturer creates a new model, they just take a few items
-    from the production line and average them together:
-  </p>
-<div class="media media-image"><div class="inner"><img src="figures/color-average.png" class="media media-block" alt="Averaged profiles"></div></div>
-<p class="p">
-    Display panels differ quite a lot from unit to unit and change
-    substantially as the display ages.
-    It is also more difficult for printers, as just changing the type
-    or weight of paper can invalidate the characterization state and
-    make the profile inaccurate.
-  </p>
-<p class="p">
-    The best way of ensuring the profile you have is accurate is by doing
-    the calibration yourself, or by letting an external company supply
-    you with a profile based on your exact characterization state.
-  </p>
+<p class="p">Els perfils genèrics solen ser dolents. Quan un fabricant crea un nou model, només agafa uns quants elements de la línia de producció i els promitja junts:</p>
+<div class="media media-image"><div class="inner"><img src="figures/color-average.png" class="media media-block" alt="Perfils mitjans"></div></div>
+<p class="p">Els panells de pantalla difereixen bastant entre unitats i canvien substancialment a mesura que la pantalla envelleix. És més difícil per a les impressores, ja que simplement canviant el tipus o pes del paper es pot invalidar la caracterització i fer que el perfil es desajusti.</p>
+<p class="p">La millor manera d'assegurar-vos que el perfil que tingueu és exacte és fer el calibratge o deixar que una empresa externa us proporcioni un perfil basat en l'estat exacte de la caracterització.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibració">Calibració</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-notifications.html.ca" title="Can I get notified when my color profile is inaccurate?">Can I get notified when my color profile is inaccurate?</a><span class="desc"> — You can be notified if your color profile is old and inaccurate.</span>
+<a href="color-assignprofiles.html.ca" title="Com puc assignar perfils als dispositius?">Com puc assignar perfils als dispositius?</a><span class="desc"> — Mireu a <span class="guiseq"><span class="gui">Configuració</span> ▸ <span class="gui">Color</span></span> per afegir un perfil de color per a la vostra pantalla.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html.ca" title="How do I assign profiles to devices?">How do I assign profiles to devices?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-gettingprofiles.html.ca" title="On puc obtenir perfils de color?">On puc obtenir perfils de color?</a><span class="desc"> — Els proveïdors proporcionen perfils de colors i es poden generar per un mateix.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html.ca" title="Where do I get color profiles?">Where do I get color profiles?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>
+<a href="color-notifications.html.ca" title="Puc rebre notificacions quan el meu perfil de color no sigui correcte?">Puc rebre notificacions quan el meu perfil de color no sigui correcte?</a><span class="desc"> — Pot ser notificat si el seu perfil de color és antic i inexacte.</span>
 </li>
 </ul></div>
 </div></div>
@@ -123,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

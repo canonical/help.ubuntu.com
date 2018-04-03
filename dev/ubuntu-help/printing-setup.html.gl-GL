@@ -80,10 +80,9 @@
 <li class="steps"><p class="p">Conecte a impresora ao seu sistema mediante un cabo axeitado. Pode ver a actividade na pantalla, cando o sistema busca os controladores, e pode que se lle pida que se autentique para instalalos.</p></li>
 <li class="steps"><p class="p">Aparecerá un mensaxe cando o sistema remate de instalar a impresora. Seleccione <span class="gui">Imprimir unha páxina de proba</span> para imprimir unha páxina de proba, ou <span class="gui">Opcións</span> para facer cambios adicionais na configuración da impresora.</p></li>
 </ol></div></div></div>
-<p class="p">If your printer was not set up automatically, you can add it in the
-  printer settings:</p>
+<p class="p">Se a súa impresora non se configurou de maneira automática, pode engadila desde as preferencias da impresora:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Impresoras</span>.</p></li>
 <li class="steps"><p class="p">Prema o botón <span class="gui">Desbloquear</span> na esquina inferior esquerda e insira un contrasinal.</p></li>
@@ -116,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

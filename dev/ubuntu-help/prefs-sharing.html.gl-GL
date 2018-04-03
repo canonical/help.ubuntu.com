@@ -73,15 +73,14 @@
 <p class="p">As <span class="em">Preferencias de compartición</span> en GNOME axúdanlle a controlar que se comparte pola rede local ou mediante outras tecnoloxías como <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.gl-GL" title="Set the display name for your computer"><span class="title">Set the display name for your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
-    devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.gl-GL" title="Estabeleza o nome do seu computador"><span class="title">Estabeleza o nome do seu computador</span><span class="linkdiv-dash"> — </span><span class="desc">Controle como aparece o seu computador noutros computadores e dispositivos.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-media.html.gl-GL" title="Comparta a súa música, fotos e vídeos"><span class="title">Comparta a súa música, fotos e vídeos</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.gl-GL" title="Compartir o meu escritorio remoto"><span class="title">Compartir o meu escritorio remoto</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir que outras persoas vexan e interactúen co seu escritorio usando VNC.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.gl-GL" title="Controlar a compartición por Bluetooth"><span class="title">Controlar a compartición por Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.gl-GL" title="Share your personal files"><span class="title">Share your personal files</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.gl-GL" title="Compartir os seus ficheiros persoais"><span class="title">Compartir os seus ficheiros persoais</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
     folder.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.gl-GL" title="Controlar a compartición por Bluetooth"><span class="title">Controlar a compartición por Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Permitir subir ficheiros ao seu computador mediante Bluetooth.</span></a></div>
 </div>
 </div></div></div>
 </div>
@@ -101,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

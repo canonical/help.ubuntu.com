@@ -89,10 +89,7 @@
 <div class="desc">Ini adalah yang dilihat pengguna pada layar laptop bisnis biasa</div>
 </div>
 </div></div>
-<p class="p">
-    Notice how the white is not “paper white” and the black of the eye
-    is now a muddy brown.
-  </p>
+<p class="p">Perhatikan bagaimana putihnya bukan 'putih kertas' dan hitam mata kini suatu coklat lumpur.</p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Tilik gambar pada ukuran normal" data-zoom-out-title="Perkecil gambar"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
@@ -100,41 +97,11 @@
 </div>
 </div></div>
 <p class="p">Masalah dasar yang kita punya adalah bahwa setiap perangkat mampu menangani jangkauan warna yang berbeda. Sehingga ketika Anda mungkin bisa mengambil foto biru elektrik, kebanyakan pencetak tak akan mampu mereproduksinya.</p>
-<p class="p">
-    Most image devices capture in RGB (Red, Green, Blue) and have
-    to convert to CMYK (Cyan, Magenta, Yellow, and Black) to print.
-    Another problem is that you can’t have <span class="em">white</span> ink, and so
-    the whiteness can only be as good as the paper color.
-  </p>
-<p class="p">
-    Another problem is units. Without specifying the scale on which a
-    color is measured, we don’t know if 100% red is near infrared or
-    just the deepest red ink in the printer. What is 50% red on one
-    display is probably something like 62% on another display.
-    It’s like telling a person that you’ve just driven 7 units of
-    distance, without the unit you don’t know if that’s 7 kilometers or
-    7 meters.
-  </p>
-<p class="p">
-    In color, we refer to the units as gamut. Gamut is essentially the
-    range of colors that can be reproduced.
-    A device like a DSLR camera might have a very large gamut, being able
-    to capture all the colors in a sunset, but a projector has a very
-    small gamut and all the colors are going to look “washed out”.
-  </p>
-<p class="p">
-    In some cases we can <span class="em">correct</span> the device output by altering
-    the data we send to it, but in other cases where that’s not
-    possible (you can’t print electric blue) we need to show the user
-    what the result is going to look like.
-  </p>
-<p class="p">
-    For photographs it makes sense to use the full tonal range of a color
-    device, to be able to make smooth changes in color.
-    For other graphics, you might want to match the color exactly, which
-    is important if you’re trying to print a custom mug with the Red Hat
-    logo that <span class="em">has</span> to be the exact Red Hat Red.
-  </p>
+<p class="p">Kebanyakan perangkat citra menangkap dalam RGB (Red/merah, Green/hijau, Blue/biru) dan perlu mengkonversi ke CMYK (Cyan/biru sian, Magenta/ungu, Yellow/kuning, dan Black/hitam) untuk mencetak. Masalah lain adalah Anda tak bisa memiliki tinta <span class="em">putih</span>, sehingga kualitas putih hanya bisa sebaik warna kertas.</p>
+<p class="p">Masalah lain adalah unit. Tanpa menentukan skala tempat warna diukur, kita tidak tahu apakah merah 100% sudah dekat inframerah atau hanya tinta merah terdalam pada pencetak. 50% merah di satu tampilan mungkin sesuatu seperti 62% di tampilan lain. Ini seperti memberitahu seseorang bahwa Anda baru saja didorong 7 unit jarak, tanpa unit Anda tidak tahu apakah itu 7 kilometer atau 7 meter.</p>
+<p class="p">Dalam warna, kami mengacu ke unit sebagai gamut. Gamut secara esensial adalah jangkauan warna yang dapat direproduksi. Suatu perangkat seperti kamera DSLR mungkin memiliki gamut sangat besar, mampu menangkap semua warna dalam suatu matahari terbenam, tapi suatu projektor memiliki gamut sangat kecil dan semua warna akan nampak "pudar".</p>
+<p class="p">Dalam beberapa kasus kita dapat <span class="em">mengkoreksi</span> keluaran perangkat dengan mengubah data yang kita kirim kepadanya, tapi pada kasus lain ketika itu tak mungkin (Anda tak bisa mencetak biru elektrik) kita perlu menunjukkan ke pengguna hasilnya akan seperti apa.</p>
+<p class="p">Bagi fotografer, masuk akal untuk memakai jangkauan nada penuh dari perangkat warna, agar dapat membuat perubahan yang halus dalam warna. Bagi grafik lain, Anda mungkin ingin mencocokkan warna secara eksak, yang penting bila Anda mencoba mencetak mug ubahan dengan logo Red Hat yang <span class="em">mesti</span> memakai warna merah Red Hat yang eksak.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -152,7 +119,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

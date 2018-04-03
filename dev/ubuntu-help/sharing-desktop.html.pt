@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Pode permitir que outras pessoas vejam e controlem seu escritório desde outras computadores com um aplicação de visualização de escritórios. Configure a <span class="gui">Partilha do ecrã</span> para permitir que outros acedam a seu escritório e configure as preferências de segurança.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Deve ter instalado o pacote <span class="app">Vinho</span> para que a opção de <span class="gui">Partilha de ecrã</span> esteja visível.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Deve ter instalado o pacote <span class="app">Vinho</span> para que a opção de <span class="gui">Partilha de ecrã</span> esteja visível.</p>
+<p class="p"><span class="link-button link"><a href="apt:vino" title="apt:vino">Instalar Veio</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Compartição</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Compartição</span> para abrir o painel.</p></li>
@@ -148,7 +151,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

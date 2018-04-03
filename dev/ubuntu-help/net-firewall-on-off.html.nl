@@ -64,33 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-security.html.nl" title="Veiligheid op het internet">Veiligheid op het internet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-security.html.nl" title="Veiligheid op het internet">Veiligheid op het internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Firewalltoegang inschakelen of blokkeren.</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Your system should be equipped with a <span class="em">firewall</span> that allows it to
-  block programs from being accessed by other people on the internet or your
-  network. This helps to keep your computer secure.</p>
-<p class="p">Many applications can use your network connection. For instance, you can
-  share files or let someone view your desktop remotely when connected to a
-  network. Depending on how your computer is set up, you may need to adjust the
-  firewall to allow these services to work as intended.</p>
-<p class="p">Each program that provides network services uses a specific <span class="em">network
-  port</span>. To enable other computers on the network to access a service, you
-  may need to “open” its assigned port on the firewall:</p>
+<p class="p">Uw systeem zou uitgerust moeten zijn met een <span class="em">firewall</span>, waarmee de toegang tot programma's voor andere mensen op het internet of uw netwerk geblokkeerd kan worden. Dit helpt om uw computer te beveiligen.</p>
+<p class="p">Veel toepassingen kunnen gebruik maken van uw netwerkverbinding. Zo kunt u bestanden delen, of iemand uw bureaublad op afstand laten bekijken wanneer u verbonden bent met een netwerk. Afhankelijk van de instellingen van uw computer kan het nodig zijn de firewall aan te passen zodat deze diensten kunnen werken zoals bedoeld.</p>
+<p class="p">Elk programma dat netwerkdiensten verleent gebruikt een specifieke <span class="em">netwerkpoort</span>. Om het mogelijk te maken dat andere computers in het netwerk toegang tot een dienst krijgen moet u mogelijk de toegekende poort in de firewall ‘openen’:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Go to <span class="gui">Activities</span> in the top left corner of the screen and
-      start your firewall application. You may need to install a firewall
-      manager yourself if you can’t find one (for example, Firestarter or
-      GUFW).</p></li>
-<li class="steps"><p class="p">Open or disable the port for your network service, depending on
-      whether you want people to be able to access it or not. Which port you
-      need to change will <span class="link"><a href="net-firewall-ports.html.nl" title="Veelgebruikte netwerkpoorten">depend on the
-      service</a></span>.</p></li>
-<li class="steps"><p class="p">Save or apply the changes, following any additional instructions given
-      by the firewall tool.</p></li>
+<li class="steps"><p class="p">Ga naar <span class="gui">Activiteiten</span> in de linkerbovenhoek van het scherm en start de firewalltoepassing. Mogelijk dient u zelf een firewallbeheerprogramma te installeren als u er geen kunt vinden (bijvoorbeeld Firestarter of GUFW).</p></li>
+<li class="steps"><p class="p">Open de poort voor uw netwerkdienst, of schakel deze uit, afhankelijk van het al dan niet willen toestaan dat anderen toegang hebben. Welke poort u dient te wijzigen zal <span class="link"><a href="net-firewall-ports.html.nl" title="Veelgebruikte netwerkpoorten">afhangen van de dienst</a></span>.</p></li>
+<li class="steps"><p class="p">Bewaar de wijzigingen of pas ze toe, waarbij u extra instructies die u krijgt vanuit het firewallprogramma opvolgt.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -117,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

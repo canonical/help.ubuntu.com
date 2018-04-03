@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="color.html.nl" title="Kleurbeheer">Kleurbeheer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -89,10 +89,7 @@
 <div class="desc">Dit is wat de gebruiker ziet op een scherm van een doorsnee zakelijke laptop</div>
 </div>
 </div></div>
-<p class="p">
-    Notice how the white is not “paper white” and the black of the eye
-    is now a muddy brown.
-  </p>
+<p class="p">U ziet dat het wit niet ‘echt wit’ is en het zwart van de ogen is nu modderig bruin.</p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Afbeeldingen op normale grootte bekijken" data-zoom-out-title="Afbeeldingen verkleinen"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
@@ -100,41 +97,11 @@
 </div>
 </div></div>
 <p class="p">Het probleem dat hieraan ten grondslag ligt is dat elk apparaat een andere reeks kleuren aan kan. Zo kunt u misschien wel een foto nemen met daarop helblauw, maar de meeste printers zullen niet in staat zijn die kleur af te drukken.</p>
-<p class="p">
-    Most image devices capture in RGB (Red, Green, Blue) and have
-    to convert to CMYK (Cyan, Magenta, Yellow, and Black) to print.
-    Another problem is that you can’t have <span class="em">white</span> ink, and so
-    the whiteness can only be as good as the paper color.
-  </p>
-<p class="p">
-    Another problem is units. Without specifying the scale on which a
-    color is measured, we don’t know if 100% red is near infrared or
-    just the deepest red ink in the printer. What is 50% red on one
-    display is probably something like 62% on another display.
-    It’s like telling a person that you’ve just driven 7 units of
-    distance, without the unit you don’t know if that’s 7 kilometers or
-    7 meters.
-  </p>
-<p class="p">
-    In color, we refer to the units as gamut. Gamut is essentially the
-    range of colors that can be reproduced.
-    A device like a DSLR camera might have a very large gamut, being able
-    to capture all the colors in a sunset, but a projector has a very
-    small gamut and all the colors are going to look “washed out”.
-  </p>
-<p class="p">
-    In some cases we can <span class="em">correct</span> the device output by altering
-    the data we send to it, but in other cases where that’s not
-    possible (you can’t print electric blue) we need to show the user
-    what the result is going to look like.
-  </p>
-<p class="p">
-    For photographs it makes sense to use the full tonal range of a color
-    device, to be able to make smooth changes in color.
-    For other graphics, you might want to match the color exactly, which
-    is important if you’re trying to print a custom mug with the Red Hat
-    logo that <span class="em">has</span> to be the exact Red Hat Red.
-  </p>
+<p class="p">De meeste afbeeldingsapparaten nemen op in RGB (Red, Green, Blue) en moeten voor het afdrukken geconverteerd worden naar CMYK (Cyan, Magenta, Yellow, Black). Een ander probleem is dat er geen <span class="em">witte</span> inkt bestaat, waardoor de witheid slechts zo goed kan zijn als de kleur van het papier.</p>
+<p class="p">Een ander probleem zijn eenheden. Zonder dat de schaal waarop een kleur wordt gemeten is gespecificeerd, weten we niet of 100% rood dicht bij infrarood ligt of gewoon de meest dieprode inkt in de printer. Wat op uw scherm 50% rood is, kan op een ander scherm zoiets als 62% zijn. Het is net zoiets als wanneer u tegen iemand zegt dat u net 7 afstandseenheden heeft afgelegd; zonder de eenheid weet u niet of dat 7 kilometer of 7 meter is.</p>
+<p class="p">Bij kleur worden de eenheden gamma genoemd. Gamma is in wezen het bereik van kleuren dat kan worden weergegeven. Een apparaat zoals een DSLR-camera kan een heel groot gamma hebben, waardoor het alle kleuren van een zonsondergang kan opnemen, maar een projector heeft een heel klein gamma, waardoor de kleuren er flets uit zullen zien.</p>
+<p class="p">In sommige gevallen kunnen we de uitvoer van het apparaat <span class="em">corrigeren</span> door de data die we naar het apparaat sturen te wijzigen, maar in andere gevallen waar dat niet mogelijk is (u kunt geen helblauw afdrukken) moeten we de gebruiker laten zien hoe het resultaat eruit komt te zien.</p>
+<p class="p">Voor foto's is het zinvol om het volledige kleurenspectrum van een apparaat te gebruiken, om in staat te zijn vloeiende veranderingen aan te brengen in de kleuren. Voor andere afbeeldingen wilt u de kleuren misschien exact overeen laten komen, wat belangrijk is als u op een mok het Red Hat-logo wilt printen,  dat precies het goede Red Hat-rood<span class="em">moet</span> zijn.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -152,7 +119,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

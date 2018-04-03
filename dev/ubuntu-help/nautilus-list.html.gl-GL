@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="Máis tarefas relacionadas con ficheiros">Máis tarefas relacionadas con ficheiros</a> » <a class="trail" href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Files list columns preferences</span></h1></div>
@@ -109,23 +109,20 @@
 </ul></div></div></div>
 <p class="p">Each permission has the following meanings:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">r</span>: readable, meaning that you can open the file or
-          folder</p></li>
-<li class="list"><p class="p"><span class="gui">w</span>: writable, meaning that you can save changes to it</p></li>
-<li class="list"><p class="p"><span class="gui">x</span>: executable, meaning that you can run it if it is a
-          program or script file, or you can access subfolders and files if it
-          is a folder</p></li>
-<li class="list"><p class="p"><span class="gui">-</span>: permission not set</p></li>
+<li class="list"><p class="p"><span class="gui">r</span>: rexíbel, o que significa que pode abrir o ficheiro ou cartafol</p></li>
+<li class="list"><p class="p"><span class="gui">w</span>: escribíbel, o que significa que pode gardar cambios nel</p></li>
+<li class="list"><p class="p"><span class="gui">x</span>: executábel, o que significa que pode executalo se é un programa ou ficheiro de script, ou que pode acceder aos subcartafolse e ficheiros se é un cartafol.</p></li>
+<li class="list"><p class="p"><span class="gui">-</span>: permiso non estabelecido</p></li>
 </ul></div></div></div>
 </dd>
 <dt class="terms"><span class="gui">Tipo MIME</span></dt>
 <dd class="terms"><p class="p">Mostra o tipo MIME do elemento.</p></dd>
 <dt class="terms"><span class="gui">Localización</span></dt>
 <dd class="terms"><p class="p">A ruta á localización do ficheiro.</p></dd>
-<dt class="terms"><span class="gui">Modified — Time</span></dt>
+<dt class="terms"><span class="gui">Modificado — Hora</span></dt>
 <dd class="terms"><p class="p">Dálle a data e hora da última vez que o ficheiro foi modificado.</p></dd>
 <dt class="terms"><span class="gui">Accedido</span></dt>
-<dd class="terms"><p class="p">Gives the date or time of the last time the file was modified.</p></dd>
+<dd class="terms"><p class="p">Dálle a data e hora na que se modifou o ficheiro por última vez.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -133,7 +130,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a><span class="desc"> — Ver e estabelecer preferencias desde o navegador de ficheiros.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -144,7 +141,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

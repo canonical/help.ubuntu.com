@@ -77,11 +77,11 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Como cancelar un traballo de impresión:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Impresoras</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Prema o botón <span class="gui">Mostrar traballos</span> na parte dereita da barra de botóns no diálogo <span class="gui">Impresoras</span>.</p></li>
-<li class="steps"><p class="p">Cancel the print job by clicking the stop button.</p></li>
+<li class="steps"><p class="p">Cancele o traballo de impresión premendo no botón de parar.</p></li>
 </ol></div>
 </div></div>
 <p class="p">If this does not cancel the print job like you expected, try holding down
@@ -101,9 +101,9 @@
 <div class="region"><div class="contents">
 <p class="p">Se quere pausar e retomar un traballo de impresión, pode facelo indo ao diálogo de traballos nas preferencias de impresión e premer o botón axeitado.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Impresoras</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Prema o botón <span class="gui">Mostrar traballos</span> na parte dereita do diálogo <span class="gui">Impresoras</span> e pode pausar ou retomar un traballo de impresión segundo o que precise.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -124,7 +124,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

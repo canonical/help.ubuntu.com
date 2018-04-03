@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Which target types are supported?</title>
+<title>Quins tipus de destinació s'admeten?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,18 +65,16 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Which target types are supported?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Quins tipus de destinació s'admeten?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    The following types of targets are supported:
-  </p>
+<p class="p">Els següents tipus de destinacions són compatibles:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">CMP DigitalTarget</p></li>
 <li class="list"><p class="p">ColorChecker 24</p></li>
@@ -88,15 +86,8 @@
 <li class="list"><p class="p">IT8.7/2</p></li>
 </ul></div></div></div>
 <div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents">
-<p class="p">
-      You can purchase targets from well-known vendors like KODAK, X-Rite
-      and LaserSoft in various online shops.
-    </p>
-<p class="p">
-      Alternatively you can buy
-      targets from <span class="link"><a href="http://www.targets.coloraid.de/" title="http://www.targets.coloraid.de/">Wolf Faust</a></span>
-      at a very fair price.
-    </p>
+<p class="p">Podeu comprar objectius a venedors coneguts com KODAK, X-Rite i LaserSoft en diverses botigues en línia.</p>
+<p class="p">Alternativament podeu comprar destinacions des de <span class="link"><a href="http://www.targets.coloraid.de/" title="http://www.targets.coloraid.de/">Wolf Faust</a></span> a un preu molt competitiu.</p>
 </div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -104,16 +95,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.ca#calibration" title="Calibració">Calibració</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html.ca" title="How do I calibrate my camera?">How do I calibrate my camera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-scanner.html.ca" title="Com calibro el meu escànner?">Com calibro el meu escànner?</a><span class="desc"> — Calibrar l'escàner és important per capturar colors precisos.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-scanner.html.ca" title="How do I calibrate my scanner?">How do I calibrate my scanner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
+<a href="color-calibrate-camera.html.ca" title="Com puc calibrar la meva càmera?">Com puc calibrar la meva càmera?</a><span class="desc"> — Calibrar la seva càmera és important per capturar els colors precisos.</span>
 </li>
 </ul></div>
 </div></div>
@@ -126,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

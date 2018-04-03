@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="mouse.html.nl" title="Muis">Muis</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,11 +77,10 @@
 <div id="tap" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tikken om te klikken</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can tap your touchpad to click instead of using a button.</p>
+<p class="p">U kunt op uw touchpad tikken om te klikken in plaats van via een knop.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Muis &amp; Touchpad</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Muis en touchpad</span> om het paneel te openen.</p></li>
 <li class="steps">
 <p class="p">Plaats in de <span class="gui">Touchpad</span>-sectie een vinkje bij <span class="gui">Tikken om te klikken</span>.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">De <span class="gui">Touchpad</span>-sectie verschijnt alleen als uw systeem een touchpad heeft.</p></div></div></div></div>
@@ -90,15 +89,11 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Tik op het touchpad om te klikken.</p></li>
 <li class="list"><p class="p">Tik twee maal om te dubbelklikken.</p></li>
-<li class="list"><p class="p">To drag an item, double-tap but don’t lift your finger after the
-      second tap. Drag the item where you want it, then lift your finger to
-      drop.</p></li>
+<li class="list"><p class="p">Om een item te slepen, tik twee maal, maar laat uw vinger niet los na de tweede tik. Sleep het item naar de gewenste plek en laat uw vinger los om het neer te zetten.</p></li>
 <li class="list"><p class="p">Als uw touchpad tikken met meerdere vingers ondersteunt, dan kunt u rechtsklikken door met twee vingers tegelijk te tikken. Zo niet, dan moet u nog steeds fysieke knoppen gebruiken om met rechts te klikken. Zie <span class="link"><a href="a11y-right-click.html.nl" title="Een rechtermuisklik simuleren">Een rechtermuisklik simuleren</a></span> voor een manier om met rechts te klikken zonder een tweede muisknop.</p></li>
 <li class="list"><p class="p">Als uw touchpad tikken met meerdere vingers ondersteunt, dan kunt u <span class="link"><a href="mouse-middleclick.html.nl" title="Middelklik">middelklikken</a></span> door met drie vingers tegelijk te tikken.</p></li>
 </ul></div></div></div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">When tapping or dragging with multiple fingers, make sure your fingers
-    are spread far enough apart. If your fingers are too close, your computer
-    may think they’re a single finger.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Wanneer u tikt of sleept met meerdere vingers, zorg er dan voor dat uw vingers ver genoeg uit elkaar gespreid zijn. Als uw vingers te dicht tegen elkaar aan zitten, dan kan het zijn dat de computer dit ziet als één vinger.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="twofingerscroll" class="sect"><div class="inner">
@@ -106,17 +101,11 @@
 <div class="region"><div class="contents">
 <p class="p">U kunt met uw touchpad scrollen met twee vingers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Muis &amp; Touchpad</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Muis en touchpad</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Plaats in de <span class="gui">Touchpad</span>-sectie een vinkje bij <span class="gui">Scrollen met twee vingers</span>.</p></li>
 </ol></div></div></div>
-<p class="p">When this is selected, tapping and dragging with one finger will work as
-  normal, but if you drag two fingers across any part of the touchpad, it will
-  scroll instead. Move your fingers between the top and bottom of your touchpad
-  to scroll up and down, or move your fingers across the touchpad to scroll
-  sideways. Be careful to space your fingers a bit apart. If your fingers are
-  too close together, they just look like one big finger to your touchpad.</p>
+<p class="p">Wanneer dit geselecteerd is, zal tikken en slepen met één vinger normaal werken, maar door met twee vingers over een deel van het touchpad te slepen kunt u scrollen. Wanneer u ook <span class="gui">Horizontaal scrollen inschakelen</span> selecteert, dan kunt u met uw vingers naar links en rechts gaan om horizontaal te scrollen. Zorg er wel voor dat uw vingers licht gespreid zijn. Wanneer uw vingers te dicht bij elkaar zijn ziet uw touchpad dat als één vinger.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Het scrollen met twee vingers werkt mogelijk niet op alle touchpads.</p></div></div></div></div>
 </div></div>
 </div></div>
@@ -125,13 +114,11 @@
 <div class="region"><div class="contents">
 <p class="p">Via het touchpad kunt u inhoud slepen alsof er fysiek een stuk papier wordt versleept.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, check <span class="gui">Natural
-      scrolling</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Muis &amp; Touchpad</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Muis en touchpad</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Plaats in de sectie <span class="gui">Touchpad</span> een vinkje bij <span class="gui">Natuurlijk scrollen</span>.</p></li>
 </ol></div></div></div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">This feature is also known as <span class="em">Reverse Scrolling</span>.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Deze functie staat ook bekend als <span class="em">Achteruit Scrollen</span>.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -150,7 +137,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

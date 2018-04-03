@@ -64,13 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vensters en werkbladen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Net als bij andere bureaubladen gebruikt Gnome vensters om uw geopende toepassingen weer te geven. U kunt zowel via het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht als de <span class="em">starter</span> nieuwe toepassingen starten en actieve vensters beheren.</p>
+<p class="p">Net als bij andere bureaubladen gebruikt Gnome vensters om uw geopende toepassingen weer te geven. U kunt zowel via het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht als de <span class="em">Starter</span> nieuwe toepassingen starten en actieve vensters beheren.</p>
 <p class="p">U kunt ook uw toepassingen groeperen binnen werkbladen. Bekijk de venster- en werkblad-documentatie hieronder om te leren hoe u deze functies kunt gebruiken.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
@@ -78,13 +78,12 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.nl" title="Een venster maximaliseren en weer herstellen"><span class="title">Een venster maximaliseren en weer herstellen</span><span class="linkdiv-dash"> — </span><span class="desc">Dubbelklik op de titelbalk of versleep deze om een venster te maximaliseren of te herstellen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.nl" title="Schakelen tussen vensters"><span class="title">Schakelen tussen vensters</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.nl" title="Schakelen tussen vensters"><span class="title">Schakelen tussen vensters</span><span class="linkdiv-dash"> — </span><span class="desc">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.nl" title="Vensters tegelen"><span class="title">Vensters tegelen</span><span class="linkdiv-dash"> — </span><span class="desc">Twee vensters naast elkaar maximaliseren.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.nl" title="Vensters verplaatsen en van grootte veranderen"><span class="title">Vensters verplaatsen en van grootte veranderen</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange windows in a workspace to help you work more
-    efficiently.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.nl" title="Zoeken naar een verloren venster"><span class="title">Zoeken naar een verloren venster</span><span class="linkdiv-dash"> — </span><span class="desc">Check the <span class="gui">Activities</span> overview or other workspaces.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.nl" title="Vensters verplaatsen en van grootte veranderen"><span class="title">Vensters verplaatsen en van grootte veranderen</span><span class="linkdiv-dash"> — </span><span class="desc">Rangschik vensters in een werkruimte om efficiënter te kunnen werken.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.nl" title="Zoeken naar een verloren venster"><span class="title">Zoeken naar een verloren venster</span><span class="linkdiv-dash"> — </span><span class="desc">Kijk in het <span class="gui">Activiteiten</span>-overzicht of andere werkbladen.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -112,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

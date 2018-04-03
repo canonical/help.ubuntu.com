@@ -81,6 +81,10 @@
 </ol></div></div></div>
 <p class="p">Неки преводи могу бити непотпуни, а одређени програми можда уопште не подржавају српски језик. Сваки непреведени текст ће бити приказан на језику на коме је софтвер оригинално развијен, обично на америчком енглеском.</p>
 <p class="p">Постоје неке посебне фасцикле у вашој личној фасцикли у којима програми могу да ускладиште ствари као што су музика, слике и документи. Ове фасцикле користе стандардне називе у складу са вашим језиком. Када се поново пријавите, бићете упитани да ли желите да преименујете те фасцикле на стандардне називе за изабрани језик. Ако планирате да користите нови језик сво време, требали бисте да ажурирате називе фасцикли.</p>
+<div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -88,7 +92,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Још података</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.sr" title="Регион и језик">Регион и језик</a><span class="desc"> — <span class="link"><a href="session-language.html.sr" title="Промените језик који користите">Језик</a></span>, <span class="link"><a href="session-formats.html.sr" title="Измените записе датума и мерења">регион и формати</a></span>, <span class="link"><a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">распореди тастатуре</a></span>…</span>
+<a href="prefs-language.html.sr" title="Регион и језик">Регион и језик</a><span class="desc"> — <span class="link"><a href="session-language.html.sr" title="Промените језик који користите">Језик</a></span>, <span class="link"><a href="session-formats.html.sr" title="Измените записе датума и мерења">регион и формати</a></span>, <span class="link"><a href="keyboard-layouts.html.sr" title="Користите другачије распореде тастатуре">распореди тастатуре</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -106,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

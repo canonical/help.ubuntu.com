@@ -75,18 +75,10 @@
 <div class="region"><div class="contents">
 <p class="p">Untuk memeriksa ruang disk bebas dan kapasitas disk memakai <span class="app">Penganalisa Penggunaan Disk</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Open <span class="app">Disk Usage Analyzer</span> from the <span class="gui">Activities</span>
-      overview. The window will display a list of file locations together with
-      the usage and capacity of each.</p></li>
-<li class="list"><p class="p">Click one of the items in the list to view a detailed summary of the
-      usage for that item. Click the menu button, and then <span class="gui">Scan
-      Folder…</span> or <span class="gui">Scan Remote Folder…</span> to scan a different
-      location.</p></li>
+<li class="list"><p class="p">Buka <span class="app">Disk</span> dari ringkasan <span class="gui">Aktivitas</span>. Jendela akan menampilkan daftar lokasi berkas bersamaan dengan penggunan dan kapasitas masing-masing.</p></li>
+<li class="list"><p class="p">Klik salah satu dari item yang ada pada daftar untuk melihat rincian laporan dari penggunaan item tersebut. Klik tombol menu, lalu <span class="gui">Pindai Folder...</span> atau <span class="gui">Pindah Folder Jarak Jauh...</span> untuk memindai pada lokasi yang berbeda.</p></li>
 </ul></div></div></div>
-<p class="p">The information is displayed according to <span class="gui">Folder</span>,
-  <span class="gui">Size</span>, <span class="gui">Contents</span> and when the data was last
-  <span class="gui">Modified</span>. See more details in <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/"><span class="app">Disk
-  Usage Analyzer</span></a></span>.</p>
+<p class="p">Informasi ditampilkan menurut <span class="gui">Folder</span>, <span class="gui">Ukuran</span>, <span class="gui">Isi</span>, dan kapan data terakhir <span class="gui">Diubah</span>. Lihat lebih banyak rincian dalam <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/"><span class="app">Penganalisa Penggunaan Disk</span></a></span>.</p>
 </div></div>
 </div></div>
 <div id="system-monitor" class="sect"><div class="inner">
@@ -95,9 +87,7 @@
 <p class="p">Untuk memeriksa ruang disk bebas dan kapasitas disk dengan <span class="app">Pemantau Sistem</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka aplikasi <span class="app">Pantau Sistem</span> dari ringkasan <span class="gui">Aktivitas</span>.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">File Systems</span> tab to view the system’s partitions and
-  disk space usage.  The information is displayed according to <span class="gui">Total</span>,
-  <span class="gui">Free</span>, <span class="gui">Available</span> and <span class="gui">Used</span>.</p></li>
+<li class="steps"><p class="p">Pilih tab <span class="gui">Sistem Berkas</span> untuk melihat partisi sistem dan pemakaian ruang disk. Informasi ditampilkan menurut <span class="gui">Total</span>, <span class="gui">Bebas</span>, <span class="gui">Tersedia</span>, dan <span class="gui">Terpakai</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -106,9 +96,8 @@
 <div class="region"><div class="contents">
 <p class="p">Bila disk terlalu penuh Anda mesti:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Delete files that aren’t important or that you won’t use anymore.</p></li>
-<li class="list"><p class="p">Make <span class="link"><a href="backup-why.html.id" title="Backup berkas-berkas penting Anda">backups</a></span> of the important files that
-   you won’t need for a while and delete them from the hard drive.</p></li>
+<li class="list"><p class="p">Hapus berkas yang tidak penting atau yang tidak akan Anda pakai lagi.</p></li>
+<li class="list"><p class="p">Buat <span class="link"><a href="backup-why.html.id" title="Backup berkas-berkas penting Anda">cadangan</a></span> dari berkas-berkas penting yang tidak akan Anda perlukan untuk sementara dan hapuslah mereka dari hard drive.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -128,7 +117,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

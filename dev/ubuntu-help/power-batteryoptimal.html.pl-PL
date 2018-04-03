@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Get the most out of your laptop battery</title>
+<title>Jak wydłużyć czas działania na zasilaniu z akumulatora</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,44 +65,29 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Get the most out of your laptop battery</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Jak wydłużyć czas działania na zasilaniu z akumulatora</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">As laptop batteries age, they get worse at storing charge and their capacity
-gradually decreases. There are a few techniques that you can use to prolong
-their useful lifetime, although you should not expect a big difference.</p>
+<p class="p">Kiedy akumulatory laptopów się starzeją, ich zdolność przechowywania ładunku elektrycznego się pogarsza, a pojemność z czasem zmniejsza. Można skorzystać z kilku sposobów na przedłużenie ich żywotności, ale nie należy się spodziewać dużej różnicy.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Do not let the battery run all the way down. Always recharge
-    <span class="em">before</span> the battery gets very low, although most batteries have
-    built-in safeguards to prevent the battery running too low. Recharging when
-    it is only partially discharged is more efficient, but recharging when it
-    is only slightly discharged is worse for the battery.</p></li>
-<li class="list"><p class="p">Heat has a detrimental effect on the charging efficiency of the battery.
-    Do not let the battery get any warmer than it has to.</p></li>
-<li class="list"><p class="p">Batteries age even if you leave them in storage. There is little
-    advantage in buying a replacement battery at the same time as you get the
-    original battery — always buy replacements when you need them.</p></li>
+<li class="list"><p class="p">Nie wyładowuj zupełnie akumulatora. Zawsze podłącz go do ładowania <span class="em">zanim</span> poziom spadnie bardzo nisko, chociaż większość akumulatorów ma wbudowane zabezpieczenia zapobiegające zbyt dużemu wyładowaniu. Ładowanie tylko częściowo rozładowanego akumulatora jest wydajniejsze, ale ładowanie tylko odrobinę rozładowanego akumulatora jest dla niego gorsze.</p></li>
+<li class="list"><p class="p">Wysoka temperatura ma szkodliwy wpływ na wydajność ładowania akumulatora. Nie pozwalaj akumulatorowi na rozgrzanie się bardziej, niż potrzeba.</p></li>
+<li class="list"><p class="p">Akumulatory starzeją się nawet, kiedy są odłączone od laptopa. Kupowanie zastępczego akumulatora w tym samym czasie, co oryginalny nie daje dużo korzyści — zawsze kupuj zamienniki wtedy, kiedy są potrzebne.</p></li>
 </ul></div></div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">This advice applies specifically to Lithium-Ion (Li-Ion) batteries, which
-  are the most common type. Other types of battery may benefit from different
-  treatment.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Ta porada dotyczy tylko akumulatorów litowo-jonowych (Li-Ion), które są najczęściej stosowane. Inne rodzaje akumulatorów mogą wymagać innego zachowania.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.pl-PL" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.pl-PL" title="What happens when I suspend my computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.pl-PL" title="Why does my screen go dim after a while?">screen dimming</a></span>…
-    </span>
+<a href="power.html.pl-PL" title="Zasilanie i akumulator">Zasilanie i akumulator</a><span class="desc"> — <span class="link"><a href="power-status.html.pl-PL" title="Sprawdzanie stanu akumulatora">Stan akumulatora</a></span>, <span class="link"><a href="power-suspend.html.pl-PL" title="Co dzieje się po uśpieniu komputera?">usypianie</a></span>, <span class="link"><a href="power-whydim.html.pl-PL" title="Dlaczego ekran jest po chwili przygaszany?">przygaszanie ekranu</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -113,7 +98,7 @@ their useful lifetime, although you should not expect a big difference.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

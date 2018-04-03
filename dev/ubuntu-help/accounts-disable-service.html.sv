@@ -75,12 +75,12 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätkonton</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Nätkonton</span> för att öppna panelen.</p></li>
-<li class="steps"><p class="p">Välj kontot som du vill ändra från listan till vänster.</p></li>
+<li class="steps"><p class="p">Välj kontot som du vill ändra från listan till höger.</p></li>
 <li class="steps"><p class="p">En lista av tjänster som är tillgängliga med detta konto kommer att visas under <span class="gui">Använd för</span>. Se <span class="link"><a href="accounts-which-application.html.sv" title="Nättjänster och program">Nättjänster och program</a></span> för att se vilka program som använder vilka tjänster.</p></li>
 <li class="steps"><p class="p">Slå av de tjänster som du inte vill använda.</p></li>
 </ol></div></div></div>
 <p class="p">När en tjänst har inaktiverats för ett konto kommer program på din dator inte längre att kunna använda kontot för att koppla upp mot den tjänsten längre.</p>
-<p class="p">För att aktivera en tjänst som du inaktiverat, gå bara tillbaka till fönstret <span class="gui">Nätkonton</span> och slå på den.</p>
+<p class="p">För att aktivera en tjänst som du inaktiverat, gå bara tillbaka till panelen <span class="gui">Nätkonton</span> och slå på den.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -111,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

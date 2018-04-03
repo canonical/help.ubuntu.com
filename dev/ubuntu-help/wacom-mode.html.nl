@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set the Wacom tablet’s tracking mode</title>
+<title>De volgmodus van het Wacom-tablet instellen</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="wacom.html.nl" title="Wacom-tekentablet">Wacom-tekentablet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="wacom.html.nl" title="Wacom-tekentablet">Wacom-tekentablet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set the Wacom tablet’s tracking mode</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">De volgmodus van het Wacom-tablet instellen</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p"><span class="gui">Volgmodus</span> bepaalt hoe de aanwijzer gekoppeld wordt aan het scherm.</p>
@@ -75,17 +75,13 @@
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Wacom-tablet</span>.</p></li>
 <li class="steps">
 <p class="p">Klik op <span class="gui">Wacom-tablet</span> om het paneel te openen.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
-    <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
-    <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Als er geen tablet gedetecteerd is ziet u de opmerking <span class="gui"> Sluit het Wacom-tablet aan en zet het aan</span>. Klik op de <span class="gui">Bluetooth-instellingen</span>-link om met een draadloze tablet te verbinden.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Selecteer bij <span class="gui">Volgmodus</span> <span class="gui">Tablet (absoluut)</span> of <span class="gui">Touchpad (relatief)</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents">
 <p class="p">In <span class="em">absolute</span> modus wordt elk punt op het tablet toegewezen aan een punt op het scherm. Zo komt bijvoorbeeld de linkerbovenhoek van het scherm altijd overeen met hetzelfde punt op het tablet.</p>
-<p class="p">In <span class="em">relative</span> mode, if you lift the pointer off the tablet and put it
- down in a different position, the cursor on the screen doesn’t move. This is
-    the way a mouse operates.</p>
+<p class="p">Als u in <span class="em">relatieve</span> modus de aanwijzer van het tablet haalt en op een andere positie neerzet, wordt de cursor op het scherm niet verplaatst. Dat is de manier waarop een muis werkt.</p>
 </div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -104,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

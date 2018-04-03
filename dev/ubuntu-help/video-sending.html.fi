@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Other people can’t play the videos I made</title>
+<title>Muut henkilöt eivät voi katsella tekemiäni videoita</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a> › <a class="trail" href="media.html.fi#videos" title="Videot ja videokamerat">Videot</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a> › <a class="trail" href="media.html.fi#videos" title="Videot ja videokamerat">Videot</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Other people can’t play the videos I made</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Muut henkilöt eivät voi katsella tekemiäni videoita</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Jos teit videon Linux-tietokoneella ja lähetit sen Windows- tai Mac OS X -käyttäjälle, vastaanottajalla saattaa ilmetä ongelmia videoa toistaessa.</p>
@@ -75,7 +75,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Open <span class="app">Files</span> from the
       <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview.</p></li>
-<li class="list"><p class="p">Right-click on the video file and select <span class="gui">Properties</span>.</p></li>
+<li class="list"><p class="p">Napsauta hiiren oikealla painikkeella videotiedostoa ja valitse valikosta <span class="gui">Ominaisuudet</span>.</p></li>
 <li class="list"><p class="p">Go to the <span class="gui">Audio/Video</span> or <span class="gui">Video</span> tab and look at
       which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and
       <span class="gui">Audio</span> (if the video also has audio).</p></li>
@@ -115,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

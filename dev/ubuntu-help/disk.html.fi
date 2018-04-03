@@ -64,21 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Levyt ja tiedon tallennus</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.fi" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.fi" title="Create a startup disk"><span class="title">
-    Create a startup disk
-  </span><span class="linkdiv-dash"> — </span><span class="desc"> 
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.fi" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Kasvata tai kutista tiedostojärjestelmää ja sen osiota.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.fi" title="Hallitse levyjä ja osioita"><span class="title">Hallitse levyjä ja osioita</span><span class="linkdiv-dash"> — </span><span class="desc">Ymmärrät, mitä taltiot ja levyosiot ovat ja käytät levytyökalua niiden hallintaan.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.fi" title="Korjaa vaurioitunut tiedostojärjestelmä"><span class="title">Korjaa vaurioitunut tiedostojärjestelmä</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
+          state.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.fi" title="Luo käynnistyslevy"><span class="title">Luo käynnistyslevy</span><span class="linkdiv-dash"> — </span><span class="desc"> 
     Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
     </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.fi" title="Hallitse levyjä ja osioita"><span class="title">Hallitse levyjä ja osioita</span><span class="linkdiv-dash"> — </span><span class="desc">Ymmärrät, mitä taltiot ja levyosiot ovat ja käytät levytyökalua niiden hallintaan.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.fi" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
-          state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-check.html.fi" title="Tarkista kiintolevysi ongelmien varalta"><span class="title">Tarkista kiintolevysi ongelmien varalta</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.fi" title="Tarkista kuinka paljon levytilaa on käytössä"><span class="title">Tarkista kuinka paljon levytilaa on käytössä</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä <span class="gui">Levynkäytön analysointia</span> tai <span class="gui">Järjestelmän valvontaa</span> levyn vapaan tilan ja koon tarkistamiseen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.fi" title="Testaa kiintolevyn suorituskyky"><span class="title">Testaa kiintolevyn suorituskyky</span><span class="linkdiv-dash"> — </span><span class="desc">Suorita levylle suorituskykytestejä mitataksesi levyn nopeus.</span></a></div>
@@ -100,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

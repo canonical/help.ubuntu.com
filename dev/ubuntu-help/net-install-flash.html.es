@@ -72,6 +72,7 @@
 <div class="contents">
 <p class="p">Flash es un <span class="em">complemento</span> para su navegador web que le permite ver vídeos y usar páginas web interactivas de algunos sitios web. Aunque HTML5, que es una solución más moderna, está ganando terreno, todavía existen sitios webs que no funcionarán sin Flash.</p>
 <p class="p">Si no tiene Flash instalado, probablemente vea un mensaje diciéndoselo cuando entre en un sitio web que lo requiera. Flash está disponible como descarga gratuita (pero no de código abierto) para la mayoría de los navegadores web.</p>
+<div class="note note-warning" title="Advertencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe ha anunciado que dejarán de actualizar y distribuir Flash Player a fines de 2020. En consecuencia, por razones de seguridad, el complemento Flash no se debe usar después de 2020.</p></div></div></div></div>
 <p class="p">Hay dos tipos de complementos disponibles:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="em">NPAPI</span> para <span class="app">Firefox</span> y otros navegadores web basados en Gecko</p></li>
@@ -81,7 +82,7 @@
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">El paquete <span class="app">flashplugin-installer</span> proporciona el complemento NPAPI para Firefox. Si decidió instalar cierto software de terceros durante la instalación de Ubuntu es probable que <span class="app">flashplugin-installer</span> ya esté instalado. Si no es así, puede <span class="link"><a href="https://apps.ubuntu.com/cat/applications/flashplugin-installer" title="https://apps.ubuntu.com/cat/applications/flashplugin-installer">instalarlo</a></span> y reiniciar su navegador.</p></div></div>
+<div class="region"><div class="contents"><p class="p">El paquete <span class="app">flashplugin-installer</span> proporciona el complemento NPAPI para Firefox. <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Instale el paquete</a></span> y reinicie su navegador.</p></div></div>
 </div></div>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>
@@ -89,7 +90,7 @@
 <p class="p">El paquete <span class="app">adobe-flashplugin</span> proporciona complementos tanto NPAPI como PPAPI, lo que quiere decir que permite Flash en navegadores web Firefox y Chromium.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Asegúrese de <span class="link"><a href="addremove-sources.html.es#canonical-partner" title="Activar el repositorio de socios de Canonical">activar el repositorio de los socios de Canonical</a></span>.</p></li>
-<li class="steps"><p class="p">Instale el paquete <span class="link"><a href="https://apps.ubuntu.com/cat/applications/adobe-flashplugin" title="https://apps.ubuntu.com/cat/applications/adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
+<li class="steps"><p class="p">Instale el paquete <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
 <li class="steps"><p class="p">Reinicie el navegador.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -124,7 +125,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

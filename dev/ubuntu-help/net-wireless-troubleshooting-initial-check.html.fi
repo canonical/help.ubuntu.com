@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html.fi#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html.fi#problems" title="Yleisiä ongelmia">Ongelmat</a> » <a class="trail" href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » <a class="trail" href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » <a class="trail" href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -94,8 +94,7 @@
       <span class="link"><a href="net-wireless-airplane.html.fi" title="Katkaise langaton yhteys (lentokonetila)">Airplane Mode</a></span> is <span class="em">not</span>
       switched on.</p></li>
 <li class="steps">
-<p class="p">Open the Terminal, type <span class="cmd">nmcli device</span> and press
-      <span class="key"><kbd>Enter</kbd></span>.</p>
+<p class="p">Avaa <span class="app">Pääte</span>, kirjoita <span class="cmd">nmcli device</span> ja paina <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">This will display information about your network interfaces and
       connection status. Look down the list of information and see if there is
       an item related to the wireless network adapter. If the state is
@@ -116,7 +115,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a><span class="desc"> — Tunnista ja ratkaise langattomien yhteyksien ongelmia.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -127,7 +126,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=de>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use alternative keyboard layouts</title>
+<title>Alternative Tastaturbelegungen verwenden</title>
 <link rel="stylesheet" type="text/css" href="de.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,68 +65,43 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-language.html.de" title="Region und Sprache">Region und Sprache</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="prefs-language.html.de" title="Region und Sprache">Region und Sprache</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » <a class="trail" href="keyboard-shortcuts-set.html.de" title="Tastenkombinationen einrichten">Tastenkombinationen einrichten</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » <a class="trail" href="keyboard-shortcuts-set.html.de" title="Tastenkombinationen einrichten">Tastenkombinationen einrichten</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » <a class="trail" href="keyboard-shortcuts-set.html.de" title="Tastenkombinationen einrichten">Tastenkombinationen einrichten</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="keyboard.html.de" title="Tastatur">Tastatur</a> » <a class="trail" href="keyboard-shortcuts-set.html.de" title="Tastenkombinationen einrichten">Tastenkombinationen einrichten</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use alternative keyboard layouts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Alternative Tastaturbelegungen verwenden</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Tastaturen gibt es in Hunderten von Tastaturbelegungen für verschiedene Sprachen. Selbst für eine einzelne Sprache gibt es oft mehrere Tastaturbelegungen, etwa die deutsche Dvorak-Tastaturbelegung. Sie können Ihre Tastatur so benutzen, als hätte Sie eine andere Tastaturbelegung, unabhängig von den Buchstaben und Zeichen, die auf den Tasten aufgedruckt sind. Das ist nützlich, wenn Sie häufig zwischen verschiedenen Sprachen wechseln.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
-      select the language which is associated with the layout, then select a
-      layout and press <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Region und Sprache</span> ein.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Region und Sprache</span>, um das Panel zu öffnen.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="gui">+</span> im Abschnitt <span class="gui">Eingabequellen</span>, wählen Sie die Sprache zur Belegung aus, wählen Sie die Belegung und klicken Sie auf <span class="gui">Hinzufügen</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents">
+<p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p>
 <p class="p">Some rarely used keyboard layout variants are not available by default when you click
     the <span class="gui">+</span> button. To make also those input sources available you can open a terminal
     window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>
     and run this command:</p>
 <p class="p"><span class="cmd">gsettings set org.gnome.desktop.input-sources show-all-sources true</span></p>
 </div></div></div></div>
-<div class="note note-sidebar" title="Seitenleiste"><div class="inner"><div class="region"><div class="contents"><p class="p">You can preview an image of any layout by selecting it in the list of
-    <span class="gui">Input Sources</span> and clicking
-    <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="preview"></span></span></span></p></div></div></div></div>
-<p class="p">Certain languages offer some extra configuration options. You can
-  identify those languages because they have a
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="preview"></span></span></span> icon next to them. If you want to access
-  these extra parameters, select the language from the <span class="gui">Input Source</span>
-  list and a new
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" height="16" width="16" class="media media-inline" alt="preferences"></span></span></span> button will give you access
-  to the extra settings.</p>
-<p class="p">When you use multiple layouts, you can choose to have all windows use the
-  same layout or to set a different layout for each window. Using a different
-  layout for each window is useful, for example, if you’re writing an article
-  in another language in a word processor window. Your keyboard selection will
-  be remembered for each window as you switch between windows. Press the
-  <span class="gui">Options</span> button to select how you want to manage
-  multiple layouts.</p>
-<p class="p">The top bar will display a short identifier for the current layout, such as
-  <span class="gui">en</span> for the standard English layout. Click the layout indicator and
-  select the layout you want to use from the menu. If the selected language has
-  any extra settings, they will be shown below the list of available layouts.
-  This gives you a quick overview of your settings. You can also open an image
-  with the current keyboard layout for reference.</p>
-<p class="p">The fastest way to change to another layout is by using the 
-  <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
-  the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
-  By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
-  and to the previous one with
-  <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
-  change these shortcuts in the <span class="gui">Keyboard</span> settings.</p>
+<div class="note note-sidebar" title="Seitenleiste"><div class="inner"><div class="region"><div class="contents"><p class="p">Sie können sich eine Vorschau jeder Tastaturbelegung ansehen, wenn Sie sie aus der Liste der <span class="gui">Eingabequellen</span> auswählen und auf <span class="gui"><span class="media"><span class="media media-image"><img src="figures/input-keyboard-symbolic.png" height="16" width="16" class="media media-inline" alt="Vorschau"></span></span></span> klicken.</p></div></div></div></div>
+<p class="p">Für bestimmte Sprachen sind zusätzliche Konfigurationsoptionen verfügbar. Diese Sprachen erkennen Sie am <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="Vorschau"></span></span></span> daneben. Wenn Sie auf diese zusätzlichen Parameter zugreifen wollen, wählen Sie die Sprache in der <span class="gui">Eingabequellen</span>-Liste aus, woraufhin ein neuer <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" height="16" width="16" class="media media-inline" alt="Einstellungen"></span></span></span>-Knopf für die zusätzlichen Einstellungen zur Verfügung steht.</p>
+<p class="p">Wenn Sie mehrere Tastaturbelegungen verwenden, können Sie für alle Fenster dieselbe Belegung verwenden oder unterschiedliche Belegungen für jedes einzelne Fenster. Unterschiedliche Belegungen für jedes Fenster zu verwenden ist zum Beispiel dann nützlich, wenn Sie einen Artikel in einer anderen Sprache in einem Textverarbeitungsfenster schreiben. Ihre Tastaturauswahl wird für jedes Fenster gespeichert, wenn Sie zwischen den Fenstern wechseln. Klicken Sie auf den Knopf <span class="gui">Optionen</span> und wählen Sie, wie Sie mehrere Belegungen verwalten möchten.</p>
+<p class="p">Im oberen Panel wird eine Kurzbezeichnung der aktuellen Belegung angezeigt, zum Beispiel <span class="gui">de</span> für die deutsche Standardbelegung. Klicken Sie auf die Kurzbezeichnung und wählen Sie die gewünschte Belegung im Menü aus. Falls für die gewählte Sprache zusätzliche Einstellungen möglich sind, werden diese unter der Liste der verfügbaren Belegungen angezeigt. Dadurch erhalten Sie einen schnellen Überblick über Ihre Einstellungen. Sie können zum Vergleich auch ein Bild der aktuellen Tastaturbelegung öffnen.</p>
+<p class="p">Die schnellste Möglichkeit zum Wechsel zu einer anderen Belegung sind die <span class="gui">Eingabequellen</span>-<span class="gui">Tastenkombinationen</span>. Diese Kürzel öffnen den <span class="gui">Eingabequellen</span>-Wähler, in dem Sie vor- und zurückschalten können. In der Voreinstellung wechseln zur nächsten Eingabequelle mit <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Leertaste</kbd></span></span> und zur vorherigen mit <span class="keyseq"><span class="key"><kbd>Umschalttaste</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Leertaste</kbd></span></span> wechseln. Sie können diese Tastenkombinationen in den <span class="gui">Tastatur</span>-Einstellungen ändern.</p>
 <p class="p"><span class="media"><span class="media media-image"><img src="figures/input-methods-switcher.png" class="media media-inline" alt=""></span></span></p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -136,10 +111,10 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-language.html.de" title="Region und Sprache">Region und Sprache</a><span class="desc"> — <span class="link"><a href="session-language.html.de" title="Zu verwendende Sprache ändern">Sprache</a></span>, <span class="link"><a href="session-formats.html.de" title="Datumsformat und Maßeinheiten ändern">Region und Formate</a></span>, <span class="link"><a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span> …</span>
+<a href="prefs-language.html.de" title="Region und Sprache">Region und Sprache</a><span class="desc"> — <span class="link"><a href="session-language.html.de" title="Zu verwendende Sprache ändern">Sprache</a></span>, <span class="link"><a href="session-formats.html.de" title="Datumsformat und Maßeinheiten ändern">Region und Formate</a></span>, <span class="link"><a href="keyboard-layouts.html.de" title="Alternative Tastaturbelegungen verwenden">Tastaturbelegungen</a></span> …</span>
 </li>
 <li class="links ">
-<a href="keyboard.html.de" title="Tastatur">Tastatur</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.de" title="Use alternative keyboard layouts">Tastaturbelegungen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.de" title="Den Tastaturcursor blinken lassen">blinkender Cursor</a></span>, <span class="link"><a href="a11y.html.de#mobility" title="Mobilitätseinschränkungen">Barrierefreiheit der Tastatur</a></span> …</span>
+<a href="keyboard.html.de" title="Tastatur">Tastatur</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.de" title="Alternative Tastaturbelegungen verwenden">Tastaturbelegungen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.de" title="Den Tastaturcursor blinken lassen">blinkender Cursor</a></span>, <span class="link"><a href="a11y.html.de#mobility" title="Mobilitätseinschränkungen">Barrierefreiheit der Tastatur</a></span> …</span>
 </li>
 <li class="links ">
 <a href="keyboard-shortcuts-set.html.de" title="Tastenkombinationen einrichten">Tastenkombinationen einrichten</a><span class="desc"> — Festlegen und Ändern von Tastenkombination in den <span class="gui">Tastatur</span>-Einstellungen.</span>
@@ -161,7 +136,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

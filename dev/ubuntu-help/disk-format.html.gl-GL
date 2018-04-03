@@ -70,31 +70,22 @@
 <div class="hgroup"><h1 class="title"><span class="title">Limpar todo nun disco extraíbel</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have a removable disk, like a USB memory stick or an external hard
- disk, you may sometimes wish to completely remove all of its files and
- folders. You can do this by <span class="em">formatting</span> the disk — this deletes all
- of the files on the disk and leaves it empty.</p>
+<p class="p">Se ten un disco extraíbel, como unha memoria USB ou un disco duro externo, é posíbel que queira eliminar por completo todos os ficheiros que ten aí. Pode facer isto <span class="em">formateando</span> o disco — isto elimina todos os ficheiros no disco ou déixao baleiro.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Formatar un disco extraíbel</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
+<li class="steps"><p class="p">Abra <span class="app">Discos</span> desde a vista de <span class="gui">Actividades</span>.</p></li>
 <li class="steps">
-<p class="p">Select the disk you want to wipe from the list of storage devices on the
-    left.</p>
-<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Asegúrese de que seleccionou o disco correcto. Se elixe o disco equivocado, eliminaranse todos os ficheiros no outro disco.</p></div></div></div></div>
+<p class="p">Seleccione o disco que quere limpar desde a lista de dispositivos de almacenamento da esquerda.</p>
+<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Asegúrese de que seleccionou o disco correcto. Se elixe o disco equivocado, eliminaranse todos os ficheiros no outro disco!</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Format…</span>.</p></li>
+<li class="steps"><p class="p">Na barra de ferramentas debaixo da sección <span class="gui">Volums</span>, prema o botón de menú. Logo prema <span class="gui">Formatarformato…</span>.</p></li>
 <li class="steps">
-<p class="p">In the window that pops up, choose a file system <span class="gui">Type</span> for the
-    disk.</p>
+<p class="p">Na xanela que aparece, seleccione un <span class="gui">Tipo</span> de sistema de ficheiros para o disco.</p>
 <p class="p">Se quere usar o disco en computadores Windows ou Mac OS así como en GNU/Linux, seleccione <span class="gui">FAT</span>. Se só quere usalo con Windows, <span class="gui">NTFS</span> pode ser a mellor opción. Mostrarase unha pequena descrición dos <span class="gui">tipos de sistema de ficheiro</span> como unha etiqueta.</p>
 </li>
-<li class="steps"><p class="p">Give the disk a name and click <span class="gui">Format…</span> to continue and show a
-    confirmation window. Check the details carefully, and click
-    <span class="gui">Format</span> to wipe the disk.</p></li>
-<li class="steps"><p class="p">Once the formatting has finished, click the eject icon to safely remove
-    the disk. It should now be blank and ready to use again.</p></li>
+<li class="steps"><p class="p">Déalle un nome ao disco e prema <span class="gui">Formatar…</span> para continuar e mostrarase unha xanela de confirmación. Comprobe os detalles con detenemento e prema <span class="gui">Formatar</span> para limpar o disco.</p></li>
+<li class="steps"><p class="p">Unha vez que teña rematado o formatado, extraia con seguridade o disco. Agora debería estar baleiro e listo para usarse de novo.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Aviso"><div class="inner">
@@ -118,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="files.html.gl-GL" title="Busca de ficheiros e cartafoles">Ficheiros</a> › <a class="trail" href="files.html.gl-GL#more-file-tasks" title="Máis tarefas relacionadas con ficheiros">Máis tarefas relacionadas con ficheiros</a> » <a class="trail" href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferencias de previsualización do xestor de ficheiros</span></h1></div>
@@ -72,12 +72,13 @@
 <div class="contents">
 <p class="p">O xestor de ficheiros crea miniaturas das imaxes, vídeos e ficheiros de texto. A xeración das miniaturas pode ser lenta para os ficheiros que son moi grandes ou nos que están en redes, polo que pode controlar que miniaturas se xeran. Prema <span class="gui">Ficheiros</span> desde a barra superior, seleccione <span class="gui">Preferencias</span> e seleccione a lapela <span class="gui">Previsualizacións</span>.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Files</span></dt>
+<dt class="terms"><span class="gui">Ficheiros</span></dt>
 <dd class="terms">
 <p class="p">Por omisión, as previsualización realízanse <span class="gui">Só para os ficheiros locais</span> no seu computador ou nas unidades externas conectadas. Pode estabelecer es funcionalidade a <span class="gui">Sempre</span> ou <span class="gui">Nunca</span>. O xestor de ficheiros pode <span class="link"><a href="nautilus-connect.html.gl-GL" title="Examinar ficheiros nun servidor ou compartición de rede">explorar ficheiros noutros computadores</a></span> nunha rede local ou en internet. Se explora ficheiros nunha rede local a cotío, e a rede ten un ancho de banda grande, pode activar algunhas ou todas as opcións de previsualización a <span class="gui">Sempre</span>.</p>
 <p class="p">Ademais, pode usar a preferencia <span class="gui">Só para os ficheiros máis pequenos que</span> para limitar o tamaño dos ficheiros a previsualizar.</p>
 </dd>
-<dt class="terms"><span class="gui">Folders</span></dt>
+<dt class="terms">
+<span class="gui">Cartafoles</span>.</dt>
 <dd class="terms"><p class="p">Se mostra o tamaño dos ficheiros na <span class="link"><a href="nautilus-list.html.gl-GL" title="Files list columns preferences">visualización en lista de columnas</a></span> ou as <span class="link"><a href="nautilus-display.html.gl-GL#icon-captions" title="Lendas das iconas">lendas das iconas</a></span>, os cartafoles mostrarán unha conta de cantos ficheiros ou cartafoles conteñen. Contar os elementos dun cartafol pode ser lento, especialmente para cartafoles grandes, ou sobre a rede. Pode activar ou desactivar esta característica, o activala só para os ficheiros no seu computador e unidades externas locais.</p></dd>
 </dl></div></div></div>
 </div>
@@ -87,7 +88,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.gl-GL" title="Preferencias do xestor de ficheiros">Preferencias do xestor de ficheiros</a><span class="desc"> — Ver e estabelecer preferencias desde o navegador de ficheiros.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -105,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

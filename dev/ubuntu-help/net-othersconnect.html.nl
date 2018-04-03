@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Other users can’t connect to the internet</title>
+<title>Andere gebruikers kunnen geen verbinding maken met het internet</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Other users can’t connect to the internet</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Andere gebruikers kunnen geen verbinding maken met het internet</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Als u een netwerkverbinding instelt, kunnen alle andere gebruikers op uw computer het normaal gesproken gebruiken. Als de verbindingsinformatie niet gedeeld wordt, moet u de verbindingsinstellingen controleren.</p>
@@ -75,14 +75,10 @@
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Selecteer <span class="gui">Wifi</span> in de lijst aan de linkerkant.</p></li>
-<li class="steps"><p class="p">Click the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to open the connection
-      details.</p></li>
+<li class="steps"><p class="p">Klik op de knop <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span> om de verbindingsgegevens te openen.</p></li>
 <li class="steps"><p class="p">Selecteer <span class="gui">Identiteit</span> vanuit het paneel aan de linkerkant.</p></li>
-<li class="steps"><p class="p">At the bottom of the <span class="gui">Identity</span> panel, check the <span class="gui">Make
-      available to other users</span> option to allow other users to use the
-      network connection.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Apply</span> to save the changes.</p></li>
+<li class="steps"><p class="p">U moet in het paneel <span class="gui">Identiteit</span> een vinkje plaatsen bij de optie <span class="gui">Beschikbaar voor andere gebruikers</span> om andere gebruikers gebruik te laten maken van de netwerkverbinding.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Toepassen</span> om de wijzigingen op te slaan.</p></li>
 </ol></div></div></div>
 <p class="p">Andere gebruikers van de computer zullen nu deze verbinding kunnen gebruiken zonder dat ze verdere gegevens moeten invoeren.</p>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Elke gebruiker kan deze instelling wijzigen.</p></div></div></div></div>
@@ -93,13 +89,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html.nl" title="I can’t see my wireless network in the list">Uw wifi-netwerk vinden</a></span>...</span>
+<a href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html.nl" title="Ik zie mijn draadloos netwerk niet in de lijst">Uw wifi-netwerk vinden</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-othersedit.html.nl" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — U moet het vinkje bij de optie <span class="gui">Beschikbaar voor alle gebruikers</span> in de netwerkverbindingsinstellingen weghalen.</span>
+<a href="net-othersedit.html.nl" title="Andere gebruikers kunnen de netwerkverbindingen niet bewerken">Andere gebruikers kunnen de netwerkverbindingen niet bewerken</a><span class="desc"> — U moet het vinkje bij de optie <span class="gui">Beschikbaar voor alle gebruikers</span> in de netwerkverbindingsinstellingen weghalen.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -111,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

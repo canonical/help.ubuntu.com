@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change which web browser opens websites by default</title>
+<title>Vaihda verkkosivut oletuksena avaavaa verkkoselainta</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,20 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-browser.html.fi" title="Selaimet">Selaimet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-browser.html.fi" title="Selaimet">Selaimet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change which web browser opens websites by default</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Vaihda verkkosivut oletuksena avaavaa verkkoselainta</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">When you click a link to a web page in any application, a web browser will
-  automatically open up to that page. However, if you have more than one
-  browser installed, the page may not open up in the browser you wanted it to
-  open in. To fix this, change the default web browser:</p>
+<p class="p">Kun napsautat jossakin sovelluksessa linkkiä verkkosivulle, se aukeaa automaattisesi selaimeen. Jos sinulla on enemmän kuin yksi selain, sivu ei ehkä aukea haluamaasi selaimeen. Voit korjata tämän vaihtamalla oletusselainta:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
-      start typing <span class="gui">Details</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span> -yleisnäkymä ja ala kirjoittaa <span class="gui">Tietoja</span>.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Tietoja</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
       of the window.</p></li>
 <li class="steps"><p class="p">Choose which web browser you would like to open links by
@@ -93,7 +89,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.fi" title="Selaimet">Selaimet</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.fi" title="Change which web browser opens websites by default">Vaihda oletusselainta</a></span>, <span class="link"><a href="net-install-flash.html.fi" title="Flash-lisäosan asentaminen">asenna Flash</a></span>…</span>
+<a href="net-browser.html.fi" title="Selaimet">Selaimet</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.fi" title="Vaihda verkkosivut oletuksena avaavaa verkkoselainta">Vaihda oletusselainta</a></span>, <span class="link"><a href="net-install-flash.html.fi" title="Flash-lisäosan asentaminen">asenna Flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -104,7 +100,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why don’t the default monitor profiles have a calibration expiry?</title>
+<title>Per què els perfils del monitor per defecte no tenen una data de caducitat de la calibració?</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,55 +65,44 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » <a class="trail" href="color-why-calibrate.html.ca" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » <a class="trail" href="color-why-calibrate.html.ca" title="Per què he de fer jo la calibració?">Per què he de fer jo la calibració?</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » <a class="trail" href="color-gettingprofiles.html.ca" title="Where do I get color profiles?">Where do I get color profiles?</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » <a class="trail" href="color-gettingprofiles.html.ca" title="On puc obtenir perfils de color?">On puc obtenir perfils de color?</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#problems" title="Problems">Problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#problems" title="Problemes">Problemes</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#calibration" title="Calibration">Calibration</a> » <a class="trail" href="color-why-calibrate.html.ca" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#calibration" title="Calibració">Calibració</a> » <a class="trail" href="color-why-calibrate.html.ca" title="Per què he de fer jo la calibració?">Per què he de fer jo la calibració?</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » <a class="trail" href="color-gettingprofiles.html.ca" title="Where do I get color profiles?">Where do I get color profiles?</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a> » <a class="trail" href="color-gettingprofiles.html.ca" title="On puc obtenir perfils de color?">On puc obtenir perfils de color?</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Color management">Color management</a> › <a class="trail" href="color.html.ca#problems" title="Problems">Problems</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ca" title="User &amp; system settings">Paràmetres de l'ordinador</a> » <a class="trail" href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a> › <a class="trail" href="color.html.ca#problems" title="Problemes">Problemes</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Per què els perfils del monitor per defecte no tenen una data de caducitat de la calibració?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    The default color profile used for each monitor is generated
-    automatically based on the display 
-    <span class="link"><a href="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data" title="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data">
-    EDID</a></span> which is stored in a memory chip inside the monitor.
-    The EDID only gives us a snapshot of the available colors the monitor
-    was capable of displaying when it was manufactured, and does not
-    contain much other information for color correction.
-  </p>
+<p class="p">El perfil de color predeterminat usat per a cada monitor es genera automàticament en funció de la pantalla<span class="link"><a href="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data" title="https://en.wikipedia.org/wiki/Extended_Display_Identification_Data"> EDID</a></span> que s'emmagatzema en un xip de memòria dins del monitor. L'EDID només ens proporciona una instantània dels colors disponibles que era capaç de mostrar quan es va fabricar, i no conté massa informació addicional per a la correcció del color.</p>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Mostra les imatges a la mida normal" data-zoom-out-title="Fes les imatges més petites"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-profile-default.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">As the EDID cannot be updated, it has no expiry date.</div>
+<div class="desc">Com que l'EDID no es pot actualitzar, no té data de caducitat.</div>
 </div>
 </div></div>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      Getting a profile from the monitor vendor or creating a profile
-      yourself would lead to more accurate color correction.
-    </p></div></div></div></div>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Obtenir un perfil del proveïdor del monitor o crear un perfil propi portaria a una correcció de color més precisa.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="color.html.ca#problems" title="Problems">Problems</a></li>
 <li class="links ">
-<a href="color-gettingprofiles.html.ca" title="Where do I get color profiles?">Where do I get color profiles?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>
+<a href="color-gettingprofiles.html.ca" title="On puc obtenir perfils de color?">On puc obtenir perfils de color?</a><span class="desc"> — Els proveïdors proporcionen perfils de colors i es poden generar per un mateix.</span>
 </li>
 <li class="links ">
-<a href="color-why-calibrate.html.ca" title="Why do I need to do calibration myself?">Why do I need to do calibration myself?</a><span class="desc"> — Calibrating is important if you care about the colors you display or print.</span>
+<a href="color-why-calibrate.html.ca" title="Per què he de fer jo la calibració?">Per què he de fer jo la calibració?</a><span class="desc"> — Calibrar és important si us preocupa els colors que mostreu o imprimiu.</span>
 </li>
+<li class="links "><a href="color.html.ca#problems" title="Problemes">Problemes</a></li>
 </ul></div>
 </div></div></div>
 </div>
@@ -124,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

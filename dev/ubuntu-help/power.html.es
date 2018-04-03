@@ -82,7 +82,6 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.es" title="Usar menos energía y mejorar la vida de la batería"><span class="title">Usar menos energía y mejorar la vida de la batería</span><span class="linkdiv-dash"> — </span><span class="desc">Consejos para reducir el consumo de energía de su equipo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hibernate.html.es" title="¿Cómo hibernar mi equipo?"><span class="title">¿Cómo hibernar mi equipo?</span><span class="linkdiv-dash"> — </span><span class="desc">La hibernación está desactivada de manera predeterminada porque no tiene soporte adecuado.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.es" title="¿Por qué se apaga mi equipo cuando cierro la tapa?"><span class="title">¿Por qué se apaga mi equipo cuando cierro la tapa?</span><span class="linkdiv-dash"> — </span><span class="desc">Los portátiles se suspenden cuando se cierra la tapa para ahorrar energía.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.es" title="¿Qué ocurre cuando suspendo el equipo?"><span class="title">¿Qué ocurre cuando suspendo el equipo?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspender pone su equipo a dormir para que use menos energía.</span></a></div>
 </div>
@@ -158,7 +157,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

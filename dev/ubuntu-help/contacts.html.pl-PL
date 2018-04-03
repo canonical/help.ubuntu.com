@@ -64,21 +64,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kontakty</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Use <span class="app">Contacts</span> to store, access or edit information for your
- contacts, locally or in your <span class="link"><a href="accounts.html.pl-PL" title="Konta online">Online Accounts</a></span>.</p>
+<p class="p">Użyj programu <span class="app">Kontakty</span> do przechowywania, używania i modyfikowania informacji o kontaktach, lokalnie lub w <span class="link"><a href="accounts.html.pl-PL" title="Konta online">kontach online</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.pl-PL" title="Starting Contacts for the first time"><span class="title">Starting Contacts for the first time</span><span class="linkdiv-dash"> — </span><span class="desc">Store your contacts in a local address book or in an online account.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.pl-PL" title="Connect with your contact"><span class="title">Connect with your contact</span><span class="linkdiv-dash"> — </span><span class="desc">Email, chat with, or phone a contact.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.pl-PL" title="Włączanie programu Kontakty po raz pierwszy"><span class="title">Włączanie programu Kontakty po raz pierwszy</span><span class="linkdiv-dash"> — </span><span class="desc">Przechowywanie kontaktów w lokalnej książce adresowej lub w koncie online.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.pl-PL" title="Dodawanie i usuwanie kontaktów"><span class="title">Dodawanie i usuwanie kontaktów</span><span class="linkdiv-dash"> — </span><span class="desc">Dodawanie i usuwanie kontaktów w lokalnej książce adresowej.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.pl-PL" title="Edit contact details"><span class="title">Edit contact details</span><span class="linkdiv-dash"> — </span><span class="desc">Edit the information for each contact.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.pl-PL" title="Link and unlink contacts"><span class="title">Link and unlink contacts</span><span class="linkdiv-dash"> — </span><span class="desc">Combine information for a contact from multiple sources.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.pl-PL" title="Komunikacja z kontaktem"><span class="title">Komunikacja z kontaktem</span><span class="linkdiv-dash"> — </span><span class="desc">Wysyłanie wiadomości e-mail, rozmawianie i dzwonienie do kontaktu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.pl-PL" title="Modyfikowanie informacji o kontakcie"><span class="title">Modyfikowanie informacji o kontakcie</span><span class="linkdiv-dash"> — </span><span class="desc">Modyfikowanie informacji o każdym kontakcie.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="contacts-search.html.pl-PL" title="Wyszukiwanie kontaktu"><span class="title">Wyszukiwanie kontaktu</span><span class="linkdiv-dash"> — </span><span class="desc">Wyszukiwanie kontaktu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.pl-PL" title="Łączenie i rozłączanie kontaktów"><span class="title">Łączenie i rozłączanie kontaktów</span><span class="linkdiv-dash"> — </span><span class="desc">Łączenie informacji o kontakcie z wielu źródeł.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -97,7 +96,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

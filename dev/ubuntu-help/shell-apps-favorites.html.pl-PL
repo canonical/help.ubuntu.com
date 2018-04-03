@@ -64,28 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#desktop" title="Dostosowywanie pulpitu">Dostosowywanie pulpitu</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#desktop" title="Dostosowywanie pulpitu">Dostosowywanie pulpitu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Przypinanie ulubionych programów do paska bocznego</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To add an application to the <span class="link"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">dash</a></span>
-  for easy access:</p>
+<p class="p">Aby dodać program do <span class="link"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">paska ulubionych</a></span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the
-      <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Activities</a></span> overview by
-      clicking <span class="gui">Activities</span> at the top left of the screen</p></li>
-<li class="steps"><p class="p">Click the grid button in the dash and find the application you want to
-      add.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> klikając <span class="gui">Podgląd</span> w górnym lewym rogu ekranu.</p></li>
+<li class="steps"><p class="p">Kliknij ostatni przycisk na pasku ulubionych i znajdź program do dodania.</p></li>
 <li class="steps">
-<p class="p">Right-click the application icon and select <span class="gui">Add to
-      Favorites</span>.</p>
-<p class="p">Alternatively, you can click-and-drag the icon into the dash.</p>
+<p class="p">Kliknij ikonę programu prawym przyciskiem myszy i wybierz <span class="gui">Dodaj do ulubionych</span>.</p>
+<p class="p">Można także kliknąć i przeciągnąć ikonę na pasek ulubionych.</p>
 </li>
 </ol></div></div></div>
-<p class="p">To remove an application icon from the dash, right-click the application
-  icon and select <span class="gui">Remove from Favorites</span>.</p>
+<p class="p">Aby usunąć ikonę programu z paska ulubionych, kliknij ją prawym przyciskiem myszy i wybierz <span class="gui">Usuń z ulubionych</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -97,7 +91,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html.pl-PL" title="Uruchamianie programów">Uruchamianie programów</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
+<a href="shell-apps-open.html.pl-PL" title="Uruchamianie programów">Uruchamianie programów</a><span class="desc"> — Uruchamianie programów z <span class="gui">ekranu podglądu</span>.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -109,7 +103,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

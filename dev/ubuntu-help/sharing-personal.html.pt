@@ -75,7 +75,10 @@
 <div class="region">
 <div class="contents">
 <p class="p">Pode permitir o acesso à diretório <span class="file">Público</span> de seu <span class="file">Pasta pessoal</span> desde outra computador da rede. Configure a <span class="gui">Partilha de ficheiros pessoais</span> para permitir que outros utilizadores acedam ao conteúdo desta diretório.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Deve ter instalado o pacote <span class="app">gnome-user-share</span> para que a opção de <span class="gui">Partilha de ficheiros pessoais</span> esteja visível.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Deve ter instalado o pacote <span class="app">gnome-user-share</span> para que a opção de <span class="gui">Partilha de ficheiros pessoais</span> esteja visível.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-user-share" title="apt:gnome-user-share">Instalar gnome-user-share</a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Compartição</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Compartição</span> para abrir o painel.</p></li>
@@ -125,7 +128,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

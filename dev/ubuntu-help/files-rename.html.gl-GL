@@ -73,11 +73,10 @@
 <p class="p">As with other file managers, you can use <span class="app">Files</span> to change the
   name of a file or folder.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Renomear un ficheiro ou cartafol</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Renomear un ficheiro ou cartafol:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Prema co botón dereito sobre un elemento e seleccione <span class="gui">Renomear</span>, ou seleccione o ficheiro e prema <span class="key"><kbd>F2</kbd></span>.</p></li>
-<li class="steps"><p class="p">Type the new name and press <span class="key"><kbd>Enter</kbd></span> or click
-    <span class="gui">Rename</span>.</p></li>
+<li class="steps"><p class="p">Escriba o novo nome e prema <span class="key"><kbd>Intro</kbd></span> ou prema <span class="key"><kbd>Renomear</kbd></span>.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Tamén pode renomear un ficheiro desde a xanela de <span class="link"><a href="nautilus-file-properties-basic.html.gl-GL#rename" title="nautilus-file-properties-basic#rename">propiedades</a></span>.</p>
@@ -87,24 +86,13 @@
   <span class="file">file.pdf</span> is a PDF document), and you usually do not want to
   change that. If you need to change the extension as well, select the entire
   file name and change it.</p>
-<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">If you renamed the wrong file, or named your file improperly, you can
-    undo the rename. To revert the action, immediately click the menu button in
-    the toolbar and select <span class="gui">Undo Rename</span>, or press
-    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, to restore the former
-    name.</p></div></div></div></div>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Se lle cambia o nome de ficheiro incorrecto, ou asigna un nome equivocado ao nome, pode desfacer o renomeado. Para reverter esta acción inmediatamente, prema o botón de menú na barra de ferramentas e seleccione <span class="gui">Desfacer renomeado</span>, ou prema <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, para restaurar o nome.</p></div></div></div></div>
 </div>
 <div id="valid-chars" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Caracteres válidos para os nomes de ficheiro</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can use any character except the <span class="file">/</span> (slash) character in
-    file names. Some devices, however, use a <span class="em">file system</span> that has more
-    restrictions on file names. Therefore, it is a best practice to avoid the
-    following characters in your file names: <span class="file">|</span>, <span class="file">\</span>,
-    <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
-    <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html.gl-GL" title="Agochar un ficheiro">hidden</a></span> when you attempt to
-    view it in the file manager.</p></div></div></div></div>
+<p class="p">Pode usar calquera carácter nos nomes de ficheiros, agás a barra inclinada <span class="key"><kbd>/</kbd></span>. Algúns dispositivos, porén, usan <span class="em">sistemas de ficheiros</span> con máis restricións nos nomes de ficheiros. Polo que é recomendábel evitar os seguintes caracteres: <span class="key"><kbd>|</kbd></span>, <span class="key"><kbd>\</kbd></span>, <span class="key"><kbd>?</kbd></span>, <span class="key"><kbd>*</kbd></span>, <span class="key"><kbd>&lt;</kbd></span>, <span class="key"><kbd>"</kbd></span>, <span class="key"><kbd>&gt;</kbd></span>, <span class="key"><kbd>/</kbd></span>.</p>
+<div class="note note-warning" title="Aviso"><div class="inner"><div class="region"><div class="contents"><p class="p">Se nomea a un ficheiro cun <span class="key"><kbd>.</kbd></span> como primeiro carácter, o ficheiro estará <span class="link"><a href="files-hidden.html.gl-GL" title="Agochar un ficheiro">oculto</a></span> cando tente velo no xestor de ficheiros.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -112,17 +100,11 @@
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">O nome xa está en uso</dt>
 <dd class="terms">
-<p class="p">You cannot have two files or folders with the same name in the same
-        folder. If you try to rename a file to a name that already exists in
-        the folder you are working in, the file manager will not allow it.</p>
+<p class="p">Non pode ter dous ficheiros ou cartafoles co mesmo nome no mesmo cartafol. Se ao cambiar o nome a un ficheiro tenta asignarlle un que xa existe no cartafol onde está traballando, o xestor de ficheiros non se llo permitirá.</p>
 <p class="p">Os nomes de ficheiros e cartafoles son sensíbeis a maiúsculas, polo que o nome <span class="file">Ficheiro.txt</span>non é o mesmo que <span class="file">FICHEIRO.txt</span>. USar nomes diferentes como estes está permitido, pero non é recomendábel.</p>
 </dd>
 <dt class="terms">O nome do ficheiro é demasiado largo</dt>
-<dd class="terms"><p class="p">On some file systems, file names can have no more than 255
-        characters in their names.  This 255 character limit includes both the
-        file name and the path to the file (for example,
-        <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), so you
-        should avoid long file and folder names where possible.</p></dd>
+<dd class="terms"><p class="p">Nalgúns sistemas de ficheiros, os nomes de ficheiros non poden ter máis de 255 caracteres. Este límite de 255 caracteres inclúe tanto o nome do ficheiro como a ruta do ficheiro (p.ex. <span class="file">/home/galego/Documentos/traballo/propostas-traballo/… </span>), polo que debería evitar nomes longos en ficheiros e cartafoles cando sexa posíbel.</p></dd>
 <dt class="terms">A opción para renomear está en gris</dt>
 <dd class="terms"><p class="p">Se a opción <span class="gui">Renomear</span> aparece en color gris, é que non ten os permisos necesarios para renomear o ficheiro. Debe ter coidado ao tratar de renomear estes ficheiros, xa que cambiar o nome a ficheiros protexidos pode causar problemas ou facer que o seu sistema se volva inestábel. Consulte a <span class="link"><a href="nautilus-file-properties-permissions.html.gl-GL" title="Estabelecer os permisos dun ficheiro">Estabelecer os permisos dun ficheiro</a></span> para obter máis información.</p></dd>
 </dl></div></div></div></div></div>
@@ -141,7 +123,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

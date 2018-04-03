@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mouse pointer is not moving</title>
+<title>Nie można ruszyć kursora myszy</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,81 +65,46 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> › <a class="trail" href="mouse.html.pl-PL#problems" title="Często występujące problemy">Częste problemy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> › <a class="trail" href="mouse.html.pl-PL#problems" title="Często występujące problemy">Częste problemy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> › <a class="trail" href="mouse.html.pl-PL#problems" title="Często występujące problemy">Częste problemy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="mouse.html.pl-PL" title="Mysz">Mysz</a> › <a class="trail" href="mouse.html.pl-PL#problems" title="Często występujące problemy">Częste problemy</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Mouse pointer is not moving</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Nie można ruszyć kursora myszy</span></h1></div>
 <div class="region">
 <div class="contents"><div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="mouse-problem-notmoving.html.pl-PL#plugged-in" title="Check that the mouse is plugged in">Check that the mouse is plugged in</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html.pl-PL#broken" title="Check that the mouse actually works">Check that the mouse actually works</a></li>
-<li class="links "><a href="mouse-problem-notmoving.html.pl-PL#wireless-mice" title="Checking wireless mice">Checking wireless mice</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.pl-PL#plugged-in" title="Sprawdzanie, czy mysz jest podłączona">Sprawdzanie, czy mysz jest podłączona</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.pl-PL#broken" title="Sprawdzanie, czy mysz w ogóle działa">Sprawdzanie, czy mysz w ogóle działa</a></li>
+<li class="links "><a href="mouse-problem-notmoving.html.pl-PL#wireless-mice" title="Sprawdzanie myszy bezprzewodowej">Sprawdzanie myszy bezprzewodowej</a></li>
 </ul></div></div></div></div>
 <div id="plugged-in" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that the mouse is plugged in</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sprawdzanie, czy mysz jest podłączona</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">
- If you have a mouse with a cable, check that it is firmly plugged in to
- your computer.
- </p>
-<p class="p">
- If it is a USB mouse (with a rectangular connector), try plugging it in to a
- different USB port. If it is a PS/2 mouse (with a small, round connector with
- six pins), make sure that it is plugged in to the green mouse port rather
- than the purple keyboard port. You may need to restart the computer if it was
- not plugged in.
- </p>
+<p class="p">Jeśli mysz ma kabel, to sprawdź, czy jest dobrze podłączony do komputera.</p>
+<p class="p">Jeśli to mysz USB (z prostokątnym złączem), spróbuj podłączyć ją do innego portu USB. Jeśli to mysz PS/2 (z małym, okrągłym złączem z sześcioma bolcami), upewnij się, że jest podłączona do zielonego portu przeznaczonego dla myszy, a nie fioletowego przeznaczonego dla klawiatury. Być może trzeba ponownie uruchomić komputer po podłączeniu myszy.</p>
 </div></div>
 </div></div>
 <div id="broken" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Check that the mouse actually works</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sprawdzanie, czy mysz w ogóle działa</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Plug the mouse in to a different computer and see if it works.</p>
-<p class="p">If the mouse is an optical or laser mouse, a light should be shining out
- of the bottom of the mouse if it is turned on.  If there is no light, check
- that it is turned on.  If it is and there is still no light, the mouse may be
- broken.</p>
+<p class="p">Podłącz mysz do innego komputera, aby zobaczyć czy działa.</p>
+<p class="p">Jeśli mysz jest optyczna lub laserowa, to na spodzie powinno być widoczne światełko, kiedy jest włączona. Jeśli go nie ma, to sprawdź, czy jest włączona. Jeśli jest, ale nadal nie ma światełka, to mysz może być uszkodzona.</p>
 </div></div>
 </div></div>
 <div id="wireless-mice" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Checking wireless mice</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sprawdzanie myszy bezprzewodowej</span></h2></div>
 <div class="region"><div class="contents">
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Make sure the mouse is turned on. There is often a switch on the
-      bottom of the mouse to turn the mouse off completely, so you can take it
-      with you without it constantly waking up.</p></li>
-<li class="list"><p class="p">If you are using a Bluetooth mouse, make sure you have actually paired the
-   mouse with your computer. See <span class="link"><a href="bluetooth-connect-device.html.pl-PL" title="Łączenie komputera z urządzeniem Bluetooth">Łączenie komputera z urządzeniem Bluetooth</a></span>.</p></li>
-<li class="list"><p class="p">
-   Click a button and see if the mouse pointer moves now. Some wireless mice go
-   to sleep to save power, so might not respond until you click a button.
-   See <span class="link"><a href="mouse-wakeup.html.pl-PL" title="Mouse reacts with delay before it starts working">Mouse reacts with delay before it starts working</a></span>.
-   </p></li>
-<li class="list"><p class="p">
-   Check that the battery of the mouse is charged.
-   </p></li>
-<li class="list"><p class="p">
-   Make sure that the receiver (dongle) is firmly plugged in to the computer.
-   </p></li>
-<li class="list"><p class="p">
-   If your mouse and receiver can operate on different radio channels, make
-   sure that they are both set to the same channel.
-   </p></li>
-<li class="list"><p class="p">
-   You may need to press a button on the mouse, receiver or both to establish
-   a connection. The instruction manual of your mouse should have more details
-   if this is the case.
-   </p></li>
+<li class="list"><p class="p">Upewnij się, że mysz jest włączona. Na spodzie często jest przełącznik do całkowitego wyłączenia myszy, aby można ją było przenosić bez ciągłego przebudzania.</p></li>
+<li class="list"><p class="p">Jeśli używana jest mysz Bluetooth, to upewnij się, że na pewno połączono ją z komputerem. <span class="link"><a href="bluetooth-connect-device.html.pl-PL" title="Łączenie komputera z urządzeniem Bluetooth">Łączenie komputera z urządzeniem Bluetooth</a></span> zawiera więcej informacji.</p></li>
+<li class="list"><p class="p">Kliknij przycisk myszy i zobacz, czy można poruszać kursorem. Część myszy bezprzewodowych przechodzi do stanu uśpienia, aby oszczędzać prąd, więc może nie odpowiadać do czasu kliknięcia. <span class="link"><a href="mouse-wakeup.html.pl-PL" title="Mysz reaguje z opóźnieniem, zanim zaczyna działać">Mysz reaguje z opóźnieniem, zanim zaczyna działać</a></span> zawiera więcej informacji.</p></li>
+<li class="list"><p class="p">Sprawdź, czy akumulator myszy jest naładowany.</p></li>
+<li class="list"><p class="p">Upewnij się, że odbiornik jest dobrze podłączony do komputera.</p></li>
+<li class="list"><p class="p">Jeśli mysz i odbiornik mogą działać na różnych kanałach radiowych, to upewnij się, że oba urządzenia są ustawione na ten sam kanał.</p></li>
+<li class="list"><p class="p">Być może należy nacisnąć przycisk na myszy, odbiorniku lub obu urządzeniach, aby nawiązać połączenie. Instrukcja myszy powinna zawierać więcej informacji.</p></li>
 </ul></div></div></div>
-<p class="p">
- Most RF (radio) wireless mice should work automatically when you plug them
- into your computer. If you have a Bluetooth or IR (infrared) wireless mouse,
- you may need to perform some extra steps to get it working. The steps might
- depend on the make or model of your mouse.
- </p>
+<p class="p">Większość myszy radiowych powinna działać automatycznie po podłączeniu do komputera. Myszy Bluetooth i na podczerwień mogą wymagać wykonania dodatkowych czynności, aby móc je używać. Te czynności mogą być różne w zależności od producenta i modelu myszy.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -156,7 +121,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

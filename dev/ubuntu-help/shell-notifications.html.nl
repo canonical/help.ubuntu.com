@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Notifications and the message tray</title>
+<title>Meldingen en het berichtengebied</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,63 +64,40 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#desktop" title="Uw bureaublad aanpassen">Uw bureaublad aanpassen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#desktop" title="Uw bureaublad aanpassen">Uw bureaublad aanpassen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Notifications and the message tray</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Meldingen en het berichtengebied</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="what" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Wat is een notificatie?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Wat is een melding?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If an application or a system component wants to get your attention, a
-  notification will be shown at the top of the screen.</p>
-<p class="p">For example, if you get a new chat message or a new email, you will get a
-  notification informing you.</p>
-<p class="p">Other notifications have selectable option buttons. To close one of these
-  notifications without selecting one of its options, click the close
-  button.</p>
-<p class="p">Clicking the close button on some notifications dismisses them. Others,
-  like Rhythmbox or your chat application, will stay hidden in the message 
-  tray.</p>
+<p class="p">Als een toepassing of systeemonderdeel uw aandacht vraagt, dan wordt er bovenaan het scherm een melding getoond.</p>
+<p class="p">Zo krijgt u, wanneer er een nieuw chatbericht of een nieuwe e-mail binnen komt, een melding hierover.</p>
+<p class="p">Andere meldingen hebben knoppen om uit verschillende opties te kiezen. Om zo een melding te sluiten zonder een optie te kiezen klikt u op de sluitknop.</p>
+<p class="p">Sommige van de meldingen verdwijnen als u op de sluitknop klikt. Bij andere, zoals Rhythbox of uw chattoepassing, blijven ze verborgen in het berichtengebied.</p>
 </div></div>
 </div></div>
 <div id="messagetray" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Het berichtengebied</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">The message tray gives you a way to get
-  back to your notifications when it is convenient for you. It appears when you
-  click on the clock, or press
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span>. The
-  message tray contains all the notifications that you have not acted upon or
-  that permanently reside in it.</p>
-<p class="p">You can view the notifications by clicking on the message tray items.
-  These are usually messages sent by applications. However, chat notifications
-  are given special treatment, and are represented by the individual contacts
-  who sent you the chat messages.</p>
-<p class="p">You can close the message tray by pressing
-  <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> again or <span class="key"><kbd>Esc</kbd></span>.</p>
+<p class="p">Het berichtengebied biedt u een manier om terug te keren naar uw meldingen wanneer het u uitkomt. Het verschijnt wanneer u op de klok klikt, of op <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>M</kbd></span></span> drukt. Het berichtengebied bevat alle meldingen waar u niet op gereageerd heeft of die er permanent in blijven zitten.</p>
+<p class="p">U kunt de meldingen bekijken door te klikken op het onderdeel in het berichtengebied. Het gaat meestal om meldingen die afkomstig zijn van  toepassingen. Echter, chatmeldingen krijgen een speciale behandeling en worden vertegenwoordigd door de individuele contacten die u het chatbericht stuurden.</p>
+<p class="p">U kunt het berichtengebied sluiten door weer te drukken op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> of op <span class="key"><kbd>Esc</kbd></span>.</p>
 </div></div>
 </div></div>
 <div id="hidenotifications" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Meldingen verbergen</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Notificaties verbergen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you’re working on something and do not want to be bothered, you can
-  switch off notifications.</p>
+<p class="p">Als u aan het werk bent en niet afgeleid wilt worden, dan kunt u notificaties uitschakelen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Notifications</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Notifications</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Notification Banners</span> to <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">notificaties</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Notificaties</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">Notificatiebanieren</span> <span class="gui">UIT</span>.</p></li>
 </ol></div></div></div>
-<p class="p">When switched off, most notifications
-  will not pop up at the top of the screen.  Notifications will
-  still be available in the message tray when you display it (by clicking on
-  the clock, or by pressing <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span>), and
-  they will start popping up again when you switch the toggle to <span class="gui">ON</span>
-  again.</p>
-<p class="p">You can also disable or re-enable notifications for individual
-  applications from the <span class="gui">Notifications</span> panel.</p>
+<p class="p">Indien uitgeschakeld, zullen de meeste meldingen niet bovenaan het scherm verschijnen. Meldingen zullen wel beschikbaar zijn in het berichtengebied wanneer u het toont (door op de klok te klikken of door te drukken op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span>), en ze zullen weer verschijnen wanneer u de schakelaar weer op <span class="gui">AAN</span> zet.</p>
+<p class="p">U kunt ook meldingen voor individuele toepassingen uit- of weer inschakelen vanuit het <span class="gui">Meldingen</span>-paneel.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -137,7 +114,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

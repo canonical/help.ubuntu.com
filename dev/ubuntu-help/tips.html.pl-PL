@@ -64,25 +64,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Porady i wskazówki</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.pl-PL" title="Determine which version of GNOME is running"><span class="title">Determine which version of GNOME is running</span><span class="linkdiv-dash"> — </span><span class="desc">How to determine which version of GNOME is running.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy"><span class="title">Kliknięcie środkowym przyciskiem myszy</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
-    more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.pl-PL" title="Przydatne skróty klawiszowe"><span class="title">Przydatne skróty klawiszowe</span><span class="linkdiv-dash"> — </span><span class="desc">Get around the desktop using the keyboard.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.pl-PL" title="Screenshots and screencasts"><span class="title">Screenshots and screencasts</span><span class="linkdiv-dash"> — </span><span class="desc">Take a picture or record a video of what is happening on your
-    screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.pl-PL" title="Wpisywanie znaków specjalnych"><span class="title">Wpisywanie znaków specjalnych</span><span class="linkdiv-dash"> — </span><span class="desc">Type characters not found on your keyboard, including foreign alphabets, mathematical symbols, and dingbats.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.pl-PL" title="Kliknięcie środkowym przyciskiem myszy"><span class="title">Kliknięcie środkowym przyciskiem myszy</span><span class="linkdiv-dash"> — </span><span class="desc">Używanie środkowego przycisku myszy do otwierania programów, kart i nie tylko.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.pl-PL" title="Przydatne skróty klawiszowe"><span class="title">Przydatne skróty klawiszowe</span><span class="linkdiv-dash"> — </span><span class="desc">Nawigacja po pulpicie za pomocą klawiatury.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.pl-PL" title="Ustalanie, która wersja GNOME jest używana"><span class="title">Ustalanie, która wersja GNOME jest używana</span><span class="linkdiv-dash"> — </span><span class="desc">Jak ustalić używaną wersję GNOME.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.pl-PL" title="Wpisywanie znaków specjalnych"><span class="title">Wpisywanie znaków specjalnych</span><span class="linkdiv-dash"> — </span><span class="desc">Wpisywanie znaków, których nie ma na klawiaturze, w tym z innych alfabetów, symbole matematyczne i inne kształty.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.pl-PL" title="Zrzuty i nagrania ekranu"><span class="title">Zrzuty i nagrania ekranu</span><span class="linkdiv-dash"> — </span><span class="desc">Zapisanie obrazu lub nagranie wideo tego, co dzieje się na ekranie.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html.pl-PL" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu">Podręcznik pulpitu Ubuntu</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -92,7 +90,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,33 +64,18 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wyszukiwanie zgubionego pliku</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you created or downloaded a file, but now you cannot find it, follow
-these tips.</p>
+<p class="p">Jeśli utworzono lub pobrano plik, ale teraz nie można go odnaleźć, to można skorzystać z tych wskazówek.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">If you do not remember where you saved the file, but you have some
-  idea of how you named it, you can <span class="link"><a href="files-search.html.pl-PL" title="Wyszukiwanie plików">search for the
-  file by name</a></span>.</p></li>
-<li class="list"><p class="p">If you just downloaded the file, your web browser might
-  have automatically saved it to a common folder. Check the
-  <span class="file">Desktop</span> and <span class="file">Downloads</span> folders in your home
-  folder.</p></li>
-<li class="list"><p class="p">You might have accidentally deleted the file. When you delete
-  a file, it gets moved to the trash, where it stays until you manually
-  empty the trash. See <span class="link"><a href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza">Przywracanie pliku z Kosza</a></span> to learn how to
-  recover a deleted file.</p></li>
-<li class="list"><p class="p">You might have renamed the file in a way that made the file hidden.
-  Files that start with a <span class="file">.</span> or end with a <span class="file">~</span> are
-  hidden in the file manager. Click the
-  
-  view options button in the <span class="app">Files</span> toolbar and enable <span class="gui">Show
-  Hidden Files</span> to display them. See <span class="link"><a href="files-hidden.html.pl-PL" title="Ukrywanie pliku">Ukrywanie pliku</a></span> to learn
-  more.</p></li>
+<li class="list"><p class="p">Jeśli nie pamiętasz miejsca zapisania pliku, ale coś pamiętasz o jego nazwie, to można <span class="link"><a href="files-search.html.pl-PL" title="Wyszukiwanie plików">wyszukać go według nazwy</a></span>.</p></li>
+<li class="list"><p class="p">Jeśli właśnie pobrano plik, to przeglądarka WWW mogła automatycznie zapisać go do jednego z często używanych katalogów. Sprawdź katalogi <span class="file">Pulpit</span> i <span class="file">Pobrane</span> w katalogu domowym.</p></li>
+<li class="list"><p class="p">Być może przypadkowo usunięto plik. Usunięcie pliku powoduje jego przeniesienie do kosza, gdzie znajduje się do ręcznego opróżnienia kosza. <span class="link"><a href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza">Przywracanie pliku z Kosza</a></span> zawiera informacje o odzyskiwaniu usuniętego pliku.</p></li>
+<li class="list"><p class="p">Być może zmieniono nazwę pliku tak, że został ukryty. Pliki zaczynające się od znaku <span class="file">.</span> lub kończące się znakiem <span class="file">~</span> są ukrywane w menedżerze plików. Kliknij przycisk opcji widoku na pasku narzędziowym programu <span class="app">Pliki</span> i zaznacz opcję <span class="gui">Ukryte pliki</span>, aby je wyświetlić. <span class="link"><a href="files-hidden.html.pl-PL" title="Ukrywanie pliku">Ukrywanie pliku</a></span> zawiera więcej informacji.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -103,8 +88,7 @@ these tips.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza">Przywracanie pliku z Kosza</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
-    recovered.</span>
+<a href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza">Przywracanie pliku z Kosza</a><span class="desc"> — Usunięte pliki są zwykle wysyłane do Kosza, ale można je odzyskać.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -116,7 +100,7 @@ these tips.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

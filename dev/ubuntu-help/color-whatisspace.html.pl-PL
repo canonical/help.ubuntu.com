@@ -65,87 +65,31 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#profiles" title="Profile kolorów">Profile kolorów</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Czym jest przestrzeń kolorów?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    A color space is a defined range of colors.
-    Well known color spaces include sRGB, AdobeRGB and ProPhotoRGB.
-  </p>
-<p class="p">
-    The human visual system is not a simple RGB sensor, but we can
-    approximate how the eye responds with a CIE 1931 chromaticity diagram
-    that shows the human visual response as a horse-shoe shape.
-    You can see that in human vision there are many more shades of green
-    detected than blue or red.
-    With a trichromatic color space like RGB we represent the colors
-    on the computer using three values, which restricts up to encoding
-    a <span class="em">triangle</span> of colors.
-  </p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      Using models such as a CIE 1931 chromaticity diagram is a huge
-      simplification of the human visual system, and real gamuts are
-      expressed as 3D hulls, rather than 2D projections.
-      A 2D projection of a 3D shape can sometimes be misleading, so if
-      you want to see the 3D hull, use the <span class="code">gcm-viewer</span>
-      application.
-    </p></div></div></div></div>
+<p class="p">Przestrzeń kolorów to określony zakres kolorów. Powszechnie używane przestrzenie kolorów to sRGB, AdobeRGB i ProPhotoRGB.</p>
+<p class="p">System wzrokowy człowieka nie jest prostym czujnikiem RGB, ale możemy przybliżyć odpowiedź oczu za pomocą diagramu chromatyczności CIE 1931, pokazującego ją w kształcie podkowy. Jak widać, ludzki wzrok wykrywa więcej odcieni zieleni niż czerwieni i niebieskiego. Za pomocą trójchromatycznej przestrzeni kolorów, takiej jak RGB, przedstawiamy kolory na komputerze trzema wartościami, co ogranicza do kodowania <span class="em">trójkąta</span> kolorów.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Używanie modeli, takich jak diagram chromatyczności CIE 1931, jest ogromnym uproszczeniem systemu wzrokowego człowieka, a prawdziwe gamy są wyrażane jako kadłuby 3D, zamiast rzutów 2D. Rzut 2D trójwymiarowego kształtu może być mylący, więc aby zobaczyć kadłub 3D, użyj programu <span class="code">gcm-viewer</span>.</p></div></div></div></div>
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Wyświetla obrazy w zwykłym rozmiarze" data-zoom-out-title="Zmniejsza obrazy"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-space.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">sRGB, AdobeRGB and ProPhotoRGB represented by white triangles</div>
+<div class="desc">sRGB, AdobeRGB i ProPhotoRGB przedstawione jako białe trójkąty</div>
 </div>
 </div></div>
-<p class="p">
-    First, looking at sRGB, which is the smallest space and can encode
-    the least number of colors.
-    It is an approximation of a 10 year old CRT display, and so most
-    modern monitors can easily display more colors than this.
-    sRGB is a <span class="em">least-common-denominator</span> standard and is used
-    in a large number of applications (including the Internet).
-  </p>
-<p class="p">
-    AdobeRGB is frequently used as an <span class="em">editing space</span>.
-    It can encode more colors than sRGB, which means you can change
-    colors in a photograph without worrying too much that the most vivid
-    colors are being clipped or the blacks crushed.
-  </p>
-<p class="p">
-    ProPhoto is the largest space available and is frequently used for
-    document archival.
-    It can encode nearly the whole range of colors detected by the human
-    eye, and even encode colors that the eye cannot detect!
-  </p>
-<p class="p">
-    Now, if ProPhoto is clearly better, why don’t we use it for everything?
-    The answer is to do with <span class="em">quantization</span>.
-    If you only have 8 bits (256 levels) to encode each channel, then a
-    larger range is going to have bigger steps between each value.
-  </p>
-<p class="p">
-    Bigger steps mean a larger error between the captured color and the
-    stored color, and for some colors this is a big problem.
-    It turns out that key colors, like skin colors are very important,
-    and even small errors will make untrained viewers notice that something
-    in a photograph looks wrong.
-  </p>
-<p class="p">
-    Of course, using a 16 bit image is going to leave many more steps and
-    a much smaller quantization error, but this doubles the size of each
-    image file.
-    Most content in existence today is 8bpp, i.e. 8 bits-per-pixel.
-  </p>
-<p class="p">
-    Color management is a process for converting from one color space to
-    another, where a color space can be a well known defined space like
-    sRGB, or a custom space such as your monitor or printer profile.
-  </p>
+<p class="p">sRGB to najmniejsza przestrzeń, która może zakodować najmniejszą liczbę kolorów. To przybliżenie 10-letniego monitora kineskopowego, więc większość współczesnych monitorów może z łatwością wyświetlać więcej kolorów. sRGB to standard <span class="em">najniższego wspólnego mianownika</span> i jest używany w większości programów (oraz w Internecie).</p>
+<p class="p">AdobeRGB jest często używana jako <span class="em">przestrzeń robocza</span>. Może zakodować więcej kolorów niż sRGB, co oznacza, że można zmieniać kolory zdjęcia bez większych obaw o utratę najbardziej intensywnych kolorów czy zdławienie czerni.</p>
+<p class="p">ProPhoto to największa dostępna przestrzeń, często używana do archiwizacji dokumentów. Może zakodować prawie cały zakres kolorów wykrywanych przez oko człowieka, a nawet zakodować kolory dla nas niewidoczne!</p>
+<p class="p">Więc jeśli przestrzeń ProPhoto jest dużo lepsza, to dlaczego nie używamy jej do wszystkich zastosowań? Odpowiedź ma związek z <span class="em">kwantyzacją</span>. Jeśli używanych jest tylko 8 bitów (256 poziomów) do zakodowania każdego koloru, to większy zakres ma większe różnice między wartościami.</p>
+<p class="p">Większe różnice oznaczają większe błędy między uchwyconym a przechowanym kolorem, co jest dużym problemem w przypadku niektórych kolorów. Okazuje się, że kluczowe kolory, takie jak kolory skóry są bardzo ważne, i nawet małe błędy na zdjęciu są widoczne dla niewyszkolonych oczu.</p>
+<p class="p">Oczywiście, używanie obrazów 16-bitowych zapewnia mniejsze różnice między wartościami i o wiele mniejsze błędy kwantyzacji, ale podwaja to rozmiar każdego obrazu. Większość istniejących dzisiaj obrazów jest 8-bitowych (8 bitów na piksel).</p>
+<p class="p">Zarządzanie kolorami to proces konwersji między jedną przestrzenią kolorów a drugą, gdzie przestrzeń może być powszechnie używana, np. sRGB, albo być niestandardową przestrzenią, np. profilem monitora lub drukarki.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -157,7 +101,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-whatisprofile.html.pl-PL" title="Czym jest profil kolorów?">Czym jest profil kolorów?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-whatisprofile.html.pl-PL" title="Czym jest profil kolorów?">Czym jest profil kolorów?</a><span class="desc"> — Profil kolorów to prosty plik odzwierciedlający przestrzeń kolorów lub odpowiedź urządzenia.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -169,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

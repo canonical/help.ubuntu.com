@@ -64,40 +64,25 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="media.html.pl-PL#sound" title="Dźwięk">Dźwięk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="media.html.pl-PL#sound" title="Dźwięk">Dźwięk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Używanie innych głośników lub słuchawek</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can use external speakers or headphones with your computer. Speakers
-  usually either connect using a circular TRS (<span class="em">tip, ring, sleeve</span>) plug
-  or a USB.</p>
-<p class="p">If your speakers or headphones have a TRS plug, plug it into the
-  appropriate socket on your computer. Most computers have two sockets: one for
-  microphones and one for speakers. This socket is usually light green in color
-  or is accompanied by a picture of headphones. Speakers or headphones
-  plugged into a TRS socket are usually used by default. If not, see the
-  instructions below for selecting the default device.</p>
-<p class="p">Some computers support multi-channel output for surround sound. This
-  usually uses multiple TRS jacks, which are often color-coded. If you are
-  unsure which plugs go in which sockets, you can test the sound output in the
-  sound settings.</p>
-<p class="p">If you have USB speakers or headphones, or analog headphones plugged into
-  a USB sound card, plug them into any USB port. USB speakers act as separate
-  audio devices, and you may have to specify which speakers to use by
-  default.</p>
+<p class="p">Można używać zewnętrznych głośników lub słuchawek. Głośniki są zwykle podłączane za pomocą okrągłej wtyczki <span class="em">minijack</span> lub wtyczki USB.</p>
+<p class="p">Jeśli używane głośniki lub słuchawki mają wtyczkę minijack, to podłącz ją do odpowiedniego złącza na komputerze. Większość komputerów ma dwa złącza: jedno dla mikrofonów, a drugie dla głośników. To drugie jest zwykle jasnozielone i ma obok obrazek słuchawek. Głośniki lub słuchawki podłączone do złącza minijack zwykle są domyślnie używane. Jeśli tak się nie dzieje, poniższe instrukcje umożliwiają wybór domyślnego urządzenia.</p>
+<p class="p">Niektóre komputery obsługują wielokanałowe wyjście dla dźwięku przestrzennego. Zwykle używa to kilku złączy minijack, które mają różne kolory. Jeśli brak pewności, które wtyczki powinny być podłączone do których złączy, to można przetestować wyjście dźwięku w ustawieniach.</p>
+<p class="p">Jeśli używane są głośniki lub słuchawki USB, albo analogowe słuchawki podłączane do karty dźwiękowej USB, to podłącz je do dowolnego portu USB. Głośniki USB działają jako oddzielne urządzenia dźwiękowe, i zwykle trzeba określić domyślnie używane głośniki.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Select a default audio input device</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Wybór domyślnego urządzenia wejścia dźwięku</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Dźwięk</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Dźwięk</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Dźwięk</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Output</span> tab, select the device that you want to
-      use.</p></li>
+<li class="steps"><p class="p">W karcie <span class="gui">Wyjście</span> wybierz urządzenie do użycia.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Use the <span class="gui">Test Speakers</span> button to check that all
-  speakers are working and are connected to the correct socket.</p>
+<p class="p">Użyj przycisku <span class="gui">Test głośników</span>, aby sprawdzić, czy wszystkie głośniki działają i są podłączone do właściwych złączy.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -111,8 +96,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-usemic.html.pl-PL" title="Używanie innego mikrofonu">Używanie innego mikrofonu</a><span class="desc"> — Use an analog or USB microphone and select a default input
-    device.</span>
+<a href="sound-usemic.html.pl-PL" title="Używanie innego mikrofonu">Używanie innego mikrofonu</a><span class="desc"> — Używanie mikrofonu analogowego lub USB i wybór domyślnego urządzenia wejściowego.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -124,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

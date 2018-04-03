@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Browse files on a server or network share</title>
+<title>Przeglądanie plików na serwerze lub udziale sieciowym</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,137 +65,84 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Browse files on a server or network share</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Przeglądanie plików na serwerze lub udziale sieciowym</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can connect to a server or network share to browse and
-view files on that server, exactly as if they were on your
-own computer. This is a convenient way to download or upload
-files on the internet, or to share files with other people on
-your local network.</p>
-<p class="p">To browse files over the network, open the <span class="app">Files</span>
-application from the <span class="gui">Activities</span> overview, and click
-<span class="gui">Other Locations</span> in the sidebar. The file manager
-will find any computers on your local area network that advertize
-their ability to serve files. If you want to connect to a server
-on the internet, or if you do not see the computer you’re looking
-for, you can manually connect to a server by typing in its
-internet/network address.</p>
+<p class="p">Można połączyć się z serwerem lub zasobem sieciowym, aby przeglądać i wyświetlać pliki na tym serwerze tak, jakby były na tym komputerze. To wygodny sposób na pobieranie i wysyłanie plików w Internecie oraz udostępnianie plików innym osobom w lokalnej sieci.</p>
+<p class="p">Aby przeglądać pliki przez sieć, otwórz program <span class="app">Pliki</span> z <span class="gui">ekranu podglądu</span> i kliknij <span class="gui">Inne położenia</span> na panelu bocznym. Menedżer plików wyszuka komputery w lokalnej sieci, które ogłaszają możliwość udostępniania plików. Aby połączyć z serwerem w Internecie lub potrzebny komputer się nie pojawia, można ręcznie połączyć wpisując jego adres internetowy/sieciowy.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Łączenie z serwerem plików</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">In the file manager, click <span class="gui">Other Locations</span> in the
-   sidebar.</p></li>
+<li class="steps"><p class="p">W menedżerze plików kliknij <span class="gui">Inne położenia</span> na panelu bocznym.</p></li>
 <li class="steps">
-<p class="p">In <span class="gui">Connect to Server</span>, enter the address of the server, in
-  the form of a
-   <span class="link"><a href="#urls" title="Writing URLs">URL</a></span>. Details on supported URLs are
-   <span class="link"><a href="#types" title="Rodzaje serwerów">listed below</a></span>.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">If you have connected to the server before, you can click on it in the
-    <span class="gui">Recent Servers</span> list.</p></div></div></div></div>
+<p class="p">Na pasku <span class="gui">Połącz z serwerem</span> wpisz adres serwera w formie <span class="link"><a href="#urls" title="Zapisywanie adresów URL">adresu URL</a></span>. <span class="link"><a href="#types" title="Rodzaje serwerów">Poniżej</a></span> znajdują się informacje o obsługiwanych adresach URL.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli już wcześniej połączono się z serwerem, to można kliknąć go na liście <span class="gui">Ostatnio używane serwery</span>.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Connect</span>. The files on the server will be shown. You
-    can browse the files just as you would for those on your own computer. The
-    server will also be added to the sidebar so you can access it quickly in
-    the future.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Połącz</span>. Zostaną wyświetlone pliki na serwerze. Można przeglądać je tak samo, jak pliki na tym komputerze. Serwer zostanie także dodany do panelu bocznego, więc w przyszłości można go łatwo otworzyć.</p></li>
 </ol></div>
 </div></div>
 </div>
 <div id="urls" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Writing URLs</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Zapisywanie adresów URL</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A <span class="em">URL</span>, or <span class="em">uniform resource locator</span>, is a form of address
- that refers to a location or file on a network. The address is formatted like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://nazwa-serwera.example.com/katalog</span></p></div></div></div></div>
-<p class="p">The <span class="em">scheme</span> specifies the protocol or type of server. The
-  <span class="em">example.com</span> portion of the address is called the <span class="em">domain name</span>.
-  If a username is required, it is inserted before the server name:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://nazwa-użytkownika@nazwa-serwera.example.com/katalog</span></p></div></div></div></div>
-<p class="p">Some schemes require the port number to be specified. Insert it after the domain name:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://nazwa-serwera.example.com:port/katalog</span></p></div></div></div></div>
-<p class="p">Below are specific examples for the various server types that are supported.</p>
+<p class="p">Adres <span class="em">URL</span> (ang. <span class="em">Uniform Resource Locator</span>) to forma adresu odnoszącego się do położenia lub pliku w sieci. Tak wygląda adres:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">protokół://nazwa-serwera.example.com/katalog</span></p></div></div></div></div>
+<p class="p"><span class="em">Protokół</span> określa protokół lub typ serwera. Część <span class="em">example.com</span> adresu nazywa się <span class="em">nazwą domeny</span>. Jeśli wymagana jest nazwa użytkownika, to jest wstawiana przed nazwą serwera:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">protokół://nazwa-użytkownika@nazwa-serwera.example.com/katalog</span></p></div></div></div></div>
+<p class="p">Niektóre protokoły wymagają podania numeru portu. Wstaw go po nazwie domeny:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">protokół://nazwa-serwera.example.com:port/katalog</span></p></div></div></div></div>
+<p class="p">Poniżej opisano konkretne przykłady różnych obsługiwanych typów serwerów.</p>
 </div></div>
 </div></div>
 <div id="types" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Rodzaje serwerów</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can connect to different types of servers. Some servers are public,
-   and allow anybody to connect. Other servers require you to log in with a
-   username and password.</p>
-<p class="p">You may not have permissions to perform certain actions on files on a server.
-  For example, on public FTP sites, you will probably not be able to delete
-  files.</p>
-<p class="p">The URL you enter depends on the protocol that the
-  server uses to export its file shares.</p>
+<p class="p">Można łączyć się z różnymi typami serwerów. Część serwerów jest publiczna, umożliwiając wszystkim łączenie się z nimi. Inne serwery wymagają logowania za pomocą nazwy użytkownika i hasła.</p>
+<p class="p">Użytkownik może nie mieć uprawnień do wykonywania pewnych działań na plikach na serwerze. Na przykład, publiczne witryny FTP zazwyczaj nie pozwalają usuwać plików.</p>
+<p class="p">Wpisany adres URL zależy od protokołu używanego przez serwer do eksportowania swoich plików.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">SSH</dt>
 <dd class="terms">
-<p class="p">If you have a <span class="em">secure shell</span> account on a server, you
-  can connect using this method. Many web hosts provide SSH accounts
-  to members so they can securely upload files. SSH servers always
-  require you to log in.</p>
-<p class="p">A typical SSH URL looks like this:</p>
+<p class="p">Konto <span class="em">SSH</span> na serwerze umożliwia łączenie za pomocą tej metody. Wielu dostawców serwerów internetowych dostarcza swoim użytkownikom konta SSH, aby mogli bezpiecznie wysyłać pliki. Serwery SSH zawsze wymagają logowania.</p>
+<p class="p">Typowy adres SSH:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://nazwa-użytkownika@nazwa-serwera.example.com/katalog</span></p></div></div></div></div>
-<p class="p">When using SSH, all the data you send (including your password)
-  is encrypted so that other users on your network can’t see it.</p>
+<p class="p">Podczas używania SSH wszystkie wysyłane dane (w tym hasło) są zaszyfrowane, więc inni użytkownicy sieci nie mogą ich zobaczyć.</p>
 </dd>
 <dt class="terms">FTP (z logowaniem)</dt>
 <dd class="terms">
-<p class="p">FTP is a popular way to exchange files on the Internet.
-  Because data is not encrypted over FTP, many servers now provide
-  access through SSH. Some servers, however, still allow or require
-  you to use FTP to upload or download files. FTP sites with logins
-  will usually allow you to delete and upload files.</p>
-<p class="p">A typical FTP URL looks like this:</p>
+<p class="p">FTP to popularny sposób wymiany plików w Internecie. Ponieważ dane przesyłane przez FTP nie są zaszyfrowane, wiele serwerów dostarcza teraz dostęp przez SSH. Jednak niektóre serwery nadal umożliwiają lub wymagają używania FTP do wysyłania i pobierania plików. Witryny FTP z logowaniem zwykle umożliwiają usuwanie i wysyłanie plików.</p>
+<p class="p">Typowy adres FTP:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://nazwa-użytkownika@ftp.example.com/ścieżka/</span></p></div></div></div></div>
 </dd>
 <dt class="terms">Publiczny FTP</dt>
 <dd class="terms">
-<p class="p">Sites that allow you to download files will sometimes provide
-  public or anonymous FTP access. These servers do not require a
-  username and password, and will usually not allow you to delete
-  or upload files.</p>
-<p class="p">A typical anonymous FTP URL looks like this:</p>
+<p class="p">Witryny umożliwiające pobieranie plików czasami dostarczają publiczny lub anonimowy dostęp do FTP. Te serwery nie wymagają nazwy użytkownika i hasła, i zazwyczaj nie umożliwiają usuwania ani wysyłania plików.</p>
+<p class="p">Typowy adres anonimowego FTP:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://ftp.example.com/ścieżka/</span></p></div></div></div></div>
-<p class="p">Some anonymous FTP sites require you to log in with a
-  public username and password, or with a public username using
-  your email address as the password. For these servers, use the
-  <span class="gui">FTP (with login)</span> method, and use the credentials
-  specified by the FTP site.</p>
+<p class="p">Niektóre anonimowe witryny FTP wymagają logowania za pomocą publicznej nazwy użytkownika i hasła, albo publicznej nazwy użytkownika i adresu e-mail jako hasła. Dla tych serwerów używaj metody <span class="gui">FTP (z logowaniem)</span> i danych logowania podanych przez witrynę FTP.</p>
 </dd>
-<dt class="terms">Udział systemu Windows</dt>
+<dt class="terms">Zasób systemu Windows</dt>
 <dd class="terms">
-<p class="p">Windows computers use a proprietary protocol to share files over a local
-  area network. Computers on a Windows network are sometimes grouped into
-  <span class="em">domains</span> for organization and to better control access. If you have
-  the right permissions on the remote computer, you can connect to a Windows
-  share from the file manager.</p>
-<p class="p">A typical Windows share URL looks like this:</p>
-<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">smb://nazwa-serwera/Udział</span></p></div></div></div></div>
+<p class="p">Komputery z systemem Windows używają własnościowego protokołu do udostępniania plików przez sieć lokalną. Komputery w sieci Windows są czasami grupowane w <span class="em">domeny</span> w celach organizacyjnych i do lepszej kontroli dostępu. Można połączyć z zasobem Windows z menedżera plików, jeśli użytkownik ma właściwe uprawnienia na zdalnym komputerze.</p>
+<p class="p">Typowy adres zasobu Windows:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">smb://nazwa-serwera/Zasób</span></p></div></div></div></div>
 </dd>
 <dt class="terms">WebDAV i zabezpieczony WebDAV</dt>
 <dd class="terms">
-<p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
-  share files on a local network and to store files on the internet. If the
-  server you’re connecting to supports secure connections, you should choose
-  this option. Secure WebDAV uses strong SSL encryption, so that other users
-  can’t see your password.</p>
-<p class="p">A WebDAV URL looks like this:</p>
+<p class="p">Oparty na protokole internetowym HTTP, WebDAV jest czasami używany do udostępniania plików w sieci lokalnej i przechowywania plików w Internecie. Jeśli serwer obsługuje zabezpieczone połączenia, to należy wybrać tę metodę. Zabezpieczone WebDAV używa silnego szyfrowania SSL, więc inni użytkownicy nie mogą zobaczyć hasła.</p>
+<p class="p">Typowy adres WebDAV:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://nazwa-serwera.example.com/ścieżka</span></p></div></div></div></div>
 </dd>
-<dt class="terms">Udział NFS</dt>
+<dt class="terms">Zasób NFS</dt>
 <dd class="terms">
-<p class="p">UNIX computers traditionally use the Network File System protocol to
-  share files over a local network. With NFS, security is based on the UID of
-  the user accessing the share, so no authentication credentials are
-  needed when connecting.</p>
-<p class="p">A typical NFS share URL looks like this:</p>
+<p class="p">Komputery z systemem UNIX tradycyjnie używają protokołu NFS do udostępniania plików przez sieć lokalną. W przypadku NFS bezpieczeństwo opiera się na UID użytkownika używającego zasobu, więc żadne dane logowania nie są potrzebne podczas łączenia.</p>
+<p class="p">Typowy adres zasobu NFS:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">nfs://nazwa-serwera/ścieżka</span></p></div></div></div></div>
 </dd>
 </dl></div></div></div>
@@ -209,15 +156,14 @@ internet/network address.</p>
 <div class="region"><ul>
 <li class="links "><a href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a></li>
 <li class="links ">
-<a href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.pl-PL" title="Udostępnianie pulpitu">Udostępnianie pulpitu</a></span>, <span class="link"><a href="files-share.html.pl-PL" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html.pl-PL" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span>
+<a href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.pl-PL" title="Udostępnianie ekranu">Udostępnianie ekranu</a></span>, <span class="link"><a href="files-share.html.pl-PL" title="Wysyłanie plików pocztą">wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html.pl-PL" title="Udostępnianie muzyki, zdjęć i filmów">udostępnianie multimediów</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html.pl-PL" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a><span class="desc"> — Easily transfer files to your email contacts from the file
-    manager.</span>
+<a href="files-share.html.pl-PL" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a><span class="desc"> — Łatwe przesyłanie plików do kontaktów e-mail z menedżera plików.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -229,7 +175,7 @@ internet/network address.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Make pages print in a different order</title>
+<title>Feu que les pàgines s'imprimeixin en un ordre diferent</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,23 +64,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="printing.html.ca" title="Printing">Printing</a> › <a class="trail" href="printing.html.ca#paper" title="Different paper sizes and layouts">Sizes and layouts</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » <a class="trail" href="printing.html.ca" title="Imprimint">Imprimint</a> › <a class="trail" href="printing.html.ca#paper" title="Different paper sizes and layouts">Sizes and layouts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Make pages print in a different order</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Feu que les pàgines s'imprimeixin en un ordre diferent</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="reverse" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Reverse</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Al revés</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Printers usually print the first page first, and the last page last, so
-    the pages end up in reverse order when you pick them up. If needed, you can
-    reverse this printing order.</p>
+<p class="p">Normalment les impressores imprimeixen primer la primera primera pàgina i per últim la darrera, de manera que les pàgines acaben en ordre invers quan es recullen. Si és necessari, podeu invertir aquest ordre d'impressió.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To reverse the order:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Invertir l'ordre</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print
-        dialog.</p></li>
+<li class="steps"><p class="p">Premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> per obrir el diàleg d'impressió.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">General</span> tab, under <span class="gui">Copies</span>, check
         <span class="gui">Reverse</span>. The last page will be printed first, and so on.</p></li>
 </ol></div>
@@ -88,7 +85,7 @@
 </div></div>
 </div></div>
 <div id="collate" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Collate</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Compagina</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">If you are printing more than one copy of the document, the print-outs
   will be grouped by page number by default (that is, all of the copies of page
@@ -96,12 +93,10 @@
   will make each copy come out with its pages grouped together in the right
   order instead.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To collate:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Per compaginar:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print
-     dialog.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">General</span> tab, under <span class="gui">Copies</span>, check
-      <span class="gui">Collate</span>.</p></li>
+<li class="steps"><p class="p">Premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> per obrir el diàleg d'impressió.</p></li>
+<li class="steps"><p class="p">A la pestanya <span class="gui">General</span>, sota el selector de <span class="gui">Copies</span>, <span class="gui">Compaginar</span>.</p></li>
 </ol></div>
 </div></div>
 </div></div>
@@ -120,7 +115,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

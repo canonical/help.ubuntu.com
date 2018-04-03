@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What’s the difference between calibration and characterization?</title>
+<title>Apa perbedaan antara kalibrasi dan karakterisasi?</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,7 +71,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Apa perbedaan antara kalibrasi dan karakterisasi?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Banyak orang pada awalnya bingung tentang perbedaan antara kalibrasi dan karakterisasi. Kalibrasi adalah proses mengubah perilaku warna dari suatu perangkat. Ini umumnya dilakukan memakai dua mekanisme:</p>
@@ -81,11 +81,7 @@
 </ul></div></div></div>
 <p class="p">Ide kalibrasi adalah untuk menempatkan perangkat dalam keadaan yang terdefinisi menyangkut respon warnanya. Seringkali ini dipakai sebagai cara hari ke hari untuk menjaga perilaku yang dapat direproduksi. Kalibrasi biasanya akan disimpan dalam perangkat atau format berkas spesifik sistem yang merekam pengaturan erangkat atau kurva kalibrasi per kanal.</p>
 <p class="p">Karakterisasi (atau pemrofilan) adalah <span class="em">perekaman</span> cara perangkat mereproduksi atau merespon ke warna. Biasanya hasil disimpan dalam profil ICC perangkat. Profil itu sendiri tak mengubah warna secara apapun. Itu memungkinkan sistem seperti CMM (Color Management Module, Modul Manajemen Warna) atau aplikasi yang sadar warna untuk mengubah warna ketika dikombinasikan dengan profil perangkat lain. Hanya dengan mengetahui karakteristik dua perangkat, cara memindahkan warna dari satu representasi perangkat ke lainnya dapat dicapai.</p>
-<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">
-      Note that a characterization (profile) will only be valid for a device
-      if it’s in the same state of calibration as it was when it was
-      characterized.
-    </p></div></div></div></div>
+<div class="note" title="Catatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Perhatikan bahwa suatu karakterisasi (profil) hanya akan valid bagi suatu perangkat bila ia ada dalam keadaan kalibrasi yang sama dengan ketika ia dikarakterisasi.</p></div></div></div></div>
 <p class="p">Dalam kasus profil tampilan ada beberapa kebingungan tambahan karena seringkali informasi kalibrasi disimpan dalam profil untuk kemudahan. Biasanya itu disimpan dalam tag bernama <span class="em">vcgt</span>. Walaupun disimpan di dalam profil, tak ada aplikasi atau alat berbasis ICC normal yang menyadarinya, atau melakukan apapun dengannya. Mirip dengan itu, aplikasi dan alat kalibrasi tampilan yang biasa tak menyadari, atau melakukan apapun dengan informasi karakterisasi (profil) ICC.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -102,7 +98,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html.fi#problems" title="Yleisiä ongelmia">Ongelmat</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> › <a class="trail" href="hardware.html.fi#problems" title="Yleisiä ongelmia">Ongelmat</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Näyttöongelmat</span></h1></div>
@@ -72,14 +72,12 @@
 <div class="contents">
 <p class="p">Useimmat näyttöä koskevat ongelmat johtuvat grafiikka-ajureista tai määritetyistä asetuksista. Mikä seuraavista kuvaa parhaiten ongelmaasi?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.fi" title="Aseta näytön kirkkaus"><span class="title">Aseta näytön kirkkaus</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
-    light.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.fi" title="Aseta näytön kirkkaus"><span class="title">Aseta näytön kirkkaus</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön kirkkautta parantaaksesi luettavuutta kirkkaassa valossa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.fi" title="Aseta näytön pimenemisaika"><span class="title">Aseta näytön pimenemisaika</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön pimenemisviivettä säästääksesi virtaa.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-whydim.html.fi" title="Miksi näyttö himmenee itsestään?"><span class="title">Miksi näyttö himmenee itsestään?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.fi" title="Miksi näytöllä olevat kohteet näyttävät sumeilta tai kulmikkailta?"><span class="title">Miksi näytöllä olevat kohteet näyttävät sumeilta tai kulmikkailta?</span><span class="linkdiv-dash"> — </span><span class="desc">Näytön resoluutio on saatettu asettaa virheellisesti.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.fi" title="Miksi tietokoneeni ei suostu palaamaan valmiustilasta?"><span class="title">Miksi tietokoneeni ei suostu palaamaan valmiustilasta?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.fi" title="Näyttö lukitsee itsensä liian nopeasti"><span class="title">Näyttö lukitsee itsensä liian nopeasti</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.fi" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön pimenemisviivettä säästääksesi virtaa.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.fi" title="Näyttö lukitsee itsensä liian nopeasti"><span class="title">Näyttö lukitsee itsensä liian nopeasti</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön lukitsemisen aikarajaa <span class="gui">Yksityisyys</span>-asetuksista.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.fi" title="Tietokone ei käynnisty"><span class="title">Tietokone ei käynnisty</span><span class="linkdiv-dash"> — </span><span class="desc">Irrallaan olevat johdot tai laitteisto-ongelmat ovat mahdollisia syitä.</span></a></div>
 </div></div></div>
 </div>
@@ -97,7 +95,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

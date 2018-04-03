@@ -73,14 +73,16 @@
 <p class="p">Algúns tipos de conta en liña permítenlle acceder a varios servizos coa mesma conta de usuario. Por exemplo, as contas de Google fornecen acceso ao calendario, correo-e, contactos e chat. Pode querer usar a súa conta para algúns servizos e para outros non. Por exemplo, pode querer usar a súa conta de Google para correo-e pero non para chat, xa que ten unha conta en liña distinta para usala para chatear.</p>
 <p class="p">Pode desactivar algúns servizos fornecidos por cada servizo en liña:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Actividades</a></span> e comece a escribir <span class="gui">Contas en liña</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Contas en liña</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Contas en liñla</span> para abrir o panel.</p></li>
-<li class="steps"><p class="p">Seleccione a conta que quere cambiar da lista da esquerda.</p></li>
+<li class="steps"><p class="p">Select the account which you want to change from the list on the
+      right.</p></li>
 <li class="steps"><p class="p">A lista dos servizos servizos dispoñíbeis con esta conta mostraranse baixo <span class="gui">Usar esta conta para</span>. Vexa <span class="link"><a href="accounts-which-application.html.gl-GL" title="Servizos en liña e aplicativos">Servizos en liña e aplicativos</a></span> para ver que aplicativos acceden a estos servizos.</p></li>
 <li class="steps"><p class="p">Desactive calquera dos servizos que non quere que sexan usados.</p></li>
 </ol></div></div></div>
 <p class="p">Unha vez que teña desactivado un servizo para unha conta, os aplicativos do seu computador non poderán usar a conta para volver a conectarse a este servizo.</p>
-<p class="p">Para activar un servizo para teña desactivado, volva á xanela <span class="gui">Contas en liña</span> e actíveo.</p>
+<p class="p">To turn on a service that you disabled, just go back to the <span class="gui">Online
+  Accounts</span> panel and switch it on.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -111,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

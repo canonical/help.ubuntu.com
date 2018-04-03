@@ -64,15 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Niksit ja vinkit</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.fi" title="Erikoismerkkien käyttäminen"><span class="title">Erikoismerkkien käyttäminen</span><span class="linkdiv-dash"> — </span><span class="desc">Kirjoita erikoismerkkejä, joita ei löydy näppäimistöstäsi, kuten ulkomaalaisia aakkosia, matemaattisia symboleja ja muita erikoismerkkejä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.fi" title="Hiiren keskimmäisen painikkeen napsautus"><span class="title">Hiiren keskimmäisen painikkeen napsautus</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
-    more.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.fi" title="Hiiren keskimmäisen painikkeen napsautus"><span class="title">Hiiren keskimmäisen painikkeen napsautus</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä hiiren keskimmäistä painiketta esimerkiksi sovellusten ja välilehtien avaamiseen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.fi" title="Hyödyllisiä pikanäppäimiä"><span class="title">Hyödyllisiä pikanäppäimiä</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä työpöytää näppäimistöllä.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.fi" title="Kuvakaappaukset ja työpöytävideot"><span class="title">Kuvakaappaukset ja työpöytävideot</span><span class="linkdiv-dash"> — </span><span class="desc">Ota kuva tai nauhoita video näyttösi sisällöstä.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="gnome-version.html.fi" title="Selvitä käyttämäsi Gnomen versio"><span class="title">Selvitä käyttämäsi Gnomen versio</span><span class="linkdiv-dash"> — </span><span class="desc">Miten selvitän käyttämäni Gnomen version</span></a></div>
@@ -91,7 +90,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

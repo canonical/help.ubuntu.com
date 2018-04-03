@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p"><span class="app">Synaptic pakethanterare</span> är kraftfullare och kan hantera en del programhanteringsuppgifter som <span class="app">Programvara för Ubuntu</span> inte kan. Synaptics gränssnitt är mera komplicerat och stödjer inte nyare funktioner i <span class="app">Programvara för Ubuntu</span> såsom betygssättning och kommentarer, och rekommenderas därför inte för nya Ubuntu-användare.</p>
-<p class="p">Synaptic är inte installerat som standard, men du kan <span class="link"><a href="https://apps.ubuntu.com/cat/applications/synaptic" title="https://apps.ubuntu.com/cat/applications/synaptic">installera</a></span> det från Ubuntus paketförråd.</p>
+<p class="p">Synaptic är inte installerat som standard, men du kan <span class="link"><a href="apt:synaptic" title="apt:synaptic">installera</a></span> det från Ubuntus paketförråd.</p>
 </div>
 <div id="install-software-with-synaptic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Installera program med Synaptic</span></h2></div>
@@ -116,7 +116,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

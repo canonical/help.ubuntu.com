@@ -64,23 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Afdrukken</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.nl" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Controleer de hoeveelheid inkt of toner er nog in de printer cartridges zit.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.nl" title="Naar bestand afdrukken"><span class="title">Naar bestand afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
-    it to a printer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.nl" title="Hoe kan ik het inkt- of tonerniveau van mijn printer controleren?"><span class="title">Hoe kan ik het inkt- of tonerniveau van mijn printer controleren?</span><span class="linkdiv-dash"> — </span><span class="desc">Controleer de hoeveelheid inkt of toner in de printerpatronen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.nl" title="Naar bestand afdrukken"><span class="title">Naar bestand afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Sla een document op als een PDF-, PostScript- of SVG-bestand in plaats van het naar een printer te sturen.</span></a></div>
 </div></div></div></div>
 <div id="setup" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Een printer instellen</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="printing-setup.html.nl" title="Een lokale printer instellen"><span class="title">Een lokale printer instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Een printer die aangesloten is op uw computer instellen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.nl" title="De naam of locatie van een printer wijzigen"><span class="title">De naam of locatie van een printer wijzigen</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
-    settings.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.nl" title="De naam of locatie van een printer wijzigen"><span class="title">De naam of locatie van een printer wijzigen</span><span class="linkdiv-dash"> — </span><span class="desc">De naam of locatie van een printer wijzigen in de printerinstellingen.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.nl" title="De standaardprinter instellen"><span class="title">De standaardprinter instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Kies de printer die u het meest gebruikt.</span></a></div></div>
 </div></div></div></div></div>
@@ -90,14 +88,12 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="printing-select.html.nl" title="Alleen bepaalde pagina's afdrukken"><span class="title">Alleen bepaalde pagina's afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Alleen bepaalde pagina's afdrukken, of alleen een bereik van pagina's.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.nl" title="Het papierformaat wijzigen bij afdrukken"><span class="title">Het papierformaat wijzigen bij afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Een document afdrukken op een ander papierformaat of -oriëntatie.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html.nl" title="Pagina's in een andere volgorde laten afdrukken"><span class="title">Pagina's in een andere volgorde laten afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">De afdrukvolgorde sorteren en omkeren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.nl" title="Een boekje afdrukken"><span class="title">Een boekje afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Hoe u een gevouwen, meerdere pagina's tellend boekje afdrukt op papier van A4- of Letterformaat.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.nl" title="Enveloppen afdrukken"><span class="title">Enveloppen afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Zorg ervoor dat de envelop met de goede kant boven ligt en dat u het juiste papierformaat heeft gekozen.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.nl" title="Print a booklet"><span class="title">Print a booklet</span><span class="linkdiv-dash"> — </span><span class="desc">How to print a folded, multi-page booklet using A4 or Letter-sized
-    paper.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.nl" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
-    chosen the correct paper size.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.nl" title="Het papierformaat wijzigen bij afdrukken"><span class="title">Het papierformaat wijzigen bij afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">Een document afdrukken op een ander papierformaat of -oriëntatie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.nl" title="Pagina's in een andere volgorde laten afdrukken"><span class="title">Pagina's in een andere volgorde laten afdrukken</span><span class="linkdiv-dash"> — </span><span class="desc">De afdrukvolgorde sorteren en omkeren.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.nl" title="Tweezijdig afdrukken en multipagina-opmaak"><span class="title">Tweezijdig afdrukken en multipagina-opmaak</span><span class="linkdiv-dash"> — </span><span class="desc">Aan beide kanten van het papier afdrukken, of meerdere pagina's per vel.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -126,7 +122,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.nl" title="Schijven &amp; opslag">schijven</a></span>...</span>
+<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html.nl" title="disks">schijven</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -137,7 +133,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

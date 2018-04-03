@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="disk.html.de" title="Festplatten und Speicherung">Festplatten und Speicherung</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="disk.html.de" title="Festplatten und Speicherung">Festplatten und Speicherung</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -78,9 +78,7 @@
 <p class="p">Es wird vorausgesetzt, dass Sie bereits ein Ubuntu-ISO-Abbild heruntergeladen haben.</p>
 <p class="p">Erstellung eines Startmediums aus einem Ubuntu-ISO-Abbild:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Öffnen Sie <span class="app">Startmedienersteller</span> über die <span class="em">Aktivitäten</span> Suchleiste.</p></li>
 <li class="steps"><p class="p">Falls das ISO-Abbild als einziges in Ihrem <span class="gui">Download</span> Verzeichnis liegt, wählt der <span class="app">Startmedienersteller</span> dieses aus, anderenfalls müssen Sie das richtige Abbild auswählen.</p></li>
 <li class="steps"><p class="p">Falls nur ein USB-Stick an Ihrem Rechner angeschlossen ist, hat der <span class="app">Startmedienersteller</span> diesen bereits ausgewählt, anderenfalls wählen Sie bitte selbst den richtigen aus.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Startmedium erstellen</span>.</p></li>
@@ -109,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

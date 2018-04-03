@@ -64,35 +64,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="files.html.pl-PL" title="Pliki, katalogi i wyszukiwanie">Pliki</a> › <a class="trail" href="files.html.pl-PL#more-file-tasks" title="Inne zadania związane z plikami">Inne zadania związane z plikami</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Przywracanie pliku z Kosza</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you delete a file with the file manager, the file is normally placed
-  into the <span class="gui">Trash</span>, and should be able to be restored.</p>
+<p class="p">Usunięcie pliki w menedżerze plików zwykle powoduje umieszczenie go w <span class="gui">Koszu</span>, skąd można go przywrócić.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Aby przywrócić plik z Kosza:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="app">Pliki</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="app">Files</span> to open the file manager.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
-      click <span class="gui">Files</span> in the top bar and pick <span class="gui">Sidebar</span>.</p></li>
-<li class="steps"><p class="p">If your deleted file is there, click on it and select
-      <span class="gui">Restore</span>. It will be restored to the folder from where it was
-      deleted.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="app">Pliki</span>.</p></li>
+<li class="steps"><p class="p">Kliknij ikonę <span class="app">Pliki</span>, aby otworzyć menedżera plików.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Kosz</span> na panelu bocznym. Jeśli panel nie jest wyświetlany, kliknij <span class="gui">Pliki</span> na górnym pasku i zaznacz opcję <span class="gui">Panel boczny</span>.</p></li>
+<li class="steps"><p class="p">Jeśli usunięty plik tu jest, to zaznacz go i kliknij przycisk <span class="gui">Przywróć</span>. Plik zostanie przywrócony do katalogu, z którego został usunięty.</p></li>
 </ol></div>
 </div></div>
-<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
-  </kbd></span></span>, or by using the command line, the file has been permanently
-  deleted. Files that have been permanently deleted can’t be recovered from the
-  <span class="gui">Trash</span>.</p>
-<p class="p">There are a number of recovery tools available that are sometimes able to
-  recover files that were permanently deleted. These tools are generally not
-  very easy to use, however. If you accidentally permanently deleted a file,
-  it’s probably best to ask for advice on a support forum to see if you can
-  recover it.</p>
+<p class="p">Jeśli usunięto plik przez naciśnięcie klawiszy <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span> lub za pomocą wiersza poleceń, to został on trwale usunięty. Trwale usunięte pliki nie mogą być przywracane z <span class="gui">Kosza</span>.</p>
+<p class="p">Dostępnych jest wiele narzędzi do odzyskiwania, które czasami mogą przywrócić trwale usunięte pliki. Są one zwykle trudne w użytku. Jeśli przypadkowo trwale usunięto plik, to najlepiej jest zapytać o radę na forum wsparcia.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -105,11 +94,10 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-delete.html.pl-PL" title="Usuwanie plików i katalogów">Usuwanie plików i katalogów</a><span class="desc"> — Remove files or folders you no longer need.</span>
+<a href="files-delete.html.pl-PL" title="Usuwanie plików i katalogów">Usuwanie plików i katalogów</a><span class="desc"> — Usuwanie niepotrzebnych plików i katalogów.</span>
 </li>
 <li class="links ">
-<a href="files-lost.html.pl-PL" title="Wyszukiwanie zgubionego pliku">Wyszukiwanie zgubionego pliku</a><span class="desc"> — Follow these tips if you can’t find a file you created or
-    downloaded.</span>
+<a href="files-lost.html.pl-PL" title="Wyszukiwanie zgubionego pliku">Wyszukiwanie zgubionego pliku</a><span class="desc"> — Wskazówki co robić, jeśli nie można odnaleźć utworzonego lub pobranego pliku.</span>
 </li>
 </ul></div>
 </div></div>
@@ -122,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

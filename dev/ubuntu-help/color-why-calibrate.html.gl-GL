@@ -90,7 +90,7 @@
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html.gl-GL" title="Como asignar perfiles ao dispositivos?">Como asignar perfiles ao dispositivos?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.gl-GL" title="Como asignar perfiles ao dispositivos?">Como asignar perfiles ao dispositivos?</a><span class="desc"> — Busque nas <span class="guiseq"><span class="gui">Preferencias</span> ▸ <span class="gui">Cor</span></span> para engadir un perfíl de cor para a súa pantalla.</span>
 </li>
 <li class="links ">
 <a href="color-gettingprofiles.html.gl-GL" title="Onde podo conseguir perfiles de cor?">Onde podo conseguir perfiles de cor?</a><span class="desc"> — Os fabricantes fornecen os perfiles de cor e tamén pode xeralos vostede.</span>
@@ -109,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

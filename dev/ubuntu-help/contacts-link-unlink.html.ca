@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Link and unlink contacts</title>
+<title>Enllaçar i desenllaçar contactes</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,40 +67,31 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="contacts.html.ca" title="Contactes">Contactes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Link and unlink contacts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Enllaçar i desenllaçar contactes</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="link-contacts" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Link contacts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Enllaçar contactes</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can combine duplicate contacts from your local address book and online
-  accounts into one <span class="app">Contacts</span> entry. This feature helps you keep your
-  address book organized, with all details about one contact in one place.</p>
+<p class="p">Podeu combinar contactes duplicats des de la vostra llibreta d'adreces locals i comptes en línia en un <span class="app">Contacte</span> Aquesta funció us ajudarà a mantenir organitzada la vostra llibreta d'adreces, amb tots els detalls del contacte en un sol lloc.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Enable <span class="em">selection mode</span> by pressing the tick button above the
-      contact list.</p></li>
-<li class="steps"><p class="p">A checkbox will appear next to each contact. Tick the checkboxes next
-      to the contacts that you want to merge.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Link</span> to link the selected
-      contacts.</p></li>
+<li class="steps"><p class="p">Activa el <span class="em">mode de selecció</span> prement el botó marcar a sobre de la llista de contactes.</p></li>
+<li class="steps"><p class="p">Apareixerà una casella de selecció al costat de cada contacte. Marqueu les caselles de selecció al costat dels contactes que voleu combinar.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Enllaçar</span> per enllaçar els contactes seleccionats.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="unlink-contacts" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Unlink contacts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Desenllaçar contactes</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You may want to unlink contacts if you accidentally linked contacts which
-  should not be linked.</p>
+<p class="p">És possible que vulgueu desenllaçar contactes si accidentalment heu enllaçat contactes que no s'havien d'enllaçar.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Trieu el contacte que voleu desenllaçar de la llista de contactes.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Edit</span> in the top-right corner of
-      <span class="app">Contacts</span>.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Linked Accounts</span>.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlink</span> to unlink the entry from the
-      contact.</p></li>
-<li class="steps"><p class="p">Close the window once you have finished unlinking the entries.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Done</span> to finish editing the
-      contact.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Editar</span> a la cantonada superior dreta de <span class="app">Contactes</span>.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Comptes enllaçats</span>.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Desenllaçar</span>per desenllaçar l'entrada del contacte.</p></li>
+<li class="steps"><p class="p">Tanqueu la finestra un cop hàgiu acabat de desenllaçar les entrades.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Fet</span> per acabar d'editar el contacte.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -109,7 +100,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="contacts.html.ca" title="Contactes">Contactes</a><span class="desc"> — Access your contacts.</span>
+<a href="contacts.html.ca" title="Contactes">Contactes</a><span class="desc"> — Accediu als vostres contactes</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -120,7 +111,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

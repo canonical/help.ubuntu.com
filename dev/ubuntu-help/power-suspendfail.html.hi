@@ -131,9 +131,6 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">यह भी देखें</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-hibernate.html.hi" title="How do I hibernate my computer?">How do I hibernate my computer?</a><span class="desc"> — Hibernate is disabled by default since it's not well supported.</span>
-</li>
-<li class="links ">
 <a href="power-nowireless.html.hi" title="I have no wireless network when I wake up my computer">I have no wireless network when I wake up my computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
@@ -159,7 +156,7 @@ because suspend is not supported properly by your hardware.</p></div>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

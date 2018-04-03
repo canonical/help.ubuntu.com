@@ -64,40 +64,28 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tworzenie hotspotu bezprzewodowego</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can use your computer as a wireless hotspot. This allows other devices
-  to connect to you without a separate network, and allows you to share an
-  internet connection you’ve made with another interface, such as to a wired
-  network or over the cellular network.</p>
+<p class="p">Można używać komputera jako hotspot bezprzewodowy. Umożliwia to innym urządzeniom łączenie się z komputerem bez oddzielnej sieci oraz udostępnianie połączenia internetowego używającego innego interfejsu, takiego jak sieć przewodowa lub komórkowa.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">system menu</a></span> from the right
-    side of the top bar.</p></li>
-<li class="steps"><p class="p">Select
-    <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
-      Wi-Fi Not Connected</span> or the name of the wireless network to which
-    you are already connected. The Wi-Fi section of the menu will expand.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#yourname" title="Użytkownik i komputer">menu systemowe</a></span> po prawej stronie górnego paska.</p></li>
+<li class="steps"><p class="p">Wybierz <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Nie połączono z siecią Wi-Fi</span> lub nazwę sieci bezprzewodowej, z którą już połączono. Sekcja menu <span class="gui">Sieć Wi-Fi</span> zostanie rozwinięta.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ustawienia Wi-Fi</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Use as Hotspot…</span> button.</p></li>
-<li class="steps"><p class="p">If you are already connected to a wireless network, you will be
-  asked if you want to disconnect from that network. A single wireless adapter
-  can connect to or create only one network at a time. Click <span class="gui">Turn On</span>
-  to confirm.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Użyj jako hotspot…</span>.</p></li>
+<li class="steps"><p class="p">Jeśli połączono już z siecią bezprzewodową, to użytkownik zostanie zapytany, czy z niej rozłączyć. Jeden adapter bezprzewodowy może łączyć się z lub tworzyć tylko jedną sieć jednocześnie. Kliknij przycisk <span class="gui">Włącz</span>, aby potwierdzić.</p></li>
 </ol></div></div></div>
-<p class="p">A network name (SSID) and security key are automatically generated.
-The network name will be based on the name of your computer. Other devices
-will need this information to connect to the hotspot you’ve just created.</p>
+<p class="p">Nazwa sieci (SSID) i klucz zabezpieczeń zostaną wygenerowane automatycznie. Nazwa sieci zostanie utworzona na podstawie nazwy komputera. Inne urządzenia potrzebują tych informacji do łączenia się z utworzonym hotspotem.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">Ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Why does my wireless network keep disconnecting?">Rozłączanie</a></span>…</span>
+<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Dlaczego sieć bezprzewodowa ciągle się rozłącza?">rozłączanie</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -108,7 +96,7 @@ will need this information to connect to the hotspot you’ve just created.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

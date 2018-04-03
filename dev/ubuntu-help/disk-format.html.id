@@ -70,31 +70,22 @@
 <div class="hgroup"><h1 class="title"><span class="title">Hapus segalanya dari disk lepas pasang</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you have a removable disk, like a USB memory stick or an external hard
- disk, you may sometimes wish to completely remove all of its files and
- folders. You can do this by <span class="em">formatting</span> the disk — this deletes all
- of the files on the disk and leaves it empty.</p>
+<p class="p">Bila Anda punya disk lepas pasang, misalnya stik memori USB atau hard disk eksternal, kadang Anda mungkin ingin menghapus seluruh berkas dan foldernya. Anda dapat melakukan ini dengan <span class="em">memformat</span> disk - ini menghapus semua berkas pada disk dan membiarkannya kosong.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Format disk yang dapat dilepas pasang</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
+<li class="steps"><p class="p">Buka <span class="app">Pengaturan</span> dari ringkasan <span class="gui">Aktivitas</span>.</p></li>
 <li class="steps">
-<p class="p">Select the disk you want to wipe from the list of storage devices on the
-    left.</p>
+<p class="p">Pilih disk yang Anda ingin hapus tuntas dari daftar perangkat penyimpanan di sebelah kiri.</p>
 <div class="note note-warning" title="Peringatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Pastikan bahwa Anda telah memilih diska yang benar! Bila Anda memilih diska yang salah, semua berkas pada diska tersebut akan dihapus!</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-    menu button. Then click <span class="gui">Format…</span>.</p></li>
+<li class="steps"><p class="p">Pada bilah alat di bawah bagian <span class="gui">Volume</span>, klik tombol menu. Lalu klik <span class="gui">Format…</span>.</p></li>
 <li class="steps">
-<p class="p">In the window that pops up, choose a file system <span class="gui">Type</span> for the
-    disk.</p>
+<p class="p">Dalam jendela yang muncul, pilih suatu <span class="gui">Tipe</span> sistem berkas bagi disk.</p>
 <p class="p">Bila Anda memakai diska pada komputer Windows dan Mac OS selain pada komputer Linux, pilihlah <span class="gui">FAT</span>. Bila Anda hanya memakainya pada Windows, <span class="gui">NTFS</span> mungkin merupakan opsi yang lebih baik. Deskripsi singkat tentang <span class="gui">tipe sistem berkas</span> akan disajikan sebagai suatu label.</p>
 </li>
-<li class="steps"><p class="p">Give the disk a name and click <span class="gui">Format…</span> to continue and show a
-    confirmation window. Check the details carefully, and click
-    <span class="gui">Format</span> to wipe the disk.</p></li>
-<li class="steps"><p class="p">Once the formatting has finished, click the eject icon to safely remove
-    the disk. It should now be blank and ready to use again.</p></li>
+<li class="steps"><p class="p">Berikan disk sebuah nama dan klik <span class="gui">Format…</span> untuk melanjutkan dan menampilkan jendela konfirmasi. Periksa rincian secara hati-hati, dan klik <span class="gui">Format</span> untuk menghapus tuntas disk.</p></li>
+<li class="steps"><p class="p">Saat proses fromat selesai, klik ikon keluarkan untuk melepas disk secara aman. Harusnya saat ini sudah kosong dan siap untuk digunakan.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Peringatan"><div class="inner">
@@ -118,7 +109,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

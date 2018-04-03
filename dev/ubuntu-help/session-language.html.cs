@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="prefs.html.cs" title="Uživatelská a systémová nastavení">Nastavení</a> » <a class="trail" href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Změna jazyka, který používáte</span></h1></div>
@@ -81,6 +81,7 @@
 </ol></div></div></div>
 <p class="p">Některé překlady mohou být neúplné a některé aplikace nemusí podporovat váš jazyk vůbec. Nepřeložený text se pak objeví v jazyce, ve kterém byl software původně vyvíjen, obvykle americké angličtině.</p>
 <p class="p">Existuje pár speciálních složek ve vaší domovské složce, do kterých mohou aplikace ukládat takové věci, jak jsou hudba, obrázky a dokumenty. Tyto složky používají standardní názvy ve vašem jazyce. Když se znovu přihlásíte, budete dotázáni, jestli chcete tyto složky přejmenovat na standardní názvy ve vašem jazyce. Pokud plánujete používat nový jazyk dlouhodobě, měli byste názvy složek nechat aktualizovat.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Pokud v systému existuje více uživatelských účtů, je v panelu <span class="gui">Region a jazyk</span> zvláštní část pro přihlašovací obrazovku. Kliknutím na tlačítko <span class="gui">Přihlašovací obrazovka</span> v pravém horním rohu se přepínáte mezi oběma nastaveními.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -88,7 +89,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html.cs" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html.cs" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span>
+<a href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a><span class="desc"> — <span class="link"><a href="session-language.html.cs" title="Změna jazyka, který používáte">Jazyk</a></span>, <span class="link"><a href="session-formats.html.cs" title="Změna formátů data a měrných jednotek">region a formáty</a></span>, <span class="link"><a href="keyboard-layouts.html.cs" title="Používání alternativního rozložení klávesnice">rozložení klávesnice</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -106,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

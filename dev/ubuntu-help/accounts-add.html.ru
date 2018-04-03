@@ -75,7 +75,7 @@
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Online Accounts</span>.</p></li>
 <li class="steps"><p class="p">Нажмите на <span class="gui">Сетевые учётные записи</span>, чтобы открыть этот раздел настроек.</p></li>
-<li class="steps"><p class="p">Нажмите кнопку <span class="key"><kbd>+</kbd></span> в левом нижнем углу окна.</p></li>
+<li class="steps"><p class="p">Select an account from the list on the right.</p></li>
 <li class="steps"><p class="p">Выберите тип учётной записи, который нужно добавить.</p></li>
 <li class="steps"><p class="p">A small website window or dialog will open where you can enter your
       online account credentials. For example, if you are setting up a Google
@@ -112,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

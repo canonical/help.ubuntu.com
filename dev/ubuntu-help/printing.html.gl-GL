@@ -93,10 +93,10 @@
 <div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.gl-GL" title="Imprimir deseños de páxinas múltiples e a dobre cara"><span class="title">Imprimir deseños de páxinas múltiples e a dobre cara</span><span class="linkdiv-dash"> — </span><span class="desc">Imprimir en ámbalas caras do papel, ou múltiples páxinas por folla.</span></a></div>
 </div>
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.gl-GL" title="Imprimir sobres"><span class="title">Imprimir sobres</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
+    chosen the correct paper size.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-select.html.gl-GL" title="Imprimir só certas páxinas"><span class="title">Imprimir só certas páxinas</span><span class="linkdiv-dash"> — </span><span class="desc">Imprimir só páxinas específicas ou só un rango de páxinas.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.gl-GL" title="Imprimir un pasquín"><span class="title">Imprimir un pasquín</span><span class="linkdiv-dash"> — </span><span class="desc">Como imprimir un pasquín plegado, multipáxina usando un papel de tamaño A4 ou Carta.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.gl-GL" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
-    chosen the correct paper size.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -135,7 +135,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

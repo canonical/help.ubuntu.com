@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Connect with your contact</title>
+<title>Komunikacja z kontaktem</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,22 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="contacts.html.pl-PL" title="Kontakty">Kontakty</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="contacts.html.pl-PL" title="Kontakty">Kontakty</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Connect with your contact</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Komunikacja z kontaktem</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To email, chat with or phone someone in <span class="app">Contacts</span>:</p>
+<p class="p">Aby wysłać wiadomość e-mail, porozmawiać lub zadzwonić do kogoś w <span class="app">Kontaktach</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the contact from your contact list.</p></li>
-<li class="steps"><p class="p">Press on the <span class="em">detail</span> that you want to use. For example, to
-      email your contact, press the email address.</p></li>
-<li class="steps"><p class="p">The corresponding application will be launched using the contact’s
-      details.</p></li>
+<li class="steps"><p class="p">Wybierz kontakt z listy kontaktów.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="em">informację</span> do użycia. Na przykład, aby wysłać wiadomość e-mail do kontaktu, kliknij adres e-mail.</p></li>
+<li class="steps"><p class="p">Odpowiedni program zostanie włączony z danymi kontaktu.</p></li>
 </ol></div></div></div>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">If there is no available application for the detail that you wish to
-    use, you will not be able to select it.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Jeśli dla danej informacji nie ma dostępnego programu, to nie można jej wybrać.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -97,7 +94,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set up automatic suspend</title>
+<title>Configurar a suspensión automática</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,29 +65,26 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> › <a class="trail" href="power.html.gl-GL#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="prefs.html.gl-GL" title="Configuracións do usuario e sistema">Configuracións</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> › <a class="trail" href="power.html.gl-GL#saving" title="Preferencias de enerxía">Preferencias de enerxía</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> › <a class="trail" href="power.html.gl-GL#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> » <a class="trail" href="power.html.gl-GL" title="Enerxía e batería">Enerxía e batería</a> › <a class="trail" href="power.html.gl-GL#saving" title="Preferencias de enerxía">Preferencias de enerxía</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set up automatic suspend</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Configurar a suspensión automática</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can configure your computer to automatically suspend when idle.
   Different intervals can be specified for running on battery or plugged in.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span>
-      overview and start typing <span class="gui">Power</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Suspend &amp; Power Button</span> section, click
-      <span class="gui">Automatic suspend</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Enerxía</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Enerxía</span> para abrir o panel.</p></li>
+<li class="steps"><p class="p">Na sección <span class="gui">Botón de suspender e apagar</span>, prema <span class="gui">Suspensión automática</span>.</p></li>
 <li class="steps">
 <p class="p">Choose <span class="gui">On Battery Power</span> or <span class="gui">Plugged In</span>, set the
       switch to <span class="gui">ON</span>, and select a <span class="gui">Delay</span>. Both options can
       be configured.</p>
-<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">On a desktop computer, there is one option labeled
-        <span class="gui">When Idle</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Suxestión"><div class="inner"><div class="region"><div class="contents"><p class="p">Nun computador de escritorio, hai unha opción coa etiqueta <span class="gui">Cando estea en repouso</span>.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 </div>
@@ -96,7 +93,7 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html.gl-GL#saving" title="Power saving settings">Power saving settings</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.gl-GL#saving" title="Preferencias de enerxía">Preferencias de enerxía</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
@@ -116,7 +113,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

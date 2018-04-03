@@ -86,8 +86,12 @@
 <div class="hgroup"><h2 class="title"><span class="title">Σταματήστε τον υπολογιστή από αναστολή όταν το καπάκι είναι κλειστό</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Σημαντικό"><div class="inner"><div class="region"><div class="contents"><p class="p">Αυτές οι οδηγίες θα δουλέψουν μόνο αν χρησιμοποιείτε το <span class="app">systemd</span>. Επικοινωνήστε με τη διανομή σας για περισσότερες πληροφορίες.</p></div></div></div></div>
-<div class="note note-important" title="Σημαντικό"><div class="inner"><div class="region"><div class="contents"><p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-    change this setting.</p></div></div></div></div>
+<div class="note note-important" title="Σημαντικό"><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
+    change this setting.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
+      <span class="app">Tweaks</span></a></span></p>
+</div></div></div></div>
 <p class="p">Αν δεν θέλετε ο υπολογιστής σας να αναστέλλεται όταν κλείνετε το καπάκι, μπορείτε να απενεργοποιήσετε αυτή την συμπεριφορά.</p>
 <div class="note note-warning" title="Προειδοποίηση"><div class="inner"><div class="region"><div class="contents"><p class="p">Να είσαστε πολύ προσεκτικοί εάν αλλάζετε αυτήν τη ρύθμιση. Μερικοί φορητοί μπορεί να υπερθερμανθούν, εάν αφήνονται να εκτελούνται με το καπάκι κλειστό, ειδικά εάν είναι σε μια περιορισμένη θέση όπως σε ένα σακίδιο.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -134,7 +138,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

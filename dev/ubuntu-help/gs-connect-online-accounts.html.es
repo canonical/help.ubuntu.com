@@ -80,16 +80,13 @@
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3"><li class="steps">
-<p class="p">Click the <span class="gui">Online Accounts</span> panel, then click the online
-      account service you want to use.</p>
-<p class="p">This will open a new window where you can sign in to your online
-      account.</p>
+<p class="p">Pulse el panel <span class="gui">Cuentas en línea</span> y luego pulse en el servicio de la cuenta que quiere usar.</p>
+<p class="p">Esto abrirá una ventana nueva donde puede iniciar sesión en su cuneta en línea.</p>
 </li></ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa4.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4">
 <li class="steps"><p class="p">En la mayoría de los casos, después de haber iniciado sesión tendrá que conceder acceso al servicio en línea para comenzar.</p></li>
-<li class="steps"><p class="p">For example, if you are connecting to your Google account, you
-       will have to click the <span class="gui">Allow</span> button.</p></li>
+<li class="steps"><p class="p">Por ejemplo, si se conecta a su cuenta de Google, tendrá que pulsar el botón <span class="gui">Conceder acceso</span>.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa5.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Muchas cuentas en línea le permiten elegir los servicios que desee utilizar con su cuenta en línea. Si no desea algún servicio en particular, desactívelo con el <span class="gui">interruptor de encendido/apagado</span> que está al lado derecho de la ventana.</p></li></ol></div></div></div>
@@ -121,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

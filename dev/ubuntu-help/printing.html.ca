@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Printing</title>
+<title>Imprimint</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Printing</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Imprimint</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.ca" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Check the amount of ink or toner left in printer cartridges.</span></a></div>
@@ -90,7 +90,7 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.ca" title="Change the paper size when printing"><span class="title">Change the paper size when printing</span><span class="linkdiv-dash"> — </span><span class="desc">Print a document on a different paper size or orientation.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html.ca" title="Make pages print in a different order"><span class="title">Make pages print in a different order</span><span class="linkdiv-dash"> — </span><span class="desc">Collate and reverse the print order.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.ca" title="Feu que les pàgines s'imprimeixin en un ordre diferent"><span class="title">Feu que les pàgines s'imprimeixin en un ordre diferent</span><span class="linkdiv-dash"> — </span><span class="desc">Collate and reverse the print order.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.ca" title="Print a booklet"><span class="title">Print a booklet</span><span class="linkdiv-dash"> — </span><span class="desc">How to print a folded, multi-page booklet using A4 or Letter-sized
     paper.</span></a></div>
 </div>
@@ -108,8 +108,7 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.ca" title="Cancel, pause or release a print job"><span class="title">Cancel, pause or release a print job</span><span class="linkdiv-dash"> — </span><span class="desc">Cancel a pending print job and remove it from the queue.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.ca" title="Clearing a paper jam"><span class="title">Clearing a paper jam</span><span class="linkdiv-dash"> — </span><span class="desc">How you clear a paper jam will depend on the make and model of
-    printer that you have.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.ca" title="Netejar un embús amb el paper"><span class="title">Netejar un embús amb el paper</span><span class="linkdiv-dash"> — </span><span class="desc">La manera de netejar un embús de paper dependrà de la marca i el model d'impressora que tingui.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.ca" title="Why are there streaks, lines or the wrong colors on my print-outs?"><span class="title">Why are there streaks, lines or the wrong colors on my
   print-outs?</span><span class="linkdiv-dash"> — </span><span class="desc">If print-outs are streaky, fading, or missing colors, check your ink
@@ -119,7 +118,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Més informació</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html.ca#problems" title="Common problems">Problemes de maquinari</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.ca#problems" title="Problemes comuns">Problemes de maquinari</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -130,10 +129,10 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="hardware.html.ca" title="Maquinari i controladors">Maquinari i controladors</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.ca#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.ca" title="Printing">printers</a></span>,
+      <span class="link"><a href="hardware.html.ca#problems" title="Problemes comuns">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.ca" title="Imprimint">printers</a></span>,
       <span class="link"><a href="power.html.ca" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.ca" title="Color management">color management</a></span>,
+      <span class="link"><a href="color.html.ca" title="Gestió dels colors">color management</a></span>,
       <span class="link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></span>,
       <span class="link"><a href="disk.html.ca" title="Discs i emmagatzematge">disks</a></span>…
     </span>
@@ -147,7 +146,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

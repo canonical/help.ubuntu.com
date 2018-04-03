@@ -74,7 +74,9 @@
      and unsafe removal of the drive.
      After such an incident it is recommended to <span class="em">repair</span> or at least
      <span class="em">check</span> the filesystem to prevent future data loss.</p>
-<p class="p">Algunas veces es necesario reparar para poder montar o modificar un sistema de archivos. Incluso si la <span class="em">comprobación</span> no informa de ningún daño el sistema de archivos puede seguir marcado como «sucio» y es necesario repararlo.</p>
+<p class="p">Sometimes a repair is required in order to mount or modify a filesystem.
+     Even if a <span class="em">check</span> does not report any damage the filesystem might
+     still be marked as ‘dirty’ internally and require a repair.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Comprobar si un sistema de archivos está dañado</span></h2></div>
 <div class="region"><ol class="steps">
@@ -88,7 +90,7 @@
 </li>
 <li class="steps"><p class="p">After completion you will be notified whether the filesystem is damaged.
        Note that in some cases even if the filesystem is undamaged it still
-       may need to be repaired to reset an internal 'dirty' marker.</p></li>
+       may need to be repaired to reset an internal ‘dirty’ marker.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Advertencia"><div class="inner">
@@ -152,7 +154,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

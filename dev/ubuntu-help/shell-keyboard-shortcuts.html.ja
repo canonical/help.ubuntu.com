@@ -213,7 +213,7 @@
 <div class="region"><ul>
 <li class="links "><a href="shell-overview.html.ja#apps" title="アプリケーションとウィンドウ">アプリケーションとウィンドウ</a></li>
 <li class="links ">
-<a href="keyboard.html.ja" title="キーボード">キーボード</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ja" title="Use alternative keyboard layouts">キーボードレイアウト</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ja" title="キーボードのカーソルを点滅させる">カーソル点滅</a></span>, <span class="link"><a href="a11y.html.ja#mobility" title="運動障害">キーボードのアクセシビリティ</a></span>…</span>
+<a href="keyboard.html.ja" title="キーボード">キーボード</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ja" title="別のキーボードレイアウトを使用する">キーボードレイアウト</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ja" title="キーボードのカーソルを点滅させる">カーソル点滅</a></span>, <span class="link"><a href="a11y.html.ja#mobility" title="運動障害">キーボードのアクセシビリティ</a></span>…</span>
 </li>
 <li class="links ">
 <a href="tips.html.ja" title="ヒントとコツ">ヒントとコツ</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ja" title="特殊な文字を入力する">特殊文字</a></span>、<span class="link"><a href="mouse-middleclick.html.ja" title="中クリック">中クリックのショートカット</a></span>…</span>
@@ -246,7 +246,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

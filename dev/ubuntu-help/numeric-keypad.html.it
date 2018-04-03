@@ -76,11 +76,10 @@
 <div class="contents">
 <p class="p">È possibile abilitare e disabilitare manualmente il tastierino numerico sulla tastiera con il tasto <span class="key"><kbd>Bloc Num</kbd></span>. Le impostazioni del BIOS dei computer spesso contengono un'opzione che consente di decidere se il tastierino numerico debba essere abilitato all'avvio del computer, altrimenti questo è un metodo per configurare questa opzione:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="addremove-install.html.it" title="Install additional applications">Installare</a></span> il pacchetto <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
 <li class="steps"><p class="p">Aprire le <span class="app"><span class="link"><a href="startup-applications.html.it" title="Applicazioni d'avvio">Applicazioni d'avvio</a></span></span> e aggiungere un programma d'avvio con il comando: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
-<p class="p">Se è necessario che il tastierino numerico sia attivato anche durante la schermata di accesso, è possibile creare uno speciale file di configurazione. Premere <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> per aprire un terminale e quindi eseguire questo comando (è un unico lungo comando, che potrebbe essere visualizzato su più righe sullo schermo - eseguire un copia e incolla per immetterlo correttamente):</p>
-<p class="p"><span class="cmd">sudo sh -c 'printf "[Seat:*]\ngreeter-setup-script=numlockx on\n" &gt;/etc/lightdm/lightdm.conf.d/50-numlock.conf'</span></p>
+<div class="note note-tip" title="Suggerimento"><div class="inner"><div class="region"><div class="contents"><p class="p">The second step may be redundant on your computer, so try without it first.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -88,7 +87,7 @@
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="keyboard.html.it" title="Tastiera">Tastiera</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.it" title="Usare disposizioni di tastiera alternative">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.it" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
       <span class="link"><a href="keyboard-cursor-blink.html.it" title="Rendere il cursore intermittente">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.it#mobility" title="Difficoltà motorie">keyboard accessibility</a></span>…
     </span>
@@ -102,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

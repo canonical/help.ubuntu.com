@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -102,9 +102,9 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html.nl" title="Waarom moet ik zelf kalibreren?"><span class="title">Waarom moet ik zelf kalibreren?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibreren is belangrijk als u geeft om de weergave of het afdrukken van kleuren.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html.nl" title="Wat is het verschil tussen kalibreren en karakteriseren?"><span class="title">Wat is het verschil tussen kalibreren en karakteriseren?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibratie en karakterisering zijn totaal verschillende dingen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html.nl" title="Welke doeltypen worden ondersteund?"><span class="title">Welke doeltypen worden ondersteund?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibratiedoelen zijn nodig om scanner- en cameraprofielen aan te kunnen maken.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html.nl" title="Welke kleursensoren worden ondersteund?"><span class="title">Welke kleursensoren worden ondersteund?</span><span class="linkdiv-dash"> — </span><span class="desc">Wij ondersteunen een groot aantal kalibratie-apparaten.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html.nl" title="What’s the difference between calibration and characterization?"><span class="title">What’s the difference between calibration and characterization?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibratie en karakterisering zijn totaal verschillende dingen.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -117,7 +117,7 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="color-missingvcgt.html.nl" title="Mist u informatie voor kleurcorrectie voor volledig scherm?"><span class="title">Mist u informatie voor kleurcorrectie voor volledig scherm?</span><span class="linkdiv-dash"> — </span><span class="desc">Kleurcorrectie voor het gehele scherm verandert alle kleuren op alle vensters.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html.nl" title="Why don’t the default monitor profiles have a calibration expiry?"><span class="title">Why don’t the default monitor profiles have a calibration expiry?</span><span class="linkdiv-dash"> — </span><span class="desc">Standaard monitorprofielen hebben geen kalibratiedatum.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-notspecifiededid.html.nl" title="Waarom verlopen de standaard monitorprofielen niet?"><span class="title">Waarom verlopen de standaard monitorprofielen niet?</span><span class="linkdiv-dash"> — </span><span class="desc">Standaard monitorprofielen hebben geen kalibratiedatum.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -130,7 +130,7 @@
 <a href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Gebruikers- &amp; systeeminstellingen</a><span class="desc"> — <span class="link"><a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a></span>, <span class="link"><a href="mouse.html.nl" title="Muis">muis</a></span>, <span class="link"><a href="prefs-display.html.nl" title="Weergave &amp; scherm">beeldscherm</a></span>, <span class="link"><a href="prefs-language.html.nl" title="Regio &amp; taal">talen</a></span>, <span class="link"><a href="user-accounts.html.nl" title="Gebruikersaccounts">gebruikersaccounts</a></span>...</span>
 </li>
 <li class="links ">
-<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.nl" title="Schijven &amp; opslag">schijven</a></span>...</span>
+<a href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware &amp; stuurprogramma's</a><span class="desc"> — <span class="link"><a href="hardware.html.nl#problems" title="Veel voorkomende problemen">Hardware problemen</a></span>, <span class="link"><a href="printing.html.nl" title="Afdrukken">printers</a></span>, <span class="link"><a href="power.html.nl" title="Voeding &amp; accu">energie-instellingen</a></span>, <span class="link"><a href="color.html.nl" title="Kleurbeheer">kleurbeheer</a></span>, <span class="link"><a href="bluetooth.html.nl" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disks.html.nl" title="disks">schijven</a></span>...</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -142,7 +142,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

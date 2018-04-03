@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.cs" title="Tipy a triky">Tipy a triky</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="tips.html.cs" title="Tipy a triky">Tipy a triky</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Zadávání speciálních znaků</span></h1></div>
@@ -85,8 +85,8 @@
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Znaky</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Další užitečnou aplikací dodávanou s GNOME jsou <span class="app">Znaky</span>. Méně běžné znaky v ní najdete roztříděné do kategorií nebo je můžete vyhledávat podle klíčkových slov.</p>
-<p class="p"><span class="app">Znaky</span> spustíte z přehledu <span class="gui">Činností</span>. Více informací o této aplikaci najdete v <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">příručce ke Znakům</a></span>.</p>
+<p class="p">GNOME přináší aplikaci <span class="app">Znaky</span>, která umožňuje vyhledávat a vkládat méně obvyklé znaky, včetně emodži, a to buď ručním vyhledáním v kategoriích nebo vyhledáním na základě zadaného slova.</p>
+<p class="p"><span class="app">Znaky</span> můžete spustit z přehledu <span class="gui">Činností</span>.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -94,7 +94,10 @@
 <div class="region"><div class="contents">
 <p class="p">Klávesa <span class="key"><kbd>Compose</kbd></span> je speciální klávesa, která umožňuje zmáčknout více kláves po sobě, abyste získali speciální znak. Například pro napsání dlouhého <span class="em">é</span> zmáčkněte <span class="key"><kbd>Compose</kbd></span>, pak <span class="key"><kbd>'</kbd></span> a pak <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Drtivá většina klávesnic nemá zvlášť klávesu <span class="key"><kbd>Compose</kbd></span>. Můžete si ji ale namapovat na některou jinou existující klávesu na své klávesnici.</p>
-<div class="note note-important" title="Důležité"><div class="inner"><div class="region"><div class="contents"><p class="p">Abyste mohli změnit tato nastavení, musíte mít v počítači nainstalován <span class="app">Vyladění</span>.</p></div></div></div></div>
+<div class="note note-important" title="Důležité"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Abyste mohli změnit tato nastavení, musíte mít v počítači nainstalovánu aplikaci <span class="app">Vyladění</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Nainstalovat aplikaci <span class="app">Vyladění</span></a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Nadefinování klávesy Compose</span></h3></div>
 <div class="region"><ol class="steps">
@@ -121,13 +124,13 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Kódy znaků</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Znaky Unikódu můžete zadávat čistě pomocí klávesnice použitím číselného kódu znaku. Každý znak je představován čtyřmístným kódem znaku v šestnáctkové soustavě. Když si chcete tento kód zjistit, najděte si znak v mapě znaků a podívejte se na stavovou lištu nebo na kartu <span class="gui">Informace o znaku</span>. Jde o čtyři znaky (šestnáctkové číslice) za <span class="gui">U+</span>.</p>
-<p class="p">Když chcete zadat znak pomocí jeho kódu, podržte zmáčknuté klávesy <span class="key"><kbd>Ctrl</kbd></span> a <span class="key"><kbd>Shift</kbd></span>, napište <span class="key"><kbd>U</kbd></span> následované čtyřmi znaky kódu a pak <span class="key"><kbd>Ctrl</kbd></span> a <span class="key"><kbd>Shift</kbd></span> pusťte. Pokud často používáte nějaké znaky, které nejsou snadno dostupné jinými metodami, může stát za to, naučit se zpaměti kódy těchto znaků, abyste je mohli rychle zadávat.</p>
+<p class="p">Znaky Unikódu můžete zadávat čistě pomocí klávesnice použitím číselného kódu znaku. Každý znak je představován čtyřmístným kódem znaku v šestnáctkové soustavě. Když si chcete tento kód zjistit, najděte si znak v aplikaci <span class="app">Znaky</span>. Kód tvoří čtyři znaky (šestnáctkové číslice) za <span class="gui">U+</span>.</p>
+<p class="p">Když chcete zadat znak pomocí jeho kódu, zmáčkněte <span class="key"><kbd>Ctrl</kbd></span><span class="key"><kbd>Shift</kbd></span><span class="key"><kbd>U</kbd></span>, následně napište čtyři znaky kódu a pak zmáčkněte <span class="key"><kbd>mezerník</kbd></span> nebo <span class="key"><kbd>Enter</kbd></span>. Pokud často používáte nějaké znaky, které nejsou snadno dostupné jinými metodami, může stát za to, naučit se zpaměti kódy těchto znaků, abyste je mohli rychle zadávat.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Rozložení klávesnice</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Můžete přimět svoji klávesnici, aby se chovala jako klávesnice pro jiný jazyk, než pro který má na klávesách popisky. Mezi různými rozvrženími klávesnice se můžete přepínat pomocí ikony na horní liště. Jak na to viz <span class="link"><a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Použití alternativního rozložení klávesnice</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Můžete přimět svoji klávesnici, aby se chovala jako klávesnice pro jiný jazyk, než pro který má na klávesách popisky. Mezi různými rozvrženími klávesnice se můžete přepínat pomocí ikony na horní liště. Jak na to viz <span class="link"><a href="keyboard-layouts.html.cs" title="Používání alternativního rozložení klávesnice">Používání alternativního rozložení klávesnice</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Vstupní metody</span></h2></div>
@@ -148,7 +151,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.cs" title="Použití alternativního rozložení klávesnice">Použití alternativního rozložení klávesnice</a><span class="desc"> — Přidání rozložení klávesnice a přepnutí mezi nimi.</span>
+<a href="keyboard-layouts.html.cs" title="Používání alternativního rozložení klávesnice">Používání alternativního rozložení klávesnice</a><span class="desc"> — Rozložení klávesnice a jak se mezi nimi přepínat.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -160,7 +163,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

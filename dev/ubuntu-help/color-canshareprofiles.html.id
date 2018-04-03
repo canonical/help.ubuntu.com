@@ -75,18 +75,8 @@
 <div class="region">
 <div class="contents">
 <p class="p">Profil warna yang telah Anda buat sendiri adalah spesifik ke kondisi pencahayaan dan perangkat keras yang Anda kalibrasikan. Suatu tampilan yang telah dinyalakan beberapa ratus jam akan memiliki profil warna yang sangat berbeda dengan tampilan serupa dengan nomor seri selisih satu tapi telah dinyalakan ribuan jam.</p>
-<p class="p">
-    This means if you share your color profile with somebody, you might
-    be getting them <span class="em">closer</span> to calibration, but it’s misleading
-    at best to say that their display is calibrated.
-  </p>
-<p class="p">
-    Similarly, unless everyone has recommended controlled lighting
-    (no sunlight from windows, black walls, daylight bulbs etc.) in a
-    room where viewing and editing images takes place, sharing a profile
-    that you created in your own specific lighting conditions doesn’t make
-    a lot of sense.
-  </p>
+<p class="p">Ini berarti bahwa jika Anda berbagi profil warna Anda dengan seseorang, Anda mungkin membuat mereka <span class="em">lebih dekat</span> ke kalibrasi, tapi itu menyesatkan bila mengatakan bahwa tampilan mereka dikalibrasi.</p>
+<p class="p">Mirip dengan itu, kecuali setiap orang memiliki pencahayaan terkendali yang direkomendasikan (tak ada cahaya matahari dari jendela, dinding hitam, bola lampu cahaya siang, dsb.) dalam suatu ruangan di mana dilakukan penilikan dan penyuntingan gambar, berbagi profil yang Anda buat pada kondisi pencahayaan spesifik Anda sendiri tak ada artinya.</p>
 <div class="note note-warning" title="Peringatan"><div class="inner"><div class="region"><div class="contents"><p class="p">Anda mesti memeriksa dengan hati-hati kondisi distribusi ulang bagi profil yang diunduh dari situs web vendor atau yang dibuat untuk Anda.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -111,7 +101,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

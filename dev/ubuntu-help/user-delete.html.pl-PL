@@ -64,31 +64,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="user-accounts.html.pl-PL" title="Konta użytkowników">Użytkownicy</a> › <a class="trail" href="user-accounts.html.pl-PL#manage" title="Zarządzanie kontami użytkowników">Konta</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="user-accounts.html.pl-PL" title="Konta użytkowników">Użytkownicy</a> › <a class="trail" href="user-accounts.html.pl-PL#manage" title="Zarządzanie kontami użytkowników">Konta</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Usuwanie konta użytkownika</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can <span class="link"><a href="user-add.html.pl-PL" title="Dodawanie nowego konta użytkownika">add multiple user accounts to your
-  computer</a></span>. If somebody is no longer using your computer, you can delete
-  that user’s account.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.pl-PL" title="How do administrative privileges work?">administrator privileges</a></span>
-  to delete user accounts.</p>
+<p class="p">Można <span class="link"><a href="user-add.html.pl-PL" title="Dodawanie nowego konta użytkownika">dodawać wiele kont użytkowników na komputerze</a></span>. Jeśli ktoś nie używa już komputera, to można usunąć jego konto.</p>
+<p class="p">Do usuwania kont użytkowników wymagane są <span class="link"><a href="user-admin-explain.html.pl-PL" title="Jak działają uprawnienia administracyjne?">uprawnienia administratora</a></span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Użytkownicy</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Użytkownicy</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Użytkownicy</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
-<li class="steps"><p class="p">Select the user that you want to delete and press the
-      <span class="gui">-</span> button, below the list of accounts on the
-      left, to delete that user account.</p></li>
-<li class="steps"><p class="p">Each user has their own home folder for their files and settings. You
-      can choose to keep or delete the user’s home folder. Click <span class="gui">Delete
-      Files</span> if you are sure they will not be used anymore and you need to
-      free up disk space. These files are permanently deleted. They cannot be
-      recovered. You may want to back up the files to an external storage device
-      before deleting them.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Odblokuj</span> w górnym prawym rogu i wpisz swoje hasło.</p></li>
+<li class="steps"><p class="p">Zaznacz użytkownika do usunięcia i kliknij przycisk <span class="gui">-</span> pod listą kont po lewej, aby go usunąć.</p></li>
+<li class="steps"><p class="p">Każdy użytkownik ma własny katalog domowy dla swoich plików i ustawień. Można wybrać jego zachowanie lub usunięcie. Kliknij przycisk <span class="gui">Usuń pliki</span>, jeśli ma się pewność, że nie będą one więcej używane i potrzeba zwolnić miejsce na dysku. Zostaną one trwale usunięte. Nie można ich przywrócić. Przed usunięciem można zachować ich kopię na zewnętrznym urządzeniu.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -102,11 +91,10 @@
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-add.html.pl-PL" title="Dodawanie nowego konta użytkownika">Dodawanie nowego konta użytkownika</a><span class="desc"> — Add new users so that other people can log in to the computer.</span>
+<a href="user-add.html.pl-PL" title="Dodawanie nowego konta użytkownika">Dodawanie nowego konta użytkownika</a><span class="desc"> — Dodawanie nowych użytkowników, aby inne osoby mogły logować się do komputera.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html.pl-PL" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html.pl-PL" title="Jak działają uprawnienia administracyjne?">Jak działają uprawnienia administracyjne?</a><span class="desc"> — Do zmiany ważnych części systemu wymagane są uprawnienia administracyjne.</span>
 </li>
 </ul></div>
 </div></div>
@@ -119,7 +107,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

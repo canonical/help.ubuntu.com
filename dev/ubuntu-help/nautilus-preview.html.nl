@@ -64,16 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Voorkeuren voor voorbeelden in bestandsbeheer</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The file manager creates thumbnails to preview image, video, and text
-files. Thumbnail previews can be slow for large files or over networks, so
-you can control when previews are made. Click <span class="gui">Files</span> in the top bar,
-pick <span class="gui">Preferences</span> and select the <span class="gui">Preview</span> tab.</p>
+<p class="p">Bestandsbeheer maakt miniaturen aan om voorbeelden van afbeeldingen, video's, en tekstbestanden  weer te geven. Voor grote bestanden of bestanden op een netwerk kunnen miniaturen traag zijn, dus kunt u bepalen of er voorbeelden worden getoond of niet. Klik in de bovenbalk op <span class="gui">Bestanden</span>, kies <span class="gui">Voorkeuren</span> en daarna het tabblad <span class="gui">Voorbeelden</span>.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Bestanden</span></dt>
 <dd class="terms">
@@ -81,7 +78,7 @@ pick <span class="gui">Preferences</span> and select the <span class="gui">Previ
 <p class="p">Daarnaast kunt u de instelling <span class="gui">Alleen voor bestanden kleiner dan</span> gebruiken om de grootte van de bestanden te beperken waarvan miniaturen worden weergeven.</p>
 </dd>
 <dt class="terms"><span class="gui">Mappen</span></dt>
-<dd class="terms"><p class="p">Als u de bestandsgrootte toont in een <span class="link"><a href="nautilus-list.html.nl" title="Files list columns preferences">kolom in de lijstweergave</a></span> of <span class="link"><a href="nautilus-display.html.nl#icon-captions" title="Pictogrambijschriften">pictogrambijschrift</a></span>, dan zal bij mappen getoond worden hoeveel bestanden en mappen ze hebben. Het tellen van items in een map kan traag zijn, vooral voor hele grote mappen, of in een netwerk. U kunt deze functie in- of uitschakelen, of dit inschakelen alleen voor bestanden op uw computer en lokale externe schijven.</p></dd>
+<dd class="terms"><p class="p">Als u de bestandsgrootte toont in een <span class="link"><a href="nautilus-list.html.nl" title="Bestandsbeheer-voorkeuren: lijstkolommen">kolom in de lijstweergave</a></span> of <span class="link"><a href="nautilus-display.html.nl#icon-captions" title="Pictogrambijschriften">pictogrambijschrift</a></span>, dan zal bij mappen getoond worden hoeveel bestanden en mappen ze hebben. Het tellen van items in een map kan traag zijn, vooral voor hele grote mappen, of in een netwerk. U kunt deze functie in- of uitschakelen, of dit inschakelen alleen voor bestanden op uw computer en lokale externe schijven.</p></dd>
 </dl></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -108,7 +105,7 @@ pick <span class="gui">Preferences</span> and select the <span class="gui">Previ
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

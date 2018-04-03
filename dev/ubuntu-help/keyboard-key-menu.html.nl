@@ -65,34 +65,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wat is de <span class="key"><kbd>Menu</kbd></span>-toets?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The <span class="key"><kbd>Menu</kbd></span> key, also known as the <span class="em">Application</span> key, is a
-  key found on some Windows-oriented keyboards. This key is usually on the
-  bottom-right of the keyboard, next to the <span class="key"><kbd>Ctrl</kbd></span> key, but it can be
-  placed in a different location by keyboard manufacturers. Its is usually
-  depicted as a cursor hovering above a menu:
-  <span class="media"><span class="media media-image"><img src="figures/keyboard-key-menu.svg" class="media media-inline" alt="Menu key icon"></span></span>.</p>
-<p class="p">The primary function of this key is to launch a context menu with the
-  keyboard rather than by clicking the right mouse button: this is useful if
-  mouse or a similar device is not available, or when the right mouse button is
-  not present.</p>
-<p class="p">The <span class="key"><kbd>Menu</kbd></span> key is sometimes omitted in the interest of space,
-  particularly on portable and laptop keyboards. In this case, some keyboards
-  include a <span class="key"><kbd>Menu</kbd></span> function key that can be activated in combination
-  with the Function (<span class="key"><kbd class="key-Fn">Fn</kbd></span>) key.</p>
-<p class="p">The <span class="em">context menu</span> is a menu that pops up when you right-click. The
-  menu that you see, if any, is dependent on the context and function of the
-  area that you right-clicked. When you use the <span class="key"><kbd>Menu</kbd></span> key, the
-  context menu is shown for the area of the screen that your cursor is over at
-  the point when the key is pressed.</p>
+<p class="p">U vindt de <span class="key"><kbd>Menu</kbd></span>-toets, ook bekend als de <span class="em">Toepassingen</span>-toets op sommige Windows-georiënteerde toetsenborden. Deze toets bevindt zich meestal rechtsonder op het toetsenbord, naast de <span class="key"><kbd>Ctrl</kbd></span>-toets, maar hij kan door toetsenbordfabrikanten op een andere locatie zijn geplaatst. Meestal staat er een afbeelding op van een cursor die boven een menu hangt: <span class="media"><span class="media media-image"><img src="figures/keyboard-key-menu.svg" class="media media-inline" alt="Menu key icon"></span></span>.</p>
+<p class="p">De primaire functie van deze toets is het openen van een contextmenu via het toetsenbord in plaats van met een klik met de rechtermuisknop; dit is handig wanneer er geen muis of soortgelijk apparaat beschikbaar is, of wanneer er geen rechtermuisknop aanwezig is.</p>
+<p class="p">Soms wordt de <span class="key"><kbd>Menu</kbd></span>-toets weggelaten omwille van de ruimte, met name op toetsenborden van draagbare en laptopcomputers. In dit geval bevindt zich op sommige toetsenborden een <span class="key"><kbd>Menu</kbd></span>-functietoets die geactiveerd kan worden in combinatie met de functietoets (<span class="key"><kbd class="key-Fn">Fn</kbd></span>).</p>
+<p class="p">Het <span class="em">contextmenu</span> is een menu dat tevoorschijn komt wanneer u met rechts klikt. Het menu dat u ziet, als het er is, is afhankelijk van de context en functie van het gebied waarop u met rechts geklikt heeft. Wanneer u de <span class="key"><kbd>Menu</kbd></span>-toets gebruikt, dan wordt het contextmenu getoond voor het deel van het scherm waar uw cursor boven staat op het moment dat de toets wordt ingedrukt.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -100,11 +85,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.nl" title="Toetsenbord">Toetsenbord</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.nl" title="Alternatieve toetsenbordindelingen gebruiken">Toetsenbordindelingen</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.nl" title="De toetsenbordcursor laten knipperen">knipperen van de cursor</a></span>, <span class="link"><a href="a11y.html.nl#mobility" title="Beperkte mobiliteit">toetsenbordtoegankelijkheid</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -125,7 +106,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

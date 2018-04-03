@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Klicka på <span class="gui">Lägg till</span> och skriv in APT-raden för arkivet. Detta bör finnas tillgängligt från arkivets webbplats, och bör se ut så här:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ artful main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Lägg till källa</span> och stäng sedan fönstret <span class="app">Program &amp; uppdateringar</span>. <span class="app">Programvara för Ubuntu</span> kommer sedan söka igenom dina programkällor efter nya uppdateringar.</p></li>
@@ -95,10 +95,10 @@
 <div id="canonical-partner" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Aktivera förrådet Canonical-partners</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Förrådet Canonical-partners erbjuder vissa proprietära program som inte kostar något att använda men bygger på sluten källkod. Dessa inkluderar program som <span class="app">Skype</span> och <span class="app">Adobe Flash Plugin</span>. Program i det här förrådet visas bland sökresultaten i <span class="app">Programvara för Ubuntu</span> men kommer inte att kunna installeras förrän förrådet är aktiverat.</p>
+<p class="p">Förrådet Canonical-partners erbjuder vissa proprietära program som inte kostar något att använda men bygger på sluten källkod. Dessa inkluderar program som <span class="app">Adobe Flash Plugin</span>. Program i det här förrådet visas bland sökresultaten i <span class="app">Programvara för Ubuntu</span> men kommer inte att kunna installeras förrän förrådet är aktiverat.</p>
 <p class="p">För att aktivera förrådet, följ stegen ovanför för att öppna fliken <span class="gui">Övriga program</span> i <span class="app">Program &amp; uppdateringar</span>. Om du ser förrådet <span class="gui">Canonical Partners</span> i listan, kontrollera att det är förbockat och stäng sedan fönstret <span class="app">Program &amp; uppdateringar</span>. Om du inte ser det, klicka på <span class="gui">Add</span> och mata in:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu artful partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
 <p class="p">Klicka på <span class="gui">Lägg till källa</span> och stäng sedan fönstret <span class="app">Program &amp; uppdateringar</span>. Vänta en stund medan <span class="app">Programvara för Ubuntu</span> laddar ner förrådsinformationen.</p>
 </div></div>
@@ -127,7 +127,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

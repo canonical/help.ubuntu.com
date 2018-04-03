@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I’ve entered the correct password, but I still can’t connect</title>
+<title>Olen kirjoittanut salasanan oikein, mutta yhteydenmuodostus ei onnistu</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,16 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » <a class="trail" href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I’ve entered the correct password, but I still can’t connect</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Olen kirjoittanut salasanan oikein, mutta yhteydenmuodostus ei onnistu</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you’re sure that you entered the correct <span class="link"><a href="net-wireless-wepwpa.html.fi" title="Mitä WEP ja WPA tarkoittavat?">wireless password</a></span> but you still can’t successfully connect to a wireless network, try some of the following:</p>
+<p class="p">Jos olet varma, että kirjoitit <span class="link"><a href="net-wireless-wepwpa.html.fi" title="Mitä WEP ja WPA tarkoittavat?">langattoman verkon salasanan</a></span> oikein, mutta et siltikään pysty yhdistämään langattomaan verkkoon, kokeile jotain seuraavista:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Double-check that you have the correct password</p>
+<p class="p">Varmista, että kirjoittamasi salasana on oikein</p>
 <p class="p">Passwords are case-sensitive (it matters whether they have capital or lower-case letters), so check that you didn’t get the case of one of the letters wrong.</p>
 </li>
 <li class="list">
@@ -85,7 +85,7 @@
 <p class="p">Sometimes wireless cards get stuck or experience a minor problem that means they won’t connect. Try turning the card off and then on again to reset it — see <span class="link"><a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman verkon vianselvitys</a></span> for more information.</p>
 </li>
 <li class="list">
-<p class="p">Check that you’re using the correct type of wireless security</p>
+<p class="p">Varmista, että käytät oikeatyyppistä verkon salaustekniikkaa</p>
 <p class="p">When prompted for your wireless security password, you can choose which type of wireless security to use. Make sure you choose the one that is used by the router or wireless base station. This should be selected by default, but sometimes it will not be for some reason. If you don’t know which one it is, use trial and error to go through the different options.</p>
 </li>
 <li class="list">
@@ -110,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

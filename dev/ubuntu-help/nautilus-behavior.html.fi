@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a> » <a class="trail" href="nautilus-prefs.html.fi" title="Tiedostonhallinnan asetukset">Tiedostonhallinnan asetukset</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="files.html.fi" title="Tiedostot, kansiot ja etsiminen">Tiedostot</a> › <a class="trail" href="files.html.fi#more-file-tasks" title="Lisää tiedostoihin liittyviä tehtäviä">Lisää tiedostoihin liittyviä tehtäviä</a> » <a class="trail" href="nautilus-prefs.html.fi" title="Tiedostonhallinnan asetukset">Tiedostonhallinnan asetukset</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tiedostonhallinnan toiminnan asetukset</span></h1></div>
@@ -93,7 +93,7 @@ executable text files are handled, and the trash behavior. Click
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Run executable text files when they are opened</span></p></li>
 <li class="list"><p class="p"><span class="gui">View executable text files when they are opened</span></p></li>
-<li class="list"><p class="p"><span class="gui">Kysy joka kerta</span>.</p></li>
+<li class="list"><p class="p"><span class="gui">Kysy joka kerta</span></p></li>
 </ul></div></div></div>
 <p class="p">If <span class="gui">Ask each time</span> is selected, a dialog will pop up asking if you
  wish to run or view the selected text file.</p>
@@ -116,7 +116,7 @@ executable text files are handled, and the trash behavior. Click
 <div class="hgroup"><h2 class="title"><span class="title">Roskakori</span></h2></div>
 <div class="region">
 <div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Ask before emptying the Trash</span></dt>
+<dt class="terms"><span class="gui">Kysy ennen roskakorin tyhjennystä</span></dt>
 <dd class="terms"><p class="p">Tämä valinta on oletuksena valittu. Roskakorin tyhjennyksen yhteydessä voit valita roskakorin tyhjennyksen tai tiedostojen poistaminen.</p></dd>
 </dl></div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -146,7 +146,7 @@ executable text files are handled, and the trash behavior. Click
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -74,6 +74,8 @@
 interactive web pages on some websites. While HTML5, which is a more modern solution, is increasingly
 offered, there are still some websites which won't work without Flash.</p>
 <p class="p">V primeru da Flasha nimate nameščenega, boste verjetno videli sporočilo, ki vas bo obvestilo, da ga spletišče potrebuje. Flash je na voljo kot brezplačen (toda ne odprtokoden) prejem za večino spletnih brskalnikov.</p>
+<div class="note note-warning" title="Opozorilo"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe has announced that they will stop updating and distributing the Flash Player at the end
+ of 2020. Consequently, for security reasons, the Flash plug-in should not be used after 2020.</p></div></div></div></div>
 <p class="p">There are two kinds of plug-ins available:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="em">NPAPI</span> for <span class="app">Firefox</span> and other Gecko-based web browsers</p></li>
@@ -84,10 +86,8 @@ offered, there are still some websites which won't work without Flash.</p>
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox. If you chose
- to install certain third-party software when you installed Ubuntu, <span class="app">flashplugin-installer</span> is
- probably installed already. Otherwise you can <span class="link"><a href="https://apps.ubuntu.com/cat/applications/flashplugin-installer" title="https://apps.ubuntu.com/cat/applications/flashplugin-installer">install it</a></span>
- and restart your browser.</p></div></div>
+<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox.
+ <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Install the package</a></span> and restart your browser.</p></div></div>
 </div></div>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>
@@ -96,8 +96,8 @@ offered, there are still some websites which won't work without Flash.</p>
  Flash for both Firefox and Chromium like web browsers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Prepričajte se, da je <span class="link"><a href="addremove-sources.html.sl#canonical-partner" title="Omogočitev skladišča partnerjev Canonicala">skladišče Canonical Partner dejavno</a></span>.</p></li>
-<li class="steps"><p class="p">Namestite paket <span class="link"><a href="https://apps.ubuntu.com/cat/applications/adobe-flashplugin" title="https://apps.ubuntu.com/cat/applications/adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">Namestite paket <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
+<li class="steps"><p class="p">Ponovno zaženite brskalnik.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -115,7 +115,7 @@ offered, there are still some websites which won't work without Flash.</p>
    install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package:</p>
 <p class="p"><span class="cmd">sudo apt install browser-plugin-freshplayer-pepperflash</span></p>
 </li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">Ponovno zaženite brskalnik.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -138,7 +138,7 @@ offered, there are still some websites which won't work without Flash.</p>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

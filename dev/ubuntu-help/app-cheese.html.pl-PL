@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Tworzenie śmiesznych zdjęć i filmów za pomocą kamery internetowej</title>
+<title>Robienie zabawnych zdjęć i filmów za pomocą kamery internetowej</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,20 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html.pl-PL#videos" title="Filmy i kamery">Filmy</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="media.html.pl-PL" title="Dźwięk, filmy i zdjęcia">Dźwięk, filmy i zdjęcia</a> › <a class="trail" href="media.html.pl-PL#videos" title="Filmy i kamery">Filmy</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Tworzenie śmiesznych zdjęć i filmów za pomocą kamery internetowej</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Robienie zabawnych zdjęć i filmów za pomocą kamery internetowej</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    With the <span class="app">Cheese</span> application and your webcam, you can take photos 
-    and videos, apply fun special effects and share the fun with others.
-  </p>
-<p class="p">
-    For help with using Cheese, read the <span class="link"><a href="https://help.gnome.org/users/cheese/stable/" title="https://help.gnome.org/users/cheese/stable/">Cheese user 
-    guide</a></span>.
-  </p>
+<p class="p">Za pomocą programu <span class="app">Cheese</span> i kamery internetowej można robić zdjęcia i nagrywać filmy, nakładać zabawne efekty specjalne i dzielić się zabawą z innymi.</p>
+<p class="p"><span class="link"><a href="https://help.gnome.org/users/cheese/stable/" title="https://help.gnome.org/users/cheese/stable/">Podręcznik programu Cheese</a></span> zawiera więcej informacji o jego używaniu.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -93,7 +87,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

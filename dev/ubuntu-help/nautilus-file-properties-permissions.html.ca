@@ -73,11 +73,11 @@
 <p class="p">You can use file permissions to control who can view and edit files that
   you own. To view and set the permissions for a file, right click it and
   select <span class="gui">Properties</span>, then select the <span class="gui">Permissions</span> tab.</p>
-<p class="p">See <span class="link"><a href="#files" title="Files">Files</a></span> and <span class="link"><a href="#folders" title="Folders">Folders</a></span> below for details
+<p class="p">See <span class="link"><a href="#files" title="Fitxers">Fitxers</a></span> and <span class="link"><a href="#folders" title="Folders">Folders</a></span> below for details
   on the types of permissions you can set.</p>
 </div>
 <div id="files" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Files</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Fitxers</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">You can set the permissions for the file owner, the group owner,
     and all other users of the system. For your files, you are the owner,
@@ -95,7 +95,7 @@
 <p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
     executing file as program</span> to run it. Even with this option selected,
     the file manager may still open the file in an application or ask you
-    what to do. See <span class="link"><a href="nautilus-behavior.html.ca#executable" title="Executable text files">Executable text files</a></span> for more
+    what to do. See <span class="link"><a href="nautilus-behavior.html.ca#executable" title="Fitxer de text executable">Fitxer de text executable</a></span> for more
     information.</p>
 </div></div>
 </div></div>
@@ -152,7 +152,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

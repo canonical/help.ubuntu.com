@@ -64,20 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Netwerkproblemen</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html.nl" title="Andere gebruikers kunnen de netwerkverbindingen niet bewerken"><span class="title">Andere gebruikers kunnen de netwerkverbindingen niet bewerken</span><span class="linkdiv-dash"> — </span><span class="desc">U moet het vinkje bij de optie <span class="gui">Beschikbaar voor alle gebruikers</span> in de netwerkverbindingsinstellingen weghalen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html.nl" title="Andere gebruikers kunnen geen verbinding maken met het internet"><span class="title">Andere gebruikers kunnen geen verbinding maken met het internet</span><span class="linkdiv-dash"> — </span><span class="desc">U kunt instellingen (zoals het wachtwoord) voor een netwerkverbinding opslaan, zodat iedereen die de computer gebruikt er verbinding mee kan maken.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-slow.html.nl" title="De internetverbinding lijkt traag"><span class="title">De internetverbinding lijkt traag</span><span class="linkdiv-dash"> — </span><span class="desc">Misschien worden er andere dingen gedownload, u heeft mogelijk een slechte verbinding, of het kan aan het tijdstip liggen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.nl" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
-    connect to a hidden network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-othersconnect.html.nl" title="Other users can’t connect to the internet"><span class="title">Other users can’t connect to the internet</span><span class="linkdiv-dash"> — </span><span class="desc">U kunt instellingen (zoals het wachtwoord) voor een netwerkverbinding opslaan, zodat iedereen die de computer gebruikt er verbinding mee kan maken.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-othersedit.html.nl" title="Other users can’t edit the network connections"><span class="title">Other users can’t edit the network connections</span><span class="linkdiv-dash"> — </span><span class="desc">U moet het vinkje bij de optie <span class="gui">Beschikbaar voor alle gebruikers</span> in de netwerkverbindingsinstellingen weghalen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.nl" title="Ik zie mijn draadloos netwerk niet in de lijst"><span class="title">Ik zie mijn draadloos netwerk niet in de lijst</span><span class="linkdiv-dash"> — </span><span class="desc">Het draadloos-apparaat kan uitgeschakeld of stuk zijn, of misschien probeert u te verbinden met een verborgen netwerk.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?"><span class="title">Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?</span><span class="linkdiv-dash"> — </span><span class="desc">Het kan zijn dat het signaal zwak is, of het netwerk laat u niet op de juiste manier verbinding maken.</span></a></div>
 </div>
 </div></div></div></div>
@@ -87,23 +86,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.nl" title="Bekabeld netwerk">wired</a></span>,
-      <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.nl" title="Webbrowsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">email accounts</a></span>…
-    </span>
+<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — <span class="link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos</a></span>, <span class="link"><a href="net-wired.html.nl" title="Bekabeld netwerk">bekabeld</a></span>, <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">verbindingsproblemen</a></span>, <span class="link"><a href="net-browser.html.nl" title="Webbrowsers">webbrowsen</a></span>, <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">e-mailaccounts</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -115,7 +104,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

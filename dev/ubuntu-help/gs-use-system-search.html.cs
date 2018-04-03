@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="getting-started.html.cs" title="Začínáme">Začínáme s GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -75,7 +75,7 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Otevřete <span class="gui">Přehled činností</span> zmáčknutím klávesy <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> a začněte hledat tím, že začnete psát.</p>
+<p class="p">Otevřete přehled <span class="gui">Činností</span> kliknutím na <span class="gui">Činnosti</span> v levém horním rohu obrazovky, nebo zmáčknutím klávesy <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>, a začněte hledat tím, že začnete psát.</p>
 <p class="p">Výsledky vyhovující tomu, co jste napsali, se budou objevovat průběžně. První výsledek je vždy zvýrazněný a zobrazený nahoře.</p>
 <p class="p">Zmáčknutím <span class="key"><kbd>Enter</kbd></span> se na tento první zvýrazněný výsledek přepnete.</p>
 </li></ol></div></div></div>
@@ -85,9 +85,15 @@
 <p class="p">Mezi položky, které se mohou objevit ve výsledcích hledání patří:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">vyhovující aplikace (zobrazí se ve výsledcích jako první)</p></li>
-<li class="list"><p class="p">vyhovující nastavení</p></li>
-<li class="list"><p class="p">vyhovující kontakty</p></li>
-<li class="list"><p class="p">vyhovující dokumenty</p></li>
+<li class="list"><p class="p">vyhovující nastavení,</p></li>
+<li class="list"><p class="p">vyhovující kontakty,</p></li>
+<li class="list"><p class="p">vyhovující dokumenty,</p></li>
+<li class="list"><p class="p">vyhovující kalendáře,</p></li>
+<li class="list"><p class="p">vyhovující výpočty na kalkulačce,</p></li>
+<li class="list"><p class="p">vyhovující software,</p></li>
+<li class="list"><p class="p">vyhovující soubory,</p></li>
+<li class="list"><p class="p">vyhovující terminály,</p></li>
+<li class="list"><p class="p">vyhovující hesla a klíče.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -110,7 +116,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klikněte na <span class="gui"><a href="shell-introduction.html.cs#yourname" title="Vy a váš počítač">systémovou nabídku</a></span> v pravé části horní lišty.</p></li>
 <li class="steps"><p class="p">Klikněte na tlačítko nastavení v levé dolní části nabídky.</p></li>
-<li class="steps"><p class="p">Klikněte na panel <span class="gui">Hledání</span>.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui">Hledání</span> v panelu vlevo.</p></li>
 <li class="steps"><p class="p">V seznamu prohledávaných míst klikněte na přepínač <span class="gui">❙/○</span> vedle prohledávaného místa, které chcete povolit či zakázat.</p></li>
 </ol></div>
 </div></div>
@@ -143,7 +149,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

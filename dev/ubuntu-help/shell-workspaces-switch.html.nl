@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-workspaces" title="Werken met werkbladen">Werkbladen</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-workspaces" title="Werken met werkbladen">Werkbladen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wisselen tussen werkbladen</span></h1></div>
@@ -74,20 +74,14 @@
 <div class="title title-steps"><h2><span class="title">Met de muis:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht.</p></li>
-<li class="steps"><p class="p">Click on a workspace in the <span class="link"><a href="shell-workspaces.html.nl" title="Wat is een werkblad en hoe kan ik het gebruiken?">workspace
-  selector</a></span> on the right side of the screen to view the open windows on
-  that workspace.</p></li>
-<li class="steps"><p class="p">Click on any window thumbnail to activate the workspace.</p></li>
+<li class="steps"><p class="p">Klik op een werkruimte in de <span class="link"><a href="shell-workspaces.html.nl" title="Wat is een werkblad en hoe kan ik het gebruiken?">werkruimtekiezer</a></span> aan de rechterkant van het scherm om de geopende vensters in die werkruimte te bekijken.</p></li>
+<li class="steps"><p class="p">Klik op een vensterminiatuur om de werkruimte te activeren.</p></li>
 </ol></div>
 </div></div>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Via het toetsenbord:</span></h2></div>
 <div class="region"><ul class="list">
-<li class="list"><p class="p">Press
-    <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>
-    or <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> to move to
-    the workspace shown above the current workspace in the workspace selector.
-    </p></li>
+<li class="list"><p class="p">Druk op <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> of  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> om naar het werkblad boven het huidige werkblad in de werkbladselector te gaan.</p></li>
 <li class="list"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
     <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span> to move to the
     workspace shown below the current workspace in the workspace selector.</p></li>
@@ -116,7 +110,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

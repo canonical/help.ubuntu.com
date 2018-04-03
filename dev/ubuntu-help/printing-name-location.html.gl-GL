@@ -79,13 +79,13 @@
 <div class="region"><div class="contents">
 <p class="p">Se quere cambiar o nome dunha impresora, siga os seguintes pasos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Impresoras</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Prema o botón <span class="gui">Desbloquear</span> na esquina inferior esquerda e insira un contrasinal.</p></li>
 <li class="steps"><p class="p">Click the name of your printer, and start typing a new name for
       the printer.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to save your changes.</p></li>
+<li class="steps"><p class="p">Prema <span class="key"><kbd>Intro</kbd></span> para gardar os cambios.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -94,11 +94,11 @@
 <div class="region"><div class="contents">
 <p class="p">Para cambiar a localización da súa impresora:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Activities overview">Activities</a></span> overview and
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Impresoras</span> para abrir o panel.</p></li>
 <li class="steps"><p class="p">Prema o botón <span class="gui">Desbloquear</span> na esquina inferior esquerda e insira un contrasinal.</p></li>
-<li class="steps"><p class="p">Click the location, and start editing the location.</p></li>
+<li class="steps"><p class="p">Ao premer na localización comece a edición da mesma.</p></li>
 <li class="steps"><p class="p">Prema <span class="key"><kbd>Intro</kbd></span> para gardar os cambios.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -126,7 +126,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

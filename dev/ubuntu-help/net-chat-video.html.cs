@@ -64,23 +64,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Videotelefonování</span></h1></div>
 <div class="region">
-<div class="contents">
-<p class="p">Komunikovat pomocí videohovorů můžete v Ubuntu i bez potřeby instalovat jakýkoli dodatečný software. <span class="app">Empathy</span> umožňuje videohovory přes sítě <span class="em">Google Talk</span>, <span class="em">MSN </span>, <span class="em">Jabber </span> a <span class="em">SIP</span>. Pro více informací o možnostech použití <span class="app">Empathy</span> pro videotelefonování navštivte <span class="link"><a href="https://help.gnome.org/users/empathy/stable/audio-video" title="https://help.gnome.org/users/empathy/stable/audio-video">Manuál Empathy</a></span>.</p>
-<div class="list"><div class="inner">
-<div class="title title-list"><h2><span class="title">Ostatní aplikace s podporou video hovorů</span></h2></div>
+<div class="contents"><div class="list"><div class="inner">
+<div class="title title-list"><h2><span class="title">Applications which support video calls include</span></h2></div>
 <div class="region"><ul class="list" style="list-style-type:disc">
 <li class="list"><p class="p">
-      <span class="app"><span class="link"><a href="https://apps.ubuntu.com/cat/applications/skype" title="https://apps.ubuntu.com/cat/applications/skype">Skype</a></span></span>
+      <span class="app"><span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Empathy</a></span></span>
     </p></li>
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="https://apps.ubuntu.com/cat/applications/ekiga" title="https://apps.ubuntu.com/cat/applications/ekiga">Ekiga</a></span></span></p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">Skype</a></span></span>
+    </p></li>
+<li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Ekiga</a></span></span></p></li>
 </ul></div>
-</div></div>
-</div>
+</div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
@@ -114,7 +114,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

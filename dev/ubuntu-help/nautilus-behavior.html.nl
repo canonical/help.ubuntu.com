@@ -64,14 +64,12 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » <a class="trail" href="nautilus-prefs.html.nl" title="Bestandsbeheer-voorkeuren">Bestandsbeheer-voorkeuren</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Gedragsvoorkeuren bestandsbeheer</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can control whether you single-click or double-click files, how
-executable text files are handled, and the trash behavior. Click
-<span class="gui">Files</span> in the top bar, pick <span class="gui">Preferences</span> and select the <span class="gui">Behavior</span> tab.</p></div>
+<div class="contents"><p class="p">U kunt instellen of u bestanden opent door er één keer of dubbel op te klikken, hoe uitvoerbare tekstbestanden worden behandeld, en het gedrag van de prullenbak. Klik in de bovenbalk op  <span class="gui">Bestanden</span>, kies <span class="gui">Voorkeuren</span> en ga naar het tabblad <span class="gui">Gedrag</span>.</p></div>
 <div id="behavior" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Gedrag</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
@@ -91,11 +89,7 @@ executable text files are handled, and the trash behavior. Click
 <li class="list"><p class="p"><span class="gui">Vraag iedere keer</span></p></li>
 </ul></div></div></div>
 <p class="p">Als <span class="gui">Vraag iedere keer</span> is geselecteerd, zal er een dialoogvenster worden weergegeven waarin u kunt aangeven of u het tekstbestand wil weergeven of uitvoeren.</p>
-<p class="p">Executable text files are also called <span class="em">scripts</span>. All scripts in the
- <span class="file">~/.local/share/nautilus/scripts</span> folder will appear in the context
- menu for a file under the <span class="gui">Scripts</span> submenu. When a
- script is executed from a local folder, all selected files will be pasted to
- the script as parameters. To execute a script on a file:</p>
+<p class="p">Uitvoerbare tekstbestanden worden ook wel scripts genoemd. Alle scripts in de map <span class="file">~/.local/share/nautilus/scripts</span> worden in het contextmenu van een bestand onder het <span class="gui">Scripts</span> submenu weergegeven. Zodra een script vanuit een lokale map wordt uitgevoerd, zullen alle geselecteerde bestanden als parameters aan het script worden doorgegeven. Om een script op een bestand uit te voeren:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Blader naar de gewenste map.</p></li>
 <li class="steps"><p class="p">Kies het gewenste bestand.</p></li>
@@ -108,7 +102,7 @@ executable text files are handled, and the trash behavior. Click
 <div class="hgroup"><h2 class="title"><span class="title">Prullenbak</span></h2></div>
 <div class="region">
 <div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Ask before emptying the Trash</span></dt>
+<dt class="terms"><span class="gui">Bevestiging vragen bij het legen van de prullenbak</span></dt>
 <dd class="terms"><p class="p">Deze optie is standaard geselecteerd. Bij het legen van de prullenbak zal een bericht worden weergegeven om te vragen of u zeker weet dat u de prullenbak wilt legen of bestanden wilt verwijderen.</p></dd>
 </dl></div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -138,7 +132,7 @@ executable text files are handled, and the trash behavior. Click
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

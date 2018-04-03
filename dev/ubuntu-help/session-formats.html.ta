@@ -91,6 +91,10 @@
   various examples of how dates and other values are shown. Although not shown
   in the examples, your region also controls the starting day of the week in
   calendars.</p>
+<div class="note note-tip" title="துணுக்கு"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
+    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
+    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
+    the two instances.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -98,7 +102,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.ta" title="பகுதி &amp; மொழி">பகுதி &amp; மொழி</a><span class="desc"> — <span class="link"><a href="session-language.html.ta" title="பயன்படுத்த வேண்டிய மொழியை மாற்றுதல்">மொழி</a></span>, <span class="link"><a href="session-formats.html.ta" title="தேதி மற்றும் அளவீட்டு வடிவமைப்புகளை மாற்றுதல்">பகுதி மற்றும் வடிவமைப்புகள்</a></span>, <span class="link"><a href="keyboard-layouts.html.ta" title="Use alternative keyboard layouts">விசைப்பலகை லேயவுட்டுகள்</a></span>…</span>
+<a href="prefs-language.html.ta" title="பகுதி &amp; மொழி">பகுதி &amp; மொழி</a><span class="desc"> — <span class="link"><a href="session-language.html.ta" title="பயன்படுத்த வேண்டிய மொழியை மாற்றுதல்">மொழி</a></span>, <span class="link"><a href="session-formats.html.ta" title="தேதி மற்றும் அளவீட்டு வடிவமைப்புகளை மாற்றுதல்">பகுதி மற்றும் வடிவமைப்புகள்</a></span>, <span class="link"><a href="keyboard-layouts.html.ta" title="மாற்று விசைப்பலகை லேயவுட்டுகளைப் பயன்படுத்துதல்">விசைப்பலகை லேயவுட்டுகள்</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -116,7 +120,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

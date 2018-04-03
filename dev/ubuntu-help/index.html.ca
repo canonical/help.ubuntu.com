@@ -77,9 +77,9 @@
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="shell-overview.html.ca" title="Your desktop">Your desktop</a></div>
+<div class="links-grid-link"><a href="shell-overview.html.ca" title="El vostre escriptori">El vostre escriptori</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="clock-calendar.html.ca" title="Calendar appointments">Calendar</a></span>,
+      <span class="link"><a href="clock-calendar.html.ca" title="Cites de calendari">Calendar</a></span>,
       <span class="link"><a href="shell-notifications.html.ca" title="Notifications and the message tray">notifications</a></span>,
       <span class="link"><a href="shell-keyboard-shortcuts.html.ca" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
       <span class="link"><a href="shell-windows.html.ca" title="Windows and workspaces">windows and workspaces</a></span>…
@@ -96,19 +96,19 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="media.html.ca" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a></div>
+<div class="links-grid-link"><a href="media.html.ca" title="So, vídeo &amp; imatges">So, vídeo &amp; imatges</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="media.html.ca#photos" title="Photos and digital cameras">Digital cameras</a></span>,
+      <span class="link"><a href="media.html.ca#photos" title="Fotos i càmeres digitals">Digital cameras</a></span>,
       <span class="link"><a href="media.html.ca#music" title="Music and portable audio players">iPods</a></span>,
-      <span class="link"><a href="media.html.ca#photos" title="Photos and digital cameras">editing photos</a></span>,
-      <span class="link"><a href="media.html.ca#videos" title="Videos and video cameras">playing videos</a></span>…
+      <span class="link"><a href="media.html.ca#photos" title="Fotos i càmeres digitals">editing photos</a></span>,
+      <span class="link"><a href="media.html.ca#videos" title="Vídeos i càmeres de vídeo">playing videos</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="files.html.ca" title="Files, folders &amp; search">Files, folders &amp; search</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="files-search.html.ca" title="Search for files">Searching</a></span>,
-      <span class="link"><a href="files-delete.html.ca" title="Delete files and folders">delete files</a></span>,
+      <span class="link"><a href="files-search.html.ca" title="Cerca fitxers">Searching</a></span>,
+      <span class="link"><a href="files-delete.html.ca" title="Eliminar fitxers i carpetes.">delete files</a></span>,
       <span class="link"><a href="files.html.ca#backup" title="Backing up">backups</a></span>,
       <span class="link"><a href="files.html.ca#removable" title="Removable drives and external disks">removable drives</a></span>…
     </span></div>
@@ -124,8 +124,8 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs.html.ca" title="User &amp; system settings">User &amp; system settings</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard.html.ca" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.ca" title="Mouse">mouse</a></span>,
+      <span class="link"><a href="keyboard.html.ca" title="Teclat">Keyboard</a></span>,
+      <span class="link"><a href="mouse.html.ca" title="Ratolí">mouse</a></span>,
       <span class="link"><a href="prefs-display.html.ca" title="Display &amp; screen">display</a></span>,
       <span class="link"><a href="prefs-language.html.ca" title="Region &amp; Language">languages</a></span>,
       <span class="link"><a href="user-accounts.html.ca" title="User accounts">user accounts</a></span>…
@@ -134,21 +134,21 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware.html.ca" title="Maquinari i controladors">Maquinari i controladors</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="hardware.html.ca#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.ca" title="Printing">printers</a></span>,
+      <span class="link"><a href="hardware.html.ca#problems" title="Problemes comuns">Hardware problems</a></span>,
+      <span class="link"><a href="printing.html.ca" title="Imprimint">printers</a></span>,
       <span class="link"><a href="power.html.ca" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.ca" title="Color management">color management</a></span>,
+      <span class="link"><a href="color.html.ca" title="Gestió dels colors">color management</a></span>,
       <span class="link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></span>,
       <span class="link"><a href="disk.html.ca" title="Discs i emmagatzematge">disks</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="a11y.html.ca" title="Accés universal">Accés universal</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.ca#vision" title="Discapacitats visuals">Visió</a></span>, <span class="link"><a href="a11y.html.ca#sound" title="Discapacitats auditives">audició</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">mobilitat</a></span>, <span class="link"><a href="a11y-braille.html.ca" title="Llegir la pantalla en Braille">braille</a></span>, <span class="link"><a href="a11y-mag.html.ca" title="Magnify a screen area">ampliador de pantalla</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.ca#vision" title="Discapacitats visuals">Visió</a></span>, <span class="link"><a href="a11y.html.ca#sound" title="Discapacitats auditives">audició</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">mobilitat</a></span>, <span class="link"><a href="a11y-braille.html.ca" title="Llegir la pantalla en Braille">braille</a></span>, <span class="link"><a href="a11y-mag.html.ca" title="Amplia una àrea de la pantalla">ampliador de pantalla</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="tips.html.ca" title="Tips &amp; tricks">Tips &amp; tricks</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.ca" title="Enter special characters">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.ca" title="Middle-click">middle click shortcuts</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.ca" title="Enter special characters">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.ca" title="Clic al mig">middle click shortcuts</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="more-help.html.ca" title="Obteniu més ajuda">Obteniu més ajuda</a></div>
@@ -165,7 +165,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

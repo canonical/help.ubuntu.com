@@ -85,8 +85,8 @@
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Знакови</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Још један користан програм који се испоручује са Гномом је <span class="app">Знакови</span>. Омогућава вам да нађете и да уметнете необичне знакове тако што ћете разгледати категорије знакова или потражити кључним речима.</p>
-<p class="p">Овај програм можете да покренете из прегледа активности. За више података о овом програму, погледајте <span class="link"><a href="help:gnome-characters" title="help:gnome-characters">Упутство за знакове</a></span>.</p>
+<p class="p">Гном долази са програмом таблице знакова који вам омогућава вам да нађете и да уметнете необичне знакове, укључујући и емоџије, тако што ћете разгледати категорије знакова или потражити кључним речима.</p>
+<p class="p">Можете покренути програм <span class="app">Знакови</span> из прегледа Активности.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
@@ -94,17 +94,20 @@
 <div class="region"><div class="contents">
 <p class="p">Саставни тастер је посебан тастер који вам омогућава да притиснете више тастера у низу да бисте добили посебан знак. На пример, да упишете е са нагласком (<span class="em">é</span>), можете да притиснете <span class="key"><kbd>саставни</kbd></span> затим <span class="key"><kbd>'</kbd></span> затим <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Тастатуре немају посебне саставне тастере. Уместо тога, можете да одредите један од постојећих тастера на вашој тастатури као саставни тастер.</p>
-<div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents"><p class="p">Треба да сте инсталирали програм <span class="app">Алат за лицкање</span> на вашем рачунару да бисте могли да измените ово подешавање.</p></div></div></div></div>
+<div class="note note-important" title="Важно"><div class="inner"><div class="region"><div class="contents">
+<p class="p">Требало би да сте инсталирали програм <span class="app">Алат за лицкање</span> на вашем рачунару да бисте могли да измените ово подешавање.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Инсталирајте <span class="app">Алат за лицкање</span></a></span></p>
+</div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Одредите саставни тастер</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Алат за лицкање</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Алат за лицкање</span> да га отворите.</p></li>
 <li class="steps"><p class="p">Кликните на језичак <span class="gui">Тастатура и миш</span>.</p></li>
-<li class="steps"><p class="p">Кликните на <span class="gui">Искључено</span> поред подешавања <span class="gui">Саставног тастера</span>.</p></li>
-<li class="steps"><p class="p">Укључите прекидач у прозорчету и изаберите пречицу на тастатури коју желите да користите.</p></li>
-<li class="steps"><p class="p">Означите кућицу тастера који желите да подесите као саставни тастер.</p></li>
-<li class="steps"><p class="p">Close the dialog.</p></li>
+<li class="steps"><p class="p">Кликните <span class="gui">Искључи</span> поред подешавања <span class="gui">Саставни тастер</span>.</p></li>
+<li class="steps"><p class="p">У прозорчету пребаците прекидач на укључено и изаберите пречицу тастатуре коју желите да користите.</p></li>
+<li class="steps"><p class="p">Штиклирајте квадратић тастера који желите да поставите као „Саставни тастер“.</p></li>
+<li class="steps"><p class="p">Затворите прозорче.</p></li>
 <li class="steps"><p class="p">Затворите прозор <span class="gui">Алата за лицкање</span>.</p></li>
 </ol></div>
 </div></div>
@@ -121,13 +124,13 @@
 <div id="ctrlshiftu" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Кодни приказ</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Можете да унесете било који знак Уникода користећи само вашу тастатуру са бројевним кодним приказом знака. Сваки знак је одређен четворозначним кодним приказом. Да пронађете кодни приказ неког знака, пронађите знак у таблици знакова и погледајте на траку стања или у језичку <span class="gui">Детаљи о знаку</span>. Кодни приказ јесу четири знака након <span class="gui">U+</span>.</p>
-<p class="p">Да унесете знак његовим кодним приказом, држите притиснутим <span class="key"><kbd>Ктрл</kbd></span> и <span class="key"><kbd>Шифт</kbd></span>, укуцајте <span class="key"><kbd>U</kbd></span> и за њим кодни приказ у виду четири знака, затим отпустите <span class="key"><kbd>Ктрл</kbd></span> и <span class="key"><kbd>Шифт</kbd></span>. Ако често користите знаке којима можете да приступите на друге начине, можете увидети да је корисно да меморишете кодни приказ тих знакова тако да их можете унети на брзину.</p>
+<p class="p">Можете да унесете било који знак Уникода користећи само вашу тастатуру са бројевним кодним приказом знака. Сваки знак је одређен четворозначним кодним приказом. Да пронађете кодни приказ неког знака, пронађите знак у програму <span class="app">Знакови</span>. Кодни приказ јесу четири знака након <span class="gui">U+</span>.</p>
+<p class="p">Да унесете знак његовим кодним приказом, притисните <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Шифт</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, затим укуцајте кодни приказ у виду четири знака и притисните <span class="key"><kbd>Размак</kbd></span> или <span class="key"><kbd>Унеси</kbd></span>. Ако често користите знаке којима можете да приступите на друге начине, можете увидети да је корисно да меморишете кодни приказ тих знакова тако да их можете унети на брзину.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Распореди тастатуре</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Можете да учините да се ваша тастатура понаша као тастатура неког другог језика, без обзира која су слова одштампана на тастерима. Можете чак и брзо да се пребацујете између различитих распореда тастатуре користећи иконицу на горњој траци. Да сазнате како, погледајте <span class="link"><a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Можете да учините да се ваша тастатура понаша као тастатура неког другог језика, без обзира која су слова одштампана на тастерима. Можете чак и брзо да се пребацујете између различитих распореда тастатуре користећи иконицу на горњој траци. Да сазнате како, погледајте <span class="link"><a href="keyboard-layouts.html.sr" title="Користите другачије распореде тастатуре">Користите другачије распореде тастатуре</a></span>.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Начини уноса</span></h2></div>
@@ -148,7 +151,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.sr" title="Use alternative keyboard layouts">Use alternative keyboard layouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.sr" title="Користите другачије распореде тастатуре">Користите другачије распореде тастатуре</a><span class="desc"> — Додајте распореде тастатуре и пребацујте се између њих.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -160,7 +163,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

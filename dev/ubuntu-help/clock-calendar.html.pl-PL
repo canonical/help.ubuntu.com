@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#desktop" title="Dostosowywanie pulpitu">Dostosowywanie pulpitu</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="shell-overview.html.pl-PL" title="Pulpit użytkownika">Pulpit</a> › <a class="trail" href="shell-overview.html.pl-PL#desktop" title="Dostosowywanie pulpitu">Dostosowywanie pulpitu</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="clock.html.pl-PL" title="Data i czas">Data i czas</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="clock.html.pl-PL" title="Data i czas">Data i czas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -75,22 +75,16 @@
 <div class="region">
 <div class="contents">
 <div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents">
-<p class="p">This requires you to use your <span class="app">Evolution</span> calendar or for you
-    to have an online account set up which <span class="gui">Calendar</span> supports.</p>
-<p class="p">Most distributions come with <span class="app">Evolution</span> installed by default.
-    If yours does not, you may need to install it using your distribution’s
-    package manager.</p>
+<p class="p">Wymaga to użycia kalendarza <span class="app">Evolution</span> lub ustawienia konta online obsługiwanego przez <span class="gui">Kalendarz</span>.</p>
+<p class="p">Większość dystrybucji domyślnie ma zainstalowany program <span class="app">Evolution</span>. Jeśli używana dystrybucja go nie ma, to należy go zainstalować za pomocą menedżera pakietów.</p>
 </div></div></div></div>
 <p class="p">Aby wyświetlić spotkania:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Kliknij zegar na górnym pasku.</p></li>
 <li class="steps">
-<p class="p">Click the date for which you want to see your appointments from the
-      calendar.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">A dot is shown under each date that has an appointment.</p></div></div></div></div>
-<p class="p">Existing appointments will be displayed to the left of the calendar.
-      As appointments are added to your <span class="app">Evolution</span> calendar, they
-      will appear in the clock’s appointment list.</p>
+<p class="p">Kliknij datę, dla której wyświetlić spotkania z kalendarza.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Mała kropka jest wyświetlana pod datami, które mają spotkania.</p></div></div></div></div>
+<p class="p">Istniejące spotkania są wyświetlane na lewo od kalendarza. Spotkania dodane w kalendarzu <span class="app">Evolution</span> będą wyświetlane na liście spotkań zegara.</p>
 </li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="figures/shell-appts.png" width="500" class="media media-block" alt="Zegar, kalendarz i spotkania"></div></div>
@@ -114,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

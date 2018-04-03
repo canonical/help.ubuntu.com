@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Prullenbak legen &amp; tijdelijke bestanden definitief verwijderen</title>
+<title>Purge trash &amp; temporary files</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,42 +65,29 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Prullenbak legen &amp; tijdelijke bestanden definitief verwijderen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Purge trash &amp; temporary files</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Clearing out your trash and temporary files removes
-  unwanted and unneeded files from your computer, and also frees up more
-  space on your hard drive. You can manually empty your trash and clear
-  your temporary files, but you can also set your computer to automatically
-  do this for you.</p>
-<p class="p">Temporary files are files created automatically by applications in the
-  background. They can increase performance by providing a copy of data that
-  was downloaded or computed.</p>
+<p class="p">Het verwijderen van bestanden in de prullenbak en tijdelijke bestanden zorgt ervoor dat ongewenste en onnodige bestanden van uw computer verwijderd worden, en ook dat er meer schijfruimte op uw harde schijf wordt vrijgemaakt. U kunt handmatig uw prullenbak legen en tijdelijke bestanden verwijderen, maar u kunt dit ook automatisch door uw computer laten doen.</p>
+<p class="p">Tijdelijke bestanden zijn bestanden die automatisch op de achtergrond aangemaakt worden door toepassingen. Ze kunnen de prestatie verbeteren door te voorzien in een kopie van gegevens die gedownload of berekend zijn.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Automatically empty your trash and clear temporary files</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Automatisch uw prullenbak legen en tijdelijke bestanden verwijderen</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
-      start typing <span class="gui">Privacy</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Purge Trash &amp; Temporary Files</span>.</p></li>
-<li class="steps"><p class="p">Set one or both of the <span class="gui">Automatically empty Trash</span> or
-      <span class="gui">Automatically purge Temporary Files</span> switches to
-      <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Set how often you would like your <span class="em">Trash</span>  and
-      <span class="em">Temporary Files</span> to be purged by changing the
-      <span class="gui">Purge After</span> value.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Empty Trash</span> or <span class="gui">Purge Temporary Files</span>
-      buttons to perform these actions immediately.</p></li>
+<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Privacy</span>.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Privacy</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Kies <span class="gui">Prullenbak &amp; tijdelijke bestanden verwijderen</span>.</p></li>
+<li class="steps"><p class="p">Zet <span class="gui">Automatisch prullenbak legen</span> en/of <span class="gui">Automatisch tijdelijke bestanden verwijderen</span> op <span class="gui">AAN</span>.</p></li>
+<li class="steps"><p class="p">Instellen hoe vaak u wilt dat uw <span class="em">Prullenbak</span> en <span class="em">Tijdelijke bestanden</span> worden gewist door de waarde <span class="gui">Verwijderen na</span> te wijzigen.</p></li>
+<li class="steps"><p class="p">Gebruik de knoppen <span class="gui">Prullenbak legen</span> of <span class="gui">Tijdelijke bestanden verwijderen</span> om deze acties direct uit te voeren.</p></li>
 </ol></div>
 </div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You can delete files immediately and permanently without using the Trash.
-    See <span class="link"><a href="files-delete.html.nl#permanent" title="Een bestand permanent verwijderen">Een bestand permanent verwijderen</a></span> for information.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt bestanden direct en permanent verwijderen zonder de prullenbak te gebruiken. Zie <span class="link"><a href="files-delete.html.nl#permanent" title="Een bestand permanent verwijderen">Een bestand permanent verwijderen</a></span> voor meer informatie.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -109,11 +96,7 @@
 <div class="region"><ul>
 <li class="links "><a href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a></li>
 <li class="links ">
-<a href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.nl" title="Het scherm automatisch vergrendelen">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.nl" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.nl" title="Prullenbak legen &amp; tijdelijke bestanden definitief verwijderen">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.nl" title="Privacy-instellingen">Privacy-instellingen</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.nl" title="Het scherm automatisch vergrendelen">Schermvergrendeling</a></span>, <span class="link"><a href="privacy-history-recent-off.html.nl" title="Traceren van bestandsgeschiedenis uitzetten of beperken">Gebruiksgeschiedenis</a></span>, <span class="link"><a href="privacy-purge.html.nl" title="Purge trash &amp; temporary files">Prullenbak &amp; tijdelijke bestanden verwijderen</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -125,7 +108,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

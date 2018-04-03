@@ -64,19 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bezpieczeństwo w Internecie</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html.pl-PL" title="Enable or block firewall access"><span class="title">Enable or block firewall access</span><span class="linkdiv-dash"> — </span><span class="desc">You can control which programs can access the network. This helps to keep your computer secure.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?"><span class="title">Czy potrzebuję oprogramowania antywirusowego?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
-    software.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe"><span class="title">Często używane porty sieciowe</span><span class="linkdiv-dash"> — </span><span class="desc">You need to specify the right network port to enable/disable network
-    access for a program with your firewall.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.pl-PL" title="Do I need to scan my emails for viruses?"><span class="title">Do I need to scan my emails for viruses?</span><span class="linkdiv-dash"> — </span><span class="desc">Viruses are unlikely to infect your computer, but could infect the
-    computers of people you email.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html.pl-PL" title="Włączanie i blokowanie zapory sieciowej"><span class="title">Włączanie i blokowanie zapory sieciowej</span><span class="linkdiv-dash"> — </span><span class="desc">Można kontrolować, które programy mogą używać sieci. Pomaga to zabezpieczać komputer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.pl-PL" title="Czy muszę skanować moje wiadomości e-mail pod kątem wirusów?"><span class="title">Czy muszę skanować moje wiadomości e-mail pod kątem wirusów?</span><span class="linkdiv-dash"> — </span><span class="desc">Wirusy raczej nie zarażą tego komputera, ale mogą zarazić komputery odbiorców wiadomości.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html.pl-PL" title="Czy potrzebuję oprogramowania antywirusowego?"><span class="title">Czy potrzebuję oprogramowania antywirusowego?</span><span class="linkdiv-dash"> — </span><span class="desc">Istnieje mało wirusów dla systemu Linux, więc nie potrzeba oprogramowania antywirusowego.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html.pl-PL" title="Często używane porty sieciowe"><span class="title">Często używane porty sieciowe</span><span class="linkdiv-dash"> — </span><span class="desc">Do włączenia/wyłączenia dostępu programu do sieci w zaporze sieciowej potrzebny jest właściwy port.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -94,7 +91,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

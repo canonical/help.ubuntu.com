@@ -118,9 +118,6 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Vexa tamén</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-hibernate.html.gl-GL" title="Como hibernar o meu computador?">Como hibernar o meu computador?</a><span class="desc"> — Hibernar está desactivado de xeito predeterminado porque non é compatíbel por completo.</span>
-</li>
-<li class="links ">
 <a href="power-nowireless.html.gl-GL" title="Non teño conexión sen fíos á rede cando desperto o meu computador">Non teño conexión sen fíos á rede cando desperto o meu computador</a><span class="desc"> — Algúns dispositivos sen fíos teñen problemas de manexo cando envía o seu computador a durmir e non espertar correctamente.</span>
 </li>
 <li class="links ">
@@ -143,7 +140,7 @@ because suspend is not supported properly by your hardware.</p></div>
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

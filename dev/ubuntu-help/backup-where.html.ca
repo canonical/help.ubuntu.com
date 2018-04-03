@@ -70,11 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">On emmagatzemar una còpia de seguretat</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You should store backup copies of your files somewhere separate from your
- computer — on an external hard disk, for example. That way, if the computer
- breaks, the backup will still be intact. For maximum security, you shouldn’t
- keep the backup in the same building as your computer. If there is a fire or
- theft, both copies of the data could be lost if they are kept together.</p>
+<p class="p">Hauríeu de desar les còpies de seguretat dels fitxers a algun lloc separat del vostre ordinador, per exemple un disc dur extern. D'aquesta manera, si l'ordinador es trenca, la còpia de seguretat continuarà intacta. Per tal d'assolir la màxima seguretat, no hauríeu de desar la còpia de seguretat al mateix edifici on hi ha el vostre ordinador. En cas d'incendi o robatori, perdríeu les dues còpies de les vostres dades si les teniu al mateix lloc.</p>
 <p class="p">És important escollir un <span class="em">suport per a les còpies de seguretat</span> adequat. El suport que escolliu ha de tenir prou espai per emmagatzemar tots els fitxers que vulgueu assegurar.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Opcions d'emmagatzemament local i remot</span></h2></div>
@@ -85,9 +81,7 @@
 <li class="list"><p class="p">Una unitat en xarxa (alta capacitat)</p></li>
 <li class="list"><p class="p">Un servidor de fitxers o de còpies de seguretat (capacitat alta)</p></li>
 <li class="list"><p class="p">CD o DVD gravables (capacitat baixa o mitjana)</p></li>
-<li class="list"><p class="p">Online backup service
-     (<span class="link"><a href="http://aws.amazon.com/s3/" title="http://aws.amazon.com/s3/">Amazon S3</a></span>, for example;
-     capacity depends on price)</p></li>
+<li class="list"><p class="p">Servei de copia de seguretat en línia d' (<span class="link"><a href="http://aws.amazon.com/s3/" title="http://aws.amazon.com/s3/">Amazon S3</a></span>, per exemple; la capacitat depèn del preu)</p></li>
 </ul></div>
 </div></div>
 <p class="p">Algunes d'aquestes opcions tenen prou capacitat com per permetre-us fer una còpia de seguretat d'absolutament tots els fitxers del sistema, també coneguda com a <span class="em">còpia de seguretat del sistema complet</span>.</p>
@@ -108,7 +102,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

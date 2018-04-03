@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I test if color management is working correctly?</title>
+<title>Jak sprawdzić, czy zarządzanie kolorami działa poprawnie?</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,39 +65,30 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="prefs.html.pl-PL" title="Ustawienia użytkownika i systemu">Ustawienia</a> » <a class="trail" href="color.html.pl-PL" title="Zarządzanie kolorami">Zarządzanie kolorami</a> › <a class="trail" href="color.html.pl-PL#problems" title="Problemy">Problemy</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I test if color management is working correctly?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Jak sprawdzić, czy zarządzanie kolorami działa poprawnie?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The effects of a color profile are sometimes subtle and it may be hard to
-  see if anything much has changed.</p>
-<p class="p">GNOME comes with several profiles for testing that make it very clear when
-  the profiles are being applied:</p>
+<p class="p">Oddziaływanie profilu kolorów czasami jest mało dostrzegalne, więc ciężko stwierdzić, czy coś się zmieniło.</p>
+<p class="p">GNOME zawiera kilka profili do testowania, których działanie jest oczywiste:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Niebieski</dt>
-<dd class="terms"><p class="p">This will turn the screen blue and tests if the calibration curves are
-      being sent to the display.</p></dd>
+<dd class="terms"><p class="p">Koloruje ekran na niebiesko, umożliwiając sprawdzenie, czy krzywe kalibracji są wysyłane do ekranu.</p></dd>
 </dl></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Kolor</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Select the device for which you want to add a profile. You may wish to
-      make a note of which profile is currently being used.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select a test profile, which should be
-      at the bottom of the list.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to confirm your selection.</p></li>
-<li class="steps"><p class="p">To revert to your previous profile, select the device in the
-      <span class="gui">Color</span> panel, then select the profile that you were using
-      before you tried one of the test profiles and press <span class="gui">Enable</span> to
-      use it again.</p></li>
+<li class="steps"><p class="p">Wybierz urządzenie, dla którego dodać profil. Warto zanotować, który profil jest obecnie używany.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj profil</span>, aby wybrać profil testowy, który powinien być na końcu listy.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj</span>, aby potwierdzić wybór.</p></li>
+<li class="steps"><p class="p">Aby przywrócić poprzedni profil, wybierz urządzenie w panelu <span class="gui">Kolor</span>, a następnie wybierz profil, który był poprzednio używany i kliknij przycisk <span class="gui">Włącz</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Using these profiles, you can clearly see when an application supports
-  color management.</p>
+<p class="p">Za pomocą tych profili można łatwo stwierdzić, czy program obsługuje zarządzanie kolorami.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -109,7 +100,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color-gettingprofiles.html.pl-PL" title="Where do I get color profiles?">Where do I get color profiles?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>
+<a href="color-gettingprofiles.html.pl-PL" title="Skąd wziąć profile kolorów?">Skąd wziąć profile kolorów?</a><span class="desc"> — Profile kolorów są dostępne u dostawców oraz można je tworzyć samodzielnie.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -121,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

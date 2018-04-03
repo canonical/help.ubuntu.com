@@ -65,41 +65,30 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="bluetooth.html.pl-PL" title="Bluetooth">Bluetooth</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="hardware.html.pl-PL" title="Sprzęt i sterowniki">Sprzęt</a> » <a class="trail" href="bluetooth.html.pl-PL" title="Bluetooth">Bluetooth</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Wysyłanie plików do urządzenia Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can send files to connected Bluetooth devices, such as some mobile
-  phones or other computers. Some types of devices do not allow the transfer
-  of files, or specific types of files. You can send files using the Bluetooth
-  settings window.</p>
+<p class="p">Można wysyłać pliki do połączonych urządzeń Bluetooth, takich jak telefony i inne komputery. Niektóre rodzaje urządzeń nie umożliwiają przesyłania plików, albo tylko konkretnych typów plików. Można wysyłać pliki z okna ustawień Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Bluetooth</span>, aby otworzyć panel.</p></li>
-<li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch in the titlebar should be
-      set to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Upewnij się, że Bluetooth jest włączony: przełącznik na pasku tytułu powinien być ustawiony na <span class="gui">|</span> (włączone).</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Devices</span> list, select the device to which to send the
-      files. If the desired device is not shown as <span class="gui">Connected</span> in the
-      list, you need to <span class="link"><a href="bluetooth-connect-device.html.pl-PL" title="Łączenie komputera z urządzeniem Bluetooth">connect</a></span>
-      to it.</p>
-<p class="p">A panel specific to the external device appears.</p>
+<p class="p">Na liście <span class="gui">Urządzenia</span> wybierz urządzenie, do którego wysłać pliki. Jeśli wybrane urządzenie nie jest wyświetlane jako <span class="gui">Połączone</span> na liście, to należy je <span class="link"><a href="bluetooth-connect-device.html.pl-PL" title="Łączenie komputera z urządzeniem Bluetooth">połączyć</a></span>.</p>
+<p class="p">Zostanie otwarty panel dla danego urządzenia zewnętrznego.</p>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Send Files…</span> and the file chooser will appear.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Wyślij pliki…</span>, a zostanie wyświetlone okno wyboru pliku.</p></li>
 <li class="steps">
-<p class="p">Choose the file you want to send and click <span class="gui">Select</span>.</p>
-<p class="p">To send more than one file in a folder, hold down <span class="key"><kbd>Ctrl</kbd></span> as
-      you select each file.</p>
+<p class="p">Wybierz pliki do wysłania i kliknij przycisk <span class="gui">Wybierz</span>.</p>
+<p class="p">Aby wysłać więcej niż jeden plik w katalogu, przytrzymaj klawisz <span class="key"><kbd>Ctrl</kbd></span> podczas zaznaczania plików.</p>
 </li>
-<li class="steps"><p class="p">The owner of the receiving device usually has to press a button to
-      accept the file. The <span class="gui">Bluetooth File Transfer</span> dialog will show
-      the progress bar. Click <span class="gui">Close</span> when the transfer is
-      complete.</p></li>
+<li class="steps"><p class="p">Właściciel urządzenia odbierającego zwykle musi nacisnąć przycisk, aby przyjąć plik. Okno <span class="gui">Przesyłanie plików przez Bluetooth</span> wyświetli pasek postępu. Kliknij przycisk <span class="gui">Zamknij</span> po ukończeniu przesyłania.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -112,15 +101,14 @@
 <a href="bluetooth.html.pl-PL" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.pl-PL" title="Łączenie komputera z urządzeniem Bluetooth">Łączenie</a></span>, <span class="link"><a href="bluetooth-send-file.html.pl-PL" title="Wysyłanie plików do urządzenia Bluetooth">wysyłanie plików</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.pl-PL" title="Włączanie i wyłączanie Bluetooth">włączanie i wyłączanie</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.pl-PL" title="Udostępnianie pulpitu">Udostępnianie pulpitu</a></span>, <span class="link"><a href="files-share.html.pl-PL" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html.pl-PL" title="Udostępnianie muzyki, zdjęć i filmów">Udostępnianie multimediów</a></span>…</span>
+<a href="sharing.html.pl-PL" title="Udostępnianie">Udostępnianie</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.pl-PL" title="Udostępnianie ekranu">Udostępnianie ekranu</a></span>, <span class="link"><a href="files-share.html.pl-PL" title="Wysyłanie plików pocztą">wysyłanie plików pocztą</a></span>, <span class="link"><a href="sharing-media.html.pl-PL" title="Udostępnianie muzyki, zdjęć i filmów">udostępnianie multimediów</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Proszę zobaczyć także</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html.pl-PL" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a><span class="desc"> — Easily transfer files to your email contacts from the file
-    manager.</span>
+<a href="files-share.html.pl-PL" title="Wysyłanie plików pocztą">Wysyłanie plików pocztą</a><span class="desc"> — Łatwe przesyłanie plików do kontaktów e-mail z menedżera plików.</span>
 </li></ul></div>
 </div></div>
 </div>
@@ -132,7 +120,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

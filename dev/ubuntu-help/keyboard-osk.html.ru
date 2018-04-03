@@ -105,7 +105,7 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ru" title="Использование альтернативных раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ru" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html.ru#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
+<a href="keyboard.html.ru" title="Клавиатура">Клавиатура</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ru" title="Использование других раскладок клавиатуры">Раскладки клавиатуры</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ru" title="Как сделать клавиатурный курсор мигающим?">мигание курсора</a></span>, <span class="link"><a href="a11y.html.ru#mobility" title="Ограничения подвижности">специальные возможности клавиатуры</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html.ru#mobility" title="Ограничения подвижности">Ограничения подвижности</a></li>
 </ul></div>
@@ -118,7 +118,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

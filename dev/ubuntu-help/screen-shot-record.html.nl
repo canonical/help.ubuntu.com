@@ -64,16 +64,12 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Schermafdrukken en schermfilms</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">You can take a picture of your screen (a <span class="em">screenshot</span>) or record a
-  video of what is happening on the screen (a <span class="em">screencast</span>). This is
-  useful if you want to show someone how to do something on the computer, for
-  example. Screenshots and screencasts are just normal picture and video files,
-  so you can email them and share them on the web.</p></div>
+<div class="contents"><p class="p">U kunt een afdruk maken van uw scherm (een <span class="em">schermafdruk</span>), of een filmpje opnemen van wat er op het scherm gebeurt (een <span class="em">screencast</span>). Dit is handig als u bijvoorbeeld iemand wilt laten zien hoe je iets doet op de computer. Schermafdrukken en screencasts zijn gewoon afbeeldings- en videobestanden, dus u kunt ze in een e-mail versturen en ze op het internet delen.</p></div>
 <div id="screenshot" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Een schermafdruk maken</span></h2></div>
 <div class="region">
@@ -86,31 +82,21 @@
 </li>
 <li class="steps">
 <p class="p">Voer in het venster <span class="gui">Schermafdruk opslaan</span> een bestandsnaam in, kies een map en klik daarna op <span class="gui">Opslaan</span>.</p>
-<p class="p">Alternatively, import the screenshot directly into an image-editing
-      application without saving it first. Click <span class="gui">Copy to Clipboard</span>
-      then paste the image in the other application, or drag the screenshot
-      thumbnail to the application.</p>
+<p class="p">U kunt de schermafdruk ook direct in een beeldbewerkingstoepassing importeren zonder deze eerst op te slaan. Klik op <span class="gui">Naar klembord kopiëren</span> en plak daarna de afbeelding in de andere toepassing, of sleep de schermafdrukminiatuur naar de toepassing.</p>
 </li>
 </ol></div></div></div></div>
 <div id="keyboard-shortcuts" class="sect"><div class="inner">
 <div class="hgroup"><h3 class="title"><span class="title">Sneltoetsen</span></h3></div>
 <div class="region"><div class="contents">
-<p class="p">Quickly take a screenshot of the desktop, a window, or an area at any
-    time using these global keyboard shortcuts:</p>
+<p class="p">Op elk gewenst moment snel een schermafdruk maken van het bureaublad, een venster of een gebied via deze globale sneltoetsen:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="key"><kbd>Prt Scrn</kbd></span> to take a screenshot of the desktop.</p></li>
+<li class="list"><p class="p"><span class="key"><kbd>Prt Scrn</kbd></span> voor het nemen van een schermafdruk van het bureaublad.</p></li>
 <li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print Screen</kbd></span></span> om een schermafdruk van een venster te nemen.</p></li>
-<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Prt Scrn</kbd></span></span> to take a
-        screenshot of an area you select.</p></li>
+<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Prt Scrn</kbd></span></span> om een schermafdruk te maken van een door u geselecteerd gebied.</p></li>
 </ul></div></div></div>
-<p class="p">When you use a keyboard shortcut, the image is automatically saved in
-    your <span class="file">Pictures</span> folder in your home folder with a file name that
-    begins with <span class="file">Screenshot</span> and includes the date and time it was
-    taken.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">If you do not have a <span class="file">Pictures</span> folder, the images will be
-      saved in your home folder instead.</p></div></div></div></div>
-<p class="p">You can also hold down <span class="key"><kbd>Ctrl</kbd></span> with any of the above shortcuts
-    to copy the screenshot image to the clipboard instead of saving it.</p>
+<p class="p">Wanneer u een sneltoets gebruikt, dan wordt de afbeelding automatisch opgeslagen in de map <span class="file">Afbeeldingen</span> in uw persoonlijke map met een bestandsnaam die begint met <span class="file">Schermafdruk</span> en met de datum en tijd waarop deze genomen is.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u geen map <span class="file">Afbeeldingen</span> heeft, dan worden de afbeeldingen opgeslagen in uw persoonlijke map.</p></div></div></div></div>
+<p class="p">U kunt ook tegelijk met één van bovenstaande sneltoetsen de <span class="key"><kbd>Ctrl</kbd></span>-toets ingedrukt houden om de schermafdruk te kopiëren naar het klembord in plaats van deze op te slaan.</p>
 </div></div>
 </div></div>
 </div>
@@ -118,24 +104,16 @@
 <div id="screencast" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Een scherm opnemen</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can make a video recording of what is happening on your screen:</p>
+<p class="p">U kunt een video-opname maken van wat er op uw scherm gebeurt:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Press
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span>
-      to start recording what is on your screen.</p>
-<p class="p">A red circle is displayed in the top right corner of the screen
-      when the recording is in progress.</p>
+<p class="p">Druk op <span class="keyseq"><span class="key"><kbd> Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span> om de opname van wat er op uw scherm gebeurt te starten.</p>
+<p class="p">Er wordt tijdens het opnemen een rode cirkel getoond in de rechterbovenhoek van het scherm.</p>
 </li>
-<li class="steps"><p class="p">Once you have finished, press
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span>
-      again to stop the recording.</p></li>
-<li class="steps"><p class="p">The video is automatically saved in your <span class="file">Videos</span> folder
-      in your home folder, with a file name that starts with
-      <span class="file">Screencast</span> and includes the date and time it was taken.</p></li>
+<li class="steps"><p class="p">Zodra u klaar bent klikt u opnieuw op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span> om de opname te stoppen.</p></li>
+<li class="steps"><p class="p">De video wordt automatisch opgeslagen in de map <span class="file">Video's</span> in uw persoonlijke map met een bestandsnaam die begint met <span class="file">Schermvideo</span> en met de datum en tijd waarop deze genomen is.</p></li>
 </ol></div></div></div>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">If you do not have a <span class="file">Videos</span> folder, the videos will be
-    saved in your home folder instead.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Als u geen map <span class="file">Video's</span> heeft, dan worden de video's opgeslagen in uw persoonlijke map.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -154,7 +132,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

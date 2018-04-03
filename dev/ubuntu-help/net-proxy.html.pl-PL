@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-general.html.pl-PL" title="Terminy sieciowe i wskazówki">Terminy sieciowe i wskazówki</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » <a class="trail" href="net.html.pl-PL" title="Sieć, WWW i poczta e-mail">Sieć, WWW i poczta e-mail</a> » <a class="trail" href="net-general.html.pl-PL" title="Terminy sieciowe i wskazówki">Terminy sieciowe i wskazówki</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Określanie ustawień pośrednika</span></h1></div>
@@ -72,38 +72,28 @@
 <div class="contents"></div>
 <div id="what" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Czym jest pośrednik?</span></h2></div>
-<div class="region"><div class="contents"><p class="p">A <span class="em">web proxy</span> filters websites that you look at, it receives
-  requests from your web browser to fetch web pages and their elements, and
-  following a policy will decide to pass them you back. They are commonly used
-  in businesses and at public wireless hotspots to control what websites you
-  can look at, prevent you from accessing the internet without logging in, or
-  to do security checks on websites.</p></div></div>
+<div class="region"><div class="contents"><p class="p"><span class="em">Pośrednik sieciowy</span> filtruje odwiedzane strony, odbierając żądania pobrania stron internetowych i ich elementów z przeglądarki WWW i postępując zgodnie z ustalonymi zasadami decyduje, czy przekazać je do użytkownika. Pośredniki są często używane w firmach i publicznych hotspotach bezprzewodowych do kontroli, które strony mogą być odwiedzane, uniemożliwiania korzystania z Internetu bez zalogowania się i wykonywania testów zabezpieczeń na stronach.</p></div></div>
 </div></div>
 <div id="change" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Zmiana metody pośrednika</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Activities overview">Podgląd</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Wybierz <span class="gui">Pośrednik sieciowy</span> z listy po lewej.</p></li>
 <li class="steps">
-<p class="p">Choose which proxy method you want to use from:</p>
+<p class="p">Wybierz, którą metodę pośrednika użyć:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Brak</span></dt>
-<dd class="terms"><p class="p">The applications will use a direct connection to fetch the content
-          from the web.</p></dd>
+<dd class="terms"><p class="p">Programy będą używały bezpośredniego połączenia do pobierania treści z Internetu.</p></dd>
 <dt class="terms"><span class="gui">Ręczna</span></dt>
-<dd class="terms"><p class="p">For each proxied protocol, define the address of a proxy and port
-          for the protocols. The protocols are <span class="gui">HTTP</span>,
-          <span class="gui">HTTPS</span>, <span class="gui">FTP</span> and <span class="gui">SOCKS</span>.</p></dd>
+<dd class="terms"><p class="p">Dla każdego protokołu określ adres pośrednika i port. Protokoły to <span class="gui">HTTP</span>, <span class="gui">HTTPS</span>, <span class="gui">FTP</span> i <span class="gui">SOCKS</span>.</p></dd>
 <dt class="terms"><span class="gui">Automatyczna</span></dt>
-<dd class="terms"><p class="p">A URL pointing to a resource, which contains the appropriate
-          configuration for your system.</p></dd>
+<dd class="terms"><p class="p">Adres URL wskazujący do zasobu zawierającego odpowiednią konfigurację dla komputera.</p></dd>
 </dl></div></div></div>
 </li>
 </ol></div></div></div>
-<p class="p">Applications that use the network connection will use your specified proxy
-  settings.</p>
+<p class="p">Programy używające połączenia sieciowego będą używały podanych ustawień pośrednika.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -111,12 +101,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.pl-PL" title="Terminy sieciowe i wskazówki">Terminy sieciowe i wskazówki</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html.pl-PL" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html.pl-PL" title="Co znaczy „WEP” i „WPA”?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html.pl-PL" title="Czym jest adres MAC?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html.pl-PL" title="Określanie ustawień pośrednika">proxies</a></span>…
-    </span>
+<a href="net-general.html.pl-PL" title="Terminy sieciowe i wskazówki">Terminy sieciowe i wskazówki</a><span class="desc"> — <span class="link"><a href="net-findip.html.pl-PL" title="Jak znaleźć swój adres IP">Jak znaleźć swój adres IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.pl-PL" title="Co znaczy „WEP” i „WPA”?">zabezpieczenia WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.pl-PL" title="Czym jest adres MAC?">adresy MAC</a></span>, <span class="link"><a href="net-proxy.html.pl-PL" title="Określanie ustawień pośrednika">pośredniki</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -127,7 +112,7 @@
 </div></div>
 </div>
 <div id="footer">
-<p>You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
           If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
 
           [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 

@@ -78,11 +78,15 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Aby ręcznie ustawić sieć:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Ustawienia</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Ustawienia</span>.</p></li>
 <li class="steps">
-<p class="p">W lewym panelu wybierz połączenie sieciowe do ręcznego skonfigurowania. Jeśli komputer jest podłączany do sieci kablem, to kliknij <span class="gui">Przewodowe</span>, a następnie przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ustawienia"></span></span> w dolnym prawym rogu panelu. W przypadku połączenia <span class="gui">Wi-Fi</span> przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ustawienia"></span></span> znajduje się obok aktywnej sieci.</p>
+<p class="p">W lewym panelu wybierz połączenie sieciowe do ręcznego skonfigurowania. Jeśli komputer jest podłączany do sieci kablem, to kliknij <span class="gui">Sieć</span>. Jeśli nie, to kliknij <span class="gui">Wi-Fi</span>.</p>
 <p class="p">Upewnij się, że karta bezprzewodowa jest włączona, a kabel sieciowy jest podłączony.</p>
+</li>
+<li class="steps">
+<p class="p">Kliknij przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ustawienia"></span></span>.</p>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">W przypadku połączenia <span class="gui">Wi-Fi</span> przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ustawienia"></span></span> jest położony obok aktywnej sieci.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Kliknij <span class="gui">IPv4</span> lub <span class="gui">IPv6</span> w lewym panelu i zmień <span class="gui">Adresy</span> na <span class="em">Ręcznie</span>.</p></li>
 <li class="steps"><p class="p">Wpisz <span class="gui"><a href="net-what-is-ip-address.html.pl-PL" title="Czym jest adres IP?">Adres IP</a></span> i <span class="gui">Bramę</span>, a także odpowiednią <span class="gui">Maskę sieci</span>.</p></li>

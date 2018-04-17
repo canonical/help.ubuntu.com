@@ -90,7 +90,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Aplikace a okna</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.cs" title="Aplikace po spuštění"><span class="title">Aplikace po spuštění</span><span class="linkdiv-dash"> — </span><span class="desc">Vyberte, které aplikace se mají spustit po přihlášení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.cs" title="Aplikace spouštěné při přihlášení"><span class="title">Aplikace spouštěné při přihlášení</span><span class="linkdiv-dash"> — </span><span class="desc">Vyberte, které aplikace se mají spustit po přihlášení.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="status-icons.html.cs" title="Co znamenají ikony na horní liště?"><span class="title">Co znamenají ikony na horní liště?</span><span class="linkdiv-dash"> — </span><span class="desc">Vysvětlení významu ikon nacházejících se vpravo na horní liště.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows.html.cs" title="Okna a pracovní plochy"><span class="title">Okna a pracovní plochy</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přesouvat a uspořádávat svá okna.</span></a></div>
 </div>

@@ -64,17 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-chat.html.lv" title="Tērzēšana un sociālie tīkli">Tērzēšana un sociālie tīkli</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-chat.html.lv" title="Tērzēšana un sociālie tīkli">Tērzēšana un sociālie tīkli</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tūlītēja ziņojumapmaiņa uz Ubuntu</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Ar <span class="app">Empathy</span> jūs varat tērzēt ar cilvēkiem tiešsaistē, kā arī ar draugiem un kolēģiem, kuri izmanto Google Talk, AIM, Windows Live un daudzas citas tērzēšanas programmas. Ar mikrofonu un tīmekļa kameru jūs varat veikt arī audio un video zvanus.</p>
-<p class="p">
-    Empathy is not installed by default in Ubuntu, but you can <span class="link"><a href="apt:empathy" title="apt:empathy">install</a></span> it from the Ubuntu package archive. For help
-    with using Empathy, read the <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">Empathy manual</a></span>.
-  </p>
+<p class="p">Empathy uz Ubuntu nav uzinstalēts pēc noklusējuma, bet jūs to varat <span class="link"><a href="apt:empathy" title="apt:empathy">uzinstalēt</a></span> no Ubuntu pakotņu arhīva. Lai saņemtu palīdzību Empathy lietošanā, izlasiet <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">Empathy rokasgrāmatu</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

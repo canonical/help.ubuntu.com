@@ -76,8 +76,11 @@
 <div class="contents">
 <p class="p">Anda mungkin ingin menentukan suatu profil warna bagi layar atau pencetak Anda sehingga warna yang ditampilkannya lebih akurat.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Warna</span>.</p></li>
-<li class="steps"><p class="p">Klik pada <span class="gui">Warna</span> untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Pilih perangkat yang ingin Anda tambahkan profil baginya.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tambah profil</span> untuk memilih profil yang ada atau mengimpor suatu profil baru.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Tambah</span> untuk mengkonfirmasi pilihan Anda.</p></li>

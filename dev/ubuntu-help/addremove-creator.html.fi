@@ -74,31 +74,16 @@
 <div class="hgroup"><h1 class="title"><span class="title">Luo käynnistyslevy</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">In this context a startup disk is a USB flash drive from which you can startup and <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">install Ubuntu</a></span>.
-  The capacity of the USB flash drive must be at least 2 GB.
-  Any data on the USB flash drive will be lost when you create the startup disk.</p>
-<p class="p">It's assumed that you have downloaded an Ubuntu ISO image.</p>
-<p class="p">To create a startup disk from an Ubuntu ISO image:</p>
+<p class="p">Tässä asiayhteydessä käynnistyslevy tarkoittaa USB-asemaa, jonka avulla voit käynnistää ja <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">asentaa Ubuntun</a></span>. USB-aseman tulee olla kapasiteetiltaan vähintään kaksi gigatavua. Kaikki USB-asemalla olevat tiedot poistetaan, kun luot käynnistyslevyn.</p>
+<p class="p">Oletetaan, että olet ladannut Ubuntun ISO-levykuvan.</p>
+<p class="p">Luo käynnistyslevy Ubuntun ISO-levykuvasta:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        If the ISO image is in your <span class="gui">Download</span> folder and there is just one ISO image, <span class="app">Startup Disk Creator</span> will have selected it,
-        otherwise select the correct ISO image.
-      </p></li>
-<li class="steps"><p class="p">
-        If your computer has just one USB flash drive, <span class="app">Startup Disk Creator</span> will have selected it, otherwise select the correct drive.
-      </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Make Startup Disk</span>.
-      </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Yes</span> to confirm. The process should take ten minutes or less.
-      </p></li>
-<li class="steps"><p class="p">
-        When the "Installation Complete" window opens click <span class="gui">Quit</span>.
-      </p></li>
+<li class="steps"><p class="p">Avaa <span class="app">Käynnistyslevyn luonti</span> <span class="em">Toiminnot</span>-yleisnäkymän hakukenttää käyttäen.</p></li>
+<li class="steps"><p class="p">Jos ISO-levykuva on <span class="gui">Lataukset</span>-kansiossasi, ja kyseisessä kansiossa on vain yksi ISO-levykuva, <span class="app">Käynnistyslevyn luonti</span> valitsee levykuvan automaattisesti. Muussa tapauksessa valitse oikea ISO-levykuva itse.</p></li>
+<li class="steps"><p class="p">Jos tietokoneeseesi on liitetty vain yksi USB-asema, <span class="app">Käynnistyslevyn luonti</span> valitsee sen automaattisesti. Muussa tapauksessa valitse oikea USB-asema itse.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Luo käynnistyslevy</span>.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Kyllä</span> vahvistaaksesi. Toimenpide kestää noin kymmenen minuuttia.</p></li>
+<li class="steps"><p class="p">Kun "Asennus valmistui"-ikkuna avautuu, napsauta <span class="gui">Lopeta</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

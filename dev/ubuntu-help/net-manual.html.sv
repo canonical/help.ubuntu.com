@@ -78,11 +78,15 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">För att manuellt ange dina nätverksinställningar:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätverk</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Nätverk</span> för att öppna panelen.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Inställningar</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Inställningar</span>.</p></li>
 <li class="steps">
-<p class="p">I vänstra panelen, välj nätverksanslutningen som du vill ställa in manuellt. Om du ansluter till nätverket med en kabel, klicka på <span class="gui">Trådbundet</span> och klicka sedan på <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="inställningar"></span></span>-knappen i det nedre högra hörnet i panelen. För en <span class="gui">Trådlös</span>-anslutning kommer <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="inställningar"></span></span>-knappen att finnas intill det aktiva nätverket.</p>
+<p class="p">I vänstra panelen, välj nätverksanslutningen som du vill ställa in manuellt. Om du ansluter till nätverket med en kabel, klicka på <span class="gui">Nätverk</span>. Klicka i annat fall på <span class="gui">Trådlöst nätverk</span>.</p>
 <p class="p">Säkerställ att ditt trådlösa kort är påslaget eller att nätverkskabeln är ansluten.</p>
+</li>
+<li class="steps">
+<p class="p">Klicka på knappen <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="inställningar"></span></span>.</p>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">För en <span class="gui">Trådlös</span> anslutning kommer knappen <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="inställningar"></span></span> finnas intill det aktiva nätverket.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Klicka på <span class="gui">IPv4</span> eller <span class="gui">IPv6</span> i den vänstra panelen och ändra <span class="gui">Adresser</span> till <span class="em">Manuell</span>.</p></li>
 <li class="steps"><p class="p">Skriv in <span class="gui"><a href="net-what-is-ip-address.html.sv" title="Vad är en IP-adress?">IP-adress</a></span> och <span class="gui">Gateway</span> samt en lämplig <span class="gui">Nätmask</span>.</p></li>

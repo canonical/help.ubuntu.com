@@ -78,11 +78,22 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para definir manualmente suas configurações de rede:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Rede</span>.</p></li>
-<li class="steps"><p class="p">Clique em <span class="gui">Rede</span> para abrir o painel.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Activities</a></span>
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
 <li class="steps">
-<p class="p">No painel esquerdo, selecione a conexão de rede que você deseja configurar manualmente. Se você se conectar a uma rede cabeada, clique em <span class="gui">Com fio</span> e, então, clique no botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configurações"></span></span> no canto inferior direito do painel. Para um conexão <span class="gui">Wi-Fi</span>, o botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configurações"></span></span> estará localizado ao lado da rede ativa.</p>
+<p class="p">In the left pane, select the network connection that you want to set
+      up manually. If you plug in to the network with a cable, click
+      <span class="gui">Network</span>. Otherwise click <span class="gui">Wi-Fi</span>.</p>
 <p class="p">Certifique-se de que sua placa de rede sem fio está ativada ou um cabo de rede está conectado.</p>
+</li>
+<li class="steps">
+<p class="p">Click the
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      button.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">For a <span class="gui">Wi-Fi</span> connection, the 
+        <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+        button will be located next to the active network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Clique em <span class="gui">IPv4</span> ou <span class="gui">IPv6</span> no painel esquerdo e altere o <span class="gui">Endereço</span> para <span class="em">Manual</span>.</p></li>
 <li class="steps"><p class="p">Digite o <span class="gui"><a href="net-what-is-ip-address.html.pt-BR" title="O que é um endereço IP?">Endereço IP</a></span> e o <span class="gui">Gateway</span>, assim como a <span class="gui">Máscara de rede</span> apropriada.</p></li>

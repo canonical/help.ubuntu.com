@@ -71,26 +71,15 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.fi" title="Asenna lisäsovelluksia"><span class="title">Asenna lisäsovelluksia</span><span class="linkdiv-dash"> — </span><span class="desc">
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.fi" title="Asenna lisäsovelluksia"><span class="title">Asenna lisäsovelluksia</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä <span class="app">Ubuntun sovellusvalikoimaa</span> asentaaksesi lisää sovelluksia ja tee siten Ubuntusta entistä hyödyllisempi.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.fi" title="Poista sovellus"><span class="title">Poista sovellus</span><span class="linkdiv-dash"> — </span><span class="desc">Poista sovelluksia, joita et enää käytä.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan"><span class="title">Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan</span><span class="linkdiv-dash"> — </span><span class="desc">
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan"><span class="title">Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic on tehokas ja monimutkaisempi vaihtoehto <span class="app">Ubuntun sovellusvalikoimalle</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.fi" title="Lisää PPA-ohjelmalähde"><span class="title">Lisää PPA-ohjelmalähde</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää PPA-ohjelmistolähteitä laajentaaksesi Ubuntun käyttämiä ohjelmistolähteitä.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.fi" title="Lisää ohjelmistolähteitä"><span class="title">Lisää ohjelmistolähteitä</span><span class="linkdiv-dash"> — </span><span class="desc">
-      Add repositories to extend the software sources Ubuntu uses for 
-      installation and upgrades.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.fi" title="Lisää ohjelmistolähteitä"><span class="title">Lisää ohjelmistolähteitä</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää ohjelmistolähteitä laajentaaksesi Ubuntun ohjelmistovalikoimaa.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html.fi" title="Asenna kieliä"><span class="title">Asenna kieliä</span><span class="linkdiv-dash"> — </span><span class="desc">Asenna lisää käännöksiä ja niihin liittyviä kielitukipaketteja.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.fi" title="Luo käynnistyslevy"><span class="title">Luo käynnistyslevy</span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.fi" title="Luo käynnistyslevy"><span class="title">Luo käynnistyslevy</span><span class="linkdiv-dash"> — </span><span class="desc">Muunna USB-asema taltioksi, jolta voit käynnistää ja asentaa Ubuntun.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

@@ -78,11 +78,22 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Да ручно подесите мрежна подешавања:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Мрежа</span>.</p></li>
-<li class="steps"><p class="p">Кликните на <span class="gui">Мрежа</span> да отворите панел.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Activities</a></span>
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
 <li class="steps">
-<p class="p">У левом окну, изаберите мрежну везу коју желите ручно да подесите. Ако се каблом прикључите на мрежу, кликните <span class="gui">Жичана</span>, затим кликните на дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> у доњем десном углу панела. За <span class="gui">Бежичну</span> везу, дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> ће се налазити поред радне мреже.</p>
+<p class="p">In the left pane, select the network connection that you want to set
+      up manually. If you plug in to the network with a cable, click
+      <span class="gui">Network</span>. Otherwise click <span class="gui">Wi-Fi</span>.</p>
 <p class="p">Уверите се да је ваша бежична картица укључена или да је мрежни кабал прикључен.</p>
+</li>
+<li class="steps">
+<p class="p">Click the
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      button.</p>
+<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">For a <span class="gui">Wi-Fi</span> connection, the 
+        <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+        button will be located next to the active network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Кликните на <span class="gui">ИПв4</span> или <span class="gui">ИПв6</span> у левом окну и измените <span class="gui">Адресе</span> на <span class="em">Ручно</span>.</p></li>
 <li class="steps"><p class="p">Укуцајте <span class="gui"><a href="net-what-is-ip-address.html.sr" title="Шта је то ИП адреса?">Адресу</a></span> и <span class="gui">Мрежни пролаз</span>, као и одговарајућу <span class="gui">Мрежну маску</span>.</p></li>

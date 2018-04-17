@@ -72,22 +72,15 @@
 <div class="contents">
 <p class="p">Při instalaci Ubuntu se vámi zvolený jazyk nainstaluje společně s angličtinou, můžete ovšem přidat další jazyky.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
-      Support</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Install / Remove Languages...</span>. The
-      <span class="gui">Installed Languages</span> window lists all the available
-      languages, with the currently installed languages checked.</p></li>
-<li class="steps"><p class="p">Check the languages you want to install, and uncheck those
-      currently installed languages you want to remove.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Apply Changes</span>.</p></li>
+<li class="steps"><p class="p">Otevřete náhled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Aktivit</a></span> a začněte psát <span class="gui">Region a jazyk</span>.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui">Region a jazyk</span> pro otevření tohoto panelu.</p></li>
+<li class="steps"><p class="p">Klikněte na tlačítko <span class="gui">Spravovat instalované jazyky</span> pro otevření okna <span class="gui">Jazyková podpora</span>.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui">Přidat/odstranit jazyky...</span>. Okno <span class="gui">Nainstalované jazyky</span> vypíše všechny dostupné jazyky, momentálně nainstalované jazyky budou zaškrtnuté.</p></li>
+<li class="steps"><p class="p">Zaškrtněte jazyky, které chcete nainstalovat a odškrtněte ty, které si přejete odstranit.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui">Použít</span>.</p></li>
 <li class="steps"><p class="p">Pro změnu jsou vyžadována <span class="link"><a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">správcovská oprávnění</a></span>. Zadejte své heslo respektive heslo vyžadovaného správcovského účtu.</p></li>
 </ol></div></div></div>
-<p class="p">In addition to the translations used to display menus and messages,
-  with a new language may follow various language support components such
-  as dictionaries for spell checking, fonts and input methods.</p>
+<p class="p">Kromě překladů použitých ke zobrazení menu a zpráv mohou být s novým jazykem nainstalovány i některé další komponenty, například slovníky pro kontrolu pravopisu, písma a vstupní metody.</p>
 <div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Některé překlady nemusí být být kompletní a některé aplikace nemusí vůbec podporovat váš jazyk.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

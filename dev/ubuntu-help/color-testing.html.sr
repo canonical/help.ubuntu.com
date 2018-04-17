@@ -81,8 +81,11 @@
 <dd class="terms"><p class="p">Ово ће поставити плави екран и испробаће да ли су криве калибрације послате на екран.</p></dd>
 </dl></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Боја</span>.</p></li>
-<li class="steps"><p class="p">Кликните <span class="gui">Боја</span> да отворите панел.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Изаберите уређај за који желите да додате профил. Можда ћете пожелети да забележите који профил се тренутно користи.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Додај профил</span> да изаберете пробни профил, који треба да се налази на дну списка.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Додај</span> да потврдите ваш избор.</p></li>

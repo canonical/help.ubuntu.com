@@ -76,8 +76,11 @@
 <div class="contents">
 <p class="p">Můžete chtít přiřadit profil barev své obrazovce nebo tiskárně, aby barvy, které zobrazují, byly věrohodnější.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Barvy</span>.</p></li>
-<li class="steps"><p class="p">Kliknutím na <span class="gui">Barvy</span> otevřete příslušný panel.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Vyberte zařízení, pro které chcete přidat profil.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Přidat profil</span> pro výběr stávajícího profilu nebo import nového profilu.</p></li>
 <li class="steps"><p class="p">Zmáčknutím <span class="gui">Přidat</span> svoji volbu potvrdíte.</p></li>

@@ -78,8 +78,12 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Győződjön meg róla, hogy a szkenner közvetlen kábellel vagy a hálózaton csatlakozik a számítógéphez.</p></li>
 <li class="steps"><p class="p">Állítsa be a kalibrálási célt, és mentse tömörítetlen TIFF fájlként.</p></li>
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Színek</span> szót.</p></li>
-<li class="steps"><p class="p">Kattintson a <span class="gui">Színek</span> ikonra a panel megnyitásához, és válassza ki a szkennert.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your scanner.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Kalibrálás</span> gombra a kalibrálás megkezdéséhez.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">A szkennerek stabilitását az idő és a hőmérséklet sem kezdi ki, így azokat általában nem kell később újrakalibrálni.</p></div></div></div></div>

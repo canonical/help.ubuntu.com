@@ -76,10 +76,10 @@
 <div class="contents">
 <p class="p">Met de <span class="key"><kbd>Num Lock</kbd></span>-toets kunt u handmatig het numerieke toetsenblok op uw toetsenbord in- of uitschakelen. Ook hebben de BIOS-instellingen van computers vaak een optie om te bepalen of de computer moet worden gestart met het numerieke toetsenblok ingeschakeld. Anders is dit een manier om het te configureren:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Installeer</a></span> het pakket <span class="em">numlockx</span>.</p></li>
 <li class="steps"><p class="p">Open <span class="app"><span class="link"><a href="startup-applications.html.nl" title="Opstarttoepassingen">Opstarttoepassingen</a></span></span> en voeg een opstarttoepassing toe met de opdracht: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">The second step may be redundant on your computer, so try without it first.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">De tweede stap zou overbodig kunnen zijn op uw computer, dus probeer het eerst zonder.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

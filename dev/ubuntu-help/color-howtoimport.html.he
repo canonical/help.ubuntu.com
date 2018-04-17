@@ -80,9 +80,11 @@
   <span class="gui">Color</span> panel.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.he#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Color</span> to open the panel and select your
-      device.</p></li>
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your device.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import
       a new profile.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Add</span> to confirm your selection.</p></li>

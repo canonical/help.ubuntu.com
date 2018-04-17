@@ -2,9 +2,7 @@
 <html lang=lv>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Install additional applications
-  </title>
+<title>Instalēt papildu lietotnes</title>
 <link rel="stylesheet" type="text/css" href="lv.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -66,51 +64,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.lv" title="Install &amp; remove software">Pievienot vai izņemt programmatūru</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Pievienot vai izņemt programmatūru</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Install additional applications
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Instalēt papildu lietotnes</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">Ubuntu Software</span>.
-   </p>
-<p class="p">
-    Applications are available in two formats: snap packages and Debian packages.
-    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    Some applications are available in both formats. In such a case in
-    <span class="app">Ubuntu Software</span> the snap will be listed first.
-   </p>
-<p class="p">
-    You may also wish to install software that does not have a GUI. To install
-    such software, you can use <span class="link"><a href="addremove-install-synaptic.html.lv" title="Lietojiet Synaptic, lai veiktu plašāku programmatūras pārvaldību">Synaptic</a></span>.
-    Note that <span class="app">Synaptic</span> does not list snaps.
-  </p>
-<p class="p">
-    To install an application:
-  </p>
+<p class="p">Lietotne ir programmatūra ar grafisko lietotāja saskarni (GUI). Ubuntu izstrādes komanda ir izvēlējusies lietotņu kopu, kura, mūsuprāt, Ubuntu padara ļoti noderīgu vairumam ikdienas uzdevumu. Bet visdrīzāk jūs vēlēsities instalēt vēl lietotnes, lai padarītu Ubuntu jums vēl noderīgāku. Lai instalētu lietotnes, jūs varat izmantot <span class="app">Ubuntu programmatūru</span>.</p>
+<p class="p">Lietotnes ir pieejamas divos formātos — snap pakotnēs un Debian pakotnēs. Lietotnes snap pakotnēs šeit tiks dēvētas par <span class="em">snap</span>. Dažas lietotnes ir pieejamas abos formātos. Tādos gadījumos <span class="app">Ubuntu programmatūrā</span> snap tiks parādīts vispirms.</p>
+<p class="p">Jūs varētu arī vēlēties instalēt programmatūru, kurai nav grafiskās saskarnes. Lai instalētu tādu programmatūru, jūs varat izmantot <span class="link"><a href="addremove-install-synaptic.html.lv" title="Lietojiet Synaptic, lai veiktu plašāku programmatūras pārvaldību">Synaptic</a></span>. Ņemiet vērā, ka <span class="app">Synaptic</span> neinstalē snap pakotnes.</p>
+<p class="p">Lai instalētu lietotni:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
         Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
         for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
       </p></li>
 <li class="steps"><p class="p">Kad ir palaista <span class="app">Ubuntu programmatūra</span>, meklējiet lietotni vai izvēlieties kategoriju un lietotni to sarakstā.</p></li>
-<li class="steps"><p class="p">
-        Select the application that you want to install and click 
-        <span class="gui">Install</span>.
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password. 
-        Once you have done that the installation will begin. 
-        The installation usually finishes quickly, but could take a while if you 
-        have a slow Internet connection.
-      </p></li>
+<li class="steps"><p class="p">Izvēlieties lietotni, kuru vēlaties instalēt un spiediet <span class="gui">Instalēt</span>.</p></li>
+<li class="steps"><p class="p">Jums lūgs autentificēties, ievadot paroli. Kad to izdarīsiet, sāksies instalēšana. Tā parasti beidzās ātri, bet tā var aizņemt kādu laiciņu, ja jums ir lēns interneta savienojums.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -119,11 +90,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.lv" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.lv" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.lv" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Instalēt un izņemt programmatūru</a><span class="desc"> — <span class="link"><a href="addremove-install.html.lv" title="Instalēt papildu lietotnes">Instalēt lietotnes</a></span>, <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">izņemt lietotnes</a></span>, <span class="link"><a href="addremove-sources.html.lv" title="Pievienot programmatūras krātuves">pievienot krātuves</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -133,9 +100,7 @@
 <a href="prefs-language-install.html.lv" title="Instalēt valodas">Instalēt valodas</a><span class="desc"> — Instalēt vairāk tulkojumu un saistītās valodas atbalsta pakotnes.</span>
 </li>
 <li class="links ">
-<a href="addremove-remove.html.lv" title="Izņemt lietotni">Izņemt lietotni</a><span class="desc"> — 
-      Remove applications that you no longer use.
-    </span>
+<a href="addremove-remove.html.lv" title="Izņemt lietotni">Izņemt lietotni</a><span class="desc"> — Izņemiet lietotnes, ko vairāk nelietojat.</span>
 </li>
 <li class="links ">
 <a href="addremove-install-synaptic.html.lv" title="Lietojiet Synaptic, lai veiktu plašāku programmatūras pārvaldību">Lietojiet Synaptic, lai veiktu plašāku programmatūras pārvaldību</a><span class="desc"> — Synaptic ir jaudīga, bet sarežģīta programmatūras pārvaldības alternatīva <span class="app">Ubuntu programmatūras</span> lietotnei.</span>

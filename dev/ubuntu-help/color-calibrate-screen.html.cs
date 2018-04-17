@@ -77,9 +77,13 @@
 <p class="p">Můžete si zkalibrovat obrazovku, aby zobrazovala barvy věrněji. To je obzvláště vhodné, pokud se zabýváte digitální fotografií, designem nebo grafikou.</p>
 <p class="p">K tomu potřebujete buď kolorimetr nebo spektrometr. Obě zařízení se používají k vytvoření profilu obrazovky, ale fungují trochu odlišným způsobem.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Barvy</span>.</p></li>
-<li class="steps"><p class="p">Kliknutím na <span class="gui">Barvy</span> otevřete příslušný panel a vyberte svoji obrazovku.</p></li>
 <li class="steps"><p class="p">Ujistěte se, že kalibrovací zařízení je připojené k vašemu počítači.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Kalibraci zahájíte zmáčknutím <span class="gui">Kalibrovat…</span></p></li>
 </ol></div></div></div>
 <p class="p">Parametry obrazovky se postupem času mění: zadní podsvětlení displeje LCD pomocí světelných trubic poklesne na polovinu přibližně každých 18 měsíců a jak stárne, získává odstín víc do žluta. To znamená, že když se na panelu <span class="gui">Barvy</span> objeví ikona [!], měli byste svoji obrazovku znovu zkalibrovat.</p>

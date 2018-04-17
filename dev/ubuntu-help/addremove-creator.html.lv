@@ -2,9 +2,7 @@
 <html lang=lv>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Create a startup disk
-  </title>
+<title>Izveidot starta disku</title>
 <link rel="stylesheet" type="text/css" href="lv.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,42 +65,25 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="disk.html.lv" title="Diski un uzglabāšana">Diski un uzglabāšana</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="disk.html.lv" title="Diski un uzglabāšana">Diski un uzglabāšana</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.lv" title="Install &amp; remove software">Pievienot vai izņemt programmatūru</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Pievienot vai izņemt programmatūru</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Create a startup disk
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Izveidot starta disku</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">In this context a startup disk is a USB flash drive from which you can startup and <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">install Ubuntu</a></span>.
-  The capacity of the USB flash drive must be at least 2 GB.
-  Any data on the USB flash drive will be lost when you create the startup disk.</p>
-<p class="p">It's assumed that you have downloaded an Ubuntu ISO image.</p>
-<p class="p">To create a startup disk from an Ubuntu ISO image:</p>
+<p class="p">Šajā kontekstā starta disks ir USB zibatmiņa, no kuras var startēt un <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">instalēt Ubuntu</a></span>. Uz šīs zibatmiņas ir jābūt vismaz 2 GB brīvas vietas. Veidojot starta disku, visi dati uz šīs USB zibatmiņas tiks pazaudēti.</p>
+<p class="p">Iet pieņemts, ka jūs lejupielādējāt Ubuntu ISO attēlu.</p>
+<p class="p">Lai izveidotu starta disku no Ubuntu ISO attēla:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        If the ISO image is in your <span class="gui">Download</span> folder and there is just one ISO image, <span class="app">Startup Disk Creator</span> will have selected it,
-        otherwise select the correct ISO image.
-      </p></li>
-<li class="steps"><p class="p">
-        If your computer has just one USB flash drive, <span class="app">Startup Disk Creator</span> will have selected it, otherwise select the correct drive.
-      </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Make Startup Disk</span>.
-      </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Yes</span> to confirm. The process should take ten minutes or less.
-      </p></li>
-<li class="steps"><p class="p">
-        When the "Installation Complete" window opens click <span class="gui">Quit</span>.
-      </p></li>
+<li class="steps"><p class="p">Atveriet <span class="app">Starta diska veidotājs</span> <span class="em">Aktivitāšu</span> meklēšanas joslā.</p></li>
+<li class="steps"><p class="p">Ja ISO attēls atrodas mapē <span class="gui">Lejupielādes</span> un tajā ir tikai viens ISO attēls, <span class="app">Starta diska veidotājs</span> to izvēlēsies, citādi izvēlieties pareizo ISO attēlu.</p></li>
+<li class="steps"><p class="p">Ja datorā ir tikai viena USB zibatmiņa, <span class="app">Starta diska veidotājs</span> to izvēlēsies, citādi izvēlieties pareizo dzini.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Izveidot starta disku</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Jā</span>, lai apstiprinātu. Procesam vajadzētu aizņemt mazāk kā desmit minūtes.</p></li>
+<li class="steps"><p class="p">Kad atveras logs “Instalēšana pabeigta”, spiediet <span class="gui">Iziet</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -114,11 +95,7 @@
 <a href="disk.html.lv" title="Diski un uzglabāšana">Diski un uzglabāšana</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.lv" title="Pārbaudiet, cik daudz vietas diskā ir atlicis">Diska vieta</a></span>, <span class="link"><a href="disk-benchmark.html.lv" title="Pārbaudiet jūsu cietā diska veiktspēju">veiktspēja</a></span>, <span class="link"><a href="disk-check.html.lv" title="Pārbaudiet, vai jūsu cietajam diskam nav problēmu">problēmas</a></span>, <span class="link"><a href="disk-partitions.html.lv" title="Pārvaldiet apjomus un nodalījumus">sējumi un nodalījumi</a></span>…</span>
 </li>
 <li class="links ">
-<a href="addremove.html.lv" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.lv" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.lv" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Instalēt un izņemt programmatūru</a><span class="desc"> — <span class="link"><a href="addremove-install.html.lv" title="Instalēt papildu lietotnes">Instalēt lietotnes</a></span>, <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">izņemt lietotnes</a></span>, <span class="link"><a href="addremove-sources.html.lv" title="Pievienot programmatūras krātuves">pievienot krātuves</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -72,7 +72,7 @@
 <div class="contents">
 <p class="p">Para configurar a maioria das conexões a redes instaladas, todo o que precisa é ligar um cabo de rede. O ícone de rede (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="configuração"></span></span>) mostra-se  na barra superior com três pontos enquanto estabelece-se a conexão. Os pontos desaparecerão cunado esteja conetado.</p>
 <p class="p">Se isto não ocorresse, deverá se assegurar primeiro de que seu cabo de rede está ligado. Um extremo do cabo deveria ir ligado ao porto de rede Ethernet retangular da sua computador, e o outro deveria ligar a um interruptor, router, roseta ou similar (dependendo da instalação de rede que tenha). Algumas vezes, uma luz junto ao porto Ethernet indica que está conetado e ativo.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">You can’t plug one computer directly into another one with a network
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot plug one computer directly into another one with a network
     cable (at least, not without some extra setting-up). To connect two
     computers, you should plug them both into a network hub, router or
     switch.</p></div></div></div></div>

@@ -71,17 +71,12 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.he" title="Install additional applications"><span class="title">
-    Install additional applications
-  </span><span class="linkdiv-dash"> — </span><span class="desc">
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.he" title="Remove an application"><span class="title">
     Remove an application
   </span><span class="linkdiv-dash"> — </span><span class="desc">
       Remove applications that you no longer use.
     </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.he" title="התקנת יישומים נוספים"><span class="title">התקנת יישומים נוספים</span><span class="linkdiv-dash"> — </span><span class="desc">יש להשתמש ב<span class="app">תכנה של אובונטו</span> כדי להתקין יישומים נוספים ולהפוך את מערכת אובונטו לשימושית יותר.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.he" title="Add a Personal Package Archive (PPA)"><span class="title">
     Add a Personal Package Archive (PPA)
   </span><span class="linkdiv-dash"> — </span><span class="desc">

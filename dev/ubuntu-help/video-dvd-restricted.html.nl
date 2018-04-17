@@ -72,7 +72,7 @@
 <div class="contents"><p class="p">Vanwege wettelijke en technische beperkingen kan dvd-ondersteuning niet standaard in Ubuntu worden opgenomen. De meeste commerciële dvd's zijn versleuteld; er is decodeersoftware nodig om ze af te kunnen spelen.</p></div>
 <div id="fluendo" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Gebruik Fluendo om legaal dvd's af te spelen</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can buy a commercial DVD decoder that can handle copy protection from <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. It works with Linux and should be legal to use in all countries.</p></div></div>
+<div class="region"><div class="contents"><p class="p">U kunt een commerciële DVD-decodeur kopen die om kan gaan met kopieerbescherming van <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. Hij werkt onder Linux en zou legaal moeten zijn in alle landen.</p></div></div>
 </div></div>
 <div id="restricted" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Gebruik alternatieve decodeersoftware</span></h2></div>
@@ -80,8 +80,7 @@
 <div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">In sommige landen is het gebruik van onderstaande decodeersoftware zonder licentie wettelijk niet toegestaan. Controleer of u het mag gebruiken.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Installeer <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span>, en <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
-<li class="steps"><p class="p">Open a terminal window by pressing
-   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Open een terminalvenster door te drukken op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Voer de opdracht uit</p>
 <p class="p"><span class="cmd">sudo dpkg-reconfigure libdvd-pkg</span></p>

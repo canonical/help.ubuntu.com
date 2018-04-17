@@ -72,11 +72,11 @@
 <div class="contents">
 <p class="p">To set up most wired network connections, all you need to do is plug in a
   network cable. The wired network icon
-  (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="settings"></span></span>) is displayed
-  on the top bar with three dots while the connection is being established. The
-  dots disappear when you are connected.</p>
+  (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="settings"></span></span>)
+  is displayed on the top bar with three dots while the connection is being
+  established. The dots disappear when you are connected.</p>
 <p class="p">இப்படி நடக்காவிட்டால், முதலில் பிணைய கேபிள் செருகப்பட்டுள்ளதா எனப் பார்க்கவும். பிணைய கேபிளின் ஒரு முனை உங்கள் கணினியின் ஈத்தர்நெட் (பிணையம்) போர்ட்டில் செருகப்பட்டிருக்க வேண்டும், மற்றொரு முனை (உங்கள் பிணைய அமைவைப் பொறுத்து) ஸ்விட்ச்சு, ரௌட்டர், பிணைய வால் சாக்கெட் அல்லது அது போன்ற சாதனத்தில் செருகப்பட்டிருக்க வேண்டும். சில சமயம் ஈத்தர்நெட் போர்ட்டில் ஒரு விளக்கு இருக்கும், போர்ட்டில் கேபிள் இணைந்து அது செயல்படுகிறது எனக் காட்ட அவ்விளக்கு ஒளிரும்.</p>
-<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">You can’t plug one computer directly into another one with a network
+<div class="note" title="குறிப்பு"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot plug one computer directly into another one with a network
     cable (at least, not without some extra setting-up). To connect two
     computers, you should plug them both into a network hub, router or
     switch.</p></div></div></div></div>

@@ -76,11 +76,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">install skype</a></span>
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chatujte na jakékoliv síti pomocí <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">uskutečňujte videohovory</a></span>, <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">nainstalujte skype</a></span></span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html.cs" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a></div>

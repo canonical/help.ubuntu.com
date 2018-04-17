@@ -78,11 +78,22 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">So richten Sie Ihre Netzwerkeinstellungen manuell ein:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Netzwerk</span>.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Netzwerk</span>, um das Panel zu öffnen.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Activities</a></span>
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
 <li class="steps">
-<p class="p">Wählen Sie im linken Teilfenster die Netzwerkverbindung, die Sie manuell einrichten wollen. Wenn Sie beispielsweise ein kabelgebundenes Netzwerk anschließen, klicken Sie auf <span class="gui">Kabelgebunden</span> und dann auf den <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="Einstellungen"></span></span>-Knopf in der unteren linken Ecke des Panels. Im Falle einer <span class="gui">WLAN</span>-Verbindung befindet sich der Knopf <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="Einstellungen"></span></span> neben dem aktiven Netzwerk.</p>
+<p class="p">In the left pane, select the network connection that you want to set
+      up manually. If you plug in to the network with a cable, click
+      <span class="gui">Network</span>. Otherwise click <span class="gui">Wi-Fi</span>.</p>
 <p class="p">Stellen Sie sicher, dass Ihr Funknetzwerkadapter eingeschaltet oder das Netzwerkkabel eingesteckt ist.</p>
+</li>
+<li class="steps">
+<p class="p">Click the
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      button.</p>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">For a <span class="gui">Wi-Fi</span> connection, the 
+        <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+        button will be located next to the active network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">IPv4</span> oder <span class="gui">IPv6</span> in der linken Seitenleiste und ändern Sie <span class="gui">Adressen</span> auf <span class="em">Manuell</span>.</p></li>
 <li class="steps"><p class="p">Geben Sie <span class="gui"><a href="net-what-is-ip-address.html.de" title="Was ist eine IP-Adresse?">IP-Adresse</a></span> und <span class="gui">Gateway</span> sowie die entsprechende <span class="gui">Netzmaske</span> ein.</p></li>

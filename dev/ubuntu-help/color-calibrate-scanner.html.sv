@@ -78,8 +78,11 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Säkerställ att din bildlärare är ansluten till din dator med en kabel eller över nätverket.</p></li>
 <li class="steps"><p class="p">Läs in ditt kalibreringsmål och spara det som en okomprimerad TIFF-fil.</p></li>
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Färg</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Färg</span> för att öppna panelen och välja din bildläsare.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Inställningar</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Inställningar</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Enheter</span> i sidopanelen.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Färg</span> i sidopanelen för att öppna panelen.</p></li>
+<li class="steps"><p class="p">Välj din bildläsare.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Kalibrera…</span> för att påbörja kalibreringen.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tips"><div class="inner"><div class="region"><div class="contents"><p class="p">Bildläsarenheter är otroligt stabila över tid och temperatur så de behöver vanligtvis inte omkalibreras.</p></div></div></div></div>

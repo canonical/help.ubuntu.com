@@ -75,19 +75,10 @@
 <p class="p">Skypen käyttö on ilmaista, mutta se ei ole avoin ohjelmisto; lähdekoodi on suljettua ja se ei ole muokattavissa.</p>
 <p class="p">Skype ei ole oletuksena asennettu Ubuntuun. Seuraa näitä ohjeita asentaaksesi <span class="app">Skype for Linux</span> -sovelluksen:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">
-      Open your web browser and go to the <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">Download Skype</a></span> page.
-    </p></li>
-<li class="list"><p class="p">
-      Click the <span class="gui">Get Skype for Linux DEB</span> button.
-    </p></li>
-<li class="list"><p class="p">
-      In the window which shows up, select <span class="gui">Open with</span> and <span class="gui">Software
-      Install (default)</span>, and then click the <span class="gui">OK</span> button.
-    </p></li>
-<li class="list"><p class="p">
-      <span class="app">Ubuntu Software</span> is opened. Click the <span class="gui">Install</span> button and authenticate.
-    </p></li>
+<li class="list"><p class="p">Avaa selain ja mene <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">Lataa Skype</a></span> -sivulle.</p></li>
+<li class="list"><p class="p">Napsauta <span class="gui">Hanki Skypen Linux DEB -versio</span> -painiketta.</p></li>
+<li class="list"><p class="p">Kun selaimen latausikkuna avautuu, valitse <span class="gui">Avaa ohjelmalla</span> ja <span class="gui">Ohjelmiston asennus (oletus)</span>, ja napsauta sitten <span class="gui">OK</span>.</p></li>
+<li class="list"><p class="p"><span class="app">Ubuntun sovellusvalikoima</span> avautuu. Napsauta <span class="gui">Asenna</span>-painiketta ja tunnistaudu.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -96,11 +87,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.fi" title="Pikaviestit ja sosiaaliset verkostot">Pikaviestit ja sosiaaliset verkostot</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.fi" title="Pikaviestit Ubuntussa">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.fi" title="Videopuhelut">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.fi" title="Miten käytän Skypeä Ubuntussa?">install skype</a></span>
-    </span>
+<a href="net-chat.html.fi" title="Pikaviestit ja sosiaaliset verkostot">Pikaviestit ja sosiaaliset verkostot</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.fi" title="Pikaviestit Ubuntussa">Keskustele <span class="app">Empathy</span>-pikaviestintä käyttäen</a></span>, <span class="link"><a href="net-chat-video.html.fi" title="Videopuhelut">soita videopuheluja</a></span>, <span class="link"><a href="net-chat-skype.html.fi" title="Miten käytän Skypeä Ubuntussa?">asenna Skype</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

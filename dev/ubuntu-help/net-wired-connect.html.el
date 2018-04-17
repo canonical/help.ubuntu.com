@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Σύνδεση σε ενσύρματο δίκτυο (Ethernet)</span></h1></div>
@@ -72,7 +72,7 @@
 <div class="contents">
 <p class="p">Για να ρυθμίσετε τις περισσότερες ενσύρματες ρυθμίσεις, το μόνο που πρέπει να κάνετε είναι να συνδέσετε ένα καλώδιο δικτύου. Θα εμφανιστεί το εικονίδιο της ενσύρματης σύνδεσης (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="ρυθμίσεις"></span></span>) στην πάνω μπάρα με τρεις τελείες ενώ γίνεται η σύνδεση. Οι τελείες θα εξαφανιστούν μόλις συνδεθείτε.</p>
 <p class="p">Εάν αυτό δεν συμβεί, θα πρέπει πρώτα να βεβαιωθείτε ότι το καλώδιο δικτύου συνδέθηκε. Ένα άκρο του καλωδίου πρέπει να συνδεθεί σε μια θύρα ορθογώνιου έθερνετ (δικτύου) στον υπολογιστή σας και η άλλη άκρη πρέπει να συνδεθεί σε έναν διακόπτη, δρομολογητή, πρίζα τοίχου δικτύου ή κάτι παρόμοιο (ανάλογα με τη διαμόρφωση δικτύου που έχετε). Μερικές φορές, ένα φως δίπλα στη θύρα έθερνετ θα δείξει ότι είναι συνδεμένο και ενεργό.</p>
-<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">You can’t plug one computer directly into another one with a network
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot plug one computer directly into another one with a network
     cable (at least, not without some extra setting-up). To connect two
     computers, you should plug them both into a network hub, router or
     switch.</p></div></div></div></div>

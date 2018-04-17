@@ -71,27 +71,14 @@
 <div class="region">
 <div class="contents">
 <p class="p">Aplikace je software, který má grafické uživatelské rozhraní (GUI). Vývojový tým Ubuntu vybral výchozí sadu aplikací, o nichž si myslíme, že dělají Ubuntu velmi užitečné pro většinu každodenních úkolů. Nicméně určitě budete chtít instalovat více aplikací, aby vaše Ubuntu bylo ještě více účelné. Pro instalaci aplikace můžete použít <span class="app">Ubuntu Software</span>.</p>
-<p class="p">
-    Applications are available in two formats: snap packages and Debian packages.
-    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    Some applications are available in both formats. In such a case in
-    <span class="app">Ubuntu Software</span> the snap will be listed first.
-   </p>
+<p class="p">Aplikace jsou dostupné ve dvou formátech: snap balíky a Debian balíky. Aplikace dostupná jako snap balík bude od teď nazývána jako <span class="em">snap</span>. Některé aplikace jsou dostupné v obou formátech. V takovém případě bude v <span class="app">Ubuntu Software</span> uveden snap jako první.</p>
 <p class="p">Možná budete chtít instalovat software, který nemá grafické rozhraní (GUI). K instalaci takového softwaru můžete použít <span class="link"><a href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru">Synaptic</a></span>. Všimněte si, že <span class="app">Synaptic</span> nezobrazuje snapy.</p>
 <p class="p">Pro instalaci aplikace:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klikněte na ikonu <span class="app">Ubuntu Software</span> v <span class="gui">Doku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
-<li class="steps"><p class="p">
-        When <span class="app">Ubuntu Software</span> launches, search for an application, or select 
-        a category and find an application from the list.
-      </p></li>
+<li class="steps"><p class="p">Když se <span class="app">Ubuntu Software</span> otevře, vyhledejte aplikaci nebo zvolte kategorii a vyberte aplikaci ze seznamu.</p></li>
 <li class="steps"><p class="p">Vyberte aplikaci, kterou chcete nainstalovat a klikněte na <span class="gui">Instalovat</span>.</p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password. 
-        Once you have done that the installation will begin. 
-        The installation usually finishes quickly, but could take a while if you 
-        have a slow Internet connection.
-      </p></li>
+<li class="steps"><p class="p">Budete požádáni o ověření zadáním vašeho hesla. Poté bude zahájena instalace. Instalace je obvykle rychlá, ale může trvat déle, pokud máte pomalé Internetové připojení.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

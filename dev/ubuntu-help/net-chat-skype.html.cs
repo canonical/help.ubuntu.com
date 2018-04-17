@@ -73,24 +73,12 @@
 <p class="p"><span class="app">Skype</span> je proprietární software umožňující volání přes Internet pomocí vašeho počítače.</p>
 <p class="p">Skype používá decentralizované peer-to-peer technologie, takže hovory nejdou přes centrální server, ale přes distribuované servery a ostatní účastníky.</p>
 <p class="p">Skype můžete používat zdarma, ale nejedná se o svobodý software; zdrojový kód je proprietární a neumožňuje úpravy.</p>
-<p class="p">
-    Skype is not installed by default on Ubuntu. Follow these steps to install
-    <span class="app">Skype for Linux</span>:
-  </p>
+<p class="p">Skype není na Ubuntu obsažen ve výchozí instalaci. Pro nainstalování <span class="app">Skype pro Linux</span> se řiďte těmito instrukcemi:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">
-      Open your web browser and go to the <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">Download Skype</a></span> page.
-    </p></li>
-<li class="list"><p class="p">
-      Click the <span class="gui">Get Skype for Linux DEB</span> button.
-    </p></li>
-<li class="list"><p class="p">
-      In the window which shows up, select <span class="gui">Open with</span> and <span class="gui">Software
-      Install (default)</span>, and then click the <span class="gui">OK</span> button.
-    </p></li>
-<li class="list"><p class="p">
-      <span class="app">Ubuntu Software</span> is opened. Click the <span class="gui">Install</span> button and authenticate.
-    </p></li>
+<li class="list"><p class="p">Otevřete váš webový prohlížeč a jděte na stránku <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">Stáhnout Skype</a></span>.</p></li>
+<li class="list"><p class="p">Klikněte na tlačítko <span class="gui">Získat Skype pro Linux DEB</span>.</p></li>
+<li class="list"><p class="p">V okně, které se zobrazí vyberte <span class="gui">Otevřít pomocí</span> a <span class="gui">Instalace softwaru (výchozí)</span>, poté klikněte na tlačítko <span class="gui">OK</span>.</p></li>
+<li class="list"><p class="p">Otevře se <span class="app">Ubuntu Software</span>. Klikněte na tlačítko <span class="gui">Instalovat</span> a potvrďte ověření.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -99,11 +87,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">install skype</a></span>
-    </span>
+<a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chatujte na jakékoliv síti pomocí <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">uskutečňujte videohovory</a></span>, <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">nainstalujte skype</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

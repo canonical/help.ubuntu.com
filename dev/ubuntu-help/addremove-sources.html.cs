@@ -81,49 +81,26 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klikněte na ikonu <span class="app">Ubuntu Software</span> v <span class="gui">Doku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
 <li class="steps"><p class="p">Když se <span class="app">Ubuntu Software</span> spustí, klikněte na <span class="gui">Software &amp; Aktualizace</span></p></li>
-<li class="steps"><p class="p">Budete požádání o zadání hesla. Jakmile tak učiníte, přejděte na kartu<span class="gui">Ostatní software</span>.</p></li>
+<li class="steps"><p class="p">Budete požádání o zadání hesla. Jakmile tak učiníte, přejděte na kartu <span class="gui">Ostatní software</span>.</p></li>
 <li class="steps">
 <p class="p">Klikněte na <span class="gui">Přidat</span> a vložte APT řádku zdroje. Ta by měla být dostupná na webové stránce zdroje softwaru a měla by vypadat podobně jako:</p>
 <p class="p">
         <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
       </p>
 </li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. 
-        <span class="app">Ubuntu Software</span> will then check your software sources for new 
-        updates.
-      </p></li>
-<li class="steps"><p class="p">
-        Most repositories provide a signing key to be able to verify downloaded packages.
-        So in addition to the steps above, you should follow possible instructions on how to
-        download and install the signing key (GPG key).
-      </p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui">Přidat zdroj</span>, poté zavřete okno <span class="app">Software &amp; Aktualizace</span>. <span class="app">Ubuntu Software</span> následně zkontroluje vaše zdroje softwaru na nový software.</p></li>
+<li class="steps"><p class="p">Většina repozitářů poskytuje podpisový klíč, aby bylo možno ověřit stažené balíky. Kromě výše zmíněných kroků byste se tedy měli řídit instrukcemi jak stáhnout a nainstalovat podpisový klíč (klíč GPG).</p></li>
 </ol></div></div></div>
 </div>
 <div id="canonical-partner" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Aktivace Partnerského repozitáře Canonical</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">
-      The Canonical Partner repository offers some proprietary applications 
-      that don't cost any money to use but are closed source. They include 
-      software like <span class="app">Adobe Flash Plugin</span>. Software in this
-      repository will appear in <span class="app">Ubuntu Software</span> search results
-      but won't be installable until this repository is enabled.
-    </p>
-<p class="p">
-      To enable the repository, follow the steps above to open the <span class="gui">Other 
-      Software</span> tab in <span class="app">Software &amp; Updates</span>. If you see the 
-      <span class="gui">Canonical Partners</span> repository in the list, make sure it is 
-      checked then close the <span class="app">Software &amp; Updates</span> window. If you don't see it, click 
-      <span class="gui">Add</span> and enter:
-    </p>
+<p class="p">Partnerský repozitář Canonical poskytuje některé proprietární aplikace, které nestojí žádné peníze, ale mají uzavřený zdrojový kód. Patří mezi ně například <span class="app">zásuvný modul Adobe Flash</span>. Software z tohoto repozitáře se zobrazí ve výsledcích vyhledávání v <span class="app">Ubuntu Software</span>, ale nebude možno jej nainstalovat, než bude tento repozitář povolen.</p>
+<p class="p">Pro povolení tohoto repozitáře se řiďte instrukcemi výše pro otevření karty <span class="gui">Ostatní software</span> v <span class="app">Software &amp; Aktualizace</span>. Pokud v seznamu vidíte repozitář <span class="gui">Partneři Canonicalu</span>, ujistěte se, že je zaškrtnut a poté zavřete okno <span class="app">Software &amp; Aktualizace</span>. Pokud jej nevidíte, klikněte na <span class="gui">Přidat</span> a vložte:</p>
 <p class="p">
       <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
     </p>
-<p class="p">
-      Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. Wait a 
-      moment for <span class="app">Ubuntu Software</span> to download the repository information.
-    </p>
+<p class="p">Klikněte na <span class="gui">Přidat zdroj</span>, poté zavřete okno <span class="app">Software &amp; Aktualizace</span>. Poté chvíli počkejte, než <span class="app">Ubuntu Software</span> stáhne informace o repozitáři.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

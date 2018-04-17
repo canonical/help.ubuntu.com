@@ -2,9 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Install additional applications
-  </title>
+<title>Instal·la aplicacions addicionals</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -69,18 +67,10 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ca" title="Install &amp; remove software">Afegeix/suprimeix programari</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Install additional applications
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Instal·la aplicacions addicionals</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">Ubuntu Software</span>.
-   </p>
+<p class="p">Una aplicació és un programa que té una interfície gràfica d'usuari (GUI). L' equip de desenvolupament de l'Ubuntu ha escollit un conjunt d'aplicacions per defecte que pensem que fa que l'Ubuntu sigui més útil per a la majoria de tasques diàries. De totes formes, segur que voldreu instal·lar més aplicacions per fer que  l'Ubuntu us sigui més útil. Per instal·lar una aplicació, podeu utilitzar el <span class="app">Programari de l'Ubuntu</span>.</p>
 <p class="p">
     Applications are available in two formats: snap packages and Debian packages.
     An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
@@ -92,9 +82,7 @@
     such software, you can use <span class="link"><a href="addremove-install-synaptic.html.ca" title="Utilitzeu el Synaptic per dur a terme una gestió més avançada del programari">Synaptic</a></span>.
     Note that <span class="app">Synaptic</span> does not list snaps.
   </p>
-<p class="p">
-    To install an application:
-  </p>
+<p class="p">Per instal·lar una aplicació:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
         Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
@@ -120,7 +108,7 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="addremove.html.ca" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.ca" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html.ca" title="Instal·la aplicacions addicionals">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html.ca" title="Suprimiu una aplicació">remove applications</a></span>,
       <span class="link"><a href="addremove-sources.html.ca" title="Add software repositories">add repositories</a></span>…
     </span>

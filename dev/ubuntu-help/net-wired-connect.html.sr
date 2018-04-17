@@ -72,7 +72,10 @@
 <div class="contents">
 <p class="p">Да подесите већину жичаних мрежних веза, све што треба да урадите је да прикључите мрежни кабал. Иконица жичане мреже (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="подешавања"></span></span>) се приказује на горњој траци са трима тачкама приликом успостављања везе. Тачке нестају када се повежете.</p>
 <p class="p">Ако до овога не дође, као прво уверите се да је ваш мрежни кабал прикључен. Један крај кабла треба бити прикључен у правоугаону мрежну прикључницу на вашем рачунару, други крај треба бити прикључен у прекидач, усмеривач, зидну мрежну прикључницу или слично (у зависности од мрежног подешавања које имате). Понекад, светло иза мрежног порта ће указати да је прикључен и активан.</p>
-<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">Не можете да прикључите један рачунар директно у други мрежним каблом (барем, не без неких посебних подешавања). Да повежете два рачунара, требате оба да их прикључите у мрежни чвор, усмеривач или прекидач.</p></div></div></div></div>
+<div class="note" title="Белешка"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot plug one computer directly into another one with a network
+    cable (at least, not without some extra setting-up). To connect two
+    computers, you should plug them both into a network hub, router or
+    switch.</p></div></div></div></div>
 <p class="p">Ако још увек нисте повезани, ваша мрежа не подржава самостално подешавање (ДХЦП). У том случају мораћете да га <span class="link"><a href="net-manual.html.sr" title="Ручно подесите мрежна подешавања">подесите ручно</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">

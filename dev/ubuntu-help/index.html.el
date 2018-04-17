@@ -65,7 +65,7 @@
 </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Λογότυπο του Ubuntu"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.el" title="Ξεκινώντας"><span class="title">Ξεκινώντας με το GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Είστε νέος στο GNOME; Μάθετε πώς να τα καταφέρετε.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">

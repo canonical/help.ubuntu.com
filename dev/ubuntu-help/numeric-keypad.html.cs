@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Numeric keypad</title>
+<title>Numerická klávesnice</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,19 +71,15 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Numeric keypad</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Numerická klávesnice</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">With the <span class="key"><kbd>Num Lock</kbd></span> key you can manually switch on or off
-  the numeric keypad on your keyboard. Also, computers' BIOS settings often
-  include an option to decide if the computer should be started with the
-  numeric keypad enabled. Otherwise, this is a way to configure it:</p>
+<p class="p">Pomocí klávesy <span class="key"><kbd>Num Lock</kbd></span> můžete ručně zapínat a vypínat vaši numerickou klávesnici. Nastavení v BIOSu počítače rovněž často poskytují možnost nastavit, jestli bude počítač spuštěn s povolenou numerickou klávesnicí. V opačném případě je možno její automatické povolení nastavit takto:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
-<li class="steps"><p class="p">Open <span class="app"><span class="link"><a href="startup-applications.html.cs" title="Aplikace po spuštění">Startup Applications</a></span></span>
-      and add a startup program with the command: <span class="cmd">numlockx on</span></p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Nainstalujte</a></span> balík <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p">Otevřete <span class="app"><span class="link"><a href="startup-applications.html.cs" title="Aplikace spouštěné při přihlášení">Aplikace spouštěné při přihlášení</a></span></span> a přidejte program při přihlášení s příkazem: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">The second step may be redundant on your computer, so try without it first.</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Druhý krok může být na vašem počítači nadbytečný, tudíž to nejprve vyzkoušejte bez něj.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

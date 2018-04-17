@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.lv" title="Install &amp; remove software">Pievienot vai izņemt programmatūru</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Pievienot vai izņemt programmatūru</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Lietojiet Synaptic, lai veiktu plašāku programmatūras pārvaldību</span></h1></div>
@@ -77,10 +77,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Instalēt programmatūru ar Synaptic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
-          will need to enter your password in the <span class="gui">Authenticate</span> window.
-        </p></li>
+<li class="steps"><p class="p">Atveriet <span class="app">Synaptic</span> no <span class="em">Aktivitāšu</span> meklēšanas joslas. <span class="gui">Autentifikācijas</span> logā jums vajadzēs ievadīt savu paroli.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Search</span>, lai meklētu lietotni, vai spiediet <span class="gui">Sections</span> un meklējiet kategorijās, lai atrastu programmu.</p></li>
 <li class="steps"><p class="p">Spiediet labo peles pogu uz lietotnes, ko vēlaties instalēt, un izvēlieties <span class="gui">Mark for Installation</span>.</p></li>
 <li class="steps"><p class="p">Ja jums prasa papildu izmaiņas, spiediet <span class="gui">Mark</span>.</p></li>
@@ -96,28 +93,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.lv" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.lv" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.lv" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Instalēt un izņemt programmatūru</a><span class="desc"> — <span class="link"><a href="addremove-install.html.lv" title="Instalēt papildu lietotnes">Instalēt lietotnes</a></span>, <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">izņemt lietotnes</a></span>, <span class="link"><a href="addremove-sources.html.lv" title="Pievienot programmatūras krātuves">pievienot krātuves</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.lv" title="Install additional applications">
-    Install additional applications
-  </a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.lv" title="Instalēt papildu lietotnes">Instalēt papildu lietotnes</a><span class="desc"> — Izmantojiet <span class="app">Ubuntu programmatūru</span>, lai insatalētu papildu lietotnes un padarītu Ubuntu noderīgāku.</span>
 </li>
 <li class="links ">
-<a href="addremove-remove.html.lv" title="Izņemt lietotni">Izņemt lietotni</a><span class="desc"> — 
-      Remove applications that you no longer use.
-    </span>
+<a href="addremove-remove.html.lv" title="Izņemt lietotni">Izņemt lietotni</a><span class="desc"> — Izņemiet lietotnes, ko vairāk nelietojat.</span>
 </li>
 </ul></div>
 </div></div>

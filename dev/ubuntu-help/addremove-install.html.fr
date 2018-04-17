@@ -71,19 +71,11 @@
 <div class="region">
 <div class="contents">
 <p class="p">Une application est un logiciel qui dispose d'une interface utilisateur graphique. L'équipe de développement d'Ubuntu a choisi un jeu d'applications par défaut rendant Ubuntu très utile pour la plupart des tâches quotidiennes. Cependant, vous voudrez certainement installer plus d'applications pour vous rendre Ubuntu encore plus utile. Pour installer une application, vous pouvez utiliser <span class="app">Logiciels Ubuntu</span>.</p>
-<p class="p">
-    Applications are available in two formats: snap packages and Debian packages.
-    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    Some applications are available in both formats. In such a case in
-    <span class="app">Ubuntu Software</span> the snap will be listed first.
-   </p>
+<p class="p">Les applications sont disponibles dans deux formats : paquets debian et paquets snap. Une application disponible en tant que paquet snap sera nommée <span class="em">snap</span>. Certaines applications sont disponibles dans les deux formats. Si c'est le cas, le paquet snap sera listé en premier dans <span class="app">Logiciels Ubuntu</span>.</p>
 <p class="p">Vous souhaiterez peut-être également installer des logiciels qui ne disposent pas d'interface graphique. Pour installer de tels logiciels, vous pouvez utiliser <span class="link"><a href="addremove-install-synaptic.html.fr" title="Utiliser Synaptic pour gérer les logiciels de façon plus avancée">Synaptic</a></span>. Notez que <span class="app">Synaptic</span> ne liste pas les Snaps.</p>
 <p class="p">Pour installer une application :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Cliquez sur l'icône <span class="app">Logiciels Ubuntu</span> dans le <span class="gui">Dock</span>, ou recherchez <span class="input">Logiciel</span> dans la barre de recherche <span class="em">Activités</span>.</p></li>
 <li class="steps"><p class="p">Quand <span class="app">Logiciels Ubuntu</span> s'ouvre, cherchez une application ou sélectionnez une catégorie et trouvez une application dans la liste.</p></li>
 <li class="steps"><p class="p">Sélectionnez l'application que vous voulez installer et cliquez sur <span class="gui">Installer</span>.</p></li>
 <li class="steps"><p class="p">Vous devrez vous authentifier en entrant votre mot de passe. Une fois fait, l'installation commencera. L'installation se termine généralement rapidement, mais cela peut prendre un certain temps si vous avez une connexion Internet lente.</p></li>

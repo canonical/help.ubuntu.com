@@ -81,8 +81,10 @@
 <dd class="terms"><p class="p">Koloruje ekran na niebiesko, umożliwiając sprawdzenie, czy krzywe kalibracji są wysyłane do ekranu.</p></dd>
 </dl></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Kolor</span>, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Ustawienia</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Ustawienia</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Urządzenia</span> na panelu bocznym.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Kolor</span> na panelu bocznym, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Wybierz urządzenie, dla którego dodać profil. Warto zanotować, który profil jest obecnie używany.</p></li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj profil</span>, aby wybrać profil testowy, który powinien być na końcu listy.</p></li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj</span>, aby potwierdzić wybór.</p></li>

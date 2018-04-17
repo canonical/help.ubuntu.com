@@ -79,8 +79,11 @@
 <li class="steps"><p class="p">Удостоверьтесь, что сканер подключён к компьютеру по кабелю или по сети.</p></li>
 <li class="steps"><p class="p">Отсканируйте калибровочную мишень и сохраните её в виде несжатого файла формата TIFF. </p></li>
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Нажмите <span class="gui">Цвет</span>, чтобы открыть этот раздел настроек.</p></li>
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your scanner.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Создать</span> для начала калибровки.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Подсказка"><div class="inner"><div class="region"><div class="contents"><p class="p">Сканеры необычайно устойчивы ко времени и температуре и обычно не нуждаются в повторной калибровке.</p></div></div></div></div>

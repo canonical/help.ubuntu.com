@@ -76,10 +76,7 @@
 <div class="contents">
 <p class="p">Vous pouvez définir quelles applications devraient être lancées à la connexion, en plus des applications de démarrage par défaut configurées sur le système.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="gui">Startup Applications</span> via the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview.
-      Alternatively you can press
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and run the
-      <span class="cmd">gnome-session-properties</span> command.</p></li>
+<li class="steps"><p class="p">Ouvrir <span class="gui">Applications au démarrage</span> via l'aperçu <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span>. Vous pouvez également appuyer sur <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> et exécuter la commande <span class="cmd">gnome-session-properties</span>.</p></li>
 <li class="steps"><p class="p">Appuyez sur <span class="gui">Ajouter</span> et entrez la commande à exécuter à la connexion (le nom et le commentaire sont facultatifs). Par exemple, pour que Firefox démarre automatiquement, il suffit de saisir <span class="cmd">firefox</span> dans le champ <span class="gui">Commande</span> et de confirmer avec <span class="gui">Ajouter</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Vous pouvez soit saisir la commande, soit cliquer sur le bouton <span class="gui">Parcourir...</span> et sélectionner une commande. Les applications dont le démarrage est automatique sont généralement situées dans le dossier <span class="code">/usr/bin</span>.</p></div></div></div></div>

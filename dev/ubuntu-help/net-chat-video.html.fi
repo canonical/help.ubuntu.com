@@ -70,14 +70,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Videopuhelut</span></h1></div>
 <div class="region">
 <div class="contents"><div class="list"><div class="inner">
-<div class="title title-list"><h2><span class="title">Applications which support video calls include</span></h2></div>
+<div class="title title-list"><h2><span class="title">Muun muassa seuraavat sovellukset tukevat videopuheluita</span></h2></div>
 <div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">
-      <span class="app"><span class="link"><a href="net-chat-empathy.html.fi" title="Pikaviestit Ubuntussa">Empathy</a></span></span>
-    </p></li>
-<li class="list"><p class="p">
-      <span class="app"><span class="link"><a href="net-chat-skype.html.fi" title="Miten käytän Skypeä Ubuntussa?">Skype</a></span></span>
-    </p></li>
+<li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-empathy.html.fi" title="Pikaviestit Ubuntussa">Empathy</a></span></span></p></li>
+<li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-skype.html.fi" title="Miten käytän Skypeä Ubuntussa?">Skype</a></span></span></p></li>
 <li class="list"><p class="p">Ekiga</p></li>
 </ul></div>
 </div></div></div>
@@ -87,11 +83,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.fi" title="Pikaviestit ja sosiaaliset verkostot">Pikaviestit ja sosiaaliset verkostot</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.fi" title="Pikaviestit Ubuntussa">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.fi" title="Videopuhelut">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.fi" title="Miten käytän Skypeä Ubuntussa?">install skype</a></span>
-    </span>
+<a href="net-chat.html.fi" title="Pikaviestit ja sosiaaliset verkostot">Pikaviestit ja sosiaaliset verkostot</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.fi" title="Pikaviestit Ubuntussa">Keskustele <span class="app">Empathy</span>-pikaviestintä käyttäen</a></span>, <span class="link"><a href="net-chat-video.html.fi" title="Videopuhelut">soita videopuheluja</a></span>, <span class="link"><a href="net-chat-skype.html.fi" title="Miten käytän Skypeä Ubuntussa?">asenna Skype</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

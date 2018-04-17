@@ -72,7 +72,10 @@
 <div class="contents">
 <p class="p">Para configurar la mayoría de las conexiones a redes cableadas, todo lo que necesita es conectar un cable de red. El icono de red (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="configuración"></span></span>) se muestra en la barra superior con tres puntos mientras se establece la conexión. Los puntos desaparecerán cunado esté conectado.</p>
 <p class="p">Si esto no ocurriera, deberá asegurarse primero de que su cable de red está conectado. Un extremo del cable debería ir enchufado al puerto de red Ethernet rectangular de su equipo, y el otro debería conectarse a un conmutador, enrutador, roseta o similar (dependiendo de la instalación de red que tenga). Algunas veces, una luz junto al puerto Ethernet indica que está conectado y activo.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">No puede conectar directamente dos equipos con un cable de red (al menos, no sin cierta configuración adicional). Para conectar dos equipos, deberá enchufar ambos a un concentrador, enrutador o conmutador.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot plug one computer directly into another one with a network
+    cable (at least, not without some extra setting-up). To connect two
+    computers, you should plug them both into a network hub, router or
+    switch.</p></div></div></div></div>
 <p class="p">Si todavía no está conectado, puede que su red no soporte la configuración automática (DHCP). En este caso tendrá que <span class="link"><a href="net-manual.html.es" title="Establecer la configuración de la red manualmente">configurarla manualmente</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">

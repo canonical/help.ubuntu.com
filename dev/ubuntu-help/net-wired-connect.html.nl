@@ -72,7 +72,10 @@
 <div class="contents">
 <p class="p">Voor het opzetten van de meeste bekabelde netwerkverbindingen hoeft er alleen een netwerkkabel aangesloten te worden. Het netwerkpictogram (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="instellingen"></span></span>) wordt in de menubalk weergegeven met drie puntjes terwijl de verbinding gemaakt wordt. De puntjes verdwijnen zodra u verbonden bent.</p>
 <p class="p">Als dit niet gebeurt, dient u eerst te controleren of de netwerkkabel aangesloten is. De ene kant van de kabel moet aangesloten zijn op de rechthoekige Ethernet(netwerk)-poort van uw computer, en de ander kant moet in een switch, router, muurstopcontact of iets dergelijks zitten (afhankelijk van de netwerkconfiguratie die u heeft). Soms zal er een lichtje naast de Ethernet-poort gaan branden om aan te geven dat deze aangesloten en actief is.</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt niet de ene computer rechtstreeks op een andere aansluiten via een netwerkkabel (tenminste niet zonder extra maatregelen). Om twee computers te verbinden dient u ze allebei aan te sluiten op een netwerkhub, router of switch.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot plug one computer directly into another one with a network
+    cable (at least, not without some extra setting-up). To connect two
+    computers, you should plug them both into a network hub, router or
+    switch.</p></div></div></div></div>
 <p class="p">Als u nog geen verbinding heeft, dan kan het zijn dat uw netwerk geen automatische set-up (DHCP) ondersteunt. In dat geval moet u het <span class="link"><a href="net-manual.html.nl" title="Netwerkinstellingen handmatig instellen">handmatig configureren</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">

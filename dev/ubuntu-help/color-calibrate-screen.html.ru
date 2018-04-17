@@ -79,10 +79,13 @@
   artwork.</p>
 <p class="p">Для этого понадобится колориметр или спектрометр. Оба этих устройства используются для создания профилей мониторов, но их принципы работы немного отличаются.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Нажмите <span class="gui">Цвет</span>, чтобы открыть этот раздел настроек и выбрать монитор.</p></li>
 <li class="steps"><p class="p">Проверьте, что калибровочное устройство подключено к компьютеру.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Создать</span> для начала калибровки.</p></li>
 </ol></div></div></div>
 <p class="p">Цвет экранов изменяется постоянно — подсветка TFT-мониторов теряет яркость вдвое примерно каждые 18 месяцев, и со временем приобретает желтоватый оттенок. Это означает, что вам нужно выполнять повторную калибровку экрана, когда в разделе настроек <span class="gui">Color</span> появляется значок [!].</p>

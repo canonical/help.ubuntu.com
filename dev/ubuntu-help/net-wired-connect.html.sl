@@ -72,11 +72,11 @@
 <div class="contents">
 <p class="p">To set up most wired network connections, all you need to do is plug in a
   network cable. The wired network icon
-  (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="settings"></span></span>) is displayed
-  on the top bar with three dots while the connection is being established. The
-  dots disappear when you are connected.</p>
+  (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="settings"></span></span>)
+  is displayed on the top bar with three dots while the connection is being
+  established. The dots disappear when you are connected.</p>
 <p class="p">V primeru da se to ne zgodi, se najprej prepričajte, da je vaš omrežni kabel vklopljen. En konec kabla bi moral biti vklopljen v pravokotna vrata Ethernet (omrežje) na vašem računalniku, drugi konec bi moral biti vklopljen v stikalo, usmerjevalnik, vtič zidu ali podobno (odvisno od omrežne nastavitve, ki jo imate).</p>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">You can’t plug one computer directly into another one with a network
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot plug one computer directly into another one with a network
     cable (at least, not without some extra setting-up). To connect two
     computers, you should plug them both into a network hub, router or
     switch.</p></div></div></div></div>

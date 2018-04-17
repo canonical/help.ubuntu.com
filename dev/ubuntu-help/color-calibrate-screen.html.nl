@@ -77,9 +77,13 @@
 <p class="p">U kunt uw scherm kalibreren zodat het de kleuren accurater weergeeft. Dit is vooral nuttig als u zich bezig houdt met digitale fotografie, ontwerp of kunst.</p>
 <p class="p">Om dit te doen heeft u of een colorimeter of een spectrofotometer. Beide worden gebruikt om profielen voor schermen te maken, maar ze werken niet helemaal hetzelfde.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
-<li class="steps"><p class="p">Klik op <span class="gui">Kleur</span> om het paneel te openen en selecteer uw scherm.</p></li>
 <li class="steps"><p class="p">Zorg ervoor dat uw kalibratieappraat met uw computer is verbonden.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Kalibreren…</span> om de kalibratie te beginnen.</p></li>
 </ol></div></div></div>
 <p class="p">Schermen veranderen voortdurend - de helderheid van de achtergrondverlichting in een TFT-scherm halveert ongeveer elke 18 maanden, en wordt geler naarmate deze ouder wordt. Dit betekent dat u uw scherm opnieuw dient te kalibreren wanneer het pictogram [!] in het <span class="gui">Kleur</span>-paneel verschijnt.</p>

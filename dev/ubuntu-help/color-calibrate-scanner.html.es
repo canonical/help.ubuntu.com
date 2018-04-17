@@ -78,8 +78,12 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Asegúrese de que su escáner está conectado al equipo mediante un cable o a través de la red.</p></li>
 <li class="steps"><p class="p">Analice el objetivo de la calibración y guárdelo en un archivo TIFF sin comprimir.</p></li>
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Color</span> para abrir el panel y seleccionar su escáner.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your scanner.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Calibrar…</span> para iniciar la calibración.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents"><p class="p">Los escáneres son increíblemente estables en el tiempo y temperatura y generalmente no necesitan recalibrarse.</p></div></div></div></div>

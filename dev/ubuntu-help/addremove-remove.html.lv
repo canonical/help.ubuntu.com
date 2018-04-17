@@ -64,24 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.lv" title="Install &amp; remove software">Pievienot vai izņemt programmatūru</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Pievienot vai izņemt programmatūru</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Izņemt lietotni</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">An application is software that has a graphical user interface (GUI).
-    You can use <span class="app">Ubuntu Software</span> to remove applications that you 
-    no longer use.</p>
-<p class="p">Applications are available in two formats: snap packages and Debian packages. 
-   An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-   Some applications are available in both formats. In such a case in
-   <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
-<p class="p">You may also wish to remove software that does not have a GUI.
-    To remove such software, you can use
-    <span class="link"><a href="addremove-install-synaptic.html.lv" title="Lietojiet Synaptic, lai veiktu plašāku programmatūras pārvaldību">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
-  </p>
-<p class="p">To remove an application:</p>
+<p class="p">Lietotne ir programmatūra, kurai ir grafiska lietotāja saskarne (GUI). Jūs varat izmantot <span class="app">Ubuntu programmatūru</span>, lai izņemtu lietotnes, ko vairāk nelietojat.</p>
+<p class="p">Lietotnes ir pieejamas divos formātos — snap pakotnēs un Debian pakotnēs. Lietotnes snap pakotnēs šeit tiks dēvētas par <span class="em">snap</span>. Dažas lietotnes ir pieejamas abos formātos. Tādos gadījumos <span class="app">Ubuntu programmatūrā</span> snap tiks parādīts vispirms.</p>
+<p class="p">Jūs varētu arī vēlēties izņemt programmatūru, kurai nav grafiskās saskarnes. Lai izņemtu tādu programmatūru, jūs varat izmantot <span class="link"><a href="addremove-install-synaptic.html.lv" title="Lietojiet Synaptic, lai veiktu plašāku programmatūras pārvaldību">Synaptic</a></span>. Ņemiet vērā, ka <span class="app">Synaptic</span> neinstalē snap pakotnes.</p>
+<p class="p">Lai izņemtu lietotni:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
         Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
@@ -90,13 +82,8 @@
 <li class="steps"><p class="p">Kad <span class="app">Ubuntu programmatūra</span> atveras, spiediet pogu <span class="gui">Instalētās</span> loga augšpusē.</p></li>
 <li class="steps"><p class="p">Atrodiet lietotni, ko vēlaties izņemt, izmantojot meklēšanas lauku, vai ejot cauri instalēto lietotņu sarakstam.</p></li>
 <li class="steps"><p class="p">Izvēlieties lietotni un spiediet <span class="gui">Izņemt</span>.</p></li>
-<li class="steps"><p class="p">
-        Confirm that you want to remove the application.
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password.
-        After you have done that, the application will be removed.
-      </p></li>
+<li class="steps"><p class="p">Apstipriniet, ka vēlaties izņemt lietotni.</p></li>
+<li class="steps"><p class="p">Jums varbūt lūgs autentificēties, ievadot paroli. Pēc tam lietotne tiks izņemta.</p></li>
 </ol></div></div></div>
 <div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Dažām lietotnēm, lai tās pareizi strādātu, ir vajadzīgas citas lietotnes. Ja mēģināsiet izņemt lietotni, kas ir vajadzīga kādai citai lietotnei, abas tiks izņemtas. Jums prasīs apstiprinājumu, ka tiešām vēlaties, lai tas notiek, pirms lietotnes tiks izņemtas.</p></div></div></div></div>
 </div>
@@ -106,23 +93,14 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.lv" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.lv" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.lv" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Instalēt un izņemt programmatūru</a><span class="desc"> — <span class="link"><a href="addremove-install.html.lv" title="Instalēt papildu lietotnes">Instalēt lietotnes</a></span>, <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">izņemt lietotnes</a></span>, <span class="link"><a href="addremove-sources.html.lv" title="Pievienot programmatūras krātuves">pievienot krātuves</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.lv" title="Install additional applications">
-    Install additional applications
-  </a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.lv" title="Instalēt papildu lietotnes">Instalēt papildu lietotnes</a><span class="desc"> — Izmantojiet <span class="app">Ubuntu programmatūru</span>, lai insatalētu papildu lietotnes un padarītu Ubuntu noderīgāku.</span>
 </li>
 <li class="links ">
 <a href="addremove-install-synaptic.html.lv" title="Lietojiet Synaptic, lai veiktu plašāku programmatūras pārvaldību">Lietojiet Synaptic, lai veiktu plašāku programmatūras pārvaldību</a><span class="desc"> — Synaptic ir jaudīga, bet sarežģīta programmatūras pārvaldības alternatīva <span class="app">Ubuntu programmatūras</span> lietotnei.</span>

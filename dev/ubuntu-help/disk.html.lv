@@ -64,17 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Diski un uzglabāšana</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.lv" title="Create a startup disk"><span class="title">
-    Create a startup disk
-  </span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.lv" title="Izveidot starta disku"><span class="title">Izveidot starta disku</span><span class="linkdiv-dash"> — </span><span class="desc">Pārveidot USB zibatmiņu par sējumu, no kuras var startēt un instalēt Ubuntu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html.lv" title="Notīriet visu no izņemamā diska"><span class="title">Notīriet visu no izņemamā diska</span><span class="linkdiv-dash"> — </span><span class="desc">Formatējot ārējo cieto disku vai USB zibatmiņu, visas datnes un mapes tiek dzēstas.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-resize.html.lv" title="Pielāgot datņu sistēmas izmēru"><span class="title">Pielāgot datņu sistēmas izmēru</span><span class="linkdiv-dash"> — </span><span class="desc">Samazināt vai palielināt datņu sistēmu un tās nodalījumu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.lv" title="Pārbaudiet jūsu cietā diska veiktspēju"><span class="title">Pārbaudiet jūsu cietā diska veiktspēju</span><span class="linkdiv-dash"> — </span><span class="desc">Palaidiet veiktspējas mērījumus savam cietajam diskam, lai pārbaudītu cik ātrs tas ir.</span></a></div>

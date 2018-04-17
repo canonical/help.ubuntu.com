@@ -81,8 +81,11 @@
 <dd class="terms"><p class="p">Der gesamte Bildschirm wird blau eingefärbt und überprüft, ob die Kalibrierungskurven an die Anzeige gesendet wurden.</p></dd>
 </dl></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Farbe</span> ein.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Farbe</span>, um das Panel zu öffnen.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Wählen Sie das Gerät, für das Sie ein Profil hinzufügen wollen. Achten Sie darauf, welches Profil aktuell verwendet wird.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Profil hinzufügen</span> und wählen Sie ein Test-Profil vom Ende der Liste aus.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Hinzufügen</span>, um Ihre Auswahl zu bestätigen.</p></li>

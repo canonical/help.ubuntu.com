@@ -78,8 +78,12 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Уверите се да је ваш скенер повезан на ваш рачунар каблом или преко мреже.</p></li>
 <li class="steps"><p class="p">Скенирајте мету калибрације и сачувајте је као незапаковану ТИФФ датотеку.</p></li>
-<li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Боја</span>.</p></li>
-<li class="steps"><p class="p">Кликните на <span class="gui">Боја</span> да отворите панел и да изаберете ваш скенер.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your scanner.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Калибриши…</span> да започнете калибрацију.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Савет"><div class="inner"><div class="region"><div class="contents"><p class="p">Скенери су невероватно постојани у времену и температури, тако да обично не морају бити поново калибрисани.</p></div></div></div></div>

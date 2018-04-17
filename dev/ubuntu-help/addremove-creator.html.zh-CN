@@ -2,9 +2,7 @@
 <html lang=zh-CN>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Create a startup disk
-  </title>
+<title>创建一个启动盘。</title>
 <link rel="stylesheet" type="text/css" href="zh-CN.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -73,9 +71,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Create a startup disk
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">创建一个启动盘。</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">In this context a startup disk is a USB flash drive from which you can startup and <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">install Ubuntu</a></span>.

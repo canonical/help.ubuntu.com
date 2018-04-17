@@ -78,11 +78,22 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Om uw netwerkinstellingen handmatig in te voeren:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
-<li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span>
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
 <li class="steps">
-<p class="p">Kies in het linkerpaneel de netwerkverbinding die u handmatig wilt instellen. Als u met een kabel op het netwerk aansluit, dan klikt u op <span class="gui">Bekabeld</span> en daarna op de knop <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span> in de hoek rechts onder in het paneel. bij een <span class="gui">wifi</span>-verbinding bevindt de knop <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span> zich naast het actieve netwerk.</p>
+<p class="p">In the left pane, select the network connection that you want to set
+      up manually. If you plug in to the network with a cable, click
+      <span class="gui">Network</span>. Otherwise click <span class="gui">Wi-Fi</span>.</p>
 <p class="p">Zorg ervoor dat uw draadloze kaart is ingeschakeld of dat een netwerkkabel is aangesloten.</p>
+</li>
+<li class="steps">
+<p class="p">Click the
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      button.</p>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">For a <span class="gui">Wi-Fi</span> connection, the 
+        <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+        button will be located next to the active network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Klik op het <span class="gui">IPv4</span> of <span class="gui">IPv6</span> in het linkerdeelvenster en wijzig de <span class="gui">Adressen</span> naar <span class="em">Handmatig</span>.</p></li>
 <li class="steps"><p class="p">Typ het <span class="gui"><a href="net-what-is-ip-address.html.nl" title="Wat is een IP-adres?">IP-adres</a></span> en <span class="gui">Gateway</span> in, evenals het juiste <span class="gui">netmasker</span>.</p></li>

@@ -82,8 +82,7 @@
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox.
- <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Install the package</a></span> and restart your browser.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Le paquet <span class="app">flashplugin-installer</span> fournit le greffon NPAPI pour Firefox. <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Installez ce paquet </a></span> et redémarrez votre navigateur.</p></div></div>
 </div></div>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>

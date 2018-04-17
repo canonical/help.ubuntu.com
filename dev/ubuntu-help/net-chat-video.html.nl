@@ -70,14 +70,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Videogesprekken</span></h1></div>
 <div class="region">
 <div class="contents"><div class="list"><div class="inner">
-<div class="title title-list"><h2><span class="title">Applications which support video calls include</span></h2></div>
+<div class="title title-list"><h2><span class="title">Toepassingen die videobellen ondersteunen, omvatten</span></h2></div>
 <div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">
-      <span class="app"><span class="link"><a href="net-chat-empathy.html.nl" title="Chatten in Ubuntu">Empathy</a></span></span>
-    </p></li>
-<li class="list"><p class="p">
-      <span class="app"><span class="link"><a href="net-chat-skype.html.nl" title="Hoe kan ik Skype gebruiken in Ubuntu?">Skype</a></span></span>
-    </p></li>
+<li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-empathy.html.nl" title="Chatten in Ubuntu">Empathy</a></span></span></p></li>
+<li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-skype.html.nl" title="Hoe kan ik Skype gebruiken in Ubuntu?">Skype</a></span></span></p></li>
 <li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Ekiga</a></span></span></p></li>
 </ul></div>
 </div></div></div>

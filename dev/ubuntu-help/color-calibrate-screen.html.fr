@@ -79,10 +79,13 @@
   artwork.</p>
 <p class="p">Pour cela, il vous faut un colorimètre ou un spectromètre. Les deux permettent d'établir un profil de couleurs, mais s'utilisent différemment.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Cliquez sur <span class="gui">Couleur</span> pour ouvrir le panneau et sélectionner votre écran. </p></li>
 <li class="steps"><p class="p">Vérifiez que votre périphérique d'étalonnage est connecté à votre ordinateur.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Étalonner…</span> pour démarrer l'étalonnage.</p></li>
 </ol></div></div></div>
 <p class="p">La luminosité des écrans évolue sans arrêt - le rétro-éclairage d'un écran TFT diminue pratiquement de moitié chaque 18 mois et va jaunir en vieillissant. Vous devriez donc étalonner votre écran à nouveau quand l'icône [!] s'affiche dans le panneau de contrôle <span class="gui">Couleur</span>.</p>

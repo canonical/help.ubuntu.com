@@ -78,9 +78,7 @@
 <p class="p">Il est supposé que vous avez téléchargé une image ISO d'Ubuntu.</p>
 <p class="p">Pour créer un disque de démarrage à partir d'une image ISO d'Ubuntu :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Ouvrez le <span class="app">Créateur de disque de démarrage</span> via la barre de recherche des <span class="em">Activités</span>.</p></li>
 <li class="steps"><p class="p">Si votre image ISO est dans votre dossier <span class="gui">Téléchargements</span> et qu'il n'y a qu'une image ISO dans celui-ci, le <span class="app">Créateur de disque de démarrage</span> la sélectionnera. Sinon, sélectionnez la bonne image ISO.</p></li>
 <li class="steps"><p class="p">Si une seule clé USB est connectée à votre ordinateur, le <span class="app">Créateur de disque de démarrage</span> la sélectionnera. Sinon, sélectionnez la bonne clé.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Créer un disque de démarrage</span>.</p></li>

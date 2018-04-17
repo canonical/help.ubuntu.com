@@ -70,25 +70,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Použití Synaptic pro pokročilejší správu softwaru</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    <span class="app">Synaptic Package Manager</span> is more powerful and can do some 
-    software management tasks which <span class="app">Ubuntu Software</span> can't. 
-    Synaptic's interface is more complicated and doesn't support newer
-    <span class="app">Ubuntu Software</span> features like ratings and reviews and therefore
-    isn't recommended for use by those new to Ubuntu.
-  </p>
-<p class="p">
-    Synaptic isn't installed by default, but you can <span class="link"><a href="apt:synaptic" title="apt:synaptic">install</a></span> it from the Ubuntu package archive.
-  </p>
+<p class="p"><span class="app">Správce balíků Synaptic</span> má více funkcí a poradí si i s úkoly, které <span class="app">Ubuntu Software</span> nezvládne. Rozhraní aplikace Synaptic je však více komplikované a nepodporuje některé nové funkce <span class="app">Ubuntu Software</span>, jako jsou například uživatelská hodnocení, a tudíž není její použití doporučeno těm, kteří s Ubuntu začínají.</p>
+<p class="p">Synaptic není obsažen ve výchozí instalaci, ale může být <span class="link"><a href="apt:synaptic" title="apt:synaptic">nainstalován</a></span> z archivu balíků Ubuntu.</p>
 </div>
 <div id="install-software-with-synaptic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Instalace softwaru pomocí Synaptic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
-          will need to enter your password in the <span class="gui">Authenticate</span> window.
-        </p></li>
+<li class="steps"><p class="p">Otevřete <span class="app">Synaptic</span> prostřednictvím vyhledávacího panelu <span class="em">Aktivity</span>. Budete muset zadat své heslo v okně <span class="gui">Ověření</span>.</p></li>
 <li class="steps"><p class="p">Pro vyhledávání aplikací klikněte na <span class="gui">Hledat</span>, pro procházení aplikací dle kategorií klikněte na <span class="gui">Sekce</span>.</p></li>
 <li class="steps"><p class="p">Klikněte pravým tlačítkem na aplikaci , kterou si přejte nainstalovat, a vyberte <span class="gui">Nainstalovat</span>.</p></li>
 <li class="steps"><p class="p">Pokud máte označit další změny, klikněte na <span class="gui">Označit</span>.</p></li>

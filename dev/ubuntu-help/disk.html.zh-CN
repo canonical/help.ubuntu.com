@@ -71,13 +71,11 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="disk-resize.html.zh-CN" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.zh-CN" title="Create a startup disk"><span class="title">
-    Create a startup disk
-  </span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
-    </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-repair.html.zh-CN" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
           state.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.zh-CN" title="创建一个启动盘。"><span class="title">创建一个启动盘。</span><span class="linkdiv-dash"> — </span><span class="desc"> 
+    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
+    </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html.zh-CN" title="擦除可移动磁盘上的所有数据"><span class="title">擦除可移动磁盘上的所有数据</span><span class="linkdiv-dash"> — </span><span class="desc">通过格式化，删除一个外接硬盘或 U 盘上的所有文件和文件夹。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.zh-CN" title="检查磁盘剩余空间"><span class="title">检查磁盘剩余空间</span><span class="linkdiv-dash"> — </span><span class="desc">使用<span class="gui">磁盘使用分析器</span>或者<span class="gui">系统监视器</span>来检查磁盘容量和空闲情况。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-check.html.zh-CN" title="检查磁盘错误"><span class="title">检查磁盘错误</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>

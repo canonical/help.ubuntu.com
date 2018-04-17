@@ -70,11 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Lisää PPA-ohjelmalähde</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    <span class="em">Personal Package Archives (PPAs)</span> are software repositories designed 
-    for Ubuntu users and are easier to install than other third-party 
-    repositories. PPAs are often used to distribute pre-release software so that it can be tested.
-  </p>
+<p class="p"><span class="em">Personal Package Archives</span> -ohjelmalähteet ovat Ubuntun käyttäjille suunniteltuja, ja ne on helpompi ottaa käyttöön kuin muut kolmansien osapuolten ohjelmalähteet. PPA-ohjelmalähteitä käytetään usein esijulkaisuasteella olevien ohjelmien julkaisuun, mikä helpottaa testaamista.</p>
 <div class="note note-warning" title="Varoitus"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Lisää vain sellaisia ohjelmistolähteitä, joihin luotat!</p>
 <p class="p">Ubuntun kehittäjät eivät ole tarkastaneet kolmannen osapuolen ohjelmalähteitä tietoturvauhkien varalta, joten ne voivat sisältää jopa haittaohjelmia.</p>
@@ -83,22 +79,12 @@
 <div class="title title-steps"><h2><span class="title">Asenna PPA-ohjelmalähde</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">PPA-ohjelmalähteen etusivulla on kohta <span class="gui">Adding this PPA to your system</span>. Tämän otsikon alta löytyy PPA:n polku, joka on muotoa <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">Ubuntu Software</span> launches, click <span class="gui">Software &amp; Updates</span>
-      </p></li>
+<li class="steps"><p class="p">Napsauta <span class="app">Ubuntun sovellusvalikoima</span> -kuvaketta <span class="gui">telakassa</span>, tai etsi <span class="input">Ohjelmistot</span> <span class="em">Toiminnot</span>-yleisnäkymän hakukentästä.</p></li>
+<li class="steps"><p class="p">Kun <span class="app">Ubuntun sovellusvalikoima</span> käynnistyy, napsauta <span class="gui">Ohjelmistot ja päivitykset</span></p></li>
 <li class="steps"><p class="p">Siirry <span class="gui">Muut ohjelmistot</span> -välilehdelle.</p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Add</span> and enter the PPA's location (as noted in step 1).
-      </p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Lisää</span> ja kirjoita PPA:n sijainti (kuten mainittu kohdassa 1).</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Lisää lähde</span>. Anna salasanasi todennusikkunaan.</p></li>
-<li class="steps"><p class="p">
-        Close the <span class="app">Software &amp; Updates</span> window. <span class="app">Ubuntu Software</span> will then 
-        check your software sources for new software.
-      </p></li>
+<li class="steps"><p class="p">Sulje <span class="app">Ohjelmistot ja päivitykset</span> -ikkuna. <span class="app">Ubuntun sovellusvalikoima</span> tarkistaa tämän jälkeen ohjelmistolähteet uusien ohjelmien osalta.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -114,10 +100,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-sources.html.fi" title="Lisää ohjelmistolähteitä">Lisää ohjelmistolähteitä</a><span class="desc"> — 
-      Add repositories to extend the software sources Ubuntu uses for 
-      installation and upgrades.
-    </span>
+<a href="addremove-sources.html.fi" title="Lisää ohjelmistolähteitä">Lisää ohjelmistolähteitä</a><span class="desc"> — Lisää ohjelmistolähteitä laajentaaksesi Ubuntun ohjelmistovalikoimaa.</span>
 </li></ul></div>
 </div></div>
 </div>

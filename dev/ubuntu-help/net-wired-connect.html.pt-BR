@@ -72,7 +72,10 @@
 <div class="contents">
 <p class="p">Para configurar a maioria das conexões de rede com fio, tudo que você precisa fazer é conectar um cabo de rede. O ícone de rede com fio (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="configurações"></span></span>) é exibido na barra superior com três pontos enquanto a conexão está sendo estabelecida. Os três pontos desaparecem quando você estiver conectado.</p>
 <p class="p">Se isso não acontecer, você deveria primeiro se certificar que sua rede cabeada está conectada. Uma ponta do cabe deveria estar conectada na porta Ethernet (de rede) em seu computador e a outra ponta deveria estar conectada em um switch, roteador, tomada de rede na parede ou algo similar (dependendo da configuração de rede que você tenha). Algumas vezes, uma luz por volta da porta Ethernet vai indicar que ela esta conectada e ativa.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Você não pode se conectar a um computador diretamente em outro com um cabo de rede (pelo menos não sem fazer algumas configurações adicionais). Para conectar dois computadores, você deveria conectar ambos em um hub de rede, roteador ou switch.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot plug one computer directly into another one with a network
+    cable (at least, not without some extra setting-up). To connect two
+    computers, you should plug them both into a network hub, router or
+    switch.</p></div></div></div></div>
 <p class="p">Se você ainda não estiver conectado, sua rede pode não oferecer suporte a configuração automática (DHCP). Nesse caso, você terá que <span class="link"><a href="net-manual.html.pt-BR" title="Definindo manualmente as configurações de rede">configurá-la manualmente</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">

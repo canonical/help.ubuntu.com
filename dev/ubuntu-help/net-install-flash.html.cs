@@ -70,52 +70,42 @@
 <div class="hgroup"><h1 class="title"><span class="title">Instalace zásuvného modulu Flash</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Flash is a <span class="em">plug-in</span> for your web browser that allows you to watch videos and use
-interactive web pages on some websites. While HTML5, which is a more modern solution, is increasingly
-offered, there are still some websites which won't work without Flash.</p>
+<p class="p">Flash je <span class="em">zásuvný modul</span> pro váš prohlížeč, umožňující sledovat videa a používat interaktivní prvky na některých webových stránkách. Ačkoliv HTML5, jenž je moderním řešením pro tyto prvky, je používán stále více, stále existují nějaké webové stránky, jež se neobejdou bez technologie Flash.</p>
 <p class="p">Pokud Flash potřebujete a nemáte jej nainstalován, pravděpodobně vás o tom bude daná stránka informovat jednoduchou zprávou. Flash je dostupný zdarma (ale nemá otevřený zdrojový kód) pro většinu webových prohlížečů.</p>
-<div class="note note-warning" title="Varování"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe has announced that they will stop updating and distributing the Flash Player at the end
- of 2020. Consequently, for security reasons, the Flash plug-in should not be used after 2020.</p></div></div></div></div>
-<p class="p">There are two kinds of plug-ins available:</p>
+<div class="note note-warning" title="Varování"><div class="inner"><div class="region"><div class="contents"><p class="p">Společnost Adobe oznámila, že na konci roku 2020 dojde k zastavení aktualizací Flash přehrávače. Zásuvný modul Flash by tedy z bezpečnostních důvodů již neměl být po roce 2020 používán.</p></div></div></div></div>
+<p class="p">Jsou k dispozici dva typy zásuvných modulů:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="em">NPAPI</span> for <span class="app">Firefox</span> and other Gecko-based web browsers</p></li>
-<li class="list"><p class="p"><span class="em">PPAPI</span> for <span class="app">Chromium</span> and other Blink-based web browsers including <span class="app">Opera</span> and
-  <span class="app">Vivaldi</span></p></li>
+<li class="list"><p class="p"><span class="em">NPAPI</span> pro <span class="app">Firefox</span> a ostatní webové prohlížeče založené na jádru Gecko</p></li>
+<li class="list"><p class="p"><span class="em">PPAPI</span> pro <span class="app">Chromium</span> a ostatní webové prohlížeče založené na jádru Blink, včetně prohlížečů <span class="app">Opera</span> a <span class="app">Vivaldi</span></p></li>
 </ul></div></div></div>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="app">Google Chrome</span> browser is shipped with Flash bundled, and does not need a plug-in.</p></div></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Prohlížeč <span class="app">Google Chrome</span> je dodáván spolu s technologií Flash, tudíž nepotřebuje externí zásuvný modul.</p></div></div></div></div>
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox.
- <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Install the package</a></span> and restart your browser.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Balík <span class="app">flashplugin-installer</span> poskytuje zásuvný modul NPAPI pro Firefox. <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Nainstalujte tento balík</a></span> a restartujte svůj prohlížeč.</p></div></div>
 </div></div>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">The <span class="app">adobe-flashplugin</span> package provides both the NPAPI and PPAPI plug-ins, i.e. it provides
- Flash for both Firefox and Chromium like web browsers.</p>
+<p class="p">Balík <span class="app">adobe-flashplugin</span> poskytuje jak zásuvný modul NPAPI, tak PPAPI, tzn. poskytuje podporu technologie Flash pro Firefox i Chromium a z nich odvozené prohlížeče.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that the <span class="link"><a href="addremove-sources.html.cs#canonical-partner" title="Aktivace Partnerského repozitáře Canonical">Canonical Partner repository is activated</a></span>.</p></li>
-<li class="steps"><p class="p">Install the <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span> package.</p></li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">Ujistěte se, že <span class="link"><a href="addremove-sources.html.cs#canonical-partner" title="Aktivace Partnerského repozitáře Canonical">Partnerský repozitář Canonical je aktivní</a></span>.</p></li>
+<li class="steps"><p class="p">Nainstalujte balík <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
+<li class="steps"><p class="p">Restartujte svůj prohlížeč.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="browser-plugin-freshplayer-pepperflash" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">browser-plugin-freshplayer-pepperflash</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Some features of the PPAPI plug-in, such as 3D acceleration and premium video DRM, are not available
- in the NPAPI plugin. If you use Firefox or some other Gecko-based browser and need those features, you
- can install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package. It's a wrapper which makes
- Firefox use the PPAPI plug-in.</p>
+<p class="p">Některé vlastnosti zásuvného modulu PPAPI, jako například 3D akcelerace a správa DRM obsahu, nejsou dostupné u jeho NPAPI verze. Používáte-li Firefox nebo nějaký jiný prohlížeč založený na jádře Gecko, a potřebujete podporu těchto funkcí, můžete si nainstalovat balík <span class="app">browser-plugin-freshplayer-pepperflash</span>. Ten umožní v prohlížeči Firefox používat zásuvné moduly PPAPI.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that <span class="app">adobe-flashplugin</span> is installed.</p></li>
+<li class="steps"><p class="p">Ujistěte se, že je nainstalován <span class="app">adobe-flashplugin</span>.</p></li>
 <li class="steps">
-<p class="p">Open a terminal window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> and
-   install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package:</p>
+<p class="p">Otevřete okno Terminálu prostřednictvím <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> a nainstalujte balík  <span class="app">browser-plugin-freshplayer-pepperflash</span>:</p>
 <p class="p"><span class="cmd">sudo apt install browser-plugin-freshplayer-pepperflash</span></p>
 </li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">Restartujte svůj prohlížeč.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

@@ -70,23 +70,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    <span class="app">Synaptic Package Manager</span> is more powerful and can do some 
-    software management tasks which <span class="app">Ubuntu Software</span> can't. 
-    Synaptic's interface is more complicated and doesn't support newer
-    <span class="app">Ubuntu Software</span> features like ratings and reviews and therefore
-    isn't recommended for use by those new to Ubuntu.
-  </p>
+<p class="p"><span class="app">Synaptic-pakettihallinta</span> on työkalu pakettihallintaan, ja se sisältää <span class="app">Ubuntun sovellusvalikoimasta</span> puuttuvia tehokäyttäjien työkaluja. Synapticin käyttöliittymä on monimutkaisempi, eikä se tue uusimpia <span class="app">Ubuntun sovellusvalikoimaan</span> sisältyviä ominaisuuksia, kuten arvosteluja, arvosanoja ja niin edelleen. Synaptic ei  ole suositeltu käyttöliittymä pakettihallintaan uusille Ubuntun käyttäjille.</p>
 <p class="p">Synaptic ei ole asennettu oletuksena, mutta voit <span class="link"><a href="apt:synaptic" title="apt:synaptic">asentaa</a></span> sen Ubuntun pakettiarkistosta.</p>
 </div>
 <div id="install-software-with-synaptic" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ohjelmistojen asentaminen Synapticilla</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
-          will need to enter your password in the <span class="gui">Authenticate</span> window.
-        </p></li>
+<li class="steps"><p class="p">Avaa <span class="app">Synaptic</span> <span class="em">Toiminnot</span>-yleisnäkymän hakukenttää käyttäen. Kirjoita salasanasi <span class="gui">Tunnistautuminen vaaditaan</span> -ikkunaan.</p></li>
 <li class="steps"><p class="p">Voit etsiä ohjelmia napsauttamalla <span class="gui">Etsi</span>-painiketta tai selata niitä <span class="gui">Ryhmät</span>-listauksen alta löytyvistä luokista.</p></li>
 <li class="steps"><p class="p">Napsauta sovellusta, jonka haluat asentaa, hiiren oikealla painikkeella ja valitse <span class="gui">Merkitse asennettavaksi</span>.</p></li>
 <li class="steps"><p class="p">Jos sinua pyydetään merkitsemään lisämuutoksia, napsauta <span class="gui">Merkitse</span>.</p></li>
@@ -109,10 +100,7 @@
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna lisäsovelluksia</a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna lisäsovelluksia</a><span class="desc"> — Käytä <span class="app">Ubuntun sovellusvalikoimaa</span> asentaaksesi lisää sovelluksia ja tee siten Ubuntusta entistä hyödyllisempi.</span>
 </li>
 <li class="links ">
 <a href="addremove-remove.html.fi" title="Poista sovellus">Poista sovellus</a><span class="desc"> — Poista sovelluksia, joita et enää käytä.</span>

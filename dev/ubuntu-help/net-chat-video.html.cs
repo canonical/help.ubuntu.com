@@ -70,14 +70,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Videotelefonování</span></h1></div>
 <div class="region">
 <div class="contents"><div class="list"><div class="inner">
-<div class="title title-list"><h2><span class="title">Applications which support video calls include</span></h2></div>
+<div class="title title-list"><h2><span class="title">Aplikace s podporou videohovorů zahrnují</span></h2></div>
 <div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">
-      <span class="app"><span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Empathy</a></span></span>
-    </p></li>
-<li class="list"><p class="p">
-      <span class="app"><span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">Skype</a></span></span>
-    </p></li>
+<li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Empathy</a></span></span></p></li>
+<li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">Skype</a></span></span></p></li>
 <li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Ekiga</a></span></span></p></li>
 </ul></div>
 </div></div></div>
@@ -87,11 +83,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">install skype</a></span>
-    </span>
+<a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chatujte na jakékoliv síti pomocí <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">uskutečňujte videohovory</a></span>, <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">nainstalujte skype</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

@@ -77,8 +77,11 @@
 <p class="p">Du kan importera en färgprofil genom att dubbelklicka på en <span class="file">.ICC</span>- eller <span class="file">.ICM</span>-fil i filhanteraren.</p>
 <p class="p">Alternativt kan du hantera dina färgprofiler via panelen <span class="gui">Färg</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Färg</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Färg</span> för att öppna panelen och välja din enhet.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Inställningar</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Inställningar</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Enheter</span> i sidopanelen.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Färg</span> i sidopanelen för att öppna panelen.</p></li>
+<li class="steps"><p class="p">Välj din enhet.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Lägg till profil</span> för att välja en existerande profil eller importera en ny profil.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Lägg till</span> för att bekräfta ditt val.</p></li>
 </ol></div></div></div>

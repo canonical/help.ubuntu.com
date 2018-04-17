@@ -72,7 +72,10 @@
 <div class="contents">
 <p class="p">Nastavení u většiny drátových sítí spočívá v pouhém zasunutí síťového kabelu do zdířky v počítači. Ikona drátové sítě (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="nastavení"></span></span>) na horní liště by měla během připojování pod sebou tři tečky. Když spojení ustaveno, tečky zmizí.</p>
 <p class="p">V případě, že se tak nestane, měli byste nejprve zkontrolovat, že máte správně zapojený síťový kabel. Jeden konec by měl být zasunutý do čtvercové ethernetová (síťové) zástrčky na počítači a druhý do síťového přepínače, routeru, síťové zásuvky na zdi a podobně (v závislosti na tom, jak máte síť realizovanou). Často jsou po stranách ethernetové zásuvky na počítači kontrolky, které se po zapojení a rozjetí sítě rozsvítí.</p>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Počítače nemůžete sítovým kabelem propojit na přímo mezi sebou (respektive ne bez speciální verze kabelu). Abyste propojili dva počítače, musíte je oba připojit do síťového rozbočovače, přepínače nebo směrovače.</p></div></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot plug one computer directly into another one with a network
+    cable (at least, not without some extra setting-up). To connect two
+    computers, you should plug them both into a network hub, router or
+    switch.</p></div></div></div></div>
 <p class="p">Jestli stále nejste připojeni, možná vaše síť nepodporuje automatické nastavení (DHCP). V takovém případě ji budete muset <span class="link"><a href="net-manual.html.cs" title="Ruční nastavení sítě">nastavit ručně</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">

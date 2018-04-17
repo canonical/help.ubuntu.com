@@ -76,8 +76,11 @@
 <div class="contents">
 <p class="p">Puede querer asignar un perfil de color a su pantalla o a su impresora para que los colores que muestren sean más precisos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Color</span> para abrir el panel.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Seleccione el dispositivo para el que quiere añadir un perfil.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Añadir perfil</span> puede seleccionar un perfil existente o para importar un archivo nuevo.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Añadir</span> para confirmar su selección.</p></li>

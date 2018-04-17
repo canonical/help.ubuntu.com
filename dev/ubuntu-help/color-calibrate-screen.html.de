@@ -77,9 +77,13 @@
 <p class="p">Sie können Ihren Bildschirm kalibrieren, so dass er präzisere Farben darstellt. Das ist besonders hilfreich, wenn Sie mit digitaler Fotografie, Design oder künstlerischer Darstellung zu tun haben.</p>
 <p class="p">Sie benötigen dafür entweder ein Colorimeter oder ein Spectrophotometer. Beide Geräte sind zum Profilieren von Bildschirmen gedacht, aber arbeiten in etwas unterschiedlicher Weise.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Farbe</span> ein.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Farbe</span>, um das Panel zu öffnen und Ihren Bildschirm zu wählen.</p></li>
 <li class="steps"><p class="p">Stellen Sie sicher, dass das zu kalibrierende Gerät mit Ihrem Rechner verbunden ist.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Kalibrieren …</span> zum Starten der Kalibrierung.</p></li>
 </ol></div></div></div>
 <p class="p">Bildschirme verändern sich ständig. Die Leuchtkraft der Hintergrundbeleuchtung eines LCDs halbiert sich etwa alle 18 Monate und die Farbe verschiebt sich mit zunehmendem Alter nach gelb. Das bedeutet, dass Sie Ihren Bildschirm neu kalibrieren sollten, sobald das [!]-Symbol in der Leiste von <span class="gui">Farbe</span> angezeigt wird.</p>

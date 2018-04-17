@@ -77,8 +77,12 @@
 <p class="p">Profil barev můžete naimportovat tím, že dvojitě kliknete na soubor <span class="file">.ICC</span> nebo <span class="file">.ICM</span> ve správci souborů.</p>
 <p class="p">Případně můžete své profily barev spravovat v panelu <span class="gui">Barvy</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Barvy</span>.</p></li>
-<li class="steps"><p class="p">Kliknutím na <span class="gui">Barvy</span> otevřete příslušný panel a vyberte své zařízení.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your device.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Přidat profil</span> pro výběr stávajícího profilu nebo import nového profilu.</p></li>
 <li class="steps"><p class="p">Zmáčknutím <span class="gui">Přidat</span> svoji volbu potvrdíte.</p></li>
 </ol></div></div></div>

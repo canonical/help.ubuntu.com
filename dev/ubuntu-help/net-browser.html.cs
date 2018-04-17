@@ -70,7 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Webové prohlížeče</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.cs" title="Instalace zásuvného modulu Flash"><span class="title">Instalace zásuvného modulu Flash</span><span class="linkdiv-dash"> — </span><span class="desc">You may need to install Flash to be able to view some websites, which display videos and interactive web pages.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.cs" title="Instalace zásuvného modulu Flash"><span class="title">Instalace zásuvného modulu Flash</span><span class="linkdiv-dash"> — </span><span class="desc">Pro zobrazení některých stránek obsahujících videa a interaktivní prvky můžete potřebovat nainstalovat Flash.</span></a></div></div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.cs" title="Změna prohlížeče, ve kterém se jako výchozím otevírají webové stránky"><span class="title">Změna prohlížeče, ve kterém se jako výchozím otevírají webové stránky</span><span class="linkdiv-dash"> — </span><span class="desc">Výchozí webový prohlížeč můžete změnit, když přejdete do <span class="gui">Podrobností</span> v <span class="gui">Nastavení</span>.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

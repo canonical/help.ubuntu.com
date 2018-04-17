@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.lv" title="Skaņa, video un bildes">Skaņa, video un bildes</a> › <a class="trail" href="media.html.lv#videos" title="Video un video kameras">Video</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="media.html.lv" title="Skaņa, video un bildes">Skaņa, video un bildes</a> › <a class="trail" href="media.html.lv#videos" title="Video un video kameras">Video</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kā es varu aktivēt ierobežotos kodekus, lai atskaņotu DVDs?</span></h1></div>
@@ -72,7 +72,7 @@
 <div class="contents"><p class="p">DVD atbalstu pēc noklusējuma Ubuntu nevar piedāvāt juridisku iemeslu dēļ un tehniskiem ierobežojumiem. Vairums komerciālo DVD ir šifrēti un tiem ir vajadzīga atšifrēšanas programmatūra, lai tos varētu atskaņot.</p></div>
 <div id="fluendo" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lietojiet Fluendo, lai legāli atskaņotu DVD</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can buy a commercial DVD decoder that can handle copy protection from <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. It works with Linux and should be legal to use in all countries.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Jūs varat nopirkt komerciālu DVD dekoderu, kas tiek galā ar aizsardzību pret kopēšanu <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. Tas darbojas ar Linux un tam vajadzētu būt legālam visās valstīs.</p></div></div>
 </div></div>
 <div id="restricted" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lietot alternatīvu atšifrēšanas programmatūru</span></h2></div>
@@ -80,8 +80,7 @@
 <div class="note note-warning" title="Brīdinājums"><div class="inner"><div class="region"><div class="contents"><p class="p">Dažās valstīs tālāk aprakstītā nelicencētā programmatūra varētu nebūt atļauta ar likumu. Pārliecinieties, ka jums ir tiesības to izmantot.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Instalējiet <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> un <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
-<li class="steps"><p class="p">Open a terminal window by pressing
-   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Atveriet termināļa logu, spiežot <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Izpildiet komandu</p>
 <p class="p"><span class="cmd">sudo dpkg-reconfigure libdvd-pkg</span></p>

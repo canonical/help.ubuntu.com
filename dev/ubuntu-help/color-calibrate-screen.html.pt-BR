@@ -77,9 +77,13 @@
 <p class="p">Você pode calibrar sua tela de forma que ela mostre cores mais precisas. Isso é especialmente útil se você está envolvido em fotografia digital, design ou trabalhos de arte.</p>
 <p class="p">Você vai precisar de um colorímetro ou de um espectrofotômetro para fazer isso. Ambos dispositivos são usados para fazer perfil de telas, mas eles funcionam de formas um pouco diferentes.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Cor</span>.</p></li>
-<li class="steps"><p class="p">Clique em <span class="gui">Cor</span> para abrir o painel e selecione sua tela.</p></li>
 <li class="steps"><p class="p">Certifique-se que seu dispositivo de calibração está conectado a seu computador.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Calibrar…</span> para começar a calibração.</p></li>
 </ol></div></div></div>
 <p class="p">Telas alteram o tempo todo: a luz de fundo em uma TFT reduz à metade do brilho aproximadamente a cada 18 meses, e vai ficando amarelada à medida em que envelhece. Isso significa que você deveria recalibrar sua tela quando o ícone [!] aparece no painel <span class="gui">Cor</span>.</p>

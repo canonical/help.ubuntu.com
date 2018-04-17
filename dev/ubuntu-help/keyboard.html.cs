@@ -119,7 +119,7 @@
 <a href="keyboard-repeat-keys.html.cs" title="Nastavení opakování zmáčknutých kláves">Nastavení opakování zmáčknutých kláves</a><span class="desc"> — Jak přimět klávesnici, aby neopakovala písmena, když držíte klávesu zmáčknutou, nebo jak změnit prodlevu a rychlost opakování.</span>
 </li>
 <li class="links ">
-<a href="numeric-keypad.html.cs" title="Numeric keypad">Numeric keypad</a><span class="desc"> — Enable the numeric keypad by default.</span>
+<a href="numeric-keypad.html.cs" title="Numerická klávesnice">Numerická klávesnice</a><span class="desc"> — Povolit ve výchozím nastavení numerickou klávesnici.</span>
 </li>
 <li class="links ">
 <a href="shell-keyboard-shortcuts.html.cs" title="Užitečné klávesové zkratky">Užitečné klávesové zkratky</a><span class="desc"> — Jak se v uživatelském prostředí pohybovat pomocí klávesnice.</span>

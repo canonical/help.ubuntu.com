@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,11 +82,22 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Για να ορίσετε χειροκίνητα τις ρυθμίσεις δικτύου:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Δίκτυο</span> για να ανοίξετε τον πίνακα.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span>
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
 <li class="steps">
-<p class="p">Από τον αριστερό πίνακα, επιλέξτε τη σύνδεση δικτύου που θέλετε να ρυθμίσετε χειροκίνητα. Αν συνδέεστε στο δίκτυο με καλώδιο, κάντε κλικ στο <span class="gui">Ενσύμαρτη</span>, και έπειτα στο κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ρυθμίσεις"></span></span> στην κάτω δεξιά γωνία του πίνακα. Για μια σύνδεση <span class="gui">Wi-Fi</span>, το κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ρυθμίσεις"></span></span> βρίσκεται δίπλα στο ενεργό δίκτυο.</p>
+<p class="p">In the left pane, select the network connection that you want to set
+      up manually. If you plug in to the network with a cable, click
+      <span class="gui">Network</span>. Otherwise click <span class="gui">Wi-Fi</span>.</p>
 <p class="p">Βεβαιωθείτε ότι η ασύρματη κάρτα σας είναι ενεργή ή το καλώδιο δικτύου είναι συνδεμένο.</p>
+</li>
+<li class="steps">
+<p class="p">Click the
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      button.</p>
+<div class="note" title="Σημείωση"><div class="inner"><div class="region"><div class="contents"><p class="p">For a <span class="gui">Wi-Fi</span> connection, the 
+        <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+        button will be located next to the active network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
       and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>

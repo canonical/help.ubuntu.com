@@ -72,8 +72,7 @@
 <div class="contents">
 <p class="p">Flash on <span class="em">liitännäinen</span> verkkoselaimeen. Sen avulla on mahdollista katsella joillakin sivustoilla olevia videoita tai käyttää vuorovaikutteisia toimintoja. Uudemmat HTML5-ratkaisut yleistyvät nopeasti, mutta siitä huolimatta vielä jotkin, varsinkin vanhemmat, sivustot saattavat vaatia Flashia toimiakseen.</p>
 <p class="p">Jos selaimessasi ei ole Flashia asennettuna, näet mitä luultavimmin asiasta kertovan viestin vieraillessasi Flashia vaativalla sivulla. Flash on saatavilla ilmaiseksi (mutta ei avoimena) useimpiin selaimiin.</p>
-<div class="note note-warning" title="Varoitus"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe has announced that they will stop updating and distributing the Flash Player at the end
- of 2020. Consequently, for security reasons, the Flash plug-in should not be used after 2020.</p></div></div></div></div>
+<div class="note note-warning" title="Varoitus"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe on ilmoittanut lopettavansa Flash Playerin päivittämisen ja levittämisen vuoden 2020 lopussa. Siitä johtuen tietoturvasyistä Flash-liitännäistä ei tule käyttää vuoden 2020 päätyttyä.</p></div></div></div></div>
 <p class="p">Tarjolla on kaksi erilaista liitännäistä:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="em">NPAPI</span> <span class="app">Firefox</span>ille ja muille Gecko-pohjaisille selaimille</p></li>
@@ -83,16 +82,14 @@
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox.
- <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Install the package</a></span> and restart your browser.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Paketti <span class="app">flashplugin-installer</span> tarjoaa NPAPI-liitännäisen Firefoxille. <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Asenna paketti</a></span> ja käynnistä selain uudelleen.</p></div></div>
 </div></div>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">The <span class="app">adobe-flashplugin</span> package provides both the NPAPI and PPAPI plug-ins, i.e. it provides
- Flash for both Firefox and Chromium like web browsers.</p>
+<p class="p">Paketti <span class="app">adobe-flashplugin</span> tarjoaa NPAPI- ja PPAPI-liitännäiset, eli se tarjoaa Flash-tuen sekä Firefoxille että Chromiumin kaltaisille verkkoselaimille.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that the <span class="link"><a href="addremove-sources.html.fi#canonical-partner" title="Canonicalin kumppanit -pakettivaraston aktivoiminen">Canonical Partner repository is activated</a></span>.</p></li>
+<li class="steps"><p class="p">Varmista että <span class="link"><a href="addremove-sources.html.fi#canonical-partner" title="Canonicalin kumppanit -pakettivaraston aktivoiminen">Canonicalin partnerit -ohjelmistolähde on aktivoitu</a></span>.</p></li>
 <li class="steps"><p class="p">Asenna paketti <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
 <li class="steps"><p class="p">Käynnistä selain uudelleen.</p></li>
 </ol></div></div></div>
@@ -101,15 +98,11 @@
 <div id="browser-plugin-freshplayer-pepperflash" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">browser-plugin-freshplayer-pepperflash</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Some features of the PPAPI plug-in, such as 3D acceleration and premium video DRM, are not available
- in the NPAPI plugin. If you use Firefox or some other Gecko-based browser and need those features, you
- can install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package. It's a wrapper which makes
- Firefox use the PPAPI plug-in.</p>
+<p class="p">Jotkin PPAPI-liitännäisen ominaisuudet, kuten 3D-kiihdytys ja videoiden digitaalinen käyttöoikeuksien hallinta DRM, eivät ole käytettävissä NPAPI-liitännäisessä. Jos käytät Firefoxia tai muuta Gecko-pohjaista selainta ja tarvitset kyseisiä ominaisuuksia, voit asentaa paketin <span class="app">browser-plugin-freshplayer-pepperflash</span>. Se on kääre, joka asettaa Firefoxin käyttämään PPAPI-liitännäistä.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Varmista että <span class="app">adobe-flashplugin</span> on asennettu.</p></li>
 <li class="steps">
-<p class="p">Open a terminal window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> and
-   install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package:</p>
+<p class="p">Avaa pääte painamalla <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> ja asenna paketti <span class="app">browser-plugin-freshplayer-pepperflash</span>:</p>
 <p class="p"><span class="cmd">sudo apt install browser-plugin-freshplayer-pepperflash</span></p>
 </li>
 <li class="steps"><p class="p">Käynnistä selain uudelleen.</p></li>

@@ -71,12 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Een toepassing is software die beschikt over een grafische gebruikersinterface (GUI). Het ontwikkelteam van Ubuntu heeft een standaard set toepassingen uitgekozen die naar haar mening Ubuntu zeer bruikbaar maakt voor de meeste dagelijkse taken. Maar u zult vast meer software willen installeren om Ubuntu nog bruikbaarder voor u te maken. U kunt <span class="app">Ubuntu Software</span> gebruiken om toepassingen te installeren.</p>
-<p class="p">
-    Applications are available in two formats: snap packages and Debian packages.
-    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    Some applications are available in both formats. In such a case in
-    <span class="app">Ubuntu Software</span> the snap will be listed first.
-   </p>
+<p class="p">Toepassingen zijn beschikbaar in twee soorten: snap-pakketten en Debianpakketten. Een toepassing die beschikbaar is als snap-pakket wordt van hieraf betiteld als <span class="em">snap</span>. Sommige toepassingen zijn beschikbaar in beide soorten. In zo'n geval zal de snap als eerste worden vermeld in <span class="app">Ubuntu Software</span>.</p>
 <p class="p">Het kan ook zijn dat u software wilt installeren die niet over een GUI beschikt. Om dergelijke software te installeren kunt u <span class="link"><a href="addremove-install-synaptic.html.nl" title="Gebruik Synaptic voor geavanceerder softwarebeheer">Synaptic</a></span> gebruiken. Merk op dat <span class="app">Synaptic</span> geen snaps opneemt in de lijst.</p>
 <p class="p">Om een toepassing te installeren:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -86,12 +81,7 @@
       </p></li>
 <li class="steps"><p class="p">Nadat <span class="app">Ubuntu Software</span> geopend is, kunt u zoeken naar een toepassing of een categorie kiezen en uit de lijst een toepassing selecteren.</p></li>
 <li class="steps"><p class="p">Kies de toepassing waarin u geïnteresseerd bent en klik op <span class="gui">Installeren</span>.</p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password. 
-        Once you have done that the installation will begin. 
-        The installation usually finishes quickly, but could take a while if you 
-        have a slow Internet connection.
-      </p></li>
+<li class="steps"><p class="p">U zult gevraagd worden om uzelf te authenticeren door het invoeren van uw wachtwoord. Wanneer u dat hebt gedaan, zal de installatie beginnen. De installatie is meestal vlug klaar, maar zou wat langer kunnen duren als u een trage internetverbinding heeft.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

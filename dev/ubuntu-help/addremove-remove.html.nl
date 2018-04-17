@@ -71,10 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Een toepassing is software die gebruik maakt van een grafische gebruikersinterface (GUI). U kunt <span class="app">Ubuntu Software</span> gebruiken om toepassingen die u niet meer gebruikt te verwijderen.</p>
-<p class="p">Applications are available in two formats: snap packages and Debian packages. 
-   An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-   Some applications are available in both formats. In such a case in
-   <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
+<p class="p">Toepassingen zijn beschikbaar in twee soorten: snap-pakketten en Debianpakketten. Een toepassing die beschikbaar is als snap-pakket wordt van hieraf betiteld als <span class="em">snap</span>. Sommige toepassingen zijn beschikbaar in beide soorten. In zo'n geval zal de snap als eerste worden vermeld in <span class="app">Ubuntu Software</span>.</p>
 <p class="p">Het kan ook zijn dat u software wilt verwijderen die niet over een GUI beschikt. Om dergelijke software te verwijderen kunt u <span class="link"><a href="addremove-install-synaptic.html.nl" title="Gebruik Synaptic voor geavanceerder softwarebeheer">Synaptic</a></span> gebruiken. Merk op dat <span class="app">Synaptic</span> geen snaps opneemt in de lijst.</p>
 <p class="p">Om een toepassing te verwijderen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -86,10 +83,7 @@
 <li class="steps"><p class="p">Zoek met behulp van het zoekvak de toepassing dat u wil verwijderen, of doorzoek de lijst met geïnstalleerde toepassingen.</p></li>
 <li class="steps"><p class="p">Selecteer de toepassing en klik op <span class="gui">Verwijderen</span>.</p></li>
 <li class="steps"><p class="p">Bevestig dat u de toepassing wilt verwijderen.</p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password.
-        After you have done that, the application will be removed.
-      </p></li>
+<li class="steps"><p class="p">U zult gevraagd worden om uzelf te authenticeren door het invoeren van uw wachtwoord. Wanneer u dat hebt gedaan, zal de toepassing worden verwijderd.</p></li>
 </ol></div></div></div>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Sommige toepassingen zijn afhankelijk van andere toepassingen om naar behoren te kunnen functioneren. Als u een toepassing verwijdert dat door een andere toepassing is benodigd, dan zullen beiden worden verwijderd. Voordat de toepassingen worden verwijderd zal u worden gevraagd te bevestigen dat u dit wil.</p></div></div></div></div>
 </div>

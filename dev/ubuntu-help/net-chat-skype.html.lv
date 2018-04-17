@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-chat.html.lv" title="Tērzēšana un sociālie tīkli">Tērzēšana un sociālie tīkli</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-chat.html.lv" title="Tērzēšana un sociālie tīkli">Tērzēšana un sociālie tīkli</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kā es varu lietot Skype uz Ubuntu?</span></h1></div>
@@ -73,24 +73,12 @@
 <p class="p"><span class="app">Skype</span> ir slēgta pirmkoda programmatūra, kas ļauj zvanīt caur internetu, izmantojot datoru.</p>
 <p class="p">Skype izmanto decentralizētas vienranga tehnoloģijas, tāpēc zvani neiet cauri vienam centrālam serverim, bet gan caur dažādiem serveriem un citiem lietotājiem.</p>
 <p class="p">Skype programmatūru var lietot bez maksas, bet tā nav brīvā programmatūra; pirmkods ir slēgts un nav pieejams mainīšanai.</p>
-<p class="p">
-    Skype is not installed by default on Ubuntu. Follow these steps to install
-    <span class="app">Skype for Linux</span>:
-  </p>
+<p class="p">Skype pēc noklusējuma uz Ubuntu netiek instalēts. Sekojiet šiem soļiem, lai instalētu <span class="app">Skype for Linux</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">
-      Open your web browser and go to the <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">Download Skype</a></span> page.
-    </p></li>
-<li class="list"><p class="p">
-      Click the <span class="gui">Get Skype for Linux DEB</span> button.
-    </p></li>
-<li class="list"><p class="p">
-      In the window which shows up, select <span class="gui">Open with</span> and <span class="gui">Software
-      Install (default)</span>, and then click the <span class="gui">OK</span> button.
-    </p></li>
-<li class="list"><p class="p">
-      <span class="app">Ubuntu Software</span> is opened. Click the <span class="gui">Install</span> button and authenticate.
-    </p></li>
+<li class="list"><p class="p">Atveriet tīmekļa pārlūku un ejiet uz <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">Skype lejupielādes</a></span> lapu.</p></li>
+<li class="list"><p class="p">Spiediet pogu <span class="gui">Get Skype for Linux DEB</span>.</p></li>
+<li class="list"><p class="p">Parādīsies jauns logs. Tajā izvēlieties <span class="gui">Atvērt ar</span> un <span class="gui">Programmatūras instalēšana (noklusējuma)</span>.</p></li>
+<li class="list"><p class="p"><span class="app">Ubuntu programmatūra</span> ir atvērta. Spiediet pogu <span class="gui">Instalēt</span> un autentificējieties.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

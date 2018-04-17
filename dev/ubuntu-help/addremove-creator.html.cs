@@ -74,31 +74,16 @@
 <div class="hgroup"><h1 class="title"><span class="title">Tvorba spouštěcího disku</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">In this context a startup disk is a USB flash drive from which you can startup and <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">install Ubuntu</a></span>.
-  The capacity of the USB flash drive must be at least 2 GB.
-  Any data on the USB flash drive will be lost when you create the startup disk.</p>
-<p class="p">It's assumed that you have downloaded an Ubuntu ISO image.</p>
+<p class="p">V tomto případě je spouštěcím diskem myšlen USB flash disk, z něhož můžete spustit a <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">nainstalovat</a></span> Ubuntu. Kapacita tohoto USB disku musí být minimálně 2GB. Jakákoli data nacházející se na tomto USB disku budou ztracena v průběhu vytváření spouštěcího disku.</p>
+<p class="p">Předpokládáme, že jste si stáhli ISO obraz Ubuntu.</p>
 <p class="p">Pro vytvoření spouštěcího disku z ISO obrazu Ubuntu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        If the ISO image is in your <span class="gui">Download</span> folder and there is just one ISO image, <span class="app">Startup Disk Creator</span> will have selected it,
-        otherwise select the correct ISO image.
-      </p></li>
-<li class="steps"><p class="p">
-        If your computer has just one USB flash drive, <span class="app">Startup Disk Creator</span> will have selected it, otherwise select the correct drive.
-      </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Make Startup Disk</span>.
-      </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Yes</span> to confirm. The process should take ten minutes or less.
-      </p></li>
-<li class="steps"><p class="p">
-        When the "Installation Complete" window opens click <span class="gui">Quit</span>.
-      </p></li>
+<li class="steps"><p class="p">Otevřete <span class="app">Startup Disk Creator</span> prostřednictvím vyhledávacího panelu <span class="em">Aktivity</span>.</p></li>
+<li class="steps"><p class="p">Nachází-li se ISO obraz ve vaší složce <span class="gui">Stažené</span> a je-li tam jediným ISO souborem, <span class="app">Tvůrce spouštěcího disku</span> jej automaticky zvolí, v opačném případě zvolte správný soubor ručně.</p></li>
+<li class="steps"><p class="p">Má-li váš počítač připojen pouze jeden USB disk, <span class="app">Tvůrce spouštěcího disku</span> jej automaticky zvolí, v opačném případě zvolte správný USB disk ručně.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui">Vytvořit spouštěcí disk</span>.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui">Ano</span> pro potvrzení. Celý proces by měl trvat deset minut nebo méně.</p></li>
+<li class="steps"><p class="p">Poté, co se zobrazí okno „Instalace dokončena”, klikněte na <span class="gui">Ukončit</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

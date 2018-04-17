@@ -74,8 +74,7 @@
 interactive web pages on some websites. While HTML5, which is a more modern solution, is increasingly
 offered, there are still some websites which won't work without Flash.</p>
 <p class="p">如果未安装 Flash，在访问需要该程序的网站时，您可能会看到一则告诉您安装 Flash 的消息。Flash 可免费下载(但非开源软件)并适用于大多数 Web 浏览器。</p>
-<div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe has announced that they will stop updating and distributing the Flash Player at the end
- of 2020. Consequently, for security reasons, the Flash plug-in should not be used after 2020.</p></div></div></div></div>
+<div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe 已宣布他们将在 2020 年底停止更新和发布 Flash Player。因此，出于安全原因，Flash 插件不应在 2020 年后使用。</p></div></div></div></div>
 <p class="p">There are two kinds of plug-ins available:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="em">NPAPI</span> for <span class="app">Firefox</span> and other Gecko-based web browsers</p></li>
@@ -97,7 +96,7 @@ offered, there are still some websites which won't work without Flash.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Make sure that the <span class="link"><a href="addremove-sources.html.zh-CN#canonical-partner" title="激活 Canonical 合作伙伴软件仓库">Canonical Partner repository is activated</a></span>.</p></li>
 <li class="steps"><p class="p">Install the <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span> package.</p></li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">重启您的浏览器。</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -115,7 +114,7 @@ offered, there are still some websites which won't work without Flash.</p>
    install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package:</p>
 <p class="p"><span class="cmd">sudo apt install browser-plugin-freshplayer-pepperflash</span></p>
 </li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">重启您的浏览器。</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

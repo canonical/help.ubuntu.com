@@ -79,8 +79,11 @@
 <li class="steps"><p class="p">Vérifiez que votre scanner est connecté à votre ordinateur par un câble ou via le réseau.</p></li>
 <li class="steps"><p class="p">Scannez votre cible et enregistrez le fichier en TIFF non compressé.</p></li>
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Cliquez sur <span class="gui">Couleur</span> pour ouvrir le panneau et sélectionnez votre scanner.</p></li>
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your scanner.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Étalonner…</span> pour démarrer l'étalonnage.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">Les scanners sont incroyablement stables dans le temps et les changements de température et ne nécessitent donc généralement pas d'être étalonnés à nouveau.</p></div></div></div></div>

@@ -77,9 +77,13 @@
 <p class="p">Podeu calibrar la pantalla per a que mostri un color més precís. Això és especialment útil si està involucrat en la fotografia digital, el disseny, o el treball artístic.</p>
 <p class="p">Necessitarà un colorímetre o un espectrofotòmetre per fer-ho. Ambdós dispositius s'utilitzen per a definir el  perfil de les pantalles, però funcionen de manera lleugerament diferent.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obre la vista d' <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenci a escriure <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Cliqui a <span class="gui">Color</span> per obrir el panell i seleccionar la seva pantalla.</p></li>
 <li class="steps"><p class="p">Asseguris que el dispositiu de calibració està connectat a l'ordinador. </p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Premeu <span class="gui">Calibrar…</span> per iniciar la calibració.</p></li>
 </ol></div></div></div>
 <p class="p">Les pantalles canvien contínuament: la llum de fons en una pantalla TFT es reduirà a la meitat en quant a brillantor cada 18 mesos aproximadament, i s'engroguiràc a mesura que envelleixi. Això vol dir que haureu recalibrar la vostra pantalla quan la icona [!] apareixi al panell <span class="gui">Color</span>.</p>

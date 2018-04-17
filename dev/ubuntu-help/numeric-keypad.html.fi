@@ -74,16 +74,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Numeronäppäimistö</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">With the <span class="key"><kbd>Num Lock</kbd></span> key you can manually switch on or off
-  the numeric keypad on your keyboard. Also, computers' BIOS settings often
-  include an option to decide if the computer should be started with the
-  numeric keypad enabled. Otherwise, this is a way to configure it:</p>
+<p class="p">Näppäimistön <span class="key"><kbd>Num Lock</kbd></span> -näppäimellä voit itse määrittää, onko näppäimistön oikealla puolella oleva numeronäppäimistö käytössä vai ei. Usein myös tietokoneen BIOS-asetukset sisältävät valinnan, jolla voi määrittää käynnistyykö tietokone numeronäppäimistö päällä vai ei. Jos tällainen valinta puuttuu tietokoneen BIOS:ista, voit määrittää numeronäppäimistön automaattisesti käyttöön seuraavasti:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
-<li class="steps"><p class="p">Open <span class="app"><span class="link"><a href="startup-applications.html.fi" title="Käynnistettävät sovellukset">Startup Applications</a></span></span>
-      and add a startup program with the command: <span class="cmd">numlockx on</span></p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Asenna</a></span> paketti <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p">Avaa <span class="app"><span class="link"><a href="startup-applications.html.fi" title="Käynnistettävät sovellukset">Käynnistettävät ohjelmat</a></span></span> ja lisää käynnistyksen yhteydessä suoritettava ohjelma komennolla: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents"><p class="p">The second step may be redundant on your computer, so try without it first.</p></div></div></div></div>
+<div class="note note-tip" title="Vinkki"><div class="inner"><div class="region"><div class="contents"><p class="p">Toinen vaihe saattaa olla tarpeeton tietokoneellasi, joten kokeile ensin ilman sitä.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

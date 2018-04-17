@@ -75,12 +75,8 @@
 <p class="p">Skype software mag men vrij gebruiken, maar het is niet-vrije software; de broncode is niet-vrij en niet beschikbaar voor wijziging.</p>
 <p class="p">Skype is niet standaard geïnstalleerd in Ubuntu. Volg deze stappen om <span class="app">Skype voor Linux</span> te installeren:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">
-      Open your web browser and go to the <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">Download Skype</a></span> page.
-    </p></li>
-<li class="list"><p class="p">
-      Click the <span class="gui">Get Skype for Linux DEB</span> button.
-    </p></li>
+<li class="list"><p class="p">Open uw webbrowser en ga naar deze webpagina: <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">Skype binnenhalen</a></span></p></li>
+<li class="list"><p class="p">Klik op de knop <span class="gui">Get Skype for Linux DEB</span></p></li>
 <li class="list"><p class="p">Kies in het venster dat verschijnt <span class="gui">Openen met</span> en <span class="gui">Software Installeren (standaard)</span>, aen klik dan op de knop <span class="gui">OK</span>.</p></li>
 <li class="list"><p class="p"><span class="app">Ubuntu Software</span> wordt geopend. Klik op de knop <span class="gui">Installeren</span> en geef uw wachtwoord op.</p></li>
 </ul></div></div></div>

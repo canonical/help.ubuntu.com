@@ -93,11 +93,7 @@
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">install skype</a></span>
-    </span>
+<a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chatujte na jakékoliv síti pomocí <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">uskutečňujte videohovory</a></span>, <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">nainstalujte skype</a></span></span>
 </li>
 <li class="links "><a href="gs-connect-online-accounts.html.cs" title="Připojení k účtům on-line">Vysvětlení, jak se připojit k účtům on-line</a></li>
 </ul></div>

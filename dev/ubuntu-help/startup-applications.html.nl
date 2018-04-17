@@ -76,10 +76,7 @@
 <div class="contents">
 <p class="p">Naast de standaard opstarttoepassingen ingesteld door het systeem, kunt u instellen welke toepassingen moeten worden gestart bij aanmelding.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="gui">Startup Applications</span> via the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview.
-      Alternatively you can press
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and run the
-      <span class="cmd">gnome-session-properties</span> command.</p></li>
+<li class="steps"><p class="p">Open <span class="gui">Startup Applications</span> via het overzicht van <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span>. Ook kunt u drukken op <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> en de opdracht <span class="cmd">gnome-session-properties</span> uitvoeren.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Toevoegen</span> en voer de opdracht die bij aanmelding moet worden uitgevoerd in (naam en commentaar zijn optioneel). Om bijvoorbeeld Firefox automatisch te starten is het voldoende om <span class="cmd">firefox</span> in te typen in het veld <span class="gui">Opdracht</span> en te bevestigen met <span class="gui">Toevoegen</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt of de opdracht intypen, of klikken op de knop <span class="gui">Bladeren…</span> en vervolgens een opdracht kiezen. Opstarttoepassingen bevinden zich doorgaans in de map <span class="code">/usr/bin</span>.</p></div></div></div></div>

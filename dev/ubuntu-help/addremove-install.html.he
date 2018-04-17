@@ -2,9 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Install additional applications
-  </title>
+<title>התקנת יישומים נוספים</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -69,18 +67,10 @@
 <span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.he" title="Install &amp; remove software">Add/remove software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Install additional applications
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">התקנת יישומים נוספים</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">Ubuntu Software</span>.
-   </p>
+<p class="p">יישום הוא סוג של תכנית עם מנשק משמש (GUI). צוות הפיתוח של אובונטו בחר בערכת בררת מחדל של יישומים שלדעתנו יהפוך את מערכת אובונטו למאוד שימושית למשימות יומיומיות. עם זאת, כדאי לך להתקין יישומים נוספים כדי שמערכת אובונטו תהיה יותר שימושית עבורך. על מנת להתקין יישום כלשהו, ניתן להשתמש ב<span class="app">תכנה של אובונטו</span>.</p>
 <p class="p">
     Applications are available in two formats: snap packages and Debian packages.
     An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
@@ -123,7 +113,7 @@
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="addremove.html.he" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.he" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html.he" title="Remove an application">remove applications</a></span>,
       <span class="link"><a href="addremove-sources.html.he" title="Add software repositories">add repositories</a></span>…
     </span>

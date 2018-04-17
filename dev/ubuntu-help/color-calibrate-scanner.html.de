@@ -78,8 +78,12 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Stellen Sie sicher, dass Ihr Scanner mit Ihrem Rechner per Kabel oder über ein Netzwerk verbunden ist.</p></li>
 <li class="steps"><p class="p">Scannen Sie Ihre Kalibrierungsvorlage und speichern Sie sie als unkomprimierte TIFF-Datei.</p></li>
-<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Farbe</span> ein.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Farbe</span>, um das Panel zu öffnen und Ihren Scanner zu wählen.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your scanner.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Kalibrieren …</span> zum Starten der Kalibrierung.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Scanner sind üblicherweise lange Zeit stabil und unempfindlich gegenüber Temperaturschwankungen. Sie brauchen normalerweise nicht erneut kalibriert zu werden.</p></div></div></div></div>

@@ -98,13 +98,7 @@
 <div id="canonical-partner" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">De bron Partners van Canonical activeren</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">
-      The Canonical Partner repository offers some proprietary applications 
-      that don't cost any money to use but are closed source. They include 
-      software like <span class="app">Adobe Flash Plugin</span>. Software in this
-      repository will appear in <span class="app">Ubuntu Software</span> search results
-      but won't be installable until this repository is enabled.
-    </p>
+<p class="p">De pakketbron Canonical Partner biedt enkele niet-vrije toepassingen die gratis zijn maar wel gesloten-bron. Ze omvatten programmatuur als <span class="app">Adobe Flash Plugin</span>. Programmatuur in deze pakketbron zal verschijnen in de zoekresultaten van <span class="app">Ubuntu Software</span> maar zal niet installeerbaar zijn voordat deze pakketbron is ingeschakeld.</p>
 <p class="p">Volg de stappen hierboven waarmee u het tabblad <span class="gui">Overige software</span> in <span class="app">Software &amp; Updates</span> opent, om de bron in te schakelen. Als u de bron <span class="gui">Partners van Canonical</span> in de lijst ziet, controleer dan of er een vinkje bij staat en sluit het <span class="app">Software &amp; Updates</span>-venster. Als u de bron niet ziet, klik dan op <span class="gui">Toevoegen</span> en typ:</p>
 <p class="p">
       <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>

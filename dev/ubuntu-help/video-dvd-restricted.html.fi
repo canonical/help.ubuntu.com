@@ -72,7 +72,7 @@
 <div class="contents"><p class="p">DVD-tukea ei voida toimittaa Ubuntun mukana oikeudellisten ja teknisten rajoitusten vuoksi. Useimmat kaupalliset DVD-levyt ovat salattuja ja vaativat salauksenpurkuohjelmiston niiden toistamiseksi.</p></div>
 <div id="fluendo" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fluendon käyttäminen lailliseen DVD-levyjen toistoon</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can buy a commercial DVD decoder that can handle copy protection from <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. It works with Linux and should be legal to use in all countries.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Voit ostaa kaupallisen DVD-purkajan, joka kykenee käsittelemään kopiosuojattua sisältöä, <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendolta</a></span>. Se toimi Linuxilla, ja sen käytön pitäisi olla laillista kaikissa maissa.</p></div></div>
 </div></div>
 <div id="restricted" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Käytä vaihtoehtoisia purkuohjelmia</span></h2></div>
@@ -80,8 +80,7 @@
 <div class="note note-warning" title="Varoitus"><div class="inner"><div class="region"><div class="contents"><p class="p">Joissain maissa kopiointisuojausten ohittaminen ei ole sallittua. Suomessa tällaisten ohjelmistojen asennus ja käyttö on sallittua, mutta levitys ei. Varmista muissa maissa ennen suojauksen ohitusta toimenpiteen laillisuus.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Asenna <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> ja <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
-<li class="steps"><p class="p">Open a terminal window by pressing
-   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Avaa pääteikkuna painamalla <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Suorita komento</p>
 <p class="p"><span class="cmd">sudo dpkg-reconfigure libdvd-pkg</span></p>

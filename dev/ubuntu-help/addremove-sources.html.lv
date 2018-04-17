@@ -2,9 +2,7 @@
 <html lang=lv>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Add software repositories
-  </title>
+<title>Pievienot programmatūras krātuves</title>
 <link rel="stylesheet" type="text/css" href="lv.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -66,12 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.lv" title="Install &amp; remove software">Pievienot vai izņemt programmatūru</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Pievienot vai izņemt programmatūru</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Add software repositories
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Pievienot programmatūras krātuves</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Programmatūra ir pieejama no trešās puses avotiem, kā arī no noklusējuma Ubuntu programmatūras krātuvēm. Ja vēlaties instalēt programmas no trešās puses programmatūras krātuvēm, jums tās ir jāpievieno Ubuntu pieejamo krātuvju sarakstam.</p>
@@ -81,9 +77,7 @@
 </div></div></div></div>
 <p class="p">
 </p>
-<p class="p">
-   To add a repository:
-   </p>
+<p class="p">Lai pievienotu krātuvi:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
         Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
@@ -98,23 +92,13 @@
       </p>
 </li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pievienot avotu</span> un tad aizveriet logu <span class="app">Programmatūra un atjauninājumi</span>. <span class="app">Ubuntu programmatūra</span> tad programmatūras avotos pārbaudīs, vai ir pieejama jauna programmatūra.</p></li>
-<li class="steps"><p class="p">
-        Most repositories provide a signing key to be able to verify downloaded packages.
-        So in addition to the steps above, you should follow possible instructions on how to
-        download and install the signing key (GPG key).
-      </p></li>
+<li class="steps"><p class="p">Vairums krātuvju piedāvā parakstīšanas atslēgas, lai varētu pārbaudīt lejupielādētās pakotnes. Tāpēc klāt pie iepriekšējiem soļiem, jums vajadzētu sekot iespējamām norādēm, kā lejupielādēt un instalēt parakstīšanas atslēgu (GPG atslēgu).</p></li>
 </ol></div></div></div>
 </div>
 <div id="canonical-partner" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Aktivēt Canonical partneru krātuvi</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">
-      The Canonical Partner repository offers some proprietary applications 
-      that don't cost any money to use but are closed source. They include 
-      software like <span class="app">Adobe Flash Plugin</span>. Software in this
-      repository will appear in <span class="app">Ubuntu Software</span> search results
-      but won't be installable until this repository is enabled.
-    </p>
+<p class="p">Canonical partneru krātuve piedāvā īpašnieka programmatūru, kas neko nemaksā, bet ir slēgtā pirmkoda. Piemēram, <span class="app">Adobe Flash spraudnis</span>. Šīs krātuves programmas parādīsies <span class="app">Ubuntu programmatūras</span> meklēšanas rezultātos, bet nebūs instalējamas, kamēr krātuve nebūs aktivēta.</p>
 <p class="p">Lai aktivētu šo krātuvi, sekojiet pirmīt aprakstītajiem soļiem, lai atvērtu <span class="gui">Cita programmatūra</span> cilni lietotnē <span class="app">Programmatūra un atjauninājumi</span>. Ja redzat <span class="gui">Canonical partneru</span> krātuvi sarakstā, pārliecinieties, ka tā ir atķeksēta un aizveriet <span class="app">Programmatūra un atjauninājumu</span> logu. Ja jūs to neredzat, spiediet <span class="gui">Pievienot</span> un ievadiet:</p>
 <p class="p">
       <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
@@ -128,20 +112,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.lv" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.lv" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.lv" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Instalēt un izņemt programmatūru</a><span class="desc"> — <span class="link"><a href="addremove-install.html.lv" title="Instalēt papildu lietotnes">Instalēt lietotnes</a></span>, <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">izņemt lietotnes</a></span>, <span class="link"><a href="addremove-sources.html.lv" title="Pievienot programmatūras krātuves">pievienot krātuves</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-ppa.html.lv" title="Pievienot personīgo pakotņu arhīvu (PPA)">Pievienot personīgo pakotņu arhīvu (PPA)</a><span class="desc"> — 
-        Add PPAs to extend the software sources Ubuntu uses for
-        installation and upgrades.
-    </span>
+<a href="addremove-ppa.html.lv" title="Pievienot personīgo pakotņu arhīvu (PPA)">Pievienot personīgo pakotņu arhīvu (PPA)</a><span class="desc"> — Pievienojiet PPA, lai paplašinātu programmatūras avotus, ko izmanto Ubuntu instalēšanai un uzlabošanai.</span>
 </li></ul></div>
 </div></div>
 </div>

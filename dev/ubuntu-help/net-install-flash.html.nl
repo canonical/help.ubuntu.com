@@ -72,8 +72,7 @@
 <div class="contents">
 <p class="p">Flash is een <span class="em">plug-in</span> voor uw webbrowser waarmee u video's kunt bekijken en interactieve webpagina's kunt gebruiken op bepaalde websites. Hoewel HTML5, een modernere oplossing, meer en meer geboden wordt, zijn er nog altijd websites die niet werken zonder Flash.</p>
 <p class="p">Als u Flash niet geïnstalleerd heeft, dan ziet u waarschijnlijk een bericht dat u dit vertelt wanneer u een website bezoekt die het nodig heeft. Flash is te krijgen als een vrije (maar niet opensource) download voor de meeste webbrowsers.</p>
-<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe has announced that they will stop updating and distributing the Flash Player at the end
- of 2020. Consequently, for security reasons, the Flash plug-in should not be used after 2020.</p></div></div></div></div>
+<div class="note note-warning" title="Waarschuwing"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe heeft aangekondigd dat ze eind 2020 zal ophouden met het bijwerken en verspreiden van Flash Player. De invoegtoepassing voor Flash zou dus na 2020 niet meer moeten worden gebruikt.</p></div></div></div></div>
 <p class="p">Er zijn twee soorten plug-ins beschikbaar:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="em">NPAPI</span> voor <span class="app">Firefox</span> en andere op Gecko gebaseerde webbrowsers</p></li>
@@ -83,8 +82,7 @@
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="app">flashplugin-installer</span> package provides the NPAPI plug-in for Firefox.
- <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Install the package</a></span> and restart your browser.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Het pakket <span class="app">flashplugin-installer</span> levert de NPAPI-invoegtoepassing voor Firefox. <span class="link"><a href="apt:flashplugin-installer" title="apt:flashplugin-installer">Installeer het pakket</a></span> en herstart uw webbrowser.</p></div></div>
 </div></div>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>

@@ -78,8 +78,10 @@
   the colors which it shows are more accurate.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Napsauta <span class="gui">Värit</span>.</p></li>
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Select the device for which you want to add a profile.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import
       a new profile.</p></li>

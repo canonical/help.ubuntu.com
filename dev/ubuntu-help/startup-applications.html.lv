@@ -2,7 +2,7 @@
 <html lang=lv>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Startup Applications</title>
+<title>Starta lietotnes</title>
 <link rel="stylesheet" type="text/css" href="lv.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,30 +65,21 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.lv" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html.lv#apps" title="Lietotnes un logi">Lietotnes un logi</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="shell-overview.html.lv" title="Jūsu darbvirsma">Darbvirsma</a> › <a class="trail" href="shell-overview.html.lv#apps" title="Lietotnes un logi">Lietotnes un logi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Startup Applications</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Starta lietotnes</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can configure what applications should be started at login, in
-  addition to the default startup applications configured on the system.</p>
+<p class="p">Jūs varat konfigurēt, kurām lietotnēm vajadzētu palaisties ierakstīšanās laikā, klāt pie tām lietotnēm, kuru palaišanu konfigurē sistēma.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="gui">Startup Applications</span> via the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> overview.
-      Alternatively you can press
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and run the
-      <span class="cmd">gnome-session-properties</span> command.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add</span> and enter the command to be executed at login
-      (name and comment are optional). For example, to make Firefox start
-      automatically, it's sufficient to type <span class="cmd">firefox</span> in the
-      <span class="gui">Command</span> field and confirm with <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui">Starta lietotnes</span> ar <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu. Varat arī spiest <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> un palaist komandu <span class="cmd">gnome-session-properties</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Pievienot</span> un ievadiet komandu, ko izpildīt ierakstīšanās laikā (nosaukums un komentāri nav obligāti). Piemēram, lai liktu Firefox palaisties automātiski, pietiek ierakstīt <span class="cmd">firefox</span> laukā <span class="gui">Komanda</span> un apstiprināt, spiežot <span class="gui">Pievienot</span>.</p></li>
 </ol></div></div></div>
-<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">You can either type the command, or click the <span class="gui">Browse...</span>
-    button and select a command. Applications to autostart are typically
-    located in the <span class="code">/usr/bin</span> folder.</p></div></div></div></div>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Jūs varat ievadīt komandu, vai spiediet pogu <span class="gui">Pārlūkot...</span> un izvēlieties komandu. Automātiski palaižamās lietotnes parasti atrodas mapē <span class="code">/usr/bin</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#profiles" title="Προφίλ χρώματος">Προφίλ χρώματος</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,8 +77,12 @@
 <p class="p">Μπορείτε να εισάγετε ένα προφίλ χρώματος κάνοντας διπλό κλικ σε ένα αρχείο <span class="file">.ICC</span> ή <span class="file">.ICM</span> στον περιηγητή αρχείων.</p>
 <p class="p">Εναλλακτικά, μπορείτε να διαχειριστείτε τα προφίλ χρώματος μέσα από τον πίνακα <span class="gui">Χρώμα</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρώμα</span>.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Χρώμα</span> για να ανοίξετε τον πίνακα και να επιλέξετε τη συσκευή σας.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your device.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στην <span class="gui">Προσθήκη προφίλ</span> για να επιλέξετε ένα υπάρχον προφίλ ή να εισάγετε ένα νέο προφίλ.</p></li>
 <li class="steps"><p class="p">Πατήστε <span class="gui">Προσθήκη</span> για να επιβεβαιώσετε την επιλογή σας.</p></li>
 </ol></div></div></div>

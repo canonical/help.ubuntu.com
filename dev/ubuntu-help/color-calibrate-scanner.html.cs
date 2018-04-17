@@ -78,8 +78,12 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ujistěte se, že je skener připojen k počítači, ať už kabelem nebo přes síť.</p></li>
 <li class="steps"><p class="p">Naskenujte kalibrační obrazec a uložte jej jako nekomprimovaný soubor TIFF.</p></li>
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Barvy</span>.</p></li>
-<li class="steps"><p class="p">Kliknutím na <span class="gui">Barvy</span> otevřete příslušný panel a vyberte svůj skener.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your scanner.</p></li>
 <li class="steps"><p class="p">Kalibraci zahájíte zmáčknutím <span class="gui">Kalibrovat…</span></p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Skenery bývají neuvěřitelně stálé, jak s vlivem času, tak teploty, takže obvykle nevyžadují rekalibrace.</p></div></div></div></div>

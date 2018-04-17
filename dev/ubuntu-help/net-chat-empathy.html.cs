@@ -71,10 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">S pomocí aplikace <span class="app">Empathy</span> můžete chatovat s přáteli a kolegy, kteří používají Google Talk, AIM, Windows Live a mnoho dalších programů. Pokud máte mikrofon a webkameru, můžete také využít audio a video hovorů.</p>
-<p class="p">
-    Empathy is not installed by default in Ubuntu, but you can <span class="link"><a href="apt:empathy" title="apt:empathy">install</a></span> it from the Ubuntu package archive. For help
-    with using Empathy, read the <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">Empathy manual</a></span>.
-  </p>
+<p class="p">Empathy není na Ubuntu obsaženo ve výchozí instalaci, ale může být <span class="link"><a href="apt:empathy" title="apt:empathy">nainstalováno</a></span> z archivu balíků Ubuntu. Pro nápovědu jak používat Empathy si přečtěte <span class="link"><a href="https://help.gnome.org/users/empathy/stable/" title="https://help.gnome.org/users/empathy/stable/">manuál Empathy</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -82,11 +79,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">install skype</a></span>
-    </span>
+<a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.cs" title="Rychlá komunikace na Ubuntu">Chatujte na jakékoliv síti pomocí <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.cs" title="Videotelefonování">uskutečňujte videohovory</a></span>, <span class="link"><a href="net-chat-skype.html.cs" title="Jak mohu použít Skype v Ubuntu?">nainstalujte skype</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

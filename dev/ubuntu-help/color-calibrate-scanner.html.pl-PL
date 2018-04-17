@@ -78,8 +78,11 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Upewnij się, że skaner jest podłączony do komputera kablem lub przez sieć.</p></li>
 <li class="steps"><p class="p">Zeskanuj obiekt kalibracji i zapisz go jako nieskompresowany plik TIFF.</p></li>
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Kolor</span>, aby otworzyć panel i wybierz skaner.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Ustawienia</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Ustawienia</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Urządzenia</span> na panelu bocznym.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Kolor</span> na panelu bocznym, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Wybierz skaner.</p></li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">Skalibruj…</span>, aby rozpocząć kalibrację.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Wskazówka"><div class="inner"><div class="region"><div class="contents"><p class="p">Skanery są bardzo odporne na czas i temperaturę, więc zwykle nie muszą być ponownie kalibrowane.</p></div></div></div></div>

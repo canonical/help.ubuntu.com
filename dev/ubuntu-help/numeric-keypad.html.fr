@@ -76,7 +76,7 @@
 <div class="contents">
 <p class="p">Avec la touche <span class="key"><kbd>Verrouillage numérique</kbd></span> vous pouvez activer ou désactiver manuellement le pavé numérique de votre clavier. En outre, les paramètres du BIOS de l'ordinateur comportent souvent une option pour permettre à l'ordinateur de démarrer avec le pavé numérique activé. Le cas échéant, voici une façon de le configurer :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Installez</a></span> le paquet <span class="em">numlockx</span>.</p></li>
 <li class="steps"><p class="p">Ouvrez <span class="app"><span class="link"><a href="startup-applications.html.fr" title="Applications au démarrage">Applications au démarrage</a></span></span> et ajoutez un programme au démarrage avec la commande : <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Astuce"><div class="inner"><div class="region"><div class="contents"><p class="p">La deuxième étape peut être redondante sur votre ordinateur, essayez sans d'abord.</p></div></div></div></div>

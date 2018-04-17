@@ -77,9 +77,12 @@
 <p class="p">Du kan kalibrera din skärm så att den visar mer korrekta färger. Detta är speciellt användbart om du håller på med digitalfoto, design eller konst.</p>
 <p class="p">Du kommer att behöva antingen en färgkalibrator eller spektrofotometer för att göra detta. Båda enheterna används för att profilera skärmar men de fungerar på något olika sätt.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Färg</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Färg</span> för att öppna panelen och välja din skärm.</p></li>
 <li class="steps"><p class="p">Säkerställa att din kalibreringsenhet är ansluten till din dator.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Inställningar</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Inställningar</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Enheter</span> i sidopanelen.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Färg</span> i sidopanelen för att öppna panelen.</p></li>
+<li class="steps"><p class="p">Välj din skärm.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Kalibrera…</span> för att påbörja kalibreringen.</p></li>
 </ol></div></div></div>
 <p class="p">Skärmar ändrar sig hela tiden: bakgrundsbelysningen i en TFT-skärm kommer att halvera sin ljusstyrka ungefär var 18:e månad och bli gulare när den blir äldre. Detta innebär att du bör omkalibrera din skärm när ikonen [!] visas i <span class="gui">Färg</span>-panelen.</p>

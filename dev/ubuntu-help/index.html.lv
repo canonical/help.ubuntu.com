@@ -65,7 +65,7 @@
 </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu logo"></span></span> Ubuntu darbvirsmas rokasgrāmata</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 18.04</span></div><div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.lv" title="Ar ko sākt"><span class="title">Darba sākšana ar GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Vai GNOME 3 vide jums ir nepazīstama? Uzziniet, kā tajā darboties.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
@@ -91,12 +91,8 @@
 <div class="desc"><span class="desc"><span class="link"><a href="files-search.html.lv" title="Meklēt datnes">Meklēšana</a></span>, <span class="link"><a href="files-delete.html.lv" title="Dzēst datnes un mapes">datņu dzēšana</a></span>, <span class="link"><a href="files.html.lv#backup" title="Rezerves kopijas">rezerves kopijas</a></span>, <span class="link"><a href="files.html.lv#removable" title="Izņemamie dziņi un ārējie diski">noņemamie dziņi</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html.lv" title="Install &amp; remove software">Install &amp; remove software</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html.lv" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.lv" title="Add software repositories">add repositories</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Instalēt un izņemt programmatūru</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="addremove-install.html.lv" title="Instalēt papildu lietotnes">Instalēt lietotnes</a></span>, <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">izņemt lietotnes</a></span>, <span class="link"><a href="addremove-sources.html.lv" title="Pievienot programmatūras krātuves">pievienot krātuves</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Lietotājs un sistēmas iestatījumi</a></div>

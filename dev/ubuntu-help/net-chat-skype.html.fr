@@ -77,13 +77,8 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
 <li class="list"><p class="p">Ouvrez votre navigateur web et allez à la page <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">Télécharger Skype</a></span></p></li>
 <li class="list"><p class="p">Cliquez sur le bouton <span class="gui">Obtenir Skype pour Linux DEB</span></p></li>
-<li class="list"><p class="p">
-      In the window which shows up, select <span class="gui">Open with</span> and <span class="gui">Software
-      Install (default)</span>, and then click the <span class="gui">OK</span> button.
-    </p></li>
-<li class="list"><p class="p">
-      <span class="app">Ubuntu Software</span> is opened. Click the <span class="gui">Install</span> button and authenticate.
-    </p></li>
+<li class="list"><p class="p">Dans la fenêtre qui apparaît, sélectionnez <span class="gui">Ouvrir avec</span> puis <span class="gui">Installation de logiciel (par défaut)</span> et enfin cliquez sur le bouton <span class="gui">OK</span>.</p></li>
+<li class="list"><p class="p"><span class="app">Logiciels Ubuntu</span> est ouvert. Cliquez sur le bouton <span class="gui">Installer</span> et authentifiez-vous.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -92,11 +87,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d'informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.fr" title="Clavardage &amp; réseaux sociaux">Clavardage &amp; réseaux sociaux</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.fr" title="Messagerie instantanée dans Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.fr" title="Visioconférences">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.fr" title="Comment puis-je utiliser Skype sur Ubuntu ?">install skype</a></span>
-    </span>
+<a href="net-chat.html.fr" title="Clavardage &amp; réseaux sociaux">Clavardage &amp; réseaux sociaux</a><span class="desc"> — <span class="link"><a href="net-chat-empathy.html.fr" title="Messagerie instantanée dans Ubuntu">Bavardez sur n'importe quel réseau avec <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.fr" title="Visioconférences">make video calls</a></span>, <span class="link"><a href="net-chat-skype.html.fr" title="Comment puis-je utiliser Skype sur Ubuntu ?">install skype</a></span></span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

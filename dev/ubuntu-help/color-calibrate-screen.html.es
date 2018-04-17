@@ -77,9 +77,13 @@
 <p class="p">Puede calibrar su pantalla para que muestre los colores de manera más precisa. Esto es especialmente útil si está involucrado en fotografía digital, diseño o trabajo artístico.</p>
 <p class="p">Necesitará un colorímetro o un espectrómetro para hacer esto. Ambos dispositivos se usar para perfilar pantallas, pero funcionan de diferente manera.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Color</span> para abrir el panel y seleccionar su pantalla.</p></li>
 <li class="steps"><p class="p">Asegúrese de que su dispositivo de calibración está conectado al equipo.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Calibrar…</span> para iniciar la calibración.</p></li>
 </ol></div></div></div>
 <p class="p">Las pantallas cambian en todo momento; la luz de fondo en una pantalla TFT tendrá aproximadamente la mitad de brillo cada 18 meses y se hará más amarilla según vaya envejeciendo. Lo que significa que debería recalibrar su pantalla cuando aparezca el icono [!] en el panel <span class="gui">Color</span>.</p>

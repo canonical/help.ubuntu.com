@@ -100,7 +100,7 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="addremove.html.ca" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.ca" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html.ca" title="Instal·la aplicacions addicionals">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html.ca" title="Suprimiu una aplicació">remove applications</a></span>,
       <span class="link"><a href="addremove-sources.html.ca" title="Add software repositories">add repositories</a></span>…
     </span>
@@ -110,12 +110,7 @@
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.ca" title="Install additional applications">
-    Install additional applications
-  </a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.ca" title="Instal·la aplicacions addicionals">Instal·la aplicacions addicionals</a><span class="desc"> — Utilitzeu el <span class="app">Programari de l'Ubuntu</span> per instal·lar aplicacions addicionals i fer Ubuntu més útil.</span>
 </li>
 <li class="links ">
 <a href="addremove-remove.html.ca" title="Suprimiu una aplicació">Suprimiu una aplicació</a><span class="desc"> — 

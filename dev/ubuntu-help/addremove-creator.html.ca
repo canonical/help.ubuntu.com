@@ -85,9 +85,7 @@
 <li class="steps"><p class="p">Si el vostre ordinador té només una memòria USB, <span class="app">Creador de discs d'inici</span> ja l'haurà seleccionada. En cas contrari, seleccioneu el disc correcte.</p></li>
 <li class="steps"><p class="p">Cliqueu <span class="gui">Crear disc d'inici</span>.</p></li>
 <li class="steps"><p class="p">Cliqueu <span class="gui">Sí</span> per confirmar. El procés hauria de trigar deu minuts o menys.</p></li>
-<li class="steps"><p class="p">
-        When the "Installation Complete" window opens click <span class="gui">Quit</span>.
-      </p></li>
+<li class="steps"><p class="p">Quan aparegui la finestra "Instal·lació completada", cliqueu en <span class="gui">Surt</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -100,7 +98,7 @@
 </li>
 <li class="links ">
 <a href="addremove.html.ca" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.ca" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html.ca" title="Instal·la aplicacions addicionals">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html.ca" title="Suprimiu una aplicació">remove applications</a></span>,
       <span class="link"><a href="addremove-sources.html.ca" title="Add software repositories">add repositories</a></span>…
     </span>

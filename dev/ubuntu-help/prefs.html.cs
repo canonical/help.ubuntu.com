@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="startup-applications.html.cs" title="Aplikace po spuštění">Aplikace po spuštění</a></div>
+<div class="links-grid-link"><a href="startup-applications.html.cs" title="Aplikace spouštěné při přihlášení">Aplikace spouštěné při přihlášení</a></div>
 <div class="desc"><span class="desc">Vyberte, které aplikace se mají spustit po přihlášení.</span></div>
 </div>
 <div class="links-grid ">

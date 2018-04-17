@@ -77,9 +77,12 @@
 <p class="p">Można skalibrować ekran, aby wyświetlał bardziej dokładne kolory. Jest to przydatne zwłaszcza podczas pracy z fotografią cyfrową, projektowaniem lub grafiką.</p>
 <p class="p">Potrzebny jest do tego kolorymetr lub spektrofotometr. Oba urządzenia służą do tworzenia profili ekranów, ale działają trochę inaczej.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Kolor</span>.</p></li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Kolor</span>, aby otworzyć panel i wybierz ekran.</p></li>
 <li class="steps"><p class="p">Upewnij się, że urządzenie do kalibracji jest podłączone do komputera.</p></li>
+<li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Ustawienia</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Ustawienia</span>.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Urządzenia</span> na panelu bocznym.</p></li>
+<li class="steps"><p class="p">Kliknij <span class="gui">Kolor</span> na panelu bocznym, aby otworzyć panel.</p></li>
+<li class="steps"><p class="p">Wybierz ekran.</p></li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">Skalibruj…</span>, aby rozpocząć kalibrację.</p></li>
 </ol></div></div></div>
 <p class="p">Ekrany często się zmieniają: moc podświetlenia ekranu TFT zmniejsza się o połowę co 18 miesięcy i z czasem staje się bardziej żółte. Oznacza to, że należy skalibrować ekran, kiedy w panelu <span class="gui">Kolor</span> pojawi się ikona [!].</p>

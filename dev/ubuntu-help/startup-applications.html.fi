@@ -76,18 +76,10 @@
 <div class="contents">
 <p class="p">Voit määrittää, mitkä sovellukset käynnistetään automaattisesti sisäänkirjautumisen yhteydessä oletuskäynnistyssovellusten lisäksi.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="gui">Startup Applications</span> via the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview.
-      Alternatively you can press
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and run the
-      <span class="cmd">gnome-session-properties</span> command.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add</span> and enter the command to be executed at login
-      (name and comment are optional). For example, to make Firefox start
-      automatically, it's sufficient to type <span class="cmd">firefox</span> in the
-      <span class="gui">Command</span> field and confirm with <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Avaa <span class="gui">Käynnistettävät ohjelmat</span> <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymän kautta. Vaihtoehtoisesti voit painaa <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> ja suorittaa komennon <span class="cmd">gnome-session-properties</span>.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Lisää</span> ja kirjoita sisäänkirjautumisen yhteydessä suoritettavan komento. Nimi ja kommentti ovat vapaaehtoisia. Jos haluat käynnistää esimerkiksi Firefoxin automaattisesti, riittää että kirjoitat <span class="cmd">firefox</span> <span class="gui">Komento</span>-kenttään ja vahvistat lisäyksen napsauttamalla <span class="gui">Lisää</span>.</p></li>
 </ol></div></div></div>
-<div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">You can either type the command, or click the <span class="gui">Browse...</span>
-    button and select a command. Applications to autostart are typically
-    located in the <span class="code">/usr/bin</span> folder.</p></div></div></div></div>
+<div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">Voit kirjoittaa komennon suoraan tai napsauttaa <span class="gui">Selaa...</span>-painiketta valitaksesi komennon. Käynnistettävät ohjelmat sijaitsevat yleensä kansiossa <span class="code">/usr/bin</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

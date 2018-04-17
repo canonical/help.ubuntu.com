@@ -72,11 +72,9 @@
 <div class="contents">
 <p class="p">Kun asennat Ubuntun, valitsemasi kieli sekä englanninkieli asentuvat. Voit halutessasi lisätä käytössä olevaa kielivalikoimaa.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Region &amp; Language</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
-      Support</span>.</p></li>
+<li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja kirjoita <span class="gui">Alue ja kielet</span>.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Alue ja kielet</span> avataksesi paneelin.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Hallitse asennettuja kieliä</span> -painiketta avataksesi <span class="gui">Kielituki</span>-ikkunan.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Asenna tai poista kieliä...</span>. <span class="gui">Asennetut kielet</span> -ikkuna listaa kaikki saatavilla olevat kielet. Asennettujen kielien kohdalla on "Asennettu"-valinta.</p></li>
 <li class="steps"><p class="p">Valitse kielet, jotka haluat asentaa. Jos haluat poistaa jo asennetun kielen, poista valinta kyseisen kielen kohdalta.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Toteuta muutokset</span>.</p></li>
@@ -101,10 +99,7 @@
 <a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">Alue- ja kieliasetukset</a><span class="desc"> — <span class="link"><a href="session-language.html.fi" title="Vaihda käytettävä kieli">Kieliasetukset</a></span>, <span class="link"><a href="session-formats.html.fi" title="Vaihda päiväyksen ja mittojen muotoja">alue ja muotoilut</a></span>, <span class="link"><a href="keyboard-layouts.html.fi" title="Käytä vaihtoehtoisia näppäimistöasetteluja">näppäimistöasettelu</a></span>…</span>
 </li>
 <li class="links ">
-<a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna lisäsovelluksia</a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna lisäsovelluksia</a><span class="desc"> — Käytä <span class="app">Ubuntun sovellusvalikoimaa</span> asentaaksesi lisää sovelluksia ja tee siten Ubuntusta entistä hyödyllisempi.</span>
 </li>
 </ul></div>
 </div></div>

@@ -78,8 +78,12 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Zorg ervoor dat uw scanner met een kabel of via het netwerk met uw computer is verbonden.</p></li>
 <li class="steps"><p class="p">Scan uw kalibratiedoel en sla het op als niet-ingepakt TIFF-bestand.</p></li>
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
-<li class="steps"><p class="p">Klik op <span class="gui">Kleur</span> om het paneel te openen en selecteer uw scanner.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your scanner.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Kalibreren…</span> om de kalibratie te beginnen.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Scanners zijn ongelooflijk stabiel in tijd en temperatuur en hoeven meestal niet opnieuw gekalibreerd te worden.</p></div></div></div></div>

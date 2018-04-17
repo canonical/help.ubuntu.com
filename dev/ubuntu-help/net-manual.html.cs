@@ -78,11 +78,22 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Když chcete svoji síť nastavit ručně:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Síť</span>.</p></li>
-<li class="steps"><p class="p">Kliknutím na <span class="gui">Síť</span> otevřete příslušný panel.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Activities</a></span>
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
 <li class="steps">
-<p class="p">V levém panelu vyberte síťové připojení, které chcete ručně nastavit. Když jste k síti připojeni kabelem, klikněte na <span class="gui">Drátové</span> a pak klikněte na tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span> v pravém dolním rohu panelu. U připojení <span class="gui">Wi-Fi</span> je tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span> umístěno vedle aktivní sítě.</p>
+<p class="p">In the left pane, select the network connection that you want to set
+      up manually. If you plug in to the network with a cable, click
+      <span class="gui">Network</span>. Otherwise click <span class="gui">Wi-Fi</span>.</p>
 <p class="p">Ujistěte se, že vaše bezdrátová karta je zapnutá, nebo že síťový kabel je zastrčený.</p>
+</li>
+<li class="steps">
+<p class="p">Click the
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      button.</p>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">For a <span class="gui">Wi-Fi</span> connection, the 
+        <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+        button will be located next to the active network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">IPv4</span> nebo <span class="gui">IPv6</span> v levém panelu a změňte <span class="gui">Adresy</span> na <span class="em">Ruční</span>.</p></li>
 <li class="steps"><p class="p">Zadejte <span class="gui"><a href="net-what-is-ip-address.html.cs" title="Co je to IP adresa?">Adresu IP</a></span> a <span class="gui">Bránu</span>, včetně příslušné <span class="gui">Masky sítě</span>.</p></li>

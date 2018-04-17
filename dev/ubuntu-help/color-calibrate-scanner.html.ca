@@ -78,8 +78,12 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Assegureu-vos que l'escàner estigui connectat a l'ordinador amb un cable o a través de la xarxa.</p></li>
 <li class="steps"><p class="p">Escanegeu el vostre objectiu de calibratge i deseu-lo com a fitxer TIFF no comprimit.</p></li>
-<li class="steps"><p class="p">Obre la vista d' <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenci a escriure <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Color</span> per obrir el panell i seleccionar el vostre escànner.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your scanner.</p></li>
 <li class="steps"><p class="p">Premeu <span class="gui">Calibrar…</span> per iniciar la calibració.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Els dispositius d'escàner són increïblement estables al llarg del temps i temperatura, de manera que generalment no cal recalibrar-los.</p></div></div></div></div>

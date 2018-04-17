@@ -76,8 +76,11 @@
 <div class="contents">
 <p class="p">Você pode querer atribuir um perfil de cores para sua tela ou impressora de forma que as cores que ela mostra são mais precisas.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Cor</span>.</p></li>
-<li class="steps"><p class="p">Clique em <span class="gui">Cor</span> para abrir o painel.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Selecione o dispositivo para o qual você deseja adicionar um perfil.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Adicionar perfil</span> para selecionar um perfil existente ou importar um novo perfil.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Adicionar</span> para confirmar sua seleção.</p></li>

@@ -64,17 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.lv" title="Install &amp; remove software">Pievienot vai izņemt programmatūru</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Pievienot vai izņemt programmatūru</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Pievienot personīgo pakotņu arhīvu (PPA)</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    <span class="em">Personal Package Archives (PPAs)</span> are software repositories designed 
-    for Ubuntu users and are easier to install than other third-party 
-    repositories. PPAs are often used to distribute pre-release software so that it can be tested.
-  </p>
+<p class="p"><span class="em">Personīgo pakotņu arhīvi (PPA)</span> ir programmatūras krātuves, kas ir veidotas Ubuntu lietotājiem un tās ir vienkāršāk instalēt, nekā citas trešās puses krātuves. PPA bieži izmanto, lai izplatītu vēl neizlaistu programmatūru, lai to varētu testēt.</p>
 <div class="note note-warning" title="Brīdinājums"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Pievienojiet programmatūras krātuves tikai no avotiem, kam uzticaties!</p>
 <p class="p">Ubuntu dalībnieki nepārbauda trešās puses programmatūras krātuvju drošību vai uzticamību, tāpēc tā var saturēt programmatūru, kas ir kaitīga jūsu datoram.</p>
@@ -89,9 +85,7 @@
       </p></li>
 <li class="steps"><p class="p">Kad ir palaista <span class="app">Ubuntu programmatūra</span>, spiediet <span class="gui">Programmatūra un atjauninājumi</span></p></li>
 <li class="steps"><p class="p">Pārslēdzieties uz <span class="gui">Cita programmatūra</span> cilni.</p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Add</span> and enter the PPA's location (as noted in step 1).
-      </p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Pievienot</span> un ievadiet PPA atrašanas vietu (kā norādīts 1. solī).</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pievienot avotu</span>. Ievadiet paroli autentifikācijas logā.</p></li>
 <li class="steps"><p class="p">Aizveriet <span class="app">Programmatūra un atjauninājumi</span> logu. <span class="app">Ubuntu programmatūŗa</span> pārbaudīs, vai programmatūras avotos ir jauna programmatūra.</p></li>
 </ol></div>
@@ -103,22 +97,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.lv" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.lv" title="Install additional applications">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.lv" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.lv" title="Instalēt un izņemt programmatūru">Instalēt un izņemt programmatūru</a><span class="desc"> — <span class="link"><a href="addremove-install.html.lv" title="Instalēt papildu lietotnes">Instalēt lietotnes</a></span>, <span class="link"><a href="addremove-remove.html.lv" title="Izņemt lietotni">izņemt lietotnes</a></span>, <span class="link"><a href="addremove-sources.html.lv" title="Pievienot programmatūras krātuves">pievienot krātuves</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-sources.html.lv" title="Add software repositories">
-    Add software repositories
-  </a><span class="desc"> — 
-      Add repositories to extend the software sources Ubuntu uses for 
-      installation and upgrades.
-    </span>
+<a href="addremove-sources.html.lv" title="Pievienot programmatūras krātuves">Pievienot programmatūras krātuves</a><span class="desc"> — Pievienojiet krātuves, lai paplašinātu programmatūras avotus, ko izmanto Ubuntu instalēšanai un uzlabošanai.</span>
 </li></ul></div>
 </div></div>
 </div>

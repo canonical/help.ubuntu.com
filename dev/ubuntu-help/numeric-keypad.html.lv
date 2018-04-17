@@ -65,25 +65,21 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ciparu tastatūra</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">With the <span class="key"><kbd>Num Lock</kbd></span> key you can manually switch on or off
-  the numeric keypad on your keyboard. Also, computers' BIOS settings often
-  include an option to decide if the computer should be started with the
-  numeric keypad enabled. Otherwise, this is a way to configure it:</p>
+<p class="p">Ar taustiņu <span class="key"><kbd>Num Lock</kbd></span> jūs varat pašrocīgi ieslēgt vai izslēgt savas tastatūras cipartastatūru. Datoru BIOS iestatījumi nereti iekļauj iespēju noteikt, vai datoram ieslēdzoties vajadzētu turēt ieslēgtu cipartastatūru. Citādi šis ir vienīgais veids, kā to konfigurēt:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
-<li class="steps"><p class="p">Open <span class="app"><span class="link"><a href="startup-applications.html.lv" title="Startup Applications">Startup Applications</a></span></span>
-      and add a startup program with the command: <span class="cmd">numlockx on</span></p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Instalējiet</a></span> pakotni <span class="em">numlockx</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="app"><span class="link"><a href="startup-applications.html.lv" title="Starta lietotnes">Starta lietotnes</a></span></span> un pievienojiet starta programmu ar komandu: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">The second step may be redundant on your computer, so try without it first.</p></div></div></div></div>
+<div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">Otrais solis uz jūsu datora varētu būt lieks, tāpēc sākumā vispirms mēģiniet bez tā.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -78,8 +78,10 @@
   the colors which it shows are more accurate.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
-      start typing <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Нажмите <span class="gui">Цвет</span>, чтобы открыть этот раздел настроек.</p></li>
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Выберите устройство, для которого необходимо добавить цветовой профиль.</p></li>
 <li class="steps"><p class="p">Чтобы выбрать уже существующий профиль или импортировать новый, нажмите кнопку <span class="gui">Добавить профиль</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Добавить…</span> для подтверждения выбора.</p></li>

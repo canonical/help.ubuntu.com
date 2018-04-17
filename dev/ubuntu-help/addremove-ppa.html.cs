@@ -70,11 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Přidávání zdrojů Personal Package Archive (PPA)</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    <span class="em">Personal Package Archives (PPAs)</span> are software repositories designed 
-    for Ubuntu users and are easier to install than other third-party 
-    repositories. PPAs are often used to distribute pre-release software so that it can be tested.
-  </p>
+<p class="p"><span class="em">Personal Package Archives (PPA)</span> jsou repozitáře softwaru navržené pro uživatele Ubuntu a jednodušší na instalaci než jiné repozitáře třetích stran. PPA jsou často použity k distribuci softwaru před jeho vydáním tak, aby bylo možno jej testovat.</p>
 <div class="note note-warning" title="Varování"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Přidávejte pouze ty zdroje softwaru, kterým důvěřujete!</p>
 <p class="p">Zdroje softwaru třetích stran nejsou kontrolovány členy Ubuntu co se týče bezpečnosti a spolehlivosti a mohou obsahovat software nebezpečný pro váš počítač.</p>
@@ -86,14 +82,9 @@
 <li class="steps"><p class="p">Klikněte na ikonu <span class="app">Ubuntu Software</span> v <span class="gui">Doku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
 <li class="steps"><p class="p">Když se <span class="app">Ubuntu Software</span> spustí, klikněte na <span class="gui">Software &amp; Aktualizace</span></p></li>
 <li class="steps"><p class="p">Přejděte na kartu <span class="gui">Ostatní software</span>.</p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Add</span> and enter the PPA's location (as noted in step 1).
-      </p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui">Přidat</span> a zadejte umístění PPA (jak je poznamenáno v bodě 1).</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Přidat zdroj</span>. V okně Ověření zadejte své heslo.</p></li>
-<li class="steps"><p class="p">
-        Close the <span class="app">Software &amp; Updates</span> window. <span class="app">Ubuntu Software</span> will then 
-        check your software sources for new software.
-      </p></li>
+<li class="steps"><p class="p">Zavřete okno <span class="app">Software &amp; Aktualizace</span>. <span class="app">Ubuntu Software</span> následně zkontroluje vaše zdroje softwaru na nový software.</p></li>
 </ol></div>
 </div></div>
 </div>

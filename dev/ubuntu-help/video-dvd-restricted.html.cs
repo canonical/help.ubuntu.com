@@ -72,21 +72,19 @@
 <div class="contents"><p class="p">DVD podpora nemůže být poskytnuta ve výchozím nastavení Ubuntu kvůli právním a technickým omezením. Většina komerčních DVD je šifrována, a tak je nutné používat dekódovací software, aby se dali přehrát.</p></div>
 <div id="fluendo" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Pro legální přehrání DVD použijte Fluendo</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can buy a commercial DVD decoder that can handle copy protection from <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. It works with Linux and should be legal to use in all countries.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Můžete zakoupit komerční dekodér DVD, zvládající ochranu proti kopírování, od <span class="link"><a href="https://fluendo.com/" title="https://fluendo.com/">Fluendo</a></span>. Funguje na Linuxu a jeho použití by mělo být legální ve většině zemí.</p></div></div>
 </div></div>
 <div id="restricted" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Použijte alternativní dešifrovací software</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-warning" title="Varování"><div class="inner"><div class="region"><div class="contents"><p class="p">V některých zemích není použití nelicencovaného dešifrovacího softwaru zákonem povoleno. Ověřte si, že máte právo jej používat.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Install <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>,
-<span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span>, and <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
-<li class="steps"><p class="p">Open a terminal window by pressing
-   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Nainstalujte <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> a <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
+<li class="steps"><p class="p">Otevřete okno terminálu prostřednictvím <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Run the command</p>
+<p class="p">Spusťte příkaz</p>
 <p class="p"><span class="cmd">sudo dpkg-reconfigure libdvd-pkg</span></p>
-<p class="p">and confirm in order to install <span class="em">libdvdcss2</span>.</p>
+<p class="p">a potvrďte pro instalaci <span class="em">libdvdcss2</span>.</p>
 </li>
 </ol></div></div></div>
 </div></div>

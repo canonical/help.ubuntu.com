@@ -78,11 +78,22 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Hálózati beállítások megadása saját kezűleg:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
-<li class="steps"><p class="p">Kattintson a <span class="gui">Hálózat</span> ikonra a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Activities</a></span>
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
 <li class="steps">
-<p class="p">A bal oldali ablaktáblán válassza ki azt a hálózati kapcsolatot, amelyet kézzel szeretne beállítani. Ha kábellel csatlakozik a hálózatra, akkor kattintson a <span class="gui">Vezetékes</span> lehetőségre, majd a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gombra a panel jobb alsó sarkában. <span class="gui">Wi-Fi</span> kapcsolat esetén a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gomb az aktív hálózat mellett lesz.</p>
+<p class="p">In the left pane, select the network connection that you want to set
+      up manually. If you plug in to the network with a cable, click
+      <span class="gui">Network</span>. Otherwise click <span class="gui">Wi-Fi</span>.</p>
 <p class="p">Győződjön meg róla, hogy a vezeték nélküli kártya be van kapcsolva, vagy a hálózati kábel be van dugva.</p>
+</li>
+<li class="steps">
+<p class="p">Click the
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      button.</p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">For a <span class="gui">Wi-Fi</span> connection, the 
+        <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+        button will be located next to the active network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Kattintson a bal oldali ablaktáblán az <span class="gui">IPv4</span> vagy az <span class="gui">IPv6</span> elemre, és módosítsa a <span class="gui">Címeket</span> a <span class="em">Kézi</span> értékűre.</p></li>
 <li class="steps"><p class="p">Írja be az <span class="gui"><a href="net-what-is-ip-address.html.hu" title="Mi az az IP-cím?">IP-címet</a></span> és az <span class="gui">Átjárót</span>, valamint a megfelelő <span class="gui">Hálózati maszkot</span>.</p></li>

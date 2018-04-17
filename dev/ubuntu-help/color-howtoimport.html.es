@@ -77,8 +77,12 @@
 <p class="p">Puede importar un perfil de color pulsando dos veces sobre el archivo <span class="input">.ICC</span> o <span class="input">.ICM</span> en el explorador de archivos.</p>
 <p class="p">Alternativamente puede gestionar sus perfiles de color mediante el panel <span class="gui">Color</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Color</span> para abrir el panel y seleccionar su dispositivo.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your device.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Añadir perfil</span> puede seleccionar un perfil existente o para importar un archivo nuevo.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Añadir</span> para confirmar su selección.</p></li>
 </ol></div></div></div>

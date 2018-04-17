@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#calibration" title="Βαθμονόμηση">Βαθμονόμηση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="prefs.html.el" title="Χρήστης &amp; ρυθμίσεις συστήματος">Ρυθμίσεις</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#calibration" title="Βαθμονόμηση">Βαθμονόμηση</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#calibration" title="Βαθμονόμηση">Βαθμονόμηση</a> » </div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> » <a class="trail" href="color.html.el" title="Διαχείριση χρωμάτων">Διαχείριση χρωμάτων</a> › <a class="trail" href="color.html.el#calibration" title="Βαθμονόμηση">Βαθμονόμηση</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,9 +77,13 @@
 <p class="p">Μπορείτε να βαθμονομήσετε την οθόνη σας έτσι ώστε να εμφανίζει πιο ακριβές χρώμα. Αυτό είναι ιδιαίτερα χρήσιμο αν ασχολείστε με ψηφιακή φωτογραφία, σχεδίαση.</p>
 <p class="p">Θα χρειαστείτε είτε ένα χρωματόμετρο ή ένα φασματοφωτόμετρο για να το κάνετε αυτό. Και οι δυο συσκευές χρησιμοποιούνται για οθόνες προφίλ, αλλά δουλεύουν με ελαφρά διαφορετικούς τρόπους.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Χρώμα</span>.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Χρώμα</span> για να ανοίξετε τον πίνακα και να επιλέξετε την οθόνη σας.</p></li>
 <li class="steps"><p class="p">Βεβαιωθείτε ότι η συσκευή βαθμονόμησης είναι συνδεμένη στον υπολογιστή σας.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Πατήστε <span class="gui">Βαθμονόμηση…</span> για να ξεκινήσετε τη βαθμονόμηση.</p></li>
 </ol></div></div></div>
 <p class="p">Οι οθόνες αλλάζουν συνέχεια - το πίσω φως σε μια οθόνη TFT θα υποδιπλασιάζεται σε φωτεινότητα περίπου κάθε 18 μήνες και θα γίνεται πιο κίτρινη καθώς γερνά. Αυτό σημαίνει ότι θα πρέπει να επαναβαθμονομείτε την οθόνη σας όταν το εικονίδιο [!] εμφανίζεται στον πίνακα <span class="gui">Χρώμα</span>.</p>

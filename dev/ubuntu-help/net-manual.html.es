@@ -78,11 +78,22 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">ParaeEstablecer la configuración de la red manualmente:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Red</span>.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Red</span> para abrir el panel.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Activities</a></span>
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
 <li class="steps">
-<p class="p">En el panel de la izquierda, seleccione la conexión de red que quiere configurar manualmente. Si se conecta a la red por cable, pulse en <span class="gui">Cableada</span>, y luego pulse el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuración"></span></span> en la esquina inferior derecha del panel. Para una conexión <span class="gui">Inalámbrica</span>, el botón de <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuración"></span></span> se situará junto a la red activa.</p>
+<p class="p">In the left pane, select the network connection that you want to set
+      up manually. If you plug in to the network with a cable, click
+      <span class="gui">Network</span>. Otherwise click <span class="gui">Wi-Fi</span>.</p>
 <p class="p">Asegúrese de que su tarjeta inalámbrica está encendida o que el cable de red está conectado.</p>
+</li>
+<li class="steps">
+<p class="p">Click the
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      button.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">For a <span class="gui">Wi-Fi</span> connection, the 
+        <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+        button will be located next to the active network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Pulse en la pestaña <span class="gui">IPv4</span> o <span class="gui">IPv6</span> y cambie la opción <span class="gui">Direcciones</span> a <span class="em">Manual</span>.</p></li>
 <li class="steps"><p class="p">Escriba la <span class="gui">Dirección</span> y la <span class="gui">Puerta de enlace</span>, así como la <span class="gui">Máscara de red</span> apropiada.</p></li>

@@ -70,34 +70,17 @@
 <div class="hgroup"><h1 class="title"><span class="title">Poista sovellus</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">An application is software that has a graphical user interface (GUI).
-    You can use <span class="app">Ubuntu Software</span> to remove applications that you 
-    no longer use.</p>
-<p class="p">Applications are available in two formats: snap packages and Debian packages. 
-   An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-   Some applications are available in both formats. In such a case in
-   <span class="app">Ubuntu Software</span> the snap will be listed first.</p>
-<p class="p">You may also wish to remove software that does not have a GUI.
-    To remove such software, you can use
-    <span class="link"><a href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
-  </p>
-<p class="p">To remove an application:</p>
+<p class="p">Sovellus on ohjelmisto, jolla on graafinen käyttöliittymä. Voit käyttää <span class="app">Ubuntun sovellusvalikoimaa</span> poistaaksesi sovelluksia, joita et enää käytä.</p>
+<p class="p">Sovelluksia on tarjolla kahdessa eri muodossa: snap-paketteina ja Debian-paketteina. Snap-pakettina tarjolla olevaa sovellusta kutsutaan jatkossa <span class="em">snapiksi</span>. Jotkin sovellukset ovat saatavilla kummassakin muodossa. Näissä tapauksissa <span class="app">Ubuntun sovellusvalikoima</span> listaa snapin ensin.</p>
+<p class="p">Saatat myös haluta asentaa ilman graafista käyttöliittymää olevia ohjelmistoja. Voit asentaa niitä esimerkiksi <span class="link"><a href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan">Synapticilla</a></span>. Otathan huomioon, ettei <span class="app">Synaptic</span> listaa snap-paketteja.</p>
+<p class="p">Poista sovellus:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">Ubuntu Software</span> opens, click the <span class="gui">Installed</span> button at 
-        the top.
-      </p></li>
+<li class="steps"><p class="p">Napsauta <span class="app">Ubuntun sovellusvalikoima</span> -kuvaketta <span class="gui">telakassa</span>, tai etsi <span class="input">Ohjelmistot</span> <span class="em">Toiminnot</span>-yleisnäkymän hakukentästä.</p></li>
+<li class="steps"><p class="p">Kun <span class="app">Ubuntun sovellusvalikoima</span> avautuu, napsauta <span class="gui">Asennettu</span>-painiketta ikkunan yläosasta.</p></li>
 <li class="steps"><p class="p">Etsi sovellus, jonka haluat poistaa. Voit käyttää etsimiseen joko hakukenttää tai selata asennettujen sovellusten luetteloa.</p></li>
 <li class="steps"><p class="p">Valitse sovellus ja napsauta <span class="gui">Poista</span>.</p></li>
 <li class="steps"><p class="p">Vahvista että haluat poistaa sovelluksen.</p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password.
-        After you have done that, the application will be removed.
-      </p></li>
+<li class="steps"><p class="p">Sinua pyydetään tunnistautumaan eli antamaan salasanasi. Kun olet tehnyt sen, sovellus poistetaan.</p></li>
 </ol></div></div></div>
 <div class="note" title="Huomautus"><div class="inner"><div class="region"><div class="contents"><p class="p">Toimivuuden takia jotkin sovellukset ovat riippuvaisia toisista sovelluksista. Jos yrität poistaa sovelluksen, jota toinen sovellus tarvitsee, kummatkin sovellukset poistuvat. Sinulta kysytään aina vahvistus, ennen kuin toisistaan riippuvaisia sovelluksia poistetaan.</p></div></div></div></div>
 </div>
@@ -114,16 +97,10 @@
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna lisäsovelluksia</a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna lisäsovelluksia</a><span class="desc"> — Käytä <span class="app">Ubuntun sovellusvalikoimaa</span> asentaaksesi lisää sovelluksia ja tee siten Ubuntusta entistä hyödyllisempi.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan">Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan</a><span class="desc"> — 
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span>
+<a href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan">Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan</a><span class="desc"> — Synaptic on tehokas ja monimutkaisempi vaihtoehto <span class="app">Ubuntun sovellusvalikoimalle</span>.</span>
 </li>
 </ul></div>
 </div></div>

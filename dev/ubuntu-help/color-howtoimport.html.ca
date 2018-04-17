@@ -77,8 +77,12 @@
 <p class="p">Podeu importar un perfil de color fent doble clic a <span class="file">.ICC</span> o a l'arxiu<span class="file">.ICM</span> en el navegador de fitxers.</p>
 <p class="p">Alternativament, podeu gestionar els vostres perfils de color a través del panell de <span class="gui">Color</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obre la vista d' <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activitats</a></span> i comenci a escriure <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Color</span> per obrir el tauler i seleccionar el vostre dispositiu.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Activities overview">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your device.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Afegir perfil</span> per seleccionar un perfil existent o importar-ne un de nou.</p></li>
 <li class="steps"><p class="p">Premeu <span class="gui">Afegir</span> per confirmar la vostra selecció.</p></li>
 </ol></div></div></div>

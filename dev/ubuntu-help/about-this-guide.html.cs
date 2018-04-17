@@ -74,11 +74,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
 <li class="list"><p class="p">Tento průvodce je rozdělen na menší sekce, jednotlivé body - nikoliv však kapitoly. To znamená, že nemusíte procházet celý manuál, abyste nalezli to, co hledáte.</p></li>
 <li class="list"><p class="p">Témata, která spolu souvisí, jsou propojená. Odkazy "Viz také" v dolní části stránek vás přesměrují k souvisejícímu tématu.</p></li>
-<li class="list"><p class="p">
-        The text input box at the top of this guide acts as a <span class="em">search 
-        bar</span>, and relevant results will appear beneath it as soon as you 
-        start typing. Left-click on any result to open its page.
-      </p></li>
+<li class="list"><p class="p">Textové pole u vrchu tohoto průvodce funguje jako <span class="em">vyhledávací pole</span> a nalezené výsledky se začnou objevovat pod ním jakmile začnete psát. Kliknutím na libovolný z výsledků jej otevřete.</p></li>
 <li class="list"><p class="p">Tento průvodce je neustále zlepšován. Ačkoli se snažíme, abychom vám poskytli užitečný zdroj informací, víme, že není možné zodpovědět všechny vaše dotazy. I v budoucnu budeme přidávat další potřebné informace, aby byl tento průvodce i nadále užitečný.</p></li>
 </ul></div></div></div>
 <p class="p">Děkujeme, že jste si našli čas k přečtení <span class="em">Průvodce pracovním prostředím Ubuntu</span>.</p>

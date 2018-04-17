@@ -82,18 +82,22 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Чтобы настроить параметры сетевого соединения вручную:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
-      start typing <span class="gui">Network</span>.</p></li>
-<li class="steps"><p class="p">Нажмите <span class="gui">Сеть</span> чтобы открыть этот раздел настроек.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span>
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
 <li class="steps">
 <p class="p">In the left pane, select the network connection that you want to set
       up manually. If you plug in to the network with a cable, click
-      <span class="gui">Wired</span>, then click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button in the lower right corner of
-      the panel. For a <span class="gui">Wi-Fi</span> connection, the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button will be located next to the active network.</p>
+      <span class="gui">Network</span>. Otherwise click <span class="gui">Wi-Fi</span>.</p>
 <p class="p">Убедитесь, что беспроводная карта включена или сетевой кабель подключён к компьютеру.</p>
+</li>
+<li class="steps">
+<p class="p">Click the
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      button.</p>
+<div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">For a <span class="gui">Wi-Fi</span> connection, the 
+        <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+        button will be located next to the active network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Click on <span class="gui">IPv4</span> or <span class="gui">IPv6</span> in the left pane
       and change the <span class="gui">Addresses</span> to <span class="em">Manual</span>.</p></li>

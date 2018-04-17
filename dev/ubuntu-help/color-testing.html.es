@@ -81,8 +81,11 @@
 <dd class="terms"><p class="p">Esto cambiará la pantalla a azul y probará si las curvas de calibración se envían al dispositivo.</p></dd>
 </dl></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Color</span>.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Color</span> para abrir el panel.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Seleccione el dispositivo para el que quiere añadir un perfil. Es posible que quiera </p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Añadir perfil</span> puede seleccionar un perfil de prueba, que debería estar al final de la lista.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Añadir</span> para confirmar su selección.</p></li>

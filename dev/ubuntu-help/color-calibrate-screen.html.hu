@@ -77,9 +77,13 @@
 <p class="p">Kijelzője kalibrálásával pontosabb színmegjelenítést érhet el. Ez különösen hasznos, ha digitális fényképészettel, tervezéssel vagy grafikával foglalkozik.</p>
 <p class="p">Ehhez egy koloriméterre vagy spektrofotométerre lesz szüksége. Mindkét eszköz használható kijelzők profilozására, de némileg eltérő módon működnek.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Színek</span> szót.</p></li>
-<li class="steps"><p class="p">Kattintson a <span class="gui">Színek</span> ikonra a panel megnyitásához, és válassza ki a kijelzőt.</p></li>
 <li class="steps"><p class="p">Győződjön meg róla, hogy a kalibrálóeszköz csatlakozik a számítógéphez.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Kalibrálás</span> gombra a kalibrálás megkezdéséhez.</p></li>
 </ol></div></div></div>
 <p class="p">A kijelzők folyamatosan változnak: a TFT kijelző háttérvilágításának fényereje körülbelül 18 havonta megfeleződik, és idővel egyre sárgábbá válik. Ez azt jelenti, hogy a kijelzőt újra kell kalibrálnia, amikor a [!] ikon megjelenik a <span class="gui">Színek</span> panelen.</p>

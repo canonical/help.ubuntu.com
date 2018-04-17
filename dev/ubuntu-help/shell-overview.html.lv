@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jūsu darbvirsma</span></h1></div>
@@ -97,7 +97,7 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.lv" title="Noderīgas tastatūras saīsnes"><span class="title">Noderīgas tastatūras saīsnes</span><span class="linkdiv-dash"> — </span><span class="desc">Pārvietojieties pa darbvirsmu, izmantojot tastatūru.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.lv" title="Pārslēgties starp logiem"><span class="title">Pārslēgties starp logiem</span><span class="linkdiv-dash"> — </span><span class="desc">Spiediet <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.lv" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.lv" title="Starta lietotnes"><span class="title">Starta lietotnes</span><span class="linkdiv-dash"> — </span><span class="desc">Izvēlieties, kuras lietotnes palaist, kad ierakstāties.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>

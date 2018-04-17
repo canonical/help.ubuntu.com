@@ -124,7 +124,7 @@
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="addremove.html.he" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.he" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html.he" title="Remove an application">remove applications</a></span>,
       <span class="link"><a href="addremove-sources.html.he" title="Add software repositories">add repositories</a></span>…
     </span>
@@ -134,20 +134,15 @@
 <div class="title"><h2><span class="title">עיון נוסף</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.he" title="Install additional applications">
-    Install additional applications
-  </a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
-</li>
-<li class="links ">
 <a href="addremove-install-synaptic.html.he" title="Use Synaptic for more advanced software management">
     Use Synaptic for more advanced software management
   </a><span class="desc"> — 
       Synaptic is a powerful but complicated software management alternative to 
       <span class="app">Ubuntu Software</span>.
     </span>
+</li>
+<li class="links ">
+<a href="addremove-install.html.he" title="התקנת יישומים נוספים">התקנת יישומים נוספים</a><span class="desc"> — יש להשתמש ב<span class="app">תכנה של אובונטו</span> כדי להתקין יישומים נוספים ולהפוך את מערכת אובונטו לשימושית יותר.</span>
 </li>
 </ul></div>
 </div></div>

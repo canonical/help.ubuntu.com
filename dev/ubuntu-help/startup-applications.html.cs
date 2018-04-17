@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Aplikace po spuštění</title>
+<title>Aplikace spouštěné při přihlášení</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,24 +71,15 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Aplikace po spuštění</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Aplikace spouštěné při přihlášení</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can configure what applications should be started at login, in
-  addition to the default startup applications configured on the system.</p>
+<p class="p">Můžete nastavit, které aplikace, kromě výchozích aplikací nastavených na tomto systému, budou spouštěny při přihlášení.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="gui">Startup Applications</span> via the <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Activities</a></span> overview.
-      Alternatively you can press
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and run the
-      <span class="cmd">gnome-session-properties</span> command.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add</span> and enter the command to be executed at login
-      (name and comment are optional). For example, to make Firefox start
-      automatically, it's sufficient to type <span class="cmd">firefox</span> in the
-      <span class="gui">Command</span> field and confirm with <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p">Otevřete <span class="gui">Aplikace spouštěné při přihlášení</span> pomocí přehledu <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Aktivit</a></span>. Případně můžete stisknout <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> a spustit příkaz <span class="cmd">gnome-session-properties</span>.</p></li>
+<li class="steps"><p class="p">Klikněte na <span class="gui">Přidat</span> a zadejte příkaz, který má být spuštěn při přihlášení (název a komentář jsou nejsou povinné). Například, pro automatické spouštění Firefoxu stačí zadat <span class="cmd">firefox</span> do pole <span class="gui">Příkaz</span> a potvrdit pomocí <span class="gui">Přidat</span>.</p></li>
 </ol></div></div></div>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">You can either type the command, or click the <span class="gui">Browse...</span>
-    button and select a command. Applications to autostart are typically
-    located in the <span class="code">/usr/bin</span> folder.</p></div></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Příkaz můžete buď napsat nebo kliknout na tlačítko <span class="gui">Procházet...</span> a příkaz vybrat. Aplikace k automatickému spouštění jsou typicky umístěné ve složce <span class="code">/usr/bin</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

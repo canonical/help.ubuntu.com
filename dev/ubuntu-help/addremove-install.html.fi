@@ -70,46 +70,15 @@
 <div class="hgroup"><h1 class="title"><span class="title">Asenna lisäsovelluksia</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">Ubuntu Software</span>.
-   </p>
-<p class="p">
-    Applications are available in two formats: snap packages and Debian packages.
-    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    Some applications are available in both formats. In such a case in
-    <span class="app">Ubuntu Software</span> the snap will be listed first.
-   </p>
-<p class="p">
-    You may also wish to install software that does not have a GUI. To install
-    such software, you can use <span class="link"><a href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan">Synaptic</a></span>.
-    Note that <span class="app">Synaptic</span> does not list snaps.
-  </p>
-<p class="p">
-    To install an application:
-  </p>
+<p class="p">Sovellus on ohjelma, jolla on graafinen käyttöliittymä (ns. GUI). Ubuntun kehitystiimi on valinnut oletusvalikoiman sovelluksia, jotka tekevät Ubuntusta hyödyllisen useimpiin päivittäisiin tehtäviin. Halunnet silti asentaa lisää sovelluksia, jotta Ubuntu olisi entistä hyödyllisempi tarpeisiisi. Sovellusten asentamiseen voit käyttää <span class="app">Ubuntun sovellusvalikoimaa</span>.</p>
+<p class="p">Sovelluksia on tarjolla kahdessa eri muodossa: snap-paketteina ja Debian-paketteina. Snap-pakettina tarjolla olevaa sovellusta kutsutaan jatkossa <span class="em">snapiksi</span>. Jotkin sovellukset ovat saatavilla kummassakin muodossa. Näissä tapauksissa <span class="app">Ubuntun sovellusvalikoima</span> listaa snapin ensin.</p>
+<p class="p">Saatat haluta myös asentaa ohjelmistoja, joissa ei ole graafista käyttöliittymää. Voit asentaa niitä esimerkiksi <span class="link"><a href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan">Synapticilla</a></span>. Otathan huomioon, ettei <span class="app">Synaptic</span> listaa snap-paketteja.</p>
+<p class="p">Asenna sovellus:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">Ubuntu Software</span> launches, search for an application, or select 
-        a category and find an application from the list.
-      </p></li>
-<li class="steps"><p class="p">
-        Select the application that you want to install and click 
-        <span class="gui">Install</span>.
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password. 
-        Once you have done that the installation will begin. 
-        The installation usually finishes quickly, but could take a while if you 
-        have a slow Internet connection.
-      </p></li>
+<li class="steps"><p class="p">Napsauta <span class="app">Ubuntun sovellusvalikoima</span> -kuvaketta <span class="gui">telakassa</span>, tai etsi <span class="input">Ohjelmistot</span> <span class="em">Toiminnot</span>-yleisnäkymän hakukentästä.</p></li>
+<li class="steps"><p class="p">Kun <span class="app">Ubuntun sovellusvalikoima</span> käynnistyy, etsi ohjelmaa hakusanalla tai valitse luokka ja etsi sovellus luettelosta.</p></li>
+<li class="steps"><p class="p">Valitse sovellus, jonka haluat asentaa, ja napsauta <span class="gui">Asenna</span>.</p></li>
+<li class="steps"><p class="p">Sinua pyydetään tunnistautumaan eli antamaan salasanasi. Kun olet tehnyt sen, asennus alkaa. Asennus tapahtuu yleensä nopeasti, mutta siinä saattaa kestää jos verkkoyhteys on hidas.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -128,10 +97,7 @@
 <a href="prefs-language-install.html.fi" title="Asenna kieliä">Asenna kieliä</a><span class="desc"> — Asenna lisää käännöksiä ja niihin liittyviä kielitukipaketteja.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan">Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan</a><span class="desc"> — 
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span>
+<a href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan">Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan</a><span class="desc"> — Synaptic on tehokas ja monimutkaisempi vaihtoehto <span class="app">Ubuntun sovellusvalikoimalle</span>.</span>
 </li>
 <li class="links ">
 <a href="addremove-remove.html.fi" title="Poista sovellus">Poista sovellus</a><span class="desc"> — Poista sovelluksia, joita et enää käytä.</span>

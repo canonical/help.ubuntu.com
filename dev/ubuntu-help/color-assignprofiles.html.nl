@@ -76,8 +76,11 @@
 <div class="contents">
 <p class="p">Misschien wilt u een kleurprofiel toewijzen voor uw scherm of printer, zodat de kleuren die ermee getoond worden nauwkeuriger zijn.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Kleur</span>.</p></li>
-<li class="steps"><p class="p">Klik op <span class="gui">Kleur</span> om het paneel te openen.</p></li>
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> overview and
+      start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Selecteer het apparaat waarvoor u een profiel wilt toevoegen.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Profiel toevoegen</span> om een bestaand profiel te selecteren of een nieuw profiel te importeren.</p></li>
 <li class="steps"><p class="p">Druk op <span class="gui">Toevoegen</span> om uw selectie te bevestigen.</p></li>

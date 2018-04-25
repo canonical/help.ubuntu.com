@@ -66,7 +66,7 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="cgroups-resources.html.ru" title="Ресурсы">Назад</a><a class="nextlinks-next" href="drbd.html.ru" title="DRBD">Вперёд</a>
+<a class="nextlinks-prev" href="lxc.html.ru" title="LXC">Назад</a><a class="nextlinks-next" href="drbd.html.ru" title="DRBD">Вперёд</a>
 </div>
 <div class="hgroup"><h1 class="title">Кластеризация</h1></div>
 <div class="region">
@@ -74,7 +74,7 @@
 <div class="links sectionlinks" role="navigation"><ul><li class="links"><a class="xref" href="drbd.html.ru" title="DRBD">DRBD</a></li></ul></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="cgroups-resources.html.ru" title="Ресурсы">Назад</a><a class="nextlinks-next" href="drbd.html.ru" title="DRBD">Вперёд</a>
+<a class="nextlinks-prev" href="lxc.html.ru" title="LXC">Назад</a><a class="nextlinks-next" href="drbd.html.ru" title="DRBD">Вперёд</a>
 </div>
 <div class="clear"></div>
 </div>

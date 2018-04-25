@@ -76,7 +76,8 @@
   </p></div>
 <div class="links sectionlinks" role="navigation"><ul>
 <li class="links"><a class="xref" href="preparing-to-install.html.ace" title="Preparing to Install">Preparing to Install</a></li>
-<li class="links"><a class="xref" href="installing-from-cd.html.ace" title="安装">安装</a></li>
+<li class="links"><a class="xref" href="installing-live-server.html.ace" title="Installing using the live server installer ">Installing using the live server installer </a></li>
+<li class="links"><a class="xref" href="installing-from-cd.html.ace" title="Installation using debian-installer">Installation using debian-installer</a></li>
 <li class="links"><a class="xref" href="installing-upgrading.html.ace" title="Upgrading">Upgrading</a></li>
 <li class="links"><a class="xref" href="advanced-installation.html.ace" title="Advanced Installation">Advanced Installation</a></li>
 <li class="links"><a class="xref" href="kernel-crash-dump.html.ace" title="Kernel Crash Dump">Kernel Crash Dump</a></li>

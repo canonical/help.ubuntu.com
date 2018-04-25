@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Установка</title>
+<title>Installation using debian-installer</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -66,15 +66,15 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="preparing-to-install.html.ru" title="Подготовка к установке">Назад</a><a class="nextlinks-next" href="installing-upgrading.html.ru" title="Обновление">Вперёд</a>
+<a class="nextlinks-prev" href="installing-live-server.html.ru" title="Installing using the live server installer ">Назад</a><a class="nextlinks-next" href="installing-upgrading.html.ru" title="Обновление">Вперёд</a>
 </div>
-<div class="hgroup"><h1 class="title">Установка</h1></div>
+<div class="hgroup"><h1 class="title">Installation using debian-installer</h1></div>
 <div class="region">
 <div class="contents">
 <p class="para">
 	  The basic steps to install Ubuntu Server Edition are the same  as those for installing any operating system.  Unlike
 	  the <span class="em emphasis">Desktop Edition</span>, the <span class="em emphasis">Server Edition</span> does not include a graphical 
-	  installation program.  The Server Edition uses a console menu based process instead.
+	  installation program.  The debian-installer installer uses a console menu based process instead.
 	  </p>
 <div class="list itemizedlist"><ul class="list itemizedlist">
 <li class="list itemizedlist">
@@ -230,7 +230,7 @@ bind9
 </div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="preparing-to-install.html.ru" title="Подготовка к установке">Назад</a><a class="nextlinks-next" href="installing-upgrading.html.ru" title="Обновление">Вперёд</a>
+<a class="nextlinks-prev" href="installing-live-server.html.ru" title="Installing using the live server installer ">Назад</a><a class="nextlinks-next" href="installing-upgrading.html.ru" title="Обновление">Вперёд</a>
 </div>
 <div class="clear"></div>
 </div>

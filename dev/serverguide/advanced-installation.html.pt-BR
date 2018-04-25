@@ -577,7 +577,7 @@ dispositivos não usados: &lt;nenhum&gt;</span>
 <div class="hgroup"><h3 class="title">Installation on a diskless system</h3></div>
 <div class="region"><div class="contents">
 <p class="para">The first steps of a diskless iSCSI installation are identical
-          to the <a class="xref" href="installing-from-cd.html.pt-BR" title="Instalação">Instalação</a> section up to "Hard drive
+          to the <a class="xref" href="installing-from-cd.html.pt-BR" title="Installation using debian-installer">Installation using debian-installer</a> section up to "Hard drive
           layout".</p>
 <div class="steps"><div class="inner"><ol class="steps">
 <li class="steps">
@@ -639,7 +639,7 @@ iSCSI targets on 192.168.1.29:3260:
 <div class="hgroup"><h3 class="title">Installation on a system with disk attached</h3></div>
 <div class="region"><div class="contents">
 <p class="para">Again, the iSCSI installation on a normal server with one or
-          many disks attached is identical to the <a class="xref" href="installing-from-cd.html.pt-BR" title="Instalação">Instalação</a> section until we reach the disk
+          many disks attached is identical to the <a class="xref" href="installing-from-cd.html.pt-BR" title="Installation using debian-installer">Installation using debian-installer</a> section until we reach the disk
           partitioning menu. Instead of using any of the Guided selection, we
           need to perform the following steps :</p>
 <div class="steps"><div class="inner"><ol class="steps">

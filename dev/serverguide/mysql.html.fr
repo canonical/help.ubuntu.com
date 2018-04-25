@@ -89,7 +89,6 @@
 <p class="para">Pour installer MySQL, exécutez la commande suivante dans un terminal :</p>
 <div class="screen"><pre class="contents "><span class="cmd command">sudo apt install mysql-server</span>
 </pre></div>
-<p class="para">Lors du processus d'installation, vous serez invité à entrer un mot de passe pour l'utilisateur root MySQL.</p>
 <p class="para">Une fois l'installation terminée, le serveur MySQL devrait démarrer automatiquement. Vous pouvez utiliser la commande suivante à l'invite d'un terminal pour vérifier si le serveur MySQL fonctionne :</p>
 <p class="para">
 <div class="screen"><pre class="contents "><span class="cmd command">sudo netstat -tap | grep mysql</span>

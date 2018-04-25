@@ -90,7 +90,6 @@
 <li class="links"><a class="xref" href="samba.html.es" title="Samba">Samba</a></li>
 <li class="links"><a class="xref" href="backups.html.es" title="Copias de seguridad">Copias de seguridad</a></li>
 <li class="links"><a class="xref" href="virtualization.html.es" title="Virtualización">Virtualización</a></li>
-<li class="links"><a class="xref" href="cgroups.html.es" title="Grupos de control">Grupos de control</a></li>
 <li class="links"><a class="xref" href="clustering.html.es" title="Clústers">Clústers</a></li>
 <li class="links"><a class="xref" href="vpn.html.es" title="VPN">VPN</a></li>
 <li class="links"><a class="xref" href="other-useful-applications.html.es" title="Otras aplicaciones útiles">Otras aplicaciones útiles</a></li>

@@ -66,7 +66,7 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="lxd.html.es" title="LXD">Anterior</a><a class="nextlinks-next" href="cgroups.html.es" title="Grupos de control">Siguiente</a>
+<a class="nextlinks-prev" href="lxd.html.es" title="LXD">Anterior</a><a class="nextlinks-next" href="clustering.html.es" title="Clústers">Siguiente</a>
 </div>
 <div class="hgroup"><h1 class="title">LXC</h1></div>
 <div class="region">
@@ -1042,7 +1042,7 @@ True
 </div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="lxd.html.es" title="LXD">Anterior</a><a class="nextlinks-next" href="cgroups.html.es" title="Grupos de control">Siguiente</a>
+<a class="nextlinks-prev" href="lxd.html.es" title="LXD">Anterior</a><a class="nextlinks-next" href="clustering.html.es" title="Clústers">Siguiente</a>
 </div>
 <div class="clear"></div>
 </div>

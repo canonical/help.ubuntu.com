@@ -89,10 +89,6 @@
 <p class="para">Για να εγκαταστήσετε το MySQL, εκτελέστε την ακόλουθη εντολή σε ένα τερματικό:</p>
 <div class="screen"><pre class="contents "><span class="cmd command">sudo apt install mysql-server</span>
 </pre></div>
-<p class="para">
-	                         During the installation process you will be prompted to enter a password for the MySQL root 
-	                         user.
-                            </p>
 <p class="para">Μόλις η εγκατάσταση ολοκληρωθεί, ο εξυπηρετητής MySQL θα πρέπει να εκκινηθεί αυτόματα. Μπορείτε να εκτελέσετε την παρακάτω εντολή σε ένα τερματικό για να ελέγξετε εάν ο εξυπηρετητής MySQL εκτελείται:``````````````````</p>
 <p class="para">
 <div class="screen"><pre class="contents "><span class="cmd command">sudo netstat -tap | grep mysql</span>

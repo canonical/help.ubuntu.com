@@ -112,7 +112,7 @@ pc-i440fx-xenial       Ubuntu 16.04 PC (i440FX + PIIX, 1996) (default)
 <div class="screen"><pre class="contents ">virsh start &lt;yourmachine&gt;
 # check from host, via dumping the active xml definition
 virsh dumpxml &lt;yourmachine&gt; | xmllint --xpath "string(//domain/os/type/@machine)" -
-# or from the guest via dmidecode
+# or from the guest via dmidecode (if supported)
 sudo dmidecode | grep Product -A 1
         Product Name: Standard PC (i440FX + PIIX, 1996)
         Version: pc-i440fx-xenial

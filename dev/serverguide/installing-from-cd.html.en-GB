@@ -2,7 +2,7 @@
 <html lang=en-GB>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Installation</title>
+<title>Installation using debian-installer</title>
 <link rel="stylesheet" type="text/css" href="en_GB.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -66,15 +66,15 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="preparing-to-install.html.en-GB" title="Preparing to Install">Previous</a><a class="nextlinks-next" href="installing-upgrading.html.en-GB" title="Upgrading">Next</a>
+<a class="nextlinks-prev" href="installing-live-server.html.en-GB" title="Installing using the live server installer ">Previous</a><a class="nextlinks-next" href="installing-upgrading.html.en-GB" title="Upgrading">Next</a>
 </div>
-<div class="hgroup"><h1 class="title">Installation</h1></div>
+<div class="hgroup"><h1 class="title">Installation using debian-installer</h1></div>
 <div class="region">
 <div class="contents">
 <p class="para">
 	  The basic steps to install Ubuntu Server Edition are the same  as those for installing any operating system.  Unlike
 	  the <span class="em emphasis">Desktop Edition</span>, the <span class="em emphasis">Server Edition</span> does not include a graphical 
-	  installation program.  The Server Edition uses a console menu based process instead.
+	  installation program.  The debian-installer installer uses a console menu based process instead.
 	  </p>
 <div class="list itemizedlist"><ul class="list itemizedlist">
 <li class="list itemizedlist">
@@ -265,7 +265,7 @@ bind9
 </div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="preparing-to-install.html.en-GB" title="Preparing to Install">Previous</a><a class="nextlinks-next" href="installing-upgrading.html.en-GB" title="Upgrading">Next</a>
+<a class="nextlinks-prev" href="installing-live-server.html.en-GB" title="Installing using the live server installer ">Previous</a><a class="nextlinks-next" href="installing-upgrading.html.en-GB" title="Upgrading">Next</a>
 </div>
 <div class="clear"></div>
 </div>

@@ -90,7 +90,6 @@
 <li class="links"><a class="xref" href="samba.html.nl" title="Samba">Samba</a></li>
 <li class="links"><a class="xref" href="backups.html.nl" title="Backups">Backups</a></li>
 <li class="links"><a class="xref" href="virtualization.html.nl" title="Virtualization">Virtualization</a></li>
-<li class="links"><a class="xref" href="cgroups.html.nl" title="Control Groups">Control Groups</a></li>
 <li class="links"><a class="xref" href="clustering.html.nl" title="Clustering">Clustering</a></li>
 <li class="links"><a class="xref" href="vpn.html.nl" title="VPN">VPN</a></li>
 <li class="links"><a class="xref" href="other-useful-applications.html.nl" title="Other Useful Applications">Other Useful Applications</a></li>

@@ -66,7 +66,7 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="installing-from-cd.html.ru" title="Установка">Назад</a><a class="nextlinks-next" href="advanced-installation.html.ru" title="Расширенная установка">Вперёд</a>
+<a class="nextlinks-prev" href="installing-from-cd.html.ru" title="Installation using debian-installer">Назад</a><a class="nextlinks-next" href="advanced-installation.html.ru" title="Расширенная установка">Вперёд</a>
 </div>
 <div class="hgroup"><h1 class="title">Обновление</h1></div>
 <div class="region">
@@ -96,7 +96,7 @@
 </div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="installing-from-cd.html.ru" title="Установка">Назад</a><a class="nextlinks-next" href="advanced-installation.html.ru" title="Расширенная установка">Вперёд</a>
+<a class="nextlinks-prev" href="installing-from-cd.html.ru" title="Installation using debian-installer">Назад</a><a class="nextlinks-next" href="advanced-installation.html.ru" title="Расширенная установка">Вперёд</a>
 </div>
 <div class="clear"></div>
 </div>

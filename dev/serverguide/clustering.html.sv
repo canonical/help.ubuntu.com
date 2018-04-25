@@ -66,7 +66,7 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="cgroups-resources.html.sv" title="Resurser">Föregående</a><a class="nextlinks-next" href="drbd.html.sv" title="DRBD">Nästa</a>
+<a class="nextlinks-prev" href="lxc.html.sv" title="LXC">Föregående</a><a class="nextlinks-next" href="drbd.html.sv" title="DRBD">Nästa</a>
 </div>
 <div class="hgroup"><h1 class="title">Kluster</h1></div>
 <div class="region">
@@ -74,7 +74,7 @@
 <div class="links sectionlinks" role="navigation"><ul><li class="links"><a class="xref" href="drbd.html.sv" title="DRBD">DRBD</a></li></ul></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="cgroups-resources.html.sv" title="Resurser">Föregående</a><a class="nextlinks-next" href="drbd.html.sv" title="DRBD">Nästa</a>
+<a class="nextlinks-prev" href="lxc.html.sv" title="LXC">Föregående</a><a class="nextlinks-next" href="drbd.html.sv" title="DRBD">Nästa</a>
 </div>
 <div class="clear"></div>
 </div>

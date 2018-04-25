@@ -92,10 +92,6 @@
 <div class="screen"><pre class="contents "><span class="cmd command">sudo apt install mysql-server</span>
 </pre></div>
 <p class="para">
-	                         During the installation process you will be prompted to enter a password for the MySQL root 
-	                         user.
-                            </p>
-<p class="para">
                             Once the installation is complete, the MySQL server should be
                             started automatically. You can run the following command from a terminal prompt to
                             check whether the MySQL server is running:

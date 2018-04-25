@@ -76,7 +76,8 @@
   </p></div>
 <div class="links sectionlinks" role="navigation"><ul>
 <li class="links"><a class="xref" href="preparing-to-install.html.el" title="Προετοιμασία εγκατάστασης">Προετοιμασία εγκατάστασης</a></li>
-<li class="links"><a class="xref" href="installing-from-cd.html.el" title="Εγκατάσταση">Εγκατάσταση</a></li>
+<li class="links"><a class="xref" href="installing-live-server.html.el" title="Installing using the live server installer ">Installing using the live server installer </a></li>
+<li class="links"><a class="xref" href="installing-from-cd.html.el" title="Installation using debian-installer">Installation using debian-installer</a></li>
 <li class="links"><a class="xref" href="installing-upgrading.html.el" title="Αναβάθμιση">Αναβάθμιση</a></li>
 <li class="links"><a class="xref" href="advanced-installation.html.el" title="Εγκατάσταση για προχωρημένους">Εγκατάσταση για προχωρημένους</a></li>
 <li class="links"><a class="xref" href="kernel-crash-dump.html.el" title="Kernel Crash Dump">Kernel Crash Dump</a></li>

@@ -76,7 +76,8 @@
   </p></div>
 <div class="links sectionlinks" role="navigation"><ul>
 <li class="links"><a class="xref" href="preparing-to-install.html.sk" title="Príprava na inštaláciu">Príprava na inštaláciu</a></li>
-<li class="links"><a class="xref" href="installing-from-cd.html.sk" title="Inštalácia">Inštalácia</a></li>
+<li class="links"><a class="xref" href="installing-live-server.html.sk" title="Installing using the live server installer ">Installing using the live server installer </a></li>
+<li class="links"><a class="xref" href="installing-from-cd.html.sk" title="Installation using debian-installer">Installation using debian-installer</a></li>
 <li class="links"><a class="xref" href="installing-upgrading.html.sk" title="Prechod na novú verziu">Prechod na novú verziu</a></li>
 <li class="links"><a class="xref" href="advanced-installation.html.sk" title="Pokročilá inštalácia">Pokročilá inštalácia</a></li>
 <li class="links"><a class="xref" href="kernel-crash-dump.html.sk" title="Kernel Crash Dump">Kernel Crash Dump</a></li>

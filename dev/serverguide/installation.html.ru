@@ -76,7 +76,8 @@
   </p></div>
 <div class="links sectionlinks" role="navigation"><ul>
 <li class="links"><a class="xref" href="preparing-to-install.html.ru" title="Подготовка к установке">Подготовка к установке</a></li>
-<li class="links"><a class="xref" href="installing-from-cd.html.ru" title="Установка">Установка</a></li>
+<li class="links"><a class="xref" href="installing-live-server.html.ru" title="Installing using the live server installer ">Installing using the live server installer </a></li>
+<li class="links"><a class="xref" href="installing-from-cd.html.ru" title="Installation using debian-installer">Installation using debian-installer</a></li>
 <li class="links"><a class="xref" href="installing-upgrading.html.ru" title="Обновление">Обновление</a></li>
 <li class="links"><a class="xref" href="advanced-installation.html.ru" title="Расширенная установка">Расширенная установка</a></li>
 <li class="links"><a class="xref" href="kernel-crash-dump.html.ru" title="Отчёт о падении ядра">Отчёт о падении ядра</a></li>

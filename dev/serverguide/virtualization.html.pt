@@ -73,9 +73,12 @@
 <div class="contents">
 <p class="para">A virtualização está a ser adoptada em muitos ambientes e situações. Se for um programador, a virtualização pode fornecer-lhe um ambiente estanque onde pode realizar todo o tipo de actividades de programação com a segurança de que não irá prejudicar o seu ambiente de trabalho primário. Se for um administrador de sistemas, pode usar a virtualização para separar os seus serviços de forma mais eficaz e para movê-los de um local para outro consoante o volume de pedidos de ligação.</p>
 <p class="para">The default virtualization technology supported in Ubuntu is
-  <span class="app application">KVM</span>. KVM requires virtualization extensions built
-  into Intel and AMD hardware. <span class="app application">Xen</span> is also
-  supported on Ubuntu. Xen can take advantage of virtualization extensions,
+  <span class="app application">KVM</span>. For Intel and AMD hardware KVM requires
+  virtualization extensions. But KVM is also available for IBM Z and LinuxONE,
+  IBM POWER as well as for ARM64.
+  <span class="app application">Xen</span> is also supported on Ubuntu, but not for all architecture, 
+  for example not for IBM Z and LinuxONE.
+  Xen can take advantage of virtualization extensions,
   when available, but can also be used on hardware without virtualization
   extensions. <span class="app application">Qemu</span> is another popular solution for
   hardware without virtualization extensions.</p>

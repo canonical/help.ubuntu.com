@@ -72,7 +72,16 @@
 <div class="region">
 <div class="contents">
 <p class="para">La virtualisation est adoptée dans plusieurs environnements et situations différents. Si vous êtes développeur, la virtualisation peut vous procurer un environnement confiné (dans une machine virtuelle) où vous pouvez effectuer à peu près n'importe quel type de développement sans abandonner votre environnement de travail principal. Si vous êtes administrateur système, vous pouvez utiliser la virtualisation pour isoler plus facilement vos services les uns des autres et les déplacer en fonction de la demande.</p>
-<p class="para">La technologie de virtualisation prise en charge par défaut dans Ubuntu est <span class="app application">KVM</span>. KVM nécessite des extensions de virtualisation intégrées aux processeurs Intel et AMD. <span class="app application">Xen</span>  est aussi pris en charge par Ubuntu. Xen peut tirer profit des extensions de virtualisation, quand elles sont disponibles, mais peut aussi être utilisé sur des matériels sans extensions de virtualisation. <span class="app application">Qemu</span> est une autre solution populaire  tournant sur des matériels sans extensions de virtualisation.</p>
+<p class="para">The default virtualization technology supported in Ubuntu is
+  <span class="app application">KVM</span>. For Intel and AMD hardware KVM requires
+  virtualization extensions. But KVM is also available for IBM Z and LinuxONE,
+  IBM POWER as well as for ARM64.
+  <span class="app application">Xen</span> is also supported on Ubuntu, but not for all architecture, 
+  for example not for IBM Z and LinuxONE.
+  Xen can take advantage of virtualization extensions,
+  when available, but can also be used on hardware without virtualization
+  extensions. <span class="app application">Qemu</span> is another popular solution for
+  hardware without virtualization extensions.</p>
 </div>
 <div class="links sectionlinks" role="navigation"><ul>
 <li class="links"><a class="xref" href="libvirt.html.fr" title="libvirt">libvirt</a></li>

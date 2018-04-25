@@ -72,7 +72,16 @@
 <div class="region">
 <div class="contents">
 <p class="para">Виртуализация подходит для множества разных сред и ситуаций. Если вы разработчик, виртуализация может дать вам изолированную среду, где можно спокойно вести практически любые разработки, не боясь разрушить вашу основную рабочую среду. Если вы системный администратор, вы можете использовать виртуализацию для более лёгкого разделения служб и перемещать их повсюду, когда потребуется.</p>
-<p class="para">По умолчанию в Ubuntu поддерживается технология виртуализации <span class="app application">KVM</span>. KVM требует наличия процессора с поддержкой технологий аппаратной виртуализации от Intel или AMD. <span class="app application">Xen</span> также поддерживается в Ubuntu. Xen может использовать преимущества аппаратной виртуализации, если она доступна, но также может использоваться на оборудовании без аппаратной виртуализации. <span class="app application">Qemu</span> — ещё одно популярное решение для оборудования без аппаратной виртуализации.</p>
+<p class="para">The default virtualization technology supported in Ubuntu is
+  <span class="app application">KVM</span>. For Intel and AMD hardware KVM requires
+  virtualization extensions. But KVM is also available for IBM Z and LinuxONE,
+  IBM POWER as well as for ARM64.
+  <span class="app application">Xen</span> is also supported on Ubuntu, but not for all architecture, 
+  for example not for IBM Z and LinuxONE.
+  Xen can take advantage of virtualization extensions,
+  when available, but can also be used on hardware without virtualization
+  extensions. <span class="app application">Qemu</span> is another popular solution for
+  hardware without virtualization extensions.</p>
 </div>
 <div class="links sectionlinks" role="navigation"><ul>
 <li class="links"><a class="xref" href="libvirt.html.ru" title="libvirt">libvirt</a></li>

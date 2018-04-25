@@ -66,7 +66,7 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="installation.html.sv" title="Installation">Föregående</a><a class="nextlinks-next" href="installing-from-cd.html.sv" title="Installation">Nästa</a>
+<a class="nextlinks-prev" href="installation.html.sv" title="Installation">Föregående</a><a class="nextlinks-next" href="installing-live-server.html.sv" title="Installing using the live server installer ">Nästa</a>
 </div>
 <div class="hgroup"><h1 class="title">Förbered installationen</h1></div>
 <div class="region">
@@ -79,14 +79,21 @@
 <div class="sect2 sect" id="system-requirements"><div class="inner">
 <div class="hgroup"><h2 class="title">Systemkrav</h2></div>
 <div class="region"><div class="contents">
-<p class="para">Ubuntu 18.04 LTS Server Edition supports three (3) major architectures: Intel x86, AMD64 and
-                ARM. The table below lists recommended hardware specifications. Depending on your needs, you might manage with less than this. However, most users risk being frustrated if they ignore these suggestions.</p>
+<p class="para">
+                          Ubuntu 18.04 LTS Server Edition supports four (4) major architectures: AMD64, ARM, POWER8, LinuxONE and z Systems (although this manual does not cover installation on LinuxONE or z Systems, see <a href="https://wiki.ubuntu.com/S390X/InstallationGuide" class="ulink" title="https://wiki.ubuntu.com/S390X/InstallationGuide">the dedicated guide</a> for that).
+                        </p>
+<p class="para">
+                          Ubuntu Server 18.04 LTS introduces a new installer, the "live server" installer (sometimes called "Ubiquity for Servers" or simply "subiquity") which provides a more user friendly and faster installation experience. At the time of writing it only supports amd64 processors and does not support LVM or RAID or other more sophisticated storage options, nor does it support reusing existing partitions on the disks of the system you are installing. It also requires access to the Ubuntu archive, possibly via a proxy. The previous, debian-installer based, installer is still available if these restrictions mean you can't use the live server installer.
+                        </p>
+<p class="para">
+                        The table below lists recommended hardware specifications. Depending on your needs, you might manage with less than this. However, most users risk being frustrated if they ignore these suggestions.</p>
 <div class="table">
 <div class="title"><h3><span class="title">Rekommenderade minimikrav</span></h3></div>
 <table summary="Rekommenderade minimikrav" style="border: solid 1px;">
 <thead>
 <tr>
 <th class="td-colsep" style="vertical-align: middle;" rowspan="2"><p class="para">Installationstyp</p></th>
+<th class="td-colsep" style="vertical-align: middle;" rowspan="2"><p class="para">Install Method</p></th>
 <th class="td-colsep" style="vertical-align: middle;" rowspan="2"><p class="para">CPU</p></th>
 <th class="td-colsep" style="vertical-align: middle;" rowspan="2"><p class="para">RAM</p></th>
 <th style="text-align: center;" colspan="2"><p class="para">Hårddiskutrymme</p></th>
@@ -98,17 +105,26 @@
 </thead>
 <tbody>
 <tr>
-<td class="td-colsep"><p class="para">Server (Standard)</p></td>
+<td class="td-colsep" rowspan="2"><p class="para">Server (Standard)</p></td>
+<td class="td-colsep"><p class="para">debian-installer</p></td>
 <td class="td-colsep"><p class="para">1 gigahertz</p></td>
 <td class="td-colsep"><p class="para">512 megabytes</p></td>
 <td class="td-colsep"><p class="para">1.5 gigabyte</p></td>
 <td><p class="para">2.5 gigabytes</p></td>
 </tr>
 <tr class="shade">
+<td class="td-colsep"><p class="para">live server</p></td>
+<td class="td-colsep"><p class="para">1 gigahertz (amd64 only)</p></td>
+<td class="td-colsep"><p class="para">1 gigabyte</p></td>
+<td class="td-colsep"><p class="para">1.5 gigabyte</p></td>
+<td><p class="para">n/a</p></td>
+</tr>
+<tr>
 <td class="td-colsep"><p class="para">Server (Minimal)</p></td>
+<td class="td-colsep"><p class="para">debian-installer</p></td>
 <td class="td-colsep"><p class="para">300 megahertz</p></td>
 <td class="td-colsep"><p class="para">384 megabytes</p></td>
-<td class="td-colsep"><p class="para">1.5 megabytes</p></td>
+<td class="td-colsep"><p class="para">1.5 gigabytes</p></td>
 <td><p class="para">2.5 gigabytes</p></td>
 </tr>
 </tbody>
@@ -156,14 +172,14 @@
 <div class="sect2 sect" id="backing-up"><div class="inner">
 <div class="hgroup"><h2 class="title">Säkerhetskopiera</h2></div>
 <div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist"><li class="list itemizedlist">
-              <p class="para">Innan du installerar <span class="app application">Ubuntu Server Edition</span> skall du säkerställa att all data på systemet är säkerhetskopierat. För säkerhetskopieringsalternativ, se <a class="xref" href="backups.html.sv" title="Säkerhetskopiering">Säkerhetskopiering</a>.</p>
-	      <p class="para">Om det inte är första gången ett operativsystem har installerats på din dator, vill du antagligen ompartitionera din hårddisk för att skapa utrymme för Ubuntu.</p>
-	      <p class="para">Oavsett när du partitionerar din disk, måste du vara beredd på att förlora allt på disken om du gör ett misstag eller om något går fel under partitioneringen. Programmen som används under installationen är ganska tillförlitliga, de flesta har använts i flera år, men de utför också förstörande handlingar.</p>
-            </li></ul></div></div></div>
+        <p class="para">Innan du installerar <span class="app application">Ubuntu Server Edition</span> skall du säkerställa att all data på systemet är säkerhetskopierat. För säkerhetskopieringsalternativ, se <a class="xref" href="backups.html.sv" title="Säkerhetskopiering">Säkerhetskopiering</a>.</p>
+	<p class="para">Om det inte är första gången ett operativsystem har installerats på din dator, vill du antagligen ompartitionera din hårddisk för att skapa utrymme för Ubuntu.</p>
+	<p class="para">Oavsett när du partitionerar din disk, måste du vara beredd på att förlora allt på disken om du gör ett misstag eller om något går fel under partitioneringen. Programmen som används under installationen är ganska tillförlitliga, de flesta har använts i flera år, men de utför också förstörande handlingar.</p>
+      </li></ul></div></div></div>
 </div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="installation.html.sv" title="Installation">Föregående</a><a class="nextlinks-next" href="installing-from-cd.html.sv" title="Installation">Nästa</a>
+<a class="nextlinks-prev" href="installation.html.sv" title="Installation">Föregående</a><a class="nextlinks-next" href="installing-live-server.html.sv" title="Installing using the live server installer ">Nästa</a>
 </div>
 <div class="clear"></div>
 </div>

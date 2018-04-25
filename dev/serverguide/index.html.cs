@@ -90,7 +90,6 @@
 <li class="links"><a class="xref" href="samba.html.cs" title="Samba">Samba</a></li>
 <li class="links"><a class="xref" href="backups.html.cs" title="Backups">Backups</a></li>
 <li class="links"><a class="xref" href="virtualization.html.cs" title="Virtualization">Virtualization</a></li>
-<li class="links"><a class="xref" href="cgroups.html.cs" title="Control Groups">Control Groups</a></li>
 <li class="links"><a class="xref" href="clustering.html.cs" title="Clustering">Clustering</a></li>
 <li class="links"><a class="xref" href="vpn.html.cs" title="VPN">VPN</a></li>
 <li class="links"><a class="xref" href="other-useful-applications.html.cs" title="Other Useful Applications">Other Useful Applications</a></li>

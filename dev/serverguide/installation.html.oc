@@ -76,7 +76,8 @@
   </p></div>
 <div class="links sectionlinks" role="navigation"><ul>
 <li class="links"><a class="xref" href="preparing-to-install.html.oc" title="Preparing to Install">Preparing to Install</a></li>
-<li class="links"><a class="xref" href="installing-from-cd.html.oc" title="Installacion">Installacion</a></li>
+<li class="links"><a class="xref" href="installing-live-server.html.oc" title="Installing using the live server installer ">Installing using the live server installer </a></li>
+<li class="links"><a class="xref" href="installing-from-cd.html.oc" title="Installation using debian-installer">Installation using debian-installer</a></li>
 <li class="links"><a class="xref" href="installing-upgrading.html.oc" title="Upgrading">Upgrading</a></li>
 <li class="links"><a class="xref" href="advanced-installation.html.oc" title="Advanced Installation">Advanced Installation</a></li>
 <li class="links"><a class="xref" href="kernel-crash-dump.html.oc" title="Kernel Crash Dump">Kernel Crash Dump</a></li>

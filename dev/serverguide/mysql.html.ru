@@ -84,7 +84,6 @@
 <p class="para">Для установки MySQL выполните следующую команду в терминале:</p>
 <div class="screen"><pre class="contents "><span class="cmd command">sudo apt install mysql-server</span>
 </pre></div>
-<p class="para">В процессе установки у вас запросят пароль для пользователя root под MySQL.</p>
 <p class="para">Как только установка будет окончена, сервер MySQL должен будет автоматически запущен. Для того, чтобы проверить, запущен ли сервер MySQL или нет, можно воспользоваться командой:</p>
 <p class="para">
 <div class="screen"><pre class="contents "><span class="cmd command">sudo netstat -tap | grep mysql</span>

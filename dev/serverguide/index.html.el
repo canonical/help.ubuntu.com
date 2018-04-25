@@ -90,7 +90,6 @@
 <li class="links"><a class="xref" href="samba.html.el" title="Samba">Samba</a></li>
 <li class="links"><a class="xref" href="backups.html.el" title="Αντίγραφα ασφαλείας">Αντίγραφα ασφαλείας</a></li>
 <li class="links"><a class="xref" href="virtualization.html.el" title="Εικονικοποίηση">Εικονικοποίηση</a></li>
-<li class="links"><a class="xref" href="cgroups.html.el" title="Control Groups">Control Groups</a></li>
 <li class="links"><a class="xref" href="clustering.html.el" title="Συστοίχιση">Συστοίχιση</a></li>
 <li class="links"><a class="xref" href="vpn.html.el" title="VPN">VPN</a></li>
 <li class="links"><a class="xref" href="other-useful-applications.html.el" title="Άλλες Χρήσιμες Εφαρμογές">Άλλες Χρήσιμες Εφαρμογές</a></li>

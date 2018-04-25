@@ -89,10 +89,6 @@
 <p class="para">MySQL을 설치하기 위하여, 터미널 프롬프트에서 다음 명령을 실행 합니다:</p>
 <div class="screen"><pre class="contents "><span class="cmd command">sudo apt install mysql-server</span>
 </pre></div>
-<p class="para">
-	                         During the installation process you will be prompted to enter a password for the MySQL root 
-	                         user.
-                            </p>
 <p class="para">설치가 마쳐진 후, MySQL 서버는 자동적으로 시작 됩니다. MySQL 서바가 실행 중인지를 점검하려면 터미널 프롬프트에서 다음의 명령을 실행할 수 있습니다:</p>
 <p class="para">
 <div class="screen"><pre class="contents "><span class="cmd command">sudo netstat -tap | grep mysql</span>

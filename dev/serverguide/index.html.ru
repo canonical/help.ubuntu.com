@@ -90,7 +90,6 @@
 <li class="links"><a class="xref" href="samba.html.ru" title="Samba">Samba</a></li>
 <li class="links"><a class="xref" href="backups.html.ru" title="Резервное копирование">Резервное копирование</a></li>
 <li class="links"><a class="xref" href="virtualization.html.ru" title="Виртуализация">Виртуализация</a></li>
-<li class="links"><a class="xref" href="cgroups.html.ru" title="Группы управления">Группы управления</a></li>
 <li class="links"><a class="xref" href="clustering.html.ru" title="Кластеризация">Кластеризация</a></li>
 <li class="links"><a class="xref" href="vpn.html.ru" title="VPN">VPN</a></li>
 <li class="links"><a class="xref" href="other-useful-applications.html.ru" title="Другие полезные приложения">Другие полезные приложения</a></li>

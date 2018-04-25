@@ -76,7 +76,8 @@
   </p></div>
 <div class="links sectionlinks" role="navigation"><ul>
 <li class="links"><a class="xref" href="preparing-to-install.html.ja" title="インストールの準備">インストールの準備</a></li>
-<li class="links"><a class="xref" href="installing-from-cd.html.ja" title="インストール">インストール</a></li>
+<li class="links"><a class="xref" href="installing-live-server.html.ja" title="Installing using the live server installer ">Installing using the live server installer </a></li>
+<li class="links"><a class="xref" href="installing-from-cd.html.ja" title="Installation using debian-installer">Installation using debian-installer</a></li>
 <li class="links"><a class="xref" href="installing-upgrading.html.ja" title="Upgrading">Upgrading</a></li>
 <li class="links"><a class="xref" href="advanced-installation.html.ja" title="Advanced Installation">Advanced Installation</a></li>
 <li class="links"><a class="xref" href="kernel-crash-dump.html.ja" title="Kernel Crash Dump">Kernel Crash Dump</a></li>

@@ -72,7 +72,16 @@
 <div class="region">
 <div class="contents">
 <p class="para">La virtualizzazione, al giorno d'oggi, viene utilizzata in diversi ambienti e situazioni. Dal punto di vista dello sviluppatore, la virtualizzazione offre un ambiente sicuro dove poter eseguire qualsiasi tipo di sviluppo, senza compromettere l'ambiente di lavoro. Per l'amministratore di sistema, è possibile usare la virtualizzazione per separare facilmente i propri servizi e spostarli in base alle richieste.</p>
-<p class="para">La tecnologia di virtualizzazione supportata per impostazione predefinita in Ubuntu è <span class="app application">KVM</span>, che richiede estensioni di virtualizzazione costruite sull'hardware Intel e AMD. Anche <span class="app application">Xen</span> è supportato in Ubuntu. Xen può avvantaggiarsi delle estensioni di virtualizzazione, se disponibili, ma può anche essere utilizzato sull'hardware senza tali estensioni. <span class="app application">Qemu</span> è un'altra diffusa soluzione per hardware senza estensioni di virtualizzazione.</p>
+<p class="para">The default virtualization technology supported in Ubuntu is
+  <span class="app application">KVM</span>. For Intel and AMD hardware KVM requires
+  virtualization extensions. But KVM is also available for IBM Z and LinuxONE,
+  IBM POWER as well as for ARM64.
+  <span class="app application">Xen</span> is also supported on Ubuntu, but not for all architecture, 
+  for example not for IBM Z and LinuxONE.
+  Xen can take advantage of virtualization extensions,
+  when available, but can also be used on hardware without virtualization
+  extensions. <span class="app application">Qemu</span> is another popular solution for
+  hardware without virtualization extensions.</p>
 </div>
 <div class="links sectionlinks" role="navigation"><ul>
 <li class="links"><a class="xref" href="libvirt.html.it" title="libvirt">libvirt</a></li>

@@ -66,7 +66,7 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="installing-from-cd.html.el" title="Εγκατάσταση">Προηγούμενο</a><a class="nextlinks-next" href="advanced-installation.html.el" title="Εγκατάσταση για προχωρημένους">Επόμενο</a>
+<a class="nextlinks-prev" href="installing-from-cd.html.el" title="Installation using debian-installer">Προηγούμενο</a><a class="nextlinks-next" href="advanced-installation.html.el" title="Εγκατάσταση για προχωρημένους">Επόμενο</a>
 </div>
 <div class="hgroup"><h1 class="title">Αναβάθμιση</h1></div>
 <div class="region">
@@ -100,7 +100,7 @@
 </div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="installing-from-cd.html.el" title="Εγκατάσταση">Προηγούμενο</a><a class="nextlinks-next" href="advanced-installation.html.el" title="Εγκατάσταση για προχωρημένους">Επόμενο</a>
+<a class="nextlinks-prev" href="installing-from-cd.html.el" title="Installation using debian-installer">Προηγούμενο</a><a class="nextlinks-next" href="advanced-installation.html.el" title="Εγκατάσταση για προχωρημένους">Επόμενο</a>
 </div>
 <div class="clear"></div>
 </div>

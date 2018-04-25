@@ -73,9 +73,12 @@
 <div class="contents">
 <p class="para">Η εικονικοποίηση υιοθετείτε από πολλά διαφορετικά περιβάλλοντα και καταστάσεις. Εάν είστε προγραμματιστής, η εικονικοποίηση μπορεί να σας παρέχει ένα περιορισμένο περιβάλλον στο οποίο μπορείτε με ασφάλεια να κάνετε σχεδόν κάθε είδους ανάπτυξη χωρίς να πειράζετε το κύριο περιβάλλον εργασίας σας. Εάν είστε διαχειριστής συστημάτων, μπορείτε να χρησιμοποιήσετε την εικονικοποίηση για να διαχωρίζετε πιο εύκολα τις υπηρεσίες σας και να τις μετακινείτε με βάση τη ζήτηση.</p>
 <p class="para">The default virtualization technology supported in Ubuntu is
-  <span class="app application">KVM</span>. KVM requires virtualization extensions built
-  into Intel and AMD hardware. <span class="app application">Xen</span> is also
-  supported on Ubuntu. Xen can take advantage of virtualization extensions,
+  <span class="app application">KVM</span>. For Intel and AMD hardware KVM requires
+  virtualization extensions. But KVM is also available for IBM Z and LinuxONE,
+  IBM POWER as well as for ARM64.
+  <span class="app application">Xen</span> is also supported on Ubuntu, but not for all architecture, 
+  for example not for IBM Z and LinuxONE.
+  Xen can take advantage of virtualization extensions,
   when available, but can also be used on hardware without virtualization
   extensions. <span class="app application">Qemu</span> is another popular solution for
   hardware without virtualization extensions.</p>

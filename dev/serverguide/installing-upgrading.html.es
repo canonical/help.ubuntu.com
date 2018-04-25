@@ -66,7 +66,7 @@
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="installing-from-cd.html.es" title="Instalación">Anterior</a><a class="nextlinks-next" href="advanced-installation.html.es" title="Instalación avanzada">Siguiente</a>
+<a class="nextlinks-prev" href="installing-from-cd.html.es" title="Installation using debian-installer">Anterior</a><a class="nextlinks-next" href="advanced-installation.html.es" title="Instalación avanzada">Siguiente</a>
 </div>
 <div class="hgroup"><h1 class="title">Actualizando</h1></div>
 <div class="region">
@@ -100,7 +100,7 @@
 </div></div>
 </div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="installing-from-cd.html.es" title="Instalación">Anterior</a><a class="nextlinks-next" href="advanced-installation.html.es" title="Instalación avanzada">Siguiente</a>
+<a class="nextlinks-prev" href="installing-from-cd.html.es" title="Installation using debian-installer">Anterior</a><a class="nextlinks-next" href="advanced-installation.html.es" title="Instalación avanzada">Siguiente</a>
 </div>
 <div class="clear"></div>
 </div>

@@ -90,7 +90,6 @@
 <li class="links"><a class="xref" href="samba.html.ur" title="Samba">Samba</a></li>
 <li class="links"><a class="xref" href="backups.html.ur" title="Backups">Backups</a></li>
 <li class="links"><a class="xref" href="virtualization.html.ur" title="Virtualization">Virtualization</a></li>
-<li class="links"><a class="xref" href="cgroups.html.ur" title="Control Groups">Control Groups</a></li>
 <li class="links"><a class="xref" href="clustering.html.ur" title="Clustering">Clustering</a></li>
 <li class="links"><a class="xref" href="vpn.html.ur" title="VPN">VPN</a></li>
 <li class="links"><a class="xref" href="other-useful-applications.html.ur" title="Other Useful Applications">Other Useful Applications</a></li>

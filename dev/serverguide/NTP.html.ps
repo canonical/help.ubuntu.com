@@ -156,7 +156,7 @@ See <span class="cmd command">man timedatectl</span> for more details.
    Status: "Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com)."
     Tasks: 2 (limit: 4915)
    CGroup: /system.slice/systemd-timesyncd.service
-           └─3744 /lib/systemd/systemd-timesyncd
+           |-3744 /lib/systemd/systemd-timesyncd
 
 Feb 23 08:55:46 bionic-test systemd[1]: Starting Network Time Synchronization...
 Feb 23 08:55:46 bionic-test systemd[1]: Started Network Time Synchronization.

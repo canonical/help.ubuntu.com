@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>TCP/IP</title>
+<link rel="stylesheet" type="text/css" href="zh_CN.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = "index.html.en";
+        } else {
+                window.location = href.replace(/\.html.*/, ".html.en");
+        }
+         return false;
+      }
+      function browserPreferredLanguage() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = href;
+        } else {
+                window.location = href.replace(/\.html.*/, ".html");
+        }
+        return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 服务器指南">Ubuntu 服务器指南</a> » <a class="trail" href="networking.html.zh-CN" title="联网">联网</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="network-configuration.html.zh-CN" title="网络配置">上一页</a><a class="nextlinks-next" href="dhcp.html.zh-CN" title="动态主机配置协议 (DHCP)">下一页</a>
+</div>
+<div class="hgroup"><h1 class="title">TCP/IP</h1></div>
+<div class="region">
+<div class="contents"><p class="para">传输控制协议和网际协议 (TCP/IP) 是在 20世纪70年代被美国国防部高级研究规划局 (DARPA)作为在不同类型计算机及计算机网络之间的通信手段而被开发的一个标准协议簇。TCP/IP 是 Internet 的驱动力，因此它是全球最流行的网络协议簇。</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="tcpip.html.zh-CN#tcpip-introduction" title="TCP/IP 介绍">TCP/IP 介绍</a></li>
+<li class="links"><a class="xref" href="tcpip.html.zh-CN#tcpip-configuration" title="TCP/IP 配置">TCP/IP 配置</a></li>
+<li class="links"><a class="xref" href="tcpip.html.zh-CN#ip-routing" title="IP 路由">IP 路由</a></li>
+<li class="links"><a class="xref" href="tcpip.html.zh-CN#tcp-and-udp" title="TCP 和 UDP">TCP 和 UDP</a></li>
+<li class="links"><a class="xref" href="tcpip.html.zh-CN#icmp" title="ICMP">ICMP</a></li>
+<li class="links"><a class="xref" href="tcpip.html.zh-CN#daemons" title="守护程序">守护程序</a></li>
+<li class="links"><a class="xref" href="tcpip.html.zh-CN#tcpip-resources" title="资源">资源</a></li>
+</ul></div>
+<div class="sect2 sect" id="tcpip-introduction"><div class="inner">
+<div class="hgroup"><h2 class="title">TCP/IP 介绍</h2></div>
+<div class="region"><div class="contents"><p class="para">
+            The two protocol components of TCP/IP deal with different aspects of computer networking.
+            <span class="em emphasis">Internet Protocol</span>, the "IP" of TCP/IP is a
+			connectionless protocol which deals only with network packet routing using the <span class="em emphasis">IP Datagram</span> as the basic unit of networking information.  The
+			IP Datagram consists of a header followed by a message.  The <span class="em emphasis">
+			Transmission Control Protocol</span> is the "TCP" of TCP/IP and enables network hosts
+			to establish connections which may be used to exchange data streams.  TCP also guarantees
+			that the data between connections is delivered and that it arrives at one network host in
+			the same order as sent from another network host.
+          </p></div></div>
+</div></div>
+<div class="sect2 sect" id="tcpip-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">TCP/IP 配置</h2></div>
+<div class="region"><div class="contents">
+<p class="para">TCP/IP 协议配置由必须设置的几个元素组成，可以通过编辑相应的配置文件或配置方案如动态主机配置协议 (DHCP) 来设置，它可以配置成提供适当的 TCP/IP 配置来自动设置网络客户机。这些配置值必须正确设置，以便于您的 Ubuntu 系统进行相应网络操作。</p>
+<p class="para">TCP/IP 常用配置元素及其作用如下所示：<div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">IP 地址</span> IP 地址是唯一标识字符串，它由四部分由点号分隔的，范围从 0 到 255 的十进制数组成。 每部分由8个比特表示，整个地址总长为32个比特。这种格式被称为 <span class="em emphasis">dotted quad notation</span>。</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">掩码</span> 子网掩码 (或简称<span class="em emphasis">掩码</span>) 是一个局部位掩码，或用指定的 <span class="em emphasis">子网掩码</span> 来将IP 地址中的网络分隔出来的一组标识。举个例子，在 C 类网络中，标准的掩码是 255.255.255.0 屏蔽了 IP 地址的前三个字节，并允许 IP 地址的最后一个字节指定子网中的主机。</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">网络地址</span> 网络地址表示包括IP 地址网络部分的字节。 例如， 一个 A 类网络的主机 12.128.1.2 将使用 12.0.0.0 作为网络地址，使用 12 来表示 IP 地址的第一个字节 (网络部分)， 余下的三个为 0 的字节表示可能的主机值的。网络主机使用象 192.168.1.100 这样的私有 IP 地址将使用 192.168.1.0 作为网络地址，其用前三个字节来指定 C 类 192.168.1 网络，而用一个 0 来表示网络上所有可能的主机。</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">广播地址</span> 广播地址是一个允许向给定子网中的所有主机而不是一台特定的网络主机同时发送网络数据的 IP 地址。IP 网络的标准通用广播地址是 255.255.255.255，但这个广播地址不能用来为 Internet 上的每台主机发送一个广播消息，因为路由器会阻止它。更特定的广播地址被设置成匹配特定的子网。例如，在私有 C 类 IP 网 192.168.1.0 中，广播地址为 192.168.1.255。广播消息一般都是由网络协议产生的，如地址解析协议 (ARP) 和路由信息协议 (RIP)。</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">网关地址</span> 网关地址是一个通过该地址可能会到达指定网络或网络主机的 IP 地址。如果一台网络主机希望与另一台网络主机通讯，而该机并不在同一网络中，就必须使用 <span class="em emphasis">网关</span>。在很多情况下，网关地址会是同一个网络中的某台路由器，其会接着将网络流量输送到其它的网络或主机，如 Internet 主机。网关地址设置必须正确，否则您的系统将除了在同一个网络中的主机外不能到达任何其它主机。</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para">
+                  <span class="em em-bold emphasis">Nameserver Address</span> Nameserver Addresses represent the IP addresses of
+                  Domain Name Service (DNS) systems, which resolve network hostnames into IP addresses.  There are three levels of
+                  Nameserver Addresses, which may be specified in order of precedence: The
+                  <span class="em emphasis">Primary</span>
+                  Nameserver, the <span class="em emphasis">Secondary</span> Nameserver, and the
+                  <span class="em emphasis">Tertiary</span>
+                  Nameserver. In order for your system to be able to resolve network hostnames into their
+                  corresponding IP addresses, you must specify valid Nameserver Addresses which you are authorized to use
+                  in your system's TCP/IP configuration.  In many cases these addresses can and will be provided by your
+                  network service provider, but many free and publicly accessible nameservers are available for use, such as
+                  the Level3 (Verizon) servers with IP addresses from
+                  4.2.2.1 to 4.2.2.6. </p>
+                     <div class="note note-tip" title="提示"><div class="inner"><div class="region"><div class="contents">
+                        <p class="para">
+                        The IP address, Netmask, Network Address, Broadcast Address, Gateway Address, and Nameserver
+                        Addresses are typically specified via the appropriate directives in the file
+                        <span class="file filename">/etc/network/interfaces</span>. For more information, view the system manual
+                        page for <span class="file filename">interfaces</span>, with the following command typed at a terminal prompt:
+                        </p>
+                     </div></div></div></div>
+                    <p class="para">查阅 <span class="file filename">interfaces</span> 系统手册页，可用以下命令：</p>
+                    <p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">man interfaces</span>
+</pre></div>
+                    </p>
+               </li>
+</ul></div></p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="ip-routing"><div class="inner">
+<div class="hgroup"><h2 class="title">IP 路由</h2></div>
+<div class="region"><div class="contents">
+<p class="para">IP 路由是在 TCP/IP 网络上为发送的网络数据指定或发现路径的一种方法。路由使用一组 <span class="em emphasis">路由表</span> 来指示网络数据包从源地址转发到目的地，经常是通过许多叫做 <span class="em emphasis">路由器</span> 的网络节点做中转。IP 路由分为两种主要形式：<span class="em emphasis">静态</span> 和 <span class="em emphasis">动态路由。</span></p>
+<p class="para">静态路由牵涉到手工往系统的路由表中添加 IP 路由，这通常是通过使用 <span class="app application">route</span> 命令操作路由表来完成的。静态路由与动态路由相比有许多优势，例如在小型网络中实现简单，可预测(路由表总是事先计算得到的，因此路由在每次使用时都是精确一致的)，以及在连接其它的路由器和网络时由于无需动态路由协议所带来的低开销。然而，静态路由同样也存在一些缺点。例如，静态路由仅限于在小型网络中使用，没有很好的递增适应性。而由于其路由固定的本质，静态路由在遇到沿路由的网络失效时也会完全失效。</p>
+<p class="para">动态路由有赖于从一个源到目的有多条 IP 路由可用的大型网络，利用特定的路由协议，如路由信息协议 (RIP)，其可以自动调整路由表以使动态路由成为可能。动态路由相对静态路由有一些优势，如超强的可伸缩性及能适应网络路由沿线的网络中断和故障。此外，几乎无须手工配置路由表，因为路由器可以相互学到其他已有并且可用的路由器。这一特性也消除了由于人为错误而在路由表中引入错误的可能。然而，动态路由也并不完美，其表现出来的缺点如相当复杂以及由于路由器通信所带来的额外的网络开销，后者并不能使最终用户由此获益，却仍旧会消耗网络带宽。</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="tcp-and-udp"><div class="inner">
+<div class="hgroup"><h2 class="title">TCP 和 UDP</h2></div>
+<div class="region"><div class="contents">
+<p class="para">TCP 是一个基于连接的协议，提供纠错并通过 <span class="em emphasis">流量控制</span> 来确保数据的送达。流量控制决定像什么时候需要停止一个数据流，以及在出现诸如 <span class="em emphasis">冲突</span> 等问题时重发先前发送的数据包，以确保完整和准确的数据传输。TCP 常用于重要信息的交换，如数据库事务。</p>
+<p class="para">另一方面，用户数据报协议 (UDP) 是一个 <span class="em emphasis">无连接</span> 协议，很少用于重要数据的传输，因为缺乏流量控制或其他一些确保可靠数据传输的方法。UDP 常用在如音视频流这样的应用程序，由于它缺少纠错和流控，因此相对于 TCP 来说更快，而且丢失少量包通常也不会造成灾难性的后果。</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="icmp"><div class="inner">
+<div class="hgroup"><h2 class="title">ICMP</h2></div>
+<div class="region"><div class="contents"><p class="para">Internet 控制消息协议是在Request For Comments (RFC) #792 中定义的，是对网际协议 (IP) 的一个扩充。支持的网络包包括控制、错误和信息的消息。ICMP 常被用在诸如判断一台网络主机或设备可用性的 <span class="app application">ping</span> 工具这样的网络应用程序。在网络主机和设备如路由器之间使用 ICMP 所返回的错误消息示例包括 <span class="em emphasis">Destination Unreachable</span> 和 <span class="em emphasis">Time Exceeded</span>。</p></div></div>
+</div></div>
+<div class="sect2 sect" id="daemons"><div class="inner">
+<div class="hgroup"><h2 class="title">守护程序</h2></div>
+<div class="region"><div class="contents"><p class="para">守护程序是特殊的系统应用程序，一般常驻在后台并等待来自其他应用程序请求其所提供的功能。许多守护程序都是面向网络的；也就是说，在 Ubuntu 系统后台执行的许多守护程序都可以提供网络的相关功能。这些网络守护程序包括 <span class="em emphasis">超文本传输协议守护程序</span> (httpd)，用于提供web服务器功能；<span class="em emphasis">Secure SHell 守护程序</span> (sshd)，用于提供安全远程登录 shell 和文件传输功能；<span class="em emphasis">Internet Message Access Protocol 守护程序</span> (imapd)，用于提供 E-Mail 服务。</p></div></div>
+</div></div>
+<div class="sect2 sect" id="tcpip-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">资源</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para">
+              There are man pages for <a href="http://manpages.ubuntu.com/manpages/bionic/en/man7/tcp.7.html" class="ulink" title="http://manpages.ubuntu.com/manpages/bionic/en/man7/tcp.7.html">TCP</a> and
+              <a href="http://manpages.ubuntu.com/manpages/bionic/man7/ip.7.html" class="ulink" title="http://manpages.ubuntu.com/manpages/bionic/man7/ip.7.html">IP</a> that contain more useful information.
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              Also, see the <a href="http://www.redbooks.ibm.com/abstracts/gg243376.html" class="ulink" title="http://www.redbooks.ibm.com/abstracts/gg243376.html">TCP/IP Tutorial and Technical Overview</a>
+              IBM Redbook.
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              Another resource is O'Reilly's <a href="http://oreilly.com/catalog/9780596002978/" class="ulink" title="http://oreilly.com/catalog/9780596002978/">TCP/IP Network Administration</a>.
+              </p>
+            </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="network-configuration.html.zh-CN" title="网络配置">上一页</a><a class="nextlinks-next" href="dhcp.html.zh-CN" title="动态主机配置协议 (DHCP)">下一页</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address
+          so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p>
+</div>
+</div>
+</body>
+</html>

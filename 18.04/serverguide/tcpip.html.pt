@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang=pt>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>TCP/IP</title>
+<link rel="stylesheet" type="text/css" href="pt.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = "index.html.en";
+        } else {
+                window.location = href.replace(/\.html.*/, ".html.en");
+        }
+         return false;
+      }
+      function browserPreferredLanguage() {
+        var href = window.location.href;
+        if (href.slice(-1) == "/") {
+                window.location = href;
+        } else {
+                window.location = href.replace(/\.html.*/, ".html");
+        }
+        return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails"><div class="trail">
+<a href="../../18.04" class="trail">Ubuntu 18.04</a> » <a class="trail" href="index.html.pt" title="Guia do Servidor Ubuntu">Guia do Servidor Ubuntu</a> » <a class="trail" href="networking.html.pt" title="Rede">Rede</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="network-configuration.html.pt" title="Configuração de Rede">Anterior</a><a class="nextlinks-next" href="dhcp.html.pt" title="Protocolo de Configuração Dinâmica da Máquina Dynamic Host Configuration Protocol (DHCP)">Seguinte</a>
+</div>
+<div class="hgroup"><h1 class="title">TCP/IP</h1></div>
+<div class="region">
+<div class="contents"><p class="para">O <span class="em emphasis">Transmission Control Protocol</span> e o <span class="em emphasis">Internet Protocol</span> (TCP/IP) é um conjunto padrão de protocolos desenvolvido nos finais dos anos 70 pelo Defense Advanced Research Projects Agency (DARPA) como forma de comunicação entre diferentes tipos de computadores e redes de computadores. O TCP/IP é a força impulsionadora da Internet, e como tal este é o conjunto de protocolos mais populares da Terra.</p></div>
+<div class="links sectionlinks" role="navigation"><ul>
+<li class="links"><a class="xref" href="tcpip.html.pt#tcpip-introduction" title="Introdução ao TCP/IP">Introdução ao TCP/IP</a></li>
+<li class="links"><a class="xref" href="tcpip.html.pt#tcpip-configuration" title="Configuração de TCP/IP">Configuração de TCP/IP</a></li>
+<li class="links"><a class="xref" href="tcpip.html.pt#ip-routing" title="Encaminhamento IP">Encaminhamento IP</a></li>
+<li class="links"><a class="xref" href="tcpip.html.pt#tcp-and-udp" title="TCP e UDP">TCP e UDP</a></li>
+<li class="links"><a class="xref" href="tcpip.html.pt#icmp" title="ICMP">ICMP</a></li>
+<li class="links"><a class="xref" href="tcpip.html.pt#daemons" title="Serviços">Serviços</a></li>
+<li class="links"><a class="xref" href="tcpip.html.pt#tcpip-resources" title="Recursos">Recursos</a></li>
+</ul></div>
+<div class="sect2 sect" id="tcpip-introduction"><div class="inner">
+<div class="hgroup"><h2 class="title">Introdução ao TCP/IP</h2></div>
+<div class="region"><div class="contents"><p class="para">
+            The two protocol components of TCP/IP deal with different aspects of computer networking.
+            <span class="em emphasis">Internet Protocol</span>, the "IP" of TCP/IP is a
+			connectionless protocol which deals only with network packet routing using the <span class="em emphasis">IP Datagram</span> as the basic unit of networking information.  The
+			IP Datagram consists of a header followed by a message.  The <span class="em emphasis">
+			Transmission Control Protocol</span> is the "TCP" of TCP/IP and enables network hosts
+			to establish connections which may be used to exchange data streams.  TCP also guarantees
+			that the data between connections is delivered and that it arrives at one network host in
+			the same order as sent from another network host.
+          </p></div></div>
+</div></div>
+<div class="sect2 sect" id="tcpip-configuration"><div class="inner">
+<div class="hgroup"><h2 class="title">Configuração de TCP/IP</h2></div>
+<div class="region"><div class="contents">
+<p class="para">A configuração do protocolo TCP/IP consiste em vários elementos que devem ser ajustados editando os ficheiros apropriados, ou aplicando soluções tais como o servidor Dynamic Host Configuration Protocol (DHCP) que por sua vez pode ser configurado para fornecer as configurações de TCP/IP correctas ao cliente, automaticamente. Os dados desta configuração devem ser ajustados correctamente por forma a facilitar o correcto funcionamento na rede do seu sistema Ubuntu.</p>
+<p class="para">Os elementos da configuração comum do TCP/IP e as suas finalidades são as seguintes <div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Endereço IP</span> O endereço IP é um identificador único apresentado como quatro números decimais limitados entre zero (0) e duzentos e cinquenta e cinco (255), separados por pontos (.), cada um dos quatro números reprensenta oito (8) bits do endereço, para um comprimento total do endereço de trinta e dois (32) bits. Este formato é chamado <span class="em emphasis">dotted quad notation</span>.</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Netmask</span> A Máscara de Sub-rede, (ou simplesmente <span class="em emphasis">netmask</span> é uma máscara de bits, ou um conjuntos de marcas que separam as partes do endereço IP significativas para a rede, das significativas para a <span class="em emphasis">sub-rede</span>. Por exemplo, numa rede classe C, a máscara de rede padrão é 255.255.255.0 o que mascára os três primeiros bytes do endereço IP e permite que o último byte se mantenha disponível para indicar os computadores na sub-rede.</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Endereço de Rede</span> O Endereço de Rede representa os bytes que constituem uma porção de um endereço de IP. Por exemplo, o host 12.128.1.2 numa rede Classe A deverá usar como endereço de rede 12.0.0.0, onde 12 representa o primeiro byte do endereço deIP (parte de rede) e zeros (0) em todos os três restantes campos para representar potenciais valores de IP para outras máquinas. Uma máquina na rede usando o Endereço de Rede 192.168.1.100 irá por sua vez usar um Endereço de Rede de 192.168.1.0, que especifica os primeiros três bytes de rede Classe C 192.168.1 e um zero (0) para todas as possíveis máquinas presentes na rede.</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Broadcast Address</span> o Broadcast Addres é um IP que permite que dados da rede sejam simultaneamente enviados a todas as máquinas numa determinada sub-rede em vez  se especificar uma máquina em particular. O IP de broadcast por defeito é 255.255.255.255, mas este endereço não poderá ser usado para enviar mensagens de broadcast a todas as máquinas na internet pois os routers bloqueiam-nas. Um endereço de broadcast mais apropriado é definido para fazer broadcast numa sub-rede específica. Por exemplo, numa rede de ip CLasse C, 192.168.1.0, o endereço de breoadcast é 192.168.1.255. As mensagens de broadcast são tipicamente produzidas por protocolos de rede tais como Address Resolution Protocol (ARP) e Routing Information Protocol (RIP).</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para"><span class="em em-bold emphasis">Porta de Ligação</span> A Porta de Ligação <span class="em emphasis">Gateway</span>, é o endereço IP pelo qual uma rede em particular ou um computador na rede pode ser alcançado. Se um computador da rede deseja comunicar com outro, e esse outro não está localizado na mesma rede, então uma <span class="em emphasis">porta de ligação</span> tem que ser utilizada. Em muitos casos, o Endereço da Porta de Ligação será o de um <span class="em emphasis">router</span> da mesma rede, que por sua vez fará a passagem do tráfego para outras redes ou computadores, tais como Servidores de Internet. O valor do endereço da Porta de Ligação tem que ser correcto, caso contrário o seu sistema não poderá comunicar com outros computadores fora da mesma rede.</p>
+               </li>
+<li class="list itemizedlist">
+                  <p class="para">
+                  <span class="em em-bold emphasis">Nameserver Address</span> Nameserver Addresses represent the IP addresses of
+                  Domain Name Service (DNS) systems, which resolve network hostnames into IP addresses.  There are three levels of
+                  Nameserver Addresses, which may be specified in order of precedence: The
+                  <span class="em emphasis">Primary</span>
+                  Nameserver, the <span class="em emphasis">Secondary</span> Nameserver, and the
+                  <span class="em emphasis">Tertiary</span>
+                  Nameserver. In order for your system to be able to resolve network hostnames into their
+                  corresponding IP addresses, you must specify valid Nameserver Addresses which you are authorized to use
+                  in your system's TCP/IP configuration.  In many cases these addresses can and will be provided by your
+                  network service provider, but many free and publicly accessible nameservers are available for use, such as
+                  the Level3 (Verizon) servers with IP addresses from
+                  4.2.2.1 to 4.2.2.6. </p>
+                     <div class="note note-tip" title="Dica"><div class="inner"><div class="region"><div class="contents">
+                        <p class="para">
+                        The IP address, Netmask, Network Address, Broadcast Address, Gateway Address, and Nameserver
+                        Addresses are typically specified via the appropriate directives in the file
+                        <span class="file filename">/etc/network/interfaces</span>. For more information, view the system manual
+                        page for <span class="file filename">interfaces</span>, with the following command typed at a terminal prompt:
+                        </p>
+                     </div></div></div></div>
+                    <p class="para">Aceda à página do manual de sistema para <span class="file filename">interfaces</span> com o seguinte comando:</p>
+                    <p class="para">
+<div class="screen"><pre class="contents "><span class="cmd command">man interfaces</span>
+</pre></div>
+                    </p>
+               </li>
+</ul></div></p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="ip-routing"><div class="inner">
+<div class="hgroup"><h2 class="title">Encaminhamento IP</h2></div>
+<div class="region"><div class="contents">
+<p class="para">Routing IP significa especificar e descobrir caminhos numa rede TCP/IP atravês da qual os dados de rede possam ser enviados. Routing utiliza um conjunto de <span class="em emphasis">tabelas de routing</span> para direccionar o encaminhamento de pacotes de dados na rede desde de a sua origem atê ao seu destino, muitas vezes através de  nós intermédios de rede conhecidos como <span class="em emphasis">routers</span>. Existem duas formas de routing <span class="em emphasis">Routing Estático</span> e <span class="em emphasis">Routing Dinâmico.</span></p>
+<p class="para">Routing Estático envolve a adição manual de caminhos de IP à tabela de routing local, feito normalmente manipulado a tabela de routing com o comando <span class="app application">route</span>. Routing Estático possui muitas vantagens sobre o routing dinâmico como simplicidade de implementação em redes mais pequenas , capacidade de predição (a tabela de routing executa sempre os cálculos em adiantamento, e assim o caminho é sempre o mesmo de cada vez que é usado), com pouco overhead em outros routers ou redes devido à falta de um protocolo dinâmico de routing. Contudo o routing estático também apresenta algumas desvantagens. Por exemplo, o routing estático é limitado a redes pequenas e não é muito escalavêl. Routing Estático também falha por completo na adaptação a faltas ou falhas de rede ao longo do caminho devido à natureza fixa do route.</p>
+<p class="para">Routing Dinámico é usado em grandes rede com múltiplos caminhos possíveis desde a origem até ao destino e faz uso de protocolos de routing especiai, tais como Router Information Protocol (RIP), que lida de forma automática co ajustes nas tabelas de routing permitindo o Routing Dinámico. O Routing Dinámico tém várias vantagens sobre o routing estático, tais como uma escalabilidade superior e a habilidade para adaptar-se a falhas e faltas ao longo dos caminhos na rede, uma vez que os routers aprendem uns com os outros sobre a sua existência e caminhos disponíveis. Este facto também elimina a possibilidade de introduzir erros nas tabelas de routing via erro humano. O Routing Dinámico não é perfeito, contudo, apresentam desvantagens tais como aumento de complexidade e overhead adicional devido às comunicações adicionais, que não beneficia imediatamente os utilizadores finais, mas consume largura de banda.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="tcp-and-udp"><div class="inner">
+<div class="hgroup"><h2 class="title">TCP e UDP</h2></div>
+<div class="region"><div class="contents">
+<p class="para">O TCP é um protocolo baseado na ligação, e oferece correcção de erros e a garantia de entrega de dados através daquilo que é conhecido como <span class="em emphasis">controlo de fluxo<span class="em emphasis"> <span class="em emphasis">flow control</span>. O controlo de fluxo determina quando é necessário parar o envio de dados, e reenviar dados já enviados devido a problemas, como por exemplo <span class="em emphasis">colisões</span>, isto assegura a completa e correcta entrega dos dados. O TCP é tipicamente utilizado para troca de informações importantes como sejam as transacções de bases de dados.</span></span></p>
+<p class="para">O Protocolo de Datagrama do Utilizador <span class="em emphasis">User Datagram Protocol</span> (UDP), por outro lado, é um protocolo <span class="em emphasis">independente da ligação</span> <span class="em emphasis">connectionless</span> que raramente lida com a transmissão de dados importantes, dado que não possui controlo de fluxo ou qualquer outro método que assegure uma entrega fiável dos dados. O UDP é habitualmente utilizado em aplicações como a transmissão de áudio e vídeo, visto ser consideravelmente mais rápido que o TCP, exactamente por não ter a correcção de erros e o controlo de fluxo, e em que a perda de alguns pacotes não é catrastófica.</p>
+</div></div>
+</div></div>
+<div class="sect2 sect" id="icmp"><div class="inner">
+<div class="hgroup"><h2 class="title">ICMP</h2></div>
+<div class="region"><div class="contents"><p class="para">O Protocolo de Controlo de Mensagens da Internet <span class="em emphasis">Internet Control Messaging Protocol</span> (ICMP) é uma extensão do Internet Protocol (IP) tal como definido no Request For Comments (RFC) #792 e suporta pacotes de rede que contenham informação de controlo, de erros e de mensagens. O ICMP é utilizado por aplicações de rede como o utilitário <span class="app application">ping</span>, que pode determinar a disponibilidade de um computador ou dispositivo de rede. Exemplos de algumas mensagens de erro devolvidas pelo ICMP que são úteis  para computadores da rede ou dispositivos como os <span class="em emphasis">routers</span>, incluem <span class="em emphasis">Destination Unreachable</span> and <span class="em emphasis">Time Exceeded</span>.</p></div></div>
+</div></div>
+<div class="sect2 sect" id="daemons"><div class="inner">
+<div class="hgroup"><h2 class="title">Serviços</h2></div>
+<div class="region"><div class="contents"><p class="para">Serviços <span class="em emphasis">Daemons</span> são aplicações especiais do sistema que funcionam de forma contínua na rectaguarda e que aguardam pedidos para as funções que fornecem vindos das outras aplicações. Muitos serviços são centrados na rede; isto é, um grande número de serviços executados na rectaguarda de um sistema Ubuntu pode fornecer funcionalidades relacionadas com a rede. Alguns exemplos desses serviços de rede incluem o <span class="em emphasis">Hyper Text Transport Protocol Daemon</span> (httpd), que fornece a funcionalidade de um servidor web; o <span class="em emphasis">Secure SHell Daemon</span> (sshd), que fornece acesso remoto seguro e a capacidade de transferência de ficheiros; e o <span class="em emphasis">Internet Message Access Protocol Daemon</span> (imapd), que fornece serviços de correio electrónico.</p></div></div>
+</div></div>
+<div class="sect2 sect" id="tcpip-resources"><div class="inner">
+<div class="hgroup"><h2 class="title">Recursos</h2></div>
+<div class="region"><div class="contents"><div class="list itemizedlist"><ul class="list itemizedlist">
+<li class="list itemizedlist">
+              <p class="para">
+              There are man pages for <a href="http://manpages.ubuntu.com/manpages/bionic/en/man7/tcp.7.html" class="ulink" title="http://manpages.ubuntu.com/manpages/bionic/en/man7/tcp.7.html">TCP</a> and
+              <a href="http://manpages.ubuntu.com/manpages/bionic/man7/ip.7.html" class="ulink" title="http://manpages.ubuntu.com/manpages/bionic/man7/ip.7.html">IP</a> that contain more useful information.
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              Also, see the <a href="http://www.redbooks.ibm.com/abstracts/gg243376.html" class="ulink" title="http://www.redbooks.ibm.com/abstracts/gg243376.html">TCP/IP Tutorial and Technical Overview</a>
+              IBM Redbook.
+              </p>
+            </li>
+<li class="list itemizedlist">
+              <p class="para">
+              Another resource is O'Reilly's <a href="http://oreilly.com/catalog/9780596002978/" class="ulink" title="http://oreilly.com/catalog/9780596002978/">TCP/IP Network Administration</a>.
+              </p>
+            </li>
+</ul></div></div></div>
+</div></div>
+</div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="network-configuration.html.pt" title="Configuração de Rede">Anterior</a><a class="nextlinks-next" href="dhcp.html.pt" title="Protocolo de Configuração Dinâmica da Máquina Dynamic Host Configuration Protocol (DHCP)">Seguinte</a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address
+          so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this serverguide documentation, <a href="https://bugs.launchpad.net/serverguide">file a bug report</a>.</p>
+</div>
+</div>
+</body>
+</html>

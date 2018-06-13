@@ -468,6 +468,9 @@ nameserver 8.8.4.4
 <div class="code"><pre class="contents ">network:
   version: 2
   renderer: networkd
+  ethernets:
+    enp3s0:
+      dhcp4: no
   bridges:
     br0:
       dhcp4: yes

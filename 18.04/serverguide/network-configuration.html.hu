@@ -507,7 +507,7 @@ nameserver 8.8.4.4
           </li>
 <li class="list itemizedlist">
             <p class="para">
-            The <a href="http://manpages.ubuntu.com/manpages/man8/netplan.8.html" class="ulink" title="http://manpages.ubuntu.com/manpages/man8/netplan.8.html">netplan man page</a> has
+            The <a href="http://manpages.ubuntu.com/manpages/man5/netplan.5.html" class="ulink" title="http://manpages.ubuntu.com/manpages/man5/netplan.5.html">netplan man page</a> has
             more information on netplan.
             </p>
           </li>

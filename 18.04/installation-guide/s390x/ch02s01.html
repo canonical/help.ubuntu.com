@@ -1,0 +1,290 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>2.1. Supported Hardware</title>
+<link rel="stylesheet" type="text/css" href="install.css">
+<meta name="generator" content="DocBook XSL Stylesheets V1.79.1">
+<link rel="home" href="index.html" title="Ubuntu Installation Guide">
+<link rel="up" href="ch02.html" title="Chapter 2. System Requirements">
+<link rel="prev" href="ch02.html" title="Chapter 2. System Requirements">
+<link rel="next" href="ch02s02.html" title="2.2. Installation Media">
+</head>
+<body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+<div class="navheader">
+<table width="100%" summary="Navigation header">
+<tr><th colspan="3" align="center">2.1. Supported Hardware</th></tr>
+<tr>
+<td width="20%" align="left">
+<a accesskey="p" href="ch02.html"><img src="images/prev.png" alt="Prev"></a> </td>
+<th width="60%" align="center">Chapter 2. System Requirements</th>
+<td width="20%" align="right"> <a accesskey="n" href="ch02s02.html"><img src="images/next.png" alt="Next"></a>
+</td>
+</tr>
+</table>
+<hr>
+</div>
+<div class="sect1">
+<div class="titlepage"><div><div><h2 class="title">
+<a name="hardware-supported"></a>2.1. Supported Hardware</h2></div></div></div>
+<p>
+
+Ubuntu does not impose hardware requirements beyond the requirements
+of the Linux kernel and the GNU tool-sets.  Therefore, any
+architecture or platform to which the Linux kernel, libc,
+<span class="command"><strong>gcc</strong></span>, etc. have been ported, and for which an Ubuntu
+port exists, can run Ubuntu.
+
+
+</p>
+<p>
+
+Rather than attempting to describe all the different hardware
+configurations which are supported for <span class="phrase">S/390</span>, this section
+contains general information and pointers to where additional
+information can be found.
+
+</p>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idm45798173518768"></a>2.1.1. Supported Architectures</h3></div></div></div>
+<p>
+
+Ubuntu 18.04 supports six major architectures and several
+variations of each architecture known as <span class="quote">“<span class="quote">flavors</span>”</span>.
+One other architecture (IBM/Motorola PowerPC) has an unofficial port.
+
+</p>
+<p>
+
+</p>
+<div class="informaltable"><table class="informaltable" border="1">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead><tr>
+<th>Architecture</th>
+<th>Ubuntu Designation</th>
+<th>Subarchitecture</th>
+<th>Flavor</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Intel x86-based</td>
+<td>i386</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>AMD64 &amp; Intel 64</td>
+<td>amd64</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">ARM with hardware FPU</td>
+<td rowspan="2">armhf</td>
+<td>multiplatform</td>
+<td>generic</td>
+</tr>
+<tr>
+<td>multiplatform for LPAE-capable systems</td>
+<td>generic-lpae</td>
+</tr>
+<tr>
+<td>64bit ARM</td>
+<td>arm64</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>IBM POWER Systems</td>
+<td>ppc64el</td>
+<td>IBM POWER8 and newer machines</td>
+<td> </td>
+</tr>
+<tr>
+<td>IBM z/Architecture</td>
+<td>s390x</td>
+<td>IBM Z and IBM LinuxONE, no s390 (31-bit mode) support</td>
+<td>zEC12 and newer machines</td>
+</tr>
+</tbody>
+</table></div>
+<p>
+</p>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idm45798173494704"></a>2.1.2. IBM Z and LinuxONE systems</h3></div></div></div>
+<p>
+The current product family name of the s390x architecture is IBM Z or the Linux-only variant IBM LinuxONE.
+Older and in between outdated names like z Systems, System z or zSeries can still be found,
+and the 64-bit IBM z/Architecture is sometimes still commonly referred to as S/390.
+</p>
+<p>
+
+
+
+
+<span class="phrase">For Ubuntu the machine needs to support the z/Architecture.
+So 64-bit support is mandatory, means Kernel and userland are 64-bit and there is no 31-bit support.
+The minimal architectural level for Ubuntu support is IBM Z EC12/BC12 or IBM LinuxONE Rockhopper/Emperor, hence older systems (like z196) will not work or even boot.
+</span>
+
+
+<span class="phrase">S/390</span> support software is included from the kernel 4.2 development stream.
+The most current information about IBM's Linux support can be found at the
+<a class="ulink" href="http://www.ibm.com/developerworks/linux/linux390/development_technical.html" target="_top">
+Linux on <span class="trademark">IBM Z and LinuxONE</span>® page at
+developerWorks</a>.
+
+</p>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idm45798173489456"></a>2.1.3. PAV and HyperPAV</h3></div></div></div>
+<p>
+
+PAV and HyperPAV are supported transparently for DASD storage; multipathing is not needed to
+take advantage of these storage system features. Be sure to configure the
+devices during DASD device selection. The alias devices will not be
+offered neither for formatting, partitioning nor direct use.
+
+</p>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idm45798173487344"></a>2.1.4. Multiple Processors</h3></div></div></div>
+<p>
+
+Multiprocessor support — also called <span class="quote">“<span class="quote">symmetric
+multiprocessing</span>”</span> or SMP — is available for this
+architecture.  Having multiple processors in a computer was originally
+only an issue for high-end server systems but has become common in
+recent years nearly everywhere with
+the introduction of so called <span class="quote">“<span class="quote">multi-core</span>”</span> processors.  These contain
+two or more processor units, called <span class="quote">“<span class="quote">cores</span>”</span>, in one physical chip.
+
+</p>
+<p>
+
+The standard Ubuntu 18.04 kernel image has been compiled with SMP support.
+It is also usable on non-SMP systems without problems.
+
+</p>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="network-cards"></a>2.1.5. Network Connectivity Hardware</h3></div></div></div>
+<p>
+
+Almost any network interface card (NIC) supported by the Linux kernel
+should also be supported by the installation system; drivers
+should normally be loaded automatically.
+
+
+
+
+</p>
+<p>
+
+The list of supported network devices is:
+
+</p>
+<div class="itemizedlist"><ul class="itemizedlist" type="disc">
+<li class="listitem"><p>
+
+Channel to Channel (CTC)
+
+</p></li>
+<li class="listitem"><p>
+
+OSA-Express in QDIO mode, HiperSockets and Guest-LANs
+
+</p></li>
+<li class="listitem"><p> 
+
+RoCE Expresss, SMC-R adapter
+
+</p></li>
+</ul></div>
+<p>
+
+</p>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="disk-storage"></a>2.1.6. Disk Storage on <span class="phrase">S/390</span>
+</h3></div></div></div>
+<p>
+
+The <span class="phrase">S/390</span> platform provides two unique storage types:
+
+</p>
+<div class="variablelist"><dl class="variablelist">
+<dt><span class="term">DASD</span></dt>
+<dd><p>
+
+DASDs (Direct Attached Storage Devices) are Enhanced Count Key Data (ECKD) encoded, FICON-attached devices and belong to the CCW (channel command word) IO-layer that is unique to s390x. They are available in different types, like the common types 3390-3 (or Model 3), 3390-9 (or Model 9), 3390-27 (or Model 27), 3390-54 (or Model 54), or others.
+The DASD block size is 4096 bytes (4KB) and they support up to 3 partitions per volume.
+
+</p></dd>
+<dt><span class="term">FCP</span></dt>
+<dd>
+<p>
+
+FCP (Fiber Channel Protocol, also known as zfcp) devices are SCSI (Small Computer System Interface) disk storage devices that are attached using the Fiber Channel Protocol (FCP), use a 512-byte Fixed Block Architecture (FBA) encoding and also belong to the CCW IO-layer. These SCSI (over-FCP) devices can be defined in any size (up to 2TB) at the storage subsystem and support up to 15 partitions per volume.
+
+</p>
+<div class="note"><table border="0" summary="Note">
+<tr>
+<td rowspan="2" align="center" valign="top" width="25"><img alt="[Note]" src="images/note.png"></td>
+<th align="left">Note</th>
+</tr>
+<tr><td align="left" valign="top"><p>
+
+z/VM supports FCP devices as <span class="quote">“<span class="quote">emulated devices</span>”</span>, or in short <span class="quote">“<span class="quote">EDEV</span>”</span>.
+In this case SCSI disks are configured as disk units of type DASD 9336 FBA.
+For more details see the IBM z/VM documentation.
+</p></td></tr>
+</table></div>
+<p>
+
+</p>
+</dd>
+</dl></div>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="supported-peripherals"></a>2.1.7. Peripherals and Other Hardware</h3></div></div></div>
+<p>
+
+Package installations from XPRAM and tape are not supported by this
+system.  All packages that you want to install need to be available on a
+DASD, FCP LUN or over the network using HTTP or FTP (recommended).
+
+</p>
+</div>
+</div>
+<div class="navfooter">
+<hr>
+<table width="100%" summary="Navigation footer">
+<tr>
+<td width="40%" align="left">
+<a accesskey="p" href="ch02.html"><img src="images/prev.png" alt="Prev"></a> </td>
+<td width="20%" align="center"><a accesskey="u" href="ch02.html"><img src="images/up.png" alt="Up"></a></td>
+<td width="40%" align="right"> <a accesskey="n" href="ch02s02.html"><img src="images/next.png" alt="Next"></a>
+</td>
+</tr>
+<tr>
+<td width="40%" align="left" valign="top">Chapter 2. System Requirements </td>
+<td width="20%" align="center"><a accesskey="h" href="index.html"><img src="images/home.png" alt="Home"></a></td>
+<td width="40%" align="right" valign="top"> 2.2. Installation Media</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

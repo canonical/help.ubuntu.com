@@ -28,6 +28,8 @@ Disallow: /17.04/
 Disallow: /17.10/
 Disallow: /18.04/
 Disallow: /18.10/
+Disallow: /19.04/
+Disallow: /19.10/
 Disallow: /lts/ubuntu-help/
 Disallow: /stable/installation-guide/
 Disallow: /stable/serverguide/

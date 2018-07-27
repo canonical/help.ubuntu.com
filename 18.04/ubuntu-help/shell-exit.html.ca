@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang=ca>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Tanca sessió, apaga o canvia d'usuari</title>
+<link rel="stylesheet" type="text/css" href="ca.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Tanca sessió, apaga o canvia d'usuari</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">Quan hagueu acabat d'utilitzar l'ordinador, podeu desactivar-lo, suspendre'l (per estalviar energia) o deixar-lo encès i sortir.</p></div>
+<div id="logout" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Tancar la sessió o canviar d'usuari</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Per permetre que altres usuaris utilitzin l'ordinador, podeu tancar la sessió, o deixar-la iniciada i canviar els usuaris. Si canvieu d'usuari, totes les vostres aplicacions continuaran funcionant, i tot estarà on ho deixeu quan torneu a iniciar la sessió.</p>
+<p class="p">Per <span class="gui">Tancar sessió</span> o <span class="gui">Canviar d'usuari</span>, feu clic al <span class="link"><a href="shell-introduction.html.ca#yourname" title="Vostè i el seu ordinador">menú del sistema</a></span> al costat dret de la barra superior, feu clic al vostre nom i, a continuació, seleccioneu l'opció correcta.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Les entrades <span class="gui">Tancar sessió</span> i <span class="gui">Canviar d'Usuari</span> només apareixeran al menú si teniu més d'un compte d'usuari al vostre sistema.</p></div></div></div></div>
+</div></div>
+</div></div>
+<div id="lock-screen" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Bloqueja la pantalla</span></h2></div>
+<div class="region">
+<div class="contents">
+<p class="p">Si deixeu l'ordinador durant un temps curt, heu de bloquejar la vostra pantalla per evitar que altres usuaris accedeixin als vostres fitxers o hi executin aplicacions. Quan torneu, aixequeu la cortina <span class="link"><a href="shell-lockscreen.html.ca" title="La pantalla de Bloqueig">bloquejar pantalla</a></span> i introduïu la vostra contrasenya per tornar a iniciar la sessió. Si no es bloqueja la pantalla, es bloquejarà automàticament després d'un temps determinat.</p>
+<p class="p">Per bloquejar la pantalla, feu clic al menú del sistema al costat dret de la barra superior i premeu el botó de la pantalla de bloqueig a la part inferior del menú.</p>
+<p class="p">Quan la pantalla està bloquejada, altres usuaris poden iniciar sessió als seus propis comptes fent clic <span class="gui">Inicieu sessió com un altre usuari</span> a la pantalla de la contrasenya. Podeu tornar al vostre escriptori quan hagin acabat.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Vegeu també</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="privacy-screen-lock.html.ca" title="Bloquejar automàticament la pantalla">Bloquejar automàticament la pantalla</a><span class="desc"> — Eviteu que altres usuaris facin servir el vostre escriptori quan marxeu de l'ordinador.</span>
+</li>
+<li class="links ">
+<a href="session-screenlocks.html.ca" title="La pantalla es tanca massa ràpidament">La pantalla es tanca massa ràpidament</a><span class="desc"> — Canvieu el temps d'espera abans de bloquejar la pantalla a la configuració de la <span class="gui">Privacitat</span>.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="suspend" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Suspendre</span></h2></div>
+<div class="region">
+<div class="contents">
+<p class="p">Per estalviar energia, suspeneu l'equip quan no s'estigui utilitzant. Si utilitzeu un ordinador portàtil, GNOME, per defecte, suspèn l'ordinador automàticament quan es tanca la tapa. D'aquesta manera es guarda l'estat a la memòria de l'ordinador i apaga la majoria de les funcions de l'ordinador. Encara s'utilitza una quantitat molt petita de potència durant la suspensió.</p>
+<p class="p">Per suspendre l'ordinador manualment, feu clic al menú del sistema a la part dreta de la barra superior. Des d'allà, podeu mantenir premuda la tecla <span class="key"><kbd>Alt</kbd></span> i feu clic al botó d'apagat, o simplement manteniu premuda una estona llarga el botó d'apagat.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Vegeu també</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="power-autosuspend.html.ca" title="Configuració automàtica de la suspensió">Configuració automàtica de la suspensió</a><span class="desc"> — Configureu l'ordinador per aturar-lo automàticament.</span>
+</li>
+<li class="links ">
+<a href="power-suspend.html.ca" title="Què passa quan es suspèn el meu ordinador?">Què passa quan es suspèn el meu ordinador?</a><span class="desc"> — La suspensió envia el vostre ordinador a dormir pel que fa servir menys energia.</span>
+</li>
+<li class="links ">
+<a href="power-batterylife.html.ca" title="Utilitzeu menys energia i milloreu la durada de la bateria">Utilitzeu menys energia i milloreu la durada de la bateria</a><span class="desc"> — Consells per reduir el consum d'energia de l'ordinador.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div id="shutdown" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Apagueu o reinicialitzeu</span></h2></div>
+<div class="region">
+<div class="contents">
+<p class="p">Si voleu apagar totalment l'equip o fer un reiniciat complet, feu clic al menú del sistema que hi ha a la part dreta de la barra superior i premeu el botó d'apagat a la part inferior del menú. S'obrirà un diàleg que us oferirà les opcions per <span class="gui">Reiniciar</span> o <span class="gui">Apagar</span>.</p>
+<p class="p">Si hi ha altres usuaris connectats, és possible que no tingueu permís per apagar o reiniciar l'ordinador perquè tancarà les seves sessions. Si sou un usuari administrador, pot ser que se us demani que la vostra contrasenya es desactivi.</p>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">És possible que vulgueu apagar l'ordinador si voleu moure'l i no disposeu d'una bateria, si la vostra bateria està baixa o no té càrrega. Un ordinador apagat consumeix <span class="link"><a href="power-batterylife.html.ca" title="Utilitzeu menys energia i milloreu la durada de la bateria">menys energia</a></span> que un de suspès.</p></div></div></div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Vegeu també</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="power-batterylife.html.ca" title="Utilitzeu menys energia i milloreu la durada de la bateria">Utilitzeu menys energia i milloreu la durada de la bateria</a><span class="desc"> — Consells per reduir el consum d'energia de l'ordinador.</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Més informació</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="shell-overview.html.ca" title="El vostre escriptori">El vostre escriptori</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.ca" title="Cites de calendari">Calendari</a></span>, <span class="link"><a href="shell-notifications.html.ca" title="Notificacions i safata de missatges">notificacions</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.ca" title="Dreceres de teclat útils">dreceres de teclat</a></span>, <span class="link"><a href="shell-windows.html.ca" title="Finestres i espais de treball">finestres i espais de treball</a></span>…</span>
+</li>
+<li class="links ">
+<a href="power.html.ca" title="Energia &amp; bateria">Energia &amp; bateria</a><span class="desc"> — <span class="link"><a href="power-status.html.ca" title="Comproveu l'estat de la bateria">Estat de la bateria</a></span>, <span class="link"><a href="power-suspend.html.ca" title="Què passa quan es suspèn el meu ordinador?">en suspensió</a></span>, <span class="link"><a href="power-whydim.html.ca" title="Perquè s'enfosqueix la pantalla després d'una estona?">atenuació de la pantalla</a></span>…</span>
+</li>
+<li class="links "><a href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu">Guia de l'escriptori de l'Ubuntu</a></li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vegeu també</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="user-autologin.html.ca" title="Iniciar la sessió automàticament">Iniciar la sessió automàticament </a><span class="desc"> — Configureu l'inici de sessió automàtic quan engegueu l'ordinador.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>添加软件源</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 18.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="addremove.html.zh-CN" title="安装和卸载软件">添加或删除软件</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">添加软件源</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">软件可从第三方来源以及默认 Ubuntu 软件库获得。如果您想要安装来自第三方软件库的软件，您必须将其添加到 Ubuntu 的可用软件仓库列表。</p>
+<div class="note note-warning" title="警告"><div class="inner"><div class="region"><div class="contents">
+<p class="p">请务必确保您添加的软件源的安全性。</p>
+<p class="p">第三方软件库未经过 Ubuntu 开发者检查安全性和可靠性，可能包含对您的计算机有害的软件。</p>
+</div></div></div></div>
+<p class="p">
+</p>
+<p class="p">添加一个源：</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">
+        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
+        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
+      </p></li>
+<li class="steps"><p class="p">
+        When <span class="app">Ubuntu Software</span> launches, click <span class="gui">Software &amp; Updates</span>
+      </p></li>
+<li class="steps"><p class="p">您会被要求输入密码。输完密码后，转到<span class="gui">其他软件</span>标签页。</p></li>
+<li class="steps">
+<p class="p">单击<span class="gui">添加</span>，然后输入软件仓库的 APT 行。该行应可从软件库的网站获得，看起来类似于：</p>
+<p class="p">
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ bionic main</span>
+      </p>
+</li>
+<li class="steps"><p class="p">
+        Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. 
+        <span class="app">Ubuntu Software</span> will then check your software sources for new 
+        updates.
+      </p></li>
+<li class="steps"><p class="p">
+        Most repositories provide a signing key to be able to verify downloaded packages.
+        So in addition to the steps above, you should follow possible instructions on how to
+        download and install the signing key (GPG key).
+      </p></li>
+</ol></div></div></div>
+</div>
+<div id="canonical-partner" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">激活 Canonical 合作伙伴软件仓库</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">
+      The Canonical Partner repository offers some proprietary applications 
+      that don't cost any money to use but are closed source. They include 
+      software like <span class="app">Adobe Flash Plugin</span>. Software in this
+      repository will appear in <span class="app">Ubuntu Software</span> search results
+      but won't be installable until this repository is enabled.
+    </p>
+<p class="p">要启用该库，请遵照上述步骤打开在<span class="app">软件和更新 </span>中的<span class="gui">其他软件</span>标签页。如果您在列表中看到<span class="gui">Canonical 合作伙伴</span>仓库，请确保将其选中，然后关闭 <span class="app">软件和更新</span> 窗口。如果没有看到该库，单击<span class="gui">添加</span>，然后输入：</p>
+<p class="p">
+      <span class="code">deb http://archive.canonical.com/ubuntu bionic partner</span>
+    </p>
+<p class="p">
+      Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. Wait a 
+      moment for <span class="app">Ubuntu Software</span> to download the repository information.
+    </p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="addremove.html.zh-CN" title="安装和卸载软件">安装和卸载软件</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.zh-CN" title="安装额外的应用程序">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.zh-CN" title="删除应用程序">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.zh-CN" title="添加软件源">add repositories</a></span>…
+    </span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">亦见</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="addremove-ppa.html.zh-CN" title="添加个人软件包仓库(PPA)">添加个人软件包仓库(PPA)</a><span class="desc"> — 
+        Add PPAs to extend the software sources Ubuntu uses for
+        installation and upgrades.
+    </span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

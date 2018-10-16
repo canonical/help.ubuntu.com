@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang=sv>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Bläddra bland filer och mappar</title>
+<link rel="stylesheet" type="text/css" href="sv.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 18.10</span> » <a class="trail" href="index.html.sv" title="Handbok för Ubuntu-skrivbordet"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjälp"></span></span> Handbok för Ubuntu-skrivbordet</a> » <a class="trail" href="files.html.sv" title="Filer, mappar och sökning">Filer</a> › <a class="trail" href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Bläddra bland filer och mappar</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Använd filhanteraren <span class="app">Filer</span> för att bläddra bland och organisera filerna på din dator. Du kan också använda den för att hantera filer på lagringsenheter (som externa hårddiskar), på <span class="link"><a href="nautilus-connect.html.sv" title="Bläddra genom filer på en server eller nätverksutdelning">filservrar</a></span> och på nätverksdiskar.</p>
+<p class="p">För att starta filhanteraren, öppna <span class="app">Filer</span> i översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>. Du kan också söka efter filer och mappar via översiktsvyn på samma sätt som du kan <span class="link"><a href="shell-apps-open.html.sv" title="Starta program">söka efter program</a></span>.</p>
+</div>
+<div id="files-view-folder-contents" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Utforska innehåller i mappar</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">I filhanteraren, dubbelklicka på vilken mapp som helst för att se dess innehåll och dubbelklicka eller <span class="link"><a href="mouse-middleclick.html.sv" title="Mittenklick">mittenklicka</a></span> på vilken fil som helst för att öppna den med standardprogrammet för den filen. Mittenklicka på en mapp för att öppna den i en ny flik. Du kan också högerklicka på en mapp för att öppna den i en ny flik eller ett nytt fönster.</p>
+<p class="p">När du letar genom filerna i en mapp kan du snabbt <span class="link"><a href="files-preview.html.sv" title="Förhandsgranska filer och mappar">förhandsgranska varje fil</a></span> genom att trycka på mellanslagstangenten för att säkerställa att du har fått tag i rätt fil innan du öppnar, kopierar eller tar bort den.</p>
+<p class="p"><span class="em">Sökvägsraden</span>, ovanför listan av filer och mappar, visar dig vilken mapp du tittar i, inklusive den aktuella mappens föräldramappar. Klicka på en föräldramapp i sökvägsraden för att gå till den mappen. Högerklicka på vilken mapp som helst i sökvägsraden för att öppna den i en ny flik eller ett nytt fönster, eller se dess egenskaper.</p>
+<p class="p">Om du vill snabbt <span class="link"><a href="files-search.html.sv" title="Sök efter filer">söka efter en fil</a></span>, i eller under mappen du tittar i, börja skriv dess namn. En <span class="em">sökrad</span> kommer att visas i toppen av fönstret och den första filen som matchar din sökning kommer att markeras. Tryck på <span class="key"><kbd>Esc</kbd></span> för att avbryta sökningen.</p>
+<p class="p">Du kan snabbt nå vanliga platser från <span class="em">sidopanelen</span>. Om du inte ser sidopanelen, klicka på <span class="gui">Filer</span> i verktygsfältet och välj <span class="gui">Visa sidopanel</span>. Du kan lägga till bokmärken för mappar som du använder ofta som då kommer att visas i sidopanelen. Dra en mapp till sidopanelen och släpp den på <span class="gui">Nytt bokmärke</span>, som visas dynamiskt eller klicka på fönstermenyn och välj sedan <span class="gui">Bokmärk denna plats</span>.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mer information</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html.sv#common-file-tasks" title="Vanliga åtgärder">Vanliga åtgärder</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Se även</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files-copy.html.sv" title="Kopiera eller flytta filer och mappar">Kopiera eller flytta filer och mappar</a><span class="desc"> — Kopiera eller flytta objekt till en ny mapp.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

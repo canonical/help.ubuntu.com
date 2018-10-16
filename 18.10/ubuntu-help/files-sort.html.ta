@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang=ta>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>கோப்புகள் மற்றும் கோப்புறைகளை வரிசைப்படுத்துதல்</title>
+<link rel="stylesheet" type="text/css" href="ta.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 18.10</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html.ta#common-file-tasks" title="பொதுவான பணிகள்">பொதுவான பணிகள்</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">கோப்புகள் மற்றும் கோப்புறைகளை வரிசைப்படுத்துதல்</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">நீங்கள் ஒரு கோப்புறையில் உள்ள கோப்புகளை வெவ்வேறு வழிகளில் வரிசைப்படுத்த முடியும், உதாரணமாக தேதி அல்லது கோப்பின் அளவு படி வரிசைப்படுத்தலாம். கோப்புகளை வரிசைப்படுத்த பொதுவான வழிகளின் பட்டியலைக் காண கீழே உள்ள <span class="link"><a href="#ways" title="கோப்புகளை வரிசைப்படுத்தும் வழிகள்">கோப்புகளை வரிசைப்படுத்தும் வழிகள்</a></span> ஐப் பார்க்கவும். முன்னிருப்பு வரிசைப்படுத்தல் வரிசையை எப்படி மாற்றுவது என்பது பற்றிய தகவலுக்கு <span class="link"><a href="nautilus-views.html.ta" title="கோப்புகள் இல் உள்ள முன்னுரிமைகளைக் காட்டும்"><span class="app">கோப்புகள்</span> இல் உள்ள முன்னுரிமைகளைக் காட்டும்</a></span> ஐப் பார்க்கவும்.</p>
+<p class="p">நீங்கள் கோப்புகளை எப்படியெல்லாம் வரிசைப்படுத்த முடியும் என்பது, நீங்கள் பயன்படுத்தும் <span class="em">கோப்புறை காட்சியைப்</span> பொறுத்தது. கருவிப்பட்டியில் உள்ள பட்டியல் அல்லது சின்னம் பொத்தான்களைப் பயன்படுத்தி தற்போதைய காட்சி வகையை மாற்ற முடியும்.</p>
+</div>
+<div id="icon-view" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">சின்னக் காட்சி</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">To sort files in a different order, click the view options button in the
+  
+  toolbar and choose <span class="gui">By Name</span>, <span class="gui">By Size</span>, <span class="gui">By
+  Type</span>, <span class="gui">By Modification Date</span>, or <span class="gui">By Access
+  Date</span>.</p>
+<p class="p">ஒரு உதாரணமாக, நீங்கள் <span class="gui">பெயரின் படி</span> என்பதைத் தேர்ந்தெடுத்தால், கோப்புகள் அவற்றின் பெயர்கலின் படி அகரவரிசையில் வரிசைப்படுத்தப்படும். மற்ற விருப்பங்களுக்கு <span class="link"><a href="#ways" title="கோப்புகளை வரிசைப்படுத்தும் வழிகள்">கோப்புகளை வரிசைப்படுத்தும் வழிகள்</a></span> ஐப் பார்க்கவும்.</p>
+<p class="p">You can sort in the reverse order by selecting <span class="gui">Reversed Order</span>
+  from the menu.</p>
+</div></div>
+</div></div>
+<div id="list-view" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">பட்டியல் காட்சி</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">கோப்புகளை வேறு வகையில் வரிசைப்படுத்த, கோப்பு மேலாளரின் நிரல் தலைப்பில் ஒன்றை சொடுக்கவும். உதாரணமாக, கோப்புகளை கோப்பு வகையின் படி வரிசைப்படுத்த <span class="gui">வகை</span> என்பதை சொடுக்கவும். எதிர்த்திசை வரிசையில் வரிசைப்படுத்த மீண்டும் நெடுவரிசை தலைப்பை சொடுக்கவும்.</p>
+<p class="p">In list view, you can show columns with more attributes and sort on those
+  columns. Click the view options button in the toolbar, pick <span class="gui">Visible
+  
+  Columns…</span> and select the columns that you want to be visible. You will
+  then be able to sort by those columns. See <span class="link"><a href="nautilus-list.html.ta" title="Files list columns preferences">Files list columns preferences</a></span> for
+  descriptions of available columns.</p>
+</div></div>
+</div></div>
+<div id="ways" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">கோப்புகளை வரிசைப்படுத்தும் வழிகள்</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">பெயர்</dt>
+<dd class="terms"><p class="p">கோப்பின் பெயரின் அகரவரிசைப்படி வரிசைப்படுத்தும்.</p></dd>
+<dt class="terms">அளவு</dt>
+<dd class="terms"><p class="p">கோப்பின் அளவின் படி (அது எவ்வளவு வட்டு இடத்தை எடுத்துக்கொள்கிறது என்பதைப் பொறுத்து) வரிசைப்படுத்தும். முன்னிருப்பக அசிறிய அளவிலிருந்து பெரிய அளவு வரை என வரிசைப்படுத்தும்.</p></dd>
+<dt class="terms">வகை</dt>
+<dd class="terms"><p class="p">கோப்பின் வகையின் படி அகரவரிசையில் வரிசைப்படுத்தும். ஒரே வகை கோப்புகள் குழுப்படுத்தப்பட்டு, அதன் பின்னர் பெயரின் படி வரிசைப்படுத்தப்படும்.</p></dd>
+<dt class="terms">Last Modified</dt>
+<dd class="terms"><p class="p">ஒரு கோப்பு கடைசியாக மாற்றப்பட்ட தேதி மற்றும் நேரத்தின் படி வரிசைப்படுத்தப்படும். முன்னிருப்பாக பழையதில் இருந்து புதியது வரை என வரிசைப்படுத்தும்.</p></dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html.ta#common-file-tasks" title="பொதுவான பணிகள்">பொதுவான பணிகள்</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

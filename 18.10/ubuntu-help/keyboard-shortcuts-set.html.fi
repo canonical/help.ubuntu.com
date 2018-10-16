@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang=fi>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Aseta näppäimistön pikanäppäimet</title>
+<link rel="stylesheet" type="text/css" href="fi.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 18.10</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Asetukset</a> » <a class="trail" href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 18.10</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Aseta näppäimistön pikanäppäimet</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Pikanäppäinten muokkaaminen onnistuu seuraavasti:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Asetukset</span>.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Asetukset</span>.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Laitteet</span> sivupalkista.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
+      window will be shown.</p></li>
+<li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to
+      reset, or press <span class="key"><kbd>Esc</kbd></span> to cancel.</p></li>
+</ol></div></div></div>
+</div>
+<div id="defined" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Ennalta määritetyt pikanäppäimet</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">There are a number of pre-configured shortcuts that can be changed,
+  grouped into these categories:</p>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Käynnistimet</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Kotikansio</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="key"><kbd>Explorer</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Käynnistä laskin</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> tai <span class="key"><kbd>Laskin</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Käynnistä sähköpostiohjelma</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> tai <span class="key"><kbd>Sähköposti</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Käynnistä ohjeselain</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Käynnistä www-selain</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> tai <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> tai <span class="key"><kbd>WWW</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Etsi</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> tai <span class="key"><kbd>Haku</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Settings</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Tools</kbd></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Liikkuminen</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Piilota kaikki tavalliset ikkunat</p></td>
+<td><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Siirry yllä olevaan työtilaan</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Siirry alla olevaan työtilaan</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor down</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor to the left</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor to the right</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor up</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Siirrä ikkuna alempana olevaan työtilaan</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Siirrä ikkuna ylempänä olevaan työtilaan</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window to last workspace</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span>
+  </p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Siirrä ikkuna työtilaan 1</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span>
+  </p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Siirrä ikkuna työtilaan 2</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Siirrä ikkuna työtilaan 3</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Siirrä ikkuna työtilaan 4</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Vaihda sovelluksien välillä</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Switch system controls</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Switch system controls directly</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Switch to last workspace</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Vaihda työtilaan 1</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Vaihda työtilaan 2</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Vaihda työtilaan 3</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Vaihda työtilaan 4</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Vaihtele ikkunoiden välillä</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Switch windows directly</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Switch windows of an app directly</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Vaihda sovelluksen ikkunoiden välillä</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Kuvakaappaukset</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Kopioi kuvakaappaus ikkunasta leikepöydälle</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Kopioi kuvakaappaus alueesta leikepöydälle</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Kopioi kuvakaappaus leikepöydälle</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Record a short screencast</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Save a screenshot of an area to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Save a screenshot to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Ääni ja media</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Eject</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Eject)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Käynnistä mediasoitin</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Audio media)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Seuraava kappale</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio next)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Keskeytä toisto</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Audio pause)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Toista (tai toista/keskeytä)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Audio play)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Edellinen kappale</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio previous)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pysäytä toisto</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Audio stop)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Volume down</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Audio lower volume)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Volume mute</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Audio mute)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Volume up</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Audio raise volume)</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Järjestelmä</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Kohdista aktiviiseen ilmoitukseen</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>N</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Lukitse näyttö</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Kirjaudu ulos</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Avaa sovellusvalikko</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Restore the keyboard shortcuts</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Näytä kaikki sovellukset</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Näytä Toiminnot-yleisnäkymä</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show the notification list</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show the overview</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Näytä "Syötä komento"-ikkuna</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Kirjoittaminen</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Vaihda seuraavaan syötelähteeseen</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Vaihda edelliseen syötelähteeseen</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Esteettömyys</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Pienennä tekstin kokoa</p></td>
+<td><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Suuri kontrasti päälle tai pois</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Suurenna tekstin kokoa</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Aseta virtuaalinäppäimistö päälle tai pois päältä</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Aseta näytönlukija päälle tai pois päältä</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Turn zoom on or off</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>8</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Zoom in</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>=</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Zoom out</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>-</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Ikkunat</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Activate the window menu</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Välilyönti</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Sulje ikkuna</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Piilota ikkuna</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Lower window below other windows</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Suurenna ikkuna</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Suurenna ikkuna vaakasuunnassa</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Suurenna ikkuna pystysuunnassa</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Siirrä ikkunaa</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Raise window above other windows</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Raise window if covered, otherwise lower it</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Muuta ikkunan kokoa</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Palauta ikkunan koko</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Koko näytön tila pois/päälle</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Toggle maximization state</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Toggle window on all workspaces or one</p></td>
+<td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">View split on left</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">View split on right</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+</div></div>
+</div></div>
+<div id="custom" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Omat pikanäppäimet</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">To create your own application keyboard shortcut in the
+  <span class="app">Keyboard</span> settings:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Click the <span class="gui">+</span> button. The <span class="gui">Add Custom
+      Shortcut</span> window will appear.</p></li>
+<li class="steps"><p class="p">Type a <span class="gui">Name</span> to identify the shortcut, and a
+      <span class="gui">Command</span> to run an application.
+      For example, if you wanted the shortcut to open <span class="app">Rhythmbox</span>, you
+      could name it <span class="input">Music</span> and use the <span class="input">rhythmbox</span>
+      command.</p></li>
+<li class="steps"><p class="p">Click the row that was just added. When the
+      <span class="gui">Set Custom Shortcut</span> window opens, hold down the desired
+      shortcut key combination.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Lisää</span>.</p></li>
+</ol></div></div></div>
+<p class="p">The command name that you type should be a valid system command. You can
+  check that the command works by opening a Terminal and typing it in there.
+  The command that opens an application cannot have the same name as the
+  application itself.</p>
+<p class="p">If you want to change the command that is associated with a custom
+  keyboard shortcut, click the <span class="em">name</span> of the shortcut. The
+  <span class="gui">Set Custom Shortcut</span> window will appear, and you can edit the
+  command.</p>
+</div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fi" title="Käytä vaihtoehtoisia näppäimistöasetteluja">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fi" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Lue myös</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-keyboard-shortcuts.html.fi" title="Hyödyllisiä pikanäppäimiä">Hyödyllisiä pikanäppäimiä</a><span class="desc"> — Käytä työpöytää näppäimistöllä.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

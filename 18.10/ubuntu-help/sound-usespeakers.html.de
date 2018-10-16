@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Verschiedene Lautsprecher oder Kopfhörer verwenden</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 18.10</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="media.html.de#sound" title="Grundlegendes zum Ton">Klang</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Verschiedene Lautsprecher oder Kopfhörer verwenden</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Sie können externe Lautsprecher oder Kopfhörer an Ihrem Rechner verwenden. Lautsprecher werden üblicherweise mit einem Klinkenstecker oder über USB angeschlossen.</p>
+<p class="p">Falls Ihre Lautsprecher oder Kopfhörer einen Klinkenstecker haben, stecken Sie diesen in die richtige Buchse ein. Die meisten Rechner haben zwei Buchsen: eine für Lautsprecher und eine für Mikrofone. Schauen Sie, ob sich neben der Buchse die Abbildung eines Kopfhörers befindet oder ob diese einen hellgrünen Ring hat. In den Klinkenbuchsen befindliche Lautsprecher oder Kopfhörer werden üblicherweise standardmäßig verwendet. Falls nicht, folgen Sie den Anweisungen zur Auswahl eines Standardgeräts.</p>
+<p class="p">Einige Rechner unterstützen die mehrkanalige Ausgabe für Raumklang. Dafür werden im Allgemeinen mehrere Klinkenbuchsen mit unterschiedlichen Farbcodes verwendet. Wenn Sie nicht sicher sind, welche Stecker in welche Buchsen gehören, können Sie die Klangausgabe in den Klangeinstellungen testen.</p>
+<p class="p">Falls Sie über USB-Lautsprecher oder -Kopfhörer verfügen, oder einen analogen Kopfhörer, der über eine USB-Soundkarte angeschlossen wird, dann schließen Sie ihn an einen beliebigen USB-Port an. USB-Lautsprecher funktionieren wie separate Audiogeräte. Sie haben dann zu entscheiden, welche Lautsprecher standardmäßig verwendet werden sollen.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Vorgegebenes Audio-Eingabegerät wählen</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Audio</span> ein.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Audio</span>, um das Panel zu öffnen.</p></li>
+<li class="steps"><p class="p">Wählen Sie im Reiter <span class="gui">Ausgang</span> das Gerät, welches Sie verwenden wollen.</p></li>
+</ol></div>
+</div></div>
+<p class="p">Klicken Sie auf <span class="gui">Lautsprecher testen</span>, um zu prüfen, ob alle Lautsprecher funktionieren und richtig angeschlossen sind.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="media.html.de#sound" title="Grundlegendes zum Ton">Grundlegendes zum Ton</a><span class="desc"> — <span class="link"><a href="sound-volume.html.de" title="Lautstärke ändern">Lautstärke</a></span>, <span class="link"><a href="sound-usespeakers.html.de" title="Verschiedene Lautsprecher oder Kopfhörer verwenden">Lautsprecher und Kopfhörer</a></span>, <span class="link"><a href="sound-usemic.html.de" title="Ein anderes Mikrofon verwenden">Mikrofone</a></span> …</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Siehe auch</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="sound-usemic.html.de" title="Ein anderes Mikrofon verwenden">Ein anderes Mikrofon verwenden</a><span class="desc"> — Ein analoges oder USB-Mikrofon verwenden und das vorgegebene Eingabegerät wählen.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

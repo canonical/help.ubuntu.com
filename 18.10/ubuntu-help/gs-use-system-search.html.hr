@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang=hr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Korištenje pretrage sustava</title>
+<link rel="stylesheet" type="text/css" href="hr.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 18.10</span> » <a class="trail" href="index.html.hr" title="Ubuntu vodič radne površine"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu vodič radne površine</a> » <a class="trail" href="getting-started.html.hr" title="Početak rada">Početak rada s GNOMOM</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.hr" title="Korištenje prozora i radnih prostora">Previous</a><a class="nextlinks-next" href="gs-get-online.html.hr" title="Povezivanje mreže">Next</a>
+</div>
+<div class="hgroup"><h1 class="title"><span class="title">Korištenje pretrage sustava</span></h1></div>
+<div class="region">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
+<p class="p">Otvorite <span class="gui">Aktivnosti</span> prikaz klikom na <span class="gui">Aktivnosti</span> lijevo na vrhu zaslona, ili pritiskom <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> tipke. Započnite upisivati izraz pretrage.</p>
+<p class="p">Podudarajući rezultati s izrazom pretrage će se pojaviti. Prvi rezultat je uvijek istaknut i prikazan na vrhu.</p>
+<p class="p">Pritisnite <span class="key"><kbd>Enter</kbd></span> za prebacivanje na prvi istaknuti rezultat.</p>
+</li></ol></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-search2.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="2">
+<li class="steps">
+<p class="p">Stavke koje se mogu pojaviti u rezultatima pretrage uključuju:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">podudarajuće aplikacije, prikazane na vrhu rezultata pretrage,</p></li>
+<li class="list"><p class="p">podudarajuće postavke,</p></li>
+<li class="list"><p class="p">podudarajući kontakti,</p></li>
+<li class="list"><p class="p">podudarajući dokumenti,</p></li>
+<li class="list"><p class="p">podudarajući kalendar,</p></li>
+<li class="list"><p class="p">podudarajući kalkulator,</p></li>
+<li class="list"><p class="p">podudarajući softver,</p></li>
+<li class="list"><p class="p">podudarajuće datoteke,</p></li>
+<li class="list"><p class="p">podudarajući terminal,</p></li>
+<li class="list"><p class="p">podudarajuće lozinke i ključevi.</p></li>
+</ul></div></div></div>
+</li>
+<li class="steps">
+<p class="p">U rezultatima pretrage, kliknite na stavku za prebacivanje na nju.</p>
+<p class="p">Alternativno, istaknite stavku koristeći tipke strelica i pritisnite <span class="key"><kbd>Enter</kbd></span>.</p>
+</li>
+</ol></div></div></div>
+</div>
+<div id="use-search-inside-applications" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Pretraga unutar aplikacija</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Sustav prikuplja rezultate iz različitih aplikacija. Na lijevoj strani rezultata pretrage, možete vidjeti ikone aplikacija koje omogućuju rezultate pretrage, kliknite na jednu od ikona kako bi pokrenuli pretragu unutar aplikacije povezane s tom ikonom. Zato jer su samo najbolji rezultati prikazani u <span class="gui">Aktivnosti</span> pregledu, pretraživanje unutar aplikacije može dati bolje rezultate.</p></div></div>
+</div></div>
+<div id="use-search-customize" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Prilagodba rezultata pretrage</span></h2></div>
+<div class="region"><div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-search-settings.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="note note-important" title="Important"><div class="inner"><div class="region"><div class="contents"><p class="p">GNOME vam omogućuje prilagodbu prikaza u rezultatima pretrage u <span class="gui">Aktivnosti</span> pregledu. Na primjer, možete odabrati želite li prikazati rezultat web stranice, fotografije ili glazbe.</p></div></div></div></div>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h3><span class="title">Za prilagodbu prikaza u rezultatima prikaza:</span></h3></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Kliknite na <span class="gui"><a href="shell-introduction.html.hr#yourname" title="Vi i vaše računalo">izbornik sustava</a></span> na desnoj strani gornje trake.</p></li>
+<li class="steps"><p class="p">Kliknite tipku postavki dolje lijevo u izborniku.</p></li>
+<li class="steps"><p class="p">Kliknite <span class="gui">Pretraga</span> na lijevom panelu.</p></li>
+<li class="steps"><p class="p">U popisu lokacija pretrage, kliknite <span class="gui">UKLJ/ISKLJ</span> prekidač pokraj lokacije pretrage koju želite omogućiti ili onemogućiti.</p></li>
+</ol></div>
+</div></div>
+</div></div>
+</div></div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.hr" title="Korištenje prozora i radnih prostora">Previous</a><a class="nextlinks-next" href="gs-get-online.html.hr" title="Povezivanje mreže">Next</a>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="getting-started.html.hr" title="Početak rada">Početak rada s GNOMOM</a><span class="desc"> — Novi ste u GNOMU? Saznajte kako se brzo snaći.</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">See Also</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-apps-open.html.hr" title="Pokretanje aplikacija">Pokretanje aplikacija</a><span class="desc"> — Pokrenite svoje aplikacije iz <span class="gui">Aktivnosti</span> pregleda.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -203,7 +203,7 @@ ISO image, even a DVD image, to it.
 </p>
 <div class="sect3">
 <div class="titlepage"><div><div><h4 class="title">
-<a name="idm45630306053648"></a>4.3.3.1. Partitioning the USB stick</h4></div></div></div>
+<a name="idm45680435444240"></a>4.3.3.1. Partitioning the USB stick</h4></div></div></div>
 <p>
 
 We will show how to set up the memory stick to use the first partition,
@@ -221,7 +221,7 @@ instead of the entire device.
 Since most USB sticks come pre-configured with a single FAT16
 partition, you probably won't have to repartition or reformat the
 stick.  If you have to do that anyway, use <span class="command"><strong>cfdisk</strong></span>
-or any other partitioning tool to create a FAT16 partition<a href="#ftn.idm45630306051056" class="footnote" name="idm45630306051056"><sup class="footnote">[2]</sup></a>, install an MBR using:
+or any other partitioning tool to create a FAT16 partition<a href="#ftn.idm45680435441648" class="footnote" name="idm45680435441648"><sup class="footnote">[2]</sup></a>, install an MBR using:
 
 </p>
 <div class="informalexample"><pre class="screen">
@@ -277,7 +277,7 @@ procedure writes a boot sector to the partition and creates the file
 </div>
 <div class="sect3">
 <div class="titlepage"><div><div><h4 class="title">
-<a name="idm45630306039712"></a>4.3.3.2. Adding the installer image</h4></div></div></div>
+<a name="idm45680435430304"></a>4.3.3.2. Adding the installer image</h4></div></div></div>
 <p>
 
 Mount the partition
@@ -331,7 +331,7 @@ To enable the boot prompt to permit further parameter appending, add a
 <p>
 
 If you used an <code class="filename">hd-media</code> image, you should now copy the ISO file of
-an Ubuntu ISO image<a href="#ftn.idm45630306027184" class="footnote" name="idm45630306027184"><sup class="footnote">[3]</sup></a> onto the stick. When you are done, unmount the USB memory stick
+an Ubuntu ISO image<a href="#ftn.idm45680435417776" class="footnote" name="idm45680435417776"><sup class="footnote">[3]</sup></a> onto the stick. When you are done, unmount the USB memory stick
 (<strong class="userinput"><code>umount /mnt</code></strong>).
 
 </p>
@@ -339,10 +339,10 @@ an Ubuntu ISO image<a href="#ftn.idm45630306027184" class="footnote" name="idm45
 </div>
 <div class="footnotes">
 <br><hr width="100" align="left">
-<div id="ftn.idm45630306051056" class="footnote"><p><a href="#idm45630306051056" class="para"><sup class="para">[2] </sup></a>
+<div id="ftn.idm45680435441648" class="footnote"><p><a href="#idm45680435441648" class="para"><sup class="para">[2] </sup></a>
 Don't forget to set the <span class="quote">“<span class="quote">bootable</span>”</span> bootable flag.
 </p></div>
-<div id="ftn.idm45630306027184" class="footnote"><p><a href="#idm45630306027184" class="para"><sup class="para">[3] </sup></a>
+<div id="ftn.idm45680435417776" class="footnote"><p><a href="#idm45680435417776" class="para"><sup class="para">[3] </sup></a>
 You can use either a netinst or a full CD image (see
 <a class="xref" href="ch04s01.html" title="4.1. Official Ubuntu CD-ROMs">Section 4.1, “Official Ubuntu CD-ROMs”</a>). Be sure to select one that fits.
 Note that the <span class="quote">“<span class="quote">netboot <code class="filename">mini.iso</code></span>”</span> image is

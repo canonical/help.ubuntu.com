@@ -1,23 +1,23 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>3.6. Pre-Installation Hardware and Operating System Setup</title>
+<title>3.6. Pre-Partitioning for Multi-Boot Systems</title>
 <link rel="stylesheet" type="text/css" href="install.css">
 <meta name="generator" content="DocBook XSL Stylesheets V1.79.1">
 <link rel="home" href="index.html" title="Ubuntu Installation Guide">
 <link rel="up" href="ch03.html" title="Chapter 3. Before Installing Ubuntu">
-<link rel="prev" href="ch03s05.html" title="3.5. Pre-Partitioning for Multi-Boot Systems">
-<link rel="next" href="ch04.html" title="Chapter 4. Obtaining System Installation Media">
+<link rel="prev" href="ch03s05.html" title="3.5. Meeting Minimum Hardware Requirements">
+<link rel="next" href="ch03s07.html" title="3.7. Pre-Installation Hardware and Operating System Setup">
 </head>
 <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
 <div class="navheader">
 <table width="100%" summary="Navigation header">
-<tr><th colspan="3" align="center">3.6. Pre-Installation Hardware and Operating System Setup</th></tr>
+<tr><th colspan="3" align="center">3.6. Pre-Partitioning for Multi-Boot Systems</th></tr>
 <tr>
 <td width="20%" align="left">
 <a accesskey="p" href="ch03s05.html"><img src="images/prev.png" alt="Prev"></a> </td>
 <th width="60%" align="center">Chapter 3. Before Installing Ubuntu</th>
-<td width="20%" align="right"> <a accesskey="n" href="ch04.html"><img src="images/next.png" alt="Next"></a>
+<td width="20%" align="right"> <a accesskey="n" href="ch03s07.html"><img src="images/next.png" alt="Next"></a>
 </td>
 </tr>
 </table>
@@ -25,137 +25,103 @@
 </div>
 <div class="sect1">
 <div class="titlepage"><div><div><h2 class="title">
-<a name="pre-install-bios-setup"></a>3.6. Pre-Installation Hardware and Operating System Setup</h2></div></div></div>
+<a name="non-debian-partitioning"></a>3.6. Pre-Partitioning for Multi-Boot Systems</h2></div></div></div>
 <p>
 
-This section will walk you through pre-installation hardware setup, if
-any, that you will need to do prior to installing Ubuntu.
-Generally, this involves checking and possibly changing BIOS/system firmware settings for
-your system. The <span class="quote">“<span class="quote">BIOS</span>”</span> or <span class="quote">“<span class="quote">system firmware</span>”</span> is the core software used by the
-hardware; it is most critically invoked during the bootstrap process (after power-up).
-<span class="phrase">On s390x access to the firmware realized by the Handware Management Console (HMC) and the Support Element (SE). For LPAR installations HMC access is sufficient.</span>
-
-</p>
-<div class="sect2">
-<div class="titlepage"><div><div><h3 class="title">
-<a name="idm45798173312896"></a>3.6.1. BIOS Setup</h3></div></div></div>
-<p>
-
-In order to install Ubuntu on an IBM Z or LinuxONE
-machine you have first boot a kernel into the system.  The boot
-mechanism of this platform is inherently different to other ones,
-especially from PC-like systems: there are no floppy devices available
-at all. You will notice another big difference while you work with
-this platform: most (if not all) of the time you will work remote,
-with the help of some client session software like 3270, ssh, or a
-browser.  This is due to that special system architecture where the
-3215/3270 console is line-based instead of character-based.
+Partitioning your disk simply refers to the act of breaking up your
+disk into sections. Each section is then independent of the others.
+It's roughly equivalent to putting up walls inside a house; if you add
+furniture to one room it doesn't affect any other room.
 
 </p>
 <p>
 
-Linux on this platform runs either natively in a so-called LPARs (Logical Partitions) or in a virtual machine supplied by
-the z/VM or KVM hypervisor. Boot media differs depending on the runtime mode.
-For example, you can use the virtual card reader of a z/VM virtual machine, or
-boot from the HMC (Hardware Management Console) of an LPAR if the HMC
-and this option (Load from Removable Media) is available for you,
-or boot from the kernel and initrd provided by the ISO image or directly from the ISO image in case of KVM.
+Whenever this section talks about <span class="quote">“<span class="quote">disks</span>”</span> you should translate
+this into a DASD, a z/VM minidisk in the <span class="phrase">S/390</span> world or a FCP LUN.
+Also a machine means an LPAR or z/VM guest in this case.
 
 </p>
 <p>
 
-Before you actually perform an installation, you have to go over some
-design and preparation steps.  IBM has made documentation available
-about the whole process, e.g. how to prepare an installation medium
-and how actually to boot from that medium.  Duplicating that information
-here is neither possible nor necessary.  However, we will describe
-here which kind of Ubuntu-specific data is needed and where to find it.
-Using both sources of information, you have to prepare your machine
-and the installation medium before you can perform a boot from it.
-When you see the welcome message in your client session, return to this
-document to go through the Ubuntu-specific installation steps.
+If you already have an operating system on your system
 
-</p>
-</div>
-<div class="sect2">
-<div class="titlepage"><div><div><h3 class="title">
-<a name="idm45798173309264"></a>3.6.2. Native and LPAR installations</h3></div></div></div>
-<p>
 
-Please refer to chapter 5 of the
-<a class="ulink" href="http://www.redbooks.ibm.com/pubs/pdfs/redbooks/sg244987.pdf" target="_top">
-Linux for <span class="phrase">S/390</span></a>
-Redbook and chapter 3.2 of the
-<a class="ulink" href="http://www.redbooks.ibm.com/pubs/pdfs/redbooks/sg246264.pdf" target="_top">
-Linux for IBM eServer zSeries and <span class="phrase">S/390</span>: Distributions</a>
-Redbook on how to set up an LPAR for Linux.
 
-</p>
-</div>
-<div class="sect2">
-<div class="titlepage"><div><div><h3 class="title">
-<a name="idm45798173305424"></a>3.6.3. Installation as a VM guest</h3></div></div></div>
-<p>
+<span class="phrase">
+(z/VM, z/OS, OS/390, z/VSE, …)
+</span>
 
-Please refer to chapter 6 of the
-<a class="ulink" href="http://www.redbooks.ibm.com/pubs/pdfs/redbooks/sg244987.pdf" target="_top">
-Linux for <span class="phrase">S/390</span></a>
-Redbook and chapter 3.1 of the
-<a class="ulink" href="http://www.redbooks.ibm.com/pubs/pdfs/redbooks/sg246264.pdf" target="_top">
-Linux for IBM eServer zSeries and  <span class="phrase">S/390</span>: Distributions</a>
-Redbook on how to set up a VM guest for running Linux.
+which uses the whole disk and you want to stick Ubuntu on the same disk, you will need to repartition
+it. Ubuntu requires its own hard disk partitions.  It may be able to share some
+partitions with other Unix systems, but that's not covered here.
+At the very least you will need a dedicated partition for the Ubuntu
+root filesystem.
 
-</p>
-<p> 
-
-It's recommended to copy all the files from the <code class="filename">boot</code>
-sub-directory of your ISO image to your CMS disk - <span class="quote">“<span class="quote">usually your File Mode</span>”</span> (Fm) <span class="quote">“<span class="quote">A</span>”</span> or a dedicated one for installation files. But be sure to transfer at least the following files:
-<code class="filename">kernel.ubuntu</code> and
-<code class="filename">initrd.ubuntu</code>
-in binary mode with a fixed record length of 80 characters
-(by specifying <strong class="userinput"><code>BINARY</code></strong> and <strong class="userinput"><code>LOCSITE
-FIX 80</code></strong> in your FTP client).
-<code class="filename">parmfile.debian</code> and <code class="filename">ubuntu.exec</code>
-can be in either ASCII or EBCDIC format.
-
-The ASCII file <code class="filename">ubuntu.exec</code> is a sample REXX script, that will <span class="quote">“<span class="quote">punch</span>”</span> the files in the proper order.
-
-</p>
-</div>
-<div class="sect2">
-<div class="titlepage"><div><div><h3 class="title">
-<a name="idm45798173294448"></a>3.6.4. Setting up an installation server</h3></div></div></div>
-<p>
-
-If you don't have a connection to the Internet (either directly or via
-a web proxy) you usually need to create a local installation server that can
-be accessed from your s390x system. This server keeps all the packages
-you want to install and must make them available using HTTP or FTP (recommended).
-
-</p>
-<p>
-
-The installation server needs to copy the exact directory structure
-from any Ubuntu mirror, but only the s390x and the
-architecture-independent files are required. You can also copy the
-contents of all installation ISO image into such a directory tree.
 </p>
 <div class="note"><table border="0" summary="Note">
 <tr>
 <td rowspan="2" align="center" valign="top" width="25"><img alt="[Note]" src="images/note.png"></td>
 <th align="left">Note</th>
 </tr>
-<tr><td align="left" valign="top"><p>Make sure to also include and copy the <span class="quote">“<span class="quote">hidden</span>”</span> files and folders of the ISO image, like the folder <code class="filename">.disk</code></p></td></tr>
+<tr><td align="left" valign="top"><p>
+Please notice that it's quite unusual on s390x to use different partitions of one disk for different operating systems. However, the operating system boundary is usually an entire disk or mini disk rather than a partition.
+</p></td></tr>
 </table></div>
 <p>
+</p>
+<p>
+You can find information about your current partition setup by using
+a partitioning tool for your current operating system<span class="phrase">, such as the z/VM diskmap, parted, fdasd (DASD disks) or fdisk (FCP LUNs)</span>.
+Partitioning tools always provide a way to show existing partitions without making changes.
 
 </p>
 <p>
 
+In general, changing a partition with a file system already on
+it will destroy any information there. Thus you should always make
+backups before doing any repartitioning.  Using the analogy of the
+house, you would probably want to move all the furniture out of the
+way before moving a wall or you risk destroying it.
+
+</p>
+<p>
+
+Several modern operating systems offer the ability to move and resize
+certain existing partitions without destroying their contents.  This allows
+making space for additional partitions without losing existing data.  Even
+though this works quite well in most cases, making changes to the
+partitioning of a disk is an inherently dangerous action and should only be
+done after having made a full backup of all data.
 
 
 </p>
-</div>
+<p>
+
+Creating and deleting partitions can be done from within <code class="classname">debian-installer</code> as
+well as from an existing operating system. As a rule of thumb,
+partitions should be created by the system for which they are to
+be used, i.e. partitions to be used by Ubuntu should be
+created from within <code class="classname">debian-installer</code> and partitions to be used from another
+operating system should be created from there. <code class="classname">debian-installer</code> is
+capable of creating non-Linux partitions, and partitions created
+this way usually work without problems when used in other operating
+systems, but there are a few rare corner cases in which this could
+cause problems, so if you want to be sure, use the native partitioning
+tools to create partitions for use by other operating systems.
+</p>
+<p>
+
+If you are going to install more than one operating system on the same
+machine, you should install all other system(s) before proceeding with
+the Ubuntu installation.
+
+</p>
+<p>
+
+You can recover from these actions or avoid them, but installing
+the native system first saves you trouble.
+
+</p>
 </div>
 <div class="navfooter">
 <hr>
@@ -164,13 +130,13 @@ contents of all installation ISO image into such a directory tree.
 <td width="40%" align="left">
 <a accesskey="p" href="ch03s05.html"><img src="images/prev.png" alt="Prev"></a> </td>
 <td width="20%" align="center"><a accesskey="u" href="ch03.html"><img src="images/up.png" alt="Up"></a></td>
-<td width="40%" align="right"> <a accesskey="n" href="ch04.html"><img src="images/next.png" alt="Next"></a>
+<td width="40%" align="right"> <a accesskey="n" href="ch03s07.html"><img src="images/next.png" alt="Next"></a>
 </td>
 </tr>
 <tr>
-<td width="40%" align="left" valign="top">3.5. Pre-Partitioning for Multi-Boot Systems </td>
+<td width="40%" align="left" valign="top">3.5. Meeting Minimum Hardware Requirements </td>
 <td width="20%" align="center"><a accesskey="h" href="index.html"><img src="images/home.png" alt="Home"></a></td>
-<td width="40%" align="right" valign="top"> Chapter 4. Obtaining System Installation Media</td>
+<td width="40%" align="right" valign="top"> 3.7. Pre-Installation Hardware and Operating System Setup</td>
 </tr>
 </table>
 </div>

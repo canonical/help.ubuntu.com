@@ -141,7 +141,7 @@ To set a value to be used inside <code class="classname">debian-installer</code>
 <strong class="userinput"><code><em class="replaceable"><code>path/to/variable</code></em>=<em class="replaceable"><code>value</code></em></code></strong>
 for any of the preseed variables listed in the examples in this appendix.
 If a value is to be used to configure packages for the target system, you
-will need to prepend the <em class="firstterm">owner</em><a href="#ftn.idm45354666090304" class="footnote" name="idm45354666090304"><sup class="footnote">[19]</sup></a> of the variable as in
+will need to prepend the <em class="firstterm">owner</em><a href="#ftn.idm45695972814624" class="footnote" name="idm45695972814624"><sup class="footnote">[19]</sup></a> of the variable as in
 <strong class="userinput"><code><em class="replaceable"><code>owner</code></em>:<em class="replaceable"><code>path/to/variable</code></em>=<em class="replaceable"><code>value</code></em></code></strong>.
 If you don't specify the owner, the value for the variable will not be
 copied to the debconf database in the target system and thus remain unused
@@ -522,7 +522,7 @@ automate Ubuntu installs should only be done with care.
 </div>
 <div class="footnotes">
 <br><hr width="100" align="left">
-<div id="ftn.idm45354666090304" class="footnote"><p><a href="#idm45354666090304" class="para"><sup class="para">[19] </sup></a>
+<div id="ftn.idm45695972814624" class="footnote"><p><a href="#idm45695972814624" class="para"><sup class="para">[19] </sup></a>
 The owner of a debconf variable (or template) is normally the name of the
 package that contains the corresponding debconf template. For variables
 used in the installer itself the owner is <span class="quote">“<span class="quote">d-i</span>”</span>.

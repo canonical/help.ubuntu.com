@@ -68,20 +68,21 @@ Installing Ubuntu 18.04 "Bionic Beaver" For ppc64el
 
     3.1. Overview of the Installation Process
     3.2. Back Up Your Existing Data!
-    3.3. Information You Will Need
+    3.3. Point release and HWE kernel
+    3.4. Information You Will Need
 
-        3.3.1. Documentation
-        3.3.2. Finding Sources of Hardware Information
-        3.3.3. Hardware Compatibility
-        3.3.4. Network Settings
+        3.4.1. Documentation
+        3.4.2. Finding Sources of Hardware Information
+        3.4.3. Hardware Compatibility
+        3.4.4. Network Settings
 
-    3.4. Meeting Minimum Hardware Requirements
-    3.5. Pre-Partitioning for Multi-Boot Systems
-    3.6. Pre-Installation Hardware and Operating System Setup
+    3.5. Meeting Minimum Hardware Requirements
+    3.6. Pre-Partitioning for Multi-Boot Systems
+    3.7. Pre-Installation Hardware and Operating System Setup
 
-        3.6.1. How to update bare metal ppc64el firmware
-        3.6.2. Updating KVM guest firmware (SLOF)
-        3.6.3. Updating PowerKVM hypervisor
+        3.7.1. How to update bare metal ppc64el firmware
+        3.7.2. Updating KVM guest firmware (SLOF)
+        3.7.3. Updating PowerKVM hypervisor
 
 4. Obtaining System Installation Media
 
@@ -1003,7 +1004,7 @@ systems it runs on.
 
 You must have at least 32MB of memory and 680MB of hard disk space to perform a
 normal installation. Note that these are fairly minimal numbers. For more
-realistic figures, see Section 3.4, "Meeting Minimum Hardware Requirements".
+realistic figures, see Section 3.5, "Meeting Minimum Hardware Requirements".
 
 Installation on systems with less memory or disk space available may be
 possible but is only advised for experienced users.
@@ -1014,20 +1015,21 @@ Table of Contents
 
 3.1. Overview of the Installation Process
 3.2. Back Up Your Existing Data!
-3.3. Information You Will Need
+3.3. Point release and HWE kernel
+3.4. Information You Will Need
 
-    3.3.1. Documentation
-    3.3.2. Finding Sources of Hardware Information
-    3.3.3. Hardware Compatibility
-    3.3.4. Network Settings
+    3.4.1. Documentation
+    3.4.2. Finding Sources of Hardware Information
+    3.4.3. Hardware Compatibility
+    3.4.4. Network Settings
 
-3.4. Meeting Minimum Hardware Requirements
-3.5. Pre-Partitioning for Multi-Boot Systems
-3.6. Pre-Installation Hardware and Operating System Setup
+3.5. Meeting Minimum Hardware Requirements
+3.6. Pre-Partitioning for Multi-Boot Systems
+3.7. Pre-Installation Hardware and Operating System Setup
 
-    3.6.1. How to update bare metal ppc64el firmware
-    3.6.2. Updating KVM guest firmware (SLOF)
-    3.6.3. Updating PowerKVM hypervisor
+    3.7.1. How to update bare metal ppc64el firmware
+    3.7.2. Updating KVM guest firmware (SLOF)
+    3.7.3. Updating PowerKVM hypervisor
 
 This chapter deals with the preparation for installing Ubuntu before you even
 boot the installer. This includes backing up your data, gathering information
@@ -1123,11 +1125,24 @@ required to reinstall your operating system's boot loader to make the system
 boot or in a worst case even have to reinstall the complete operating system
 and restore your previously made backup.
 
-3.3. Information You Will Need
+3.3. Point release and HWE kernel
 
-3.3.1. Documentation
+The LTS release’s kernel is refreshed with a new, optional kernel at some point
+releases. This kernel is referred to as the Hardware Enablement (HWE) kernel,
+and provides support for new hardware that has been introduced after the LTS’s
+GA. New hardware components are supported by HWE kernels and on an installed
+system with proper networking you can install it by an apt command which you
+can find it at LTSEnablementStack on Ubuntu wiki.
 
-3.3.1.1. Installation Manual
+The LTS point releases also provide an updated installation kernel for
+scenarios where kernel support for key components, such as NIC or RAID cards,
+is required during the installation process.
+
+3.4. Information You Will Need
+
+3.4.1. Documentation
+
+3.4.1.1. Installation Manual
 
 This document you are now reading, in plain ASCII, HTML or PDF format.
 
@@ -1137,11 +1152,11 @@ This document you are now reading, in plain ASCII, HTML or PDF format.
 
   • install.en.pdf
 
-3.3.1.2. Hardware documentation
+3.4.1.2. Hardware documentation
 
 Often contains useful information on configuring or using your hardware.
 
-3.3.2. Finding Sources of Hardware Information
+3.4.2. Finding Sources of Hardware Information
 
 In many cases, the installer will be able to automatically detect your
 hardware. But to be prepared, we do recommend familiarizing yourself with your
@@ -1193,7 +1208,7 @@ Table 3.1. Hardware Information Helpful for an Install
 └──────────────────┴───────────────────────────────────────────────────────┘
 
 
-3.3.3. Hardware Compatibility
+3.4.3. Hardware Compatibility
 
 Many products work without trouble on Linux. Moreover, hardware support in
 Linux is improving daily. However, Linux still does not run as many different
@@ -1264,7 +1279,7 @@ yield usable results, a search for the chip code names, which are also often
 provided by lsusb and lspci ("RTL8111"/"RTL8168B" in the network card example
 and "RV710" in the graphics card example), can help.
 
-3.3.3.1. Testing hardware compatibility with a Live-System
+3.4.3.1. Testing hardware compatibility with a Live-System
 
 Ubuntu is also available as a so-called "live system" for certain
 architectures. A live system is a preconfigured ready-to-use system in a
@@ -1291,7 +1306,7 @@ be done manually if needed.
 Information about the available variants of the Ubuntu live images can be found
 at the download web page.
 
-3.3.4. Network Settings
+3.4.4. Network Settings
 
 If your computer is connected to a fixed network (i.e. an Ethernet or
 equivalent connection-- not a dialup/PPP connection) which is administered by
@@ -1333,7 +1348,7 @@ If you use a WLAN/WiFi network, you should find out:
 
   • The WEP or WPA/WPA2 security key to access the network (if applicable).
 
-3.4. Meeting Minimum Hardware Requirements
+3.5. Meeting Minimum Hardware Requirements
 
 Once you have gathered information about your computer's hardware, check that
 your hardware will let you do the type of installation that you want to do.
@@ -1382,7 +1397,7 @@ installed packages) can easily consume 40MB. Also, apt-get puts downloaded
 packages here before they are installed. You should usually allocate at least
 200MB for /var.
 
-3.5. Pre-Partitioning for Multi-Boot Systems
+3.6. Pre-Partitioning for Multi-Boot Systems
 
 Partitioning your disk simply refers to the act of breaking up your disk into
 sections. Each section is then independent of the others. It's roughly
@@ -1432,7 +1447,7 @@ start Ubuntu, or encourage you to reformat non-native partitions.
 You can recover from these actions or avoid them, but installing the native
 system first saves you trouble.
 
-3.6. Pre-Installation Hardware and Operating System Setup
+3.7. Pre-Installation Hardware and Operating System Setup
 
 This section will walk you through pre-installation hardware setup, if any,
 that you will need to do prior to installing Ubuntu. Generally, this involves
@@ -1440,7 +1455,7 @@ checking and possibly changing BIOS/system firmware settings for your system.
 The "BIOS" or "system firmware" is the core software used by the hardware; it
 is most critically invoked during the bootstrap process (after power-up).
 
-3.6.1. How to update bare metal ppc64el firmware
+3.7.1. How to update bare metal ppc64el firmware
 
 This is an excerpt from IBM PowerKVM on IBM POWER8.
 
@@ -1509,7 +1524,7 @@ Perform the following steps for the update:
 
         $update_flash -c
 
-3.6.2. Updating KVM guest firmware (SLOF)
+3.7.2. Updating KVM guest firmware (SLOF)
 
 Slimline Open Firmware (SLOF) is an implementation of the IEEE 1275 standard.
 It can be used as partition firmware for pSeries machines running on QEMU or
@@ -1529,9 +1544,9 @@ Thus, one can use a different SLOF file rather than the default, when running
 qemu-system, by adding the command line argument -bios <slof_file> when
 starting qemu.
 
-3.6.3. Updating PowerKVM hypervisor
+3.7.3. Updating PowerKVM hypervisor
 
-3.6.3.1. Instructions for Netboot installation
+3.7.3.1. Instructions for Netboot installation
 
 You will need a DHCP/TFTP (BOOTP) server, as well as a web server. After
 downloading ibm-powerkvm-*-ppc64-service-*.iso, mount loop it and unpack it
@@ -1573,7 +1588,7 @@ There should be the following option at petitboot (select it):
 
 The installer menu should appear automatically.
 
-3.6.3.2. Instructions for DVD
+3.7.3.2. Instructions for DVD
 
 Boot the ISO ibm-powerkvm-*-ppc64-service-*.iso (either burn a DVD or make it
 virtual if using QEMU) and simply wait for the boot.
@@ -1643,6 +1658,11 @@ files in binary mode, not text or automatic mode.
 The installation images are located on each Ubuntu mirror in the directory
 ubuntu/dists/bionic/main/installer-ppc64el/current/images/ -- the MANIFEST
 lists each image and its purpose.
+
+The HWE installation images are located on each Ubuntu mirror in the directory
+ubuntu/dists/bionic-updates/main/installer-ppc64el/current/images/hwe-netboot/.
+The image will be available soon after HWE kernel is available and before
+second point release.
 
 4.3. Preparing Files for Hard Disk Booting
 
@@ -3120,7 +3140,7 @@ The manual network setup in turn asks you a number of questions about your
 network, notably IP address, Netmask, Gateway, Name server addresses, Hostname,
 and a Domain name. Moreover, if you have a wireless network interface, you will
 be asked to provide your Wireless ESSID ("wireless network name") and a WEP key
-or WPA/WPA2 passphrase. Fill in the answers from Section 3.3, "Information You
+or WPA/WPA2 passphrase. Fill in the answers from Section 3.4, "Information You
 Will Need".
 
 Note

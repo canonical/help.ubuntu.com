@@ -1,18 +1,18 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>3.4. Meeting Minimum Hardware Requirements</title>
+<title>3.4. Information You Will Need</title>
 <link rel="stylesheet" type="text/css" href="install.css">
 <meta name="generator" content="DocBook XSL Stylesheets V1.79.1">
 <link rel="home" href="index.html" title="Ubuntu Installation Guide">
 <link rel="up" href="ch03.html" title="Chapter 3. Before Installing Ubuntu">
-<link rel="prev" href="ch03s03.html" title="3.3. Information You Will Need">
-<link rel="next" href="ch03s05.html" title="3.5. Pre-Partitioning for Multi-Boot Systems">
+<link rel="prev" href="ch03s03.html" title="3.3. Point release and HWE kernel">
+<link rel="next" href="ch03s05.html" title="3.5. Meeting Minimum Hardware Requirements">
 </head>
 <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
 <div class="navheader">
 <table width="100%" summary="Navigation header">
-<tr><th colspan="3" align="center">3.4. Meeting Minimum Hardware Requirements</th></tr>
+<tr><th colspan="3" align="center">3.4. Information You Will Need</th></tr>
 <tr>
 <td width="20%" align="left">
 <a accesskey="p" href="ch03s03.html"><img src="images/prev.png" alt="Prev"></a> </td>
@@ -25,80 +25,332 @@
 </div>
 <div class="sect1">
 <div class="titlepage"><div><div><h2 class="title">
-<a name="minimum-hardware-reqts"></a>3.4. Meeting Minimum Hardware Requirements</h2></div></div></div>
+<a name="needed-info"></a>3.4. Information You Will Need</h2></div></div></div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idm45737614123552"></a>3.4.1. Documentation</h3></div></div></div>
+<div class="sect3">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="idm45737614122912"></a>3.4.1.1. Installation Manual</h4></div></div></div>
 <p>
 
-Once you have gathered information about your computer's hardware,
-check that your hardware will let you do the type of installation
-that you want to do.
+This document you are now reading, in plain ASCII, HTML or PDF format.
+
+</p>
+<div class="itemizedlist"><ul class="itemizedlist" type="disc">
+<li class="listitem"><p>
+<a class="ulink" href="install.en.txt" target="_top">install.en.txt</a>
+</p></li>
+<li class="listitem"><p>
+<a class="ulink" href="install.en.html" target="_top">install.en.html</a>
+</p></li>
+<li class="listitem"><p>
+<a class="ulink" href="install.en.pdf" target="_top">install.en.pdf</a>
+</p></li>
+</ul></div>
+</div>
+<div class="sect3">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="idm45737614117776"></a>3.4.1.2. Hardware documentation</h4></div></div></div>
+<p>
+
+Often contains useful information on configuring or using your hardware.
+
+</p>
+</div>
+<div class="sect3">
+<div class="titlepage"><div><div><h4 class="title">
+<a name="idm45737614116240"></a>3.4.1.3. <span class="phrase">S/390</span> Hardware References</h4></div></div></div>
+<p>
+
+
+Documentation of <span class="phrase">S/390</span>-specific boot sequence, commands and device
+drivers (e.g. DASD, FCP, QETH (OSA, HiperSockets), Console and z/VM interaction)
+
+</p>
+<div class="itemizedlist"><ul class="itemizedlist" type="disc">
+<li class="listitem"><p>
+
+<a class="ulink" href="https://www.ibm.com/support/knowledgecenter/en/linuxonibm/liaaf/lnz_r_udd.html" target="_top">Device Drivers, Features, and Commands (Ubuntu)</a>
+
+</p></li>
+<li class="listitem"><p>
+
+<a class="ulink" href="https://www.ibm.com/developerworks/linux/linux390/development_docu_rollback.html" target="_top">Development stream - Documentation archive, incl. Device Drivers, Features, and Commands</a>
+
+</p></li>
+</ul></div>
+<p>
+
+IBM Redbook describing how Linux can be combined with z/VM on
+zSeries and <span class="phrase">S/390</span> hardware.
+
+</p>
+<div class="itemizedlist"><ul class="itemizedlist" type="disc"><li class="listitem"><p>
+
+<a class="ulink" href="http://www.redbooks.ibm.com/pubs/pdfs/redbooks/sg244987.pdf" target="_top">
+Linux for <span class="phrase">S/390</span></a>
+
+</p></li></ul></div>
+<p>
+
+IBM Redbook describing the Linux distributions available for the
+mainframe. It has no chapter about Ubuntu but the basic installation
+concepts are the same across all <span class="phrase">S/390</span> distributions.
+
+</p>
+<div class="itemizedlist"><ul class="itemizedlist" type="disc"><li class="listitem"><p>
+
+<a class="ulink" href="http://www.redbooks.ibm.com/pubs/pdfs/redbooks/sg246264.pdf" target="_top">
+Linux for IBM eServer zSeries and <span class="phrase">S/390</span>: Distributions</a>
+
+</p></li></ul></div>
+</div>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="fsohi"></a>3.4.2. Finding Sources of Hardware Information</h3></div></div></div>
+<p>
+
+In many cases, the installer will be able to automatically detect your
+hardware. But to be prepared, we do recommend familiarizing
+yourself with your hardware before the install.
+
+</p>
+<p>
+
+Hardware information can be gathered from:
+
+</p>
+<div class="itemizedlist"><ul class="itemizedlist" type="disc">
+<li class="listitem"><p>
+
+The manuals that come with each piece of hardware.
+
+</p></li>
+<li class="listitem"><p>
+
+
+<span class="phrase">
+The Hardware Management Console (HMC) and the Support Element (SE).
+You either need physical access to these sytems or one needs to enable the remote access.
+Special privileges are usually needed for the HMC and SE access - you may need to consult your system administrator / system programmer.
+Epsecially the Activation Profile for LPARs the and user direct (for z/VM guests)
+provide information about physical and virtual hardware.
+</span>
+
+</p></li>
+<li class="listitem"><p>
+
+The cases and boxes for each piece of hardware.
+
+</p></li>
+<li class="listitem"><p>
+
+System commands or tools in another operating system, including file
+manager displays. This source is especially useful for information
+about RAM and hard drive memory.
+
+</p></li>
+<li class="listitem"><p>
+
+Your system administrator, network administrator or Internet Service Provider.
+These sources can tell you the settings you need to set up your networking and e-mail.
+
+</p></li>
+</ul></div>
+<p>
 
 </p>
 <div class="table">
-<a name="idm45798173348368"></a><p class="title"><b>Table 3.2. Recommended Minimum System Requirements</b></p>
-<div class="table-contents"><table class="table" summary="Recommended Minimum System Requirements" border="1">
+<a name="idm45737614097504"></a><p class="title"><b>Table 3.1. Hardware Information Helpful for an Install</b></p>
+<div class="table-contents"><table class="table" summary="Hardware Information Helpful for an Install" border="1">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <thead><tr>
-<th>Install Type</th>
-<th>RAM (minimum)</th>
-<th>RAM (recommended)</th>
-<th>Hard Drive</th>
+<th>Hardware</th>
+<th>Information You Might Need</th>
 </tr></thead>
-<tbody><tr>
-<td>No desktop</td>
-<td>512 megabytes</td>
-<td>1024 megabytes</td>
-<td>2 gigabytes</td>
-</tr></tbody>
+<tbody>
+<tr>
+<td rowspan="2">DASD Storage</td>
+<td>Device number(s).</td>
+</tr>
+<tr><td>Available free space.</td></tr>
+<tr>
+<td rowspan="3">FCP Storage</td>
+<td>FCP host (bus) adapter(s).</td>
+</tr>
+<tr><td>WWPN (16 digit).</td></tr>
+<tr><td>LUN(s) (16 digit).</td></tr>
+<tr>
+<td rowspan="3">QETH Network</td>
+<td>Type of adapter.</td>
+</tr>
+<tr><td>Device numbers.</td></tr>
+<tr><td>Relative adapter number for OSA cards (Port number).</td></tr>
+</tbody>
 </table></div>
 </div>
-<br class="table-break"><p>
+<p><br class="table-break">
 
-The actual minimum memory requirements may be less than the numbers
-listed in this table. Depending on the architecture, it is possible to
-install Ubuntu with as little as 60MB (for amd64).
-The same goes for the disk space requirements, especially if you
-pick and choose which applications to install; see
-<a class="xref" href="apds03.html" title="D.3. Disk Space Needed">Section D.3, “Disk Space Needed”</a> for additional information on disk
-space requirements.
+</p>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idm45737614084272"></a>3.4.3. Hardware Compatibility</h3></div></div></div>
+<p>
+
+Many products work without trouble on Linux. Moreover,
+hardware support in Linux is improving daily. However, Linux still does
+not run as many different types of hardware as some operating systems.
 
 </p>
 <p>
 
-It is practically impossible to give general memory or disk space
-requirements for server installations as those very much depend on
-what the server is to be used for.
+Drivers in Linux in most cases are not written for a certain
+<span class="quote">“<span class="quote">product</span>”</span> or <span class="quote">“<span class="quote">brand</span>”</span> from a specific manufacturer, but for a certain
+hardware/chipset. Many seemingly
+different products/brands are based on the same hardware design; it is not
+uncommon that chip manufacturers provide so-called <span class="quote">“<span class="quote">reference designs</span>”</span> for
+products based on their chips which are then used by several different
+device manufacturers and sold under lots of different product or brand
+names.
 
 </p>
 <p>
 
-Remember that these sizes don't include all the other materials which
-are usually to be found, such as user files, mail, and data.  It is
-always best to be generous when considering the space for your own
-files and data.
+This has advantages and disadvantages. An advantage is that a driver for one
+chipset works with lots of different products from different manufacturers,
+as long as their product is based on the same chipset.  The disadvantage is
+that it is not always easy to see which actual chipset is used in a certain
+product/brand.  Unfortunately sometimes device manufacturers change the
+hardware base of their product without changing the product name or at least
+the product version number, so that when having two items of the same
+brand/product name bought at different times, they can sometimes be based on
+two different chipsets and therefore use two different drivers or there
+might be no driver at all for one of them.
 
 </p>
 <p>
 
-Disk space required for the smooth operation of the Ubuntu system
-itself is taken into account in these recommended system requirements.
-Notably, the <code class="filename">/var</code> partition contains
-a lot of state information specific to Ubuntu in addition to its regular
-contents, like logfiles.  The
-<span class="command"><strong>dpkg</strong></span> files (with information on all installed
-packages) can easily consume 40MB. Also,
-<span class="command"><strong>apt-get</strong></span> puts downloaded packages here before they are
-installed. You should
-usually allocate at least 200MB for
-<code class="filename">/var</code>.
+For PCI-Express/PCIe devices, a good way to find out on
+which chipset they are based is to look at their device IDs.
+All PCI-Express/PCIe devices have so called <span class="quote">“<span class="quote">vendor</span>”</span> and
+<span class="quote">“<span class="quote">product</span>”</span> IDs, and the combination of these two is usually the same for any
+product based on the same chipset.
+The traditional s390x I/O layer provides CCW (Channel Command Word) devices,
+which are DASDs disks, FCP disks and QETH devices (OSA adapters or Hipersockets).
 
 </p>
-<p>Without any urgent need to go with bare minimum,
-it's recommended to operate a system with some more hardware resources - just to provide some room for growth.</p>
+<p>
+
+On Linux systems, the devices and their IDs can be read using:
+
+</p>
+<div class="itemizedlist"><ul class="itemizedlist" type="disc">
+<li class="listitem"><p><span class="command"><strong>lszdev</strong></span> command for CCW devices</p></li>
+<li class="listitem"><p><span class="command"><strong>lspci -nn</strong></span> command for PCI-Express/PCIe devices</p></li>
+</ul></div>
+<p>
+The vendor and product IDs <span class="phrase"> (if available) </span> are usually given in the form of two hexadecimal numbers, seperated by a colon, such as “1d6b:0001”. 
+</p>
+<p>
+An example for the output of <span class="command"><strong>lszdev</strong></span>:</p>
+<p><code class="computeroutput">dasd-eckd    0.0.160a                    yes  yes   dasdb</code></p>
+<p><code class="computeroutput">qeth         0.0.c000:0.0.c001:0.0.c002  yes  yes   enc600</code></p>
+<p><code class="computeroutput">zfcp-host    0.0.e000                                        yes  yes</code></p>
+<p><code class="computeroutput">zfcp-lun     0.0.e000:0x54320763060b160b:0x4044400200000000  yes  yes   sda sg1</code></p>
+<p>Whereby 160a indicated an ECKD DASD disk,
+c000 or the triple c000-c002 a QETH network device (OSA adapter) and
+e000 and FCP host (bus) adapter, with a WWPN 0x54320763060b160b and LUN 0x4044400200000000.
+</p>
+<p>
+An example for the output of <span class="command"><strong>lspci -nn</strong></span> for a RoCE Express adapter:</p>
+<p><code class="computeroutput">0001:00:00.0 Ethernet controller [0200]: Mellanox Technologies MT27500/MT27520 Family [ConnectX-3/ConnectX-3 Pro Virtual Function] [15b3:1004]</code>.</p>
+<p>
+The IDs are given inside the rightmost square brackets, i.e. here
+15b3 is the vendor- and 1004 is the product ID.
+</p>
+<p>
+
+Searching on the internet with the vendor/product ID, <span class="quote">“<span class="quote">Linux</span>”</span> and
+<span class="quote">“<span class="quote">driver</span>”</span> as the search terms often results in information regarding
+the driver support status for a certain chipset. If a search for the
+vendor/product ID does not yield usable results, a search for the chip
+code names, which are also often provided by  lspci
+, can help.
+
+</p>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idm45737614062464"></a>3.4.4. Network Settings</h3></div></div></div>
+<p>
+
+If your computer is connected to a fixed network (i.e. an Ethernet or
+equivalent connection) which is
+administered by somebody else, you should ask your network's system
+administrator for this information:
+
+</p>
+<div class="itemizedlist"><ul class="itemizedlist" type="disc">
+<li class="listitem"><p>
+
+Your host name (you may be able to decide this on your own).
+
+</p></li>
+<li class="listitem"><p>
+
+Your domain name.
+
+</p></li>
+<li class="listitem"><p>
+
+Your computer's IP address.
+
+</p></li>
+<li class="listitem"><p>
+
+The netmask to use with your network.
+
+</p></li>
+<li class="listitem"><p>
+
+The IP address of the default gateway system you should route to,
+if your network <span class="emphasis"><em>has</em></span> a gateway.
+
+</p></li>
+<li class="listitem"><p>
+
+The system on your network that you should use as a DNS (Domain Name Service) server.
+
+</p></li>
+<li class="listitem">
+<p>
+
+If the system is connected to a VLAN trunk port the VLAN Id is needed.
+</p>
+<p>
+To display the VLAN configuration settings, the debian-installer's debconf priority needs to be switched from high (default) to medium.
+
+</p>
+</li>
+</ul></div>
+<p>
+
+</p>
+<p>
+
+If the network you are connected to uses DHCP (Dynamic Host Configuration
+Protocol) for configuring network settings, you don't need this information
+because the DHCP server will provide it directly to your computer
+during the installation process.
+
+</p>
+</div>
 </div>
 <div class="navfooter">
 <hr>
@@ -111,9 +363,9 @@ it's recommended to operate a system with some more hardware resources - just to
 </td>
 </tr>
 <tr>
-<td width="40%" align="left" valign="top">3.3. Information You Will Need </td>
+<td width="40%" align="left" valign="top">3.3. Point release and HWE kernel </td>
 <td width="20%" align="center"><a accesskey="h" href="index.html"><img src="images/home.png" alt="Home"></a></td>
-<td width="40%" align="right" valign="top"> 3.5. Pre-Partitioning for Multi-Boot Systems</td>
+<td width="40%" align="right" valign="top"> 3.5. Meeting Minimum Hardware Requirements</td>
 </tr>
 </table>
 </div>

@@ -69,7 +69,7 @@ configuration steps may be needed. In general, this method of installation is <s
 </table></div>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45354665632704"></a>D.4.1. Getting Started</h3></div></div></div>
+<a name="idm45695972361776"></a>D.4.1. Getting Started</h3></div></div></div>
 <p>
 
 With your current *nix partitioning tools, repartition the hard
@@ -145,7 +145,7 @@ manually before proceding with the next stage.
 </div>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45354665621904"></a>D.4.2. Install <span class="command"><strong>debootstrap</strong></span>
+<a name="idm45695972350976"></a>D.4.2. Install <span class="command"><strong>debootstrap</strong></span>
 </h3></div></div></div>
 <p>
 
@@ -153,7 +153,7 @@ The utility used by the Ubuntu installer, and recognized as the
 official way to install an Ubuntu base system, is
 <span class="command"><strong>debootstrap</strong></span>. It uses <span class="command"><strong>wget</strong></span> and
 <span class="command"><strong>ar</strong></span>, but otherwise depends only on
-<code class="classname">/bin/sh</code> and basic Unix/Linux tools<a href="#ftn.idm45354665617632" class="footnote" name="idm45354665617632"><sup class="footnote">[22]</sup></a>. Install <span class="command"><strong>wget</strong></span> and
+<code class="classname">/bin/sh</code> and basic Unix/Linux tools<a href="#ftn.idm45695972346704" class="footnote" name="idm45695972346704"><sup class="footnote">[22]</sup></a>. Install <span class="command"><strong>wget</strong></span> and
 <span class="command"><strong>ar</strong></span> if they aren't already on your current system,
 then download and install <span class="command"><strong>debootstrap</strong></span>.
 If these steps are executed under Ubuntu you can simply do this by <strong class="userinput"><code>apt install debootstrap</code></strong>.
@@ -198,7 +198,7 @@ the files.
 </div>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45354665605536"></a>D.4.3. Run <span class="command"><strong>debootstrap</strong></span>
+<a name="idm45695972334560"></a>D.4.3. Run <span class="command"><strong>debootstrap</strong></span>
 </h3></div></div></div>
 <p>
 
@@ -240,7 +240,7 @@ in the <span class="command"><strong>debootstrap</strong></span> command:
 </div>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45354665592640"></a>D.4.4. Configure The Base System</h3></div></div></div>
+<a name="idm45695972321664"></a>D.4.4. Configure The Base System</h3></div></div></div>
 <p>
 
 Now you've got a real Ubuntu system, though rather lean, on disk.
@@ -295,7 +295,7 @@ Generation complete.
 </p>
 <div class="sect3">
 <div class="titlepage"><div><div><h4 class="title">
-<a name="idm45354665585584"></a>D.4.4.1. Configure Apt</h4></div></div></div>
+<a name="idm45695972314608"></a>D.4.4.1. Configure Apt</h4></div></div></div>
 <p>
 
 Debootstrap will have created a very basic <code class="filename">/etc/apt/sources.list</code> that will allow installing
@@ -320,7 +320,7 @@ made changes to the sources list.
 </div>
 <div class="sect3">
 <div class="titlepage"><div><div><h4 class="title">
-<a name="idm45354665581200"></a>D.4.4.2. Install additional packages</h4></div></div></div>
+<a name="idm45695972310224"></a>D.4.4.2. Install additional packages</h4></div></div></div>
 <p>
 
 Now it's required to install some additionally required packages, like makedev (needed for the next section):
@@ -330,7 +330,7 @@ Now it's required to install some additionally required packages, like makedev (
 </div>
 <div class="sect3">
 <div class="titlepage"><div><div><h4 class="title">
-<a name="idm45354665579184"></a>D.4.4.3. Create device files</h4></div></div></div>
+<a name="idm45695972308208"></a>D.4.4.3. Create device files</h4></div></div></div>
 <p>
 
 At this point <code class="filename">/dev/</code> only contains very basic device
@@ -391,7 +391,7 @@ so this option should only be used with care.
 </div>
 <div class="sect3">
 <div class="titlepage"><div><div><h4 class="title">
-<a name="idm45354665569536"></a>D.4.4.4. Mount Partitions</h4></div></div></div>
+<a name="idm45695972298560"></a>D.4.4.4. Mount Partitions</h4></div></div></div>
 <p>
 
 You need to create <code class="filename">/etc/fstab</code>.
@@ -484,7 +484,7 @@ the chroot:
 </div>
 <div class="sect3">
 <div class="titlepage"><div><div><h4 class="title">
-<a name="idm45354665554368"></a>D.4.4.5. Setting Timezone</h4></div></div></div>
+<a name="idm45695972283456"></a>D.4.4.5. Setting Timezone</h4></div></div></div>
 <p>
 
 Setting the third line of the file <code class="filename">/etc/adjtime</code> to 
@@ -519,7 +519,7 @@ The following command allows you to choose your timezone.
 </div>
 <div class="sect3">
 <div class="titlepage"><div><div><h4 class="title">
-<a name="idm45354665548832"></a>D.4.4.6. Configure Networking</h4></div></div></div>
+<a name="idm45695972277920"></a>D.4.4.6. Configure Networking</h4></div></div></div>
 <p>
 
 To configure networking, edit
@@ -620,7 +620,7 @@ interface name (eth0, eth1, etc.) that you expect.
 </div>
 <div class="sect3">
 <div class="titlepage"><div><div><h4 class="title">
-<a name="idm45354665534560"></a>D.4.4.7. Configure Locales and Keyboard</h4></div></div></div>
+<a name="idm45695972262992"></a>D.4.4.7. Configure Locales and Keyboard</h4></div></div></div>
 <p>
 
 To configure your locale settings to use a language other than
@@ -653,7 +653,7 @@ configured for the next reboot.
 </div>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45354665530848"></a>D.4.5. Install a Kernel</h3></div></div></div>
+<a name="idm45695972259280"></a>D.4.5. Install a Kernel</h3></div></div></div>
 <p>
 
 If you intend to boot this system, you probably want a Linux kernel
@@ -681,7 +681,7 @@ Then install the kernel package of your choice using its package name.
 </div>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45354665526320"></a>D.4.6. Set up the Boot Loader</h3></div></div></div>
+<a name="idm45695972254752"></a>D.4.6. Set up the Boot Loader</h3></div></div></div>
 <p>
 
 To make your Ubuntu system bootable, set up your boot loader to load
@@ -700,7 +700,7 @@ but those are outside the scope of this appendix.
 </div>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45354665521424"></a>D.4.7. Remote access: Installing SSH and setting up access</h3></div></div></div>
+<a name="idm45695972249856"></a>D.4.7. Remote access: Installing SSH and setting up access</h3></div></div></div>
 <p>
 
 In case you can login to the system via console, you can skip this section. If
@@ -754,7 +754,7 @@ Lastly, access can be set up by adding a non-root user and setting a password:
 </div>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45354665514912"></a>D.4.8. Finishing touches</h3></div></div></div>
+<a name="idm45695972243344"></a>D.4.8. Finishing touches</h3></div></div></div>
 <p>
 
 As mentioned earlier, the installed system will be very basic. If you
@@ -788,7 +788,7 @@ diskspace by running:
 </div>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45354665509568"></a>D.4.9. Create a User</h3></div></div></div>
+<a name="idm45695972238000"></a>D.4.9. Create a User</h3></div></div></div>
 <p>
 
 Use the <span class="command"><strong>adduser</strong></span> command to create a new user account:
@@ -842,7 +842,7 @@ password:
 </div>
 <div class="footnotes">
 <br><hr width="100" align="left">
-<div id="ftn.idm45354665617632" class="footnote"><p><a href="#idm45354665617632" class="para"><sup class="para">[22] </sup></a>
+<div id="ftn.idm45695972346704" class="footnote"><p><a href="#idm45695972346704" class="para"><sup class="para">[22] </sup></a>
 
 These include the GNU core utilities and commands like <span class="command"><strong>sed</strong></span>, <span class="command"><strong>grep</strong></span>, <span class="command"><strong>tar</strong></span> and <span class="command"><strong>gzip</strong></span>.
 

@@ -1,18 +1,18 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>3.5. Pre-Partitioning for Multi-Boot Systems</title>
+<title>3.5. Meeting Minimum Hardware Requirements</title>
 <link rel="stylesheet" type="text/css" href="install.css">
 <meta name="generator" content="DocBook XSL Stylesheets V1.79.1">
 <link rel="home" href="index.html" title="Ubuntu Installation Guide">
 <link rel="up" href="ch03.html" title="Chapter 3. Before Installing Ubuntu">
-<link rel="prev" href="ch03s04.html" title="3.4. Meeting Minimum Hardware Requirements">
-<link rel="next" href="ch03s06.html" title="3.6. Pre-Installation Hardware and Operating System Setup">
+<link rel="prev" href="ch03s04.html" title="3.4. Information You Will Need">
+<link rel="next" href="ch03s06.html" title="3.6. Pre-Partitioning for Multi-Boot Systems">
 </head>
 <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
 <div class="navheader">
 <table width="100%" summary="Navigation header">
-<tr><th colspan="3" align="center">3.5. Pre-Partitioning for Multi-Boot Systems</th></tr>
+<tr><th colspan="3" align="center">3.5. Meeting Minimum Hardware Requirements</th></tr>
 <tr>
 <td width="20%" align="left">
 <a accesskey="p" href="ch03s04.html"><img src="images/prev.png" alt="Prev"></a> </td>
@@ -25,95 +25,108 @@
 </div>
 <div class="sect1">
 <div class="titlepage"><div><div><h2 class="title">
-<a name="non-debian-partitioning"></a>3.5. Pre-Partitioning for Multi-Boot Systems</h2></div></div></div>
+<a name="minimum-hardware-reqts"></a>3.5. Meeting Minimum Hardware Requirements</h2></div></div></div>
 <p>
 
-Partitioning your disk simply refers to the act of breaking up your
-disk into sections. Each section is then independent of the others.
-It's roughly equivalent to putting up walls inside a house; if you add
-furniture to one room it doesn't affect any other room.
+Once you have gathered information about your computer's hardware,
+check that your hardware will let you do the type of installation
+that you want to do.
 
 </p>
 <p>
 
-If you already have an operating system on your system
-
-<span class="phrase">
-(Windows 9x, Windows NT/2000/XP/2003/Vista/7/8/10, OS/2, MacOS, Solaris, FreeBSD, …)
-</span>
-
-
-
-which uses the whole disk and you want to stick Ubuntu on the same disk, you will need to repartition
-it. Ubuntu requires its own hard disk partitions. <span class="phrase">It cannot be
-installed on Windows or Mac OS X partitions.</span> It may be able to share some
-partitions with other Unix systems, but that's not covered here.
-At the very least you will need a dedicated partition for the Ubuntu
-root filesystem.
-
-
-</p>
-<p>
-You can find information about your current partition setup by using
-a partitioning tool for your current operating system<span class="phrase">, such as the integrated Disk Manager in Windows or fdisk in
-DOS</span>.
-Partitioning tools always provide a way to show existing partitions without making changes.
+Depending on your needs, you might manage with less than some of the
+recommended hardware listed in the table below. However, most users
+risk being frustrated if they ignore these suggestions.
 
 </p>
 <p>
 
-In general, changing a partition with a file system already on
-it will destroy any information there. Thus you should always make
-backups before doing any repartitioning.  Using the analogy of the
-house, you would probably want to move all the furniture out of the
-way before moving a wall or you risk destroying it.
+A Pentium 4, 1GHz system is the minimum recommended for a desktop
+system.
+
+</p>
+<div class="table">
+<a name="idm45275726600272"></a><p class="title"><b>Table 3.2. Recommended Minimum System Requirements</b></p>
+<div class="table-contents"><table class="table" summary="Recommended Minimum System Requirements" border="1">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead><tr>
+<th>Install Type</th>
+<th>RAM (minimum)</th>
+<th>RAM (recommended)</th>
+<th>Hard Drive</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>No desktop</td>
+<td>128 megabytes</td>
+<td>512 megabytes</td>
+<td>2 gigabytes</td>
+</tr>
+<tr>
+<td>With Desktop</td>
+<td>256 megabytes</td>
+<td>1 gigabyte</td>
+<td>10 gigabytes</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<br class="table-break"><p>
+
+The actual minimum memory requirements may be less than the numbers
+listed in this table. Depending on the architecture, it is possible to
+install Ubuntu with as little as 60MB (for amd64).
+The same goes for the disk space requirements, especially if you
+pick and choose which applications to install; see
+<a class="xref" href="apds03.html" title="D.3. Disk Space Needed">Section D.3, “Disk Space Needed”</a> for additional information on disk
+space requirements.
 
 </p>
 <p>
 
-Several modern operating systems offer the ability to move and resize
-certain existing partitions without destroying their contents.  This allows
-making space for additional partitions without losing existing data.  Even
-though this works quite well in most cases, making changes to the
-partitioning of a disk is an inherently dangerous action and should only be
-done after having made a full backup of all data.
-<span class="phrase">For FAT/FAT32 and NTFS partitions as used by DOS and
-Windows systems, the ability to move and resize them losslessly is provided 
-both by <code class="classname">debian-installer</code> as well as by the integrated Disk Manager of Windows
-7. </span>
-
-</p>
-<p>
-To losslessly resize an existing FAT or NTFS partition from within <code class="classname">debian-installer</code>, go
-to the partitioning step, select the option for manual partitioning, select
-the partition to resize, and simply specify its new size.
-</p>
-<p>
-
-Creating and deleting partitions can be done from within <code class="classname">debian-installer</code> as
-well as from an existing operating system. As a rule of thumb,
-partitions should be created by the system for which they are to
-be used, i.e. partitions to be used by Ubuntu should be
-created from within <code class="classname">debian-installer</code> and partitions to be used from another
-operating system should be created from there. <code class="classname">debian-installer</code> is
-capable of creating non-Linux partitions, and partitions created
-this way usually work without problems when used in other operating
-systems, but there are a few rare corner cases in which this could
-cause problems, so if you want to be sure, use the native partitioning
-tools to create partitions for use by other operating systems.
-</p>
-<p>
-
-If you are going to install more than one operating system on the same
-machine, you should install all other system(s) before proceeding with
-the Ubuntu installation.<span class="phrase">Windows and other OS installations may destroy
-your ability to start Ubuntu, or encourage you to reformat non-native partitions.</span>
+It is possible to run a graphical desktop environment on older or
+low-end systems, but in that case it is recommended to install
+a window manager that is less resource-hungry than those of the
+GNOME or KDE desktop environments; alternatives include
+<code class="classname">xfce4</code>, <code class="classname">icewm</code> and
+<code class="classname">wmaker</code>, but there are others to choose from.
 
 </p>
 <p>
 
-You can recover from these actions or avoid them, but installing
-the native system first saves you trouble.
+It is practically impossible to give general memory or disk space
+requirements for server installations as those very much depend on
+what the server is to be used for.
+
+</p>
+<p>
+
+Remember that these sizes don't include all the other materials which
+are usually to be found, such as user files, mail, and data.  It is
+always best to be generous when considering the space for your own
+files and data.
+
+</p>
+<p>
+
+Disk space required for the smooth operation of the Ubuntu system
+itself is taken into account in these recommended system requirements.
+Notably, the <code class="filename">/var</code> partition contains
+a lot of state information specific to Ubuntu in addition to its regular
+contents, like logfiles.  The
+<span class="command"><strong>dpkg</strong></span> files (with information on all installed
+packages) can easily consume 40MB. Also,
+<span class="command"><strong>apt-get</strong></span> puts downloaded packages here before they are
+installed. You should
+usually allocate at least 200MB for
+<code class="filename">/var</code><span class="phrase">, and a lot
+more if you install a graphical desktop environment</span>.
 
 </p>
 </div>
@@ -128,9 +141,9 @@ the native system first saves you trouble.
 </td>
 </tr>
 <tr>
-<td width="40%" align="left" valign="top">3.4. Meeting Minimum Hardware Requirements </td>
+<td width="40%" align="left" valign="top">3.4. Information You Will Need </td>
 <td width="20%" align="center"><a accesskey="h" href="index.html"><img src="images/home.png" alt="Home"></a></td>
-<td width="40%" align="right" valign="top"> 3.6. Pre-Installation Hardware and Operating System Setup</td>
+<td width="40%" align="right" valign="top"> 3.6. Pre-Partitioning for Multi-Boot Systems</td>
 </tr>
 </table>
 </div>

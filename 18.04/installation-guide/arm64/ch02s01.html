@@ -46,7 +46,7 @@ information can be found.
 </p>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45870145126416"></a>2.1.1. Supported Architectures</h3></div></div></div>
+<a name="idm46067791882992"></a>2.1.1. Supported Architectures</h3></div></div></div>
 <p>
 
 Ubuntu 18.04 supports six major architectures and several
@@ -118,7 +118,7 @@ One other architecture (IBM/Motorola PowerPC) has an unofficial port.
 </div>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45870145105632"></a>2.1.2. Variations in ARM CPU designs and support complexity</h3></div></div></div>
+<a name="idm46067791862128"></a>2.1.2. Variations in ARM CPU designs and support complexity</h3></div></div></div>
 <p>
 ARM systems are much more heterogeneous than those based on the
 i386/amd64-based PC architecture, so the support situation can be much
@@ -147,47 +147,11 @@ hardware. They are also common in the x86 PC world.
 <a name="arm64-supported-platforms"></a>2.1.3. Platforms supported by Ubuntu/arm64</h3></div></div></div>
 <p>
     
-    The following platforms are known to be supported by
-    Ubuntu/arm64 in this release. There is only one kernel image,
-    which supports all the listed platforms.
+    Ubuntu provides generic arm64 kernel images for various supported
+    platforms listed in
+    <a class="ulink" href="https://wiki.ubuntu.com/ARM/Server/Install" target="_top">Ubuntu Wiki</a>.
+    You can check that page for platform-specific installation notes.
   </p>
-<div class="variablelist"><dl class="variablelist">
-<dt><span class="term">Applied Micro (APM) Mustang/X-Gene</span></dt>
-<dd><p>
-	    The APM Mustang was the first Linux-capable ARMv8 system
-	    available. It uses the X-gene SoC, which has since also
-	    been used in other machines. It is an 8-core CPU, with
-	    ethernet, USB and serial. A common form-factor looks just
-	    like a desktop PC box, but many other versions are
-	    expected in the future. Most of the hardware is supported
-	    in the mainline kernel, but at this point USB support is
-	    lacking in the Bionic kernel.
-          </p></dd>
-<dt><span class="term">ARM Juno Development Platform</span></dt>
-<dd><p>	    
-	    Juno is a capable development board with a 6-core (2xA57,
-	    4xA53) ARMv8-A 800Mhz CPU, Mali (T624) graphics, 8GB DDR3
-	    RAM, Ethernet, USB, Serial. It was designed for system
-	    bring-up and power testing so is neither small nor cheap,
-	    but was one of the first boards available. All the
-	    on-board hardware is supported in the mainline kernel and
-	    in Bionic.
-          </p></dd>
-<dt><span class="term">Cavium ThunderX Reference Platforms CN8800-1S-CDK &amp; CN8800-2S-CDK</span></dt>
-<dd><p>
-	    The ThunderX 1S Reference Platform is a 1U rack mount chassis with a
-	    Micro-ATX single socket motherboard supporting 10GE &amp; 40GE
-	    networking, x8 PCIe, 4 HDD drive slots and 8 DDR3 memory slots. The
-	    ThunderX 2S Reference Platform is a 2U rack mount chassis with a ½ SSI
-	    dual socket motherboard supporting 10GE &amp; 40GE networking, x8 PCIe,
-	    6 HDD drive slots and 8 DDR4 memory slots. The 2U chassis can
-	    accommodate 4 sleds and each of the sleds has a dual 48 core socket
-	    design (96 cores per sled).  The Bionic kernel has support
-	    for nearly all on-board hardware. Certain exceptions, such as the IPMI
-	    system interface (<code class="filename">/dev/ipmi</code>), may be supported in a
-	    future Bionic update.
-          </p></dd>
-</dl></div>
 <p>
     When using <code class="classname">debian-installer</code> on non-UEFI systems, you may have to manually
     make the system bootable at the end of the installation, e.g. by
@@ -214,7 +178,7 @@ hardware. They are also common in the x86 PC world.
 </div>
 <div class="sect2">
 <div class="titlepage"><div><div><h3 class="title">
-<a name="idm45870145084352"></a>2.1.4. Multiple Processors</h3></div></div></div>
+<a name="idm46067791847760"></a>2.1.4. Multiple Processors</h3></div></div></div>
 <p>
 
 Multiprocessor support — also called <span class="quote">“<span class="quote">symmetric

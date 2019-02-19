@@ -78,7 +78,7 @@ in combination with the traditional Linux tools.
 Even if you are planning to use a graphical mail program, it is important
 that a traditional MTA/MDA is also installed and correctly set up on your
 Ubuntu system. Reason is that various utilities running on the
-system<a href="#ftn.idm45630304857376" class="footnote" name="idm45630304857376"><sup class="footnote">[17]</sup></a> can send important notices by e-mail to inform the system
+system<a href="#ftn.idm45680434247680" class="footnote" name="idm45680434247680"><sup class="footnote">[17]</sup></a> can send important notices by e-mail to inform the system
 administrator of (potential) problems or changes.
 
 </p>
@@ -91,7 +91,7 @@ did not unselect the <span class="quote">“<span class="quote">standard</span>�
 small but very flexible. By default it will be configured to only handle
 e-mail local to the system itself and e-mails addressed to the system
 administrator (root account) will be delivered to the regular user account
-created during the installation<a href="#ftn.idm45630304851264" class="footnote" name="idm45630304851264"><sup class="footnote">[18]</sup></a>.
+created during the installation<a href="#ftn.idm45680434241568" class="footnote" name="idm45680434241568"><sup class="footnote">[18]</sup></a>.
 
 </p>
 <p>
@@ -153,7 +153,7 @@ will then be asked for the SMTP server to be used for submitting bug reports.
 <p>
 
 If you would like your system to also handle external e-mail, you will
-need to reconfigure the <code class="classname">exim4</code> package<a href="#ftn.idm45630304837648" class="footnote" name="idm45630304837648"><sup class="footnote">[19]</sup></a>:
+need to reconfigure the <code class="classname">exim4</code> package<a href="#ftn.idm45680434227952" class="footnote" name="idm45680434227952"><sup class="footnote">[19]</sup></a>:
 
 </p>
 <div class="informalexample"><pre class="screen">
@@ -257,16 +257,16 @@ entry in <code class="filename">/etc/email-addresses</code>.
 </div>
 <div class="footnotes">
 <br><hr width="100" align="left">
-<div id="ftn.idm45630304857376" class="footnote"><p><a href="#idm45630304857376" class="para"><sup class="para">[17] </sup></a>
+<div id="ftn.idm45680434247680" class="footnote"><p><a href="#idm45680434247680" class="para"><sup class="para">[17] </sup></a>
 Examples are: <span class="command"><strong>cron</strong></span>, <span class="command"><strong>quota</strong></span>,
 <span class="command"><strong>logcheck</strong></span>, <span class="command"><strong>aide</strong></span>, …
 </p></div>
-<div id="ftn.idm45630304851264" class="footnote"><p><a href="#idm45630304851264" class="para"><sup class="para">[18] </sup></a>
+<div id="ftn.idm45680434241568" class="footnote"><p><a href="#idm45680434241568" class="para"><sup class="para">[18] </sup></a>
 The forwarding of mail for root to the regular user account is configured
 in <code class="filename">/etc/aliases</code>. If no regular user account was created,
 the mail will of course be delivered to the root account itself.
 </p></div>
-<div id="ftn.idm45630304837648" class="footnote"><p><a href="#idm45630304837648" class="para"><sup class="para">[19] </sup></a>
+<div id="ftn.idm45680434227952" class="footnote"><p><a href="#idm45680434227952" class="para"><sup class="para">[19] </sup></a>
 You can of course also remove <code class="classname">exim4</code> and replace
 it with an alternative MTA/MDA.
 </p></div>

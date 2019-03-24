@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Rendszerkeresés használata</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.hu" title="Kezdeti lépések">Kezdeti lépések GNOME alatt</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.hu" title="Ablakok és munkaterületek használata">Előző</a><a class="nextlinks-next" href="gs-get-online.html.hu" title="Kapcsolódás a hálózatra">Következő</a>
+</div>
+<div class="hgroup"><h1 class="title"><span class="title">Rendszerkeresés használata</span></h1></div>
+<div class="region">
+<div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
+<p class="p">Nyissa meg a <span class="gui">Tevékenységek</span> áttekintést képernyő bal felső sarkában lévő <span class="gui">Tevékenységek</span> menüre kattintva, vagy a <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> billentyű megnyomásával. Kezdjen el gépelni a kereséshez.</p>
+<p class="p">A begépelt szövegnek megfelelő találatok megjelennek a gépelés közben. Az első találat mindig kiemelve, felül jelenik meg.</p>
+<p class="p">Az első kiemelt találatra váltáshoz nyomja meg az <span class="key"><kbd>Enter</kbd></span> billentyűt.</p>
+</li></ol></div></div></div>
+<div class="media media-image"><div class="inner"><img src="gs-search2.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="2">
+<li class="steps">
+<p class="p">A találatok közt megjelenhetnek:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">a megfelelő alkalmazások, a találatok listájának elején,</p></li>
+<li class="list"><p class="p">a megfelelő beállítások,</p></li>
+<li class="list"><p class="p">a megfelelő névjegyek, és</p></li>
+<li class="list"><p class="p">a megfelelő dokumentumok,</p></li>
+<li class="list"><p class="p">a megfelelő naptár,</p></li>
+<li class="list"><p class="p">a megfelelő számológép,</p></li>
+<li class="list"><p class="p">a megfelelő szoftverek,</p></li>
+<li class="list"><p class="p">a megfelelő fájlok,</p></li>
+<li class="list"><p class="p">a megfelelő terminál,</p></li>
+<li class="list"><p class="p">a megfelelő jelszavak és kulcsok.</p></li>
+</ul></div></div></div>
+</li>
+<li class="steps">
+<p class="p">A találatok közt kattintson egy elemre az arra való átváltáshoz.</p>
+<p class="p">Egy elemet a nyílbillentyűkkel is kiemelhet, és megnyomhatja az <span class="key"><kbd>Enter</kbd></span> billentyűt az átváltáshoz.</p>
+</li>
+</ol></div></div></div>
+</div>
+<div id="use-search-inside-applications" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Keresés az alkalmazásokon belül</span></h2></div>
+<div class="region"><div class="contents"><p class="p">A rendszer keresője a különböző alkalmazásokból származó találatokat gyűjti. A találatok listájának bal oldalán láthatja azon alkalmazások ikonjait, amelyekből a találatok származnak. Kattintson az egyik ikonra a keresés újraindításához az adott ikonhoz tartozó alkalmazáson belülről. Mivel a <span class="gui">Tevékenységek áttekintés</span> csak a legpontosabb találatokat mutatja, az alkalmazáson belüli keresés bővebb találati listát adhat.</p></div></div>
+</div></div>
+<div id="use-search-customize" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Találatok személyre szabása</span></h2></div>
+<div class="region"><div class="contents">
+<div class="media media-image"><div class="inner"><img src="gs-search-settings.svg" width="100%" class="media media-block" alt=""></div></div>
+<div class="note note-important" title="Fontos"><div class="inner"><div class="region"><div class="contents"><p class="p">A GNOME lehetővé teszi a <span class="gui">Tevékenységek áttekintésben</span> megjelenő találatok személyre szabását. Eldöntheti például, hogy szeretné-e megjeleníteni a weboldalak, fényképek vagy zenék közti találatokat.</p></div></div></div></div>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h3><span class="title">A találatok személyre szabásához:</span></h3></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Kattintson a <span class="gui"><a href="shell-introduction.html.hu#yourname" title="Ön és a számítógépe">rendszer menüre</a></span> a felső sáv jobb oldalán.</p></li>
+<li class="steps"><p class="p">Nyomja meg a Beállítások gombot a menü bal alsó részén.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Keresés</span> elemre a bal oldali panelen.</p></li>
+<li class="steps"><p class="p">A keresési helyek listájában kattintson a <span class="gui">BE/KI</span> kapcsolóra az engedélyezni vagy letiltani kívánt keresési hely mellett.</p></li>
+</ol></div>
+</div></div>
+</div></div>
+</div></div>
+<div class="links nextlinks">
+<a class="nextlinks-prev" href="gs-use-windows-workspaces.html.hu" title="Ablakok és munkaterületek használata">Előző</a><a class="nextlinks-next" href="gs-get-online.html.hu" title="Kapcsolódás a hálózatra">Következő</a>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">További információk</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="getting-started.html.hu" title="Kezdeti lépések">Kezdeti lépések GNOME alatt</a><span class="desc"> — Új GNOME felhasználó? Ismerkedjen meg az alapokkal.</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Lásd még</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-apps-open.html.hu" title="Alkalmazások indítása">Alkalmazások indítása</a><span class="desc"> — Alkalmazások indítása a <span class="gui">Tevékenységek</span> áttekintésből.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

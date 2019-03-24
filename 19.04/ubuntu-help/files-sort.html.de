@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Dateien und Ordner sortieren</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="files.html.de" title="Dateien, Ordner und Suche">Dateien</a> › <a class="trail" href="files.html.de#common-file-tasks" title="Häufige Aufgaben">Häufige Aufgaben</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Dateien und Ordner sortieren</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Sie können Dateien in einem Ordner auf verschiedene Weise sortieren, zum Beispiel nach ihrem Datum oder der Dateigröße. Bitte lesen Sie weiter unten <span class="link"><a href="#ways" title="Möglichkeiten zum Sortieren von Dateien">Möglichkeiten zum Sortieren von Dateien</a></span> für eine Liste der üblichen Sortierweisen. Lesen Sie <span class="link"><a href="nautilus-views.html.de" title="Die Einstellungen von Dateien zeigen">Die Einstellungen von <span class="app">Dateien</span> zeigen</a></span> für weitere Informationen, wie Sie die voreingestellte Sortierreihenfolge ändern.</p>
+<p class="p">Wie Sie Dateien sortieren können, hängt von der <span class="em">Ordneransicht</span> ab, die Sie verwenden. Sie können die aktuelle Ansicht mit Hilfe des Listen- und Symbol-Knopfes in der Werkzeugleiste ändern.</p>
+</div>
+<div id="icon-view" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Symbolansicht</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Um die Dateien in einer anderen Reihenfolge zu sortieren, klicken Sie auf den Ansichtsoptionen-Knopf in der Werkzeugleiste und wählen Sie <span class="gui">Nach Name</span>, <span class="gui">Nach Größe</span>, <span class="gui">Nach Typ</span> oder <span class="gui">Nach Zugriffsdatum</span>.</p>
+<p class="p">Ein Beispiel: Wenn Sie <span class="gui">Nach Name</span> wählen, so werden die Dateien in alphabetischer Reihenfolge nach ihren Namen sortiert. Lesen Sie <span class="link"><a href="#ways" title="Möglichkeiten zum Sortieren von Dateien">Möglichkeiten zum Sortieren von Dateien</a></span> für weitere Optionen.</p>
+<p class="p">Sie können in umgekehrter Reihenfolge sortieren, indem Sie <span class="gui">Umgekehrte Reihenfolge</span> aus dem Menü wählen.</p>
+</div></div>
+</div></div>
+<div id="list-view" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Listenansicht</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Um die Dateien in einer anderen Reihenfolge anzuordnen, klicken Sie auf einen Spaltenkopf in der Dateiverwaltung. Klicken Sie zum Beispiel auf <span class="gui">Typ</span>, um sie nach Dateityp zu sortieren. Klicken Sie noch einmal auf den Spaltenkopf, um die Reihenfolge umzudrehen.</p>
+<p class="p">In der Listenansicht können Sie Spalten mit weiteren Attributen anzeigen und nach diesen Spalten sortieren. Klicken Sie auf den Ansichtsoptionen-Knopf in der Werkzeugleiste, wählen Sie <span class="gui">Sichtbare Spalten …</span> und wählen Sie die Spalten, die Sie sehen wollen. Sie können dann nach diesen Spalten sortieren. Lesen Sie <span class="link"><a href="nautilus-list.html.de" title="Einstellungen für die Spalten in der Dateiverwaltung">Einstellungen für die Spalten in der Dateiverwaltung</a></span> für eine Beschreibung der verfügbaren Spalten.</p>
+</div></div>
+</div></div>
+<div id="ways" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Möglichkeiten zum Sortieren von Dateien</span></h2></div>
+<div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Name</dt>
+<dd class="terms"><p class="p">Sortiert alphabetisch nach dem Namen der Datei.</p></dd>
+<dt class="terms">Größe</dt>
+<dd class="terms"><p class="p">Sortiert nach der Größe der Datei (dem belegten Speicherplatz). Die Sortierung erfolgt standardmäßig von der kleinsten zur größten Datei.</p></dd>
+<dt class="terms">Typ</dt>
+<dd class="terms"><p class="p">Sortiert alphabetisch nach dem Dateityp. Dateien des gleichen Typs werden zunächst zu Gruppen zusammengefasst und dann nach Namen sortiert.</p></dd>
+<dt class="terms">Zuletzt geändert</dt>
+<dd class="terms"><p class="p">Sortiert nach Datum und Zeit der letzten Änderung der Datei. Die Sortierung erfolgt standardmäßig von der ältesten zur neuesten Datei.</p></dd>
+</dl></div></div></div></div></div>
+</div></div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html.de#common-file-tasks" title="Häufige Aufgaben">Häufige Aufgaben</a></li></ul></div>
+</div></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang=fi>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Mikä ajuri on?</title>
+<link rel="stylesheet" type="text/css" href="fi.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup"><h1 class="title"><span class="title">Mikä ajuri on?</span></h1></div>
+<div class="region">
+<div class="contents">
+<p class="p">Laitteet ovat tietokoneesi fyysisiä osia. Ne voivat olla <span class="em">ulkoisia</span> kuten tulostimet ja näytöt tai <span class="em">sisäisiä</span> kuten näytönohjain ja äänikortti.</p>
+<p class="p">Jotta tietokoneesi voi käyttää näitä laitteita, sen täytyy tietää, miten niiden kanssa kommunikoidaan. Tämä hoituu <span class="em">laiteajureiden</span> avulla.</p>
+<p class="p">Kun liität laitteen tietokoneeseesi, sinulla täytyy olla oikeat ajurit asennettua, jotta laite toimii. Jos esimerkiksi kiinnität tulostimen koneeseen, mutta sille ei ole toimivia ajureita, et pysty käyttämään tulostinta. Yleensä jokainen laitemalli tarvitsee omat ajurinsa, eikä toisten mallien ajurit toimi sen kanssa.</p>
+<p class="p">Suurin osa ajureista on Linuxissa asennettu valmiiksi, joten kaiken tulisi toimia kytkiessäsi sen. Jotkut ajurit täytyy kuitenkin asentaa manuaalisesti tai niitä ei ehkä ole ollenkaan saatavilla.</p>
+<p class="p">Lisäksi jotkin olemassa olevat ajurit ovat keskeneräisiä tai osittain toimimattomia. Jos esimerkiksi tulostimesi ei pysty tulostamaan kaksipuolisia tulosteita, mutta muuten kaikki toimii normaalisti, voi kyseessä olla keskeneräinen ajuri.</p>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto ja ajurit</a><span class="desc"> — <span class="link"><a href="hardware.html.fi#problems" title="Yleisiä ongelmia">Laitteisto-ongelmat</a></span>, <span class="link"><a href="printing.html.fi" title="Tulostaminen">tulostimet</a></span>, <span class="link"><a href="power.html.fi" title="Virransäästö ja akku">virranhallinta</a></span>, <span class="link"><a href="color.html.fi" title="Värinhallinta">värinhallinta</a></span>, <span class="link"><a href="bluetooth.html.fi" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.fi" title="Levyt ja tiedon tallennus">levyt</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Lue myös</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="bluetooth-problem-connecting.html.fi" title="Bluetooth-laitteen yhdistäminen ei onnistu">Bluetooth-laitteen yhdistäminen ei onnistu</a><span class="desc"> — Sovitin voi olla pois käytöstä, sillä ei ole ajureita tai Bluetooth voi olla poistettu käytöstä tai estetty.</span>
+</li>
+<li class="links ">
+<a href="power-suspendfail.html.fi" title="Miksi tietokoneeni ei suostu palaamaan valmiustilasta?">Miksi tietokoneeni ei suostu palaamaan valmiustilasta?</a><span class="desc"> — Jotkin tietokoneiden laitteet aiheuttavat ongelmia valmiustilan kanssa.</span>
+</li>
+<li class="links ">
+<a href="power-nowireless.html.fi" title="Tietokoneen langaton verkkoyhteys ei toimi lepo- tai valmiustilasta palauttamisen jälkeen">Tietokoneen langaton verkkoyhteys ei toimi lepo- tai valmiustilasta palauttamisen jälkeen</a><span class="desc"> — Joillain langattomilla laitteilla saattaa olla ongelmia valmiustilasta palatessa.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

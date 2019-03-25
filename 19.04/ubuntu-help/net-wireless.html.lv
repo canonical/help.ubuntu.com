@@ -2,7 +2,7 @@
 <html lang=lv>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Bezvadu tīkls</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="lv.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Bezvadu tīkls</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -93,7 +93,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html.lv" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html.lv" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html.lv" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
+<a href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a><span class="desc"> — <span class="link"><a href="net-wireless.html.lv" title="Wireless networking">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html.lv" title="Wired networking">vadu</a></span>, <span class="link"><a href="net-problem.html.lv" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html.lv" title="Web browsers">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -103,7 +103,13 @@
 <a href="net-general.html.lv" title="Tīkla noteikumi un padomi">Tīkla noteikumi un padomi</a><span class="desc"> — <span class="link"><a href="net-findip.html.lv" title="Atrodiet savu IP adresi.">Atrodi savu IP adresi</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.lv" title="Ko nozīmē WEP un WPA?">WEP un WPA drošība</a></span>, <span class="link"><a href="net-macaddress.html.lv" title="Kas ir MAC adrese?">MAC adreses</a></span>, <span class="link"><a href="net-proxy.html.lv" title="Norādīt starpnieka iestatījumus">starpnieki</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-problem.html.lv" title="Tīkla problēmas">Tīkla problēmas</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a></span>, <span class="link"><a href="net-wireless-find.html.lv" title="Es sarakstā neredzu savu bezvadu tīklu">sameklējot savu bezvadu tīklu</a></span>…</span>
+<a href="net-problem.html.lv" title="Tīkla problēmas">Tīkla problēmas</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.lv" title="Es sarakstā neredzu savu bezvadu tīklu">finding your Wi-Fi network</a></span>…
+    </span>
+</li>
+<li class="links ">
+<a href="status-icons.html.lv#networkicons" title="Tīkla pārvaldnieka ikonas">Tīkla pārvaldnieka ikonas</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
 </li>
 </ul></div>
 </div></div>

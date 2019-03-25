@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Media card reader problems</title>
+<title>Problemer med mediekortlæser</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,15 +67,15 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html.da#photos" title="Billeder og digitalkameraer">Billeder</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Common problems">Problemer</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Media card reader problems</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Problemer med mediekortlæser</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Many computers contain readers for SD, MMC, SM, MS, CF, and other storage media
-cards. These should be automatically detected and <span class="link"><a href="disk-partitions.html.da" title="Manage volumes and partitions">mounted</a></span>. Here are some
+cards. These should be automatically detected and <span class="link"><a href="disk-partitions.html.da" title="Håndter diskenheder og partitioner">mounted</a></span>. Here are some
 troubleshooting steps if they are not:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p"> Make sure that the card is put in correctly. Many cards look as though they are
@@ -111,7 +111,7 @@ Linux.</p>
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links "><a href="media.html.da#photos" title="Billeder og digitalkameraer">Billeder</a></li>
-<li class="links "><a href="hardware.html.da#problems" title="Common problems">Hardwareproblemer</a></li>
+<li class="links "><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></li>
 </ul></div>
 </div></div></div>
 </div>

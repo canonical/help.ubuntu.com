@@ -95,7 +95,10 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Ventana de comandos emergente (para ejecutar comandos rápidamente)</p></td>
+<td style="border-top-style: solid;">
+<p class="p">Pop up command window (for quickly running commands).</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
+</td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
@@ -127,7 +130,7 @@
 <tr>
 <td style="border-top-style: solid;">
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Re Pag</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">y</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Av Pag</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.es" title="Cambie entre las áreas de trabajo">Cambiar entre áreas de trabajo</a></span>.</p></td>
@@ -136,7 +139,7 @@
 <td style="border-top-style: solid;">
 <p class="p">
       <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">y</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Av Pag</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.es" title="Mover una ventana a un área de trabajo diferente">Mover la ventana actual a un área de trabajo diferente</a></span>.</p></td>

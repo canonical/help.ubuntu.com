@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="net-wired.html.gl-GL" title="Rede con cable">Rede con cable</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="net-wired.html.gl-GL" title="Wired networking">Wired networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -78,9 +78,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para estabelecer a configuración de rede manualmente:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span>
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>  e comoece a escribir <span class="gui">Preferencias</span>.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Preferencias</span>.</p></li>
 <li class="steps">
 <p class="p">In the left pane, select the network connection that you want to set
       up manually. If you plug in to the network with a cable, click
@@ -120,10 +119,14 @@
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wired.html.gl-GL" title="Rede con cable">Rede con cable</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.gl-GL" title="Conectar a unha rede cableada (Ethernet)">Conexións de Internet con fíos</a></span>, <span class="link"><a href="net-fixed-ip-address.html.gl-GL" title="Crear unha conexión cunha enderezo IP fixo">Enderezos IP fixos</a></span>…</span>
+<a href="net-wired.html.gl-GL" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.gl-GL" title="Conectar a unha rede cableada (Ethernet)">Conexións de Internet con fíos</a></span>, <span class="link"><a href="net-fixed-ip-address.html.gl-GL" title="Crear unha conexión cunha enderezo IP fixo">Enderezos IP fixos</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Conectarse a unha rede sen fíos</a></span>, <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">Redes ocultas</a></span>, <span class="link"><a href="net-editcon.html.gl-GL" title="net-editcon">Editar opcións da conexión</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Desconectando</a></span>…</span>
+<a href="net-wireless.html.gl-GL" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div></div>

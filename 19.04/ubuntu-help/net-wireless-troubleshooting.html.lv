@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html.lv" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -102,7 +102,11 @@
 <div class="region"><ul>
 <li class="links "><a href="hardware.html.lv#problems" title="Biežākās problēmas">Aparatūras problēmas</a></li>
 <li class="links ">
-<a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.lv" title="Savienoties ar bezvadu tīklu">Savienoties ar WiFi</a></span>, <span class="link"><a href="net-wireless-hidden.html.lv" title="Savienojaties ar slēptu bezvadu tīklu.">Slēptie tīkli</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.lv" title="Kādēļ mans bezvadu tīkls mani atvieno?">Atvienoties</a></span>…</span>
+<a href="net-wireless.html.lv" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.lv" title="Savienoties ar bezvadu tīklu">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.lv" title="Savienojaties ar slēptu bezvadu tīklu.">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.lv" title="Kādēļ mans bezvadu tīkls mani atvieno?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div>

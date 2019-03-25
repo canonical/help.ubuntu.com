@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set up a local printer</title>
+<title>Opsæt en lokal printer</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> › <a class="trail" href="printing.html.da#setup" title="Set up a printer">Setup</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> › <a class="trail" href="printing.html.da#setup" title="Opsæt en printer">Setup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set up a local printer</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Opsæt en lokal printer</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Your system can recognize many types of printers automatically once
@@ -98,7 +98,7 @@
 <p class="p">If your printer does not appear in the Add a New Printer window, you may
   need to install print drivers.</p>
 <p class="p">After you install the printer, you may wish to
-  <span class="link"><a href="printing-setup-default-printer.html.da" title="Set the default printer">change your default
+  <span class="link"><a href="printing-setup-default-printer.html.da" title="Indstil standardprinteren">change your default
   printer</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -106,12 +106,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="printing.html.da#setup" title="Set up a printer">Set up a printer</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="printing.html.da#setup" title="Opsæt en printer">Opsæt en printer</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-setup-default-printer.html.da" title="Set the default printer">Set the default printer</a><span class="desc"> — Pick the printer that you use most often.</span>
+<a href="printing-setup-default-printer.html.da" title="Indstil standardprinteren">Indstil standardprinteren</a><span class="desc"> — Vælg den printer du bruger mest.</span>
 </li></ul></div>
 </div></div>
 </div>

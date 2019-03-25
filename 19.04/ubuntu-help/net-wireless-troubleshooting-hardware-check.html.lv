@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> › <a class="trail" href="hardware.html.lv#problems" title="Biežākās problēmas">Problēmas</a> » <a class="trail" href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a> » <a class="trail" href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html.lv" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -113,7 +113,12 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">USB bezvadu tīkla adapters</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Bezvadu tīkla adapteri, ko var ievietot jūsu datora USB portā, ir mazāk izplatīti. Tos var iespraust tieši USB portā vai pievienot USB kabelim. 3G/mobilais platjoslu adapteri izskatās līdzīgi bezvadu tīkla (WiFi) adapteriem, tādēļ, ja jūs uzskatāt, ka jums ir USB bezvadu tīkla adapters, vēlreiz pārbaudiet, vai tas patiesībā nav 3G adapters. Lai pārbaudītu, vai USB bezvadu tīkla adapters tika atpazīts:</p>
+<p class="p">Wireless adapters that plug into a USB port on your computer are less
+  common. They can plug directly into a USB port, or may be connected by a USB
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
+  adapters, so if you think you have a USB wireless adapter, double-check that
+  it is not actually a 3G adapter. To check if your USB wireless adapter was
+  recognized:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet termināli, ierakstiet <span class="cmd">lsusb</span> un spiediet <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="steps">

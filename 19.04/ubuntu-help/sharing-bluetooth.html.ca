@@ -78,12 +78,12 @@
 <div class="contents">
 <p class="p">Podeu activar compartir <span class="gui">Bluetooth</span> per rebre arxius per Bluetooth a la carpeta <span class="file">Baixades</span>.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Permetre que els arxius es comparteixin a la carpeta<span class="file">Baixades</span>.</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Permetre que els fitxers es comparteixin a la carpeta <span class="file">Baixades</span>.</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obre la vista d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenci a escriure <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Bluetooth</span> per obrir el panell.</p></li>
 <li class="steps"><p class="p">Assegureu-vos que <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth"><span class="gui">Bluetooth</span> està actiu</a></span>.</p></li>
-<li class="steps"><p class="p">Els dispositius amb Bluetooth-activat poden enviar arxius a la vostra carpeta de <span class="file">Baixades</span> només quan el panell de <span class="gui">Bluetooth</span> estigui obert.</p></li>
+<li class="steps"><p class="p">Els dispositius amb Bluetooth-activat poden enviar fitxers a la vostra carpeta de <span class="file">Baixades</span> només quan el panell de <span class="gui">Bluetooth</span> estigui obert.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Pot <span class="link"><a href="sharing-displayname.html.ca" title="Establiu el nom de visualització de l'ordinador">canviar</a></span> el nom que l'ordinador mostra als altres dispositius.</p></div></div></div></div>
@@ -95,13 +95,13 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">enviar fitxers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span>
+<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connecta</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">envia fitxers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html.ca" title="Compartició">Compartició</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir arxius per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir arxius multimèdia</a></span>…</span>
+<a href="sharing.html.ca" title="Compartició">Compartició</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir fitxers per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir fitxers multimèdia</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html.ca" title="Configuració de l'ús compartit">Configuració de l'ús compartit</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.ca" title="Compartir el control sobre Bluetooth">Compartir bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.ca" title="Compartiu els vostres arxius personals">Compartir els arxius personals</a></span>, <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir la pantalla</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir els arxius multimèdia</a></span>…</span>
+<a href="prefs-sharing.html.ca" title="Configuració de l'ús compartit">Configuració de l'ús compartit</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.ca" title="Compartir el control sobre Bluetooth">Compartir bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.ca" title="Compartiu els vostres fitxers personals">Compartir els fitxers personals</a></span>, <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir la pantalla</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir els fitxers multimèdia</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

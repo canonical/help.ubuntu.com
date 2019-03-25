@@ -74,7 +74,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Instal·lació dels còdecs correctes per a la reproducció de DVD</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Per reproduir DVD, heu de tenir els <span class="em">còdecs</span> correctes instal·lats. Un còdec és una peça de programari que permet a les aplicacions llegir un format de vídeo o àudio. Si el programari del vostre reproductor de pel·lícules no troba els còdecs correctes, us pot oferir instal·lar-los. En cas contrari, haureu d'instal·lar els còdecs manualment: demaneu ajuda sobre com fer-ho, per exemple, als fòrums de suport de la distribució de Linux.</p>
-<p class="p">Els DVD també estan <span class="em">protegits de còpia</span> utilitzant un sistema anomenat CSS. Això evita que copieu DVD, però també us impedeix reproduir-los a no ser que tingueu un programari addicional per gestionar la protecció contra còpia. Aquest programari està disponible a partir d'una sèrie de distribucions de Linux, però no es pot utilitzar legalment a tots els països. Podeu comprar un descodificador de DVD comercial que pot gestionar la protecció contra còpia des de <span class="link"><a href="http://fluendo.com/shop/product/oneplay-dvd-player/" title="http://fluendo.com/shop/product/oneplay-dvd-player/">Fluendo</a></span>. Funciona amb Linux i hauria de ser legal utilitzar-ho en tots els països.</p>
+<p class="p">DVDs are also <span class="em">copy-protected</span> using a system called CSS. This
+  prevents you from copying DVDs, but it also prevents you from playing them
+  unless you have extra software to handle the copy protection. This software
+  is available from a number of Linux distributions, but cannot be legally used
+  in all countries. You can buy a commercial DVD decoder that can handle copy
+  protection from
+  <span class="link"><a href="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/" title="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/">Fluendo</a></span>.
+  It works with Linux and should be legal to use in all countries.</p>
 </div></div>
 </div></div>
 <div id="region" class="sect"><div class="inner">

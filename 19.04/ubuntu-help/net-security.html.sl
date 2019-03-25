@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sl" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
+<a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sl" title="Wireless networking">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Wired networking">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Web browsers">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -135,7 +135,7 @@
 </div></div>
 </div>
 <div class="links topiclinks"><div class="inner">
-<div class="title title-links title-heading"><h2><span class="title">Συνηθισμένες εργασίες</span></h2></div>
+<div class="title title-links title-heading"><h2><span class="title">Common tasks</span></h2></div>
 <div class="region">
 <div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.el" title="Αλλαγή ημερομηνίας, ώρας και ζώνης ώρας">Αλλαγή ημερομηνίας, ώρας και ζώνης ώρας</a></div></div>
 <div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.el" title="Αλλαγή ταπετσαρίας">Αλλαγή ταπετσαρίας</a></div></div>

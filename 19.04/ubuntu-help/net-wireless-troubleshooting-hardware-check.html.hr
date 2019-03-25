@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hr" title="Ubuntu vodič radne površine"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu vodič radne površine</a> » <a class="trail" href="hardware.html.hr" title="Hardver i upravljački programi">Hardver</a> › <a class="trail" href="hardware.html.hr#problems" title="Common problems">Problemi</a> » <a class="trail" href="net-wireless-troubleshooting.html.hr" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hr" title="Ubuntu vodič radne površine"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu vodič radne površine</a> » <a class="trail" href="net.html.hr" title="Umrežavanje, web i e-pošta">Umrežavanje, web i e-pošta</a> » <a class="trail" href="net-wireless.html.hr" title="Bežično umrežavanje">Bežično umrežavanje</a> » <a class="trail" href="net-wireless-troubleshooting.html.hr" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hr" title="Ubuntu vodič radne površine"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu vodič radne površine</a> » <a class="trail" href="net.html.hr" title="Umrežavanje, web i e-pošta">Umrežavanje, web i e-pošta</a> » <a class="trail" href="net-wireless.html.hr" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.hr" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -139,7 +139,7 @@
 <div class="region"><div class="contents">
 <p class="p">Wireless adapters that plug into a USB port on your computer are less
   common. They can plug directly into a USB port, or may be connected by a USB
-  cable. 3G/mobile broadband adapters look quite similar to wireless (wifi)
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
   adapters, so if you think you have a USB wireless adapter, double-check that
   it is not actually a 3G adapter. To check if your USB wireless adapter was
   recognized:</p>

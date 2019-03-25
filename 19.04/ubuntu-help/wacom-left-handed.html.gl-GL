@@ -72,10 +72,9 @@
 <div class="contents">
 <p class="p">Algunhas tabletas teñen botóns aos lados. A table pode rotarse 180 grados para dispor estes botóns para as persoas zurdas. Para cambiar a orientacón a zurda:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
-    start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>  e comoece a escribir <span class="gui">Preferencias</span>.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Preferencias</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Dispositivos</span> na barra lateral.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Wacom Tablet</span> in the sidebar to open the panel.</p></li>
 <li class="steps">
 <p class="p">Click the <span class="gui">Tablet</span> button in the header bar.</p>

@@ -2,7 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Žične povezave</title>
+<title>Wired networking</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Žične povezave</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wired networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.sl" title="Povezava z žičnim (Eternet) omrežjem"><span class="title">Povezava z žičnim (Eternet) omrežjem</span><span class="linkdiv-dash"> — </span><span class="desc">Za nastavitev večine žičnih omrežnih povezav morate le vklopiti omrežni kabel.</span></a></div>
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sl" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
+<a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sl" title="Wireless networking">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Wired networking">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Web browsers">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
 </li></ul></div>
 </div></div></div>
 </div>

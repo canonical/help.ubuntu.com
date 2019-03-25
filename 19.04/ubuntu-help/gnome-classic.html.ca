@@ -69,7 +69,7 @@
 <div class="region">
 <div class="contents">
 <p class="p"><span class="em">GNOME Classic</span> és una característica per als usuaris que prefereixen una experiència d'escriptori més tradicional. Mentre que <span class="em">GNOME Classic</span> està basat en les tecnologies de <span class="em">GNOME 3</span>, proporciona una sèrie de canvis a la interfície d'usuari, com ara la d'<span class="gui">Aplicacions</span> i el menú <span class="gui">Llocs</span> a la barra superior, i una llista de finestres a la part inferior de la pantalla.</p>
-<p class="p">Podeu utilitzar el menú<span class="gui">Aplicacions</span> a la barra superior per llençar aplicacions. La vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> està disponible seleccionant l'element <span class="gui">Vista general d'activitats</span> del menú.</p>
+<p class="p">Podeu utilitzar el menú <span class="gui">Aplicacions</span> a la barra superior per llençar aplicacions. La vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> està disponible seleccionant l'element <span class="gui">Vista general d'activitats</span> del menú.</p>
 <p class="p">Per accedir a la vista general d'<span class="em"><span class="gui">Activitats</span></span>, podeu prémer la tecla <span class="key"><a href="keyboard-key-super.html.ca" title="Què és la tecla Super?"><kbd>Super</kbd></a></span>.</p>
 </div>
 <div id="gnome-classic-window-list" class="sect"><div class="inner">
@@ -101,7 +101,7 @@
 <li class="steps"><p class="p">Apareixerà un missatge de confirmació. Seleccioneu <span class="gui">Tancar sessió</span> per confirmar.</p></li>
 <li class="steps"><p class="p">A la pantalla d'inici de sessió, seleccioneu el vostre nom de la llista.</p></li>
 <li class="steps"><p class="p">Introduïu la vostra contrasenya al quadre de text d'entrada de la contrasenya.</p></li>
-<li class="steps"><p class="p">Feu clic a la icona d'opcions, que es mostra a l'esquerra del botó<span class="gui">Iniciar sessió</span>, i seleccioneu <span class="gui">GNOME</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a la icona d'opcions, que es mostra a l'esquerra del botó <span class="gui">Iniciar sessió</span>, i seleccioneu <span class="gui">GNOME</span>.</p></li>
 <li class="steps"><p class="p">Feu clic al botó <span class="gui">Iniciar sessió</span>.</p></li>
 </ol></div>
 </div></div>

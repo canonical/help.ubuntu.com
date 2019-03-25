@@ -2,7 +2,7 @@
 <html lang=es>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Conexiones inalámbricas</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="es.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Conexiones inalámbricas</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -93,14 +93,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html.es" title="Conexiones inalámbricas">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.es" title="Conexiones cableadas">cableada</a></span>, <span class="link"><a href="net-problem.html.es" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.es" title="Navegadores">navegación web</a></span>, <span class="link"><a href="net-email.html.es" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
+<a href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html.es" title="Wireless networking">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.es" title="Wired networking">cableada</a></span>, <span class="link"><a href="net-problem.html.es" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.es" title="Web browsers">navegación web</a></span>, <span class="link"><a href="net-email.html.es" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.es" title="Problemas de red">Problemas de red</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionar problemas de la red inalámbrica</a></span>, <span class="link"><a href="net-wireless-find.html.es" title="No puedo ver mi red inalámbrica en la lista">Buscar su red inalámbrica</a></span>…</span>
+<a href="status-icons.html.es#networkicons" title="Iconos del gestor de la red">Iconos del gestor de la red</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
+<li class="links ">
+<a href="net-problem.html.es" title="Problemas de red">Problemas de red</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.es" title="No puedo ver mi red inalámbrica en la lista">finding your Wi-Fi network</a></span>…
+    </span>
 </li>
 <li class="links ">
 <a href="net-general.html.es" title="Términos y consejos sobre redes">Términos y consejos sobre redes</a><span class="desc"> — <span class="link"><a href="net-findip.html.es" title="Buscar su dirección IP">Saber su dirección IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.es" title="¿Qué significan WEP y WPA?">seguridad WEP y WPA</a></span>, <span class="link"><a href="net-macaddress.html.es" title="¿Qué es una dirección MAC?">dirección MAC</a></span>, <span class="link"><a href="net-proxy.html.es" title="Definir la configuración del proxy">proxies</a></span>…</span>

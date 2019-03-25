@@ -77,13 +77,7 @@
 <p class="p">Un perfil de cor é un conxunto de datos que caracteriza ou un dispositivo, tal como un proxector, ou un espazo de cor, tal como sRGB.</p>
 <p class="p">A maioría dos perfiles de cor están nun formato ICC, que é un pequeno ficheiro cunha extensión <span class="input">.ICC</span> ou <span class="input">.ICM</span>.</p>
 <p class="p">Os perfiles de cor pódense empotrar en imaxes para especificar o espectro do rango dos datos. Isto asegura que o usuario ve as mesmas cores en diferentes dispositivos.</p>
-<p class="p">
-    Every device that is processing color should have its own ICC
-    profile and when this is achieved the system is said to have an
-    <span class="em">end-to-end color-managed workflow</span>.
-    With this kind of workflow you can be sure that colors are not being
-    lost or modified.
-  </p>
+<p class="p">Cada dispositivo cuxo procesado de cor debe ter o seu propio perfil ICC e cando isto se logra díse que o sistema ten un <span class="em">fluxo de traballo de cor de principio a fin</span>. Con este fluxo de traballo pode estar seguro de que as cores non se perden nin modifican.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use the tablet left-handed</title>
+<title>Brug tegnepladen venstrehåndet</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,20 +67,19 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="wacom.html.da" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use the tablet left-handed</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Brug tegnepladen venstrehåndet</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Some tablets have hardware buttons on one side. The tablet can be rotated
    180 degrees to position these buttons for left-handed people. To switch the
    orientation to left-handed:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> overview and
-    start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Wacom Tablet</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Enheder</span> i sidebjælken.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Wacom-tegneplade</span> i sidebjælken for at åbne panelet.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Tablet</span> button in the header bar.</p>
+<p class="p">Klik på <span class="gui">Tegneplade</span>-knappen i hovedbjælken.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If no tablet is detected, you’ll be asked to
     <span class="gui">Please plug in or turn on your Wacom tablet</span>. Click the
     <span class="gui">Bluetooth Settings</span> link to connect a wireless tablet.</p></div></div></div></div>
@@ -94,9 +93,9 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="wacom.html.da" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html.da" title="Choose a monitor">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html.da" title="Configure the stylus">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html.da" title="Use the tablet left-handed">use the tablet left handed</a></span>…
+      <span class="link"><a href="wacom-multi-monitor.html.da" title="Vælg en skærm">Map a monitor</a></span>,
+      <span class="link"><a href="wacom-stylus.html.da" title="Konfigurer pennen">configure the stylus</a></span>,
+      <span class="link"><a href="wacom-left-handed.html.da" title="Brug tegnepladen venstrehåndet">use the tablet left handed</a></span>…
   </span>
 </li></ul></div>
 </div></div></div>

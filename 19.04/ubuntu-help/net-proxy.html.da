@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Define proxy settings</title>
+<title>Definer proxyindstillinger</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,14 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.da" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-general.html.da" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Define proxy settings</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Definer proxyindstillinger</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="what" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">What is a proxy?</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Hvad er en proxy?</span></h2></div>
 <div class="region"><div class="contents"><p class="p">A <span class="em">web proxy</span> filters websites that you look at, it receives
   requests from your web browser to fetch web pages and their elements, and
   following a policy will decide to pass them you back. They are commonly used
@@ -80,10 +80,10 @@
   to do security checks on websites.</p></div></div>
 </div></div>
 <div id="change" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Change proxy method</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Skift proxymetode</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skriv <span class="gui">Netværk</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Netværk</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Network proxy</span> from the list on the left.</p></li>
 <li class="steps">
@@ -112,10 +112,10 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="net-general.html.da" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html.da" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html.da" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html.da" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html.da" title="Define proxy settings">proxies</a></span>…
+      <span class="link"><a href="net-findip.html.da" title="Find din IP-adresse">Find your IP address</a></span>,
+      <span class="link"><a href="net-wireless-wepwpa.html.da" title="Hvad betyder WEP og WPA?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html.da" title="Hvad er en MAC-adresse?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html.da" title="Definer proxyindstillinger">proxies</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

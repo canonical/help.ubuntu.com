@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » </div>
-<div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-problem.html.de" title="Netzwerkprobleme">Netzwerkprobleme</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html.de" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -103,10 +103,17 @@
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.de" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span>
+<a href="net-problem.html.de" title="Netzwerkprobleme">Netzwerkprobleme</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.de" title="Ich kann mein Funknetzwerk in der Liste nicht finden">finding your Wi-Fi network</a></span>…
+    </span>
 </li>
 <li class="links ">
-<a href="net-problem.html.de" title="Netzwerkprobleme">Netzwerkprobleme</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Fehlerbehandlung für Funknetzwerke</a></span>, <span class="link"><a href="net-wireless-find.html.de" title="Ich kann mein Funknetzwerk in der Liste nicht finden">Ihr Funknetzwerk suchen</a></span> …</span>
+<a href="net-wireless.html.de" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.de" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div>

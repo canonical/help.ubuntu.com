@@ -94,7 +94,7 @@
 <li class="steps">
 <p class="p">Cliqueu <span class="gui">Afegeix</span> i entre la línia APT per al dipòsit. Això hauria d'estar disponible al lloc web del dipòsit, i hauria de ser semblant a:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Cliqueu <span class="gui">Afegir font</span> i tanqueu la finestra de  <span class="app">Programari i actualitzacions</span>. El <span class="app">Programari de l'Ubuntu</span> cercarà noves actualitzacions a les fonts de programari.</p></li>
@@ -113,7 +113,7 @@
     </p>
 <p class="p">Per habilitar el repositori, seguiu els passos de dalt per obrir la pestanya <span class="gui">Altre programari</span> a <span class="app">Programari i actualitzacions</span>. Si veieu el repositori <span class="gui">Socis de Canonical</span> a la llista, assegureu-vos que està marcat i després tanqueu la finestra <span class="app">Programari i actualitzacions</span>. Si no el veieu, cliqueu <span class="gui">Afegeix</span> i entreu:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Cliqueu <span class="gui">Afegeix font</span> i després tanqueu la finestra <span class="app">Programari i actualitzacions</span>. Espereu un moment que el <span class="app">Programari de l'Ubuntu</span> descarregui la informació del repositori.</p>
 </div></div>

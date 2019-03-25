@@ -89,6 +89,7 @@
 <div class="region"><div class="contents">
 <p class="p">Jiným způsobem spouštění aplikací je zmáčknout <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, napsat její <span class="em">spouštěcí příkaz</span> a následně zmáčknout <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Například spuštění přehrávače <span class="app">Rhythmbox</span> se provede tak, že zmáčknete <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> a napíšete „<span class="cmd">rhythmbox</span>“ (bez uvozovek). Název aplikace je příkaz, který spustí program.</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
 </div></div>
 </div></div>
 </div>

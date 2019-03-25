@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Справка"></span></span> Руководство пользователя настольного выпуска Ubuntu</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-browser.html.ru" title="Веб-браузеры">Веб-браузеры</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Справка"></span></span> Руководство пользователя настольного выпуска Ubuntu</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-browser.html.ru" title="Web browsers">Web browsers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change which web browser opens websites by default</span></h1></div>
@@ -89,7 +89,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.ru" title="Веб-браузеры">Веб-браузеры</a><span class="desc"> — 
+<a href="net-browser.html.ru" title="Web browsers">Web browsers</a><span class="desc"> — 
       <span class="link"><a href="net-default-browser.html.ru" title="Change which web browser opens websites by default">Change the default browser</a></span>,
       <span class="link"><a href="net-install-flash.html.ru" title="Установка Flash-плагина">install Flash</a></span>…
     </span>

@@ -87,7 +87,7 @@
       <span class="key"><a href="keyboard-key-super.html.es" title="¿Qué es la tecla Super?"><kbd>Super</kbd></a></span> key.</p>
 </li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Acceso universal</span> en la barra lateral para abrir el panel.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
       <span class="gui">Pointing &amp; Clicking</span> section, then press <span class="key"><kbd>Enter</kbd></span>
       to switch <span class="gui">Mouse Keys</span> to <span class="gui">ON</span>.</p></li>

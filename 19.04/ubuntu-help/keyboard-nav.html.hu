@@ -77,13 +77,13 @@
 <div class="region">
 <div class="contents">
 <p class="p">Ez az oldal részletezi a billentyűnavigációt azok számára, akik nem tudnak egeret vagy más mutatóeszközt használni, vagy csak a lehető legtöbbet szeretnék használni a billentyűzetet. A minden felhasználó számára hasznos gyorsbillentyűkkel kapcsolatban nézze meg a <span class="link"><a href="shell-keyboard-shortcuts.html.hu" title="Hasznos gyorsbillentyűk">Hasznos gyorsbillentyűk</a></span> oldalt.</p>
-<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha nem tudja használni az egérhez hasonló mutatóeszközöket, akkor az egérmutatót irányíthatja a numerikus billentyűzetről is. A részletekért lásd az <span class="link"><a href="mouse-mousekeys.html.hu" title="Click and move the mouse pointer using the keypad">Click and move the mouse pointer using the keypad</a></span> oldalt.</p></div></div></div></div>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha nem tudja használni az egérhez hasonló mutatóeszközöket, akkor az egérmutatót irányíthatja a numerikus billentyűzetről is. A részletekért lásd az <span class="link"><a href="mouse-mousekeys.html.hu" title="Kattintás és az egérmutató mozgatása a numerikus billentyűzettel">Kattintás és az egérmutató mozgatása a numerikus billentyűzettel</a></span> oldalt.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">Navigáció felhasználói felületeken</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td>
-<p class="p"><span class="key"><kbd>Tab</kbd></span> and</p>
+<p class="p"><span class="key"><kbd>Tab</kbd></span> és</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p>
 </td>
 <td>
@@ -100,7 +100,7 @@
 <td style="border-top-style: solid;"><p class="p">Listában vagy ikonnézetben a billentyűzetfókusz másik elemre mozgatása a kijelölt elem megváltoztatása nélkül.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Nyílbillentyűk</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+Nyílbillentyűk</span></p></td>
 <td style="border-top-style: solid;">
 <p class="p">Listában vagy ikonnézetben az összes elem kiválasztása a jelenleg kijelölt elemtől az újonnan fókuszba került elemig.</p>
 <p class="p">Fanézetben a gyermekekkel rendelkező elemek kibonthatók vagy összecsukhatók a gyermekek megjelenítéséhez vagy elrejtéséhez: a kibontáshoz nyomja meg a <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, az összecsukáshoz a <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span> billentyűkombinációt.</p>
@@ -132,8 +132,8 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;">
-<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or</p>
-<p class="p"><span class="key"><a href="keyboard-key-menu.html.hu" title="Mi az a Menü billentyű?"><kbd>Menu</kbd></a></span></p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> vagy</p>
+<p class="p"><span class="key"><a href="keyboard-key-menu.html.hu" title="Mi az a Menü billentyű?"><kbd>Menü</kbd></a></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p">Az aktuális kijelölés helyi menüjének megjelenítése, mintha a jobb egérgombbal kattintott volna.</p></td>
 </tr>
@@ -144,7 +144,7 @@
 <tr>
 <td style="border-top-style: solid;">
 <p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageUp</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">és</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageDown</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p">Lapokat használó felületen a balra vagy jobbra lévő lapra váltás.</p></td>
@@ -156,10 +156,8 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td>
-<p class="p">
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> or the</p>
-<p class="p"><span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> key
-    </p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> vagy a</p>
+<p class="p"><span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> billentyű</p>
 </td>
 <td><p class="p">Váltás a <span class="gui">Tevékenységek</span> áttekintés és az asztal között. Az áttekintésben kezdjen gépelni az alkalmazások, névjegyek és dokumentumok közti azonnali keresés megkezdéséhez.</p></td>
 </tr>
@@ -176,15 +174,12 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Give keyboard focus to the top bar. In the <span class="gui">Activities</span>
-      overview, switch keyboard focus between the top bar, dash, windows
-      overview, applications list, and search field. Use the arrow keys to
-      navigate.</p></td>
+<td style="border-top-style: solid;"><p class="p">Billentyűzetfókusz átadása a felső sávra. A <span class="gui">Tevékenységek</span> áttekintésben a billentyűzetfókusz átváltása a felső sáv, az indítópanel, az ablakok áttekintés, az alkalmazáslista és a keresőmező között. A nyílbillentyűk használatával navigálhat.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;">
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">és</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.hu" title="Váltás a munkaterületek között">Váltás a munkaterületek között</a></span>.</p></td>
@@ -199,8 +194,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.hu#notificationlist" title="The notification list">Open the
-    notification list.</a></span> Press <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.hu#notificationlist" title="Az értesítéslista">Az értesítéslista megnyitása.</a></span> A bezárásához nyomja meg az <span class="key"><kbd>Esc</kbd></span> billentyűt.</p></td>
 </tr>
 </table></div>
 </div></div>
@@ -225,9 +219,8 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;">
-<p class="p">
-      <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
+<p class="p">és</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.hu" title="Ablak másik munkaterületre mozgatása">Az aktuális ablak áthelyezése másik munkaterületre</a></span>.</p></td>

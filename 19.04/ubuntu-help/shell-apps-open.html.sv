@@ -89,6 +89,7 @@
 <div class="region"><div class="contents">
 <p class="p">Ett annat sätt att start ett program är att trycka <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, skriva in dess <span class="em">kommandonamn</span> och sedan trycka på <span class="key"><kbd>Retur</kbd></span>-tangenten.</p>
 <p class="p">För att till exempel starta <span class="app">Rhythmbox</span>, tryck <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> och skriv ”<span class="cmd">rhythmbox</span>” (utan citattecken). Namnet på programmet är kommandot som startar programmet.</p>
+<p class="p">Använd piltangenterna för att snabbt komma åt tidigare körda kommandon.</p>
 </div></div>
 </div></div>
 </div>

@@ -77,10 +77,9 @@
 </div></div></div></div>
 <p class="p">Para añadir un reloj del mundo:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the clock on the top bar.</p></li>
+<li class="steps"><p class="p">Pulse en el reloj en la barra superior.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Add world clock</span> link under the calendar to
-      launch <span class="app">Clocks</span>.</p>
+<p class="p">Pulse en el enlace<span class="gui">Añadir relojes de mundo…</span> debajo del calendario para lanzar <span class="app">Relojes</span>.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Si ya tiene uno o más relojes del mundo, pulse sobre uno y <span class="app">Relojes</span> se ejecutará.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">En la ventana de <span class="app">Relojes</span> pulse en el botón <span class="gui">Nuevo</span> <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> para añadir una ciudad nueva.</p></li>

@@ -79,9 +79,8 @@
 <p class="p">Jūs var klikšķināt vai vilkt, vienkārši paturot jūsu peles kursoru virs kontroles vai objekta ekrānā. Tas ir lietderīgi, ja jums ir grūti vienlaicīgi pārvietot peli un klikšķināt. Šī iespēja ir saukta par <span class="gui">virs-novietošanas</span> klikšķi jeb apstājas klikšķi.</p>
 <p class="p">Kad <span class="gui">virs-novietošanas</span> klikšķis ir aktivizēts, jūs varat novietot savu peles kursoru virs vadīklas, ļaut pelei nekustēties, un tad pagaidīt brīdi, līdz klikšķis tiks veikts jūsu vietā.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Klikšķa asistēšana</span> sadaļā <span class="gui">Norādīšana un klikšķināšana</span>.</p></li>
 <li class="steps"><p class="p">Pārslēdziet <span class="gui">Uzkavēšanās klikšķi</span> uz <span class="gui">|</span>.</p></li>

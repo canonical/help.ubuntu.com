@@ -2,7 +2,7 @@
 <html lang=de>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Drahtlose Verbindungen</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="de.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Drahtlose Verbindungen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -93,7 +93,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.de" title="Drahtlose Verbindungen">Funknetzwerk</a></span>, <span class="link"><a href="net-wired.html.de" title="Kabelverbindungen">Kabelgebunden</a></span>, <span class="link"><a href="net-problem.html.de" title="Netzwerkprobleme">Verbindungsprobleme</a></span>, <span class="link"><a href="net-browser.html.de" title="Webbrowser">Webbrowser</a></span>, <span class="link"><a href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail-Konten</a></span> …</span>
+<a href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.de" title="Wireless networking">Funknetzwerk</a></span>, <span class="link"><a href="net-wired.html.de" title="Wired networking">Kabelgebunden</a></span>, <span class="link"><a href="net-problem.html.de" title="Netzwerkprobleme">Verbindungsprobleme</a></span>, <span class="link"><a href="net-browser.html.de" title="Web browsers">Webbrowser</a></span>, <span class="link"><a href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail-Konten</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -103,7 +103,13 @@
 <a href="net-general.html.de" title="Netzwerk-Begriffe und Tipps">Netzwerk-Begriffe und Tipps</a><span class="desc"> — <span class="link"><a href="net-findip.html.de" title="Ihre IP-Adresse ermitteln">IP-Adresse herausfinden</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.de" title="Was bedeuten WEP und WPA?">Sicherheit mit WEP und WPA</a></span>, <span class="link"><a href="net-macaddress.html.de" title="Was ist eine MAC-Adresse?">MAC-Adressen</a></span>, <span class="link"><a href="net-proxy.html.de" title="Proxy-Einstellungen festlegen">Proxys</a></span> …</span>
 </li>
 <li class="links ">
-<a href="net-problem.html.de" title="Netzwerkprobleme">Netzwerkprobleme</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Fehlerbehandlung für Funknetzwerke</a></span>, <span class="link"><a href="net-wireless-find.html.de" title="Ich kann mein Funknetzwerk in der Liste nicht finden">Ihr Funknetzwerk suchen</a></span> …</span>
+<a href="net-problem.html.de" title="Netzwerkprobleme">Netzwerkprobleme</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.de" title="Ich kann mein Funknetzwerk in der Liste nicht finden">finding your Wi-Fi network</a></span>…
+    </span>
+</li>
+<li class="links ">
+<a href="status-icons.html.de#networkicons" title="Symbole der Netzwerkverwaltung">Symbole der Netzwerkverwaltung</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
 </li>
 </ul></div>
 </div></div>

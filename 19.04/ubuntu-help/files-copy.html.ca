@@ -76,12 +76,12 @@
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-steps"><h2><span class="title">Copiar i enganxar arxius</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Copiar i enganxar fitxers</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Seleccioneu el fitxer que voleu copiar fent-hi clic una vegada.</p></li>
-<li class="steps"><p class="p">Feu clic amb el botó dret i trieu <span class="gui">Copiar</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Feu clic amb el botó dret i trieu <span class="gui">Copia</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>.</p></li>
 <li class="steps"><p class="p">Aneu a una altra carpeta, on voleu posar la còpia del fitxer.</p></li>
-<li class="steps"><p class="p">Feu clic al botó del menú i trieu <span class="gui">Enganxar</span> per acabar de copiar l'arxiu, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span>. Ara hi haurà una còpia del fitxer a la carpeta original i un a l'altra carpeta.</p></li>
+<li class="steps"><p class="p">Feu clic al botó del menú i trieu <span class="gui">Enganxa</span> per acabar de copiar el fitxer, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span>. Ara hi haurà una còpia del fitxer a la carpeta original i un a l'altra carpeta.</p></li>
 </ol></div>
 </div>
 </div>
@@ -91,7 +91,7 @@
 <div class="title title-steps"><h2><span class="title">Tallar i enganxar fitxers per moure'ls</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Seleccioneu el fitxer que voleu moure fent clic una vegada.</p></li>
-<li class="steps"><p class="p">Feu clic amb el botó dret i trieu<span class="gui">Retallar</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Feu clic amb el botó dret i trieu <span class="gui">Retalla</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span>.</p></li>
 <li class="steps"><p class="p">Aneu a una altra carpeta, on vulgueu moure el fitxer.</p></li>
 <li class="steps"><p class="p">Feu clic al botó de menú de la barra d'eines i seleccioneu <span class="gui">Enganxar</span> per acabar de moure el fitxer, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span>. El fitxer s'eliminarà de la seva carpeta original i es mourà a l'altra carpeta.</p></li>
 </ol></div>
@@ -106,13 +106,13 @@
 <li class="steps"><p class="p">Feu clic a <span class="gui">Fitxers</span> a la barra superior, seleccioneu <span class="gui">Nova finestra</span> (o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>) per obrir una segona finestra. A la finestra nova, navegueu fins a la carpeta on voleu moure o copiar el fitxer.</p></li>
 <li class="steps">
 <p class="p">Feu clic i arrossegueu el fitxer des d'una finestra a una altra. Això <span class="em">el mourà</span> si el destí és al <span class="em">mateix</span> dispositiu, o el <span class="em">copiarà</span> si el destí està en un dispositiu <span class="em">diferent</span>.</p>
-<p class="p">Per exemple, si arrossegueu un fitxer des d'un llapis de memòria USB a la vostra carpeta d'inici, l'arxiu es copiarà perquè esteu arrossegant d'un dispositiu a un altre.</p>
+<p class="p">Per exemple, si arrossegueu un fitxer des d'un llapis de memòria USB a la vostra carpeta d'inici, el fitxer es copiarà perquè esteu arrossegant d'un dispositiu a un altre.</p>
 <p class="p">Podeu forçar el copiat mantenir premuda la tecla <span class="key"><kbd>Ctrl</kbd></span> mentre arrossegueu, o forçar-lo a moure's mantenint premuda la tecla<span class="key"><kbd>Shift</kbd></span> mentre arrossegueu.</p>
 </li>
 </ol></div>
 </div>
 </div>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">No podeu copiar o moure un arxiu en una carpeta que sigui de <span class="em">només lectura</span>. Algunes carpetes són de només lectura per evitar que es facin canvis al seu contingut. Podeu canviar que no siguin de només lectura <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Establir els permisos pel fitxer">canviant els permisos dels arxius</a></span>.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">No podeu copiar o moure un fitxer en una carpeta que sigui de <span class="em">només lectura</span>. Algunes carpetes són de només lectura per evitar que es facin canvis al seu contingut. Podeu canviar que no siguin de només lectura <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Establir els permisos pel fitxer">canviant els permisos dels fitxers</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

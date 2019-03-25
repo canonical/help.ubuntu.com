@@ -95,7 +95,10 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Ανάδυση του παραθύρου εντολών (για γρήγορη εκτέλεση εντολών)</p></td>
+<td style="border-top-style: solid;">
+<p class="p">Pop up command window (for quickly running commands).</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
+</td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Λογότυπο</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>

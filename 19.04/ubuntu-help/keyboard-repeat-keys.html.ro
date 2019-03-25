@@ -67,9 +67,9 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ro" title="Acces universal">Acces universal</a> › <a class="trail" href="a11y.html.ro#mobility" title="Afecțiuni de mobilitate">Afecțiuni de mobilitate</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,13 +82,12 @@
   disable this feature, or change how long it takes before key presses
   start repeating, or how quickly key presses repeat.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Repeat Keys</span> in the <span class="gui">Typing</span> section.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Acces universal</span> în bara laterală pentru a deschide panoul.</p></li>
+<li class="steps"><p class="p">Apăsați <span class="gui">Repetare taste</span> în secțiunea <span class="gui">Tastare</span>.</p></li>
 <li class="steps">
-<p class="p">Switch <span class="gui">Repeat Keys</span> to <span class="gui">OFF</span>.</p>
+<p class="p">Comutați <span class="gui">Repetare taste</span> la <span class="gui">OFF</span>.</p>
 <p class="p">Alternatively, adjust the <span class="gui">Delay</span> slider to control how long
       you have to hold a key down to begin repeating it, and adjust the
       <span class="gui">Speed</span> slider to control how quickly key presses repeat.</p>

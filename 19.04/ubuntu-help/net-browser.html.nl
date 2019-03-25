@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Webbrowsers</title>
+<title>Web browsers</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Webbrowsers</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Web browsers</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.nl" title="De Flash plug-in installeren"><span class="title">De Flash plug-in installeren</span><span class="linkdiv-dash"> — </span><span class="desc">Het kan zijn dat u Flash moet installeren om bepaalde websites met video's en interactieve webpagina's te kunnen bekijken.</span></a></div></div>
@@ -79,7 +79,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — <span class="link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos</a></span>, <span class="link"><a href="net-wired.html.nl" title="Bekabeld netwerk">bekabeld</a></span>, <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">verbindingsproblemen</a></span>, <span class="link"><a href="net-browser.html.nl" title="Webbrowsers">webbrowsen</a></span>, <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">e-mailaccounts</a></span>…</span>
+<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — <span class="link"><a href="net-wireless.html.nl" title="Wireless networking">Draadloos</a></span>, <span class="link"><a href="net-wired.html.nl" title="Wired networking">bekabeld</a></span>, <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">verbindingsproblemen</a></span>, <span class="link"><a href="net-browser.html.nl" title="Web browsers">webbrowsen</a></span>, <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">e-mailaccounts</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

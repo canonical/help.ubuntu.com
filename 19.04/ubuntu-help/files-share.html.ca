@@ -81,8 +81,8 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu l'aplicació <span class="app">Fitxers </span> des de la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span>.</p></li>
 <li class="steps"><p class="p">Localitzeu el fitxer que voleu transferir.</p></li>
-<li class="steps"><p class="p">Feu clic sobre el fitxer amb el botó de la dreta i seleccioneu <span class="gui">Enviar a…</span>. Apareixerà una finestra on redactar el correu electrònic amb el fitxer adjunt.</p></li>
-<li class="steps"><p class="p">Feu clic <span class="gui">A</span> per triar un contacte, o entreu una adreça de correu electrònic on vulgueu enviar l'arxiu. Ompliu <span class="gui">Assumpte</span> i el cos del missatge segons sigui necessari i feu clic <span class="gui">Enviar</span>.</p></li>
+<li class="steps"><p class="p">Feu clic sobre el fitxer amb el botó de la dreta i seleccioneu <span class="gui">Envia a…</span>. Apareixerà una finestra on redactar el correu electrònic amb el fitxer adjunt.</p></li>
+<li class="steps"><p class="p">Feu clic <span class="gui">A</span> per triar un contacte, o entreu una adreça de correu electrònic on vulgueu enviar el fitxer. Ompliu <span class="gui">Assumpte</span> i el cos del missatge segons sigui necessari i feu clic <span class="gui">Envia</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Podeu enviar diversos fitxers alhora. Seleccioneu-los mantenint premut <span class="key"><kbd>Ctrl</kbd></span> mentre feu clic als fitxers, aleshores feu clic amb el botó dret a qualsevol fitxer seleccionat.</p></div></div></div></div>
@@ -94,7 +94,7 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html.ca" title="Compartició">Compartició</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir arxius per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir arxius multimèdia</a></span>…</span>
+<a href="sharing.html.ca" title="Compartició">Compartició</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir fitxers per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir fitxers multimèdia</a></span>…</span>
 </li>
 <li class="links "><a href="files.html.ca#more-file-tasks" title="Més tasques relacionades amb fitxers">Més tasques relacionades amb fitxers</a></li>
 </ul></div>

@@ -74,7 +74,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Compartiu la vostra música, fotografies i vídeos</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Podeu navegar, cercar i reproduir els arxius multimèdia de l'ordinador mitjançant un dispositiu <span class="sys">UPnP</span> o <span class="sys">DLNA</span> activat com un telèfon, TV o consola de joc. Configureu <span class="gui">Compartir Multimèdia</span> per permetre que aquests dispositius accedeixin a les carpetes que contenen música, fotos i vídeos.</p>
+<p class="p">Podeu navegar, cercar i reproduir els fitxers multimèdia de l'ordinador mitjançant un dispositiu <span class="sys">UPnP</span> o <span class="sys">DLNA</span> activat com un telèfon, TV o consola de joc. Configureu <span class="gui">Compartir Multimèdia</span> per permetre que aquests dispositius accedeixin a les carpetes que contenen música, fotos i vídeos.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Heu de tenir el paquet <span class="app">Rygel</span> instal·lat per a que <span class="gui">Compartir Multimèdia</span> sigui visible.</p>
 <p class="p"><span class="link-button link"><a href="apt:rygel" title="apt:rygel">Instal·lar Rygel</a></span></p>
@@ -89,13 +89,13 @@
 <li class="steps"><p class="p">Seleccioneu <span class="gui">Compartir multimèdia</span>.</p></li>
 <li class="steps"><p class="p">Canvieu <span class="gui">Compartir multimèdia</span> a <span class="gui">ON</span>.</p></li>
 <li class="steps"><p class="p">Per defecte, <span class="file">Música</span>, <span class="file">Imatges</span> i <span class="file">Vídeos</span> es comparteixen. Per eliminar-ne algun, feu clic a <span class="gui">×</span> al costat del nom de la carpeta.</p></li>
-<li class="steps"><p class="p">Per afegir una altra carpeta, feu clic a <span class="gui">+</span> per obrir la finestra <span class="gui">Triar una carpeta</span>. Navegueu <span class="em">dins de</span> la carpeta desitjada i feu clic a <span class="gui">Obrir</span>.</p></li>
+<li class="steps"><p class="p">Per afegir una altra carpeta, feu clic a <span class="gui">+</span> per obrir la finestra <span class="gui">Trieu una carpeta</span>. Navegueu <span class="em">dins de</span> la carpeta desitjada i feu clic a <span class="gui">Obrir</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">×</span>. Ara podreu navegar o reproduir els arxius multimèdia a les carpetes que heu seleccionat mitjançant un dispositiu extern.</p></li>
 </ol></div></div></div>
 </div>
 <div id="networks" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Xarxes</span></h2></div>
-<div class="region"><div class="contents"><p class="p">La secció <span class="gui">Xarxes</span> llista les xarxes amb què està connectat actualment. Utilitzeu l'interruptor <span class="gui">ON | OFF</span> al costat de cadascuna per triar on es poden compartir els arxius.</p></div></div>
+<div class="region"><div class="contents"><p class="p">La secció <span class="gui">Xarxes</span> llista les xarxes amb què està connectat actualment. Utilitzeu l'interruptor <span class="gui">ON | OFF</span> al costat de cadascuna per triar on es poden compartir els fitxers.</p></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -103,10 +103,10 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html.ca" title="Compartició">Compartició</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir arxius per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir arxius multimèdia</a></span>…</span>
+<a href="sharing.html.ca" title="Compartició">Compartició</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir fitxers per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir fitxers multimèdia</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html.ca" title="Configuració de l'ús compartit">Configuració de l'ús compartit</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.ca" title="Compartir el control sobre Bluetooth">Compartir bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.ca" title="Compartiu els vostres arxius personals">Compartir els arxius personals</a></span>, <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir la pantalla</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir els arxius multimèdia</a></span>…</span>
+<a href="prefs-sharing.html.ca" title="Configuració de l'ús compartit">Configuració de l'ús compartit</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.ca" title="Compartir el control sobre Bluetooth">Compartir bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.ca" title="Compartiu els vostres fitxers personals">Compartir els fitxers personals</a></span>, <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir la pantalla</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir els fitxers multimèdia</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

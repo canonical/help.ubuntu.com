@@ -84,7 +84,7 @@
 <div id="system-monitor" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ellenőrzés a Rendszerfigyelővel</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A szabad lemezhely és lemezkapacitás ellenőrzése a <span class="gui">Rendszerfigyelő</span> használatával:</p>
+<p class="p">A szabad lemezhely és lemezkapacitás ellenőrzése a <span class="app">Rendszerfigyelő</span> használatával:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="app">Rendszerfigyelő</span> alkalmazást a <span class="gui">Tevékenységek</span> áttekintésben.</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Fájlrendszerek</span> lapot a rendszer partícióinak és lemezhasználatának megjelenítéséhez. Az információk az <span class="gui">Összes</span>, <span class="gui">Szabad</span>, <span class="gui">Elérhető</span> és <span class="gui">Használt</span> lemezterület szerint jelennek meg.</p></li>

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.ta" title="வயர்டு பிணைய அமைப்பு">வயர்டு பிணைய அமைப்பு</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.ta" title="Wired networking">Wired networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">வயர்டு (ஈத்தர்நெட்) பிணையத்திற்கு இணைத்தல்</span></h1></div>
@@ -87,7 +87,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html.ta" title="வயர்டு பிணைய அமைப்பு">வயர்டு பிணைய அமைப்பு</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.ta" title="வயர்டு (ஈத்தர்நெட்) பிணையத்திற்கு இணைத்தல்">வயர்டு இணைய இணைப்புகள்</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ta" title="ஒரு நிலையான IP முகவரியுடனான ஒரு இணைப்பை உருவாக்குதல்">நிலையான IP முகவரிகள்</a></span>…</span>
+<a href="net-wired.html.ta" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.ta" title="வயர்டு (ஈத்தர்நெட்) பிணையத்திற்கு இணைத்தல்">வயர்டு இணைய இணைப்புகள்</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ta" title="ஒரு நிலையான IP முகவரியுடனான ஒரு இணைப்பை உருவாக்குதல்">நிலையான IP முகவரிகள்</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.ro" title="Sharing">Sharing</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="prefs-sharing.html.ro" title="Configurări de partajare">Configurări de partajare</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-sharing.html.ro" title="Sharing Settings">Sharing Settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Rețea, web și email">Rețea, web și email</a> » <a class="trail" href="sharing.html.ro" title="Sharing">Sharing</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -118,17 +118,17 @@
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html.ro" title="Sharing">Sharing</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html.ro" title="Share your desktop">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html.ro" title="Share files by email">Share files by email</a></span>,
+<a href="prefs-sharing.html.ro" title="Configurări de partajare">Configurări de partajare</a><span class="desc"> — 
+      <span class="link"><a href="sharing-bluetooth.html.ro" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.ro" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.ro" title="Share your desktop">Screen sharing</a></span>,
       <span class="link"><a href="sharing-media.html.ro" title="Share your music, photos and videos">Media sharing</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html.ro" title="Sharing Settings">Sharing Settings</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html.ro" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.ro" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html.ro" title="Share your desktop">Screen sharing</a></span>,
+<a href="sharing.html.ro" title="Sharing">Sharing</a><span class="desc"> — 
+      <span class="link"><a href="sharing-desktop.html.ro" title="Share your desktop">Desktop sharing</a></span>,
+      <span class="link"><a href="files-share.html.ro" title="Share files by email">Share files by email</a></span>,
       <span class="link"><a href="sharing-media.html.ro" title="Share your music, photos and videos">Media sharing</a></span>…
     </span>
 </li>

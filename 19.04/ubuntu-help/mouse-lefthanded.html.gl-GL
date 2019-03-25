@@ -76,10 +76,9 @@
 <div class="contents">
 <p class="p">Pode intercambiar o comportamento dos botóns esquerdo e dereito do seu rato ou «touchapd» para facelo máis cómodo para os zurdos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>  e comoece a escribir <span class="gui">Preferencias</span>.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Preferencias</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Dispositivos</span> na barra lateral.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Mouse &amp; Touchpad</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">General</span> section, click to switch
       <span class="gui">Primary button</span> to <span class="gui">Right</span>.</p></li>

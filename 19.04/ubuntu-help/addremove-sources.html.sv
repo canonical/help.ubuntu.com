@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Klicka på <span class="gui">Lägg till</span> och skriv in APT-raden för arkivet. Detta bör finnas tillgängligt från arkivets webbplats, och bör se ut så här:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Lägg till källa</span> och stäng sedan fönstret <span class="app">Program &amp; uppdateringar</span>. <span class="app">Programvara för Ubuntu</span> kommer sedan söka igenom dina programkällor efter nya uppdateringar.</p></li>
@@ -98,7 +98,7 @@
 <p class="p">Förrådet Canonical-partners erbjuder vissa proprietära program som inte kostar något att använda men bygger på sluten källkod. Dessa inkluderar program som <span class="app">Adobe Flash Plugin</span>. Program i det här förrådet visas bland sökresultaten i <span class="app">Programvara för Ubuntu</span> men kommer inte att kunna installeras förrän förrådet är aktiverat.</p>
 <p class="p">För att aktivera förrådet, följ stegen ovanför för att öppna fliken <span class="gui">Övriga program</span> i <span class="app">Program &amp; uppdateringar</span>. Om du ser förrådet <span class="gui">Canonical Partners</span> i listan, kontrollera att det är förbockat och stäng sedan fönstret <span class="app">Program &amp; uppdateringar</span>. Om du inte ser det, klicka på <span class="gui">Add</span> och mata in:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Klicka på <span class="gui">Lägg till källa</span> och stäng sedan fönstret <span class="app">Program &amp; uppdateringar</span>. Vänta en stund medan <span class="app">Programvara för Ubuntu</span> laddar ner förrådsinformationen.</p>
 </div></div>

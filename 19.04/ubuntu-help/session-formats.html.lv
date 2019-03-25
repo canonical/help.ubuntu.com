@@ -80,10 +80,7 @@
 <li class="steps"><p class="p">Atbildiet uz uzvedni <span class="gui">Sesija jāpārstartē, lai izmaiņas stātos spēkā</span>, spiežot <span class="gui">Pārstartēt tagad</span> vai spiežot pogu <span class="gui">×</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Kad izvēlēts reģions, pa labi no saraksta redzami datuma un citu formātu piemēri. Lai gan šajos piemēros tas nav redzams, reģions nosaka arī dienu, ar kuru sākas nedēļa kalendāros.</p>
-<div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">If there are multiple user accounts on your system, there is a separate
-    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
-    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
-    the two instances.</p></div></div></div></div>
+<div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja jūsu sistēmā ir vairāki lietotāju konti, ierakstīšanās ekrānā ir atsevišķs <span class="gui">Reģions un valoda</span> panelis. Spiediet pogu <span class="gui">Ierakstīšanās ekrāns</span> augšējā labajā pusē lai pārslēgtos starp divām instancēm.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

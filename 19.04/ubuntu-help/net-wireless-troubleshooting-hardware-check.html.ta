@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a> » <a class="trail" href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ta" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> › <a class="trail" href="hardware.html.ta#problems" title="பொதுவான பிரச்சினைகள்">சிக்கல்கள்</a> » <a class="trail" href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் பிணைய சிக்கல்தீர்வி</a> » </div>
 </div>
@@ -117,7 +117,12 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">USB வயர்லெஸ் அடாப்ட்டர்</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">உங்கள் கணினியின் போர்ட்டில் செருகப்படக்கூடிய USB வயர்லெஸ் அடாப்ட்டர்கள் அரிது. அவற்றை நேரடியாக USB போர்ட்டில் செருக முடியும் அல்லது USB கேபிள் மூலம் இணைக்கப்படலாம். 3G/மொபைல் பிராட்பேன்ட் அடாப்ட்டர்கள் வயர்லெஸ் (wifi) அடாப்ட்டர்களைப் போலவே இருக்கும், ஆகவே உங்களிடம் இருப்பது USB வயர்லெஸ் அடாப்ட்டர் என நீங்கள் நினைத்தால், அது உண்மையில்ஒரு 3G அடாப்ட்டர் அல்ல என்பதை உறுதிப்படுத்திக் கொள்ளவும். உங்கள் USB வயர்லெஸ் அடாப்ட்டர் அடையாளம் காணப்பட்டதா என சோதிக்க:</p>
+<p class="p">Wireless adapters that plug into a USB port on your computer are less
+  common. They can plug directly into a USB port, or may be connected by a USB
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
+  adapters, so if you think you have a USB wireless adapter, double-check that
+  it is not actually a 3G adapter. To check if your USB wireless adapter was
+  recognized:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">ஒரு முனையத்தைத் திறந்து <span class="cmd">lsusb</span> என தட்டச்சு செய்து <span class="key"><kbd>Enter</kbd></span> ஐ அழுத்தவும்.</p></li>
 <li class="steps">

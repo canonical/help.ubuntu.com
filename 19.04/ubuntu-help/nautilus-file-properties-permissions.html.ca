@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Podeu utilitzar els permisos de fitxer per controlar qui pot veure i editar fitxers de la vostra propietat. Per visualitzar i establir els permisos d'un fitxer, feu clic amb el botó dret i seleccioneu-lo <span class="gui">Propietats</span>, aleshores seleccioneu la pestanya <span class="gui">Permisos</span>.</p>
-<p class="p">Veure<span class="link"><a href="#files" title="Fitxers">Fitxers</a></span> i <span class="link"><a href="#folders" title="Carpetes">Carpetes</a></span> a continuació es detallen els tipus de permisos que podeuestablir.</p>
+<p class="p">Veure <span class="link"><a href="#files" title="Fitxers">Fitxers</a></span> i <span class="link"><a href="#folders" title="Carpetes">Carpetes</a></span> a continuació es detallen els tipus de permisos que podeu establir.</p>
 </div>
 <div id="files" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Fitxers</span></h2></div>
@@ -97,7 +97,7 @@
 <dt class="terms"><span class="gui">Crear i eliminar fitxers</span></dt>
 <dd class="terms"><p class="p">L'usuari tindrà accés complet a la carpeta, inclosa l'obertura, creació i eliminació de fitxers.</p></dd>
 </dl></div></div></div>
-<p class="p">També podeu establir ràpidament els permisos de fitxers de tots els fitxers de la carpeta fent clic <span class="gui">Canviar els permisos dels fitxers adjunts</span>. Utilitzeu les llistes desplegables per ajustar els permisos dels fitxers o carpetes continguts i feu clic a <span class="gui">Canviar</span>. Els permisos també s'apliquen als fitxers i carpetes en subcarpetes, a qualsevol profunditat.</p>
+<p class="p">També podeu establir ràpidament els permisos de fitxers de tots els fitxers de la carpeta fent clic <span class="gui">Canviar els permisos dels fitxers adjunts</span>. Utilitzeu les llistes desplegables per ajustar els permisos dels fitxers o carpetes continguts i feu clic a <span class="gui">Canvia</span>. Els permisos també s'apliquen als fitxers i carpetes en subcarpetes, a qualsevol profunditat.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

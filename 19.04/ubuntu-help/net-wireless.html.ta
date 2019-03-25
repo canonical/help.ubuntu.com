@@ -2,7 +2,7 @@
 <html lang=ta>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>வயர்லெஸ் பிணையமாக்கம்</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="ta.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">வயர்லெஸ் பிணையமாக்கம்</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -97,14 +97,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ்</a></span>, <span class="link"><a href="net-wired.html.ta" title="வயர்டு பிணைய அமைப்பு">வயர்டு</a></span>, <span class="link"><a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">இணைப்பு சிக்கல்கள்</a></span>, <span class="link"><a href="net-browser.html.ta" title="வலை உலாவிகள்">வலை உலாவல்</a></span>, <span class="link"><a href="net-email.html.ta" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் கணக்குகள்</a></span>…</span>
+<a href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ta" title="Wireless networking">வயர்லெஸ்</a></span>, <span class="link"><a href="net-wired.html.ta" title="Wired networking">வயர்டு</a></span>, <span class="link"><a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">இணைப்பு சிக்கல்கள்</a></span>, <span class="link"><a href="net-browser.html.ta" title="Web browsers">வலை உலாவல்</a></span>, <span class="link"><a href="net-email.html.ta" title="மின்னஞ்சல் &amp; மின்னஞ்சல் மென்பொருள்">மின்னஞ்சல் கணக்குகள்</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html.ta" title="I can’t see my wireless network in the list">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span>
+<a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.ta" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span>
+</li>
+<li class="links ">
+<a href="status-icons.html.ta#networkicons" title="பிணைய நிர்வாகி சின்னங்கள்">பிணைய நிர்வாகி சின்னங்கள்</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
 </li>
 <li class="links ">
 <a href="net-general.html.ta" title="பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்">பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்</a><span class="desc"> — <span class="link"><a href="net-findip.html.ta" title="உங்கள் IP முகவரியை கண்டுபிடித்தல்">உங்கள் IP முகவரியைக் கண்டுபிடித்தல்</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ta" title="WEP மற்றும் WPA என்றால் என்ன?">WEP &amp; WPA பாதுகாப்பு</a></span>, <span class="link"><a href="net-macaddress.html.ta" title="MAC முகவரி என்றால் என்ன?">MAC முகவரிகள்</a></span>, <span class="link"><a href="net-proxy.html.ta" title="பதிலி அமைவுகளை வரையறுத்தல்">பதிலிகள்</a></span>…</span>

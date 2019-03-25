@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Templates for commonly-used document types</title>
+<title>Skabeloner til almindelige dokumenttyper</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#faq" title="Tips og spørgsmål">Tips og spørgsmål</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Templates for commonly-used document types</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Skabeloner til almindelige dokumenttyper</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you often create documents based on the same content, you might
@@ -94,7 +94,7 @@
       templates will be listed in the submenu.</p></li>
 <li class="steps"><p class="p">Choose your desired template from the list.</p></li>
 <li class="steps"><p class="p">Double-click the file to open it and start editing. You may wish to
-      <span class="link"><a href="files-rename.html.da" title="Rename a file or folder">rename the file</a></span> when you are
+      <span class="link"><a href="files-rename.html.da" title="Omdøb en fil eller mappe">rename the file</a></span> when you are
       finished.</p></li>
 </ol></div>
 </div></div>

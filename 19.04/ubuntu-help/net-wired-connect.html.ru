@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Справка"></span></span> Руководство пользователя настольного выпуска Ubuntu</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.ru" title="Проводные сети">Проводные сети</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Справка"></span></span> Руководство пользователя настольного выпуска Ubuntu</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.ru" title="Wired networking">Wired networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Подключение к проводной (Ethernet) сети</span></h1></div>
@@ -87,7 +87,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html.ru" title="Проводные сети">Проводные сети</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.ru" title="Подключение к проводной (Ethernet) сети">Проводные соединения с Интернетом</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ru" title="Создание соединения с фиксированным IP-адресом">статические IP-адреса</a></span>…</span>
+<a href="net-wired.html.ru" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.ru" title="Подключение к проводной (Ethernet) сети">Проводные соединения с Интернетом</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ru" title="Создание соединения с фиксированным IP-адресом">статические IP-адреса</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

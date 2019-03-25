@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Common problems">Problemer</a> » <a class="trail" href="power.html.da#problems" title="Problemer">Power problems</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="power.html.da#problems" title="Problemer">Power problems</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Common problems">Problemer</a> » <a class="trail" href="hardware-problems-graphics.html.da" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="hardware-problems-graphics.html.da" title="Skærmproblemer">Skærmproblemer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -77,7 +77,7 @@
 resume it, you may find that it does not work as you expected. This could be
 because suspend is not supported properly by your hardware.</p></div>
 <div id="resume" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">My computer is suspended and is not resuming</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Min computer hviler og genoptager ikke</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">If you suspend your computer and then press a key or click the mouse, it
   should wake up and display a screen asking for your password. If this does
@@ -101,7 +101,7 @@ because suspend is not supported properly by your hardware.</p></div>
 <p class="p">If you suspend your computer and then resume it again, you
   may find that your internet connection, mouse, or some other device does not
   work properly. This could be because the driver for the device does not
-  properly support suspend. This is a <span class="link"><a href="hardware-driver.html.da" title="What is a driver?">problem with the driver</a></span> and not the device
+  properly support suspend. This is a <span class="link"><a href="hardware-driver.html.da" title="Hvad er et drev?">problem with the driver</a></span> and not the device
   itself.</p>
 <p class="p">If the device has a power switch, try turning it off and then on again. In
   most cases, the device will start working again. If it connects via a USB
@@ -121,7 +121,7 @@ because suspend is not supported properly by your hardware.</p></div>
 <a href="power.html.da#problems" title="Problemer">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html.da" title="Screen problems">Screen problems</a><span class="desc"> — 
+<a href="hardware-problems-graphics.html.da" title="Skærmproblemer">Skærmproblemer</a><span class="desc"> — 
       Troubleshoot screen and graphics problems.
     </span>
 </li>
@@ -131,15 +131,15 @@ because suspend is not supported properly by your hardware.</p></div>
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
+<a href="hardware-driver.html.da" title="Hvad er et drev?">Hvad er et drev?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
+    attached to it.</span>
+</li>
+<li class="links ">
 <a href="power-nowireless.html.da" title="I have no wireless network when I wake up my computer">I have no wireless network when I wake up my computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
 <li class="links ">
 <a href="power-suspend.html.da" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
-</li>
-<li class="links ">
-<a href="hardware-driver.html.da" title="What is a driver?">What is a driver?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
-    attached to it.</span>
 </li>
 <li class="links ">
 <a href="power-closelid.html.da" title="Why does my computer turn off when I close the lid?">Why does my computer turn off when I close the lid?</a><span class="desc"> — Laptops go to sleep when you close the lid, in order to save

@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a> » <a class="trail" href="net-wireless-troubleshooting.html.el" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html.el" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.el" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » <a class="trail" href="net-wireless-troubleshooting.html.el" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Ανιχνευτής προβλημάτων ασύρματου δικτύου</a> » </div>
 </div>
@@ -117,7 +117,12 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ασύρματος προσαρμογέας USB</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Οι ασύρματοι προσαρμογείς που συνδέονται σε μια θύρα USB στον υπολογιστή σας είναι λιγότερο συνηθισμένοι. Μπορούν να συνδεθούν άμεσα σε μια θύρα USB, ή μπορούν να συνδεθούν με ένα καλώδιο USB. Οι προσαρμογείς ευρυζωνικού 3G/κινητού φαίνονται αρκετά παρόμοιοι με ασύρματους (wifi) προσαρμογείς, έτσι εάν νομίζετε ότι έχετε έναν ασύρματο προσαρμογέα USB, διπλοελέγξτε ότι δεν είναι στην πραγματικότητα ένας προσαρμογέας 3G. Για να ελέγξετε εάν ο ασύρματος προσαρμογέας σας USB αναγνωρίστηκε:</p>
+<p class="p">Wireless adapters that plug into a USB port on your computer are less
+  common. They can plug directly into a USB port, or may be connected by a USB
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
+  adapters, so if you think you have a USB wireless adapter, double-check that
+  it is not actually a 3G adapter. To check if your USB wireless adapter was
+  recognized:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε ένα τερματικό, πληκτρολογήστε <span class="cmd">lsusb</span> και πατήστε <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="steps">

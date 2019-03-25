@@ -70,7 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Eliminar fitxers i carpetes.</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Si ja no voleu un arxiu o una carpeta, podeu suprimir-lo. Quan suprimiu un ítem, es desplaça a la carpeta anomenada <span class="gui">Paperera</span>, on s'emmagatzema fins que es buidi la paperera. Podeu <span class="link"><a href="files-recover.html.ca" title="Recupera un fitxer de la Paperera">restaurar elements</a></span> de la <span class="gui">Paperera</span> a la seva ubicació original si decidiu que els necessiteu o si els vàreu eliminar accidentalment.</p>
+<p class="p">Si ja no voleu un fitxer o una carpeta, podeu suprimir-lo. Quan suprimiu un ítem, es desplaça a la carpeta anomenada <span class="gui">Paperera</span>, on s'emmagatzema fins que es buidi la paperera. Podeu <span class="link"><a href="files-recover.html.ca" title="Recupera un fitxer de la Paperera">restaurar elements</a></span> de la <span class="gui">Paperera</span> a la seva ubicació original si decidiu que els necessiteu o si els vàreu eliminar accidentalment.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Per enviar un fitxer a la paperera:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -78,7 +78,7 @@
 <li class="steps"><p class="p">Premeu <span class="key"><kbd>Esborrar</kbd></span> al teclat. Com alternativa, arrossegueu l'element a la <span class="gui">Paperera</span> a la barra lateral.</p></li>
 </ol></div>
 </div></div>
-<p class="p">El fitxer es traslladarà a la paperera i se us presentarà una opció<span class="gui">Desfer</span> l'esborrat. El botó <span class="gui">Desfer</span> apareix uns segons. Si seleccioneu <span class="gui">Desfer</span>, el fitxer es restaurarà a la seva ubicació original.</p>
+<p class="p">El fitxer es traslladarà a la paperera i se us presentarà una opció <span class="gui">Desfés</span> l'esborrat. El botó <span class="gui">Desfés</span> apareix uns segons. Si seleccioneu <span class="gui">Desfés</span>, el fitxer es restaurarà a la seva ubicació original.</p>
 <p class="p">Per eliminar els fitxers permanentment i alliberar espai al disc a l'ordinador, heu de buidar la paperera. Per buidar la paperera, feu clic amb el botó de la dreta <span class="gui">Paperera</span> a la barra lateral i seleccioneu <span class="gui">Buida la paperera</span>.</p>
 </div>
 <div id="permanent" class="sect"><div class="inner">

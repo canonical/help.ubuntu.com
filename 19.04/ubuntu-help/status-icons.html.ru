@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.ru#universalicons" title="Значки меню специальных возможностей">Значки меню специальных возможностей</a></li>
 <li class="links "><a href="status-icons.html.ru#audioicons" title="Значки индикатора громкости">Значки индикатора громкости</a></li>
 <li class="links "><a href="status-icons.html.ru#bluetoothicons" title="Значки диспетчера Bluetooth">Значки диспетчера Bluetooth</a></li>
-<li class="links "><a href="status-icons.html.ru#networkicons" title="Значки диспетчера сети">Значки диспетчера сети</a></li>
+<li class="links ">
+<a href="status-icons.html.ru#networkicons" title="Значки диспетчера сети">Значки диспетчера сети</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
 <li class="links "><a href="status-icons.html.ru#batteryicons" title="Значки диспетчера питания">Значки диспетчера питания</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Значки диспетчера сети</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Сотовое соединение</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,21 @@
 <td><p class="p">Очень низкий уровень сигнала.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Смотрите также</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.ru" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ru" title="Подключение к беспроводной сети">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ru" title="Подключение к скрытой беспроводной сети">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ru" title="Почему беспроводное соединение постоянно прерывается?">Wi-Fi disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Значки диспетчера питания</span></h2></div>

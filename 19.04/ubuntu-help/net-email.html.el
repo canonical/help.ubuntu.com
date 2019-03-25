@@ -78,7 +78,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html.el" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
+<a href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html.el" title="Wireless networking">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html.el" title="Wired networking">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html.el" title="Web browsers">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

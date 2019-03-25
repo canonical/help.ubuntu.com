@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Kliknij przycisk <span class="gui">Dodaj</span> i wpisz wiersz APT dla repozytorium. Powinien być dostępny na stronie internetowej repozytorium i wyglądać podobnie do tego:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj źródło</span>, a następnie zamknij okno <span class="app">Oprogramowanie i aktualizacje</span>. <span class="app">Menedżer oprogramowania Ubuntu</span> wyszuka nowe aktualizacje w źródłach.</p></li>
@@ -98,7 +98,7 @@
 <p class="p">Repozytorium Partnerów Canonical zawiera własnościowe programy dostępne bezpłatnie, ale których kod źródłowy jest zamknięty. Jest to między innymi wtyczka <span class="app">Adobe Flash</span>. Oprogramowanie w tym repozytorium będzie wyświetlane w wynikach wyszukiwania <span class="app">Menedżera oprogramowania Ubuntu</span>, ale nie będzie można z niego instalować, jeśli nie zostanie włączone.</p>
 <p class="p">Aby włączyć repozytorium, skorzystaj z instrukcji powyżej, aby otworzyć kartę <span class="gui">Inne oprogramowanie</span> w oknie <span class="app">Oprogramowanie i aktualizacje</span>. Jeśli repozytorium <span class="gui">Partnerzy Canonical</span> jest na liście, to upewnij się, że jest zaznaczone, a następnie zamknij okno <span class="app">Oprogramowanie i aktualizacje</span>. Jeśli go nie ma, to kliknij przycisk <span class="gui">Dodaj</span> i wpisz:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Kliknij przycisk <span class="gui">Dodaj źródło</span>, a następnie zamknij okno <span class="app">Oprogramowanie i aktualizacje</span>. Poczekaj chwilę, aż <span class="app">Menedżer oprogramowania Ubuntu</span> pobierze informacje o repozytorium.</p>
 </div></div>

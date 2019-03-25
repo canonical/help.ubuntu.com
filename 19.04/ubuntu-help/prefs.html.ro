@@ -2,7 +2,7 @@
 <html lang=ro>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>User &amp; system settings</title>
+<title>Utilizatori și configurări de sistem</title>
 <link rel="stylesheet" type="text/css" href="ro.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">User &amp; system settings</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Utilizatori și configurări de sistem</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
@@ -76,6 +76,23 @@
       <span class="link"><a href="color-whyimportant.html.ro" title="Why is color management important?">Why is this important</a></span>,
       <span class="link"><a href="color.html.ro#profiles" title="Color profiles">Color profiles</a></span>,
       <span class="link"><a href="color.html.ro#calibration" title="Calibration">How to calibrate a device</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="prefs-sharing.html.ro" title="Configurări de partajare">Configurări de partajare</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="sharing-bluetooth.html.ro" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.ro" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.ro" title="Share your desktop">Screen sharing</a></span>,
+      <span class="link"><a href="sharing-media.html.ro" title="Share your music, photos and videos">Media sharing</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="power.html.ro" title="Consum și baterie">Consum și baterie</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="power-status.html.ro" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.ro" title="What happens when I suspend my computer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.ro" title="Why does my screen go dim after a while?">screen dimming</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -89,12 +106,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-display.html.ro" title="Display &amp; screen">Display &amp; screen</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="look-background.html.ro" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.ro" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.ro" title="Set screen brightness">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.ro" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.ro" title="Change the desktop and lock screen backgrounds">Fundal</a></span>, <span class="link"><a href="look-resolution.html.ro" title="Schimbați rezoluția sau orientarea ecranului">dimensiune și orientare</a></span>, <span class="link"><a href="display-brightness.html.ro" title="Set screen brightness">luminozitate</a></span>, <span class="link"><a href="display-night-light.html.ro" title="Adjust the color temperature of your screen">temperatura culorilor</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.ro" title="Keyboard">Keyboard</a></div>
@@ -121,14 +133,6 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="power.html.ro" title="Power &amp; battery">Power &amp; battery</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html.ro" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.ro" title="What happens when I suspend my computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.ro" title="Why does my screen go dim after a while?">screen dimming</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="privacy.html.ro" title="Privacy Settings">Privacy Settings</a></div>
 <div class="desc"><span class="desc">
       <span class="link"><a href="privacy-screen-lock.html.ro" title="Automatically lock your screen">Screen lock</a></span>,
@@ -142,15 +146,6 @@
       <span class="link"><a href="session-language.html.ro" title="Change which language you use">Language</a></span>,
       <span class="link"><a href="session-formats.html.ro" title="Change date and measurement formats">region and formats</a></span>,
       <span class="link"><a href="keyboard-layouts.html.ro" title="Use alternative keyboard layouts">keyboard layouts</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-sharing.html.ro" title="Sharing Settings">Sharing Settings</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="sharing-bluetooth.html.ro" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.ro" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html.ro" title="Share your desktop">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html.ro" title="Share your music, photos and videos">Media sharing</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">

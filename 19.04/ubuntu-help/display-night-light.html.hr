@@ -85,7 +85,7 @@
 <p class="p">Set the <span class="gui">Night Light</span> switch to <span class="gui">ON</span>. The screen
       color will follow the sunset and sunrise times for your location. Click
       the <span class="gui">Manual</span> button to set the times to a custom schedule.</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="link"><a href="shell-introduction.html.hr" title="Uvod u GNOME">top bar</a></span> shows when
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="link"><a href="shell-introduction.html.hr" title="Visual overview of GNOME">top bar</a></span> shows when
         <span class="gui">Night Light</span> is active. It can be temporarily disabled from
         the system menu.</p></div></div></div></div>
 </li>

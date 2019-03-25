@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="user-accounts.html.ro" title="User accounts">Users</a> › <a class="trail" href="user-accounts.html.ro#manage" title="Manage user accounts">Accounts</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="user-accounts.html.ro" title="User accounts">Users</a> › <a class="trail" href="user-accounts.html.ro#manage" title="Manage user accounts">Accounts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Log in automatically</span></h1></div>
@@ -100,8 +100,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vezi și</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-exit.html.ro" title="Log out, power off or switch users">Log out, power off or switch users</a><span class="desc"> — Learn how to leave your user account, by logging out, switching
-    users, and so on.</span>
+<a href="shell-exit.html.ro" title="Deautentificarea, închiderea și schimbarea utilizatorilor">Deautentificarea, închiderea și schimbarea utilizatorilor</a><span class="desc"> — Învățați cum să părăsiți contul de utilizator, deautentificându-vă, schimbând utilizatorii și altele.</span>
 </li></ul></div>
 </div></div>
 </div>

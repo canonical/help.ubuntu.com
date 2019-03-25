@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Common problems">Problemer</a> » <a class="trail" href="power.html.da#problems" title="Problemer">Power problems</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="power.html.da#problems" title="Problemer">Power problems</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Common problems">Problemer</a> » <a class="trail" href="hardware-problems-graphics.html.da" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="hardware-problems-graphics.html.da" title="Skærmproblemer">Skærmproblemer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -85,14 +85,14 @@ gives a brief overview of some of the possible reasons.</p></div>
   removable.</p></div></div>
 </div></div>
 <div id="hardwareproblem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Problem with the computer hardware</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Problemer med computerens hardware</span></h2></div>
 <div class="region"><div class="contents"><p class="p">A component of your computer may be broken or malfunctioning. If this is
   the case, you will need to get your computer repaired. Common faults include
   a broken power supply unit, incorrectly-fitted components (such as the
   memory or RAM) and a faulty motherboard.</p></div></div>
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">The computer beeps and then switches off</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Computeren bipper og slukker bagefter</span></h2></div>
 <div class="region"><div class="contents"><p class="p">If the computer beeps several times when you turn it on and then turns off
   (or fails to start), it may be indicating that it has detected a problem.
   These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
@@ -102,7 +102,7 @@ gives a brief overview of some of the possible reasons.</p></div>
   repairs.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">The computer fans are spinning but nothing is on the screen</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Computerens blæser kører, men der er ikke noget på skærmen</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">The first thing to check is that your monitor is plugged in and turned
   on.</p>
@@ -120,7 +120,7 @@ gives a brief overview of some of the possible reasons.</p></div>
 <a href="power.html.da#problems" title="Problemer">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html.da" title="Screen problems">Screen problems</a><span class="desc"> — 
+<a href="hardware-problems-graphics.html.da" title="Skærmproblemer">Skærmproblemer</a><span class="desc"> — 
       Troubleshoot screen and graphics problems.
     </span>
 </li>

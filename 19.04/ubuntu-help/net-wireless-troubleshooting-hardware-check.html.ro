@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ro" title="Wireless Networking">Wireless Networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.ro" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> › <a class="trail" href="hardware.html.ro#problems" title="Common problems">Probleme</a> » <a class="trail" href="net-wireless-troubleshooting.html.ro" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.ro#problems" title="Common problems">Problems</a> » <a class="trail" href="net-wireless-troubleshooting.html.ro" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Rețea, web și email">Rețea, web și email</a> » <a class="trail" href="net-wireless.html.ro" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.ro" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -139,7 +139,7 @@
 <div class="region"><div class="contents">
 <p class="p">Wireless adapters that plug into a USB port on your computer are less
   common. They can plug directly into a USB port, or may be connected by a USB
-  cable. 3G/mobile broadband adapters look quite similar to wireless (wifi)
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
   adapters, so if you think you have a USB wireless adapter, double-check that
   it is not actually a 3G adapter. To check if your USB wireless adapter was
   recognized:</p>

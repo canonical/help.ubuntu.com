@@ -75,17 +75,16 @@
   displays according to the time of day, making the color warmer in the
   evening. To enable <span class="gui">Night Light</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span>
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>  e comoece a escribir <span class="gui">Preferencias</span>.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Preferencias</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Dispositivos</span> na barra lateral.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Night Light</span> to open the settings.</p></li>
 <li class="steps">
 <p class="p">Set the <span class="gui">Night Light</span> switch to <span class="gui">ON</span>. The screen
       color will follow the sunset and sunrise times for your location. Click
       the <span class="gui">Manual</span> button to set the times to a custom schedule.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="link"><a href="shell-introduction.html.gl-GL" title="Introdución a GNOME">top bar</a></span> shows when
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="link"><a href="shell-introduction.html.gl-GL" title="Visual overview of GNOME">top bar</a></span> shows when
         <span class="gui">Night Light</span> is active. It can be temporarily disabled from
         the system menu.</p></div></div></div></div>
 </li>

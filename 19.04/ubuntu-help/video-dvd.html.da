@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why won’t DVDs play?</title>
+<title>Hvorfor vil dvd'er ikke afspille?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,13 +67,13 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html.da#videos" title="Videoer og videokamera">Videoer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why won’t DVDs play?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvorfor vil dvd'er ikke afspille?</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">If you insert a DVD into your computer and it doesn’t play, you may not
   have the right DVD <span class="em">codecs</span> installed, or the DVD might be from a
   different <span class="em">region</span>.</p></div>
 <div id="codecs" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Installere de korrekte codecs til afspilning af DVD</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Installere de korrekte codecs til afspilning af dvd</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">In order to play DVDs, you need to have the right <span class="em">codecs</span>
   installed.  A codec is a piece of software that allows applications to read a
@@ -87,12 +87,12 @@
   is available from a number of Linux distributions, but cannot be legally used
   in all countries. You can buy a commercial DVD decoder that can handle copy
   protection from
-  <span class="link"><a href="http://fluendo.com/shop/product/oneplay-dvd-player/" title="http://fluendo.com/shop/product/oneplay-dvd-player/">Fluendo</a></span>.
+  <span class="link"><a href="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/" title="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/">Fluendo</a></span>.
   It works with Linux and should be legal to use in all countries.</p>
 </div></div>
 </div></div>
 <div id="region" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Tjekke DVD-regionen</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Tjek dvd-regionen</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">DVDs have a <span class="em">region code</span>, which tells you in which region of the
   world they are allowed to be played. If the region of your computer’s DVD
@@ -102,7 +102,7 @@
 <p class="p">It is often possible to change the region used by your DVD player, but it
   can only be done a few times before it locks into one region permanently. To
   change the DVD region of your computer’s DVD player, use <span class="link"><a href="http://linvdr.org/projects/regionset/" title="http://linvdr.org/projects/regionset/">regionset</a></span>.</p>
-<p class="p">Du kan finde <span class="link"><a href="https://en.wikipedia.org/wiki/DVD_region_code" title="https://en.wikipedia.org/wiki/DVD_region_code">mere information om regionskodning af DVD'er på Wikipedia</a></span>.</p>
+<p class="p">Du kan finde <span class="link"><a href="https://en.wikipedia.org/wiki/DVD_region_code" title="https://en.wikipedia.org/wiki/DVD_region_code">mere information om regionskodning af dvd'er på Wikipedia</a></span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

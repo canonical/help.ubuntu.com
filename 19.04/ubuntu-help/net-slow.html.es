@@ -87,7 +87,10 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Señal de conexión inalámbrica baja</span></p>
-<p class="p">Si está conectado a Internet en modo inalámbrico (Wi-Fi), compruebe el icono de red en la barra superior para ver si tiene buena señal inalámbrica. Si no, Internet puede parecer lento porque no tiene una señal suficientemente fuerte.</p>
+<p class="p">If you are connected to the internet by wireless (Wi-Fi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Usar una conexión móvil a Internet</span></p>
@@ -104,7 +107,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.es" title="Problemas de red">Problemas de red</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionar problemas de la red inalámbrica</a></span>, <span class="link"><a href="net-wireless-find.html.es" title="No puedo ver mi red inalámbrica en la lista">Buscar su red inalámbrica</a></span>…</span>
+<a href="net-problem.html.es" title="Problemas de red">Problemas de red</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.es" title="No puedo ver mi red inalámbrica en la lista">finding your Wi-Fi network</a></span>…
+    </span>
 </li></ul></div>
 </div></div></div>
 </div>

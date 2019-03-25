@@ -100,6 +100,9 @@
 <div class="title"><h2><span class="title">Se även</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
+<a href="status-icons.html.sv#networkicons" title="Ikoner för nätverkshanteraren">Ikoner för nätverkshanteraren</a><span class="desc"> — Förklarar innebörden av nätverkshanterarikonerna.</span>
+</li>
+<li class="links ">
 <a href="net-problem.html.sv" title="Nätverksproblem">Nätverksproblem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Felsök trådlösa anslutningar</a></span>, <span class="link"><a href="net-wireless-find.html.sv" title="Jag kan inte se mitt trådlösa nätverk i listan">hitta ditt trådlösa nätverk</a></span>…</span>
 </li>
 <li class="links ">

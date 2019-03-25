@@ -87,7 +87,7 @@
   is available from a number of Linux distributions, but cannot be legally used
   in all countries. You can buy a commercial DVD decoder that can handle copy
   protection from
-  <span class="link"><a href="http://fluendo.com/shop/product/oneplay-dvd-player/" title="http://fluendo.com/shop/product/oneplay-dvd-player/">Fluendo</a></span>.
+  <span class="link"><a href="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/" title="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/">Fluendo</a></span>.
   It works with Linux and should be legal to use in all countries.</p>
 </div></div>
 </div></div>

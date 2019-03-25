@@ -73,7 +73,7 @@
 <p class="p">L'ordinador reproduirà una alerta sonora quan succeeixin certs tipus de missatges i esdeveniments. Si teniu problemes per sentir-los, podeu fer que, o bé tota la pantalla o bé la finestra actual, parpellegi perquè us adoneu visualment de què s'ha reproduït un so.</p>
 <p class="p">Això també pot ser útil si es troba en un entorn on necessiteu que el vostre ordinador estigui en silenci, com en una biblioteca. Veure <span class="link"><a href="sound-alert.html.ca" title="Triar o desactivar el so d'alerta">Triar o desactivar el so d'alerta</a></span> per aprendre a silenciar els sons d'alerta, aleshores activeu les alertes visuals.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activititats</a></span> i comenceu a escriure <span class="gui">Accés universal</span>.</p></li>
+<li class="steps"><p class="p">Obriu les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Accés universal</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per obrir el quadre.</p></li>
 <li class="steps"><p class="p">Premeu <span class="gui">Alertes Visual</span> a la secció <span class="gui">Audició</span>.</p></li>
 <li class="steps"><p class="p">Canvieu les <span class="gui">Alertes Visuals</span> a <span class="gui">ON</span>.</p></li>

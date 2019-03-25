@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.id" title="Jaringan Kabel">Jaringan Kabel</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.id" title="Wired networking">Wired networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Menyambung ke suatu jaringan (Ethernet) kabel</span></h1></div>
@@ -94,7 +94,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html.id" title="Jaringan Kabel">Jaringan Kabel</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.id" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span>
+<a href="net-wired.html.id" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.id" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

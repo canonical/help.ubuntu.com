@@ -82,7 +82,7 @@
 <li class="steps"><p class="p">Obre la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Privacitat</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Privacitat</span> per obrir el panell.</p></li>
 <li class="steps"><p class="p">Seleccioneu <span class="gui">Purgar la Paperera de reciclatge i Fitxers temporals</span>.</p></li>
-<li class="steps"><p class="p">Estableix un o els dos <span class="gui">Automàticament buidar la paperera</span> o <span class="gui">Automàticament purgar els arxius temporals</span> canviar a <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Estableix un o els dos <span class="gui">Automàticament buidar la paperera</span> o <span class="gui">Automàticament purgar els fitxers temporals</span> canviar a <span class="gui">ON</span>.</p></li>
 <li class="steps"><p class="p">Definiu com de sovint voleu purgar la <span class="em">Paperera</span> i els <span class="em">Fitxers temporals</span> canviant el valor <span class="gui">Purgar després</span>.</p></li>
 <li class="steps"><p class="p">Utilitzeu els butons <span class="gui">Buidar la Paperera</span> o <span class="gui">Purgar els Fitxers temporals</span> per dur a terme aquestes accions immediatament.</p></li>
 </ol></div>
@@ -95,7 +95,7 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy.html.ca" title="Configuració de la privacitat">Configuració de la privacitat</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.ca" title="Bloquejar automàticament la pantalla">Bloqueig de pantalla</a></span>, <span class="link"><a href="privacy-history-recent-off.html.ca" title="Desactiva o limita el seguiment de l'historial de fitxers">Historial d'ús</a></span>, <span class="link"><a href="privacy-purge.html.ca" title="Buidar la paperera i els fitxers temporals">Purgar la paperera&amp; fitxers temporals</a></span>…</span>
+<a href="privacy.html.ca" title="Configuració de la privacitat">Configuració de la privacitat</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.ca" title="Bloquejar automàticament la pantalla">Bloca la pantalla</a></span>, <span class="link"><a href="privacy-history-recent-off.html.ca" title="Desactiva o limita el seguiment de l'historial de fitxers">Historial d'ús</a></span>, <span class="link"><a href="privacy-purge.html.ca" title="Buidar la paperera i els fitxers temporals">Buida la paperera i els fitxers temporals</a></span>…</span>
 </li>
 <li class="links "><a href="files.html.ca#more-file-tasks" title="Més tasques relacionades amb fitxers">Més tasques relacionades amb fitxers</a></li>
 </ul></div>

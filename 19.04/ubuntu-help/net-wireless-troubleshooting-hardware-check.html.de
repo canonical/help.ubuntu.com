@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a> » <a class="trail" href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Problemlösungen für Funknetzwerke</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a> » <a class="trail" href="net-wireless.html.de" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Problemlösungen für Funknetzwerke</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> › <a class="trail" href="hardware.html.de#problems" title="Häufige Probleme">Probleme</a> » <a class="trail" href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Problemlösungen für Funknetzwerke</a> » </div>
 </div>
@@ -113,7 +113,12 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">USB-Funknetzwerkadapter</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Funknetzwerkadapter, die am USB-Anschluss Ihres Rechners eingesteckt werden, kommen nicht so häufig vor. Sie können entweder direkt beim USB-Anschluss eingesteckt oder über ein USB-Kabel verbunden werden. Adapter für mobile UMTS-Breitbandnetze sehen Funknetzwerk-, also WLAN-Adaptern ziemlich ähnlich, so dass man glauben könnte, es handelt sich um einen WLAN-Adapter. Überprüfen Sie genau, ob es sich nicht um einen 3G-Adapter handelt. So stellen Sie fest, ob Ihr USB-Funknetzwerkadapter erkannt wurde:</p>
+<p class="p">Wireless adapters that plug into a USB port on your computer are less
+  common. They can plug directly into a USB port, or may be connected by a USB
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
+  adapters, so if you think you have a USB wireless adapter, double-check that
+  it is not actually a 3G adapter. To check if your USB wireless adapter was
+  recognized:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie ein Terminal, geben Sie <span class="cmd">lsusb</span> ein und drücken Sie die <span class="key"><kbd>Eingabetaste</kbd></span>.</p></li>
 <li class="steps">

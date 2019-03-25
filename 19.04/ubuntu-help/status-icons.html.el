@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.el#universalicons" title="Εικονίδια μενού γενικής πρόσβασης">Εικονίδια μενού γενικής πρόσβασης</a></li>
 <li class="links "><a href="status-icons.html.el#audioicons" title="Εικονίδια ελέγχου έντασης">Εικονίδια ελέγχου έντασης</a></li>
 <li class="links "><a href="status-icons.html.el#bluetoothicons" title="Εικονίδια του διαχειριστή Bluetooth">Εικονίδια του διαχειριστή Bluetooth</a></li>
-<li class="links "><a href="status-icons.html.el#networkicons" title="Εικονίδια διαχειριστή δικτύου">Εικονίδια διαχειριστή δικτύου</a></li>
+<li class="links ">
+<a href="status-icons.html.el#networkicons" title="Εικονίδια διαχειριστή δικτύου">Εικονίδια διαχειριστή δικτύου</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
 <li class="links "><a href="status-icons.html.el#batteryicons" title="Εικονίδια διαχειριστή ισχύος">Εικονίδια διαχειριστή ισχύος</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Εικονίδια διαχειριστή δικτύου</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Σύνδεση σε δίκτυο κινητής τηλεφωνίας</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,21 @@
 <td><p class="p">Πολύ χαμηλή ισχύς σήματος.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Δείτε επίσης</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.el" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.el" title="Σύνδεση σε ασύρματο δίκτυο">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.el" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.el" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Wi-Fi disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Εικονίδια διαχειριστή ισχύος</span></h2></div>

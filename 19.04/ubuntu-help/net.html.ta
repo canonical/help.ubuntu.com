@@ -71,11 +71,11 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a></div>
+<div class="links-grid-link"><a href="net-wireless.html.ta" title="Wireless networking">Wireless networking</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html.ta" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.ta" title="ஒரு மறைக்கப்பட்ட வயர்லெஸ் பிணையத்துக்கு இணைத்தல்">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.ta" title="என் வயர்லெஸ் பிணையம் ஏன் தொடர்ந்து துண்டிக்கப்படுகிறது?">Disconnecting</a></span>…
+      <span class="link"><a href="net-wireless-connect.html.ta" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ta" title="ஒரு மறைக்கப்பட்ட வயர்லெஸ் பிணையத்துக்கு இணைத்தல்">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ta" title="என் வயர்லெஸ் பிணையம் ஏன் தொடர்ந்து துண்டிக்கப்படுகிறது?">Wi-Fi disconnecting</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -85,6 +85,17 @@
       <span class="link"><a href="net-chat-video.html.ta" title="Video calls">make video calls</a></span>,
       <span class="link"><a href="net-chat-skype.html.ta" title="How can I use Skype on Ubuntu?">install skype</a></span>
     </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-browser.html.ta" title="Web browsers">Web browsers</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-default-browser.html.ta" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.ta" title="Install the Flash plug-in">install Flash</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.ta" title="Wired networking">Wired networking</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.ta" title="வயர்டு (ஈத்தர்நெட்) பிணையத்திற்கு இணைத்தல்">வயர்டு இணைய இணைப்புகள்</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ta" title="ஒரு நிலையான IP முகவரியுடனான ஒரு இணைப்பை உருவாக்குதல்">நிலையான IP முகவரிகள்</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html.ta" title="இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்">இணையத்தில் பாதுகாப்பாக வைத்திருத்தல்</a></div>
@@ -104,7 +115,10 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html.ta" title="I can’t see my wireless network in the list">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.ta" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-general.html.ta" title="பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்">பிணையமாக்கல் சொற்கள் மற்றும் குறிப்புகள்</a></div>
@@ -115,17 +129,6 @@
 <div class="desc"><span class="desc">
       <span class="link"><a href="net-default-email.html.ta" title="மின்னஞ்சல்களை எழுத எந்த மின்னஞ்சல் பயன்பாடு பயன்படுத்தப்படுகிறது என்பதை மாற்றுதல்">Default email apps</a></span>,
       <span class="link"><a href="net-email-virus.html.ta" title="என் மின்னஞ்சல்களில் வைரஸ்கள் உள்ளதா என ஸ்கேன் செய்ய வேண்டுமா?">Should I scan for viruses?</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.ta" title="வயர்டு பிணைய அமைப்பு">வயர்டு பிணைய அமைப்பு</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.ta" title="வயர்டு (ஈத்தர்நெட்) பிணையத்திற்கு இணைத்தல்">வயர்டு இணைய இணைப்புகள்</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ta" title="ஒரு நிலையான IP முகவரியுடனான ஒரு இணைப்பை உருவாக்குதல்">நிலையான IP முகவரிகள்</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.ta" title="வலை உலாவிகள்">வலை உலாவிகள்</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html.ta" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html.ta" title="Install the Flash plug-in">install Flash</a></span>…
     </span></div>
 </div>
 </div></div></div></div>

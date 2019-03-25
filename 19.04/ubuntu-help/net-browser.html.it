@@ -2,7 +2,7 @@
 <html lang=it>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Browser web</title>
+<title>Web browsers</title>
 <link rel="stylesheet" type="text/css" href="it.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Browser web</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Web browsers</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.it" title="Change which web browser opens websites by default"><span class="title">Change which web browser opens websites by default</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default web browser by going to <span class="gui">Details</span> in <span class="gui">Settings</span>.</span></a></div></div>
@@ -80,17 +80,17 @@
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html.it" title="Reti WiFi">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.it" title="Reti via cavo">wired</a></span>,
+      <span class="link"><a href="net-wireless.html.it" title="Wireless networking">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.it" title="Wired networking">wired</a></span>,
       <span class="link"><a href="net-problem.html.it" title="Problemi di rete">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.it" title="Browser web">web browsing</a></span>,
+      <span class="link"><a href="net-browser.html.it" title="Web browsers">web browsing</a></span>,
       <span class="link"><a href="net-email.html.it" title="Email e applicazioni per la posta elettronica">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-browse-web.html.it" title="Esplorare il web">A tutorial on browsing the web</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-browse-web.html.it" title="Esplorare il web">Una guida su come esplorare il web</a></li></ul></div>
 </div></div>
 </div>
 </div>

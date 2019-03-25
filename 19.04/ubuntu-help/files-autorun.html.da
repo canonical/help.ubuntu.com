@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Open applications for devices or discs</title>
+<title>Åbn programmer til enheder eller diske</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -75,7 +75,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Open applications for devices or discs</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Åbn programmer til enheder eller diske</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can have an application automatically start when you plug in a device
@@ -108,7 +108,7 @@
     insertion</span> at the bottom of the <span class="gui">Details</span> window.</p></div></div></div></div>
 </div>
 <div id="files-types-of-devices" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Types of devices and media</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Typer af enheder og medier</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Audio discs</dt>
 <dd class="terms"><p class="p">Choose your favorite music application or CD audio extractor to handle
@@ -120,7 +120,7 @@
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.da" title="Why won’t DVDs play?">Why won’t DVDs play?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.da" title="Hvorfor vil dvd'er ikke afspille?">Hvorfor vil dvd'er ikke afspille?</a></span>.
     </p></dd>
 <dt class="terms">Blank discs</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing

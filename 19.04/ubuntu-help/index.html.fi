@@ -67,9 +67,10 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntun logo"></span></span> Ubuntun työpöytäopas</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.fi" title="Käytön aloittaminen"><span class="title">Gnomen käytön aloittaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Käytätkö Gnomea ensimmäistä kertaa? Opettele perusasiat.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.fi" title="Käytön aloittaminen"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Käytätkö Gnomea ensimmäistä kertaa? Opettele perusasiat.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.fi" title="Johdanto Gnomeen"><span class="title">Johdanto Gnomeen</span><span class="linkdiv-dash"> — </span><span class="desc">Johdanto työpöytään, yläpalkkiin ja <span class="gui">Toiminnot</span>-yleisnäkymään.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.fi" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.fi" title="Sovelluksien käynnistäminen"><span class="title">Sovelluksien käynnistäminen</span><span class="linkdiv-dash"> — </span><span class="desc">Käynnistä sovelluksia <span class="gui">Toiminnot</span>-yleisnäkymästä.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.fi" title="Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen"><span class="title">Uloskirjautuminen, sammuttaminen ja käyttäjän vaihtaminen</span><span class="linkdiv-dash"> — </span><span class="desc">Opi kuinka poistua käyttäjätililtä kirjautumalla ulos, vaihtamalla käyttäjää ja niin edelleen.</span></a></div>
 </div></div></div>
@@ -80,7 +81,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html.fi" title="Kiinteät verkkoyhteydet">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html.fi" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html.fi" title="Selaimet">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html.fi" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.fi" title="Wireless networking">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html.fi" title="Wired networking">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html.fi" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html.fi" title="Web browsers">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html.fi" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.fi" title="Ääni, video ja kuvat">Ääni, video ja kuvat</a></div>
@@ -96,13 +97,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.fi" title="Mouse &amp; Touchpad">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.fi" title="Näyttö">display</a></span>,
-      <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">user accounts</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html.fi" title="Mouse &amp; Touchpad">hiiri ja kosketuslevy</a></span>, <span class="link"><a href="prefs-display.html.fi" title="Näyttö">näyttö</a></span>, <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">käyttäjätilit</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto ja ajurit</a></div>

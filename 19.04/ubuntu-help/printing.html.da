@@ -71,22 +71,22 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.da" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Check the amount of ink or toner left in printer cartridges.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.da" title="Print to file"><span class="title">Print to file</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.da" title="Udskriv til fil"><span class="title">Udskriv til fil</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
     it to a printer.</span></a></div>
 </div></div></div></div>
 <div id="setup" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Set up a printer</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Opsæt en printer</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.da" title="Set up a local printer"><span class="title">Set up a local printer</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a printer that is connected to your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.da" title="Opsæt en lokal printer"><span class="title">Opsæt en lokal printer</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a printer that is connected to your computer.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.da" title="Change the name or location of a printer"><span class="title">Change the name or location of a printer</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
     settings.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.da" title="Set the default printer"><span class="title">Set the default printer</span><span class="linkdiv-dash"> — </span><span class="desc">Pick the printer that you use most often.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.da" title="Indstil standardprinteren"><span class="title">Indstil standardprinteren</span><span class="linkdiv-dash"> — </span><span class="desc">Vælg den printer du bruger mest.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="paper" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Different paper sizes and layouts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Andre papirstørrelser og layouts</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.da" title="Change the paper size when printing"><span class="title">Change the paper size when printing</span><span class="linkdiv-dash"> — </span><span class="desc">Print a document on a different paper size or orientation.</span></a></div>
@@ -95,15 +95,15 @@
     chosen the correct paper size.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-select.html.da" title="Print only certain pages"><span class="title">Print only certain pages</span><span class="linkdiv-dash"> — </span><span class="desc">Print only specific pages, or only a range of pages.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.da" title="Print two-sided and multi-page layouts"><span class="title">Print two-sided and multi-page layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Print on both sides of the paper, or multiple pages per sheet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.da" title="Udskriv en brochure/pjece"><span class="title">Udskriv en brochure/pjece</span><span class="linkdiv-dash"> — </span><span class="desc">How to print a folded, multi-page booklet using A4 or Letter-sized
     paper.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-select.html.da" title="Udskriv kun bestemte sider"><span class="title">Udskriv kun bestemte sider</span><span class="linkdiv-dash"> — </span><span class="desc">Print only specific pages, or only a range of pages.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="problems" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Printer problems</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Udskrivningsproblemer</span></h2></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -119,7 +119,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Flere oplysninger</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html.da#problems" title="Common problems">Hardwareproblemer</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -130,12 +130,12 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.da#problems" title="Common problems">Hardware problems</a></span>,
+      <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardware problems</a></span>,
       <span class="link"><a href="printing.html.da" title="Udskrivning">printers</a></span>,
       <span class="link"><a href="power.html.da" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.da" title="Color management">color management</a></span>,
+      <span class="link"><a href="color.html.da" title="Farvestyring">color management</a></span>,
       <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html.da" title="Disks &amp; storage">disks</a></span>…
+      <span class="link"><a href="disk.html.da" title="Diske &amp; lager">disks</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

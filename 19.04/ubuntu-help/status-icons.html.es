@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.es#universalicons" title="Iconos del menú de acceso universal">Iconos del menú de acceso universal</a></li>
 <li class="links "><a href="status-icons.html.es#audioicons" title="Iconos del control de volumen">Iconos del control de volumen</a></li>
 <li class="links "><a href="status-icons.html.es#bluetoothicons" title="Iconos del gestor de Bluetooth">Iconos del gestor de Bluetooth</a></li>
-<li class="links "><a href="status-icons.html.es#networkicons" title="Iconos del gestor de la red">Iconos del gestor de la red</a></li>
+<li class="links ">
+<a href="status-icons.html.es#networkicons" title="Iconos del gestor de la red">Iconos del gestor de la red</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
 <li class="links "><a href="status-icons.html.es#batteryicons" title="Iconos del gestor de energía">Iconos del gestor de energía</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Iconos del gestor de la red</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Conexión móvil</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,21 @@
 <td><p class="p">Intensidad de la señal muy baja.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Consulte también</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.es" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.es" title="Conectar con una red inalámbrica">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.es" title="Conectar a una red inalámbrica oculta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.es" title="¿Por qué mi red inalámbrica permanece desconectada?">Wi-Fi disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Iconos del gestor de energía</span></h2></div>

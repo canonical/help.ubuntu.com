@@ -82,7 +82,7 @@
 <li class="steps"><p class="p">V nákresu <span class="gui">Uspořádání displejů</span> přetáhněte displeje na relativní místa, kde je chcete mít.</p></li>
 <li class="steps">
 <p class="p">Kliknutím na <span class="gui">Hlavní displej</span> zvolte sůvj hlavní displej.</p>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Hlavní displej je ten, který má <span class="link"><a href="shell-introduction.html.cs" title="Úvod do GNOME">horní lištu</a></span> a na kterém se zobrazuje přehled <span class="gui">Činností</span>.</p></div></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Hlavní displej je ten, který má <span class="link"><a href="shell-introduction.html.cs" title="Visual overview of GNOME">horní lištu</a></span> a na kterém se zobrazuje přehled <span class="gui">Činností</span>.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Vyberte rozlišení nebo škálování a zvolte orientaci.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Použít</span>. Nové nastavení se použije po dobu 20 vteřin, než je automaticky vráceno zpět. Díky tomu, když s novým nastavením nebude nic vidět, dostanete se zpět k původnímu nastavení. V případě, že je nové nastavení v pořádku a jste s ním spokojení, klikněte na <span class="gui">Zachovat změny</span>.</p></li>

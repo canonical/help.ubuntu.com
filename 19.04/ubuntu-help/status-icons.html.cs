@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.cs#universalicons" title="Ikony nabídky univerzálního přístupu">Ikony nabídky univerzálního přístupu</a></li>
 <li class="links "><a href="status-icons.html.cs#audioicons" title="Ikony ovládání hlasitosti">Ikony ovládání hlasitosti</a></li>
 <li class="links "><a href="status-icons.html.cs#bluetoothicons" title="Ikony správy Bluetooth">Ikony správy Bluetooth</a></li>
-<li class="links "><a href="status-icons.html.cs#networkicons" title="Ikony správy sítě">Ikony správy sítě</a></li>
+<li class="links ">
+<a href="status-icons.html.cs#networkicons" title="Ikony správy sítě">Ikony správy sítě</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
 <li class="links "><a href="status-icons.html.cs#batteryicons" title="Ikony správy napájení.">Ikony správy napájení.</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ikony správy sítě</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Mobilní připojení</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,21 @@
 <td><p class="p">Velmi slabá síla signálu.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Viz také</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.cs" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Wi-Fi disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ikony správy napájení.</span></h2></div>

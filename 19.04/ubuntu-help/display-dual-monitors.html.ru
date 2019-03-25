@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Click <span class="gui">Primary Display</span> to choose your primary display.</p>
 <div class="note" title="Примечание"><div class="inner"><div class="region"><div class="contents"><p class="p">The primary display is the one with the
-        <span class="link"><a href="shell-introduction.html.ru" title="Введение в GNOME">top bar</a></span>, and where the
+        <span class="link"><a href="shell-introduction.html.ru" title="Visual overview of GNOME">top bar</a></span>, and where the
         <span class="gui">Activities</span> overview is shown.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Select the resolution or scale, and choose the orientation.</p></li>

@@ -2,7 +2,7 @@
 <html lang=el>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Ενσύρματη δικτύωση</title>
+<title>Wired networking</title>
 <link rel="stylesheet" type="text/css" href="el.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Ενσύρματη δικτύωση</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wired networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.el" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)"><span class="title">Σύνδεση σε ενσύρματο δίκτυο (Ethernet)</span><span class="linkdiv-dash"> — </span><span class="desc">Για να ρυθμίσετε τις περισσότερες συνδέσεις δικτύου, το μόνο που χρειάζεστε είναι να συνδεθείτε με ένα καλώδιο δικτύου.</span></a></div>
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html.el" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
+<a href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a><span class="desc"> — <span class="link"><a href="net-wireless.html.el" title="Wireless networking">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html.el" title="Wired networking">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html.el" title="Web browsers">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

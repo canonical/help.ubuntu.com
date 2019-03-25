@@ -80,11 +80,11 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-sharing.html.ca" title="Configuració de l'ús compartit">Configuració de l'ús compartit</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html.ca" title="Compartir el control sobre Bluetooth">Compartir bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.ca" title="Compartiu els vostres arxius personals">Compartir els arxius personals</a></span>, <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir la pantalla</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir els arxius multimèdia</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html.ca" title="Compartir el control sobre Bluetooth">Compartir bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.ca" title="Compartiu els vostres fitxers personals">Compartir els fitxers personals</a></span>, <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir la pantalla</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir els fitxers multimèdia</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="privacy.html.ca" title="Configuració de la privacitat">Configuració de la privacitat</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html.ca" title="Bloquejar automàticament la pantalla">Bloqueig de pantalla</a></span>, <span class="link"><a href="privacy-history-recent-off.html.ca" title="Desactiva o limita el seguiment de l'historial de fitxers">Historial d'ús</a></span>, <span class="link"><a href="privacy-purge.html.ca" title="Buidar la paperera i els fitxers temporals">Purgar la paperera&amp; fitxers temporals</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html.ca" title="Bloquejar automàticament la pantalla">Bloca la pantalla</a></span>, <span class="link"><a href="privacy-history-recent-off.html.ca" title="Desactiva o limita el seguiment de l'historial de fitxers">Historial d'ús</a></span>, <span class="link"><a href="privacy-purge.html.ca" title="Buidar la paperera i els fitxers temporals">Buida la paperera i els fitxers temporals</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="clock.html.ca" title="Data i hora">Data i hora</a></div>
@@ -117,7 +117,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.ca#sound" title="So bàsic">So</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.ca" title="Canviar el volum de so">Volum</a></span>, <span class="link"><a href="sound-usespeakers.html.ca" title="Utilitzar diferents altaveus o auriculars">altaveus i auriculars</a></span>, <span class="link"><a href="sound-usemic.html.ca" title="Utilitzar un micròfon diferent">micròfons</a></span>...</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.ca" title="Canviar el volum de so">Volum</a></span>, <span class="link"><a href="sound-usespeakers.html.ca" title="Utilitzar altaveus o auriculars diferents">altaveus i auriculars</a></span>, <span class="link"><a href="sound-usemic.html.ca" title="Utilitzar un micròfon diferent">micròfons</a></span>...</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="startup-applications.html.ca" title="Startup Applications">Startup Applications</a></div>
@@ -125,7 +125,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.ca" title="Utilitzeu disposicions de teclat alternatives">Dispositius de teclat</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Fer que el cursor del teclat parpellegi">cursor parpellejant</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">accessibilitat del teclat</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.ca" title="Utilitzeu disposicions de teclat alternatives">Dispositius de teclat</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Fer que el cursor del teclat parpellegi">parpelleig del cursor</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">accessibilitat del teclat</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="wacom.html.ca" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a></div>

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="getting-started.html.fi" title="Käytön aloittaminen">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -99,13 +99,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.fi" title="Käytön aloittaminen">Gnomen käytön aloittaminen</a><span class="desc"> — Käytätkö Gnomea ensimmäistä kertaa? Opettele perusasiat.</span>
+<a href="getting-started.html.fi" title="Käytön aloittaminen">Getting started with GNOME</a><span class="desc"> — Käytätkö Gnomea ensimmäistä kertaa? Opettele perusasiat.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.fi" title="Selaimet">Selaimet</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.fi" title="Vaihda verkkosivut oletuksena avaavaa verkkoselainta">Vaihda oletusselainta</a></span>, <span class="link"><a href="net-install-flash.html.fi" title="Flash-lisäosan asentaminen">asenna Flash</a></span>…</span>
+<a href="net-browser.html.fi" title="Web browsers">Web browsers</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.fi" title="Vaihda verkkosivut oletuksena avaavaa verkkoselainta">Vaihda oletusselainta</a></span>, <span class="link"><a href="net-install-flash.html.fi" title="Flash-lisäosan asentaminen">asenna Flash</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

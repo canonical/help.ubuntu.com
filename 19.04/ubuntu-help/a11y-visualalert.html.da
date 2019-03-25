@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Flash the screen for alert sounds</title>
+<title>Blink med skærmen ved lydbeskeder</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.da" title="Tilgængelighed">Tilgængelighed</a> › <a class="trail" href="a11y.html.da#sound" title="Hørehæmninger">Hørehæmninger</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Flash the screen for alert sounds</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Blink med skærmen ved lydbeskeder</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Your computer will play a simple alert sound for certain types of

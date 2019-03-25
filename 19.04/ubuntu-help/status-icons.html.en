@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.en#universalicons" title="Universal Access Menu Icons">Universal Access Menu Icons</a></li>
 <li class="links "><a href="status-icons.html.en#audioicons" title="Volume Control Icons">Volume Control Icons</a></li>
 <li class="links "><a href="status-icons.html.en#bluetoothicons" title="Bluetooth Manager Icons">Bluetooth Manager Icons</a></li>
-<li class="links "><a href="status-icons.html.en#networkicons" title="Network Manager Icons">Network Manager Icons</a></li>
+<li class="links ">
+<a href="status-icons.html.en#networkicons" title="Network Manager Icons">Network Manager Icons</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
 <li class="links "><a href="status-icons.html.en#batteryicons" title="Power Manager Icons">Power Manager Icons</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Network Manager Icons</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Cellular Connection</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,21 @@
 <td><p class="p">Very low signal strength.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">See Also</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.en" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.en" title="Connect to a wireless network">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.en" title="Connect to a hidden wireless network">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.en" title="Why does my wireless network keep disconnecting?">Wi-Fi disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Power Manager Icons</span></h2></div>

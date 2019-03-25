@@ -80,9 +80,7 @@ the correct driver is not available, you will not be able to use the printer.
 Normally, each model of device uses a driver that is not compatible with any
 other model.</p>
 <p class="p">EN GNU/Linux, os controladores para a maioría dos dispositivos instálanse de maneira predeterminada, así que todo debería funcionar nada máis conectalo. É posíbel que precise instalar o controlador manualmente, ou pode que nin estea dispoñíbel.</p>
-<p class="p">In addition, some existing drivers are incomplete or partially
-non-functional. For example, you might find that your printer cannot do
-double-sided printing, but is otherwise completely functional.</p>
+<p class="p">Ademais, algúns controladores están incompletos ou non funcionan correctamente. Por exemplo, é posíbel que a súa impresora non poida imprimir a dobre cara, pero polo demais é completamente funcional.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

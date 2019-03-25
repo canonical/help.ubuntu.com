@@ -2,7 +2,7 @@
 <html lang=hr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Bežično umrežavanje</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="hr.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hr" title="Ubuntu vodič radne površine"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu vodič radne površine</a> » <a class="trail" href="net.html.hr" title="Umrežavanje, web i e-pošta">Umrežavanje, web i e-pošta</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Bežično umrežavanje</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -99,16 +99,19 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.hr" title="Umrežavanje, web i e-pošta">Umrežavanje, web i e-pošta</a><span class="desc"> — <span class="link"><a href="net-wireless.html.hr" title="Bežično umrežavanje">Bežični</a></span>, <span class="link"><a href="net-wired.html.hr" title="Wired Networking">žični</a></span>, <span class="link"><a href="net-problem.html.hr" title="Network problems">problemi povezivanja</a></span>, <span class="link"><a href="net-browser.html.hr" title="Web preglednici">web pregledavanje</a></span>, <span class="link"><a href="net-email.html.hr" title="Email &amp; email software">računi e-pošte</a></span>…</span>
+<a href="net.html.hr" title="Umrežavanje, web i e-pošta">Umrežavanje, web i e-pošta</a><span class="desc"> — <span class="link"><a href="net-wireless.html.hr" title="Wireless networking">Bežični</a></span>, <span class="link"><a href="net-wired.html.hr" title="Wired networking">žični</a></span>, <span class="link"><a href="net-problem.html.hr" title="Network problems">problemi povezivanja</a></span>, <span class="link"><a href="net-browser.html.hr" title="Web browsers">web pregledavanje</a></span>, <span class="link"><a href="net-email.html.hr" title="Email &amp; email software">računi e-pošte</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">See Also</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
+<a href="status-icons.html.hr#networkicons" title="Ikone mrežnog upravitelja">Ikone mrežnog upravitelja</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
+<li class="links ">
 <a href="net-problem.html.hr" title="Network problems">Network problems</a><span class="desc"> — 
       <span class="link"><a href="net-wireless-troubleshooting.html.hr" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.hr" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+      <span class="link"><a href="net-wireless-find.html.hr" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
     </span>
 </li>
 <li class="links ">

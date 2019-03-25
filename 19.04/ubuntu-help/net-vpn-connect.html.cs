@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wired.html.cs" title="Wired networking">Wired networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wired.html.cs" title="Drátová síť">Drátová síť</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » <a class="trail" href="net-wireless.html.cs" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -96,10 +96,14 @@
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
+<a href="net-wired.html.cs" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.cs" title="Připojení k drátové síti (Ethernet)">Připojení k Internetu po drátu</a></span>, <span class="link"><a href="net-fixed-ip-address.html.cs" title="Vytvoření připojení se pevnou adresou IP">pevná IP adresa</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wired.html.cs" title="Drátová síť">Drátová síť</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.cs" title="Připojení k drátové síti (Ethernet)">Připojení k Internetu po drátu</a></span>, <span class="link"><a href="net-fixed-ip-address.html.cs" title="Vytvoření připojení se pevnou adresou IP">pevná IP adresa</a></span>…</span>
+<a href="net-wireless.html.cs" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div></div>

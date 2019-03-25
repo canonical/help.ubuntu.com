@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wireless.html.ca" title="Wireless networking">Wireless networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Connectar a la banda ampla mòbil</span></h1></div>
@@ -78,11 +78,11 @@
 <p class="p">Seleccioneu <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-cellular-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> desactivar la banda ampla mòbil</span>. La secció <span class="gui">Banda ampla mòbil</span> del menú s'expandirà.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Si <span class="gui">Banda ampla mòbil</span> no apareix al menú d'estat del sistema, assegureu-vos que el dispositiu no estigui configurat per connectar-se com a emmagatzematge massiu.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Seleccioneu <span class="gui">Connectar</span>. Si us esteu connectant per primer cop, s'activarà l'assistent per <span class="gui">Configurar una connexió de banda ampla mòbil</span>. S'obre una pantalla que mostra una llista amb la informació que és necessària. Feu clic a <span class="gui">Següent</span>.</p></li>
+<li class="steps"><p class="p">Seleccioneu <span class="gui">Connecta</span>. Si us esteu connectant per primer cop, s'activarà l'assistent per <span class="gui">Configurar una connexió de banda ampla mòbil</span>. S'obre una pantalla que mostra una llista amb la informació que és necessària. Feu clic a <span class="gui">Següent</span>.</p></li>
 <li class="steps"><p class="p">Trieu el país o regió del proveïdor de la llista. Feu clic <span class="gui">Següent</span>.</p></li>
 <li class="steps"><p class="p">Tria el proveïdor de la llista. Feu clic <span class="gui">Següent</span>.</p></li>
 <li class="steps"><p class="p">Seleccioneu un pla segons el tipus de dispositiu que esteu connectant. Això determinarà el nom del punt d'accés. Feu clic <span class="gui">Següent</span>.</p></li>
-<li class="steps"><p class="p">Confirmeu la vostra selecció fent clic a <span class="gui">Aplicar</span>. l'assistent es tancarà i el panell de <span class="gui">Xarxa</span> mostrarà les propietats de la connexió.</p></li>
+<li class="steps"><p class="p">Confirmeu la vostra selecció fent clic a <span class="gui">Aplica</span>. l'assistent es tancarà i el panell de <span class="gui">Xarxa</span> mostrarà les propietats de la connexió.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Alguns telèfons tenen una configuració anomenada <span class="em">Connexió entre dispositius per USB</span> que no requereix cap configuració a l'ordinador. Quan la configuració s'activi al telèfon, la connexió apareixerà com a <span class="gui">Ethernet connectat</span> al menú del sistema i <span class="gui">USB ethernet</span> al tauler de la xarxa.</p></div></div></div></div>
 </div>
@@ -91,7 +91,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.ca" title="Connecteu-vos a una xarxa sense fil">Connectat al wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.ca" title="Connecteu-vos a una xarxa sense fil oculta">Xarxa oculta</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.ca" title="Per què la meva xarxa sense fil continua desconnectant-se?">Desconnectant</a></span>…</span>
+<a href="net-wireless.html.ca" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ca" title="Connecteu-vos a una xarxa sense fil">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ca" title="Connecteu-vos a una xarxa sense fil oculta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ca" title="Per què la meva xarxa sense fil continua desconnectant-se?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li></ul></div>
 </div></div></div>
 </div>

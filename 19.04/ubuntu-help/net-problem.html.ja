@@ -88,13 +88,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ja" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html.ja" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html.ja" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html.ja" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html.ja" title="メールとメールソフトウェア">メールアカウント</a></span>…</span>
+<a href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ja" title="Wireless networking">無線</a></span>、<span class="link"><a href="net-wired.html.ja" title="Wired networking">有線</a></span>、<span class="link"><a href="net-problem.html.ja" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html.ja" title="Web browsers">web ブラウジング</a></span>、<span class="link"><a href="net-email.html.ja" title="メールとメールソフトウェア">メールアカウント</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.ja" title="無線ネットワーク">無線ネットワーク</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.ja" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html.ja" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span>
+<a href="net-wireless.html.ja" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ja" title="無線ネットワークに接続する">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ja" title="無線ネットワークが切断されてしまいます、なぜですか?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li></ul></div>
 </div></div>
 </div>

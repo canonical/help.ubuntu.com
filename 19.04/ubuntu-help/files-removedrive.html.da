@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Safely remove an external drive</title>
+<title>Sikker fjernelse af eksternt drev</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#removable" title="Flytbare drev og eksterne diske">Flytbare drev og eksterne diske</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Safely remove an external drive</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Sikker fjernelse af eksternt drev</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you use external storage devices like USB flash drives, you
@@ -92,7 +92,7 @@
 </div></div>
 </div>
 <div id="remove-busy-device" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Safely remove a device that is in use</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sikker fjernelse af en enhed som er i brug</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">If any of the files on the device are open and in use by an application,
   you will not be able to safely remove the device. You will be prompted with a

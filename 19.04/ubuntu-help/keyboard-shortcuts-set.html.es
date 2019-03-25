@@ -79,7 +79,7 @@
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Dispositivos</span> en la barra lateral.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Teclado</span> en la barra lateral para abrir el panel.</p></li>
 <li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
       window will be shown.</p></li>
 <li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to
@@ -120,7 +120,7 @@
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> o <span class="key"><kbd>Buscar</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Settings</p></td>
+<td style="border-top-style: solid;"><p class="p">Configuración</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Tools</kbd></span></p></td>
 </tr>
 </table></div>

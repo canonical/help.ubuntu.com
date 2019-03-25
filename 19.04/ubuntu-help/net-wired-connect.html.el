@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wired.html.el" title="Wired networking">Wired networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Σύνδεση σε ενσύρματο δίκτυο (Ethernet)</span></h1></div>
@@ -83,7 +83,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.el" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)">Ενσύρματες συνδέσεις διαδικτύου</a></span>, <span class="link"><a href="net-fixed-ip-address.html.el" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Σταθερές διευθύνσεις IP</a></span>…</span>
+<a href="net-wired.html.el" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.el" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)">Ενσύρματες συνδέσεις διαδικτύου</a></span>, <span class="link"><a href="net-fixed-ip-address.html.el" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Σταθερές διευθύνσεις IP</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

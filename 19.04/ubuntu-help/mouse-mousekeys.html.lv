@@ -79,15 +79,14 @@
 <p class="p">Ja jums sagādā grūtības peles, vai kādas citas norādīšanas ierīces izmantošana, jūs varat kontrolēt peles rādītāju, izmantojot savas tastatūras papildtastatūru. Šī iespēja tiek saukta par <span class="em">peles taustiņiem</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p>
+<p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p>
 <p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       by using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
       followed by <span class="key"><kbd>Enter</kbd></span>, or by using the
       <span class="key"><a href="keyboard-key-super.html.lv" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span> key.</p>
 </li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
       <span class="gui">Pointing &amp; Clicking</span> section, then press <span class="key"><kbd>Enter</kbd></span>

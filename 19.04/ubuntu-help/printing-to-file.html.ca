@@ -70,16 +70,16 @@
 <div class="hgroup"><h1 class="title"><span class="title">Imprimir a un fitxer</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Podeu imprimir un document en un fitxer en lloc d'enviar-lo a imprimir a una impressora. Imprimir sobre un fitxer crearà un arxiu <span class="sys">PDF</span>, <span class="sys">PostScript</span> o <span class="sys">SVG</span> que conté el document. Això pot ser útil si voleu transferir el document a una altra màquina o compartir-lo amb algú.</p>
+<p class="p">Podeu imprimir un document en un fitxer en lloc d'enviar-lo a imprimir a una impressora. Imprimir sobre un fitxer crearà un fitxer <span class="sys">PDF</span>, <span class="sys">PostScript</span> o <span class="sys">SVG</span> que conté el document. Això pot ser útil si voleu transferir el document a una altra màquina o compartir-lo amb algú.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Per imprimir a un fitxer:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu el diàleg d'impressió prement <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
-<li class="steps"><p class="p">Seleccioneu <span class="gui">Imprimir a un fitxer</span> a <span class="gui">Impressora</span> a la pestanya <span class="gui">General</span>.</p></li>
-<li class="steps"><p class="p">Per canviar el nom per defecte d'un fitxer i on es guarda l'arxiu, feu clic al nom de l'arxiu sota de la selecció de la impressora. Feu clic a <span class="gui">Seleccionar</span> una vegada hàgeu acabat de seleccionar-lo.</p></li>
+<li class="steps"><p class="p">Seleccioneu <span class="gui">Imprimeix a un fitxer</span> a <span class="gui">Impressora</span> a la pestanya <span class="gui">General</span>.</p></li>
+<li class="steps"><p class="p">Per canviar el nom per defecte d'un fitxer i on es desa el fitxer, feu clic al nom del fitxer sota de la selecció de la impressora. Feu clic a <span class="gui">Selecciona</span> una vegada hàgeu acabat de seleccionar-lo.</p></li>
 <li class="steps"><p class="p"><span class="sys">PDF</span> és el tipus de document per defecte. Si voleu utilitzar un <span class="gui">Format de sortida</span> diferent, seleccioneu <span class="sys">PostScript</span> o <span class="sys">SVG</span>.</p></li>
 <li class="steps"><p class="p">Trieu les vostres altres preferències per a la pàgina.</p></li>
-<li class="steps"><p class="p">Premeu <span class="gui">Imprimir</span> per desar a un arxiu.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Imprimeix</span> per desar a un fitxer.</p></li>
 </ol></div>
 </div></div>
 </div>

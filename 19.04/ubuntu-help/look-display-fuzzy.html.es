@@ -76,7 +76,7 @@
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Dispositivos</span> en la barra lateral.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Pantallas</span> en la barra lateral para abrir el panel.</p></li>
 <li class="steps"><p class="p">Try some of the <span class="gui">Resolution</span> options and select the one that
       makes the screen look better.</p></li>
 </ol></div></div></div>
@@ -87,11 +87,11 @@
 <p class="p">If you have two displays connected to the computer (for example, a normal
   monitor and a projector), the displays might have different optimal, or
   <span class="link"><a href="look-resolution.html.es#native" title="Native Resolution">native</a></span>, resolutions.</p>
-<p class="p">Using <span class="link"><a href="display-dual-monitors.html.es#modes" title="Display modes">Mirror</a></span> mode, you can
+<p class="p">Using <span class="link"><a href="display-dual-monitors.html.es#modes" title="Modos de pantalla">Mirror</a></span> mode, you can
   display the same thing on two screens. Both screens use the same resolution,
   which may not match the native resolution of either screen, so the sharpness
   of the image may suffer on both screens.</p>
-<p class="p">Using <span class="link"><a href="display-dual-monitors.html.es#modes" title="Display modes">Join Displays</a></span> mode,
+<p class="p">Using <span class="link"><a href="display-dual-monitors.html.es#modes" title="Modos de pantalla">Join Displays</a></span> mode,
   the resolution of each screen can be set independently, so they can both be
   set to their native resolution.</p>
 </div></div>

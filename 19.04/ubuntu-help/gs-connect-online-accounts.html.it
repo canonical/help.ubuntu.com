@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -75,29 +75,21 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">system menu</a></span>
-      on the right side of the top bar.</p></li>
-<li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
+<li class="steps"><p class="p">Fare clic sul <span class="gui"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">menù di sistema</a></span> a destra nella barra superiore.</p></li>
+<li class="steps"><p class="p">Fare clic pulsante delle impostazioni in basso a sinistra nel menù.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3"><li class="steps">
-<p class="p">Click the <span class="gui">Online Accounts</span> panel, then click the online
-      account service you want to use.</p>
-<p class="p">This will open a new window where you can sign in to your online
-      account.</p>
+<p class="p">Fare clic sul riquadro <span class="gui">Account online</span> e quindi fare clic sull'account online da utilizzare.</p>
+<p class="p">Facendo ciò viene aperta una nuova finestra dove è possibile accedere al proprio account online.</p>
 </li></ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa4.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4">
-<li class="steps"><p class="p">In most cases, you will have to grant access to the online
-       service after signing in to get started.</p></li>
-<li class="steps"><p class="p">For example, if you are connecting to your Google account, you
-       will have to click the <span class="gui">Allow</span> button.</p></li>
+<li class="steps"><p class="p">Nella maggior parte dei casi, per continuare, è necessario concedere l'accesso ai servizi online una volta eseguito l'accesso.</p></li>
+<li class="steps"><p class="p">Per esempio, connettendosi al proprio account Google, è necessario fare clic sul pulsante <span class="gui">Consenti</span>.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa5.svg" width="100%" class="media media-block" alt=""></div></div>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Many online accounts let you choose the services you want to use
-       with your online account. If you do not want to use a service, disable it
-       by clicking the <span class="gui">ON/OFF</span> switch on the right-hand side of the
-       window.</p></li></ol></div></div></div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps" start="6"><li class="steps"><p class="p">Molti account online consentono di scegliere i servizi a cui accedere. Per disabilitare un servizio, fare clic sul pulsante di selezione <span class="gui">ON/OFF</span> sul lato destro della finestra.</p></li></ol></div></div></div>
 </div>
 <div class="links nextlinks">
 <a class="nextlinks-prev" href="gs-browse-web.html.it" title="Esplorare il web">Indietro</a><a class="nextlinks-next" href="gs-change-date-time-timezone.html.it" title="Cambiare data, ora e fuso orario">Avanti</a>
@@ -108,7 +100,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
+<a href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a><span class="desc"> — Appena arrivati in GNOME? Imparate a muovere i primi passi.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

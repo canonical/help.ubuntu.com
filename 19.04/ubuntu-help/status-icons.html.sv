@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.sv#universalicons" title="Ikoner för hjälpmedelsmenyn">Ikoner för hjälpmedelsmenyn</a></li>
 <li class="links "><a href="status-icons.html.sv#audioicons" title="Volymkontrollikoner">Volymkontrollikoner</a></li>
 <li class="links "><a href="status-icons.html.sv#bluetoothicons" title="Bluetooth-hanterarikoner">Bluetooth-hanterarikoner</a></li>
-<li class="links "><a href="status-icons.html.sv#networkicons" title="Ikoner för nätverkshanteraren">Ikoner för nätverkshanteraren</a></li>
+<li class="links ">
+<a href="status-icons.html.sv#networkicons" title="Ikoner för nätverkshanteraren">Ikoner för nätverkshanteraren</a><span class="desc"> — Förklarar innebörden av nätverkshanterarikonerna.</span>
+</li>
 <li class="links "><a href="status-icons.html.sv#batteryicons" title="Strömhanteringsikoner">Strömhanteringsikoner</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ikoner för nätverkshanteraren</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Mobilanslutning</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,17 @@
 <td><p class="p">Väldigt låg signalstyrka.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Se även</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">koppla ifrån</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Strömhanteringsikoner</span></h2></div>

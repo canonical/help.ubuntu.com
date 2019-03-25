@@ -107,9 +107,8 @@
 <p class="p">If you’re working on something and do not want to be bothered, you can
   switch off notifications.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>  e comoece a escribir <span class="gui">Preferencias</span>.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Preferencias</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Notifications</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Notification Popups</span> to <span class="gui">OFF</span>.</p></li>
 </ol></div></div></div>

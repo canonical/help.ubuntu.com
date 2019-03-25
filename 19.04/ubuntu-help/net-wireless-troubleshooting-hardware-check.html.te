@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.te" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి నెట్‌వర్కింగు</a> » <a class="trail" href="net-wireless-troubleshooting.html.te" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.te" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.te" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.te" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.te" title="హార్డ్‌వేర్ &amp; చోదకాలు">హార్డ్‌వేర్</a> › <a class="trail" href="hardware.html.te#problems" title="ఉమ్మడి సమస్యలు">సమస్యలు</a> » <a class="trail" href="net-wireless-troubleshooting.html.te" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
 </div>
@@ -139,7 +139,7 @@
 <div class="region"><div class="contents">
 <p class="p">Wireless adapters that plug into a USB port on your computer are less
   common. They can plug directly into a USB port, or may be connected by a USB
-  cable. 3G/mobile broadband adapters look quite similar to wireless (wifi)
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
   adapters, so if you think you have a USB wireless adapter, double-check that
   it is not actually a 3G adapter. To check if your USB wireless adapter was
   recognized:</p>

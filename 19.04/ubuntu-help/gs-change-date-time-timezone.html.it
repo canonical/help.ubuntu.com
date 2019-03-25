@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -75,25 +75,17 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">system menu</a></span>
-    on the right side of the top bar.</p></li>
-<li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">Date &amp; Time</span> panel.</p></li>
+<li class="steps"><p class="p">Fare clic sul <span class="gui"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">menù di sistema</a></span> a destra nella barra superiore.</p></li>
+<li class="steps"><p class="p">Fare clic pulsante delle impostazioni in basso a sinistra nel menù.</p></li>
+<li class="steps"><p class="p">Selezionare il riquadro <span class="gui">Data e ora</span>.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-datetime.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4">
-<li class="steps"><p class="p">Make sure that the <span class="gui">Automatic Time Zone</span> item is switched
-     off, and then click the <span class="gui">Time Zone</span> item below.</p></li>
-<li class="steps"><p class="p">Click on your location on the world map. This selects your current
-     city, which you can also search for in the search box above the map.</p></li>
-<li class="steps"><p class="p">Close the world map window to go back to the <span class="gui">Date &amp;
-     Time</span>.</p></li>
-<li class="steps"><p class="p">Make sure that the <span class="gui">Automatic Date &amp; Time</span> item is
-     switched off, and then click the <span class="gui">Date &amp; Time</span> item below to
-     open the <span class="gui">Date &amp; Time</span> window. There you can adjust your date
-     and time settings by clicking on the <span class="gui">+</span> or <span class="gui">-</span> buttons.</p></li>
-<li class="steps"><p class="p">Close the window to go back to the <span class="gui">Date &amp;
-     Time</span>, and then close the panel.</p></li>
+<li class="steps"><p class="p">Assicurarsi che l'opzione <span class="gui">Fuso orario automatico</span> sia disabilitata, quindi fare clic su <span class="gui">Fuso orario</span>.</p></li>
+<li class="steps"><p class="p">Selezionare la propria posizione sulla mappa mondiale. In questo modo viene selezionata seleziona la propria città attuale, che è anche possibile ricercare usando la casella di ricerca sopra la mappa.</p></li>
+<li class="steps"><p class="p">Chiudere la mappa per tornare al riquadro <span class="gui">Data e ora</span>.</p></li>
+<li class="steps"><p class="p">Assicurasi che l'opzione <span class="gui">Data e ora automatiche</span> sia disabilitata, quindi fare clic su <span class="gui">Data e ora</span> per aprire la finestra <span class="gui">Data e ora</span>. Qui è possibile regolare la data e l'orario facendo clic su <span class="gui">+</span> o <span class="gui">-</span>.</p></li>
+<li class="steps"><p class="p">Chiudere la finestra per tornare al riquadro <span class="gui">Data e ora</span> e quindi chiudere il riquadro.</p></li>
 </ol></div></div></div>
 </div>
 <div class="links nextlinks">
@@ -105,7 +97,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
+<a href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a><span class="desc"> — Appena arrivati in GNOME? Imparate a muovere i primi passi.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Pulse <span class="gui">Añadir</span> e introduzca la línea de APT del repositorio. Debería estar disponible en el sitio web del repositorio, y tener un aspecto similar a este:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Añadir origen</span> y cierre la ventana <span class="app">Software y actualizaciones</span>. Acto seguido, <span class="app">Ubuntu Software</span> comprobará sus orígenes de software en busca de actualizaciones nuevas.</p></li>
@@ -104,7 +104,7 @@
       <span class="gui">Add</span> and enter:
     </p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Pulse en <span class="gui">Añadir origen</span> y cierre después la ventana <span class="app">Software y actualizaciones</span>. Espere un momento a que <span class="app">Ubuntu Software</span> para descargue la información del repositorio.</p>
 </div></div>

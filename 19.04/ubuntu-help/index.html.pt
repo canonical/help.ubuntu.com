@@ -67,11 +67,12 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.pt" title="Primeiros passos"><span class="title">Primeiros passos com o GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">É novo no GNOME? Aprenda como começar.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.pt" title="Primeiros passos"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">É novo no GNOME? Aprenda como começar.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pt" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pt" title="Fechar a sessão, apagar ou mudar de utilizador"><span class="title">Fechar a sessão, apagar ou mudar de utilizador</span><span class="linkdiv-dash"> — </span><span class="desc">Aprender como sair da sua conta de utilizador, fechando a sessão, mudando de utilizador, etc.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.pt" title="Iniciar aplicações"><span class="title">Iniciar aplicações</span><span class="linkdiv-dash"> — </span><span class="desc">Lançar aplicações desde a vista de <span class="gui">Atividades</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pt" title="Introdução a GNOME"><span class="title">Introdução a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Uma introdução visual a seu escritório, a barra superior e a vista de <span class="gui">Atividades</span>.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
@@ -80,7 +81,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.pt" title="Conexões sem fios">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.pt" title="Conexões instaladas">instalada</a></span>, <span class="link"><a href="net-problem.html.pt" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html.pt" title="Navegadores">navegação site</a></span>, <span class="link"><a href="net-email.html.pt" title="Software de correio eletrónico">contas de e-mail</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.pt" title="Wireless networking">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.pt" title="Wired networking">instalada</a></span>, <span class="link"><a href="net-problem.html.pt" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html.pt" title="Web browsers">navegação site</a></span>, <span class="link"><a href="net-email.html.pt" title="Software de correio eletrónico">contas de e-mail</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.pt" title="Som, vídeo e imagens">Som, vídeo e imagens</a></div>

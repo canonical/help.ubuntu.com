@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="power.html.ro" title="Power &amp; battery">Power &amp; battery</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="power.html.ro" title="Consum și baterie">Consum și baterie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="power.html.ro" title="Power &amp; battery">Power &amp; battery</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> » <a class="trail" href="power.html.ro" title="Consum și baterie">Consum și baterie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -95,8 +95,7 @@
 <div class="note note-important" title="Important"><div class="inner"><div class="region"><div class="contents">
 <p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
     change this setting.</p>
-<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
-      <span class="app">Tweaks</span></a></span></p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Instalați <span class="app">Ajustări</span></a></span></p>
 </div></div></div></div>
 <p class="p">If you do not want the computer to suspend when you close the lid, you can
   change the setting for that behavior.</p>
@@ -104,12 +103,10 @@
     if they are left running with the lid closed, especially if they are in
     a confined place like a backpack.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span>
-      overview and start typing <span class="gui">Tweaks</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Ajustări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Ajustări</span> pentru a deschide aplicația.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
-      <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Comutați <span class="gui">Suspendă când capacul portabilului este închis</span> la <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -120,7 +117,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.ro" title="Power &amp; battery">Power &amp; battery</a><span class="desc"> — 
+<a href="power.html.ro" title="Consum și baterie">Consum și baterie</a><span class="desc"> — 
       <span class="link"><a href="power-status.html.ro" title="Check the battery status">Battery status</a></span>,
       <span class="link"><a href="power-suspend.html.ro" title="What happens when I suspend my computer?">suspend</a></span>,
       <span class="link"><a href="power-whydim.html.ro" title="Why does my screen go dim after a while?">screen dimming</a></span>…

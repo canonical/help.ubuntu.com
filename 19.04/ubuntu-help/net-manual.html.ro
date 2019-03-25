@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.ro" title="Wired Networking">Wired Networking</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Rețea, web și email">Rețea, web și email</a> » <a class="trail" href="net-wired.html.ro" title="Wired networking">Wired networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ro" title="Wireless Networking">Wireless Networking</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Rețea, web și email">Rețea, web și email</a> » <a class="trail" href="net-wireless.html.ro" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,9 +82,8 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">To manually set your network settings:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span>
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
 <li class="steps">
 <p class="p">In the left pane, select the network connection that you want to set
       up manually. If you plug in to the network with a cable, click
@@ -124,16 +123,16 @@
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wired.html.ro" title="Wired Networking">Wired Networking</a><span class="desc"> — 
+<a href="net-wired.html.ro" title="Wired networking">Wired networking</a><span class="desc"> — 
       <span class="link"><a href="net-wired-connect.html.ro" title="Connect to a wired (Ethernet) network">Wired internet connections</a></span>,
       <span class="link"><a href="net-fixed-ip-address.html.ro" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.ro" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.ro" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.ro" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.ro" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+<a href="net-wireless.html.ro" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ro" title="Connect to a wireless network">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ro" title="Connect to a hidden wireless network">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ro" title="Why does my wireless network keep disconnecting?">Wi-Fi disconnecting</a></span>…
     </span>
 </li>
 </ul></div>

@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a> » <a class="trail" href="net-wireless.html.el" title="Wireless networking">Wireless networking</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="hardware.html.el" title="Υλικό &amp; οδηγοί">Υλικό</a> › <a class="trail" href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα</a> » </div>
 </div>
@@ -107,7 +107,11 @@
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.el" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.el" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.el" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span>
+<a href="net-wireless.html.el" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.el" title="Σύνδεση σε ασύρματο δίκτυο">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.el" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.el" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Wi-Fi disconnecting</a></span>…
+    </span>
 </li>
 <li class="links "><a href="hardware.html.el#problems" title="Κοινά προβλήματα">Προβλήματα υλικού</a></li>
 </ul></div>

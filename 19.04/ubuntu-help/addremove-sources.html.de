@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Klicken Sie auf <span class="gui">Hinzufügen</span> und geben Sie die APT-Zeile der Quelle ein. Diese sollte auf der Website der Paketquelle verfügbar sein und ungefähr folgendermaßen aussehen:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Klicken Sie auf  <span class="gui">Softwarequelle hinzufügen</span>, schließen Sie das <span class="app">Software &amp; Updates</span> Fenster. <span class="app">Ubuntu Software</span> wird sodann die Softwarequellen nach aktualisierter Software durchsuchen.</p></li>
@@ -98,7 +98,7 @@
 <p class="p">Das Canonical Partner-Repository bietet einige proprietäre Anwendungen, die kein Geld kosten, aber Closed-Source sind. Dazu gehören Software wie <span class="app">Adobe Flash Plugin</span>. Software in diesem Repository wird in den Suchergebnissen der <span class="app">Ubuntu Software</span> angezeigt, kann jedoch erst installiert werden, wenn dieses Repository aktiviert ist.</p>
 <p class="p">Um die Paketquelle einzurichten, befolgen Sie die obigen Schritte um den Reiter <span class="gui">Andere Programme</span> tab in <span class="app">Software &amp; Updates</span> zu öffnen. Wenn Sie  die Paketquelle <span class="gui">Canonical Partner</span> in der Liste sehen, wählen Sie diese aus. Schließen Sie das <span class="app">Software &amp; Updates</span> Fenster. Falls Sie es nicht sehen, klicken Sie auf<span class="gui">Hinzufügen</span> und geben Sie ein:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Klicken Sie  <span class="gui">Paketquelle hinzufügen</span>, schließen Sie dann das <span class="app">Software &amp; Aktualisierungen</span> Fenster. Warten Sie bis <span class="app">Ubuntu Software</span> die Paketquelleninformationen  heruntergeladen hat.</p>
 </div></div>

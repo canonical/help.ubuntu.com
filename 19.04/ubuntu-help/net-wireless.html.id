@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Jaringan Nirkabel</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Jaringan Nirkabel</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -99,14 +99,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.id" title="Jaringan Nirkabel">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Jaringan Kabel">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Peramban Web">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
+<a href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.id" title="Wireless networking">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Wired networking">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Web browsers">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Melacak masalah koneksi nirkabel</a></span>, <span class="link"><a href="net-wireless-find.html.id" title="I can’t see my wireless network in the list">menemukan jaringan wifi Anda</a></span>…</span>
+<a href="status-icons.html.id#networkicons" title="Ikon Manajer Jaringan">Ikon Manajer Jaringan</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
+<li class="links ">
+<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.id" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span>
 </li>
 <li class="links ">
 <a href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — <span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span>

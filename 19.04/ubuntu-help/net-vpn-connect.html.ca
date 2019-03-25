@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wired.html.ca" title="Xarxa cablejada">Xarxa cablejada</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wired.html.ca" title="Wired networking">Wired networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wireless.html.ca" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -84,10 +84,10 @@
 <li class="steps"><p class="p">A la part inferior de la llista de l'esquerra, feu clic al botó <span class="gui">+</span> per afegir una nova connexió.</p></li>
 <li class="steps"><p class="p">Trieu <span class="gui">VPN</span> a la llista d'interfícies.</p></li>
 <li class="steps"><p class="p">Triï quin tipus de connexió VPN té.</p></li>
-<li class="steps"><p class="p">Ompliu els detalls de la connexió VPN i, a continuació, quan hàgeu acabat, premeu <span class="gui">Afegir</span>.</p></li>
-<li class="steps"><p class="p">Quan hàgeu acabat de configurar la VPN, obriu el <span class="gui"><a href="shell-introduction.html.ca#yourname" title="Vostè i el seu ordinador">menú del sistema</a></span> des del costat dret de la barra superior, feu clic a <span class="gui">VPN OFF</span> i seleccioneu <span class="gui">Connectar</span>. Haureu d'introduir una contrasenya per a la connexió abans d'establir-la. Un cop realitzada la connexió, veureu una icona amb forma de cadenat a la barra superior.</p></li>
+<li class="steps"><p class="p">Ompliu els detalls de la connexió VPN i, a continuació, quan hàgeu acabat, premeu <span class="gui">Afegeix</span>.</p></li>
+<li class="steps"><p class="p">Quan hàgeu acabat de configurar la VPN, obriu el <span class="gui"><a href="shell-introduction.html.ca#yourname" title="Vostè i el seu ordinador">menú del sistema</a></span> des del costat dret de la barra superior, feu clic a <span class="gui">VPN OFF</span> i seleccioneu <span class="gui">Connecta</span>. Haureu d'introduir una contrasenya per a la connexió abans d'establir-la. Un cop realitzada la connexió, veureu una icona amb forma de cadenat a la barra superior.</p></li>
 <li class="steps"><p class="p">Esperem que us connecteu correctament a la VPN. En cas contrari, és possible que hàgiu de marcar dues vegades la configuració de VPN que heu introduït. Podeu fer això des del panell <span class="gui">Xarxa</span> que heu utilitzat per crear la connexió. Seleccioneu la connexió VPN de la llista i, a continuació, premeu el botó <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuració"></span></span> per revisar la configuració.</p></li>
-<li class="steps"><p class="p">Per desconnectar-se de la VPN, feu clic al menú del sistema a la barra superior i feu clic a <span class="gui">Apagar</span> sota el nom de la vostra connexió VPN.</p></li>
+<li class="steps"><p class="p">Per desconnectar-se de la VPN, feu clic al menú del sistema a la barra superior i feu clic a <span class="gui">Apaga</span> sota el nom de la vostra connexió VPN.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -96,10 +96,14 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wired.html.ca" title="Xarxa cablejada">Xarxa cablejada</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.ca" title="Connecteu-vos a una xarxa de cable (Ethernet)">Connexions a internet per cable</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ca" title="Crear una connexió amb una IP fixa">Adreça IP fixa</a></span>…</span>
+<a href="net-wired.html.ca" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.ca" title="Connecteu-vos a una xarxa de cable (Ethernet)">Connexions a internet per cable</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ca" title="Crear una connexió amb una IP fixa">Adreça IP fixa</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.ca" title="Connecteu-vos a una xarxa sense fil">Connectat al wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.ca" title="Connecteu-vos a una xarxa sense fil oculta">Xarxa oculta</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.ca" title="Per què la meva xarxa sense fil continua desconnectant-se?">Desconnectant</a></span>…</span>
+<a href="net-wireless.html.ca" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ca" title="Connecteu-vos a una xarxa sense fil">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ca" title="Connecteu-vos a una xarxa sense fil oculta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ca" title="Per què la meva xarxa sense fil continua desconnectant-se?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div></div>

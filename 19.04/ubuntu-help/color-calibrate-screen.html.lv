@@ -78,12 +78,11 @@
 <p class="p">Lai to izdarītu, vajadzēs vai nu kolorimetru vai spektrofotometru. Abas ierīces tiek izmantotas ekrānu profilu veidošanai, bet tās darbojas dažādos veidos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Pārliecinieties, ka kalibrējamā ierīce savienota ar datoru.</p></li>
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Select your screen.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā nospiediet <span class="gui">Ierīces</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā spiediet <span class="gui">Krāsa</span>, lai atvērtu paneli.</p></li>
+<li class="steps"><p class="p">Izvēlieties savu ekrānu.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Kalibrēt…</span>, lai sāktu kalibrēšanu.</p></li>
 </ol></div></div></div>
 <p class="p">Ekrāni mainās visu laiku — izgaismojums TFT monitoros samazinās uz pusi katrus 18 mēnešus, un kļūs dzeltenāks, tam kļūstot vecākam. Tas nozīmē, ka jums jāpārkalibrē jūsu ekrāns tad, kad <span class="gui">Krāsu</span> panelī parādās [!] ikona.</p>

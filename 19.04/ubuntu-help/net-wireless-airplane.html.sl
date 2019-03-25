@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.sl" title="Brezžične povezave">Brezžične povezave</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.sl" title="Wireless networking">Wireless networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Izklopite brezžično omrežje (letalski način)</span></h1></div>
@@ -75,7 +75,7 @@
  also want to switch off your wireless for other reasons (to save battery power,
  for example).</p>
 <div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Using <span class="em">Airplane Mode</span> will completely turn off all wireless
-    connections, including WiFi, 3G and Bluetooth connections.</p></div></div></div></div>
+    connections, including Wi-Fi, 3G and Bluetooth connections.</p></div></div></div></div>
 <p class="p">To turn on airplane mode:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
@@ -84,7 +84,7 @@
 <li class="steps"><p class="p">Switch <span class="gui">Airplane Mode</span> to <span class="gui">ON</span>. This will turn off
       your wireless connection until you disable airplane mode again.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">You can turn off your WiFi connection from the 
+<div class="note note-tip" title="Namig"><div class="inner"><div class="region"><div class="contents"><p class="p">You can turn off your Wi-Fi connection from the
     <span class="gui"><a href="shell-introduction.html.sl#yourname" title="Vi in vaš računalnik">system menu</a></span> by clicking on 
     the connection name and choosing <span class="gui">Turn Off</span>.</p></div></div></div></div>
 </div>
@@ -93,10 +93,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.sl" title="Brezžične povezave">Brezžične povezave</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.sl" title="Povezava z brezžičnim omrežjem">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.sl" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Disconnecting</a></span>…
+<a href="net-wireless.html.sl" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.sl" title="Povezava z brezžičnim omrežjem">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.sl" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Wi-Fi disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

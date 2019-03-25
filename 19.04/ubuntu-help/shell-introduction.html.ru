@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Введение в GNOME</title>
+<title>Visual overview of GNOME</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Справка"></span></span> Руководство пользователя настольного выпуска Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Введение в GNOME</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Visual overview of GNOME</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">GNOME 3 предоставляет полностью переработанный интерфейс пользователя, созданный для обеспечения удобной рабочей среды, позволяющей пользователям сосредоточиться на выполнении своей работы. При первом входе в систему вы увидите пустой рабочий стол и панель в верхней части экрана.</p>

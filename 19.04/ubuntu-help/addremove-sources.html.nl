@@ -88,7 +88,7 @@
 <li class="steps">
 <p class="p">Klik op <span class="gui">Toevoegen</span> en voer de APT-regel van de pakketbron in. Deze zou te vinden moeten zijn op de website van de bron en moet er ongeveer zo uit zien:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Klik op <span class="gui">Bron toevoegen</span> en sluit daarna het <span class="app">Software &amp; Updates</span>-venster. <span class="app">Ubuntu Software</span> zal dan in de softwarebronnen zoeken naar nieuwe updates.</p></li>
@@ -101,7 +101,7 @@
 <p class="p">De pakketbron Canonical Partner biedt enkele niet-vrije toepassingen die gratis zijn maar wel gesloten-bron. Ze omvatten programmatuur als <span class="app">Adobe Flash Plugin</span>. Programmatuur in deze pakketbron zal verschijnen in de zoekresultaten van <span class="app">Ubuntu Software</span> maar zal niet installeerbaar zijn voordat deze pakketbron is ingeschakeld.</p>
 <p class="p">Volg de stappen hierboven waarmee u het tabblad <span class="gui">Overige software</span> in <span class="app">Software &amp; Updates</span> opent, om de bron in te schakelen. Als u de bron <span class="gui">Partners van Canonical</span> in de lijst ziet, controleer dan of er een vinkje bij staat en sluit het <span class="app">Software &amp; Updates</span>-venster. Als u de bron niet ziet, klik dan op <span class="gui">Toevoegen</span> en typ:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Klik op <span class="gui">Bron toevoegen</span> en sluit daarna het <span class="app">Software &amp; Updates</span>-venster. Wacht even totdat <span class="app">Ubuntu Software</span> de broninformatie heeft opgehaald.</p>
 </div></div>

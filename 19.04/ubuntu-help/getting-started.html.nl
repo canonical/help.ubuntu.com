@@ -129,7 +129,7 @@
 </div></div>
 </div>
 <div class="links topiclinks"><div class="inner">
-<div class="title title-links title-heading"><h2><span class="title">Veelvoorkomende taken</span></h2></div>
+<div class="title title-links title-heading"><h2><span class="title">Common tasks</span></h2></div>
 <div class="region">
 <div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.nl" title="Datum, tijd en tijdszone wijzigen">Datum, tijd en tijdszone wijzigen</a></div></div>
 <div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.nl" title="De achtergrond wijzigen">De achtergrond wijzigen</a></div></div>

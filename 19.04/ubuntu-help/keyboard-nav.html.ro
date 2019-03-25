@@ -67,9 +67,9 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.ro" title="Acces universal">Acces universal</a> › <a class="trail" href="a11y.html.ro#mobility" title="Afecțiuni de mobilitate">Afecțiuni de mobilitate</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -79,7 +79,7 @@
 <p class="p">This page details keyboard navigation for people who cannot use a mouse or
   other pointing device, or who want to use a keyboard as much as possible. For
   keyboard shortcuts that are useful to all users, see
-  <span class="link"><a href="shell-keyboard-shortcuts.html.ro" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a></span> instead.</p>
+  <span class="link"><a href="shell-keyboard-shortcuts.html.ro" title="Scurtături de tastatură folositoare">Scurtături de tastatură folositoare</a></span> instead.</p>
 <div class="note note-tip" title="Sfat"><div class="inner"><div class="region"><div class="contents"><p class="p">If you cannot use a pointing device like a mouse, you can control the
     mouse pointer using the numeric keypad on your keyboard. See
     <span class="link"><a href="mouse-mousekeys.html.ro" title="Click and move the mouse pointer using the keypad">Click and move the mouse pointer using the keypad</a></span> for details.</p></div></div></div></div>
@@ -115,10 +115,7 @@
 <td style="border-top-style: solid;">
 <p class="p">In a list or icon view, select all items from the currently selected
     item to the newly focused item.</p>
-<p class="p">In a tree view, items that have children can be expanded or collapsed,
-    to show or hide their children: expand by pressing
-    <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, and collapse by
-    pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p>
+<p class="p">În vizualizarea arborescentă, elementele care au descendenți pot fi expandate sau restrânse, pentru a arăta sau ascunde descendenții lor: expandați apăsând <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, și restrângeți apăsând <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p>
 </td>
 </tr>
 <tr>
@@ -340,7 +337,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vezi și</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html.ro" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.ro" title="Scurtături de tastatură folositoare">Scurtături de tastatură folositoare</a><span class="desc"> — Get around the desktop using the keyboard.</span>
 </li></ul></div>
 </div></div>
 </div>

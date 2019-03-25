@@ -67,10 +67,11 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.ca" title="Primers passos"><span class="title">Primers passos amb el GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">És el primer cop que utilitzeu el GNOME? Apreneu a fer-lo servir.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.ca" title="Primers passos"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">És el primer cop que utilitzeu el GNOME? Apreneu a fer-lo servir.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ca" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ca" title="Iniciació d'aplicacions"><span class="title">Iniciació d'aplicacions</span><span class="linkdiv-dash"> — </span><span class="desc">Inicieu les aplicacions des de la vista general d'<span class="gui">Activitats</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ca" title="Introducció a GNOME"><span class="title">Introducció a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Una introducció visual a l'escriptori, a la barra superior, i a la vista general d'<span class="gui">Activitats</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ca" title="Tanca sessió, apaga o canvia d'usuari"><span class="title">Tanca sessió, apaga o canvia d'usuari</span><span class="linkdiv-dash"> — </span><span class="desc">Apreneu com deixar el compte d'usuari, tancar la sessió, canviar d'usuari, etc.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
@@ -80,7 +81,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.ca" title="Xarxa sense fil">Xarxes</a></span>, <span class="link"><a href="net-wired.html.ca" title="Xarxa cablejada">cablejat</a></span>, <span class="link"><a href="net-problem.html.ca" title="Problemes de xarxa">problemes de connexió</a></span>, <span class="link"><a href="net-browser.html.ca" title="Navegadors web">navegació web</a></span>, <span class="link"><a href="net-email.html.ca" title="Correu electrònic i programari de correu electrònic">comptes de correu electrònic</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.ca" title="Wireless networking">Xarxes</a></span>, <span class="link"><a href="net-wired.html.ca" title="Wired networking">cablejat</a></span>, <span class="link"><a href="net-problem.html.ca" title="Problemes de xarxa">problemes de connexió</a></span>, <span class="link"><a href="net-browser.html.ca" title="Web browsers">navegació web</a></span>, <span class="link"><a href="net-email.html.ca" title="Correu electrònic i programari de correu electrònic">comptes de correu electrònic</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.ca" title="So, vídeo i imatges">So, vídeo i imatges</a></div>

@@ -75,7 +75,7 @@
 <li class="steps"><p class="p">Obriu <span class="app">Discs</span> des de la descripció general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span>.</p></li>
 <li class="steps"><p class="p">Trieu el disc de la llista al panell esquerre.</p></li>
 <li class="steps"><p class="p">Feu clic al botó de menú i seleccioneu <span class="gui">Disc de referència</span> des del menú.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Iniciar test…</span> i ajusteu el <span class="gui">Ratio de Transferència</span> i <span class="gui">Temps d'Accés</span> als paràmetres desitjats.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Iniciar test…</span> i ajusteu el <span class="gui">Ratio de transferència</span> i <span class="gui">Temps d'accés</span> als paràmetres desitjats.</p></li>
 <li class="steps">
 <p class="p">Feu clic <span class="gui">Iniciar el test</span> per comprovar com de ràpid es poden llegir les dades des del disc. Poden ser necessaris <span class="link"><a href="user-admin-explain.html.ca" title="Com funcionen els privilegis administratius?">Privilegis administratius</a></span>. Entreu la vostra contrasenya, o la contrasenya pel compte d'administrador.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Si està seleccionat <span class="gui">Efectuar un test d'escriptura</span>, el test comprovarà com de ràpid es poden llegir i escriure les dades al disc. Aquesta opció trigarà més a completar-se.</p></div></div></div></div>
@@ -89,7 +89,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu el vostre disc dur per problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span>
+<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Espai del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu si el vostre disc dur té problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

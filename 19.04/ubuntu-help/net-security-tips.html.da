@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Staying safe on the internet</title>
+<title>Sikkerhed på internettet</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.da" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-general.html.da" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Staying safe on the internet</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Sikkerhed på internettet</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">A possible reason for why you are using Linux is the robust security that
@@ -83,10 +83,10 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Phishing Scams (websites and emails that try to obtain sensitive
       information through deception)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.da" title="Do I need to scan my emails for viruses?">Forwarding malicious emails</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.da" title="Do I need anti-virus software?">Applications with malicious intent
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.da" title="Behøver jeg at skanne mine e-mails for virusser?">Forwarding malicious emails</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.da" title="Behøver jeg at have antivirussoftware?">Applications with malicious intent
       (viruses)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.da" title="What do WEP and WPA mean?">Unauthorized remote/local network
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.da" title="Hvad betyder WEP og WPA?">Unauthorized remote/local network
       access</a></span></p></li>
 </ul></div></div></div>
 <p class="p">To stay safe online, keep in mind the following tips:</p>
@@ -105,7 +105,7 @@
 <li class="list"><p class="p">Make sure you are only running necessary remote-access services.
       Having SSH or VNC running can be useful, but also leaves your computer
       open to intrusion if not secured properly. Consider using a
-      <span class="link"><a href="net-firewall-on-off.html.da" title="Enable or block firewall access">firewall</a></span> to help protect your
+      <span class="link"><a href="net-firewall-on-off.html.da" title="Aktivér og bloker adgang til firewall">firewall</a></span> to help protect your
       computer from intrusion.</p></li>
 </ul></div></div></div>
 </div>
@@ -115,10 +115,10 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="net-general.html.da" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html.da" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html.da" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html.da" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html.da" title="Define proxy settings">proxies</a></span>…
+      <span class="link"><a href="net-findip.html.da" title="Find din IP-adresse">Find your IP address</a></span>,
+      <span class="link"><a href="net-wireless-wepwpa.html.da" title="Hvad betyder WEP og WPA?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html.da" title="Hvad er en MAC-adresse?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html.da" title="Definer proxyindstillinger">proxies</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

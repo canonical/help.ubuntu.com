@@ -71,12 +71,27 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.ja" title="無線ネットワーク">無線ネットワーク</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.ja" title="無線ネットワークに接続する">無線接続</a></span>、<span class="link"><a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">非表示設定のネットワーク</a></span>、<span class="link"><a href="net-wireless-disconnecting.html.ja" title="無線ネットワークが切断されてしまいます、なぜですか?">切断する</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.ja" title="Wireless networking">Wireless networking</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-connect.html.ja" title="無線ネットワークに接続する">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ja" title="無線ネットワークが切断されてしまいます、なぜですか?">Wi-Fi disconnecting</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="contacts.html.ja" title="Contacts">Contacts</a></div>
 <div class="desc"><span class="desc">Access your contacts.</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-browser.html.ja" title="Web browsers">Web browsers</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-default-browser.html.ja" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.ja" title="Flash プラグインのインストール">install Flash</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.ja" title="Wired networking">Wired networking</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.ja" title="有線 (Ethernet) ネットワークへの接続">有線インターネット接続</a></span>、<span class="link"><a href="net-fixed-ip-address.html.ja" title="固定 IP アドレスの接続を作成">固定 IP アドレス</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html.ja" title="インターネットを安全に利用するために">インターネットを安全に利用するために</a></div>
@@ -84,13 +99,6 @@
       <span class="link"><a href="net-antivirus.html.ja" title="ウイルス除去ソフトウェアは必要ですか?">Antivirus software</a></span>,
       <span class="link"><a href="net-firewall-on-off.html.ja" title="ファイアウォールへのアクセスの許可とブロック">basic firewalls</a></span>,
       <span class="link"><a href="net-firewall-ports.html.ja" title="よく使用されるネットワークポート">firewall ports</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.ja" title="ウェブブラウザー">ウェブブラウザー</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html.ja" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html.ja" title="Flash プラグインのインストール">install Flash</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -107,7 +115,10 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.ja" title="ネットワーク関連の問題">ネットワーク関連の問題</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.ja" title="無線ネットワークトラブルシューティング">無線接続トラブルシューティング</a></span>、<span class="link"><a href="net-wireless-find.html.ja" title="I can’t see my wireless network in the list">wifi ネットワーク検索</a></span>…</span></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-troubleshooting.html.ja" title="無線ネットワークトラブルシューティング">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.ja" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-email.html.ja" title="メールとメールソフトウェア">メールとメールソフトウェア</a></div>
@@ -119,10 +130,6 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="sharing.html.ja" title="共有">共有</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.ja" title="デスクトップを共有する">デスクトップ共有</a></span>, <span class="link"><a href="files-share.html.ja" title="メールを使ってファイルを共有する">メールでファイルを共有する</a></span>, <span class="link"><a href="sharing-media.html.ja" title="音楽、写真、ビデオを共有する">メディア共有</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.ja" title="有線によるネットワーク">有線によるネットワーク</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.ja" title="有線 (Ethernet) ネットワークへの接続">有線インターネット接続</a></span>、<span class="link"><a href="net-fixed-ip-address.html.ja" title="固定 IP アドレスの接続を作成">固定 IP アドレス</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Add an account</title>
+<title>Tilføj en konto</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="accounts.html.da" title="Onlinekonti">Onlinekonti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Add an account</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Tilføj en konto</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Adding an account will help link your online accounts with your GNOME
@@ -86,15 +86,15 @@
       to allow GNOME access to your online account. Authorize access to
       continue.</p></li>
 <li class="steps"><p class="p">All services that are offered by an account provider will be enabled
-      by default. <span class="link"><a href="accounts-disable-service.html.da" title="Control which online services an account can be used to access">Switch</a></span>
+      by default. <span class="link"><a href="accounts-disable-service.html.da" title="Styr hvilke onlinetjenester en konto kan tilgå">Switch</a></span>
       individual services to <span class="gui">OFF</span> to disable them.</p></li>
 </ol></div></div></div>
 <p class="p">After you have added accounts, applications can use those accounts for
-  the services you have chosen to allow. See <span class="link"><a href="accounts-disable-service.html.da" title="Control which online services an account can be used to access">Control which online services an account can be used to access</a></span>
+  the services you have chosen to allow. See <span class="link"><a href="accounts-disable-service.html.da" title="Styr hvilke onlinetjenester en konto kan tilgå">Styr hvilke onlinetjenester en konto kan tilgå</a></span>
   for information on controlling which services to allow.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Many online services provide an authorization token which GNOME stores
     instead of your password. If you remove an account, you should also revoke
-    that certificate in the online service. See <span class="link"><a href="accounts-remove.html.da" title="Remove an account">Remove an account</a></span>
+    that certificate in the online service. See <span class="link"><a href="accounts-remove.html.da" title="Fjern en konto">Fjern en konto</a></span>
     for more information.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -103,9 +103,9 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="accounts.html.da" title="Onlinekonti">Onlinekonti</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html.da" title="Add an account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html.da" title="Remove an account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html.da" title="Online services and applications">Learn about services</a></span>…
+      <span class="link"><a href="accounts-add.html.da" title="Tilføj en konto">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.da" title="Fjern en konto">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.da" title="Onlinetjenester og programmer">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

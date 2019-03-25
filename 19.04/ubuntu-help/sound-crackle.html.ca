@@ -87,7 +87,7 @@
 <li class="list">
 <p class="p">Comproveu si els controladors de so no són massa bons.</p>
 <p class="p">Algunes targetes de so no funcionen bé a Linux perquè no tenen controladors massa bons. Aquest problema és més difícil d'identificar. Intenteu cercar la marca i el model de la targeta de so a Internet, a més del terme de cerca "Linux", per veure si hi ha altres persones que tenen el mateix problema.</p>
-<p class="p">Podeu utilitzar la comanda <span class="cmd">lspci</span> per obtenir més informació sobre la vostra targeta de so.</p>
+<p class="p">Podeu utilitzar l'ordre <span class="cmd">lspci</span> per obtenir més informació sobre la vostra targeta de so.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -96,7 +96,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html.ca" title="Problemes amb el so">Problemes amb el so</a><span class="desc"> — Resoldre problemes com el de no tenir so o tenir-ne mala qualitat.</span>
+<a href="sound-broken.html.ca" title="Problemes amb el so">Problemes amb el so</a><span class="desc"> — Resoldre problemes com no tenir so o tenir-ne mala qualitat.</span>
 </li></ul></div>
 </div></div></div>
 </div>

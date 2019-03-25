@@ -2,7 +2,7 @@
 <html lang=lv>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the color temperature of your screen</title>
+<title>Pielāgot ekrāna krāsas temperatūru</title>
 <link rel="stylesheet" type="text/css" href="lv.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,27 +67,19 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Adjust the color temperature of your screen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Pielāgot ekrāna krāsas temperatūru</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A computer monitor emits blue light which contributes to sleeplessness and
-  eye strain after dark. <span class="gui">Night Light</span> changes the color of your
-  displays according to the time of day, making the color warmer in the
-  evening. To enable <span class="gui">Night Light</span>:</p>
+<p class="p">Datora ekrāns izstaro zilo gaismu, kas traucē sekmē bezmiegu un acu noguršanu pēc saulrieta. <span class="gui">Nakts gaisma</span> maina displeja krāsu atbilstoši diennakts laikam, vakarā padarot krāsas siltākas. Lai ieslēgtu <span class="gui">Nakts gaismu</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span>
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Night Light</span> to open the settings.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā nospiediet <span class="gui">Ierīces</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā spiediet <span class="gui">Displeji</span>, lai atvērtu paneli.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Nakts gaisma</span>, lai atvērtu iestatījumus.</p></li>
 <li class="steps">
-<p class="p">Set the <span class="gui">Night Light</span> switch to <span class="gui">ON</span>. The screen
-      color will follow the sunset and sunrise times for your location. Click
-      the <span class="gui">Manual</span> button to set the times to a custom schedule.</p>
-<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="link"><a href="shell-introduction.html.lv" title="Ievads GNOME vidē">top bar</a></span> shows when
-        <span class="gui">Night Light</span> is active. It can be temporarily disabled from
-        the system menu.</p></div></div></div></div>
+<p class="p">Pārslēdziet slēdzi <span class="gui">Nakts gaisma</span> uz <span class="gui">|</span>. Ekrāna krāsa sekos saulrieta un saullēkta laikam jūsu atrašanās vietā. Spiediet pogu<span class="gui">Pašrocīgi</span>, lai iestatītu laikus pēc pielāgota grafika.</p>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="shell-introduction.html.lv" title="Visual overview of GNOME">Augšējā josla</a></span> rāda, vai <span class="gui">Nakts gaisma</span> ir aktīva. To var uz laiku izslēgt sistēmas izvēlnē.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 </div>
@@ -96,12 +88,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.lv" title="Nomainīt darbvirsmas un bloķēšanas ekrāna fonus">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.lv" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.lv" title="Iestatiet ekrāna spilgtumu">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.lv" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a><span class="desc"> — <span class="link"><a href="look-background.html.lv" title="Nomainīt darbvirsmas un bloķēšanas ekrāna fonus">Fons</a></span>, <span class="link"><a href="look-resolution.html.lv" title="Mainīt ekrāna izšķirtspēju vai orientāciju">izmērs un orientācija</a></span>, <span class="link"><a href="display-brightness.html.lv" title="Iestatiet ekrāna spilgtumu">spilgtums</a></span>, <span class="link"><a href="display-night-light.html.lv" title="Pielāgot ekrāna krāsas temperatūru">krāsu temperatūra</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Kiinteät verkkoyhteydet</title>
+<title>Wired networking</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Kiinteät verkkoyhteydet</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wired networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.fi" title="Yhdistä kiinteään (Ethernet) verkkoon"><span class="title">Yhdistä kiinteään (Ethernet) verkkoon</span><span class="linkdiv-dash"> — </span><span class="desc">Yleensä kiinteän verkon määrittämiseen riittää pelkkä johdon kytkeminen koneeseen.</span></a></div>
@@ -80,7 +80,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a><span class="desc"> — <span class="link"><a href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html.fi" title="Kiinteät verkkoyhteydet">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html.fi" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html.fi" title="Selaimet">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html.fi" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span>
+<a href="net.html.fi" title="Verkot, internet ja sähköposti">Verkot, internet ja sähköposti</a><span class="desc"> — <span class="link"><a href="net-wireless.html.fi" title="Wireless networking">Langattomat lähiverkot</a></span>, <span class="link"><a href="net-wired.html.fi" title="Wired networking">kiinteät yhteydet</a></span>, <span class="link"><a href="net-problem.html.fi" title="Yhteysongelmat">yhteysongelmat</a></span>, <span class="link"><a href="net-browser.html.fi" title="Web browsers">WWW-selaaminen</a></span>, <span class="link"><a href="net-email.html.fi" title="Sähköposti ja sähköpostiohjelmat">sähköpostitilit</a></span>...</span>
 </li></ul></div>
 </div></div></div>
 </div>

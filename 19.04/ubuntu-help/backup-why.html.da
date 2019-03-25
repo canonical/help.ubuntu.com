@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Back up your important files</title>
+<title>Sikkerhedskopiér dine vigtige filer</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#backup" title="Sikkerhedskopiering">Sikkerhedskopiering</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Back up your important files</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Sikkerhedskopiér dine vigtige filer</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p"><span class="em">Backing up</span> your files simply means making a copy of them for
@@ -80,12 +80,12 @@
   copies off-site and (possibly) encrypted.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html.da" title="How to back up"><span class="title">How to back up</span><span class="linkdiv-dash"> — </span><span class="desc">Use Déjà Dup (or some other backup application) to make copies of
-    your valuable files and settings to protect against loss.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-what.html.da" title="What to back up"><span class="title">What to back up</span><span class="linkdiv-dash"> — </span><span class="desc">Back up anything that you cannot bear to lose if something goes
+<div class="linkdiv "><a class="linkdiv" href="backup-what.html.da" title="Hvad der skal sikkerhedskopieres"><span class="title">Hvad der skal sikkerhedskopieres</span><span class="linkdiv-dash"> — </span><span class="desc">Back up anything that you cannot bear to lose if something goes
     wrong.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.da" title="Lav en sikkerhedskopi"><span class="title">Lav en sikkerhedskopi</span><span class="linkdiv-dash"> — </span><span class="desc">Use Déjà Dup (or some other backup application) to make copies of
+    your valuable files and settings to protect against loss.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.da" title="Where to store your backup"><span class="title">Where to store your backup</span><span class="linkdiv-dash"> — </span><span class="desc">Advice on where to store your backups and what type of storage device
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.da" title="Hvor din sikkerhedskopiering skal gemmes"><span class="title">Hvor din sikkerhedskopiering skal gemmes</span><span class="linkdiv-dash"> — </span><span class="desc">Advice on where to store your backups and what type of storage device
     to use.</span></a></div></div>
 </div></div></div>
 </div>

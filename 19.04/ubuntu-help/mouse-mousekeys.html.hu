@@ -2,7 +2,7 @@
 <html lang=hu>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Click and move the mouse pointer using the keypad</title>
+<title>Kattintás és az egérmutató mozgatása a numerikus billentyűzettel</title>
 <link rel="stylesheet" type="text/css" href="hu.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,32 +65,26 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="mouse.html.hu" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="mouse.html.hu" title="Egér és érintőtábla">Egér és érintőtábla</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="mouse.html.hu" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="mouse.html.hu" title="Egér és érintőtábla">Egér és érintőtábla</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.hu" title="Akadálymentesítés">Akadálymentesítés</a> › <a class="trail" href="a11y.html.hu#mobility" title="Mozgássérültség">Mozgássérültség</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Click and move the mouse pointer using the keypad</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Kattintás és az egérmutató mozgatása a numerikus billentyűzettel</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Ha gondot okoz az egér vagy más mutatóeszköz használata, akkor az egérmutatót irányíthatja a numerikus billentyűzetről is. Ezt a szolgáltatást <span class="em">egérbillentyűknek</span> hívjuk.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
 <p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p>
-<p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
-      by moving your mouse pointer against the top-left corner of the screen,
-      by using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      followed by <span class="key"><kbd>Enter</kbd></span>, or by using the
-      <span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> key.</p>
+<p class="p">A <span class="gui">Tevékenységek</span> áttekintést rákattintva, az egérmutatót a képernyő bal felső sarkába mozgatva, a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> kombináció után az <span class="key"><kbd>Entert</kbd></span> megnyomva, vagy a <span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> billentyűt megnyomva érheti el.</p>
 </li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
-      <span class="gui">Pointing &amp; Clicking</span> section, then press <span class="key"><kbd>Enter</kbd></span>
-      to switch <span class="gui">Mouse Keys</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Kattintson az <span class="gui">Akadálymentesítés</span> elemre az oldalsávon a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">A fel és le nyílbillentyűk segítségével válassza ki az <span class="gui">Egérbillentyűket</span> a <span class="gui">Mutatás és kattintás</span> szakaszban, majd nyomja meg az <span class="key"><kbd>Enter</kbd></span> billentyűt az <span class="gui">Egérbillentyűk</span> <span class="gui">BE</span> állásba kapcsolásához.</p></li>
 <li class="steps"><p class="p">Győződjön meg róla, hogy a <span class="key"><kbd>Num Lock</kbd></span> billentyű ki van kapcsolva. Ezután az egérmutatót a numerikus billentyűzet használatával mozgathatja.</p></li>
 </ol></div></div></div>
 <p class="p">A numerikus billentyűzet a billentyűzet számbillentyűkből álló része, amelyet általában négyzetrácsba rendeznek. Ha billentyűzetén nincs numerikus billentyűzet (például laptop esetén), akkor a funkció billentyűt (<span class="key"><kbd class="key-Fn">Fn</kbd></span>) kell nyomva tartani, és más billentyűk lesznek numerikus billentyűzetként használhatók. Ha gyakran használja laptopon ezt a szolgáltatást, akkor vásárolhat külső USB vagy Bluetooth numerikus billentyűzetet.</p>
@@ -105,7 +99,7 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html.hu" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.hu" title="Bal kezes egér használata">Balkezes</a></span>, <span class="link"><a href="mouse-sensitivity.html.hu" title="Adjust the speed of the mouse and touchpad">sebesség és érzékenység</a></span>, <span class="link"><a href="mouse-touchpad-click.html.hu" title="Kattintás, húzás vagy görgetés az érintőtáblával">kattintás és görgetés az érintőtáblával</a></span>…</span>
+<a href="mouse.html.hu" title="Egér és érintőtábla">Egér és érintőtábla</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.hu" title="Bal kezes egér használata">Balkezes</a></span>, <span class="link"><a href="mouse-sensitivity.html.hu" title="Az egér és érintőtábla sebességének módosítása">sebesség és érzékenység</a></span>, <span class="link"><a href="mouse-touchpad-click.html.hu" title="Kattintás, húzás vagy görgetés az érintőtáblával">kattintás és görgetés az érintőtáblával</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html.hu#mobility" title="Mozgássérültség">Mozgássérültség</a></li>
 </ul></div>

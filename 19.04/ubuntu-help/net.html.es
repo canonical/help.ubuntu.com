@@ -71,8 +71,12 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.es" title="Conexiones inalámbricas">Conexiones inalámbricas</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.es" title="Conectar con una red inalámbrica">Conectar con una red inalámbrica</a></span>, <span class="link"><a href="net-wireless-hidden.html.es" title="Conectar a una red inalámbrica oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.es" title="¿Por qué mi red inalámbrica permanece desconectada?">desconectarse</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.es" title="Wireless networking">Wireless networking</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-connect.html.es" title="Conectar con una red inalámbrica">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.es" title="Conectar a una red inalámbrica oculta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.es" title="¿Por qué mi red inalámbrica permanece desconectada?">Wi-Fi disconnecting</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-chat.html.es" title="Charlas y redes sociales">Charlas y redes sociales</a></div>
@@ -83,10 +87,6 @@
 <div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.es" title="Compartir su escritorio">Compartición del escritorio</a></span>, <span class="link"><a href="files-share.html.es" title="Compartir archivos por correo-e">Compartir archivos por correo-e</a></span>, <span class="link"><a href="sharing-media.html.es" title="Compartir su música, fotos y vídeos">Compartición de medios</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.es" title="Conexiones cableadas">Conexiones cableadas</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.es" title="Conectar a una red cableada (Ethernet)">Conexiones de Internet cableadas</a></span>, <span class="link"><a href="net-fixed-ip-address.html.es" title="Crear una conexión con una dirección IP fija">direcciones IP fijas</a></span>…</span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="contacts.html.es" title="Contactos">Contactos</a></div>
 <div class="desc"><span class="desc">Acceder a sus contactos.</span></div>
 </div>
@@ -95,12 +95,11 @@
 <div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html.es" title="¿Necesito software antivirus?">Software antivirus</a></span>, <span class="link"><a href="net-firewall-on-off.html.es" title="Activar y bloquear el acceso al cortafuegos">cortafuegos básico</a></span>, <span class="link"><a href="net-firewall-on-off.html.es" title="Activar y bloquear el acceso al cortafuegos">puertos del cortafuegos</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.es" title="Navegadores">Navegadores</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.es" title="Cambiar qué navegador abre de manera predeterminada los sitios web">Cambiar el navegador predeterminado</a></span>, <span class="link"><a href="net-install-flash.html.es" title="Instalar el complemento Flash">instalar flash</a></span>…</span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.es" title="Problemas de red">Problemas de red</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionar problemas de la red inalámbrica</a></span>, <span class="link"><a href="net-wireless-find.html.es" title="No puedo ver mi red inalámbrica en la lista">Buscar su red inalámbrica</a></span>…</span></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.es" title="No puedo ver mi red inalámbrica en la lista">finding your Wi-Fi network</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-email.html.es" title="Software de correo electrónico">Software de correo electrónico</a></div>
@@ -109,6 +108,14 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-general.html.es" title="Términos y consejos sobre redes">Términos y consejos sobre redes</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.es" title="Buscar su dirección IP">Saber su dirección IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.es" title="¿Qué significan WEP y WPA?">seguridad WEP y WPA</a></span>, <span class="link"><a href="net-macaddress.html.es" title="¿Qué es una dirección MAC?">dirección MAC</a></span>, <span class="link"><a href="net-proxy.html.es" title="Definir la configuración del proxy">proxies</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-browser.html.es" title="Web browsers">Web browsers</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.es" title="Cambiar qué navegador abre de manera predeterminada los sitios web">Cambiar el navegador predeterminado</a></span>, <span class="link"><a href="net-install-flash.html.es" title="Instalar el complemento Flash">instalar flash</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.es" title="Wired networking">Wired networking</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.es" title="Conectar a una red cableada (Ethernet)">Conexiones de Internet cableadas</a></span>, <span class="link"><a href="net-fixed-ip-address.html.es" title="Crear una conexión con una dirección IP fija">direcciones IP fijas</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

@@ -72,22 +72,18 @@
 <a href="#" class="ui-overlay-close" title="Chiudi">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-responding-to-messages.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Riproduci" data-pause-label="Pausa"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="3"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="3">Rispondere ai messaggi</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="3" data-ttml-end="6"><div class="media-ttml-node media-ttml-p" data-ttml-begin="3" data-ttml-end="6">Move your mouse over the chat message that appears near the top
-           of the screen.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="9"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="9">Iniziare a digitare la risposta e, una volta finito, premere <span class="key"><kbd>Invio</kbd></span> per inviare la risposta.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="3" data-ttml-end="6"><div class="media-ttml-node media-ttml-p" data-ttml-begin="3" data-ttml-end="6">Spostare il puntatore sul messaggio visualizzato in alto sullo schermo.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="9"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="9">Iniziare a digitare la risposta e, una volta finito, premere <span class="key"><kbd>Invio</kbd></span> per inviarla.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="10"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="10">Chiudere il messaggio di chat.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Risposte rimandate</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="22"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="22">A chat message near the top of the screen disappears after a
-           while if you do not move your mouse over the message.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="22" data-ttml-end="24"><div class="media-ttml-node media-ttml-p" data-ttml-begin="22" data-ttml-end="24">To get back to your unanswered message, click the clock on the
-           top bar.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="24" data-ttml-end="26"><div class="media-ttml-node media-ttml-p" data-ttml-begin="24" data-ttml-end="26">From the notification list, choose your message.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="26" data-ttml-end="28"><div class="media-ttml-node media-ttml-p" data-ttml-begin="26" data-ttml-end="28">Start typing your reply.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="32" data-ttml-end="35"><div class="media-ttml-node media-ttml-p" data-ttml-begin="32" data-ttml-end="35">To show the notification list, press <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd>V</kbd></span></span>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="22"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="22">Un messaggio visualizzato in alto sullo schermo scompare dopo un breve intervallo di tempo se non si sposta il mouse su di esso.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="22" data-ttml-end="24"><div class="media-ttml-node media-ttml-p" data-ttml-begin="22" data-ttml-end="24">Per tornare al messaggio senza risposta, fare clic sull'orologio nella barra superiore.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="24" data-ttml-end="26"><div class="media-ttml-node media-ttml-p" data-ttml-begin="24" data-ttml-end="26">Dall'elenco delle notifiche, selezionare il messaggio.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="26" data-ttml-end="28"><div class="media-ttml-node media-ttml-p" data-ttml-begin="26" data-ttml-end="28">Iniziare a digitare la propria risposta.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="32" data-ttml-end="35"><div class="media-ttml-node media-ttml-p" data-ttml-begin="32" data-ttml-end="35">Per mostrare l'elenco delle notifiche, premere <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd>V</kbd></span></span>
 </div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="35" data-ttml-end="41"><div class="media-ttml-node media-ttml-p" data-ttml-begin="35" data-ttml-end="41">Use the arrow keys to select the message you want to reply to,
-            and press <span class="key"><kbd>Enter</kbd></span>.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">Start typing your reply.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="35" data-ttml-end="41"><div class="media-ttml-node media-ttml-p" data-ttml-begin="35" data-ttml-end="41">Usare i tasti freccia per selezionare il messaggio a cui rispondere, quindi premere <span class="key"><kbd>Invio</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="41" data-ttml-end="44"><div class="media-ttml-node media-ttml-p" data-ttml-begin="41" data-ttml-end="44">Iniziare a digitare la propria risposta.</div></div>
 </div>
 </div></div></div>
 </div></div>
@@ -96,34 +92,28 @@
 <div class="hgroup"><h2 class="title"><span class="title">Rispondere ai messaggi di chat con il mouse</span></h2></div>
 <div class="region"><div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Move your mouse over the chat message that appears near the top
-       of the screen.</p></li>
+<li class="steps"><p class="p">Spostare il puntatore sul messaggio visualizzato in alto sullo schermo.</p></li>
 <li class="steps"><p class="p">Iniziare a digitare la propria risposta e, una volta terminato, premere <span class="key"><kbd>Invio</kbd></span> per inviare la risposta.</p></li>
-<li class="steps"><p class="p">To close the chat message, click the close button at the top
-       right corner of the chat message.</p></li>
+<li class="steps"><p class="p">Per chiudere il messaggio, fare clic sul pulsante di chiusura nell'angolo in alto a destra della finestra del messaggio.</p></li>
 </ol></div></div></div>
 <p class="p"></p>
 </div></div>
 </div></div>
 <div id="respond-to-messages-delayed-mouse" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Delayed response to a chat message using the mouse</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Risposta ritardata a un messaggio col mouse</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">When a chat message appears near the top of the screen and you do
-       not move your mouse over the message, it disappears after a while.</p></li>
-<li class="steps"><p class="p">To get back to your unanswered message, click the clock on the
-       top bar.</p></li>
-<li class="steps"><p class="p">From the notification list, choose the message you
-       want to reply to, and click it.</p></li>
-<li class="steps"><p class="p">When the chat message is shown, start typing your reply.</p></li>
+<li class="steps"><p class="p">Quando viene visualizzato un messaggio in alto sullo schermo, questo scompare dopo un breve intervallo di tempo se non si sposta il mouse su di esso.</p></li>
+<li class="steps"><p class="p">Per tornare al messaggio senza risposta, fare clic sull'orologio nella barra superiore.</p></li>
+<li class="steps"><p class="p">Dall'elenco delle notifiche, scegliere il messaggio a cui rispondere e fare clic su di esso.</p></li>
+<li class="steps"><p class="p">Una volta visualizzato il messaggio, iniziare a digitare la risposta.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div id="respond-to-messages-delayed-keyboard" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Delayed response to a chat message using the keyboard</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Risposta ritardata a un messaggio con la tastiera</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">To get back to your unanswered chat messages, press <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd>V</kbd></span></span> to display the list of unanswered notifications.</p></li>
-<li class="steps"><p class="p">Use the arrow keys to select the notification you want to reply
-      to, and press <span class="key"><kbd>Enter</kbd></span>.</p></li>
-<li class="steps"><p class="p">When the chat message is shown, start typing your reply.</p></li>
+<li class="steps"><p class="p">Per ritornare ai messaggi senza risposta, premere <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd>V</kbd></span></span> per mostrare l'elenco delle notifiche non lette.</p></li>
+<li class="steps"><p class="p">Usare i tasti freccia per selezionare la notifica a cui si vuole rispondere, quindi premere <span class="key"><kbd>Invio</kbd></span>.</p></li>
+<li class="steps"><p class="p">Una volta visualizzato il messaggio, iniziare a digitare la risposta.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 </div>

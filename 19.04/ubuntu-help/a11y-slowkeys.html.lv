@@ -78,9 +78,8 @@
 <div class="contents">
 <p class="p">Ieslēdziet <span class="em">lēnos taustiņus</span>, ja ir nepieciešama aizture starp taustiņa nospiešanu un burta parādīšanos uz ekrāna. Tas nozīmē, ka jums jātur nospiests katra burta taustiņš nedaudz ilgāk, lai tas parādītos. Izmantojiet lēnos taustiņus tad, ja jums sanāk nejauši nospiest vairākus taustiņus vienlaicīgi rakstot, vai arī ja jums ir grūtības nospiest pareizo taustiņu ar pirmo reizi.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Rakstīšanas asistents (AccessX)</span> un sadaļā <span class="gui">Rakstīšana</span>.</p></li>
 <li class="steps"><p class="p">Pārslēdziet <span class="gui">Lēnie taustiņi</span> uz <span class="gui">|</span>.</p></li>

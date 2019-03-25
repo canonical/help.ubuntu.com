@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Views preferences in Files</title>
+<title>Visningsindstillinger i Filer</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,16 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » <a class="trail" href="nautilus-prefs.html.da" title="File manager preferences">File manager preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » <a class="trail" href="nautilus-prefs.html.da" title="Indstillinger for filhåndtering">Indstillinger for filhåndtering</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Views preferences in <span class="app">Files</span></span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Visningsindstillinger i <span class="app">Filer</span></span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">You can change how files and folders are grouped and sorted by default.
 Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui">Preferences</span></span> in the top bar while
 <span class="app">Files</span> is open and select the <span class="gui">Views</span> tab.</p></div>
 <div id="default-view" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Default view</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Standardvisning</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Arrange items</span></dt>
 <dd class="terms">
@@ -81,7 +81,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
     <span class="gui">Arrange items</span> drop-down list in the preferences to sort by name,
     file size, file type, when they were last modified, when they were last
     accessed or when they were trashed.</p>
-<p class="p">You can change how <span class="link"><a href="files-sort.html.da" title="Sort files and folders">files are
+<p class="p">You can change how <span class="link"><a href="files-sort.html.da" title="Sortér filer og mapper">files are
     sorted</a></span> in an individual folder by clicking the view options
     
     button in the toolbar and choosing <span class="gui">Name</span>,
@@ -98,7 +98,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.da" title="File manager preferences">File manager preferences</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.da" title="Indstillinger for filhåndtering">Indstillinger for filhåndtering</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div></div>
 </div>

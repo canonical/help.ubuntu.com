@@ -67,7 +67,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="disk.html.da" title="Disks &amp; storage">Disks &amp; storage</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.da" title="Install &amp; remove software">Tilføj / fjern software</a> » </div>
 </div>
@@ -111,11 +111,11 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="disk.html.da" title="Disks &amp; storage">Disks &amp; storage</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html.da" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.da" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.da" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.da" title="Manage volumes and partitions">volumes and partitions</a></span>…
+<a href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a><span class="desc"> — 
+    <span class="link"><a href="disk-capacity.html.da" title="Tjek hvor meget diskplads der er tilbage">Disk space</a></span>,
+    <span class="link"><a href="disk-benchmark.html.da" title="Test ydelsen af din harddisk">performance</a></span>,
+    <span class="link"><a href="disk-check.html.da" title="Tjek din harddisk for problemer">problems</a></span>,
+    <span class="link"><a href="disk-partitions.html.da" title="Håndter diskenheder og partitioner">volumes and partitions</a></span>…
   </span>
 </li>
 <li class="links ">

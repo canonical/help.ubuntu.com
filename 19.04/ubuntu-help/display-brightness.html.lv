@@ -81,10 +81,9 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Lai iestatītu ekrāna spilgtumu, lietojot paneli Barošana:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span>
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā nospiediet <span class="gui">Barošana</span>.</p></li>
 <li class="steps"><p class="p">Pielabojiet <span class="gui">Ekrāna gaišuma</span> slīdni uz vēlamo vērtību. Izmaiņām vajadzētu stāties spēkā uzreiz.</p></li>
 </ol></div>
 </div></div>
@@ -98,12 +97,7 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.lv" title="Nomainīt darbvirsmas un bloķēšanas ekrāna fonus">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.lv" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.lv" title="Iestatiet ekrāna spilgtumu">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.lv" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a><span class="desc"> — <span class="link"><a href="look-background.html.lv" title="Nomainīt darbvirsmas un bloķēšanas ekrāna fonus">Fons</a></span>, <span class="link"><a href="look-resolution.html.lv" title="Mainīt ekrāna izšķirtspēju vai orientāciju">izmērs un orientācija</a></span>, <span class="link"><a href="display-brightness.html.lv" title="Iestatiet ekrāna spilgtumu">spilgtums</a></span>, <span class="link"><a href="display-night-light.html.lv" title="Pielāgot ekrāna krāsas temperatūru">krāsu temperatūra</a></span>…</span>
 </li>
 <li class="links ">
 <a href="hardware-problems-graphics.html.lv" title="Ekrāna problēmas">Ekrāna problēmas</a><span class="desc"> — Ekrāna un video problēmu novēršana.</span>

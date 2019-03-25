@@ -2,7 +2,7 @@
 <html lang=es>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the color temperature of your screen</title>
+<title>Para ajustar la temperatura de color de su monitor</title>
 <link rel="stylesheet" type="text/css" href="es.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="prefs.html.es" title="Usuario y configuración del sistema">Configuración</a> » <a class="trail" href="prefs-display.html.es" title="Pantalla">Pantalla</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Adjust the color temperature of your screen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Para ajustar la temperatura de color de su monitor</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">A computer monitor emits blue light which contributes to sleeplessness and
@@ -78,13 +78,13 @@
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Dispositivos</span> en la barra lateral.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Night Light</span> to open the settings.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Pantallas</span> en la barra lateral para abrir el panel.</p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Luz nocturna</span> para abrir la configuración.</p></li>
 <li class="steps">
 <p class="p">Set the <span class="gui">Night Light</span> switch to <span class="gui">ON</span>. The screen
       color will follow the sunset and sunrise times for your location. Click
       the <span class="gui">Manual</span> button to set the times to a custom schedule.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="link"><a href="shell-introduction.html.es" title="Introducción a GNOME">top bar</a></span> shows when
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="link"><a href="shell-introduction.html.es" title="Visual overview of GNOME">top bar</a></span> shows when
         <span class="gui">Night Light</span> is active. It can be temporarily disabled from
         the system menu.</p></div></div></div></div>
 </li>
@@ -99,7 +99,7 @@
       <span class="link"><a href="look-background.html.es" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo">Background</a></span>,
       <span class="link"><a href="look-resolution.html.es" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
       <span class="link"><a href="display-brightness.html.es" title="Establecer el brillo de la pantalla">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.es" title="Adjust the color temperature of your screen">color temperature</a></span>…
+      <span class="link"><a href="display-night-light.html.es" title="Para ajustar la temperatura de color de su monitor">color temperature</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

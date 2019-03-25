@@ -71,7 +71,8 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ru" title="Введение в GNOME"><span class="title">Введение в GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Наглядное введение в функциональные возможности рабочего стола. Верхняя панель. Режим <span class="gui">Обзора</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ru" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ru" title="Завершение сеанса, выключение компьютера или переключение пользователей"><span class="title">Завершение сеанса, выключение компьютера или переключение пользователей</span><span class="linkdiv-dash"> — </span><span class="desc">Способы завершения работы с учётной записью: завершение сеанса, переключение пользователей и другие.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ru" title="Запуск приложений"><span class="title">Запуск приложений</span><span class="linkdiv-dash"> — </span><span class="desc">Запуск приложений из режима <span class="gui">Обзора</span>.</span></a></div></div>

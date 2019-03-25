@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="privacy.html.da" title="Privacy Settings">Privacy Settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="privacy.html.da" title="Privatlivsindstillinger">Privatlivsindstillinger</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -99,7 +99,7 @@
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You can delete files immediately and permanently without using the Trash.
-    See <span class="link"><a href="files-delete.html.da#permanent" title="Permanently delete a file">Permanently delete a file</a></span> for information.</p></div></div></div></div>
+    See <span class="link"><a href="files-delete.html.da#permanent" title="Slet en fil permanent">Slet en fil permanent</a></span> for information.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -108,8 +108,8 @@
 <div class="region"><ul>
 <li class="links "><a href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a></li>
 <li class="links ">
-<a href="privacy.html.da" title="Privacy Settings">Privacy Settings</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.da" title="Automatically lock your screen">Screen lock</a></span>,
+<a href="privacy.html.da" title="Privatlivsindstillinger">Privatlivsindstillinger</a><span class="desc"> — 
+      <span class="link"><a href="privacy-screen-lock.html.da" title="Låser skærmen automatisk">Screen lock</a></span>,
       <span class="link"><a href="privacy-history-recent-off.html.da" title="Turn off or limit file history tracking">Usage history</a></span>,
       <span class="link"><a href="privacy-purge.html.da" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
     </span>

@@ -64,28 +64,35 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Wireless networking">Wireless networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Het draadloze netwerk uitschakelen (vliegtuig-modus)</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Als u zich met uw computer in een vliegtuig bevindt (of een andere plek waar u geen draadloze verbinding mag hebben), dan dient u het draadloze netwerk uit te schakelen. Of misschien wilt u uw draadloze netwerk uitschakelen om een andere reden (bijvoorbeeld om energie te besparen).</p>
-<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="em">Vliegtuigmodus</span> schakelt al uw draadloze verbindingen uit, waaronder wifi-, 3G- en Bluetooth-verbindingen.</p></div></div></div></div>
+<div class="note" title="Opmerking"><div class="inner"><div class="region"><div class="contents"><p class="p">Using <span class="em">Airplane Mode</span> will completely turn off all wireless
+    connections, including Wi-Fi, 3G and Bluetooth connections.</p></div></div></div></div>
 <p class="p">Vliegtuigstand inschakelen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Netwerk</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Netwerk</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Zet <span class="gui">Vliegtuigmodus</span> <span class="gui">AAN</span>.  Hiermee schakelt u uw draadloze verbinding uit totdat u de vliegtuigmodus weer uitzet.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">U kunt uw wifiverbinding uit zetten vanuit het <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">systeemmenu</a></span> door op de naam van de verbinding te klikken en <span class="gui">Uitzetten</span> te kiezen..</p></div></div></div></div>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You can turn off your Wi-Fi connection from the
+    <span class="gui"><a href="shell-introduction.html.nl#yourname" title="U en uw computer">system menu</a></span> by clicking on 
+    the connection name and choosing <span class="gui">Turn Off</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
+<a href="net-wireless.html.nl" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li></ul></div>
 </div></div></div>
 </div>

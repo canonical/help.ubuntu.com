@@ -89,6 +89,7 @@
 <div class="region"><div class="contents">
 <p class="p">Innym sposobem uruchomienia programu jest naciśnięcie klawiszy <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, wpisanie jego <span class="em">polecenia</span>, a następnie naciśnięcie klawisz <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Na przykład, aby uruchomić program <span class="app">Rhythmbox</span>, naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> i wpisz „<span class="cmd">rhythmbox</span>” (bez cudzysłowów). Nazwa programu to polecenie do jego uruchomienia.</p>
+<p class="p">Użyj klawiszy strzałek, aby szybko przejść do poprzednio wykonywanych poleceń.</p>
 </div></div>
 </div></div>
 </div>

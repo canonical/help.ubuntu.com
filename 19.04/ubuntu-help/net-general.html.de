@@ -86,13 +86,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.de" title="Drahtlose Verbindungen">Funknetzwerk</a></span>, <span class="link"><a href="net-wired.html.de" title="Kabelverbindungen">Kabelgebunden</a></span>, <span class="link"><a href="net-problem.html.de" title="Netzwerkprobleme">Verbindungsprobleme</a></span>, <span class="link"><a href="net-browser.html.de" title="Webbrowser">Webbrowser</a></span>, <span class="link"><a href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail-Konten</a></span> …</span>
+<a href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.de" title="Wireless networking">Funknetzwerk</a></span>, <span class="link"><a href="net-wired.html.de" title="Wired networking">Kabelgebunden</a></span>, <span class="link"><a href="net-problem.html.de" title="Netzwerkprobleme">Verbindungsprobleme</a></span>, <span class="link"><a href="net-browser.html.de" title="Web browsers">Webbrowser</a></span>, <span class="link"><a href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail-Konten</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.de" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span>
+<a href="net-wireless.html.de" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.de" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li></ul></div>
 </div></div>
 </div>

@@ -95,7 +95,10 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Näytä komentoikkuna (komentojen syöttöä varten)</p></td>
+<td style="border-top-style: solid;">
+<p class="p">Pop up command window (for quickly running commands).</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
+</td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
@@ -232,7 +235,7 @@
 <a href="tips.html.fi" title="Niksit ja vinkit">Niksit ja vinkit</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.fi" title="Erikoismerkkien käyttäminen">Erikoismerkit</a></span>, <span class="link"><a href="mouse-middleclick.html.fi" title="Hiiren keskimmäisen painikkeen napsautus">hiiren keskimmäisen painikkeen oikotiet</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fi" title="Käytä vaihtoehtoisia näppäimistöasetteluja">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fi" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>...</span>
+<a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.fi" title="Käytä vaihtoehtoisia näppäimistöasetteluja">Näppäimistöasettelut</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.fi" title="Aseta näppäimistön kohdistin vilkkumaan">osoitin vilkkumaan</a></span>, <span class="link"><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">esteettömyys</a></span>…</span>
 </li>
 <li class="links "><a href="shell-overview.html.fi#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a></li>
 </ul></div>

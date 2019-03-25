@@ -89,6 +89,7 @@
 <div class="region"><div class="contents">
 <p class="p">Een andere manier om een toepassing te starten is door op <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> te drukken, de <span class="em">opdrachtnaam</span> ervan in te voeren en op de <span class="key"><kbd>Enter</kbd></span>-toets te drukken.</p>
 <p class="p">Om bijvoorbeeld <span class="app">Rhythmbox</span> te starten: druk op <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> en typ ‘<span class="cmd">rhythmbox</span>’ (zonder de aanhalingstekens). De naam van de toepassing is de opdracht om het programma te starten.</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
 </div></div>
 </div></div>
 </div>

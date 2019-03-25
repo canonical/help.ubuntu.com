@@ -87,16 +87,16 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
+<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Wireless networking">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Wired networking">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Web browsers">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные сети</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.ru" title="Подключение к беспроводной сети">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.ru" title="Подключение к скрытой беспроводной сети">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.ru" title="Почему беспроводное соединение постоянно прерывается?">Disconnecting</a></span>…
+<a href="net-wireless.html.ru" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ru" title="Подключение к беспроводной сети">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ru" title="Подключение к скрытой беспроводной сети">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ru" title="Почему беспроводное соединение постоянно прерывается?">Wi-Fi disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div>

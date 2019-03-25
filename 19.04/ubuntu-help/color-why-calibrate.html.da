@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why do I need to do calibration myself?</title>
+<title>Hvorfor skal jeg selv kalibrere?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Color management">Color management</a> › <a class="trail" href="color.html.da#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#calibration" title="Kalibrering">Kalibrering</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="color.html.da" title="Color management">Color management</a> › <a class="trail" href="color.html.da#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#calibration" title="Kalibrering">Kalibrering</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why do I need to do calibration myself?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvorfor skal jeg selv kalibrere?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">
@@ -98,19 +98,19 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html.da#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.da#calibration" title="Kalibrering">Kalibrering</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-notifications.html.da" title="Can I get notified when my color profile is inaccurate?">Can I get notified when my color profile is inaccurate?</a><span class="desc"> — You can be notified if your color profile is old and inaccurate.</span>
+<a href="color-gettingprofiles.html.da" title="Hvor finder jeg farveprofiler?">Hvor finder jeg farveprofiler?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>
 </li>
 <li class="links ">
-<a href="color-assignprofiles.html.da" title="How do I assign profiles to devices?">How do I assign profiles to devices?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-assignprofiles.html.da" title="Hvordan tildeler jeg profiler til enheder?">Hvordan tildeler jeg profiler til enheder?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
 </li>
 <li class="links ">
-<a href="color-gettingprofiles.html.da" title="Where do I get color profiles?">Where do I get color profiles?</a><span class="desc"> — Color profiles are provided by vendors and can be generated yourself.</span>
+<a href="color-notifications.html.da" title="Kan jeg blive underrettet når min farveprofil er upræcis?">Kan jeg blive underrettet når min farveprofil er upræcis?</a><span class="desc"> — You can be notified if your color profile is old and inaccurate.</span>
 </li>
 </ul></div>
 </div></div>

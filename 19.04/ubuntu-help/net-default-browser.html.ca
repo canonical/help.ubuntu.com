@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-browser.html.ca" title="Navegadors web">Navegadors web</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-browser.html.ca" title="Web browsers">Web browsers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Canvieu quin navegador obre els llocs web de manera predeterminada</span></h1></div>
@@ -77,14 +77,14 @@
 <li class="steps"><p class="p">Trieu <span class="gui">Aplicacions per defecte</span> de la llista, a la part esquerra de la finestra.</p></li>
 <li class="steps"><p class="p">Trieu el navegador web amb que voleu obrir enllaços canviant l'opció <span class="gui">Web</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Quan obriu un navegador web diferent, podria dir-vos que ja no és el navegador predeterminat. Si això passa, feu clic al botó <span class="gui">Cancelar</span> (o similar) de manera que no intenti establir-se de nou com a navegador predeterminat.</p>
+<p class="p">Quan obriu un navegador web diferent, podria dir-vos que ja no és el navegador predeterminat. Si això passa, feu clic al botó <span class="gui">Cancel·la</span> (o similar) de manera que no intenti establir-se de nou com a navegador predeterminat.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.ca" title="Navegadors web">Navegadors web</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.ca" title="Canvieu quin navegador obre els llocs web de manera predeterminada">Canvieu el navegador predeterminat</a></span>, <span class="link"><a href="net-install-flash.html.ca" title="Install the Flash plug-in">instal·lar Flash</a></span>…</span>
+<a href="net-browser.html.ca" title="Web browsers">Web browsers</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.ca" title="Canvieu quin navegador obre els llocs web de manera predeterminada">Canvieu el navegador predeterminat</a></span>, <span class="link"><a href="net-install-flash.html.ca" title="Install the Flash plug-in">instal·lar Flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

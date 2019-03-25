@@ -70,14 +70,13 @@
 <div class="hgroup"><h1 class="title"><span class="title">Pantalla</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-night-light.html.es" title="Adjust the color temperature of your screen"><span class="title">Adjust the color temperature of your screen</span><span class="linkdiv-dash"> — </span><span class="desc">Night Light changes the color of your displays according to the time
-    of day.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-background.html.es" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo"><span class="title">Cambiar el fondo del escritorio y de la pantalla de bloqueo</span><span class="linkdiv-dash"> — </span><span class="desc">Establecer una imagen, color o degradado como su fondo de escritorio o como fondo de su pantalla de bloqueo.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-resolution.html.es" title="Change the resolution or orientation of the screen"><span class="title">Change the resolution or orientation of the screen</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar la resolución de la pantalla y su orientación (rotación).</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.es" title="Conectar otra pantalla al equipo"><span class="title">Conectar otra pantalla al equipo</span><span class="linkdiv-dash"> — </span><span class="desc">Configurar un monitor adicional.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-brightness.html.es" title="Establecer el brillo de la pantalla"><span class="title">Establecer el brillo de la pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar el brillo de la pantalla para hacerla más legible en condiciones de mucha luz ambiental.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-blank.html.es" title="Establecer el tiempo de apagado de la pantalla"><span class="title">Establecer el tiempo de apagado de la pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar el tiempo de apagado de la pantalla para ahorrar energía.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.es" title="La pantalla se bloquea demasiado deprisa"><span class="title">La pantalla se bloquea demasiado deprisa</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie el tiempo de espera antes de que se bloquee la pantalla en la configuración de <span class="gui">Privacidad</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-night-light.html.es" title="Para ajustar la temperatura de color de su monitor"><span class="title">Para ajustar la temperatura de color de su monitor</span><span class="linkdiv-dash"> — </span><span class="desc">La luz nocturna cambia el color de sus pantallas acorde a la hora del día.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

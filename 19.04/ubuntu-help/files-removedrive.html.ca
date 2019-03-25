@@ -77,7 +77,7 @@
 <li class="steps"><p class="p">Des de la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> obriu <span class="app">Fitxers</span>.</p></li>
 <li class="steps">
 <p class="p">Localitzeu el dispositiu a la barra lateral. Hauria de tenir una petita icona d'expulsió al costat del nom. Feu clic a la icona d'expulsió per eliminar o expulsar amb seguretat el dispositiu.</p>
-<p class="p">Opcionalment, podeu fer clic amb el botó dret al nom del dispositiu a la barra lateral i seleccionar <span class="gui">Expulsar</span>.</p>
+<p class="p">Opcionalment, podeu fer clic amb el botó dret al nom del dispositiu a la barra lateral i seleccionar <span class="gui">Expulsa</span>.</p>
 </li>
 </ol></div>
 </div></div>
@@ -90,7 +90,7 @@
 <li class="steps"><p class="p">Feu clic a <span class="gui">Cancel·la</span>.</p></li>
 <li class="steps"><p class="p">Tanqueu tots els fitxers del dispositiu.</p></li>
 <li class="steps"><p class="p">Feu clic a la icona d'expulsió per eliminar o expulsar amb seguretat el dispositiu.</p></li>
-<li class="steps"><p class="p">Opcionalment, podeu fer clic amb el botó dret al nom del dispositiu a la barra lateral i seleccionar <span class="gui">Expulsar</span>.</p></li>
+<li class="steps"><p class="p">Opcionalment, podeu fer clic amb el botó dret al nom del dispositiu a la barra lateral i seleccionar <span class="gui">Expulsa</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-warning" title="Atenció"><div class="inner"><div class="region"><div class="contents"><p class="p">També pot triar <span class="gui">Expulsa de totes maneres</span> per treure el dispositiu sense tancar els fitxers. Això pot provocar errors en les aplicacions que tenen aquests fitxers oberts.</p></div></div></div></div>
 </div></div>

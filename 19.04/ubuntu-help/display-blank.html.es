@@ -84,7 +84,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Energía</span> en la barra lateral.</p></li>
 <li class="steps"><p class="p">Use la lista desplegable <span class="gui">Apagar la pantalla</span> en <span class="gui">Ahorro de energía</span> para establecer el tiempo de apagado de la pantalla, o para desactivarlo completamente.</p></li>
 </ol></div>
 </div></div>
@@ -102,7 +102,7 @@
       <span class="link"><a href="look-background.html.es" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo">Background</a></span>,
       <span class="link"><a href="look-resolution.html.es" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
       <span class="link"><a href="display-brightness.html.es" title="Establecer el brillo de la pantalla">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.es" title="Adjust the color temperature of your screen">color temperature</a></span>…
+      <span class="link"><a href="display-night-light.html.es" title="Para ajustar la temperatura de color de su monitor">color temperature</a></span>…
     </span>
 </li>
 <li class="links ">

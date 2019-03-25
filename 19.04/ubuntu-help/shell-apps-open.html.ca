@@ -70,10 +70,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Iniciació d'aplicacions</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Moveu el punter del ratolí a la cantonada <span class="gui">Activitats</span> a la part superior esquerra de la pantalla per veure la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span>. Aquí és on podeu trobar totes les vostres aplicacions. També podeu obrir la vista general prement la tecla <span class="key"><a href="keyboard-key-super.html.ca" title="Què és la tecla Super?"><kbd>Super</kbd></a></span>.</p>
+<p class="p">Moveu el punter del ratolí a la cantonada <span class="gui">Activitats</span> a la part superior esquerra de la pantalla per veure la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span>. Aquí és on podeu trobar totes les aplicacions. També podeu obrir la vista general prement la tecla <span class="key"><a href="keyboard-key-super.html.ca" title="Què és la tecla Super?"><kbd>Super</kbd></a></span>.</p>
 <p class="p">Hi ha diverses maneres d'obrir una aplicació una vegada que estigueu a la vista general d'<span class="gui">Activitats</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Comenceu a escriure el nom d'una aplicació -- la cerca comença a l'instant. (Si això no passa, feu clic a la barra de cerca a la part superior de la pantalla i comenceu a escriure). Si no coneixeu el nom exacte d'una aplicació, intenteu escriure un terme relacionat. Feu clic a la icona de l'aplicació per iniciar-la.</p></li>
+<li class="list"><p class="p">Comenceu a escriure el nom d'una aplicació -- la cerca comença a l'instant. Si això no passa, feu clic a la barra de cerca a la part superior de la pantalla i comenceu a escriure. Si no coneixeu el nom exacte d'una aplicació, intenteu escriure un terme relacionat. Feu clic a la icona de l'aplicació per iniciar-la.</p></li>
 <li class="list">
 <p class="p">Algunes aplicacions tenen icones al <span class="em">tauler</span>, la franja vertical d'icones a la part esquerra de la vista general d'<span class="gui">Activitats</span>. Feu clic en una d'aquestes per iniciar l'aplicació corresponent.</p>
 <p class="p">Si teniu aplicacions que utilitzeu amb molta freqüència, podeu <span class="link"><a href="shell-apps-favorites.html.ca" title="Fixeu les vostres aplicacions preferides al taulell">afegir-les al tauler</a></span> vosaltres mateixos.</p>
@@ -87,8 +87,9 @@
 <div class="note note-tip" title="Suggeriment"><div class="inner">
 <div class="title title-note"><h2><span class="title">Executar una ordre ràpidament</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Una altra forma d'executar una aplicació és prémer<span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, entrar el <span class="em">nom de la comanda</span>, i aleshores prement la tecla <span class="key"><kbd>Retorn</kbd></span>.</p>
+<p class="p">Una altra forma d'executar una aplicació és prémer<span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, entrar el <span class="em">nom de l'ordre</span>, i aleshores prement la tecla <span class="key"><kbd>Retorn</kbd></span>.</p>
 <p class="p">Per exemple, per executar <span class="app">Rhythmbox</span>, premeu <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> i escriviu ‘<span class="cmd">rhythmbox</span>’ (sense les cometes senzilles). El nom de l'aplicació és l'ordre per iniciar el programa.</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
 </div></div>
 </div></div>
 </div>

@@ -88,7 +88,7 @@
 <p class="p">För att högerklicka med ett simulerat sekundärklick, håll ner den vänstra musknappen där du vill högerklicka, och släpp. Pekaren fylls med en annan färg medan du håller nere musknappen. När den bytt färg helt, släpp musknappen för att högerklicka.</p>
 <p class="p">Vissa speciella markörer, exempelvis markören för att ändra storlek, ändrar inte färg. Du kan fortfarande använda simulerade sekundärklick som vanligt, även om du inte får visuell återkoppling från markören.</p>
 <p class="p">Om du använder <span class="link"><a href="mouse-mousekeys.html.sv" title="Klicka och flytta muspekaren med det numeriska tangentbordet">Mustangenter</a></span> låter detta dig också högerklicka genom att hålla ner tangenten <span class="key"><kbd>5</kbd></span> på det numeriska tangentbordet.</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">I översikten <span class="gui">Aktiviteter</span> kan du alltid klicka länge för att högerklicka, även om denna funktion är inaktiverad. Att klicka länge fungerar lite annorlunda i översikten: du behöver inte släppa knappen för att högerklicka.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">I översiktsvyn <span class="gui">Aktiviteter</span> kan du alltid klicka länge för att högerklicka, även om denna funktion är inaktiverad. Att klicka länge fungerar lite annorlunda i översikten: du behöver inte släppa knappen för att högerklicka.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.hu#universalicons" title="Akadálymentesítés menü ikonjai">Akadálymentesítés menü ikonjai</a></li>
 <li class="links "><a href="status-icons.html.hu#audioicons" title="Hangerőszabályzó ikonjai">Hangerőszabályzó ikonjai</a></li>
 <li class="links "><a href="status-icons.html.hu#bluetoothicons" title="Bluetooth-kezelő ikonjai">Bluetooth-kezelő ikonjai</a></li>
-<li class="links "><a href="status-icons.html.hu#networkicons" title="Hálózatkezelő ikonjai">Hálózatkezelő ikonjai</a></li>
+<li class="links ">
+<a href="status-icons.html.hu#networkicons" title="Hálózatkezelő ikonjai">Hálózatkezelő ikonjai</a><span class="desc"> — A Hálózatkezelő ikonok jelentésének magyarázata.</span>
+</li>
 <li class="links "><a href="status-icons.html.hu#batteryicons" title="Energiakezelő ikonjai">Energiakezelő ikonjai</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Hálózatkezelő ikonjai</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Mobil kapcsolatok</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,17 @@
 <td><p class="p">Nagyon alacsony jelerősség.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Lásd még</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.hu" title="Vezeték nélküli hálózatok">Vezeték nélküli hálózatok</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.hu" title="Csatlakozás vezeték nélküli hálózatra">Kapcsolódás Wi-Fi-hez</a></span>, <span class="link"><a href="net-wireless-hidden.html.hu" title="Kapcsolódás rejtett vezeték nélküli hálózathoz">Rejtett hálózatok</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.hu" title="Miért bontja folyamatosan a kapcsolatot a vezeték nélküli hálózatom?">Kapcsolatbontás</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Energiakezelő ikonjai</span></h2></div>

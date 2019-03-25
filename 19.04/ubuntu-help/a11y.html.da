@@ -74,7 +74,7 @@
   various impairments and special needs, and to interact with common assistive
   devices. An accessibility menu can be added to the top bar, giving easier
   access to many of the accessibility features.</p>
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.da" title="Find tilgængelighedsmenuen"><span class="title">Find tilgængelighedsmenuen</span><span class="linkdiv-dash"> — </span><span class="desc">Tilgængelighedsmenuen er ikonet på toplinjen, der ligner en person</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.da" title="Find tilgængelighedsmenuen"><span class="title">Find tilgængelighedsmenuen</span><span class="linkdiv-dash"> — </span><span class="desc">Tilgængelighedsmenuen er ikonet på toplinjen, der ligner en person.</span></a></div></div></div></div>
 </div>
 <div id="vision" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Synshæmninger</span></h2></div>
@@ -83,11 +83,11 @@
 <div class="title title-links"><h3><span class="title">Blindhed</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-screen-reader.html.da" title="Read screen aloud">Read screen aloud</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader to speak the user
+<a href="a11y-screen-reader.html.da" title="Læs højt fra skærmen">Læs højt fra skærmen</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader to speak the user
     interface.</span>
 </li>
 <li class="links ">
-<a href="a11y-braille.html.da" title="Read screen in Braille">Read screen in Braille</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader with a refreshable Braille
+<a href="a11y-braille.html.da" title="Læs skærm i Braille">Læs skærm i Braille</a><span class="desc"> — Use the <span class="app">Orca</span> screen reader with a refreshable Braille
     display.</span>
 </li>
 </ul></div>
@@ -96,18 +96,18 @@
 <div class="title title-links"><h3><span class="title">Nedsat syn</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-font-size.html.da" title="Change text size on the screen">Change text size on the screen</a><span class="desc"> — Use larger fonts to make text easier to read.</span>
+<a href="a11y-mag.html.da" title="Forstør et skærmområde">Forstør et skærmområde</a><span class="desc"> — Zoom ind på din skærm, så det er lettere at se tingene.</span>
+</li>
+<li class="links ">
+<a href="keyboard-cursor-blink.html.da" title="Få tastaturets markør til at blinke">Få tastaturets markør til at blinke</a><span class="desc"> — Make the insertion point blink and control how quickly it
+    blinks.</span>
 </li>
 <li class="links ">
 <a href="a11y-contrast.html.da" title="Justér kontrasten">Justér kontrasten</a><span class="desc"> — Make windows and buttons on the screen more (or less) vivid, so
     they’re easier to see.</span>
 </li>
 <li class="links ">
-<a href="a11y-mag.html.da" title="Magnify a screen area">Magnify a screen area</a><span class="desc"> — Zoom in on your screen so that it is easier to see things.</span>
-</li>
-<li class="links ">
-<a href="keyboard-cursor-blink.html.da" title="Make the keyboard cursor blink">Make the keyboard cursor blink</a><span class="desc"> — Make the insertion point blink and control how quickly it
-    blinks.</span>
+<a href="a11y-font-size.html.da" title="Skift tekststørrelse på skærmen">Skift tekststørrelse på skærmen</a><span class="desc"> — Use larger fonts to make text easier to read.</span>
 </li>
 </ul></div>
 </div></div>
@@ -116,7 +116,7 @@
 <div id="sound" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Hørehæmninger</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html.da" title="Flash the screen for alert sounds">Flash the screen for alert sounds</a><span class="desc"> — Enable visual alerts to flash the screen or window when an
+<a href="a11y-visualalert.html.da" title="Blink med skærmen ved lydbeskeder">Blink med skærmen ved lydbeskeder</a><span class="desc"> — Enable visual alerts to flash the screen or window when an
     alert sound is played.</span>
 </li></ul></div></div></div></div></div>
 </div></div>
@@ -128,11 +128,11 @@
 <div class="title title-links"><h3><span class="title">Musebevægelse</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-sensitivity.html.da" title="Adjust the speed of the mouse and touchpad">Adjust the speed of the mouse and touchpad</a><span class="desc"> — Change how quickly the pointer moves when you use your mouse or
+<a href="mouse-sensitivity.html.da" title="Justér hastigheden på musen og pegepladen">Justér hastigheden på musen og pegepladen</a><span class="desc"> — Change how quickly the pointer moves when you use your mouse or
     touchpad.</span>
 </li>
 <li class="links ">
-<a href="mouse-mousekeys.html.da" title="Click and move the mouse pointer using the keypad">Click and move the mouse pointer using the keypad</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
+<a href="mouse-mousekeys.html.da" title="Klik og flyt musemarkøren med det numeriske tastatur">Klik og flyt musemarkøren med det numeriske tastatur</a><span class="desc"> — Enable mouse keys to control the mouse with the numeric
     keypad.</span>
 </li>
 </ul></div>
@@ -141,15 +141,15 @@
 <div class="title title-links"><h3><span class="title">Klikke og trække</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-doubleclick.html.da" title="Adjust the double-click speed">Adjust the double-click speed</a><span class="desc"> — Control how quickly you need to press the mouse button a second time
+<a href="mouse-doubleclick.html.da" title="Justér hastigheden for dobbeltklik">Justér hastigheden for dobbeltklik</a><span class="desc"> — Control how quickly you need to press the mouse button a second time
     to double-click.</span>
 </li>
 <li class="links ">
-<a href="a11y-dwellclick.html.da" title="Simulate clicking by hovering">Simulate clicking by hovering</a><span class="desc"> — The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
-    by holding the mouse still.</span>
+<a href="a11y-right-click.html.da" title="Simulér et højreklik med musen">Simulér et højreklik med musen</a><span class="desc"> — Tryk og hold den venstre museknap nede for at højreklikke.</span>
 </li>
 <li class="links ">
-<a href="a11y-right-click.html.da" title="Simulér et højreklik">Simulér et højreklik</a><span class="desc"> — Tryk og hold den venstre museknap nede for at højreklikke.</span>
+<a href="a11y-dwellclick.html.da" title="Simulér klik når markøren holdes over">Simulér klik når markøren holdes over</a><span class="desc"> — The <span class="gui">Hover Click</span> (Dwell Click) feature allows you to click
+    by holding the mouse still.</span>
 </li>
 </ul></div>
 </div></div>
@@ -160,23 +160,23 @@
 <a href="a11y-bouncekeys.html.da" title="Aktivér rystetaster">Aktivér rystetaster</a><span class="desc"> — Ignorér hurtige gentagne tastetryk på den samme tast.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html.da" title="Keyboard navigation">Keyboard navigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
+<a href="keyboard-osk.html.da" title="Brug et skærmtastatur">Brug et skærmtastatur</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
+    mouse or a touchscreen.</span>
 </li>
 <li class="links ">
-<a href="keyboard-repeat-keys.html.da" title="Manage repeated key presses">Manage repeated key presses</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
+<a href="keyboard-repeat-keys.html.da" title="Håndter gentagne tastetryk">Håndter gentagne tastetryk</a><span class="desc"> — Make the keyboard not repeat letters when you hold down a key,
     or change the delay and speed of repeat keys.</span>
 </li>
 <li class="links ">
-<a href="a11y-slowkeys.html.da" title="Turn on slow keys">Turn on slow keys</a><span class="desc"> — Have a delay between a key being pressed and that letter appearing on
-    the screen.</span>
-</li>
-<li class="links ">
-<a href="a11y-stickykeys.html.da" title="Turn on sticky keys">Turn on sticky keys</a><span class="desc"> — Type keyboard shortcuts one key at a time rather than having to hold
+<a href="a11y-stickykeys.html.da" title="Slå klæbrige taster til">Slå klæbrige taster til</a><span class="desc"> — Type keyboard shortcuts one key at a time rather than having to hold
      down all of the keys at once.</span>
 </li>
 <li class="links ">
-<a href="keyboard-osk.html.da" title="Use an on-screen keyboard">Use an on-screen keyboard</a><span class="desc"> — Use an on-screen keyboard to enter text by clicking buttons with the
-    mouse or a touchscreen.</span>
+<a href="a11y-slowkeys.html.da" title="Slå langsomme taster til">Slå langsomme taster til</a><span class="desc"> — Have a delay between a key being pressed and that letter appearing on
+    the screen.</span>
+</li>
+<li class="links ">
+<a href="keyboard-nav.html.da" title="Tastaturnavigation">Tastaturnavigation</a><span class="desc"> — Use applications and the desktop without a mouse.</span>
 </li>
 </ul></div>
 </div></div>

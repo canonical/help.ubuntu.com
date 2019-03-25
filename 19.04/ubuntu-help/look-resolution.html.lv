@@ -2,7 +2,7 @@
 <html lang=lv>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change the resolution or orientation of the screen</title>
+<title>Mainīt ekrāna izšķirtspēju vai orientāciju</title>
 <link rel="stylesheet" type="text/css" href="lv.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,18 +67,17 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change the resolution or orientation of the screen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Mainīt ekrāna izšķirtspēju vai orientāciju</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Jūs varat izmainīt, cik lieli (vai cik detalizēti) izskatās objekti uz ekrāna, iestatot <span class="em">ekrāna izšķirtspēju</span>. Jūs varat noteikt, kā jāpagriež attēls (piemēram, ja jums ir rotējošs displejs), iestatot <span class="em">rotāciju</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā nospiediet <span class="gui">Ierīces</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā spiediet <span class="gui">Displeji</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Ja jums ir vairāki displeji, kas netiek dublēti, katram displejam var būt savi iestatījumi. Izvēlieties displeju priekšskatījuma laukā.</p></li>
-<li class="steps"><p class="p">Select the resolution or scale, and choose the orientation.</p></li>
+<li class="steps"><p class="p">Izvēlieties izšķirtspēju vai mērogu un izvēlieties orientāciju.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pielietot</span>. Jaunie iestatījumi tiks pielietoti uz 20 sekundēm. Ja neko neredzēsiet, iepriekšējie iestatījumi tiks automātiski atjaunoti. Taču, ja jūs apmierina jaunie iestatījumi, nospiediet <span class="gui">Paturēt izmaiņas</span>.</p></li>
 </ol></div></div></div>
 </div>
@@ -90,25 +89,16 @@
 </div></div>
 </div></div>
 <div id="native" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Native Resolution</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="em">native resolution</span> of a laptop screen or LCD monitor is the
-  one that works best: the pixels in the video signal will line up precisely
-  with the pixels on the screen. When the screen is required to show other
-  resolutions, interpolation is necessary to represent the pixels, causing a
-  loss of image quality.</p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Dabiskā izšķirtspēja</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Klēpjdatora ekrāna vai LCD monitora <span class="em">dabiskā izšķirtspēja</span> ir tā, kura darbojas vislabāk: pikseļi video signālā precīzi atbildīs pikseļiem ekrānā. Kad ekrānam ir jāattēlo citas izšķirtspējas, ir jāizmanto interpolācija, lai varētu attēlot pikseļus, kas samazina attēla kvalitāti.</p></div></div>
 </div></div>
 <div id="scale" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Scale</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The scale setting increases the size of objects shown on the screen to
-  match the density of your display, making them easier to read. Choose from
-  <span class="gui">100%</span>, <span class="gui">200%</span>, or <span class="gui">300%</span>.</p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Mērogs</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Mēroga iestatījumi palielina objektu izmērus, kas ir redzami ekrānā, lai atbilstu jūsu displeja blīvumam, lai varētu vieglāk salasīt. Izvēlieties no <span class="gui">100%</span>, <span class="gui">200%</span> un <span class="gui">300%</span>.</p></div></div>
 </div></div>
 <div id="orientation" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Orientation</span></h2></div>
-<div class="region"><div class="contents"><p class="p">On some laptops and monitors, you can physically rotate the screen in many
-  directions. Click <span class="gui">Orientation</span> in the panel and choose from
-  <span class="gui">Landscape</span>, <span class="gui">Portrait Right</span>, <span class="gui">Portrait Left</span>, or
-  <span class="gui">Landscape (flipped)</span>.</p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Orientācija</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Uz dažiem klēpjdatoriem un monitoriem jūs varat fiziski pagriezt ekrānu dažādos virzienos. Panelī spiediet <span class="gui">orientācija</span> un izvēlieties starp <span class="gui">Ainava</span>, <span class="gui">Portrets pa labi</span>, <span class="gui">Portrets pa kreisi</span> un <span class="gui">Ainava (apmesta)</span>.</p></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -116,12 +106,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.lv" title="Nomainīt darbvirsmas un bloķēšanas ekrāna fonus">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.lv" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.lv" title="Iestatiet ekrāna spilgtumu">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.lv" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.lv" title="Displejs un ekrāns">Displejs un ekrāns</a><span class="desc"> — <span class="link"><a href="look-background.html.lv" title="Nomainīt darbvirsmas un bloķēšanas ekrāna fonus">Fons</a></span>, <span class="link"><a href="look-resolution.html.lv" title="Mainīt ekrāna izšķirtspēju vai orientāciju">izmērs un orientācija</a></span>, <span class="link"><a href="display-brightness.html.lv" title="Iestatiet ekrāna spilgtumu">spilgtums</a></span>, <span class="link"><a href="display-night-light.html.lv" title="Pielāgot ekrāna krāsas temperatūru">krāsu temperatūra</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

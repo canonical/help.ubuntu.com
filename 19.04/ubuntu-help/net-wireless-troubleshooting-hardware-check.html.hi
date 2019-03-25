@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hi" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.hi" title="Wireless Networking">Wireless Networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.hi" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hi" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.hi" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.hi" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hi" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.hi#problems" title="Common problems">Problems</a> » <a class="trail" href="net-wireless-troubleshooting.html.hi" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
 </div>
@@ -139,7 +139,7 @@
 <div class="region"><div class="contents">
 <p class="p">Wireless adapters that plug into a USB port on your computer are less
   common. They can plug directly into a USB port, or may be connected by a USB
-  cable. 3G/mobile broadband adapters look quite similar to wireless (wifi)
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
   adapters, so if you think you have a USB wireless adapter, double-check that
   it is not actually a 3G adapter. To check if your USB wireless adapter was
   recognized:</p>

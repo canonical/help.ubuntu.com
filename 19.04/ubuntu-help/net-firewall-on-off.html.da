@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Enable or block firewall access</title>
+<title>Aktivér og bloker adgang til firewall</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.da" title="Keeping safe on the internet">Keeping safe on the internet</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-security.html.da" title="Sikkerhed på internettet">Sikkerhed på internettet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Enable or block firewall access</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Aktivér og bloker adgang til firewall</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Your system should be equipped with a <span class="em">firewall</span> that allows it to
@@ -87,7 +87,7 @@
       GUFW).</p></li>
 <li class="steps"><p class="p">Open or disable the port for your network service, depending on
       whether you want people to be able to access it or not. Which port you
-      need to change will <span class="link"><a href="net-firewall-ports.html.da" title="Commonly-used network ports">depend on the
+      need to change will <span class="link"><a href="net-firewall-ports.html.da" title="Populære netværksporte">depend on the
       service</a></span>.</p></li>
 <li class="steps"><p class="p">Save or apply the changes, following any additional instructions given
       by the firewall tool.</p></li>
@@ -99,17 +99,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html.da" title="Keeping safe on the internet">Keeping safe on the internet</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html.da" title="Do I need anti-virus software?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html.da" title="Enable or block firewall access">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html.da" title="Commonly-used network ports">firewall ports</a></span>…
+<a href="net-security.html.da" title="Sikkerhed på internettet">Sikkerhed på internettet</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.da" title="Behøver jeg at have antivirussoftware?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.da" title="Aktivér og bloker adgang til firewall">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.da" title="Populære netværksporte">firewall ports</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-ports.html.da" title="Commonly-used network ports">Commonly-used network ports</a><span class="desc"> — You need to specify the right network port to enable/disable network
+<a href="net-firewall-ports.html.da" title="Populære netværksporte">Populære netværksporte</a><span class="desc"> — You need to specify the right network port to enable/disable network
     access for a program with your firewall.</span>
 </li></ul></div>
 </div></div>

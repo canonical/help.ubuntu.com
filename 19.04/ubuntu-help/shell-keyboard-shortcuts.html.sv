@@ -93,7 +93,10 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Visa kommandofönstret (för att snabbt köra kommandon)</p></td>
+<td style="border-top-style: solid;">
+<p class="p">Visa kommandofönstret (för att snabbt köra kommandon).</p>
+<p class="p">Använd piltangenterna för att snabbt komma åt tidigare körda kommandon.</p>
+</td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tabb</kbd></span></span></p></td>

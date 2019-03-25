@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Add a world clock</title>
+<title>Tilføj et verdensur</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="clock.html.da" title="Dato &amp; klokkeslæt">Dato &amp; klokkeslæt</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Add a world clock</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Tilføj et verdensur</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Use <span class="app">Clocks</span> to add times in other cities.</p>
@@ -86,9 +86,7 @@
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">If you already have one or more world clocks, click on one and
        <span class="app">Clocks</span> will launch.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">In the <span class="app">Clocks</span> window, click
-      <span class="gui">New</span> button or press
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> to add a new city.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Ny</span>-knappen i <span class="app">Ure</span>-vinduet, eller tryk på <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> for at tilføje en ny by.</p></li>
 <li class="steps"><p class="p">Start typing the name of the city into the search.</p></li>
 <li class="steps"><p class="p">Select the correct city or the closest location to you from the
       list.</p></li>
@@ -104,10 +102,10 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="clock.html.da" title="Dato &amp; klokkeslæt">Dato &amp; klokkeslæt</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html.da" title="Change the date and time">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.da" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.da" title="Change your timezone">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.da" title="Calendar appointments">calendar and appointments</a></span>…
+      <span class="link"><a href="clock-set.html.da" title="Skift datoen og klokkeslættet">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.da" title="Tilføj et verdensur">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.da" title="Skift din tidszone">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div>

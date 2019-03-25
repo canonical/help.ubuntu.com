@@ -83,12 +83,12 @@
 <p class="p">A la llista de <span class="gui">Dispositius</span>, seleccioneu el dispositiu al qual enviar els fitxers. Si el dispositiu desitjat no es mostra com a <span class="gui">Connectat</span> a la llista, haureu de <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">connectar-vos-hi</a></span>.</p>
 <p class="p">Apareixerà un panell específic del dispositiu extern.</p>
 </li>
-<li class="steps"><p class="p">Clic a <span class="gui">Enviar fitxers…</span> i apareixerà el selector de fitxers.</p></li>
+<li class="steps"><p class="p">Clic a <span class="gui">Envia fitxers…</span> i apareixerà el selector de fitxers.</p></li>
 <li class="steps">
 <p class="p">Escolliu el fitxer que voleu enviar i feu clic a <span class="gui">Selecciona</span>.</p>
 <p class="p">Per enviar més d'un fitxer d'una carpeta, mantingueu premuda la tecla <span class="key"><kbd>Ctrl</kbd></span> mentre seleccioneu els fitxers un a un.</p>
 </li>
-<li class="steps"><p class="p">El propietari del dispositiu receptor normalment ha de prémer un botó per acceptar el fitxer. El diàleg <span class="gui">Transferència de fitxers per Bluetooth</span> mostrarà una barra de procés. Feu clic a <span class="gui">Tancar</span> quan la transferència s'hagi completat.</p></li>
+<li class="steps"><p class="p">El propietari del dispositiu receptor normalment ha de prémer un botó per acceptar el fitxer. El diàleg <span class="gui">Transferència de fitxers per Bluetooth</span> mostrarà una barra de procés. Feu clic a <span class="gui">Tanca</span> quan la transferència s'hagi completat.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -98,10 +98,10 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">enviar fitxers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span>
+<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connecta</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">envia fitxers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span>
 </li>
 <li class="links ">
-<a href="sharing.html.ca" title="Compartició">Compartició</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir arxius per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir arxius multimèdia</a></span>…</span>
+<a href="sharing.html.ca" title="Compartició">Compartició</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir fitxers per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir fitxers multimèdia</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

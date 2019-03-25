@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Copy or move files and folders</title>
+<title>Kopiér eller flyt filer og mapper</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#common-file-tasks" title="Almindelige opgaver">Almindelige opgaver</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Copy or move files and folders</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Kopiér eller flyt filer og mapper</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">A file or folder can be copied or moved to a new location by dragging and
@@ -138,7 +138,7 @@
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">You cannot copy or move a file into a folder that is <span class="em">read-only</span>.
   Some folders are read-only to prevent you from making changes to their
   contents. You can change things from being read-only by
-  <span class="link"><a href="nautilus-file-properties-permissions.html.da" title="Set file permissions">changing file permissions
+  <span class="link"><a href="nautilus-file-properties-permissions.html.da" title="Indstil filtilladelser">changing file permissions
   </a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -151,7 +151,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-browse.html.da" title="Browse files and folders">Browse files and folders</a><span class="desc"> — Manage and organize files with the file manager.</span>
+<a href="files-browse.html.da" title="Gennemse filer eller mapper">Gennemse filer eller mapper</a><span class="desc"> — Manage and organize files with the file manager.</span>
 </li></ul></div>
 </div></div>
 </div>

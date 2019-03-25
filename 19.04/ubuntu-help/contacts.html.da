@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Contacts</title>
+<title>Kontakter</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,21 +64,21 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Contacts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Kontakter</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Use <span class="app">Contacts</span> to store, access or edit information for your
  contacts, locally or in your <span class="link"><a href="accounts.html.da" title="Onlinekonti">Online Accounts</a></span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.da" title="Starting Contacts for the first time"><span class="title">Starting Contacts for the first time</span><span class="linkdiv-dash"> — </span><span class="desc">Store your contacts in a local address book or in an online account.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.da" title="Add or remove a contact"><span class="title">Add or remove a contact</span><span class="linkdiv-dash"> — </span><span class="desc">Add or remove a contact in the local address book.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.da" title="Connect with your contact"><span class="title">Connect with your contact</span><span class="linkdiv-dash"> — </span><span class="desc">Email, chat with, or phone a contact.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.da" title="Edit contact details"><span class="title">Edit contact details</span><span class="linkdiv-dash"> — </span><span class="desc">Edit the information for each contact.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-setup.html.da" title="Starter Kontakter for første gang"><span class="title">Starter Kontakter for første gang</span><span class="linkdiv-dash"> — </span><span class="desc">Store your contacts in a local address book or in an online account.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-connect.html.da" title="Connect with your contact"><span class="title">Connect with your contact</span><span class="linkdiv-dash"> — </span><span class="desc">Send e-mail til, chat med eller ring til en kontakt.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="contacts-link-unlink.html.da" title="Link and unlink contacts"><span class="title">Link and unlink contacts</span><span class="linkdiv-dash"> — </span><span class="desc">Combine information for a contact from multiple sources.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-edit-details.html.da" title="Rediger kontaktdetaljer"><span class="title">Rediger kontaktdetaljer</span><span class="linkdiv-dash"> — </span><span class="desc">Rediger informationen for hver kontakt.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="contacts-search.html.da" title="Søg efter en kontakt"><span class="title">Søg efter en kontakt</span><span class="linkdiv-dash"> — </span><span class="desc">Søg efter en kontakt.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="contacts-add-remove.html.da" title="Tilføj eller fjern en kontakt"><span class="title">Tilføj eller fjern en kontakt</span><span class="linkdiv-dash"> — </span><span class="desc">Add or remove a contact in the local address book.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -86,12 +86,12 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html.da" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.da" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html.da" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.da" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html.da" title="Email &amp; email software">email accounts</a></span>…
+<a href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.da" title="Trådløst netværk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.da" title="Kablet netværk">wired</a></span>,
+      <span class="link"><a href="net-problem.html.da" title="Netværksproblemer">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.da" title="Webbrowsere">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.da" title="E-mail &amp; e-mailsoftware">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

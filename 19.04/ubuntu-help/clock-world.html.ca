@@ -77,16 +77,15 @@
 </div></div></div></div>
 <p class="p">Per afegir un rellotge mundial:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the clock on the top bar.</p></li>
+<li class="steps"><p class="p">Feu clic al rellotge en la barra superior.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Add world clock</span> link under the calendar to
-      launch <span class="app">Clocks</span>.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Si ja té un o més rellotges del món, feu clic en un i es llençarà l'aplicació <span class="app">Rellotge</span>.</p></div></div></div></div>
+<p class="p">Feu clic al vincle <span class="gui">Afegir rellotges del món</span> sota el calendari per llençar <span class="app">Rellotges</span>.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Si ja té un o més rellotges del món, feu clic en un i es llençarà l'aplicació <span class="app">Rellotges</span>.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">A la finestra <span class="app">Rellotges</span>, feu clic al botó <span class="gui">Nou</span> o premi <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> per afegir una nova ciutat.</p></li>
 <li class="steps"><p class="p">Comenceu introduint el nom de la ciutat en a cerca.</p></li>
 <li class="steps"><p class="p">Seleccioneu la ciutat correcta o la ubicació més propera a vostè de la llista.</p></li>
-<li class="steps"><p class="p">Premeu <span class="gui">Afegir</span> per acabar d'afegir la ciutat.</p></li>
+<li class="steps"><p class="p">Premeu <span class="gui">Afegeix</span> per acabar d'afegir la ciutat.</p></li>
 </ol></div></div></div>
 <p class="p">Consulteu l'<span class="link"><a href="help:gnome-clocks" title="help:gnome-clocks">Ajuda de Rellotges</a></span> per saber més sobre les capacitats de <span class="app">Rellotges</span>.</p>
 </div>

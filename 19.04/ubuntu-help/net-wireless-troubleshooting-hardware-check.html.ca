@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Maquinari</a> › <a class="trail" href="hardware.html.ca#problems" title="Problemes comuns">Problemes</a> » <a class="trail" href="net-wireless-troubleshooting.html.ca" title="Solució de problemes de xarxa sense fil">Solució de problemes de xarxa sense fil</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a> » <a class="trail" href="net-wireless-troubleshooting.html.ca" title="Solució de problemes de xarxa sense fil">Solució de problemes de xarxa sense fil</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wireless.html.ca" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.ca" title="Solució de problemes de xarxa sense fil">Solució de problemes de xarxa sense fil</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,7 +82,7 @@
 <div class="contents">
 <p class="p">Fins i tot si l'adaptador sense fil està connectat a l'ordinador, pot ser que no s'hagi reconegut com a dispositiu de xarxa. En aquest pas, comproveu si el dispositiu s'ha reconegut correctament.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu una finestra del terminal, escriviu <span class="cmd">lshw -C network</span> i premeu<span class="key"><kbd>Retorn</kbd></span>. Si ús dóna un missatge d'error, és possible que hàgeu d'instal·lar el programa <span class="app">lshw</span> al vostre ordinador.</p></li>
+<li class="steps"><p class="p">Obriu una finestra del terminal, escriviu <span class="cmd">lshw -C network</span> i premeu <span class="key"><kbd>Retorn</kbd></span>. Si ús dóna un missatge d'error, és possible que hàgeu d'instal·lar el programa <span class="app">lshw</span> al vostre ordinador.</p></li>
 <li class="steps">
 <p class="p">Mireu a través de la informació que apareix i troba la secció <span class="em">Interface del dispositiu sense fil</span>. Si el vostre adaptador s'ha detectat correctament, hauríeu de veure alguna cosa similar (però no idèntic) a això:</p>
 <div class="code"><pre class="contents ">*-network
@@ -113,7 +113,12 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Adaptador USB </span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Els adaptadors de les xarxes sense fil que es connecten a un port USB de l'ordinador són menys comuns. Poden connectar-se directament a un port USB o connectar-se mitjançant un cable USB. Els adaptadors de banda ampla 3G / mòbil són molt similars als adaptadors sense fil (Wi-Fi), de manera que si creieu que teniu un adaptador USB, comproveu que en realitat no és un adaptador 3G. Per comprovar si s'ha reconegut l'adaptador USB:</p>
+<p class="p">Wireless adapters that plug into a USB port on your computer are less
+  common. They can plug directly into a USB port, or may be connected by a USB
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
+  adapters, so if you think you have a USB wireless adapter, double-check that
+  it is not actually a 3G adapter. To check if your USB wireless adapter was
+  recognized:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu un terminal, escriviu <span class="cmd">lsusb</span> i premeu <span class="key"><kbd>Retorn</kbd></span>.</p></li>
 <li class="steps">

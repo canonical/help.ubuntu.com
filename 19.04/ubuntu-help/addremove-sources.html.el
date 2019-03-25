@@ -96,7 +96,7 @@
 <li class="steps">
 <p class="p">Κάντε κλικ στην επιλογή <span class="gui">Πρόσθεση</span> και εισάγετε την γραμμή APT του αποθετηρίου. Αυτή θα πρέπει να είναι διαθέσιμη στην ιστοσελίδα του αποθετηρίου και θα πρέπει να μοιάζει με:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">
@@ -129,7 +129,7 @@
       <span class="gui">Add</span> and enter:
     </p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">
       Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. Wait a 

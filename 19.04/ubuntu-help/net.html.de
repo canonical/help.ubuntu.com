@@ -71,8 +71,12 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.de" title="Drahtlose Verbindungen">Drahtlose Verbindungen</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Mit einem WLAN verbinden</a></span>, <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">Verborgene Netzwerke</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.de" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Verbindung trennen</a></span> …</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.de" title="Wireless networking">Wireless networking</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-connect.html.de" title="Verbinden mit Funknetzwerken">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.de" title="Verbinden mit verborgenen Funknetzwerken">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.de" title="Warum wird meine WLAN-Verbindung dauernd getrennt?">Wi-Fi disconnecting</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-chat.html.de" title="Chat &amp; Soziale Netzwerke">Chat &amp; Soziale Netzwerke</a></div>
@@ -87,10 +91,6 @@
 <div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.de" title="Ihre Arbeitsumgebung freigeben">Bildschirmfreigabe</a></span>, <span class="link"><a href="files-share.html.de" title="Dateien via E-Mail teilen">Share files by email</a></span>, <span class="link"><a href="sharing-media.html.de" title="Ihre Musik, Fotos und Videos freigeben">Media sharing</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.de" title="Kabelverbindungen">Kabelverbindungen</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.de" title="Mit einem Kabelnetzwerk (Ethernet) verbinden">Kabelgebundene Internetverbindungen</a></span>, <span class="link"><a href="net-fixed-ip-address.html.de" title="Eine Verbindung über eine feste IP-Adresse herstellen">feste IP-Adressen</a></span> …</span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="contacts.html.de" title="Kontakte">Kontakte</a></div>
 <div class="desc"><span class="desc">Zugriff auf Ihre Kontakte.</span></div>
 </div>
@@ -100,15 +100,22 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.de" title="Netzwerkprobleme">Netzwerkprobleme</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Fehlerbehandlung für Funknetzwerke</a></span>, <span class="link"><a href="net-wireless-find.html.de" title="Ich kann mein Funknetzwerk in der Liste nicht finden">Ihr Funknetzwerk suchen</a></span> …</span></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-troubleshooting.html.de" title="Problemlösungen für Funknetzwerke">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.de" title="Ich kann mein Funknetzwerk in der Liste nicht finden">finding your Wi-Fi network</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html.de" title="Sicherheit im Internet">Sicherheit im Internet</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html.de" title="Benötige ich Anti-Virus-Software?">Anti-Virus-Software</a></span>, <span class="link"><a href="net-firewall-on-off.html.de" title="Firewall-Zugriff erlauben oder blockieren">Einfache Firewall</a></span>, <span class="link"><a href="net-firewall-ports.html.de" title="Üblicherweise verwendete Netzwerk-Ports">Firewall-Ports</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.de" title="Webbrowser">Webbrowser</a></div>
+<div class="links-grid-link"><a href="net-browser.html.de" title="Web browsers">Web browsers</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.de" title="Änderung des Webbrowsers, mit dem Webseiten geöffnet werden">Den Standardbrowser ändern</a></span>, <span class="link"><a href="net-install-flash.html.de" title="Die Flash-Erweiterung installieren">Flash installieren</a></span> …</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.de" title="Wired networking">Wired networking</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.de" title="Mit einem Kabelnetzwerk (Ethernet) verbinden">Kabelgebundene Internetverbindungen</a></span>, <span class="link"><a href="net-fixed-ip-address.html.de" title="Eine Verbindung über eine feste IP-Adresse herstellen">feste IP-Adressen</a></span> …</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

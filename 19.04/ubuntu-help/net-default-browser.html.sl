@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-browser.html.sl" title="Spletni brskalniki">Spletni brskalniki</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-browser.html.sl" title="Web browsers">Web browsers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Change which web browser opens websites by default</span></h1></div>
@@ -93,7 +93,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.sl" title="Spletni brskalniki">Spletni brskalniki</a><span class="desc"> — 
+<a href="net-browser.html.sl" title="Web browsers">Web browsers</a><span class="desc"> — 
       <span class="link"><a href="net-default-browser.html.sl" title="Change which web browser opens websites by default">Change the default browser</a></span>,
       <span class="link"><a href="net-install-flash.html.sl" title="Nameščanje vstavka Flash">install Flash</a></span>…
     </span>

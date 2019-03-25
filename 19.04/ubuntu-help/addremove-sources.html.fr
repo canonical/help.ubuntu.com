@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Cliquez sur <span class="gui">Ajouter…</span> et entrez la ligne APT du dépôt. Celle-ci devrait être disponible à partir du site web du dépôt, et devrait être similaire à :</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Ajouter la source</span> puis fermez la fenêtre <span class="app">Logiciels &amp; mises à jour</span>. <span class="app">Logiciels Ubuntu</span> vérifiera alors les nouvelles mises à jour de vos sources de logiciels.</p></li>
@@ -98,7 +98,7 @@
 <p class="p">Le dépôt des partenaires de Canonical propose des applications propriétaires gratuites mais non-libres. Elles incluent des applications comme le <span class="app">greffon Adobe Flash</span>. Les logiciels de ce dépôt apparaîtront dans les résultats de recherche de <span class="app">Logiciels Ubuntu</span> mais ne seront pas installables tant que ce dépôt ne sera pas activé.</p>
 <p class="p">Pour activer ce dépôt, suivez les étapes ci-dessus pour ouvrir l'onglet <span class="gui">Autres logiciels</span> dans <span class="app">Logiciels &amp; mises à jour</span>. Si vous voyez le dépôt <span class="gui">Partenaires de Canonical</span> dans la liste, assurez-vous qu'il soit coché puis fermez la fenêtre de <span class="app">Logiciels &amp; mises à jour</span>. Si vous ne le voyez pas, cliquez sur <span class="gui">Ajouter</span> puis saisissez :</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Cliquez sur <span class="gui">Ajouter la source</span> puis fermez la fenêtre <span class="app">Logiciels &amp; mises à jour</span>. Attendez un instant que <span class="app">Logiciels Ubuntu</span> télécharge les informations relatives au dépôt.</p>
 </div></div>

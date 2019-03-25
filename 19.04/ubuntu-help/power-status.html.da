@@ -78,8 +78,7 @@
 <div class="title title-steps"><h2><span class="title">Display the status of the battery and connected devices</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Strøm</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel. The status of known devices
-      is displayed.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Strøm</span> for at åbne panelet. Statussen på kendte enheder vises.</p></li>
 </ol></div>
 </div></div>
 <p class="p">If an internal battery is detected, the <span class="gui">Battery</span> section
@@ -105,7 +104,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html.da" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-batterylife.html.da" title="Brug mindre strøm og forbedr batteriets levetid">Brug mindre strøm og forbedr batteriets levetid</a><span class="desc"> — Tips til at reducere din computers strømforbrug.</span>
 </li></ul></div>
 </div></div>
 </div>

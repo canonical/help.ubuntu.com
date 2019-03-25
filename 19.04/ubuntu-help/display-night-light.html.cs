@@ -79,7 +79,7 @@
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Noční světlo</span> otevřete příslušný panel.</p></li>
 <li class="steps">
 <p class="p">Přepněte přepínač <span class="gui">Noční světlo</span> do polohy <span class="gui">I</span> (zapnuto). Barevný tón obrazovky se bude řídit podle východu a západu slunce ve vašem místě. Pokud byste si chtěli nastavit vlastní časový plán, klikněte na tlačítko <span class="gui">Ručně</span>.</p>
-<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Na <span class="link"><a href="shell-introduction.html.cs" title="Úvod do GNOME">horní liště</a></span> se signalizuje, když je funkce <span class="gui">Noční světlo</span> aktivní. Je možné ji dočasně vypnout přes systémovou nabídku.</p></div></div></div></div>
+<div class="note" title="Upozornění"><div class="inner"><div class="region"><div class="contents"><p class="p">Na <span class="link"><a href="shell-introduction.html.cs" title="Visual overview of GNOME">horní liště</a></span> se signalizuje, když je funkce <span class="gui">Noční světlo</span> aktivní. Je možné ji dočasně vypnout přes systémovou nabídku.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 </div>

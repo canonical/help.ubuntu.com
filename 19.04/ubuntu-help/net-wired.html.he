@@ -2,7 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wired Networking</title>
+<title>Wired networking</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Wired Networking</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wired networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.he" title="Connect to a wired (Ethernet) network"><span class="title">Connect to a wired (Ethernet) network</span><span class="linkdiv-dash"> — </span><span class="desc">To set up most wired network connections, all you need to do is plug
@@ -84,10 +84,10 @@
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html.he" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.he" title="Wired Networking">wired</a></span>,
+      <span class="link"><a href="net-wireless.html.he" title="Wireless networking">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.he" title="Wired networking">wired</a></span>,
       <span class="link"><a href="net-problem.html.he" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.he" title="Web Browsers">web browsing</a></span>,
+      <span class="link"><a href="net-browser.html.he" title="Web browsers">web browsing</a></span>,
       <span class="link"><a href="net-email.html.he" title="Email &amp; email software">email accounts</a></span>…
     </span>
 </li></ul></div>

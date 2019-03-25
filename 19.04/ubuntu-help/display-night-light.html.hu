@@ -2,7 +2,7 @@
 <html lang=hu>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the color temperature of your screen</title>
+<title>A képernyő színhőmérsékletének beállítása</title>
 <link rel="stylesheet" type="text/css" href="hu.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,26 +67,19 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Adjust the color temperature of your screen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">A képernyő színhőmérsékletének beállítása</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A computer monitor emits blue light which contributes to sleeplessness and
-  eye strain after dark. <span class="gui">Night Light</span> changes the color of your
-  displays according to the time of day, making the color warmer in the
-  evening. To enable <span class="gui">Night Light</span>:</p>
+<p class="p">A számítógép monitora kék fényt bocsájt ki, amely sötétedés után álmatlansághoz és a szemek erőltetéséhez vezet. Az <span class="gui">Éjszakai fény</span> a napszaknak megfelelően változtatja a kijelzők színhőmérsékletét, este melegebbé téve a színt. Az <span class="gui">Éjszakai fény</span> engedélyezéséhez:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Eszközök</span> lehetőségre az oldalsávon.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Night Light</span> to open the settings.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Kijelzők</span> elemre az oldalsávon a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">Kattintson az <span class="gui">Éjszakai fény</span> elemre a beállítások megnyitásához.</p></li>
 <li class="steps">
-<p class="p">Set the <span class="gui">Night Light</span> switch to <span class="gui">ON</span>. The screen
-      color will follow the sunset and sunrise times for your location. Click
-      the <span class="gui">Manual</span> button to set the times to a custom schedule.</p>
-<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="link"><a href="shell-introduction.html.hu" title="A GNOME bemutatása">top bar</a></span> shows when
-        <span class="gui">Night Light</span> is active. It can be temporarily disabled from
-        the system menu.</p></div></div></div></div>
+<p class="p">Állítsa az <span class="gui">Éjszakai fény</span> kapcsolót <span class="gui">BE</span> állásba. A képernyő színe a tartózkodási helye szerinti napnyugta és napkelte idejét fogja követni. Kattintson a <span class="gui">Kézi</span> gombra az idő egyéni ütemezés szerinti beállításához.</p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">A <span class="link"><a href="shell-introduction.html.hu" title="A GNOME bemutatása">felső sáv</a></span> megjeleníti, hogy az <span class="gui">Éjszakai fény</span> aktív-e. Ez átmenetileg letiltható a rendszermenüből.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 </div>
@@ -95,12 +88,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.hu" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.hu" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html.hu" title="A képernyő felbontásának vagy tájolásának módosítása">méret és tájolás</a></span>, <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">fényerő</a></span>, <span class="link"><a href="display-night-light.html.hu" title="A képernyő színhőmérsékletének beállítása">színhőmérséklet</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

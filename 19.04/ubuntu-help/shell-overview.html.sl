@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.sl" title="Uvod v GNOME"><span class="title">Uvod v  GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.sl" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.sl" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kako se odjavite, preklapljate med uporabniki in še več.</span></a></div>
 </div>

@@ -81,11 +81,10 @@
 <dd class="terms"><p class="p">Tas padarīs ekrānu zilu un testēs vai kalibrācijas līknes tiek sūtītas uz displeju.</p></dd>
 </dl></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā nospiediet <span class="gui">Ierīces</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā spiediet <span class="gui">Krāsa</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Izvēlieties ierīci, kurai vēlaties pievienot profilu. Iespējams, ka vēlaties pierakstīt, kurš profils pašlaik tiek izmantots.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pievienot profilu</span>, lai izvēlētos testa profilu, kam vajadzētu būt saraksta apakšā.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pievienot</span>, lai apstiprinātu izvēli.</p></li>

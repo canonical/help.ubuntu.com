@@ -88,15 +88,14 @@
   can prevent the computer from trying to suspend when you close the lid.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Stop the computer from suspending when the lid is closed</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Stop computeren i at hvile når låget lukkes</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Vigtigt"><div class="inner"><div class="region"><div class="contents"><p class="p">These instructions will only work if you are using <span class="app">systemd</span>.
     Contact your distribution for more information.</p></div></div></div></div>
 <div class="note note-important" title="Vigtigt"><div class="inner"><div class="region"><div class="contents">
 <p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
     change this setting.</p>
-<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
-      <span class="app">Tweaks</span></a></span></p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Installér <span class="app">Tilpasninger</span></a></span></p>
 </div></div></div></div>
 <p class="p">If you do not want the computer to suspend when you close the lid, you can
   change the setting for that behavior.</p>
@@ -104,13 +103,11 @@
     if they are left running with the lid closed, especially if they are in
     a confined place like a backpack.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span>
-      overview and start typing <span class="gui">Tweaks</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Power</span> tab.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Suspend when laptop lid is closed</span> to
-      <span class="gui">OFF</span>.</p></li>
-<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Tilpasninger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Tilpasninger</span> for at åbne programmet.</p></li>
+<li class="steps"><p class="p">Klik på fanebladet <span class="gui">Strøm</span>.</p></li>
+<li class="steps"><p class="p">Skift <span class="gui">Sæt i hviletilstand, når låget lukkes på den bærbare lukkes</span> til <span class="gui">TIL</span>.</p></li>
+<li class="steps"><p class="p">Luk <span class="gui">Tilpasninger</span>-vinduet.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

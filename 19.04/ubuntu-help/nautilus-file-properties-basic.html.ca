@@ -81,7 +81,7 @@
 <dd class="terms"><p class="p">Pot canviar el nom del fitxer canviant aquest camp. També pot canviar el nom d'un fitxer fora de la finestra de propietats. Veure <span class="link"><a href="files-rename.html.ca" title="Canvieu el nom d'un fitxer o carpeta">Canvieu el nom d'un fitxer o carpeta</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Tipus</span></dt>
 <dd class="terms">
-<p class="p">Això us permet identificar el tipus de fitxer, com ara un document PDF, un Text OpenDocument o una imatge JPEG. El tipus de fitxer determina quines aplicacions poden obrir el fitxer, entre d'altres coses. Per exemple, no podeu obrir una imatge amb un reproductor de música. Consultar<span class="link"><a href="files-open.html.ca" title="Obriu fitxers amb altres aplicacions">Obriu fitxers amb altres aplicacions</a></span> per obtenir més informació sobre.</p>
+<p class="p">Això us permet identificar el tipus de fitxer, com ara un document PDF, un Text OpenDocument o una imatge JPEG. El tipus de fitxer determina quines aplicacions poden obrir el fitxer, entre d'altres coses. Per exemple, no podeu obrir una imatge amb un reproductor de música. Consulteu <span class="link"><a href="files-open.html.ca" title="Obriu fitxers amb altres aplicacions">Obriu fitxers amb altres aplicacions</a></span> per obtenir més informació.</p>
 <p class="p">El <span class="em">tipus MIME</span> del fitxer es mostra entre parèntesis; el tipus MIME és una manera estàndard que utilitzen els equips per fer referència al tipus de fitxer.</p>
 </dd>
 <dt class="terms">Continguts</dt>
@@ -92,7 +92,7 @@
 <p class="p">Les mides es poden obtenir en bytes, KB, MB o GB; En el cas dels tres últims, la mida en bytes també es dóna entre parèntesis. Tècnicament, 1 KB són de 1024 bytes, 1 MB són de 1024 KB i així successivament.</p>
 </dd>
 <dt class="terms">Carpeta pare</dt>
-<dd class="terms"><p class="p">La ubicació de cada fitxer a l'ordinador la proporciona <span class="em">el camí absolut</span>. Aquesta és una "adreça" única del fitxer a l'ordinador, format per una llista de les carpetes que haureu d'introduir per trobar el fitxer. Per exemple, si Jordi tenia un fitxer anomenat <span class="file">Resum.pdf</span>a la seva carpeta Inici, la seva carpeta principal seria <span class="file">/home/jordi</span> i la seva localització seria <span class="file">/home/jordi/Resum.pdf</span>.</p></dd>
+<dd class="terms"><p class="p">La ubicació de cada fitxer a l'ordinador la proporciona <span class="em">el camí absolut</span>. Aquesta és una "adreça" única del fitxer a l'ordinador, format per una llista de les carpetes que haureu d'introduir per trobar el fitxer. Per exemple, si Jordi tenia un fitxer anomenat <span class="file">Resum.pdf</span>a la seva carpeta Inici, la seva carpeta principal seria <span class="file">/home/jordi</span> i la seva ubicació seria <span class="file">/home/jordi/Resum.pdf</span>.</p></dd>
 <dt class="terms">Espai lliure</dt>
 <dd class="terms"><p class="p">Això només es mostra per a carpetes. Proporciona la quantitat d'espai disponible al disc on hi ha la carpeta. Això és útil per comprovar si el disc dur està ple.</p></dd>
 <dt class="terms">S'hi ha accedit</dt>

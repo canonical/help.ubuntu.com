@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Turn on sticky keys</title>
+<title>Slå klæbrige taster til</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -73,7 +73,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Turn on sticky keys</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Slå klæbrige taster til</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p"><span class="em">Sticky keys</span> allows you to type keyboard shortcuts one key at a
@@ -85,10 +85,9 @@
 <p class="p">You might want to turn on sticky keys if you find it difficult to hold
   down several keys at once.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Tilgængelighed</span> i sidebjælken for at åbne panelet.</p></li>
 <li class="steps"><p class="p">Tryk på <span class="gui">Skrivehjælp (AccessX)</span> i afsnittet <span class="gui">Skrivning</span>.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Sticky Keys</span> to <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
@@ -131,8 +130,8 @@
 <li class="links "><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">Bevægelseshæmninger</a></li>
 <li class="links ">
 <a href="keyboard.html.da" title="Tastatur">Tastatur</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.da" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Få tastaturets markør til at blinke">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">keyboard accessibility</a></span>…
     </span>
 </li>

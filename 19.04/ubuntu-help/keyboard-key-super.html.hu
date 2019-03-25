@@ -74,16 +74,15 @@
 <div class="hgroup"><h1 class="title"><span class="title">Mi az a <span class="key"><kbd>Super</kbd></span> billentyű?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A <span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> billentyű megnyomásakor megjelenik a <span class="gui">Tevékenységek</span> áttekintés. Ez a billentyű általában a billentyűzet bal alsó sarkában található, az <span class="key"><kbd>Alt</kbd></span> billentyű mellett, és egy Windows-logó látható rajta. Néha <span class="em">Windows</span> billentyűnek vagy rendszer billentyűnek is hívják.</p>
+<p class="p">A <span class="key"><kbd>Super</kbd></span> billentyű megnyomásakor megjelenik a <span class="gui">Tevékenységek</span> áttekintés. Ez a billentyű általában a billentyűzet bal alsó sarkában található, az <span class="key"><kbd>Alt</kbd></span> billentyű mellett, és egy Windows-logó látható rajta. Néha <span class="em">Windows</span> billentyűnek vagy rendszer billentyűnek is hívják.</p>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha Apple billentyűzete van, akkor a Windows billentyű helyett a <span class="key"><kbd>⌘</kbd></span> (Command) billentyűt használhatja, míg a Chromebook készülékeken egy nagyító billentyű található.</p></div></div></div></div>
 <p class="p">A <span class="gui">Tevékenységek</span> áttekintés megjelenítéséhez használt billentyű megváltoztatása:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Eszközök</span> lehetőségre az oldalsávon.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">System</span> category, click the row with <span class="gui">Show the
-      activities overview</span>.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Billentyűzet</span> elemre az oldalsávon a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">A <span class="gui">Rendszer</span> kategórián belül kattintson a <span class="gui">Tevékenységek áttekintés megjelenítése</span> sorra.</p></li>
 <li class="steps"><p class="p">Tartsa lenyomva a kívánt billentyűkombinációt.</p></li>
 </ol></div></div></div>
 </div>

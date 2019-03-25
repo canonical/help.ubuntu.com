@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="mouse.html.hu" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="mouse.html.hu" title="Egér és érintőtábla">Egér és érintőtábla</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="mouse.html.hu" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver</a> » <a class="trail" href="mouse.html.hu" title="Egér és érintőtábla">Egér és érintőtábla</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,13 +82,12 @@
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Eszközök</span> lehetőségre az oldalsávon.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Mouse &amp; Touchpad</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Kattintson az <span class="gui">Egér és érintőtábla</span> elemre az oldalsávon a panel megnyitásához.</p></li>
 <li class="steps">
-<p class="p">In the <span class="gui">Touchpad</span> section, make sure <span class="gui">Touchpad</span> is
-      set to <span class="gui">ON</span>.</p>
+<p class="p">Az <span class="gui">Érintőtábla</span> szakaszban győződjön meg arról, hogy az <span class="gui">Érintőtábla</span> <span class="gui">BE</span> állásba van-e kapcsolva.</p>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p"> Az <span class="gui">Érintőtábla</span> szakasz csak akkor jelenik meg, ha rendszere rendelkezik érintőtáblával.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Set <span class="gui">Tap to click</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Kapcsolja <span class="gui">BE</span> a <span class="gui">Koppintás a kattintáshoz</span> kapcsolót.</p></li>
 </ol></div></div></div>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">A kattintáshoz koppintson az érintőtáblára.</p></li>
@@ -108,10 +107,9 @@
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Eszközök</span> lehetőségre az oldalsávon.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Mouse &amp; Touchpad</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, make sure <span class="gui">Touchpad</span> is
-      set to <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Set <span class="gui">Two-finger Scrolling</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Kattintson az <span class="gui">Egér és érintőtábla</span> elemre az oldalsávon a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">Az <span class="gui">Érintőtábla</span> szakaszban győződjön meg arról, hogy az <span class="gui">Érintőtábla</span> <span class="gui">BE</span> állásba van-e kapcsolva.</p></li>
+<li class="steps"><p class="p">Kapcsolja <span class="gui">BE</span> a <span class="gui">Kétujjas görgetés</span> kapcsolót.</p></li>
 </ol></div></div></div>
 <p class="p">Ha ez ki van választva, akkor az egy ujjas koppintás és húzás a normál módon fog működni, de ha két ujjal végez húzást az érintőtábla bármely részén, az görgetést fog végezni. Mozgassa ujjait az érintőtábla teteje és alja között a függőleges görgetéshez, vagy vízszintesen az oldalirányú görgetéshez. Ilyenkor ujjait egy kicsit távolítsa el egymástól, nehogy az érintőtábla a közeli két ujját egyetlen nagy ujjnak érzékelje.</p>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">A kétujjas görgetés nem minden érintőtáblán működik.</p></div></div></div></div>
@@ -125,10 +123,9 @@
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Eszközök</span> lehetőségre az oldalsávon.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Mouse &amp; Touchpad</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, make sure <span class="gui">Touchpad</span> is
-      set to <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Set <span class="gui">Natural Scrolling</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Kattintson az <span class="gui">Egér és érintőtábla</span> elemre az oldalsávon a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">Az <span class="gui">Érintőtábla</span> szakaszban győződjön meg arról, hogy az <span class="gui">Érintőtábla</span> <span class="gui">BE</span> állásba van-e kapcsolva.</p></li>
+<li class="steps"><p class="p">Kapcsolja <span class="gui">BE</span> a <span class="gui">Természetes görgetés</span> kapcsolót.</p></li>
 </ol></div></div></div>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Ez a szolgáltatás <span class="em">fordított görgetés</span> néven is ismert.</p></div></div></div></div>
 </div></div>
@@ -138,7 +135,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html.hu" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.hu" title="Bal kezes egér használata">Balkezes</a></span>, <span class="link"><a href="mouse-sensitivity.html.hu" title="Adjust the speed of the mouse and touchpad">sebesség és érzékenység</a></span>, <span class="link"><a href="mouse-touchpad-click.html.hu" title="Kattintás, húzás vagy görgetés az érintőtáblával">kattintás és görgetés az érintőtáblával</a></span>…</span>
+<a href="mouse.html.hu" title="Egér és érintőtábla">Egér és érintőtábla</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.hu" title="Bal kezes egér használata">Balkezes</a></span>, <span class="link"><a href="mouse-sensitivity.html.hu" title="Az egér és érintőtábla sebességének módosítása">sebesség és érzékenység</a></span>, <span class="link"><a href="mouse-touchpad-click.html.hu" title="Kattintás, húzás vagy görgetés az érintőtáblával">kattintás és görgetés az érintőtáblával</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

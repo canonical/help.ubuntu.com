@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Справка"></span></span> Руководство пользователя настольного выпуска Ubuntu</a> » <a class="trail" href="getting-started.html.ru" title="Начало работы">Начало работы с GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Справка"></span></span> Руководство пользователя настольного выпуска Ubuntu</a> » <a class="trail" href="getting-started.html.ru" title="Начало работы">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -123,13 +123,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.ru" title="Начало работы">Начало работы с GNOME</a><span class="desc"> — Новичок в GNOME? Узнай, с чего начать.</span>
+<a href="getting-started.html.ru" title="Начало работы">Getting started with GNOME</a><span class="desc"> — Новичок в GNOME? Узнай, с чего начать.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
+<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Wireless networking">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Wired networking">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Web browsers">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

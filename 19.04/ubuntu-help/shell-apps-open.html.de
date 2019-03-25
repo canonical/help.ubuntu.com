@@ -89,6 +89,7 @@
 <div class="region"><div class="contents">
 <p class="p">Eine weitere, für fortgeschrittene Benutzer geeignete Möglichkeit eine Anwendung auszuführen ist, den <span class="em">Befehlsnamen</span> zu verwenden, was durch das Drücken der Tasten <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, gefolgt von der Eingabe des Befehls und anschließendem Drücken der <span class="key"><kbd>Eingabetaste</kbd></span> durchgeführt werden kann.</p>
 <p class="p">Um beispielsweise <span class="app">Rhythmbox</span> zu starten, drücken Sie <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> und geben Sie <span class="cmd">rhythmbox</span> ein. Der Name der Anwendung ist der Befehl zum Starten des Programms.</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
 </div></div>
 </div></div>
 </div>

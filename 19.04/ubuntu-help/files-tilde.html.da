@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a file with a ~ at the end of its name?</title>
+<title>Hvad er en fil med en ~ i slutningen af dens navn?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#faq" title="Tips og spørgsmål">Tips og spørgsmål</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is a file with a <span class="file">~</span> at the end of its name?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvad er en fil med en <span class="file">~</span> i slutningen af dens navn?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Files with a <span class="file">~</span> at the end of their names (for example,
@@ -82,7 +82,7 @@
   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. You can hide them again by
   repeating either of these steps.</p>
 <p class="p">These files are treated in the same way as normal hidden files. See
-  <span class="link"><a href="files-hidden.html.da" title="Hide a file">Hide a file</a></span> for advice on dealing with hidden files.</p>
+  <span class="link"><a href="files-hidden.html.da" title="Skjul en fil">Skjul en fil</a></span> for advice on dealing with hidden files.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -94,7 +94,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-hidden.html.da" title="Hide a file">Hide a file</a><span class="desc"> — Make a file invisible, so you cannot see it in the file
+<a href="files-hidden.html.da" title="Skjul en fil">Skjul en fil</a><span class="desc"> — Make a file invisible, so you cannot see it in the file
     manager.</span>
 </li></ul></div>
 </div></div>

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I cannot hear any sounds on the computer</title>
+<title>Jeg kan ikke høre nogen lyd på computeren</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,18 +65,18 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Common problems">Problemer</a> » <a class="trail" href="sound-broken.html.da" title="Sound problems">Sound problems</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="sound-broken.html.da" title="Lydproblemer">Lydproblemer</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="media.html.da#sound" title="Grundlæggende lyd">Lyd</a> » <a class="trail" href="sound-broken.html.da" title="Sound problems">Sound problems</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="media.html.da#sound" title="Grundlæggende lyd">Lyd</a> » <a class="trail" href="sound-broken.html.da" title="Lydproblemer">Lydproblemer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">I cannot hear any sounds on the computer</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Jeg kan ikke høre nogen lyd på computeren</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">If you cannot hear any sounds on your computer, for example when you try
   to play music, go through the following troubleshooting tips.</p></div>
 <div id="mute" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Make sure that the sound is not muted</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sørg for at lyden ikke er på stilhed</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#yourname" title="Dig og din computer">systemmenuen</a></span> og sørg for at lyden ikke er slået fra eller skruet ned.</p>
 <p class="p">Some laptops have mute switches or keys on their keyboards — try pressing
@@ -162,7 +162,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html.da" title="Sound problems">Sound problems</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
+<a href="sound-broken.html.da" title="Lydproblemer">Lydproblemer</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
     quality.</span>
 </li></ul></div>
 </div></div></div>

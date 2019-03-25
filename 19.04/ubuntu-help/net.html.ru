@@ -71,12 +71,23 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные сети</a></div>
+<div class="links-grid-link"><a href="net-wireless.html.ru" title="Wireless networking">Wireless networking</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html.ru" title="Подключение к беспроводной сети">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.ru" title="Подключение к скрытой беспроводной сети">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.ru" title="Почему беспроводное соединение постоянно прерывается?">Disconnecting</a></span>…
+      <span class="link"><a href="net-wireless-connect.html.ru" title="Подключение к беспроводной сети">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ru" title="Подключение к скрытой беспроводной сети">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ru" title="Почему беспроводное соединение постоянно прерывается?">Wi-Fi disconnecting</a></span>…
     </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-browser.html.ru" title="Web browsers">Web browsers</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-default-browser.html.ru" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.ru" title="Установка Flash-плагина">install Flash</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.ru" title="Wired networking">Wired networking</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.ru" title="Подключение к проводной (Ethernet) сети">Проводные соединения с Интернетом</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ru" title="Создание соединения с фиксированным IP-адресом">статические IP-адреса</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html.ru" title="Безопасность в Интернете">Безопасность в Интернете</a></div>
@@ -84,13 +95,6 @@
       <span class="link"><a href="net-antivirus.html.ru" title="Нужна ли мне антивирусная программа?">Antivirus software</a></span>,
       <span class="link"><a href="net-firewall-on-off.html.ru" title="Управление доступом к сети с помощью межсетевого экрана">basic firewalls</a></span>,
       <span class="link"><a href="net-firewall-ports.html.ru" title="Часто используемые сетевые порты">firewall ports</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.ru" title="Веб-браузеры">Веб-браузеры</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html.ru" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html.ru" title="Установка Flash-плагина">install Flash</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -103,11 +107,10 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.ru" title="Проблемы с сетью">Проблемы с сетью</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html.ru" title="I can’t see my wireless network in the list">поиск сети wifi</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.ru" title="Проводные сети">Проводные сети</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.ru" title="Подключение к проводной (Ethernet) сети">Проводные соединения с Интернетом</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ru" title="Создание соединения с фиксированным IP-адресом">статические IP-адреса</a></span>…</span></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.ru" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-general.html.ru" title="Сетевые термины и советы">Сетевые термины и советы</a></div>

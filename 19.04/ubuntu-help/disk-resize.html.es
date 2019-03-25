@@ -70,11 +70,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Ajustar el tamaño de un sistema de archivos</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">A filesystem can be grown to make use of the free space after its
-     partition. Often this is even possible while the filesystem is
-     mounted.</p>
-<p class="p">To make space for another partition after the filesystem, it can be
-     shrunk according to the free space within it.</p>
+<p class="p">Un sistema de archivos puede extenderse para hacer uso del espacio libre después de su partición. A veces esto es posible incluso mientras el sistema de archivos está montado.</p>
+<p class="p">Para hacer espacio para otra partición después del sistema de archivos, se puede encoger de forma acorde al espacio libre que haya en él.</p>
 <p class="p">No todos los sistemas de archivos soportan el cambio de tamaño.</p>
 <p class="p">El tamaño de la partición se cambiará junto con el tamaño del sistema de archivos. También es posible redimensionar una partición sin un sistema de archivos del mismo modo.</p>
 <div class="steps"><div class="inner">
@@ -84,24 +81,15 @@
 <li class="steps"><p class="p">Seleccione el disco que contiene el sistema de archivos de la lista de dispositivos de almacenamiento de la izquierda. Si hay más de un volumen en el disco, seleccione el que contiene el sistema de archivos.</p></li>
 <li class="steps"><p class="p">En la barra de herramientas, debajo de la sección <span class="gui">Volúmenes</span>, pulse el botón del menú. Después pulse <span class="gui">Redimensionar sistema de archivos…</span>. o <span class="gui">Redimensionar</span> si no hay sistema de archivos.</p></li>
 <li class="steps">
-<p class="p">A dialog will open where the new size can be chosen. The filesystem will
-       be mounted to calculate the minimum size by the amount of current
-       content. If shrinking is not supported the minimum size is the current
-       size. Leave enough space within the filesystem when shrinking to ensure
-       that it can work fast and reliably.</p>
+<p class="p">Se abrirá un diálogo en el que podrá elegir el nuevo tamaño. El sistema de archivos se montará para calcular el tamaño mínimo por la cantidad de contenido actual. Si la reducción no está soportada, el tamaño mínimo será el tamaño actual. Deje suficiente espacio en el sistema de archivos cuando lo reduzca para asegurar que podrá funcionar rápidamente y de forma fiable.</p>
 <p class="p">Dependiendo de la cantidad de datos que se deben mover de la parte reducida, la redimensión del sistema de archivos puede tardar mucho tiempo.</p>
-<div class="note note-warning" title="Advertencia"><div class="inner"><div class="region"><div class="contents"><p class="p">The filesystem resize automatically involves
-         <span class="link"><a href="disk-repair.html.es" title="Reparar un sistema de archivos dañado">repairing</a></span> of the filesystem. Therefore
-         it is advised to back up important data before starting. The action
-         must not be stopped or it will result in a damaged filesystem.</p></div></div></div></div>
+<div class="note note-warning" title="Advertencia"><div class="inner"><div class="region"><div class="contents"><p class="p">El redimensionamiento del sistema de archivos implica automáticamente la <span class="link"><a href="disk-repair.html.es" title="Reparar un sistema de archivos dañado">reparación</a></span> del sistema de archivos. En cualquier caso, se recomienda hacer una copia de seguridad de los datos importantes antes de empezar. La acción no deberá interrumpirse o podría resultar en un sistema de archivos dañado.</p></div></div></div></div>
 </li>
 <li class="steps">
 <p class="p">Para realizar la acción confirme pulsando el botón <span class="gui">Redimensionar</span>.</p>
-<p class="p">The action will unmount the filesystem if resizing a mounted filesystem
-      is not supported. Be patient while the filesystem is resized.</p>
+<p class="p">La acción desmontará el sistema de archivo si redimensionar un sistema de archivos montado no está soportado. Sea paciente mientras el sistema de archivos se redimensiona.</p>
 </li>
-<li class="steps"><p class="p">After completion of the needed resize and repair actions the filesystem
-       is ready to be used again.</p></li>
+<li class="steps"><p class="p">Al finalizar las acciones necesarias de redimensión y reparación del sistema de archivos estará listo para usarlo de nuevo.</p></li>
 </ol></div>
 </div></div>
 </div>

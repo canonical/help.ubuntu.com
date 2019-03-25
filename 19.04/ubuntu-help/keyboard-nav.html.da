@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Keyboard navigation</title>
+<title>Tastaturnavigation</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -73,22 +73,22 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Keyboard navigation</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Tastaturnavigation</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">This page details keyboard navigation for people who cannot use a mouse or
   other pointing device, or who want to use a keyboard as much as possible. For
   keyboard shortcuts that are useful to all users, see
-  <span class="link"><a href="shell-keyboard-shortcuts.html.da" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a></span> instead.</p>
+  <span class="link"><a href="shell-keyboard-shortcuts.html.da" title="Nyttige tastaturgenveje">Nyttige tastaturgenveje</a></span> instead.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If you cannot use a pointing device like a mouse, you can control the
     mouse pointer using the numeric keypad on your keyboard. See
-    <span class="link"><a href="mouse-mousekeys.html.da" title="Click and move the mouse pointer using the keypad">Click and move the mouse pointer using the keypad</a></span> for details.</p></div></div></div></div>
+    <span class="link"><a href="mouse-mousekeys.html.da" title="Klik og flyt musemarkøren med det numeriske tastatur">Klik og flyt musemarkøren med det numeriske tastatur</a></span> for details.</p></div></div></div></div>
 <div class="table"><div class="inner">
 <div class="title title-table"><h2><span class="title">Navigate user interfaces</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td>
-<p class="p"><span class="key"><kbd>Tab</kbd></span> and</p>
+<p class="p"><span class="key"><kbd>Tab</kbd></span> og</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p>
 </td>
 <td>
@@ -153,7 +153,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;">
-<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> eller</p>
 <p class="p"><span class="key"><a href="keyboard-key-menu.html.da" title="Hvad er Menu-tasten?"><kbd>Menu</kbd></a></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p">Pop up the context menu for the current selection, as if you had
@@ -180,10 +180,8 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td>
-<p class="p">
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> or the</p>
-<p class="p"><span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span> key
-    </p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> eller</p>
+<p class="p"><span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>-tasten</p>
 </td>
 <td><p class="p">Switch between the <span class="gui">Activities</span> overview and desktop. In
     the overview, start typing to instantly search your applications, contacts,
@@ -191,7 +189,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.da" title="Switch between windows">Quickly switch between
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.da" title="Skift mellem vinduer">Quickly switch between
     windows</a></span>. Hold down <span class="key"><kbd>Shift</kbd></span> for reverse order.</p></td>
 </tr>
 <tr>
@@ -217,7 +215,7 @@
 <p class="p">and</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
 </td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.da" title="Switch between workspaces">Switch between
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.da" title="Skift mellem arbejdsområder">Switch between
      workspaces</a></span>.</p></td>
 </tr>
 <tr>
@@ -233,7 +231,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.da#notificationlist" title="The notification list">Open the
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.da#notificationlist" title="Påmindelseslisten">Open the
     notification list.</a></span> Press <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
 </tr>
 </table></div>
@@ -268,25 +266,24 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;">
-<p class="p">
-      <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
 <p class="p">and</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
 </td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.da" title="Move a window to a different workspace">Move the current window to a
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.da" title="Flyt et vindue til et andet arbejdsområde">Move the current window to a
      different workspace</a></span>.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the left.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the right.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> eller <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.da" title="Maximize and unmaximize a window">Maximize</a></span> a window. Press
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.da" title="Maksimer og afmaksimer et vindue">Maximize</a></span> a window. Press
     <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
     <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> to
     restore a maximized window to its original size.</p></td>
@@ -326,8 +323,8 @@
 <li class="links "><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">Bevægelseshæmninger</a></li>
 <li class="links ">
 <a href="keyboard.html.da" title="Tastatur">Tastatur</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.da" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Få tastaturets markør til at blinke">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">keyboard accessibility</a></span>…
     </span>
 </li>
@@ -336,7 +333,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html.da" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.da" title="Nyttige tastaturgenveje">Nyttige tastaturgenveje</a><span class="desc"> — Find rundt på skrivebordet med tastaturet.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Find a lost window</title>
+<title>Find et mistet vindue</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,19 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-windows" title="Working with windows">Windows</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-windows" title="Arbejd med vinduer">Windows</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Find a lost window</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Find et mistet vindue</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">A window on a different workspace, or hidden behind another window, is
   easily found using the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span>
   overview:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Åbn <span class="gui">Aktivitetsoversigten</span>. Hvis det manglende vindue er på det nuværende <span class="link"><a href="shell-windows.html.da#working-with-workspaces" title="Working with workspaces">arbejdsområde</a></span>, bliver det vist her som miniature. Klik blot på miniaturen for at vise vinduet igen, eller</p></li>
+<li class="list"><p class="p">Åbn <span class="gui">Aktivitetsoversigten</span>. Hvis det manglende vindue er på det nuværende <span class="link"><a href="shell-windows.html.da#working-with-workspaces" title="Arbejd med arbejdsområder">arbejdsområde</a></span>, bliver det vist her som miniature. Klik blot på miniaturen for at vise vinduet igen, eller</p></li>
 <li class="list"><p class="p">Click different workspaces in the
-      <span class="link"><a href="shell-workspaces.html.da" title="What is a workspace, and how will it help me?">workspace selector</a></span> at the
+      <span class="link"><a href="shell-workspaces.html.da" title="Hvad er et arbejdsområde og hvordan kan det hjælpe mig?">workspace selector</a></span> at the
       right-hand side of the screen to try to find your window, or</p></li>
 <li class="list"><p class="p">Right-click the application in the dash and its open windows will be
       listed. Click the window in the list to switch to it.</p></li>
@@ -85,7 +85,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Press
       <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      to display the <span class="link"><a href="shell-windows-switching.html.da" title="Switch between windows">window switcher</a></span>.
+      to display the <span class="link"><a href="shell-windows-switching.html.da" title="Skift mellem vinduer">window switcher</a></span>.
       Continue to hold down the <span class="key"><kbd>Super</kbd></span> key and press <span class="key"><kbd>Tab</kbd></span>
       to cycle through the open windows, or
       <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to cycle backwards.</p></li>
@@ -98,7 +98,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html.da#working-with-windows" title="Working with windows">Working with windows</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.da#working-with-windows" title="Arbejd med vinduer">Arbejd med vinduer</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

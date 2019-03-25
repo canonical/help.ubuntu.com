@@ -74,7 +74,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Instalace správného kodeku pro přehrávání DVD</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Aby šla přehrávat DVD, potřebujete mít nainstalované <span class="em">kodeky</span>. Kodek je kus softwaru, který umožňuje aplikacím číst formáty zvuku a videa. Když váš přehrávač filmů nemůže najít správný kodek, může vám jeho instalaci nabídnout. Pokud tak neučiní, musíte jej nainstalovat ručně sami. Jak to udělat se poptejte na příklad v diskuzním fóru podpory vaší linuxové distribuce.</p>
-<p class="p">Navíc mohou být DVD <span class="em">chráněna proti kopírování</span> systémem nazývaným CSS. Ten brání kopírování DVD, ale tím i jeho přehrávání, pokud k tomu nemáte správný software. Ten je dostupný pro řadu linuxových distribucí, ale protože ne ve všech zemích je jeho použití legální, nebývá často v hlavním repozitáři pro instalaci softwaru. Můžete to také řešit koupí komerčního dekoderu DVD <span class="link"><a href="http://fluendo.com/shop/product/oneplay-dvd-player/" title="http://fluendo.com/shop/product/oneplay-dvd-player/">Fluendo</a></span>, který umí s chráněnými DVD pracovat. V Linuxu funguje dobře a jeho použití je legální ve všech zemích.</p>
+<p class="p">DVDs are also <span class="em">copy-protected</span> using a system called CSS. This
+  prevents you from copying DVDs, but it also prevents you from playing them
+  unless you have extra software to handle the copy protection. This software
+  is available from a number of Linux distributions, but cannot be legally used
+  in all countries. You can buy a commercial DVD decoder that can handle copy
+  protection from
+  <span class="link"><a href="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/" title="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/">Fluendo</a></span>.
+  It works with Linux and should be legal to use in all countries.</p>
 </div></div>
 </div></div>
 <div id="region" class="sect"><div class="inner">

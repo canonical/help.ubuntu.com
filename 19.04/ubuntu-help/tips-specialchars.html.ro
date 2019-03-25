@@ -105,18 +105,15 @@
 <div class="note note-important" title="Important"><div class="inner"><div class="region"><div class="contents">
 <p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
       change this setting.</p>
-<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
-        <span class="app">Tweaks</span></a></span></p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Instalați <span class="app">Ajustări</span></a></span></p>
 </div></div></div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span>
-        overview and start typing <span class="gui">Tweaks</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Ajustări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Ajustări</span> pentru a deschide aplicația.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
-        setting.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Dezactivat</span> lângă configurarea <span class="gui">Tasta compunere</span>.</p></li>
 <li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
         want to use.</p></li>
 <li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks"><a class="nextlinks-prev" href="gs-change-date-time-timezone.html.it" title="Cambiare data, ora e fuso orario">Indietro</a></div>
@@ -75,11 +75,10 @@
 <a href="#" class="ui-overlay-close" title="Chiudi">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
 <video src="figures/gnome-change-wallpaper.webm" preload="auto" controls="controls" class="media media-block" height="394" width="700" data-play-label="Riproduci" data-pause-label="Pausa"></video><div class="media-ttml">
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Cambiare sfondo</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="9"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="9">Click the system menu on the right side of the top bar and press
-           the settings button.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="6" data-ttml-end="9"><div class="media-ttml-node media-ttml-p" data-ttml-begin="6" data-ttml-end="9">Fare clic sul menù di sistema nella parte destra della barra superiore e premere il pulsante delle impostazioni.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="10" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="10" data-ttml-end="12">Selezionare <span class="gui">Sfondo</span>.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="13">Click the current background image.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="13" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="13" data-ttml-end="16">Click the background image you want to use.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="13"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="13">Fare clic sull'immagine di sfondo attuale.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="13" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="13" data-ttml-end="16">Fare clic sull'immagine di sfondo da usare.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="18"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="18">Fare clic sul pulsante <span class="gui">Seleziona</span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="18" data-ttml-end="21"><div class="media-ttml-node media-ttml-p" data-ttml-begin="18" data-ttml-end="21">Chiudere la finestra <span class="gui">Sfondo</span>.</div></div>
 </div>
@@ -89,13 +88,11 @@
 <div id="change-wallpaper-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Cambiare lo sfondo</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">system menu</a></span>
-      on the right side of the top bar.</p></li>
-<li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Background</span> panel.</p></li>
-<li class="steps"><p class="p">Click the current background image on the left side of the
-      <span class="gui">Background</span> window.</p></li>
-<li class="steps"><p class="p">Click the background image you want to use.</p></li>
+<li class="steps"><p class="p">Fare clic sul <span class="gui"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">menù di sistema</a></span> a destra nella barra superiore.</p></li>
+<li class="steps"><p class="p">Fare clic pulsante delle impostazioni in basso a sinistra nel menù.</p></li>
+<li class="steps"><p class="p">Fare clic sul riquadro <span class="gui">Sfondo</span>.</p></li>
+<li class="steps"><p class="p">Fare clic sull'immagine dello sfondo corrente a sinistra nella finestra <span class="gui">Sfondo</span>.</p></li>
+<li class="steps"><p class="p">Fare clic sull'immagine di sfondo da usare.</p></li>
 <li class="steps"><p class="p">Fare clic sul pulsante <span class="gui">Seleziona</span>.</p></li>
 <li class="steps"><p class="p">Chiudere la finestra <span class="gui">Sfondo</span> facendo clic sulla croce nell'angolo superiore destro della finestra.</p></li>
 </ol></div></div></div></div></div>
@@ -107,7 +104,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
+<a href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a><span class="desc"> — Appena arrivati in GNOME? Imparate a muovere i primi passi.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

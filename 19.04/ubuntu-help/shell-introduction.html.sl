@@ -2,7 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Uvod v  GNOME</title>
+<title>Visual overview of GNOME</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Uvod v  GNOME</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Visual overview of GNOME</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">GNOME 3 vsebuje popolnoma nov uporabniški vmesnik, ki je zasnovan, da vam ni v napoto, zmanjša motnje in vam pomaga narediti stvari. Ko se prvič prijavite, boste videli prazno namizje in vrhnjo vrstico.</p>

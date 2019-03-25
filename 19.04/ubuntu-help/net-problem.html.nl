@@ -86,13 +86,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — <span class="link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos</a></span>, <span class="link"><a href="net-wired.html.nl" title="Bekabeld netwerk">bekabeld</a></span>, <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">verbindingsproblemen</a></span>, <span class="link"><a href="net-browser.html.nl" title="Webbrowsers">webbrowsen</a></span>, <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">e-mailaccounts</a></span>…</span>
+<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — <span class="link"><a href="net-wireless.html.nl" title="Wireless networking">Draadloos</a></span>, <span class="link"><a href="net-wired.html.nl" title="Wired networking">bekabeld</a></span>, <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">verbindingsproblemen</a></span>, <span class="link"><a href="net-browser.html.nl" title="Web browsers">webbrowsen</a></span>, <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">e-mailaccounts</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span>
+<a href="net-wireless.html.nl" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li></ul></div>
 </div></div>
 </div>

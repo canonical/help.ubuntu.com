@@ -71,62 +71,70 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html.da" title="Color management">Color management</a></div>
+<div class="links-grid-link"><a href="user-accounts.html.da" title="Brugerkonti">Brugerkonti</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="color-whyimportant.html.da" title="Why is color management important?">Why is this important</a></span>,
-      <span class="link"><a href="color.html.da#profiles" title="Color profiles">Color profiles</a></span>,
-      <span class="link"><a href="color.html.da#calibration" title="Calibration">How to calibrate a device</a></span>…
+      <span class="link"><a href="user-add.html.da" title="Tilføj en ny brugerkonto">Add user</a></span>,
+      <span class="link"><a href="user-changepassword.html.da" title="Skift din adgangskode">change password</a></span>,
+      <span class="link"><a href="user-admin-change.html.da" title="Change who has administrative privileges">administrators</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="clock.html.da" title="Dato &amp; klokkeslæt">Dato &amp; klokkeslæt</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="clock-set.html.da" title="Change the date and time">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.da" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.da" title="Change your timezone">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.da" title="Calendar appointments">calendar and appointments</a></span>…
+      <span class="link"><a href="clock-set.html.da" title="Skift datoen og klokkeslættet">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.da" title="Tilføj et verdensur">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.da" title="Skift din tidszone">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">calendar and appointments</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-sharing.html.da" title="Delingsindstillinger">Delingsindstillinger</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="sharing-bluetooth.html.da" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.da" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html.da" title="Share your desktop">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html.da" title="Share your music, photos and videos">Media sharing</a></span>…
+      <span class="link"><a href="sharing-bluetooth.html.da" title="Styr deling via Bluetooth">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.da" title="Del dine personlige filer">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Screen sharing</a></span>,
+      <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Media sharing</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-display.html.da" title="Display &amp; screen">Display &amp; screen</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="look-background.html.da" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.da" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.da" title="Set screen brightness">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.da" title="Adjust the color temperature of your screen">color temperature</a></span>…
+      <span class="link"><a href="look-background.html.da" title="Skift baggrunde på skrivebordet og låseskærmen">Background</a></span>,
+      <span class="link"><a href="look-resolution.html.da" title="Skift opløsningen eller orienteringen af skærmen">size and orientation</a></span>,
+      <span class="link"><a href="display-brightness.html.da" title="Indstil skærmens lysstyrke">brightness</a></span>,
+      <span class="link"><a href="display-night-light.html.da" title="Justér farvetemperaturen på din skærm">color temperature</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="color.html.da" title="Farvestyring">Farvestyring</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="color-whyimportant.html.da" title="Hvorfor er farvestyring vigtigt?">Why is this important</a></span>,
+      <span class="link"><a href="color.html.da#profiles" title="Farveprofiler">Color profiles</a></span>,
+      <span class="link"><a href="color.html.da#calibration" title="Kalibrering">How to calibrate a device</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.da#sound" title="Grundlæggende lyd">Lyd</a></div>
 <div class="desc"><span class="desc">
-     <span class="link"><a href="sound-volume.html.da" title="Change the sound volume">Volume</a></span>,
-     <span class="link"><a href="sound-usespeakers.html.da" title="Use different speakers or headphones">speakers and headphones</a></span>,
-     <span class="link"><a href="sound-usemic.html.da" title="Use a different microphone">microphones</a></span>…
+     <span class="link"><a href="sound-volume.html.da" title="Skift lydstyrken">Volume</a></span>,
+     <span class="link"><a href="sound-usespeakers.html.da" title="Brug andre højttalere eller hovedtelefoner">speakers and headphones</a></span>,
+     <span class="link"><a href="sound-usemic.html.da" title="Brug en anden mikrofon">microphones</a></span>…
    </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html.da" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a></div>
+<div class="links-grid-link"><a href="mouse.html.da" title="Mus &amp; pegeplade">Mus &amp; pegeplade</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="mouse-lefthanded.html.da" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html.da" title="Adjust the speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html.da" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+      <span class="link"><a href="mouse-lefthanded.html.da" title="Brug din mus venstrehåndet">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.da" title="Justér hastigheden på musen og pegepladen">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.da" title="Klik, træk eller rul med pegepladen">touchpad clicking and scrolling</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="accounts.html.da" title="Onlinekonti">Onlinekonti</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="accounts-add.html.da" title="Add an account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html.da" title="Remove an account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html.da" title="Online services and applications">Learn about services</a></span>…
+      <span class="link"><a href="accounts-add.html.da" title="Tilføj en konto">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.da" title="Fjern en konto">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.da" title="Onlinetjenester og programmer">Learn about services</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -138,19 +146,19 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="privacy.html.da" title="Privacy Settings">Privacy Settings</a></div>
+<div class="links-grid-link"><a href="privacy.html.da" title="Privatlivsindstillinger">Privatlivsindstillinger</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="privacy-screen-lock.html.da" title="Automatically lock your screen">Screen lock</a></span>,
+      <span class="link"><a href="privacy-screen-lock.html.da" title="Låser skærmen automatisk">Screen lock</a></span>,
       <span class="link"><a href="privacy-history-recent-off.html.da" title="Turn off or limit file history tracking">Usage history</a></span>,
       <span class="link"><a href="privacy-purge.html.da" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs-language.html.da" title="Region &amp; Language">Region &amp; Language</a></div>
+<div class="links-grid-link"><a href="prefs-language.html.da" title="Region &amp; sprog">Region &amp; sprog</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="session-language.html.da" title="Change which language you use">Language</a></span>,
-      <span class="link"><a href="session-formats.html.da" title="Change date and measurement formats">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html.da" title="Use alternative keyboard layouts">keyboard layouts</a></span>…
+      <span class="link"><a href="session-language.html.da" title="Vælg sprog">Language</a></span>,
+      <span class="link"><a href="session-formats.html.da" title="Skift formater for dato og måling">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">keyboard layouts</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -160,25 +168,17 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.da" title="Tastatur">Tastatur</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard-layouts.html.da" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Få tastaturets markør til at blinke">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">keyboard accessibility</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="user-accounts.html.da" title="User accounts">User accounts</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="user-add.html.da" title="Add a new user account">Add user</a></span>,
-      <span class="link"><a href="user-changepassword.html.da" title="Change your password">change password</a></span>,
-      <span class="link"><a href="user-admin-change.html.da" title="Change who has administrative privileges">administrators</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="wacom.html.da" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="wacom-multi-monitor.html.da" title="Choose a monitor">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html.da" title="Configure the stylus">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html.da" title="Use the tablet left-handed">use the tablet left handed</a></span>…
+      <span class="link"><a href="wacom-multi-monitor.html.da" title="Vælg en skærm">Map a monitor</a></span>,
+      <span class="link"><a href="wacom-stylus.html.da" title="Konfigurer pennen">configure the stylus</a></span>,
+      <span class="link"><a href="wacom-left-handed.html.da" title="Brug tegnepladen venstrehåndet">use the tablet left handed</a></span>…
   </span></div>
 </div>
 </div></div></div></div>

@@ -89,6 +89,7 @@
 <div class="region"><div class="contents">
 <p class="p">Az alkalmazások futtatásának másik módja az <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> megnyomása, a <span class="em">parancsnevük</span> beírása, és az <span class="key"><kbd>Enter</kbd></span> megnyomása.</p>
 <p class="p">A <span class="app">Rhythmbox</span> futtatásához például nyomja meg az <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> kombinációt, és írja be a <span class="cmd">rhythmbox</span> kifejezést. Az alkalmazás neve a program elindítására használt parancs.</p>
+<p class="p">Használja a nyíl billentyűket a korábban futtatott parancsok gyors eléréséhez.</p>
 </div></div>
 </div></div>
 </div>
@@ -99,7 +100,7 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html.hu" title="Az asztal">Az asztal</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.hu" title="Naptári találkozók">naptár</a></span>, <span class="link"><a href="shell-notifications.html.hu" title="Notifications and the notification list">értesítések</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.hu" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html.hu" title="Ablakok és munkaterületek">ablakok és munkaterületek</a></span>…</span>
+<a href="shell-overview.html.hu" title="Az asztal">Az asztal</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.hu" title="Naptári találkozók">naptár</a></span>, <span class="link"><a href="shell-notifications.html.hu" title="Értesítések és az értesítéslista">értesítések</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.hu" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html.hu" title="Ablakok és munkaterületek">ablakok és munkaterületek</a></span>…</span>
 </li>
 <li class="links "><a href="index.html.hu" title="Ubuntu felhasználói kézikönyv">Ubuntu felhasználói kézikönyv</a></li>
 </ul></div>

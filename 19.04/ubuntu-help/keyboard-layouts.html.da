@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use alternative keyboard layouts</title>
+<title>Brug alternative tastaturlayouts</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,17 +67,17 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » <a class="trail" href="keyboard-shortcuts-set.html.da" title="Set keyboard shortcuts">Set keyboard shortcuts</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » <a class="trail" href="keyboard-shortcuts-set.html.da" title="Indstil tastaturgenveje">Indstil tastaturgenveje</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-language.html.da" title="Region &amp; Language">Region &amp; Language</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-language.html.da" title="Region &amp; sprog">Region &amp; sprog</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » <a class="trail" href="keyboard-shortcuts-set.html.da" title="Set keyboard shortcuts">Set keyboard shortcuts</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » <a class="trail" href="keyboard-shortcuts-set.html.da" title="Indstil tastaturgenveje">Indstil tastaturgenveje</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use alternative keyboard layouts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Brug alternative tastaturlayouts</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Keyboards come in hundreds of different layouts for different languages.
@@ -87,11 +87,9 @@
   printed on the keys. This is useful if you often switch between multiple
   languages.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Region &amp; Language</span> in the sidebar to open the
-      panel.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Region &amp; sprog</span> i sidebjælken for at åbne panelet.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">+</span> button in the <span class="gui">Input Sources</span> section,
       select the language which is associated with the layout, then select a
       layout and press <span class="gui">Add</span>.</p></li>
@@ -149,20 +147,20 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-language.html.da" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
-      <span class="link"><a href="session-language.html.da" title="Change which language you use">Language</a></span>,
-      <span class="link"><a href="session-formats.html.da" title="Change date and measurement formats">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html.da" title="Use alternative keyboard layouts">keyboard layouts</a></span>…
-    </span>
-</li>
-<li class="links ">
-<a href="keyboard-shortcuts-set.html.da" title="Set keyboard shortcuts">Set keyboard shortcuts</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
+<a href="keyboard-shortcuts-set.html.da" title="Indstil tastaturgenveje">Indstil tastaturgenveje</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
     settings.</span>
 </li>
 <li class="links ">
+<a href="prefs-language.html.da" title="Region &amp; sprog">Region &amp; sprog</a><span class="desc"> — 
+      <span class="link"><a href="session-language.html.da" title="Vælg sprog">Language</a></span>,
+      <span class="link"><a href="session-formats.html.da" title="Skift formater for dato og måling">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">keyboard layouts</a></span>…
+    </span>
+</li>
+<li class="links ">
 <a href="keyboard.html.da" title="Tastatur">Tastatur</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.da" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Få tastaturets markør til at blinke">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">keyboard accessibility</a></span>…
     </span>
 </li>
@@ -171,7 +169,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips-specialchars.html.da" title="Enter special characters">Enter special characters</a><span class="desc"> — Type characters not found on your keyboard, including foreign alphabets, mathematical symbols, and dingbats.</span>
+<a href="tips-specialchars.html.da" title="Indtast specialtegn">Indtast specialtegn</a><span class="desc"> — Type characters not found on your keyboard, including foreign alphabets, mathematical symbols, and dingbats.</span>
 </li></ul></div>
 </div></div>
 </div>

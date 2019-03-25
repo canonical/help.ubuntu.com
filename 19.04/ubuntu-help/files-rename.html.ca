@@ -78,7 +78,7 @@
 <li class="steps"><p class="p">Escrigui el nou nom i premi <span class="key"><kbd>Retorn</kbd></span> o feu clic a <span class="gui">Reanomenar</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">També pot reanomenar un arxiu des de la finestra <span class="link"><a href="nautilus-file-properties-basic.html.ca" title="Propietats del fitxer">propietats</a></span>.</p>
+<p class="p">També pot reanomenar un fitxer des de la finestra <span class="link"><a href="nautilus-file-properties-basic.html.ca" title="Propietats del fitxer">propietats</a></span>.</p>
 <p class="p">Quan canvieu el nom d'un fitxer, només se selecciona la primera part del nom del fitxer, no l'extensió (la part després de l'últim<span class="file">.</span>). L'extensió normalment indica quin tipus de fitxer és (per exemple, <span class="file">fitxer.pdf</span> és un document PDF), i normalment no voldreu canviar-lo. Si també heu de canviar l'extensió, seleccioneu el nom complet i canvieu-lo.</p>
 <div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Si us heu equivocat de fitxer al canviar de nom, o heu assignat un nom incorrecte al vostre fitxer, podeu desfer el canvi de nom. Per desfer l'acció, immediatament feu clic al botó de menú de la barra d'eines i seleccioneu <span class="gui">Desfer reanomenar</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, per restaurar el nom anterior.</p></div></div></div></div>
 </div>
@@ -86,7 +86,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Caràcters vàlids per als noms dels fitxers</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Podeu utilitzar qualsevol caràcter excepte el<span class="file">/</span> (barra) caràcter en els noms dels fitxers. Tanmateix, alguns dispositius utilitzen un <span class="em">sistema de fitxers</span> amb més restriccions alhora de posar els noms. Per tant, és una bona pràctica evitar els següents caràcters en els noms dels fitxers: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
-<div class="note note-warning" title="Atenció"><div class="inner"><div class="region"><div class="contents"><p class="p">Si anomeneu un fitxer amb <span class="file">.</span> com a primer caràcter, el fitxer restarà <span class="link"><a href="files-hidden.html.ca" title="Ocultar el fitxer">ocult</a></span>quan intenteu visualitzar-lo al gestor de fitxers.</p></div></div></div></div>
+<div class="note note-warning" title="Atenció"><div class="inner"><div class="region"><div class="contents"><p class="p">Si anomeneu un fitxer amb <span class="file">.</span> com a primer caràcter, el fitxer restarà <span class="link"><a href="files-hidden.html.ca" title="Ocultar un fitxer">ocult</a></span>quan intenteu visualitzar-lo al gestor de fitxers.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
@@ -95,12 +95,12 @@
 <dt class="terms">El nom del fitxer ja està en ús</dt>
 <dd class="terms">
 <p class="p">No podeu tenir dos fitxers o carpetes amb el mateix nom dins de la mateixa carpeta. Si intenteu canviar el nom d'un fitxer a un nom que ja existeix a la carpeta on esteu treballant, el gestor de fitxers no ho permetrà.</p>
-<p class="p">Els noms dels fitxers i carpetes distingeixen entre majúscules i minúscules, així que el nom del fitxer <span class="file">Fitxer.txt</span> no és el mateix que <span class="file">FITXER.txt</span>. L'ús de diferents noms d'arxius com aquests està permès, encara que no és recomanable.</p>
+<p class="p">Els noms dels fitxers i carpetes distingeixen entre majúscules i minúscules, així que el nom del fitxer <span class="file">Fitxer.txt</span> no és el mateix que <span class="file">FITXER.txt</span>. L'ús de diferents noms de fitxers com aquests està permès, encara que no és recomanable.</p>
 </dd>
 <dt class="terms">El nom del fitxer és massa llarg</dt>
 <dd class="terms"><p class="p">En alguns sistemes de fitxers, els noms dels fitxers no poden tenir més de 255 caràcters en els seus noms. Aquest límit de 255 caràcters inclou tant el nom del fitxer com la ruta d'accés al fitxer (per exemple, <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), de manera que haureu d'evitar noms de fitxers i carpetes llargs sempre que sigui possible.</p></dd>
 <dt class="terms">L'opció per canviar el nom és grisa</dt>
-<dd class="terms"><p class="p">Si <span class="gui">Reanomenar</span> està en gris, no teniu permís per canviar el nom del fitxer. Heu de tenir precaució al canviar el nom d'aquests fitxers, ja que reanomenar fitxers protegits pot fer que el vostre sistema quedi inestable. Consultar <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Establir els permisos pel fitxer">Establir els permisos pel fitxer</a></span> per a més informació.</p></dd>
+<dd class="terms"><p class="p">Si <span class="gui">Canvia el nom</span> està en gris, no teniu permís per canviar el nom del fitxer. Heu de tenir precaució al canviar el nom d'aquests fitxers, ja que reanomenar fitxers protegits pot fer que el vostre sistema quedi inestable. Consultar <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Establir els permisos pel fitxer">Establir els permisos pel fitxer</a></span> per a més informació.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

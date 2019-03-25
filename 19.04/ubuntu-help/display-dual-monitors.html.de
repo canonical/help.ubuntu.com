@@ -82,7 +82,7 @@
 <li class="steps"><p class="p">Platzieren Sie im Diagramm unter <span class="gui">Bildschirmanordnung</span> Ihre Bildschirme so, dass diese der tatsächlichen realen Anordnung entsprechen.</p></li>
 <li class="steps">
 <p class="p">Klicken Sie auf <span class="gui">Primärer Bildschirm</span>, um den primären Bildschirm zu wählen.</p>
-<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Der primäre Bildschirm zeigt das <span class="link"><a href="shell-introduction.html.de" title="Einführung in GNOME">obere Panel</a></span> und, sofern geöffnet, die <span class="gui">Aktivitäten</span>-Übersicht.</p></div></div></div></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Der primäre Bildschirm zeigt das <span class="link"><a href="shell-introduction.html.de" title="Visual overview of GNOME">obere Panel</a></span> und, sofern geöffnet, die <span class="gui">Aktivitäten</span>-Übersicht.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Wählen Sie die Auflösung oder Skalierung und die Ausrichtung.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Anwenden</span>. Die geänderten Einstellungen werden für 20 Sekunden angewendet und dann wieder rückgängig gemacht. Auf diese Weise werden Ihre alten Einstellungen wiederhergestellt, falls Sie mit den neuen Einstellungen nichts sehen können. Wenn Sie mit den neuen Einstellungen zufrieden sind, klicken Sie auf <span class="gui">beibehalten</span>.</p></li>

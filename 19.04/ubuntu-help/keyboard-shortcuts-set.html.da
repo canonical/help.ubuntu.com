@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set keyboard shortcuts</title>
+<title>Indstil tastaturgenveje</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,16 +71,15 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set keyboard shortcuts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Indstil tastaturgenveje</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">To change the key or keys to be pressed for a keyboard shortcut:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Enheder</span> i sidebjælken.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Tastatur</span> i sidebjælken for at åbne panelet.</p></li>
 <li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
       window will be shown.</p></li>
 <li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to
@@ -88,7 +87,7 @@
 </ol></div></div></div>
 </div>
 <div id="defined" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Pre-defined shortcuts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Prædefinerede genveje</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">There are a number of pre-configured shortcuts that can be changed,
   grouped into these categories:</p>
@@ -103,27 +102,27 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Start lommeregner</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> or <span class="key"><kbd>Calculator</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> eller <span class="key"><kbd>Lommeregner</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Launch email client</p></td>
+<td style="border-top-style: solid;"><p class="p">Start e-mailklient</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> or <span class="key"><kbd>Mail</kbd></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Launch help browser</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Start webbrowser</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="key"><kbd>WWW</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> eller <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> eller <span class="key"><kbd>WWW</kbd></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Søg</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> or <span class="key"><kbd>Search</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> eller <span class="key"><kbd>Søg</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Settings</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Tools</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Indstillinger</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Værktøjer</kbd></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -134,110 +133,108 @@
 <div class="title title-table"><h3><span class="title">Navigation</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Hide all normal windows</p></td>
-<td><p class="p">Disabled</p></td>
+<td><p class="p">Skjul alle normale vinduer</p></td>
+<td><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move to workspace above</p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt til arbejdsområdet ovenfor</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move to workspace below</p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt til arbejdsområdet nedenfor</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor down</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue én skærm ned</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor to the left</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue én skærm til venstre</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor to the right</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue én skærm til højre</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor up</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue én skærm op</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one workspace down</p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue ét arbejdsområde ned</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one workspace up</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue ét arbejdsområde op</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to last workspace</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span>
-  </p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue til sidste arbejdsområde</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to workspace 1</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span>
-  </p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue til arbejdsområde 1</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to workspace 2</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue til arbejdsområde 2</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to workspace 3</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue til arbejdsområde 3</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to workspace 4</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue til arbejdsområde 4</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch applications</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift programmer</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch system controls</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift systemstyring</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch system controls directly</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift systemstyring direkte</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to last workspace</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift til sidste arbejdsområde</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 1</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift til arbejdsområde 1</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 2</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift til arbejdsområde 2</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 3</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift til arbejdsområde 3</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to workspace 4</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift til arbejdsområde 4</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch windows</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift vinduer</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch windows directly</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift vinduer direkte</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch windows of an app directly</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift vinduer af et program direkte</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch windows of an application</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Skift vinduer af et program</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 </table></div>
 </div>
@@ -248,15 +245,15 @@
 <div class="title title-table"><h3><span class="title">Skærmbilleder</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Copy a screenshot of a window to clipboard</p></td>
+<td><p class="p">Kopiér et skærmbillede af et vindue til udklipsholderen</p></td>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Copy a screenshot of an area to clipboard</p></td>
+<td style="border-top-style: solid;"><p class="p">Kopiér et skærmbillede af et område til udklipsholderen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Copy a screenshot to clipboard</p></td>
+<td style="border-top-style: solid;"><p class="p">Kopiér et skærmbillede til udklipsholderen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -264,15 +261,15 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p">Gem et skærmbillede af et vindue til Billeder</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of an area to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p">Gem et skærmbillede af et område til Billeder</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p">Gem et skærmbillede til Billeder</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
 </tr>
 </table></div>
@@ -285,43 +282,43 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p">Skub ud</p></td>
-<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Eject)</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (skub ud)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Start medieafspiller</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Audio media)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (lyd medie)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Next track</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio next)</p></td>
+<td style="border-top-style: solid;"><p class="p">Næste spor</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (lyd næste)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Pause playback</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Audio pause)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (lyd pause)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Play (or play/pause)</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Audio play)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (lyd afspil)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Previous track</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio previous)</p></td>
+<td style="border-top-style: solid;"><p class="p">Forrige spor</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (lyd forrige)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Stop playback</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Audio stop)</p></td>
+<td style="border-top-style: solid;"><p class="p">Stop afspilning</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (lyd stop)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Volume down</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Audio lower volume)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (lyd lavere)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Volume mute</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Audio mute)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (lyd stilhed)</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Volume up</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Audio raise volume)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (lyd højere)</p></td>
 </tr>
 </table></div>
 </div>
@@ -336,7 +333,7 @@
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>N</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Lock screen</p></td>
+<td style="border-top-style: solid;"><p class="p">Lås skærm</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -344,11 +341,11 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Open the application menu</p></td>
+<td style="border-top-style: solid;"><p class="p">Åbn programmenuen</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Restore the keyboard shortcuts</p></td>
+<td style="border-top-style: solid;"><p class="p">Gendan tastaturgenvejene</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -385,7 +382,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Switch to previous input source</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Mellemrum</kbd></span></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -397,19 +394,19 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p">Decrease text size</p></td>
-<td><p class="p">Disabled</p></td>
+<td><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">High contrast on or off</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Increase text size</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Turn on-screen keyboard on or off</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Turn screen reader on or off</p></td>
@@ -436,7 +433,7 @@
 <div class="title title-table"><h3><span class="title">Windows</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p">Activate the window menu</p></td>
+<td><p class="p">Aktivér vinduesmenuen</p></td>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Mellemrum</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -444,36 +441,36 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Hide window</p></td>
+<td style="border-top-style: solid;"><p class="p">Skjul vindue</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Lower window below other windows</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Maximize window</p></td>
+<td style="border-top-style: solid;"><p class="p">Maksimer vindue</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Maximize window horizontally</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Maximize window vertically</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window</p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt vindue</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Raise window above other windows</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Raise window if covered, otherwise lower it</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Resize window</p></td>
@@ -485,7 +482,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Toggle fullscreen mode</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Toggle maximization state</p></td>
@@ -493,7 +490,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Toggle window on all workspaces or one</p></td>
-<td style="border-top-style: solid;"><p class="p">Disabled</p></td>
+<td style="border-top-style: solid;"><p class="p">Deaktiveret</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">View split on left</p></td>
@@ -509,7 +506,7 @@
 </div></div>
 </div></div>
 <div id="custom" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Custom shortcuts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Tilpassede genveje</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">To create your own application keyboard shortcut in the
   <span class="app">Keyboard</span> settings:</p>
@@ -543,8 +540,8 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="keyboard.html.da" title="Tastatur">Tastatur</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.da" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Få tastaturets markør til at blinke">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">keyboard accessibility</a></span>…
     </span>
 </li></ul></div>
@@ -552,7 +549,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html.da" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.da" title="Nyttige tastaturgenveje">Nyttige tastaturgenveje</a><span class="desc"> — Find rundt på skrivebordet med tastaturet.</span>
 </li></ul></div>
 </div></div>
 </div>

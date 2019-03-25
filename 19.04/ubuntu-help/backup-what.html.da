@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What to back up</title>
+<title>Hvad der skal sikkerhedskopieres</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,14 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#backup" title="Sikkerhedskopiering">Sikkerhedskopiering</a> » <a class="trail" href="backup-why.html.da" title="Back up your important files">Backups</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#backup" title="Sikkerhedskopiering">Sikkerhedskopiering</a> » <a class="trail" href="backup-why.html.da" title="Sikkerhedskopiér dine vigtige filer">Backups</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What to back up</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvad der skal sikkerhedskopieres</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Your priority should be to back up your
- <span class="link"><a href="backup-thinkabout.html.da" title="Where can I find the files I want to back up?">most important files</a></span> as well as those
+ <span class="link"><a href="backup-thinkabout.html.da" title="Hvor finder jeg de filer, jeg vil sikkerhedskopiere?">most important files</a></span> as well as those
  that are difficult to recreate.  For example, ranked from most important to
  least important:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
@@ -104,7 +104,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html.da" title="Back up your important files">Back up your important files</a><span class="desc"> — Why, what, where and how of backups.</span>
+<a href="backup-why.html.da" title="Sikkerhedskopiér dine vigtige filer">Sikkerhedskopiér dine vigtige filer</a><span class="desc"> — Why, what, where and how of backups.</span>
 </li></ul></div>
 </div></div></div>
 </div>

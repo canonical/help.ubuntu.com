@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.sl#universalicons" title="Ikone menija splošnega dostopa">Ikone menija splošnega dostopa</a></li>
 <li class="links "><a href="status-icons.html.sl#audioicons" title="Ikone nadzornika glasnosti">Ikone nadzornika glasnosti</a></li>
 <li class="links "><a href="status-icons.html.sl#bluetoothicons" title="Ikone upravljalnika Bluetooth">Ikone upravljalnika Bluetooth</a></li>
-<li class="links "><a href="status-icons.html.sl#networkicons" title="Ikone upravljalnika omrežja">Ikone upravljalnika omrežja</a></li>
+<li class="links ">
+<a href="status-icons.html.sl#networkicons" title="Ikone upravljalnika omrežja">Ikone upravljalnika omrežja</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
 <li class="links "><a href="status-icons.html.sl#batteryicons" title="Ikone upravljalika porabe">Ikone upravljalika porabe</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ikone upravljalnika omrežja</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Mobilna povezava</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,21 @@
 <td><p class="p">Zelo nizka moč signala.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Pogjejte tudi</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.sl" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.sl" title="Povezava z brezžičnim omrežjem">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.sl" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Wi-Fi disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ikone upravljalika porabe</span></h2></div>

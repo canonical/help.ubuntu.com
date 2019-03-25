@@ -86,16 +86,17 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td>
-<p class="p">
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> or the</p>
-<p class="p"><span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> key
-    </p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> vagy a</p>
+<p class="p"><span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span> billentyű</p>
 </td>
 <td><p class="p">Váltás a <span class="gui">Tevékenységek</span> áttekintés és az asztal között. Az áttekintésben kezdjen gépelni az alkalmazások, névjegyek és dokumentumok közti azonnali keresés megkezdéséhez.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">A parancsablak megnyitása (parancsok gyors futtatásához).</p></td>
+<td style="border-top-style: solid;">
+<p class="p">A parancsablak megnyitása (parancsok gyors futtatásához).</p>
+<p class="p">Használja a nyíl billentyűket a korábban futtatott parancsok gyors eléréséhez.</p>
+</td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
@@ -110,15 +111,11 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Switch between windows in the current workspace. Hold down
-      <span class="key"><kbd>Shift</kbd></span> for reverse order.</p></td>
+<td style="border-top-style: solid;"><p class="p">Váltás az ablakok között a jelenlegi munkaterületen. Tartsa lenyomva a <span class="key"><kbd>Shift</kbd></span> billentyűt a fordított sorrendhez.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Give keyboard focus to the top bar. In the <span class="gui">Activities</span>
-      overview, switch keyboard focus between the top bar, dash, windows
-      overview, applications list, and search field. Use the arrow keys to
-      navigate.</p></td>
+<td style="border-top-style: solid;"><p class="p">Billentyűzetfókusz átadása a felső sávra. A <span class="gui">Tevékenységek</span> áttekintésben a billentyűzetfókusz átváltása a felső sáv, az indítópanel, az ablakok áttekintés, az alkalmazáslista és a keresőmező között. A nyílbillentyűk használatával navigálhat.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
@@ -127,16 +124,15 @@
 <tr>
 <td style="border-top-style: solid;">
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">és</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.hu" title="Váltás a munkaterületek között">Váltás a munkaterületek között</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;">
-<p class="p">
-      <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
+<p class="p">és</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.hu" title="Ablak másik munkaterületre mozgatása">Az aktuális ablak áthelyezése másik munkaterületre</a></span>.</p></td>
@@ -151,19 +147,15 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.hu#logout" title="Kijelentkezés vagy felhasználóváltás">Log Out</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.hu#logout" title="Kijelentkezés vagy felhasználóváltás">Kijelentkezés</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.hu#lock-screen" title="Képernyő zárolása">A képernyő zárolása.</a></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> or
-    <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Open <span class="link"><a href="shell-notifications.html.hu#messagetray" title="shell-notifications#messagetray">the message
-    tray</a></span>. Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> or
-    <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> again or
-    <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> vagy <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Nyissa meg az <span class="link"><a href="shell-notifications.html.hu#messagetray" title="shell-notifications#messagetray">üzenettálcát</a></span>. Nyomja meg újra a <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> vagy a <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> kombinációt, vagy az <span class="key"><kbd>Esc</kbd></span> billentyűt a bezáráshoz.</p></td>
 </tr>
 </table></div>
 </div>

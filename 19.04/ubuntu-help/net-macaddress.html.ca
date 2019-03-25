@@ -70,14 +70,14 @@
 <div class="hgroup"><h1 class="title"><span class="title">Què és una adreça MAC?</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Una <span class="em">Adreça MAC</span>és l'identificador únic assignat pel fabricant a una peça de maquinari de xarxa (com una targeta sense fil o una targeta ethernet). MAC significa<span class="em">Media Access Control</span>, i cada identificador està pensat per ser únic per a un dispositiu en particular.</p>
+<p class="p">Una <span class="em">Adreça MAC</span>és l'identificador únic assignat pel fabricant a una peça de maquinari de xarxa (com una targeta sense fil o una targeta ethernet). MAC significa <span class="em">Media Access Control</span>, i cada identificador està pensat per ser únic per a un dispositiu en particular.</p>
 <p class="p">Una adreça MAC consta de sis conjunts de dos caràcters, cadascun separats per dos punts. <span class="code">00:1B:44:11:3A:B7</span> és un exemple d'adreça MAC.</p>
 <p class="p">Per identificar l'adreça MAC del vostre propi maquinari de xarxa:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Xarxa</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Xarxa</span> per obrir el panell.</p></li>
 <li class="steps">
-<p class="p">Seleccioneu quin dispositiu, <span class="gui">Wi-Fi</span> o <span class="gui">Cable</span>, des del panell esquerre.</p>
+<p class="p">Seleccioneu quin dispositiu, <span class="gui">Wi-Fi</span> o <span class="gui">Amb fil</span>, des del panell esquerre.</p>
 <p class="p">L'adreça MAC del dispositiu connectat es mostrarà com l'<span class="gui">Adreça del maquinari</span> a la dreta.</p>
 <p class="p">Feu clic al botó <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuració"></span></span> per veure l'adreça MAC del dispositiu sense fil que es mostra com a l'<span class="gui">Adreça del maquinari</span> al panell <span class="gui">Detalls</span>.</p>
 </li>

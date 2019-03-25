@@ -70,13 +70,11 @@
 <div class="hgroup"><h1 class="title"><span class="title">Noteikt, kura GNOME versija ir palaista</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can determine the version of GNOME that is running on your system by
-  going to the <span class="gui">Details/About</span> panel in <span class="gui">Settings</span>.</p>
+<p class="p">Jūs varat noteikt, kuru GNOME versija tiek izmantota sistēmā, ejot uz<span class="gui">Sīkāka informācija/Par</span> panelī <span class="gui">Iestatījumi</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> overview and
-      start typing <span class="gui">About</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Par</span>.</p></li>
 <li class="steps">
-<p class="p">Click on <span class="gui">About</span> to open the panel.</p>
+<p class="p">Spiediet <span class="gui">Par</span>, lai atvērtu paneli.</p>
 <p class="p">Parādīsies logs, kurā ir informācija par šo sistēmu, tai skaitā jūsu distribūcijas nosaukums un GNOME versija.</p>
 </li>
 </ol></div></div></div>

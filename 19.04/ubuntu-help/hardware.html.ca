@@ -73,11 +73,11 @@
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">enviar fitxers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connecta</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">envia fitxers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu el vostre disc dur per problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Espai del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu si el vostre disc dur té problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware-auth.html.ca" title="Empremtes i targetes intel·ligents">Empremtes i targetes intel·ligents</a></div>
@@ -101,7 +101,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.ca" title="Utilitzeu disposicions de teclat alternatives">Dispositius de teclat</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Fer que el cursor del teclat parpellegi">cursor parpellejant</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">accessibilitat del teclat</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.ca" title="Utilitzeu disposicions de teclat alternatives">Dispositius de teclat</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Fer que el cursor del teclat parpellegi">parpelleig del cursor</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">accessibilitat del teclat</a></span>…</span></div>
 </div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner">
@@ -118,7 +118,7 @@
 <a href="hardware-cardreader.html.ca" title="Problemes amb el lector de targetes multimèdia">Problemes amb el lector de targetes multimèdia</a><span class="desc"> — Solucionar problemes amb els lectors de targetes multimèdia</span>
 </li>
 <li class="links ">
-<a href="sound-broken.html.ca" title="Problemes amb el so">Problemes amb el so</a><span class="desc"> — Resoldre problemes com el de no tenir so o tenir-ne mala qualitat.</span>
+<a href="sound-broken.html.ca" title="Problemes amb el so">Problemes amb el so</a><span class="desc"> — Resoldre problemes com no tenir so o tenir-ne mala qualitat.</span>
 </li>
 <li class="links ">
 <a href="power.html.ca#problems" title="Problemes">Problemes d'energia</a><span class="desc"> — Resoldre problemes amb la potència i les bateries.</span>

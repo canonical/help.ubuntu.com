@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wired.html.pt" title="Conexões instaladas">Conexões instaladas</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wired.html.pt" title="Wired networking">Wired networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html.pt" title="Conexões sem fios">Conexões sem fios</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html.pt" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -115,10 +115,14 @@
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wired.html.pt" title="Conexões instaladas">Conexões instaladas</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.pt" title="Ligar a uma rede instalada (Ethernet)">Conexões de Internet instaladas</a></span>, <span class="link"><a href="net-fixed-ip-address.html.pt" title="Criar uma conexão com um endereço IP fixa">endereços IP fixas</a></span>…</span>
+<a href="net-wired.html.pt" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.pt" title="Ligar a uma rede instalada (Ethernet)">Conexões de Internet instaladas</a></span>, <span class="link"><a href="net-fixed-ip-address.html.pt" title="Criar uma conexão com um endereço IP fixa">endereços IP fixas</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.pt" title="Conexões sem fios">Conexões sem fios</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pt" title="Ligar com uma rede sem fios">Ligar com uma rede sem fios</a></span>, <span class="link"><a href="net-wireless-hidden.html.pt" title="Ligar a uma rede sem fios oculta">redes ocultas</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pt" title="Por que minha rede sem fios permanece desligada?">desligar-se</a></span>…</span>
+<a href="net-wireless.html.pt" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.pt" title="Ligar com uma rede sem fios">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.pt" title="Ligar a uma rede sem fios oculta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.pt" title="Por que minha rede sem fios permanece desligada?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div></div>

@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Prema <span class="gui">Engadir</span> e introduza a liña de APT do repositorio. Debería estar dispoñíbel no sitio web do repositorio e ter un aspecto similar a este:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Prema <span class="gui">Engadir orixe</span> e despois peche a xanela de <span class="app">Software e actualizacións</span>. O <span class="app">Ubuntu Software</span> buscará actualizacións nas orixes de software.</p></li>
@@ -98,7 +98,7 @@
 <p class="p">O repositorio dos socios de Canonical ofrece algúns aplicativos propietarios de forma gratuíta pero de código pechado. Inclúe software como <span class="app">Adobe Flash Plugin</span>. O software deste repositorio aparecerá nos resultados das buscas no <span class="app">Ubuntu Software</span> pero non o poderá instalar ata que active o repositorio.</p>
 <p class="p">Se desexa activar o repositorio, siga os pasos anteriores para abrir a lapela <span class="gui">Outro software</span> en <span class="app">Software e actualizacións</span>. Se pode ver o repositorio <span class="gui">Socios de Canonical</span> na lista, asegúrese que está marcado, despois peche a xanela <span class="app">Software e actualizacións</span>. Se non pode velo, prema <span class="gui">Engadir</span> e introdúzao:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Prema <span class="gui">Engadir orixe</span> e despois peche a xanela de <span class="app">Software e actualizacións</span>. Agarde un chisco a que o <span class="app">Ubuntu Software</span> descargue a información do repositorio.</p>
 </div></div>

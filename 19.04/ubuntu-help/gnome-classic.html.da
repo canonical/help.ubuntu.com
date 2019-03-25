@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is GNOME Classic?</title>
+<title>Hvad er GNOME Classic?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,7 +65,7 @@
 </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What is GNOME Classic?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvad er GNOME Classic?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p"><span class="em">GNOME Classic</span> is a feature for users who prefer a more traditional
@@ -93,7 +93,7 @@
 </div></div>
 </div></div>
 <div id="gnome-classic-switch" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Switch to and from GNOME Classic</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Skift til og fra GNOME Classic</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Vigtigt"><div class="inner"><div class="region"><div class="contents"><p class="p">GNOME Classic is only available on systems with certain GNOME Shell extensions
  installed. Some Linux distributions may not have these extensions available or
@@ -101,8 +101,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">To switch from <span class="em">GNOME</span> to <span class="em">GNOME Classic</span>:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then log out. Click the system menu on the right
-      side of the top bar, click your name and then choose the right option.</p></li>
+<li class="steps"><p class="p">Gem dit igangværende arbejde og log ud. Klik på systemmenuen i højre side af toplinjen, og klik herefter på dit navn og den ønskede valgmulighed.</p></li>
 <li class="steps"><p class="p">A confirmation message will appear. Select <span class="gui">Log Out</span> to
       confirm.</p></li>
 <li class="steps"><p class="p">At the login screen, select your name from the list.</p></li>
@@ -115,8 +114,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">To switch from <span class="em">GNOME Classic</span> to <span class="em">GNOME</span>:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then log out. Click the system menu on the right
-      side of the top bar, click your name and then choose the right option.</p></li>
+<li class="steps"><p class="p">Gem dit igangværende arbejde og log ud. Klik på systemmenuen i højre side af toplinjen, og klik herefter på dit navn og den ønskede valgmulighed.</p></li>
 <li class="steps"><p class="p">A confirmation message will appear. Select <span class="gui">Log Out</span> to
       confirm.</p></li>
 <li class="steps"><p class="p">At the login screen, select your name from the list.</p></li>

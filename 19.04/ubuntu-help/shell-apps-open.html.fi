@@ -89,6 +89,7 @@
 <div class="region"><div class="contents">
 <p class="p">Yksi tapa käynnistää sovellus on painaa <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, kirjoittaa <span class="em">komennon nimi</span>, ja sitten painaa <span class="key"><kbd>Enter</kbd></span>.</p>
 <p class="p">Jos haluat avata esimerkiksi <span class="app">Firefoxin</span>, paina <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> ja kirjoita "firefox" (ilman lainausmerkkejä). Yleensä sovelluksen nimi on sama kuin sen käynnistävä komento.</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
 </div></div>
 </div></div>
 </div>

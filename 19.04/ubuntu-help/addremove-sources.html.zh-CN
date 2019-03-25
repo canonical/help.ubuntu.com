@@ -90,7 +90,7 @@
 <li class="steps">
 <p class="p">单击<span class="gui">添加</span>，然后输入软件仓库的 APT 行。该行应可从软件库的网站获得，看起来类似于：</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">
@@ -117,7 +117,7 @@
     </p>
 <p class="p">要启用该库，请遵照上述步骤打开在<span class="app">软件和更新 </span>中的<span class="gui">其他软件</span>标签页。如果您在列表中看到<span class="gui">Canonical 合作伙伴</span>仓库，请确保将其选中，然后关闭 <span class="app">软件和更新</span> 窗口。如果没有看到该库，单击<span class="gui">添加</span>，然后输入：</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">
       Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. Wait a 

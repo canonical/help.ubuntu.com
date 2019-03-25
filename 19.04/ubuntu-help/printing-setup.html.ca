@@ -75,18 +75,18 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Assegureu-vos que la impressora està activada.</p></li>
 <li class="steps"><p class="p">Connecteu la impressora al vostre sistema mitjançant el cable adequat. Podeu veure l'activitat a la pantalla a mesura que el sistema cerca els controladors, i se us pot demanar d'autentificar-vos per instal·lar-los.</p></li>
-<li class="steps"><p class="p">Apareixerà un missatge quan el sistema hagi acabat d'instal·lar la impressora. Seleccioneu <span class="gui">Imprimir una pàgina de prova</span> per imprimir una pàgina de prova, o <span class="gui">Opcions</span> per fer canvis addicionals a la configuració de la impressora.</p></li>
+<li class="steps"><p class="p">Apareixerà un missatge quan el sistema hagi acabat d'instal·lar la impressora. Seleccioneu <span class="gui">Imprimeix una pàgina de prova</span> per imprimir una pàgina de prova, o <span class="gui">Opcions</span> per fer canvis addicionals a la configuració de la impressora.</p></li>
 </ol></div></div></div>
 <p class="p">Si la impressora no s'ha configurat automàticament, la podeu afegir a la configuració de les impressores:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activititats</a></span> i comenceu a escriure <span class="gui">Impressores</span>.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Impressores</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Impressores</span>.</p></li>
-<li class="steps"><p class="p">Feu clic al botó <span class="gui">Desbloquejar</span> a la cantonada superior dreta i introduïu la vostra contrasenya.</p></li>
+<li class="steps"><p class="p">Feu clic al botó <span class="gui">Desbloqueja</span> a la cantonada superior dreta i introduïu la vostra contrasenya.</p></li>
 <li class="steps"><p class="p">Feu clic al botó <span class="gui">+</span>.</p></li>
-<li class="steps"><p class="p">A la finestra emergent, seleccioneu la vostra nova impressora. Feu clic a <span class="gui">Afegir</span>.</p></li>
+<li class="steps"><p class="p">A la finestra emergent, seleccioneu la vostra nova impressora. Feu clic a <span class="gui">Afegeix</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Si la vostra impressora no apareix a Afegir impressores, heu d'instal·lar els controladors d'impressió.</p>
-<p class="p">Un cop instal3lada la impressora, podeu voler <span class="link"><a href="printing-setup-default-printer.html.ca" title="Establiu la impressora predeterminada">Canviar la impressora per defecte</a></span>.</p>
+<p class="p">Un cop instal·lada la impressora, podeu voler <span class="link"><a href="printing-setup-default-printer.html.ca" title="Establiu la impressora predeterminada">Canviar la impressora per defecte</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

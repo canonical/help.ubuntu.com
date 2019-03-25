@@ -87,7 +87,10 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Zems bezvadu tīkla savienojuma signāls</span></p>
-<p class="p">Ja interneta pieslēgums strādā caur bezvadu tīklu (WiFi), pārbaudiet tīkla ikonu augšējā joslā, lai redzētu, vai jums ir labs bezvadu signāls. Ja tā nav, vājais signāls varētu būt problēmas iemesls.</p>
+<p class="p">If you are connected to the internet by wireless (Wi-Fi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Lēnāka mobilā interneta savienojuma izmantošana</span></p>
@@ -104,7 +107,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.lv" title="Tīkla problēmas">Tīkla problēmas</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Bezvadu tīkla problēmu risināšana</a></span>, <span class="link"><a href="net-wireless-find.html.lv" title="Es sarakstā neredzu savu bezvadu tīklu">sameklējot savu bezvadu tīklu</a></span>…</span>
+<a href="net-problem.html.lv" title="Tīkla problēmas">Tīkla problēmas</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.lv" title="Bezvadu tīkla problēmu risināšana">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.lv" title="Es sarakstā neredzu savu bezvadu tīklu">finding your Wi-Fi network</a></span>…
+    </span>
 </li></ul></div>
 </div></div></div>
 </div>

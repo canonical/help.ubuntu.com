@@ -77,13 +77,13 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Com cancel·lar un treball d'impressió:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activititats</a></span> i comenceu a escriure <span class="gui">Impressores</span>.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Impressores</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Impressores</span> per obrir el panell.</p></li>
 <li class="steps"><p class="p">Feu clic al botó <span class="gui">Mostrar treballs</span> a la banda dreta del diàleg <span class="gui">Impressores</span>.</p></li>
 <li class="steps"><p class="p">Cancel·leu el treball d'impressió fent clic al botó de parada.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Si això no cancel·la el treball d'impressió com esperàveu, proveu de prémer el botó <span class="em">cancel·lar</span> de la vostra impressora.</p>
+<p class="p">Si això no cancel·la el treball d'impressió com esperàveu, proveu de prémer el botó <span class="em">cancel·la</span> de la vostra impressora.</p>
 <p class="p">Com a últim recurs, especialment si teniu un treball d'impressió molt gran amb moltes pàgines que no es cancel·laran, retireu el paper de la safata d'entrada de la impressora. La impressora se n'adonarà que no té paper i aturarà la impressió. A continuació, podeu provar de cancel·lar de nou el treball d'impressió o provar d'apagar la impressora i tornar-la a encendre.</p>
 <div class="note note-warning" title="Atenció"><div class="inner"><div class="region"><div class="contents"><p class="p">Aneu amb compte amb no malmetre la impressora quan retireu el paper. Si heu de tibar amb força per enretirar-lo, probablement sigui millor deixar-lo on és.</p></div></div></div></div>
 </div></div>
@@ -93,7 +93,7 @@
 <div class="region"><div class="contents">
 <p class="p">Si voleu fer una pausa o alliberar un treball d'impressió, podeu fer-ho, anant al diàleg de treballs a la configuració de la impressora i fent clic al botó corresponent.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activititats</a></span> i comenceu a escriure <span class="gui">Impressores</span>.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Impressores</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Impressores</span> per obrir el panell.</p></li>
 <li class="steps"><p class="p">Feu clic al botó <span class="gui">Mostrar treballs</span> a la dreta del diàleg d'<span class="gui">Impressores</span> i poseu en pausa o allibereu el treball d'impressió segons les vostres necessitats.</p></li>
 </ol></div></div></div>

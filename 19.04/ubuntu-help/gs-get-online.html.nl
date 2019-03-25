@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="getting-started.html.nl" title="Aan de slag">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -117,13 +117,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.nl" title="Aan de slag">Aan de slag met Gnome</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
+<a href="getting-started.html.nl" title="Aan de slag">Getting started with GNOME</a><span class="desc"> — Nieuw bij Gnome? Leer hoe u het onder de knie krijgt.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — <span class="link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos</a></span>, <span class="link"><a href="net-wired.html.nl" title="Bekabeld netwerk">bekabeld</a></span>, <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">verbindingsproblemen</a></span>, <span class="link"><a href="net-browser.html.nl" title="Webbrowsers">webbrowsen</a></span>, <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">e-mailaccounts</a></span>…</span>
+<a href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a><span class="desc"> — <span class="link"><a href="net-wireless.html.nl" title="Wireless networking">Draadloos</a></span>, <span class="link"><a href="net-wired.html.nl" title="Wired networking">bekabeld</a></span>, <span class="link"><a href="net-problem.html.nl" title="Netwerkproblemen">verbindingsproblemen</a></span>, <span class="link"><a href="net-browser.html.nl" title="Web browsers">webbrowsen</a></span>, <span class="link"><a href="net-email.html.nl" title="E mail &amp; e-mailsoftware">e-mailaccounts</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

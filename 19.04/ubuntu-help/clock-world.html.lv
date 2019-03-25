@@ -77,10 +77,9 @@
 </div></div></div></div>
 <p class="p">Lai pievienotu pasaules pulksteni:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the clock on the top bar.</p></li>
+<li class="steps"><p class="p">Spiediet uz pulksteņa augšējā joslā.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Add world clock</span> link under the calendar to
-      launch <span class="app">Clocks</span>.</p>
+<p class="p">Spiediet <span class="gui">Pievienot pasaules pulksteni</span> saiti zem kalendāra, lai palaistu <span class="app">Pulksteņi</span>.</p>
 <div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja jums jau ir viens vai vairāki pulksteņi, spiediet uz to uz atvērsies lietotne <span class="app">Pulksteņi</span>.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Lietotnes <span class="app">Pulksteņi</span> logā spiediet pogu <span class="gui">Jauns</span> vai spiediet <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>, lai pievienotu jaunu pilsētu.</p></li>

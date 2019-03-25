@@ -67,10 +67,11 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Λογότυπο του Ubuntu"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.el" title="Ξεκινώντας"><span class="title">Ξεκινώντας με το GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Είστε νέος στο GNOME; Μάθετε πώς να τα καταφέρετε.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.el" title="Ξεκινώντας"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Είστε νέος στο GNOME; Μάθετε πώς να τα καταφέρετε.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.el" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.el" title="Αποσύνδεση, τερματισμός ή αλλαγή χρηστών"><span class="title">Αποσύνδεση, τερματισμός ή αλλαγή χρηστών</span><span class="linkdiv-dash"> — </span><span class="desc">Μάθετε πώς να αφήσετε τον λογαριασμό χρήστη, αποσυνδέοντας, αλλάζοντας χρήστες κ.ο.κ.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.el" title="Εισαγωγή στο GNOME"><span class="title">Εισαγωγή στο GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Μια οπτική εισαγωγή στην επιφάνεια εργασίας σας, η πάνω γραμμή και η επισκόπηση <span class="gui">Δραστηριότητες</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.el" title="Εκκίνηση εφαρμογών"><span class="title">Εκκίνηση εφαρμογών</span><span class="linkdiv-dash"> — </span><span class="desc">Ξεκινήστε εφαρμογές από την επισκόπηση <span class="gui">Δραστηριότητες</span>.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
@@ -80,7 +81,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.el" title="Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία">Δικτύωση, ιστός &amp; ηλεκτρονική αλληλογραφία</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html.el" title="Περιηγητές Ιστού">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.el" title="Wireless networking">Ασύρματο</a></span>, <span class="link"><a href="net-wired.html.el" title="Wired networking">Ενσύρματο</a></span>, <span class="link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα σύνδεσης</a></span>, <span class="link"><a href="net-browser.html.el" title="Web browsers">Περιήγηση ιστού</a></span>, <span class="link"><a href="net-email.html.el" title="Ηλεκτρονική αλληλογραφία &amp; λογισμικό αλληλογραφίας">Λογαριασμοί αλληλογραφίας</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.el" title="Ήχος, βίντεο &amp; εικόνες">Ήχος, βίντεο &amp; εικόνες</a></div>

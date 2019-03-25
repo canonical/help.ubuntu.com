@@ -2,7 +2,7 @@
 <html lang=hu>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Notifications and the notification list</title>
+<title>Értesítések és az értesítéslista</title>
 <link rel="stylesheet" type="text/css" href="hu.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,37 +67,24 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.hu" title="Az asztal">Asztal</a> › <a class="trail" href="shell-overview.html.hu#desktop" title="Az asztali környezet személyre szabása">Az asztali környezet személyre szabása</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Notifications and the notification list</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Értesítések és az értesítéslista</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="what" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Mi az az értesítés?</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Ha egy alkalmazás vagy rendszerösszetevő fel szeretné hívni figyelmét valamire, akkor egy értesítés jelenik meg a képernyő tetején.</p>
-<p class="p">For example, if you get a new chat message or a new email, you will get a
-  notification informing you. Chat notifications are given special treatment,
-  and are represented by the individual contacts who sent you the chat
-  messages.</p>
+<p class="p">Például ha új csevegésüzenet vagy új e-mail érkezik, akkor értesítést kap erről. Az azonnaliüzenő programok értesítései speciális elbánás alá esnek, és ezeket a küldő partnerek képviselik.</p>
 <p class="p">Más értesítések rendelkezhetnek kijelölhető választógombokkal. Kattintson a bezárás gombra az ilyen értesítések bezárásához a felkínált lehetőségek bármelyikének kiválasztása nélkül.</p>
-<p class="p">Clicking the close button on some notifications dismisses them. Others,
-  like Rhythmbox or your chat application, will stay hidden in the notification 
-  list.</p>
+<p class="p">Egyes értesítések bezárás gombjára kattintva azok eltűnnek. Mások, mint például a Rhythmbox vagy a csevegőprogramja elrejtve maradnak az értesítéslistán.</p>
 </div></div>
 </div></div>
 <div id="notificationlist" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">The notification list</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Az értesítéslista</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">The notification list gives you a way to
-  get back to your notifications when it is convenient for you. It appears when
-  you click on the clock, or press
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>V</kbd></span></span>. The
-  notification list contains all the notifications that you have not acted upon
-  or that permanently reside in it.</p>
-<p class="p">You can view a notification by clicking on it in the list. You can close
-  the notification list by pressing
-  <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> again or <span class="key"><kbd>Esc</kbd></span>.</p>
-<p class="p">Click the <span class="gui">Clear List</span> button to empty the list of
-  notifications.</p>
+<p class="p">Az értesítéslista lehetővé teszi az értesítésekhez való visszatérést, amikor az Önnek megfelelő. Akkor jelenik meg, amikor az órára kattint, vagy megnyomja a <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>V</kbd></span></span> kombinációt. Az értesítéslista azokat az értesítéseket tartalmazza, amelyekre nem reagált, vagy amelyek folyamatosan ott találhatók.</p>
+<p class="p">Megnézhet egy értesítést, ha rákattint a listában. Az értesítéslistát a <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> ismételt, vagy az <span class="key"><kbd>Esc</kbd></span> egyszeri megnyomásával zárhatja be.</p>
+<p class="p">Kattintson a <span class="gui">Lista törlése</span> gombra az értesítéslista törléséhez.</p>
 </div></div>
 </div></div>
 <div id="hidenotifications" class="sect"><div class="inner">
@@ -107,14 +94,10 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Notifications</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Notification Popups</span> to <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Kattintson az <span class="gui">Értesítések</span> elemre az oldalsávon a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">Kapcsolja <span class="gui">KI</span> a <span class="gui">Felugró értesítések</span> kapcsolót.</p></li>
 </ol></div></div></div>
-<p class="p">When switched off, most notifications will not pop up at the top of the
-  screen.  Notifications will still be available
-  in the notification list when you display it (by clicking on the clock, or by
-  pressing <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span>), and they will start
-  popping up again when you switch the toggle back to <span class="gui">ON</span>.</p>
+<p class="p">A kikapcsolás után a legtöbb értesítés nem jelenik meg a képernyő alján. Az értesítéseket továbbra is elérheti az értesítéslistán, amikor azt megjeleníti (ha az órára kattint, vagy megnyomja a <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> kombinációt), és a kapcsoló <span class="gui">BE</span> állapotra való visszaváltásakor újra elkezdenek megjelenni.</p>
 <p class="p">Az <span class="gui">Értesítések</span> panelen kikapcsolhatja vagy újraengedélyezheti az egyes alkalmazások értesítéseit.</p>
 </div></div>
 </div></div>

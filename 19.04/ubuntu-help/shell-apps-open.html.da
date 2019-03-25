@@ -75,8 +75,7 @@
   <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
   the <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span> key.</p>
-<p class="p">There are several ways of opening an application once you’re in the
-  <span class="gui">Activities</span> overview:</p>
+<p class="p">Der er flere måder hvorpå du kan åbne et program fra <span class="gui">Aktivitetsoversigten</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Start typing the name of an application — searching begins instantly.
       (If this doesn’t happen, click the search bar at the top of the screen
@@ -87,7 +86,7 @@
       of icons on the left-hand side of the <span class="gui">Activities</span> overview.
       Click one of these to start the corresponding application.</p>
 <p class="p">If you have applications that you use very frequently, you can
-      <span class="link"><a href="shell-apps-favorites.html.da" title="Pin your favorite apps to the dash">add them to the dash</a></span>
+      <span class="link"><a href="shell-apps-favorites.html.da" title="Fastgør dine favoritprogrammer til favoritområdet">add them to the dash</a></span>
       yourself.</p>
 </li>
 <li class="list"><p class="p">Click the grid button at the bottom of the dash. You will see the
@@ -97,7 +96,7 @@
       applications. Press on the application to start it.</p></li>
 <li class="list">
 <p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html.da" title="What is a workspace, and how will it help me?">workspace</a></span> by dragging its icon from
+      <span class="link"><a href="shell-workspaces.html.da" title="Hvad er et arbejdsområde og hvordan kan det hjælpe mig?">workspace</a></span> by dragging its icon from
       the dash, and dropping it onto one of the workspaces on the right-hand
       side of the screen. The application will open in the chosen
       workspace.</p>
@@ -107,15 +106,11 @@
 </li>
 </ul></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
-<div class="title title-note"><h2><span class="title">Quickly running a command</span></h2></div>
+<div class="title title-note"><h2><span class="title">Kør en kommando hurtigt</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Another way of launching an application is to press
-    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, enter its
-    <span class="em">command name</span>, and then press the <span class="key"><kbd>Enter</kbd></span> key.</p>
-<p class="p">For example, to launch <span class="app">Rhythmbox</span>, press
-    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-    ‘<span class="cmd">rhythmbox</span>’ (without the single-quotes). The name of the app is
-    the command to launch the program.</p>
+<p class="p">Du kan også starte et program ved at trykke på <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, og så indtaste dets <span class="em">kommandonavn</span>, og herefter trykke på <span class="key"><kbd>Enter</kbd></span>-tasten.</p>
+<p class="p">F.eks. kan du starte <span class="app">Rhythmbox</span> ved at trykke på <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> og skrive “<span class="cmd">rhythmbox</span>” (uden citationstegnene). Programmets navn er kommandoen til at starte programmet.</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
 </div></div>
 </div></div>
 </div>
@@ -126,12 +121,7 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html.da" title="Dit skrivebord">Dit skrivebord</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html.da" title="Calendar appointments">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html.da" title="Notifications and the notification list">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html.da" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html.da" title="Vinduer og arbejdsområder">windows and workspaces</a></span>…
-    </span>
+<a href="shell-overview.html.da" title="Dit skrivebord">Dit skrivebord</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">Kalender</a></span>, <span class="link"><a href="shell-notifications.html.da" title="Påmindelser og påmindelseslisten">påmindelser</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.da" title="Nyttige tastaturgenveje">tastaturgenveje</a></span>, <span class="link"><a href="shell-windows.html.da" title="Vinduer og arbejdsområder">vinduer og arbejdsområder</a></span> …</span>
 </li>
 <li class="links "><a href="index.html.da" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
 </ul></div>
@@ -142,7 +132,7 @@
 <li class="links "><a href="gs-use-system-search.html.da" title="Brug systemsøgningen">En vejledning til at bruge systemsøgningen</a></li>
 <li class="links "><a href="gs-launch-applications.html.da" title="Start programmer">En vejledning til at starte programmer</a></li>
 <li class="links ">
-<a href="shell-apps-favorites.html.da" title="Pin your favorite apps to the dash">Pin your favorite apps to the dash</a><span class="desc"> — Add (or remove) frequently-used program icons on the dash.</span>
+<a href="shell-apps-favorites.html.da" title="Fastgør dine favoritprogrammer til favoritområdet">Fastgør dine favoritprogrammer til favoritområdet</a><span class="desc"> — Add (or remove) frequently-used program icons on the dash.</span>
 </li>
 </ul></div>
 </div></div>

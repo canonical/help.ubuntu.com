@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Other users can’t edit the network connections</title>
+<title>Andre brugere kan ikke redigere netværksforbindelserne</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.da" title="Network problems">Network problems</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-problem.html.da" title="Netværksproblemer">Netværksproblemer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Other users can’t edit the network connections</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Andre brugere kan ikke redigere netværksforbindelserne</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you can edit a network connection but other users on your computer
@@ -75,7 +75,7 @@
   This makes it so that everyone on the computer can <span class="em">connect</span> using
   that connection.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skriv <span class="gui">Netværk</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Netværk</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span> from the list on the left.</p></li>
 <li class="steps"><p class="p">Click the 
@@ -94,9 +94,9 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.da" title="Network problems">Network problems</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.da" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+<a href="net-problem.html.da" title="Netværksproblemer">Netværksproblemer</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.da" title="Jeg kan ikke se mit trådløse netværk i listen">finding your Wi-Fi network</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -104,11 +104,11 @@
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html.da" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="net-othersconnect.html.da" title="Andre brugere kan ikke oprette forbindelse til internettet">Andre brugere kan ikke oprette forbindelse til internettet</a><span class="desc"> — You can save settings (like the password) for a network connection so that everyone who uses the computer will be able to connect to it.</span>
 </li>
 <li class="links ">
-<a href="net-othersconnect.html.da" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — You can save settings (like the password) for a network connection so that everyone who uses the computer will be able to connect to it.</span>
+<a href="user-admin-explain.html.da" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
+    system.</span>
 </li>
 </ul></div>
 </div></div>

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I calibrate my scanner?</title>
+<title>Hvordan kalibrerer jeg min skanner?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Color management">Color management</a> › <a class="trail" href="color.html.da#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#calibration" title="Kalibrering">Kalibrering</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="color.html.da" title="Color management">Color management</a> › <a class="trail" href="color.html.da#calibration" title="Calibration">Calibration</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#calibration" title="Kalibrering">Kalibrering</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I calibrate my scanner?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvordan kalibrerer jeg min skanner?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you want your scanner to represent the color accurately in scans, you
@@ -81,11 +81,10 @@
       over the network.</p></li>
 <li class="steps"><p class="p">Scan your calibration target and save it as an uncompressed TIFF
       file.</p></li>
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Enheder</span> i sidebjælken.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Farve</span> i sidebjælken for at åbne panelet.</p></li>
 <li class="steps"><p class="p">Select your scanner.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Calibrate…</span> to commence the
       calibration.</p></li>
@@ -98,23 +97,23 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html.da#calibration" title="Calibration">Calibration</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.da#calibration" title="Kalibrering">Kalibrering</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-camera.html.da" title="How do I calibrate my camera?">How do I calibrate my camera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrationtargets.html.da" title="Hvilke måltyper understøttes?">Hvilke måltyper understøttes?</a><span class="desc"> — Calibration targets are needed to do scanner and camera profiling.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-printer.html.da" title="How do I calibrate my printer?">How do I calibrate my printer?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
+<a href="color-calibrate-printer.html.da" title="Hvordan kalibrerer jeg min printer?">Hvordan kalibrerer jeg min printer?</a><span class="desc"> — Calibrating your printer is important to print accurate colors.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-screen.html.da" title="How do I calibrate my screen?">How do I calibrate my screen?</a><span class="desc"> — Calibrating your screen is important to display accurate
+<a href="color-calibrate-screen.html.da" title="Hvordan kalibrerer jeg min skærm?">Hvordan kalibrerer jeg min skærm?</a><span class="desc"> — Calibrating your screen is important to display accurate
     colors.</span>
 </li>
 <li class="links ">
-<a href="color-calibrationtargets.html.da" title="Which target types are supported?">Which target types are supported?</a><span class="desc"> — Calibration targets are needed to do scanner and camera profiling.</span>
+<a href="color-calibrate-camera.html.da" title="Hvordan kalibrerer jeg mit kamera?">Hvordan kalibrerer jeg mit kamera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
 </li>
 </ul></div>
 </div></div>

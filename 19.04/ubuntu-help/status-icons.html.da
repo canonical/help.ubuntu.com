@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What do the icons in the top bar mean?</title>
+<title>Hvad betyder ikonerne på toplinjen?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,17 +67,19 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">What do the icons in the top bar mean?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvad betyder ikonerne på toplinjen?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the GNOME interface are described.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="GNOME Shell top bar"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="status-icons.html.da#universalicons" title="Ikoner for tilgængelighedsmenuen">Ikoner for tilgængelighedsmenuen</a></li>
-<li class="links "><a href="status-icons.html.da#audioicons" title="Volume Control Icons">Volume Control Icons</a></li>
-<li class="links "><a href="status-icons.html.da#bluetoothicons" title="Bluetooth Manager Icons">Bluetooth Manager Icons</a></li>
-<li class="links "><a href="status-icons.html.da#networkicons" title="Network Manager Icons">Network Manager Icons</a></li>
-<li class="links "><a href="status-icons.html.da#batteryicons" title="Power Manager Icons">Power Manager Icons</a></li>
+<li class="links "><a href="status-icons.html.da#audioicons" title="Ikoner for lydstyrkestyring">Ikoner for lydstyrkestyring</a></li>
+<li class="links "><a href="status-icons.html.da#bluetoothicons" title="Ikoner for Bluetooth-håndtering">Ikoner for Bluetooth-håndtering</a></li>
+<li class="links ">
+<a href="status-icons.html.da#networkicons" title="Ikoner for netværkshåndtering">Ikoner for netværkshåndtering</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
+<li class="links "><a href="status-icons.html.da#batteryicons" title="Ikoner for strømstyring">Ikoner for strømstyring</a></li>
 </ul></div></div></div>
 </div>
 <div id="universalicons" class="sect"><div class="inner">
@@ -88,7 +90,7 @@
 </tr></table></div></div></div></div></div>
 </div></div>
 <div id="audioicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Volume Control Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Ikoner for lydstyrkestyring</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-high-symbolic.svg" class="media media-block" alt=""></div></div></td>
@@ -109,7 +111,7 @@
 </table></div></div></div></div></div>
 </div></div>
 <div id="bluetoothicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Bluetooth Manager Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Ikoner for Bluetooth-håndtering</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/bluetooth-active-symbolic.svg" class="media media-block" alt=""></div></div></td>
@@ -122,9 +124,9 @@
 </table></div></div></div></div></div>
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Network Manager Icons</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="hgroup"><h2 class="title"><span class="title">Ikoner for netværkshåndtering</span></h2></div>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Mobilforbindelse</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,10 +270,24 @@
 <td><p class="p">Very low signal strength.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Se også</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.da" title="Opret forbindelse til et trådløst netværk">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.da" title="Opret forbindelse til et skjult trådløst netværk">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.da" title="Hvorfor bliver mit trådløse netværk ved med at afbryde forbindelsen?">Wi-Fi disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Power Manager Icons</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Ikoner for strømstyring</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-full-symbolic.svg" class="media media-block" alt=""></div></div></td>

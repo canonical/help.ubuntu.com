@@ -71,11 +71,11 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.sl" title="Brezžične povezave">Brezžične povezave</a></div>
+<div class="links-grid-link"><a href="net-wireless.html.sl" title="Wireless networking">Wireless networking</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html.sl" title="Povezava z brezžičnim omrežjem">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.sl" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Disconnecting</a></span>…
+      <span class="link"><a href="net-wireless-connect.html.sl" title="Povezava z brezžičnim omrežjem">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.sl" title="Povezava s skritim brezžičnim omrežjem">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.sl" title="Zakaj se povezava z mojim brezžičnim omrežjem kar naprej prekinja?">Wi-Fi disconnecting</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -106,19 +106,15 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.sl" title="Spletni brskalniki">Spletni brskalniki</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html.sl" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html.sl" title="Nameščanje vstavka Flash">install Flash</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="contacts.html.sl" title="Stiki">Stiki</a></div>
 <div class="desc"><span class="desc">Dostopajte do svojih stikov.</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.sl" title="Težave z omrežjem">Težave z omrežjem</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html.sl" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.sl" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html.sl" title="Varnost na internetu">Varnost na internetu</a></div>
@@ -129,7 +125,14 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.sl" title="Žične povezave">Žične povezave</a></div>
+<div class="links-grid-link"><a href="net-browser.html.sl" title="Web browsers">Web browsers</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-default-browser.html.sl" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.sl" title="Nameščanje vstavka Flash">install Flash</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.sl" title="Wired networking">Wired networking</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.sl" title="Povezava z žičnim (Eternet) omrežjem">Žične internetne povezave</a></span>, <span class="link"><a href="net-fixed-ip-address.html.sl" title="Ustvarite povezavo s stalnim naslovom IP">Stalni naslovi IP</a></span> …</span></div>
 </div>
 </div></div></div></div>

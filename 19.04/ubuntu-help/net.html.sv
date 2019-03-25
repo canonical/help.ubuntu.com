@@ -72,7 +72,7 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">koppla ifrån</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-chat.html.sv" title="Chatt &amp; sociala medier">Chatt &amp; sociala medier</a></div>

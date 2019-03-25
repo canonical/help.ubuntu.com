@@ -81,19 +81,19 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Kattintson az <span class="gui">Akadálymentesítés</span> elemre az oldalsávon a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Nyomja meg a <span class="gui">Gépelési segéd</span> gombot a <span class="gui">Gépelés</span> szakaszban.</p></li>
 <li class="steps"><p class="p">Kapcsolja <span class="gui">BE</span> a <span class="gui">Ragadós billentyűket</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tipp"><div class="inner">
 <div class="title title-note"><h2><span class="title">Ragadós billentyűk gyors be- és kikapcsolása</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Az <span class="gui">Engedélyezés billentyűzettel</span> alatt jelölje be az <span class="gui">Akadálymentesítési szolgáltatások bekapcsolása a billentyűzetről</span> jelölőnégyzetet (a <span class="gui">Ragadós billentyűk</span> fölött) a ragadós billentyűk be- és kikapcsolásához a billentyűzetről. Ha ez a négyzet ki van választva, akkor a <span class="key"><kbd>Shift</kbd></span> billentyűt ötször egymás után lenyomva engedélyezheti vagy letilthatja a ragadós billentyűket.</p>
+<p class="p">Az <span class="gui">Engedélyezés billentyűzettel</span> alatt jelölje be az <span class="gui">Akadálymentesítési szolgáltatások bekapcsolása a billentyűzetről</span> jelölőnégyzetet a ragadós billentyűk be- és kikapcsolásához a billentyűzetről. Ha ez a négyzet ki van választva, akkor a <span class="key"><kbd>Shift</kbd></span> billentyűt ötször egymás után lenyomva engedélyezheti vagy letilthatja a ragadós billentyűket.</p>
 <p class="p">A ragadós billentyűket be- és kikapcsolhatja a felső sávon az <span class="link"><a href="a11y-icon.html.hu" title="Az akadálymentesítés menü megtalálása">akadálymentesítés ikonra</a></span> kattintással, majd a <span class="gui">Ragadós billentyűk</span> menüpont kiválasztásával is. Az akadálymentesítési ikon akkor látható, ha legalább egy funkciót bekapcsolt az <span class="gui">Akadálymentesítés</span> panelen.</p>
 </div></div>
 </div></div>
 <p class="p">Ha egyszerre két billentyűt nyom le, azzal ideiglenesen kikapcsoltathatja a ragadós billentyűket, és a megszokott módon használhatja a gyorsbillentyűket.</p>
-<p class="p">Ha például a ragadós billentyűk be vannak kapcsolva, de egyszerre megnyomja a <span class="key"><kbd>Super</kbd></span> és <span class="key"><kbd>Tab</kbd></span> billentyűket, akkor a ragadós billentyűk szolgáltatás nem vár újabb billentyű lenyomására. Ha csak egy billentyűt nyomott volna le, akkor várna csak. Ez akkor hasznos, ha néhány gyorsbillentyűt le tud nyomni (például az egymáshoz közeli billentyűkből állókat), de másokat nem.</p>
+<p class="p">Ha például a ragadós billentyűk be vannak kapcsolva, de egyszerre megnyomja a <span class="key"><kbd>Super</kbd></span> és <span class="key"><kbd>Tab</kbd></span> billentyűket, akkor a ragadós billentyűk szolgáltatás nem vár újabb billentyű lenyomására. Ha csak egy billentyűt nyomott volna le, akkor <span class="em">várna</span> csak. Ez akkor hasznos, ha néhány gyorsbillentyűt le tud nyomni (például az egymáshoz közeli billentyűkből állókat), de másokat nem.</p>
 <p class="p">Válassza a <span class="gui">Letiltás két billentyű egyidejű lenyomásakor</span> lehetőséget ennek bekapcsolásához.</p>
 <p class="p">A számítógép beállítható, hogy hangjelzést adjon gyorsbillentyű bevitelének megkezdésekor a ragadós billentyűk használata mellett. Ez akkor hasznos, ha tudni szeretné, hogy a ragadós billentyűk szolgáltatás egy gyorsbillentyű bevitelét várja, így a következő leütés a gyorsbillentyű részeként kerül értelmezésre. Válassza a <span class="gui">Hangjelzés módosító billentyű lenyomásakor</span> lehetőséget ennek bekapcsolásához.</p>
 </div>

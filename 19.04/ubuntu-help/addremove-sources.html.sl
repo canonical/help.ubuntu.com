@@ -94,7 +94,7 @@
 <li class="steps">
 <p class="p">Kliknite <span class="gui">Dodaj</span> in vnesite vrstico APT za skladišče. Ta bi morala biti na voljo na spletišču odložišča in bi morala biti videti podobno:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Kliknite <span class="gui">Dodaj vir</span> in nato zaprite okno <span class="app">Programi in posodobitve</span>. <span class="app">Programi Ubuntu</span> bo preveril vaše programske vire za posodobitve.</p></li>
@@ -113,7 +113,7 @@
     </p>
 <p class="p">Za omogočitev skladišča sledite korakom zgoraj za odprtje zavihka <span class="gui">Drugi programi</span> v <span class="app">Programi in posodobitve</span>. V primeru da na seznamu vidite <span class="gui">Partnerje Canonicala</span>, se prepričajte da je označeno, nato zaprite okno <span class="app">Programi in posodobitve</span>. Če pa tega ni na seznamu, kliknite na <span class="gui">Dodaj</span> in vnesite:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Kliknite <span class="gui">Dodaj vir</span> in nato zaprite okno <span class="app">Programi in posodobitve</span>. Počakajte trenutek, da <span class="app">Programi Ubuntu</span> prejme podatke o skladiščih.</p>
 </div></div>

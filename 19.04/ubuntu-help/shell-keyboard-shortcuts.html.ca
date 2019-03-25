@@ -95,7 +95,10 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Finestra de comandaments emergents (per a executar comandes ràpidament)</p></td>
+<td style="border-top-style: solid;">
+<p class="p">Pop up command window (for quickly running commands).</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
+</td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Pestanya</kbd></span></span></p></td>
@@ -125,7 +128,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;">
-<p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>RePàg</kbd></span></span></p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Re Pàg</kbd></span></span></p>
 <p class="p">and</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>AvPàg</kbd></span></span></p>
 </td>
@@ -231,7 +234,7 @@
 <a href="tips.html.ca" title="Consells i trucs">Consells i trucs</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.ca" title="Introduïu caràcters especials">Caràcters especials</a></span>, <span class="link"><a href="mouse-middleclick.html.ca" title="Clic al mig">clics al botó del mig</a></span>…</span>
 </li>
 <li class="links ">
-<a href="keyboard.html.ca" title="Teclat">Teclat</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ca" title="Utilitzeu disposicions de teclat alternatives">Dispositius de teclat</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Fer que el cursor del teclat parpellegi">cursor parpellejant</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">accessibilitat del teclat</a></span>…</span>
+<a href="keyboard.html.ca" title="Teclat">Teclat</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ca" title="Utilitzeu disposicions de teclat alternatives">Dispositius de teclat</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Fer que el cursor del teclat parpellegi">parpelleig del cursor</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">accessibilitat del teclat</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -245,7 +248,7 @@
 <a href="keyboard-nav.html.ca" title="Navegació per teclat">Navegació per teclat</a><span class="desc"> — Utilitzeu aplicacions i l'escriptori sense ratolí.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html.ca" title="Quina és la tecla Menu?">Quina és la tecla <span class="key"><kbd>Menu</kbd></span>?</a><span class="desc"> — La tecla <span class="key"><kbd>Menu</kbd></span> llança un menú contextual amb el teclat en lloc del botó dret.</span>
+<a href="keyboard-key-menu.html.ca" title="Quina és la tecla de Menú?">Quina és la tecla de <span class="key"><kbd>Menú</kbd></span>?</a><span class="desc"> — La tecla de <span class="key"><kbd>Menú</kbd></span> llança un menú contextual amb el teclat en lloc del botó dret.</span>
 </li>
 <li class="links ">
 <a href="keyboard-key-super.html.ca" title="Què és la tecla Super?">Què és la tecla <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — La tecla <span class="key"><kbd>Super</kbd></span> obre la vista general d'<span class="gui">Activitats</span>. Normalment podeu trobar-la al costat de la tecla <span class="key"><kbd>Alt</kbd></span> al vostre teclat.</span>

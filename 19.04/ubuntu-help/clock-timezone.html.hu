@@ -73,13 +73,9 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Details</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Date &amp; Time</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">If you have <span class="gui">Automatic Time Zone</span> set to <span class="gui">ON</span>, your
-      time zone should update automatically if you have an internet
-      connection and the <span class="link"><a href="privacy-location.html.hu" title="Helymeghatározási szolgáltatások irányítása">location services feature</a></span>
-      is enabled. To update your time zone manually, set this to
-      <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Részletek</span> elemre az oldalsávon.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Dátum és idő</span> elemre az oldalsávon a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">Ha az <span class="gui">Automatikus időzóna</span> <span class="gui">BE</span> van kapcsolva, akkor az időzónája automatikusan frissül, ha van internetkapcsolata és a <span class="link"><a href="privacy-location.html.hu" title="Helymeghatározási szolgáltatások irányítása">helymeghatározási szolgáltatások funkció</a></span> engedélyezve van. Az időzóna saját kezűleg történő beállításához állítsa ezt a kapcsolót <span class="gui">KI</span> állásba.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Időzóna</span> gombra, majd válassza ki a földrajzi helyét a térképen, vagy keressen rá az aktuális városra.</p></li>
 </ol></div></div></div>
 <p class="p">Az idő automatikusan frissül, ha másik helyet választ. Az <span class="link"><a href="clock-set.html.hu" title="Dátum és idő módosítása">órát saját kezűleg is beállíthatja</a></span>.</p>

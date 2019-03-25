@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.da#saving" title="Power saving settings">Power saving settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Common problems">Problemer</a> » <a class="trail" href="hardware-problems-graphics.html.da" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="hardware-problems-graphics.html.da" title="Skærmproblemer">Skærmproblemer</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-display.html.da" title="Display &amp; screen">Display &amp; screen</a> » </div>
 <div class="trail">
@@ -83,10 +83,9 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">To set the screen blanking time:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Strøm</span> i sidebjælken.</p></li>
 <li class="steps"><p class="p">Use the <span class="gui">Blank screen</span> drop-down list under <span class="gui">Power
       Saving</span> to set the time until the screen blanks, or disable the blanking
       completely.</p></li>
@@ -94,7 +93,7 @@
 </div></div>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">When your computer is left idle, the screen will automatically lock
     itself for security reasons. To change this behavior, see
-    <span class="link"><a href="session-screenlocks.html.da" title="The screen locks itself too quickly">The screen locks itself too quickly</a></span>.</p></div></div></div></div>
+    <span class="link"><a href="session-screenlocks.html.da" title="Skærmen låser sig selv for hurtigt">Skærmen låser sig selv for hurtigt</a></span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -104,15 +103,15 @@
 <div class="region"><ul>
 <li class="links ">
 <a href="prefs-display.html.da" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.da" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.da" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.da" title="Set screen brightness">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.da" title="Adjust the color temperature of your screen">color temperature</a></span>…
+      <span class="link"><a href="look-background.html.da" title="Skift baggrunde på skrivebordet og låseskærmen">Background</a></span>,
+      <span class="link"><a href="look-resolution.html.da" title="Skift opløsningen eller orienteringen af skærmen">size and orientation</a></span>,
+      <span class="link"><a href="display-brightness.html.da" title="Indstil skærmens lysstyrke">brightness</a></span>,
+      <span class="link"><a href="display-night-light.html.da" title="Justér farvetemperaturen på din skærm">color temperature</a></span>…
     </span>
 </li>
 <li class="links "><a href="power.html.da#saving" title="Power saving settings">Power saving settings</a></li>
 <li class="links ">
-<a href="hardware-problems-graphics.html.da" title="Screen problems">Screen problems</a><span class="desc"> — 
+<a href="hardware-problems-graphics.html.da" title="Skærmproblemer">Skærmproblemer</a><span class="desc"> — 
       Troubleshoot screen and graphics problems.
     </span>
 </li>
@@ -122,7 +121,7 @@
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html.da" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
+<a href="session-screenlocks.html.da" title="Skærmen låser sig selv for hurtigt">Skærmen låser sig selv for hurtigt</a><span class="desc"> — Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span>
 </li>
 <li class="links ">

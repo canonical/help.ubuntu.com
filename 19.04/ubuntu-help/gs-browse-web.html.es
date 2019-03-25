@@ -105,7 +105,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.es" title="Navegadores">Navegadores</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.es" title="Cambiar qué navegador abre de manera predeterminada los sitios web">Cambiar el navegador predeterminado</a></span>, <span class="link"><a href="net-install-flash.html.es" title="Instalar el complemento Flash">instalar flash</a></span>…</span>
+<a href="net-browser.html.es" title="Web browsers">Web browsers</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.es" title="Cambiar qué navegador abre de manera predeterminada los sitios web">Cambiar el navegador predeterminado</a></span>, <span class="link"><a href="net-install-flash.html.es" title="Instalar el complemento Flash">instalar flash</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

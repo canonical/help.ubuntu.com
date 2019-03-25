@@ -72,14 +72,14 @@
 <div class="contents">
 <p class="p">Es pot augmentar un sistema de fitxers per fer ús de l'espai lliure després de la seva partició. Moltes vegades això és possible mentre es munta el sistema de fitxers.</p>
 <p class="p">Per fer espai per a una altra partició després del sistema de fitxers, es pot reduir d'acord amb el seu espai lliure.</p>
-<p class="p">No tots els sistemes de fitxers tenen suport pel canvi de mida.</p>
+<p class="p">No tots els sistemes de fitxers permeten el canvi de mida.</p>
 <p class="p">La mida de la partició es canviarà juntament amb la mida del sistema de fitxers. També és possible canviar la mida d'una partició sense un sistema de fitxers de la mateixa manera.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Canviar la mida d'un sistema de fitxers / partició</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obrir <span class="app">Discs</span> des de la vista d'<span class="gui">Activitats</span>.</p></li>
 <li class="steps"><p class="p">Seleccioneu el disc que conté el sistema de fitxers en qüestió a la llista de dispositius d'emmagatzematge de l'esquerra. Si hi ha més d'un volum al disc, seleccioneu el volum que conté el sistema de fitxers.</p></li>
-<li class="steps"><p class="p">A la barra d'eines, sota la secció<span class="gui">Volums</span>, feu clic al botó de menú. Aleshores feu clic a <span class="gui">Canviar la mida del sistema de fitxers...</span> o <span class="gui">Canvia la mida...</span> si no hi ha sistema de fitxers.</p></li>
+<li class="steps"><p class="p">A la barra d'eines, sota la secció <span class="gui">Volums</span>, feu clic al botó de menú. Aleshores feu clic a <span class="gui">Canviar la mida del sistema de fitxers...</span> o <span class="gui">Canvia la mida...</span> si no hi ha sistema de fitxers.</p></li>
 <li class="steps">
 <p class="p">S'obrirà un diàleg on es podrà triar la nova mida. El sistema de fitxers es muntarà per calcular la mida mínima per a la quantitat de contingut actual. Si no és compatible amb reduir la mida , la mida mínima serà la mida actual. Deixeu espai suficient dins del sistema de fitxers quan es redueixi per garantir que funcioni de manera ràpida i fiable.</p>
 <p class="p">En funció de la quantitat de dades que s'han d'eliminar de la part reduïda, el canvi de mida del sistema de fitxers pot trigar un temps més llarg.</p>
@@ -98,7 +98,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Capacitat del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu el vostre disc dur per problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span>
+<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Comproveu la quantitat d'espai al disc que queda">Espai del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Proveu el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comproveu si el vostre disc dur té problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestioneu els volums i les particions">volums i particions</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

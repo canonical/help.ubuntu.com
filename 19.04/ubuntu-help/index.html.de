@@ -67,11 +67,12 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu-Logo"></span></span> Ubuntu Desktop Leitfaden</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.de" title="Erste Schritte"><span class="title">Erste Schritte mit GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Neu bei GNOME? Hier ist Ihr Einstieg.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.de" title="Erste Schritte"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Neu bei GNOME? Hier ist Ihr Einstieg.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.de" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.de" title="Abmelden, ausschalten oder Benutzer wechseln"><span class="title">Abmelden, ausschalten oder Benutzer wechseln</span><span class="linkdiv-dash"> — </span><span class="desc">Erfahren Sie, wie Sie Ihr Benutzerkonto verlassen können, indem Sie sich abmelden, den Benutzer wechseln und so weiter.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.de" title="Anwendungen starten"><span class="title">Anwendungen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Anwendungen in der <span class="gui">Aktivitäten</span>-Übersicht starten.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.de" title="Einführung in GNOME"><span class="title">Einführung in GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Eine visuelle Einführung in Ihre Arbeitsumgebung, das obere Panel und die <span class="gui">Aktivitäten</span>-Übersicht.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
@@ -80,7 +81,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.de" title="Netzwerk, Internet und E-Mail">Netzwerk, Internet und E-Mail</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.de" title="Drahtlose Verbindungen">Funknetzwerk</a></span>, <span class="link"><a href="net-wired.html.de" title="Kabelverbindungen">Kabelgebunden</a></span>, <span class="link"><a href="net-problem.html.de" title="Netzwerkprobleme">Verbindungsprobleme</a></span>, <span class="link"><a href="net-browser.html.de" title="Webbrowser">Webbrowser</a></span>, <span class="link"><a href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail-Konten</a></span> …</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.de" title="Wireless networking">Funknetzwerk</a></span>, <span class="link"><a href="net-wired.html.de" title="Wired networking">Kabelgebunden</a></span>, <span class="link"><a href="net-problem.html.de" title="Netzwerkprobleme">Verbindungsprobleme</a></span>, <span class="link"><a href="net-browser.html.de" title="Web browsers">Webbrowser</a></span>, <span class="link"><a href="net-email.html.de" title="E-Mail und E-Mail-Software">E-Mail-Konten</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.de" title="Ton, Video und Bilder">Ton, Video und Bilder</a></div>

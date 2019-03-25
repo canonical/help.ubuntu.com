@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Connect your computer to a Bluetooth device</title>
+<title>Tilslut din computer til en Bluetooth-enhed</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="bluetooth.html.da" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Connect your computer to a Bluetooth device</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Tilslut din computer til en Bluetooth-enhed</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Before you can use a Bluetooth device like a mouse or a headset, you first
@@ -80,7 +80,7 @@
       <span class="gui">ON</span>. With the panel open and the switch <span class="gui">ON</span>, your
       computer will begin searching for devices.</p></li>
 <li class="steps"><p class="p">Make the other Bluetooth device
-      <span class="link"><a href="bluetooth-visibility.html.da" title="What is Bluetooth visibility?">discoverable or visible</a></span> and
+      <span class="link"><a href="bluetooth-visibility.html.da" title="Hvad er Bluetooth-synlighed?">discoverable or visible</a></span> and
       place it within 5-10 meters (about 16-33 feet) of your computer.</p></li>
 <li class="steps"><p class="p">Click the device in the <span class="gui">Devices</span> list. The panel for the
       device will open.</p></li>
@@ -111,9 +111,9 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a><span class="desc"> — 
-      <span class="link"><a href="bluetooth-connect-device.html.da" title="Connect your computer to a Bluetooth device">Connect</a></span>,
-      <span class="link"><a href="bluetooth-send-file.html.da" title="Send files to a Bluetooth device">send files</a></span>,
-      <span class="link"><a href="bluetooth-turn-on-off.html.da" title="Turn Bluetooth on or off">turn on and off</a></span>…
+      <span class="link"><a href="bluetooth-connect-device.html.da" title="Tilslut din computer til en Bluetooth-enhed">Connect</a></span>,
+      <span class="link"><a href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed">send files</a></span>,
+      <span class="link"><a href="bluetooth-turn-on-off.html.da" title="Slå Bluetooth til eller fra">turn on and off</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -121,10 +121,10 @@
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing-bluetooth.html.da" title="Control sharing over Bluetooth">Control sharing over Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
+<a href="bluetooth-remove-connection.html.da" title="Fjern en Bluetooth-enhed">Fjern en Bluetooth-enhed</a><span class="desc"> — Remove a device from the list of Bluetooth devices.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-remove-connection.html.da" title="Disconnect a Bluetooth device">Disconnect a Bluetooth device</a><span class="desc"> — Remove a device from the list of Bluetooth devices.</span>
+<a href="sharing-bluetooth.html.da" title="Styr deling via Bluetooth">Styr deling via Bluetooth</a><span class="desc"> — Tillad upload af filer til din computer via Bluetooth.</span>
 </li>
 </ul></div>
 </div></div>

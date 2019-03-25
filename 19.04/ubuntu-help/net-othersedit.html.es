@@ -87,7 +87,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.es" title="Problemas de red">Problemas de red</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Solucionar problemas de la red inalámbrica</a></span>, <span class="link"><a href="net-wireless-find.html.es" title="No puedo ver mi red inalámbrica en la lista">Buscar su red inalámbrica</a></span>…</span>
+<a href="net-problem.html.es" title="Problemas de red">Problemas de red</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.es" title="Solucionador de problemas de red inalámbrica">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.es" title="No puedo ver mi red inalámbrica en la lista">finding your Wi-Fi network</a></span>…
+    </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

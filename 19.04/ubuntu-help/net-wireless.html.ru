@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Беспроводные сети</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Справка"></span></span> Руководство пользователя настольного выпуска Ubuntu</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Беспроводные сети</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -95,14 +95,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
+<a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ru" title="Wireless networking">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Wired networking">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Web browsers">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.ru" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html.ru" title="I can’t see my wireless network in the list">поиск сети wifi</a></span>…</span>
+<a href="status-icons.html.ru#networkicons" title="Значки диспетчера сети">Значки диспетчера сети</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
+<li class="links ">
+<a href="net-problem.html.ru" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.ru" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span>
 </li>
 <li class="links ">
 <a href="net-general.html.ru" title="Сетевые термины и советы">Сетевые термины и советы</a><span class="desc"> — <span class="link"><a href="net-findip.html.ru" title="Определение своего IP-адреса">Определение своего IP-адреса</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ru" title="Что такое WEP и WPA?">защита WEP и WPA</a></span>, <span class="link"><a href="net-macaddress.html.ru" title="Что такое MAC-адрес?">MAC-адреса</a></span>, <span class="link"><a href="net-proxy.html.ru" title="Настройка прокси-сервера">прокси</a></span>…</span>

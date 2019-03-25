@@ -67,9 +67,10 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Логотип Ubuntu"></span></span> Руководство пользователя настольного выпуска Ubuntu</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.ru" title="Начало работы"><span class="title">Начало работы с GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Новичок в GNOME? Узнай, с чего начать.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.ru" title="Начало работы"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Новичок в GNOME? Узнай, с чего начать.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ru" title="Введение в GNOME"><span class="title">Введение в GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Наглядное введение в функциональные возможности рабочего стола. Верхняя панель. Режим <span class="gui">Обзора</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ru" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ru" title="Завершение сеанса, выключение компьютера или переключение пользователей"><span class="title">Завершение сеанса, выключение компьютера или переключение пользователей</span><span class="linkdiv-dash"> — </span><span class="desc">Способы завершения работы с учётной записью: завершение сеанса, переключение пользователей и другие.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ru" title="Запуск приложений"><span class="title">Запуск приложений</span><span class="linkdiv-dash"> — </span><span class="desc">Запуск приложений из режима <span class="gui">Обзора</span>.</span></a></div>
 </div></div></div>
@@ -85,7 +86,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Проводные сети">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Веб-браузеры">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.ru" title="Wireless networking">Беспроводные</a></span>, <span class="link"><a href="net-wired.html.ru" title="Wired networking">проводные</a></span>, <span class="link"><a href="net-problem.html.ru" title="Проблемы с сетью">проблемы с соединением</a></span>, <span class="link"><a href="net-browser.html.ru" title="Web browsers">просмотр веб-сайтов</a></span>, <span class="link"><a href="net-email.html.ru" title="Электронная почта и почтовые программы">учётные записи электронной почты</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.ru" title="Звук, видео и изображения">Звук, видео и изображения</a></div>

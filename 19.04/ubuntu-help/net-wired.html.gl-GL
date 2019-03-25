@@ -2,7 +2,7 @@
 <html lang=gl-GL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Rede con cable</title>
+<title>Wired networking</title>
 <link rel="stylesheet" type="text/css" href="gl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Rede con cable</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wired networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="net-wired-connect.html.gl-GL" title="Conectar a unha rede cableada (Ethernet)"><span class="title">Conectar a unha rede cableada (Ethernet)</span><span class="linkdiv-dash"> — </span><span class="desc">Para configurar a maioría das conexións a redes con fíos, todo o que precisa é conectar un cabo de rede.</span></a></div>
@@ -81,7 +81,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a><span class="desc"> — <span class="link"><a href="net-wireless.html.gl-GL" title="Redes sen fíos">Sen fíos</a></span>, <span class="link"><a href="net-wired.html.gl-GL" title="Rede con cable">con fíos</a></span>, <span class="link"><a href="net-problem.html.gl-GL" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.gl-GL" title="Navegadores web">navegación web</a></span>, <span class="link"><a href="net-email.html.gl-GL" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
+<a href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a><span class="desc"> — <span class="link"><a href="net-wireless.html.gl-GL" title="Wireless networking">Sen fíos</a></span>, <span class="link"><a href="net-wired.html.gl-GL" title="Wired networking">con fíos</a></span>, <span class="link"><a href="net-problem.html.gl-GL" title="Problemas de rede">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.gl-GL" title="Web browsers">navegación web</a></span>, <span class="link"><a href="net-email.html.gl-GL" title="Software de correo electrónico">contas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

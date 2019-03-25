@@ -88,7 +88,7 @@
 <li class="steps">
 <p class="p">Щёлкните <span class="gui">Добавить</span> и введите строку APT для репозитория. Её можно найти на веб-сайте репозитория, и она имеет вид:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Добавить источник</span>, затем закройте окно <span class="app">Программы и обновления</span>. <span class="app">Менеджер приложений Ubuntu</span> выполнит проверку источников программного обеспечения на наличие обновлений.</p></li>
@@ -101,7 +101,7 @@
 <p class="p">Репозиторий партнёров Canonical, предоставляет некоторые бесплатные, к использованию, проприетарные приложения, имеющие закрытый исходный код. Он включает такие программы как <span class="app">Надстройка Adobe Flash</span>. Программы этого репозитория, будут отображаться в результатах поиска <span class="app">Центра ПО Ubuntu</span>, но установить их будет возможно, после включения репозитория.</p>
 <p class="p">Чтобы подключить репозиторий, выполните описанные выше шаги для открытия вкладки <span class="gui">Другое ПО</span> в окне <span class="app">Программы и обновления</span>. Если репозиторий <span class="gui">Партнёры Canonical</span> имеется в списке, активируйте флажок рядом с ним и закройте окно <span class="app">Программы и обновления</span>. Если его нет, нажмите <span class="gui">Добавить</span> и введите:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Нажмите <span class="gui">Добавить источник</span>, затем закройте окно <span class="app">Программы и обновления</span>. Дождитесь, пока <span class="app">Менеджер приложений Ubuntu</span> загрузит сведения о репозитории.</p>
 </div></div>

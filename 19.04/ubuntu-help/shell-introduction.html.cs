@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Úvod do GNOME</title>
+<title>Visual overview of GNOME</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Úvod do GNOME</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Visual overview of GNOME</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">GNOME 3 přichází se zcela novým pohledem na uživatelské prostředí, které je navrženo tak, aby nepřekáželo, nerušilo a umožňovalo efektivní práci. Po prvním přihlášení uvidíte prázdnou plochu a horní lištu.</p>

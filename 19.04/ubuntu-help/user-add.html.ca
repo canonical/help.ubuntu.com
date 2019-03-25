@@ -86,7 +86,7 @@
 <p class="p">Podeu establir una contrasenya per al nou usuari, o bé deixar-los configurar ells mateixos en el primer inici de sessió.</p>
 <p class="p">Si decidiu establir la contrasenya ara, podeu prémer la icona <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="generar contrasenya"></span></span></span> per generar automàticament una contrasenya aleatòria.</p>
 </li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Afegir</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Afegeix</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Si voleu canviar la contrasenya després de crear el compte, seleccioneu el compte, <span class="gui">Desbloquegeu</span> el panell i premeu l'estat actual de la contrasenya.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Al panell d'<span class="gui">Usuaris</span>, podeu fer clic a la imatge al costat del nom de l'usuari a la dreta per configurar una imatge del compte. Aquesta imatge es mostrarà a la finestra d'inici de sessió. GNOME proporciona algunes fotografies d'arxiu que podeu utilitzar, podeu seleccionar la vostra, o fer una foto amb la càmera web.</p></div></div></div></div>

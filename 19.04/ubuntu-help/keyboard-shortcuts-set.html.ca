@@ -109,7 +109,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Llença el navegador d'ajuda</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Llençar el navegador web</p></td>
@@ -133,11 +133,11 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p">Amagueu totes les finestres normals</p></td>
-<td><p class="p">Desactivat</p></td>
+<td><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Moveu a l'espai de treball de sobre</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>RePàg</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Re Pàg</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Moveu a l'espai de treball de sota</p></td>
@@ -179,15 +179,15 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Mou la finestra a l'espai de treball 2</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Mou la finestra a l'espai de treball 3</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Mou la finestra a l'espai de treball 4</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Canvieu les aplicacions</p></td>
@@ -211,19 +211,19 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Canvieu a l'espai de treball 2</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Canvieu a l'espai de treball 3</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Canvieu a l'espai de treball 4</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Canvieu les finestres</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Canvieu les finestres directament</p></td>
@@ -235,7 +235,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Canvieu les finestres d'una aplicació</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 </table></div>
 </div>
@@ -247,15 +247,15 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p">Copieu una captura de pantalla d'una finestra al porta-retalls</p></td>
-<td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Imprimir</kbd></span></span></p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Imprimeix</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Copieu una captura de pantalla d'una àrea al porta-retalls</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Imprimir</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Imprimeix</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Copieu una captura de pantalla al porta-retalls</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Imprimir</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Imprimeix</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Record a short screencast</p></td>
@@ -263,15 +263,15 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to Pictures</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Imprimir</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Imprimeix</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Save a screenshot of an area to Pictures</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Imprimir</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Imprimeix</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Save a screenshot to Pictures</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Imprimir</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Imprimeix</kbd></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -395,19 +395,19 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p">Redueix la mida del text</p></td>
-<td><p class="p">Desactivat</p></td>
+<td><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Activa o desactiva el contrast alt</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Activa o inhabilita el contrast alt</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Augmenta la mida del text</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Activa o desactiva el teclat a la pantalla</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Activa o desactiva el lector de pantalla</p></td>
@@ -447,7 +447,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Baixar la finestra darrera les altres</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Maximitza la finestra</p></td>
@@ -455,11 +455,11 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Maximitzar la finestra horitzontalment</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Maximitzar verticalment la finestra</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Mou la finestra</p></td>
@@ -467,11 +467,11 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Portar la finestra davant de les altres</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Pujar la finestra si està coberta, si no, baixar-la</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Redimensiona la finestra</p></td>
@@ -483,7 +483,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Commuta el mode a pantalla completa</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Commuta l'estat de maximització</p></td>
@@ -491,7 +491,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Intercanvia la finestra en tots els espais de treball o en un</p></td>
-<td style="border-top-style: solid;"><p class="p">Desactivat</p></td>
+<td style="border-top-style: solid;"><p class="p">Inhabilitat</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Dividir la vista a l'esquerra</p></td>
@@ -521,9 +521,9 @@
 <li class="steps"><p class="p">Click the row that was just added. When the
       <span class="gui">Set Custom Shortcut</span> window opens, hold down the desired
       shortcut key combination.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Afegir</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Afegeix</span>.</p></li>
 </ol></div></div></div>
-<p class="p">El nom de comanda que escriviu hauria de ser una ordre de sistema vàlida. Podeu comprovar que la comanda funciona obrint un terminal i escrivint-la allí. L'ordre que obre una aplicació no pot tenir el mateix nom que la pròpia aplicació.</p>
+<p class="p">El nom de comanda que escriviu hauria de ser una ordre de sistema vàlida. Podeu comprovar que l'ordre funciona obrint un terminal i escrivint-la allí. L'ordre que obre una aplicació no pot tenir el mateix nom que la pròpia aplicació.</p>
 <p class="p">If you want to change the command that is associated with a custom
   keyboard shortcut, click the <span class="em">name</span> of the shortcut. The
   <span class="gui">Set Custom Shortcut</span> window will appear, and you can edit the
@@ -536,7 +536,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.ca" title="Teclat">Teclat</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ca" title="Utilitzeu disposicions de teclat alternatives">Dispositius de teclat</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Fer que el cursor del teclat parpellegi">cursor parpellejant</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">accessibilitat del teclat</a></span>…</span>
+<a href="keyboard.html.ca" title="Teclat">Teclat</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ca" title="Utilitzeu disposicions de teclat alternatives">Dispositius de teclat</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Fer que el cursor del teclat parpellegi">parpelleig del cursor</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">accessibilitat del teclat</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

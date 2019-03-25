@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="hardware.html.nl" title="Hardware &amp; stuurprogramma's">Hardware</a> › <a class="trail" href="hardware.html.nl#problems" title="Veel voorkomende problemen">Problemen</a> » <a class="trail" href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Probleemoplosser draadloos netwerk</a> » </div>
 </div>
@@ -113,7 +113,12 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Draadloze USB-adapter</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Draadloze adapters, die via een USB-poort op uw computer worden aangesloten, komen minder vaak voor. Deze kunnen direct in een USB-poort worden aangesloten of via een USB-kabel. 3G/mobiele breedbandadapters lijken heel erg op draadloze (wifi) adapters, dus als u denkt dat u een draadloze USB-adapter heeft, controleer dan nogmaals of het toch geen 3G-adapter is. Hoe controleert u of uw draadloze USB-adapter werd herkend:</p>
+<p class="p">Wireless adapters that plug into a USB port on your computer are less
+  common. They can plug directly into a USB port, or may be connected by a USB
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
+  adapters, so if you think you have a USB wireless adapter, double-check that
+  it is not actually a 3G adapter. To check if your USB wireless adapter was
+  recognized:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open een terminalvenster, typ <span class="cmd">lsusb</span> in en druk daarna op <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="steps">

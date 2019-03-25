@@ -70,11 +70,10 @@
 <div class="hgroup"><h1 class="title"><span class="title">Megjelenítés és képernyő</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="look-resolution.html.hu" title="A képernyő felbontásának vagy tájolásának módosítása"><span class="title">A képernyő felbontásának vagy tájolásának módosítása</span><span class="linkdiv-dash"> — </span><span class="desc">A képernyő felbontásának és tájolásának (forgatásának) megváltoztatása.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-night-light.html.hu" title="A képernyő színhőmérsékletének beállítása"><span class="title">A képernyő színhőmérsékletének beállítása</span><span class="linkdiv-dash"> — </span><span class="desc">Az éjszakai fény a napszak szerint változtatja a kijelzők színét.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.hu" title="A képernyő túl hamar zárolódik"><span class="title">A képernyő túl hamar zárolódik</span><span class="linkdiv-dash"> — </span><span class="desc">A képernyőzárolás előtti várakozás hosszának megváltoztatása az <span class="gui">Adatvédelem</span> beállításai közt.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-night-light.html.hu" title="Adjust the color temperature of your screen"><span class="title">Adjust the color temperature of your screen</span><span class="linkdiv-dash"> — </span><span class="desc">Night Light changes the color of your displays according to the time
-    of day.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása"><span class="title">Az asztal és a zárolási képernyő hátterének megváltoztatása</span><span class="linkdiv-dash"> — </span><span class="desc">Hogyan állíthat be képet, színt vagy színátmenetet az asztal vagy a zárolási képernyő háttereként.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-resolution.html.hu" title="Change the resolution or orientation of the screen"><span class="title">Change the resolution or orientation of the screen</span><span class="linkdiv-dash"> — </span><span class="desc">A képernyő felbontásának és tájolásának (forgatásának) megváltoztatása.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-brightness.html.hu" title="Képernyő fényerejének beállítása"><span class="title">Képernyő fényerejének beállítása</span><span class="linkdiv-dash"> — </span><span class="desc">Képernyő fényességének növelése az erős fényben való jobb olvashatóság érdekében.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-blank.html.hu" title="Képernyő-elsötétítés idejének megadása"><span class="title">Képernyő-elsötétítés idejének megadása</span><span class="linkdiv-dash"> — </span><span class="desc">A képernyő-elsötétítés idejének megadásával energiát spórolhat.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.hu" title="További monitorok csatlakoztatása a számítógépéhez"><span class="title">További monitorok csatlakoztatása a számítógépéhez</span><span class="linkdiv-dash"> — </span><span class="desc">További monitorok beállítása.</span></a></div>
@@ -84,13 +83,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.hu" title="Mouse &amp; Touchpad">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">display</a></span>,
-      <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">user accounts</a></span>…
-    </span>
+<a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html.hu" title="Egér és érintőtábla">egér és érintőtábla</a></span>, <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">felhasználói fiókok</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

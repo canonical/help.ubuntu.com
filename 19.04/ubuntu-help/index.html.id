@@ -67,12 +67,13 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Logo Ubuntu"></span></span> Panduan Desktop Ubuntu</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.id" title="Mulai Memakai"><span class="title">Mulai Memakai GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Baru kenal GNOME? Pelajari bagaimana memakainya.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.id" title="Mulai Memakai"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Baru kenal GNOME? Pelajari bagaimana memakainya.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.id" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.id" title="Log keluar, mematikan, atau berganti pengguna"><span class="title">Log keluar, mematikan, atau berganti pengguna</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
     users, and so on.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.id" title="Memulai aplikasi"><span class="title">Memulai aplikasi</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.id" title="Pengenalan ke GNOME"><span class="title">Pengenalan ke GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Perkenalan visual ke desktop Anda, bilah puncak, dan ringkasan <span class="gui">Aktivitas</span>.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
@@ -81,7 +82,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.id" title="Jaringan Nirkabel">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Jaringan Kabel">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Peramban Web">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.id" title="Wireless networking">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Wired networking">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Web browsers">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.id" title="Suara, video, &amp; gambar">Suara, video, &amp; gambar</a></div>

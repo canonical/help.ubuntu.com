@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wired.html.lv" title="Vadu savienojums">Vadu savienojums</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wired.html.lv" title="Wired networking">Wired networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Veidot savienojumu ar fiksēto IP adresi.</span></h1></div>
@@ -91,7 +91,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html.lv" title="Vadu savienojums">Vadu savienojums</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.lv" title="Tīkla savienojums ar vadu (tīkls Ethernet)">Vadu interneta savienojumi</a></span>, <span class="link"><a href="net-fixed-ip-address.html.lv" title="Veidot savienojumu ar fiksēto IP adresi.">Fiksētas IP adreses</a></span>…</span>
+<a href="net-wired.html.lv" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.lv" title="Tīkla savienojums ar vadu (tīkls Ethernet)">Vadu interneta savienojumi</a></span>, <span class="link"><a href="net-fixed-ip-address.html.lv" title="Veidot savienojumu ar fiksēto IP adresi.">Fiksētas IP adreses</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

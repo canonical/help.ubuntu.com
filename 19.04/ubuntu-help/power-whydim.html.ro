@@ -65,11 +65,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="power.html.ro" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.ro#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="power.html.ro" title="Consum și baterie">Consum și baterie</a> › <a class="trail" href="power.html.ro#saving" title="Configurări de economisire a energiei">Configurări de economisire a energiei</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.ro#problems" title="Common problems">Problems</a> » <a class="trail" href="hardware-problems-graphics.html.ro" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> » <a class="trail" href="power.html.ro" title="Consum și baterie">Consum și baterie</a> › <a class="trail" href="power.html.ro#saving" title="Configurări de economisire a energiei">Configurări de economisire a energiei</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="power.html.ro" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.ro#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> › <a class="trail" href="hardware.html.ro#problems" title="Common problems">Probleme</a> » <a class="trail" href="hardware-problems-graphics.html.ro" title="Probleme cu ecranul">Probleme cu ecranul</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -81,12 +81,10 @@
   computer again, the screen will brighten.</p>
 <p class="p">To stop the screen from dimming itself:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span>
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Dim screen when inactive</span> to <span class="gui">OFF</span> in the
-      <span class="gui">Power Saving</span> section.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Consum</span> în bara laterală pentru a deschide panoul.</p></li>
+<li class="steps"><p class="p">Comutați <span class="gui">Diminuează luminozitatea la inactivitate</span> la <span class="gui">OFF</span> în secțiunea <span class="gui">Economisire de energie</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -95,9 +93,9 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="power.html.ro#saving" title="Power saving settings">Power saving settings</a></li>
+<li class="links "><a href="power.html.ro#saving" title="Configurări de economisire a energiei">Configurări de economisire a energiei</a></li>
 <li class="links ">
-<a href="hardware-problems-graphics.html.ro" title="Screen problems">Screen problems</a><span class="desc"> — 
+<a href="hardware-problems-graphics.html.ro" title="Probleme cu ecranul">Probleme cu ecranul</a><span class="desc"> — 
       Troubleshoot screen and graphics problems.
     </span>
 </li>

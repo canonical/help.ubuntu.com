@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents">
 <p class="p">Om du har med din dator på ett flygplan (eller någon annan plats där trådlösa anslutningar inte är tillåtna), bör du stänga av din trådlösa anslutning. Du kan också vilja stänga av den trådlösa anslutningen av andra skäl (till exempel för att spara batteri).</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">När <span class="em">Flygplansläge</span> används kommer alla trådlösa anslutningar att stängas av, inklusive trådlösa-, 3G- och Bluetooth-anslutningar.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">När <span class="em">Flygplansläge</span> används kommer alla trådlösa anslutningar att stängas av, inklusive Wi-Fi-, 3G- och Bluetooth-anslutningar.</p></div></div></div></div>
 <p class="p">För att slå på flygplansläge:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätverk</span>.</p></li>
@@ -85,7 +85,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mer information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
+<a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">koppla ifrån</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

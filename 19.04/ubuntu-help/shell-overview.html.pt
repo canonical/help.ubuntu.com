@@ -71,7 +71,8 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pt" title="Introdução a GNOME"><span class="title">Introdução a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Uma introdução visual a seu escritório, a barra superior e a vista de <span class="gui">Atividades</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pt" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pt" title="Fechar a sessão, apagar ou mudar de utilizador"><span class="title">Fechar a sessão, apagar ou mudar de utilizador</span><span class="linkdiv-dash"> — </span><span class="desc">Aprender como sair da sua conta de utilizador, fechando a sessão, mudando de utilizador, etc.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.pt" title="Iniciar aplicações"><span class="title">Iniciar aplicações</span><span class="linkdiv-dash"> — </span><span class="desc">Lançar aplicações desde a vista de <span class="gui">Atividades</span>.</span></a></div></div>

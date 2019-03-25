@@ -67,11 +67,12 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.pt-BR" title="Primeiros passos"><span class="title">Primeiros passos com o GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Você é novo no GNOME? Aprenda como começar.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.pt-BR" title="Primeiros passos"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Você é novo no GNOME? Aprenda como começar.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pt-BR" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pt-BR" title="Encerrando sessão, desligando seu computador ou alternando usuários"><span class="title">Encerrando sessão, desligando seu computador ou alternando usuários</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como deixar sua conta de usuário, encerrando a sessão, alternando usuários e por aí vai.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.pt-BR" title="Iniciando aplicativos"><span class="title">Iniciando aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Inicie aplicativos a partir do panorama de <span class="gui">Atividades</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pt-BR" title="Introdução ao GNOME"><span class="title">Introdução ao GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Uma introdução visual a sua área de trabalho, a barra superior e o panorama de <span class="gui">Atividades</span>.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
@@ -80,7 +81,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a></span>, <span class="link"><a href="net-wired.html.pt-BR" title="Rede com fio">rede cabeada</a></span>, <span class="link"><a href="net-problem.html.pt-BR" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html.pt-BR" title="Navegadores web">navegação web</a></span>, <span class="link"><a href="net-email.html.pt-BR" title="E-mail &amp; software de e-mail">contas de e-mail</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.pt-BR" title="Wireless networking">Rede sem fio</a></span>, <span class="link"><a href="net-wired.html.pt-BR" title="Wired networking">rede cabeada</a></span>, <span class="link"><a href="net-problem.html.pt-BR" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html.pt-BR" title="Web browsers">navegação web</a></span>, <span class="link"><a href="net-email.html.pt-BR" title="E-mail &amp; software de e-mail">contas de e-mail</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.pt-BR" title="Som, vídeo &amp; imagens">Som, vídeo &amp; imagens</a></div>

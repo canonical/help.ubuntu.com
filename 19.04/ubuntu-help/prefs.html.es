@@ -112,7 +112,7 @@
       <span class="link"><a href="look-background.html.es" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo">Background</a></span>,
       <span class="link"><a href="look-resolution.html.es" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
       <span class="link"><a href="display-brightness.html.es" title="Establecer el brillo de la pantalla">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.es" title="Adjust the color temperature of your screen">color temperature</a></span>…
+      <span class="link"><a href="display-night-light.html.es" title="Para ajustar la temperatura de color de su monitor">color temperature</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">

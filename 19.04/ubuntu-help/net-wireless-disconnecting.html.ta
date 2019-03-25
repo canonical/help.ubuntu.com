@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ta" title="Wireless networking">Wireless networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ta" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -112,13 +112,16 @@
 <div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">வயர்லெஸ் இணைப்புகளை சிக்கல் தீர்த்தல்</a></span>, <span class="link"><a href="net-wireless-find.html.ta" title="I can’t see my wireless network in the list">உங்கள் wifi பிணையத்தைக் கண்டறிதல்</a></span>…</span>
+<a href="net-wireless.html.ta" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ta" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ta" title="ஒரு மறைக்கப்பட்ட வயர்லெஸ் பிணையத்துக்கு இணைத்தல்">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ta" title="என் வயர்லெஸ் பிணையம் ஏன் தொடர்ந்து துண்டிக்கப்படுகிறது?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.ta" title="வயர்லெஸ் பிணையமாக்கம்">வயர்லெஸ் பிணையமாக்கம்</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.ta" title="ஒரு வயர்லெஸ் பிணையத்துடன் இணைத்தல்">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.ta" title="ஒரு மறைக்கப்பட்ட வயர்லெஸ் பிணையத்துக்கு இணைத்தல்">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.ta" title="என் வயர்லெஸ் பிணையம் ஏன் தொடர்ந்து துண்டிக்கப்படுகிறது?">Disconnecting</a></span>…
+<a href="net-problem.html.ta" title="பிணைய சிக்கல்கள்">பிணைய சிக்கல்கள்</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.ta" title="வயர்லெஸ் பிணைய சிக்கல்தீர்வி">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.ta" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
     </span>
 </li>
 </ul></div>

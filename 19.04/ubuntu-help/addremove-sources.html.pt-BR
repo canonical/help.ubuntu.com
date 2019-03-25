@@ -96,7 +96,7 @@
 <li class="steps">
 <p class="p">Clique em <span class="gui">Adicionar</span> e digite a linha do APT do repositório. Esta linha deverá estar disponível no site do repositório e deve ter esta semelhança:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">
@@ -129,7 +129,7 @@
       <span class="gui">Add</span> and enter:
     </p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">
       Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. Wait a 

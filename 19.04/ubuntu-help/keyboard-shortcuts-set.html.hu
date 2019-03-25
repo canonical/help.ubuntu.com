@@ -79,11 +79,9 @@
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Eszközök</span> lehetőségre az oldalsávon.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
-      window will be shown.</p></li>
-<li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to
-      reset, or press <span class="key"><kbd>Esc</kbd></span> to cancel.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Billentyűzet</span> elemre az oldalsávon a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">Kattintson a kívánt művelet sorára. Megjelenik a <span class="gui">Gyorsbillentyű beállítása</span> ablak.</p></li>
+<li class="steps"><p class="p">Tartsa lenyomva a kívánt billentyűkombinációt, vagy nyomja meg a <span class="key"><kbd>Backspace</kbd></span> billentyűt a visszaállításhoz vagy az <span class="key"><kbd>Esc</kbd></span> billentyűt a megszakításhoz.</p></li>
 </ol></div></div></div>
 </div>
 <div id="defined" class="sect"><div class="inner">
@@ -120,8 +118,8 @@
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> vagy <span class="key"><kbd>Keresés</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Settings</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Tools</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Beállítások</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Eszközök</kbd></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -144,19 +142,19 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor down</p></td>
+<td style="border-top-style: solid;"><p class="p">Ablak áthelyezése egy monitorral lejjebb</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.hu" title="Mi az a Super billentyű?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor to the left</p></td>
+<td style="border-top-style: solid;"><p class="p">Ablak áthelyezése egy monitorral balra</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor to the right</p></td>
+<td style="border-top-style: solid;"><p class="p">Ablak áthelyezése egy monitorral jobbra</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor up</p></td>
+<td style="border-top-style: solid;"><p class="p">Ablak áthelyezése egy monitorral feljebb</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -168,14 +166,12 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to last workspace</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span>
-  </p></td>
+<td style="border-top-style: solid;"><p class="p">Ablak áthelyezése az utolsó munkaterületre</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Ablak áthelyezése az 1. munkaterületre</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span>
-  </p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Ablak áthelyezése a 2. munkaterületre</p></td>
@@ -202,7 +198,7 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to last workspace</p></td>
+<td style="border-top-style: solid;"><p class="p">Átváltás az utolsó munkaterületre</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -258,19 +254,19 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Record a short screencast</p></td>
+<td style="border-top-style: solid;"><p class="p">Rövid képernyővideó felvétele</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p">Képernyőkép mentése egy ablakról a Képek mappába</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of an area to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p">Képernyőkép mentése egy területről a Képek mappába</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p">Képernyőkép mentése a Képek mappába</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
 </tr>
 </table></div>
@@ -346,7 +342,7 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Restore the keyboard shortcuts</p></td>
+<td style="border-top-style: solid;"><p class="p">A gyorsbillentyűk visszaállítása</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -358,11 +354,11 @@
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show the notification list</p></td>
+<td style="border-top-style: solid;"><p class="p">Az értesítéslista megjelenítése</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show the overview</p></td>
+<td style="border-top-style: solid;"><p class="p">Az áttekintés megjelenítése</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -383,7 +379,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Váltás az előző bemeneti forrásra</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Szóköz</kbd></span></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -511,23 +507,13 @@
 <div class="region"><div class="contents">
 <p class="p">Adjon meg vagy módosítson gyorsbillentyűket a <span class="app">Billentyűzet</span>beállításai alatt:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button. The <span class="gui">Add Custom
-      Shortcut</span> window will appear.</p></li>
-<li class="steps"><p class="p">Type a <span class="gui">Name</span> to identify the shortcut, and a
-      <span class="gui">Command</span> to run an application.
-      For example, if you wanted the shortcut to open <span class="app">Rhythmbox</span>, you
-      could name it <span class="input">Music</span> and use the <span class="input">rhythmbox</span>
-      command.</p></li>
-<li class="steps"><p class="p">Click the row that was just added. When the
-      <span class="gui">Set Custom Shortcut</span> window opens, hold down the desired
-      shortcut key combination.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">+</span> gombra. Megjelenik az <span class="gui">Egyéni gyorsbillentyű hozzáadása</span> ablak.</p></li>
+<li class="steps"><p class="p">Írja be a gyorsbillentyű azonosítására szolgáló <span class="gui">Nevet</span>, és az alkalmazást indító <span class="gui">Parancsot</span>. Ha például azt szeretné, hogy a gyorsbillentyű a <span class="app">Rhythmboxot</span> indítsa el, akkor elnevezheti <span class="input">Zene</span> névvel és használhatja a <span class="input">rhythmbox</span> parancsot.</p></li>
+<li class="steps"><p class="p">Kattintson az éppen felvett sorra. Ha az <span class="gui">Egyéni gyorsbillentyű beállítása</span> ablak megnyílik, akkor nyomja le a kívánt billentyűkombinációt.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Hozzáadás</span> gombra.</p></li>
 </ol></div></div></div>
 <p class="p">A beírt parancsnak érvényes rendszerparancsnak kell lennie. A parancs működését úgy ellenőrizheti, hogy megnyitja a Terminált és beírja. Az alkalmazást megnyitó parancs neve nem lehet ugyanaz, mint magának az alkalmazásnak a neve.</p>
-<p class="p">If you want to change the command that is associated with a custom
-  keyboard shortcut, click the <span class="em">name</span> of the shortcut. The
-  <span class="gui">Set Custom Shortcut</span> window will appear, and you can edit the
-  command.</p>
+<p class="p">Ha meg szeretné változtatni egy egyéni gyorsbillentyű parancsát, akkor kattintson a gyorsbillentyű <span class="em">nevére</span>. Megjelenik az <span class="gui">Egyéni gyorsbillentyű beállítása</span> ablak, és szerkesztheti a parancsot.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

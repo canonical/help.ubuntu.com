@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change which language you use</title>
+<title>Vælg sprog</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-language.html.da" title="Region &amp; Language">Region &amp; Language</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-language.html.da" title="Region &amp; sprog">Region &amp; sprog</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change which language you use</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Vælg sprog</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can use your desktop and applications in any of dozens of languages,
@@ -108,17 +108,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.da" title="Region &amp; Language">Region &amp; Language</a><span class="desc"> — 
-      <span class="link"><a href="session-language.html.da" title="Change which language you use">Language</a></span>,
-      <span class="link"><a href="session-formats.html.da" title="Change date and measurement formats">region and formats</a></span>,
-      <span class="link"><a href="keyboard-layouts.html.da" title="Use alternative keyboard layouts">keyboard layouts</a></span>…
+<a href="prefs-language.html.da" title="Region &amp; sprog">Region &amp; sprog</a><span class="desc"> — 
+      <span class="link"><a href="session-language.html.da" title="Vælg sprog">Language</a></span>,
+      <span class="link"><a href="session-formats.html.da" title="Skift formater for dato og måling">region and formats</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">keyboard layouts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="session-formats.html.da" title="Change date and measurement formats">Change date and measurement formats</a><span class="desc"> — Choose a region used for date and time, numbers, currency,
+<a href="session-formats.html.da" title="Skift formater for dato og måling">Skift formater for dato og måling</a><span class="desc"> — Choose a region used for date and time, numbers, currency,
     and measurement.</span>
 </li></ul></div>
 </div></div>

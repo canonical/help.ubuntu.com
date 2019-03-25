@@ -74,42 +74,42 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="bluetooth-connect-device.html.da" title="Connect your computer to a Bluetooth device">Connect</a></span>,
-      <span class="link"><a href="bluetooth-send-file.html.da" title="Send files to a Bluetooth device">send files</a></span>,
-      <span class="link"><a href="bluetooth-turn-on-off.html.da" title="Turn Bluetooth on or off">turn on and off</a></span>…
+      <span class="link"><a href="bluetooth-connect-device.html.da" title="Tilslut din computer til en Bluetooth-enhed">Connect</a></span>,
+      <span class="link"><a href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed">send files</a></span>,
+      <span class="link"><a href="bluetooth-turn-on-off.html.da" title="Slå Bluetooth til eller fra">turn on and off</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="color.html.da" title="Color management">Color management</a></div>
+<div class="links-grid-link"><a href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="color-whyimportant.html.da" title="Why is color management important?">Why is this important</a></span>,
-      <span class="link"><a href="color.html.da#profiles" title="Color profiles">Color profiles</a></span>,
-      <span class="link"><a href="color.html.da#calibration" title="Calibration">How to calibrate a device</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="disk.html.da" title="Disks &amp; storage">Disks &amp; storage</a></div>
-<div class="desc"><span class="desc">
-    <span class="link"><a href="disk-capacity.html.da" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.da" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.da" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.da" title="Manage volumes and partitions">volumes and partitions</a></span>…
+    <span class="link"><a href="disk-capacity.html.da" title="Tjek hvor meget diskplads der er tilbage">Disk space</a></span>,
+    <span class="link"><a href="disk-benchmark.html.da" title="Test ydelsen af din harddisk">performance</a></span>,
+    <span class="link"><a href="disk-check.html.da" title="Tjek din harddisk for problemer">problems</a></span>,
+    <span class="link"><a href="disk-partitions.html.da" title="Håndter diskenheder og partitioner">volumes and partitions</a></span>…
   </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware-auth.html.da" title="Fingerprints &amp; smart cards">Fingerprints &amp; smart cards</a></div>
+<div class="links-grid-link"><a href="color.html.da" title="Farvestyring">Farvestyring</a></div>
 <div class="desc"><span class="desc">
-    <span class="link"><a href="session-fingerprint.html.da" title="Log in with a fingerprint">Fingerprint readers</a></span>,
+      <span class="link"><a href="color-whyimportant.html.da" title="Hvorfor er farvestyring vigtigt?">Why is this important</a></span>,
+      <span class="link"><a href="color.html.da#profiles" title="Farveprofiler">Color profiles</a></span>,
+      <span class="link"><a href="color.html.da#calibration" title="Kalibrering">How to calibrate a device</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="hardware-auth.html.da" title="Fingeraftryk &amp; smart cards">Fingeraftryk &amp; smart cards</a></div>
+<div class="desc"><span class="desc">
+    <span class="link"><a href="session-fingerprint.html.da" title="Log ind med et fingeraftryk">Fingerprint readers</a></span>,
 
     smart cards…
   </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html.da" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a></div>
+<div class="links-grid-link"><a href="mouse.html.da" title="Mus &amp; pegeplade">Mus &amp; pegeplade</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="mouse-lefthanded.html.da" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html.da" title="Adjust the speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html.da" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+      <span class="link"><a href="mouse-lefthanded.html.da" title="Brug din mus venstrehåndet">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.da" title="Justér hastigheden på musen og pegepladen">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.da" title="Klik, træk eller rul med pegepladen">touchpad clicking and scrolling</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -123,15 +123,15 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.da" title="Tastatur">Tastatur</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard-layouts.html.da" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Få tastaturets markør til at blinke">cursor blinking</a></span>,
       <span class="link"><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">keyboard accessibility</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="printing.html.da" title="Udskrivning">Udskrivning</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="printing-setup.html.da" title="Set up a local printer">Local setup</a></span>,
+      <span class="link"><a href="printing-setup.html.da" title="Opsæt en lokal printer">Local setup</a></span>,
       
       <span class="link"><a href="printing-order.html.da" title="Make pages print in a different order">order and collate</a></span>,
       <span class="link"><a href="printing-2sided.html.da" title="Print two-sided and multi-page layouts">two-sided and multi-page</a></span>…
@@ -141,35 +141,35 @@
 <div class="links topiclinks"><div class="inner">
 <div class="title title-links"><h2><span class="title">Flere emner</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html.da" title="What is a driver?">What is a driver?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
+<a href="hardware-driver.html.da" title="Hvad er et drev?">Hvad er et drev?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
     attached to it.</span>
 </li></ul></div>
 </div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Common problems</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Almindelige problemer</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="bluetooth.html.da#problems" title="Problemer">Bluetooth-problemer</a></li>
 <li class="links ">
-<a href="hardware-cardreader.html.da" title="Media card reader problems">Media card reader problems</a><span class="desc"> — Troubleshoot media card readers</span>
+<a href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøgning af trådløst netværk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+</li>
+<li class="links ">
+<a href="sound-broken.html.da" title="Lydproblemer">Lydproblemer</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
+    quality.</span>
 </li>
 <li class="links ">
 <a href="power.html.da#problems" title="Problemer">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
 </li>
 <li class="links ">
-<a href="printing.html.da#problems" title="Printer problems">Printer problems</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
+<a href="hardware-cardreader.html.da" title="Problemer med mediekortlæser">Problemer med mediekortlæser</a><span class="desc"> — Troubleshoot media card readers</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html.da" title="Screen problems">Screen problems</a><span class="desc"> — 
+<a href="hardware-problems-graphics.html.da" title="Skærmproblemer">Skærmproblemer</a><span class="desc"> — 
       Troubleshoot screen and graphics problems.
     </span>
 </li>
 <li class="links ">
-<a href="sound-broken.html.da" title="Sound problems">Sound problems</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
-    quality.</span>
-</li>
-<li class="links ">
-<a href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="printing.html.da#problems" title="Udskrivningsproblemer">Udskrivningsproblemer</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
 </li>
 </ul></div></div></div></div></div>
 </div></div>

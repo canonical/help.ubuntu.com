@@ -72,11 +72,10 @@
 <div class="contents">
 <p class="p">Ja datums un laiks, kas attēloti augšējā joslā, ir nepareizi, vai arī ir nepareizā formātā, jūs tos varat mainīt:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Details</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Date &amp; Time</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Sīkāka informācija</span> sānu joslā.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Datums un laiks</span> sānu joslā, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Ja <span class="gui">Automātiskais datums un laiks</span> ir iestatīts uz <span class="gui">|</span>, datums un laiks tiks atjaunināta automātiski, kamēr ir savienojums ar internetu. Lai datumu un laiku atjauninātu manuāli, pārslēdziet to uz <span class="gui">◯</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Datums un laiks</span>, lai pielāgotu laiku un datumu.</p></li>
 <li class="steps"><p class="p">Jūs varat iestatīt, kā stunda ir attēlota, izvēloties <span class="gui">24 stundu</span> vai <span class="gui">AM/PM</span> <span class="gui">Laika formātu</span>.</p></li>

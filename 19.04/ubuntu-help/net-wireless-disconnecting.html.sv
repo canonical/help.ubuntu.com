@@ -106,7 +106,7 @@
 <a href="net-problem.html.sv" title="Nätverksproblem">Nätverksproblem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.sv" title="Felsökning av trådlösa nätverk">Felsök trådlösa anslutningar</a></span>, <span class="link"><a href="net-wireless-find.html.sv" title="Jag kan inte se mitt trådlösa nätverk i listan">hitta ditt trådlösa nätverk</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">Dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">Koppla ifrån</a></span>…</span>
+<a href="net-wireless.html.sv" title="Trådlösa nätverk">Trådlösa nätverk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.sv" title="Anslut till ett trådlöst nätverk">Anslut till Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.sv" title="Anslut till ett dolt, trådlöst nätverk">dolda nätverk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.sv" title="Varför kopplar mitt trådlösa nätverk ner hela tiden?">koppla ifrån</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

@@ -71,12 +71,11 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ro" title="Introduction to GNOME"><span class="title">Introduction to GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ro" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ro" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
-    users, and so on.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ro" title="Deautentificarea, închiderea și schimbarea utilizatorilor"><span class="title">Deautentificarea, închiderea și schimbarea utilizatorilor</span><span class="linkdiv-dash"> — </span><span class="desc">Învățați cum să părăsiți contul de utilizator, deautentificându-vă, schimbând utilizatorii și altele.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ro" title="Start applications"><span class="title">Start applications</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ro" title="Pornirea aplicațiilor"><span class="title">Pornirea aplicațiilor</span><span class="linkdiv-dash"> — </span><span class="desc">Lansați aplicații din vederea de ansamblu <span class="gui">Activități</span>.</span></a></div></div>
 </div></div></div></div>
 <div id="desktop" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
@@ -94,13 +93,13 @@
 <div class="hgroup"><h2 class="title"><span class="title">Applications and windows</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.ro" title="Scurtături de tastatură folositoare"><span class="title">Scurtături de tastatură folositoare</span><span class="linkdiv-dash"> — </span><span class="desc">Get around the desktop using the keyboard.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="startup-applications.html.ro" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.ro" title="Switch between windows"><span class="title">Switch between windows</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.ro" title="The Lock Screen"><span class="title">The Lock Screen</span><span class="linkdiv-dash"> — </span><span class="desc">The decorative and functional lock screen conveys useful
-    information.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.ro" title="Useful keyboard shortcuts"><span class="title">Useful keyboard shortcuts</span><span class="linkdiv-dash"> — </span><span class="desc">Get around the desktop using the keyboard.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.ro" title="The Lock Screen"><span class="title">The Lock Screen</span><span class="linkdiv-dash"> — </span><span class="desc">The decorative and functional lock screen conveys useful
+    information.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="status-icons.html.ro" title="What do the icons in the top bar mean?"><span class="title">What do the icons in the top bar mean?</span><span class="linkdiv-dash"> — </span><span class="desc">Explains the meanings of the icons located on the right of the top bar.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows.html.ro" title="Windows and workspaces"><span class="title">Windows and workspaces</span><span class="linkdiv-dash"> — </span><span class="desc">Move and organize your windows.</span></a></div>
 </div>

@@ -70,18 +70,18 @@
 <div class="hgroup"><h1 class="title"><span class="title">Display &amp; screen</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-night-light.html.da" title="Adjust the color temperature of your screen"><span class="title">Adjust the color temperature of your screen</span><span class="linkdiv-dash"> — </span><span class="desc">Night Light changes the color of your displays according to the time
-    of day.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-background.html.da" title="Change the desktop and lock screen backgrounds"><span class="title">Change the desktop and lock screen backgrounds</span><span class="linkdiv-dash"> — </span><span class="desc">Set an image, color, or gradient as your desktop background or lock
-    screen background.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-resolution.html.da" title="Change the resolution or orientation of the screen"><span class="title">Change the resolution or orientation of the screen</span><span class="linkdiv-dash"> — </span><span class="desc">Change the resolution of the screen and its orientation
-    (rotation).</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.da" title="Connect another monitor to your computer"><span class="title">Connect another monitor to your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Set up an additional monitor.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.da" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.da" title="Set screen brightness"><span class="title">Set screen brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
+<div class="linkdiv "><a class="linkdiv" href="display-brightness.html.da" title="Indstil skærmens lysstyrke"><span class="title">Indstil skærmens lysstyrke</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
     light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.da" title="The screen locks itself too quickly"><span class="title">The screen locks itself too quickly</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
+<div class="linkdiv "><a class="linkdiv" href="display-night-light.html.da" title="Justér farvetemperaturen på din skærm"><span class="title">Justér farvetemperaturen på din skærm</span><span class="linkdiv-dash"> — </span><span class="desc">Night Light changes the color of your displays according to the time
+    of day.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.da" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-background.html.da" title="Skift baggrunde på skrivebordet og låseskærmen"><span class="title">Skift baggrunde på skrivebordet og låseskærmen</span><span class="linkdiv-dash"> — </span><span class="desc">Set an image, color, or gradient as your desktop background or lock
+    screen background.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-resolution.html.da" title="Skift opløsningen eller orienteringen af skærmen"><span class="title">Skift opløsningen eller orienteringen af skærmen</span><span class="linkdiv-dash"> — </span><span class="desc">Change the resolution of the screen and its orientation
+    (rotation).</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.da" title="Skærmen låser sig selv for hurtigt"><span class="title">Skærmen låser sig selv for hurtigt</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.da" title="Tilslut en anden skærm til din computer"><span class="title">Tilslut en anden skærm til din computer</span><span class="linkdiv-dash"> — </span><span class="desc">Opsæt en ekstra skærm.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -90,10 +90,10 @@
 <div class="region"><ul><li class="links ">
 <a href="prefs.html.da" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
       <span class="link"><a href="keyboard.html.da" title="Tastatur">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.da" title="Mouse &amp; Touchpad">mouse &amp; touchpad</a></span>,
+      <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mouse &amp; touchpad</a></span>,
       <span class="link"><a href="prefs-display.html.da" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.da" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.da" title="User accounts">user accounts</a></span>…
+      <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">languages</a></span>,
+      <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">user accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

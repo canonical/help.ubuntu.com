@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ro" title="Primii pași">Primii pași în GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.ro" title="Primii pași">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.ro" title="Comutarea între sarcini">Următoarea</a></div>
@@ -108,13 +108,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.ro" title="Primii pași">Primii pași în GNOME</a><span class="desc"> — Este GNOME nou pentru dumneavoastră? Învățați cum să-l utilizați.</span>
+<a href="getting-started.html.ro" title="Primii pași">Getting started with GNOME</a><span class="desc"> — Este GNOME nou pentru dumneavoastră? Învățați cum să-l utilizați.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vezi și</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html.ro" title="Start applications">Start applications</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
+<a href="shell-apps-open.html.ro" title="Pornirea aplicațiilor">Pornirea aplicațiilor</a><span class="desc"> — Lansați aplicații din vederea de ansamblu <span class="gui">Activități</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

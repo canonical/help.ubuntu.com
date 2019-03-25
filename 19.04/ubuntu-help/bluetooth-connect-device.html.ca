@@ -78,7 +78,7 @@
 <li class="steps"><p class="p">Feu que l'altre dispositiu Bluetooth estigui <span class="link"><a href="bluetooth-visibility.html.ca" title="Què és la visibilitat del Bluetooth?">detectable o visible</a></span> i situï'l a 5-10 metres (uns 16-33 peus del vostre ordinador.</p></li>
 <li class="steps"><p class="p">Feu clic al dispositiu a la llista de <span class="gui">Dispositius</span>. S'obrirà el panell pel dispositiu.</p></li>
 <li class="steps">
-<p class="p">Si és necessari, confirmeu el PIN a l'altre dispositiu. El dispositiu us mostrarà el PIN que veieu a la pantalla de l'ordinador. Confirmeu el PIN al dispositiu potser hàgeu de fer clic a <span class="gui">Aparellar</span> o <span class="gui">Confirmar</span>), aleshores feu clic a <span class="gui">Confirmar</span> a l'ordinador.</p>
+<p class="p">Si és necessari, confirmeu el PIN a l'altre dispositiu. El dispositiu us mostrarà el PIN que veieu a la pantalla de l'ordinador. Confirmeu el PIN al dispositiu potser hàgeu de fer clic a <span class="gui">Aparellar</span> o <span class="gui">Confirma</span>), aleshores feu clic a <span class="gui">Confirma</span> a l'ordinador.</p>
 <p class="p">La majoria de dispositius exigeixen que introduïu el PIN en uns 20 segons, o la connexió no es completarà. Si succeeix això, torneu a la llista de dispositius i comenceu de nou.</p>
 </li>
 <li class="steps"><p class="p">L'entrada pel dispositiu a la llista de <span class="gui">Dispositius</span> mostrarà l'estatus <span class="gui">Connectat</span>.</p></li>
@@ -94,7 +94,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connectar</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">enviar fitxers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span>
+<a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connecta</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Envia fitxers a un dispositiu Bluetooth">envia fitxers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

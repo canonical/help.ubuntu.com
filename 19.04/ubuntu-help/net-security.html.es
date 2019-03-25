@@ -80,7 +80,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html.es" title="Conexiones inalámbricas">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.es" title="Conexiones cableadas">cableada</a></span>, <span class="link"><a href="net-problem.html.es" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.es" title="Navegadores">navegación web</a></span>, <span class="link"><a href="net-email.html.es" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
+<a href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html.es" title="Wireless networking">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.es" title="Wired networking">cableada</a></span>, <span class="link"><a href="net-problem.html.es" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.es" title="Web browsers">navegación web</a></span>, <span class="link"><a href="net-email.html.es" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

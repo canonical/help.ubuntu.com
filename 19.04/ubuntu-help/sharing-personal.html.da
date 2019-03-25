@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Share your personal files</title>
+<title>Del dine personlige filer</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.da" title="Deling">Deling</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="sharing.html.da" title="Deling">Deling</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-sharing.html.da" title="Delingsindstillinger">Delingsindstillinger</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Share your personal files</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Del dine personlige filer</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can allow access to the <span class="file">Public</span> folder in your
@@ -131,17 +131,17 @@
 <div class="region"><ul>
 <li class="links ">
 <a href="sharing.html.da" title="Deling">Deling</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html.da" title="Share your desktop">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html.da" title="Share files by email">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html.da" title="Share your music, photos and videos">Media sharing</a></span>…
+      <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Desktop sharing</a></span>,
+      <span class="link"><a href="files-share.html.da" title="Del filer via e-mail">Share files by email</a></span>,
+      <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Media sharing</a></span>…
     </span>
 </li>
 <li class="links ">
 <a href="prefs-sharing.html.da" title="Delingsindstillinger">Delingsindstillinger</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html.da" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.da" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html.da" title="Share your desktop">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html.da" title="Share your music, photos and videos">Media sharing</a></span>…
+      <span class="link"><a href="sharing-bluetooth.html.da" title="Styr deling via Bluetooth">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.da" title="Del dine personlige filer">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Screen sharing</a></span>,
+      <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Media sharing</a></span>…
     </span>
 </li>
 </ul></div>

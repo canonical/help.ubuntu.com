@@ -94,7 +94,7 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Слабый сигнал беспроводной сети</span></p>
-<p class="p">If you’re connected to the internet by wireless (wifi), check the
+<p class="p">If you are connected to the internet by wireless (Wi-Fi), check the
       network icon on the top bar to see if you have good wireless signal. If
       not, the internet may be slow because you don’t have a very strong
       signal.</p>
@@ -123,7 +123,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.ru" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html.ru" title="I can’t see my wireless network in the list">поиск сети wifi</a></span>…</span>
+<a href="net-problem.html.ru" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.ru" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=ro>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Power &amp; battery</title>
+<title>Consum și baterie</title>
 <link rel="stylesheet" type="text/css" href="ro.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,21 +65,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Power &amp; battery</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Consum și baterie</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.ro" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ro" title="Deautentificarea, închiderea și schimbarea utilizatorilor"><span class="title">Deautentificarea, închiderea și schimbarea utilizatorilor</span><span class="linkdiv-dash"> — </span><span class="desc">Învățați cum să părăsiți contul de utilizator, deautentificându-vă, schimbând utilizatorii și altele.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.ro" title="Get the most out of your laptop battery"><span class="title">Get the most out of your laptop battery</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ro" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
-    users, and so on.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.ro" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.ro" title="Opriți tehnologiile fără fir pe care nu le folosiți"><span class="title">Opriți tehnologiile fără fir pe care nu le folosiți</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.ro" title="Use less power and improve battery life"><span class="title">Use less power and improve battery life</span><span class="linkdiv-dash"> — </span><span class="desc">Tips to reduce the power consumption of your computer.</span></a></div>
@@ -89,7 +88,7 @@
 </div>
 </div></div></div></div>
 <div id="saving" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Power saving settings</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Configurări de economisire a energiei</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.ro" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
@@ -102,7 +101,7 @@
 </div></div></div></div></div>
 </div></div>
 <div id="faq" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Questions</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Întrebări</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.ro" title="The estimated battery life is wrong"><span class="title">The estimated battery life is wrong</span><span class="linkdiv-dash"> — </span><span class="desc">The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span></a></div>
@@ -137,7 +136,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Mai multe informații</span></h3></div>
-<div class="region"><ul><li class="links "><a href="hardware.html.ro#problems" title="Common problems">Hardware problems</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.ro#problems" title="Common problems">Probleme hardware</a></li></ul></div>
 </div></div></div>
 </div>
 </div>
@@ -148,23 +147,10 @@
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html.ro" title="Hardware &amp; drivers">Hardware &amp; drivers</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.ro#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.ro" title="Printing">printers</a></span>,
-      <span class="link"><a href="power.html.ro" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.ro" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html.ro" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html.ro" title="Disks &amp; storage">disks</a></span>…
-    </span>
+<a href="hardware.html.ro" title="Hardware și drivere">Hardware și drivere</a><span class="desc"> — <span class="link"><a href="hardware.html.ro#problems" title="Common problems">Probleme hardware</a></span>, <span class="link"><a href="printing.html.ro" title="Printing">imprimante</a></span>, <span class="link"><a href="power.html.ro" title="Consum și baterie">configurări de consum</a></span>, <span class="link"><a href="color.html.ro" title="Color management">administrarea culorilor</a></span>, <span class="link"><a href="bluetooth.html.ro" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.ro" title="Disks &amp; storage">discuri</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs.html.ro" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.ro" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.ro" title="Mouse &amp; Touchpad">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.ro" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.ro" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.ro" title="User accounts">user accounts</a></span>…
-    </span>
+<a href="prefs.html.ro" title="Utilizatori și configurări de sistem">Utilizatori și configurări de sistem</a><span class="desc"> — <span class="link"><a href="keyboard.html.ro" title="Keyboard">Tastatură</a></span>, <span class="link"><a href="mouse.html.ro" title="Mouse &amp; Touchpad">maus și touchpad</a></span>, <span class="link"><a href="prefs-display.html.ro" title="Display &amp; screen">ecran</a></span>, <span class="link"><a href="prefs-language.html.ro" title="Region &amp; Language">limbi</a></span>, <span class="link"><a href="user-accounts.html.ro" title="User accounts">conturi utilizator</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

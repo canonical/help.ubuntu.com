@@ -74,7 +74,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Instalar los códecs adecuados para reproducir DVD</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Para reproducir DVD, necesita tener los <span class="em">códecs</span> adecuados instalados. Un códec es un software que permite a las aplicaciones leer un formato de vídeo o de sonido. Si su software reproductor de películas no puede encontrar los códecs adecuados, debe ofrecerle la posibilidad de instalarlos por usted. Si esto no sucede, tendrá que instalar los códecs manualmente; pida ayuda sobre cómo hacer esto usando los foros de ayuda de su distribución de Linux.</p>
-<p class="p">Los DVD también están <span class="em">protegidos contra copia</span> usando un sistema llamado CSS. Esto evita que se puedan copiar los DVD, pero también evita que se puedan reproducir a menos que tenga un software adicional para manejar la protección anticopia. Puede comprar un decodificador de DVD comercial que maneje la protección anticopia en <span class="link"><a href="http://fluendo.com/shop/product/oneplay-dvd-player/" title="http://fluendo.com/shop/product/oneplay-dvd-player/">Fluendo</a></span>. Funciona con Linux y su uso debería ser legal en todos los países.</p>
+<p class="p">DVDs are also <span class="em">copy-protected</span> using a system called CSS. This
+  prevents you from copying DVDs, but it also prevents you from playing them
+  unless you have extra software to handle the copy protection. This software
+  is available from a number of Linux distributions, but cannot be legally used
+  in all countries. You can buy a commercial DVD decoder that can handle copy
+  protection from
+  <span class="link"><a href="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/" title="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/">Fluendo</a></span>.
+  It works with Linux and should be legal to use in all countries.</p>
 </div></div>
 </div></div>
 <div id="region" class="sect"><div class="inner">

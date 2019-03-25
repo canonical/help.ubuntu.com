@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.it" title="Reti WiFi">Reti WiFi</a> » <a class="trail" href="net-wireless-troubleshooting.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.it" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> › <a class="trail" href="hardware.html.it#problems" title="Problemi comuni">Problemi</a> » <a class="trail" href="net-wireless-troubleshooting.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Risoluzione dei problemi relativi alle reti senza fili</a> » </div>
 </div>
@@ -119,7 +119,12 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Adattatore senza fili USB</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Gli adattatori WiFi che si collegano attraverso una porta USB del computer sono meno diffusi. Possono essere collegati direttamente a una porta USB o attraverso un cavo USB. Gli adattatori a banda larga 3G/mobile sono molto simili agli adattatori senza fili (WiFi) e se si ritiene di avere un adattatore WiFi USB, occorre controllare attentamente che non si tratti invece di un adattatore 3G.</p>
+<p class="p">Wireless adapters that plug into a USB port on your computer are less
+  common. They can plug directly into a USB port, or may be connected by a USB
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
+  adapters, so if you think you have a USB wireless adapter, double-check that
+  it is not actually a 3G adapter. To check if your USB wireless adapter was
+  recognized:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Aprire un terminale, digitare <span class="cmd">lsusb</span> e premere <span class="key"><kbd>Invio</kbd></span>.</p></li>
 <li class="steps">

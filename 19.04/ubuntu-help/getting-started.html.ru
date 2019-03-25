@@ -135,7 +135,7 @@
 </div></div>
 </div>
 <div class="links topiclinks"><div class="inner">
-<div class="title title-links title-heading"><h2><span class="title">Общие задачи</span></h2></div>
+<div class="title title-links title-heading"><h2><span class="title">Common tasks</span></h2></div>
 <div class="region">
 <div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.ru" title="Выбор фона рабочего стола">Выбор фона рабочего стола</a></div></div>
 <div class="links-grid "><div class="links-grid-link"><a href="gs-use-windows-workspaces.html.ru" title="Использование окон и рабочих столов">Использование окон и рабочих столов</a></div></div>

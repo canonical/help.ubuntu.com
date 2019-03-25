@@ -75,9 +75,9 @@
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Dispositivos</span> en la barra lateral.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Pantallas</span> en la barra lateral para abrir el panel.</p></li>
 <li class="steps"><p class="p">Si tiene varias pantallas y no están replicadas puede tener diferentes configuraciones en cada una. Seleccione una pantalla en el área de previsualización.</p></li>
-<li class="steps"><p class="p">Select the resolution or scale, and choose the orientation.</p></li>
+<li class="steps"><p class="p">Seleccione la resolución y el tamaño, y escoja la rotación.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Aplicar</span>. La nueva configuración se aplicará durante 20 segundos antes de revertirse. De esta forma, si no puede ver nada con la nueva configuración, se restaurará automáticamente su antigua configuración. Si está satisfecho con la nueva configuración, pulse en <span class="gui">Mantener cambios</span>.</p></li>
 </ol></div></div></div>
 </div>
@@ -119,7 +119,7 @@
       <span class="link"><a href="look-background.html.es" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo">Background</a></span>,
       <span class="link"><a href="look-resolution.html.es" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
       <span class="link"><a href="display-brightness.html.es" title="Establecer el brillo de la pantalla">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.es" title="Adjust the color temperature of your screen">color temperature</a></span>…
+      <span class="link"><a href="display-night-light.html.es" title="Para ajustar la temperatura de color de su monitor">color temperature</a></span>…
     </span>
 </li></ul></div>
 </div></div>

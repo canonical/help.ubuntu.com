@@ -2,7 +2,7 @@
 <html lang=pt-BR>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Rede sem fio</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="pt-BR.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Rede sem fio</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -93,17 +93,23 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a></span>, <span class="link"><a href="net-wired.html.pt-BR" title="Rede com fio">rede cabeada</a></span>, <span class="link"><a href="net-problem.html.pt-BR" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html.pt-BR" title="Navegadores web">navegação web</a></span>, <span class="link"><a href="net-email.html.pt-BR" title="E-mail &amp; software de e-mail">contas de e-mail</a></span>…</span>
+<a href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.pt-BR" title="Wireless networking">Rede sem fio</a></span>, <span class="link"><a href="net-wired.html.pt-BR" title="Wired networking">rede cabeada</a></span>, <span class="link"><a href="net-problem.html.pt-BR" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html.pt-BR" title="Web browsers">navegação web</a></span>, <span class="link"><a href="net-email.html.pt-BR" title="E-mail &amp; software de e-mail">contas de e-mail</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.pt-BR" title="Problemas de rede">Problemas de rede</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Solucionando problemas de conexões de rede sem fio</a></span>, <span class="link"><a href="net-wireless-find.html.pt-BR" title="Eu não consigo ver minha rede sem fio na lista">encontrando sua rede wifi</a></span>…</span>
+<a href="net-problem.html.pt-BR" title="Problemas de rede">Problemas de rede</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.pt-BR" title="Solução de problemas de rede sem fio">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.pt-BR" title="Eu não consigo ver minha rede sem fio na lista">finding your Wi-Fi network</a></span>…
+    </span>
 </li>
 <li class="links ">
 <a href="net-general.html.pt-BR" title="Termos &amp; dicas de conectividade">Termos &amp; dicas de conectividade</a><span class="desc"> — <span class="link"><a href="net-findip.html.pt-BR" title="Descobrindo o seu endereço de IP">Descubra seu endereço IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.pt-BR" title="O que WEP e WPA significam?">segurança WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.pt-BR" title="O que é um endereço MAC?">endereços MAC</a></span>, <span class="link"><a href="net-proxy.html.pt-BR" title="Definindo configurações de proxy">proxy</a></span>…</span>
+</li>
+<li class="links ">
+<a href="status-icons.html.pt-BR#networkicons" title="Ícones do gerenciador de redes">Ícones do gerenciador de redes</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
 </li>
 </ul></div>
 </div></div>

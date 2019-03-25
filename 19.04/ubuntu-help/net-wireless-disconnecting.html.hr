@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hr" title="Ubuntu vodič radne površine"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu vodič radne površine</a> » <a class="trail" href="net.html.hr" title="Umrežavanje, web i e-pošta">Umrežavanje, web i e-pošta</a> » <a class="trail" href="net-wireless.html.hr" title="Bežično umrežavanje">Bežično umrežavanje</a> » </div>
-<div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hr" title="Ubuntu vodič radne površine"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu vodič radne površine</a> » <a class="trail" href="net.html.hr" title="Umrežavanje, web i e-pošta">Umrežavanje, web i e-pošta</a> » <a class="trail" href="net-problem.html.hr" title="Network problems">Network problems</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hr" title="Ubuntu vodič radne površine"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu vodič radne površine</a> » <a class="trail" href="net.html.hr" title="Umrežavanje, web i e-pošta">Umrežavanje, web i e-pošta</a> » <a class="trail" href="net-wireless.html.hr" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -127,12 +127,16 @@
 <div class="title"><h2><span class="title">More Information</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html.hr" title="Bežično umrežavanje">Bežično umrežavanje</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.hr" title="Connect to a wireless network">Povezivanje s bežičnom mrežom</a></span>, <span class="link"><a href="net-wireless-hidden.html.hr" title="Connect to a hidden wireless network">skrivenim mrežama</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.hr" title="Why does my wireless network keep disconnecting?">prekidanje povezivanja</a></span>…</span>
-</li>
-<li class="links ">
 <a href="net-problem.html.hr" title="Network problems">Network problems</a><span class="desc"> — 
       <span class="link"><a href="net-wireless-troubleshooting.html.hr" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.hr" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+      <span class="link"><a href="net-wireless-find.html.hr" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span>
+</li>
+<li class="links ">
+<a href="net-wireless.html.hr" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.hr" title="Connect to a wireless network">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.hr" title="Connect to a hidden wireless network">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.hr" title="Why does my wireless network keep disconnecting?">Wi-Fi disconnecting</a></span>…
     </span>
 </li>
 </ul></div>

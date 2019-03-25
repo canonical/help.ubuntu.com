@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.pt#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html.pt" title="Conexões sem fios">Conexões sem fios</a> » <a class="trail" href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html.pt" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -117,7 +117,12 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Adaptador sem fios USB</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Os adaptadores sem fios que se ligam a um porto USB na sua computador são menos comuns. Podem-se ligar diretamente a um porto USB, ou podem-se  ligar mediante um cabo USB. Os adaptadores de banda larga movel 3G são muito similares aos adaptadores sem fios (wifi), de modo que se pensa que tem um adaptador sem fios USB, comprove que não é em realidade um adaptador 3G. Para verificar se seu adaptador sem fios USB reconheceu-se:</p>
+<p class="p">Wireless adapters that plug into a USB port on your computer are less
+  common. They can plug directly into a USB port, or may be connected by a USB
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
+  adapters, so if you think you have a USB wireless adapter, double-check that
+  it is not actually a 3G adapter. To check if your USB wireless adapter was
+  recognized:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra um terminal e escreva <span class="cmd">lsusb</span> e carregue <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="steps">

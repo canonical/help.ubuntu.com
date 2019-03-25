@@ -76,7 +76,7 @@
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="shell-overview.html.hu" title="Az asztal">Az asztal</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html.hu" title="Naptári találkozók">naptár</a></span>, <span class="link"><a href="shell-notifications.html.hu" title="Notifications and the notification list">értesítések</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.hu" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html.hu" title="Ablakok és munkaterületek">ablakok és munkaterületek</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html.hu" title="Naptári találkozók">naptár</a></span>, <span class="link"><a href="shell-notifications.html.hu" title="Értesítések és az értesítéslista">értesítések</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.hu" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html.hu" title="Ablakok és munkaterületek">ablakok és munkaterületek</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.hu" title="Hálózatok, web és e-mail">Hálózatok, web és e-mail</a></div>
@@ -100,13 +100,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.hu" title="Mouse &amp; Touchpad">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">display</a></span>,
-      <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">user accounts</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html.hu" title="Egér és érintőtábla">egér és érintőtábla</a></span>, <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">felhasználói fiókok</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a></div>

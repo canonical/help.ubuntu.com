@@ -69,37 +69,22 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Log ud, sluk eller skift bruger</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">When you have finished using your computer, you can turn it off, suspend
-  it (to save power), or leave it powered on and log out.</p></div>
+<div class="contents"><p class="p">Når du er færdig med at bruge din computer, så kan du slukke den, sætte den i hviletilstand (for at spare på strømmen) eller lade den være tændt og logge ud.</p></div>
 <div id="logout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Log ud eller skift bruger</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To let other users use your computer, you can either log out, or leave
-  yourself logged in and just switch users. If you switch users, all of
-  your applications will continue running, and everything will be where you
-  left it when you log back in.</p>
-<p class="p">To <span class="gui">Log Out</span> or <span class="gui">Switch User</span>, click the
-  <span class="link"><a href="shell-introduction.html.da#yourname" title="Dig og din computer">system menu</a></span> on the right side of the
-  top bar, click your name and then choose the right option.</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Log Out</span> and <span class="gui">Switch User</span> entries only appear in
-    the menu if you have more than one user account on your system.</p></div></div></div></div>
+<p class="p">For at lade andre brugere bruge din computer, så kan du enten logge ud eller forblive logget ind og bare skifte bruger. Hvis du skifter bruger, så vil alle dine programmer fortsat køre, og alt vil være som du forlod det, næste gang du logger ind.</p>
+<p class="p">For at <span class="gui">logge ud</span> eller <span class="gui">skifte bruger</span> skal du klikke på <span class="link"><a href="shell-introduction.html.da#yourname" title="Dig og din computer">systemmenuen</a></span> i højre side af toplinjen, og herefter klikke på dit navn og den ønskede valgmulighed.</p>
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">Log ud</span>- og <span class="gui">Skift bruger</span>-punkterne vises kun i menuen, hvis der er mere end én brugerkonto på dit system.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="lock-screen" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lås skærmen</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you’re leaving your computer for a short time, you should lock your
-  screen to prevent other people from accessing your files or running
-  applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html.da" title="The Lock Screen">lock screen</a></span> curtain and enter your
-  password to log back in. If you don’t lock your screen, it will lock
-  automatically after a certain amount of time.</p>
-<p class="p">To lock your screen, click the system menu on the right side of the top
-  bar and press the lock screen button at the bottom of the menu.</p>
-<p class="p">When your screen is locked, other users can log in to their own accounts
-  by clicking <span class="gui">Log in as another user</span> on the password screen. You
-  can switch back to your desktop when they are finished.</p>
+<p class="p">Hvis du forlader din computer i et stykke tid, så bør du låse skærmen for at forhindre andre i at tilgå dine filer og køre programmer. Når du vender tilbage så træk gardinet op på <span class="link"><a href="shell-lockscreen.html.da" title="Låseskærmen">låseskærmen</a></span> og indtast din adgangskode for at logge ind igen. Hvis du undlader at låse skærmen, så låses den automatisk efter et stykke tid.</p>
+<p class="p">For at låse din skærm skal du klikke på systemmenuen i højre side af toplinjen, og trykke på lås skærm-knappen nederst i menuen.</p>
+<p class="p">Når din skærm er låst, kan andre brugere logge ind på deres egne konti ved at klikke på <span class="gui">Log ind som en anden bruger</span> på adgangskodeskærmen. Du kan skifte tilbage til dit skrivebord når de er færdige.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -107,11 +92,11 @@
 <div class="title"><h3><span class="title">Se også</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html.da" title="Automatically lock your screen">Automatically lock your screen</a><span class="desc"> — Prevent other people from using your desktop when you
+<a href="privacy-screen-lock.html.da" title="Låser skærmen automatisk">Låser skærmen automatisk</a><span class="desc"> — Prevent other people from using your desktop when you
     go away from your computer.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html.da" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
+<a href="session-screenlocks.html.da" title="Skærmen låser sig selv for hurtigt">Skærmen låser sig selv for hurtigt</a><span class="desc"> — Change how long to wait before locking the screen in the
     <span class="gui">Privacy</span> settings.</span>
 </li>
 </ul></div>
@@ -120,7 +105,7 @@
 </div>
 </div></div>
 <div id="suspend" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Suspend</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Hvile</span></h2></div>
 <div class="region">
 <div class="contents">
 <p class="p">To save power, suspend your computer when you are not using it. If you use
@@ -139,10 +124,10 @@
 <div class="title"><h3><span class="title">Se også</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html.da" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-batterylife.html.da" title="Brug mindre strøm og forbedr batteriets levetid">Brug mindre strøm og forbedr batteriets levetid</a><span class="desc"> — Tips til at reducere din computers strømforbrug.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html.da" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-autosuspend.html.da" title="Opsæt automatisk hvile">Opsæt automatisk hvile</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 <li class="links ">
 <a href="power-suspend.html.da" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
@@ -165,7 +150,7 @@
   administrative user, you may be asked for your password to power off.</p>
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You may want to power off your computer if you wish to move it and do
     not have a battery, if your battery is low or does not hold charge well. A
-    powered off computer also uses <span class="link"><a href="power-batterylife.html.da" title="Use less power and improve battery life">less
+    powered off computer also uses <span class="link"><a href="power-batterylife.html.da" title="Brug mindre strøm og forbedr batteriets levetid">less
     energy</a></span> than one which is suspended.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -173,7 +158,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Se også</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterylife.html.da" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-batterylife.html.da" title="Brug mindre strøm og forbedr batteriets levetid">Brug mindre strøm og forbedr batteriets levetid</a><span class="desc"> — Tips til at reducere din computers strømforbrug.</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -186,12 +171,7 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html.da" title="Dit skrivebord">Dit skrivebord</a><span class="desc"> — 
-      <span class="link"><a href="clock-calendar.html.da" title="Calendar appointments">Calendar</a></span>,
-      <span class="link"><a href="shell-notifications.html.da" title="Notifications and the notification list">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html.da" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
-      <span class="link"><a href="shell-windows.html.da" title="Vinduer og arbejdsområder">windows and workspaces</a></span>…
-    </span>
+<a href="shell-overview.html.da" title="Dit skrivebord">Dit skrivebord</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">Kalender</a></span>, <span class="link"><a href="shell-notifications.html.da" title="Påmindelser og påmindelseslisten">påmindelser</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.da" title="Nyttige tastaturgenveje">tastaturgenveje</a></span>, <span class="link"><a href="shell-windows.html.da" title="Vinduer og arbejdsområder">vinduer og arbejdsområder</a></span> …</span>
 </li>
 <li class="links ">
 <a href="power.html.da" title="Power &amp; battery">Power &amp; battery</a><span class="desc"> — 
@@ -206,7 +186,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html.da" title="Log in automatically">Log in automatically</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
+<a href="user-autologin.html.da" title="Log ind automatisk">Log ind automatisk</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
 </li></ul></div>
 </div></div>
 </div>

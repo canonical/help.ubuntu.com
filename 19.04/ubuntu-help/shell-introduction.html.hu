@@ -112,8 +112,7 @@
 <p class="p">Kattintson az órára a felső sávon az aktuális dátum, egy havi beosztású naptár, a soron következő találkozók és az új értesítések megjelenítéséhez. A naptár megnyitható a <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span> kombináció megnyomásával is. Közvetlenül a menüből elérheti a dátum és idő beállításait, és megnyithatja a teljes <span class="app">Evolution</span> naptárát is.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="clock-calendar.html.hu" title="Naptári találkozók">Tudjon meg többet a naptárról és a találkozókról.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html.hu" title="Notifications and the notification list">Learn more about notifications and
-      the notification list.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html.hu" title="Értesítések és az értesítéslista">Tudjon meg többet az értesítésekről és az értesítéslistáról.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -130,10 +129,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Zároló képernyő</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Zároló képernyő"></div></div>
-<p class="p">When you lock your screen, or it locks automatically, the lock screen is
-  displayed. In addition to protecting your desktop while you’re away from your
-  computer, the lock screen displays the date and time. It also shows
-  information about your battery and network status.</p>
+<p class="p">Amikor zárolja a képernyőjét, vagy az automatikusan zárolásra kerül, akkor jelenik meg a zároló képernyő. A rendszer illetéktelen hozzáférés elleni védelmén túl a zároló képernyő megjeleníti a dátumot és időt. Információkat jelenít meg továbbá az akkumulátor és a hálózat állapotáról.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.hu" title="A zároló képernyő">Tudjon meg többet a zároló képernyőről.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
@@ -150,7 +146,7 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html.hu" title="Az asztal">Az asztal</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.hu" title="Naptári találkozók">naptár</a></span>, <span class="link"><a href="shell-notifications.html.hu" title="Notifications and the notification list">értesítések</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.hu" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html.hu" title="Ablakok és munkaterületek">ablakok és munkaterületek</a></span>…</span>
+<a href="shell-overview.html.hu" title="Az asztal">Az asztal</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.hu" title="Naptári találkozók">naptár</a></span>, <span class="link"><a href="shell-notifications.html.hu" title="Értesítések és az értesítéslista">értesítések</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.hu" title="Hasznos gyorsbillentyűk">gyorsbillentyűk</a></span>, <span class="link"><a href="shell-windows.html.hu" title="Ablakok és munkaterületek">ablakok és munkaterületek</a></span>…</span>
 </li>
 <li class="links "><a href="index.html.hu" title="Ubuntu felhasználói kézikönyv">Ubuntu felhasználói kézikönyv</a></li>
 </ul></div>

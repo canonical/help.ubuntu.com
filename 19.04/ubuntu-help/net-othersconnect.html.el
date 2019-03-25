@@ -89,7 +89,10 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Περισσότερες πληροφορίες</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.el" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html.el" title="I can’t see my wireless network in the list">Εύρεση του δικτύου wifi</a></span>…</span>
+<a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.el" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.el" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

@@ -77,7 +77,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Fitxers que ja s'han copiat en un altre lloc, com ara un CD, DVD o altres suports extraïbles.</p></li>
 <li class="list"><p class="p">Fitxers que podeu recrear fàcilment. Per exemple, si sou programador, no heu de fer una còpia de seguretat dels fitxers que es produeixen quan compileu els vostres programes. En lloc d'això, assegureu-vos que feu una còpia de seguretat dels fitxers font originals.</p></li>
-<li class="list"><p class="p">Qualsevol fitxer de la paperera. Trobareu el directori de la Paperera a <span class="cmd">~/.local/share/Trash</span>.</p></li>
+<li class="list"><p class="p">Qualsevol fitxer de la paperera. Trobareu el directori de la Paperera a <span class="file">~/.local/share/Trash</span>.</p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

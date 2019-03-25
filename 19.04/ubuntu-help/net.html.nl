@@ -71,12 +71,12 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.nl" title="Draadloos netwerk">Draadloos netwerk</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Verbinden met wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">Verborgen netwerken</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Verbinding verbreken</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.nl" title="Bekabeld netwerk">Bekabeld netwerk</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.nl" title="Verbinden met een bekabeld (Ethernet) netwerk">Bekabelde internetverbindingen</a></span>, <span class="link"><a href="net-fixed-ip-address.html.nl" title="Een verbinding met een vast IP-adres aanmaken">Vaste IP-adressen</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.nl" title="Wireless networking">Wireless networking</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-connect.html.nl" title="Verbinding maken met een draadloos netwerk">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.nl" title="Met een verborgen draadloos netwerk verbinden">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.nl" title="Waarom raakt mijn draadloos netwerk steeds de verbinding kwijt?">Wi-Fi disconnecting</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-chat.html.nl" title="Chatten &amp; sociaal netwerken">Chatten &amp; sociaal netwerken</a></div>
@@ -96,7 +96,10 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html.nl" title="Ik zie mijn draadloos netwerk niet in de lijst">Uw wifi-netwerk vinden</a></span>...</span></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.nl" title="Ik zie mijn draadloos netwerk niet in de lijst">finding your Wi-Fi network</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a></div>
@@ -107,8 +110,12 @@
 <div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html.nl" title="Heb ik anti-virussoftware nodig?">Antivirussoftware</a></span>, <span class="link"><a href="net-firewall-on-off.html.nl" title="Firewalltoegang inschakelen of blokkeren.">basis-firewalls</a></span>, <span class="link"><a href="net-firewall-ports.html.nl" title="Veelgebruikte netwerkpoorten">firewall-poorten</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.nl" title="Webbrowsers">Webbrowsers</a></div>
+<div class="links-grid-link"><a href="net-browser.html.nl" title="Web browsers">Web browsers</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.nl" title="Wijzigen in welke webbrowser websites geopend moeten worden">De standaard webbrowser wijzigen</a></span>, <span class="link"><a href="net-install-flash.html.nl" title="De Flash plug-in installeren">Flash installeren</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.nl" title="Wired networking">Wired networking</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.nl" title="Verbinden met een bekabeld (Ethernet) netwerk">Bekabelde internetverbindingen</a></span>, <span class="link"><a href="net-fixed-ip-address.html.nl" title="Een verbinding met een vast IP-adres aanmaken">Vaste IP-adressen</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

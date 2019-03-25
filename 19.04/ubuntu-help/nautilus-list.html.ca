@@ -70,8 +70,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Preferències de les columnes de la llista de fitxers</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Hi ha onze columnes d'informació que podeu visualitzar a la llista de <span class="gui">Fitxers</span>. Feu clic a <span class="gui">Fitxers</span> a la barra superior, seleccioneu <span class="gui">Preferencies</span> i trieu la pestanya <span class="gui">Llista de columnes</span> per seleccionar quines columnes seran visibles.</p>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Utilitzeu els botons<span class="gui">Moure amunt</span> i <span class="gui">Moure avall</span> per triar l'ordre en què apareixeran les columnes seleccionades. Feu clic a <span class="gui">Restablir a la predeterminada</span> per desfer els canvis i tornar a les columnes predeterminades.</p></div></div></div></div>
+<p class="p">Hi ha onze columnes d'informació que podeu visualitzar a la llista de <span class="gui">Fitxers</span>. Feu clic a <span class="gui">Fitxers</span> a la barra superior, seleccioneu <span class="gui">Preferències</span> i trieu la pestanya <span class="gui">Llista de columnes</span> per seleccionar quines columnes seran visibles.</p>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Utilitzeu els botons <span class="gui">Moure amunt</span> i <span class="gui">Moure avall</span> per triar l'ordre en què apareixeran les columnes seleccionades. Feu clic a <span class="gui">Restablir a la predeterminada</span> per desfer els canvis i tornar a les columnes predeterminades.</p></div></div></div></div>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Nom</span></dt>
 <dd class="terms">
@@ -107,7 +107,7 @@
 </dd>
 <dt class="terms"><span class="gui">Tipus MIME</span></dt>
 <dd class="terms"><p class="p">Mostra el tipus MIME de l'element.</p></dd>
-<dt class="terms"><span class="gui">Localització</span></dt>
+<dt class="terms"><span class="gui">Ubicació</span></dt>
 <dd class="terms"><p class="p">La ruta a la ubicació del fitxer.</p></dd>
 <dt class="terms"><span class="gui">Modificat - Hora</span></dt>
 <dd class="terms"><p class="p">Dóna la data i l'hora de la darrera vegada que es va modificar el fitxer.</p></dd>

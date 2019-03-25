@@ -80,7 +80,7 @@
 <p class="p">Kattintson a neve melletti képre. Megjelenik egy legördülő galéria, amely az alapértelmezett bejelentkezési képeket tartalmazza. Ha valamelyik tetszik, akkor kattintson rá a használatához saját képként.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Ha inkább olyan képet választana, mely már a számítógépén van, kattintson a <span class="gui">További képek tallózása</span> gombra.</p></li>
-<li class="list"><p class="p">Ha van webkamerája, készíthet bejelentkező fényképet, ha rákattint a <span class="gui">Fénykép készítése</span> gombra. Készítsen egy képet, majd mozgassa és méretezze át a négyzet alakú körvonalat a kívánt rész kivágásához. Ha nem tetszik az elkészített kép, akkor kattintson az <span class="gui">Újabb fénykép készítése</span> gombra az újrapróbálkozáshoz vagy a <span class="gui">Mégse</span> gombra, ha meggondolta magát.</p></li>
+<li class="list"><p class="p">Ha van webkamerája, készíthet bejelentkező fényképet, ha rákattint a <span class="gui">Fénykép készítése…</span> gombra. Készítsen egy képet, majd mozgassa és méretezze át a négyzet alakú körvonalat a kívánt rész kivágásához. Ha nem tetszik az elkészített kép, akkor kattintson az <span class="gui">Újabb fénykép készítése</span> gombra az újrapróbálkozáshoz, vagy a <span class="gui">Mégse</span> gombra, ha meggondolta magát.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

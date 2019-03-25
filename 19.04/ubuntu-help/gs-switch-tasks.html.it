@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -79,22 +79,14 @@
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Cambiare attività</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="5" data-ttml-end="8"><div class="media-ttml-node media-ttml-p" data-ttml-begin="5" data-ttml-end="8">Spostare il puntatore del mouse nell'angolo <span class="gui">Attività</span>, in alto a sinistra dello schermo.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">Fare clic su una finestra per passare alla relativa attività.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">To maximize a window along the left side of the screen, grab
-            the window’s titlebar and drag it to the left.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Per massimizzare una finestra lungo il lato sinistro dello schermo, trascinare la barra del titolo della finestra verso sinistra.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">Quando metà dello schermo è evidenziato, rilasciare la finestra.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">To maximize a window along the right side, grab the window’s
-            titlebar and drag it to the right.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">Per massimizzare una finestra lungo il lato destro, trascinare la barra del titolo della finestra verso destra.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="18" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="18" data-ttml-end="20">Quando metà dello schermo è evidenziato, rilasciare la finestra.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="23" data-ttml-end="27"><div class="media-ttml-node media-ttml-p" data-ttml-begin="23" data-ttml-end="27">Press <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd>
-           Tab</kbd></span></span> to show the <span class="gui">window switcher</span>.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="27" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="27" data-ttml-end="29">Release <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super
-           </kbd></a></span> to select the next highlighted window.
-           </div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="29" data-ttml-end="32"><div class="media-ttml-node media-ttml-p" data-ttml-begin="29" data-ttml-end="32">To cycle through the list of open windows, do not release
-           <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> but hold
-           it down, and press <span class="key"><kbd>Tab</kbd></span>.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="35" data-ttml-end="37"><div class="media-ttml-node media-ttml-p" data-ttml-begin="35" data-ttml-end="37">Press the <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super
-           </kbd></a></span> key to show the <span class="gui">Activities Overview</span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="23" data-ttml-end="27"><div class="media-ttml-node media-ttml-p" data-ttml-begin="23" data-ttml-end="27">Premere <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> per mostrare il <span class="gui">selettore finestra</span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="27" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="27" data-ttml-end="29">Rilasciare il tasto <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> per selezionare la finestra evidenziata successiva.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="29" data-ttml-end="32"><div class="media-ttml-node media-ttml-p" data-ttml-begin="29" data-ttml-end="32">Per scorrere ciclicamente l'elenco delle finestre aperte, non rilasciare il tasto <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>, ma tenerlo premuto e premere <span class="key"><kbd>Tab</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="35" data-ttml-end="37"><div class="media-ttml-node media-ttml-p" data-ttml-begin="35" data-ttml-end="37">Premere il tasto <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> per aprire la <span class="gui">Panoramica attività</span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="37" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="37" data-ttml-end="40">Iniziare a digitare il nome dell'applicazione che si vuole usare.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="40" data-ttml-end="43"><div class="media-ttml-node media-ttml-p" data-ttml-begin="40" data-ttml-end="43">Quando l'applicazione appare come primo risultato, premere <span class="key"><kbd>Invio</kbd></span> per usarla.</div></div>
 </div>
@@ -104,48 +96,33 @@
 <div id="switch-tasks-overview" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Cambiare attività</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Move your mouse pointer to the <span class="gui">Activities</span> corner at the
-     top left of the screen to show the <span class="gui">Activities Overview</span> where you
-     can see the currently running tasks displayed as small windows.</p></li>
+<li class="steps"><p class="p">Spostare il puntatore del mouse su <span class="gui">Attività</span> nell'angolo in alto a sinistra dello schermo per aprire la <span class="gui">Panoramica attività</span> dove è possibile consultare, visualizzate come piccole finestre, le attività attualmente in corso.</p></li>
 <li class="steps"><p class="p">Fare clic su una finestra per passare alla relativa attività.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div id="switching-tasks-tiling" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Tile windows</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Accostare le finestre</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">To maximize a window along a side of the screen, grab the window’s
-       titlebar and drag it to the left or right side of the screen.</p></li>
-<li class="steps"><p class="p">When half of the screen is highlighted, release the window to
-       maximize it along the selected side of the screen.</p></li>
-<li class="steps"><p class="p">To maximize two windows side-by-side, grab the titlebar of the
-       second window and drag it to the opposite side of the screen.</p></li>
-<li class="steps"><p class="p">When half of the screen is highlighted, release the window to
-        maximize it along the opposite side of the screen.</p></li>
+<li class="steps"><p class="p">Per massimizzare una finestra lungo un lato dello schermo, trascinare la barra del titolo della finestra verso destra o verso sinistra.</p></li>
+<li class="steps"><p class="p">Quando metà della finestra viene evidenziata, rilasciare la finestra in modo che sia massimizzata lungo il lato scelto dello schermo.</p></li>
+<li class="steps"><p class="p">Per massimizzare due finestre fianco a fianco, trascinare la barra del titolo della seconda finestra verso il lato opposto dello schermo.</p></li>
+<li class="steps"><p class="p">Quando metà della finestra viene evidenziata, rilasciare la finestra in modo che sia massimizzata lungo il lato opposto dello schermo.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div id="switch-tasks-windows" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Switch between windows</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Passare da una finestra all'altra</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super
-   </kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> to show the <span class="gui">window switcher</span>, which
-   lists the currently open windows.</p></li>
-<li class="steps"><p class="p">Release <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>
-   to select the next highlighted window in the <span class="gui">window switcher</span>.</p></li>
-<li class="steps"><p class="p">To cycle through the list of open windows, do not release
-   <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> but hold it down,
-   and press <span class="key"><kbd>Tab</kbd></span>.</p></li>
+<li class="steps"><p class="p">Premere <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> per mostrare il <span class="gui">Selettore finestra</span> in cui sono elencate le finestre aperte.</p></li>
+<li class="steps"><p class="p">Rilasciare il tasto <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> per selezionare la finestra evidenziata successiva nel <span class="gui">Selettore finestra</span>.</p></li>
+<li class="steps"><p class="p">Per scorrere ciclicamente l'elenco delle finestre aperte, non rilasciare il tasto <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>, ma tenerlo premuto e premere <span class="key"><kbd>Tab</kbd></span>.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div id="switch-tasks-search" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Use search to switch applications</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Usare la ricerca per passare tra le applicazioni</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press the <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>
-       key to show the <span class="gui">Activities Overview</span>.</p></li>
-<li class="steps"><p class="p">Just start typing the name of the application you want to
-       switch to. Applications matching what you have typed will appear as
-       you type.</p></li>
-<li class="steps"><p class="p">When the application that you want to switch to appears as the
-       first result, press <span class="key"><kbd>Enter</kbd></span> to switch to it.</p></li>
+<li class="steps"><p class="p">Premere il tasto <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> per mostrare la <span class="gui">Panoramica attività</span>.</p></li>
+<li class="steps"><p class="p">Digitare il nome dell'applicazione a cui passare. Le applicazioni corrispondenti ai termini di ricerca verranno visualizzate durante la digitazione.</p></li>
+<li class="steps"><p class="p">Quando l'applicazione a cui si vuole passare è visualizzata come primo risultato, premere <span class="key"><kbd>Invio</kbd></span> per passare a essa.</p></li>
 </ol></div></div></div></div></div>
 </div></div>
 <div class="links nextlinks">
@@ -157,7 +134,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
+<a href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a><span class="desc"> — Appena arrivati in GNOME? Imparate a muovere i primi passi.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

@@ -80,11 +80,11 @@
 <p class="p">Podeu canviar l'aplicació predeterminada que s'utilitza per obrir els fitxers d'un determinat tipus. Això us permetrà obrir la vostra aplicació preferida quan feu doble clic per obrir un fitxer. Per exemple, és possible que vulgueu que el vostre reproductor de música preferit s'obri quan feu doble clic a un fitxer MP3.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Seleccioneu un fitxer del tipus l'aplicació predeterminada que vulgueu canviar. Per exemple, per canviar quina aplicació s'utilitza per obrir fitxers MP3, seleccioneu un fitxer <span class="file">.mp3</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a l'arxiu amb el botó dret i seleccioneu <span class="gui">Propietats</span>.</p></li>
-<li class="steps"><p class="p">Seleccioneu la pestanya <span class="gui">Obrir amb</span>.</p></li>
+<li class="steps"><p class="p">Feu clic al fitxer amb el botó dret i seleccioneu <span class="gui">Propietats</span>.</p></li>
+<li class="steps"><p class="p">Seleccioneu la pestanya <span class="gui">Obre amb</span>.</p></li>
 <li class="steps">
 <p class="p">Seleccioneu l'aplicació que vulgueu i feu clic a <span class="gui">Establir com a predeterminada</span>.</p>
-<p class="p">Si <span class="gui">Altres Aplicacions</span> conté una aplicació que voleu utilitzar sovint, però no voleu fer-la predeterminada, seleccioneu aquesta aplicació i feu clic a <span class="gui">Afegir</span>. Això l'afegirà a <span class="gui">Aplicacions Recomanades</span>. A continuació, podreu utilitzar aquesta aplicació fent clic amb el botó de la dreta al fitxer i seleccionant-la a la llista.</p>
+<p class="p">Si <span class="gui">Altres Aplicacions</span> conté una aplicació que voleu utilitzar sovint, però no voleu fer-la predeterminada, seleccioneu aquesta aplicació i feu clic a <span class="gui">Afegeix</span>. Això l'afegirà a <span class="gui">Aplicacions recomanades</span>. A continuació, podreu utilitzar aquesta aplicació fent clic amb el botó de la dreta al fitxer i seleccionant-la a la llista.</p>
 </li>
 </ol></div></div></div>
 <p class="p">Això canvia l'aplicació per defecte no només per al fitxer seleccionat, sinó per a tots els fitxers del mateix tipus.</p>

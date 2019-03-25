@@ -78,7 +78,7 @@
 <li class="steps"><p class="p">Nyomja meg a <span class="key"><kbd>Delete</kbd></span> billentyűt a billentyűzeten. Ennek alternatívájaként az elemet az oldalsávon lévő <span class="gui">Kukába</span> is húzhatja.</p></li>
 </ol></div>
 </div></div>
-<p class="p">A fájl áthelyezésre kerül a Kukába, és megjelenik a törlés <span class="gui">Visszavonásának</span> lehetősége. A <span class="gui">Visszavonás</span> gomb néhány másodpercre jelenik meg. Megnyomásával a fájl visszaállításra kerül az eredeti helyére.</p>
+<p class="p">A fájl áthelyezésre kerül a Kukába, és megjelenik a törlés <span class="gui">Visszavonásának</span> lehetősége. A <span class="gui">Visszavonás</span> gomb néhány másodpercre jelenik meg. A <span class="gui">Visszavonás</span> választásával a fájl visszaállításra kerül az eredeti helyére.</p>
 <p class="p">A fájlok végleges törléséhez és a számítógép lemezterületének felszabadításához ki kell ürítenie a Kukát. Ehhez kattintson a jobb egérgombbal a <span class="gui">Kukára</span> az oldalsávban, és válassza a <span class="gui">Kuka ürítése</span> menüpontot.</p>
 </div>
 <div id="permanent" class="sect"><div class="inner">

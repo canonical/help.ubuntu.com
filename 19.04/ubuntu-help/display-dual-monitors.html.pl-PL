@@ -82,7 +82,7 @@
 <li class="steps"><p class="p">W polu <span class="gui">Ułożenie ekranów</span> przeciągnij ekrany do wybranych położeń względem siebie.</p></li>
 <li class="steps">
 <p class="p">Kliknij <span class="gui">Główny ekran</span>, aby wybrać główny ekran.</p>
-<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Główny ekran to ten z <span class="link"><a href="shell-introduction.html.pl-PL" title="Wprowadzenie do GNOME">górnym paskiem</a></span>, i na którym wyświetlany jest <span class="gui">ekran podglądu</span>.</p></div></div></div></div>
+<div class="note" title="Notatka"><div class="inner"><div class="region"><div class="contents"><p class="p">Główny ekran to ten z <span class="link"><a href="shell-introduction.html.pl-PL" title="Wizualny przegląd środowiska GNOME">górnym paskiem</a></span>, i na którym wyświetlany jest <span class="gui">ekran podglądu</span>.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Wybierz rozdzielczość lub skalowanie oraz orientację.</p></li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">Zastosuj</span>. Nowe ustawienia zostaną będą używane przez 20 sekund, po czym zostaną przywrócone. W ten sposób, jeśli nowe ustawienia powodują brak obrazu, to poprzednie zostaną automatycznie przywrócone. Jeśli nowe ustawienia pasują, to kliknij przycisk <span class="gui">Zachowaj zmiany</span>.</p></li>

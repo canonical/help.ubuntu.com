@@ -74,7 +74,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Személyes fájlok (dokumentumok, zene, fényképek és videók)</p>
-<p class="p">Ezek általában a saját mappájában (<span class="cmd">/home/felhasználónév</span>) találhatók. Az almappákban, például Asztal, Dokumentumok, Képek, Zene, Videók is lehetnek fájlok.</p>
+<p class="p">Ezek általában a saját mappájában (<span class="file">/home/felhasználónév</span>) találhatók. Az almappákban, például Asztal, Dokumentumok, Képek, Zene, Videók is lehetnek fájlok.</p>
 <p class="p">Ha a mentési adathordozó elegendő helyet tartalmaz (például az egy külső merevlemez), fontolja meg a saját mappájának teljes mentését. A saját mappája által felhasznált lemezterületet a <span class="app">Lemezhasználat-elemző</span> segítségével határozhatja meg.</p>
 </li>
 <li class="list">

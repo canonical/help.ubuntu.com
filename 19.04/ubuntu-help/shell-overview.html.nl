@@ -71,7 +71,8 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.nl" title="Inleiding tot Gnome"><span class="title">Inleiding tot Gnome</span><span class="linkdiv-dash"> — </span><span class="desc">Een visuele kennismaking met uw bureaublad, de bovenbalk, en het <span class="gui">Activiteiten</span>-overzicht.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.nl" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.nl" title="Afmelden, uitschakelen of van gebruiker wisselen"><span class="title">Afmelden, uitschakelen of van gebruiker wisselen</span><span class="linkdiv-dash"> — </span><span class="desc">Leer hoe u uw gebruikersaccount verlaat, door af te melden, van gebruiker te wisselen, enz.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.nl" title="Toepassingen starten"><span class="title">Toepassingen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Toepassingen starten vanuit het <span class="gui">activiteiten</span>-overzicht.</span></a></div></div>

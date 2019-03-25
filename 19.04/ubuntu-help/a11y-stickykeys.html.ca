@@ -81,12 +81,12 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Paràmetres</span>.</p></li>
 <li class="steps"><p class="p">Féu clic a <span class="gui">Configuració</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> en la barra lateral per obrir el panell.</p></li>
 <li class="steps"><p class="p">Premeu <span class="gui">Assistència d'escriptura (AccessX)</span> a la secció <span class="gui">Escriptura</span>.</p></li>
 <li class="steps"><p class="p">Canvieu les <span class="gui">tecles permanents</span> a <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Suggeriment"><div class="inner">
-<div class="title title-note"><h2><span class="title">Canvieu ràpidament les tecles permanents a ON i OFF</span></h2></div>
+<div class="title title-note"><h2><span class="title">Canvieu ràpidament les tecles enganxoses a ON i OFF</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">A <span class="gui">Activa per Teclat</span>, seleccioneu <span class="gui">Activar les funcions d'accessibilitat des del teclat</span> per activar i desactivar les tecles lentes. Quan se selecciona aquesta opció, podeu mantenir premut <span class="key"><kbd>Shift</kbd></span> cinc vegades en una fila per activar o desactivar les tecles lentes.</p>
 <p class="p">També podeu activar les tecles enganxoses si feu clic a la <span class="link"><a href="a11y-icon.html.ca" title="Trobar el menú d'accés universal">icona d'accessibilitat</a></span> del quadre superior i seleccioneu les <span class="gui">Tecles enganxoses</span>. La icona d'accessibilitat només es mostra si s'ha activat alguna opció en el quadre d'<span class="gui">Accés universal</span>.</p>
@@ -95,7 +95,7 @@
 <p class="p">Si premeu dues tecles alhora, podeu fer que les tecles enganxoses es desactivin automàticament, de forma temporal, per tal que pugueu introduir una drecera de teclat de la forma «estàndard».</p>
 <p class="p">Per exemple, si tot i tenir activades les tecles enganxoses premeu <span class="key"><kbd>Súper</kbd></span> i <span class="key"><kbd>Tabulació</kbd></span> simultàniament, les tecles enganxoses no esperaran a què premeu una altra tecla. Només l'<span class="em">esperarien</span> si haguéssiu premut una única tecla. Això és útil si sou capaços de prémer algunes dreceres de teclat alhora (aquelles en què, per exemple, les tecles estan juntes), i d'altres no.</p>
 <p class="p">Seleccioneu <span class="gui">Inhabilita si es premen dues tecles alhora</span> per activar-ho.</p>
-<p class="p">Podeu fer que l'ordinador faci un so "beep" quan comenceu a escriure una drecera de teclat amb les tecles permanents activades. Això és útil si voleu saber que les tecles permanents esperen que es teclegi un accés directe pel teclat, de manera que la següent tecla premuda s'interpretarà com a part d'una drecera. Seleccioneu <span class="gui">Beep quan es pressiona una tecla modificadora</span> per activar-ho.</p>
+<p class="p">Podeu fer que l'ordinador faci un so "beep" quan comenceu a escriure una drecera de teclat amb les tecles engaxoses activades. Això és útil si voleu saber que les tecles engaxoses esperen que es teclegi un accés directe pel teclat, de manera que la següent tecla premuda s'interpretarà com a part d'una drecera. Seleccioneu <span class="gui">Beep quan es pressiona una tecla modificadora</span> per activar-ho.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -104,7 +104,7 @@
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">Discapacitats de mobilitat</a></li>
 <li class="links ">
-<a href="keyboard.html.ca" title="Teclat">Teclat</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ca" title="Utilitzeu disposicions de teclat alternatives">Dispositius de teclat</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Fer que el cursor del teclat parpellegi">cursor parpellejant</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">accessibilitat del teclat</a></span>…</span>
+<a href="keyboard.html.ca" title="Teclat">Teclat</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.ca" title="Utilitzeu disposicions de teclat alternatives">Dispositius de teclat</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Fer que el cursor del teclat parpellegi">parpelleig del cursor</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">accessibilitat del teclat</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

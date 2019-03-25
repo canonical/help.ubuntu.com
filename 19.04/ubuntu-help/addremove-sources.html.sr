@@ -94,7 +94,7 @@
 <li class="steps">
 <p class="p">Кликните <span class="gui">Додај</span> и унесите АПТ ред за ризницу. Она би требало да буде доступна на веб сајту ризнице, и треба да изгледају слично као:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Кликните <span class="gui">Додај софтвер</span> затим затворите прозор <span class="app">Софтвер и ажурирања</span>. <span class="app">Убунтуов софтвер</span> ће онда потражити нова освежења у вашим изворима софтвера.</p></li>
@@ -113,7 +113,7 @@
     </p>
 <p class="p">Да укључите ризницу, пратите кораке изнад да отворите језичак <span class="gui">Остали софтвер</span> у <span class="app">Софтвер и ажурирања</span>. Ако видите ризницу <span class="gui">Партнери Каноникала</span> на списку, уверите се да је изабрана а затим затворите прозор <span class="app">Софтвер и ажурирања</span>. Ако је не видите, кликните <span class="gui">Додај</span> и упишите:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Кликните <span class="gui">Додај извор</span> и затим затворите прозор <span class="app">Софтвер и ажурирања</span>. Сачекајте тренутак да <span class="app">Убунтуов софтвер</span> преузме податке о ризници.</p>
 </div></div>

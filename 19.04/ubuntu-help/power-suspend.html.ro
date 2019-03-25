@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="power.html.ro" title="Power &amp; battery">Power &amp; battery</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="power.html.ro" title="Consum și baterie">Consum și baterie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="power.html.ro" title="Power &amp; battery">Power &amp; battery</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> » <a class="trail" href="power.html.ro" title="Consum și baterie">Consum și baterie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -97,7 +97,7 @@ relying on it.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.ro" title="Power &amp; battery">Power &amp; battery</a><span class="desc"> — 
+<a href="power.html.ro" title="Consum și baterie">Consum și baterie</a><span class="desc"> — 
       <span class="link"><a href="power-status.html.ro" title="Check the battery status">Battery status</a></span>,
       <span class="link"><a href="power-suspend.html.ro" title="What happens when I suspend my computer?">suspend</a></span>,
       <span class="link"><a href="power-whydim.html.ro" title="Why does my screen go dim after a while?">screen dimming</a></span>…

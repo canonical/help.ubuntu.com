@@ -78,46 +78,36 @@
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Dispositivos</span> en la barra lateral.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Display Arrangement</span> diagram, drag your displays to
-      the relative positions you want.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Pantallas</span> en la barra lateral para abrir el panel.</p></li>
+<li class="steps"><p class="p">En el diagrama <span class="gui">Disposición de pantallas</span>, arrastre sus pantallas a las posiciones relativas que quiera.</p></li>
 <li class="steps">
-<p class="p">Click <span class="gui">Primary Display</span> to choose your primary display.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">The primary display is the one with the
-        <span class="link"><a href="shell-introduction.html.es" title="Introducción a GNOME">top bar</a></span>, and where the
-        <span class="gui">Activities</span> overview is shown.</p></div></div></div></div>
+<p class="p">Pulse en <span class="gui">Pantalla primaria</span> para abrir el panel.</p>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">La pantalla primaria es la que tiene la <span class="link"><a href="shell-introduction.html.es" title="Visual overview of GNOME">barra superior</a></span>, y en la que se muestra la vista de <span class="gui">Actividades</span>.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Select the resolution or scale, and choose the orientation.</p></li>
+<li class="steps"><p class="p">Seleccione la resolución y el tamaño, y escoja la rotación.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Aplicar</span>. La nueva configuración se aplicará durante 20 segundos antes de revertirse. De esta forma, si no puede ver nada con la nueva configuración, se restaurará automáticamente su antigua configuración. Si está satisfecho con la nueva configuración, pulse en <span class="gui">Mantener cambios</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="modes" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Display modes</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Modos de pantalla</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">With two screens, these display modes are available:</p>
+<p class="p">Con dos pantallas, están disponibles estos modos de visualización:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Join Displays:</span> screen edges are joined so things can
-      pass from one display to another.</p></li>
-<li class="list"><p class="p"><span class="gui">Mirror:</span> the same content is shown on two displays,
-      with the same resolution and orientation for both.</p></li>
-<li class="list"><p class="p"><span class="gui">Single Display:</span> only one display is configured,
-      effectively turning off the other one. For instance, an external monitor
-      connected to a docked laptop with the lid closed would be the single
-      configured display.</p></li>
+<li class="list"><p class="p"><span class="gui">Pantallas unidas:</span> los bordes de las pantallas están unidos de manera que los elementos pueden pasar de una pantalla a otra.</p></li>
+<li class="list"><p class="p"><span class="gui">Espejo:</span> se muestra el mismo contenido en ambas pantallas, con la misma resolución y orientanción en ambas.</p></li>
+<li class="list"><p class="p"><span class="gui">Pantalla única:</span> sólo se configura una pantalla, desactivando la otra. Por ejemplo, un monitor externo conectado a una base de conexión con un portátil anclado y con la tapa cerrada sería una pantalla única.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
 <div id="multiple" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Adding more than one monitor</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Añadir más de un monitor</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">With more than two screens, <span class="gui">Join Displays</span> is the only mode
-    available.</p>
+<p class="p">Con más de dos pantallas, el único modo disponible es <span class="gui">Pantallas unidas</span></p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Use the drop-down menu to choose which screen to configure.</p></li>
-<li class="list"><p class="p">Drag the screens to the desired relative positions.</p></li>
-<li class="list"><p class="p">Each screen can be turned off or on using the <span class="gui">ON | OFF</span>
-        switch.</p></li>
+<li class="list"><p class="p">Use el selector para elegir que pantalla configurar.</p></li>
+<li class="list"><p class="p">Arrastre las pantallas a las posiciones relativas que quiera.</p></li>
+<li class="list"><p class="p">Cada pantalla se puede activar y desactivar usando el selector <span class="gui">ON | OFF</span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -130,7 +120,7 @@
       <span class="link"><a href="look-background.html.es" title="Cambiar el fondo del escritorio y de la pantalla de bloqueo">Background</a></span>,
       <span class="link"><a href="look-resolution.html.es" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
       <span class="link"><a href="display-brightness.html.es" title="Establecer el brillo de la pantalla">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.es" title="Adjust the color temperature of your screen">color temperature</a></span>…
+      <span class="link"><a href="display-night-light.html.es" title="Para ajustar la temperatura de color de su monitor">color temperature</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Common problems">Problemer</a> » <a class="trail" href="printing.html.da#problems" title="Printer problems">Printer problems</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="printing.html.da#problems" title="Udskrivningsproblemer">Udskrivningsproblemer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Cancel, pause or release a print job</span></h1></div>
@@ -72,7 +72,7 @@
 <div class="contents"><p class="p">You can cancel a pending print job and remove it from the queue in the
   printer settings.</p></div>
 <div id="cancel-print-job" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Cancel a print job</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Annuller et udskrivningsjob</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">If you accidentally started printing a document, you can cancel the print
   so that you do not need to waste any ink or paper.</p>
@@ -99,7 +99,7 @@
 </div></div>
 </div></div>
 <div id="pause-release-print-job" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Pause and release a print job</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Paus og genoptag et udskrivningsjob</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">If you want to pause or release a print job, you can do so by going to the
   jobs dialog in the printer settings and click the appropriate button.</p>
@@ -117,7 +117,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html.da#problems" title="Printer problems">Printer problems</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
+<a href="printing.html.da#problems" title="Udskrivningsproblemer">Udskrivningsproblemer</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
 </li></ul></div>
 </div></div></div>
 </div>

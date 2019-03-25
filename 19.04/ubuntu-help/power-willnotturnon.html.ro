@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.ro#problems" title="Common problems">Problems</a> » <a class="trail" href="power.html.ro#problems" title="Problems">Power problems</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> › <a class="trail" href="hardware.html.ro#problems" title="Common problems">Probleme</a> » <a class="trail" href="power.html.ro#problems" title="Problems">Power problems</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.ro#problems" title="Common problems">Problems</a> » <a class="trail" href="hardware-problems-graphics.html.ro" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> › <a class="trail" href="hardware.html.ro#problems" title="Common problems">Probleme</a> » <a class="trail" href="hardware-problems-graphics.html.ro" title="Probleme cu ecranul">Probleme cu ecranul</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -120,7 +120,7 @@ gives a brief overview of some of the possible reasons.</p></div>
 <a href="power.html.ro#problems" title="Problems">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html.ro" title="Screen problems">Screen problems</a><span class="desc"> — 
+<a href="hardware-problems-graphics.html.ro" title="Probleme cu ecranul">Probleme cu ecranul</a><span class="desc"> — 
       Troubleshoot screen and graphics problems.
     </span>
 </li>

@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -84,11 +84,10 @@
 <p class="p">To change which key is used to display the <span class="gui">Activities</span>
   overview:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Dispozitive</span> în bara laterală.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Tastatură</span> în bara laterală pentru a deschide panoul.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">System</span> category, click the row with <span class="gui">Show the
       activities overview</span>.</p></li>
 <li class="steps"><p class="p">Hold down the desired key combination.</p></li>
@@ -110,7 +109,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vezi și</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html.ro" title="Useful keyboard shortcuts">Useful keyboard shortcuts</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.ro" title="Scurtături de tastatură folositoare">Scurtături de tastatură folositoare</a><span class="desc"> — Get around the desktop using the keyboard.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -79,7 +79,7 @@
 <li class="steps"><p class="p">Klicka på <span class="gui">Nattbelysning</span> för att öppna inställningarna.</p></li>
 <li class="steps">
 <p class="p">Ställ in växelknappen för <span class="gui">Nattbelysning</span> till <span class="gui">PÅ</span>. Skärmfärgen kommer att följa tiderna för solens uppgång och nedgång för din plats. Klicka på knappen <span class="gui">Manuell</span> för att ställa in tiderna till ett anpassat schema.</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="shell-introduction.html.sv" title="Introduktion till GNOME">Systemraden</a></span> visar när <span class="gui">Nattbelysning</span> är aktiv. Den kan tillfälligt inaktiveras från systemmenyn.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="shell-introduction.html.sv" title="Visuell överblick över GNOME">Systemraden</a></span> visar när <span class="gui">Nattbelysning</span> är aktiv. Den kan tillfälligt inaktiveras från systemmenyn.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 </div>

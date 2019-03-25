@@ -79,16 +79,15 @@
 <p class="p">Se ten dificultades ao usar un rato ou outro dispositivo apuntador, pode controlar o punteiro do rato usando o teclado numérico do seu teclado. Esta característica chámase <span class="em">teclas de rato</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p>
+<p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>  e comoece a escribir <span class="gui">Preferencias</span>.</p>
 <p class="p">You can access the <span class="gui">Activities</span> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       by using <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>
       followed by <span class="key"><kbd>Enter</kbd></span>, or by using the
       <span class="key"><a href="keyboard-key-super.html.gl-GL" title="Que é a tecla Super?"><kbd>Super</kbd></a></span> key.</p>
 </li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Preferencias</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Acceso universal</span> na barra lateral para abrir o panel.</p></li>
 <li class="steps"><p class="p">Use the up and down arrow keys to select <span class="gui">Mouse Keys</span> in the
       <span class="gui">Pointing &amp; Clicking</span> section, then press <span class="key"><kbd>Enter</kbd></span>
       to switch <span class="gui">Mouse Keys</span> to <span class="gui">ON</span>.</p></li>

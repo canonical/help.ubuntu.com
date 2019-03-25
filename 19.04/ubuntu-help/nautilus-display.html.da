@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>File manager display preferences</title>
+<title>Indstillinger for visning i filhåndtering</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » <a class="trail" href="nautilus-prefs.html.da" title="File manager preferences">File manager preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » <a class="trail" href="nautilus-prefs.html.da" title="Indstillinger for filhåndtering">Indstillinger for filhåndtering</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">File manager display preferences</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Indstillinger for visning i filhåndtering</span></h1></div>
 <div class="region">
 <div class="contents"><p class="p">You can control how the file manager displays captions under icons.  Click
 <span class="gui">Files</span> in the top bar, pick <span class="gui">Preferences</span> and select the
@@ -87,12 +87,12 @@
   choose up to three things to show in captions. The first will be displayed at
   most zoom levels. The last will only be shown at very large sizes.</p>
 <p class="p">The information you can show in icon captions is the same as the
-  columns you can use in list view. See <span class="link"><a href="nautilus-list.html.da" title="Files list columns preferences">Files list columns preferences</a></span>
+  columns you can use in list view. See <span class="link"><a href="nautilus-list.html.da" title="Indstillinger for kolonner i filliste">Indstillinger for kolonner i filliste</a></span>
   for more information.</p>
 </div></div>
 </div></div>
 <div id="list-view" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">List View</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Listevisning</span></h2></div>
 <div class="region"><div class="contents"><p class="p">When viewing files as a list, you can <span class="gui">Navigate folders in a
   tree</span>. This shows expanders on each directory in the file list, so
   that the contents of several folders can be shown at once. This is useful if
@@ -104,7 +104,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.da" title="File manager preferences">File manager preferences</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.da" title="Indstillinger for filhåndtering">Indstillinger for filhåndtering</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -69,14 +69,14 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Preferències de visualització a <span class="app">Fitxers</span></span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Podeu canviar la manera com s'agrupen i ordenen els fitxers i les carpetes de manera predeterminada. Seleccioneu <span class="guiseq"><span class="gui">Fitxers</span> ▸ <span class="gui">Preferencies</span></span> a la barra superior mentre <span class="app">Fitxers</span> està obert i seleccioneu la pestanya <span class="gui">Vista</span>.</p></div>
+<div class="contents"><p class="p">Podeu canviar la manera com s'agrupen i ordenen els fitxers i les carpetes de manera predeterminada. Seleccioneu <span class="guiseq"><span class="gui">Fitxers</span> ▸ <span class="gui">Preferències</span></span> a la barra superior mentre <span class="app">Fitxers</span> està obert i seleccioneu la pestanya <span class="gui">Vista</span>.</p></div>
 <div id="default-view" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Visualització per defecte</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Organitzar elements</span></dt>
 <dd class="terms">
-<p class="p">Podeu canviar l'ordre d'ordenació que s'utilitza a les carpetes mitjançant la llista desplegable <span class="gui">Organitzar elements</span> a la llista de preferències per ordenar per nom, mida de l'arxiu, tipus d'arxiu, darrer cop que es van modificar, quan s'hi va accedir per darrer cop, o quan es van esborrar.</p>
-<p class="p">Podeu canviar com <span class="link"><a href="files-sort.html.ca" title="Ordenar fitxers i carpetes">s'ordenen els arxius</a></span> en una carpeta, fent clic al botó d'opcions de visualització de la barra d'eines i triant <span class="gui">Nom</span>, <span class="gui">Mida</span>, <span class="gui">Tipus</span> o <span class="gui">Darrera modificació</span>, o fent clic als encapçalaments de la columna a la vista en llista.</p>
+<p class="p">Podeu canviar l'ordre d'ordenació que s'utilitza a les carpetes mitjançant la llista desplegable <span class="gui">Organitzar elements</span> a la llista de preferències per ordenar per nom, mida del fitxer, tipus de fitxer, darrer cop que es van modificar, quan s'hi va accedir per darrer cop, o quan es van esborrar.</p>
+<p class="p">Podeu canviar com <span class="link"><a href="files-sort.html.ca" title="Ordenar fitxers i carpetes">s'ordenen els fitxers</a></span> en una carpeta, fent clic al botó d'opcions de visualització de la barra d'eines i triant <span class="gui">Nom</span>, <span class="gui">Mida</span>, <span class="gui">Tipus</span> o <span class="gui">Darrera modificació</span>, o fent clic als encapçalaments de la columna a la vista en llista.</p>
 </dd>
 <dt class="terms"><span class="gui">Ordenar les carpetes abans dels fitxers</span></dt>
 <dd class="terms"><p class="p">Per defecte, el gestor de fitxers ja no mostra les carpetes abans dels fitxers. Per veure totes les carpetes que apareixen abans dels fitxers, habiliteu aquesta opció.</p></dd>

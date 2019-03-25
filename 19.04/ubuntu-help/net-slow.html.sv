@@ -87,7 +87,7 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Låg signalstyrka för trådlösa anslutningar</span></p>
-<p class="p">Om du är trådlöst ansluten till internet (wifi), kontrollera nätverksikonen i systemraden för att se om du har bra trådlös signalmottagning. Om inte kan internet upplevas långsamt för att du inte har en särskilt stark signal.</p>
+<p class="p">Om du är trådlöst ansluten till internet (Wi-Fi), kontrollera nätverksikonen i systemraden för att se om du har bra trådlös signalmottagning. Om inte kan internet upplevas långsamt för att du inte har en särskilt stark signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Att använda en långsammare, mobil internetanslutning</span></p>

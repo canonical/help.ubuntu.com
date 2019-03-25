@@ -2,7 +2,7 @@
 <html lang=zh-CN>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>GNOME 指导</title>
+<title>Visual overview of GNOME</title>
 <link rel="stylesheet" type="text/css" href="zh-CN.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">GNOME 指导</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Visual overview of GNOME</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">GNOME 3 完全重绘了用户界面，它的首首次设计保持您的思路，减少注意力的分散，帮助您完成任务。当您首次登录时，只看到一个空旷的桌面和顶部面板条。</p>

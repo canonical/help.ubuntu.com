@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Rename a file or folder</title>
+<title>Omdøb en fil eller mappe</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#common-file-tasks" title="Almindelige opgaver">Almindelige opgaver</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Rename a file or folder</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Omdøb en fil eller mappe</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">As with other file managers, you can use <span class="app">Files</span> to change the
@@ -80,7 +80,7 @@
 </ol></div>
 </div></div>
 <p class="p">You can also rename a file from the
-  <span class="link"><a href="nautilus-file-properties-basic.html.da" title="File properties">properties</a></span> window.</p>
+  <span class="link"><a href="nautilus-file-properties-basic.html.da" title="Filegenskaber">properties</a></span> window.</p>
 <p class="p">When you rename a file, only the first part of the name of the file is
   selected, not the file extension (the part after the last <span class="file">.</span>).
   The extension normally denotes what type of file it is (for example,
@@ -94,7 +94,7 @@
     name.</p></div></div></div></div>
 </div>
 <div id="valid-chars" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Valid characters for file names</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Gyldige tegn til filnavne</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">You can use any character except the <span class="file">/</span> (slash) character in
     file names. Some devices, however, use a <span class="em">file system</span> that has more
@@ -103,12 +103,12 @@
     <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
     <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
 <div class="note note-warning" title="Advarsel"><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html.da" title="Hide a file">hidden</a></span> when you attempt to
+    file will be <span class="link"><a href="files-hidden.html.da" title="Skjul en fil">hidden</a></span> when you attempt to
     view it in the file manager.</p></div></div></div></div>
 </div></div>
 </div></div>
 <div id="common-probs" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Common problems</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Almindelige problemer</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">The file name is already in use</dt>
 <dd class="terms">
@@ -130,7 +130,7 @@
 <dd class="terms"><p class="p">If <span class="gui">Rename</span> is grayed out, you do not have permission to
         rename the file. You should use caution with renaming such files, as
         renaming some protected files may cause your system to become unstable.
-        See <span class="link"><a href="nautilus-file-properties-permissions.html.da" title="Set file permissions">Set file permissions</a></span> for more
+        See <span class="link"><a href="nautilus-file-properties-permissions.html.da" title="Indstil filtilladelser">Indstil filtilladelser</a></span> for more
         information.</p></dd>
 </dl></div></div></div></div></div>
 </div></div>

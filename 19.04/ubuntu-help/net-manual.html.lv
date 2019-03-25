@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wired.html.lv" title="Wired networking">Wired networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wired.html.lv" title="Vadu savienojums">Vadu savienojums</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a> » <a class="trail" href="net-wireless.html.lv" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -78,22 +78,15 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Lai pašrocīgi iestatītu tīkla iestatījumus:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span>
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
 <li class="steps">
-<p class="p">In the left pane, select the network connection that you want to set
-      up manually. If you plug in to the network with a cable, click
-      <span class="gui">Network</span>. Otherwise click <span class="gui">Wi-Fi</span>.</p>
+<p class="p">Izvēlieties tīkla savienojumu, ko vēlaties pašrocīgi iestatīt Piemēram, ja esat pievienojis tīkla vadu, skatieties cilnē <span class="gui">Tīkls</span>. Citādi spiediet <span class="gui">Wi-Fi</span>.</p>
 <p class="p">Pārliecinieties, ka bezvadu tīkla karte ir ieslēgta vai tīkla kabelis ir iesprausts.</p>
 </li>
 <li class="steps">
-<p class="p">Click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button.</p>
-<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p">For a <span class="gui">Wi-Fi</span> connection, the 
-        <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-        button will be located next to the active network.</p></div></div></div></div>
+<p class="p">Spiediet pogu <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="iestatījumi"></span></span>.</p>
+<div class="note" title="Piezīmes"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">Wi-Fi</span> savienojumam <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="iestatījumi"></span></span> poga būs novietota pie aktīvā tīkla.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Spiediet uz <span class="gui">IPv4</span> vai <span class="gui">IPv6</span> kreisajā rūtī un mainiet <span class="gui">Adreses</span> uz <span class="em">Pašrocīgs</span>.</p></li>
 <li class="steps"><p class="p">Ievadiet <span class="gui"><a href="net-what-is-ip-address.html.lv" title="Kas ir IP adrese?">IP adresi</a></span> un <span class="gui">Vārteju</span>, kā arī atbilstošo <span class="gui">Tīkla masku</span>.</p></li>
@@ -109,10 +102,14 @@
 <div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.lv" title="Savienoties ar bezvadu tīklu">Savienoties ar WiFi</a></span>, <span class="link"><a href="net-wireless-hidden.html.lv" title="Savienojaties ar slēptu bezvadu tīklu.">Slēptie tīkli</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.lv" title="Kādēļ mans bezvadu tīkls mani atvieno?">Atvienoties</a></span>…</span>
+<a href="net-wired.html.lv" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.lv" title="Tīkla savienojums ar vadu (tīkls Ethernet)">Vadu interneta savienojumi</a></span>, <span class="link"><a href="net-fixed-ip-address.html.lv" title="Veidot savienojumu ar fiksēto IP adresi.">Fiksētas IP adreses</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wired.html.lv" title="Vadu savienojums">Vadu savienojums</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.lv" title="Tīkla savienojums ar vadu (tīkls Ethernet)">Vadu interneta savienojumi</a></span>, <span class="link"><a href="net-fixed-ip-address.html.lv" title="Veidot savienojumu ar fiksēto IP adresi.">Fiksētas IP adreses</a></span>…</span>
+<a href="net-wireless.html.lv" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.lv" title="Savienoties ar bezvadu tīklu">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.lv" title="Savienojaties ar slēptu bezvadu tīklu.">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.lv" title="Kādēļ mans bezvadu tīkls mani atvieno?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div></div>

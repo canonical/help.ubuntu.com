@@ -79,10 +79,9 @@
 <p class="p">Ja var mainīt šī ekrāna gaišumu, tas kļūs tumšāks, lai ietaupītu elektroenerģiju. Kad atsāksiet lietot datoru, ekrāns atgūs sākotnējo spilgtumu.</p>
 <p class="p">Lai izslēgtu ekrāna aptumšošanos:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span>
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā spiediet <span class="gui">Barošana</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Pārslēdziet <span class="gui">Padarīt ekrānu tumšāku, kad nav aktīvs</span> uz <span class="gui">◯</span> sadaļā <span class="gui">Enerģijas taupīšana</span>.</p></li>
 </ol></div></div></div>
 </div>

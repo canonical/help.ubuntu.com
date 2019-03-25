@@ -70,8 +70,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Navega per fitxers i carpetes</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Utilitzeu el gestor de fitxers <span class="app">Fitxers</span> per buscar i organitzar els fitxers a l'ordinador. També podeu utilitzar-lo per gestionar els fitxers en dispositius d'emmagatzematge (com ara discos durs externs) <span class="link"><a href="nautilus-connect.html.ca" title="Navega per fitxers en un servidor o en una xarxa compartida">servidors d'arxius</a></span>, i en xarxes compartides.</p>
-<p class="p">Per iniciar el gestor de Fitxers, obriu <span class="app">Fitxers</span> a la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span>. També podeu cercar fitxers i carpetes a través de la vista general de la mateixa manera que <span class="link"><a href="shell-apps-open.html.ca" title="Iniciació d'aplicacions">cercaríeu aplicacions</a></span>.</p>
+<p class="p">Utilitzeu el gestor de fitxers <span class="app">Fitxers</span> per buscar i organitzar els fitxers a l'ordinador. També podeu utilitzar-lo per gestionar els fitxers en dispositius d'emmagatzematge (com ara discos durs externs) <span class="link"><a href="nautilus-connect.html.ca" title="Navega per fitxers en un servidor o en una xarxa compartida">servidors de fitxers</a></span>, i en xarxes compartides.</p>
+<p class="p">Per iniciar el gestor de Fitxers, obriu <span class="app">Fitxers</span> a la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span>. També podeu cercar fitxers i carpetes a través de la vista general de la mateixa manera que <span class="link"><a href="shell-apps-open.html.ca" title="Iniciació d'aplicacions">cerca aplicacions</a></span>.</p>
 </div>
 <div id="files-view-folder-contents" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Exploració del contingut de les carpetes</span></h2></div>

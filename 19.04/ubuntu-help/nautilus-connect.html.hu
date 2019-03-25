@@ -109,7 +109,7 @@
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">SSH</dt>
 <dd class="terms">
-<p class="p">Ha egy kiszolgálón rendelkezik SSH-fiókkal, akkor kapcsolódhat ezen módszer használatával. Sok webszolgáltató biztosít SSH-fiókot ügyfeleinek, így azok biztonságosan tölthetnek fel fájlokat. Az SSH-kiszolgálók mindig megkövetelik a bejelentkezést.</p>
+<p class="p">Ha egy kiszolgálón rendelkezik <span class="em">SSH-fiókkal</span>, akkor kapcsolódhat ezen módszer használatával. Sok webszolgáltató biztosít SSH-fiókot ügyfeleinek, így azok biztonságosan tölthetnek fel fájlokat. Az SSH-kiszolgálók mindig megkövetelik a bejelentkezést.</p>
 <p class="p">Egy tipikus SSH URL a következőképpen néz ki:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://felhasználó@kiszolgáló.példa.hu/mappa</span></p></div></div></div></div>
 <p class="p">SSH használatakor minden elküldött adat (beleértve a jelszavát is) titkosítva van, így hálózatának más felhasználói nem láthatják azt.</p>

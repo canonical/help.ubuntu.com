@@ -73,7 +73,7 @@
 <div id="disk-status" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">A merevlemez ellenőrzése</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A merevlemezekbe be van építve egy <span class="em">SMART</span> nevű állapot-ellenőrző eszköz. Ez folyamatosan keresi az esetleges problémákat, és képes figyelmeztetni, ha a lemez meghibásodása bekövetkezhet. Ez a fontos adatok elvesztésének megakadályozásához hasznos.</p>
+<p class="p">A merevlemezekbe be van építve egy <span class="app">SMART</span> nevű állapot-ellenőrző eszköz. Ez folyamatosan keresi az esetleges problémákat, és képes figyelmeztetni, ha a lemez meghibásodása bekövetkezhet. Ez a fontos adatok elvesztésének megakadályozásához hasznos.</p>
 <p class="p">Noha a SMART automatikusan fut, a lemez állapotát a <span class="app">Lemezek</span> alkalmazás segítségével is ellenőrizheti:</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">A lemez állapotának ellenőrzése a Lemezek alkalmazással</span></h3></div>

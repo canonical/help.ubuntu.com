@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.sv" title="Introduktion till GNOME"><span class="title">Introduktion till GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">En visuell introduktion till ditt skrivbord, systemraden, och översiktsvyn <span class="gui">Aktiviteter</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.sv" title="Visuell överblick över GNOME"><span class="title">Visuell överblick över GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">En visuell överblick över ditt skrivbord, systemraden, och översiktsvyn <span class="gui">Aktiviteter</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.sv" title="Logga ut, stäng av eller växla användare"><span class="title">Logga ut, stäng av eller växla användare</span><span class="linkdiv-dash"> — </span><span class="desc">Lär dig hur du lämnar ditt användarkonto genom att logga ut, växla användare, och så vidare.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.sv" title="Starta program"><span class="title">Starta program</span><span class="linkdiv-dash"> — </span><span class="desc">Starta program från översiktsvyn <span class="gui">Aktiviteter</span>.</span></a></div></div>

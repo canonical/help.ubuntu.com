@@ -67,9 +67,10 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu logo"></span></span> Ubuntu darbvirsmas rokasgrāmata</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.lv" title="Ar ko sākt"><span class="title">Darba sākšana ar GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Vai GNOME 3 vide jums ir nepazīstama? Uzziniet, kā tajā darboties.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.lv" title="Ar ko sākt"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Vai GNOME 3 vide jums ir nepazīstama? Uzziniet, kā tajā darboties.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.lv" title="Ievads GNOME vidē"><span class="title">Ievads GNOME vidē</span><span class="linkdiv-dash"> — </span><span class="desc">Vizuāls ievads — darbvirsma, augšējā josla un <span class="gui">Aktivitāšu</span> pārskats.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.lv" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.lv" title="Izrakstīties, izslēgt datoru vai pārslēgt lietotājus"><span class="title">Izrakstīties, izslēgt datoru vai pārslēgt lietotājus</span><span class="linkdiv-dash"> — </span><span class="desc">Iemācieties, kā pamest savu lietotāja kontu, izrakstoties, mainot lietotājus u.t.t.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.lv" title="Palaist lietotnes"><span class="title">Palaist lietotnes</span><span class="linkdiv-dash"> — </span><span class="desc">Palaidiet lietotnes no <span class="gui">Aktivitāšu</span> pārskata.</span></a></div>
 </div></div></div>
@@ -80,7 +81,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.lv" title="Tīkls, tīmeklis un e-pasts">Tīkls, tīmeklis un e-pasts</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.lv" title="Bezvadu tīkls">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html.lv" title="Vadu savienojums">vadu</a></span>, <span class="link"><a href="net-problem.html.lv" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html.lv" title="Tīmekļa pārlūkprogrammas">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.lv" title="Wireless networking">Bezvadu tīkls</a></span>, <span class="link"><a href="net-wired.html.lv" title="Wired networking">vadu</a></span>, <span class="link"><a href="net-problem.html.lv" title="Tīkla problēmas">savienojumu problēmas</a></span>, <span class="link"><a href="net-browser.html.lv" title="Web browsers">tīmekļa pārlūkošana</a></span>, <span class="link"><a href="net-email.html.lv" title="E-pasts un e-pasta programmatūra">e-pasta konti</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.lv" title="Skaņa, video un bildes">Skaņa, video un bildes</a></div>

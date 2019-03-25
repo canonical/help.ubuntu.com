@@ -69,11 +69,11 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Tanca sessió, apaga o canvia d'usuari</span></h1></div>
 <div class="region">
-<div class="contents"><p class="p">Quan hàgeu acabat d'utilitzar l'ordinador, podeu desactivar-lo, suspendre'l (per estalviar energia) o deixar-lo encès i sortir.</p></div>
+<div class="contents"><p class="p">Quan hàgeu acabat d'utilitzar l'ordinador, podeu apagar-lo, suspendre'l (per estalviar energia) o deixar-lo encès i sortir.</p></div>
 <div id="logout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tanqueu la sessió o canviar d'usuari</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Per permetre que altres usuaris utilitzin l'ordinador, podeu tancar la sessió, o deixar-la iniciada i canviar els usuaris. Si canvieu d'usuari, totes les vostres aplicacions continuaran funcionant, i tot estarà on ho deixeu quan torneu a iniciar la sessió.</p>
+<p class="p">Per permetre que altres usuaris utilitzin l'ordinador, podeu tancar la sessió, o deixar-la iniciada i canviar els usuaris. Si canvieu d'usuari, totes les aplicacions continuaran funcionant, i tot estarà on ho deixeu quan torneu a iniciar la sessió.</p>
 <p class="p">Per <span class="gui">Tancar sessió</span> o <span class="gui">Canviar d'usuari</span>, feu clic al <span class="link"><a href="shell-introduction.html.ca#yourname" title="Vostè i el seu ordinador">menú del sistema</a></span> al costat dret de la barra superior, feu clic al vostre nom i, a continuació, seleccioneu l'opció correcta.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Les entrades <span class="gui">Tancar sessió</span> i <span class="gui">Canviar d'Usuari</span> només apareixeran al menú si teniu més d'un compte d'usuari al vostre sistema.</p></div></div></div></div>
 </div></div>

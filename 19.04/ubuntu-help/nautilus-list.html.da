@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Files list columns preferences</title>
+<title>Indstillinger for kolonner i filliste</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » <a class="trail" href="nautilus-prefs.html.da" title="File manager preferences">File manager preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » <a class="trail" href="nautilus-prefs.html.da" title="Indstillinger for filhåndtering">Indstillinger for filhåndtering</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Files list columns preferences</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Indstillinger for kolonner i filliste</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">There are eleven columns of information that you can display in the
@@ -89,15 +89,15 @@
 <dt class="terms"><span class="gui">Type</span></dt>
 <dd class="terms"><p class="p">Displayed as folder, or file type such as PDF document, JPEG image,
       MP3 audio, and more.</p></dd>
-<dt class="terms"><span class="gui">Modified</span></dt>
+<dt class="terms"><span class="gui">Ændret</span></dt>
 <dd class="terms"><p class="p">Gives the date of the last time the file was modified.</p></dd>
-<dt class="terms"><span class="gui">Owner</span></dt>
+<dt class="terms"><span class="gui">Ejer</span></dt>
 <dd class="terms"><p class="p">The name of the user the folder or file is owned by.</p></dd>
 <dt class="terms"><span class="gui">Gruppe</span></dt>
 <dd class="terms"><p class="p">The group the file is owned by. Each user is normally in their own
       group, but it is possible to have many users in one group. For example, a
       department may have their own group in a work environment.</p></dd>
-<dt class="terms"><span class="gui">Permissions</span></dt>
+<dt class="terms"><span class="gui">Tilladelser</span></dt>
 <dd class="terms">
 <p class="p">Displays the file access permissions. For example,
       <span class="gui">drwxrw-r--</span></p>
@@ -129,7 +129,7 @@
 <dd class="terms"><p class="p">The path to the location of the file.</p></dd>
 <dt class="terms"><span class="gui">Modified — Time</span></dt>
 <dd class="terms"><p class="p">Gives the date and time of the last time the file was modified.</p></dd>
-<dt class="terms"><span class="gui">Accessed</span></dt>
+<dt class="terms"><span class="gui">Tilgået</span></dt>
 <dd class="terms"><p class="p">Gives the date or time of the last time the file was modified.</p></dd>
 </dl></div></div></div>
 </div>
@@ -138,7 +138,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.da" title="File manager preferences">File manager preferences</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.da" title="Indstillinger for filhåndtering">Indstillinger for filhåndtering</a><span class="desc"> — View and set preferences for the file browser.</span>
 </li></ul></div>
 </div></div></div>
 </div>

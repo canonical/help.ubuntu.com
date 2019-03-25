@@ -2,7 +2,7 @@
 <html lang=ro>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Useful keyboard shortcuts</title>
+<title>Scurtături de tastatură folositoare</title>
 <link rel="stylesheet" type="text/css" href="ro.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,25 +67,22 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.ro" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html.ro#apps" title="Applications and windows">Applications and windows</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> » <a class="trail" href="keyboard.html.ro" title="Keyboard">Keyboard</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.ro" title="Tips &amp; tricks">Tips &amp; tricks</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Useful keyboard shortcuts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Scurtături de tastatură folositoare</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">This page provides an overview of keyboard shortcuts that can help you
-use your desktop and applications more efficiently. If you cannot use a
-mouse or pointing device at all, see <span class="link"><a href="keyboard-nav.html.ro" title="Keyboard navigation">Keyboard navigation</a></span> for more
-information on navigating user interfaces with only the keyboard.</p>
+<p class="p">Această pagină oferă o vedere de ansamblu a scurtăturilor de tastatură care vă pot ajută să folosiți desktopul și aplicațiile mai eficient. Dacă nu puteți utiliza deloc un maus, consultați <span class="link"><a href="keyboard-nav.html.ro" title="Keyboard navigation">Keyboard navigation</a></span> pentru mai multe informații despre navigarea interfețelor pentru utilizator utilizând numai tastatura.</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
 <div class="inner">
-<div class="title title-table"><h2><span class="title">Getting around the desktop</span></h2></div>
+<div class="title title-table"><h2><span class="title">Navigând de-alungul desktopului</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td>
@@ -100,7 +97,10 @@ information on navigating user interfaces with only the keyboard.</p>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Pop up command window (for quickly running commands)</p></td>
+<td style="border-top-style: solid;">
+<p class="p">Pop up command window (for quickly running commands).</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
+</td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>

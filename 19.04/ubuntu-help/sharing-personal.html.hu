@@ -74,7 +74,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Személyes fájljainak megosztása</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Lehetővé teheti másoknak, hogy elérhessék a <span class="file">saját mappájában</span> lévő <span class="file">Nyilvános</span> mappát közvetlenül a hálózat egy másik számítógépéről. A <span class="app">Személyes fájlmegosztás</span> beállítóablakában engedélyezheti a mappa tartalmának elérését.</p>
+<p class="p">Lehetővé teheti másoknak, hogy elérhessék a <span class="file">saját mappájában</span> lévő <span class="file">Nyilvános</span> mappát közvetlenül a hálózat egy másik számítógépéről. A <span class="gui">Személyes fájlmegosztás</span> beállítóablakában engedélyezheti a mappa tartalmának elérését.</p>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
 <p class="p">A <span class="gui">Személyes fájlmegosztás</span> csak akkor látható, ha a <span class="app">gnome-user-share</span> csomag telepítve van.</p>
 <p class="p"><span class="link-button link"><a href="apt:gnome-user-share" title="apt:gnome-user-share">A gnome-user-share telepítése</a></span></p>

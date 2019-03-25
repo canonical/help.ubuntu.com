@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change the sound volume</title>
+<title>Skift lydstyrken</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="media.html.da#sound" title="Grundlæggende lyd">Lyd</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change the sound volume</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Skift lydstyrken</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">To change the sound volume, open the <span class="gui"><a href="shell-introduction.html.da#yourname" title="Dig og din computer">system
@@ -111,9 +111,9 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="media.html.da#sound" title="Grundlæggende lyd">Grundlæggende lyd</a><span class="desc"> — 
-     <span class="link"><a href="sound-volume.html.da" title="Change the sound volume">Volume</a></span>,
-     <span class="link"><a href="sound-usespeakers.html.da" title="Use different speakers or headphones">speakers and headphones</a></span>,
-     <span class="link"><a href="sound-usemic.html.da" title="Use a different microphone">microphones</a></span>…
+     <span class="link"><a href="sound-volume.html.da" title="Skift lydstyrken">Volume</a></span>,
+     <span class="link"><a href="sound-usespeakers.html.da" title="Brug andre højttalere eller hovedtelefoner">speakers and headphones</a></span>,
+     <span class="link"><a href="sound-usemic.html.da" title="Brug en anden mikrofon">microphones</a></span>…
    </span>
 </li></ul></div>
 </div></div></div>

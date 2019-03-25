@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Online services and applications</title>
+<title>Onlinetjenester og programmer</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,12 +67,12 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="accounts.html.da" title="Onlinekonti">Onlinekonti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Online services and applications</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Onlinetjenester og programmer</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Once you have added an online account, any application can use that
   account for any of the available services that you have not
-  <span class="link"><a href="accounts-disable-service.html.da" title="Control which online services an account can be used to access">disabled</a></span>. Different
+  <span class="link"><a href="accounts-disable-service.html.da" title="Styr hvilke onlinetjenester en konto kan tilgå">disabled</a></span>. Different
   providers provide different services. This page lists the different
   services and some of the applications that are known to use them.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
@@ -84,7 +84,7 @@
 <dd class="terms"><p class="p">The Chat service allows you to chat with your contacts on popular
       instant messaging platforms. It is used by the <span class="app">Empathy</span>
       application.</p></dd>
-<dt class="terms">Contacts</dt>
+<dt class="terms">Kontakter</dt>
 <dd class="terms"><p class="p">The Contacts service allows you to see the published details of your
       contacts on various services. It is used by applications like
       <span class="app">Contacts</span> and <span class="app">Evolution</span>.</p></dd>
@@ -94,7 +94,7 @@
       <span class="app">Documents</span> application.</p></dd>
 <dt class="terms">Filer</dt>
 <dd class="terms"><p class="p">The Files service adds a remote file location, as if you had added
-      one using the <span class="link"><a href="nautilus-connect.html.da" title="Browse files on a server or network share">Connect to Server</a></span>
+      one using the <span class="link"><a href="nautilus-connect.html.da" title="Gennemse filer på en server eller netværksdeling">Connect to Server</a></span>
       functionality in the file manager. You can access remote files using
       the file manager, as well as through file open and save dialogs in any
       application.</p></dd>
@@ -123,16 +123,16 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="accounts.html.da" title="Onlinekonti">Onlinekonti</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html.da" title="Add an account">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html.da" title="Remove an account">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html.da" title="Online services and applications">Learn about services</a></span>…
+      <span class="link"><a href="accounts-add.html.da" title="Tilføj en konto">Add an online account</a></span>,
+      <span class="link"><a href="accounts-remove.html.da" title="Fjern en konto">Remove an account</a></span>,
+      <span class="link"><a href="accounts-which-application.html.da" title="Onlinetjenester og programmer">Learn about services</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html.da" title="Control which online services an account can be used to access">Control which online services an account can be used to access</a><span class="desc"> — Some online accounts can be used to access multiple services (like
+<a href="accounts-disable-service.html.da" title="Styr hvilke onlinetjenester en konto kan tilgå">Styr hvilke onlinetjenester en konto kan tilgå</a><span class="desc"> — Some online accounts can be used to access multiple services (like
     calendar and email). You can control which of these services can be used by
     applications.</span>
 </li></ul></div>

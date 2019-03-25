@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Redes sen fíos">Redes sen fíos</a> » <a class="trail" href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="net.html.gl-GL" title="Rede, web e correo electrónico">Rede, web e correo electrónico</a> » <a class="trail" href="net-wireless.html.gl-GL" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.gl-GL" title="Resolución de problemas en redes sen fíos">Resolución de problemas en redes sen fíos</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -117,7 +117,12 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Adaptador sen fíos USB</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Os adaptadoes sen fíos que se conectan a un porto USB no seu equipo son menos comúns. Pódense conectar directamente a un porto USB, ou pódense conectar mediante un cable USB. Os adaptadores de banda larga móbil 3G son moi similares aos adaptadores sen fíos (wifi), así que se pensa que ten un adaptador sen fíos USB, comprobe que non é unha ralidade un adaptador 3G. Para comprobar se o seu adaptador sen fíos USB se recoñeceu:</p>
+<p class="p">Wireless adapters that plug into a USB port on your computer are less
+  common. They can plug directly into a USB port, or may be connected by a USB
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
+  adapters, so if you think you have a USB wireless adapter, double-check that
+  it is not actually a 3G adapter. To check if your USB wireless adapter was
+  recognized:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o terminal, escriba <span class="cmd">aplay -l</span> e prema <span class="key"><kbd>Intro</kbd></span>.</p></li>
 <li class="steps">

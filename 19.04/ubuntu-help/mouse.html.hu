@@ -2,7 +2,7 @@
 <html lang=hu>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mouse &amp; Touchpad</title>
+<title>Egér és érintőtábla</title>
 <link rel="stylesheet" type="text/css" href="hu.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,18 +71,18 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Mouse &amp; Touchpad</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Egér és érintőtábla</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.hu" title="Adjust the speed of the mouse and touchpad"><span class="title">Adjust the speed of the mouse and touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Az egérmutató mozgási sebességének módosítása.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.hu" title="Az egér és érintőtábla sebességének módosítása"><span class="title">Az egér és érintőtábla sebességének módosítása</span><span class="linkdiv-dash"> — </span><span class="desc">Az egérmutató mozgási sebességének módosítása.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.hu" title="A dupla kattintás sebességének módosítása"><span class="title">A dupla kattintás sebességének módosítása</span><span class="linkdiv-dash"> — </span><span class="desc">Az ismételt egérgomblenyomás sebességének beállítása dupla kattintáshoz.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.hu" title="Bal kezes egér használata"><span class="title">Bal kezes egér használata</span><span class="linkdiv-dash"> — </span><span class="desc">A bal és jobb egérgomb megcserélése az egérbeállításokban.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.hu" title="Click and move the mouse pointer using the keypad"><span class="title">Click and move the mouse pointer using the keypad</span><span class="linkdiv-dash"> — </span><span class="desc">Egérbillentyűk engedélyezése az egérmutató mozgatásához a numerikus billentyűzettel.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.hu" title="Jobb gombos egérkattintás szimulálása"><span class="title">Jobb gombos egérkattintás szimulálása</span><span class="linkdiv-dash"> — </span><span class="desc">Nyomja le és tartsa lenyomva a bal egérgombot a jobb gombos kattintáshoz.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.hu" title="Jobb gombos egérkattintás szimulálása"><span class="title">Jobb gombos egérkattintás szimulálása</span><span class="linkdiv-dash"> — </span><span class="desc">Nyomja le és tartsa lenyomva a bal egérgombot a jobb gombos kattintáshoz.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.hu" title="Kattintás szimulálása rámutatással"><span class="title">Kattintás szimulálása rámutatással</span><span class="linkdiv-dash"> — </span><span class="desc">A <span class="gui">Rámutatási (elidőzési) kattintás</span> segítségével az egeret egy helyben tartva kattinthat.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.hu" title="Kattintás és az egérmutató mozgatása a numerikus billentyűzettel"><span class="title">Kattintás és az egérmutató mozgatása a numerikus billentyűzettel</span><span class="linkdiv-dash"> — </span><span class="desc">Egérbillentyűk engedélyezése az egérmutató mozgatásához a numerikus billentyűzettel.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.hu" title="Kattintás, húzás vagy görgetés az érintőtáblával"><span class="title">Kattintás, húzás vagy görgetés az érintőtáblával</span><span class="linkdiv-dash"> — </span><span class="desc">Kattintás, húzás vagy görgetés koppintásokkal és gesztusokkal az érintőtáblán.</span></a></div>
 </div>
 </div></div></div></div>
@@ -106,13 +106,7 @@
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.hu" title="Mouse &amp; Touchpad">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">display</a></span>,
-      <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">user accounts</a></span>…
-    </span>
+<a href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Felhasználói- és rendszerbeállítások</a><span class="desc"> — <span class="link"><a href="keyboard.html.hu" title="Billentyűzet">Billentyűzet</a></span>, <span class="link"><a href="mouse.html.hu" title="Egér és érintőtábla">egér és érintőtábla</a></span>, <span class="link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">kijelző</a></span>, <span class="link"><a href="prefs-language.html.hu" title="Terület és nyelv">nyelvek</a></span>, <span class="link"><a href="user-accounts.html.hu" title="Felhasználói fiókok">felhasználói fiókok</a></span>…</span>
 </li>
 <li class="links ">
 <a href="hardware.html.hu" title="Hardver és illesztőprogramok">Hardver és illesztőprogramok</a><span class="desc"> — <span class="link"><a href="hardware.html.hu#problems" title="Gyakori problémák">Hardverproblémák</a></span>, <span class="link"><a href="printing.html.hu" title="Nyomtatás">nyomtatók</a></span>, <span class="link"><a href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">energiagazdálkodás</a></span>, <span class="link"><a href="color.html.hu" title="Színkezelés">színkezelés</a></span>, <span class="link"><a href="bluetooth.html.hu" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.hu" title="Lemezek és tárolók">lemezek</a></span>…</span>

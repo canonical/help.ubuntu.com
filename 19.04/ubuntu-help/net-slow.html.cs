@@ -87,7 +87,10 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Slabý signál bezdrátového připojení</span></p>
-<p class="p">Pokud jste k Internetu připojeni bezdrátově (přes Wi-Fi), podívejte se na síťovou ikonu na horní liště, jestli máte dobrý signál. V případě, že ne, může být následkem pomalé síťové připojení.</p>
+<p class="p">If you are connected to the internet by wireless (Wi-Fi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Používání pomalého mobilního připojení</span></p>
@@ -104,7 +107,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.cs" title="Problémy se sítí">Problémy se sítí</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovým připojením</a></span>, <span class="link"><a href="net-wireless-find.html.cs" title="Nevidím svoji bezdrátovou síť v seznamu">vyhledání vaší sítě Wi-Fi</a></span>…</span>
+<a href="net-problem.html.cs" title="Problémy se sítí">Problémy se sítí</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.cs" title="Nevidím svoji bezdrátovou síť v seznamu">finding your Wi-Fi network</a></span>…
+    </span>
 </li></ul></div>
 </div></div></div>
 </div>

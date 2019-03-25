@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Move a window to a different workspace</title>
+<title>Flyt et vindue til et andet arbejdsområde</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-workspaces" title="Working with workspaces">Workspaces</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-workspaces" title="Arbejd med arbejdsområder">Workspaces</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Move a window to a different workspace</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Flyt et vindue til et andet arbejdsområde</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner">
@@ -75,7 +75,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span>.</p></li>
 <li class="steps"><p class="p">Click and drag the window toward the right of the screen.</p></li>
-<li class="steps"><p class="p">The <span class="em"><a href="shell-workspaces.html.da" title="What is a workspace, and how will it help me?">workspace selector</a></span> will
+<li class="steps"><p class="p">The <span class="em"><a href="shell-workspaces.html.da" title="Hvad er et arbejdsområde og hvordan kan det hjælpe mig?">workspace selector</a></span> will
       appear.</p></li>
 <li class="steps"><p class="p">Drop the window onto an empty
       workspace. This workspace now contains the window you have dropped, and a
@@ -88,7 +88,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Select the window that you want to move (for example, using the
       <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      <span class="em"><a href="shell-windows-switching.html.da" title="Switch between windows">window switcher</a></span>).</p></li>
+      <span class="em"><a href="shell-windows-switching.html.da" title="Skift mellem vinduer">window switcher</a></span>).</p></li>
 <li class="steps">
 <p class="p">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page
       Up</kbd></span></span> to move the window to a workspace which is above the
@@ -105,12 +105,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html.da#working-with-workspaces" title="Working with workspaces">Working with workspaces</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.da#working-with-workspaces" title="Arbejd med arbejdsområder">Arbejd med arbejdsområder</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-workspaces.html.da" title="What is a workspace, and how will it help me?">What is a workspace, and how will it help me?</a><span class="desc"> — Workspaces are a way of grouping windows on your desktop.</span>
+<a href="shell-workspaces.html.da" title="Hvad er et arbejdsområde og hvordan kan det hjælpe mig?">Hvad er et arbejdsområde og hvordan kan det hjælpe mig?</a><span class="desc"> — Arbejdsområder er en måde til at gruppere vinduer på dit skrivebord.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use your mouse left-handed</title>
+<title>Brug din mus venstrehåndet</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,25 +65,23 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="mouse.html.da" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="mouse.html.da" title="Mus &amp; pegeplade">Mus &amp; pegeplade</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html.da" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html.da" title="Mus &amp; pegeplade">Mus &amp; pegeplade</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Use your mouse left-handed</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Brug din mus venstrehåndet</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can swap the behavior of the left and right buttons on your
   mouse or touchpad to make it more comfortable for left-handed use.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Mouse &amp; Touchpad</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">General</span> section, click to switch
-      <span class="gui">Primary button</span> to <span class="gui">Right</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Enheder</span> i sidebjælken.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Mus &amp; pegeplade</span> i sidebjælken for at åbne panelet.</p></li>
+<li class="steps"><p class="p">Klik for at skifte <span class="gui">Primær knap</span> til <span class="gui">Højre</span> i afsnittet <span class="gui">Generelt</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">This setting will affect both your mouse and touchpad, as well as any
     other pointing device.</p></div></div></div></div>
@@ -93,10 +91,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html.da" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a><span class="desc"> — 
-      <span class="link"><a href="mouse-lefthanded.html.da" title="Use your mouse left-handed">Left-handed</a></span>,
-      <span class="link"><a href="mouse-sensitivity.html.da" title="Adjust the speed of the mouse and touchpad">speed and sensitivity</a></span>,
-      <span class="link"><a href="mouse-touchpad-click.html.da" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+<a href="mouse.html.da" title="Mus &amp; pegeplade">Mus &amp; pegeplade</a><span class="desc"> — 
+      <span class="link"><a href="mouse-lefthanded.html.da" title="Brug din mus venstrehåndet">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.da" title="Justér hastigheden på musen og pegepladen">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.da" title="Klik, træk eller rul med pegepladen">touchpad clicking and scrolling</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

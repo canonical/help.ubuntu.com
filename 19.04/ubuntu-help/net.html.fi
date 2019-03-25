@@ -71,24 +71,20 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.fi" title="Langattomat verkkoyhteydet">Langattomat verkkoyhteydet</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.fi" title="Langattomaan verkkoon yhdistäminen">Langattomaan lähiverkkoon yhdistäminen</a></span>, <span class="link"><a href="net-wireless-hidden.html.fi" title="Yhdistä piilotettuun verkkoon">piilotetut verkot</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.fi" title="Miksi langaton yhteys katkeaa?">yhteyden katkeaminen</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.fi" title="Wireless networking">Wireless networking</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-connect.html.fi" title="Langattomaan verkkoon yhdistäminen">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.fi" title="Yhdistä piilotettuun verkkoon">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.fi" title="Miksi langaton yhteys katkeaa?">Wi-Fi disconnecting</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="sharing.html.fi" title="Jakaminen">Jakaminen</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.fi" title="Jaa työpöytäsi">Työpöydän jakaminen</a></span>, <span class="link"><a href="files-share.html.fi" title="Jaa tiedostoja sähköpostitse">jaa tiedostoja sähköpostitse</a></span>, <span class="link"><a href="sharing-media.html.fi" title="Jaa musiikkia, kuvia ja videoita">median jakaminen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.fi" title="Kiinteät verkkoyhteydet">Kiinteät verkkoyhteydet</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.fi" title="Yhdistä kiinteään (Ethernet) verkkoon">Kiinteät (langalliset) verkkoyhteydet</a></span>, <span class="link"><a href="net-fixed-ip-address.html.fi" title="Luo yhteys käyttämällä kiinteää IP-osoitetta">kiinteät IP-osoitteet</a></span>…</span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="net-chat.html.fi" title="Pikaviestit ja sosiaaliset verkostot">Pikaviestit ja sosiaaliset verkostot</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-chat-empathy.html.fi" title="Pikaviestit Ubuntussa">Keskustele <span class="app">Empathy</span>-pikaviestintä käyttäen</a></span>, <span class="link"><a href="net-chat-video.html.fi" title="Videopuhelut">soita videopuheluja</a></span>, <span class="link"><a href="net-chat-skype.html.fi" title="Miten käytän Skypeä Ubuntussa?">asenna Skype</a></span></span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.fi" title="Selaimet">Selaimet</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.fi" title="Vaihda verkkosivut oletuksena avaavaa verkkoselainta">Vaihda oletusselainta</a></span>, <span class="link"><a href="net-install-flash.html.fi" title="Flash-lisäosan asentaminen">asenna Flash</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-email.html.fi" title="Sähköposti ja sähköpostiohjelmat">Sähköposti ja sähköpostiohjelmat</a></div>
@@ -103,8 +99,19 @@
 <div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.fi" title="IP-osoitteen selvittäminen">IP-osoitteen selvittäminen</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.fi" title="Mitä WEP ja WPA tarkoittavat?">WEP- ja WPA-turvallisuus</a></span>, <span class="link"><a href="net-macaddress.html.fi" title="Mikä MAC-osoite on?">MAC-osoitteet</a></span>, <span class="link"><a href="net-proxy.html.fi" title="Määritä välityspalvelimen asetukset">välityspalvelimet</a></span>…</span></div>
 </div>
 <div class="links-grid ">
+<div class="links-grid-link"><a href="net-browser.html.fi" title="Web browsers">Web browsers</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.fi" title="Vaihda verkkosivut oletuksena avaavaa verkkoselainta">Vaihda oletusselainta</a></span>, <span class="link"><a href="net-install-flash.html.fi" title="Flash-lisäosan asentaminen">asenna Flash</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.fi" title="Wired networking">Wired networking</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.fi" title="Yhdistä kiinteään (Ethernet) verkkoon">Kiinteät (langalliset) verkkoyhteydet</a></span>, <span class="link"><a href="net-fixed-ip-address.html.fi" title="Luo yhteys käyttämällä kiinteää IP-osoitetta">kiinteät IP-osoitteet</a></span>…</span></div>
+</div>
+<div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.fi" title="Yhteysongelmat">Yhteysongelmat</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Langattoman yhteyden ongelmanratkaisu</a></span>, <span class="link"><a href="net-wireless-find.html.fi" title="En näe langatonta verkkoani listalla">langattoman verkon löytäminen</a></span>…</span></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-troubleshooting.html.fi" title="Langattoman verkon vianselvitys">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.fi" title="En näe langatonta verkkoani listalla">finding your Wi-Fi network</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="contacts.html.fi" title="Yhteystiedot">Yhteystiedot</a></div>

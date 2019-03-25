@@ -69,9 +69,10 @@
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.es" title="Primeros pasos"><span class="title">Primeros pasos con GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">¿Es nuevo en GNOME? Aprenda cómo desenvolverse.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.es" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.es" title="Cerrar la sesión, apagar o cambiar de usuario"><span class="title">Cerrar la sesión, apagar o cambiar de usuario</span><span class="linkdiv-dash"> — </span><span class="desc">Aprender cómo salir de su cuenta de usuario, cerrando la sesión, cambiando de usuario, etc.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.es" title="Iniciar aplicaciones"><span class="title">Iniciar aplicaciones</span><span class="linkdiv-dash"> — </span><span class="desc">Lanzar aplicaciones desde la vista de <span class="gui">Actividades</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.es" title="Introducción a GNOME"><span class="title">Introducción a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Una introducción visual a su escritorio, la barra superior y la vista de <span class="gui">Actividades</span>.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
@@ -80,7 +81,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.es" title="Conexiones inalámbricas">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.es" title="Conexiones cableadas">cableada</a></span>, <span class="link"><a href="net-problem.html.es" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.es" title="Navegadores">navegación web</a></span>, <span class="link"><a href="net-email.html.es" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.es" title="Wireless networking">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.es" title="Wired networking">cableada</a></span>, <span class="link"><a href="net-problem.html.es" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.es" title="Web browsers">navegación web</a></span>, <span class="link"><a href="net-email.html.es" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.es" title="Sonido, vídeo e imágenes">Sonido, vídeo e imágenes</a></div>

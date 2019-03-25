@@ -82,23 +82,15 @@
 <div class="contents">
 <p class="p">Tastatūras nāk ar simtiem dažādu izkārtojumu dažādām valodām. Pat vienai valodai bieži vien ir vairāki tastatūru izkārtojumi, piemēram Dvorak izkārtojums angļu valodai. Jūs variet padarīt savu tastatūras izkārtojumu tādu, kāds tas būtu citām valodām, neatkarīgi no tā, kādi simboli vai burti ir uzdrukāti uz taustiņiem. Tas bieži noder, ja vajag pārslēgties caur vairākām valodām.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Region &amp; Language</span> in the sidebar to open the
       panel.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">+</span> pogu sadaļā <span class="gui">Ievades avoti</span>, izvēlieties valodu, kas  ir saistīta ar izkārtojumu, tad izvēlieties izkārtojumu un spiediet <span class="gui">Pievienot</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents">
-<p class="p">If there are multiple user accounts on your system, there is a separate
-    instance of the <span class="gui">Region &amp; Language</span> panel for the login screen.
-    Click the <span class="gui">Login Screen</span> button at the top right to toggle between
-    the two instances.</p>
-<p class="p">Some rarely used keyboard layout variants are not available by default
-    when you click the <span class="gui">+</span> button. To make also those input sources
-    available you can open a terminal window by pressing
-    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>
-    and run this command:</p>
+<p class="p">Ja jūsu sistēmā ir vairāki lietotāju konti, ierakstīšanās ekrānā ir atsevišķs <span class="gui">Reģions un valoda</span> panelis. Spiediet pogu <span class="gui">Ierakstīšanās ekrāns</span> augšējā labajā pusē lai pārslēgtos starp divām instancēm.</p>
+<p class="p">Daži retāk izmantotie tastatūras izkārtojumu varianti pēc noklusējuma nav pieejami, kad spiežat pogu <span class="gui">+</span>. Lai arī šos ievades avotus padarītu pieejamus, varat atvērt termināļa logu, spiežot <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> un izpildot šo komandu:</p>
 <p class="p"><span class="cmd">gsettings set org.gnome.desktop.input-sources
     show-all-sources true</span></p>
 </div></div></div></div>

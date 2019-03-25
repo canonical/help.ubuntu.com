@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.gl-GL#universalicons" title="Acceso universal">Acceso universal</a></li>
 <li class="links "><a href="status-icons.html.gl-GL#audioicons" title="Iconas de control de volume">Iconas de control de volume</a></li>
 <li class="links "><a href="status-icons.html.gl-GL#bluetoothicons" title="Problemas de Bluetooth">Problemas de Bluetooth</a></li>
-<li class="links "><a href="status-icons.html.gl-GL#networkicons" title="Iconas do xestor de rede">Iconas do xestor de rede</a></li>
+<li class="links ">
+<a href="status-icons.html.gl-GL#networkicons" title="Iconas do xestor de rede">Iconas do xestor de rede</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
 <li class="links "><a href="status-icons.html.gl-GL#batteryicons" title="Xestionar contas de usuario">Xestionar contas de usuario</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Iconas do xestor de rede</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Conexión móbil</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,21 @@
 <td><p class="p">Intensidade do sinal moi baixa.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Vexa tamén</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.gl-GL" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.gl-GL" title="Conectar cunha rede sen fíos">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.gl-GL" title="Conectar a unha rede sen fíos oculta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.gl-GL" title="Porque a miña rede sen fíos permanece desconectada?">Wi-Fi disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Xestionar contas de usuario</span></h2></div>

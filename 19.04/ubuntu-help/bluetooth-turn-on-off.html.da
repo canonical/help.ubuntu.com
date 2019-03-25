@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Turn Bluetooth on or off</title>
+<title>Slå Bluetooth til eller fra</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="bluetooth.html.da" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Turn Bluetooth on or off</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Slå Bluetooth til eller fra</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can turn Bluetooth on to connect to other Bluetooth devices, or turn
@@ -89,7 +89,7 @@
       Not In Use</span>. The Bluetooth section of the menu will expand.</p></li>
 <li class="steps"><p class="p">Vælg <span class="gui">Sluk</span>.</p></li>
 </ol></div></div></div>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Your computer is <span class="link"><a href="bluetooth-visibility.html.da" title="What is Bluetooth visibility?">visible</a></span> as
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">Your computer is <span class="link"><a href="bluetooth-visibility.html.da" title="Hvad er Bluetooth-synlighed?">visible</a></span> as
   long as the <span class="gui">Bluetooth</span> panel is open.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -98,9 +98,9 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a><span class="desc"> — 
-      <span class="link"><a href="bluetooth-connect-device.html.da" title="Connect your computer to a Bluetooth device">Connect</a></span>,
-      <span class="link"><a href="bluetooth-send-file.html.da" title="Send files to a Bluetooth device">send files</a></span>,
-      <span class="link"><a href="bluetooth-turn-on-off.html.da" title="Turn Bluetooth on or off">turn on and off</a></span>…
+      <span class="link"><a href="bluetooth-connect-device.html.da" title="Tilslut din computer til en Bluetooth-enhed">Connect</a></span>,
+      <span class="link"><a href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed">send files</a></span>,
+      <span class="link"><a href="bluetooth-turn-on-off.html.da" title="Slå Bluetooth til eller fra">turn on and off</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

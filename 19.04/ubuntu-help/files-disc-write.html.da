@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Write files to a CD or DVD</title>
+<title>Skriv filer til en cd eller dvd</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,13 +67,13 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Write files to a CD or DVD</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Skriv filer til en cd eller dvd</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can put files onto a blank disc by using <span class="gui">CD/DVD Creator</span>.
   The option to create a CD or DVD will appear in the file manager as soon as
   you place the CD into your CD/DVD writer. The file manager lets you transfer
-  files to other computers or perform <span class="link"><a href="backup-why.html.da" title="Back up your important files">backups</a></span> by
+  files to other computers or perform <span class="link"><a href="backup-why.html.da" title="Sikkerhedskopiér dine vigtige filer">backups</a></span> by
   putting files onto a blank disc. To write files to a CD or DVD:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Place an empty disc into your CD/DVD writable drive.</p></li>
@@ -81,7 +81,7 @@
 <p class="p">In the <span class="gui">Blank CD/DVD-R Disc</span> notification that pops up at the
       bottom of the screen, select <span class="gui">Open with CD/DVD Creator</span>. The
       <span class="gui">CD/DVD Creator</span> folder window will open.</p>
-<p class="p">(du kan også klikke på <span class="gui">Tom CD/DVD-R-disk</span> under <span class="gui">Enheder</span> i filhåndteringens sidepanel).</p>
+<p class="p">(du kan også klikke på <span class="gui">Tom cd/dvd-r-disk</span> under <span class="gui">Enheder</span> i filhåndteringens sidepanel).</p>
 </li>
 <li class="steps"><p class="p">In the <span class="gui">Disc Name</span> field, type a name for the disc.</p></li>
 <li class="steps"><p class="p">Drag or copy the desired files into the window.</p></li>
@@ -101,7 +101,7 @@
 </ol></div></div></div>
 </div>
 <div id="problem" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Hvis disken ikke blev brændt ordentligt</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
   able to see the files you put onto the disc when you insert it into a

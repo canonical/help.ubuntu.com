@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="mouse.html.ro" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="mouse.html.ro" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html.ro" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> » <a class="trail" href="mouse.html.ro" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -80,18 +80,17 @@
 <div class="region"><div class="contents">
 <p class="p">You can tap your touchpad to click instead of using a button.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Mouse &amp; Touchpad</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Dispozitive</span> în bara laterală.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Maus și touchpad</span> în bara laterală pentru a deschide panoul.</p></li>
 <li class="steps">
 <p class="p">In the <span class="gui">Touchpad</span> section, make sure <span class="gui">Touchpad</span> is
       set to <span class="gui">ON</span>.</p>
 <div class="note" title="Notă"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Touchpad</span> section only appears if your system has a
         touchpad.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Set <span class="gui">Tap to click</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Stabiliți <span class="gui">Clic tactil</span> la <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">To click, tap on the touchpad.</p></li>
@@ -117,14 +116,13 @@
 <div class="region"><div class="contents">
 <p class="p">You can scroll using your touchpad using two fingers.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Mouse &amp; Touchpad</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Dispozitive</span> în bara laterală.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Maus și touchpad</span> în bara laterală pentru a deschide panoul.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, make sure <span class="gui">Touchpad</span> is
       set to <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Set <span class="gui">Two-finger Scrolling</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Stabiliți <span class="gui">Derulare cu două degete</span> la <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
 <p class="p">When this is selected, tapping and dragging with one finger will work as
   normal, but if you drag two fingers across any part of the touchpad, it will
@@ -141,14 +139,13 @@
 <p class="p">You can drag content as if sliding a physical piece of paper using the
   touchpad.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Mouse &amp; Touchpad</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Dispozitive</span> în bara laterală.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Maus și touchpad</span> în bara laterală pentru a deschide panoul.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Touchpad</span> section, make sure <span class="gui">Touchpad</span> is
       set to <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Set <span class="gui">Natural Scrolling</span> to <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Stabiliți <span class="gui">Derulare naturală</span> la <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Notă"><div class="inner"><div class="region"><div class="contents"><p class="p">This feature is also known as <span class="em">Reverse Scrolling</span>.</p></div></div></div></div>
 </div></div>

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Connect to mobile broadband</title>
+<title>Opret forbindelse til mobilt bredbånd</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,14 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.da" title="Wireless Networking">Wireless Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Connect to mobile broadband</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Opret forbindelse til mobilt bredbånd</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can set up a connection to a cellular (3G) network with your
-  computer’s built-in 3G modem, your mobile phone, or an Internet stick.</p>
+<p class="p">Du kan opsætte en forbindelse til et mobilnetværk (3G) med din computers indbyggede 3G-modem, din mobiltelefon eller en internet-pen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">If you do not have a built-in 3G modem, connect your phone or
     Internet stick to a USB port on your computer.</p></li>
@@ -111,10 +110,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.da" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.da" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.da" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.da" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+<a href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.da" title="Opret forbindelse til et trådløst netværk">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.da" title="Opret forbindelse til et skjult trådløst netværk">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.da" title="Hvorfor bliver mit trådløse netværk ved med at afbryde forbindelsen?">Wi-Fi disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

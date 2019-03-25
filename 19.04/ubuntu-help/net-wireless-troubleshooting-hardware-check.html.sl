@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.sl" title="Brezžične povezave">Brezžične povezave</a> » <a class="trail" href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.sl" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="hardware.html.sl" title="Strojna oprema in gonilniki">Strojna oprema</a> › <a class="trail" href="hardware.html.sl#problems" title="Pogoste težave">Težave</a> » <a class="trail" href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi omrežji</a> » </div>
 </div>
@@ -117,7 +117,12 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">USB brezžična kartica</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Brezžične kartice, ki jih vklopite v vrata USB, so manj pogoste. Vklopite jih lahko neposredno v vrata USB ali pa jih povežete preko kabla USB. Kartice 3G/mobilnega širokopasovnega interneta so videti precej podobno kot brezžične (wifi) kartice, zato dvakrat preverite, da nimate 3G kartice. Za preverjanje ali je bila USB brezžična kartica prepoznana:</p>
+<p class="p">Wireless adapters that plug into a USB port on your computer are less
+  common. They can plug directly into a USB port, or may be connected by a USB
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
+  adapters, so if you think you have a USB wireless adapter, double-check that
+  it is not actually a 3G adapter. To check if your USB wireless adapter was
+  recognized:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Odprite Terminal, vtipkajte <span class="cmd">lsusb</span> in pritisnite <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="steps">

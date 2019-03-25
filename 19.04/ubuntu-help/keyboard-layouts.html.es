@@ -84,8 +84,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Region &amp; Language</span> in the sidebar to open the
-      panel.</p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Región e idioma</span> en la barra lateral para abrir el panel.</p></li>
 <li class="steps"><p class="p">Pulse el botón <span class="key"><kbd>+</kbd></span> en la sección <span class="gui">Fuentes de entrada</span>, seleccione el idioma asociado a la distribución, seleccione una distribución y pulse <span class="gui">Añadir</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Sugerencia"><div class="inner"><div class="region"><div class="contents">

@@ -113,7 +113,7 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Trådlös USB-adapter</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Trådlösa adaptrar som ansluts via en USB-kontakt på din dator är mindre vanliga. De kan anslutas direkt till en USB-kontakt eller anslutas via en USB-kabel. 3G/mobilt bredbands-adaptrar ser likadana ut som trådlösa (wifi) adaptrar, så om du tror att du har en trådlös USB-adapter, dubbelkolla att det inte är en 3G-adapter. För att kontrollera om din trådlösa USB-adapter kändes igen:</p>
+<p class="p">Trådlösa adaptrar som ansluts via en USB-kontakt på din dator är mindre vanliga. De kan anslutas direkt till en USB-kontakt eller anslutas via en USB-kabel. 3G/mobilt bredbands-adaptrar ser likadana ut som trådlösa (Wi-Fi) adaptrar, så om du tror att du har en trådlös USB-adapter, dubbelkolla att det inte är en 3G-adapter. För att kontrollera om din trådlösa USB-adapter kändes igen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna en Terminal, skriv <span class="cmd">lsusb</span> och tryck <span class="key"><kbd>Retur</kbd></span>.</p></li>
 <li class="steps">

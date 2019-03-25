@@ -88,7 +88,7 @@
 <li class="steps">
 <p class="p">Spiediet <span class="gui">Pievienot</span> un ievadiet krātuves APT rindiņu. Tai vajadzētu būt pieejamai krātuves tīmekļa vietnē, un tai jāizskatās apmēram šādi:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pievienot avotu</span> un tad aizveriet logu <span class="app">Programmatūra un atjauninājumi</span>. <span class="app">Ubuntu programmatūra</span> tad programmatūras avotos pārbaudīs, vai ir pieejama jauna programmatūra.</p></li>
@@ -101,7 +101,7 @@
 <p class="p">Canonical partneru krātuve piedāvā īpašnieka programmatūru, kas neko nemaksā, bet ir slēgtā pirmkoda. Piemēram, <span class="app">Adobe Flash spraudnis</span>. Šīs krātuves programmas parādīsies <span class="app">Ubuntu programmatūras</span> meklēšanas rezultātos, bet nebūs instalējamas, kamēr krātuve nebūs aktivēta.</p>
 <p class="p">Lai aktivētu šo krātuvi, sekojiet pirmīt aprakstītajiem soļiem, lai atvērtu <span class="gui">Cita programmatūra</span> cilni lietotnē <span class="app">Programmatūra un atjauninājumi</span>. Ja redzat <span class="gui">Canonical partneru</span> krātuvi sarakstā, pārliecinieties, ka tā ir atķeksēta un aizveriet <span class="app">Programmatūra un atjauninājumu</span> logu. Ja jūs to neredzat, spiediet <span class="gui">Pievienot</span> un ievadiet:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Spiediet <span class="gui">Pievienot avotus</span> un tad aizveriet <span class="app">Programmatūra un atjauninājumi</span> logu. Uzgaidiet brīdi, līdz <span class="app">Ubuntu programmatūra</span> lejupielādēs informāciju, par krātuvi.</p>
 </div></div>

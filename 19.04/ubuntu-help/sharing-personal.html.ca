@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Compartiu els vostres arxius personals</title>
+<title>Compartiu els vostres fitxers personals</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,12 +71,12 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Compartiu els vostres arxius personals</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Compartiu els vostres fitxers personals</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Podeu permetre l'accés a la vostra carpeta <span class="file">Pública</span> de la carpeta <span class="file">Inici</span> des d'un altre ordinador o xarxa. Configureu <span class="gui">Compartir els arxius personals</span> per permetre que altres accedeixin al contingut de la vostra carpeta.</p>
+<p class="p">Podeu permetre l'accés a la vostra carpeta <span class="file">Pública</span> de la carpeta <span class="file">Inici</span> des d'un altre ordinador o xarxa. Configureu <span class="gui">Compartir els fitxers personals</span> per permetre que altres accedeixin al contingut de la vostra carpeta.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
-<p class="p">Heu de tenir instal·lat el paquet <span class="app">gnome-user-share</span> per a <span class="gui">Compartir els Arxius Personals</span> per a que sigui visible.</p>
+<p class="p">Heu de tenir instal·lat el paquet <span class="app">gnome-user-share</span> per a <span class="gui">Compartir els fitxers personals</span> per a que sigui visible.</p>
 <p class="p"><span class="link-button link"><a href="apt:gnome-user-share" title="apt:gnome-user-share">Instal·leu gnome-user-share</a></span></p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
@@ -88,7 +88,7 @@
 </li>
 <li class="steps"><p class="p">Seleccioneu <span class="gui">Compartir els Arxius Personals</span>.</p></li>
 <li class="steps">
-<p class="p">Canvieu <span class="gui">Compartir els Arxius Personals</span> a <span class="gui">ON</span>. Això vol dir que altres persones de la xarxa podran intentar connectar al vostre ordinador i accedir a arxius de la carpeta <span class="file">Pública</span>.</p>
+<p class="p">Canvieu <span class="gui">Compartir els fitxers personals</span> a <span class="gui">ON</span>. Això vol dir que altres persones de la xarxa podran intentar connectar al vostre ordinador i accedir a fitxers de la carpeta <span class="file">Pública</span>.</p>
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Es mostra una <span class="em">URI</span> amb la qual poder accedir a la vostra carpeta <span class="file">Pública</span> des d'un altre ordinador de la xarxa.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
@@ -105,7 +105,7 @@
 </div></div>
 <div id="networks" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Xarxes</span></h2></div>
-<div class="region"><div class="contents"><p class="p">La secció <span class="gui">Xarxes</span> llista les xarxes amb les que està connectat actualment. Utilitzeu l'interruptor <span class="gui">ON | OFF</span> al costat de cadascuna per triar on es poden compartir els vostres arxius personals. </p></div></div>
+<div class="region"><div class="contents"><p class="p">La secció <span class="gui">Xarxes</span> llista les xarxes amb les que està connectat actualment. Utilitzeu l'interruptor <span class="gui">ON | OFF</span> al costat de cadascuna per triar on es poden compartir els vostres fitxers personals. </p></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -113,10 +113,10 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html.ca" title="Compartició">Compartició</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir arxius per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir arxius multimèdia</a></span>…</span>
+<a href="sharing.html.ca" title="Compartició">Compartició</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir fitxers per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir fitxers multimèdia</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html.ca" title="Configuració de l'ús compartit">Configuració de l'ús compartit</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.ca" title="Compartir el control sobre Bluetooth">Compartir bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.ca" title="Compartiu els vostres arxius personals">Compartir els arxius personals</a></span>, <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir la pantalla</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir els arxius multimèdia</a></span>…</span>
+<a href="prefs-sharing.html.ca" title="Configuració de l'ús compartit">Configuració de l'ús compartit</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.ca" title="Compartir el control sobre Bluetooth">Compartir bluetooth</a></span>, <span class="link"><a href="sharing-personal.html.ca" title="Compartiu els vostres fitxers personals">Compartir els fitxers personals</a></span>, <span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir la pantalla</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir els fitxers multimèdia</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -80,7 +80,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Acceso universal</span> en la barra lateral para abrir el panel.</p></li>
 <li class="steps"><p class="p">Under <span class="gui">Pointing &amp; Clicking</span>, adjust the
       <span class="gui">Double-Click Delay</span> slider to a value you find comfortable.</p></li>
 </ol></div></div></div>

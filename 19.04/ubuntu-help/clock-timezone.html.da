@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change your timezone</title>
+<title>Skift din tidszone</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,15 +67,14 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="clock.html.da" title="Dato &amp; klokkeslæt">Dato &amp; klokkeslæt</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change your timezone</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Skift din tidszone</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Details</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Date &amp; Time</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Detaljer</span> i sidebjælken.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Dato &amp; klokkeslæt</span> i sidebjælken for at åbne panelet.</p></li>
 <li class="steps"><p class="p">If you have <span class="gui">Automatic Time Zone</span> set to <span class="gui">ON</span>, your
       time zone should update automatically if you have an internet
       connection and the <span class="link"><a href="privacy-location.html.da" title="Control location services">location services feature</a></span>
@@ -85,7 +84,7 @@
       search for your current city.</p></li>
 </ol></div></div></div>
 <p class="p">The time will be updated automatically when you select a different
-  location. You may also wish to <span class="link"><a href="clock-set.html.da" title="Change the date and time">set the clock
+  location. You may also wish to <span class="link"><a href="clock-set.html.da" title="Skift datoen og klokkeslættet">set the clock
   manually</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -94,10 +93,10 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="clock.html.da" title="Dato &amp; klokkeslæt">Dato &amp; klokkeslæt</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html.da" title="Change the date and time">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.da" title="Add a world clock">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.da" title="Change your timezone">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.da" title="Calendar appointments">calendar and appointments</a></span>…
+      <span class="link"><a href="clock-set.html.da" title="Skift datoen og klokkeslættet">Set date and time</a></span>,
+      <span class="link"><a href="clock-world.html.da" title="Tilføj et verdensur">world clocks</a></span>,
+      <span class="link"><a href="clock-timezone.html.da" title="Skift din tidszone">timezone</a></span>,
+      <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">calendar and appointments</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

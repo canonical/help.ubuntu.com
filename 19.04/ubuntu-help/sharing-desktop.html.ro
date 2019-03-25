@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.ro" title="Sharing">Sharing</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="prefs-sharing.html.ro" title="Configurări de partajare">Configurări de partajare</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-sharing.html.ro" title="Sharing Settings">Sharing Settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Rețea, web și email">Rețea, web și email</a> » <a class="trail" href="sharing.html.ro" title="Sharing">Sharing</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -84,10 +84,9 @@
 <p class="p"><span class="link-button link"><a href="apt:vino" title="apt:vino">Install Vino</a></span></p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sharing</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Partajare</span> în bara laterală pentru a deschide panoul.</p></li>
 <li class="steps">
 <p class="p">If <span class="gui">Sharing</span> is <span class="gui">OFF</span>, switch it to
       <span class="gui">ON</span>.</p>
@@ -146,13 +145,11 @@
 <div class="region"><div class="contents">
 <p class="p">To disconnect someone who is viewing your desktop:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sharing</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p"><span class="gui">Screen Sharing</span> will show as <span class="gui">Active</span>. Click on
-      it.</p></li>
-<li class="steps"><p class="p">Toggle the switch at the top to <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Partajare</span> în bara laterală pentru a deschide panoul.</p></li>
+<li class="steps"><p class="p"><span class="gui">Partajare ecran</span> va fi afișat ca <span class="gui">Activ</span>. Clic pe el.</p></li>
+<li class="steps"><p class="p">Comutați întrerupătorul de deasupra la <span class="gui">OFF</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -162,17 +159,17 @@
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html.ro" title="Sharing">Sharing</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html.ro" title="Share your desktop">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html.ro" title="Share files by email">Share files by email</a></span>,
+<a href="prefs-sharing.html.ro" title="Configurări de partajare">Configurări de partajare</a><span class="desc"> — 
+      <span class="link"><a href="sharing-bluetooth.html.ro" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
+      <span class="link"><a href="sharing-personal.html.ro" title="Share your personal files">Personal file sharing</a></span>,
+      <span class="link"><a href="sharing-desktop.html.ro" title="Share your desktop">Screen sharing</a></span>,
       <span class="link"><a href="sharing-media.html.ro" title="Share your music, photos and videos">Media sharing</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html.ro" title="Sharing Settings">Sharing Settings</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html.ro" title="Control sharing over Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.ro" title="Share your personal files">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html.ro" title="Share your desktop">Screen sharing</a></span>,
+<a href="sharing.html.ro" title="Sharing">Sharing</a><span class="desc"> — 
+      <span class="link"><a href="sharing-desktop.html.ro" title="Share your desktop">Desktop sharing</a></span>,
+      <span class="link"><a href="files-share.html.ro" title="Share files by email">Share files by email</a></span>,
       <span class="link"><a href="sharing-media.html.ro" title="Share your music, photos and videos">Media sharing</a></span>…
     </span>
 </li>

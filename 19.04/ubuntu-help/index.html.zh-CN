@@ -68,7 +68,7 @@
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu 桌面指南</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.zh-CN" title="GNOME 指导"><span class="title">GNOME 指导</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.zh-CN" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.zh-CN" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">了解如何退出您的帐号，像注销、切换用户等等。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.zh-CN" title="启动应用程序"><span class="title">启动应用程序</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
@@ -85,7 +85,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.zh-CN" title="无线网络">无线连接</a></span>、<span class="link"><a href="net-wired.html.zh-CN" title="有线网络">wired</a></span>、<span class="link"><a href="net-problem.html.zh-CN" title="网络问题">连接故障</a></span>、<span class="link"><a href="net-browser.html.zh-CN" title="Web 浏览器">网页浏览器</a></span>、<span class="link"><a href="net-email.html.zh-CN" title="邮件和邮件客户端">邮箱帐号</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.zh-CN" title="Wireless networking">无线连接</a></span>、<span class="link"><a href="net-wired.html.zh-CN" title="Wired networking">wired</a></span>、<span class="link"><a href="net-problem.html.zh-CN" title="网络问题">连接故障</a></span>、<span class="link"><a href="net-browser.html.zh-CN" title="Web browsers">网页浏览器</a></span>、<span class="link"><a href="net-email.html.zh-CN" title="邮件和邮件客户端">邮箱帐号</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.zh-CN" title="声音、视频 &amp; 图片">声音、视频 &amp; 图片</a></div>

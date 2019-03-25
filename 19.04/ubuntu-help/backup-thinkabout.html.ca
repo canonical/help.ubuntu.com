@@ -74,7 +74,7 @@
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Fitxers personals (documents, música, fotos i vídeos)</p>
-<p class="p">Normalment s'ubiquen al directori personal (<span class="cmd">/home/el_vostre_nom</span>). Poden ser dins d'algun subdirectori com Escriptori, Documents, Imatges, Música i Vídeos.</p>
+<p class="p">Normalment s'ubiquen al directori personal (<span class="file">/home/el_vostre_nom</span>). Poden ser dins d'algun subdirectori com Escriptori, Documents, Imatges, Música i Vídeos.</p>
 <p class="p">Si el vostre mitjà de còpia de seguretat té espai suficient (si es tracta d'un disc dur extern, per exemple), considereu fer una còpia de seguretat de la carpeta d'inici. Podeu trobar quant espai ocuparà usant l'<span class="app">Analitzador d'ús del disc</span>.</p>
 </li>
 <li class="list">

@@ -81,7 +81,14 @@
   codecs, it may offer to install them for you. If not, you’ll have to install
   the codecs manually — ask for help on how to do this, for example on your
   Linux distribution’s support forums.</p>
-<p class="p">Les DVD sont également <span class="em">protégés contre la copie</span> grâce à un système appelé CSS. Il vous empêche de copier les DVD, mais également de les lire sans un logiciel supplémentaire qui gère cette protection contre la copie. Ce logiciel est disponible avec certaines distributions Linux, mais ne peut pas être utilisé légalement dans tous les pays. Vous pouvez aussi acheter un décodeur de DVD commercial chez <span class="link"><a href="http://www.fluendo.com/shop/product/fluendo-dvd-player/" title="http://www.fluendo.com/shop/product/fluendo-dvd-player/">Fluendo</a></span>. Il fonctionne avec Linux et est légal dans tous les pays.</p>
+<p class="p">DVDs are also <span class="em">copy-protected</span> using a system called CSS. This
+  prevents you from copying DVDs, but it also prevents you from playing them
+  unless you have extra software to handle the copy protection. This software
+  is available from a number of Linux distributions, but cannot be legally used
+  in all countries. You can buy a commercial DVD decoder that can handle copy
+  protection from
+  <span class="link"><a href="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/" title="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/">Fluendo</a></span>.
+  It works with Linux and should be legal to use in all countries.</p>
 </div></div>
 </div></div>
 <div id="region" class="sect"><div class="inner">

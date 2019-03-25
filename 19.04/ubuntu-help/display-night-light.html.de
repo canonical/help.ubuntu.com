@@ -79,7 +79,7 @@
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Nachtmodus</span>, um die Einstellungen zu öffnen.</p></li>
 <li class="steps">
 <p class="p">Stellen Sie den Schalter für <span class="gui">Nachtlicht</span> auf <span class="gui">AN</span>. Die Bildschirmfarbe wird daraufhin anhand der Sonnenuntergangs- und Sonnenaufgangszeit Ihres Standorts angepasst. Klicken Sie auf den Knopf <span class="gui">Manuell</span>, um die Zeiten mit einem eigenen Zeitplan festzulegen.</p>
-<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Die <span class="link"><a href="shell-introduction.html.de" title="Einführung in GNOME">obere Leiste</a></span> zeigt an, wenn der <span class="gui">Nachtmodus</span> aktiv ist. Er kann vorübergehend im Systemmenü deaktiviert werden.</p></div></div></div></div>
+<div class="note" title="Anmerkung"><div class="inner"><div class="region"><div class="contents"><p class="p">Die <span class="link"><a href="shell-introduction.html.de" title="Visual overview of GNOME">obere Leiste</a></span> zeigt an, wenn der <span class="gui">Nachtmodus</span> aktiv ist. Er kann vorübergehend im Systemmenü deaktiviert werden.</p></div></div></div></div>
 </li>
 </ol></div></div></div>
 </div>

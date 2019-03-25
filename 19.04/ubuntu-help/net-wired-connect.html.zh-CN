@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.zh-CN" title="有线网络">有线网络</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.zh-CN" title="Wired networking">Wired networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">连接到有线网络(以太网)</span></h1></div>
@@ -87,7 +87,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html.zh-CN" title="有线网络">有线网络</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.zh-CN" title="连接到有线网络(以太网)">有线连接</a></span>、<span class="link"><a href="net-fixed-ip-address.html.zh-CN" title="创建一个固定 IP 地址的连接">固定 IP 地址</a></span>…</span>
+<a href="net-wired.html.zh-CN" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.zh-CN" title="连接到有线网络(以太网)">有线连接</a></span>、<span class="link"><a href="net-fixed-ip-address.html.zh-CN" title="创建一个固定 IP 地址的连接">固定 IP 地址</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

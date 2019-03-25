@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.fi#universalicons" title="Esteettömyysvalikon kuvakkeet">Esteettömyysvalikon kuvakkeet</a></li>
 <li class="links "><a href="status-icons.html.fi#audioicons" title="Äänenvoimakkuuden kuvakkeet">Äänenvoimakkuuden kuvakkeet</a></li>
 <li class="links "><a href="status-icons.html.fi#bluetoothicons" title="Bluetooth-hallinnan kuvakkeet">Bluetooth-hallinnan kuvakkeet</a></li>
-<li class="links "><a href="status-icons.html.fi#networkicons" title="Verkonhallinnan kuvakkeet">Verkonhallinnan kuvakkeet</a></li>
+<li class="links ">
+<a href="status-icons.html.fi#networkicons" title="Verkonhallinnan kuvakkeet">Verkonhallinnan kuvakkeet</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
 <li class="links "><a href="status-icons.html.fi#batteryicons" title="Virranhallinnan kuvakkeet">Virranhallinnan kuvakkeet</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Verkonhallinnan kuvakkeet</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Mobiiliyhteys</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,21 @@
 <td><p class="p">Erittäin matala signaalin voimakkuus.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Lue myös</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.fi" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.fi" title="Langattomaan verkkoon yhdistäminen">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.fi" title="Yhdistä piilotettuun verkkoon">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.fi" title="Miksi langaton yhteys katkeaa?">Wi-Fi disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Virranhallinnan kuvakkeet</span></h2></div>

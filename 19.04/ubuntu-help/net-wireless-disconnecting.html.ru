@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Справка"></span></span> Руководство пользователя настольного выпуска Ubuntu</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные сети</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Справка"></span></span> Руководство пользователя настольного выпуска Ubuntu</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.ru" title="Wireless networking">Wireless networking</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ru" title="Руководство пользователя Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Справка"></span></span> Руководство пользователя настольного выпуска Ubuntu</a> » <a class="trail" href="net.html.ru" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.ru" title="Проблемы с сетью">Проблемы с сетью</a> » </div>
 </div>
@@ -108,14 +108,17 @@
 <div class="title"><h2><span class="title">Дополнительная информация</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless.html.ru" title="Беспроводные сети">Беспроводные сети</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.ru" title="Подключение к беспроводной сети">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.ru" title="Подключение к скрытой беспроводной сети">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.ru" title="Почему беспроводное соединение постоянно прерывается?">Disconnecting</a></span>…
+<a href="net-wireless.html.ru" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ru" title="Подключение к беспроводной сети">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ru" title="Подключение к скрытой беспроводной сети">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ru" title="Почему беспроводное соединение постоянно прерывается?">Wi-Fi disconnecting</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-problem.html.ru" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Проблемы с беспроводными соединениями</a></span>, <span class="link"><a href="net-wireless-find.html.ru" title="I can’t see my wireless network in the list">поиск сети wifi</a></span>…</span>
+<a href="net-problem.html.ru" title="Проблемы с сетью">Проблемы с сетью</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.ru" title="Устранение неполадок с беспроводной сетью">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.ru" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div>

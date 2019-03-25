@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Kliknite <span class="gui">Dodaj...</span> i upišite APT redak za repozitroij. To bi trebalo biti dostupno na web stranici repozitorija, i trebalo bi izgledati poput:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Kliknite na <span class="gui">Dodaj izvor</span> zatim zatvorite <span class="app">Softver i nadopune</span> prozor. <span class="app">Ubuntu Softver</span> će zatim provjeriti vaše repozitorije softvera za nove nadopune.</p></li>
@@ -104,7 +104,7 @@
       <span class="gui">Add</span> and enter:
     </p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Kliknite <span class="gui">Dodaj izvor</span> zatim zatvorite <span class="app">Softver i nadopune</span> prozor. Pričekajte trenutak kako bi <span class="app">Ubuntu Softver</span> preuzeo informacije repozitorija.</p>
 </div></div>

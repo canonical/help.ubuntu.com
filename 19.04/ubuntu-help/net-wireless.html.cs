@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Bezdrátové sítě</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Bezdrátové sítě</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -93,14 +93,20 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html.cs" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html.cs" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html.cs" title="Webové prohlížeče">prohlížení www</a></span>, <span class="link"><a href="net-email.html.cs" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
+<a href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.cs" title="Wireless networking">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html.cs" title="Wired networking">drátové</a></span>, <span class="link"><a href="net-problem.html.cs" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html.cs" title="Web browsers">prohlížení www</a></span>, <span class="link"><a href="net-email.html.cs" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.cs" title="Problémy se sítí">Problémy se sítí</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovým připojením</a></span>, <span class="link"><a href="net-wireless-find.html.cs" title="Nevidím svoji bezdrátovou síť v seznamu">vyhledání vaší sítě Wi-Fi</a></span>…</span>
+<a href="status-icons.html.cs#networkicons" title="Ikony správy sítě">Ikony správy sítě</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
+<li class="links ">
+<a href="net-problem.html.cs" title="Problémy se sítí">Problémy se sítí</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.cs" title="Nevidím svoji bezdrátovou síť v seznamu">finding your Wi-Fi network</a></span>…
+    </span>
 </li>
 <li class="links ">
 <a href="net-general.html.cs" title="Terminologie sítí a rady">Terminologie sítí a rady</a><span class="desc"> — <span class="link"><a href="net-findip.html.cs" title="Zjištění vaší IP adresy">Zjištění vaší adresy IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.cs" title="Co znamená WEP a WPA?">zabezpečení WEP a WPA</a></span>, <span class="link"><a href="net-macaddress.html.cs" title="Co je to MAC adresa?">adresa MAC</a></span>, <span class="link"><a href="net-proxy.html.cs" title="Nastavení proxy">proxy</a></span>…</span>

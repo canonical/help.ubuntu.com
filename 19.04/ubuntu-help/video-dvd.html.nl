@@ -74,7 +74,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">De juiste codecs voor het afspelen van een dvd installeren</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Om dvd's af te spelen dient u de juiste <span class="em">codecs</span> geïnstalleerd te hebben. Een codec is software waarmee toepassingen een bepaald video- of audioformaat kunnen lezen. Als uw mediaspeler niet de juiste codecs vindt, zal deze u mogelijk aanbieden de codecs voor u te installeren. Zo niet, dan zult u de codecs handmatig moeten installeren — vraag hulp over hoe u dit doet, bijvoorbeeld bij een ondersteunend forum van uw Linux-distributie.</p>
-<p class="p">Dvd's zijn ook <span class="em">beveiligd tegen kopiëren</span> via een systeem dat CSS heet. Dit voorkomt dat u dvd's kopieert, maar het voorkomt ook dat u ze afspeelt, tenzij u over extra software beschikt om met de kopieerbeveiliging om te gaan. Deze software is te vinden bij diverse Linux-distributies, maar mag niet in alle landen legaal gebruikt worden. U kunt een commerciële dvd-decoder kopen die om kan gaan met kopieerbeveiliging bij <span class="link"><a href="http://fluendo.com/shop/product/oneplay-dvd-player/" title="http://fluendo.com/shop/product/oneplay-dvd-player/">Fluendo</a></span>. Deze werkt met Linux en moet legaal te gebruiken zijn in alle landen.</p>
+<p class="p">DVDs are also <span class="em">copy-protected</span> using a system called CSS. This
+  prevents you from copying DVDs, but it also prevents you from playing them
+  unless you have extra software to handle the copy protection. This software
+  is available from a number of Linux distributions, but cannot be legally used
+  in all countries. You can buy a commercial DVD decoder that can handle copy
+  protection from
+  <span class="link"><a href="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/" title="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/">Fluendo</a></span>.
+  It works with Linux and should be legal to use in all countries.</p>
 </div></div>
 </div></div>
 <div id="region" class="sect"><div class="inner">

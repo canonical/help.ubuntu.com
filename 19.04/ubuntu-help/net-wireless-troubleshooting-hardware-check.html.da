@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wireless connection troubleshooter</title>
+<title>Fejlsøgning af trådløs forbindelse</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,17 +65,17 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.da" title="Wireless Networking">Wireless Networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøgning af trådløst netværk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Common problems">Problemer</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøgning af trådløst netværk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.da" title="Wireless network troubleshooter">Forrige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.da" title="Wireless network troubleshooter">Næste</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.da" title="Fejlsøgning af trådløst netværk">Forrige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.da" title="Fejlsøgning af trådløst netværk">Næste</a>
 </div>
 <div class="hgroup">
-<h1 class="title"><span class="title">Wireless connection troubleshooter</span></h1>
+<h1 class="title"><span class="title">Fejlsøgning af trådløs forbindelse</span></h1>
 <h2 class="subtitle"><span class="subtitle">Check that the wireless adapter was recognized</span></h2>
 </div>
 <div class="region">
@@ -98,7 +98,7 @@
 </li>
 <li class="steps">
 <p class="p">If a wireless device is listed, continue on to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.da" title="Wireless network troubleshooter">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.da" title="Fejlsøgning af trådløst netværk">Device Drivers
       step</a></span>.</p>
 <p class="p">If a wireless device is <span class="em">not</span> listed, the next steps you take
       will depend on the type of device that you use. Refer to the section
@@ -127,7 +127,7 @@
 <div class="code"><pre class="contents ">Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.da" title="Wireless network troubleshooter">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.da" title="Fejlsøgning af trådløst netværk">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions below</a></span>.</p></li>
@@ -139,7 +139,7 @@
 <div class="region"><div class="contents">
 <p class="p">Wireless adapters that plug into a USB port on your computer are less
   common. They can plug directly into a USB port, or may be connected by a USB
-  cable. 3G/mobile broadband adapters look quite similar to wireless (wifi)
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
   adapters, so if you think you have a USB wireless adapter, double-check that
   it is not actually a 3G adapter. To check if your USB wireless adapter was
   recognized:</p>
@@ -154,7 +154,7 @@
 <div class="code"><pre class="contents ">Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</pre></div>
 </li>
 <li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.da" title="Wireless network troubleshooter">Device Drivers
+      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.da" title="Fejlsøgning af trådløst netværk">Device Drivers
       step</a></span>. If you didn’t find anything related to your wireless
       adapter, see
       <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions below</a></span>.</p></li>
@@ -186,7 +186,7 @@
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. After you have done that,
       you can close the Terminal if you like.</p></li>
 <li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.da" title="Wireless network troubleshooter">Device
+      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.da" title="Fejlsøgning af trådløst netværk">Device
       Drivers step</a></span>. If you didn’t find anything related to your wireless
       adapter, see <span class="link"><a href="#not-recognized" title="Wireless adapter was not recognized">the instructions
       below</a></span>.</p></li>
@@ -206,14 +206,14 @@
 </div></div>
 </div></div>
 <div class="links nextlinks">
-<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.da" title="Wireless network troubleshooter">Forrige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.da" title="Wireless network troubleshooter">Næste</a>
+<a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-info.html.da" title="Fejlsøgning af trådløst netværk">Forrige</a><a class="nextlinks-next" href="net-wireless-troubleshooting-device-drivers.html.da" title="Fejlsøgning af trådløst netværk">Næste</a>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøgning af trådløst netværk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

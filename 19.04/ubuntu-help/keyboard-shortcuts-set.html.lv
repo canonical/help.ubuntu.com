@@ -76,15 +76,13 @@
 <div class="contents">
 <p class="p">Lai izmainītu taustiņu vai taustiņus, kas veido tastatūras saīsni:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā nospiediet <span class="gui">Ierīces</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
       window will be shown.</p></li>
-<li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to
-      reset, or press <span class="key"><kbd>Esc</kbd></span> to cancel.</p></li>
+<li class="steps"><p class="p">Turiet nospiestu vēlamo taustiņu kombināciju vai spiediet <span class="key"><kbd>Backspace</kbd></span>, lai atiestatītu, vai spiediet <span class="key"><kbd>Esc</kbd></span>, lai atceltu.</p></li>
 </ol></div></div></div>
 </div>
 <div id="defined" class="sect"><div class="inner">
@@ -514,21 +512,14 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Click the <span class="gui">+</span> button. The <span class="gui">Add Custom
       Shortcut</span> window will appear.</p></li>
-<li class="steps"><p class="p">Type a <span class="gui">Name</span> to identify the shortcut, and a
-      <span class="gui">Command</span> to run an application.
-      For example, if you wanted the shortcut to open <span class="app">Rhythmbox</span>, you
-      could name it <span class="input">Music</span> and use the <span class="input">rhythmbox</span>
-      command.</p></li>
+<li class="steps"><p class="p">Rakstiet <span class="gui">Nosaukums</span> laukā, lai identificētu saīsni, un <span class="gui">Komanda</span> laukā, lai palaistu lietotni. Piemēram, ja jūs vēlaties izveidot saīsni, lai palaistu <span class="app">Rhythmbox</span>, jūs varētu to nosaukt <span class="input">Mūzika</span> un izmantot <span class="input">rhythmbox</span> komandu.</p></li>
 <li class="steps"><p class="p">Click the row that was just added. When the
       <span class="gui">Set Custom Shortcut</span> window opens, hold down the desired
       shortcut key combination.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pievienot</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Komandas nosaukumam ko jūs ievadīsiet vajadzētu būt derīgai sistēmas komandai. Jūs varat to pārbaudīt atverot Termināli un ievadot šo komandu tur. Komanda, kas atver lietotni nevar būt ar tādu pašu nosaukumu kā pati lietotne.</p>
-<p class="p">If you want to change the command that is associated with a custom
-  keyboard shortcut, click the <span class="em">name</span> of the shortcut. The
-  <span class="gui">Set Custom Shortcut</span> window will appear, and you can edit the
-  command.</p>
+<p class="p">Ja jūs vēlaties izmainīt komandu, kas saistīta ar pielāgoto tastatūras saīsni, spiediet uz saīsnes <span class="em">nosaukuma</span>. Parādīsies <span class="gui">Iestatīt pielāgotu saīsni</span> dialoglodziņš, un jūs varēsiet mainīt komandu.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

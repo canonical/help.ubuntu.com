@@ -68,9 +68,9 @@
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Logotip Ubuntu"></span></span> Vodič po namizju Ubuntu</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.sl" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kako se odjavite, preklapljate med uporabniki in še več.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.sl" title="Uvod v GNOME"><span class="title">Uvod v  GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.sl" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.sl" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kako se odjavite, preklapljate med uporabniki in še več.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.sl" title="Zaganjanje programov"><span class="title">Zaganjanje programov</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
@@ -85,7 +85,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.sl" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.sl" title="Wireless networking">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Wired networking">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Web browsers">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.sl" title="Zvok, video in slike">Zvok, video in slike</a></div>

@@ -82,7 +82,7 @@
 <li class="steps"><p class="p">Dra i diagrammet <span class="gui">Skärmuppställning</span> dina skärmar till de relativa positioner som du vill ha.</p></li>
 <li class="steps">
 <p class="p">Klicka på <span class="gui">Primär skärm</span> för att välja din primära skärm.</p>
-<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Den primära skärmen är den med <span class="link"><a href="shell-introduction.html.sv" title="Introduktion till GNOME">systemraden</a></span>, och där översiktsvyn <span class="gui">Aktiviteter</span> visas.</p></div></div></div></div>
+<div class="note" title="Anteckning"><div class="inner"><div class="region"><div class="contents"><p class="p">Den primära skärmen är den med <span class="link"><a href="shell-introduction.html.sv" title="Visuell överblick över GNOME">systemraden</a></span>, och där översiktsvyn <span class="gui">Aktiviteter</span> visas.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Välj upplösning eller skala, och välj orienteringen.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Verkställ</span>. De nya inställningarna kommer att användas i 20 sekunder innan de återgår. På detta sätt kommer dina gamla inställningar att återställas om du inte ser något med de nya inställningarna. Om du är nöjd med de nya inställningarna klicka på <span class="gui">Behåll ändringar</span>.</p></li>

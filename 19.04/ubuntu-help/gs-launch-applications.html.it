@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks"><a class="nextlinks-next" href="gs-switch-tasks.html.it" title="Cambiare attività">Avanti</a></div>
@@ -78,9 +78,7 @@
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="5" data-ttml-end="7.5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="5" data-ttml-end="7.5">Spostare il puntatore del mouse nell'angolo <span class="gui">Attività</span>, in alto a sinistra dello schermo.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="7.5" data-ttml-end="9.5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="7.5" data-ttml-end="9.5">Fare clic sull'icona <span class="gui">Mostra applicazioni</span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="9.5" data-ttml-end="11"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9.5" data-ttml-end="11">Fare clic sull'applicazione che si vuole eseguire, per esempio Aiuto.</div></div>
-<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="21"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="21">Alternatively, use the keyboard to open the <span class="gui">Activities
-            Overview</span> by pressing the
-            <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="21"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="21">In alternativa, usare la tastiera per aprire la <span class="gui">Panoramica attività</span> premendo il tasto <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="22" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="22" data-ttml-end="29">Iniziare a digitare il nome dell'applicazione che si vuole lanciare.</div></div>
 <div class="media-ttml-node media-ttml-div" data-ttml-begin="30" data-ttml-end="33"><div class="media-ttml-node media-ttml-p" data-ttml-begin="30" data-ttml-end="33">Premere <span class="key"><kbd>Invio</kbd></span> per lanciare l'applicazione.</div></div>
 </div>
@@ -98,8 +96,7 @@
 <div id="launch-app-keyboard" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Lanciare applicazioni con la tastiera</span></h2></div>
 <div class="region"><div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui">Activities Overview</span> by pressing the
-    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key.</p></li>
+<li class="steps"><p class="p">Aprire la <span class="gui">Panoramica attività</span> premendo il tasto <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>.</p></li>
 <li class="steps"><p class="p">Iniziare a digitare il nome dell'applicazione che si vuole lanciare. La ricerca viene eseguita istantaneamente.</p></li>
 <li class="steps"><p class="p">Una volta che l'icona dell'applicazione è mostrata e selezionata, premere <span class="key"><kbd>Invio</kbd></span> per lanciare l'applicazione.</p></li>
 </ol></div></div></div></div></div>
@@ -111,7 +108,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
+<a href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a><span class="desc"> — Appena arrivati in GNOME? Imparate a muovere i primi passi.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

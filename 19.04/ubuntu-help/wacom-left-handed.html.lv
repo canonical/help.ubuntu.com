@@ -72,13 +72,12 @@
 <div class="contents">
 <p class="p">Dažām planšetēm sānos ir aparatūras pogas. Planšeti var pagriezt par 180°, lai šīs pogas būtu pieejamas kreiļiem. Lai pārslēgtu virzienu kreiļiem:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> overview and
-    start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Wacom Tablet</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā nospiediet <span class="gui">Ierīces</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā spiediet <span class="gui">Wacom planšete</span>, lai atvērtu paneli.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Tablet</span> button in the header bar.</p>
+<p class="p">Spiediet pogu <span class="gui">planšete</span> virsraksta joslā.</p>
 <div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja nav atklātu planšetu, jums prasīs <span class="gui">Lūdzu, pievienojiet un ieslēdziet savu Wacom planšeti</span>, spiediet uz saites <span class="gui">Bluetooth iestatījumi</span>, lai savienotos ar bezvadu planšeti.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Pārslēdziet <span class="gui">Orientācija kreiļiem</span> uz <span class="gui">|</span>.</p></li>

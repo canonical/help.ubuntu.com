@@ -78,9 +78,8 @@
 <div class="contents">
 <p class="p">Pēc noklusējuma, kad tu turi taustiņu piespiestu, simbols tiks atkārtots tik ilgi, kamēr tu šo taustiņu atlaidīsi. Ja tev ir grūtības noņemt pirkstu no taustiņa pietiekami ātri, tu vari atslēgt šo iespēju vai pamainīt laiku, cik ilgam jāpaiet, kamēr taustiņi sāk atkārtoties, vai cik ātri taustiņu piespiešana atkārtojas.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Atkārtot taustiņus</span> sadaļā <span class="gui">Rakstīšana</span>.</p></li>
 <li class="steps">

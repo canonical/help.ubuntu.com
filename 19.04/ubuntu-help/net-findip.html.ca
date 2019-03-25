@@ -77,7 +77,7 @@
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Xarxa</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Xarxa</span> per obrir el panell.</p></li>
 <li class="steps">
-<p class="p">Trieu la connexió, <span class="gui">Wi-Fi</span> o <span class="gui">Cable</span>, des del panell esquerre.</p>
+<p class="p">Trieu la connexió, <span class="gui">Wi-Fi</span> o <span class="gui">Amb fil</span>, des del panell esquerre.</p>
 <p class="p">L'adreça IP d'una connexió per cable es mostrarà a la dreta.</p>
 <p class="p">Feu clic al botó <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuració"></span></span> per veure l'adreça IP de la xarxa sense fil al panell <span class="gui">Detalls</span>.</p>
 </li>

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I import color profiles?</title>
+<title>Hvordan importerer jeg farveprofiler?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Color management">Color management</a> › <a class="trail" href="color.html.da#profiles" title="Color profiles">Color profiles</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#profiles" title="Farveprofiler">Farveprofiler</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="color.html.da" title="Color management">Color management</a> › <a class="trail" href="color.html.da#profiles" title="Color profiles">Color profiles</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#profiles" title="Farveprofiler">Farveprofiler</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do I import color profiles?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvordan importerer jeg farveprofiler?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can import a color profile by double clicking on a <span class="file">.ICC</span>
@@ -79,11 +79,10 @@
 <p class="p">Alternatively you can manage your color profiles through the
   <span class="gui">Color</span> panel.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Enheder</span> i sidebjælken.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Farve</span> i sidebjælken for at åbne panelet.</p></li>
 <li class="steps"><p class="p">Select your device.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import
       a new profile.</p></li>
@@ -92,7 +91,7 @@
 <p class="p">The manufacturer of your display may supply a profile that you can use.
   These profiles are usually made for the average display, so may not be perfect
   for your specific one. For the best calibration, you should
-  <span class="link"><a href="color-calibrate-screen.html.da" title="How do I calibrate my screen?">create your own profile</a></span> using a
+  <span class="link"><a href="color-calibrate-screen.html.da" title="Hvordan kalibrerer jeg min skærm?">create your own profile</a></span> using a
   colorimeter or a spectrophotometer.</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -100,16 +99,16 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="color.html.da#profiles" title="Color profiles">Color profiles</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="color.html.da#profiles" title="Farveprofiler">Farveprofiler</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-assignprofiles.html.da" title="How do I assign profiles to devices?">How do I assign profiles to devices?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
+<a href="color-whatisprofile.html.da" title="Hvad er en farveprofil?">Hvad er en farveprofil?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
 </li>
 <li class="links ">
-<a href="color-whatisprofile.html.da" title="What is a color profile?">What is a color profile?</a><span class="desc"> — A color profile is a simple file that expresses a color space or device response.</span>
+<a href="color-assignprofiles.html.da" title="Hvordan tildeler jeg profiler til enheder?">Hvordan tildeler jeg profiler til enheder?</a><span class="desc"> — Look in <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Color</span></span> to add a color profile for your screen.</span>
 </li>
 </ul></div>
 </div></div>

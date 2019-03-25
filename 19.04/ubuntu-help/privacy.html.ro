@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Privacy Settings</span></h1></div>
@@ -89,13 +89,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.ro" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.ro" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.ro" title="Mouse &amp; Touchpad">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.ro" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.ro" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.ro" title="User accounts">user accounts</a></span>…
-    </span>
+<a href="prefs.html.ro" title="Utilizatori și configurări de sistem">Utilizatori și configurări de sistem</a><span class="desc"> — <span class="link"><a href="keyboard.html.ro" title="Keyboard">Tastatură</a></span>, <span class="link"><a href="mouse.html.ro" title="Mouse &amp; Touchpad">maus și touchpad</a></span>, <span class="link"><a href="prefs-display.html.ro" title="Display &amp; screen">ecran</a></span>, <span class="link"><a href="prefs-language.html.ro" title="Region &amp; Language">limbi</a></span>, <span class="link"><a href="user-accounts.html.ro" title="User accounts">conturi utilizator</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

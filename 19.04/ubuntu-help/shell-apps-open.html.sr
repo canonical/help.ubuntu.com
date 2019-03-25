@@ -89,6 +89,7 @@
 <div class="region"><div class="contents">
 <p class="p">Програм можете покренути на још један од начина, тако што ћете притиснути тастере <span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф2</kbd></span></span>, уписати његов <span class="em">назив наредбе</span>, и на крају притиснути тастер <span class="key"><kbd>Унеси</kbd></span>.</p>
 <p class="p">На пример, да покренете <span class="app">Ритам машину</span>, притисните <span class="keyseq"><span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>Ф2</kbd></span></span> и упишите „<span class="cmd">rhythmbox</span>“ (без наводника). Назив програма је наредба за покретање програма.</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
 </div></div>
 </div></div>
 </div>

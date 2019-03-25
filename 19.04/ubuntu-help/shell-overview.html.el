@@ -71,7 +71,8 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.el" title="Εισαγωγή στο GNOME"><span class="title">Εισαγωγή στο GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Μια οπτική εισαγωγή στην επιφάνεια εργασίας σας, η πάνω γραμμή και η επισκόπηση <span class="gui">Δραστηριότητες</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.el" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.el" title="Αποσύνδεση, τερματισμός ή αλλαγή χρηστών"><span class="title">Αποσύνδεση, τερματισμός ή αλλαγή χρηστών</span><span class="linkdiv-dash"> — </span><span class="desc">Μάθετε πώς να αφήσετε τον λογαριασμό χρήστη, αποσυνδέοντας, αλλάζοντας χρήστες κ.ο.κ.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.el" title="Εκκίνηση εφαρμογών"><span class="title">Εκκίνηση εφαρμογών</span><span class="linkdiv-dash"> — </span><span class="desc">Ξεκινήστε εφαρμογές από την επισκόπηση <span class="gui">Δραστηριότητες</span>.</span></a></div></div>

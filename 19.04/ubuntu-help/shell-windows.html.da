@@ -79,30 +79,30 @@
   features.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Working with windows</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Arbejd med vinduer</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.da" title="Find a lost window"><span class="title">Find a lost window</span><span class="linkdiv-dash"> — </span><span class="desc">Check the <span class="gui">Activities</span> overview or other workspaces.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.da" title="Fliselæg vinduer"><span class="title">Fliselæg vinduer</span><span class="linkdiv-dash"> — </span><span class="desc">Maximize two windows side-by-side.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.da" title="Maximize and unmaximize a window"><span class="title">Maximize and unmaximize a window</span><span class="linkdiv-dash"> — </span><span class="desc">Double-click or drag a titlebar to maximize or restore a
-    window.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.da" title="Find et mistet vindue"><span class="title">Find et mistet vindue</span><span class="linkdiv-dash"> — </span><span class="desc">Check the <span class="gui">Activities</span> overview or other workspaces.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.da" title="Fliselæg vinduer"><span class="title">Fliselæg vinduer</span><span class="linkdiv-dash"> — </span><span class="desc">Maksimer to vinduer side om side.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.da" title="Flyt og tilpas størrelsen på vinduer"><span class="title">Flyt og tilpas størrelsen på vinduer</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange windows in a workspace to help you work more
+    efficiently.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.da" title="Move and resize windows"><span class="title">Move and resize windows</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange windows in a workspace to help you work more
-    efficiently.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.da" title="Switch between windows"><span class="title">Switch between windows</span><span class="linkdiv-dash"> — </span><span class="desc">Tryk på <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.da" title="Maksimer og afmaksimer et vindue"><span class="title">Maksimer og afmaksimer et vindue</span><span class="linkdiv-dash"> — </span><span class="desc">Double-click or drag a titlebar to maximize or restore a
+    window.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.da" title="Skift mellem vinduer"><span class="title">Skift mellem vinduer</span><span class="linkdiv-dash"> — </span><span class="desc">Tryk på <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
 <div id="working-with-workspaces" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Working with workspaces</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Arbejd med arbejdsområder</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.da" title="What is a workspace, and how will it help me?"><span class="title">What is a workspace, and how will it help me?</span><span class="linkdiv-dash"> — </span><span class="desc">Workspaces are a way of grouping windows on your desktop.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.da" title="Move a window to a different workspace"><span class="title">Move a window to a different workspace</span><span class="linkdiv-dash"> — </span><span class="desc">Go to the <span class="gui">Activities</span> overview and drag the window to a
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.da" title="Hvad er et arbejdsområde og hvordan kan det hjælpe mig?"><span class="title">Hvad er et arbejdsområde og hvordan kan det hjælpe mig?</span><span class="linkdiv-dash"> — </span><span class="desc">Arbejdsområder er en måde til at gruppere vinduer på dit skrivebord.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.da" title="Flyt et vindue til et andet arbejdsområde"><span class="title">Flyt et vindue til et andet arbejdsområde</span><span class="linkdiv-dash"> — </span><span class="desc">Go to the <span class="gui">Activities</span> overview and drag the window to a
     different workspace.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.da" title="Switch between workspaces"><span class="title">Switch between workspaces</span><span class="linkdiv-dash"> — </span><span class="desc">Use the workspace selector.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.da" title="Skift mellem arbejdsområder"><span class="title">Skift mellem arbejdsområder</span><span class="linkdiv-dash"> — </span><span class="desc">Brug arbejdsområdevælgeren.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

@@ -2,7 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Brezžične povezave</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Brezžične povezave</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -97,17 +97,23 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sl" title="Brezžične povezave">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Žične povezave">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Spletni brskalniki">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
+<a href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.sl" title="Wireless networking">Brezžično</a></span>, <span class="link"><a href="net-wired.html.sl" title="Wired networking">žično</a></span>, <span class="link"><a href="net-problem.html.sl" title="Težave z omrežjem">težave s povezavo</a></span>, <span class="link"><a href="net-browser.html.sl" title="Web browsers">spletno brskanje</a></span>, <span class="link"><a href="net-email.html.sl" title="E-pošta, programi e-pošte">računi e-pošte</a></span> ...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Pogjejte tudi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
+<a href="status-icons.html.sl#networkicons" title="Ikone upravljalnika omrežja">Ikone upravljalnika omrežja</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
+<li class="links ">
 <a href="net-general.html.sl" title="Izrazi in namigi omrežja">Izrazi in namigi omrežja</a><span class="desc"> — <span class="link"><a href="net-findip.html.sl" title="Najdite svoj naslov IP">Najdite svoj naslov IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.sl" title="Kaj WEP in WPA pomenita?">varnost WEP in WPA</a></span>, <span class="link"><a href="net-macaddress.html.sl" title="Kaj je naslov MAC?">naslovi MAC</a></span>, <span class="link"><a href="net-proxy.html.sl" title="Določitev nastavitvev posredniškega strežnika">posredniški strežniki</a></span> …</span>
 </li>
 <li class="links ">
-<a href="net-problem.html.sl" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Odpravljanje težav z brezžičnimi povezavami</a></span>, <span class="link"><a href="net-wireless-find.html.sl" title="I can’t see my wireless network in the list">iskanje brezžične povezave</a></span> …</span>
+<a href="net-problem.html.sl" title="Težave z omrežjem">Težave z omrežjem</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.sl" title="Odpravljanje težav z brezžičnimi omrežji">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.sl" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div>

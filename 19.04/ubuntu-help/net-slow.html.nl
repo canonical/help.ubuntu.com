@@ -87,7 +87,10 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Zwak signaal draadloze verbinding</span></p>
-<p class="p"> Als u een draadloze verbinding heeft met het internet (wifi), controleer dan het netwerkpictogram in de bovenbalk om te zien of u een goed signaal heeft. Zo niet, dan kan het internet traag zijn omdat u geen sterk signaal heeft.</p>
+<p class="p">If you are connected to the internet by wireless (Wi-Fi), check the
+      network icon on the top bar to see if you have good wireless signal. If
+      not, the internet may be slow because you don’t have a very strong
+      signal.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Een langzamere mobiele internetverbinding gebruiken</span></p>
@@ -104,7 +107,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Problemen met draadloze verbindingen oplossen</a></span>, <span class="link"><a href="net-wireless-find.html.nl" title="Ik zie mijn draadloos netwerk niet in de lijst">Uw wifi-netwerk vinden</a></span>...</span>
+<a href="net-problem.html.nl" title="Netwerkproblemen">Netwerkproblemen</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.nl" title="Probleemoplosser draadloos netwerk">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.nl" title="Ik zie mijn draadloos netwerk niet in de lijst">finding your Wi-Fi network</a></span>…
+    </span>
 </li></ul></div>
 </div></div></div>
 </div>

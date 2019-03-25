@@ -103,7 +103,7 @@
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Sinyal koneksi nirkabel lemah</span></p>
-<p class="p">If you’re connected to the internet by wireless (wifi), check the
+<p class="p">If you are connected to the internet by wireless (Wi-Fi), check the
       network icon on the top bar to see if you have good wireless signal. If
       not, the internet may be slow because you don’t have a very strong
       signal.</p>
@@ -132,7 +132,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Melacak masalah koneksi nirkabel</a></span>, <span class="link"><a href="net-wireless-find.html.id" title="I can’t see my wireless network in the list">menemukan jaringan wifi Anda</a></span>…</span>
+<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.id" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span>
 </li></ul></div>
 </div></div></div>
 </div>

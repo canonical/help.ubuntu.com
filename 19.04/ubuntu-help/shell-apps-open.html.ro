@@ -2,7 +2,7 @@
 <html lang=ro>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Start applications</title>
+<title>Pornirea aplicațiilor</title>
 <link rel="stylesheet" type="text/css" href="ro.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Start applications</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Pornirea aplicațiilor</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Move your mouse pointer to the
@@ -116,6 +116,7 @@
     <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
     ‘<span class="cmd">rhythmbox</span>’ (without the single-quotes). The name of the app is
     the command to launch the program.</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
 </div></div>
 </div></div>
 </div>
@@ -130,7 +131,7 @@
 <a href="shell-overview.html.ro" title="Your desktop">Your desktop</a><span class="desc"> — 
       <span class="link"><a href="clock-calendar.html.ro" title="Calendar appointments">Calendar</a></span>,
       <span class="link"><a href="shell-notifications.html.ro" title="Notifications and the notification list">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html.ro" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.ro" title="Scurtături de tastatură folositoare">keyboard shortcuts</a></span>,
       <span class="link"><a href="shell-windows.html.ro" title="Windows and workspaces">windows and workspaces</a></span>…
     </span>
 </li>

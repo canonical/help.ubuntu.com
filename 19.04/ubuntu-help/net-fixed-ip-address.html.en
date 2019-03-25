@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.en" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.en" title="Wired Networking">Wired Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.en" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.en" title="Wired networking">Wired networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Create a connection with a fixed IP address</span></h1></div>
@@ -110,7 +110,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html.en" title="Wired Networking">Wired Networking</a><span class="desc"> — 
+<a href="net-wired.html.en" title="Wired networking">Wired networking</a><span class="desc"> — 
       <span class="link"><a href="net-wired-connect.html.en" title="Connect to a wired (Ethernet) network">Wired internet connections</a></span>,
       <span class="link"><a href="net-fixed-ip-address.html.en" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
     </span>

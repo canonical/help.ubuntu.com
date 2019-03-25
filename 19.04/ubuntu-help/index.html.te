@@ -67,10 +67,11 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.te" title="ప్రారంభించండి"><span class="title">గ్నోమ్ తో ప్రారంభించండి</span><span class="linkdiv-dash"> — </span><span class="desc">గ్నోమ్ కు కొత్తా? ఎలా వుపయోగించాలో నేర్చుకోండి.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.te" title="ప్రారంభించండి"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">గ్నోమ్ కు కొత్తా? ఎలా వుపయోగించాలో నేర్చుకోండి.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.te" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.te" title="అనువర్తనాలను ప్రారంభించండి"><span class="title">అనువర్తనాలను ప్రారంభించండి</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">కార్యకలాపాల</span> అవలోకనం నుండి అనువర్తనాలను తెరవండి.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.te" title="గ్నోమ్ పరిచయం"><span class="title">గ్నోమ్ పరిచయం</span><span class="linkdiv-dash"> — </span><span class="desc">మీ డెస్క్‌టాప్, పై పట్టీ, మరియు <span class="gui">కార్యకలాపాల</span> అవలోకనకు ఒక దృశ్య పరిచయం.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.te" title="నిష్క్రమించడం, విద్యుత్ ఆపడం లేదా వాడుకరులను మార్చడం"><span class="title">నిష్క్రమించడం, విద్యుత్ ఆపడం లేదా వాడుకరులను మార్చడం</span><span class="linkdiv-dash"> — </span><span class="desc">నిష్క్రమించడం, వాడుకరులను మార్చడం ద్వారా, మీ వాడుకరి ఖాతాను వదిలివెళ్ళడం ఎలాగో తెలుసుకోండి.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
@@ -85,7 +86,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.te" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.te" title="నిస్తంత్రి నెట్‌వర్కింగు">నిస్తంత్రి</a></span>, <span class="link"><a href="net-wired.html.te" title="Wired Networking">తంత్రి</a></span>, <span class="link"><a href="net-problem.html.te" title="Network problems">అనుసంధాన సమస్యలు</a></span>, <span class="link"><a href="net-browser.html.te" title="Web Browsers">జాల విహారణం</a></span>, <span class="link"><a href="net-email.html.te" title="Email &amp; email software">ఈమెయిలు ఖాతాలు</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.te" title="Wireless networking">నిస్తంత్రి</a></span>, <span class="link"><a href="net-wired.html.te" title="Wired networking">తంత్రి</a></span>, <span class="link"><a href="net-problem.html.te" title="Network problems">అనుసంధాన సమస్యలు</a></span>, <span class="link"><a href="net-browser.html.te" title="Web browsers">జాల విహారణం</a></span>, <span class="link"><a href="net-email.html.te" title="Email &amp; email software">ఈమెయిలు ఖాతాలు</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.te" title="శబ్దం, దృశ్యం &amp; చిత్రాలు">శబ్దం, దృశ్యం &amp; చిత్రాలు</a></div>

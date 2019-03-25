@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.it" title="Reti WiFi">Reti WiFi</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.it" title="Wireless networking">Wireless networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Spegnere la rete senza fili (modalità aereo)</span></h1></div>
@@ -75,7 +75,7 @@
  also want to switch off your wireless for other reasons (to save battery power,
  for example).</p>
 <div class="note" title="Annotazione"><div class="inner"><div class="region"><div class="contents"><p class="p">Using <span class="em">Airplane Mode</span> will completely turn off all wireless
-    connections, including WiFi, 3G and Bluetooth connections.</p></div></div></div></div>
+    connections, including Wi-Fi, 3G and Bluetooth connections.</p></div></div></div></div>
 <p class="p">To turn on airplane mode:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> overview and
@@ -84,7 +84,7 @@
 <li class="steps"><p class="p">Switch <span class="gui">Airplane Mode</span> to <span class="gui">ON</span>. This will turn off
       your wireless connection until you disable airplane mode again.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Suggerimento"><div class="inner"><div class="region"><div class="contents"><p class="p">You can turn off your WiFi connection from the 
+<div class="note note-tip" title="Suggerimento"><div class="inner"><div class="region"><div class="contents"><p class="p">You can turn off your Wi-Fi connection from the
     <span class="gui"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">system menu</a></span> by clicking on 
     the connection name and choosing <span class="gui">Turn Off</span>.</p></div></div></div></div>
 </div>
@@ -93,10 +93,10 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.it" title="Reti WiFi">Reti WiFi</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.it" title="Connettersi a una rete WiFi">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.it" title="Connettersi a una rete WiFi nascosta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.it" title="Perché la connessione senza fili continua a disconnettersi?">Disconnecting</a></span>…
+<a href="net-wireless.html.it" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.it" title="Connettersi a una rete WiFi">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.it" title="Connettersi a una rete WiFi nascosta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.it" title="Perché la connessione senza fili continua a disconnettersi?">Wi-Fi disconnecting</a></span>…
     </span>
 </li></ul></div>
 </div></div></div>

@@ -71,18 +71,11 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.it" title="Reti WiFi">Reti WiFi</a></div>
+<div class="links-grid-link"><a href="net-wireless.html.it" title="Wireless networking">Wireless networking</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html.it" title="Connettersi a una rete WiFi">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.it" title="Connettersi a una rete WiFi nascosta">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.it" title="Perché la connessione senza fili continua a disconnettersi?">Disconnecting</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.it" title="Browser web">Browser web</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html.it" title="Change which web browser opens websites by default">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html.it" title="Installare il plugin Flash">install Flash</a></span>…
+      <span class="link"><a href="net-wireless-connect.html.it" title="Connettersi a una rete WiFi">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.it" title="Connettersi a una rete WiFi nascosta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.it" title="Perché la connessione senza fili continua a disconnettersi?">Wi-Fi disconnecting</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -124,14 +117,7 @@
 <div class="links-grid-link"><a href="net-problem.html.it" title="Problemi di rete">Problemi di rete</a></div>
 <div class="desc"><span class="desc">
       <span class="link"><a href="net-wireless-troubleshooting.html.it" title="Risoluzione dei problemi relativi alle reti senza fili">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.it" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.it" title="Reti via cavo">Reti via cavo</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wired-connect.html.it" title="Connettersi a una rete via cavo (Ethernet)">Wired internet connections</a></span>,
-      <span class="link"><a href="net-fixed-ip-address.html.it" title="Creare una connessione con un indirizzo IP statico">Fixed IP addresses</a></span>…
+      <span class="link"><a href="net-wireless-find.html.it" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
@@ -141,6 +127,20 @@
       <span class="link"><a href="net-wireless-wepwpa.html.it" title="Cosa significano WEP e WPA?">WEP &amp; WPA security</a></span>,
       <span class="link"><a href="net-macaddress.html.it" title="Cos'è un indirizzo MAC?">MAC addresses</a></span>,
       <span class="link"><a href="net-proxy.html.it" title="Definire le impostazioni del proxy">proxies</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-browser.html.it" title="Web browsers">Web browsers</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-default-browser.html.it" title="Change which web browser opens websites by default">Change the default browser</a></span>,
+      <span class="link"><a href="net-install-flash.html.it" title="Installare il plugin Flash">install Flash</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.it" title="Wired networking">Wired networking</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wired-connect.html.it" title="Connettersi a una rete via cavo (Ethernet)">Wired internet connections</a></span>,
+      <span class="link"><a href="net-fixed-ip-address.html.it" title="Creare una connessione con un indirizzo IP statico">Fixed IP addresses</a></span>…
     </span></div>
 </div>
 </div></div></div></div>
@@ -153,7 +153,7 @@
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
-<div class="region"><ul><li class="links "><a href="gs-get-online.html.it" title="Andare online">A tutorial on getting online</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="gs-get-online.html.it" title="Andare online">Una guida su come andare online</a></li></ul></div>
 </div></div>
 </div>
 </div>

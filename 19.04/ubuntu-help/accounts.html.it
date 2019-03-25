@@ -106,8 +106,6 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Confronta anche</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="gs-connect-online-accounts.html.it" title="Connettere ad account online">A tutorial on connecting to online
-     accounts</a></li>
 <li class="links ">
 <a href="net-chat.html.it" title="Chat e social netwok">Chat e social netwok</a><span class="desc"> — 
       <span class="link"><a href="net-chat-empathy.html.it" title="Messaggistica istantanea con Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
@@ -115,6 +113,7 @@
       <span class="link"><a href="net-chat-skype.html.it" title="Come è possibile usare Skype in Ubuntu?">install skype</a></span>
     </span>
 </li>
+<li class="links "><a href="gs-connect-online-accounts.html.it" title="Connettere ad account online">Una guida su come connettersi agli account online</a></li>
 </ul></div>
 </div></div>
 </div>

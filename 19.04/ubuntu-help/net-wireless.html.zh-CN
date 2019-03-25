@@ -2,7 +2,7 @@
 <html lang=zh-CN>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>无线网络</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="zh-CN.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">无线网络</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -97,7 +97,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">更多信息</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.zh-CN" title="无线网络">无线连接</a></span>、<span class="link"><a href="net-wired.html.zh-CN" title="有线网络">wired</a></span>、<span class="link"><a href="net-problem.html.zh-CN" title="网络问题">连接故障</a></span>、<span class="link"><a href="net-browser.html.zh-CN" title="Web 浏览器">网页浏览器</a></span>、<span class="link"><a href="net-email.html.zh-CN" title="邮件和邮件客户端">邮箱帐号</a></span>…</span>
+<a href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.zh-CN" title="Wireless networking">无线连接</a></span>、<span class="link"><a href="net-wired.html.zh-CN" title="Wired networking">wired</a></span>、<span class="link"><a href="net-problem.html.zh-CN" title="网络问题">连接故障</a></span>、<span class="link"><a href="net-browser.html.zh-CN" title="Web browsers">网页浏览器</a></span>、<span class="link"><a href="net-email.html.zh-CN" title="邮件和邮件客户端">邮箱帐号</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -107,7 +107,13 @@
 <a href="net-general.html.zh-CN" title="网络术语与提示">网络术语与提示</a><span class="desc"> — <span class="link"><a href="net-findip.html.zh-CN" title="查看您的 IP 地址">查看 IP 地址</a></span>、<span class="link"><a href="net-wireless-wepwpa.html.zh-CN" title="WEP 和 WPA 是什么意思？">WEP 和 WPA 安全</a></span>、<span class="link"><a href="net-macaddress.html.zh-CN" title="什么是 MAC 地址？">MAC 地址</a></span>、<span class="link"><a href="net-proxy.html.zh-CN" title="代理服务器设置">代理</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-problem.html.zh-CN" title="网络问题">网络问题</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">解决无线连接问题</a></span>、<span class="link"><a href="net-wireless-find.html.zh-CN" title="I can’t see my wireless network in the list">查看 wifi 网络</a></span>…</span>
+<a href="status-icons.html.zh-CN#networkicons" title="网络连接图标">网络连接图标</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
+<li class="links ">
+<a href="net-problem.html.zh-CN" title="网络问题">网络问题</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.zh-CN" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div>

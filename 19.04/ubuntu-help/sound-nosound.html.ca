@@ -75,15 +75,15 @@
 <div class="region">
 <div class="contents"><p class="p">Si no podeu escoltar cap so a l'ordinador, per exemple, quan intenteu reproduir música, seguiu els consells de resolució de problemes següents.</p></div>
 <div id="mute" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Assegureu-vos que el so no està silenciat.</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Assegureu-vos que el so no està silenciat</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Obriu el <span class="gui"><a href="shell-introduction.html.ca#yourname" title="Vostè i el seu ordinador">menú del sistema</a></span> i assegureu-vos que el so no estigui silenciat o rebutjat.</p>
-<p class="p">Alguns portàtils tenen interruptors de silenci o tecles en els teclats — proveu de prémer aquesta tecla per veure si canvia a so.</p>
+<p class="p">Obriu el <span class="gui"><a href="shell-introduction.html.ca#yourname" title="Vostè i el seu ordinador">menú del sistema</a></span> i assegureu-vos que el so no estigui silenciat o molt baix.</p>
+<p class="p">Alguns portàtils tenen interruptors o tecles de silenci — proveu de prémer aquesta tecla per veure si canvia a so.</p>
 <p class="p">També heu de comprovar que no heu silenciat l'aplicació que esteu utilitzant per reproduir el so (per exemple, el reproductor de música o el reproductor de pel·lícules). L'aplicació pot tenir un botó de silenci o volum a la finestra principal, així que comproveu-ho.</p>
 <p class="p">També, podeu consultar la pestanya <span class="gui">Aplicacions</span> a la GUI (Graphical User Interface)<span class="gui">So</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu <span class="app">Configuració</span> des de la vista general d'<span class="gui">Activitats</span>.</p></li>
-<li class="steps"><p class="p">Feu clic <span class="gui">So</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">So</span>.</p></li>
 <li class="steps"><p class="p">Aneu a la pestanya <span class="gui">Aplicacions</span> i comproveu que la vostra aplicació no estigui silenciada.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -114,11 +114,11 @@
 <div class="hgroup"><h2 class="title"><span class="title">Comproveu que la targeta de so s'hagi detectat correctament</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Pot ser que la vostra targeta de so no s'hagi detectat correctament, probablement perquè els controladors de la targeta no estan instal·lats. És possible que necessiteu instal·lar els controladors de la targeta manualment. Com es fa això depèn del tipus de targeta.</p>
-<p class="p">Executeu la comanda <span class="cmd">lspci</span> al Terminal per esbrinar quina targeta de so teniu:</p>
+<p class="p">Executeu l'ordre <span class="cmd">lspci</span> al Terminal per esbrinar quina targeta de so teniu:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Aneu a la vista general d'<span class="gui">Activitats</span> i obriu un Terminal.</p></li>
 <li class="steps"><p class="p">Executeu <span class="cmd">lspci</span> com a <span class="link"><a href="user-admin-explain.html.ca" title="Com funcionen els privilegis administratius?">superusuari</a></span>; pel que escriviu <span class="cmd">sudo lspci</span> i teclegeu la vostra contrasenya, o escriviu <span class="cmd">su</span>, entreu la contrasenya <span class="em">root</span> (administrativa), aleshores escriviu <span class="cmd">lspci</span>.</p></li>
-<li class="steps"><p class="p">Comproveu que el <span class="em">controlador d'àudio</span> o el <span class="em">dispositiu d'àudio</span> apareix a la llista: en aquest cas, hauríeu de mirar la marca i el número de model de la targeta de so. La comanda <span class="cmd">lspci -v</span> mostra una llista amb informació més detallada..</p></li>
+<li class="steps"><p class="p">Comproveu que el <span class="em">controlador d'àudio</span> o el <span class="em">dispositiu d'àudio</span> apareix a la llista: en aquest cas, hauríeu de mirar la marca i el número de model de la targeta de so. L'ordre <span class="cmd">lspci -v</span> mostra una llista amb informació més detallada..</p></li>
 </ol></div></div></div>
 <p class="p">És possible que pugueu trobar i instal·lar controladors per a la vostra targeta. El millor és demanar ajuda als fòrums de suport (o d'una altra manera) per obtenir instruccions per a la vostra distribució de Linux.</p>
 <p class="p">Si no podeu obtenir controladors per a la vostra targeta de so, és possible que preferiu comprar una targeta de so nova. Podeu obtenir targetes de so que es puguin instal·lar a l'interior de l'ordinador i targetes de so USB externes.</p>
@@ -129,7 +129,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html.ca" title="Problemes amb el so">Problemes amb el so</a><span class="desc"> — Resoldre problemes com el de no tenir so o tenir-ne mala qualitat.</span>
+<a href="sound-broken.html.ca" title="Problemes amb el so">Problemes amb el so</a><span class="desc"> — Resoldre problemes com no tenir so o tenir-ne mala qualitat.</span>
 </li></ul></div>
 </div></div></div>
 </div>

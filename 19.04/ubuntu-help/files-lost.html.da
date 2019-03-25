@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Find a lost file</title>
+<title>Find en mistet fil</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,14 +67,14 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Find a lost file</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Find en mistet fil</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you created or downloaded a file, but now you cannot find it, follow
 these tips.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">If you do not remember where you saved the file, but you have some
-  idea of how you named it, you can <span class="link"><a href="files-search.html.da" title="Search for files">search for the
+  idea of how you named it, you can <span class="link"><a href="files-search.html.da" title="Søg efter filer">search for the
   file by name</a></span>.</p></li>
 <li class="list"><p class="p">If you just downloaded the file, your web browser might
   have automatically saved it to a common folder. Check the
@@ -82,14 +82,14 @@ these tips.</p>
   folder.</p></li>
 <li class="list"><p class="p">You might have accidentally deleted the file. When you delete
   a file, it gets moved to the trash, where it stays until you manually
-  empty the trash. See <span class="link"><a href="files-recover.html.da" title="Recover a file from the Trash">Recover a file from the Trash</a></span> to learn how to
+  empty the trash. See <span class="link"><a href="files-recover.html.da" title="Gendan en fil fra papirkurven">Gendan en fil fra papirkurven</a></span> to learn how to
   recover a deleted file.</p></li>
 <li class="list"><p class="p">You might have renamed the file in a way that made the file hidden.
   Files that start with a <span class="file">.</span> or end with a <span class="file">~</span> are
   hidden in the file manager. Click the
   
   view options button in the <span class="app">Files</span> toolbar and enable <span class="gui">Show
-  Hidden Files</span> to display them. See <span class="link"><a href="files-hidden.html.da" title="Hide a file">Hide a file</a></span> to learn
+  Hidden Files</span> to display them. See <span class="link"><a href="files-hidden.html.da" title="Skjul en fil">Skjul en fil</a></span> to learn
   more.</p></li>
 </ul></div></div></div>
 </div>
@@ -103,7 +103,7 @@ these tips.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html.da" title="Recover a file from the Trash">Recover a file from the Trash</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
+<a href="files-recover.html.da" title="Gendan en fil fra papirkurven">Gendan en fil fra papirkurven</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
     recovered.</span>
 </li></ul></div>
 </div></div>

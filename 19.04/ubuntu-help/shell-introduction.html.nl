@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Inleiding tot Gnome</title>
+<title>Visual overview of GNOME</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Inleiding tot Gnome</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Visual overview of GNOME</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">GNOME 3 heeft een compleet opnieuw ontworpen gebruikersinterface, bedoeld om u zo weinig mogelijk in de weg te zitten of af te leiden, en u te helpen om dingen gedaan te krijgen. Wanneer u zich voor het eerst aanmeldt, dan ziet u een leeg bureaublad en de bovenbalk.</p>

@@ -83,7 +83,7 @@
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td>
-<p class="p"><span class="key"><kbd>Tab</kbd></span> and</p>
+<p class="p"><span class="key"><kbd>Tab</kbd></span> y</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p>
 </td>
 <td>
@@ -135,8 +135,8 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;">
-<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or</p>
-<p class="p"><span class="key"><a href="keyboard-key-menu.html.es" title="¿Qué es la tecla Menú?"><kbd>Menu</kbd></a></span></p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p>
+<p class="p"><span class="key"><a href="keyboard-key-menu.html.es" title="¿Qué es la tecla Menú?"><kbd>Menú</kbd></a></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p">Mostrar el menú contextual para la selección actual, como si hubiera pulsado con el botón derecho.</p></td>
 </tr>
@@ -146,9 +146,9 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;">
-<p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageUp</kbd></span></span></p>
-<p class="p">and</p>
-<p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageDown</kbd></span></span></p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Re Pag</kbd></span></span></p>
+<p class="p">y</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Av Pag</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p">En la interfaz con pestañas, cambiar a la pestaña de la izquierda o a la de la derecha.</p></td>
 </tr>
@@ -187,7 +187,7 @@
 <tr>
 <td style="border-top-style: solid;">
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Re Pag</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">y</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Av Pag</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.es" title="Cambie entre las áreas de trabajo">Cambiar entre áreas de trabajo</a></span>.</p></td>
@@ -202,8 +202,7 @@
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.es#notificationlist" title="The notification list">Open the
-    notification list.</a></span> Press <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.es#notificationlist" title="The notification list">Abrir la lista de notificaciones</a></span>. Pulse <span class="key"><kbd>Esc</kbd></span> para cerrarla.</p></td>
 </tr>
 </table></div>
 </div></div>
@@ -230,7 +229,7 @@
 <td style="border-top-style: solid;">
 <p class="p">
       <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">y</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Mayús</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Av Pag</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.es" title="Mover una ventana a un área de trabajo diferente">Mover la ventana actual a un área de trabajo diferente</a></span>.</p></td>

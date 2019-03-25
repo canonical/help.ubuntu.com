@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-problem.html.ca" title="Problemes de xarxa">Problemes de xarxa</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wireless.html.ca" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -89,10 +89,17 @@
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.ca" title="Problemes de xarxa">Problemes de xarxa</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.ca" title="Solució de problemes de xarxa sense fil">Solució de problemes de connexions sense fil</a></span>, <span class="link"><a href="net-wireless-find.html.ca" title="No puc trobar la meva xarxa a la llista">localitzant la vostra xarxa wifi</a></span>…</span>
+<a href="net-problem.html.ca" title="Problemes de xarxa">Problemes de xarxa</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.ca" title="Solució de problemes de xarxa sense fil">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.ca" title="No puc trobar la meva xarxa a la llista">finding your Wi-Fi network</a></span>…
+    </span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.ca" title="Connecteu-vos a una xarxa sense fil">Connectat al wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.ca" title="Connecteu-vos a una xarxa sense fil oculta">Xarxa oculta</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.ca" title="Per què la meva xarxa sense fil continua desconnectant-se?">Desconnectant</a></span>…</span>
+<a href="net-wireless.html.ca" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ca" title="Connecteu-vos a una xarxa sense fil">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ca" title="Connecteu-vos a una xarxa sense fil oculta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ca" title="Per què la meva xarxa sense fil continua desconnectant-se?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li>
 </ul></div>
 </div></div>

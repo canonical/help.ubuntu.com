@@ -71,16 +71,24 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.el" title="Ασύρματη δικτύωση">Ασύρματη δικτύωση</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.el" title="Σύνδεση σε ασύρματο δίκτυο">Σύνδεση σε wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.el" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">Κρυφά δίκτυα</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.el" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Αποσύνδεση</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.el" title="Wireless networking">Wireless networking</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-connect.html.el" title="Σύνδεση σε ασύρματο δίκτυο">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.el" title="Σύνδεση σε κρυφό ασύρματο δίκτυο">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.el" title="Γιατί το ασύρματο δίκτυό μου εξακολουθεί να είναι αποσυνδεμένο;">Wi-Fi disconnecting</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-browser.html.el" title="Web browsers">Web browsers</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.el" title="Αλλαγή του προεπιλεγμένου περιηγητή διαδικτύου">Αλλαγή προεπιλεγμένου περιηγητή</a></span>, <span class="link"><a href="net-install-flash.html.el" title="Εγκατάσταση πρόσθετου για το flash">Εγκατάσταση του Flash</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.el" title="Wired networking">Wired networking</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.el" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)">Ενσύρματες συνδέσεις διαδικτύου</a></span>, <span class="link"><a href="net-fixed-ip-address.html.el" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Σταθερές διευθύνσεις IP</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-general.html.el" title="Όροι δικτύωσης &amp; συμβουλές">Όροι δικτύωσης &amp; συμβουλές</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.el" title="Βρείτε τη διεύθυνση IP σας">Βρείτε τη διεύθυνσή σας IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.el" title="Τι σημαίνουν τα WEP και WPA;">WEP &amp; ασφάλεια WPA</a></span>, <span class="link"><a href="net-macaddress.html.el" title="Τι είναι μια διεύθυνση MAC;">Διευθύνσεις MAC</a></span>, <span class="link"><a href="net-proxy.html.el" title="Ορισμός ρυθμίσεων διαμεσολαβητή">Διαμεσολαβητές</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.el" title="Ενσύρματη δικτύωση">Ενσύρματη δικτύωση</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.el" title="Σύνδεση σε ενσύρματο δίκτυο (Ethernet)">Ενσύρματες συνδέσεις διαδικτύου</a></span>, <span class="link"><a href="net-fixed-ip-address.html.el" title="Δημιουργία σύνδεσης με σταθερή διεύθυνση IP">Σταθερές διευθύνσεις IP</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="contacts.html.el" title="Επαφές">Επαφές</a></div>
@@ -103,12 +111,11 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.el" title="Περιηγητές Ιστού">Περιηγητές Ιστού</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.el" title="Αλλαγή του προεπιλεγμένου περιηγητή διαδικτύου">Αλλαγή προεπιλεγμένου περιηγητή</a></span>, <span class="link"><a href="net-install-flash.html.el" title="Εγκατάσταση πρόσθετου για το flash">Εγκατάσταση του Flash</a></span>…</span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.el" title="Προβλήματα δικτύου">Προβλήματα δικτύου</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.el" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Αντιμετώπιση προβλημάτων ασύρματων συνδέσεων</a></span>, <span class="link"><a href="net-wireless-find.html.el" title="I can’t see my wireless network in the list">Εύρεση του δικτύου wifi</a></span>…</span></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-troubleshooting.html.el" title="Ανιχνευτής προβλημάτων ασύρματου δικτύου">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.el" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-chat.html.el" title="Συνομιλία &amp; Κοινωνική δικτύωση">Συνομιλία &amp; Κοινωνική δικτύωση</a></div>

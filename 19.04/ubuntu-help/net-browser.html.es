@@ -2,7 +2,7 @@
 <html lang=es>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Navegadores</title>
+<title>Web browsers</title>
 <link rel="stylesheet" type="text/css" href="es.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Navegadores</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Web browsers</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.es" title="Cambiar qué navegador abre de manera predeterminada los sitios web"><span class="title">Cambiar qué navegador abre de manera predeterminada los sitios web</span><span class="linkdiv-dash"> — </span><span class="desc">Cambie el navegador web predeterminado yendo a <span class="gui">Detalles</span> en la <span class="gui">Configuración</span>.</span></a></div></div>
@@ -79,7 +79,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html.es" title="Conexiones inalámbricas">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.es" title="Conexiones cableadas">cableada</a></span>, <span class="link"><a href="net-problem.html.es" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.es" title="Navegadores">navegación web</a></span>, <span class="link"><a href="net-email.html.es" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
+<a href="net.html.es" title="Red, weby correo-e">Red, weby correo-e</a><span class="desc"> — <span class="link"><a href="net-wireless.html.es" title="Wireless networking">Inalámbrica</a></span>, <span class="link"><a href="net-wired.html.es" title="Wired networking">cableada</a></span>, <span class="link"><a href="net-problem.html.es" title="Problemas de red">problemas de conexión</a></span>, <span class="link"><a href="net-browser.html.es" title="Web browsers">navegación web</a></span>, <span class="link"><a href="net-email.html.es" title="Software de correo electrónico">cuentas de correo-e</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

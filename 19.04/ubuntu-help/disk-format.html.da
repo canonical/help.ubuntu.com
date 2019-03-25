@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wipe everything off a removable disk</title>
+<title>Fjern alt på en flytbar disk</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="disk.html.da" title="Disks &amp; storage">Disks &amp; storage</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Wipe everything off a removable disk</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Fjern alt på en flytbar disk</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you have a removable disk, like a USB memory stick or an external hard
@@ -115,11 +115,11 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.da" title="Disks &amp; storage">Disks &amp; storage</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html.da" title="Check how much disk space is left">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.da" title="Test the performance of your hard disk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.da" title="Check your hard disk for problems">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.da" title="Manage volumes and partitions">volumes and partitions</a></span>…
+<a href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a><span class="desc"> — 
+    <span class="link"><a href="disk-capacity.html.da" title="Tjek hvor meget diskplads der er tilbage">Disk space</a></span>,
+    <span class="link"><a href="disk-benchmark.html.da" title="Test ydelsen af din harddisk">performance</a></span>,
+    <span class="link"><a href="disk-check.html.da" title="Tjek din harddisk for problemer">problems</a></span>,
+    <span class="link"><a href="disk-partitions.html.da" title="Håndter diskenheder og partitioner">volumes and partitions</a></span>…
   </span>
 </li></ul></div>
 </div></div></div>

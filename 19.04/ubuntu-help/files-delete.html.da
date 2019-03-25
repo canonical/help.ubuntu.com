@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Delete files and folders</title>
+<title>Slet filer og mapper</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,12 +67,12 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#common-file-tasks" title="Almindelige opgaver">Almindelige opgaver</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Delete files and folders</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Slet filer og mapper</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you do not want a file or folder any more, you can delete it. When you
   delete an item it is moved to the <span class="gui">Trash</span> folder, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html.da" title="Recover a file from the Trash">restore
+  until you empty the trash. You can <span class="link"><a href="files-recover.html.da" title="Gendan en fil fra papirkurven">restore
   items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
   decide you need them, or if they were accidentally deleted.</p>
 <div class="steps"><div class="inner">
@@ -92,7 +92,7 @@
   the sidebar and select <span class="gui">Empty Trash</span>.</p>
 </div>
 <div id="permanent" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Permanently delete a file</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Slet en fil permanent</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">You can immediately delete a file permanently, without having to send it
     to the trash first.</p>
@@ -121,9 +121,9 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.da#trash" title="Trash">File manager trash preferences</a></li>
+<li class="links "><a href="nautilus-behavior.html.da#trash" title="Papirkurv">File manager trash preferences</a></li>
 <li class="links ">
-<a href="files-recover.html.da" title="Recover a file from the Trash">Recover a file from the Trash</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
+<a href="files-recover.html.da" title="Gendan en fil fra papirkurven">Gendan en fil fra papirkurven</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
     recovered.</span>
 </li>
 </ul></div>

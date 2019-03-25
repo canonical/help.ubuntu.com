@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Commonly-used network ports</title>
+<title>Populære netværksporte</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,15 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.da" title="Keeping safe on the internet">Keeping safe on the internet</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-security.html.da" title="Sikkerhed på internettet">Sikkerhed på internettet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Commonly-used network ports</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Populære netværksporte</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">This is a list of network ports commonly used by applications that provide
   network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.da" title="Enable or block firewall access">block or allow
+  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.da" title="Aktivér og bloker adgang til firewall">block or allow
   access</a></span> to these applications. There are thousands of ports in use, so
   this table isn’t complete.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
@@ -126,17 +126,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html.da" title="Keeping safe on the internet">Keeping safe on the internet</a><span class="desc"> — 
-      <span class="link"><a href="net-antivirus.html.da" title="Do I need anti-virus software?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html.da" title="Enable or block firewall access">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html.da" title="Commonly-used network ports">firewall ports</a></span>…
+<a href="net-security.html.da" title="Sikkerhed på internettet">Sikkerhed på internettet</a><span class="desc"> — 
+      <span class="link"><a href="net-antivirus.html.da" title="Behøver jeg at have antivirussoftware?">Antivirus software</a></span>,
+      <span class="link"><a href="net-firewall-on-off.html.da" title="Aktivér og bloker adgang til firewall">basic firewalls</a></span>,
+      <span class="link"><a href="net-firewall-ports.html.da" title="Populære netværksporte">firewall ports</a></span>…
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html.da" title="Enable or block firewall access">Enable or block firewall access</a><span class="desc"> — You can control which programs can access the network. This helps to keep your computer secure.</span>
+<a href="net-firewall-on-off.html.da" title="Aktivér og bloker adgang til firewall">Aktivér og bloker adgang til firewall</a><span class="desc"> — You can control which programs can access the network. This helps to keep your computer secure.</span>
 </li></ul></div>
 </div></div>
 </div>

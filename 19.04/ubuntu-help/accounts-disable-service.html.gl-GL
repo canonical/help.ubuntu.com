@@ -75,14 +75,12 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e comece a escribir <span class="gui">Contas en liña</span>.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Contas en liñla</span> para abrir o panel.</p></li>
-<li class="steps"><p class="p">Select the account which you want to change from the list on the
-      right.</p></li>
+<li class="steps"><p class="p">Seleccione a conta que quere cambiar da lista da dereita.</p></li>
 <li class="steps"><p class="p">A lista dos servizos servizos dispoñíbeis con esta conta mostraranse baixo <span class="gui">Usar esta conta para</span>. Vexa <span class="link"><a href="accounts-which-application.html.gl-GL" title="Servizos en liña e aplicativos">Servizos en liña e aplicativos</a></span> para ver que aplicativos acceden a estos servizos.</p></li>
 <li class="steps"><p class="p">Desactive calquera dos servizos que non quere que sexan usados.</p></li>
 </ol></div></div></div>
 <p class="p">Unha vez que teña desactivado un servizo para unha conta, os aplicativos do seu computador non poderán usar a conta para volver a conectarse a este servizo.</p>
-<p class="p">To turn on a service that you disabled, just go back to the <span class="gui">Online
-  Accounts</span> panel and switch it on.</p>
+<p class="p">Para activar un servizo para teña desactivado, volva ao panel <span class="gui">Contas en liña</span> e actíveo.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

@@ -70,13 +70,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Izvēlieties monitoru</span></h1></div>
 <div class="region">
 <div class="contents"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> overview and
-    start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Wacom Tablet</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā nospiediet <span class="gui">Ierīces</span>.</p></li>
+<li class="steps"><p class="p">Sānu joslā spiediet <span class="gui">Wacom planšete</span>, lai atvērtu paneli.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Tablet</span> button in the header bar.</p>
+<p class="p">Spiediet pogu <span class="gui">planšete</span> virsraksta joslā.</p>
 <div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">Ja nav atklātu planšetu, jums prasīs <span class="gui">Lūdzu, pievienojiet un ieslēdziet savu Wacom planšeti</span>, spiediet uz saites <span class="gui">Bluetooth iestatījumi</span>, lai savienotos ar bezvadu planšeti.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Attēlot uz monitoru</span>.</p></li>
@@ -85,12 +84,7 @@
 <p class="p">Pie <span class="gui">Izvades</span>, izvēlieties monitoru, uz ko vēlaties sūtīt ievadi no savas grafiskās planšetes.</p>
 <div class="note note-tip" title="Padoms"><div class="inner"><div class="region"><div class="contents"><p class="p">Varēs izvēlēties tikai monitorus, kas ir konfigurēti.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Switch <span class="gui">Keep aspect ratio (letterbox)</span> to <span class="gui">ON</span> to
-    match the drawing area of the tablet to the proportions of the monitor.
-      This setting, also called <span class="em">force proportions</span>,
-      “letterboxes” the drawing area on a tablet to correspond more
-      directly to a display. For example, a 4∶3 tablet would be mapped so that
-      the drawing area would correspond to a widescreen display.</p></li>
+<li class="steps"><p class="p">Pārslēdziet <span class="gui">Paturēt izmēra attiecību (platekrāns)</span> uz <span class="gui">|</span>, lai atbilstu planšetes zīmēšanas laukumam ar monitora proporcijām. Šis iestatījums, zināms arī kā <span class="em">proporciju uzspiešana</span>, projicē zīmēšanas  laukumu uz planšeti, lai tā precīzi atbilstu displejam. Piemēram, 4:3 planšete tiktu attēlota tā, lai zīmēšanas ekrāns atbilstu platekrāna displejam.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Aizvērt</span>.</p></li>
 </ol></div></div></div></div>
 <div class="sect sect-links" role="navigation">

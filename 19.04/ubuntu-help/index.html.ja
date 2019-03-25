@@ -67,9 +67,10 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.ja" title="初めて使う方へ"><span class="title">GNOME を初めて使う方へ</span><span class="linkdiv-dash"> — </span><span class="desc">GNOME は初めてですか? 使い方を一通り身に付けられます。</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.ja" title="初めて使う方へ"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">GNOME は初めてですか? 使い方を一通り身に付けられます。</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ja" title="GNOME 入門"><span class="title">GNOME 入門</span><span class="linkdiv-dash"> — </span><span class="desc">デスクトップ、トップバー、および<span class="gui">アクティビティ</span>画面について画像をまじえた入門。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ja" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ja" title="アプリケーションの起動"><span class="title">アプリケーションの起動</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">アクティビティ</span>画面からアプリを起動します。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ja" title="ログアウト、電源オフ、ユーザー切り替え"><span class="title">ログアウト、電源オフ、ユーザー切り替え</span><span class="linkdiv-dash"> — </span><span class="desc">ログアウト、ユーザーの切り替えなどによる、アカウントの抜け方を学びます。</span></a></div>
 </div></div></div>
@@ -85,7 +86,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.ja" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.ja" title="無線ネットワーク">無線</a></span>、<span class="link"><a href="net-wired.html.ja" title="有線によるネットワーク">有線</a></span>、<span class="link"><a href="net-problem.html.ja" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html.ja" title="ウェブブラウザー">web ブラウジング</a></span>、<span class="link"><a href="net-email.html.ja" title="メールとメールソフトウェア">メールアカウント</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.ja" title="Wireless networking">無線</a></span>、<span class="link"><a href="net-wired.html.ja" title="Wired networking">有線</a></span>、<span class="link"><a href="net-problem.html.ja" title="ネットワーク関連の問題">接続関連の問題</a></span>、<span class="link"><a href="net-browser.html.ja" title="Web browsers">web ブラウジング</a></span>、<span class="link"><a href="net-email.html.ja" title="メールとメールソフトウェア">メールアカウント</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.ja" title="サウンド、ビデオ、画像">サウンド、ビデオ、画像</a></div>

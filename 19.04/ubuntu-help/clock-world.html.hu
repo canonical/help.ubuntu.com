@@ -77,10 +77,9 @@
 </div></div></div></div>
 <p class="p">Világóra hozzáadásához:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the clock on the top bar.</p></li>
+<li class="steps"><p class="p">Kattintson az órára a felső sávban.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Add world clock</span> link under the calendar to
-      launch <span class="app">Clocks</span>.</p>
+<p class="p">Kattintson a <span class="gui">Világóra hozzáadása</span> hivatkozásra a naptár alatt az <span class="app">Órák</span> elindításához.</p>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha már be van állítva világórája, akkor kattintson rá, és elindul az <span class="app">Órák</span>.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Az <span class="app">Órák</span> ablakban kattintson az <span class="gui">Új</span> gombra, vagy nyomja meg a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> kombinációt új város hozzáadásához.</p></li>

@@ -96,7 +96,7 @@
 <li class="steps">
 <p class="p">Fare clic su <span class="gui">Aggiungi</span> e inserire l'indirizzo APT del repository. Questo dovrebbe essere reperibile dal sito web del repository e dovrebbe essere simile a:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">
@@ -123,7 +123,7 @@
     </p>
 <p class="p">Per abilitare il repository, seguire i passi indicati sopra per aprire la scheda <span class="gui">Altro software</span> in <span class="app">Software e aggiornamenti</span>. Se nell'elenco è presente il repository <span class="gui">Partner di Canonical</span>, assicurarsi che sia selezionato e quindi chiudere la finestra di <span class="app">Software e aggiornamenti</span>. Nel caso non fosse presente, fare clic su <span class="gui">Aggiungi…</span> e digitare:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">
       Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. Wait a 

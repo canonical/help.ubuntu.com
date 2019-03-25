@@ -74,8 +74,8 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Background</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Background</span> or <span class="gui">Lock Screen</span>.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Háttér</span> elemre az oldalsávon a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">Válassza a <span class="gui">Háttér</span> vagy a <span class="gui">Zárolási képernyő</span> egyikét.</p></li>
 <li class="steps">
 <p class="p">Három lehetőség jelenik meg fent:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -94,12 +94,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.hu" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.hu" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html.hu" title="A képernyő felbontásának vagy tájolásának módosítása">méret és tájolás</a></span>, <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">fényerő</a></span>, <span class="link"><a href="display-night-light.html.hu" title="A képernyő színhőmérsékletének beállítása">színhőmérséklet</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

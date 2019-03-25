@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Middle-click</title>
+<title>Midterklik</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,15 +65,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="mouse.html.da" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> › <a class="trail" href="mouse.html.da#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="mouse.html.da" title="Mus &amp; pegeplade">Mus &amp; pegeplade</a> › <a class="trail" href="mouse.html.da#tips" title="Tips">Tips</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html.da" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a> › <a class="trail" href="mouse.html.da#tips" title="Tips">Tips</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html.da" title="Mus &amp; pegeplade">Mus &amp; pegeplade</a> › <a class="trail" href="mouse.html.da#tips" title="Tips">Tips</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.da" title="Tips &amp; tricks">Tips &amp; tricks</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Middle-click</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Midterklik</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
@@ -83,7 +83,7 @@ can press the left and right mouse buttons at the same time to
 middle-click.</p>
 <p class="p">On touchpads that support multi-finger taps, you can tap with three
 fingers at once to middle-click. You have to
-<span class="link"><a href="mouse-touchpad-click.html.da" title="Click, drag, or scroll with the touchpad">enable tap clicking</a></span> in the
+<span class="link"><a href="mouse-touchpad-click.html.da" title="Klik, træk eller rul med pegepladen">enable tap clicking</a></span> in the
 touchpad settings for this to work.</p>
 <p class="p">Many applications use middle-click for advanced click shortcuts.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
@@ -109,9 +109,9 @@ button for other functions. Search your application’s help for
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="mouse.html.da#tips" title="Tips">Mouse tips</a></li>
+<li class="links "><a href="mouse.html.da#tips" title="Tips">Musetips</a></li>
 <li class="links ">
-<a href="tips.html.da" title="Tips &amp; tricks">Tips &amp; tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.da" title="Enter special characters">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.da" title="Middle-click">middle click shortcuts</a></span>…</span>
+<a href="tips.html.da" title="Tips &amp; tricks">Tips &amp; tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.da" title="Indtast specialtegn">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.da" title="Midterklik">middle click shortcuts</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

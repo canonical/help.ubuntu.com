@@ -72,11 +72,11 @@
 <div class="contents">
 <div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Aquestes instruccions són per imprimir un llibret des d'un document PDF.</p>
-<p class="p">Si voleu imprimir un llibret des d'un document <span class="app">LibreOffice</span>, primer exporteu-lo a un PDF triant a <span class="guiseq"><span class="gui">Arxiu</span> ▸ <span class="gui">Exportar com a PDF…</span></span>. El document ha de tenir un nombre múltiple de 4 pàgines (4, 8, 12, 16,...). És possible que hàgiu d'afegir fins a 3 pàgines en blanc.</p>
+<p class="p">Si voleu imprimir un llibret des d'un document <span class="app">LibreOffice</span>, primer exporteu-lo a un PDF triant a <span class="guiseq"><span class="gui">Fitxer</span> ▸ <span class="gui">Exporta com a PDF…</span></span>. El document ha de tenir un nombre múltiple de 4 pàgines (4, 8, 12, 16,...). És possible que hàgiu d'afegir fins a 3 pàgines en blanc.</p>
 </div></div></div></div>
 <p class="p">Imprimir:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu el diàleg d'impressió. Normalment, es pot fer a través del menú d'<span class="gui">Imprimir</span> o utilitzant la drecera de teclat <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Obriu el diàleg d'impressió. Normalment, es pot fer a través del menú d'<span class="gui">Imprimeix</span> o utilitzant la drecera de teclat <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Feu clic al botó <span class="gui">Propietats…</span></p>
 <p class="p">A la llista desplegable <span class="gui">Orientació</span>, assegureu-vos que està seleccionat a <span class="gui">Apaïsat</span>.</p>
@@ -101,14 +101,14 @@
 <p class="p">A <span class="gui">Disseny</span>, seleccioneu <span class="gui">Fulletó</span>.</p>
 <p class="p">A <span class="gui">Cares de la pàgina</span>, a la llista desplegable <span class="gui">Incloure</span>, seleccioneu <span class="gui">Cares frontals / pàgines de la dreta</span>.</p>
 </li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Imprimir</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Imprimeix</span>.</p></li>
 <li class="steps"><p class="p">Quan s'hagin imprès totes les pàgines, gireu les pàgines i torneu-les a col·locar a la impressora.</p></li>
-<li class="steps"><p class="p">Obriu el diàleg d'impressió. Normalment, es pot fer a través del menú d'<span class="gui">Imprimir</span> o utilitzant la drecera de teclat <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Obriu el diàleg d'impressió. Normalment, es pot fer a través del menú d'<span class="gui">Imprimeix</span> o utilitzant la drecera de teclat <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Trieu la pestanya <span class="gui">Disseny de pàgina</span>.</p>
 <p class="p">A <span class="gui">Cares de la pàgina</span>, a la llista desplegable <span class="gui">Incloure</span>, seleccioneu <span class="gui">Cares de darrera / pàgines de l'esquerra</span>.</p>
 </li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Imprimir</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Imprimeix</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -75,29 +75,25 @@
 <div class="contents">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Open the <span class="gui">Activities</span> overview by clicking <span class="gui">Activities</span> 
-    at the top left of the screen, or by pressing the
-    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key. 
-    Start typing to search.</p>
-<p class="p">Results matching what you have typed will appear as you type. The first
-    result is always highlighted and shown at the top.</p>
-<p class="p">Press <span class="key"><kbd>Enter</kbd></span> to switch to the first highlighted result.</p>
+<p class="p">Aprire la <span class="gui">Panoramica attività</span> premendo <span class="gui">Attività</span> in alto sullo schermo oppure premendo il tasto <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Iniziare a digitare per avviare la ricerca.</p>
+<p class="p">I risultati vengono mostrati durante l'inserimento dei termi di ricerca. Il primo risultato è sempre evidenziato ed è sempre mostrato in cima.</p>
+<p class="p">Premere <span class="key"><kbd>Invio</kbd></span> per passare al primo risultato evidenziato.</p>
 </li></ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-search2.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="2">
 <li class="steps">
-<p class="p">Items that may appear in the search results include:</p>
+<p class="p">Gli elementi che possono essere visualizzati nei risultati di ricerca includono:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">applicazioni, mostrate in cima ai risultati della ricerca;</p></li>
 <li class="list"><p class="p">impostazioni;</p></li>
 <li class="list"><p class="p">contatti;</p></li>
-<li class="list"><p class="p">matching documents,</p></li>
-<li class="list"><p class="p">matching calendar,</p></li>
-<li class="list"><p class="p">matching calculator,</p></li>
-<li class="list"><p class="p">matching software,</p></li>
-<li class="list"><p class="p">matching files,</p></li>
-<li class="list"><p class="p">matching terminal,</p></li>
-<li class="list"><p class="p">matching passwords and keys.</p></li>
+<li class="list"><p class="p">documenti;</p></li>
+<li class="list"><p class="p">calendari;</p></li>
+<li class="list"><p class="p">calcolatrice;</p></li>
+<li class="list"><p class="p">software;</p></li>
+<li class="list"><p class="p">file;</p></li>
+<li class="list"><p class="p">terminale;</p></li>
+<li class="list"><p class="p">password e chiavi.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -107,14 +103,8 @@
 </ol></div></div></div>
 </div>
 <div id="use-search-inside-applications" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Search from inside applications</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The system search aggregates results from various applications. On the
-      left-hand side of the search results, you can see icons of applications
-      that provided the search results. Click one of the icons to restart the
-      search from inside the application associated with that icon. Because
-      only the best matches are shown in the <span class="gui">Activities Overview</span>,
-      searching from inside the application may give you better search results.
-      </p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Eseguire ricerche dalle applicazioni</span></h2></div>
+<div class="region"><div class="contents"><p class="p">La ricerca di sistema aggrega risultati da diverse applicazioni. Sul lato sinistro dei risultati è possibile vedere le icone delle applicazioni che hanno fornito tali dati. Fare clic su una delle icone per lanciare la ricerca all'interno dell'applicazione stessa. Poiché solo le corrispondenze migliori vengono mostrate nella <span class="gui">Panoramica attività</span>, la ricerca dall'interno dell'applicazione potrebbe fornire risultati migliori.</p></div></div>
 </div></div>
 <div id="use-search-customize" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Personalizzare i risultati di ricerca</span></h2></div>
@@ -124,10 +114,9 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Per personalizzare ciò che è mostrato nei risultati di ricerca:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">system menu</a></span>
-        on the right side of the top bar.</p></li>
-<li class="steps"><p class="p">Click the settings button at the bottom left of the menu.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Search</span> in the left panel.</p></li>
+<li class="steps"><p class="p">Fare clic sul <span class="gui"><a href="shell-introduction.html.it#yourname" title="Tu e il tuo computer">menù di sistema</a></span> a destra nella barra superiore.</p></li>
+<li class="steps"><p class="p">Fare clic pulsante delle impostazioni in basso a sinistra nel menù.</p></li>
+<li class="steps"><p class="p">Fare clic su <span class="gui">Cerca</span> nel riquadro a sinistra.</p></li>
 <li class="steps"><p class="p">Nell'elenco delle posizioni di ricerca fare clic sull'interruttore <span class="gui">ON/OFF</span> accanto alla posizione di ricerca che si vuole abilitare o disabilitare.</p></li>
 </ol></div>
 </div></div>
@@ -142,7 +131,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.it" title="Primi passi">Primi passi con GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
+<a href="getting-started.html.it" title="Primi passi">Getting started with GNOME</a><span class="desc"> — Appena arrivati in GNOME? Imparate a muovere i primi passi.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

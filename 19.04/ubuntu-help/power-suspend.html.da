@@ -108,11 +108,11 @@ relying on it.</p>
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-autosuspend.html.da" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-batterylife.html.da" title="Brug mindre strøm og forbedr batteriets levetid">Brug mindre strøm og forbedr batteriets levetid</a><span class="desc"> — Tips til at reducere din computers strømforbrug.</span>
 </li>
-<li class="links "><a href="shell-exit.html.da#suspend" title="Suspend">Suspend</a></li>
+<li class="links "><a href="shell-exit.html.da#suspend" title="Hvile">Hvile</a></li>
 <li class="links ">
-<a href="power-batterylife.html.da" title="Use less power and improve battery life">Use less power and improve battery life</a><span class="desc"> — Tips to reduce the power consumption of your computer.</span>
+<a href="power-autosuspend.html.da" title="Opsæt automatisk hvile">Opsæt automatisk hvile</a><span class="desc"> — Configure your computer to suspend automatically.</span>
 </li>
 <li class="links ">
 <a href="power-suspendfail.html.da" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>

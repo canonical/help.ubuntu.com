@@ -89,6 +89,7 @@
 <div class="region"><div class="contents">
 <p class="p">Otra manera de ejecutar una aplicación es pulsar <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, introduciendo el <span class="em">nombre del comando</span> y pulsando la tecla <span class="key"><kbd>Intro</kbd></span>.</p>
 <p class="p">Por ejemplo, para lanzar <span class="app">Rhythmbox</span>, pulse <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> y escriba «<span class="cmd">rhythmbox</span>» (sin las comillas). El nombre de la aplicación es el comando para lanzar el programa.</p>
+<p class="p">Use the arrow keys to quickly access previously run commands.</p>
 </div></div>
 </div></div>
 </div>

@@ -84,7 +84,7 @@
 </div></div>
 <div id="beeps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">A számítógép sípolás után kikapcsol</span></h2></div>
-<div class="region"><div class="contents"><p class="p">Ha a számítógép bekapcsoláskor sípol néhányat, majd kikapcsol (vagy be sem kapcsol), az meghibásodást jelez. Ezen hangjelzések a számítógéppel kapcsolatos probléma típusát jelzik, és gyártónként eltérőek. A jelentésükkel kapcsolatban megnézheti a számítógép alaplapjának kézikönyvét, de inkább vigye szervizbe a számítógépét.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Ha a számítógép bekapcsoláskor sípol néhányat, majd kikapcsol (vagy be sem kapcsol), az meghibásodást jelez. A sípolásokra gyakran <span class="em">hangjelzésként</span> hivatkoznak, és a hangjelzés mintája arra szolgál, hogy megmondja, mi a probléma a számítógéppel. Ezen hangjelzések a számítógéppel kapcsolatos probléma típusát jelzik, és gyártónként eltérőek. A jelentésükkel kapcsolatban megnézheti a számítógép alaplapjának kézikönyvét, de inkább vigye szervizbe a számítógépét.</p></div></div>
 </div></div>
 <div id="fans" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">A számítógép ventilátorai pörögnek, de nem jelenik meg semmi a képernyőn</span></h2></div>

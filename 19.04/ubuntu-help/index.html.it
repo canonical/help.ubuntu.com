@@ -67,11 +67,11 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.it" title="Primi passi"><span class="title">Primi passi con GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">New to GNOME? Learn how to get around.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.it" title="Primi passi"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Appena arrivati in GNOME? Imparate a muovere i primi passi.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.it" title="Avviare applicazioni"><span class="title">Avviare applicazioni</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.it" title="Introduzione a GNOME"><span class="title">Introduzione a GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.it" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.it" title="Avviare applicazioni"><span class="title">Avviare applicazioni</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.it" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Imparare come terminare la sessione, cambiare utente e altro.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
@@ -87,10 +87,10 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.it" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless.html.it" title="Reti WiFi">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.it" title="Reti via cavo">wired</a></span>,
+      <span class="link"><a href="net-wireless.html.it" title="Wireless networking">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.it" title="Wired networking">wired</a></span>,
       <span class="link"><a href="net-problem.html.it" title="Problemi di rete">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.it" title="Browser web">web browsing</a></span>,
+      <span class="link"><a href="net-browser.html.it" title="Web browsers">web browsing</a></span>,
       <span class="link"><a href="net-email.html.it" title="Email e applicazioni per la posta elettronica">email accounts</a></span>…
     </span></div>
 </div>

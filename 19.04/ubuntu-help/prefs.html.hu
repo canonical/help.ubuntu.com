@@ -83,6 +83,10 @@
 <div class="desc"><span class="desc"><span class="link"><a href="clock-set.html.hu" title="Dátum és idő módosítása">Dátum és idő</a></span>, <span class="link"><a href="clock-world.html.hu" title="Világóra hozzáadása">világórák</a></span>, <span class="link"><a href="clock-timezone.html.hu" title="Időzóna megváltoztatása">időzóna</a></span>, <span class="link"><a href="clock-calendar.html.hu" title="Naptári találkozók">naptár és találkozók</a></span> beállítása…</span></div>
 </div>
 <div class="links-grid ">
+<div class="links-grid-link"><a href="mouse.html.hu" title="Egér és érintőtábla">Egér és érintőtábla</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.hu" title="Bal kezes egér használata">Balkezes</a></span>, <span class="link"><a href="mouse-sensitivity.html.hu" title="Az egér és érintőtábla sebességének módosítása">sebesség és érzékenység</a></span>, <span class="link"><a href="mouse-touchpad-click.html.hu" title="Kattintás, húzás vagy görgetés az érintőtáblával">kattintás és görgetés az érintőtáblával</a></span>…</span></div>
+</div>
+<div class="links-grid ">
 <div class="links-grid-link"><a href="power.html.hu" title="Energiagazdálkodás és akkumulátorok">Energiagazdálkodás és akkumulátorok</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="power-status.html.hu" title="Akkumulátorállapot ellenőrzése">Akkumulátor állapot</a></span>, <span class="link"><a href="power-suspend.html.hu" title="Mi történik a számítógép felfüggesztésekor?">felfüggesztés</a></span>, <span class="link"><a href="power-whydim.html.hu" title="Miért halványul el a képernyőm egy idő után?">képernyő elhalványítása</a></span>…</span></div>
 </div>
@@ -100,20 +104,11 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.hu" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.hu" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html.hu" title="A képernyő felbontásának vagy tájolásának módosítása">méret és tájolás</a></span>, <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">fényerő</a></span>, <span class="link"><a href="display-night-light.html.hu" title="A képernyő színhőmérsékletének beállítása">színhőmérséklet</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-sharing.html.hu" title="Megosztás beállításai">Megosztás beállításai</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="sharing-bluetooth.html.hu" title="Bluetooth megosztás szabályozása">Bluetooth megosztás</a></span>, <span class="link"><a href="sharing-personal.html.hu" title="Személyes fájljainak megosztása">Személyes fájlmegosztás</a></span> <span class="link"><a href="sharing-desktop.html.hu" title="Az asztal megosztása">Képernyőmegosztás</a></span>, <span class="link"><a href="sharing-media.html.hu" title="Zene, fényképek és videók megosztása">Médiamegosztás</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html.hu" title="Mouse &amp; Touchpad">Mouse &amp; Touchpad</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.hu" title="Bal kezes egér használata">Balkezes</a></span>, <span class="link"><a href="mouse-sensitivity.html.hu" title="Adjust the speed of the mouse and touchpad">sebesség és érzékenység</a></span>, <span class="link"><a href="mouse-touchpad-click.html.hu" title="Kattintás, húzás vagy görgetés az érintőtáblával">kattintás és görgetés az érintőtáblával</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="accounts.html.hu" title="Online fiókok">Online fiókok</a></div>

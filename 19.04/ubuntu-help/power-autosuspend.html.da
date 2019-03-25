@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Set up automatic suspend</title>
+<title>Opsæt automatisk hvile</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -71,7 +71,7 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Set up automatic suspend</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Opsæt automatisk hvile</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can configure your computer to automatically suspend when idle.
@@ -100,7 +100,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html.da#suspend" title="Suspend">Suspend</a></li>
+<li class="links "><a href="shell-exit.html.da#suspend" title="Hvile">Hvile</a></li>
 <li class="links ">
 <a href="power-suspend.html.da" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
 </li>

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.sl" title="Žične povezave">Žične povezave</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="net.html.sl" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.sl" title="Wired networking">Wired networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Ustvarite povezavo s stalnim naslovom IP</span></h1></div>
@@ -106,7 +106,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html.sl" title="Žične povezave">Žične povezave</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.sl" title="Povezava z žičnim (Eternet) omrežjem">Žične internetne povezave</a></span>, <span class="link"><a href="net-fixed-ip-address.html.sl" title="Ustvarite povezavo s stalnim naslovom IP">Stalni naslovi IP</a></span> …</span>
+<a href="net-wired.html.sl" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.sl" title="Povezava z žičnim (Eternet) omrežjem">Žične internetne povezave</a></span>, <span class="link"><a href="net-fixed-ip-address.html.sl" title="Ustvarite povezavo s stalnim naslovom IP">Stalni naslovi IP</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

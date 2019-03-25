@@ -65,7 +65,7 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.zh-CN" title="无线网络">无线网络</a> » <a class="trail" href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">无线网络故障排除</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="net.html.zh-CN" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.zh-CN" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">无线网络故障排除</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> › <a class="trail" href="hardware.html.zh-CN#problems" title="常见问题">问题</a> » <a class="trail" href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">无线网络故障排除</a> » </div>
 </div>
@@ -117,7 +117,12 @@
 <div id="usb" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">USB 无线适配器</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">插入 USB 端口的无线适配器很少见，它们可以直接插入 USB 端口，或者可以连接到 USB 插座上。3G/移动宽带适配器看着跟无线(wifi)很相似，因此如果您有一个 USB 无线适配器，双击检查它是否确实是一个 3G 适配器，要检查 USB 适配器是否被识别：</p>
+<p class="p">Wireless adapters that plug into a USB port on your computer are less
+  common. They can plug directly into a USB port, or may be connected by a USB
+  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
+  adapters, so if you think you have a USB wireless adapter, double-check that
+  it is not actually a 3G adapter. To check if your USB wireless adapter was
+  recognized:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">打开一个终端，输入 <span class="cmd">lsusb</span>，然后按<span class="key"><kbd>回车键</kbd></span>。</p></li>
 <li class="steps">

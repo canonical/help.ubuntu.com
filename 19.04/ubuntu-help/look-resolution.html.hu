@@ -2,7 +2,7 @@
 <html lang=hu>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change the resolution or orientation of the screen</title>
+<title>A képernyő felbontásának vagy tájolásának módosítása</title>
 <link rel="stylesheet" type="text/css" href="hu.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.hu" title="Felhasználói- és rendszerbeállítások">Beállítások</a> » <a class="trail" href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change the resolution or orientation of the screen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">A képernyő felbontásának vagy tájolásának módosítása</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">A <span class="em">képernyő felbontásának</span> módosításával megadhatja, hogy milyen nagyok (vagy részletesek) legyenek a képernyőn megjelenő objektumok. A <span class="em">forgatás</span> módosításával megadhatja, hogy melyik irányban legyen a képernyő teteje, ez akkor hasznos, ha forgatható kijelzője van.</p>
@@ -75,9 +75,9 @@
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Eszközök</span> lehetőségre az oldalsávon.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Kijelzők</span> elemre az oldalsávon a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Ha több kijelzője van, amelyek nem tükrözöttek, akkor az egyes kijelzők felbontása eltérő is lehet. Válasszon egy kijelezőt az előnézeti területen.</p></li>
-<li class="steps"><p class="p">Select the resolution or scale, and choose the orientation.</p></li>
+<li class="steps"><p class="p">Válassza ki a felbontást vagy a méretezést, és válassza ki a tájolást.</p></li>
 <li class="steps"><p class="p">Nyomja meg az <span class="gui">Alkalmaz</span> gombot. Az új beállítások 20 másodpercre alkalmazásra, majd visszavonásra kerülnek. Így ha nem lát semmit az új beállítások mellett, akkor a régi beállítások automatikusan visszaállításra kerülnek. Ha elégedett az új beállításokkal, akkor nyomja meg a <span class="gui">Változtatások megtartása</span> gombot.</p></li>
 </ol></div></div></div>
 </div>
@@ -89,25 +89,16 @@
 </div></div>
 </div></div>
 <div id="native" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Native Resolution</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The <span class="em">native resolution</span> of a laptop screen or LCD monitor is the
-  one that works best: the pixels in the video signal will line up precisely
-  with the pixels on the screen. When the screen is required to show other
-  resolutions, interpolation is necessary to represent the pixels, causing a
-  loss of image quality.</p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Natív felbontás</span></h2></div>
+<div class="region"><div class="contents"><p class="p">A laptop-képernyő vagy az LCD monitor <span class="em">natív felbontása</span> az, ami a legjobban működik: a videojelben lévő képpontok pontosan összeállnak a képernyőn lévő képpontokkal. Ha a képernyőnek más felbontást kell megjelenítenie, akkor a képpontok megjelenítéséhez interpoláció szükséges, ami a képminőség romlásához vezet.</p></div></div>
 </div></div>
 <div id="scale" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Scale</span></h2></div>
-<div class="region"><div class="contents"><p class="p">The scale setting increases the size of objects shown on the screen to
-  match the density of your display, making them easier to read. Choose from
-  <span class="gui">100%</span>, <span class="gui">200%</span>, or <span class="gui">300%</span>.</p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Méretezés</span></h2></div>
+<div class="region"><div class="contents"><p class="p">A méretezés beállítás növeli a képernyőn megjelenített objektumok méretét, hogy megegyezzenek a képernyő sűrűségével, ezáltal egyszerűbbé téve az olvasást. Válasszon <span class="gui">100%</span>, <span class="gui">200%</span> vagy <span class="gui">300%</span> közül.</p></div></div>
 </div></div>
 <div id="orientation" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Orientation</span></h2></div>
-<div class="region"><div class="contents"><p class="p">On some laptops and monitors, you can physically rotate the screen in many
-  directions. Click <span class="gui">Orientation</span> in the panel and choose from
-  <span class="gui">Landscape</span>, <span class="gui">Portrait Right</span>, <span class="gui">Portrait Left</span>, or
-  <span class="gui">Landscape (flipped)</span>.</p></div></div>
+<div class="hgroup"><h2 class="title"><span class="title">Tájolás</span></h2></div>
+<div class="region"><div class="contents"><p class="p">Néhány laptop és monitor esetén fizikailag is elforgathatja a képernyőt több irányba. Kattintson a <span class="gui">Tájolásra</span> a panelen, és válasszon a <span class="gui">Fekvő</span>, <span class="gui">Álló (jobbra)</span>, <span class="gui">Álló (balra)</span> vagy <span class="gui">Fekvő (fordított)</span> lehetőségek közül.</p></div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -115,12 +106,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.hu" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.hu" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html.hu" title="A képernyő felbontásának vagy tájolásának módosítása">méret és tájolás</a></span>, <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">fényerő</a></span>, <span class="link"><a href="display-night-light.html.hu" title="A képernyő színhőmérsékletének beállítása">színhőmérséklet</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

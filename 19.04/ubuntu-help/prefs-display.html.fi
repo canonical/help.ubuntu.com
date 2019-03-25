@@ -70,13 +70,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Näyttö</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="display-night-light.html.fi" title="Adjust the color temperature of your screen"><span class="title">Adjust the color temperature of your screen</span><span class="linkdiv-dash"> — </span><span class="desc">Night Light changes the color of your displays according to the time
-    of day.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-brightness.html.fi" title="Aseta näytön kirkkaus"><span class="title">Aseta näytön kirkkaus</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön kirkkautta parantaaksesi luettavuutta kirkkaassa valossa.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-blank.html.fi" title="Aseta näytön pimenemisaika"><span class="title">Aseta näytön pimenemisaika</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön pimenemisviivettä säästääksesi virtaa.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-resolution.html.fi" title="Change the resolution or orientation of the screen"><span class="title">Change the resolution or orientation of the screen</span><span class="linkdiv-dash"> — </span><span class="desc">Vaihda näytön tarkuutta ja suuntaa (kiertoa).</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.fi" title="Liitä toinen näyttö tietokoneeseesi"><span class="title">Liitä toinen näyttö tietokoneeseesi</span><span class="linkdiv-dash"> — </span><span class="desc">Määritä lisänäyttö.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-background.html.fi" title="Muuta työpöydän ja lukitusnäytön taustaa"><span class="title">Muuta työpöydän ja lukitusnäytön taustaa</span><span class="linkdiv-dash"> — </span><span class="desc">Aseta kuva, väri tai liukuväri työpöydän tai lukitusnäytön taustakuvaksi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-night-light.html.fi" title="Määritä näytön värilämpötila"><span class="title">Määritä näytön värilämpötila</span><span class="linkdiv-dash"> — </span><span class="desc">Yövalo muuttaa näytön värejä vuorokaudenajan mukaan.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.fi" title="Näyttö lukitsee itsensä liian nopeasti"><span class="title">Näyttö lukitsee itsensä liian nopeasti</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön lukitsemisen aikarajaa <span class="gui">Yksityisyys</span>-asetuksista.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -84,13 +83,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.fi" title="Mouse &amp; Touchpad">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.fi" title="Näyttö">display</a></span>,
-      <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">user accounts</a></span>…
-    </span>
+<a href="prefs.html.fi" title="Käyttäjän ja järjestelmän asetukset">Käyttäjän ja järjestelmän asetukset</a><span class="desc"> — <span class="link"><a href="keyboard.html.fi" title="Näppäimistö">Näppäimistö</a></span>, <span class="link"><a href="mouse.html.fi" title="Mouse &amp; Touchpad">hiiri ja kosketuslevy</a></span>, <span class="link"><a href="prefs-display.html.fi" title="Näyttö">näyttö</a></span>, <span class="link"><a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">kielet</a></span>, <span class="link"><a href="user-accounts.html.fi" title="Käyttäjätilit">käyttäjätilit</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

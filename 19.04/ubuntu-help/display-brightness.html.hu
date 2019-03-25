@@ -83,7 +83,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Kattintson az <span class="gui">Energiagazdálkodás</span> elemre az oldalsávon.</p></li>
 <li class="steps"><p class="p">Mozgassa a <span class="gui">Képernyő fényereje</span> csúszkát a használni kívánt értékre. A változás azonnal életbe lép.</p></li>
 </ol></div>
 </div></div>
@@ -100,12 +100,7 @@
 <a href="hardware-problems-graphics.html.hu" title="Képernyőproblémák">Képernyőproblémák</a><span class="desc"> — Képernyő- és grafikai hibák elhárítása.</span>
 </li>
 <li class="links ">
-<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.hu" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.hu" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html.hu" title="A képernyő felbontásának vagy tájolásának módosítása">méret és tájolás</a></span>, <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">fényerő</a></span>, <span class="link"><a href="display-night-light.html.hu" title="A képernyő színhőmérsékletének beállítása">színhőmérséklet</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

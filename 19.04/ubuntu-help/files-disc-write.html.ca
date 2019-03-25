@@ -70,7 +70,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Escriure fitxers en un CD o DVD</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Pot posar arxius en un disc en blanc utilitzant <span class="gui">CD/DVD Creator</span>. L'opció de crear un CD o DVD apareixerà al gestor de fitxers tan aviat com col·loqueu el CD al vostre escriptor de CD/DVD. El gestor de fitxers us permet transferir fitxers a altres equips o realitzar <span class="link"><a href="backup-why.html.ca" title="Fer còpies de seguretat dels fitxers importants">còpies de seguretat</a></span> posant els fitxers en un disc en blanc. Per escriure fitxers en un CD o DVD:</p>
+<p class="p">Pot posar fitxers en un disc en blanc utilitzant <span class="gui">Creador de CD/DVD</span>. L'opció de crear un CD o DVD apareixerà al gestor de fitxers tan aviat com col·loqueu el CD al vostre escriptor de CD/DVD. El gestor de fitxers us permet transferir fitxers a altres equips o realitzar <span class="link"><a href="backup-why.html.ca" title="Fer còpies de seguretat dels fitxers importants">còpies de seguretat</a></span> posant els fitxers en un disc en blanc. Per escriure fitxers en un CD o DVD:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Col·loqueu un disc buit a la unitat de gravació de CD / DVD.</p></li>
 <li class="steps">
@@ -82,14 +82,14 @@
 <li class="steps"><p class="p">Feu clic a <span class="gui">Escriu al disc</span>.</p></li>
 <li class="steps">
 <p class="p">A <span class="gui">Seleccioneu un disc per escriure-hi</span>, trieu el disc en blanc.</p>
-<p class="p">(En aquest cas, podeu triar l'<span class="gui">arxiu d'imatge</span>. Es desaran els fitxers en un <span class="em">disc imatge</span>, que es guardarà a l'ordinador. Aleshores, podreu gravar aquesta imatge del disc en un disc en blanc més endavant).</p>
+<p class="p">(En aquest cas, podeu triar l'<span class="gui">fitxer d'imatge</span>. Es desaran els fitxers en un <span class="em">disc imatge</span>, que es guardarà a l'ordinador. Aleshores, podreu gravar aquesta imatge del disc en un disc en blanc més endavant).</p>
 </li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Propietats</span>si voleu ajustar la velocitat de gravació, la ubicació dels fitxers temporals i altres opcions. Les opcions predeterminades haurien d'estar bé.</p></li>
 <li class="steps">
 <p class="p">Feu clic al botó <span class="gui">Gravar</span> per començar a gravar.</p>
 <p class="p">Si s'ha seleccionat <span class="gui">Gravar Diverses Copies</span>, se us demanarà discs addicionals.</p>
 </li>
-<li class="steps"><p class="p">Quan la gravació del disc s'hagi completat, s'expulsarà automàticament. Trieu <span class="gui">Fer més còpies</span> o <span class="gui">Tancar</span> per sortir..</p></li>
+<li class="steps"><p class="p">Quan la gravació del disc s'hagi completat, s'expulsarà automàticament. Trieu <span class="gui">Fer més còpies</span> o <span class="gui">Tanca</span> per sortir.</p></li>
 </ol></div></div></div>
 </div>
 <div id="problem" class="sect"><div class="inner">

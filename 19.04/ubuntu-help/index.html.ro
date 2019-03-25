@@ -67,13 +67,12 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.ro" title="Primii pași"><span class="title">Primii pași în GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Este GNOME nou pentru dumneavoastră? Învățați cum să-l utilizați.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.ro" title="Primii pași"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Este GNOME nou pentru dumneavoastră? Învățați cum să-l utilizați.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ro" title="Introduction to GNOME"><span class="title">Introduction to GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ro" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ro" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
-    users, and so on.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ro" title="Start applications"><span class="title">Start applications</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.ro" title="Deautentificarea, închiderea și schimbarea utilizatorilor"><span class="title">Deautentificarea, închiderea și schimbarea utilizatorilor</span><span class="linkdiv-dash"> — </span><span class="desc">Învățați cum să părăsiți contul de utilizator, deautentificându-vă, schimbând utilizatorii și altele.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.ro" title="Pornirea aplicațiilor"><span class="title">Pornirea aplicațiilor</span><span class="linkdiv-dash"> — </span><span class="desc">Lansați aplicații din vederea de ansamblu <span class="gui">Activități</span>.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
@@ -81,19 +80,13 @@
 <div class="desc"><span class="desc">
       <span class="link"><a href="clock-calendar.html.ro" title="Calendar appointments">Calendar</a></span>,
       <span class="link"><a href="shell-notifications.html.ro" title="Notifications and the notification list">notifications</a></span>,
-      <span class="link"><a href="shell-keyboard-shortcuts.html.ro" title="Useful keyboard shortcuts">keyboard shortcuts</a></span>,
+      <span class="link"><a href="shell-keyboard-shortcuts.html.ro" title="Scurtături de tastatură folositoare">keyboard shortcuts</a></span>,
       <span class="link"><a href="shell-windows.html.ro" title="Windows and workspaces">windows and workspaces</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net.html.ro" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless.html.ro" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.ro" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html.ro" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.ro" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html.ro" title="Email &amp; email software">email accounts</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="net.html.ro" title="Rețea, web și email">Rețea, web și email</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.ro" title="Wireless networking">Conexiuni fără fir</a></span>, <span class="link"><a href="net-wired.html.ro" title="Wired networking">conexiuni cu fir</a></span>, <span class="link"><a href="net-problem.html.ro" title="Network problems">probleme de conexiune</a></span>, <span class="link"><a href="net-browser.html.ro" title="Web browsers">navigare pe web</a></span>, <span class="link"><a href="net-email.html.ro" title="Email &amp; email software">conturi de email</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.ro" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a></div>
@@ -122,25 +115,12 @@
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html.ro" title="User &amp; system settings">User &amp; system settings</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard.html.ro" title="Keyboard">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.ro" title="Mouse &amp; Touchpad">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.ro" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.ro" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.ro" title="User accounts">user accounts</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="prefs.html.ro" title="Utilizatori și configurări de sistem">Utilizatori și configurări de sistem</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.ro" title="Keyboard">Tastatură</a></span>, <span class="link"><a href="mouse.html.ro" title="Mouse &amp; Touchpad">maus și touchpad</a></span>, <span class="link"><a href="prefs-display.html.ro" title="Display &amp; screen">ecran</a></span>, <span class="link"><a href="prefs-language.html.ro" title="Region &amp; Language">limbi</a></span>, <span class="link"><a href="user-accounts.html.ro" title="User accounts">conturi utilizator</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="hardware.html.ro" title="Hardware &amp; drivers">Hardware &amp; drivers</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="hardware.html.ro#problems" title="Common problems">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.ro" title="Printing">printers</a></span>,
-      <span class="link"><a href="power.html.ro" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.ro" title="Color management">color management</a></span>,
-      <span class="link"><a href="bluetooth.html.ro" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html.ro" title="Disks &amp; storage">disks</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="hardware.html.ro" title="Hardware și drivere">Hardware și drivere</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.ro#problems" title="Common problems">Probleme hardware</a></span>, <span class="link"><a href="printing.html.ro" title="Printing">imprimante</a></span>, <span class="link"><a href="power.html.ro" title="Consum și baterie">configurări de consum</a></span>, <span class="link"><a href="color.html.ro" title="Color management">administrarea culorilor</a></span>, <span class="link"><a href="bluetooth.html.ro" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.ro" title="Disks &amp; storage">discuri</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="a11y.html.ro" title="Acces universal">Acces universal</a></div>

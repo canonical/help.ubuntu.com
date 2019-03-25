@@ -82,10 +82,9 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para estabelecer o tempo para apagar a pantalla:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>  e comoece a escribir <span class="gui">Preferencias</span>.</p></li>
+<li class="steps"><p class="p">Prema en <span class="gui">Preferencias</span>.</p></li>
+<li class="steps"><p class="p">Prema <span class="gui">Enerxía</span> no diálogo de confirmación.</p></li>
 <li class="steps"><p class="p">Use the <span class="gui">Blank screen</span> drop-down list under <span class="gui">Power
       Saving</span> to set the time until the screen blanks, or disable the blanking
       completely.</p></li>

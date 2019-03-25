@@ -67,7 +67,7 @@
 <div class="trail">
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hi" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.hi" title="Network problems">Network problems</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hi" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.hi" title="Wireless Networking">Wireless Networking</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.hi" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.hi" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.hi" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -129,14 +129,14 @@
 <li class="links ">
 <a href="net-problem.html.hi" title="Network problems">Network problems</a><span class="desc"> — 
       <span class="link"><a href="net-wireless-troubleshooting.html.hi" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.hi" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+      <span class="link"><a href="net-wireless-find.html.hi" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
     </span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.hi" title="Wireless Networking">Wireless Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.hi" title="Connect to a wireless network">Connect to wifi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.hi" title="Connect to a hidden wireless network">Hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.hi" title="Why does my wireless network keep disconnecting?">Disconnecting</a></span>…
+<a href="net-wireless.html.hi" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.hi" title="Connect to a wireless network">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.hi" title="Connect to a hidden wireless network">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.hi" title="Why does my wireless network keep disconnecting?">Wi-Fi disconnecting</a></span>…
     </span>
 </li>
 </ul></div>

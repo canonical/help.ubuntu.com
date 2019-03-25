@@ -73,13 +73,9 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Details</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Date &amp; Time</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">If you have <span class="gui">Automatic Time Zone</span> set to <span class="gui">ON</span>, your
-      time zone should update automatically if you have an internet
-      connection and the <span class="link"><a href="privacy-location.html.es" title="Controlar los servicios de ubicación">location services feature</a></span>
-      is enabled. To update your time zone manually, set this to
-      <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Detalles</span> en la barra lateral.</p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Fecha y hora</span> en la barra lateral para abrir el panel.</p></li>
+<li class="steps"><p class="p">Si tiene <span class="gui">Activada</span> la <span class="gui">Zona horaria automática</span>, su zona horaria se debería actualizar automáticamente si tiene una conexión a Internet y la característica de servicios de ubicación está activada. Para actualizar su zona horaria manualmente, <span class="gui">Desactívela</span>.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Zona horaria</span> y seleccione su ubicación en el mapa o busque su ciudad actual.</p></li>
 </ol></div></div></div>
 <p class="p">La hora se actualizará automáticamente cuando seleccione una ubicación diferente. También puede querer <span class="link"><a href="clock-set.html.es" title="Cambiar la fecha y la hora">configurar el reloj manualmente</a></span>.</p>

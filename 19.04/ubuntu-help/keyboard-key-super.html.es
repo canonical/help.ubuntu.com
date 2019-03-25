@@ -81,7 +81,7 @@
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Dispositivos</span> en la barra lateral.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Teclado</span> en la barra lateral para abrir el panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">System</span> category, click the row with <span class="gui">Show the
       activities overview</span>.</p></li>
 <li class="steps"><p class="p">Pulse la combinación de teclas que quiere.</p></li>

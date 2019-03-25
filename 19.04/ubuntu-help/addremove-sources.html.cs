@@ -85,7 +85,7 @@
 <li class="steps">
 <p class="p">Klikněte na <span class="gui">Přidat</span> a vložte APT řádku zdroje. Ta by měla být dostupná na webové stránce zdroje softwaru a měla by vypadat podobně jako:</p>
 <p class="p">
-        <span class="code">deb http://archive.ubuntu.com/ubuntu/ cosmic main</span>
+        <span class="code">deb http://archive.ubuntu.com/ubuntu/ disco main</span>
       </p>
 </li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Přidat zdroj</span>, poté zavřete okno <span class="app">Software &amp; Aktualizace</span>. <span class="app">Ubuntu Software</span> následně zkontroluje vaše zdroje softwaru na nový software.</p></li>
@@ -98,7 +98,7 @@
 <p class="p">Partnerský repozitář Canonical poskytuje některé proprietární aplikace, které nestojí žádné peníze, ale mají uzavřený zdrojový kód. Patří mezi ně například <span class="app">zásuvný modul Adobe Flash</span>. Software z tohoto repozitáře se zobrazí ve výsledcích vyhledávání v <span class="app">Ubuntu Software</span>, ale nebude možno jej nainstalovat, než bude tento repozitář povolen.</p>
 <p class="p">Pro povolení tohoto repozitáře se řiďte instrukcemi výše pro otevření karty <span class="gui">Ostatní software</span> v <span class="app">Software &amp; Aktualizace</span>. Pokud v seznamu vidíte repozitář <span class="gui">Partneři Canonicalu</span>, ujistěte se, že je zaškrtnut a poté zavřete okno <span class="app">Software &amp; Aktualizace</span>. Pokud jej nevidíte, klikněte na <span class="gui">Přidat</span> a vložte:</p>
 <p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu cosmic partner</span>
+      <span class="code">deb http://archive.canonical.com/ubuntu disco partner</span>
     </p>
 <p class="p">Klikněte na <span class="gui">Přidat zdroj</span>, poté zavřete okno <span class="app">Software &amp; Aktualizace</span>. Poté chvíli počkejte, než <span class="app">Ubuntu Software</span> stáhne informace o repozitáři.</p>
 </div></div>

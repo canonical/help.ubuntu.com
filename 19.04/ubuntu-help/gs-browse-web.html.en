@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.en" title="Getting Started">Getting Started with GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.en" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.en" title="Getting Started">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -109,13 +109,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">More Information</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.en" title="Getting Started">Getting Started with GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
+<a href="getting-started.html.en" title="Getting Started">Getting started with GNOME</a><span class="desc"> — New to GNOME? Learn how to get around.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">See Also</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.en" title="Web Browsers">Web Browsers</a><span class="desc"> — 
+<a href="net-browser.html.en" title="Web browsers">Web browsers</a><span class="desc"> — 
       <span class="link"><a href="net-default-browser.html.en" title="Change which web browser opens websites by default">Change the default browser</a></span>,
       <span class="link"><a href="net-install-flash.html.en" title="Install the Flash plug-in">install Flash</a></span>…
     </span>

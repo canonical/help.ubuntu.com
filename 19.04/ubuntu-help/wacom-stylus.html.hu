@@ -74,17 +74,13 @@
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Eszközök</span> lehetőségre az oldalsávon.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Wacom Tablet</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Wacom rajztábla</span> elemre az oldalsávon a panel megnyitásához.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Stylus</span> button in the header bar.</p>
-<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">If no stylus is detected, you’ll be asked to
-    <span class="gui">Please move your stylus to the proximity of the tablet to configure
-    it</span>.</p></div></div></div></div>
+<p class="p">Kattintson a <span class="gui">Stylus</span> gombra a fejlécsávon.</p>
+<div class="note note-tip" title="Tipp"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha a stylus nem került felismerésre, akkor a program megkéri, hogy <span class="gui">Vigye a stylust a tábla közelébe, hogy beállítsa azt</span>.</p></div></div></div></div>
 </li>
 <li class="steps">
-<p class="p">The panel contains details and settings specific to your stylus,
-   with the device name (the stylus class) and diagram to the left. These
-   settings can be adjusted:</p>
+<p class="p">A panel a stylusra jellemző részleteket és beállításokat tartalmaz az eszköz nevével (a stylus osztályával) és ábrájával a bal oldalon. A következő beállítások módosíthatók:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Radír nyomásérzékenysége:</span> a csúszka segítségével módosítsa az „érzékenységet” (a fizikai nyomás digitális értékekre fordításának módját) a <span class="gui">Lágy</span> és <span class="gui">Kemény</span> között.</p></li>
 <li class="list"><p class="p"><span class="gui">Gomb/gördítőkerék</span> beállításai (ezek a stylust tükrözve változnak). Kattintson az egyes címkék melletti menükre az egyik funkció kiválasztásához: Nincs művelet, Kattintás a bal egérgombbal, Kattintás a középső egérgombbal, Kattintás a jobb egérgombbal, Görgetés felfelé, Görgetés lefelé, Görgetés balra, Görgetés jobbra, Vissza, Előre.</p></li>
@@ -92,8 +88,7 @@
 </ul></div></div></div>
 </li>
 </ol></div></div></div>
-<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">If you have more than one stylus, use the pager next to
-  the stylus device name to choose which stylus to configure.</p></div></div></div></div>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha több stylusa van, akkor használja a stylus eszközneve melletti lapozót annak kiválasztásához, hogy melyik stylust szeretné beállítani.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

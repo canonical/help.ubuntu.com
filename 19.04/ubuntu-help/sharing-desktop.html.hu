@@ -74,7 +74,7 @@
 <div class="hgroup"><h1 class="title"><span class="title">Az asztal megosztása</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Lehetővé teheti másoknak, hogy egy asztalmegjelenítő alkalmazás segítségével megjelenítsék és irányítsák asztalát egy másik számítógépről. A <span class="app">Képernyőmegosztás</span> beállítóablakában lehetővé teheti másoknak az asztala elérését, és megadhatja a biztonsági beállításokat is.</p>
+<p class="p">Lehetővé teheti másoknak, hogy egy asztalmegjelenítő alkalmazás segítségével megjelenítsék és irányítsák asztalát egy másik számítógépről. A <span class="gui">Képernyőmegosztás</span> beállítóablakában lehetővé teheti másoknak az asztala elérését, és megadhatja a biztonsági beállításokat is.</p>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents">
 <p class="p">A <span class="gui">Képernyőmegosztás</span> csak akkor látható, ha a <span class="app">Vino</span> csomag telepítve van.</p>
 <p class="p"><span class="link-button link"><a href="apt:vino" title="apt:vino">A Vino telepítése</a></span></p>
@@ -82,7 +82,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sharing</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Megosztás</span> elemre az oldalsávon a panel megnyitásához.</p></li>
 <li class="steps">
 <p class="p">Ha a <span class="gui">Megosztás</span> <span class="gui">KI</span> van kapcsolva, akkor kapcsolja <span class="gui">BE</span> állásba a kapcsolót.</p>
 <div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Ha a <span class="gui">Számítógép neve</span> alatti szöveg szerkeszthető, akkor <span class="link"><a href="sharing-displayname.html.hu" title="A számítógép megjelenő nevének beállítása">megváltoztathatja</a></span> a számítógép által a hálózaton megjelenített nevet.</p></div></div></div></div>
@@ -120,14 +120,13 @@
 <div id="disconnect" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Az asztal megosztásának befejezése</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">To disconnect someone who is viewing your desktop:</p>
+<p class="p">Az asztalát néző személy kapcsolatának bontásához:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sharing</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p"><span class="gui">Screen Sharing</span> will show as <span class="gui">Active</span>. Click on
-      it.</p></li>
-<li class="steps"><p class="p">Toggle the switch at the top to <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Megosztás</span> elemre az oldalsávon a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">A <span class="gui">Képernyőmegosztás</span> <span class="gui">Aktívként</span> jelenik meg. Kattintson rá.</p></li>
+<li class="steps"><p class="p">Kapcsolja át a fenti kapcsolót <span class="gui">KI</span> állásba.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>

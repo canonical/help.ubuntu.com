@@ -64,24 +64,24 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wired.html.ca" title="Xarxa cablejada">Xarxa cablejada</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wired.html.ca" title="Wired networking">Wired networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Crear una connexió amb una IP fixa</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">La majoria de les xarxes assignen automàticament una <span class="link"><a href="net-what-is-ip-address.html.ca" title="Què és una adreça IP?">adreça IP i</a></span> altres detalls a l'ordinador quan es connecta a la xarxa. Aquestes dades poden canviar periòdicament, però és possible que vulgueu tenir una IP fixa per a l'ordinador, de manera que sempre se sàpiga quina és la seva adreça (per exemple, si és un servidor de fitxers)</p>
+<p class="p">La majoria de les xarxes assignen automàticament una <span class="link"><a href="net-what-is-ip-address.html.ca" title="Què és una adreça IP?">Adreça IP</a></span> i altres detalls a l'ordinador quan es connecta a la xarxa. Aquestes dades poden canviar periòdicament, però és possible que vulgueu tenir una IP fixa per a l'ordinador, de manera que sempre se sàpiga quina és la seva adreça (per exemple, si és un servidor de fitxers)</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Per donar a l'ordinador una adreça IP (estàtica) fixa:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Xarxa</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Xarxa</span> per obrir el panell.</p></li>
-<li class="steps"><p class="p">Al panell esquerre, seleccioneu la connexió de xarxa que vulgueu tenir una adreça fixa. Si es connecta a la xarxa amb un cable, feu clic a <span class="gui">Cable</span>, aleshores feu clic al botó <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuració"></span></span> a l'extrem inferior dret del panell. Per a connexions<span class="gui">Wi-Fi</span>, el botó <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuració"></span></span> es localitza al costat de la xarxa activa.</p></li>
+<li class="steps"><p class="p">Al panell esquerre, seleccioneu la connexió de xarxa que vulgueu tenir una adreça fixa. Si es connecta a la xarxa amb un cable, feu clic a <span class="gui">Amb fil</span>, aleshores feu clic al botó <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuració"></span></span> a l'extrem inferior dret del panell. Per a connexions<span class="gui">Wi-Fi</span>, el botó <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuració"></span></span> es localitza al costat de la xarxa activa.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">IPv4</span> o <span class="gui">IPv6</span> al panell esquerre i canvieu les <span class="gui">Adreces</span> a <span class="em">Manual</span>.</p></li>
 <li class="steps"><p class="p">Escriviu l'<span class="gui"><a href="net-what-is-ip-address.html.ca" title="Què és una adreça IP?">Adreça IP</a></span> i la <span class="gui">Passarel·la</span>, així com la <span class="gui">màscara de xarxa</span> adequada.</p></li>
 <li class="steps"><p class="p">A la secció <span class="gui">DNS</span>, canvieu <span class="gui">Automàtic</span> a <span class="gui">OFF</span>. Introduïu l'adreça IP del servidor DNS que voleu utilitzar. Introduïu adreces de servidors DNS addicionals utilitzant el botó <span class="gui">+</span>.</p></li>
 <li class="steps"><p class="p">A la secció <span class="gui">Rutes</span>, canvieu <span class="gui">Automàtic</span> a <span class="gui">OFF</span>. Entreu l'<span class="gui">Adreça</span>, <span class="gui">Màscara de xarxa</span>, <span class="gui">Passarel·la</span> i <span class="gui">Mètrica</span> de la ruta que vulgueu utilitzar. Entreu rutes addicionals utilitzant el botó <span class="gui">+</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Aplicar</span>. La connexió de xarxa hauria de tenir ara una adreça IP fixa.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Aplica</span>. La connexió de xarxa hauria de tenir ara una adreça IP fixa.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -91,7 +91,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html.ca" title="Xarxa cablejada">Xarxa cablejada</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.ca" title="Connecteu-vos a una xarxa de cable (Ethernet)">Connexions a internet per cable</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ca" title="Crear una connexió amb una IP fixa">Adreça IP fixa</a></span>…</span>
+<a href="net-wired.html.ca" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.ca" title="Connecteu-vos a una xarxa de cable (Ethernet)">Connexions a internet per cable</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ca" title="Crear una connexió amb una IP fixa">Adreça IP fixa</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

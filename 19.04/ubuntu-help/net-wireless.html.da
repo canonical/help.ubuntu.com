@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wireless Networking</title>
+<title>Trådløst netværk</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,33 +64,33 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Wireless Networking</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Trådløst netværk</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html.da" title="Connect to a wireless network"><span class="title">Connect to a wireless network</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet — wirelessly.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.da" title="Connect to a VPN"><span class="title">Connect to a VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html.da" title="Connect to a hidden wireless network"><span class="title">Connect to a hidden wireless network</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to a wireless network that is not displayed in the network
-    list.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-mobile.html.da" title="Connect to mobile broadband"><span class="title">Connect to mobile broadband</span><span class="linkdiv-dash"> — </span><span class="desc">Use your phone or Internet stick to connect to the mobile broadband
-    network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html.da" title="Create a wireless hotspot"><span class="title">Create a wireless hotspot</span><span class="linkdiv-dash"> — </span><span class="desc">Use an ad-hoc network to allow other devices to connect to your
-    computer and its network connections.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.da" title="I can’t see my wireless network in the list"><span class="title">I can’t see my wireless network in the list</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-connect.html.da" title="Opret forbindelse til et trådløst netværk"><span class="title">Opret forbindelse til et trådløst netværk</span><span class="linkdiv-dash"> — </span><span class="desc">Get on the internet — wirelessly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk"><span class="title">Fejlsøgning af trådløst netværk</span><span class="linkdiv-dash"> — </span><span class="desc">Identify and fix problems with wireless connections.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html.da" title="Hvad betyder WEP og WPA?"><span class="title">Hvad betyder WEP og WPA?</span><span class="linkdiv-dash"> — </span><span class="desc">WEP and WPA are ways of encrypting data on wireless networks.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html.da" title="Hvorfor bliver mit trådløse netværk ved med at afbryde forbindelsen?"><span class="title">Hvorfor bliver mit trådløse netværk ved med at afbryde forbindelsen?</span><span class="linkdiv-dash"> — </span><span class="desc">You might have low signal, or the network might not be letting you
+    connect properly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html.da" title="Jeg har indtastet den korrekte adgangskode, men jeg kan stadigvæk ikke oprette forbindelse"><span class="title">Jeg har indtastet den korrekte adgangskode, men jeg kan stadigvæk ikke oprette forbindelse</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-find.html.da" title="Jeg kan ikke se mit trådløse netværk i listen"><span class="title">Jeg kan ikke se mit trådløse netværk i listen</span><span class="linkdiv-dash"> — </span><span class="desc">The wireless could be turned off or broken, or you may be trying to
     connect to a hidden network.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-noconnection.html.da" title="I’ve entered the correct password, but I still can’t connect"><span class="title">I’ve entered the correct password, but I still can’t connect</span><span class="linkdiv-dash"> — </span><span class="desc">Double-check the password, and other things to try.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-manual.html.da" title="Manually set network settings"><span class="title">Manually set network settings</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
+<div class="linkdiv "><a class="linkdiv" href="net-manual.html.da" title="Manuel opsætning af netværksindstillinger"><span class="title">Manuel opsætning af netværksindstillinger</span><span class="linkdiv-dash"> — </span><span class="desc">You may have to enter network settings if they don’t get assigned
     automatically.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-adhoc.html.da" title="Opret et trådløst hotspot"><span class="title">Opret et trådløst hotspot</span><span class="linkdiv-dash"> — </span><span class="desc">Use an ad-hoc network to allow other devices to connect to your
+    computer and its network connections.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-vpn-connect.html.da" title="Opret forbindelse til et VPN"><span class="title">Opret forbindelse til et VPN</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a VPN connection to a local network over the internet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wireless-hidden.html.da" title="Opret forbindelse til et skjult trådløst netværk"><span class="title">Opret forbindelse til et skjult trådløst netværk</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to a wireless network that is not displayed in the network
+    list.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-mobile.html.da" title="Opret forbindelse til mobilt bredbånd"><span class="title">Opret forbindelse til mobilt bredbånd</span><span class="linkdiv-dash"> — </span><span class="desc">Use your phone or Internet stick to connect to the mobile broadband
+    network.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-wireless-airplane.html.da" title="Turn off wireless (airplane mode)"><span class="title">Turn off wireless (airplane mode)</span><span class="linkdiv-dash"> — </span><span class="desc">Open Network Settings and switch Airplane Mode to ON.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-wepwpa.html.da" title="What do WEP and WPA mean?"><span class="title">What do WEP and WPA mean?</span><span class="linkdiv-dash"> — </span><span class="desc">WEP and WPA are ways of encrypting data on wireless networks.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-disconnecting.html.da" title="Why does my wireless network keep disconnecting?"><span class="title">Why does my wireless network keep disconnecting?</span><span class="linkdiv-dash"> — </span><span class="desc">You might have low signal, or the network might not be letting you
-    connect properly.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter"><span class="title">Wireless network troubleshooter</span><span class="linkdiv-dash"> — </span><span class="desc">Identify and fix problems with wireless connections.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -99,12 +99,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html.da" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.da" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html.da" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.da" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html.da" title="Email &amp; email software">email accounts</a></span>…
+<a href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless.html.da" title="Trådløst netværk">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.da" title="Kablet netværk">wired</a></span>,
+      <span class="link"><a href="net-problem.html.da" title="Netværksproblemer">connection problems</a></span>,
+      <span class="link"><a href="net-browser.html.da" title="Webbrowsere">web browsing</a></span>,
+      <span class="link"><a href="net-email.html.da" title="E-mail &amp; e-mailsoftware">email accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>
@@ -112,17 +112,20 @@
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.da" title="Network problems">Network problems</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.da" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+<a href="status-icons.html.da#networkicons" title="Ikoner for netværkshåndtering">Ikoner for netværkshåndtering</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
+<li class="links ">
+<a href="net-problem.html.da" title="Netværksproblemer">Netværksproblemer</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.da" title="Jeg kan ikke se mit trådløse netværk i listen">finding your Wi-Fi network</a></span>…
     </span>
 </li>
 <li class="links ">
 <a href="net-general.html.da" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html.da" title="Find your IP address">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html.da" title="What do WEP and WPA mean?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html.da" title="What is a MAC address?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html.da" title="Define proxy settings">proxies</a></span>…
+      <span class="link"><a href="net-findip.html.da" title="Find din IP-adresse">Find your IP address</a></span>,
+      <span class="link"><a href="net-wireless-wepwpa.html.da" title="Hvad betyder WEP og WPA?">WEP &amp; WPA security</a></span>,
+      <span class="link"><a href="net-macaddress.html.da" title="Hvad er en MAC-adresse?">MAC addresses</a></span>,
+      <span class="link"><a href="net-proxy.html.da" title="Definer proxyindstillinger">proxies</a></span>…
     </span>
 </li>
 </ul></div>

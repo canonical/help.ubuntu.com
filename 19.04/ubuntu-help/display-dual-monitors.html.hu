@@ -78,46 +78,36 @@
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
 <li class="steps"><p class="p">Kattintson az <span class="gui">Eszközök</span> lehetőségre az oldalsávon.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Display Arrangement</span> diagram, drag your displays to
-      the relative positions you want.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Kijelzők</span> elemre az oldalsávon a panel megnyitásához.</p></li>
+<li class="steps"><p class="p">A <span class="gui">Kijelzők elrendezése</span> diagramon húzza a kijelzőit a kívánt relatív helyekre.</p></li>
 <li class="steps">
-<p class="p">Click <span class="gui">Primary Display</span> to choose your primary display.</p>
-<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">The primary display is the one with the
-        <span class="link"><a href="shell-introduction.html.hu" title="A GNOME bemutatása">top bar</a></span>, and where the
-        <span class="gui">Activities</span> overview is shown.</p></div></div></div></div>
+<p class="p">Kattintson az <span class="gui">Elsődleges kijelző</span> elemre az elsődleges kijelző kiválasztásához.</p>
+<div class="note" title="Megjegyzés"><div class="inner"><div class="region"><div class="contents"><p class="p">Az elsődleges kijelzőn látható a <span class="link"><a href="shell-introduction.html.hu" title="A GNOME bemutatása">felső sáv</a></span>, és ezen jelenik meg a <span class="gui">Tevékenységek</span> áttekintés.</p></div></div></div></div>
 </li>
-<li class="steps"><p class="p">Select the resolution or scale, and choose the orientation.</p></li>
+<li class="steps"><p class="p">Válassza ki a felbontást vagy a méretezést, és válassza ki a tájolást.</p></li>
 <li class="steps"><p class="p">Nyomja meg az <span class="gui">Alkalmaz</span> gombot. Az új beállítások 20 másodpercre alkalmazásra, majd visszavonásra kerülnek. Így ha nem lát semmit az új beállítások mellett, akkor a régi beállítások automatikusan visszaállításra kerülnek. Ha elégedett az új beállításokkal, akkor nyomja meg a <span class="gui">Változtatások megtartása</span> gombot.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
 <div id="modes" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Display modes</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Megjelenítési módok</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">With two screens, these display modes are available:</p>
+<p class="p">Két képernyővel ezek a megjelenítési módok érhetők el:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Join Displays:</span> screen edges are joined so things can
-      pass from one display to another.</p></li>
-<li class="list"><p class="p"><span class="gui">Mirror:</span> the same content is shown on two displays,
-      with the same resolution and orientation for both.</p></li>
-<li class="list"><p class="p"><span class="gui">Single Display:</span> only one display is configured,
-      effectively turning off the other one. For instance, an external monitor
-      connected to a docked laptop with the lid closed would be the single
-      configured display.</p></li>
+<li class="list"><p class="p"><span class="gui">Kijelzők egyesítése:</span> a képernyőszélek egyesítve lesznek, így a dolgok átmehetnek az egyik kijelzőről a másikra.</p></li>
+<li class="list"><p class="p"><span class="gui">Tükrözés:</span> ugyanaz a tartalom jelenik meg mindkét kijelzőn ugyanolyan felbontással és tájolással.</p></li>
+<li class="list"><p class="p"><span class="gui">Másodlagos kijelző:</span> csak egy kijelző van beállítva, amely kikapcsolja a másikat. Például egy lehajtott tetejű, dokkolóban lévő laptophoz csatlakoztatott külső monitor lehet a másodlagos beállított kijelző.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
 <div id="multiple" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Adding more than one monitor</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Több monitor hozzáadása</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">With more than two screens, <span class="gui">Join Displays</span> is the only mode
-    available.</p>
+<p class="p">Kettőnél több képernyővel a <span class="gui">Kijelzők egyesítése</span> az egyetlen elérhető mód.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Use the drop-down menu to choose which screen to configure.</p></li>
-<li class="list"><p class="p">Drag the screens to the desired relative positions.</p></li>
-<li class="list"><p class="p">Each screen can be turned off or on using the <span class="gui">ON | OFF</span>
-        switch.</p></li>
+<li class="list"><p class="p">Használja a lenyíló menüt a beállítani kívánt képernyő kiválasztásához.</p></li>
+<li class="list"><p class="p">Húzza a képernyőket a kívánt relatív helyekre.</p></li>
+<li class="list"><p class="p">Minden egyes képernyő be- vagy kikapcsolható a <span class="gui">BE | KI</span> kapcsolóval.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></div>
@@ -126,12 +116,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">További információk</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.hu" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.hu" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.hu" title="Megjelenítés és képernyő">Megjelenítés és képernyő</a><span class="desc"> — <span class="link"><a href="look-background.html.hu" title="Az asztal és a zárolási képernyő hátterének megváltoztatása">Háttér</a></span>, <span class="link"><a href="look-resolution.html.hu" title="A képernyő felbontásának vagy tájolásának módosítása">méret és tájolás</a></span>, <span class="link"><a href="display-brightness.html.hu" title="Képernyő fényerejének beállítása">fényerő</a></span>, <span class="link"><a href="display-night-light.html.hu" title="A képernyő színhőmérsékletének beállítása">színhőmérséklet</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

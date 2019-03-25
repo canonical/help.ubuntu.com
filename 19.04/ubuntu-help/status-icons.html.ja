@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.ja#universalicons" title="ユニバーサルアクセスメニューアイコン">ユニバーサルアクセスメニューアイコン</a></li>
 <li class="links "><a href="status-icons.html.ja#audioicons" title="音量コントロールアイコン">音量コントロールアイコン</a></li>
 <li class="links "><a href="status-icons.html.ja#bluetoothicons" title="Bluetooth マネージャーアイコン">Bluetooth マネージャーアイコン</a></li>
-<li class="links "><a href="status-icons.html.ja#networkicons" title="Network Manager アイコン">Network Manager アイコン</a></li>
+<li class="links ">
+<a href="status-icons.html.ja#networkicons" title="Network Manager アイコン">Network Manager アイコン</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
 <li class="links "><a href="status-icons.html.ja#batteryicons" title="電源管理アイコン">電源管理アイコン</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Network Manager アイコン</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">セルラーによる接続</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,21 @@
 <td><p class="p">信号強度がとても弱くなっています。</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">関連項目</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.ja" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ja" title="無線ネットワークに接続する">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ja" title="非表示設定の無線ネットワークに接続">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ja" title="無線ネットワークが切断されてしまいます、なぜですか?">Wi-Fi disconnecting</a></span>…
+    </span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">電源管理アイコン</span></h2></div>

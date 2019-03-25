@@ -64,28 +64,35 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-wireless.html.ca" title="Wireless networking">Wireless networking</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Apagar xarxa sense fil (mode avió)</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Si teniu l'ordinador en un avió (o en una altra àrea on no es permeten connexions sense fil), cal que la desactiveu. També la podeu desactivar per altres motius (per estalviar energia de la bateria, per exemple).</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Utilitzar <span class="em">Mode avió</span> desactivarà completament totes les connexions sense fil, incloses les connexions WiFi, 3G i Bluetooth.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">Using <span class="em">Airplane Mode</span> will completely turn off all wireless
+    connections, including Wi-Fi, 3G and Bluetooth connections.</p></div></div></div></div>
 <p class="p">Activar mode avió:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Xarxa</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Xarxa</span> per obrir el panell.</p></li>
 <li class="steps"><p class="p">Canvieu el <span class="gui">Mode Avió</span> a <span class="gui">ON</span>. Això desactivarà la vostra connexió sense fil fins que torneu a deshabilitar el mode avió.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">Podeu desactivar la vostra connexió Wi-Fi des del <span class="gui"><a href="shell-introduction.html.ca#yourname" title="Vostè i el seu ordinador">menú del sistema</a></span> fent clic al nom de la connexió i seleccionant <span class="gui">Apagar</span>.</p></div></div></div></div>
+<div class="note note-tip" title="Suggeriment"><div class="inner"><div class="region"><div class="contents"><p class="p">You can turn off your Wi-Fi connection from the
+    <span class="gui"><a href="shell-introduction.html.ca#yourname" title="Vostè i el seu ordinador">system menu</a></span> by clicking on 
+    the connection name and choosing <span class="gui">Turn Off</span>.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.ca" title="Connecteu-vos a una xarxa sense fil">Connectat al wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.ca" title="Connecteu-vos a una xarxa sense fil oculta">Xarxa oculta</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.ca" title="Per què la meva xarxa sense fil continua desconnectant-se?">Desconnectant</a></span>…</span>
+<a href="net-wireless.html.ca" title="Wireless networking">Wireless networking</a><span class="desc"> — 
+      <span class="link"><a href="net-wireless-connect.html.ca" title="Connecteu-vos a una xarxa sense fil">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ca" title="Connecteu-vos a una xarxa sense fil oculta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ca" title="Per què la meva xarxa sense fil continua desconnectant-se?">Wi-Fi disconnecting</a></span>…
+    </span>
 </li></ul></div>
 </div></div></div>
 </div>

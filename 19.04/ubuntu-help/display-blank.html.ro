@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="power.html.ro" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.ro#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="power.html.ro" title="Consum și baterie">Consum și baterie</a> › <a class="trail" href="power.html.ro#saving" title="Configurări de economisire a energiei">Configurări de economisire a energiei</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware &amp; drivers">Hardware</a> › <a class="trail" href="hardware.html.ro#problems" title="Common problems">Problems</a> » <a class="trail" href="hardware-problems-graphics.html.ro" title="Screen problems">Screen problems</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="Utilizatori și configurări de sistem">Configurări</a> » <a class="trail" href="prefs-display.html.ro" title="Display &amp; screen">Display &amp; screen</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-display.html.ro" title="Display &amp; screen">Display &amp; screen</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> » <a class="trail" href="power.html.ro" title="Consum și baterie">Consum și baterie</a> › <a class="trail" href="power.html.ro#saving" title="Configurări de economisire a energiei">Configurări de economisire a energiei</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ro" title="User &amp; system settings">Settings</a> » <a class="trail" href="power.html.ro" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.ro#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ro" title="Hardware și drivere">Hardware</a> › <a class="trail" href="hardware.html.ro#problems" title="Common problems">Probleme</a> » <a class="trail" href="hardware-problems-graphics.html.ro" title="Probleme cu ecranul">Probleme cu ecranul</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -83,10 +83,9 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">To set the screen blanking time:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
+<li class="steps"><p class="p">Apăsați pe <span class="gui">Consum</span> în bara laterală.</p></li>
 <li class="steps"><p class="p">Use the <span class="gui">Blank screen</span> drop-down list under <span class="gui">Power
       Saving</span> to set the time until the screen blanks, or disable the blanking
       completely.</p></li>
@@ -102,17 +101,12 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul>
+<li class="links "><a href="power.html.ro#saving" title="Configurări de economisire a energiei">Configurări de economisire a energiei</a></li>
 <li class="links ">
-<a href="prefs-display.html.ro" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.ro" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.ro" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.ro" title="Set screen brightness">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.ro" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.ro" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — <span class="link"><a href="look-background.html.ro" title="Change the desktop and lock screen backgrounds">Fundal</a></span>, <span class="link"><a href="look-resolution.html.ro" title="Schimbați rezoluția sau orientarea ecranului">dimensiune și orientare</a></span>, <span class="link"><a href="display-brightness.html.ro" title="Set screen brightness">luminozitate</a></span>, <span class="link"><a href="display-night-light.html.ro" title="Adjust the color temperature of your screen">temperatura culorilor</a></span>…</span>
 </li>
-<li class="links "><a href="power.html.ro#saving" title="Power saving settings">Power saving settings</a></li>
 <li class="links ">
-<a href="hardware-problems-graphics.html.ro" title="Screen problems">Screen problems</a><span class="desc"> — 
+<a href="hardware-problems-graphics.html.ro" title="Probleme cu ecranul">Probleme cu ecranul</a><span class="desc"> — 
       Troubleshoot screen and graphics problems.
     </span>
 </li>

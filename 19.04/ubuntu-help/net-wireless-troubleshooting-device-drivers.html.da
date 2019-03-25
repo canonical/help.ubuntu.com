@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wireless network troubleshooter</title>
+<title>Fejlsøgning af trådløst netværk</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,15 +65,15 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.da" title="Wireless Networking">Wireless Networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøgning af trådløst netværk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Common problems">Problemer</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter">Wireless network troubleshooter</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøgning af trådløst netværk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html.da" title="Wireless connection troubleshooter">Forrige</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html.da" title="Fejlsøgning af trådløs forbindelse">Forrige</a></div>
 <div class="hgroup">
-<h1 class="title"><span class="title">Wireless network troubleshooter</span></h1>
+<h1 class="title"><span class="title">Fejlsøgning af trådløst netværk</span></h1>
 <h2 class="subtitle"><span class="subtitle">Make sure that working device drivers are installed</span></h2>
 </div>
 <div class="region">
@@ -133,13 +133,13 @@
   adapter is compatible with your Linux distribution before buying it,
   though.</p>
 </div>
-<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html.da" title="Wireless connection troubleshooter">Forrige</a></div>
+<div class="links nextlinks"><a class="nextlinks-prev" href="net-wireless-troubleshooting-hardware-check.html.da" title="Fejlsøgning af trådløs forbindelse">Forrige</a></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html.da" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøgning af trådløst netværk</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
 </li></ul></div>
 </div></div></div>
 </div>

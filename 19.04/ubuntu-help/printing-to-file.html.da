@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print to file</title>
+<title>Udskriv til fil</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Print to file</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Udskriv til fil</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can choose to print a document to a file instead of sending it to
@@ -85,9 +85,7 @@
 <li class="steps"><p class="p">To change the default filename and where the file is saved to, click
       the filename below the printer selection. Click
       <span class="gui">Select</span> once you have finished choosing.</p></li>
-<li class="steps"><p class="p"><span class="sys">PDF</span> is the default file type for the document. If you want
-      to use a different <span class="gui">Output format</span>, select either
-      <span class="sys">PostScript</span> or <span class="sys">SVG</span>.</p></li>
+<li class="steps"><p class="p"><span class="sys">PDF</span> er dokumentets standardfiltype. Hvis du vil bruge et andet <span class="gui">outputformat</span>, så vælg enten <span class="sys">PostScript</span> eller <span class="sys">SVG</span>.</p></li>
 <li class="steps"><p class="p">Choose your other page preferences.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Print</span> to save the file.</p></li>
 </ol></div>
@@ -99,7 +97,7 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="printing.html.da" title="Udskrivning">Udskrivning</a><span class="desc"> — 
-      <span class="link"><a href="printing-setup.html.da" title="Set up a local printer">Local setup</a></span>,
+      <span class="link"><a href="printing-setup.html.da" title="Opsæt en lokal printer">Local setup</a></span>,
       
       <span class="link"><a href="printing-order.html.da" title="Make pages print in a different order">order and collate</a></span>,
       <span class="link"><a href="printing-2sided.html.da" title="Print two-sided and multi-page layouts">two-sided and multi-page</a></span>…

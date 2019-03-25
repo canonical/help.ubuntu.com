@@ -129,7 +129,7 @@
 </div></div>
 </div>
 <div class="links topiclinks"><div class="inner">
-<div class="title title-links title-heading"><h2><span class="title">Tareas frecuentes</span></h2></div>
+<div class="title title-links title-heading"><h2><span class="title">Tareas comunes</span></h2></div>
 <div class="region">
 <div class="links-grid "><div class="links-grid-link"><a href="gs-change-wallpaper.html.es" title="Cambiar el fondo de pantalla">Cambiar el fondo de pantalla</a></div></div>
 <div class="links-grid "><div class="links-grid-link"><a href="gs-change-date-time-timezone.html.es" title="Cambiar la fecha, hora y zona horaria">Cambiar la fecha, hora y zona horaria</a></div></div>

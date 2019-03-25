@@ -76,7 +76,9 @@
 <li class="links "><a href="status-icons.html.pl-PL#universalicons" title="Ikony menu ułatwień dostępu">Ikony menu ułatwień dostępu</a></li>
 <li class="links "><a href="status-icons.html.pl-PL#audioicons" title="Ikony sterowania głośnością">Ikony sterowania głośnością</a></li>
 <li class="links "><a href="status-icons.html.pl-PL#bluetoothicons" title="Ikony menedżera Bluetooth">Ikony menedżera Bluetooth</a></li>
-<li class="links "><a href="status-icons.html.pl-PL#networkicons" title="Ikony menedżera sieci">Ikony menedżera sieci</a></li>
+<li class="links ">
+<a href="status-icons.html.pl-PL#networkicons" title="Ikony menedżera sieci">Ikony menedżera sieci</a><span class="desc"> — Wyjaśnia znaczenie ikon menedżera sieci.</span>
+</li>
 <li class="links "><a href="status-icons.html.pl-PL#batteryicons" title="Ikony menedżera zasilania">Ikony menedżera zasilania</a></li>
 </ul></div></div></div>
 </div>
@@ -123,8 +125,8 @@
 </div></div>
 <div id="networkicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ikony menedżera sieci</span></h2></div>
-<div class="region"><div class="contents">
-<p class="p"></p>
+<div class="region">
+<div class="contents">
 <p class="p"><span class="app">Połączenie komórkowe</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -268,7 +270,17 @@
 <td><p class="p">Bardzo niska siła sygnału.</p></td>
 </tr>
 </table></div></div></div>
-</div></div>
+</div>
+<div class="sect sect-links" role="navigation">
+<div class="hgroup"></div>
+<div class="contents"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">Proszę zobaczyć także</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.pl-PL" title="Sieć bezprzewodowa">Sieć bezprzewodowa</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.pl-PL" title="Łączenie z siecią bezprzewodową">Łączenie z siecią Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.pl-PL" title="Łączenie z ukrytą siecią bezprzewodową">ukryte sieci</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.pl-PL" title="Dlaczego sieć bezprzewodowa ciągle się rozłącza?">rozłączanie się Wi-Fi</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div>
+</div>
 </div></div>
 <div id="batteryicons" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Ikony menedżera zasilania</span></h2></div>

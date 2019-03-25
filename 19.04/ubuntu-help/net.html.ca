@@ -71,12 +71,16 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.ca" title="Connecteu-vos a una xarxa sense fil">Connectat al wifi</a></span>, <span class="link"><a href="net-wireless-hidden.html.ca" title="Connecteu-vos a una xarxa sense fil oculta">Xarxa oculta</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.ca" title="Per què la meva xarxa sense fil continua desconnectant-se?">Desconnectant</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-wireless.html.ca" title="Wireless networking">Wireless networking</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-connect.html.ca" title="Connecteu-vos a una xarxa sense fil">Connect to Wi-Fi</a></span>,
+      <span class="link"><a href="net-wireless-hidden.html.ca" title="Connecteu-vos a una xarxa sense fil oculta">hidden networks</a></span>,
+      <span class="link"><a href="net-wireless-disconnecting.html.ca" title="Per què la meva xarxa sense fil continua desconnectant-se?">Wi-Fi disconnecting</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="sharing.html.ca" title="Compartició">Compartició</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir arxius per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir arxius multimèdia</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.ca" title="Compartició de l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartiu els fitxers per correu electrònic">Compartir fitxers per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartiu la vostra música, fotografies i vídeos">Compartir fitxers multimèdia</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="contacts.html.ca" title="Contactes">Contactes</a></div>
@@ -91,19 +95,22 @@
 <div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html.ca" title="Necessito un antivirus?">Aplicació antivirus</a></span>, <span class="link"><a href="net-firewall-on-off.html.ca" title="Activeu o bloquegeu l'accés del tallafoc">tallafoc bàsic</a></span>, <span class="link"><a href="net-firewall-ports.html.ca" title="Ports de xarxa habitualment utilitzats">tallafoc de ports</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.ca" title="Navegadors web">Navegadors web</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.ca" title="Canvieu quin navegador obre els llocs web de manera predeterminada">Canvieu el navegador predeterminat</a></span>, <span class="link"><a href="net-install-flash.html.ca" title="Install the Flash plug-in">instal·lar Flash</a></span>…</span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.ca" title="Problemes de xarxa">Problemes de xarxa</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.ca" title="Solució de problemes de xarxa sense fil">Solució de problemes de connexions sense fil</a></span>, <span class="link"><a href="net-wireless-find.html.ca" title="No puc trobar la meva xarxa a la llista">localitzant la vostra xarxa wifi</a></span>…</span></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-wireless-troubleshooting.html.ca" title="Solució de problemes de xarxa sense fil">Troubleshooting wireless connections</a></span>,
+      <span class="link"><a href="net-wireless-find.html.ca" title="No puc trobar la meva xarxa a la llista">finding your Wi-Fi network</a></span>…
+    </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-general.html.ca" title="Termes de xarxa i consells">Termes de xarxa i consells</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.ca" title="Trobeu la vostra adreça IP">Trobar la vostra adreça IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ca" title="Què vol dir WEP i WPA?">Seguretat WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.ca" title="Què és una adreça MAC?">Adreces MAC</a></span>, <span class="link"><a href="net-proxy.html.ca" title="Defineix la configuració del proxy">servidors intermediaris</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.ca" title="Xarxa cablejada">Xarxa cablejada</a></div>
+<div class="links-grid-link"><a href="net-browser.html.ca" title="Web browsers">Web browsers</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.ca" title="Canvieu quin navegador obre els llocs web de manera predeterminada">Canvieu el navegador predeterminat</a></span>, <span class="link"><a href="net-install-flash.html.ca" title="Install the Flash plug-in">instal·lar Flash</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.ca" title="Wired networking">Wired networking</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.ca" title="Connecteu-vos a una xarxa de cable (Ethernet)">Connexions a internet per cable</a></span>, <span class="link"><a href="net-fixed-ip-address.html.ca" title="Crear una connexió amb una IP fixa">Adreça IP fixa</a></span>…</span></div>
 </div>
 <div class="links-grid ">

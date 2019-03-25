@@ -81,7 +81,14 @@
   codecs, it may offer to install them for you. If not, you’ll have to install
   the codecs manually — ask for help on how to do this, for example on your
   Linux distribution’s support forums.</p>
-<p class="p">Τα DVD <span class="em">προστατεύονται από αντιγραφή</span> επίσης χρησιμοποιώντας ένα σύστημα που λέγεται CSS. Αυτό αποτρέπει την αντιγραφή DVD, αλλά επίσης αποτρέπει την αναπαραγωγή τους εκτός και έχετε πρόσθετο λογισμικό που χειρίζεται την προστασία αντιγραφής. Αυτό το λογισμικό διατίθεται για έναν αριθμό διανομών Linux, αλλά δεν μπορεί να χρησιμοποιηθεί νόμιμα σε όλες τις χώρες. Μπορείτε να αγοράσετε έναν εμπορικό αποκωδικοποιητή DVD που μπορεί να χειρίζεται προστασία αντιγραφής από <span class="link"><a href="http://fluendo.com/shop/product/oneplay-dvd-player/" title="http://fluendo.com/shop/product/oneplay-dvd-player/">Fluendo</a></span>. Δουλεύει με Linux και πρέπει να είναι νόμιμο για χρήση σε όλες τις χώρες.</p>
+<p class="p">DVDs are also <span class="em">copy-protected</span> using a system called CSS. This
+  prevents you from copying DVDs, but it also prevents you from playing them
+  unless you have extra software to handle the copy protection. This software
+  is available from a number of Linux distributions, but cannot be legally used
+  in all countries. You can buy a commercial DVD decoder that can handle copy
+  protection from
+  <span class="link"><a href="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/" title="https://fluendo.com/en/products/multimedia/oneplay-dvd-player/">Fluendo</a></span>.
+  It works with Linux and should be legal to use in all countries.</p>
 </div></div>
 </div></div>
 <div id="region" class="sect"><div class="inner">

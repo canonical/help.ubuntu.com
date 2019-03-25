@@ -70,13 +70,8 @@
 <div class="hgroup"><h1 class="title"><span class="title">Reparar un sistema de archivos dañado</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Filesystems can be corrupted due to unexpected power loss, system crashes
-     and unsafe removal of the drive.
-     After such an incident it is recommended to <span class="em">repair</span> or at least
-     <span class="em">check</span> the filesystem to prevent future data loss.</p>
-<p class="p">Sometimes a repair is required in order to mount or modify a filesystem.
-     Even if a <span class="em">check</span> does not report any damage the filesystem might
-     still be marked as ‘dirty’ internally and require a repair.</p>
+<p class="p">Los sistemas de archivos se pueden corromper debido a una pérdida de energía inesperada, cuelgues del sistema y desconexión insegura de la unidad. Después de un incidente de este tipo es recomendable <span class="em">reparar</span> o al menos <span class="em">comprobar</span> el sistema de archivos para prevenir futuras pérdidas de datos.</p>
+<p class="p">Algunas veces es necesario reparar para poder montar o modificar un sistema de archivos. Incluso si la <span class="em">comprobación</span> no informa de ningún daño el sistema de archivos puede seguir marcado como «sucio» y es necesario repararlo.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Comprobar si un sistema de archivos está dañado</span></h2></div>
 <div class="region"><ol class="steps">
@@ -87,26 +82,15 @@
 <p class="p">Dependiendo de la cantidad de datos almacenados en el sistema de archivos, la comprobación puede tardar mucho tiempo. Confirme para iniciar la acción en el diálogo emergente.</p>
 <p class="p">Esta acción no modificará el sistema de archivos, pero lo desmontará si es necesario. Sea paciente mientras se comprueba,</p>
 </li>
-<li class="steps"><p class="p">After completion you will be notified whether the filesystem is damaged.
-       Note that in some cases even if the filesystem is undamaged it still
-       may need to be repaired to reset an internal ‘dirty’ marker.</p></li>
+<li class="steps"><p class="p">Después de finalizar se le notificará en caso de que el sistema de archivos esté dañado. Tenga en cuenta que en algunos caso, incluso si el sistema de archivos no está dañado, todavía puede ser necesario repararlo para reinicializar un marcador interno «desordenado».</p></li>
 </ol></div>
 </div></div>
 <div class="note note-warning" title="Advertencia"><div class="inner">
 <div class="title title-note"><h2><span class="title">Es posible que se pierdan datos al reparar</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If the filesystem structure is damaged it can affect the files stored
-     in it. In some cases these files can not be brought into a valid form
-     again and will be deleted or moved to a special directory. It is normally
-     the <span class="em">lost+found</span> folder in the top level directory of the filesystem
-     where these recovered file parts can be found.</p>
-<p class="p">If the data is too valuable to be lost during this process, you are
-     advised to back it up by saving an image of the volume before
-     repairing.</p>
-<p class="p">This image can be then processed with forensic analysis tools like
-     <span class="app">sleuthkit</span> to further recover missing files and data parts
-     which were not restored during the repair, and also previously removed
-     files.</p>
+<p class="p">Si la estructura del sistema de archivos está dañada puede afectar a los archivos guardados en el sistema de archivos. En algunos casos, estos archivos no se pueden recuperar a un estado válido y se eliminarán o moverán a una carpeta especial.- Normalmente es la carpeta <span class="em">lost+found</span> en la raiz del sistema de archivos en el que podrá encontrar las partes de archivos recuperadas.</p>
+<p class="p">Si los datos son demasiado valiosos como para perderlos durante este proceso, se recomienda que haga una copia de seguridad guardando una imagen del volumen antes de repararlo.</p>
+<p class="p">Esta imagen se puede procesar con herramientas de análisis forense como <span class="app">sleuthkit</span> para posteriormente recuperar archivos y partes de archivo que no se haya podido recuperar durante la reparación, e incluso archivos eliminados.</p>
 </div></div>
 </div></div>
 <div class="steps"><div class="inner">
@@ -117,22 +101,12 @@
 <li class="steps"><p class="p">En la barra de herramientas, debajo de la sección <span class="gui">Volúmenes</span>, pulse el botón del menú. Después pulse en <span class="gui">Reparar sistema de archivos…</span>.</p></li>
 <li class="steps">
 <p class="p">Dependiendo de la cantidad de datos almacenados en el sistema de archivos, la reparación puede tardar mucho tiempo. Confirme para iniciar la acción en el diálogo emergente.</p>
-<p class="p">The action will unmount the filesystem if needed. The repair action tries
-   to bring the filesystem into a consistent state and moves files which were
-   damaged in a special folder. Be patient while the filesystem is
-   repaired.</p>
+<p class="p">La acción desmontará el sistema de archivos si es necesario. La acción de reparar intenta llevar el sistema de archivos a un estado consistente y mueve los archivos que estén dañados a una carpeta especial. Sea paciente mientras el sistema de archivos se repara.</p>
 </li>
 <li class="steps">
-<p class="p">After completion you will be notified whether the filesystem could be
-       successfully repaired. In case of success it can be used again in the
-       normal way.</p>
-<p class="p">If the filesystem could not be repaired, back it up by saving an image
-       of the volume to be able to retrieve important files later. This can
-       be done by mounting the image read-only or using forensic analysis tools
-       like <span class="app">sleuthkit</span>.</p>
-<p class="p">To make use of the volume again it has to be
-       <span class="link"><a href="disk-format.html.es" title="Limpiar todo en un disco extraíble">formatted</a></span> with a new filesystem. All
-       data will be discarded.</p>
+<p class="p">Una vez finalizado notificará cuando haya sido posible reparar el sistema correctamente. En caso de éxito puede usarse de nuevo normalmente.</p>
+<p class="p">Si el sistema de archivos no puede repararse, saque una copia guardando una imagen del volumen para recuperar archivos importantes posteriormente. Puede hacerlo montando la imagen en modo sólo lectura o usando herramientas de análisis forense como <span class="app">sleuthkit</span>.</p>
+<p class="p">Para hacer uso del volumen de nuevo debe <span class="link"><a href="disk-format.html.es" title="Limpiar todo en un disco extraíble">formatearse</a></span> con un nuevo sistema de archivos. Todos los datos se perderán.</p>
 </li>
 </ol></div>
 </div></div>

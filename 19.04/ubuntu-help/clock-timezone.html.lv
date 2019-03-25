@@ -71,16 +71,11 @@
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Details</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Date &amp; Time</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">If you have <span class="gui">Automatic Time Zone</span> set to <span class="gui">ON</span>, your
-      time zone should update automatically if you have an internet
-      connection and the <span class="link"><a href="privacy-location.html.lv" title="Kontrolēt atrašanās vietas pakalpojumus">location services feature</a></span>
-      is enabled. To update your time zone manually, set this to
-      <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Sīkāka informācija</span> sānu joslā.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Datums un laiks</span> sānu joslā, lai atvērtu paneli.</p></li>
+<li class="steps"><p class="p">Ja <span class="gui">Automātiska laika josla</span> ir iestatīta uz <span class="gui">|</span>, laika josla tiks atjaunināta automātiski, kamēr ir savienojums ar internetu un ir ieslēgta <span class="link"><a href="privacy-location.html.lv" title="Kontrolēt atrašanās vietas pakalpojumus">atrašanās vietas pakalpojuma iespēja</a></span>. Lai laika joslas atjauninātu manuāli, pārslēdziet to uz <span class="gui">◯</span>.</p></li>
 <li class="steps"><p class="p">Spiediet uz <span class="gui">Laika josla</span>, tad izvēlieties savu pašreizējo atrašanās vietu kartē vai meklējiet savu pilsētu.</p></li>
 </ol></div></div></div>
 <p class="p">Laiks tiks atjaunināts automātiski, izvēloties citu atrašanās vietu. Jūs varētu vēlēties arī <span class="link"><a href="clock-set.html.lv" title="Mainīt datumu un laiku">regulēt pulksteni pašrocīgi</a></span>.</p>

@@ -82,7 +82,7 @@
 <li class="steps"><p class="p">No diagrama <span class="gui">Organização de telas</span>, arraste suas telas para as posições relativas que você deseja.</p></li>
 <li class="steps">
 <p class="p">Clique em <span class="gui">Tela primária</span> para escolher sua tela primária.</p>
-<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">A tela primária é aquela com a <span class="link"><a href="shell-introduction.html.pt-BR" title="Introdução ao GNOME">barra superior</a></span> e onde o panorama de <span class="gui">Atividades</span> é mostrado.</p></div></div></div></div>
+<div class="note" title="Nota"><div class="inner"><div class="region"><div class="contents"><p class="p">A tela primária é aquela com a <span class="link"><a href="shell-introduction.html.pt-BR" title="Visual overview of GNOME">barra superior</a></span> e onde o panorama de <span class="gui">Atividades</span> é mostrado.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Selecione a resolução ou escala, e escolha a orientação.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Aplicar</span>. As novas configurações serão aplicadas por 20 segundos antes de reverteram aos valores anteriores. Dessa forma, se você não conseguir ver nada com as novas configurações, as antigas serão automaticamente restauradas. Se estiver satisfeito com os seus novos ajustes, clique em <span class="gui">Manter esta configuração</span>.</p></li>

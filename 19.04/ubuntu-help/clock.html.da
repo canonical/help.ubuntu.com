@@ -70,12 +70,12 @@
 <div class="hgroup"><h1 class="title"><span class="title">Dato &amp; klokkeslæt</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="clock-set.html.da" title="Change the date and time"><span class="title">Change the date and time</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
+<div class="linkdiv "><a class="linkdiv" href="clock-set.html.da" title="Skift datoen og klokkeslættet"><span class="title">Skift datoen og klokkeslættet</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
     time.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.da" title="Calendar appointments"><span class="title">Calendar appointments</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.da" title="Kalenderaftaler"><span class="title">Kalenderaftaler</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
     screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.da" title="Change your timezone"><span class="title">Change your timezone</span><span class="linkdiv-dash"> — </span><span class="desc">Update your time zone to your current location so that your time is correct.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-world.html.da" title="Add a world clock"><span class="title">Add a world clock</span><span class="linkdiv-dash"> — </span><span class="desc">Display times in other cities under the calendar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.da" title="Skift din tidszone"><span class="title">Skift din tidszone</span><span class="linkdiv-dash"> — </span><span class="desc">Update your time zone to your current location so that your time is correct.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-world.html.da" title="Tilføj et verdensur"><span class="title">Tilføj et verdensur</span><span class="linkdiv-dash"> — </span><span class="desc">Display times in other cities under the calendar.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -85,10 +85,10 @@
 <div class="region"><ul><li class="links ">
 <a href="prefs.html.da" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
       <span class="link"><a href="keyboard.html.da" title="Tastatur">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.da" title="Mouse &amp; Touchpad">mouse &amp; touchpad</a></span>,
+      <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mouse &amp; touchpad</a></span>,
       <span class="link"><a href="prefs-display.html.da" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.da" title="Region &amp; Language">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.da" title="User accounts">user accounts</a></span>…
+      <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">languages</a></span>,
+      <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">user accounts</a></span>…
     </span>
 </li></ul></div>
 </div></div>

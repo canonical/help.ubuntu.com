@@ -67,9 +67,9 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.hi" title="आरंभन"><span class="title">गनोम के साथ आरंभन</span><span class="linkdiv-dash"> — </span><span class="desc">गनोम के लिए नए हैं? जानें कि कैसे इससे परिचित हुआ जाए.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.hi" title="आरंभन"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">गनोम के लिए नए हैं? जानें कि कैसे इससे परिचित हुआ जाए.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.hi" title="Introduction to GNOME"><span class="title">Introduction to GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual introduction to your desktop, the top bar, and the
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.hi" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
     <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.hi" title="Log out, power off or switch users"><span class="title">Log out, power off or switch users</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
     users, and so on.</span></a></div>
@@ -88,10 +88,10 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.hi" title="Networking, web &amp; email">Networking, web &amp; email</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless.html.hi" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.hi" title="Wired Networking">wired</a></span>,
+      <span class="link"><a href="net-wireless.html.hi" title="Wireless networking">Wireless</a></span>,
+      <span class="link"><a href="net-wired.html.hi" title="Wired networking">wired</a></span>,
       <span class="link"><a href="net-problem.html.hi" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.hi" title="Web Browsers">web browsing</a></span>,
+      <span class="link"><a href="net-browser.html.hi" title="Web browsers">web browsing</a></span>,
       <span class="link"><a href="net-email.html.hi" title="Email &amp; email software">email accounts</a></span>…
     </span></div>
 </div>

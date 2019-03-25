@@ -67,11 +67,12 @@
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu logotip"></span></span> Ubuntu vodič radne površine</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.hr" title="Početak rada"><span class="title">Početak rada s GNOMOM</span><span class="linkdiv-dash"> — </span><span class="desc">Novi ste u GNOMU? Saznajte kako se brzo snaći.</span></a></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.hr" title="Početak rada"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Novi ste u GNOMU? Saznajte kako se brzo snaći.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.hr" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
+    <span class="gui">Activities</span> overview.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.hr" title="Odjava, isključivanje i zamjena korisnika"><span class="title">Odjava, isključivanje i zamjena korisnika</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite kako napustiti svoj korisnički račun, odjavom, zamjenom korisnika, itd.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.hr" title="Pokretanje aplikacija"><span class="title">Pokretanje aplikacija</span><span class="linkdiv-dash"> — </span><span class="desc">Pokrenite svoje aplikacije iz <span class="gui">Aktivnosti</span> pregleda.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.hr" title="Uvod u GNOME"><span class="title">Uvod u GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Vizualni uvod u radnu površinu, gornju traku i <span class="gui"> Aktivnosti</span> pregled.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
@@ -80,7 +81,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.hr" title="Umrežavanje, web i e-pošta">Umrežavanje, web i e-pošta</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.hr" title="Bežično umrežavanje">Bežični</a></span>, <span class="link"><a href="net-wired.html.hr" title="Wired Networking">žični</a></span>, <span class="link"><a href="net-problem.html.hr" title="Network problems">problemi povezivanja</a></span>, <span class="link"><a href="net-browser.html.hr" title="Web preglednici">web pregledavanje</a></span>, <span class="link"><a href="net-email.html.hr" title="Email &amp; email software">računi e-pošte</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.hr" title="Wireless networking">Bežični</a></span>, <span class="link"><a href="net-wired.html.hr" title="Wired networking">žični</a></span>, <span class="link"><a href="net-problem.html.hr" title="Network problems">problemi povezivanja</a></span>, <span class="link"><a href="net-browser.html.hr" title="Web browsers">web pregledavanje</a></span>, <span class="link"><a href="net-email.html.hr" title="Email &amp; email software">računi e-pošte</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.hr" title="Zvuk, video i slike">Zvuk, video i slike</a></div>

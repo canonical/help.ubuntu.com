@@ -79,13 +79,9 @@
 <p class="p">Pode comprobar e modificar os volumes de almacenamento coa Utilidade de discos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Comprobe a vista xeral de <span class="gui">Actividades</span> e abra <span class="gui">Discos</span>.</p></li>
-<li class="steps"><p class="p">In the list of storage devices on the left, you will find hard disks,
-    CD/DVD drives, and other physical devices. Click the device you want to
-    inspect.</p></li>
+<li class="steps"><p class="p">Na lista de dispositivos da esquerda, atopara os discos duros, unidades de CD/DVD e outros dispositivos físicos. Prema no dispositivo que quere inspeccionar.</p></li>
 <li class="steps">
-<p class="p">The right pane provides a visual breakdown of the volumes and
-    partitions present on the selected device. It also contains a variety of
-    tools used to manage these volumes.</p>
+<p class="p">O panel dereito fornece un desglose visual dos volumes e particións presentes no dispositivo seleccionado. Tamén contén unha variedade de ferramentas empregadas para manexar estes volumes.</p>
 <p class="p">Teña coidado: é posíbel que borre completamente os datos do seu disco con estas utilidades.</p>
 </li>
 </ol></div></div></div>

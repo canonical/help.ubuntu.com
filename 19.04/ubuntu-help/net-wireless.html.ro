@@ -2,7 +2,7 @@
 <html lang=ro>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wireless Networking</title>
+<title>Wireless networking</title>
 <link rel="stylesheet" type="text/css" href="ro.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.ro" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.ro" title="Rețea, web și email">Rețea, web și email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Wireless Networking</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wireless networking</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
@@ -99,22 +99,19 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mai multe informații</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.ro" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html.ro" title="Wireless Networking">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.ro" title="Wired Networking">wired</a></span>,
-      <span class="link"><a href="net-problem.html.ro" title="Network problems">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.ro" title="Web Browsers">web browsing</a></span>,
-      <span class="link"><a href="net-email.html.ro" title="Email &amp; email software">email accounts</a></span>…
-    </span>
+<a href="net.html.ro" title="Rețea, web și email">Rețea, web și email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.ro" title="Wireless networking">Conexiuni fără fir</a></span>, <span class="link"><a href="net-wired.html.ro" title="Wired networking">conexiuni cu fir</a></span>, <span class="link"><a href="net-problem.html.ro" title="Network problems">probleme de conexiune</a></span>, <span class="link"><a href="net-browser.html.ro" title="Web browsers">navigare pe web</a></span>, <span class="link"><a href="net-email.html.ro" title="Email &amp; email software">conturi de email</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vezi și</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
+<a href="status-icons.html.ro#networkicons" title="Network Manager Icons">Network Manager Icons</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+</li>
+<li class="links ">
 <a href="net-problem.html.ro" title="Network problems">Network problems</a><span class="desc"> — 
       <span class="link"><a href="net-wireless-troubleshooting.html.ro" title="Wireless network troubleshooter">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.ro" title="I can’t see my wireless network in the list">finding your wifi network</a></span>…
+      <span class="link"><a href="net-wireless-find.html.ro" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
     </span>
 </li>
 <li class="links ">

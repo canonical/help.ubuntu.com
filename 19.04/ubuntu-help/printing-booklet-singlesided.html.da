@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> › <a class="trail" href="printing.html.da#paper" title="Andre papirstørrelser og layouts">Sizes and layouts</a> » <a class="trail" href="printing-booklet.html.da" title="Udskriv en brochure/pjece">Udskriv en brochure/pjece</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> › <a class="trail" href="printing.html.da#paper" title="Andre papirstørrelser og layouts">Størrelser og layouts</a> » <a class="trail" href="printing-booklet.html.da" title="Udskriv en brochure/pjece">Udskriv en brochure/pjece</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Udskriv en brochure/pjece på en enkeltsidet printer</span></h1></div>
@@ -94,7 +94,7 @@
 <p class="p">Type the numbers of the pages in this order (n is the total number of
       pages, and a multiple of 4):</p>
 <p class="p">n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9, 10, n-9, n-10, 11, 12, n-11…</p>
-<p class="p">…indtil du har skrevet alle siderne.</p>
+<p class="p">… indtil du har skrevet alle siderne.</p>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents">
 <p class="p">Eksempler:</p>
 <p class="p">4-siders brochure/pjece: Skriv <span class="input">4,1,2,3</span></p>

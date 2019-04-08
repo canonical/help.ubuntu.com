@@ -64,38 +64,28 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-workspaces" title="Arbejd med arbejdsområder">Workspaces</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-workspaces" title="Arbejd med arbejdsområder">Arbejdsområder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Flyt et vindue til et andet arbejdsområde</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Using the mouse:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Med musen:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span>.</p></li>
-<li class="steps"><p class="p">Click and drag the window toward the right of the screen.</p></li>
-<li class="steps"><p class="p">The <span class="em"><a href="shell-workspaces.html.da" title="Hvad er et arbejdsområde og hvordan kan det hjælpe mig?">workspace selector</a></span> will
-      appear.</p></li>
-<li class="steps"><p class="p">Drop the window onto an empty
-      workspace. This workspace now contains the window you have dropped, and a
-      new empty workspace appears at the bottom of the <span class="em">workspace
-      selector</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span>.</p></li>
+<li class="steps"><p class="p">Klik og træk vinduet mod højre side af skærmen.</p></li>
+<li class="steps"><p class="p"><span class="em"><a href="shell-workspaces.html.da" title="Hvad er et arbejdsområde og hvordan kan det hjælpe mig?">Arbejdsområdevælgeren</a></span> vises.</p></li>
+<li class="steps"><p class="p">Træk vinduet til et tomt arbejdsområde. Arbejdsområdet indeholder nu det vindue, du slap, og et nyt arbejdsområde vises nederst i <span class="em">arbejdsområdevælgeren</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Using the keyboard:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Med tastaturet:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the window that you want to move (for example, using the
-      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      <span class="em"><a href="shell-windows-switching.html.da" title="Skift mellem vinduer">window switcher</a></span>).</p></li>
+<li class="steps"><p class="p">Vælg vinduet du vil flytte (f.eks. med <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> <span class="em"><a href="shell-windows-switching.html.da" title="Skift mellem vinduer">vinduesskifteren</a></span>).</p></li>
 <li class="steps">
-<p class="p">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page
-      Up</kbd></span></span> to move the window to a workspace which is above the
-      current workspace on the <span class="em">workspace selector</span>.</p>
-<p class="p">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page
-      Down</kbd></span></span> to move the window to a workspace which is below the
-      current workspace on the <span class="em">workspace selector</span>.</p>
+<p class="p">Tryk på <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span> for at flytte vinduet til et arbejdsområde, som er ovenover det nuværende arbejdsområde i <span class="em">arbejdsområdevælgeren</span>.</p>
+<p class="p">Tryk på <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> for at flytte vinduet til et arbejdsområde, som er nedenunder det nuværende arbejdsområde i <span class="em">arbejdsområdevælgeren</span>.</p>
 </li>
 </ol></div>
 </div></div>

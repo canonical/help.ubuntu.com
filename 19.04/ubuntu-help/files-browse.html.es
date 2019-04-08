@@ -80,7 +80,12 @@
 <p class="p">Al examinar los archivos en una carpeta puede <span class="link"><a href="files-preview.html.es" title="Previsualizar archivos y carpetas">previsualizar rápidamente cada archivo</a></span> rápidamente pulsando la barra espaciadora para asegurarse de que tiene el archivo correcto antes de abrirlo, copiarlo o eliminarlo.</p>
 <p class="p">La <span class="em">barra de rutas</span> situada encima de la lista de archivos y carpetas muestra qué carpeta está visualizando, incluyendo sus carpetas padre. Pulse en una carpeta padre de la barra de rutas para moverse a esa carpeta. Pulse con el botón derecho sobre cualquier carpeta de la barra de rutas para abrirla en una pestaña o ventana nueva, o para acceder a sus propiedades.</p>
 <p class="p">Si quiere <span class="link"><a href="files-search.html.es" title="Buscar archivos">buscar un archivo</a></span> rápidamente en la carpeta que está viendo, empiece a escribir su nombre. Aparecerá una <span class="em">caja de búsqueda</span> en la parte superior de la ventana y se mostrarán sólo los archivos que coincidan con su búsqueda. Pulse <span class="key"><kbd>Esc</kbd></span> para cancelar la búsqueda.</p>
-<p class="p">Puede acceder rápidamente a lugares comunes desde la <span class="em">barra lateral</span>. Si no ve la barra lateral, pulse <span class="gui">Archivos</span> en la barra de herramientas y elija <span class="gui">Barra lateral</span>. Puede añadir marcadores a carpetas que use con frecuencia y aparecerán en la barra lateral. Arrastre una carpeta a la barra lateral y suéltela sobre <span class="gui">Nuevo marcador</span>, que aparecerá dinámicamente, o pulse en el menú de la ventana y elija <span class="gui">Añadir esta ubicación a marcadores</span>.</p>
+<p class="p">You can quickly access common places from the <span class="em">sidebar</span>. If you do
+not see the sidebar, press the menu button in the top-right corner of the window and then select
+<span class="gui">Sidebar</span>. You can add bookmarks to folders that you use often and
+they will appear in the sidebar. Drag a folder to the sidebar, and drop it over
+<span class="gui">New bookmark</span>, which appears dynamically, or click the current folder
+in the path bar and then select <span class="gui">Add to Bookmarks</span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

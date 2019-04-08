@@ -78,7 +78,8 @@
       start typing <span class="app">Files</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="app">Files</span> to open the file manager.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
-      click <span class="gui">Files</span> in the top bar and pick <span class="gui">Sidebar</span>.</p></li>
+      press the menu button in the top-right corner of the window and select
+      <span class="gui">Sidebar</span>.</p></li>
 <li class="steps"><p class="p">Если удалённый файл находится там, нажмите на него и выберите <span class="gui">Восстановить</span>. Он будет восстановлен в ту папку, из которой был удалён.</p></li>
 </ol></div>
 </div></div>

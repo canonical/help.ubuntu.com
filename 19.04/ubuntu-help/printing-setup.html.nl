@@ -81,8 +81,8 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Klik op de knop <span class="gui">Ontgrendelen</span> in de rechterbovenhoek en voer uw wachtwoord in.</p></li>
-<li class="steps"><p class="p">Klik op de <span class="gui">+</span>-knop.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Ontgrendelen</span> rechtsboven in de hoek en voer uw wachtwoord in wanneer daar om gevraagd wordt.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Add a Printer…</span> button.</p></li>
 <li class="steps"><p class="p">In het net verschenen venster, selecteer uw nieuwe printer. Klik op Click <span class="gui">Toevoegen</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Als uw printer niet verschijnt in het venster Een nieuwe printer toevoegen, moet u wellicht printer-stuurprogramma's installeren.</p>

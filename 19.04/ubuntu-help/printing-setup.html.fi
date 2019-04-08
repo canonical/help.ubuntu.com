@@ -84,9 +84,9 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Tulostimet</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Printers</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Unlock</span> button in the top-right corner and enter
-      your password.</p></li>
-<li class="steps"><p class="p">Napsauta <span class="gui">+</span>.</p></li>
+<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
+      type in your password when prompted.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Add a Printer…</span> button.</p></li>
 <li class="steps"><p class="p">In the pop-up window, select your new printer. Click
       <span class="gui">Add</span>.</p></li>
 </ol></div></div></div>

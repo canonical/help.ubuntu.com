@@ -64,53 +64,32 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Start programmer</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Move your mouse pointer to the
-  <span class="gui">Activities</span> corner at the top left of the screen to show the
-  <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> overview. This is where you
-  can find all of your applications. You can also open the overview by pressing
-  the <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span> key.</p>
+<p class="p">Flyt din musemarkør til hjørnet med <span class="gui">Aktiviteter</span> øverst til venstre på skærmen for at vise <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span>. Her finder du alle dine programmer. Du kan også åbne oversigten ved at trykke på <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>-tasten.</p>
 <p class="p">Der er flere måder hvorpå du kan åbne et program fra <span class="gui">Aktivitetsoversigten</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Start typing the name of an application — searching begins instantly.
-      (If this doesn’t happen, click the search bar at the top of the screen
-      and start typing.) If you don’t know the exact name of an application, try
-      to type an related term. Click the application’s icon to start it.</p></li>
+<li class="list"><p class="p">Begynd at skrive navnet på et program — søgningen starter med det samme (sker det ikke, så klik på søgelinjen øverst på skærmen og begynd at skrive). Kender du ikke det præcise navn på et program, så prøv at skrive relaterede termer. Klik på programmets ikon for at starte det.</p></li>
 <li class="list">
-<p class="p">Some applications have icons in the <span class="em">dash</span>, the vertical strip
-      of icons on the left-hand side of the <span class="gui">Activities</span> overview.
-      Click one of these to start the corresponding application.</p>
-<p class="p">If you have applications that you use very frequently, you can
-      <span class="link"><a href="shell-apps-favorites.html.da" title="Fastgør dine favoritprogrammer til favoritområdet">add them to the dash</a></span>
-      yourself.</p>
+<p class="p">Nogle programmer har ikoner i <span class="em">favoritområdet</span> (den lodrette stribe med ikoner i venstre side af <span class="gui">Aktivitetsoversigten</span>). Klik på et af dem for at starte det tilhørende program.</p>
+<p class="p">Hvis du har programmer som du bruger meget tit, så kan du selv <span class="link"><a href="shell-apps-favorites.html.da" title="Fastgør dine favoritprogrammer til favoritområdet">tilføje dem i favoritområdet</a></span>.</p>
 </li>
-<li class="list"><p class="p">Click the grid button at the bottom of the dash. You will see the
-      frequently used applications if the <span class="gui">Frequent</span>
-      view is enabled. If you want to run a new application, press the
-      <span class="gui">All</span> button at the bottom to view all the
-      applications. Press on the application to start it.</p></li>
+<li class="list"><p class="p">Klik på gitterknappen nederst i favoritområdet. Du ser de programmer der bruges mest hvis <span class="gui">Ofte</span>-visningen er aktiveret. Hvis du vil køre et nyt program, så tryk på <span class="gui">Alle</span>-knappen nederst for at vise alle programmerne. Tryk så på programmet for at starte det.</p></li>
 <li class="list">
-<p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html.da" title="Hvad er et arbejdsområde og hvordan kan det hjælpe mig?">workspace</a></span> by dragging its icon from
-      the dash, and dropping it onto one of the workspaces on the right-hand
-      side of the screen. The application will open in the chosen
-      workspace.</p>
-<p class="p">You can launch an application in a <span class="em">new</span> workspace by dragging
-      its icon to the empty workspace at the bottom of the workspace
-      switcher, or to the small gap between two workspaces.</p>
+<p class="p">Du kan starte et program i et separat <span class="link"><a href="shell-workspaces.html.da" title="Hvad er et arbejdsområde og hvordan kan det hjælpe mig?">arbejdsområde</a></span> ved at trække dets ikon fra favoritområdet og slippe det i et af arbejdsområderne i højre side af skærmen. Programmet åbnes i det valgte arbejdsområde.</p>
+<p class="p">Du kan starte et program i et <span class="em">nyt</span> arbejdsområde ved at trække dets ikon til det tomme arbejdsområde nederst i arbejdsområdeskifteren, eller til det lille mellemrum mellem to arbejdsområder.</p>
 </li>
 </ul></div></div></div>
 <div class="note note-tip" title="Tip"><div class="inner">
 <div class="title title-note"><h2><span class="title">Kør en kommando hurtigt</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Du kan også starte et program ved at trykke på <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, og så indtaste dets <span class="em">kommandonavn</span>, og herefter trykke på <span class="key"><kbd>Enter</kbd></span>-tasten.</p>
-<p class="p">F.eks. kan du starte <span class="app">Rhythmbox</span> ved at trykke på <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> og skrive “<span class="cmd">rhythmbox</span>” (uden citationstegnene). Programmets navn er kommandoen til at starte programmet.</p>
-<p class="p">Use the arrow keys to quickly access previously run commands.</p>
+<p class="p">Du kan f.eks. starte <span class="app">Rhythmbox</span> ved at trykke på <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> og skrive “<span class="cmd">rhythmbox</span>” (uden citationstegn). Programmets navn er kommandoen til at starte programmet.</p>
+<p class="p">Brug piletasterne til hurtigt at tilgå kommandoer som blev kørt tidligere.</p>
 </div></div>
 </div></div>
 </div>
@@ -123,7 +102,7 @@
 <li class="links ">
 <a href="shell-overview.html.da" title="Dit skrivebord">Dit skrivebord</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">Kalender</a></span>, <span class="link"><a href="shell-notifications.html.da" title="Påmindelser og påmindelseslisten">påmindelser</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.da" title="Nyttige tastaturgenveje">tastaturgenveje</a></span>, <span class="link"><a href="shell-windows.html.da" title="Vinduer og arbejdsområder">vinduer og arbejdsområder</a></span> …</span>
 </li>
-<li class="links "><a href="index.html.da" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
+<li class="links "><a href="index.html.da" title="Ubuntu-skrivebordsguide">Ubuntu-skrivebordsguide</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -132,7 +111,7 @@
 <li class="links "><a href="gs-use-system-search.html.da" title="Brug systemsøgningen">En vejledning til at bruge systemsøgningen</a></li>
 <li class="links "><a href="gs-launch-applications.html.da" title="Start programmer">En vejledning til at starte programmer</a></li>
 <li class="links ">
-<a href="shell-apps-favorites.html.da" title="Fastgør dine favoritprogrammer til favoritområdet">Fastgør dine favoritprogrammer til favoritområdet</a><span class="desc"> — Add (or remove) frequently-used program icons on the dash.</span>
+<a href="shell-apps-favorites.html.da" title="Fastgør dine favoritprogrammer til favoritområdet">Fastgør dine favoritprogrammer til favoritområdet</a><span class="desc"> — Tilføj (eller fjern) programikoner som ofte bruges i favoritområdet.</span>
 </li>
 </ul></div>
 </div></div>

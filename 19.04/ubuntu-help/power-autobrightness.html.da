@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.da#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a> › <a class="trail" href="power.html.da#saving" title="Power saving settings">Power saving settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.da#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a> › <a class="trail" href="power.html.da#saving" title="Power saving settings">Power saving settings</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -79,7 +79,7 @@
   always easy to see in different ambient light conditions, and helps to reduce
   battery consumption.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Strøm</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Strøm</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Sørg for at <span class="gui">Automatisk lysstyrke</span> er indstillet til <span class="gui">TIL</span> i afsnittet <span class="gui">Strømbesparelse</span>.</p></li>
 </ol></div></div></div>

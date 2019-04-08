@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#common-file-tasks" title="Almindelige opgaver">Almindelige opgaver</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#common-file-tasks" title="Almindelige opgaver">Almindelige opgaver</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Omdøb en fil eller mappe</span></h1></div>
@@ -73,7 +73,7 @@
 <p class="p">As with other file managers, you can use <span class="app">Files</span> to change the
   name of a file or folder.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To rename a file or folder:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Omdøb en fil eller mappe:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Højreklik på elementet og vælg <span class="gui">Omdøb</span>, eller vælg filen og tryk på <span class="key"><kbd>F2</kbd></span>.</p></li>
 <li class="steps"><p class="p">Skriv det nye navn og tryk på <span class="key"><kbd>Enter</kbd></span> eller klik på <span class="gui">Omdøb</span>.</p></li>
@@ -110,7 +110,7 @@
 <div id="common-probs" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Almindelige problemer</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">The file name is already in use</dt>
+<dt class="terms">Filnavnet er allerede i brug</dt>
 <dd class="terms">
 <p class="p">You cannot have two files or folders with the same name in the same
         folder. If you try to rename a file to a name that already exists in
@@ -120,7 +120,7 @@
         Using different file names like this is allowed, though it is not
         recommended.</p>
 </dd>
-<dt class="terms">The file name is too long</dt>
+<dt class="terms">Filnavnet er for langt</dt>
 <dd class="terms"><p class="p">On some file systems, file names can have no more than 255
         characters in their names.  This 255 character limit includes both the
         file name and the path to the file (for example,

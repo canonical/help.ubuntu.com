@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-display.html.da" title="Display &amp; screen">Display &amp; screen</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="prefs-display.html.da" title="Visning &amp; skærm">Visning &amp; skærm</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Justér farvetemperaturen på din skærm</span></h1></div>
@@ -75,7 +75,7 @@
   displays according to the time of day, making the color warmer in the
   evening. To enable <span class="gui">Night Light</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Enheder</span> i sidebjælken.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Skærme</span> i sidebjælken for at åbne panelet.</p></li>
@@ -84,7 +84,7 @@
 <p class="p">Set the <span class="gui">Night Light</span> switch to <span class="gui">ON</span>. The screen
       color will follow the sunset and sunrise times for your location. Click
       the <span class="gui">Manual</span> button to set the times to a custom schedule.</p>
-<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="link"><a href="shell-introduction.html.da" title="Visual overview of GNOME">top bar</a></span> shows when
+<div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="link"><a href="shell-introduction.html.da" title="En visuel oversigt af GNOME">top bar</a></span> shows when
         <span class="gui">Night Light</span> is active. It can be temporarily disabled from
         the system menu.</p></div></div></div></div>
 </li>
@@ -95,12 +95,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.da" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.da" title="Skift baggrunde på skrivebordet og låseskærmen">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.da" title="Skift opløsningen eller orienteringen af skærmen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.da" title="Indstil skærmens lysstyrke">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.da" title="Justér farvetemperaturen på din skærm">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.da" title="Visning &amp; skærm">Visning &amp; skærm</a><span class="desc"> — <span class="link"><a href="look-background.html.da" title="Skift baggrunde på skrivebordet og låseskærmen">Baggrund</a></span>, <span class="link"><a href="look-resolution.html.da" title="Skift opløsningen eller orienteringen af skærmen">størrelse og orientering</a></span>, <span class="link"><a href="display-brightness.html.da" title="Indstil skærmens lysstyrke">lysstyrke</a></span>, <span class="link"><a href="display-night-light.html.da" title="Justér farvetemperaturen på din skærm">farvetemperatur</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

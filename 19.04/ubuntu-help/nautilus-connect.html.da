@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="sharing.html.da" title="Deling">Deling</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="sharing.html.da" title="Deling">Deling</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -145,7 +145,7 @@ internet/network address.</p>
 <p class="p">When using SSH, all the data you send (including your password)
   is encrypted so that other users on your network can’t see it.</p>
 </dd>
-<dt class="terms">FTP (with login)</dt>
+<dt class="terms">FTP (uden login)</dt>
 <dd class="terms">
 <p class="p">FTP is a popular way to exchange files on the Internet.
   Because data is not encrypted over FTP, many servers now provide
@@ -208,11 +208,7 @@ internet/network address.</p>
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html.da" title="Deling">Deling</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html.da" title="Del filer via e-mail">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Media sharing</a></span>…
-    </span>
+<a href="sharing.html.da" title="Deling">Deling</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Skrivebordsdeling</a></span>, <span class="link"><a href="files-share.html.da" title="Del filer via e-mail">Del filer via e-mail</a></span>, <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Mediedeling</a></span> …</span>
 </li>
 <li class="links "><a href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a></li>
 </ul></div>

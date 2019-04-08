@@ -86,7 +86,7 @@
 <li class="steps"><p class="p">Stellen Sie den <span class="gui">Überfahrklick</span> auf <span class="gui">AN</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Das Fenster <span class="gui">Überfahren-Klick</span>-Typ öffnet sich und bleibt über allen anderen Fenstern sichtbar. Sie können es benutzen, um auszuwählen, welche Art von Klick ausgelöst werden soll, wenn Sie über einen Knopf fahren. Wenn Sie zum Beispiel <span class="gui">Kontextklick</span> wählen, wird die Maus rechts klicken, sobald Sie die Maus für einige Sekunden über den Knopf fahren.</p>
-<p class="p">Wenn Sie Ihren Mauszeiger über einen Knopf platzieren und nicht bewegen, wird er schrittweise seine Farbe ändern. Wenn er die Farbe vollständig geändert hat, wird der Knopf gedrückt.</p>
+<p class="p">Wenn Sie Ihren Mauszeiger über einen Knopf platzieren und nicht bewegen, wird er schrittweise seine Farbe ändern. Wenn er die Farbe vollständig geändert hat, wird der Knopf angeklickt.</p>
 <p class="p">Ändern Sie die Einstellung der <span class="gui">Verzögerung</span>, um festzulegen, wie lange Sie den Mauszeiger ruhig halten müssen, bevor ein Klick ausgelöst wird.</p>
 <p class="p">Sie müssen die Maus nicht vollkommen still halten, wenn Sie sie über einen Knopf fahren, um ihn zu klicken. Der Mauszeiger darf sich ein kleines bisschen bewegen und wird dennoch nach einer Weile klicken. Wenn er sich allerdings zu sehr bewegt, wird der Klick nicht ausgelöst.</p>
 <p class="p">Passen Sie den <span class="gui">Schwellenwert der Bewegung</span> an, um einzustellen, wie sehr sich der Zeiger bewegen darf, damit er noch immer als ruhig positioniert eingestuft werden kann.</p>

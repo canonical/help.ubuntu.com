@@ -122,10 +122,7 @@
 <div class="title"><h2><span class="title">亦见</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install-synaptic.html.zh-CN" title="使用新立得进行更高级的软件管理">使用新立得进行更高级的软件管理</a><span class="desc"> — 
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span>
+<a href="addremove-install-synaptic.html.zh-CN" title="使用新立得进行更高级的软件管理">使用新立得进行更高级的软件管理</a><span class="desc"> — Synaptic 是 <span class="app">Ubuntu 软件</span> 强大而复杂的软件管理替代品。</span>
 </li>
 <li class="links ">
 <a href="addremove-remove.html.zh-CN" title="删除应用程序">删除应用程序</a><span class="desc"> — 移除不再使用的应用程序。</span>

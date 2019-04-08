@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#calibration" title="Kalibrering">Kalibrering</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#calibration" title="Kalibrering">Kalibrering</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#calibration" title="Kalibrering">Kalibrering</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#calibration" title="Kalibrering">Kalibrering</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -110,10 +110,10 @@
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-calibrate-scanner.html.da" title="Hvordan kalibrerer jeg min skanner?">Hvordan kalibrerer jeg min skanner?</a><span class="desc"> — Calibrating your scanner is important to capture accurate colors.</span>
+<a href="color-calibrate-scanner.html.da" title="Hvordan kalibrerer jeg min skanner?">Hvordan kalibrerer jeg min skanner?</a><span class="desc"> — Kalibrering af din skanner er vigtig for at indfange farverne præcist.</span>
 </li>
 <li class="links ">
-<a href="color-calibrate-camera.html.da" title="Hvordan kalibrerer jeg mit kamera?">Hvordan kalibrerer jeg mit kamera?</a><span class="desc"> — Calibrating your camera is important to capture accurate colors.</span>
+<a href="color-calibrate-camera.html.da" title="Hvordan kalibrerer jeg mit kamera?">Hvordan kalibrerer jeg mit kamera?</a><span class="desc"> — Kalibrering af dit kamera er vigtig for at indfange farverne præcist.</span>
 </li>
 </ul></div>
 </div></div>

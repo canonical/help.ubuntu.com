@@ -79,8 +79,14 @@
 <li class="steps">
 <p class="p">Klik op de afbeelding naast uw naam en er zal een overzicht getoond worden met standaard meegeleverde aanmeldfoto's. Wanneer een afbeelding u bevalt, klik er dan op om deze te gebruiken.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Als u liever een afbeelding gebruikt die al op uw computer staat, klik dan op <span class="gui">Bladeren naar meer afbeeldingen…</span></p></li>
-<li class="list"><p class="p">Als u een webcam heeft, dan kunt u meteen een nieuwe aanmeldfoto nemen door te klikken op <span class="gui">Foto maken…</span>. Maak een foto van uzelf en verwijder de delen die u niet wilt door het formaat aan te passen. Als de foto die u genomen heeft u niet aanstaat, klik dan op <span class="gui">Nog een foto nemen</span> om het opnieuw te proberen, of <span class="gui">Annuleren</span> om het op te geven.</p></li>
+<li class="list"><p class="p">If you would rather use a picture you already have on your
+          computer, click <span class="gui">Select a file…</span>.</p></li>
+<li class="list"><p class="p">If you have a webcam, you can take a new login photo right now by
+          clicking <span class="gui">Take a picture…</span>. Take your
+          picture, then move and resize the square outline to crop out the
+          parts you do not want. If you do not like the picture you took, click
+          <span class="gui">Take Another Picture</span> to try again, or
+          <span class="gui">Cancel</span> to give up.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

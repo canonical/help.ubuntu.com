@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Numeric keypad</title>
+<title>Numerisk tastatur</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Numeric keypad</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Numerisk tastatur</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">With the <span class="key"><kbd>Num Lock</kbd></span> key you can manually switch on or off
@@ -79,7 +79,7 @@
   include an option to decide if the computer should be started with the
   numeric keypad enabled. Otherwise, this is a way to configure it:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Install</a></span> the <span class="em">numlockx</span> package.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="apt:numlockx" title="apt:numlockx">Installer</a></span> <span class="em">numlockx</span>-pakken.</p></li>
 <li class="steps"><p class="p">Open <span class="app"><span class="link"><a href="startup-applications.html.da" title="Startup Applications">Startup Applications</a></span></span>
       and add a startup program with the command: <span class="cmd">numlockx on</span></p></li>
 </ol></div></div></div>
@@ -90,11 +90,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.da" title="Tastatur">Tastatur</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Få tastaturets markør til at blinke">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.da" title="Tastatur">Tastatur</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Tastaturlayouts</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.da" title="Få tastaturets markør til at blinke">markørblink</a></span>, <span class="link"><a href="a11y.html.da#mobility" title="Mobilitetshandikap">tastaturtilgængelighed</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

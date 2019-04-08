@@ -76,7 +76,9 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Датотеке</span>.</p></li>
 <li class="steps"><p class="p">Притисните на <span class="app">Датотеке</span> да отворите управника датотека.</p></li>
-<li class="steps"><p class="p">Притисните <span class="gui">Смеће</span> у бочној површи. Ако не видите бочну површ, притисните на <span class="gui">Датотеке</span> у горњој траци и изаберите <span class="gui">Бочна површ</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
+      press the menu button in the top-right corner of the window and select
+      <span class="gui">Sidebar</span>.</p></li>
 <li class="steps"><p class="p">Ако је ваша обрисана датотека тамо, кликните на њу и изаберите <span class="gui">Врати</span>. Након овога датотека ће бити враћена у фасциклу из које је обрисана.</p></li>
 </ol></div>
 </div></div>

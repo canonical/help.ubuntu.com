@@ -75,7 +75,7 @@
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Gebruikers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Gebruikersaccounts</span> om het paneel te openen.</p></li>
 <li class="steps"><p class="p">Selecteer het gebruikersaccount waarbij u automatisch wilt inloggen bij opstarten.</p></li>
-<li class="steps"><p class="p">Klik op <span class="gui">Ontgrendelen</span> en voer uw wachtwoord in.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Ontgrendelen</span> rechtsboven in de hoek en voer uw wachtwoord in wanneer daar om gevraagd wordt.</p></li>
 <li class="steps"><p class="p">Zet <span class="gui">Automatisch aanmelden</span> <span class="gui">AAN</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Wanneer u de volgende keer uw computer start, zult u automatisch aangemeld worden. Als u deze optie inschakelt, dan hoeft u niet uw wachtwoord in te voeren om u aan te melden. Dit betekent wel dat anderen, wanneer zij uw computer aanzetten, toegang hebben tot uw account en uw persoonlijke gegevens waaronder uw bestanden en bladergeschiedenis.</p>

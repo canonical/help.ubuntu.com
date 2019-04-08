@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Blink med skærmen ved lydbeskeder</title>
+<title>Blink med skærmen ved påmindelseslyde</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.da" title="Tilgængelighed">Tilgængelighed</a> › <a class="trail" href="a11y.html.da#sound" title="Hørehæmninger">Hørehæmninger</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="a11y.html.da" title="Tilgængelighed">Tilgængelighed</a> › <a class="trail" href="a11y.html.da#sound" title="Hørehandikap">Hørehandikap</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Blink med skærmen ved lydbeskeder</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Blink med skærmen ved påmindelseslyde</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Your computer will play a simple alert sound for certain types of
@@ -75,10 +75,10 @@
   can have either the entire screen or your current window visually flash
   whenever the alert sound is played.</p>
 <p class="p">This can also be useful if you’re in an environment where you need your
-  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html.da" title="Choose or disable the alert sound">Choose or disable the alert sound</a></span>
+  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html.da" title="Vælg eller deaktivér påmindelseslyden">Vælg eller deaktivér påmindelseslyden</a></span>
   to learn how to mute the alert sound, then enable visual alerts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Tilgængelighed</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Tilgængelighed</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Tilgængelighed</span> for at åbne panelet.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Visual Alerts</span> in the <span class="gui">Hearing</span> section.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Visual Alerts</span> to <span class="gui">ON</span>.</p></li>
@@ -94,12 +94,12 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="a11y.html.da#sound" title="Hørehæmninger">Hørehæmninger</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="a11y.html.da#sound" title="Hørehandikap">Hørehandikap</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-alert.html.da" title="Choose or disable the alert sound">Choose or disable the alert sound</a><span class="desc"> — Choose the sound to play for messages, set the alert volume, or
+<a href="sound-alert.html.da" title="Vælg eller deaktivér påmindelseslyden">Vælg eller deaktivér påmindelseslyden</a><span class="desc"> — Choose the sound to play for messages, set the alert volume, or
     disable alert sounds.</span>
 </li></ul></div>
 </div></div>

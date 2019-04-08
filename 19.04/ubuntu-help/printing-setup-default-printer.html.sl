@@ -78,7 +78,8 @@
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Kliknite <span class="gui">Tiskalniki</span>.</p></li>
 <li class="steps"><p class="p">S seznama razpoložljivih tiskalnikov izberite svoj želeni privzeti tiskalnik.</p></li>
-<li class="steps"><p class="p">Kliknite gumb <span class="gui">Odkleni</span> v zgornjem desnem kotu in vnesite svoje geslo.</p></li>
+<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
+      type in your password when prompted.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">Default printer</span> checkbox.</p></li>
 </ol></div></div></div>
 <p class="p">When you print in an application, the default printer is automatically

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dato &amp; klokkeslæt</span></h1></div>
@@ -72,9 +72,8 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="clock-set.html.da" title="Skift datoen og klokkeslættet"><span class="title">Skift datoen og klokkeslættet</span><span class="linkdiv-dash"> — </span><span class="desc">Use the <span class="gui">Date &amp; Time Settings</span> to alter the date or
     time.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.da" title="Kalenderaftaler"><span class="title">Kalenderaftaler</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
-    screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.da" title="Skift din tidszone"><span class="title">Skift din tidszone</span><span class="linkdiv-dash"> — </span><span class="desc">Update your time zone to your current location so that your time is correct.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.da" title="Kalenderaftaler"><span class="title">Kalenderaftaler</span><span class="linkdiv-dash"> — </span><span class="desc">Vis dine aftaler i kalenderområdet øverst på skærmen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-timezone.html.da" title="Skift din tidszone"><span class="title">Skift din tidszone</span><span class="linkdiv-dash"> — </span><span class="desc">Opdater din tidszone til din nuværende placering, så dit klokkeslæt er korrekt.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="clock-world.html.da" title="Tilføj et verdensur"><span class="title">Tilføj et verdensur</span><span class="linkdiv-dash"> — </span><span class="desc">Display times in other cities under the calendar.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -83,13 +82,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.da" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.da" title="Tastatur">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.da" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">user accounts</a></span>…
-    </span>
+<a href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Bruger- &amp; systemindstillinger</a><span class="desc"> — <span class="link"><a href="keyboard.html.da" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mus &amp; pegeplade</a></span>, <span class="link"><a href="prefs-display.html.da" title="Visning &amp; skærm">skærm</a></span>, <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">sprog</a></span>, <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">brugerkonti</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

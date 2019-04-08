@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#problems" title="Problemer">Problemer</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#problems" title="Problemer">Problemer</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#problems" title="Problemer">Problemer</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> › <a class="trail" href="color.html.da#problems" title="Problemer">Problemer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -79,12 +79,12 @@
 <p class="p">GNOME comes with several profiles for testing that make it very clear when
   the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Blue</dt>
+<dt class="terms">Blå</dt>
 <dd class="terms"><p class="p">This will turn the screen blue and tests if the calibration curves are
       being sent to the display.</p></dd>
 </dl></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Enheder</span> i sidebjælken.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Farve</span> i sidebjælken for at åbne panelet.</p></li>

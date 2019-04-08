@@ -83,7 +83,8 @@
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Kliknite gumb <span class="gui">Odkleni</span> v zgornjem desnem kotu in vnesite svoje geslo.</p></li>
+<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
+      type in your password when prompted.</p></li>
 <li class="steps"><p class="p">Click the name of your printer, and start typing a new name for
       the printer.</p></li>
 <li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to save your changes.</p></li>
@@ -98,7 +99,8 @@
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Kliknite gumb <span class="gui">Odkleni</span> v zgornjem desnem kotu in vnesite svoje geslo.</p></li>
+<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
+      type in your password when prompted.</p></li>
 <li class="steps"><p class="p">Click the location, and start editing the location.</p></li>
 <li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to save the changes.</p></li>
 </ol></div></div></div>

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Users</a> › <a class="trail" href="user-accounts.html.da#manage" title="Håndter brugerkonti">Konti</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Brugere</a> › <a class="trail" href="user-accounts.html.da#manage" title="Håndter brugerkonti">Konti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Slet en brugerkonto</span></h1></div>
@@ -73,13 +73,12 @@
 <p class="p">You can <span class="link"><a href="user-add.html.da" title="Tilføj en ny brugerkonto">add multiple user accounts to your
   computer</a></span>. If somebody is no longer using your computer, you can delete
   that user’s account.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.da" title="How do administrative privileges work?">administrator privileges</a></span>
+<p class="p">You need <span class="link"><a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">administrator privileges</a></span>
   to delete user accounts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Brugere</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Brugere</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
+<li class="steps"><p class="p">Tryk på <span class="gui">Lås op</span> i øverste højre hjørne og skriv din adgangskode, når du bliver spurgt.</p></li>
 <li class="steps"><p class="p">Select the user that you want to delete and press the
       <span class="gui">-</span> button, below the list of accounts on the
       left, to delete that user account.</p></li>
@@ -102,11 +101,11 @@
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html.da" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">Hvordan virker administrative rettigheder?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li>
 <li class="links ">
-<a href="user-add.html.da" title="Tilføj en ny brugerkonto">Tilføj en ny brugerkonto</a><span class="desc"> — Add new users so that other people can log in to the computer.</span>
+<a href="user-add.html.da" title="Tilføj en ny brugerkonto">Tilføj en ny brugerkonto</a><span class="desc"> — Tilføj nye brugere så andre personer kan logge ind på computeren.</span>
 </li>
 </ul></div>
 </div></div>

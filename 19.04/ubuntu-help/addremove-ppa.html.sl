@@ -104,7 +104,7 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="addremove.html.sl" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.sl" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html.sl" title="Namestite dodatne programe">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html.sl" title="Odstranjevanje programov">remove applications</a></span>,
       <span class="link"><a href="addremove-sources.html.sl" title="Add software repositories">add repositories</a></span>…
     </span>

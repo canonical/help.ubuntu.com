@@ -76,7 +76,9 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p"> Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en begin met het typen van <span class="app">Bestanden</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="app">Bestanden</span> om bestandsbeheer te openen.</p></li>
-<li class="steps"><p class="p"> Klik in de zijbalk op <span class="gui">Prullenbak</span>. Als de zijbalk niet zichtbaar is klikt u in de bovenbalk op <span class="gui">Bestanden</span> en kiest u <span class="gui">Zijbalk</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
+      press the menu button in the top-right corner of the window and select
+      <span class="gui">Sidebar</span>.</p></li>
 <li class="steps"><p class="p">Als uw verwijderde bestand er is, klik hierop en kies <span class="gui">Terughalen</span>. Het zal teruggeplaatst worden in de map waaruit het verwijderd werd.</p></li>
 </ol></div>
 </div></div>

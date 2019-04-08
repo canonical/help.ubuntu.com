@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change who has administrative privileges</title>
+<title>Vælg hvem der har administrative rettigheder</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,23 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Users</a> › <a class="trail" href="user-accounts.html.da#privileges" title="Brugerpriviliger">Privileges</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Brugere</a> › <a class="trail" href="user-accounts.html.da#privileges" title="Brugerrettigheder">Rettigheder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change who has administrative privileges</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Vælg hvem der har administrative rettigheder</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Administrative privileges are a way of deciding who can make changes to
   important parts of the system. You can change which users have administrative
   privileges and which ones do not. They are a good way of keeping your system
   secure and preventing potentially damaging unauthorized changes.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.da" title="How do administrative privileges work?">administrator privileges</a></span>
+<p class="p">You need <span class="link"><a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">administrator privileges</a></span>
   to change account types.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Brugere</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Brugere</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
+<li class="steps"><p class="p">Tryk på <span class="gui">Lås op</span> i øverste højre hjørne og skriv din adgangskode, når du bliver spurgt.</p></li>
 <li class="steps"><p class="p">Select the user whose privileges you want to change.</p></li>
 <li class="steps"><p class="p">Click the label <span class="gui">Standard</span> next to <span class="gui">Account Type</span>
       and select <span class="gui">Administrator</span>.</p></li>
@@ -99,18 +98,17 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html.da#privileges" title="Brugerpriviliger">Brugerpriviliger</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.da#privileges" title="Brugerrettigheder">Brugerrettigheder</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html.da" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">Hvordan virker administrative rettigheder?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html.da" title="Problemer som er forårsaget af administrative restriktioner">Problemer som er forårsaget af administrative restriktioner</a><span class="desc"> — You can do some things, like installing applications, only if you
-    have administrative privileges.</span>
+<a href="user-admin-problems.html.da" title="Problemer som er forårsaget af administrative restriktioner">Problemer som er forårsaget af administrative restriktioner</a><span class="desc"> — Nogen ting kan kun gøres hvis du har administrative rettigheder, såsom installation af programmer.</span>
 </li>
 </ul></div>
 </div></div>

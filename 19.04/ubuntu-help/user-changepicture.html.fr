@@ -80,9 +80,10 @@
 <li class="steps">
 <p class="p">Cliquez sur l'image à côté de votre nom. Une galerie vous proposera une sélection d'images de connexion. Si vous aimez l'une d'elles, cliquez dessus pour l'utiliser.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Si vous préférez utiliser une image personnelle qui se trouve dans l'ordinateur, cliquez sur <span class="gui">Rechercher d'autres images…</span>.</p></li>
+<li class="list"><p class="p">If you would rather use a picture you already have on your
+          computer, click <span class="gui">Select a file…</span>.</p></li>
 <li class="list"><p class="p">If you have a webcam, you can take a new login photo right now by
-          clicking <span class="gui">Take a photo…</span>. Take your
+          clicking <span class="gui">Take a picture…</span>. Take your
           picture, then move and resize the square outline to crop out the
           parts you do not want. If you do not like the picture you took, click
           <span class="gui">Take Another Picture</span> to try again, or

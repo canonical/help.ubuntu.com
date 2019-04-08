@@ -76,7 +76,7 @@
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Drucker</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Drucker</span>.</p></li>
 <li class="steps"><p class="p">Wählen Sie den gewünschten Standarddrucker aus der Liste der verfügbaren Drucker.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="gui">Entsperren</span> in der oberen rechten Ecke und geben Sie Ihr Passwort ein.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="gui">Entsperren</span> in der rechten oberen Ecke und geben Sie Ihr Passwort ein.</p></li>
 <li class="steps"><p class="p">Aktivieren Sie das Ankreuzfeld <span class="gui">Vorgabedrucker</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Wenn Sie aus einer Anwendung heraus drucken, wird automatisch der Standarddrucker verwendet, es sei denn, Sie wählen für die Ausgabe einen anderen Drucker.</p>

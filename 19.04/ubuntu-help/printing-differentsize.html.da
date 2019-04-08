@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change the paper size when printing</title>
+<title>Vælg en anden papirstørrelse til udskrivning</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> › <a class="trail" href="printing.html.da#paper" title="Andre papirstørrelser og layouts">Sizes and layouts</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> › <a class="trail" href="printing.html.da#paper" title="Andre papirstørrelser og layouts">Størrelser og layouts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Change the paper size when printing</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Vælg en anden papirstørrelse til udskrivning</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">If you want to change the paper size of your document (for example, print
@@ -84,10 +84,10 @@
 <p class="p">You can also use the <span class="gui">Orientation</span> drop-down list to choose a
   different orientation:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Portrait</span></p></li>
-<li class="list"><p class="p"><span class="gui">Landscape</span></p></li>
-<li class="list"><p class="p"><span class="gui">Reverse portrait</span></p></li>
-<li class="list"><p class="p"><span class="gui">Reverse landscape</span></p></li>
+<li class="list"><p class="p"><span class="gui">Portræt</span></p></li>
+<li class="list"><p class="p"><span class="gui">Landskab</span></p></li>
+<li class="list"><p class="p"><span class="gui">Omvendt portræt</span></p></li>
+<li class="list"><p class="p"><span class="gui">Omvendt landskab</span></p></li>
 </ul></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

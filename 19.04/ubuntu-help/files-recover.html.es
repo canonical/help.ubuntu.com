@@ -76,7 +76,9 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Archivos</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="app">Archivos</span> para abrir el gestor de archivos.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Papelera</span> en la barra lateral. Si no ve la barra lateral, pulse el botón <span class="gui">Archivos</span> en la barra de herramientas y elija <span class="gui">Barra lateral</span></p></li>
+<li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
+      press the menu button in the top-right corner of the window and select
+      <span class="gui">Sidebar</span>.</p></li>
 <li class="steps"><p class="p">Si su archivo eliminado está ahí, selecciónelo y elija <span class="gui">Restaurar</span>. Se devolverá a la carpeta de la que se eliminó.</p></li>
 </ol></div>
 </div></div>

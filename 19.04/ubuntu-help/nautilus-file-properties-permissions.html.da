@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#faq" title="Tips og spørgsmål">Tips og spørgsmål</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#faq" title="Tips og spørgsmål">Tips og spørgsmål</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Indstil filtilladelser</span></h1></div>
@@ -108,17 +108,17 @@
 <p class="p">The permissions you can set for a folder are different from those you
     can set for a file.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">None</span></dt>
+<dt class="terms"><span class="gui">Ingen</span></dt>
 <dd class="terms"><p class="p">The user will not even be able to see what files are in
         the folder.</p></dd>
-<dt class="terms"><span class="gui">List files only</span></dt>
+<dt class="terms"><span class="gui">Vis kun filer</span></dt>
 <dd class="terms"><p class="p">The user will be able to see what files are in the folder,
         but will not be able to open, create, or delete files.</p></dd>
-<dt class="terms"><span class="gui">Access files</span></dt>
+<dt class="terms"><span class="gui">Tilgå filer</span></dt>
 <dd class="terms"><p class="p">The user will be able to open files in the folder (provided
         they have permission to do so on the particular file), but will
         not be able to create new files or delete files.</p></dd>
-<dt class="terms"><span class="gui">Create and delete files</span></dt>
+<dt class="terms"><span class="gui">Opret og slet filer</span></dt>
 <dd class="terms"><p class="p">The user will have full access to the folder, including
         opening, creating, and deleting files.</p></dd>
 </dl></div></div></div>

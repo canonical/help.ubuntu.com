@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Web browsers</title>
+<title>Webové prohlížeče</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,7 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.cs" title="Průvodce pracovním prostředím Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Nápověda"></span></span> Průvodce pracovním prostředím Ubuntu</a> » <a class="trail" href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Web browsers</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Webové prohlížeče</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.cs" title="Instalace zásuvného modulu Flash"><span class="title">Instalace zásuvného modulu Flash</span><span class="linkdiv-dash"> — </span><span class="desc">Pro zobrazení některých stránek obsahujících videa a interaktivní prvky můžete potřebovat nainstalovat Flash.</span></a></div></div>
@@ -79,7 +79,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.cs" title="Wireless networking">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html.cs" title="Wired networking">drátové</a></span>, <span class="link"><a href="net-problem.html.cs" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html.cs" title="Web browsers">prohlížení www</a></span>, <span class="link"><a href="net-email.html.cs" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
+<a href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html.cs" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html.cs" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html.cs" title="Webové prohlížeče">prohlížení www</a></span>, <span class="link"><a href="net-email.html.cs" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

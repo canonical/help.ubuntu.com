@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="bluetooth.html.da#problems" title="Problemer">Bluetooth-problemer</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="bluetooth.html.da#problems" title="Problemer">Bluetooth-problemer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Jeg kan ikke tilslutte min Bluetooth-enhed</span></h1></div>
@@ -77,23 +77,23 @@
 <dd class="terms"><p class="p">Some Bluetooth devices block connections by default, or require you to
       change a setting to allow connections to be made. Make sure that your
       device is set up to allow connections.</p></dd>
-<dt class="terms">Bluetooth hardware not recognized</dt>
+<dt class="terms">Bluetooth-hardware er ikke genkendt</dt>
 <dd class="terms"><p class="p">Your Bluetooth adapter or dongle may not have been recognized by the
       computer. This could be because
-      <span class="link"><a href="hardware-driver.html.da" title="Hvad er et drev?">drivers</a></span> for the adapter are not
+      <span class="link"><a href="hardware-driver.html.da" title="Hvad er en driver?">drivers</a></span> for the adapter are not
       installed. Some Bluetooth adapters are not supported on Linux, so you may
       not be able to get the right drivers for them. In this case, you will
       probably have to get a different Bluetooth adapter.</p></dd>
-<dt class="terms">Adapter is not switched on</dt>
+<dt class="terms">Adapter er ikke slået til</dt>
 <dd class="terms"><p class="p">Make sure that your Bluetooth adapter is switched on. Open the
         Bluetooth panel and check that it is not
         <span class="link"><a href="bluetooth-turn-on-off.html.da" title="Slå Bluetooth til eller fra">disabled</a></span>.</p></dd>
-<dt class="terms">Device Bluetooth connection switched off</dt>
+<dt class="terms">Enhedens Bluetooth-forbindelse er slået fra</dt>
 <dd class="terms"><p class="p">Check that Bluetooth is turned on on the device you are trying to
       connect to, and that it is <span class="link"><a href="bluetooth-visibility.html.da" title="Hvad er Bluetooth-synlighed?">discoverable
       or visible</a></span>. For example, if you are trying to connect to a phone,
       make sure that it is not in airplane mode.</p></dd>
-<dt class="terms">No Bluetooth adapter in your computer</dt>
+<dt class="terms">Ingen Bluetooth-adapter i din computer</dt>
 <dd class="terms"><p class="p">Many computers do not have Bluetooth adapters. You can buy an adapter
       if you want to use Bluetooth.</p></dd>
 </dl></div></div></div>
@@ -108,8 +108,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-driver.html.da" title="Hvad er et drev?">Hvad er et drev?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
-    attached to it.</span>
+<a href="hardware-driver.html.da" title="Hvad er en driver?">Hvad er en driver?</a><span class="desc"> — En hardware-/enhedsdriver gør det muligt for din computer at bruge enheder som er forbundet til den.</span>
 </li></ul></div>
 </div></div>
 </div>

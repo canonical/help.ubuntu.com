@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#common-file-tasks" title="Almindelige opgaver">Almindelige opgaver</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#common-file-tasks" title="Almindelige opgaver">Almindelige opgaver</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Slet filer og mapper</span></h1></div>
@@ -76,7 +76,7 @@
   items</a></span> in the <span class="gui">Trash</span> folder to their original location if you
   decide you need them, or if they were accidentally deleted.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To send a file to the trash:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Send en fil til papirkurven:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Select the item you want to place in the trash by clicking it
     once.</p></li>
@@ -97,7 +97,7 @@
 <p class="p">You can immediately delete a file permanently, without having to send it
     to the trash first.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To permanently delete a file:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Slet en fil permanent:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Select the item you want to delete.</p></li>
 <li class="steps"><p class="p">Tryk på og hold <span class="key"><kbd>Skift</kbd></span>-tasten nede, og tryk herefter på <span class="key"><kbd>Delete</kbd></span>-tasten på dit tastatur.</p></li>
@@ -121,7 +121,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.da#trash" title="Papirkurv">File manager trash preferences</a></li>
+<li class="links "><a href="nautilus-behavior.html.da#trash" title="Papirkurv">Filhåndteringens præferencer for papirkurven</a></li>
 <li class="links ">
 <a href="files-recover.html.da" title="Gendan en fil fra papirkurven">Gendan en fil fra papirkurven</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
     recovered.</span>

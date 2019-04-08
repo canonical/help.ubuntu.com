@@ -80,7 +80,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Εκτυπωτές</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Εκτυπωτές</span> για να ανοίξετε τον πίνακα.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στο κουμπί <span class="gui">Ξεκλείδωμα</span> στη πάνω δεξιά γωνία και εισάγετε τον κωδικό πρόσβασής σας.</p></li>
+<li class="steps"><p class="p">Πατήστε στο <span class="gui">Ξεκλείδωμα</span> στην πάνω δεξιά γωνία και πληκτρολογήστε τον κωδικό πρόσβασής σας όταν σας ζητηθεί.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο όνομα του εκτυπωτή σας και αρχίστε να πληκτρολογείτε ένα νέο όνομα.</p></li>
 <li class="steps"><p class="p">Πατήστε το πλήκτρο <span class="key"><kbd>Enter</kbd></span> για να αποθηκεύσετε τις αλλαγές σας.</p></li>
 </ol></div></div></div>
@@ -93,7 +93,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Εκτυπωτές</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Εκτυπωτές</span> για να ανοίξετε τον πίνακα.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στο κουμπί <span class="gui">Ξεκλείδωμα</span> στη πάνω δεξιά γωνία και εισάγετε τον κωδικό πρόσβασής σας.</p></li>
+<li class="steps"><p class="p">Πατήστε στο <span class="gui">Ξεκλείδωμα</span> στην πάνω δεξιά γωνία και πληκτρολογήστε τον κωδικό πρόσβασής σας όταν σας ζητηθεί.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στη θέση, και ξεκινήστε την επεξεργασία της θέσης.</p></li>
 <li class="steps"><p class="p">Πατήστε το πλήκτρο <span class="key"><kbd>Enter</kbd></span> για να αποθηκεύσετε τις αλλαγές.</p></li>
 </ol></div></div></div>

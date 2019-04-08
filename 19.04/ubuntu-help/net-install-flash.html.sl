@@ -70,19 +70,16 @@
 <div class="hgroup"><h1 class="title"><span class="title">Nameščanje vstavka Flash</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Flash is a <span class="em">plug-in</span> for your web browser that allows you to watch videos and use
-interactive web pages on some websites. While HTML5, which is a more modern solution, is increasingly
-offered, there are still some websites which won't work without Flash.</p>
+<p class="p">Flash je <span class="em">vstavek</span> za vaš spletni brskalnik, ki vam omogoča ogled videoposnetkov in uporabo odzivnih spletnih strani na nekaterih spletiščih. Medtem ko je HTML5 bolj moderna rešitev in vedno bolj ponujena, so še vedno nekatera spletišča, ki ne delujejo brez Flash.</p>
 <p class="p">V primeru da Flasha nimate nameščenega, boste verjetno videli sporočilo, ki vas bo obvestilo, da ga spletišče potrebuje. Flash je na voljo kot brezplačen (toda ne odprtokoden) prejem za večino spletnih brskalnikov.</p>
 <div class="note note-warning" title="Opozorilo"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe has announced that they will stop updating and distributing the Flash Player at the end
  of 2020. Consequently, for security reasons, the Flash plug-in should not be used after 2020.</p></div></div></div></div>
-<p class="p">There are two kinds of plug-ins available:</p>
+<p class="p">Na voljo sta dve vrsti vstavkov:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="em">NPAPI</span> for <span class="app">Firefox</span> and other Gecko-based web browsers</p></li>
-<li class="list"><p class="p"><span class="em">PPAPI</span> for <span class="app">Chromium</span> and other Blink-based web browsers including <span class="app">Opera</span> and
-  <span class="app">Vivaldi</span></p></li>
+<li class="list"><p class="p"><span class="em">NPAPI</span> za <span class="app">Firefox</span> in druge spletne brskalnike, ki temeljijo na Gecko</p></li>
+<li class="list"><p class="p"><span class="em">PPAPI</span> je <span class="app">Chromium</span> in druge spletne brskalnike, ki temeljijo na Blink, vključno z <span class="app">Opera</span> in <span class="app">Vivaldi</span></p></li>
 </ul></div></div></div>
-<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="app">Google Chrome</span> browser is shipped with Flash bundled, and does not need a plug-in.</p></div></div></div></div>
+<div class="note" title="Opomba"><div class="inner"><div class="region"><div class="contents"><p class="p">Brskalnik <span class="app">Google Chrome</span> ima že priložen Flash in ne potrebuje vstavka.</p></div></div></div></div>
 </div>
 <div id="flashplugin-installer" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">flashplugin-installer</span></h2></div>
@@ -92,8 +89,7 @@ offered, there are still some websites which won't work without Flash.</p>
 <div id="adobe-flashplugin" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">adobe-flashplugin</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">The <span class="app">adobe-flashplugin</span> package provides both the NPAPI and PPAPI plug-ins, i.e. it provides
- Flash for both Firefox and Chromium like web browsers.</p>
+<p class="p">Paket <span class="app">adobe-flashplugin</span> vsebuje vstavke NPAPI in PPAPI, torej že ima Flash tako za Firefox in Chromium ter njima podobne.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Prepričajte se, da je <span class="link"><a href="addremove-sources.html.sl#canonical-partner" title="Omogočitev skladišča partnerjev Canonicala">skladišče Canonical Partner dejavno</a></span>.</p></li>
 <li class="steps"><p class="p">Namestite paket <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span>.</p></li>
@@ -109,10 +105,9 @@ offered, there are still some websites which won't work without Flash.</p>
  can install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package. It's a wrapper which makes
  Firefox use the PPAPI plug-in.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that <span class="app">adobe-flashplugin</span> is installed.</p></li>
+<li class="steps"><p class="p">Prepričajte se, da je <span class="app">adobe-flashplugin</span> nameščen.</p></li>
 <li class="steps">
-<p class="p">Open a terminal window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> and
-   install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package:</p>
+<p class="p">Odprite okno terminala s pritiskom <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> in namestite paket <span class="app">browser-plugin-freshplayer-pepperflash</span>:</p>
 <p class="p"><span class="cmd">sudo apt install browser-plugin-freshplayer-pepperflash</span></p>
 </li>
 <li class="steps"><p class="p">Ponovno zaženite brskalnik.</p></li>

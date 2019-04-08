@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Ubuntu Desktop Guide</title>
+<title>Ubuntu-skrivebordsguide</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,12 +65,12 @@
 </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu-logo"></span></span> Ubuntu-skrivebordsguide</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em"><span>Ubuntu 19.04</span></div><div class="region"><div class="contents">
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.da" title="Kom godt i gang"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Er GNOME nyt for dig? Lær at finde rundt.</span></a></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.da" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">En visuel oversigt af dit skrivebord, toplinjen og <span class="gui">Aktivitetsoversigten</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.da" title="Log ud, sluk eller skift bruger"><span class="title">Log ud, sluk eller skift bruger</span><span class="linkdiv-dash"> — </span><span class="desc">Lær at forlade din brugerkonto ved at logge ud, skifte bruger osv.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.da" title="En visuel oversigt af GNOME"><span class="title">En visuel oversigt af GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">En visuel oversigt af dit skrivebord, toplinjen og <span class="gui">Aktivitetsoversigten</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.da" title="Log ud, sluk eller skift bruger"><span class="title">Log ud, sluk eller skift bruger</span><span class="linkdiv-dash"> — </span><span class="desc">Læs om at forlade din brugerkonto ved at logge ud, skifte bruger osv.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.da" title="Start programmer"><span class="title">Start programmer</span><span class="linkdiv-dash"> — </span><span class="desc">Start programmer fra <span class="gui">Aktivitetsoversigten</span>.</span></a></div>
 </div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region">
@@ -80,81 +80,43 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless.html.da" title="Trådløst netværk">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.da" title="Kablet netværk">wired</a></span>,
-      <span class="link"><a href="net-problem.html.da" title="Netværksproblemer">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.da" title="Webbrowsere">web browsing</a></span>,
-      <span class="link"><a href="net-email.html.da" title="E-mail &amp; e-mailsoftware">email accounts</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.da" title="Trådløst netværk">Trådløst</a></span>, <span class="link"><a href="net-wired.html.da" title="Kablet netværk">kablet</a></span>, <span class="link"><a href="net-problem.html.da" title="Netværksproblemer">forbindelsesproblemer</a></span>, <span class="link"><a href="net-browser.html.da" title="Webbrowsere">webbrowsing</a></span>, <span class="link"><a href="net-email.html.da" title="E-mail &amp; e-mailsoftware">e-mailkonti</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="media.html.da#photos" title="Billeder og digitalkameraer">Digital cameras</a></span>,
-      <span class="link"><a href="media.html.da#music" title="Musik og bærbare lydafspillere">iPods</a></span>,
-      <span class="link"><a href="media.html.da#photos" title="Billeder og digitalkameraer">editing photos</a></span>,
-      <span class="link"><a href="media.html.da#videos" title="Videoer og videokamera">playing videos</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.da#photos" title="Billeder og digitalkameraer">Digitale kameraer</a></span>, <span class="link"><a href="media.html.da#music" title="Musik og bærbare lydafspillere">iPods</a></span>, <span class="link"><a href="media.html.da#photos" title="Billeder og digitalkameraer">billedredigering</a></span>, <span class="link"><a href="media.html.da#videos" title="Videoer og videokamera">videoafspilning</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="files.html.da" title="Filer, mapper &amp; søgning">Filer, mapper &amp; søgning</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="files-search.html.da" title="Søg efter filer">Searching</a></span>,
-      <span class="link"><a href="files-delete.html.da" title="Slet filer og mapper">delete files</a></span>,
-      <span class="link"><a href="files.html.da#backup" title="Sikkerhedskopiering">backups</a></span>,
-      <span class="link"><a href="files.html.da#removable" title="Flytbare drev og eksterne diske">removable drives</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.da" title="Søg efter filer">Søgning</a></span>, <span class="link"><a href="files-delete.html.da" title="Slet filer og mapper">slet filer</a></span>, <span class="link"><a href="files.html.da#backup" title="Sikkerhedskopiering">sikkerhedskopier</a></span>, <span class="link"><a href="files.html.da#removable" title="Flytbare drev og eksterne diske">flytbare drev</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html.da" title="Install &amp; remove software">Install &amp; remove software</a></div>
+<div class="links-grid-link"><a href="addremove.html.da" title="Installer og fjern software">Installer og fjern software</a></div>
 <div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html.da" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html.da" title="Installer yderligere programmer">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html.da" title="Fjern et program">remove applications</a></span>,
       <span class="link"><a href="addremove-sources.html.da" title="Add software repositories">add repositories</a></span>…
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="prefs.html.da" title="User &amp; system settings">User &amp; system settings</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="keyboard.html.da" title="Tastatur">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.da" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">user accounts</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Bruger- &amp; systemindstillinger</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.da" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mus &amp; pegeplade</a></span>, <span class="link"><a href="prefs-display.html.da" title="Visning &amp; skærm">skærm</a></span>, <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">sprog</a></span>, <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">brugerkonti</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.da" title="Udskrivning">printers</a></span>,
-      <span class="link"><a href="power.html.da" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.da" title="Farvestyring">color management</a></span>,
-      <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html.da" title="Diske &amp; lager">disks</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></span>, <span class="link"><a href="printing.html.da" title="Udskrivning">printere</a></span>, <span class="link"><a href="power.html.da" title="Strøm &amp; batteri">strømindstillinger</a></span>, <span class="link"><a href="color.html.da" title="Farvestyring">farvestyring</a></span>, <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.da" title="Diske &amp; lager">diske</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="a11y.html.da" title="Tilgængelighed">Tilgængelighed</a></div>
-<div class="desc"><span class="desc">
-     <span class="link"><a href="a11y.html.da#vision" title="Synshæmninger">Seeing</a></span>,
-     <span class="link"><a href="a11y.html.da#sound" title="Hørehæmninger">hearing</a></span>,
-     <span class="link"><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">mobility</a></span>,
-     <span class="link"><a href="a11y-braille.html.da" title="Læs skærm i Braille">braille</a></span>,
-     <span class="link"><a href="a11y-mag.html.da" title="Forstør et skærmområde">screen magnifier</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.da#vision" title="Synshandikap">Syn</a></span>, <span class="link"><a href="a11y.html.da#sound" title="Hørehandikap">hørelse</a></span>, <span class="link"><a href="a11y.html.da#mobility" title="Mobilitetshandikap">mobilitet</a></span>, <span class="link"><a href="a11y-braille.html.da" title="Læs skærm i Braille">braille</a></span>, <span class="link"><a href="a11y-mag.html.da" title="Forstør et skærmområde">skærmforstørrelsesglas</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="tips.html.da" title="Tips &amp; tricks">Tips &amp; tricks</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.da" title="Indtast specialtegn">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.da" title="Midterklik">middle click shortcuts</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.da" title="Indtast specialtegn">Specialtegn</a></span>, <span class="link"><a href="mouse-middleclick.html.da" title="Midterklik">genveje for midterklik</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="more-help.html.da" title="Get more help">Get more help</a></div>
-<div class="desc"><span class="desc">
-        <span class="link"><a href="about-this-guide.html.da" title="Om denne vejledning">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html.da" title="Participate to improve this guide">help improve this guide</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html.da" title="Om denne vejledning">Tips til at bruge guiden</a></span>, <span class="link"><a href="get-involved.html.da" title="Vær med til at forbedre guiden">vær med til at forbedre guiden</a></span>…</span></div>
 </div>
 </div></div></div>
 </div></div>

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#common-file-tasks" title="Almindelige opgaver">Almindelige opgaver</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#common-file-tasks" title="Almindelige opgaver">Almindelige opgaver</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Kopiér eller flyt filer og mapper</span></h1></div>
@@ -82,7 +82,7 @@
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-steps"><h2><span class="title">Copy and paste files</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Kopiér og indsæt filer</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Select the file you want to copy by clicking on it once.</p></li>
 <li class="steps"><p class="p">Right-click and pick <span class="gui">Copy</span>, or press
@@ -99,7 +99,7 @@
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-steps"><h2><span class="title">Cut and paste files to move them</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Klip og indsæt filer for at flytte dem</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Select the file you want to move by clicking on it once.</p></li>
 <li class="steps"><p class="p">Højreklik og vælg <span class="gui">Klip</span>, eller tryk på <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span>.</p></li>
@@ -114,7 +114,7 @@
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
-<div class="title title-steps"><h2><span class="title">Drag files to copy or move</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Træk filer for at kopiere eller flytte</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the file manager and go to the folder which contains the file you
  want to copy.</p></li>

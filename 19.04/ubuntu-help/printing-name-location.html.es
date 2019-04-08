@@ -80,7 +80,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Impresoras</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Impresoras</span> para abrir el panel.</p></li>
-<li class="steps"><p class="p">Pulse el botón <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña cuando se le pida.</p></li>
 <li class="steps"><p class="p">Pulse sobre el nombre de su impresora y empiece a escribir el nuevo nombre de la impresora.</p></li>
 <li class="steps"><p class="p">Pulse <span class="key"><kbd>Intro</kbd></span> para guardar los cambios.</p></li>
 </ol></div></div></div>
@@ -93,7 +93,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Impresoras</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Impresoras</span> para abrir el panel.</p></li>
-<li class="steps"><p class="p">Pulse el botón <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña cuando se le pida.</p></li>
 <li class="steps"><p class="p">Pulse sobre la ubicación, y empiece a editarla.</p></li>
 <li class="steps"><p class="p">Pulse <span class="key"><kbd>Intro</kbd></span> para guardar los cambios.</p></li>
 </ol></div></div></div>

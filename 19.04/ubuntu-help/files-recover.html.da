@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Gendan en fil fra papirkurven</span></h1></div>
@@ -73,12 +73,13 @@
 <p class="p">If you delete a file with the file manager, the file is normally placed
   into the <span class="gui">Trash</span>, and should be able to be restored.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To restore a file from the Trash:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Gendan en fil fra papirkurven:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="app">Filer</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="app">Filer</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="app">Files</span> to open the file manager.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
-      click <span class="gui">Files</span> in the top bar and pick <span class="gui">Sidebar</span>.</p></li>
+      press the menu button in the top-right corner of the window and select
+      <span class="gui">Sidebar</span>.</p></li>
 <li class="steps"><p class="p">If your deleted file is there, click on it and select
       <span class="gui">Restore</span>. It will be restored to the folder from where it was
       deleted.</p></li>

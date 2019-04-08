@@ -75,7 +75,7 @@
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Usuários</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Usuários</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione a conta de usuário cuja sessão você deseja que inicie automaticamente na inicialização.</p></li>
-<li class="steps"><p class="p">Pressione <span class="gui">Desbloquear</span> e digite sua senha.</p></li>
+<li class="steps"><p class="p">Pressione <span class="gui">Desbloquear</span> no canto superior direito e insira sua senha quando solicitada.</p></li>
 <li class="steps"><p class="p">Alterne o <span class="gui">Início automático de sessão</span> para <span class="key"><kbd>❙</kbd></span>.</p></li>
 </ol></div></div></div>
 <p class="p">Quando você ligar seu computador na próxima vez, sua sessão se iniciará automaticamente. Se você tem essa opção habilitada, você não vai precisar digitar sua senha para iniciar sua sessão, o que significa que se outra pessoa iniciar seu computador, ela poderá acessar sua conta e seus dados pessoais, includindo seus arquivos e históricos do navegador.</p>

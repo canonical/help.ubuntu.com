@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Will my computer work with a power supply in another country?</title>
+<title>Virker min computer med en strømforsyning fra et andet land?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="power.html.da#problems" title="Problemer">Power problems</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="power.html.da#problems" title="Problemer">Strømproblemer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Will my computer work with a power supply in another country?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Virker min computer med en strømforsyning fra et andet land?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Different countries use power supplies at different voltages (usually 110V
@@ -93,7 +93,7 @@ or “230V” (for example). Switch it if you need to.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.da#problems" title="Problemer">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
+<a href="power.html.da#problems" title="Problemer">Strømproblemer</a><span class="desc"> — Fejlsøg problemer med strøm og batterier.</span>
 </li></ul></div>
 </div></div></div>
 </div>

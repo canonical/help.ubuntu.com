@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøgning af trådløst netværk</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøgning af trådløst netværk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøgning af trådløst netværk</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøgning af trådløst netværk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -76,7 +76,7 @@
 </div>
 <div class="hgroup">
 <h1 class="title"><span class="title">Fejlsøgning af trådløs forbindelse</span></h1>
-<h2 class="subtitle"><span class="subtitle">Check that the wireless adapter was recognized</span></h2>
+<h2 class="subtitle"><span class="subtitle">Tjek at den trådlåse adapter blev genkendt</span></h2>
 </div>
 <div class="region">
 <div class="contents">

@@ -76,7 +76,7 @@
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Kies de gewenste standaardprinter in de lijst met beschikbare printers.</p></li>
-<li class="steps"><p class="p">Klik op de knop <span class="gui">Ontgrendelen</span> in de rechterbovenhoek en voer uw wachtwoord in.</p></li>
+<li class="steps"><p class="p">Klik op <span class="gui">Ontgrendelen</span> rechtsboven in de hoek en voer uw wachtwoord in wanneer daar om gevraagd wordt.</p></li>
 <li class="steps"><p class="p">Klik in het keuzevakje <span class="gui">Standaardprinter</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Wanneer u vanuit een toepassing afdrukt, dan wordt de standaardprinter automatisch gebruikt, tenzij u een andere printer kiest.</p>

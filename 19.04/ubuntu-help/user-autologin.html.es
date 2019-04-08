@@ -75,7 +75,7 @@
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Usuarios</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Usuarios</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Seleccione la cuenta de usuario con la que quiere iniciar la sesión automáticamente al inicio.</p></li>
-<li class="steps"><p class="p">Pulse <span class="gui">Desbloquear</span> e introduzca su contraseña.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña cuando se le pida.</p></li>
 <li class="steps"><p class="p">Active la opción <span class="gui">Inicio de sesión automático</span> (<span class="gui">Encendido</span>).</p></li>
 </ol></div></div></div>
 <p class="p">La próxima vez que arranque su equipo, se iniciará la sesión automáticamente. Si tiene esta opción activada, no será necesario que escriba su contraseña para iniciar la sesión, lo que significa que si alguien arranca su equipo, podrá acceder a su cuenta y a sus datos personales, incluyendo sus archivos y su histórico de navegación.</p>

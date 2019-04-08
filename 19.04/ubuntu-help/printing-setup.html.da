@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> › <a class="trail" href="printing.html.da#setup" title="Opsæt en printer">Setup</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> › <a class="trail" href="printing.html.da#setup" title="Opsæt en printer">Opsætning</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Opsæt en lokal printer</span></h1></div>
@@ -87,11 +87,10 @@
 <p class="p">If your printer was not set up automatically, you can add it in the
   printer settings:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Printere</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Printere</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Printere</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Unlock</span> button in the top-right corner and enter
-      your password.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button.</p></li>
+<li class="steps"><p class="p">Tryk på <span class="gui">Lås op</span> i øverste højre hjørne og skriv din adgangskode, når du bliver spurgt.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Tilføj en printer …</span>-knappen.</p></li>
 <li class="steps"><p class="p">In the pop-up window, select your new printer. Click
       <span class="gui">Add</span>.</p></li>
 </ol></div></div></div>

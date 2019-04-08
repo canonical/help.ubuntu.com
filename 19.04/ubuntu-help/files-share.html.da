@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="sharing.html.da" title="Deling">Deling</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="sharing.html.da" title="Deling">Deling</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -79,9 +79,9 @@ file manager.</p>
 <div class="note note-important" title="Vigtigt"><div class="inner"><div class="region"><div class="contents"><p class="p">Before you begin, make sure <span class="app">Evolution</span> or <span class="app">Geary</span> is
     installed on your computer, and your email account is configured.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To share a file by email:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Del en fil via e-mail:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn programmet <span class="app">Filer</span> fra <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span>.</p></li>
+<li class="steps"><p class="p">Åbn programmet <span class="app">Filer</span> fra <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span>.</p></li>
 <li class="steps"><p class="p">Locate the file you want to transfer.</p></li>
 <li class="steps"><p class="p">Right-click the file and select <span class="gui">Send to…</span>. An email compose
       window will appear with the file attached.</p></li>
@@ -101,11 +101,7 @@ file manager.</p>
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html.da" title="Deling">Deling</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html.da" title="Del filer via e-mail">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Media sharing</a></span>…
-    </span>
+<a href="sharing.html.da" title="Deling">Deling</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Skrivebordsdeling</a></span>, <span class="link"><a href="files-share.html.da" title="Del filer via e-mail">Del filer via e-mail</a></span>, <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Mediedeling</a></span> …</span>
 </li>
 <li class="links "><a href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a></li>
 </ul></div>
@@ -118,7 +114,7 @@ file manager.</p>
     shares, or WebDAV.</span>
 </li>
 <li class="links ">
-<a href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed">Send filer til en Bluetooth-enhed</a><span class="desc"> — Share files to Bluetooth devices such as your phone.</span>
+<a href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed">Send filer til en Bluetooth-enhed</a><span class="desc"> — Del filer til Bluetooth-enheder såsom din telefon.</span>
 </li>
 </ul></div>
 </div></div>

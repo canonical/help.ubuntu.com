@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-problem.html.da" title="Netværksproblemer">Netværksproblemer</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-problem.html.da" title="Netværksproblemer">Netværksproblemer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Andre brugere kan ikke redigere netværksforbindelserne</span></h1></div>
@@ -75,7 +75,7 @@
   This makes it so that everyone on the computer can <span class="em">connect</span> using
   that connection.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Netværk</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Netværk</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span> from the list on the left.</p></li>
 <li class="steps"><p class="p">Click the 
@@ -94,10 +94,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.da" title="Netværksproblemer">Netværksproblemer</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.da" title="Jeg kan ikke se mit trådløse netværk i listen">finding your Wi-Fi network</a></span>…
-    </span>
+<a href="net-problem.html.da" title="Netværksproblemer">Netværksproblemer</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøg trådløse forbindelser</a></span>, <span class="link"><a href="net-wireless-find.html.da" title="Jeg kan ikke se mit trådløse netværk i listen">find dit Wi-Fi-netværk</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -107,7 +104,7 @@
 <a href="net-othersconnect.html.da" title="Andre brugere kan ikke oprette forbindelse til internettet">Andre brugere kan ikke oprette forbindelse til internettet</a><span class="desc"> — You can save settings (like the password) for a network connection so that everyone who uses the computer will be able to connect to it.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html.da" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">Hvordan virker administrative rettigheder?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li>
 </ul></div>

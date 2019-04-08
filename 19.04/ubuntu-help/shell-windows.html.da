@@ -64,19 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vinduer og arbejdsområder</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">Like other desktops, GNOME uses windows to display your running
-  applications. Using both the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span>
-  overview and the <span class="em">dash</span>, you can launch new applications and control
-  active windows.</p>
-<p class="p">You can also group your applications together within workspaces. Visit the
-  window and workspace help topics below to better learn how to use these
-  features.</p>
+<p class="p">GNOME bruger, ligesom de andre skriveborde, vinduer til at vise dine kørende programmer. Du kan med både <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og <span class="em">favoritområdet</span> starte nye programmer og styre aktive vinduer.</p>
+<p class="p">Du kan også gruppere dine programmer i arbejdsområder. Besøg hjælpeemnerne for vinduer og arbejdsområder nedenfor, for bedre at lære hvordan du bruger funktionerne.</p>
 </div>
 <div id="working-with-windows" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Arbejd med vinduer</span></h2></div>
@@ -84,12 +79,10 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="shell-windows-lost.html.da" title="Find et mistet vindue"><span class="title">Find et mistet vindue</span><span class="linkdiv-dash"> — </span><span class="desc">Check the <span class="gui">Activities</span> overview or other workspaces.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows-tiled.html.da" title="Fliselæg vinduer"><span class="title">Fliselæg vinduer</span><span class="linkdiv-dash"> — </span><span class="desc">Maksimer to vinduer side om side.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.da" title="Flyt og tilpas størrelsen på vinduer"><span class="title">Flyt og tilpas størrelsen på vinduer</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange windows in a workspace to help you work more
-    efficiently.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.da" title="Flyt og tilpas størrelsen på vinduer"><span class="title">Flyt og tilpas størrelsen på vinduer</span><span class="linkdiv-dash"> — </span><span class="desc">Opstil vinduer i et arbejdsområde så du kan arbejde mere effektivt.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.da" title="Maksimer og afmaksimer et vindue"><span class="title">Maksimer og afmaksimer et vindue</span><span class="linkdiv-dash"> — </span><span class="desc">Double-click or drag a titlebar to maximize or restore a
-    window.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.da" title="Maksimér og afmaksimér et vindue"><span class="title">Maksimér og afmaksimér et vindue</span><span class="linkdiv-dash"> — </span><span class="desc">Dobbeltklik eller træk en titellinje for at maksimere eller gendanne et vindue.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.da" title="Skift mellem vinduer"><span class="title">Skift mellem vinduer</span><span class="linkdiv-dash"> — </span><span class="desc">Tryk på <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -99,8 +92,7 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.da" title="Hvad er et arbejdsområde og hvordan kan det hjælpe mig?"><span class="title">Hvad er et arbejdsområde og hvordan kan det hjælpe mig?</span><span class="linkdiv-dash"> — </span><span class="desc">Arbejdsområder er en måde til at gruppere vinduer på dit skrivebord.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.da" title="Flyt et vindue til et andet arbejdsområde"><span class="title">Flyt et vindue til et andet arbejdsområde</span><span class="linkdiv-dash"> — </span><span class="desc">Go to the <span class="gui">Activities</span> overview and drag the window to a
-    different workspace.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-workspaces-movewindow.html.da" title="Flyt et vindue til et andet arbejdsområde"><span class="title">Flyt et vindue til et andet arbejdsområde</span><span class="linkdiv-dash"> — </span><span class="desc">Gå til <span class="gui">Aktivitetsoversigten</span> og træk vinduet til et andet arbejdsområde.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-workspaces-switch.html.da" title="Skift mellem arbejdsområder"><span class="title">Skift mellem arbejdsområder</span><span class="linkdiv-dash"> — </span><span class="desc">Brug arbejdsområdevælgeren.</span></a></div></div>
 </div></div></div></div></div>

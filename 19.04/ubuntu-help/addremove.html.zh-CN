@@ -73,14 +73,8 @@
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.zh-CN" title="删除应用程序"><span class="title">删除应用程序</span><span class="linkdiv-dash"> — </span><span class="desc">移除不再使用的应用程序。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-install.html.zh-CN" title="安装额外的应用程序"><span class="title">安装额外的应用程序</span><span class="linkdiv-dash"> — </span><span class="desc">通过 <span class="app">Ubuntu 软件</span> 安装额外的应用程序使 Ubuntu 变得更加易用。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.zh-CN" title="使用新立得进行更高级的软件管理"><span class="title">使用新立得进行更高级的软件管理</span><span class="linkdiv-dash"> — </span><span class="desc">
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.zh-CN" title="添加个人软件包仓库(PPA)"><span class="title">添加个人软件包仓库(PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">
-        Add PPAs to extend the software sources Ubuntu uses for
-        installation and upgrades.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.zh-CN" title="使用新立得进行更高级的软件管理"><span class="title">使用新立得进行更高级的软件管理</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic 是 <span class="app">Ubuntu 软件</span> 强大而复杂的软件管理替代品。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.zh-CN" title="添加个人软件包仓库(PPA)"><span class="title">添加个人软件包仓库(PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">添加 PPA 以扩展 Ubuntu 用于安装和升级的软件源。</span></a></div>
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.zh-CN" title="添加软件源"><span class="title">添加软件源</span><span class="linkdiv-dash"> — </span><span class="desc">添加存储库以扩展 Ubuntu 用于安装和升级的软件源。</span></a></div>

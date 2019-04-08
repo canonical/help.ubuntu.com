@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Lyd, video &amp; billeder</span></h1></div>
@@ -75,18 +75,16 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.da" title="Lydproblemer"><span class="title">Lydproblemer</span><span class="linkdiv-dash"> — </span><span class="desc">Troubleshoot problems like having no sound or having poor sound
-    quality.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.da" title="Lydproblemer"><span class="title">Lydproblemer</span><span class="linkdiv-dash"> — </span><span class="desc">Fejlsøg problemer såsom manglende lyd eller dårlig lydkvalitet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.da" title="Brug andre højttalere eller hovedtelefoner"><span class="title">Brug andre højttalere eller hovedtelefoner</span><span class="linkdiv-dash"> — </span><span class="desc">Connect speakers or headphones and select a default audio output
     device.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.da" title="Brug en anden mikrofon"><span class="title">Brug en anden mikrofon</span><span class="linkdiv-dash"> — </span><span class="desc">Use an analog or USB microphone and select a default input
-    device.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.da" title="Brug en anden mikrofon"><span class="title">Brug en anden mikrofon</span><span class="linkdiv-dash"> — </span><span class="desc">Brug en analog- eller USB-mikrofon og vælg en standardinputenhed.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.da" title="Choose or disable the alert sound"><span class="title">Choose or disable the alert sound</span><span class="linkdiv-dash"> — </span><span class="desc">Choose the sound to play for messages, set the alert volume, or
-    disable alert sounds.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sound-volume.html.da" title="Skift lydstyrken"><span class="title">Skift lydstyrken</span><span class="linkdiv-dash"> — </span><span class="desc">Set the sound volume for the computer and control the
     loudness of each application.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.da" title="Vælg eller deaktivér påmindelseslyden"><span class="title">Vælg eller deaktivér påmindelseslyden</span><span class="linkdiv-dash"> — </span><span class="desc">Choose the sound to play for messages, set the alert volume, or
+    disable alert sounds.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -94,13 +92,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Flere oplysninger</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.da" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.da" title="Tastatur">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.da" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">user accounts</a></span>…
-    </span>
+<a href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Bruger- &amp; systemindstillinger</a><span class="desc"> — <span class="link"><a href="keyboard.html.da" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mus &amp; pegeplade</a></span>, <span class="link"><a href="prefs-display.html.da" title="Visning &amp; skærm">skærm</a></span>, <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">sprog</a></span>, <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">brugerkonti</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -123,7 +115,7 @@
 <div id="photos" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Billeder og digitalkameraer</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.da" title="Problemer med mediekortlæser"><span class="title">Problemer med mediekortlæser</span><span class="linkdiv-dash"> — </span><span class="desc">Troubleshoot media card readers</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.da" title="Problemer med mediekortlæser"><span class="title">Problemer med mediekortlæser</span><span class="linkdiv-dash"> — </span><span class="desc">Fejlsøg mediekortlæsere</span></a></div></div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.da" title="Åbn programmer til enheder eller diske"><span class="title">Åbn programmer til enheder eller diske</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically run applications for CDs and DVDs, cameras,
     audio players, and other devices and media.</span></a></div></div>
 </div></div></div></div></div>
@@ -132,9 +124,8 @@
 <div class="hgroup"><h2 class="title"><span class="title">Videoer og videokamera</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html.da" title="Andre personer kan ikke afspille de videoer, jeg har lavet"><span class="title">Andre personer kan ikke afspille de videoer, jeg har lavet</span><span class="linkdiv-dash"> — </span><span class="desc">Check that they have the right video codecs installed.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.da" title="Hvorfor vil dvd'er ikke afspille?"><span class="title">Hvorfor vil dvd'er ikke afspille?</span><span class="linkdiv-dash"> — </span><span class="desc">You might not have the right codecs installed, or the DVD might be
-    the wrong region.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.da" title="Andre personer kan ikke afspille de videoer, jeg har lavet"><span class="title">Andre personer kan ikke afspille de videoer, jeg har lavet</span><span class="linkdiv-dash"> — </span><span class="desc">Tjek at du har de rette video-codecs installeret.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.da" title="Hvorfor afspilles dvd'er ikke?"><span class="title">Hvorfor afspilles dvd'er ikke?</span><span class="linkdiv-dash"> — </span><span class="desc">Du har måske ikke de rette codecs installeret eller dvd'en er en forkert region.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="app-cheese.html.da" title="Lav sjove billeder og videoer med dit webkamera"><span class="title">Lav sjove billeder og videoer med dit webkamera</span><span class="linkdiv-dash"> — </span><span class="desc">Det fungerer som dit eget personlige billedværksted</span></a></div>
 </div>
 <div class="links-twocolumn">
@@ -148,7 +139,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html.da" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.da" title="Ubuntu-skrivebordsguide">Ubuntu-skrivebordsguide</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -76,7 +76,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="app">Soubory</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="app">Soubory</span> otevřete správce souborů.</p></li>
-<li class="steps"><p class="p">V postranním panelu klikněte na <span class="gui">Koš</span>. Pokud postranní panel nevidíte, klikněte na <span class="gui">Soubory</span> na horní liště a vyberte <span class="gui">Postranní panel</span>.</p></li>
+<li class="steps"><p class="p">V postranním panelu klikněte na <span class="gui">Koš</span>. Pokud postranní panel nevidíte, zmáčkněte tlačítko nabídky v pravém horním rohu okna a vyberte <span class="gui">Postranní panel</span>.</p></li>
 <li class="steps"><p class="p">Pokud zde je smazaný soubor, klikněte na něj a vyberte <span class="gui">Obnovit</span>. Obnoven bude do složky, ze které byl vymazán.</p></li>
 </ol></div>
 </div></div>

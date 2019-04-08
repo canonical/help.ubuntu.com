@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -97,13 +97,12 @@
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationcharacterization.html.da" title="Hvad er forskellen på kalibrering og karakterisering?"><span class="title">Hvad er forskellen på kalibrering og karakterisering?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibration and characterization are different things entirely.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationdevices.html.da" title="Hvilke farvemålingsinstrumenter understøttes?"><span class="title">Hvilke farvemålingsinstrumenter understøttes?</span><span class="linkdiv-dash"> — </span><span class="desc">We support a large number of calibration devices.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-calibrationtargets.html.da" title="Hvilke måltyper understøttes?"><span class="title">Hvilke måltyper understøttes?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibration targets are needed to do scanner and camera profiling.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html.da" title="Hvordan kalibrerer jeg min printer?"><span class="title">Hvordan kalibrerer jeg min printer?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your printer is important to print accurate colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html.da" title="Hvordan kalibrerer jeg min skanner?"><span class="title">Hvordan kalibrerer jeg min skanner?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your scanner is important to capture accurate colors.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-printer.html.da" title="Hvordan kalibrerer jeg min printer?"><span class="title">Hvordan kalibrerer jeg min printer?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrering af din printer er vigtig for at udskrive farverne præcist.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-scanner.html.da" title="Hvordan kalibrerer jeg min skanner?"><span class="title">Hvordan kalibrerer jeg min skanner?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrering af din skanner er vigtig for at indfange farverne præcist.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html.da" title="Hvordan kalibrerer jeg min skærm?"><span class="title">Hvordan kalibrerer jeg min skærm?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your screen is important to display accurate
-    colors.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html.da" title="Hvordan kalibrerer jeg mit kamera?"><span class="title">Hvordan kalibrerer jeg mit kamera?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating your camera is important to capture accurate colors.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-screen.html.da" title="Hvordan kalibrerer jeg min skærm?"><span class="title">Hvordan kalibrerer jeg min skærm?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrering af din skærm er vigtig for at vise farverne præcist.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-calibrate-camera.html.da" title="Hvordan kalibrerer jeg mit kamera?"><span class="title">Hvordan kalibrerer jeg mit kamera?</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibrering af dit kamera er vigtig for at indfange farverne præcist.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-why-calibrate.html.da" title="Hvorfor skal jeg selv kalibrere?"><span class="title">Hvorfor skal jeg selv kalibrere?</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrating is important if you care about the colors you display or print.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-canshareprofiles.html.da" title="Kan jeg dele min farveprofil?"><span class="title">Kan jeg dele min farveprofil?</span><span class="linkdiv-dash"> — </span><span class="desc">Sharing color profiles is never a good idea as hardware changes over time.</span></a></div>
 </div>
@@ -129,23 +128,10 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.da" title="Udskrivning">printers</a></span>,
-      <span class="link"><a href="power.html.da" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.da" title="Farvestyring">color management</a></span>,
-      <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html.da" title="Diske &amp; lager">disks</a></span>…
-    </span>
+<a href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Bruger- &amp; systemindstillinger</a><span class="desc"> — <span class="link"><a href="keyboard.html.da" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mus &amp; pegeplade</a></span>, <span class="link"><a href="prefs-display.html.da" title="Visning &amp; skærm">skærm</a></span>, <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">sprog</a></span>, <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">brugerkonti</a></span> …</span>
 </li>
 <li class="links ">
-<a href="prefs.html.da" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.da" title="Tastatur">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.da" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">user accounts</a></span>…
-    </span>
+<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></span>, <span class="link"><a href="printing.html.da" title="Udskrivning">printere</a></span>, <span class="link"><a href="power.html.da" title="Strøm &amp; batteri">strømindstillinger</a></span>, <span class="link"><a href="color.html.da" title="Farvestyring">farvestyring</a></span>, <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.da" title="Diske &amp; lager">diske</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

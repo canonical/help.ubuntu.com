@@ -80,7 +80,12 @@
 <p class="p">Apabila melihat ke berkas-berkas di dalam folder, Anda dapat dengan cepat <span class="link"><a href="files-preview.html.id" title="Pratinjau berkas dan folder">meninjau tiap berkas</a></span> dengan cara menekan tombol spasi untk memastikan berkas yang tepat sebelum membukanya, menyalinnya atau menghapusnya.</p>
 <p class="p"><span class="em">baris alamat</span> di atas daftar berkas dan folder menampilkan kepada Anda di mana folder yang sedang Anda lihat, termasuk induk folder dari folder yang dimaksud. Klik induk folder di baris alamat untuk pergi ke folder tersebut. Klik kanan pada folder di baris alamat untuk membukanya pada tab baru atau jendela, atau mengakses propertinya.</p>
 <p class="p">Jika Anda ingin secara cepat <span class="link"><a href="files-search.html.id" title="Cari berkas">mencari berkas</a></span>, di dalam atau di bawah folder yang sedang Anda lihat, mulai ketik namanya. <span class="em">baris pencarian</span> akan tampil di atas jende dan hanya berkas yang cocok dengan pencarian Anda yang akan di tampilkan. Tekan <span class="key"><kbd>Esc</kbd></span> untuk membatalkan pencarian.</p>
-<p class="p">Anda dapat secara cepat mengakses tempat-tempat yang umum dari <span class="em">menu samping</span>. Jika Anda tidak melihat menu samping, klik <span class="gui">Berkas</span> pada baris atas dan pilih <span class="gui">Menu samping</span>/ Anda dapat menambahkan penambat ke folder yang sering Anda gunakan dan mereka akan muncul pada menu samping. Seret folder ke menu samping, dan jatuhkan pada <span class="gui">Tambatan baru</span>, di mana secara dinamis, atau dengan klik jendela menu lalu pilih <span class="gui">Tambatkan lokasi ini</span>.</p>
+<p class="p">You can quickly access common places from the <span class="em">sidebar</span>. If you do
+not see the sidebar, press the menu button in the top-right corner of the window and then select
+<span class="gui">Sidebar</span>. You can add bookmarks to folders that you use often and
+they will appear in the sidebar. Drag a folder to the sidebar, and drop it over
+<span class="gui">New bookmark</span>, which appears dynamically, or click the current folder
+in the path bar and then select <span class="gui">Add to Bookmarks</span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

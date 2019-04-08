@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why does my computer turn off when I close the lid?</title>
+<title>Hvorfor slukker min computer når jeg lukker låget?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,17 +65,17 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why does my computer turn off when I close the lid?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvorfor slukker min computer når jeg lukker låget?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">When you close the lid of your laptop, your computer will
-  <span class="link"><a href="power-suspend.html.da" title="What happens when I suspend my computer?"><span class="em">suspend</span></a></span> in order to save power.
+  <span class="link"><a href="power-suspend.html.da" title="Hvad sker der når jeg sætter min computer i hviletilstand?"><span class="em">suspend</span></a></span> in order to save power.
   This means that the computer is not actually turned off — it has just gone to
   sleep. You can resume it by opening the lid. If it does not resume, try
   clicking the mouse or pressing a key. If that still does not work, press the
@@ -84,11 +84,11 @@
   hardware is not completely supported by the operating system (for example,
   the Linux drivers are incomplete). In this case, you may find that you are
   unable to resume your computer after you have closed the lid. You can try to
-  <span class="link"><a href="power-suspendfail.html.da" title="Why does my computer not turn back on after I suspended it?">fix the problem with suspend</a></span>, or you
+  <span class="link"><a href="power-suspendfail.html.da" title="Hvorfor tænder min computer ikke efter jeg har sat den i hviletilstand?">fix the problem with suspend</a></span>, or you
   can prevent the computer from trying to suspend when you close the lid.</p>
 </div>
 <div id="nosuspend" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Stop computeren i at hvile når låget lukkes</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Stop computeren i at gå i hviletilstand når låget lukkes</span></h2></div>
 <div class="region"><div class="contents">
 <div class="note note-important" title="Vigtigt"><div class="inner"><div class="region"><div class="contents"><p class="p">These instructions will only work if you are using <span class="app">systemd</span>.
     Contact your distribution for more information.</p></div></div></div></div>
@@ -103,7 +103,7 @@
     if they are left running with the lid closed, especially if they are in
     a confined place like a backpack.</p></div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Tilpasninger</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Tilpasninger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Tilpasninger</span> for at åbne programmet.</p></li>
 <li class="steps"><p class="p">Klik på fanebladet <span class="gui">Strøm</span>.</p></li>
 <li class="steps"><p class="p">Skift <span class="gui">Sæt i hviletilstand, når låget lukkes på den bærbare lukkes</span> til <span class="gui">TIL</span>.</p></li>
@@ -117,21 +117,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.da" title="Power &amp; battery">Power &amp; battery</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.da" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.da" title="What happens when I suspend my computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.da" title="Why does my screen go dim after a while?">screen dimming</a></span>…
-    </span>
+<a href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a><span class="desc"> — <span class="link"><a href="power-status.html.da" title="Tjek batteriets status">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html.da" title="Hvad sker der når jeg sætter min computer i hviletilstand?">hviletilstand</a></span>, <span class="link"><a href="power-whydim.html.da" title="Hvorfor nedtones min skærm efter noget tid?">skærmnedtoning</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspend.html.da" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
+<a href="power-suspend.html.da" title="Hvad sker der når jeg sætter min computer i hviletilstand?">Hvad sker der når jeg sætter min computer i hviletilstand?</a><span class="desc"> — Hviletilstand får din computer til at sove, så den bruger mindre strøm.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html.da" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.da" title="Hvorfor tænder min computer ikke efter jeg har sat den i hviletilstand?">Hvorfor tænder min computer ikke efter jeg har sat den i hviletilstand?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

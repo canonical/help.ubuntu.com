@@ -76,7 +76,8 @@
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Käyttäjät</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Käyttäjät</span> avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Valitse tili, jolle haluat kirjautua automaattisesti järjestelmän käynnistyessä.</p></li>
-<li class="steps"><p class="p">Napsauta <span class="gui">Avaa lukitus</span> ja kirjoita salasanasi.</p></li>
+<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
+      type in your password when prompted.</p></li>
 <li class="steps"><p class="p">Vaihda <span class="gui">Automaattinen kirjautuminen</span> -valinta <span class="gui">Päällä</span>-asentoon.</p></li>
 </ol></div></div></div>
 <p class="p">When you next start up your computer, you will be logged in automatically.

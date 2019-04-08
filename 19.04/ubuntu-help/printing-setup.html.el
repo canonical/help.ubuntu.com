@@ -81,8 +81,8 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Εκτυπωτές</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Εκτυπωτές</span>.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στο κουμπί <span class="gui">Ξεκλείδωμα</span> στη πάνω δεξιά γωνία και εισάγετε τον κωδικό πρόσβασής σας.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στο κουμπί <span class="gui">+</span>.</p></li>
+<li class="steps"><p class="p">Πατήστε στο <span class="gui">Ξεκλείδωμα</span> στην πάνω δεξιά γωνία και πληκτρολογήστε τον κωδικό πρόσβασής σας όταν σας ζητηθεί.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Add a Printer…</span> button.</p></li>
 <li class="steps"><p class="p">Στο αναδυόμενο παράθυρο, επιλέξτε τον νέο σας εκτυπωτή. Κάντε κλικ στο <span class="gui">Προσθήκη</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Εάν ο εκτυπωτής σας δεν εμφανιστεί στο αναδυόμενο παράθυρο «Προσθήκη νέου εκτυπωτή», ίσως χρειαστεί να εγκαταστήσετε τους οδηγούς του εκτυπωτή.</p>

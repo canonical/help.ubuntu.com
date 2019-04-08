@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Hvad er et drev?</title>
+<title>Hvad er en driver?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Hvad er et drev?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvad er en driver?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Devices are the physical “parts” of your computer. They may be
@@ -94,29 +94,22 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.da" title="Udskrivning">printers</a></span>,
-      <span class="link"><a href="power.html.da" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.da" title="Farvestyring">color management</a></span>,
-      <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html.da" title="Diske &amp; lager">disks</a></span>…
-    </span>
+<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></span>, <span class="link"><a href="printing.html.da" title="Udskrivning">printere</a></span>, <span class="link"><a href="power.html.da" title="Strøm &amp; batteri">strømindstillinger</a></span>, <span class="link"><a href="color.html.da" title="Farvestyring">farvestyring</a></span>, <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.da" title="Diske &amp; lager">diske</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-nowireless.html.da" title="I have no wireless network when I wake up my computer">I have no wireless network when I wake up my computer</a><span class="desc"> — Some wireless devices have problems handling when your computer is
+<a href="power-suspendfail.html.da" title="Hvorfor tænder min computer ikke efter jeg har sat den i hviletilstand?">Hvorfor tænder min computer ikke efter jeg har sat den i hviletilstand?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+</li>
+<li class="links ">
+<a href="power-nowireless.html.da" title="Jeg har ikke noget trådløst netværk når jeg vækker computeren">Jeg har ikke noget trådløst netværk når jeg vækker computeren</a><span class="desc"> — Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span>
 </li>
 <li class="links ">
 <a href="bluetooth-problem-connecting.html.da" title="Jeg kan ikke tilslutte min Bluetooth-enhed">Jeg kan ikke tilslutte min Bluetooth-enhed</a><span class="desc"> — The adapter could be turned off or may not have drivers, or Bluetooth
     might be disabled or blocked.</span>
-</li>
-<li class="links ">
-<a href="power-suspendfail.html.da" title="Why does my computer not turn back on after I suspended it?">Why does my computer not turn back on after I suspended it?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
 </li>
 </ul></div>
 </div></div>

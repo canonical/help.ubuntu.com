@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Filer, mapper &amp; søgning</span></h1></div>
@@ -104,11 +104,11 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.da" title="Indstillinger for filhåndtering"><span class="title">Indstillinger for filhåndtering</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.da" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
-    from your computer.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.da" title="Skriv filer til en cd eller dvd"><span class="title">Skriv filer til en cd eller dvd</span><span class="linkdiv-dash"> — </span><span class="desc">Læg filer og dokumenter på en tom cd eller dvd ved brug af en cd/dvd-brænder.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.da" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.da" title="Sluk for eller begræns sporing af filhistorik"><span class="title">Sluk for eller begræns sporing af filhistorik</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.da" title="Tøm papirkurven og midlertidige filer"><span class="title">Tøm papirkurven og midlertidige filer</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
+    from your computer.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-open.html.da" title="Åbn filer med andre programmer"><span class="title">Åbn filer med andre programmer</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
     type of file. You can change the default too.</span></a></div>
 </div>
@@ -126,14 +126,14 @@
 <div class="hgroup"><h2 class="title"><span class="title">Sikkerhedskopiering</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.da" title="Gendan en sikkerhedskopi"><span class="title">Gendan en sikkerhedskopi</span><span class="linkdiv-dash"> — </span><span class="desc">Retrieve your files from a backup.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.da" title="Gendan en sikkerhedskopi"><span class="title">Gendan en sikkerhedskopi</span><span class="linkdiv-dash"> — </span><span class="desc">Hent dine filer fra en sikkerhedskopi.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.da" title="Hvor finder jeg de filer, jeg vil sikkerhedskopiere?"><span class="title">Hvor finder jeg de filer, jeg vil sikkerhedskopiere?</span><span class="linkdiv-dash"> — </span><span class="desc">A list of folders where you can find documents, files and settings
     that you may want to back up.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.da" title="Hyppighed for sikkerhedskopieringer"><span class="title">Hyppighed for sikkerhedskopieringer</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how often you should backup your important files to make sure
     that they are safe.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="backup-why.html.da" title="Sikkerhedskopiér dine vigtige filer"><span class="title">Sikkerhedskopiér dine vigtige filer</span><span class="linkdiv-dash"> — </span><span class="desc">Why, what, where and how of backups.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html.da" title="Sikkerhedskopiér dine vigtige filer"><span class="title">Sikkerhedskopiér dine vigtige filer</span><span class="linkdiv-dash"> — </span><span class="desc">Hvorfor, hvad, hvor og hvordan du foretager sikkerhedskopier.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="backup-check.html.da" title="Tjek din sikkerhedskopiering"><span class="title">Tjek din sikkerhedskopiering</span><span class="linkdiv-dash"> — </span><span class="desc">Verify your backup was successful.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -159,7 +159,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html.da" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.da" title="Ubuntu-skrivebordsguide">Ubuntu-skrivebordsguide</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -64,20 +64,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="clock.html.da" title="Dato &amp; klokkeslæt">Dato &amp; klokkeslæt</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="clock.html.da" title="Dato &amp; klokkeslæt">Dato &amp; klokkeslæt</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Skift din tidszone</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Detaljer</span> i sidebjælken.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Dato &amp; klokkeslæt</span> i sidebjælken for at åbne panelet.</p></li>
 <li class="steps"><p class="p">If you have <span class="gui">Automatic Time Zone</span> set to <span class="gui">ON</span>, your
       time zone should update automatically if you have an internet
-      connection and the <span class="link"><a href="privacy-location.html.da" title="Control location services">location services feature</a></span>
+      connection and the <span class="link"><a href="privacy-location.html.da" title="Styr placeringstjenester">location services feature</a></span>
       is enabled. To update your time zone manually, set this to
       <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Time Zone</span>, then select your location on the map or
@@ -92,12 +92,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html.da" title="Dato &amp; klokkeslæt">Dato &amp; klokkeslæt</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html.da" title="Skift datoen og klokkeslættet">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.da" title="Tilføj et verdensur">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.da" title="Skift din tidszone">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html.da" title="Dato &amp; klokkeslæt">Dato &amp; klokkeslæt</a><span class="desc"> — <span class="link"><a href="clock-set.html.da" title="Skift datoen og klokkeslættet">Indstil dato og klokkeslæt</a></span>, <span class="link"><a href="clock-world.html.da" title="Tilføj et verdensur">verdensure</a></span>, <span class="link"><a href="clock-timezone.html.da" title="Skift din tidszone">tidszone</a></span>, <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">kalender og aftaler</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

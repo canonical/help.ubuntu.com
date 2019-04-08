@@ -80,7 +80,12 @@
 <p class="p">Pārskatot datnes mapē, jūs varat ātri <span class="link"><a href="files-preview.html.lv" title="Priekšskatīt datnes un mapes"> priekšskatīt katru datni</a></span>, nospiežot atstarpes taustiņu, lai pirms datnes atvēršanas, kopēšanas vai dzēšanas pārliecinātos, ka tā ir īstā.</p>
 <p class="p"><span class="em">Ceļa josla</span> virs datņu un mapju saraksta rāda, kuru mapi jūs aplūkojat, kā arī mapes, kurās tā atrodas. Veiciet klikšķi uz mapes ceļa joslā, lai to atvērtu. Veiciet labo peles klikšķi uz mapes ceļa joslā, lai atvērtu to jaunā cilnē vai logā, vai piekļūtu tās īpašībām.</p>
 <p class="p">Ja vēlaties ātri <span class="link"><a href="files-search.html.lv" title="Meklēt datnes">meklēt datnes</a></span> aktuālajā mapē vai tās apakšmapēs, sāciet rakstīt tās nosaukumu. Loga augšpusē parādīsies <span class="em">meklēšanas josla</span> un parādīsies tikai datnes, kas atbilst meklētajam. Spiediet <span class="key"><kbd>Esc</kbd></span>, lai atceltu meklēšanu.</p>
-<p class="p">Jūs varat ātri piekļūt biežāk lietotajām vietām no <span class="em">sānu joslas</span>. Ja to neredzat, nospiediet <span class="gui">Datnes</span> augšējā joslā un izvēlieties <span class="gui">Sānu josla</span>. Jūs varat pievienot grāmatzīmes biežāk izmantotajām mapēm, lai tās parādītos sānu joslā. Velciet mapi uz sānu joslu un novietojiet to uz <span class="gui">Jauna grāmatzīme</span>, kas parādās dinamiski, vai spiediet uz loga izvēlnes un izvēlieties <span class="gui">Pievienot šo vietu grāmatzīmēs</span>.</p>
+<p class="p">You can quickly access common places from the <span class="em">sidebar</span>. If you do
+not see the sidebar, press the menu button in the top-right corner of the window and then select
+<span class="gui">Sidebar</span>. You can add bookmarks to folders that you use often and
+they will appear in the sidebar. Drag a folder to the sidebar, and drop it over
+<span class="gui">New bookmark</span>, which appears dynamically, or click the current folder
+in the path bar and then select <span class="gui">Add to Bookmarks</span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

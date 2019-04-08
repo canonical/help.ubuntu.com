@@ -80,7 +80,12 @@
 <p class="p">Wanneer u de bestanden in een map bekijkt, dan kunt u snel  <span class="link"><a href="files-preview.html.nl" title="Voorbeeldweergave voor bestanden en mappen">een voorbeeld van elk bestand bekijken</a></span> door op de spatiebalk te drukken; hierdoor bent u zeker dat u het juiste bestand heeft voordat u het opent, kopieert of verwijdert.</p>
 <p class="p">De <span class="em">padbalk</span> boven de lijst met bestanden en mappen toont welke map u aan het bekijken bent, inclusief de bovenliggende mappen van de huidige map. Klik op een bovenliggende map in de padbalk om naar die map te gaan. Klik met rechts op een map in de padbalk om deze te openen in een nieuw tabblad of venster, deze te kopiëren of te verplaatsen, of de eigenschappen ervan te bekijken.</p>
 <p class="p">Wilt u snel naar <span class="link"><a href="files-search.html.nl" title="Zoeken naar bestanden">een bestand zoeken</a></span>, in of onder de map die u inziet, begin dan de naam van dat bestand te typen. Er verschijnt een <span class="em">zoekveld</span> bovenaan het venster en alleen bestanden die met uw zoekopdracht overeenkomen zullen worden getoond. Druk op <span class="key"><kbd>Esc</kbd></span> om het zoeken te annuleren.</p>
-<p class="p">U kunt met behulp van de <span class="em">zijbalk</span> snel toegang krijgen tot veelgebruikte locaties. Als u de zijbalk niet ziet, klikt u in de bovenbalk op <span class="gui">Bestanden</span> en kiest u <span class="gui">Zijbalk</span>. U kunt bladwijzers naar veelgebruikte mappen aanmaken en zij zullen in de zijbalk worden weergegeven. Sleep een map naar de zijbalk en laat hem los boven <span class="gui">Nieuwe bladwijzer</span> dat vanzelf verschijnt, of klik op het venstermenu en kies daarna <span class="gui">Bladwijzer maken voor deze locatie</span>.</p>
+<p class="p">You can quickly access common places from the <span class="em">sidebar</span>. If you do
+not see the sidebar, press the menu button in the top-right corner of the window and then select
+<span class="gui">Sidebar</span>. You can add bookmarks to folders that you use often and
+they will appear in the sidebar. Drag a folder to the sidebar, and drop it over
+<span class="gui">New bookmark</span>, which appears dynamically, or click the current folder
+in the path bar and then select <span class="gui">Add to Bookmarks</span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

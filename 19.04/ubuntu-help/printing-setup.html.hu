@@ -81,8 +81,8 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Nyomtatók</span> szót.</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Nyomtatók</span> ikont.</p></li>
-<li class="steps"><p class="p">Nyomja meg a <span class="gui">Feloldás</span> gombot a jobb felső sarokban, és adja meg jelszavát.</p></li>
-<li class="steps"><p class="p">Kattintson a <span class="gui">+</span> gombra.</p></li>
+<li class="steps"><p class="p">Nyomja meg a jobb felső sarokban lévő <span class="gui">Feloldás</span> gombot, és adja meg jelszavát.</p></li>
+<li class="steps"><p class="p">Kattintson a <span class="gui">Nyomtató hozzáadása…</span> gombra.</p></li>
 <li class="steps"><p class="p">A megjelenő ablakban válassza ki a nyomtatóját. Nyomja meg a <span class="gui">Hozzáadás</span> gombot.</p></li>
 </ol></div></div></div>
 <p class="p">Ha a nyomtató nem jelenik meg az Új nyomtató hozzáadása ablakban, akkor nyomtató-illesztőprogramok telepítésére lehet szükség.</p>

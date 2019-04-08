@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.da" title="Install &amp; remove software">Tilføj / fjern software</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="addremove.html.da" title="Installer og fjern software">Tilføj / fjern software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fjern et program</span></h1></div>
@@ -81,7 +81,7 @@
     To remove such software, you can use
     <span class="link"><a href="addremove-install-synaptic.html.da" title="Brug Synaptic til mere avanceret softwarehåndtering">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
   </p>
-<p class="p">To remove an application:</p>
+<p class="p">Fjern et program:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
         Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
@@ -93,9 +93,7 @@
       </p></li>
 <li class="steps"><p class="p">Find det program, du ønsker at fjerne ved hjælp af søgefeltet eller ved at kigge gennem listen over installerede programmer.</p></li>
 <li class="steps"><p class="p">Vælg programmet og klik på <span class="gui">Fjern</span>.</p></li>
-<li class="steps"><p class="p">
-        Confirm that you want to remove the application.
-      </p></li>
+<li class="steps"><p class="p">Bekræft at du vil fjerne programmet.</p></li>
 <li class="steps"><p class="p">
         You will be asked to authenticate by entering your password.
         After you have done that, the application will be removed.
@@ -109,8 +107,8 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.da" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.da" title="Install additional applications">Install applications</a></span>,
+<a href="addremove.html.da" title="Installer og fjern software">Installer og fjern software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.da" title="Installer yderligere programmer">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html.da" title="Fjern et program">remove applications</a></span>,
       <span class="link"><a href="addremove-sources.html.da" title="Add software repositories">add repositories</a></span>…
     </span>
@@ -126,9 +124,7 @@
     </span>
 </li>
 <li class="links ">
-<a href="addremove-install.html.da" title="Install additional applications">
-    Install additional applications
-  </a><span class="desc"> — 
+<a href="addremove-install.html.da" title="Installer yderligere programmer">Installer yderligere programmer</a><span class="desc"> — 
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
       useful.
     </span>

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why is my laptop slow when it is on battery?</title>
+<title>Hvorfor er min bærbare langsom når den bruger batteri?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.da#faq" title="Spørgsmål">Spørgsmål</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a> › <a class="trail" href="power.html.da#faq" title="Spørgsmål">Spørgsmål</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.da#faq" title="Spørgsmål">Spørgsmål</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a> › <a class="trail" href="power.html.da#faq" title="Spørgsmål">Spørgsmål</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Why is my laptop slow when it is on battery?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvorfor er min bærbare langsom når den bruger batteri?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Some laptops intentionally slow down when they are running on battery in
@@ -90,7 +90,7 @@ last longer.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterywindows.html.da" title="Why do I have less battery life than I did on Windows/Mac OS?">Why do I have less battery life than I did on Windows/Mac OS?</a><span class="desc"> — Tweaks from the manufacturer and differing battery life estimates may
+<a href="power-batterywindows.html.da" title="Hvorfor har jeg mindre batterilevetid end da jeg brugte Windows/Mac OS?">Hvorfor har jeg mindre batterilevetid end da jeg brugte Windows/Mac OS?</a><span class="desc"> — Tweaks from the manufacturer and differing battery life estimates may
     be the cause of this problem.</span>
 </li></ul></div>
 </div></div>

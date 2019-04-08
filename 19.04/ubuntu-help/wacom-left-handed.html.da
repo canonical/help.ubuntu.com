@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="wacom.html.da" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="wacom.html.da" title="Wacom-tegneplade">Wacom-tegneplade</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Brug tegnepladen venstrehåndet</span></h1></div>
@@ -74,7 +74,7 @@
    180 degrees to position these buttons for left-handed people. To switch the
    orientation to left-handed:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Enheder</span> i sidebjælken.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Wacom-tegneplade</span> i sidebjælken for at åbne panelet.</p></li>
@@ -92,11 +92,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html.da" title="Wacom Graphics Tablet">Wacom Graphics Tablet</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html.da" title="Vælg en skærm">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html.da" title="Konfigurer pennen">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html.da" title="Brug tegnepladen venstrehåndet">use the tablet left handed</a></span>…
-  </span>
+<a href="wacom.html.da" title="Wacom-tegneplade">Wacom-tegneplade</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html.da" title="Vælg en skærm">Kortlæg en skærm</a></span>, <span class="link"><a href="wacom-stylus.html.da" title="Konfigurer pennen">konfigurer pennen</a></span>, <span class="link"><a href="wacom-left-handed.html.da" title="Brug tegnepladen venstrehåndet">brug tegnepladen med venstre hånd</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

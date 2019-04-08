@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Power &amp; battery</title>
+<title>Strøm &amp; batteri</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,26 +65,26 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Power &amp; battery</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Strøm &amp; batteri</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-status.html.da" title="Check the battery status"><span class="title">Check the battery status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-status.html.da" title="Tjek batteriets status"><span class="title">Tjek batteriets status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.da" title="Brug mindre strøm og forbedr batteriets levetid"><span class="title">Brug mindre strøm og forbedr batteriets levetid</span><span class="linkdiv-dash"> — </span><span class="desc">Tips til at reducere din computers strømforbrug.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.da" title="Get the most out of your laptop battery"><span class="title">Get the most out of your laptop battery</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.da" title="Log ud, sluk eller skift bruger"><span class="title">Log ud, sluk eller skift bruger</span><span class="linkdiv-dash"> — </span><span class="desc">Lær at forlade din brugerkonto ved at logge ud, skifte bruger osv.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.da" title="Få mest ud af batteriet i din bærbare"><span class="title">Få mest ud af batteriet i din bærbare</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.da" title="Hvad sker der når jeg sætter min computer i hviletilstand?"><span class="title">Hvad sker der når jeg sætter min computer i hviletilstand?</span><span class="linkdiv-dash"> — </span><span class="desc">Hviletilstand får din computer til at sove, så den bruger mindre strøm.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.da" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.da" title="What happens when I suspend my computer?"><span class="title">What happens when I suspend my computer?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspend sends your computer to sleep so it uses less power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.da" title="Why does my computer turn off when I close the lid?"><span class="title">Why does my computer turn off when I close the lid?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops go to sleep when you close the lid, in order to save
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.da" title="Hvorfor slukker min computer når jeg lukker låget?"><span class="title">Hvorfor slukker min computer når jeg lukker låget?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops go to sleep when you close the lid, in order to save
     power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.da" title="Log ud, sluk eller skift bruger"><span class="title">Log ud, sluk eller skift bruger</span><span class="linkdiv-dash"> — </span><span class="desc">Læs om at forlade din brugerkonto ved at logge ud, skifte bruger osv.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.da" title="Sluk for trådløse teknologier der ikke bruges"><span class="title">Sluk for trådløse teknologier der ikke bruges</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
 </div>
 </div></div></div></div>
 <div id="saving" class="sect"><div class="inner">
@@ -92,11 +92,11 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.da" title="Aktivér automatisk lysstyrke"><span class="title">Aktivér automatisk lysstyrke</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.da" title="Opsæt automatisk hvile"><span class="title">Opsæt automatisk hvile</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.da" title="Hvorfor nedtones min skærm efter noget tid?"><span class="title">Hvorfor nedtones min skærm efter noget tid?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.da" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.da" title="Why does my screen go dim after a while?"><span class="title">Why does my screen go dim after a while?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.da" title="Indstil tiden for sort skærm"><span class="title">Indstil tiden for sort skærm</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.da" title="Opsæt automatisk hviletilstand"><span class="title">Opsæt automatisk hviletilstand</span><span class="linkdiv-dash"> — </span><span class="desc">Konfigurer din computer, så den automatisk går i hviletilstand.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -105,12 +105,12 @@
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.da" title="Den anslåede levetid for batteriet er forkert"><span class="title">Den anslåede levetid for batteriet er forkert</span><span class="linkdiv-dash"> — </span><span class="desc">The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.da" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Allowing the battery to completely discharge is bad for it.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.da" title="Hvorfor er min bærbare langsom når den bruger batteri?"><span class="title">Hvorfor er min bærbare langsom når den bruger batteri?</span><span class="linkdiv-dash"> — </span><span class="desc">Some laptops intentionally slow down when they are running on battery.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.da" title="Why do I have less battery life than I did on Windows/Mac OS?"><span class="title">Why do I have less battery life than I did on Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Tweaks from the manufacturer and differing battery life estimates may
+<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.da" title="Hvorfor har jeg mindre batterilevetid end da jeg brugte Windows/Mac OS?"><span class="title">Hvorfor har jeg mindre batterilevetid end da jeg brugte Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Tweaks from the manufacturer and differing battery life estimates may
     be the cause of this problem.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.da" title="Why is my laptop slow when it is on battery?"><span class="title">Why is my laptop slow when it is on battery?</span><span class="linkdiv-dash"> — </span><span class="desc">Some laptops intentionally slow down when they are running on battery.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.da" title="Hvorfor slukkede min computer da batteriet var på 10 %?"><span class="title">Hvorfor slukkede min computer da batteriet var på 10 %?</span><span class="linkdiv-dash"> — </span><span class="desc">Allowing the battery to completely discharge is bad for it.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -119,16 +119,16 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.da" title="I have no wireless network when I wake up my computer"><span class="title">I have no wireless network when I wake up my computer</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
+<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.da" title="Blæseren i den bærbare kører altid"><span class="title">Blæseren i den bærbare kører altid</span><span class="linkdiv-dash"> — </span><span class="desc">Some fan-control software could be missing, or your laptop may be
+    running hot.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.da" title="Hvorfor tænder min computer ikke efter jeg har sat den i hviletilstand?"><span class="title">Hvorfor tænder min computer ikke efter jeg har sat den i hviletilstand?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.da" title="Jeg har ikke noget trådløst netværk når jeg vækker computeren"><span class="title">Jeg har ikke noget trådløst netværk når jeg vækker computeren</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
     suspended and does not resume properly.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html.da" title="My computer gets really hot"><span class="title">My computer gets really hot</span><span class="linkdiv-dash"> — </span><span class="desc">Computers usually get warm, but if they get too hot they can overheat, which can be damaging.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.da" title="My computer will not turn on"><span class="title">My computer will not turn on</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
 </div>
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.da" title="The laptop fan is always running"><span class="title">The laptop fan is always running</span><span class="linkdiv-dash"> — </span><span class="desc">Some fan-control software could be missing, or your laptop may be
-    running hot.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.da" title="Why does my computer not turn back on after I suspended it?"><span class="title">Why does my computer not turn back on after I suspended it?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html.da" title="Will my computer work with a power supply in another country?"><span class="title">Will my computer work with a power supply in another country?</span><span class="linkdiv-dash"> — </span><span class="desc">Your computer will work, but you might need a different power cable or
+<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html.da" title="Min computer bliver meget varm"><span class="title">Min computer bliver meget varm</span><span class="linkdiv-dash"> — </span><span class="desc">Computers usually get warm, but if they get too hot they can overheat, which can be damaging.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.da" title="Min computer tænder ikke"><span class="title">Min computer tænder ikke</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html.da" title="Virker min computer med en strømforsyning fra et andet land?"><span class="title">Virker min computer med en strømforsyning fra et andet land?</span><span class="linkdiv-dash"> — </span><span class="desc">Your computer will work, but you might need a different power cable or
     a travel adapter.</span></a></div>
 </div>
 </div></div></div></div>
@@ -147,23 +147,10 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.da" title="Udskrivning">printers</a></span>,
-      <span class="link"><a href="power.html.da" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.da" title="Farvestyring">color management</a></span>,
-      <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html.da" title="Diske &amp; lager">disks</a></span>…
-    </span>
+<a href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Bruger- &amp; systemindstillinger</a><span class="desc"> — <span class="link"><a href="keyboard.html.da" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mus &amp; pegeplade</a></span>, <span class="link"><a href="prefs-display.html.da" title="Visning &amp; skærm">skærm</a></span>, <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">sprog</a></span>, <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">brugerkonti</a></span> …</span>
 </li>
 <li class="links ">
-<a href="prefs.html.da" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.da" title="Tastatur">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.da" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">user accounts</a></span>…
-    </span>
+<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></span>, <span class="link"><a href="printing.html.da" title="Udskrivning">printere</a></span>, <span class="link"><a href="power.html.da" title="Strøm &amp; batteri">strømindstillinger</a></span>, <span class="link"><a href="color.html.da" title="Farvestyring">farvestyring</a></span>, <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.da" title="Diske &amp; lager">diske</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

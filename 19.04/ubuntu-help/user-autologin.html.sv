@@ -75,7 +75,7 @@
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Användare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Användare</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Välj användarkontot du vill logga in som automatiskt vid uppstart.</p></li>
-<li class="steps"><p class="p">Tryck på <span class="gui">Lås upp</span> och mata in ditt lösenord.</p></li>
+<li class="steps"><p class="p">Tryck på <span class="gui">Lås upp</span> i övre högra hörnet och skriv in ditt lösenord när du blir tillfrågad.</p></li>
 <li class="steps"><p class="p">Slå om <span class="gui">Automatiskt inlogging</span> till <span class="gui">PÅ</span>.</p></li>
 </ol></div></div></div>
 <p class="p">När du startar din dator nästa gång kommer du att loggas in automatiskt. Om du har detta alternativ aktiverat behöver du inte skriva in ditt lösenord för att logga in på ditt konto vilket innebär att om någon annan startar din dator så kommer de att ha åtkomst till ditt konto och dina personliga data inklusive dina filer och webbläsarhistorik.</p>

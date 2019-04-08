@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-general.html.da" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-general.html.da" title="Netværkstermer &amp; -tips">Netværkstermer &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hvad er en IP-adresse?</span></h1></div>
@@ -91,12 +91,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.da" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — 
-      <span class="link"><a href="net-findip.html.da" title="Find din IP-adresse">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html.da" title="Hvad betyder WEP og WPA?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html.da" title="Hvad er en MAC-adresse?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html.da" title="Definer proxyindstillinger">proxies</a></span>…
-    </span>
+<a href="net-general.html.da" title="Netværkstermer &amp; -tips">Netværkstermer &amp; -tips</a><span class="desc"> — <span class="link"><a href="net-findip.html.da" title="Find din IP-adresse">Find din IP-adresse</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.da" title="Hvad betyder WEP og WPA?">WEP- &amp; WPA-sikkerhed</a></span>, <span class="link"><a href="net-macaddress.html.da" title="Hvad er en MAC-adresse?">MAC-adresser</a></span>, <span class="link"><a href="net-proxy.html.da" title="Vælg proxyindstillinger">proxies</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

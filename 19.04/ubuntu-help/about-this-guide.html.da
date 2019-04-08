@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.da" title="Get more help">Get more help</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Om denne vejledning</span></h1></div>
@@ -77,7 +77,7 @@
 <li class="list"><p class="p">Teksten input boksen øverst på denne vejledning fungerer som en <span class="em"> search bar </span>, og relevante resultater vises under det, så snart du begynder at skrive. Venstre-klik på et resultat for at åbne sin side.</p></li>
 <li class="list"><p class="p">Guiden bliver løbende forbedret. Selvom vi forsøger at give dig en omfattende samling af nyttige oplysninger, vi ved, vi ikke vil besvare alle dine spørgsmål her. Vi vil holde tilføje flere oplysninger for at gøre tingene mere nyttigt, selv om.</p></li>
 </ul></div></div></div>
-<p class="p">Tak fordi du tog dig tid til at læse <span class="em"> Ubuntu Desktop Guiden</span>.</p>
+<p class="p">Tak fordi du tog dig tid til at læse <span class="em"> Ubuntu-skrivebordsguiden</span>.</p>
 <p class="p">- Ubuntu dokumentationsteam</p>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -85,10 +85,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.da" title="Get more help">Get more help</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html.da" title="Om denne vejledning">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html.da" title="Participate to improve this guide">help improve this guide</a></span>…
-    </span>
+<a href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.da" title="Om denne vejledning">Tips til at bruge guiden</a></span>, <span class="link"><a href="get-involved.html.da" title="Vær med til at forbedre guiden">vær med til at forbedre guiden</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -76,7 +76,7 @@
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Impressoras</span>.</p></li>
 <li class="steps"><p class="p">Carregue <span class="gui">Impressoras</span>.</p></li>
 <li class="steps"><p class="p">Selecione a impressora predeterminada da lista de impressoras disponíveis.</p></li>
-<li class="steps"><p class="p">Carregue o botão <span class="gui">Desbloquear</span> no canto superior direita e introduza a sua palavra-passe.</p></li>
+<li class="steps"><p class="p">Carregue <span class="gui">Desbloquear</span> no canto superior direita e introduza a sua palavra-passe quando se lhe peça.</p></li>
 <li class="steps"><p class="p">Selecione a lacuna <span class="gui">Impressora predeterminada</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Ao imprimir num aplicação, utiliza-se automaticamente a impressora predeterminada, a não ser que escolha uma impressora dife.</p>

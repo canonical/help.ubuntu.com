@@ -71,7 +71,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.sl" title="Change which web browser opens websites by default"><span class="title">Change which web browser opens websites by default</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default web browser by going to <span class="gui">Details</span> in <span class="gui">Settings</span>.</span></a></div></div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.sl" title="Nameščanje vstavka Flash"><span class="title">Nameščanje vstavka Flash</span><span class="linkdiv-dash"> — </span><span class="desc">You may need to install Flash to be able to view some websites, which display videos and interactive web pages.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.sl" title="Nameščanje vstavka Flash"><span class="title">Nameščanje vstavka Flash</span><span class="linkdiv-dash"> — </span><span class="desc">Mogoče morate namestiti Flash, da si boste lahko ogledovali nekatera spletišča, ki prikazujejo videoposnetke in odzivne spletne strani.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

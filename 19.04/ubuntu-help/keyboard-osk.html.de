@@ -86,12 +86,8 @@
 </ol></div></div></div>
 <p class="p">Bei der nächsten Notwendigkeit einer Eingabe öffnet sich die Bildschirmtastatur am unteren Rand des Bildschirms.</p>
 <p class="p">Klicken Sie auf den Knopf <span class="gui">?123</span>, um Ziffern und Symbole einzugeben. Weitere Symbole sind verfügbar, wenn Sie auf den Knopf <span class="gui">=/&lt;</span> klicken. Um zur Buchstabentastatur zurückzukehren, klicken Sie auf <span class="gui">ABC</span>.</p>
-<p class="p">Klicken Sie auf das Symbol <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" height="16" width="16" class="media media-inline" alt="down"></span></span></span>, um die Tastatur vorübergehend zu verbergen. Die Tastatur wird automatisch wieder angezeigt, sobald Sie auf ein Objekt klicken, dass diese verwendet.</p>
-<p class="p">Press the
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emoji-flags-symbolic.svg" height="16" width="16" class="media media-inline" alt="flag"></span></span></span>
-  button to change your settings for
-  <span class="link"><a href="session-language.html.de" title="Zu verwendende Sprache ändern">Language</a></span> or
-  <span class="link"><a href="keyboard-layouts.html.de" title="Alternative Tastaturbelegungen verwenden">Input Sources</a></span>.</p>
+<p class="p">Klicken Sie auf das Symbol <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" height="16" width="16" class="media media-inline" alt="Pfeil nach unten"></span></span></span>, um die Tastatur vorübergehend zu verbergen. Die Tastatur wird automatisch wieder angezeigt, sobald Sie auf ein Objekt klicken, dass diese verwendet.</p>
+<p class="p">Klicken Sie auf den Knopf <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emoji-flags-symbolic.svg" height="16" width="16" class="media media-inline" alt="Flagge"></span></span></span>, um die Einstellungen der <span class="link"><a href="session-language.html.de" title="Zu verwendende Sprache ändern">Sprache</a></span> oder der <span class="link"><a href="keyboard-layouts.html.de" title="Alternative Tastaturbelegungen verwenden">Eingabequellen</a></span> anzupassen.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

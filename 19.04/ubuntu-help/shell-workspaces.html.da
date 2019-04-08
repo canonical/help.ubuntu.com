@@ -64,37 +64,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-workspaces" title="Arbejd med arbejdsområder">Workspaces</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-workspaces" title="Arbejd med arbejdsområder">Arbejdsområder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hvad er et arbejdsområde og hvordan kan det hjælpe mig?</span></h1></div>
 <div class="region">
 <div class="contents">
-<div class="media media-image floatend"><div class="inner"><img src="figures/shell-workspaces.png" height="434" width="162" class="media media-block" alt="Workspace selector"></div></div>
-<p class="p">Workspaces refer to the grouping of
-  windows on your desktop. You can create multiple workspaces, which act like
-  virtual desktops. Workspaces are meant to reduce clutter and make the desktop
-  easier to navigate.</p>
-<p class="p">Workspaces can be used to organize your work. For example, you could have
-  all your communication windows, such as e-mail and your chat program, on one
-  workspace, and the work you are doing on a different workspace. Your music
-  manager could be on a third workspace.</p>
-<p class="p">Using workspaces:</p>
+<div class="media media-image floatend"><div class="inner"><img src="figures/shell-workspaces.png" height="434" width="162" class="media media-block" alt="Arbejdsområdevælger"></div></div>
+<p class="p">Arbejdsområder refererer til gruppering af vinduer på dit skrivebord. Du kan oprette flere arbejdsområder som fungerer som virtuelle skriveborde. Arbejdsområder er beregnet til at reducere rod og gøre det lettere at finde rundt på skrivebordet.</p>
+<p class="p">Arbejdsområder kan bruges til at organisere dit arbejde. Du kan f.eks. have alle dine kommunikationsvinduer såsom e-mail- og chatprogrammer på ét arbejdsområde og dit arbejde på et andet arbejdsområde. Din musiksamling kunne være på et tredje arbejdsområde.</p>
+<p class="p">Brug af arbejdsområder:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">In the
-    <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> overview, move your cursor
-    to the right-most side of the screen.</p></li>
-<li class="list"><p class="p">A vertical panel will appear showing
-    workspaces in use, plus an empty workspace. This is the
-    workspace selector.</p></li>
-<li class="list"><p class="p">To add a workspace, drag and drop a window from an existing workspace
-    onto the empty workspace in the workspace selector. This workspace now
-    contains the window you have dropped,
-    and a new empty workspace will appear below it.</p></li>
-<li class="list"><p class="p">To remove a workspace, simply close all of its windows or move them to
-    other workspaces.</p></li>
+<li class="list"><p class="p">I <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> skal du flytte markøren til det yderste af skærmens højre side.</p></li>
+<li class="list"><p class="p">Der vises et lodret panel med arbejdsområder som er i brug, plus et tomt arbejdsområde. Det er arbejdsområdevælgeren.</p></li>
+<li class="list"><p class="p">For at tilføje et arbejdsområde skal du trække og slippe et vindue fra et eksisterende arbejdsområde til det tomme arbejdsområde i arbejdsområdevælgeren. Arbejdsområdet indeholder nu kun vinduet, som du har sluppet, og et nyt arbejdsområde vises nedenunder.</p></li>
+<li class="list"><p class="p">For at fjerne et arbejdsområde skal du ganske enkelt lukke alle dets vinduer eller flytte dem til et andet arbejdsområde.</p></li>
 </ul></div></div></div>
-<p class="p">There is always at least one workspace.</p>
+<p class="p">Der er altid mindst ét arbejdsområde.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -107,8 +93,7 @@
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-workspaces-movewindow.html.da" title="Flyt et vindue til et andet arbejdsområde">Flyt et vindue til et andet arbejdsområde</a><span class="desc"> — Go to the <span class="gui">Activities</span> overview and drag the window to a
-    different workspace.</span>
+<a href="shell-workspaces-movewindow.html.da" title="Flyt et vindue til et andet arbejdsområde">Flyt et vindue til et andet arbejdsområde</a><span class="desc"> — Gå til <span class="gui">Aktivitetsoversigten</span> og træk vinduet til et andet arbejdsområde.</span>
 </li>
 <li class="links ">
 <a href="shell-workspaces-switch.html.da" title="Skift mellem arbejdsområder">Skift mellem arbejdsområder</a><span class="desc"> — Brug arbejdsområdevælgeren.</span>

@@ -2,9 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Create a startup disk
-  </title>
+<title>Opret en opstartsdisk</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -67,22 +65,20 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.da" title="Install &amp; remove software">Tilføj / fjern software</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="addremove.html.da" title="Installer og fjern software">Tilføj / fjern software</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Create a startup disk
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Opret en opstartsdisk</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">In this context a startup disk is a USB flash drive from which you can startup and <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">install Ubuntu</a></span>.
   The capacity of the USB flash drive must be at least 2 GB.
   Any data on the USB flash drive will be lost when you create the startup disk.</p>
 <p class="p">It's assumed that you have downloaded an Ubuntu ISO image.</p>
-<p class="p">To create a startup disk from an Ubuntu ISO image:</p>
+<p class="p">Opret en opstartsdisk fra et Ubuntu ISO-aftryk:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
         Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
@@ -94,9 +90,7 @@
 <li class="steps"><p class="p">
         If your computer has just one USB flash drive, <span class="app">Startup Disk Creator</span> will have selected it, otherwise select the correct drive.
       </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Make Startup Disk</span>.
-      </p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Opret opstartsdisk</span>.</p></li>
 <li class="steps"><p class="p">
         Click <span class="gui">Yes</span> to confirm. The process should take ten minutes or less.
       </p></li>
@@ -111,16 +105,11 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html.da" title="Tjek hvor meget diskplads der er tilbage">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.da" title="Test ydelsen af din harddisk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.da" title="Tjek din harddisk for problemer">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.da" title="Håndter diskenheder og partitioner">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.da" title="Tjek hvor meget diskplads der er tilbage">Diskplads</a></span>, <span class="link"><a href="disk-benchmark.html.da" title="Test ydelsen af din harddisk">ydelse</a></span>, <span class="link"><a href="disk-check.html.da" title="Tjek din harddisk for problemer">problemer</a></span>, <span class="link"><a href="disk-partitions.html.da" title="Håndter diskenheder og partitioner">diskenheder og partitioner</a></span> …</span>
 </li>
 <li class="links ">
-<a href="addremove.html.da" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.da" title="Install additional applications">Install applications</a></span>,
+<a href="addremove.html.da" title="Installer og fjern software">Installer og fjern software</a><span class="desc"> — 
+      <span class="link"><a href="addremove-install.html.da" title="Installer yderligere programmer">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html.da" title="Fjern et program">remove applications</a></span>,
       <span class="link"><a href="addremove-sources.html.da" title="Add software repositories">add repositories</a></span>…
     </span>

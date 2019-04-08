@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#desktop" title="Tilpas dit skrivebord">Tilpas dit skrivebord</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#desktop" title="Tilpas dit skrivebord">Tilpas dit skrivebord</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Påmindelser og påmindelseslisten</span></h1></div>
@@ -73,53 +73,32 @@
 <div id="what" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Hvad er en påmindelse?</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If an application or a system component wants to get your attention, a
-  notification will be shown at the top of the screen.</p>
-<p class="p">For example, if you get a new chat message or a new email, you will get a
-  notification informing you. Chat notifications are given special treatment,
-  and are represented by the individual contacts who sent you the chat
-  messages.</p>
-<p class="p">Other notifications have selectable option buttons. To close one of these
-  notifications without selecting one of its options, click the close
-  button.</p>
-<p class="p">Clicking the close button on some notifications dismisses them. Others,
-  like Rhythmbox or your chat application, will stay hidden in the notification 
-  list.</p>
+<p class="p">Hvis et program eller en systemkomponent vil have din opmærksomhed, så vises der en påmindelse øverst på skærmen.</p>
+<p class="p">Hvis du f.eks. modtager en chatmeddelelese eller en ny e-mail, så får du besked med en påmindelse. Chatpåmindelser gives særlig behandling og vises med de kontakter som sendte chatmeddelelsen til dig.</p>
+<p class="p">Andre påmindelser har knapper med valgmuligheder der kan vælges. For at lukke påmindelserne uden at vælge en valgmulighed kan du klikke på luk-knappen.</p>
+<p class="p">Når der klikkes på luk-knappen på nogle påmindelser så afvises de. Andre såsom Rhythmbox eller dit chatprogram forbliver skjulte i påmindelseslisten.</p>
 </div></div>
 </div></div>
 <div id="notificationlist" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Påmindelseslisten</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">The notification list gives you a way to
-  get back to your notifications when it is convenient for you. It appears when
-  you click on the clock, or press
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>V</kbd></span></span>. The
-  notification list contains all the notifications that you have not acted upon
-  or that permanently reside in it.</p>
-<p class="p">You can view a notification by clicking on it in the list. You can close
-  the notification list by pressing
-  <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> again or <span class="key"><kbd>Esc</kbd></span>.</p>
+<p class="p">Påmindelseslisten giver dig en måde til at vende tilbage til dine påmindelser når det passer dig. Den vises når du klikker på uret eller trykker på <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>V</kbd></span></span>. Påmindelseslisten indeholder alle de påmindelser, som du ikke har handlet på, eller som findes permanent i den.</p>
+<p class="p">Du kan vise en påmindelse ved at klikke på den i listen. Du kan lukke påmindelseslisten ved igen at trykke på <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> eller <span class="key"><kbd>Esc</kbd></span>.</p>
 <p class="p">Klik på <span class="gui">Ryd liste</span>-knappen for at tømme listen over påmindelser.</p>
 </div></div>
 </div></div>
 <div id="hidenotifications" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Skjul påmindelser</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">If you’re working on something and do not want to be bothered, you can
-  switch off notifications.</p>
+<p class="p">Hvis du arbejder på noget og ikke vil forstyrres, så kan du slå påmindelser fra.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Påmindelser</span> i sidebjælken for at åbne panelet.</p></li>
 <li class="steps"><p class="p">Skift <span class="gui">Pop op'er til påmindelser</span> til <span class="gui">FRA</span>.</p></li>
 </ol></div></div></div>
-<p class="p">When switched off, most notifications will not pop up at the top of the
-  screen.  Notifications will still be available
-  in the notification list when you display it (by clicking on the clock, or by
-  pressing <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span>), and they will start
-  popping up again when you switch the toggle back to <span class="gui">ON</span>.</p>
-<p class="p">You can also disable or re-enable notifications for individual
-  applications from the <span class="gui">Notifications</span> panel.</p>
+<p class="p">Når de er slået fra, så vil de fleste påmindelser ikke poppe op øverst på skærmen. Påmindelserne vil stadigvæk findes i påmindelseslisten når du viser den (ved at klikke på uret eller ved at trykke på <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span>), og de begynder at poppe op igen når du skifter kontakten tilbage til <span class="gui">TIL</span>.</p>
+<p class="p">Du kan også deaktivere eller genaktivere påmindelser for enkelte programmer fra <span class="gui">Påmindelser</span>-panelet.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

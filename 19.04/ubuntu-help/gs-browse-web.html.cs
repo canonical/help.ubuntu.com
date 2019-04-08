@@ -105,7 +105,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.cs" title="Web browsers">Web browsers</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.cs" title="Změna prohlížeče, ve kterém se jako výchozím otevírají webové stránky">Změna výchozího prohlížeče</a></span>, <span class="link"><a href="net-install-flash.html.cs" title="Instalace zásuvného modulu Flash">instalace zásuvného modulu Flash</a></span>…</span>
+<a href="net-browser.html.cs" title="Webové prohlížeče">Webové prohlížeče</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.cs" title="Změna prohlížeče, ve kterém se jako výchozím otevírají webové stránky">Změna výchozího prohlížeče</a></span>, <span class="link"><a href="net-install-flash.html.cs" title="Instalace zásuvného modulu Flash">instalace zásuvného modulu Flash</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Make pages print in a different order</title>
+<title>Udskriv sider i en anden rækkefølge</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> › <a class="trail" href="printing.html.da#paper" title="Andre papirstørrelser og layouts">Sizes and layouts</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> › <a class="trail" href="printing.html.da#paper" title="Andre papirstørrelser og layouts">Størrelser og layouts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Make pages print in a different order</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Udskriv sider i en anden rækkefølge</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="reverse" class="sect"><div class="inner">
@@ -77,7 +77,7 @@
     the pages end up in reverse order when you pick them up. If needed, you can
     reverse this printing order.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To reverse the order:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Omvendt rækkefølge:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print
         dialog.</p></li>
@@ -96,7 +96,7 @@
   will make each copy come out with its pages grouped together in the right
   order instead.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">At samle sætvis:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Saml sætvis:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print
      dialog.</p></li>

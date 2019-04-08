@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Purge trash &amp; temporary files</title>
+<title>Tøm papirkurven og midlertidige filer</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="privacy.html.da" title="Privatlivsindstillinger">Privatlivsindstillinger</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="privacy.html.da" title="Privatlivsindstillinger">Privatlivsindstillinger</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Purge trash &amp; temporary files</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Tøm papirkurven og midlertidige filer</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Clearing out your trash and temporary files removes
@@ -83,9 +83,9 @@
   background. They can increase performance by providing a copy of data that
   was downloaded or computed.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Automatically empty your trash and clear temporary files</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Tøm automatisk din papirkurv og ryd midlertidige filer</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Privatliv</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Privatliv</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Purge Trash &amp; Temporary Files</span>.</p></li>
 <li class="steps"><p class="p">Set one or both of the <span class="gui">Automatically empty Trash</span> or
@@ -108,11 +108,7 @@
 <div class="region"><ul>
 <li class="links "><a href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a></li>
 <li class="links ">
-<a href="privacy.html.da" title="Privatlivsindstillinger">Privatlivsindstillinger</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.da" title="Låser skærmen automatisk">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.da" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.da" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.da" title="Privatlivsindstillinger">Privatlivsindstillinger</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.da" title="Lås din skærm automatisk">Skærmlås</a></span>, <span class="link"><a href="privacy-history-recent-off.html.da" title="Sluk for eller begræns sporing af filhistorik">Forbrugshistorik</a></span>, <span class="link"><a href="privacy-purge.html.da" title="Tøm papirkurven og midlertidige filer">Tøm papirkurven &amp; midlertidige filer</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

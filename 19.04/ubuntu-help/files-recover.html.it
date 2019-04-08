@@ -78,7 +78,8 @@
       start typing <span class="app">Files</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="app">Files</span> to open the file manager.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
-      click <span class="gui">Files</span> in the top bar and pick <span class="gui">Sidebar</span>.</p></li>
+      press the menu button in the top-right corner of the window and select
+      <span class="gui">Sidebar</span>.</p></li>
 <li class="steps"><p class="p">If your deleted file is there, click on it and select
       <span class="gui">Restore</span>. It will be restored to the folder from where it was
       deleted.</p></li>

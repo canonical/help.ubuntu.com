@@ -65,13 +65,13 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html.da#photos" title="Billeder og digitalkameraer">Billeder</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html.da#photos" title="Billeder og digitalkameraer">Billeder</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#removable" title="Flytbare drev og eksterne diske">Flytbare drev og eksterne diske</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#removable" title="Flytbare drev og eksterne diske">Flytbare drev og eksterne diske</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html.da#music" title="Musik og bærbare lydafspillere">Musik og afspillere</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html.da#music" title="Musik og bærbare lydafspillere">Musik og afspillere</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html.da#videos" title="Videoer og videokamera">Videoer</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html.da#videos" title="Videoer og videokamera">Videoer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -85,7 +85,7 @@
 <p class="p">To decide which applications should start when you plug in various
   devices: </p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Detaljer</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Detaljer</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Removable Media</span>.</p></li>
 <li class="steps">
@@ -110,23 +110,23 @@
 <div id="files-types-of-devices" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Typer af enheder og medier</span></h2></div>
 <div class="region"><div class="contents"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Audio discs</dt>
+<dt class="terms">Lyddiske</dt>
 <dd class="terms"><p class="p">Choose your favorite music application or CD audio extractor to handle
     audio CDs. If you use audio DVDs (DVD-A), select how to open them under
     <span class="gui">Other Media…</span>. If you open an audio disc with the file manager,
     the tracks will appear as WAV files that you can play in any audio player
     application.</p></dd>
-<dt class="terms">Video discs</dt>
+<dt class="terms">Videodiske</dt>
 <dd class="terms"><p class="p">Choose your favorite video application to handle video DVDs. Use the
     <span class="gui">Other Media…</span> button to set an application for Blu-ray, HD DVD,
     video CD (VCD), and super video CD (SVCD). If DVDs or other video discs
-    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.da" title="Hvorfor vil dvd'er ikke afspille?">Hvorfor vil dvd'er ikke afspille?</a></span>.
+    do not work correctly when you insert them, see <span class="link"><a href="video-dvd.html.da" title="Hvorfor afspilles dvd'er ikke?">Hvorfor afspilles dvd'er ikke?</a></span>.
     </p></dd>
-<dt class="terms">Blank discs</dt>
+<dt class="terms">Tomme diske</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to select a disc-writing
     application for blank CDs, blank DVDs, blank Blu-ray discs, and blank HD
     DVDs.</p></dd>
-<dt class="terms">Cameras and photos</dt>
+<dt class="terms">Kameraer og billeder</dt>
 <dd class="terms">
 <p class="p">Use the <span class="gui">Photos</span> drop-down to choose a photo-management
     application to run when you plug in your digital camera, or when you insert
@@ -140,7 +140,7 @@
 <dt class="terms">Musikafspillere</dt>
 <dd class="terms"><p class="p">Choose an application to manage the music library on your portable music
     player, or manage the files yourself using the file manager.</p></dd>
-<dt class="terms">E-book readers</dt>
+<dt class="terms">E-bogslæsere</dt>
 <dd class="terms"><p class="p">Use the <span class="gui">Other Media…</span> button to choose an application to
       manage the books on your e-book reader, or manage the files yourself
       using the file manager.</p></dd>

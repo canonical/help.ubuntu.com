@@ -76,7 +76,7 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="app">Filer</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="app">Filer</span> för att öppna filhanteraren.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Papperskorg</span> i sidopanelen. Om du inte ser sidopanelen, klicka på <span class="gui">Filer</span> i systemraden och välj <span class="gui">Sidopanel</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Papperskorg</span> i sidopanelen. Om du inte ser sidopanelen, tryck på menyknappen i fönstrets övre högra hörn och välj sedan <span class="gui">Sidopanel</span>.</p></li>
 <li class="steps"><p class="p">Om din borttagna fil finns där, klicka på den och välj <span class="gui">Återskapa</span>. Den kommer att återställas i mappen ifrån vilken den togs bort.</p></li>
 </ol></div>
 </div></div>

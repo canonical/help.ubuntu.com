@@ -72,7 +72,7 @@
 <div class="contents">
 <p class="p">Falls Sie die Papiergröße für ein Dokument ändern wollen, zum Beispiel um ein PDF im US-Letter-Format auf A4 zu drucken, können Sie das Druckformat für dieses Dokument ändern.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Drücken Sie den Druckdialog mit <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Öffnen Sie den Druckdialog mit <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps"><p class="p">Wählen Sie den Reiter <span class="gui">Seite einrichten</span>.</p></li>
 <li class="steps"><p class="p">Wählen Sie in der Spalte <span class="gui">Papier</span> Ihre <span class="gui">Papiergröße</span> in der Auswahlliste aus.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Drucken</span>, um Ihr Dokument zu drucken.</p></li>

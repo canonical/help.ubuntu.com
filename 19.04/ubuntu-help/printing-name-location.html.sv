@@ -80,7 +80,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skrivare</span> för att öppna panelen.</p></li>
-<li class="steps"><p class="p">Klicka på knappen <span class="gui">Lås upp</span> i övre högra hörnet och mata in ditt lösenord.</p></li>
+<li class="steps"><p class="p">Tryck på <span class="gui">Lås upp</span> i övre högra hörnet och skriv in ditt lösenord när du blir tillfrågad.</p></li>
 <li class="steps"><p class="p">Klicka på namnet på din skrivare och börja skriva ett nytt namn för skrivaren.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="key"><kbd>Retur</kbd></span> för spara dina ändringar.</p></li>
 </ol></div></div></div>
@@ -93,7 +93,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skrivare</span> för att öppna panelen.</p></li>
-<li class="steps"><p class="p">Klicka på knappen <span class="gui">Lås upp</span> i övre högra hörnet och mata in ditt lösenord.</p></li>
+<li class="steps"><p class="p">Tryck på <span class="gui">Lås upp</span> i övre högra hörnet och skriv in ditt lösenord när du blir tillfrågad.</p></li>
 <li class="steps"><p class="p">Klicka på platsen och börja redigera platsen.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="key"><kbd>Retur</kbd></span> för att spara ändringarna.</p></li>
 </ol></div></div></div>

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Participate to improve this guide</title>
+<title>Vær med til at forbedre guiden</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.da" title="Get more help">Get more help</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Participate to improve this guide</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Vær med til at forbedre guiden</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">This help system is created by a volunteer community. You are welcome to participate. If you notice a problem with these help pages (like typos, incorrect instructions or topics 
@@ -76,7 +76,7 @@ that should be covered but aren't), you can file a <span class="em">bug report</
 <span class="input">ubuntu-bug ubuntu-docs</span>. Press <span class="gui">Enter</span> to begin the bug collection process.</p>
 <p class="p">See the <span class="link"><a href="report-ubuntu-bug.html.da" title="Report a problem in Ubuntu">Ubuntu bug reporting 
 instructions</a></span> for more information about how to file your bug.</p>
-<p class="p">Thanks for helping make the Ubuntu Help better!</p>
+<p class="p">Tak fordi du hjælper med at gøre Ubuntu Hjælp bedre!</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -84,10 +84,7 @@ instructions</a></span> for more information about how to file your bug.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.da" title="Get more help">Get more help</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html.da" title="Om denne vejledning">Tips on using this guide</a></span>,
-        <span class="link"><a href="get-involved.html.da" title="Participate to improve this guide">help improve this guide</a></span>…
-    </span>
+<a href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.da" title="Om denne vejledning">Tips til at bruge guiden</a></span>, <span class="link"><a href="get-involved.html.da" title="Vær med til at forbedre guiden">vær med til at forbedre guiden</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

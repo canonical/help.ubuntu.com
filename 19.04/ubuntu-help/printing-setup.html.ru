@@ -83,8 +83,8 @@
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Принтеры</span>.</p></li>
-<li class="steps"><p class="p">Нажмите кнопку <span class="gui">Разблокировать</span> в правом верхнем углу и введите свой пароль.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button.</p></li>
+<li class="steps"><p class="p">Нажмите <span class="gui">Разблокировать</span> в верхнем правом углу и затем по запросу системы введите свой пароль.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Add a Printer…</span> button.</p></li>
 <li class="steps"><p class="p">В всплывающем окне выберите новый принтер. Нажмите <span class="gui">Добавить</span>.</p></li>
 </ol></div></div></div>
 <p class="p">If your printer does not appear in the Add a New Printer window, you may

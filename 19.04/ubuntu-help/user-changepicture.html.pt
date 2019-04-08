@@ -79,8 +79,14 @@
 <li class="steps">
 <p class="p">Carregue na imagem junto a seu nome. Mostrar-se-lhe-á uma galeria desdobrável com algumas fotografias de início de sessão alojadas. Se gosta alguma de elas, carregue para a usar você mesmo.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Se prefere utilizar uma imagem que já tem na sua computador, carregue em <span class="gui">Procurar mais imagens…</span>.</p></li>
-<li class="list"><p class="p">Se tem uma câmara site, pode tomar uma foto nova neste momento clicando em <span class="gui">Fazer uma foto…</span>. Tome a sua imagem e a seguir mova e mude o tamanho do contorno quadrado para recortar as partes que não queira. Se não gosta da fotografia que tomou, carregue em <span class="gui">Fazer outra foto</span> para tentar novamente, ou <span class="gui">Cancelar</span> se se dá por vencido.</p></li>
+<li class="list"><p class="p">If you would rather use a picture you already have on your
+          computer, click <span class="gui">Select a file…</span>.</p></li>
+<li class="list"><p class="p">If you have a webcam, you can take a new login photo right now by
+          clicking <span class="gui">Take a picture…</span>. Take your
+          picture, then move and resize the square outline to crop out the
+          parts you do not want. If you do not like the picture you took, click
+          <span class="gui">Take Another Picture</span> to try again, or
+          <span class="gui">Cancel</span> to give up.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

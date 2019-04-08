@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Display &amp; screen</title>
+<title>Visning &amp; skærm</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,23 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Display &amp; screen</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Visning &amp; skærm</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="display-brightness.html.da" title="Indstil skærmens lysstyrke"><span class="title">Indstil skærmens lysstyrke</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
     light.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.da" title="Indstil tiden for sort skærm"><span class="title">Indstil tiden for sort skærm</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-night-light.html.da" title="Justér farvetemperaturen på din skærm"><span class="title">Justér farvetemperaturen på din skærm</span><span class="linkdiv-dash"> — </span><span class="desc">Night Light changes the color of your displays according to the time
     of day.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.da" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-background.html.da" title="Skift baggrunde på skrivebordet og låseskærmen"><span class="title">Skift baggrunde på skrivebordet og låseskærmen</span><span class="linkdiv-dash"> — </span><span class="desc">Set an image, color, or gradient as your desktop background or lock
     screen background.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-resolution.html.da" title="Skift opløsningen eller orienteringen af skærmen"><span class="title">Skift opløsningen eller orienteringen af skærmen</span><span class="linkdiv-dash"> — </span><span class="desc">Change the resolution of the screen and its orientation
     (rotation).</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.da" title="Skærmen låser sig selv for hurtigt"><span class="title">Skærmen låser sig selv for hurtigt</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.da" title="Skærmen låser sig selv for hurtigt"><span class="title">Skærmen låser sig selv for hurtigt</span><span class="linkdiv-dash"> — </span><span class="desc">Vælg hvor længe der skal ventes inden skærmen låses i <span class="gui">Privatliv</span>-indstillingerne.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.da" title="Tilslut en anden skærm til din computer"><span class="title">Tilslut en anden skærm til din computer</span><span class="linkdiv-dash"> — </span><span class="desc">Opsæt en ekstra skærm.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -88,13 +87,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.da" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.da" title="Tastatur">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.da" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">user accounts</a></span>…
-    </span>
+<a href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Bruger- &amp; systemindstillinger</a><span class="desc"> — <span class="link"><a href="keyboard.html.da" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mus &amp; pegeplade</a></span>, <span class="link"><a href="prefs-display.html.da" title="Visning &amp; skærm">skærm</a></span>, <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">sprog</a></span>, <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">brugerkonti</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

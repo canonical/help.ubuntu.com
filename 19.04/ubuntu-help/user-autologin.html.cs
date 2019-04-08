@@ -75,7 +75,7 @@
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Uživatelé</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Uživatelé</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte uživatelský účet, pod kterým se chcete přihlásit automaticky po spuštění.</p></li>
-<li class="steps"><p class="p">Zmáčkněte <span class="gui">Odemknout</span> a zadejte své heslo.</p></li>
+<li class="steps"><p class="p">Zmáčkněte <span class="gui">Odemknout</span> v pravém horním rohu a po vyzvání zadejte heslo.</p></li>
 <li class="steps"><p class="p">Přepněte vypínač <span class="gui">Automatické přihlašování</span> na <span class="gui">❙</span> (zapnuto).</p></li>
 </ol></div></div></div>
 <p class="p">Při příštím spuštění počítače budete přihlášeni automaticky. Když máte tuto volbu zapnutou, nemusíte zadávat heslo, abyste se přihlásili, což ale znamená, že i kdokoliv jiný zapne váš počítač, tak získá přístup k vašemu účtu a vašim osobním datům, včetně souborů a historie v prohlížeči.</p>

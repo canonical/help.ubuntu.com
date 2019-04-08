@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="getting-started.html.da" title="Kom godt i gang">Getting started with GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="getting-started.html.da" title="Kom godt i gang">Getting started with GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="links nextlinks">
@@ -103,12 +103,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html.da" title="Dato &amp; klokkeslæt">Dato &amp; klokkeslæt</a><span class="desc"> — 
-      <span class="link"><a href="clock-set.html.da" title="Skift datoen og klokkeslættet">Set date and time</a></span>,
-      <span class="link"><a href="clock-world.html.da" title="Tilføj et verdensur">world clocks</a></span>,
-      <span class="link"><a href="clock-timezone.html.da" title="Skift din tidszone">timezone</a></span>,
-      <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">calendar and appointments</a></span>…
-    </span>
+<a href="clock.html.da" title="Dato &amp; klokkeslæt">Dato &amp; klokkeslæt</a><span class="desc"> — <span class="link"><a href="clock-set.html.da" title="Skift datoen og klokkeslættet">Indstil dato og klokkeslæt</a></span>, <span class="link"><a href="clock-world.html.da" title="Tilføj et verdensur">verdensure</a></span>, <span class="link"><a href="clock-timezone.html.da" title="Skift din tidszone">tidszone</a></span>, <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">kalender og aftaler</a></span> …</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fjern alt på en flytbar disk</span></h1></div>
@@ -75,7 +75,7 @@
  folders. You can do this by <span class="em">formatting</span> the disk — this deletes all
  of the files on the disk and leaves it empty.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Format a removable disk</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Formatér en flytbar disk</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open <span class="app">Disks</span> from the <span class="gui">Activities</span> overview.</p></li>
 <li class="steps">
@@ -115,12 +115,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a><span class="desc"> — 
-    <span class="link"><a href="disk-capacity.html.da" title="Tjek hvor meget diskplads der er tilbage">Disk space</a></span>,
-    <span class="link"><a href="disk-benchmark.html.da" title="Test ydelsen af din harddisk">performance</a></span>,
-    <span class="link"><a href="disk-check.html.da" title="Tjek din harddisk for problemer">problems</a></span>,
-    <span class="link"><a href="disk-partitions.html.da" title="Håndter diskenheder og partitioner">volumes and partitions</a></span>…
-  </span>
+<a href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.da" title="Tjek hvor meget diskplads der er tilbage">Diskplads</a></span>, <span class="link"><a href="disk-benchmark.html.da" title="Test ydelsen af din harddisk">ydelse</a></span>, <span class="link"><a href="disk-check.html.da" title="Tjek din harddisk for problemer">problemer</a></span>, <span class="link"><a href="disk-partitions.html.da" title="Håndter diskenheder og partitioner">diskenheder og partitioner</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

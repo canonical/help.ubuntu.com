@@ -64,15 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Dit skrivebord</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.da" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">En visuel oversigt af dit skrivebord, toplinjen og <span class="gui">Aktivitetsoversigten</span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.da" title="Log ud, sluk eller skift bruger"><span class="title">Log ud, sluk eller skift bruger</span><span class="linkdiv-dash"> — </span><span class="desc">Lær at forlade din brugerkonto ved at logge ud, skifte bruger osv.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.da" title="En visuel oversigt af GNOME"><span class="title">En visuel oversigt af GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">En visuel oversigt af dit skrivebord, toplinjen og <span class="gui">Aktivitetsoversigten</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.da" title="Log ud, sluk eller skift bruger"><span class="title">Log ud, sluk eller skift bruger</span><span class="linkdiv-dash"> — </span><span class="desc">Læs om at forlade din brugerkonto ved at logge ud, skifte bruger osv.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.da" title="Start programmer"><span class="title">Start programmer</span><span class="linkdiv-dash"> — </span><span class="desc">Start programmer fra <span class="gui">Aktivitetsoversigten</span>.</span></a></div></div>
 </div></div></div></div>
@@ -80,21 +80,18 @@
 <div class="hgroup"><h2 class="title"><span class="title">Tilpas dit skrivebord</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.da" title="Fastgør dine favoritprogrammer til favoritområdet"><span class="title">Fastgør dine favoritprogrammer til favoritområdet</span><span class="linkdiv-dash"> — </span><span class="desc">Add (or remove) frequently-used program icons on the dash.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.da" title="Kalenderaftaler"><span class="title">Kalenderaftaler</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
-    screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.da" title="Fastgør dine favoritprogrammer til favoritområdet"><span class="title">Fastgør dine favoritprogrammer til favoritområdet</span><span class="linkdiv-dash"> — </span><span class="desc">Tilføj (eller fjern) programikoner som ofte bruges i favoritområdet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.da" title="Kalenderaftaler"><span class="title">Kalenderaftaler</span><span class="linkdiv-dash"> — </span><span class="desc">Vis dine aftaler i kalenderområdet øverst på skærmen.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.da" title="Påmindelser og påmindelseslisten"><span class="title">Påmindelser og påmindelseslisten</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
-    certain events happen.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.da" title="Påmindelser og påmindelseslisten"><span class="title">Påmindelser og påmindelseslisten</span><span class="linkdiv-dash"> — </span><span class="desc">Meddelelser dropper ned øverst på skærmen og fortæller dig når bestemte hændelser sker.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="apps" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Programmer og vinduer</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html.da" title="Hvad betyder ikonerne på toplinjen?"><span class="title">Hvad betyder ikonerne på toplinjen?</span><span class="linkdiv-dash"> — </span><span class="desc">Explains the meanings of the icons located on the right of the top bar.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.da" title="Låseskærmen"><span class="title">Låseskærmen</span><span class="linkdiv-dash"> — </span><span class="desc">The decorative and functional lock screen conveys useful
-    information.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.da" title="Hvad betyder ikonerne på toplinjen?"><span class="title">Hvad betyder ikonerne på toplinjen?</span><span class="linkdiv-dash"> — </span><span class="desc">Forklarer betydningen af de ikoner som findes til højre på toplinjen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.da" title="Låseskærmen"><span class="title">Låseskærmen</span><span class="linkdiv-dash"> — </span><span class="desc">Den dekorative og funktionelle låseskærm formidler nyttig information.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.da" title="Nyttige tastaturgenveje"><span class="title">Nyttige tastaturgenveje</span><span class="linkdiv-dash"> — </span><span class="desc">Find rundt på skrivebordet med tastaturet.</span></a></div>
 </div>
 <div class="links-twocolumn">
@@ -108,7 +105,7 @@
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html.da" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.da" title="Ubuntu-skrivebordsguide">Ubuntu-skrivebordsguide</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="mouse.html.da" title="Mus &amp; pegeplade">Mus &amp; pegeplade</a> › <a class="trail" href="mouse.html.da#problems" title="Almindelige problemer">Almindelige problemer</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="mouse.html.da" title="Mus &amp; pegeplade">Mus &amp; pegeplade</a> › <a class="trail" href="mouse.html.da#problems" title="Almindelige problemer">Almindelige problemer</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="mouse.html.da" title="Mus &amp; pegeplade">Mus &amp; pegeplade</a> › <a class="trail" href="mouse.html.da#problems" title="Almindelige problemer">Almindelige problemer</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="mouse.html.da" title="Mus &amp; pegeplade">Mus &amp; pegeplade</a> › <a class="trail" href="mouse.html.da#problems" title="Almindelige problemer">Almindelige problemer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -97,7 +97,7 @@
 <div id="broken" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tjek at musen virker</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Plug the mouse in to a different computer and see if it works.</p>
+<p class="p">Sæt musen i en anden computer og se om den virker.</p>
 <p class="p">If the mouse is an optical or laser mouse, a light should be shining out
  of the bottom of the mouse if it is turned on.  If there is no light, check
  that it is turned on.  If it is and there is still no light, the mouse may be
@@ -118,9 +118,7 @@
    to sleep to save power, so might not respond until you click a button.
    See <span class="link"><a href="mouse-wakeup.html.da" title="Musens bevægelser er forsinket i starten">Musens bevægelser er forsinket i starten</a></span>.
    </p></li>
-<li class="list"><p class="p">
-   Check that the battery of the mouse is charged.
-   </p></li>
+<li class="list"><p class="p">Tjek at batteriet i musen er opladet.</p></li>
 <li class="list"><p class="p">
    Make sure that the receiver (dongle) is firmly plugged in to the computer.
    </p></li>

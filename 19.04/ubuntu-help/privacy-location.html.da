@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Control location services</title>
+<title>Styr placeringstjenester</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="privacy.html.da" title="Privatlivsindstillinger">Privatlivsindstillinger</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="privacy.html.da" title="Privatlivsindstillinger">Privatlivsindstillinger</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Control location services</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Styr placeringstjenester</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Geolocation, or location services, uses cell tower positioning, GPS, and
@@ -76,12 +76,12 @@
   enabled, it is possible for your location to be shared over the network with
   a great deal of precision.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Turn off the geolocation features of your desktop</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Slå skrivebordets geoplacering-funktionerne fra</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Privatliv</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Privatliv</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Privacy</span> to open the panel.</p></li>
 <li class="steps">
-<p class="p">Set the <span class="gui">Location Services</span> switch to <span class="gui">OFF</span>.</p>
+<p class="p">Indstil <span class="gui">Placeringstjenester</span>-kontakten til <span class="gui">FRA</span>.</p>
 <p class="p">To re-enable this feature, set the <span class="gui">Location Services</span> switch
      to <span class="gui">ON</span>.</p>
 </li>
@@ -93,11 +93,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html.da" title="Privatlivsindstillinger">Privatlivsindstillinger</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.da" title="Låser skærmen automatisk">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.da" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.da" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.da" title="Privatlivsindstillinger">Privatlivsindstillinger</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.da" title="Lås din skærm automatisk">Skærmlås</a></span>, <span class="link"><a href="privacy-history-recent-off.html.da" title="Sluk for eller begræns sporing af filhistorik">Forbrugshistorik</a></span>, <span class="link"><a href="privacy-purge.html.da" title="Tøm papirkurven og midlertidige filer">Tøm papirkurven &amp; midlertidige filer</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

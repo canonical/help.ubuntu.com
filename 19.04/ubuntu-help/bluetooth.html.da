@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
@@ -76,12 +76,12 @@ and input devices like mice and keyboards. You can also use Bluetooth to
 <span class="link"><a href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed">send files between devices</a></span>, such as
 from your computer to your cell phone.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.da" title="Slå Bluetooth til eller fra"><span class="title">Slå Bluetooth til eller fra</span><span class="linkdiv-dash"> — </span><span class="desc">Enable or disable the Bluetooth device on your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.da" title="Fjern en Bluetooth-enhed"><span class="title">Fjern en Bluetooth-enhed</span><span class="linkdiv-dash"> — </span><span class="desc">Remove a device from the list of Bluetooth devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed"><span class="title">Send filer til en Bluetooth-enhed</span><span class="linkdiv-dash"> — </span><span class="desc">Share files to Bluetooth devices such as your phone.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.da" title="Slå Bluetooth til eller fra"><span class="title">Slå Bluetooth til eller fra</span><span class="linkdiv-dash"> — </span><span class="desc">Aktivér eller deaktivér Bluetooth-enheden på din computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.da" title="Fjern en Bluetooth-enhed"><span class="title">Fjern en Bluetooth-enhed</span><span class="linkdiv-dash"> — </span><span class="desc">Fjern en enhed fra listen over Bluetooth-enheder.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed"><span class="title">Send filer til en Bluetooth-enhed</span><span class="linkdiv-dash"> — </span><span class="desc">Del filer til Bluetooth-enheder såsom din telefon.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.da" title="Styr deling via Bluetooth"><span class="title">Styr deling via Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Tillad upload af filer til din computer via Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.da" title="Tilslut din computer til en Bluetooth-enhed"><span class="title">Tilslut din computer til en Bluetooth-enhed</span><span class="linkdiv-dash"> — </span><span class="desc">Pair Bluetooth devices.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.da" title="Hvad er Bluetooth-synlighed?"><span class="title">Hvad er Bluetooth-synlighed?</span><span class="linkdiv-dash"> — </span><span class="desc">Whether other devices can discover your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.da" title="Tilslut din computer til en Bluetooth-enhed"><span class="title">Tilslut din computer til en Bluetooth-enhed</span><span class="linkdiv-dash"> — </span><span class="desc">Parring af Bluetooth-enheder.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-visibility.html.da" title="Hvad er Bluetooth-synlighed?"><span class="title">Hvad er Bluetooth-synlighed?</span><span class="linkdiv-dash"> — </span><span class="desc">Om andre enheder kan opdage din computer.</span></a></div>
 </div></div></div>
 </div>
 <div id="problems" class="sect"><div class="inner">
@@ -103,14 +103,7 @@ from your computer to your cell phone.</p>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.da" title="Udskrivning">printers</a></span>,
-      <span class="link"><a href="power.html.da" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.da" title="Farvestyring">color management</a></span>,
-      <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html.da" title="Diske &amp; lager">disks</a></span>…
-    </span>
+<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></span>, <span class="link"><a href="printing.html.da" title="Udskrivning">printere</a></span>, <span class="link"><a href="power.html.da" title="Strøm &amp; batteri">strømindstillinger</a></span>, <span class="link"><a href="color.html.da" title="Farvestyring">farvestyring</a></span>, <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.da" title="Diske &amp; lager">diske</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

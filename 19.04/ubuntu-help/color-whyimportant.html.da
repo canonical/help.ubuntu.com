@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farvestyring</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -86,7 +86,7 @@
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Vis billeder i normal størrelse" data-zoom-out-title="Nedskalér billeder"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-camera.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">A bird on a frosty wall as seen on the camera view-finder</div>
+<div class="desc">En fugl på en frosset væg som det ses i kameraets søger</div>
 </div>
 </div></div>
 <p class="p">
@@ -96,7 +96,7 @@
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Vis billeder i normal størrelse" data-zoom-out-title="Nedskalér billeder"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-display.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">This is what the user sees on a typical business laptop screen</div>
+<div class="desc">Hvad brugeren ser på skærmen på en bærbar til typisk virksomhedsbrug</div>
 </div>
 </div></div>
 <p class="p">
@@ -106,7 +106,7 @@
 <div class="figure"><div class="inner">
 <a href="#" class="zoom" data-zoom-in-title="Vis billeder i normal størrelse" data-zoom-out-title="Nedskalér billeder"></a><div class="region">
 <div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-printer.png" class="media media-block" alt=""></div></div></div>
-<div class="desc">This is what the user sees when printing on a typical inkjet printer</div>
+<div class="desc">Hvad brugeren ser når der udskrives på en typisk inkjet-printer</div>
 </div>
 </div></div>
 <p class="p">
@@ -156,11 +156,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html.da" title="Farvestyring">Farvestyring</a><span class="desc"> — 
-      <span class="link"><a href="color-whyimportant.html.da" title="Hvorfor er farvestyring vigtigt?">Why is this important</a></span>,
-      <span class="link"><a href="color.html.da#profiles" title="Farveprofiler">Color profiles</a></span>,
-      <span class="link"><a href="color.html.da#calibration" title="Kalibrering">How to calibrate a device</a></span>…
-    </span>
+<a href="color.html.da" title="Farvestyring">Farvestyring</a><span class="desc"> — <span class="link"><a href="color-whyimportant.html.da" title="Hvorfor er farvestyring vigtigt?">Hvorfor er det vigtigt</a></span>, <span class="link"><a href="color.html.da#profiles" title="Farveprofiler">Farveprofiler</a></span>, <span class="link"><a href="color.html.da#calibration" title="Kalibrering">Kalibrer en enhed</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

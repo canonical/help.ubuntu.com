@@ -91,7 +91,7 @@
 <div id="pause-release-print-job" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Einen Druckauftrag anhalten und freigeben</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Wenn Sie Druckaufträge pausieren oder löschen wollen, können Sie zu den Druckaufträgen in den Druckereinstellungen gehen und den entsprechenden Knopf drücken.</p>
+<p class="p">Wenn Sie Druckaufträge pausieren oder löschen wollen, können Sie zu den Druckaufträgen in den Druckereinstellungen gehen und den entsprechenden Knopf anklicken.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Drucker</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Drucker</span>, um das Panel zu öffnen.</p></li>

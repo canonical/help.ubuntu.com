@@ -80,7 +80,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Tiskárny</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Tiskárny</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">Klikněte na tlačítko <span class="gui">Odemknout</span> v pravém horním rohu a zadejte heslo.</p></li>
+<li class="steps"><p class="p">Zmáčkněte <span class="gui">Odemknout</span> v pravém horním rohu a po vyzvání zadejte heslo.</p></li>
 <li class="steps"><p class="p">Klikněte na název tiskárny a napište její nový název.</p></li>
 <li class="steps"><p class="p">Zmáčknutím <span class="key"><kbd>Enter</kbd></span> své změny uložte.</p></li>
 </ol></div></div></div>
@@ -93,7 +93,7 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Tiskárny</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Tiskárny</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">Klikněte na tlačítko <span class="gui">Odemknout</span> v pravém horním rohu a zadejte heslo.</p></li>
+<li class="steps"><p class="p">Zmáčkněte <span class="gui">Odemknout</span> v pravém horním rohu a po vyzvání zadejte heslo.</p></li>
 <li class="steps"><p class="p">Klikněte na umístění a upravte jej.</p></li>
 <li class="steps"><p class="p">Zmáčknutím <span class="key"><kbd>Enter</kbd></span> změny uložte.</p></li>
 </ol></div></div></div>

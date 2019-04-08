@@ -75,7 +75,7 @@
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Felhasználók</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Felhasználók</span> elemre a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Válassza ki a felhasználói fiókot, amelyet az automatikus bejelentkezéshez használni szeretne.</p></li>
-<li class="steps"><p class="p">Nyomja meg a <span class="gui">Feloldás</span> gombot, és adja meg jelszavát.</p></li>
+<li class="steps"><p class="p">Nyomja meg a jobb felső sarokban lévő <span class="gui">Feloldás</span> gombot, és adja meg jelszavát.</p></li>
 <li class="steps"><p class="p">Kapcsolja <span class="gui">BE</span> az <span class="gui">Automatikus bejelentkezés</span> kapcsolót.</p></li>
 </ol></div></div></div>
 <p class="p">A számítógép következő bekapcsolásakor automatikusan be fog jelentkezni. Ha ez a lehetőség engedélyezve van, akkor a jelszó megadása nem lesz szükséges, ezért ha valaki más kapcsolja be a számítógépet, az hozzáférhet a fiókjához és a személyes adataihoz, a fájljait és böngészési előzményeit is beleértve.</p>

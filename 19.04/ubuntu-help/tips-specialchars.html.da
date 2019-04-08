@@ -64,42 +64,35 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.da" title="Tips &amp; tricks">Tips &amp; tricks</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="tips.html.da" title="Tips &amp; tricks">Tips &amp; tricks</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Indtast specialtegn</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can enter and view thousands of characters from most of the world’s
-  writing systems, even those not found on your keyboard. This page lists
-  some different ways you can enter special characters.</p>
+<p class="p">Du kan indtaste og vise tusindvis af tegn fra de fleste af verdens skrivesystemer — selv dem der ikke findes på dit tastatur. Siden viser nogle forskellige måder til at indtaste specialtegn.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner">
-<div class="title title-links"><h2><span class="title">Methods to enter characters</span></h2></div>
+<div class="title title-links"><h2><span class="title">Metoder til at indtaste tegn</span></h2></div>
 <div class="region"><ul>
 <li class="links "><a href="tips-specialchars.html.da#characters" title="Tegn">Tegn</a></li>
-<li class="links "><a href="tips-specialchars.html.da#compose" title="Compose-tast">Compose-tast</a></li>
-<li class="links "><a href="tips-specialchars.html.da#ctrlshiftu" title="Code points">Code points</a></li>
+<li class="links "><a href="tips-specialchars.html.da#compose" title="Compose-tasten">Compose-tasten</a></li>
+<li class="links "><a href="tips-specialchars.html.da#ctrlshiftu" title="Kodepunkter">Kodepunkter</a></li>
 <li class="links "><a href="tips-specialchars.html.da#layout" title="Tastaturlayouts">Tastaturlayouts</a></li>
-<li class="links "><a href="tips-specialchars.html.da#im" title="Inputmetoder">Inputmetoder</a></li>
+<li class="links "><a href="tips-specialchars.html.da#im" title="Indtastningsmetoder">Indtastningsmetoder</a></li>
 </ul></div>
 </div></div>
 </div>
 <div id="characters" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tegn</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">GNOME comes with a character map application that allows you to
-    find and insert unusual characters, including emoji, by browsing
-    character categories or searching for keywords.</p>
+<p class="p">GNOME kommer med et tegnkort-program som giver dig mulighed for at finde og indsætte ualmindelige tegn, inklusive emoji, ved at gennemse tegnkategorier eller søge efter nøgleord.</p>
 <p class="p">Du kan starte <span class="app">Tegn</span> fra Aktivitetsoversigten.</p>
 </div></div>
 </div></div>
 <div id="compose" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Compose-tast</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Compose-tasten</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">A compose key is a special key that allows you to press multiple keys
-    in a row to get a special character. For example, to type the accented
-    letter <span class="em">é</span>, you can press <span class="key"><kbd>compose</kbd></span> then <span class="key"><kbd>'</kbd></span>
-    then <span class="key"><kbd>e</kbd></span>.</p>
+<p class="p">En compose-tast er en speciel tast som giver dig mulighed for at trykke på flere taster efter hinanden for at få et specialtegn. For f.eks. at skrive <span class="em">é</span> med accenttegn, kan du trykke på <span class="key"><kbd>compose</kbd></span> og så <span class="key"><kbd>'</kbd></span> og <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Tastaturer har ikke en bestemt compose-tast. Du kan i stedet definere en af de eksisterende taster på dit tastatur som en compose-tast.</p>
 <div class="note note-important" title="Vigtigt"><div class="inner"><div class="region"><div class="contents">
 <p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
@@ -107,68 +100,44 @@
 <p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Installér <span class="app">Tilpasninger</span></a></span></p>
 </div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Definer en compose-tast</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Vælg en compose-tast</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Tilpasninger</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Tilpasninger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Tilpasninger</span> for at åbne programmet.</p></li>
 <li class="steps"><p class="p">Klik på fanebladet <span class="gui">Tastatur &amp; mus</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Deaktiveret</span> ved siden af <span class="gui">Compose-tast</span>-indstillingen.</p></li>
-<li class="steps"><p class="p">Turn the switch on in the dialog and pick the keyboard shortcut you
-        want to use.</p></li>
+<li class="steps"><p class="p">Slå kontakten til i dialogen og vælg den tastaturgenvej, du vil bruge.</p></li>
 <li class="steps"><p class="p">Tilvælg afkrydsningsboksen til den tast du vil indstille som Compose-tast.</p></li>
-<li class="steps"><p class="p">Close the dialog.</p></li>
+<li class="steps"><p class="p">Luk dialogen.</p></li>
 <li class="steps"><p class="p">Luk <span class="gui">Tilpasninger</span>-vinduet.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Du kan skrive mange almindelige tegn med compose-tasten, f.eks.:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Press <span class="key"><kbd>compose</kbd></span> then <span class="key"><kbd>'</kbd></span> then a letter to
-      place an acute accent over that letter, such as <span class="em">é</span>.</p></li>
-<li class="list"><p class="p">Press <span class="key"><kbd>compose</kbd></span> then <span class="key"><kbd>`</kbd></span> (back tick) then a
-      letter to place a grave accent over that letter, such as
-      <span class="em">è</span>.</p></li>
-<li class="list"><p class="p">Press <span class="key"><kbd>compose</kbd></span> then <span class="key"><kbd>"</kbd></span> then a letter to
-      place an umlaut over that letter, such as <span class="em">ë</span>.</p></li>
-<li class="list"><p class="p">Press <span class="key"><kbd>compose</kbd></span> then <span class="key"><kbd>-</kbd></span> then a letter to
-      place a macron over that letter, such as <span class="em">ē</span>.</p></li>
+<li class="list"><p class="p">Tryk på <span class="key"><kbd>compose</kbd></span> og så <span class="key"><kbd>'</kbd></span> og så et bogstav for at sætte et accent aigu over, såsom <span class="em">é</span>.</p></li>
+<li class="list"><p class="p">Tryk på <span class="key"><kbd>compose</kbd></span> og så <span class="key"><kbd>`</kbd></span> (omvendt ´) og så et bogstav for at sætte et accent grave over, såsom <span class="em">è</span>.</p></li>
+<li class="list"><p class="p">Tryk på <span class="key"><kbd>compose</kbd></span> og så <span class="key"><kbd>"</kbd></span> og så et bogstav for at sætte et umlaut over bogstavet, såsom <span class="em">ë</span>.</p></li>
+<li class="list"><p class="p">Tryk på <span class="key"><kbd>compose</kbd></span> og så <span class="key"><kbd>-</kbd></span> og så et bogstav for at sætte en macron over bogstavet, såsom <span class="em">ē</span>.</p></li>
 </ul></div></div></div>
 <p class="p">Se <span class="link"><a href="http://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations" title="http://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations">Wikipedias side om Compose-tasten</a></span> for flere sekvenser til Compose-tasten.</p>
 </div></div>
 </div></div>
 <div id="ctrlshiftu" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Code points</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Kodepunkter</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">You can enter any Unicode character using only your keyboard with the
-  numeric code point of the character. Every character is identified by a
-  four-character code point. To find the code point for a character, look it up
-  in the <span class="app">Characters</span> application. The code point is the four characters
-  after <span class="gui">U+</span>.</p>
-<p class="p">To enter a character by its code point, press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>U</kbd></span></span>, then type the
-  four-character code and press <span class="key"><kbd>Space</kbd></span> or <span class="key"><kbd>Enter</kbd></span>. If you often
-  use characters that you can’t easily access with other methods, you might find
-  it useful to memorize the code point for those characters so you can enter
-  them quickly.</p>
+<p class="p">Du kan indtaste alle Unicode-tegn med dit tastatur ved at bruge tegnets numeriske kodepunkt. Hvert tegn identificeres af et kodepunkt på 4 tegn. Du kan finde et tegns kodepunkt ved at slå det op i <span class="app">Tegn</span>-programmet. Kodepunktet er de fire tegn efter <span class="gui">U+</span>.</p>
+<p class="p">For at indtaste et tegns kodepunkt skal du trykke på <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>U</kbd></span></span> og så skrive koden på 4 tegn og trykke på <span class="key"><kbd>Mellemrum</kbd></span> eller <span class="key"><kbd>Enter</kbd></span>. Hvis du ofte bruger tegn som du ikke har let adgang til på andre måder, så kan det være, du vil huske kodepunkterne for de tegn udenad så du hurtigt kan indtaste dem.</p>
 </div></div>
 </div></div>
 <div id="layout" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Tastaturlayouts</span></h2></div>
-<div class="region"><div class="contents"><p class="p">You can make your keyboard behave like the keyboard for another language,
-    regardless of the letters printed on the keys. You can even easily switch
-    between different keyboard layouts using an icon in the top bar. To learn
-    how, see <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Brug alternative tastaturlayouts</a></span>.</p></div></div>
+<div class="region"><div class="contents"><p class="p">Du kan få et tastatur til at opføre sig som tastaturet på et andet sprog, uanset hvilke bogstaver der er trykt på tasterne. Du kan endda let skifte mellem forskellige tastaturlayouts ved at bruge et ikon på toplinjen. Se <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Brug alternative tastaturlayouts</a></span> for at læse mere.</p></div></div>
 </div></div>
 <div id="im" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Inputmetoder</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Indtastningsmetoder</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">An Input Method expands the previous methods by allowing to enter
-  characters not only with keyboard but also any input devices. For instance
-  you could enter characters with a mouse using a gesture method, or enter
-  Japanese characters using a Latin keyboard.</p>
-<p class="p">To choose an input method, right-click over a text widget, and in the menu
-  <span class="gui">Input Method</span>, choose an input method you want to use. There is no
-  default input method provided, so refer to the input methods documentation to
-  see how to use them.</p>
+<p class="p">En indtastningsmetode udvider de forrige metoder ved at give mulighed for at indtaste tegn, ikke kun med tastaturet, men alle inputenheder. Du kan f.eks. indtaste tegn med en mus ved at bruge en gestusmetode eller indtaste japanske tegn med et latin-tastatur.</p>
+<p class="p">Højreklik på tekst-widgeten for at vælge en indtastningsmetode, og vælg den indtastningsmetode du vil bruge i <span class="gui">Indtastningsmetode</span>-menuen. Der leveres ikke nogen standardindtastningsmetode, så referer til dokumentationen for indtastningsmetode for at se hvordan de bruges.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">
@@ -177,13 +146,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html.da" title="Tips &amp; tricks">Tips &amp; tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.da" title="Indtast specialtegn">Special characters</a></span>, <span class="link"><a href="mouse-middleclick.html.da" title="Midterklik">middle click shortcuts</a></span>…</span>
+<a href="tips.html.da" title="Tips &amp; tricks">Tips &amp; tricks</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.da" title="Indtast specialtegn">Specialtegn</a></span>, <span class="link"><a href="mouse-middleclick.html.da" title="Midterklik">genveje for midterklik</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Brug alternative tastaturlayouts</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Brug alternative tastaturlayouts</a><span class="desc"> — Tilføj tastaturlayouts og skift mellem dem.</span>
 </li></ul></div>
 </div></div>
 </div>

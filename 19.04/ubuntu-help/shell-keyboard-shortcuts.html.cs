@@ -94,8 +94,8 @@
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
 <td style="border-top-style: solid;">
-<p class="p">Pop up command window (for quickly running commands).</p>
-<p class="p">Use the arrow keys to quickly access previously run commands.</p>
+<p class="p">Vyvolá příkazové okno (pro rychlé spouštění příkazů).</p>
+<p class="p">Pro rychlý přístup k dříve spuštěným příkazům použijte klávesy s kurzorovými šipkami.</p>
 </td>
 </tr>
 <tr>

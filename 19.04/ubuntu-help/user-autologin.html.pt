@@ -75,7 +75,7 @@
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Utentes</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Utentes</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione a conta de utilizador com a que quer iniciar a sessão automaticamente ao início.</p></li>
-<li class="steps"><p class="p">Carregue <span class="gui">Desbloquear</span> e introduza a sua palavra-passe.</p></li>
+<li class="steps"><p class="p">Carregue <span class="gui">Desbloquear</span> no canto superior direita e introduza a sua palavra-passe quando se lhe peça.</p></li>
 <li class="steps"><p class="p">Ative a opção <span class="gui">Início de sessão automático</span> (<span class="gui">Acendido</span>).</p></li>
 </ol></div></div></div>
 <p class="p">A proxima vez que arranque o seu computador, iniciar-se-á a sessão automaticamente. Se tem esta opção ativada, não será necessário que escreva a sua palavra-passe para iniciar a sessão, o que significa que se alguém arranca o seu computador, poderá aceder a sua conta e a seus dados pessoais, incluindo seus ficheiros e seu histórico de navegação.</p>

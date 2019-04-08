@@ -71,12 +71,8 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.cs" title="Wireless networking">Wireless networking</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Connect to Wi-Fi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Wi-Fi disconnecting</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-chat.html.cs" title="Chatování a společenské sítě">Chatování a společenské sítě</a></div>
@@ -85,6 +81,10 @@
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html.cs" title="Dodržování bezpečnosti na Internetu">Dodržování bezpečnosti na Internetu</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html.cs" title="Potřebuji antivirový software?">Antivirový software</a></span>, <span class="link"><a href="net-firewall-on-off.html.cs" title="Povolení nebo blokování přístupu na firewallu">základy k firewallu</a></span>, <span class="link"><a href="net-firewall-ports.html.cs" title="Běžně používané síťové porty">porty na firewallu</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.cs" title="Drátová síť">Drátová síť</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.cs" title="Připojení k drátové síti (Ethernet)">Připojení k Internetu po drátu</a></span>, <span class="link"><a href="net-fixed-ip-address.html.cs" title="Vytvoření připojení se pevnou adresou IP">pevná IP adresa</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-email.html.cs" title="E-mail a poštovní software">E-mail a poštovní software</a></div>
@@ -96,10 +96,7 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.cs" title="Problémy se sítí">Problémy se sítí</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.cs" title="Nevidím svoji bezdrátovou síť v seznamu">finding your Wi-Fi network</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.cs" title="Řešení problémů s bezdrátovými sítěmi">Řešení problémů s bezdrátovým připojením</a></span>, <span class="link"><a href="net-wireless-find.html.cs" title="Nevidím svoji bezdrátovou síť v seznamu">vyhledání vaší sítě Wi-Fi</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="sharing.html.cs" title="Sdílení">Sdílení</a></div>
@@ -110,12 +107,8 @@
 <div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.cs" title="Zjištění vaší IP adresy">Zjištění vaší adresy IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.cs" title="Co znamená WEP a WPA?">zabezpečení WEP a WPA</a></span>, <span class="link"><a href="net-macaddress.html.cs" title="Co je to MAC adresa?">adresa MAC</a></span>, <span class="link"><a href="net-proxy.html.cs" title="Nastavení proxy">proxy</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.cs" title="Web browsers">Web browsers</a></div>
+<div class="links-grid-link"><a href="net-browser.html.cs" title="Webové prohlížeče">Webové prohlížeče</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.cs" title="Změna prohlížeče, ve kterém se jako výchozím otevírají webové stránky">Změna výchozího prohlížeče</a></span>, <span class="link"><a href="net-install-flash.html.cs" title="Instalace zásuvného modulu Flash">instalace zásuvného modulu Flash</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.cs" title="Wired networking">Wired networking</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.cs" title="Připojení k drátové síti (Ethernet)">Připojení k Internetu po drátu</a></span>, <span class="link"><a href="net-fixed-ip-address.html.cs" title="Vytvoření připojení se pevnou adresou IP">pevná IP adresa</a></span>…</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

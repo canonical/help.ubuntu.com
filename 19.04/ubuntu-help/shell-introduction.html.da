@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Visual overview of GNOME</title>
+<title>En visuel oversigt af GNOME</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,33 +64,33 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Visual overview of GNOME</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">En visuel oversigt af GNOME</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">GNOME 3 har en nytænkt brugergrænseflade som er designet til ikke at være i vejen for dig, minimere forstyrrelser og hjælpe dig med at få ting gjort. Første gang du logger ind, vil du se et tomt skrivebord og toplinjen.</p>
-<div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="GNOME shell top bar"></div></div>
-<p class="p">Toplinjen giver adgang til dine vinduer og programmer, din kalender og aftaler, og <span class="link"><a href="status-icons.html.da" title="Hvad betyder ikonerne på toplinjen?">systemegenskaber</a></span> såsom lyd, netværk og strøm. I statusmenuen i toplinjen kan du skifte lydstyrken eller skærmens lysstyrke, redigere detaljerne i din <span class="gui">Wi-Fi</span>-forbindelse, tjekke din batteristatus, logge ud eller skifte bruger og slukke for din computer.</p>
+<p class="p">GNOME 3 har en nytænkt brugerflade som er designet til ikke at være i vejen for dig, minimere forstyrrelser og hjælpe dig med at få ting gjort. Første gang du logger ind, vil du se et tomt skrivebord og toplinjen.</p>
+<div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Toplinjen i GNOME shell"></div></div>
+<p class="p">Toplinjen giver adgang til dine vinduer og programmer, din kalender og aftaler, og <span class="link"><a href="status-icons.html.da" title="Hvad betyder ikonerne på toplinjen?">systemegenskaber</a></span> såsom lyd, netværk og strøm. I statusmenuen i toplinjen kan du ændre lydstyrken eller skærmens lysstyrke, redigere detaljerne i din <span class="gui">Wi-Fi</span>-forbindelse, tjekke din batteristatus, logge ud eller skifte bruger og slukke for din computer.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt"><span class="gui">Aktivitetsoversigt</span></a></li>
-<li class="links "><a href="shell-introduction.html.da#appmenu" title="Programmenu">Programmenu</a></li>
-<li class="links "><a href="shell-introduction.html.da#clock" title="Ur, kalender &amp; aftaler">Ur, kalender &amp; aftaler</a></li>
+<li class="links "><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten"><span class="gui">Aktivitetsoversigten</span></a></li>
+<li class="links "><a href="shell-introduction.html.da#appmenu" title="Programmenuen">Programmenuen</a></li>
+<li class="links "><a href="shell-introduction.html.da#clock" title="Uret, kalenderen &amp; aftaler">Uret, kalenderen &amp; aftaler</a></li>
 <li class="links "><a href="shell-introduction.html.da#yourname" title="Dig og din computer">Dig og din computer</a></li>
-<li class="links "><a href="shell-introduction.html.da#lockscreen" title="Låseskærm">Låseskærm</a></li>
-<li class="links "><a href="shell-introduction.html.da#window-list" title="Vinduesliste">Vinduesliste</a></li>
+<li class="links "><a href="shell-introduction.html.da#lockscreen" title="Låseskærmen">Låseskærmen</a></li>
+<li class="links "><a href="shell-introduction.html.da#window-list" title="Vindueslisten">Vindueslisten</a></li>
 </ul></div></div></div>
 </div>
 <div id="activities" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title"><span class="gui">Aktivitetsoversigt</span></span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title"><span class="gui">Aktivitetsoversigten</span></span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-activities.png" class="media media-block" alt="Aktiviteter-knappen"></div></div>
 <p class="p">Klik på <span class="gui">Aktivitetsoversigt</span>-knappen for at få adgang til dine vinduer og programmer, eller flyt din musemarkør til øverste venstre hjørne. Du kan også trykke på <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>-tasten på dit tastatur. Du kan se dine vinduer og programmer i oversigten. Du kan også bare begynde at skrive for at søge efter dine programmer, filer, mapper og webbet.</p>
 <div class="media media-image floatstart if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-dash.png" height="300" class="media media-block" alt="Favoritområdet"></div></div>
 <p class="p">I venstre side af oversigten finder du <span class="em">favoritområdet</span>. Favoritområdet viser dine favoritprogrammer og programmer som kører. Klik på et ikon i favoritområdet for at åbne programmet; hvis det kører i forvejen, så fremhæves det. Når der klikkes på dets ikon, så vises vinduet som sidst blev brugt. Du kan også trække ikonet til oversigten eller hen til et arbejdsområde til højre.</p>
 <p class="p">Når der højreklikkes på ikonet, så vises en menu som giver dig mulighed for at vælge et vindue i et program som kører, eller at åbne et nyt vindue. Du kan også klikke på ikonet mens du holder <span class="key"><kbd>Ctrl</kbd></span> nede, for at åbne et nyt vindue.</p>
-<p class="p">Når du træder ind i oversigten, så møder du først vinduesoversigten. Her vises live-miniatuerer over alle vinduerne i det nuværende arbejdsområde.</p>
+<p class="p">Når du træder ind i oversigten, så møder du først vinduesoversigten. Her vises live-miniaturer over alle vinduerne i det nuværende arbejdsområde.</p>
 <p class="p">Klik på gitterknappen nederst i favoritområdet for at vise programoversigten. Her vises alle de programmer som er installeret på din computer. Klik på et program for at køre det eller træk et program til oversigten eller hen til en arbejdsområde-miniature. Du kan også trække et program hen på favoritområdet for at gøre det til en favorit. Dine favoritprogrammer bliver på favoritområdet selv når de ikke kører, så du hurtigt kan få adgang til dem.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html.da" title="Start programmer">Læs mere om at starte programmer.</a></span></p></li>
@@ -99,14 +99,14 @@
 </div></div>
 </div></div>
 <div id="appmenu" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Programmenu</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Programmenuen</span></h2></div>
 <div class="region"><div class="contents">
-<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appmenu-shell.png" width="250" class="media media-block" alt="App Menu of Terminal"></div></div>
-<p class="p">Programmenuen findes ved siden af <span class="gui">Aktivitetsoversigt</span>-knappen, og viser navnet på det aktive program samt dets ikon. Den giver hurtig adgang til programindstillinger eller hjælp. Punkterne som findes i programmenuen afhænger af programmet.</p>
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appmenu-shell.png" width="250" class="media media-block" alt="Programmenuen i Terminal"></div></div>
+<p class="p">Programmenuen findes ved siden af <span class="gui">Aktivitetsoversigt</span>-knappen, og viser navnet på det aktive program samt dets ikon og giver hurtig adgang til programindstillinger eller hjælp. Punkterne som findes i programmenuen afhænger af programmet.</p>
 </div></div>
 </div></div>
 <div id="clock" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Ur, kalender &amp; aftaler</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Uret, kalenderen &amp; aftaler</span></h2></div>
 <div class="region"><div class="contents">
 <div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="Ur, kalender, aftaler og påmindelser"></div></div>
 <p class="p">Klik på uret i toplinjen for at se den nuværende dato, en månedskalender, en liste over dine kommende aftaler og nye påmindelser. Du kan også åbne kalenderen ved at trykke på <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>M</kbd></span></span>. Du kan få adgang til indstillingerne for dato og klokkeslæt og åbne din fulde <span class="app">Evolution</span>-kalender direkte fra menuen.</p>
@@ -126,17 +126,17 @@
 </div></div>
 </div></div>
 <div id="lockscreen" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Låseskærm</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Låseskærmen</span></h2></div>
 <div class="region"><div class="contents">
-<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Låseskærm"></div></div>
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-lock.png" width="250" class="media media-block" alt="Låseskærmen"></div></div>
 <p class="p">Når du låser din skærm, eller den låses automatisk, så vises låseskærmen. Udover at beskytte din skærm når du er væk fra din computer, så viser låseskærmen også datoen og klokkeslættet. Den viser også information om dit batteri og netværksstatus.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.da" title="Låseskærmen">Læs mere om låseskærmen.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
 <div id="window-list" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Vinduesliste</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Vindueslisten</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">GNOME bruger en anderledes måde til at skifte vinduer end en vinduesliste som altid er synlig, som det kendes fra andre skrivebordsmiljøer. Det lader dig fokusere på den opgave, du er i gang med, uden at der er forstyrrelser.</p>
+<p class="p">GNOME har en anderledes måde til at skifte vinduer end en vinduesliste som altid er synlig, som det kendes fra andre skrivebordsmiljøer. Det lader dig fokusere på den opgave, du er i gang med, uden at der er forstyrrelser.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html.da" title="Skift mellem vinduer">Læs mere om at skifte vinduer.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></div>
@@ -148,7 +148,7 @@
 <li class="links ">
 <a href="shell-overview.html.da" title="Dit skrivebord">Dit skrivebord</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">Kalender</a></span>, <span class="link"><a href="shell-notifications.html.da" title="Påmindelser og påmindelseslisten">påmindelser</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.da" title="Nyttige tastaturgenveje">tastaturgenveje</a></span>, <span class="link"><a href="shell-windows.html.da" title="Vinduer og arbejdsområder">vinduer og arbejdsområder</a></span> …</span>
 </li>
-<li class="links "><a href="index.html.da" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
+<li class="links "><a href="index.html.da" title="Ubuntu-skrivebordsguide">Ubuntu-skrivebordsguide</a></li>
 </ul></div>
 </div></div></div>
 </div>

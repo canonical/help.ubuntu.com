@@ -74,7 +74,7 @@
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">So drucken Sie in eine Datei:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Drücken Sie den Druckdialog mit <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Öffnen Sie den Druckdialog mit <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps"><p class="p">Wählen Sie <span class="gui">In Datei drucken</span> unter <span class="gui">Drucker</span> im Reiter <span class="gui">Allgemein</span>.</p></li>
 <li class="steps"><p class="p">Um den Vorgabedateinamen und -Ort zu ändern, klicken Sie auf den Dateinamen unterhalb der Druckerauswahl. Klicken Sie auf <span class="gui">Wählen</span> sobald Sie mit Ihrer Wahl fertig sind.</p></li>
 <li class="steps"><p class="p"><span class="sys">PDF</span> ist der Vorgabedateityp für dieses Dokument. Wenn Sie ein anderes <span class="gui">Ausgabeformat</span> wünschen, wählen Sie entweder <span class="sys">Postscript</span> oder <span class="sys">SVG</span>.</p></li>

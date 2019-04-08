@@ -84,9 +84,7 @@
 <li class="steps"><p class="p">如果您的 ISO 镜像在<span class="gui">下载</span>文件夹并且只有一个时，<span class="app">启动盘创建器</span>将预先选择它，否则请选择正确的 ISO 镜像。</p></li>
 <li class="steps"><p class="p">当您的计算机只有一个 USB 闪存驱动器可用时，<span class="app">启动盘创建器</span>将预先选择它，否则请选择正确的驱动器。</p></li>
 <li class="steps"><p class="p">点击<span class="gui">制作启动盘</span>。</p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Yes</span> to confirm. The process should take ten minutes or less.
-      </p></li>
+<li class="steps"><p class="p">点击 <span class="gui">是</span>进行确认。整个过程最多需要十分钟。</p></li>
 <li class="steps"><p class="p">当“安装完成”窗口出现后，请点击<span class="gui">退出</span>。</p></li>
 </ol></div></div></div>
 </div>

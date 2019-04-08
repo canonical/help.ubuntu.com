@@ -84,7 +84,12 @@ Click a parent folder in the path bar to go to that folder. Right-click any
 folder in the path bar to open it in a new tab or window, or access its
 properties.</p>
 <p class="p">Αν θέλετε να <span class="link"><a href="files-search.html.el" title="Αναζήτηση για αρχεία">αναζητήσετε ένα αρχείο</a></span> γρήγορα, σε έναν φάκελο ή κάτω από αυτόν που βλέπετε, αρχίστε να πληκτρολογείτε το όνομα του. Θα εμφανιστεί μια <span class="em">γραμμή αναζήτησης</span> στην κορυφή του παραθύρου και θα εμφανιστούν μόνο τα αρχεία που ταιριάζουν με την αναζήτησή σας. Πατήστε το πλήκτρο <span class="key"><kbd>Esc</kbd></span> για να ακυρώσετε την αναζήτηση.</p>
-<p class="p">Μπορείτε να περιηγηθείτε άμεσα σε κοινές θέσεις από την <span class="em">πλευρική στήλη</span>. Αν δεν μπορείτε να δείτε την πλευρική στήλη, τότε κάντε κλικ στο <span class="gui">Αρχεία</span> στην πάνω γραμμή και έπειτα επιλέξτε <span class="gui">Πλευρική στήλη</span>. Μπορείτε να προσθέσετε σελιδοδείκτες σε φακέλους που χρησιμοποιείτε συχνά ώστε να εμφανιστούν στην πλευρική στήλη. Σύρετε έναν φάκελο στην πλευρική στήλη, και αποθέστε τον στο <span class="gui">Νέος σελιδοδείκτης</span>, το οποίο εμφανίζεται δυναμικά, ή κάντε κλικ στο μενού του παραθύρου και επιλέξτε <span class="gui">Προσθήκη σελιδοδείκτη σε αυτή την τοποθεσία</span>.</p>
+<p class="p">You can quickly access common places from the <span class="em">sidebar</span>. If you do
+not see the sidebar, press the menu button in the top-right corner of the window and then select
+<span class="gui">Sidebar</span>. You can add bookmarks to folders that you use often and
+they will appear in the sidebar. Drag a folder to the sidebar, and drop it over
+<span class="gui">New bookmark</span>, which appears dynamically, or click the current folder
+in the path bar and then select <span class="gui">Add to Bookmarks</span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

@@ -64,28 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Låseskærmen</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">The lock screen means that you can see what is happening while your
-  computer is locked, and it allows you to get a summary of what has been
-  happening while you have been away. The lock screen curtain shows an
-  attractive image on the screen while your computer is locked, and provides
-  useful information:</p>
+<p class="p">Med låseskærmen kan du se hvad der sker mens din computer er låst og den giver dig mulighed for at få en oversigt over, hvad der er sket, mens du har været væk. Låseskærmens gardin viser et fint billede mens din computer er låst og giver nyttige informationer:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">navnet på brugeren, som er logget ind</p></li>
 <li class="list"><p class="p">dato og klokkeslæt, samt bestemte påmindelser</p></li>
 <li class="list"><p class="p">batteri- og netværksstatus</p></li>
 </ul></div></div></div>
-<p class="p">To unlock your computer, raise the lock screen curtain by dragging it
-  upward with the cursor, or by pressing <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
-  This will reveal the login screen, where you can enter your password to
-  unlock. Alternatively, just start typing your password and the curtain will
-  be automatically raised as you type. You can also switch users if your
-  computer is configured for more than one.</p>
+<p class="p">For at låse din computer op skal du løfte låseskærmens gardin ved at trække det op med markøren eller ved at trykke på <span class="key"><kbd>Esc</kbd></span> eller <span class="key"><kbd>Enter</kbd></span>. Så vises loginskærmen, hvor du kan indtaste din adgangskode for at låse op. Alternativt kan du blot skrive din adgangskode, og gardinet løftes automatisk når du skriver. Du kan også skifte bruger, hvis din computer er konfigureret til mere end én bruger.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

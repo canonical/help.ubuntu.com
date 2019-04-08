@@ -78,7 +78,7 @@
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Принтеры</span>.</p></li>
 <li class="steps"><p class="p">Выберите принтер, который будет использоваться по умолчанию, из списка доступных принтеров.</p></li>
-<li class="steps"><p class="p">Нажмите кнопку <span class="gui">Разблокировать</span> в правом верхнем углу и введите свой пароль.</p></li>
+<li class="steps"><p class="p">Нажмите <span class="gui">Разблокировать</span> в верхнем правом углу и затем по запросу системы введите свой пароль.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">Default printer</span> checkbox.</p></li>
 </ol></div></div></div>
 <p class="p">When you print in an application, the default printer is automatically

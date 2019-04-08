@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-email.html.da" title="E-mail &amp; e-mailsoftware">E-mail &amp; e-mailsoftware</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-email.html.da" title="E-mail &amp; e-mailsoftware">E-mail &amp; e-mailsoftware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vælg postprogram som bruges til at skrive e-mails</span></h1></div>
@@ -76,7 +76,7 @@
   mail application installed, the wrong mail application might open up. You
   can fix this by changing which one is the default email application:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Detaljer</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Detaljer</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
       of the window.</p></li>
@@ -89,10 +89,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html.da" title="E-mail &amp; e-mailsoftware">E-mail &amp; e-mailsoftware</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html.da" title="Vælg postprogram som bruges til at skrive e-mails">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html.da" title="Behøver jeg at skanne mine e-mails for virusser?">Should I scan for viruses?</a></span>…
-    </span>
+<a href="net-email.html.da" title="E-mail &amp; e-mailsoftware">E-mail &amp; e-mailsoftware</a><span class="desc"> — <span class="link"><a href="net-default-email.html.da" title="Vælg postprogram som bruges til at skrive e-mails">Standard e-mailprogram</a></span>, <span class="link"><a href="net-email-virus.html.da" title="Behøver jeg at skanne mine e-mails for virusser?">Skal jeg skanne efter virusser?</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -79,8 +79,8 @@
 <li class="steps">
 <p class="p">Klicka på bilden intill ditt namn. Ett rullgardinsgalleri visas som har några inloggningsbilder från en bildbank. Om du tycker om en av dem, klicka på den för att använda den för dig själv.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Om du hellre vill använda en bild du redan har på din dator, klicka på <span class="gui">Bläddra efter fler bilder…</span>.</p></li>
-<li class="list"><p class="p">Om du har en webbkamera kan du nu ta en ny inloggningsbild genom att klicka på <span class="gui">Ta ett foto…</span>. Ta din bild och flytta och ändra storlek på rutan för att beskära de delar som du inte vill ha. Om du inte tycker om bilden du tog, klicka på <span class="gui">Ta ett foto till</span> för att försöka igen, eller <span class="gui">Avbryt</span> för att ge upp.</p></li>
+<li class="list"><p class="p">Om du hellre vill använda en bild du redan har på din dator, klicka på <span class="gui">Välj en fil…</span>.</p></li>
+<li class="list"><p class="p">Om du har en webbkamera kan du nu ta en ny inloggningsbild genom att klicka på <span class="gui">Ta en bild…</span>. Ta din bild och flytta och ändra storlek på rutan för att beskära de delar som du inte vill ha. Om du inte tycker om bilden du tog, klicka på <span class="gui">Ta ett foto till</span> för att försöka igen, eller <span class="gui">Avbryt</span> för att ge upp.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

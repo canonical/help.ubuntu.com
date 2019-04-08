@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Check the battery status</title>
+<title>Tjek batteriets status</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,19 +65,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Check the battery status</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Tjek batteriets status</span></h1></div>
 <div class="region">
 <div class="contents">
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Display the status of the battery and connected devices</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Vis statussen af batteriet og tilsluttede enheder</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Strøm</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Strøm</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Strøm</span> for at åbne panelet. Statussen på kendte enheder vises.</p></li>
 </ol></div>
 </div></div>
@@ -94,11 +94,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.da" title="Power &amp; battery">Power &amp; battery</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.da" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.da" title="What happens when I suspend my computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.da" title="Why does my screen go dim after a while?">screen dimming</a></span>…
-    </span>
+<a href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a><span class="desc"> — <span class="link"><a href="power-status.html.da" title="Tjek batteriets status">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html.da" title="Hvad sker der når jeg sætter min computer i hviletilstand?">hviletilstand</a></span>, <span class="link"><a href="power-whydim.html.da" title="Hvorfor nedtones min skærm efter noget tid?">skærmnedtoning</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

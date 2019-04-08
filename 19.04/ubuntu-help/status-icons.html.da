@@ -64,20 +64,20 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Hvad betyder ikonerne på toplinjen?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the GNOME interface are described.</p>
-<div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="GNOME Shell top bar"></div></div>
+<div class="media media-image floatend"><div class="inner"><img src="figures/top-bar-icons.png" class="media media-block" alt="Toplinjen i GNOME Shell"></div></div>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="status-icons.html.da#universalicons" title="Ikoner for tilgængelighedsmenuen">Ikoner for tilgængelighedsmenuen</a></li>
 <li class="links "><a href="status-icons.html.da#audioicons" title="Ikoner for lydstyrkestyring">Ikoner for lydstyrkestyring</a></li>
 <li class="links "><a href="status-icons.html.da#bluetoothicons" title="Ikoner for Bluetooth-håndtering">Ikoner for Bluetooth-håndtering</a></li>
 <li class="links ">
-<a href="status-icons.html.da#networkicons" title="Ikoner for netværkshåndtering">Ikoner for netværkshåndtering</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+<a href="status-icons.html.da#networkicons" title="Ikoner for netværkshåndtering">Ikoner for netværkshåndtering</a><span class="desc"> — Forklarer betydningen af ikonerne for netværkshåndtering.</span>
 </li>
 <li class="links "><a href="status-icons.html.da#batteryicons" title="Ikoner for strømstyring">Ikoner for strømstyring</a></li>
 </ul></div></div></div>
@@ -86,7 +86,7 @@
 <div class="hgroup"><h2 class="title"><span class="title">Ikoner for tilgængelighedsmenuen</span></h2></div>
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table"><tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/preferences-desktop-accessibility-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Leads to a menu that turns on accessibility settings.</p></td>
+<td><p class="p">Fører til en menu som slår tilgængelighedsindstillinger til.</p></td>
 </tr></table></div></div></div></div></div>
 </div></div>
 <div id="audioicons" class="sect"><div class="inner">
@@ -94,19 +94,19 @@
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-high-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is set to high.</p></td>
+<td><p class="p">Lydstyrken er indstillet til høj.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-medium-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is set to medium.</p></td>
+<td><p class="p">Lydstyrken er indstillet til medium.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-low-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is set to low.</p></td>
+<td><p class="p">Lydstyrken er indstillet til lav.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/audio-volume-muted-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The volume is muted.</p></td>
+<td><p class="p">Lydstyrken er indstillet til stilhed.</p></td>
 </tr>
 </table></div></div></div></div></div>
 </div></div>
@@ -115,11 +115,11 @@
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/bluetooth-active-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Bluetooth has been activated.</p></td>
+<td><p class="p">Bluetooth er aktiveret.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/bluetooth-disabled-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Bluetooth has been disabled.</p></td>
+<td><p class="p">Bluetooth er deaktiveret.</p></td>
 </tr>
 </table></div></div></div></div></div>
 </div></div>
@@ -127,27 +127,27 @@
 <div class="hgroup"><h2 class="title"><span class="title">Ikoner for netværkshåndtering</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p"><span class="app">Mobilforbindelse</span></p>
+<p class="p"><span class="app">Mobilnetværk-forbindelse</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-3g-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a 3G network.</p></td>
+<td><p class="p">Forbundet til et 3G-netværk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-4g-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a 4G network.</p></td>
+<td><p class="p">Forbundet til et 4G-netværk.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-edge-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to an EDGE network.</p></td>
+<td><p class="p">Forbundet til et EDGE-netværk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-gprs-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a GPRS network.</p></td>
+<td><p class="p">Forbundet til et GPRS-netværk.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-umts-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a UMTS network.</p></td>
+<td><p class="p">Forbundet til et UMTS-netværk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-connected-symbolic.svg" class="media media-block" alt=""></div></div></td>
@@ -155,119 +155,119 @@
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-acquiring-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Opretter en mobilnetværksforbindelse.</p></td>
+<td><p class="p">Opretter forbindelse til et mobilnetværk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-excellent-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Very high signal strength.</p></td>
+<td><p class="p">Meget høj signalstyrke.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-good-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">High signal strength.</p></td>
+<td><p class="p">Høj signalstyrke.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-ok-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Medium signal strength.</p></td>
+<td><p class="p">Medium signalstyrke.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-weak-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Low signal strength.</p></td>
+<td><p class="p">Lav signalstyrke.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-cellular-signal-none-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Extremely low signal strength.</p></td>
+<td><p class="p">Ekstrem lav signalstyrke.</p></td>
 </tr>
 </table></div></div></div>
-<p class="p"><span class="app">Local Area Network (LAN) Connection</span></p>
+<p class="p"><span class="app">Forbindelse for lokalt netværk (LAN)</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-error-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">There has been an error in finding the network.</p></td>
+<td><p class="p">Der opstod en fejl ved forsøg på at finde netværket.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-idle-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The network is inactive.</p></td>
+<td><p class="p">Netværket er inaktivt.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-no-route-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">There is no route found for the network.</p></td>
+<td><p class="p">Der blev ikke fundet nogen rute for netværket.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-offline-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The network is offline.</p></td>
+<td><p class="p">Netværket er offline.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-receive-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The network is receiving data.</p></td>
+<td><p class="p">Netværket modtager data.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-transmit-receive-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The network is transmitting and receiving data.</p></td>
+<td><p class="p">Netværket sender og modtager data.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-transmit-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The network is transmitting data.</p></td>
+<td><p class="p">Netværket sender data.</p></td>
 </tr>
 </table></div></div></div>
-<p class="p"><span class="app">Virtual Private Network (VPN) Connection</span></p>
+<p class="p"><span class="app">Forbindelse for virtuelt privat netværk (VPN)</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-vpn-acquiring-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Acquiring a network connection.</p></td>
+<td><p class="p">Opretter forbindelse til et netværk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-vpn-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a VPN network.</p></td>
+<td><p class="p">Forbundet til et VPN-netværk.</p></td>
 </tr>
 </table></div></div></div>
-<p class="p"><span class="app">Wired Connection</span></p>
+<p class="p"><span class="app">Kablet forbindelse</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wired-acquiring-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Acquiring a network connection.</p></td>
+<td><p class="p">Opretter forbindelse til et netværk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wired-disconnected-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Disconnected from the network.</p></td>
+<td><p class="p">Forbindelsen til netværket er afbrudt.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wired-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a wired network.</p></td>
+<td><p class="p">Forbundet til et kablet netværk.</p></td>
 </tr>
 </table></div></div></div>
-<p class="p"><span class="app">Wireless Connection</span></p>
+<p class="p"><span class="app">Trådløs forbindelse</span></p>
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-acquiring-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Acquiring a wireless connection.</p></td>
+<td><p class="p">Opretter trådløs forbindelse.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-encrypted-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The wireless network is encrypted.</p></td>
+<td><p class="p">Det trådløse netværk er krypteret.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-connected-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a wireless network.</p></td>
+<td><p class="p">Forbundet til et trådløst netværk.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-excellent-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Very high signal strength.</p></td>
+<td><p class="p">Meget høj signalstyrke.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-good-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">High signal strength.</p></td>
+<td><p class="p">Høj signalstyrke.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-ok-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Medium signal strength.</p></td>
+<td><p class="p">Medium signalstyrke.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-weak-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Low signal strength.</p></td>
+<td><p class="p">Lav signalstyrke.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/network-wireless-signal-none-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Very low signal strength.</p></td>
+<td><p class="p">Meget lav signalstyrke.</p></td>
 </tr>
 </table></div></div></div>
 </div>
@@ -276,11 +276,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Se også</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.da" title="Opret forbindelse til et trådløst netværk">Connect to Wi-Fi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.da" title="Opret forbindelse til et skjult trådløst netværk">hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.da" title="Hvorfor bliver mit trådløse netværk ved med at afbryde forbindelsen?">Wi-Fi disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.da" title="Opret forbindelse til et trådløst netværk">Opret forbindelse til Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.da" title="Opret forbindelse til et skjult trådløst netværk">skjulte netværk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.da" title="Hvorfor bliver mit trådløse netværk ved med at afbryde forbindelsen?">Wi-Fi afbryder forbindelsen</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>
@@ -291,51 +287,51 @@
 <div class="region"><div class="contents"><div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-full-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is full.</p></td>
+<td><p class="p">Batteriet er fuldt.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-good-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is partially drained.</p></td>
+<td><p class="p">Batteriet er delvist afladet.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-low-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is low.</p></td>
+<td><p class="p">Batteriet er lavt.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-caution-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Caution: The battery is very low.</p></td>
+<td><p class="p">Forsigtig: Batteriet er meget lavt.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-empty-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is extremely low.</p></td>
+<td><p class="p">Batteriet er ekstremt lavt.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-missing-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery has been unplugged.</p></td>
+<td><p class="p">Batteriet er blevet fjernet.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-full-charged-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is fully charged.</p></td>
+<td><p class="p">Batteriet er fuldt opladet.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-full-charging-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is full and charging.</p></td>
+<td><p class="p">Batteriet er fuldt og oplades.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-good-charging-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is partially full and charging.</p></td>
+<td><p class="p">Batteriet er delvist fuldt og oplades.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-low-charging-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is low and charging.</p></td>
+<td><p class="p">Batteriet er lavt og oplades.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-caution-charging-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is very low and charging.</p></td>
+<td><p class="p">Batteriet er meget lavt og oplades.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/battery-empty-charging-symbolic.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is empty and charging.</p></td>
+<td><p class="p">Batteriet er tomt og oplades.</p></td>
 </tr>
 </table></div></div></div></div></div>
 </div></div>

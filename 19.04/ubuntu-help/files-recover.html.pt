@@ -76,7 +76,9 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="app">Ficheiros</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="app">Ficheiros</span> para abrir o gestor de ficheiros.</p></li>
-<li class="steps"><p class="p">Carregue em <span class="gui">Caixote do Lixo</span> em barra-a lateral. Se não vê a barra lateral, carregue o botão <span class="gui">Ficheiros</span> na barra de ferramentas e escolha <span class="gui">Varra lateral</span></p></li>
+<li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
+      press the menu button in the top-right corner of the window and select
+      <span class="gui">Sidebar</span>.</p></li>
 <li class="steps"><p class="p">Se seu ficheiro eliminado está ahi, seleçãoelo e escolha <span class="gui">Restaurar</span>. Se devolverá à diretório da que se eliminou.</p></li>
 </ol></div>
 </div></div>

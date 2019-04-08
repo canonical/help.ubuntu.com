@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="media.html.da#sound" title="Grundlæggende lyd">Lyd</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="media.html.da#sound" title="Grundlæggende lyd">Lyd</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -76,7 +76,7 @@
 <div class="contents">
 <p class="p">There are a number of ways for sound playback to break on your computer. Which of the topics below best describes the problem you are experiencing?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html.da" title="I hear crackling or buzzing when sounds are playing"><span class="title">I hear crackling or buzzing when sounds are playing</span><span class="linkdiv-dash"> — </span><span class="desc">Tjek dine lydkabler og drivere til lydkortet.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-crackle.html.da" title="Jeg hører knitren eller brummelyd når der afspilles lyde"><span class="title">Jeg hører knitren eller brummelyd når der afspilles lyde</span><span class="linkdiv-dash"> — </span><span class="desc">Tjek dine lydkabler og drivere til lydkortet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sound-nosound.html.da" title="Jeg kan ikke høre nogen lyd på computeren"><span class="title">Jeg kan ikke høre nogen lyd på computeren</span><span class="linkdiv-dash"> — </span><span class="desc">Check that the sound is not muted, that cables are plugged in properly,
     and that the sound card is detected.</span></a></div>
 </div></div></div>
@@ -88,11 +88,7 @@
 <div class="region"><ul>
 <li class="links "><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></li>
 <li class="links ">
-<a href="media.html.da#sound" title="Grundlæggende lyd">Grundlæggende lyd</a><span class="desc"> — 
-     <span class="link"><a href="sound-volume.html.da" title="Skift lydstyrken">Volume</a></span>,
-     <span class="link"><a href="sound-usespeakers.html.da" title="Brug andre højttalere eller hovedtelefoner">speakers and headphones</a></span>,
-     <span class="link"><a href="sound-usemic.html.da" title="Brug en anden mikrofon">microphones</a></span>…
-   </span>
+<a href="media.html.da#sound" title="Grundlæggende lyd">Grundlæggende lyd</a><span class="desc"> — <span class="link"><a href="sound-volume.html.da" title="Skift lydstyrken">Lydstyrke</a></span>, <span class="link"><a href="sound-usespeakers.html.da" title="Brug andre højttalere eller hovedtelefoner">højttalere og hovedtelefoner</a></span>, <span class="link"><a href="sound-usemic.html.da" title="Brug en anden mikrofon">mikrofoner</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

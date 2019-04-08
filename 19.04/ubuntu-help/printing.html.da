@@ -64,13 +64,13 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Udskrivning</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.da" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Check the amount of ink or toner left in printer cartridges.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.da" title="Hvordan tjekker jeg min printers blæk- eller tonerniveauer?"><span class="title">Hvordan tjekker jeg min printers blæk- eller tonerniveauer?</span><span class="linkdiv-dash"> — </span><span class="desc">Check the amount of ink or toner left in printer cartridges.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.da" title="Udskriv til fil"><span class="title">Udskriv til fil</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
     it to a printer.</span></a></div>
 </div></div></div></div>
@@ -78,27 +78,27 @@
 <div class="hgroup"><h2 class="title"><span class="title">Opsæt en printer</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.da" title="Opsæt en lokal printer"><span class="title">Opsæt en lokal printer</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a printer that is connected to your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.da" title="Change the name or location of a printer"><span class="title">Change the name or location of a printer</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
-    settings.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.da" title="Opsæt en lokal printer"><span class="title">Opsæt en lokal printer</span><span class="linkdiv-dash"> — </span><span class="desc">Opsæt en printer som er forbundet til din computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.da" title="Indstil standardprinteren"><span class="title">Indstil standardprinteren</span><span class="linkdiv-dash"> — </span><span class="desc">Vælg den printer du bruger mest.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.da" title="Indstil standardprinteren"><span class="title">Indstil standardprinteren</span><span class="linkdiv-dash"> — </span><span class="desc">Vælg den printer du bruger mest.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.da" title="Skift navn eller placering på en printer"><span class="title">Skift navn eller placering på en printer</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
+    settings.</span></a></div></div>
 </div></div></div></div></div>
 </div></div>
 <div id="paper" class="sect"><div class="inner">
 <div class="hgroup"><h2 class="title"><span class="title">Andre papirstørrelser og layouts</span></h2></div>
 <div class="region"><div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.da" title="Change the paper size when printing"><span class="title">Change the paper size when printing</span><span class="linkdiv-dash"> — </span><span class="desc">Print a document on a different paper size or orientation.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html.da" title="Make pages print in a different order"><span class="title">Make pages print in a different order</span><span class="linkdiv-dash"> — </span><span class="desc">Saml sætvis og omvend rækkefølgen på udskriften.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.da" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
-    chosen the correct paper size.</span></a></div>
-</div>
-<div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.da" title="Print two-sided and multi-page layouts"><span class="title">Print two-sided and multi-page layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Print on both sides of the paper, or multiple pages per sheet.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.da" title="Udskriv en brochure/pjece"><span class="title">Udskriv en brochure/pjece</span><span class="linkdiv-dash"> — </span><span class="desc">How to print a folded, multi-page booklet using A4 or Letter-sized
     paper.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.da" title="Udskriv konvolutter"><span class="title">Udskriv konvolutter</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
+    chosen the correct paper size.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-select.html.da" title="Udskriv kun bestemte sider"><span class="title">Udskriv kun bestemte sider</span><span class="linkdiv-dash"> — </span><span class="desc">Print only specific pages, or only a range of pages.</span></a></div>
+</div>
+<div class="links-twocolumn">
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.da" title="Udskriv sider i en anden rækkefølge"><span class="title">Udskriv sider i en anden rækkefølge</span><span class="linkdiv-dash"> — </span><span class="desc">Saml sætvis og omvend rækkefølgen på udskriften.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.da" title="Udskriv tosidet- og multiside-layouts"><span class="title">Udskriv tosidet- og multiside-layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Udskriv på begge sider af papiret eller flere sider pr. ark.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.da" title="Vælg en anden papirstørrelse til udskrivning"><span class="title">Vælg en anden papirstørrelse til udskrivning</span><span class="linkdiv-dash"> — </span><span class="desc">Print a document on a different paper size or orientation.</span></a></div>
 </div>
 </div></div></div></div></div>
 </div></div>
@@ -107,12 +107,11 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.da" title="Cancel, pause or release a print job"><span class="title">Cancel, pause or release a print job</span><span class="linkdiv-dash"> — </span><span class="desc">Cancel a pending print job and remove it from the queue.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.da" title="Clearing a paper jam"><span class="title">Clearing a paper jam</span><span class="linkdiv-dash"> — </span><span class="desc">How you clear a paper jam will depend on the make and model of
+<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.da" title="Annuller, paus eller genoptag et udskrivningsjob"><span class="title">Annuller, paus eller genoptag et udskrivningsjob</span><span class="linkdiv-dash"> — </span><span class="desc">Cancel a pending print job and remove it from the queue.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.da" title="Fjern papir der har sat sig fast"><span class="title">Fjern papir der har sat sig fast</span><span class="linkdiv-dash"> — </span><span class="desc">How you clear a paper jam will depend on the make and model of
     printer that you have.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.da" title="Why are there streaks, lines or the wrong colors on my print-outs?"><span class="title">Why are there streaks, lines or the wrong colors on my
-  print-outs?</span><span class="linkdiv-dash"> — </span><span class="desc">If print-outs are streaky, fading, or missing colors, check your ink
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.da" title="Hvorfor er der striber, linjer eller forkerte farver på det jeg udskriver?"><span class="title">Hvorfor er der striber, linjer eller forkerte farver på det jeg udskriver?</span><span class="linkdiv-dash"> — </span><span class="desc">If print-outs are streaky, fading, or missing colors, check your ink
     levels or clean the print head.</span></a></div></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -129,14 +128,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.da" title="Udskrivning">printers</a></span>,
-      <span class="link"><a href="power.html.da" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.da" title="Farvestyring">color management</a></span>,
-      <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html.da" title="Diske &amp; lager">disks</a></span>…
-    </span>
+<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></span>, <span class="link"><a href="printing.html.da" title="Udskrivning">printere</a></span>, <span class="link"><a href="power.html.da" title="Strøm &amp; batteri">strømindstillinger</a></span>, <span class="link"><a href="color.html.da" title="Farvestyring">farvestyring</a></span>, <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.da" title="Diske &amp; lager">diske</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

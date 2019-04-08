@@ -79,8 +79,8 @@
 <li class="steps">
 <p class="p">Klikněte na obrázek vedle svého jména. Rozbalí se galerie se standardními přihlašovacími obrázky. Jestli pro sebe chcete některý z nich, stačí na něj kliknout.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Pokud byste raději použili obrázek, který již máte v počítači, klikněte na <span class="gui">Procházet další obrázky…</span></p></li>
-<li class="list"><p class="p">Pokud máte webovou kameru, můžete si ihned pořídit svoji fotografii kliknutím na <span class="gui">Pořídit fotografii</span>. Pořídí se snímek, na kterém potom na požadované místo posuňte obrys čtverce a upravte jeho velikost, abyste vyřízli část, kterou potřebujete. V případě, že se vám pořízený snímek nelíbí, proveďte buď nový pokus kliknutím na <span class="gui">Pořídit jiný snímek</span> nebo to kliknutím na <span class="gui">Zrušit</span> skončete.</p></li>
+<li class="list"><p class="p">Pokud byste raději použili obrázek, který již máte v počítači, klikněte na <span class="gui">Vybrat soubor…</span></p></li>
+<li class="list"><p class="p">Pokud máte webovou kameru, můžete si ihned pořídit svoji fotografii kliknutím na <span class="gui">Pořídit fotografii…</span> Pořídí se snímek, na kterém potom na požadované místo posuňte obrys čtverce a upravte jeho velikost, abyste vyřízli část, kterou potřebujete. V případě, že se vám pořízený snímek nelíbí, proveďte buď nový pokus kliknutím na <span class="gui">Pořídit jiný snímek</span> nebo to kliknutím na <span class="gui">Zrušit</span> skončete.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

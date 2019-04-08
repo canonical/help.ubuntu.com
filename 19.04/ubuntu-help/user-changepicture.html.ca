@@ -79,8 +79,14 @@
 <li class="steps">
 <p class="p">Feu clic a la foto al costat del vostre nom. Es mostrarà una galeria desplegable amb algunes fotos d'inici de sessió d'existents. Si us n'agrada alguna, feu-hi clic per utilitzar-la.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Si preferiu utilitzar una imatge que ja teniu a l'ordinador, feu clic a <span class="gui">Cerca més imatges…</span>.</p></li>
-<li class="list"><p class="p">Si teniu una càmera web, podeu fer una nova foto d'inici de sessió fent clic a <span class="gui">Fer una foto…</span>. Feu la vostra foto i, a continuació, moveu i canvieu la mida dels límits del quadrat per retallar les parts que no vulgueu. Si no us agrada la imatge que heu pres, feu clic a <span class="gui">Fer una altra foto</span> per intentar-ho de nou, o <span class="gui">Cancel·la</span> per deixar-ho estar.</p></li>
+<li class="list"><p class="p">If you would rather use a picture you already have on your
+          computer, click <span class="gui">Select a file…</span>.</p></li>
+<li class="list"><p class="p">If you have a webcam, you can take a new login photo right now by
+          clicking <span class="gui">Take a picture…</span>. Take your
+          picture, then move and resize the square outline to crop out the
+          parts you do not want. If you do not like the picture you took, click
+          <span class="gui">Take Another Picture</span> to try again, or
+          <span class="gui">Cancel</span> to give up.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

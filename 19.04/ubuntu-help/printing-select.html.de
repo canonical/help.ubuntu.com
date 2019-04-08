@@ -72,7 +72,7 @@
 <div class="contents">
 <p class="p">So drucken Sie nur bestimmte Seiten eines Dokuments:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Drücken Sie den Druckdialog mit <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Öffnen Sie den Druckdialog mit <span class="keyseq"><span class="key"><kbd>Strg</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps"><p class="p">Wählen Sie im Reiter <span class="gui">Allgemein</span> des Druckfensters <span class="gui">Seiten</span> im Abschnitt <span class="gui">Bereich</span>.</p></li>
 <li class="steps"><p class="p">Geben Sie die zu druckenden Seitennummern in das Textfeld ein, durch Kommata getrennt. Verwenden Sie einen Bindestrich, um einen Seitenbereich anzugeben.</p></li>
 </ol></div></div></div>

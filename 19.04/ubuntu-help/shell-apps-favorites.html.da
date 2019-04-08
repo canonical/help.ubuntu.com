@@ -64,26 +64,22 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#desktop" title="Tilpas dit skrivebord">Tilpas dit skrivebord</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#desktop" title="Tilpas dit skrivebord">Tilpas dit skrivebord</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fastgør dine favoritprogrammer til favoritområdet</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">To add an application to the <span class="link"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">dash</a></span>
-  for easy access:</p>
+<p class="p">Tilføj et program til <span class="link"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">favoritområdet</a></span> for let adgang:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> ved at klikke på <span class="gui">Aktiviteter</span> øverst til venstre på skærmen</p></li>
-<li class="steps"><p class="p">Click the grid button in the dash and find the application you want to
-      add.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> ved at klikke på <span class="gui">Aktiviteter</span> øverst til venstre på skærmen</p></li>
+<li class="steps"><p class="p">Klik på gitterknappen i favoritområdet og find det program, du vil tilføje.</p></li>
 <li class="steps">
-<p class="p">Right-click the application icon and select <span class="gui">Add to
-      Favorites</span>.</p>
-<p class="p">Alternatively, you can click-and-drag the icon into the dash.</p>
+<p class="p">Højreklik på programikonet og vælg <span class="gui">Føj til favoritter</span>.</p>
+<p class="p">Alternativt kan du klikke-og-trække ikonet til favoritområdet.</p>
 </li>
 </ol></div></div></div>
-<p class="p">To remove an application icon from the dash, right-click the application
-  icon and select <span class="gui">Remove from Favorites</span>.</p>
+<p class="p">For at fjerne et programikon fra favoritområdet skal du højreklikke på programikonet og vælge <span class="gui">Fjern fra favoritter</span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

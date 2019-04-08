@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Users</a> › <a class="trail" href="user-accounts.html.da#manage" title="Håndter brugerkonti">Konti</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Brugere</a> › <a class="trail" href="user-accounts.html.da#manage" title="Håndter brugerkonti">Konti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Skift billedet på din loginskærm</span></h1></div>
@@ -74,10 +74,10 @@
   their login photos. You can change your photo to a stock image or an
   image of your own. You can even take a new login photo with your
   webcam.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.da" title="How do administrative privileges work?">administrator privileges</a></span>
+<p class="p">You need <span class="link"><a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">administrator privileges</a></span>
   to edit user accounts other than your own.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Brugere</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Brugere</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">If you want to edit a user other than yourself, press
       <span class="gui">Unlock</span> in the top right corner and type in your
@@ -88,9 +88,9 @@
       for yourself.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">If you would rather use a picture you already have on your
-          computer, click <span class="gui">Browse for more pictures…</span>.</p></li>
+          computer, click <span class="gui">Select a file…</span>.</p></li>
 <li class="list"><p class="p">If you have a webcam, you can take a new login photo right now by
-          clicking <span class="gui">Take a photo…</span>. Take your
+          clicking <span class="gui">Take a picture…</span>. Take your
           picture, then move and resize the square outline to crop out the
           parts you do not want. If you do not like the picture you took, click
           <span class="gui">Take Another Picture</span> to try again, or
@@ -109,7 +109,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html.da" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
+<a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">Hvordan virker administrative rettigheder?</a><span class="desc"> — You need administrative privileges to change important parts of your
     system.</span>
 </li></ul></div>
 </div></div>

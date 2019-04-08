@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do administrative privileges work?</title>
+<title>Hvordan virker administrative rettigheder?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Users</a> › <a class="trail" href="user-accounts.html.da#privileges" title="Brugerpriviliger">Privileges</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Brugere</a> › <a class="trail" href="user-accounts.html.da#privileges" title="Brugerrettigheder">Rettigheder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How do administrative privileges work?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvordan virker administrative rettigheder?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">As well as the files that <span class="em">you</span> create, your computer has a number
@@ -130,7 +130,7 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html.da#privileges" title="Brugerpriviliger">Brugerpriviliger</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.da#privileges" title="Brugerrettigheder">Brugerrettigheder</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
@@ -139,29 +139,28 @@
 <a href="net-othersedit.html.da" title="Andre brugere kan ikke redigere netværksforbindelserne">Andre brugere kan ikke redigere netværksforbindelserne</a><span class="desc"> — You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span>
 </li>
 <li class="links ">
-<a href="printing-name-location.html.da" title="Change the name or location of a printer">Change the name or location of a printer</a><span class="desc"> — Change the name or location of a printer in the printer
-    settings.</span>
-</li>
-<li class="links ">
-<a href="user-admin-change.html.da" title="Change who has administrative privileges">Change who has administrative privileges</a><span class="desc"> — You can allow users to make changes to the system by giving them
-    administrative privileges.</span>
-</li>
-<li class="links ">
 <a href="printing-setup-default-printer.html.da" title="Indstil standardprinteren">Indstil standardprinteren</a><span class="desc"> — Vælg den printer du bruger mest.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html.da" title="Problemer som er forårsaget af administrative restriktioner">Problemer som er forårsaget af administrative restriktioner</a><span class="desc"> — You can do some things, like installing applications, only if you
-    have administrative privileges.</span>
+<a href="user-admin-problems.html.da" title="Problemer som er forårsaget af administrative restriktioner">Problemer som er forårsaget af administrative restriktioner</a><span class="desc"> — Nogen ting kan kun gøres hvis du har administrative rettigheder, såsom installation af programmer.</span>
 </li>
 <li class="links ">
-<a href="user-changepicture.html.da" title="Skift billedet på din loginskærm">Skift billedet på din loginskærm</a><span class="desc"> — Add your photo to the login and user screens.</span>
+<a href="user-changepicture.html.da" title="Skift billedet på din loginskærm">Skift billedet på din loginskærm</a><span class="desc"> — Tilføj dit billede til login- og brugerskærmene.</span>
 </li>
 <li class="links ">
 <a href="user-changepassword.html.da" title="Skift din adgangskode">Skift din adgangskode</a><span class="desc"> — Keep your account secure by changing your password often in your
     account settings.</span>
 </li>
 <li class="links ">
-<a href="user-delete.html.da" title="Slet en brugerkonto">Slet en brugerkonto</a><span class="desc"> — Remove users that no longer use your computer.</span>
+<a href="printing-name-location.html.da" title="Skift navn eller placering på en printer">Skift navn eller placering på en printer</a><span class="desc"> — Change the name or location of a printer in the printer
+    settings.</span>
+</li>
+<li class="links ">
+<a href="user-delete.html.da" title="Slet en brugerkonto">Slet en brugerkonto</a><span class="desc"> — Fjern brugere som ikke længere bruger din computer.</span>
+</li>
+<li class="links ">
+<a href="user-admin-change.html.da" title="Vælg hvem der har administrative rettigheder">Vælg hvem der har administrative rettigheder</a><span class="desc"> — You can allow users to make changes to the system by giving them
+    administrative privileges.</span>
 </li>
 </ul></div>
 </div></div>

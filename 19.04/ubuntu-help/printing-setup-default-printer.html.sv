@@ -76,7 +76,7 @@
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Välj din önskade standardskrivare från listan av tillgängliga skrivare.</p></li>
-<li class="steps"><p class="p">Klicka på knappen <span class="gui">Lås upp</span> i övre högra hörnet och mata in ditt lösenord.</p></li>
+<li class="steps"><p class="p">Tryck på <span class="gui">Lås upp</span> i övre högra hörnet och skriv in ditt lösenord när du blir tillfrågad.</p></li>
 <li class="steps"><p class="p">Välj kryssrutan <span class="gui">Standardskrivare</span>.</p></li>
 </ol></div></div></div>
 <p class="p">När du skriver ut i ett program kommer standardskrivaren automatiskt att användas, om du inte väljer en annan skrivare.</p>

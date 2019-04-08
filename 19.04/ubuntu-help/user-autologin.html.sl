@@ -78,7 +78,8 @@
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the user account that you want to log in to automatically at
       startup.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> and enter your password.</p></li>
+<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
+      type in your password when prompted.</p></li>
 <li class="steps"><p class="p">Toggle the <span class="gui">Automatic Login</span> switch to <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
 <p class="p">When you next start up your computer, you will be logged in automatically.

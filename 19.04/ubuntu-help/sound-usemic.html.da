@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="media.html.da#sound" title="Grundlæggende lyd">Lyd</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="media.html.da#sound" title="Grundlæggende lyd">Lyd</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Brug en anden mikrofon</span></h1></div>
@@ -85,10 +85,10 @@
   computer. USB microphones act as separate audio devices, and you may
   have to specify which microphone to use by default.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Select a default audio input device</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Vælg en standardenhed til lydinput</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Lyd</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sound</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Lyd</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Lyd</span> for at åbne panelet.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Input</span> tab, select the device that you want to use.
       The input level indicator should respond when you speak.</p></li>
 </ol></div>
@@ -102,11 +102,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html.da#sound" title="Grundlæggende lyd">Grundlæggende lyd</a><span class="desc"> — 
-     <span class="link"><a href="sound-volume.html.da" title="Skift lydstyrken">Volume</a></span>,
-     <span class="link"><a href="sound-usespeakers.html.da" title="Brug andre højttalere eller hovedtelefoner">speakers and headphones</a></span>,
-     <span class="link"><a href="sound-usemic.html.da" title="Brug en anden mikrofon">microphones</a></span>…
-   </span>
+<a href="media.html.da#sound" title="Grundlæggende lyd">Grundlæggende lyd</a><span class="desc"> — <span class="link"><a href="sound-volume.html.da" title="Skift lydstyrken">Lydstyrke</a></span>, <span class="link"><a href="sound-usespeakers.html.da" title="Brug andre højttalere eller hovedtelefoner">højttalere og hovedtelefoner</a></span>, <span class="link"><a href="sound-usemic.html.da" title="Brug en anden mikrofon">mikrofoner</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="bluetooth.html.da" title="Bluetooth">Bluetooth</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="bluetooth.html.da" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fjern en Bluetooth-enhed</span></h1></div>
@@ -75,7 +75,7 @@
   like a mouse or headset, or if you no longer wish to transfer files to or
   from a device.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Bluetooth</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select the device which you want to disconnect from the list.</p></li>
 <li class="steps"><p class="p">In the device dialog box, switch <span class="gui">Connection</span> to
@@ -91,17 +91,13 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a><span class="desc"> — 
-      <span class="link"><a href="bluetooth-connect-device.html.da" title="Tilslut din computer til en Bluetooth-enhed">Connect</a></span>,
-      <span class="link"><a href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed">send files</a></span>,
-      <span class="link"><a href="bluetooth-turn-on-off.html.da" title="Slå Bluetooth til eller fra">turn on and off</a></span>…
-    </span>
+<a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a><span class="desc"> — <span class="link"><a href="bluetooth-connect-device.html.da" title="Tilslut din computer til en Bluetooth-enhed">Opret forbindelse</a></span>, <span class="link"><a href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed">send filer</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.da" title="Slå Bluetooth til eller fra">slå til og fra</a></span> …</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-connect-device.html.da" title="Tilslut din computer til en Bluetooth-enhed">Tilslut din computer til en Bluetooth-enhed</a><span class="desc"> — Pair Bluetooth devices.</span>
+<a href="bluetooth-connect-device.html.da" title="Tilslut din computer til en Bluetooth-enhed">Tilslut din computer til en Bluetooth-enhed</a><span class="desc"> — Parring af Bluetooth-enheder.</span>
 </li></ul></div>
 </div></div>
 </div>

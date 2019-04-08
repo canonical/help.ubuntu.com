@@ -64,23 +64,16 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-windows" title="Arbejd med vinduer">Windows</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-windows" title="Arbejd med vinduer">Vinduer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Fliselæg vinduer</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can maximize a window on only the left or right side of the screen,
-  allowing you to place two windows side-by-side to quickly switch between
-  them.</p>
-<p class="p">To maximize a window along a side of the screen, grab the titlebar and
-  drag it to the left or right side until half of the screen is highlighted.
-  Using the keyboard, hold down <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span> and
-  press the <span class="key"><kbd>Left</kbd></span> or <span class="key"><kbd>Right</kbd></span> key.</p>
-<p class="p">To restore a window to its original size, drag it away from the side of
-  the screen, or use the same keyboard shortcut you used to maximize.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Hold down the <span class="key"><kbd>Super</kbd></span> key and drag anywhere in a window to move
-    it.</p></div></div></div></div>
+<p class="p">Du kan kun maksimere et vindue på den venstre eller højre side af skærmen, og dermed placere to vinduer side om side, så du hurtigt kan skifte mellem dem.</p>
+<p class="p">For at maksimere et vindue langs en af skærmens sider, skal du tage fat i titellinjen, og trække det til den venstre eller højre side indtil skærmen fremhæves. Med tastaturet skal du holde <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span> nede og trykke på <span class="key"><kbd>Venstre</kbd></span>- eller <span class="key"><kbd>Højre</kbd></span>-tasten.</p>
+<p class="p">For at gendanne et vindue til sin oprindelige størrelse, skal du trække det væk fra skærmens side eller bruge den samme tastaturgenvej som du brugte til at maksimere.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Hold <span class="key"><kbd>Super</kbd></span>-tasten nede og træk, hvor som helst, i vinduet for at flytte det.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -92,8 +85,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-maximize.html.da" title="Maksimer og afmaksimer et vindue">Maksimer og afmaksimer et vindue</a><span class="desc"> — Double-click or drag a titlebar to maximize or restore a
-    window.</span>
+<a href="shell-windows-maximize.html.da" title="Maksimér og afmaksimér et vindue">Maksimér og afmaksimér et vindue</a><span class="desc"> — Dobbeltklik eller træk en titellinje for at maksimere eller gendanne et vindue.</span>
 </li></ul></div>
 </div></div>
 </div>

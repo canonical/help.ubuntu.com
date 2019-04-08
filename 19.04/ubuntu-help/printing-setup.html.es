@@ -81,8 +81,8 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Impresoras</span>.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Impresoras</span>.</p></li>
-<li class="steps"><p class="p">Pulse el botón <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña.</p></li>
-<li class="steps"><p class="p">Pulse el botón <span class="gui">+</span>.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña cuando se le pida.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Add a Printer…</span> button.</p></li>
 <li class="steps"><p class="p">En la ventana emergente, seleccione su impresora y pulse <span class="gui">Añadir</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Si su impresora no aparece en la ventana Añadir impresora, puede necesitar instalar los controladores de la impresora.</p>

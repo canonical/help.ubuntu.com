@@ -71,9 +71,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.sl" title="Install additional applications"><span class="title">
-    Install additional applications
-  </span><span class="linkdiv-dash"> — </span><span class="desc">
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.sl" title="Namestite dodatne programe"><span class="title">Namestite dodatne programe</span><span class="linkdiv-dash"> — </span><span class="desc">
       Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
       useful.
     </span></a></div>
@@ -93,12 +91,8 @@
 </div>
 <div class="links-twocolumn">
 <div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.sl" title="Uporaba programa Synaptic za naprednejše upravljanje programov"><span class="title">Uporaba programa Synaptic za naprednejše upravljanje programov</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic je zmogljiv a zapleten nadomestek <span class="app">Programov Ubuntu</span> za upravljanje programov.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.sl" title="Create a startup disk"><span class="title">
-    Create a startup disk
-  </span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
-    </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html.sl" title="Namestite jezike"><span class="title">Namestite jezike</span><span class="linkdiv-dash"> — </span><span class="desc">Namestite več prevodov in povezane podporne pakete jezika.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.sl" title="Ustvarite zagonski disk"><span class="title">Ustvarite zagonski disk</span><span class="linkdiv-dash"> — </span><span class="desc">Pretvorite pomnilniško napravo USB v nosilec, s katerim boste lahko zagnali in namestili Ubuntu.</span></a></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">

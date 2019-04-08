@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Opsæt automatisk hvile</title>
+<title>Opsæt automatisk hviletilstand</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -65,19 +65,19 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.da#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a> › <a class="trail" href="power.html.da#saving" title="Power saving settings">Power saving settings</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="power.html.da" title="Power &amp; battery">Power &amp; battery</a> › <a class="trail" href="power.html.da#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a> › <a class="trail" href="power.html.da#saving" title="Power saving settings">Power saving settings</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Opsæt automatisk hvile</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Opsæt automatisk hviletilstand</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can configure your computer to automatically suspend when idle.
   Different intervals can be specified for running on battery or plugged in.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Strøm</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Strøm</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Suspend &amp; Power Button</span> section, click
       <span class="gui">Automatic suspend</span>.</p></li>
@@ -100,10 +100,10 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="shell-exit.html.da#suspend" title="Hvile">Hvile</a></li>
 <li class="links ">
-<a href="power-suspend.html.da" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
+<a href="power-suspend.html.da" title="Hvad sker der når jeg sætter min computer i hviletilstand?">Hvad sker der når jeg sætter min computer i hviletilstand?</a><span class="desc"> — Hviletilstand får din computer til at sove, så den bruger mindre strøm.</span>
 </li>
+<li class="links "><a href="shell-exit.html.da#suspend" title="Hviletilstand">Hviletilstand</a></li>
 </ul></div>
 </div></div>
 </div>

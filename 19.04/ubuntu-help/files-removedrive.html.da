@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#removable" title="Flytbare drev og eksterne diske">Flytbare drev og eksterne diske</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#removable" title="Flytbare drev og eksterne diske">Flytbare drev og eksterne diske</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Sikker fjernelse af eksternt drev</span></h1></div>
@@ -77,9 +77,9 @@
   When you use an optical disc like a CD or DVD, you can use the same steps
   to eject the disc from your computer.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To eject a removable device:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Skub en flytbar enhed ud:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">From the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> overview,
+<li class="steps"><p class="p">From the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Activities</a></span> overview,
       open <span class="app">Files</span>.</p></li>
 <li class="steps">
 <p class="p">Locate the device in the sidebar. It should have a small eject icon

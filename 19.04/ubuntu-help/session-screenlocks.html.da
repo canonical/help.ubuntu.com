@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="hardware-problems-graphics.html.da" title="Skærmproblemer">Skærmproblemer</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="prefs-display.html.da" title="Visning &amp; skærm">Visning &amp; skærm</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-display.html.da" title="Display &amp; screen">Display &amp; screen</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » <a class="trail" href="hardware-problems-graphics.html.da" title="Skærmproblemer">Skærmproblemer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -81,7 +81,7 @@
   screen locks itself too quickly.</p>
 <p class="p">To wait a longer period before the screen is automatically locked:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Privatliv</span> i sidebjælken for at åbne panelet.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Screen Lock</span>.</p></li>
@@ -98,31 +98,23 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html.da" title="Display &amp; screen">Display &amp; screen</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.da" title="Skift baggrunde på skrivebordet og låseskærmen">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.da" title="Skift opløsningen eller orienteringen af skærmen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.da" title="Indstil skærmens lysstyrke">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.da" title="Justér farvetemperaturen på din skærm">color temperature</a></span>…
-    </span>
+<a href="hardware-problems-graphics.html.da" title="Skærmproblemer">Skærmproblemer</a><span class="desc"> — Fejlsøg problemer med skærm og grafikkort.</span>
 </li>
 <li class="links ">
-<a href="hardware-problems-graphics.html.da" title="Skærmproblemer">Skærmproblemer</a><span class="desc"> — 
-      Troubleshoot screen and graphics problems.
-    </span>
+<a href="prefs-display.html.da" title="Visning &amp; skærm">Visning &amp; skærm</a><span class="desc"> — <span class="link"><a href="look-background.html.da" title="Skift baggrunde på skrivebordet og låseskærmen">Baggrund</a></span>, <span class="link"><a href="look-resolution.html.da" title="Skift opløsningen eller orienteringen af skærmen">størrelse og orientering</a></span>, <span class="link"><a href="display-brightness.html.da" title="Indstil skærmens lysstyrke">lysstyrke</a></span>, <span class="link"><a href="display-night-light.html.da" title="Justér farvetemperaturen på din skærm">farvetemperatur</a></span> …</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
+<li class="links ">
+<a href="display-blank.html.da" title="Indstil tiden for sort skærm">Indstil tiden for sort skærm</a><span class="desc"> — Change the screen blanking time to save power.</span>
+</li>
+<li class="links ">
+<a href="privacy-screen-lock.html.da" title="Lås din skærm automatisk">Lås din skærm automatisk</a><span class="desc"> — Forhindr andre i at bruge dit skrivebord, når du er væk fra din computer.</span>
+</li>
 <li class="links "><a href="shell-exit.html.da#lock-screen" title="Lås skærmen">Lås skærmen</a></li>
-<li class="links ">
-<a href="privacy-screen-lock.html.da" title="Låser skærmen automatisk">Låser skærmen automatisk</a><span class="desc"> — Prevent other people from using your desktop when you
-    go away from your computer.</span>
-</li>
-<li class="links ">
-<a href="display-blank.html.da" title="Set screen blanking time">Set screen blanking time</a><span class="desc"> — Change the screen blanking time to save power.</span>
-</li>
 </ul></div>
 </div></div>
 </div>

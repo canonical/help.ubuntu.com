@@ -71,11 +71,6 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="disk-resize.html.sl" title="Adjust the size of a filesystem"><span class="title">Adjust the size of a filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.sl" title="Create a startup disk"><span class="title">
-    Create a startup disk
-  </span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
-    </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.sl" title="Izberite hitrost delovanja svojega trdega diska"><span class="title">Izberite hitrost delovanja svojega trdega diska</span><span class="linkdiv-dash"> — </span><span class="desc">Poženete lahko preizkuse trdega diska in preverite kako hiter je.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html.sl" title="Odstranitev vsega z odstranljivega diska"><span class="title">Odstranitev vsega z odstranljivega diska</span><span class="linkdiv-dash"> — </span><span class="desc">Odstranite vse datoteke in mape iz zunanjega trdega diska ali USB ključka s formatiranjem.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.sl" title="Preverjanje koliko prostora na disku je ostalo"><span class="title">Preverjanje koliko prostora na disku je ostalo</span><span class="linkdiv-dash"> — </span><span class="desc">S <span class="gui">Preučevalnikom porabe diska</span> ali <span class="gui">Nadzornikom sistema</span> lahko preverite razpoložljiv prostor in zmogljivost.</span></a></div>
@@ -83,6 +78,7 @@
 <div class="linkdiv "><a class="linkdiv" href="disk-repair.html.sl" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
           state.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.sl" title="Upravljanje nosilcev in razdelkov"><span class="title">Upravljanje nosilcev in razdelkov</span><span class="linkdiv-dash"> — </span><span class="desc">Naučite se kaj so nosilci in diski in uporabiti diskovna orodja za njihovo upravljanje.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.sl" title="Ustvarite zagonski disk"><span class="title">Ustvarite zagonski disk</span><span class="linkdiv-dash"> — </span><span class="desc">Pretvorite pomnilniško napravo USB v nosilec, s katerim boste lahko zagnali in namestili Ubuntu.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

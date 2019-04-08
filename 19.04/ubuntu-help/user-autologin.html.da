@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Log ind automatisk</title>
+<title>Automatisk indlogning</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,20 +64,19 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Users</a> › <a class="trail" href="user-accounts.html.da#manage" title="Håndter brugerkonti">Konti</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Brugere</a> › <a class="trail" href="user-accounts.html.da#manage" title="Håndter brugerkonti">Konti</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Log ind automatisk</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Automatisk indlogning</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You can change your settings so that you are automatically logged in to
   your account when you start up your computer:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Brugere</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Brugere</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Select the user account that you want to log in to automatically at
-      startup.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> and enter your password.</p></li>
+<li class="steps"><p class="p">Vælg brugerkontoen som automatisk skal logge ind ved opstart.</p></li>
+<li class="steps"><p class="p">Tryk på <span class="gui">Lås op</span> i øverste højre hjørne og skriv din adgangskode, når du bliver spurgt.</p></li>
 <li class="steps"><p class="p">Toggle the <span class="gui">Automatic Login</span> switch to <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
 <p class="p">When you next start up your computer, you will be logged in automatically.
@@ -99,7 +98,7 @@
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-exit.html.da" title="Log ud, sluk eller skift bruger">Log ud, sluk eller skift bruger</a><span class="desc"> — Lær at forlade din brugerkonto ved at logge ud, skifte bruger osv.</span>
+<a href="shell-exit.html.da" title="Log ud, sluk eller skift bruger">Log ud, sluk eller skift bruger</a><span class="desc"> — Læs om at forlade din brugerkonto ved at logge ud, skifte bruger osv.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Wacom Graphics Tablet</title>
+<title>Wacom-tegneplade</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,15 +64,15 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Wacom Graphics Tablet</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Wacom-tegneplade</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.da" title="Brug tegnepladen venstrehåndet"><span class="title">Brug tegnepladen venstrehåndet</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.da" title="Indstil Wacom-tegnepladens sporingstilstand"><span class="title">Indstil Wacom-tegnepladens sporingstilstand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the tablet between tablet mode and mouse mode.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.da" title="Konfigurer pennen"><span class="title">Konfigurer pennen</span><span class="linkdiv-dash"> — </span><span class="desc">Define the button functions and pressure feel of the Wacom stylus.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.da" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the tablet between tablet mode and mouse mode.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.da" title="Vælg en skærm"><span class="title">Vælg en skærm</span><span class="linkdiv-dash"> — </span><span class="desc">Map the Wacom tablet to a specific monitor.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -80,13 +80,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.da" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.da" title="Tastatur">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.da" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">user accounts</a></span>…
-    </span>
+<a href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Bruger- &amp; systemindstillinger</a><span class="desc"> — <span class="link"><a href="keyboard.html.da" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mus &amp; pegeplade</a></span>, <span class="link"><a href="prefs-display.html.da" title="Visning &amp; skærm">skærm</a></span>, <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">sprog</a></span>, <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">brugerkonti</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

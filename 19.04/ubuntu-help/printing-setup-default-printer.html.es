@@ -76,7 +76,7 @@
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Impresoras</span>.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Impresoras</span>.</p></li>
 <li class="steps"><p class="p">Seleccione la impresora predeterminada de la lista de impresoras disponibles.</p></li>
-<li class="steps"><p class="p">Pulse el botón <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña.</p></li>
+<li class="steps"><p class="p">Pulse <span class="gui">Desbloquear</span> en la esquina superior derecha e introduzca su contraseña cuando se le pida.</p></li>
 <li class="steps"><p class="p">Seleccione la casilla <span class="gui">Impresora predeterminada</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Al imprimir en una aplicación, se utiliza automáticamente la impresora predeterminada, a menos que elija una impresora dife.</p>

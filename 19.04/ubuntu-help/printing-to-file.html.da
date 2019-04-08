@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="printing.html.da" title="Udskrivning">Udskrivning</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Udskriv til fil</span></h1></div>
@@ -76,7 +76,7 @@
   This can be useful if you want to transfer the document to another machine
   or to share it with someone.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To print to file:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Udskriv til fil:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the print dialog by pressing
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
@@ -96,12 +96,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html.da" title="Udskrivning">Udskrivning</a><span class="desc"> — 
-      <span class="link"><a href="printing-setup.html.da" title="Opsæt en lokal printer">Local setup</a></span>,
-      
-      <span class="link"><a href="printing-order.html.da" title="Make pages print in a different order">order and collate</a></span>,
-      <span class="link"><a href="printing-2sided.html.da" title="Print two-sided and multi-page layouts">two-sided and multi-page</a></span>…
-    </span>
+<a href="printing.html.da" title="Udskrivning">Udskrivning</a><span class="desc"> — <span class="link"><a href="printing-setup.html.da" title="Opsæt en lokal printer">Lokal opsætning</a></span>, <span class="link"><a href="printing-order.html.da" title="Udskriv sider i en anden rækkefølge">rækkefølge og sætvis udskrift</a></span>, <span class="link"><a href="printing-2sided.html.da" title="Udskriv tosidet- og multiside-layouts">tosidet og multiside</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

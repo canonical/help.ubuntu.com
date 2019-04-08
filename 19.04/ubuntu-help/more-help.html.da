@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Get more help</title>
+<title>Få mere hjælp</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Get more help</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Få mere hjælp</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">
@@ -75,17 +75,17 @@
   </p>
 <div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.da" title="Om denne vejledning"><span class="title">Om denne vejledning</span><span class="linkdiv-dash"> — </span><span class="desc">Et par tips om at bruge Ubuntu Desktop Guiden.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="get-involved.html.da" title="Participate to improve this guide"><span class="title">Participate to improve this guide</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to report problems with these help topics.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.da" title="Om denne vejledning"><span class="title">Om denne vejledning</span><span class="linkdiv-dash"> — </span><span class="desc">Et par tips om at bruge Ubuntu-skrivebordsguiden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html.da" title="Report a problem in Ubuntu"><span class="title">Report a problem in Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to report problems with Ubuntu.</span></a></div>
 </div>
-<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html.da" title="Report a problem in Ubuntu"><span class="title">Report a problem in Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to report problems with Ubuntu.</span></a></div></div>
+<div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="get-involved.html.da" title="Vær med til at forbedre guiden"><span class="title">Vær med til at forbedre guiden</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to report problems with these help topics.</span></a></div></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html.da" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.da" title="Ubuntu-skrivebordsguide">Ubuntu-skrivebordsguide</a></li></ul></div>
 </div></div></div>
 </div>
 </div>

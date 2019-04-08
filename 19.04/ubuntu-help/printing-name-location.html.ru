@@ -82,7 +82,7 @@
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Нажмите кнопку <span class="gui">Разблокировать</span> в правом верхнем углу и введите свой пароль.</p></li>
+<li class="steps"><p class="p">Нажмите <span class="gui">Разблокировать</span> в верхнем правом углу и затем по запросу системы введите свой пароль.</p></li>
 <li class="steps"><p class="p">Click the name of your printer, and start typing a new name for
       the printer.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="key"><kbd>Enter</kbd></span>, чтобы сохранить изменения.</p></li>
@@ -97,7 +97,7 @@
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Printers</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Нажмите кнопку <span class="gui">Разблокировать</span> в правом верхнем углу и введите свой пароль.</p></li>
+<li class="steps"><p class="p">Нажмите <span class="gui">Разблокировать</span> в верхнем правом углу и затем по запросу системы введите свой пароль.</p></li>
 <li class="steps"><p class="p">Click the location, and start editing the location.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="key"><kbd>Enter</kbd></span> чтобы сохранить изменения.</p></li>
 </ol></div></div></div>

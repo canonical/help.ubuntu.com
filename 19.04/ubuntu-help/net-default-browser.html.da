@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-browser.html.da" title="Webbrowsere">Webbrowsere</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-browser.html.da" title="Webbrowsere">Webbrowsere</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Vælg webbrowser der åbner websteder som standard</span></h1></div>
@@ -75,7 +75,7 @@
   browser installed, the page may not open up in the browser you wanted it to
   open in. To fix this, change the default web browser:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Detaljer</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Detaljer</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Details</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
       of the window.</p></li>
@@ -92,10 +92,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.da" title="Webbrowsere">Webbrowsere</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html.da" title="Vælg webbrowser der åbner websteder som standard">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html.da" title="Install the Flash plug-in">install Flash</a></span>…
-    </span>
+<a href="net-browser.html.da" title="Webbrowsere">Webbrowsere</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.da" title="Vælg webbrowser der åbner websteder som standard">Vælg standardbrowseren</a></span>, <span class="link"><a href="net-install-flash.html.da" title="Installer flash-pluginet">installér Flash</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

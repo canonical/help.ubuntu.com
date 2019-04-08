@@ -81,8 +81,8 @@
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Skrivare</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skrivare</span>.</p></li>
-<li class="steps"><p class="p">Klicka på knappen <span class="gui">Lås upp</span> i övre högra hörnet och mata in ditt lösenord.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">+</span>-knappen.</p></li>
+<li class="steps"><p class="p">Tryck på <span class="gui">Lås upp</span> i övre högra hörnet och skriv in ditt lösenord när du blir tillfrågad.</p></li>
+<li class="steps"><p class="p">Klicka på knappen <span class="gui">Lägg till en skrivare…</span>.</p></li>
 <li class="steps"><p class="p">I fönstret som poppar upp, välj din nya skrivare. Klicka på <span class="gui">Lägg till</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Om din skrivare inte visas i fönstret Lägg till en ny skrivare, kan du behöva installera skrivardrivrutiner.</p>

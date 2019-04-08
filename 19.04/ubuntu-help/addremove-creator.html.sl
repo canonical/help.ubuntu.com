@@ -2,9 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Create a startup disk
-  </title>
+<title>Ustvarite zagonski disk</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -73,20 +71,14 @@
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Create a startup disk
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Ustvarite zagonski disk</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">In this context a startup disk is a USB flash drive from which you can startup and <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">install Ubuntu</a></span>.
-  The capacity of the USB flash drive must be at least 2 GB.
-  Any data on the USB flash drive will be lost when you create the startup disk.</p>
-<p class="p">It's assumed that you have downloaded an Ubuntu ISO image.</p>
-<p class="p">To create a startup disk from an Ubuntu ISO image:</p>
+<p class="p">V tem okvirju je zagonski disk pomnilniška naprava USB, s katerim lahko zaženete in <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">namestite Ubuntu</a></span>. Velikost pomnilniške naprave USB mora biti vsaj 2 GB. Vsi podatki na pomnilniški napravi USB bodo izgubljeni, ko boste ustvarili zagonski disk.</p>
+<p class="p">Domneva se, da ste prenesli ISO odtisk Ubuntuja.</p>
+<p class="p">Za ustvarjanje zagonskega diska iz ISO odtiska Ubuntuja:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Odprite <span class="app">Ustvarjalnik zagonskih diskov</span> preko <span class="em">Dejavnosti</span> v iskalni vrstici.</p></li>
 <li class="steps"><p class="p">
         If the ISO image is in your <span class="gui">Download</span> folder and there is just one ISO image, <span class="app">Startup Disk Creator</span> will have selected it,
         otherwise select the correct ISO image.
@@ -94,15 +86,9 @@
 <li class="steps"><p class="p">
         If your computer has just one USB flash drive, <span class="app">Startup Disk Creator</span> will have selected it, otherwise select the correct drive.
       </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Make Startup Disk</span>.
-      </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Yes</span> to confirm. The process should take ten minutes or less.
-      </p></li>
-<li class="steps"><p class="p">
-        When the "Installation Complete" window opens click <span class="gui">Quit</span>.
-      </p></li>
+<li class="steps"><p class="p">Kliknite <span class="gui">Ustvari zagonski disk</span>.</p></li>
+<li class="steps"><p class="p">Kliknite <span class="gui">Da</span> za potrditev. Opravilo bo trajalo deset minut ali manj.</p></li>
+<li class="steps"><p class="p">Ko se odpre okno "Namestitev končana", kliknite <span class="gui">Končaj</span>.</p></li>
 </ol></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -115,7 +101,7 @@
 </li>
 <li class="links ">
 <a href="addremove.html.sl" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.sl" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html.sl" title="Namestite dodatne programe">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html.sl" title="Odstranjevanje programov">remove applications</a></span>,
       <span class="link"><a href="addremove-sources.html.sl" title="Add software repositories">add repositories</a></span>…
     </span>

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Privatlivsindstillinger</span></h1></div>
@@ -75,13 +75,12 @@
   use these settings to clear your computer usage history and clean out
   unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.da" title="Låser skærmen automatisk"><span class="title">Låser skærmen automatisk</span><span class="linkdiv-dash"> — </span><span class="desc">Prevent other people from using your desktop when you
-    go away from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.da" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
-    from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.da" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
+<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.da" title="Lås din skærm automatisk"><span class="title">Lås din skærm automatisk</span><span class="linkdiv-dash"> — </span><span class="desc">Forhindr andre i at bruge dit skrivebord, når du er væk fra din computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.da" title="Sluk for eller begræns sporing af filhistorik"><span class="title">Sluk for eller begræns sporing af filhistorik</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
     files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.da" title="Control location services"><span class="title">Control location services</span><span class="linkdiv-dash"> — </span><span class="desc">Aktivér eller deaktivér geoplacering.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.da" title="Tøm papirkurven og midlertidige filer"><span class="title">Tøm papirkurven og midlertidige filer</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
+    from your computer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.da" title="Styr placeringstjenester"><span class="title">Styr placeringstjenester</span><span class="linkdiv-dash"> — </span><span class="desc">Aktivér eller deaktivér geoplacering.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
@@ -89,13 +88,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.da" title="User &amp; system settings">User &amp; system settings</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.da" title="Tastatur">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.da" title="Display &amp; screen">display</a></span>,
-      <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">user accounts</a></span>…
-    </span>
+<a href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Bruger- &amp; systemindstillinger</a><span class="desc"> — <span class="link"><a href="keyboard.html.da" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.da" title="Mus &amp; pegeplade">mus &amp; pegeplade</a></span>, <span class="link"><a href="prefs-display.html.da" title="Visning &amp; skærm">skærm</a></span>, <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">sprog</a></span>, <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">brugerkonti</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

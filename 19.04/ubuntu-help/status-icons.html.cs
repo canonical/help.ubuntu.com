@@ -77,7 +77,7 @@
 <li class="links "><a href="status-icons.html.cs#audioicons" title="Ikony ovládání hlasitosti">Ikony ovládání hlasitosti</a></li>
 <li class="links "><a href="status-icons.html.cs#bluetoothicons" title="Ikony správy Bluetooth">Ikony správy Bluetooth</a></li>
 <li class="links ">
-<a href="status-icons.html.cs#networkicons" title="Ikony správy sítě">Ikony správy sítě</a><span class="desc"> — Explains the meanings of the Network Manager icons.</span>
+<a href="status-icons.html.cs#networkicons" title="Ikony správy sítě">Ikony správy sítě</a><span class="desc"> — Vysvětlení významu ikon Network Manager.</span>
 </li>
 <li class="links "><a href="status-icons.html.cs#batteryicons" title="Ikony správy napájení.">Ikony správy napájení.</a></li>
 </ul></div></div></div>
@@ -276,11 +276,7 @@
 <div class="contents"><div class="links seealsolinks"><div class="inner">
 <div class="title"><h3><span class="title">Viz také</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.cs" title="Wireless networking">Wireless networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Connect to Wi-Fi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Wi-Fi disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové sítě</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.cs" title="Připojení k bezdrátové síti">Připojení k Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">Skryté sítě</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.cs" title="Proč se moje síť pořád odpojuje?">Odpojování</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div>

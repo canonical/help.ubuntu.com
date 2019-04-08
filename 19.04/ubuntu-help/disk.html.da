@@ -64,26 +64,23 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Diske &amp; lager</span></h1></div>
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.da" title="Create a startup disk"><span class="title">
-    Create a startup disk
-  </span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
-    </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html.da" title="Fjern alt på en flytbar disk"><span class="title">Fjern alt på en flytbar disk</span><span class="linkdiv-dash"> — </span><span class="desc">Remove all of the files and folders from an external hard disk or USB
     flash drive by formatting it.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.da" title="Håndter diskenheder og partitioner"><span class="title">Håndter diskenheder og partitioner</span><span class="linkdiv-dash"> — </span><span class="desc">Understand what volumes and partitions are and use the disk utility
     to manage them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.da" title="Justér størrelsen på et filsystem"><span class="title">Justér størrelsen på et filsystem</span><span class="linkdiv-dash"> — </span><span class="desc">Shrink or grow a filesystem and its partition.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.da" title="Reparer et beskadiget filsystem"><span class="title">Reparer et beskadiget filsystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
-          state.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.da" title="Test ydelsen af din harddisk"><span class="title">Test ydelsen af din harddisk</span><span class="linkdiv-dash"> — </span><span class="desc">Run benchmarks on your hard disk to check how fast it is.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="disk-check.html.da" title="Tjek din harddisk for problemer"><span class="title">Tjek din harddisk for problemer</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-resize.html.da" title="Justér størrelsen på et filsystem"><span class="title">Justér størrelsen på et filsystem</span><span class="linkdiv-dash"> — </span><span class="desc">Gør et filsystem eller dets partition mindre eller større.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.da" title="Opret en opstartsdisk"><span class="title">Opret en opstartsdisk</span><span class="linkdiv-dash"> — </span><span class="desc"> 
+    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
+    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-repair.html.da" title="Reparer et beskadiget filsystem"><span class="title">Reparer et beskadiget filsystem</span><span class="linkdiv-dash"> — </span><span class="desc">Tjek om et filsystem er beskadiget og bring det tilbage til en brugbar tilstand.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.da" title="Test ydelsen af din harddisk"><span class="title">Test ydelsen af din harddisk</span><span class="linkdiv-dash"> — </span><span class="desc">Kør benchmarks på din harddisk for at tjekke hvor hurtig den er.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="disk-check.html.da" title="Tjek din harddisk for problemer"><span class="title">Tjek din harddisk for problemer</span><span class="linkdiv-dash"> — </span><span class="desc">Test din harddisk for problemer for at sikre at den har det godt.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.da" title="Tjek hvor meget diskplads der er tilbage"><span class="title">Tjek hvor meget diskplads der er tilbage</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="gui">Disk Usage Analyzer</span> or <span class="gui">System Monitor</span> to
     check space and capacity.</span></a></div>
 </div></div></div></div>
@@ -92,14 +89,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — 
-      <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardware problems</a></span>,
-      <span class="link"><a href="printing.html.da" title="Udskrivning">printers</a></span>,
-      <span class="link"><a href="power.html.da" title="Power &amp; battery">power settings</a></span>,
-      <span class="link"><a href="color.html.da" title="Farvestyring">color management</a></span>,
-      <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>,
-      <span class="link"><a href="disk.html.da" title="Diske &amp; lager">disks</a></span>…
-    </span>
+<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></span>, <span class="link"><a href="printing.html.da" title="Udskrivning">printere</a></span>, <span class="link"><a href="power.html.da" title="Strøm &amp; batteri">strømindstillinger</a></span>, <span class="link"><a href="color.html.da" title="Farvestyring">farvestyring</a></span>, <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.da" title="Diske &amp; lager">diske</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

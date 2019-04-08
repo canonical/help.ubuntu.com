@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Link and unlink contacts</title>
+<title>Sammenkæd og fjern sammenkædning af kontakter</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,14 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="contacts.html.da" title="Kontakter">Kontakter</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="contacts.html.da" title="Kontakter">Kontakter</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Link and unlink contacts</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Sammenkæd og fjern sammenkædning af kontakter</span></h1></div>
 <div class="region">
 <div class="contents"></div>
 <div id="link-contacts" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Link contacts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Sammenkæd kontakter</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">You can combine duplicate contacts from your local address book and online
   accounts into one <span class="app">Contacts</span> entry. This feature helps you keep your
@@ -87,7 +87,7 @@
 </div></div>
 </div></div>
 <div id="unlink-contacts" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Unlink contacts</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Fjern sammenkædning af kontakter</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">You may want to unlink contacts if you accidentally linked contacts which
   should not be linked.</p>

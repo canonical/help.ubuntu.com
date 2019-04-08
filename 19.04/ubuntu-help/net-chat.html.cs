@@ -82,7 +82,7 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.cs" title="Wireless networking">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html.cs" title="Wired networking">drátové</a></span>, <span class="link"><a href="net-problem.html.cs" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html.cs" title="Web browsers">prohlížení www</a></span>, <span class="link"><a href="net-email.html.cs" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
+<a href="net.html.cs" title="Sítě, www a e-mail">Sítě, www a e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.cs" title="Bezdrátové sítě">Bezdrátové</a></span>, <span class="link"><a href="net-wired.html.cs" title="Drátová síť">drátové</a></span>, <span class="link"><a href="net-problem.html.cs" title="Problémy se sítí">problémy s připojením</a></span>, <span class="link"><a href="net-browser.html.cs" title="Webové prohlížeče">prohlížení www</a></span>, <span class="link"><a href="net-email.html.cs" title="E-mail a poštovní software">poštovní účty</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

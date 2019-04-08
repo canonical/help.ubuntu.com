@@ -64,14 +64,14 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Users</a> › <a class="trail" href="user-accounts.html.da#privileges" title="Brugerpriviliger">Privileges</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="user-accounts.html.da" title="Brugerkonti">Brugere</a> › <a class="trail" href="user-accounts.html.da#privileges" title="Brugerrettigheder">Rettigheder</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Problemer som er forårsaget af administrative restriktioner</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">You may experience a few problems if you do not have
-  <span class="link"><a href="user-admin-explain.html.da" title="How do administrative privileges work?">administrative privileges</a></span>. Some tasks
+  <span class="link"><a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">administrative privileges</a></span>. Some tasks
   require administrative privileges in order to work, such as:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">forbinde til netværk eller trådløse netværk,</p></li>
@@ -79,26 +79,25 @@
       Windows partition), or</p></li>
 <li class="list"><p class="p">installere nye programmer.</p></li>
 </ul></div></div></div>
-<p class="p">You can <span class="link"><a href="user-admin-change.html.da" title="Change who has administrative privileges">change who has administrative
-  privileges</a></span>.</p>
+<p class="p">Du kan <span class="link"><a href="user-admin-change.html.da" title="Vælg hvem der har administrative rettigheder">vælge hvem der har administrative rettigheder</a></span>.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="user-accounts.html.da#privileges" title="Brugerpriviliger">Brugerpriviliger</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.da#privileges" title="Brugerrettigheder">Brugerrettigheder</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-change.html.da" title="Change who has administrative privileges">Change who has administrative privileges</a><span class="desc"> — You can allow users to make changes to the system by giving them
-    administrative privileges.</span>
+<a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">Hvordan virker administrative rettigheder?</a><span class="desc"> — You need administrative privileges to change important parts of your
+    system.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html.da" title="How do administrative privileges work?">How do administrative privileges work?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-change.html.da" title="Vælg hvem der har administrative rettigheder">Vælg hvem der har administrative rettigheder</a><span class="desc"> — You can allow users to make changes to the system by giving them
+    administrative privileges.</span>
 </li>
 </ul></div>
 </div></div>

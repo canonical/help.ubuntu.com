@@ -75,7 +75,7 @@
   <span class="gui">Places</span> menus on the top bar, and a window
   list at the bottom of the screen.</p>
 <p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications. The <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span>
+ applications. The <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Activities</a></span>
  overview is available by selecting the <span class="gui">Activities
  Overview</span> item from the menu.</p>
 <p class="p">For at få adgang til <span class="em"><span class="gui">Aktivitetsoversigten</span></span>, kan du også trykke på <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>-tasten.</p>
@@ -99,7 +99,7 @@
  installed. Some Linux distributions may not have these extensions available or
  installed by default.</p></div></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To switch from <span class="em">GNOME</span> to <span class="em">GNOME Classic</span>:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Skift fra <span class="em">GNOME</span> til <span class="em">GNOME Classic</span>:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Gem dit igangværende arbejde og log ud. Klik på systemmenuen i højre side af toplinjen, og klik herefter på dit navn og den ønskede valgmulighed.</p></li>
 <li class="steps"><p class="p">A confirmation message will appear. Select <span class="gui">Log Out</span> to
@@ -112,7 +112,7 @@
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To switch from <span class="em">GNOME Classic</span> to <span class="em">GNOME</span>:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Skift fra <span class="em">GNOME Classic</span> til <span class="em">GNOME</span>:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Gem dit igangværende arbejde og log ud. Klik på systemmenuen i højre side af toplinjen, og klik herefter på dit navn og den ønskede valgmulighed.</p></li>
 <li class="steps"><p class="p">A confirmation message will appear. Select <span class="gui">Log Out</span> to

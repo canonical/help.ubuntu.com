@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-wired.html.da" title="Kablet netværk">Kablet netværk</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-wired.html.da" title="Kablet netværk">Kablet netværk</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -80,9 +80,9 @@
   need to ask your network administrator or look at the settings of your router
   or network switch.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To manually set your network settings:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Manuel opsætning af dine netværksindstillinger:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps">
 <p class="p">In the left pane, select the network connection that you want to set
@@ -123,17 +123,10 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wired.html.da" title="Kablet netværk">Kablet netværk</a><span class="desc"> — 
-      <span class="link"><a href="net-wired-connect.html.da" title="Opret forbindelse til et kablet (ethernet) netværk">Wired internet connections</a></span>,
-      <span class="link"><a href="net-fixed-ip-address.html.da" title="Opret en forbindelse med en fast IP-adresse">Fixed IP addresses</a></span>…
-    </span>
+<a href="net-wired.html.da" title="Kablet netværk">Kablet netværk</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.da" title="Opret forbindelse til et kablet (ethernet) netværk">Kablede internetforbindelser</a></span>, <span class="link"><a href="net-fixed-ip-address.html.da" title="Opret en forbindelse med en fast IP-adresse">Faste IP-adresser</a></span> …</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.da" title="Opret forbindelse til et trådløst netværk">Connect to Wi-Fi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.da" title="Opret forbindelse til et skjult trådløst netværk">hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.da" title="Hvorfor bliver mit trådløse netværk ved med at afbryde forbindelsen?">Wi-Fi disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.da" title="Opret forbindelse til et trådløst netværk">Opret forbindelse til Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.da" title="Opret forbindelse til et skjult trådløst netværk">skjulte netværk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.da" title="Hvorfor bliver mit trådløse netværk ved med at afbryde forbindelsen?">Wi-Fi afbryder forbindelsen</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

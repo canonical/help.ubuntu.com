@@ -65,9 +65,9 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="sharing.html.da" title="Deling">Deling</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="prefs-sharing.html.da" title="Delingsindstillinger">Delingsindstillinger</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-sharing.html.da" title="Delingsindstillinger">Delingsindstillinger</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="sharing.html.da" title="Deling">Deling</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -84,13 +84,13 @@
 <p class="p"><span class="link-button link"><a href="apt:rygel" title="apt:rygel">Installér Rygel</a></span></p>
 </div></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Deling</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Deling</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Sharing</span> to open the panel.</p></li>
 <li class="steps">
 <p class="p">If <span class="gui">Sharing</span> is <span class="gui">OFF</span>, switch it to
       <span class="gui">ON</span>.</p>
 <div class="note" title="Note"><div class="inner"><div class="region"><div class="contents"><p class="p">If the text below <span class="gui">Computer Name</span> allows
-      you to edit it, you can <span class="link"><a href="sharing-displayname.html.da" title="Set the display name for your computer">change</a></span>
+      you to edit it, you can <span class="link"><a href="sharing-displayname.html.da" title="Indstil navnet som vises for computeren">change</a></span>
       the name your computer displays on the network.</p></div></div></div></div>
 </li>
 <li class="steps"><p class="p">Select <span class="gui">Media Sharing</span>.</p></li>
@@ -117,19 +117,10 @@
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing.html.da" title="Deling">Deling</a><span class="desc"> — 
-      <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html.da" title="Del filer via e-mail">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Media sharing</a></span>…
-    </span>
+<a href="sharing.html.da" title="Deling">Deling</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Skrivebordsdeling</a></span>, <span class="link"><a href="files-share.html.da" title="Del filer via e-mail">Del filer via e-mail</a></span>, <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Mediedeling</a></span> …</span>
 </li>
 <li class="links ">
-<a href="prefs-sharing.html.da" title="Delingsindstillinger">Delingsindstillinger</a><span class="desc"> — 
-      <span class="link"><a href="sharing-bluetooth.html.da" title="Styr deling via Bluetooth">Bluetooth sharing</a></span>,
-      <span class="link"><a href="sharing-personal.html.da" title="Del dine personlige filer">Personal file sharing</a></span>,
-      <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Screen sharing</a></span>,
-      <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Media sharing</a></span>…
-    </span>
+<a href="prefs-sharing.html.da" title="Delingsindstillinger">Delingsindstillinger</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.da" title="Styr deling via Bluetooth">Bluetooth-deling</a></span>, <span class="link"><a href="sharing-personal.html.da" title="Del dine personlige filer">Personlig fildeling</a></span>, <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Skærmdeling</a></span>, <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Mediedeling</a></span> …</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -65,11 +65,11 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="a11y.html.da" title="Tilgængelighed">Tilgængelighed</a> › <a class="trail" href="a11y.html.da#mobility" title="Bevægelseshæmninger">Bevægelseshæmninger</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.da" title="User &amp; system settings">Settings</a> » <a class="trail" href="keyboard.html.da" title="Tastatur">Tastatur</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="a11y.html.da" title="Tilgængelighed">Tilgængelighed</a> › <a class="trail" href="a11y.html.da#mobility" title="Mobilitetshandikap">Mobilitetshandikap</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -84,7 +84,7 @@
     mouse pointer using the numeric keypad on your keyboard. See
     <span class="link"><a href="mouse-mousekeys.html.da" title="Klik og flyt musemarkøren med det numeriske tastatur">Klik og flyt musemarkøren med det numeriske tastatur</a></span> for details.</p></div></div></div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h2><span class="title">Navigate user interfaces</span></h2></div>
+<div class="title title-table"><h2><span class="title">Naviger i brugerflader</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td>
@@ -167,7 +167,7 @@
 <tr>
 <td style="border-top-style: solid;">
 <p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageUp</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">og</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageDown</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p">In a tabbed interface, switch to the tab to the left or
@@ -176,54 +176,41 @@
 </table></div>
 </div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h2><span class="title">Navigate the desktop</span></h2></div>
+<div class="title title-table"><h2><span class="title">Naviger på skrivebordet</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> eller</p>
 <p class="p"><span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>-tasten</p>
 </td>
-<td><p class="p">Switch between the <span class="gui">Activities</span> overview and desktop. In
-    the overview, start typing to instantly search your applications, contacts,
-    and documents.</p></td>
+<td><p class="p">Skift mellem <span class="gui">Aktivitetsoversigten</span> og skrivebordet. Begynd at skrive i oversigten for straks at søge efter dine programmer, kontakter og dokumenter.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.da" title="Skift mellem vinduer">Quickly switch between
-    windows</a></span>. Hold down <span class="key"><kbd>Shift</kbd></span> for reverse order.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.da" title="Skift mellem vinduer">Skift hurtigt mellem vinduer</a></span>. Hold <span class="key"><kbd>Skift</kbd></span> nede for omvendt rækkefølge.</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>½</kbd></span></span></p></td>
 <td style="border-top-style: solid;">
-<p class="p">Switch between windows from the same application, or from the selected
-      application after <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p>
-<p class="p">This shortcut uses <span class="key"><kbd>`</kbd></span> on US keyboards, where the <span class="key"><kbd>`</kbd></span>
-      key is above <span class="key"><kbd>Tab</kbd></span>. On all other keyboards, the shortcut is
-      <span class="key"><kbd>Super</kbd></span> plus the key above <span class="key"><kbd>Tab</kbd></span>.</p>
+<p class="p">Skift mellem vinduer fra det samme program eller fra det valgte program efter <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p>
+<p class="p">Genvejen bruger <span class="key"><kbd>`</kbd></span> på USA-tastaturer, hvor <span class="key"><kbd>`</kbd></span>-tasten er over <span class="key"><kbd>Tab</kbd></span>. På alle andre tastaturer er genvejen <span class="key"><kbd>Super</kbd></span> plus tasten over <span class="key"><kbd>Tab</kbd></span>.</p>
 </td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Give keyboard focus to the top bar. In the <span class="gui">Activities</span>
-      overview, switch keyboard focus between the top bar, dash, windows
-      overview, applications list, and search field. Use the arrow keys to
-      navigate.</p></td>
+<td style="border-top-style: solid;"><p class="p">Giv tastaturfokus til toplinjen. I <span class="gui">Aktivitetsoversigten</span> skifter tastaturfokus mellem toplinjen, favoritområdet, vinduesoversigten, programlisten og søgefeltet. Brug piletasterne til at navigere.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;">
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">og</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
 </td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.da" title="Skift mellem arbejdsområder">Switch between
-     workspaces</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.da" title="Skift mellem arbejdsområder">Skift mellem arbejdsområder</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Cycle through windows in the same application. Hold down the
-    <span class="key"><kbd>Alt</kbd></span> key and press <span class="key"><kbd>F6</kbd></span> until the window you want is
-    highlighted, then release <span class="key"><kbd>Alt</kbd></span>. This is similar to the
-    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>`</kbd></span></span> feature.</p></td>
+<td style="border-top-style: solid;"><p class="p">Gennemløb vinduer i det samme program. Hold <span class="key"><kbd>Alt</kbd></span>-tasten nede og tryk på <span class="key"><kbd>F6</kbd></span> indtil det ønskede vindue fremhæves, og slip så <span class="key"><kbd>Alt</kbd></span>. Det er samme fremgangsmåde som <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>½</kbd></span></span>-funktionen.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
@@ -237,7 +224,7 @@
 </table></div>
 </div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h2><span class="title">Navigate windows</span></h2></div>
+<div class="title title-table"><h2><span class="title">Naviger i vinduer</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
@@ -267,23 +254,22 @@
 <tr>
 <td style="border-top-style: solid;">
 <p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">og</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
 </td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.da" title="Flyt et vindue til et andet arbejdsområde">Move the current window to a
-     different workspace</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.da" title="Flyt et vindue til et andet arbejdsområde">Flyt det nuværende vindue til et andet arbejdsområde</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the left.</p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt det nuværende vindue én skærm til venstre.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the right.</p></td>
+<td style="border-top-style: solid;"><p class="p">Flyt det nuværende vindue én skærm til højre.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> eller <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.da" title="Maksimer og afmaksimer et vindue">Maximize</a></span> a window. Press
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.da" title="Maksimér og afmaksimér et vindue">Maximize</a></span> a window. Press
     <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> or
     <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> to
     restore a maximized window to its original size.</p></td>
@@ -320,13 +306,9 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">Bevægelseshæmninger</a></li>
+<li class="links "><a href="a11y.html.da#mobility" title="Mobilitetshandikap">Mobilitetshandikap</a></li>
 <li class="links ">
-<a href="keyboard.html.da" title="Tastatur">Tastatur</a><span class="desc"> — 
-      <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Keyboard layouts</a></span>,
-      <span class="link"><a href="keyboard-cursor-blink.html.da" title="Få tastaturets markør til at blinke">cursor blinking</a></span>,
-      <span class="link"><a href="a11y.html.da#mobility" title="Bevægelseshæmninger">keyboard accessibility</a></span>…
-    </span>
+<a href="keyboard.html.da" title="Tastatur">Tastatur</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.da" title="Brug alternative tastaturlayouts">Tastaturlayouts</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.da" title="Få tastaturets markør til at blinke">markørblink</a></span>, <span class="link"><a href="a11y.html.da#mobility" title="Mobilitetshandikap">tastaturtilgængelighed</a></span> …</span>
 </li>
 </ul></div>
 </div></div>

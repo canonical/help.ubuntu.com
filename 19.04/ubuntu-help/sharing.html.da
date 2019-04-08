@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Deling</span></h1></div>
@@ -78,7 +78,7 @@
     manager.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.da" title="Gennemse filer på en server eller netværksdeling"><span class="title">Gennemse filer på en server eller netværksdeling</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
     shares, or WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed"><span class="title">Send filer til en Bluetooth-enhed</span><span class="linkdiv-dash"> — </span><span class="desc">Share files to Bluetooth devices such as your phone.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.da" title="Send filer til en Bluetooth-enhed"><span class="title">Send filer til en Bluetooth-enhed</span><span class="linkdiv-dash"> — </span><span class="desc">Del filer til Bluetooth-enheder såsom din telefon.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.da" title="Styr deling via Bluetooth"><span class="title">Styr deling via Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Tillad upload af filer til din computer via Bluetooth.</span></a></div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -86,13 +86,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless.html.da" title="Trådløst netværk">Wireless</a></span>,
-      <span class="link"><a href="net-wired.html.da" title="Kablet netværk">wired</a></span>,
-      <span class="link"><a href="net-problem.html.da" title="Netværksproblemer">connection problems</a></span>,
-      <span class="link"><a href="net-browser.html.da" title="Webbrowsere">web browsing</a></span>,
-      <span class="link"><a href="net-email.html.da" title="E-mail &amp; e-mailsoftware">email accounts</a></span>…
-    </span>
+<a href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a><span class="desc"> — <span class="link"><a href="net-wireless.html.da" title="Trådløst netværk">Trådløst</a></span>, <span class="link"><a href="net-wired.html.da" title="Kablet netværk">kablet</a></span>, <span class="link"><a href="net-problem.html.da" title="Netværksproblemer">forbindelsesproblemer</a></span>, <span class="link"><a href="net-browser.html.da" title="Webbrowsere">webbrowsing</a></span>, <span class="link"><a href="net-email.html.da" title="E-mail &amp; e-mailsoftware">e-mailkonti</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

@@ -2,9 +2,7 @@
 <html lang=sl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Install additional applications
-  </title>
+<title>Namestite dodatne programe</title>
 <link rel="stylesheet" type="text/css" href="sl.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -69,9 +67,7 @@
 <span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.sl" title="Namizni vodnik Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoč"></span></span> Vodič po namizju Ubuntu</a> » <a class="trail" href="addremove.html.sl" title="Install &amp; remove software">Dodaj/odstrani programsko opremo</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">
-    Install additional applications
-  </span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Namestite dodatne programe</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">
@@ -120,7 +116,7 @@
 <div class="title"><h2><span class="title">Več podrobnosti</span></h2></div>
 <div class="region"><ul><li class="links ">
 <a href="addremove.html.sl" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.sl" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-install.html.sl" title="Namestite dodatne programe">Install applications</a></span>,
       <span class="link"><a href="addremove-remove.html.sl" title="Odstranjevanje programov">remove applications</a></span>,
       <span class="link"><a href="addremove-sources.html.sl" title="Add software repositories">add repositories</a></span>…
     </span>

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Netværk, web &amp; e-mail</span></h1></div>
@@ -72,41 +72,27 @@
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html.da" title="Opret forbindelse til et trådløst netværk">Connect to Wi-Fi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.da" title="Opret forbindelse til et skjult trådløst netværk">hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.da" title="Hvorfor bliver mit trådløse netværk ved med at afbryde forbindelsen?">Wi-Fi disconnecting</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.da" title="Opret forbindelse til et trådløst netværk">Opret forbindelse til Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.da" title="Opret forbindelse til et skjult trådløst netværk">skjulte netværk</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.da" title="Hvorfor bliver mit trådløse netværk ved med at afbryde forbindelsen?">Wi-Fi afbryder forbindelsen</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html.da" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a></div>
+<div class="links-grid-link"><a href="net-chat.html.da" title="Chat og socialt netværk">Chat og socialt netværk</a></div>
 <div class="desc"><span class="desc">
       <span class="link"><a href="net-chat-empathy.html.da" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.da" title="Video calls">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.da" title="How can I use Skype on Ubuntu?">install skype</a></span>
+      <span class="link"><a href="net-chat-video.html.da" title="Videoopkald">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.da" title="Hvordan bruger jeg Skype i Ubuntu?">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="sharing.html.da" title="Deling">Deling</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Desktop sharing</a></span>,
-      <span class="link"><a href="files-share.html.da" title="Del filer via e-mail">Share files by email</a></span>,
-      <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Media sharing</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sharing-desktop.html.da" title="Del dit skrivebord">Skrivebordsdeling</a></span>, <span class="link"><a href="files-share.html.da" title="Del filer via e-mail">Del filer via e-mail</a></span>, <span class="link"><a href="sharing-media.html.da" title="Del din musik, billeder og videoer">Mediedeling</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-email.html.da" title="E-mail &amp; e-mailsoftware">E-mail &amp; e-mailsoftware</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-email.html.da" title="Vælg postprogram som bruges til at skrive e-mails">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html.da" title="Behøver jeg at skanne mine e-mails for virusser?">Should I scan for viruses?</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-email.html.da" title="Vælg postprogram som bruges til at skrive e-mails">Standard e-mailprogram</a></span>, <span class="link"><a href="net-email-virus.html.da" title="Behøver jeg at skanne mine e-mails for virusser?">Skal jeg skanne efter virusser?</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-wired.html.da" title="Kablet netværk">Kablet netværk</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wired-connect.html.da" title="Opret forbindelse til et kablet (ethernet) netværk">Wired internet connections</a></span>,
-      <span class="link"><a href="net-fixed-ip-address.html.da" title="Opret en forbindelse med en fast IP-adresse">Fixed IP addresses</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.da" title="Opret forbindelse til et kablet (ethernet) netværk">Kablede internetforbindelser</a></span>, <span class="link"><a href="net-fixed-ip-address.html.da" title="Opret en forbindelse med en fast IP-adresse">Faste IP-adresser</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="contacts.html.da" title="Kontakter">Kontakter</a></div>
@@ -114,34 +100,19 @@
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.da" title="Netværksproblemer">Netværksproblemer</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.da" title="Jeg kan ikke se mit trådløse netværk i listen">finding your Wi-Fi network</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.da" title="Fejlsøgning af trådløst netværk">Fejlsøg trådløse forbindelser</a></span>, <span class="link"><a href="net-wireless-find.html.da" title="Jeg kan ikke se mit trådløse netværk i listen">find dit Wi-Fi-netværk</a></span> …</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html.da" title="Networking terms &amp; tips">Networking terms &amp; tips</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-findip.html.da" title="Find din IP-adresse">Find your IP address</a></span>,
-      <span class="link"><a href="net-wireless-wepwpa.html.da" title="Hvad betyder WEP og WPA?">WEP &amp; WPA security</a></span>,
-      <span class="link"><a href="net-macaddress.html.da" title="Hvad er en MAC-adresse?">MAC addresses</a></span>,
-      <span class="link"><a href="net-proxy.html.da" title="Definer proxyindstillinger">proxies</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="net-general.html.da" title="Netværkstermer &amp; -tips">Netværkstermer &amp; -tips</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.da" title="Find din IP-adresse">Find din IP-adresse</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.da" title="Hvad betyder WEP og WPA?">WEP- &amp; WPA-sikkerhed</a></span>, <span class="link"><a href="net-macaddress.html.da" title="Hvad er en MAC-adresse?">MAC-adresser</a></span>, <span class="link"><a href="net-proxy.html.da" title="Vælg proxyindstillinger">proxies</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html.da" title="Sikkerhed på internettet">Sikkerhed på internettet</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-antivirus.html.da" title="Behøver jeg at have antivirussoftware?">Antivirus software</a></span>,
-      <span class="link"><a href="net-firewall-on-off.html.da" title="Aktivér og bloker adgang til firewall">basic firewalls</a></span>,
-      <span class="link"><a href="net-firewall-ports.html.da" title="Populære netværksporte">firewall ports</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html.da" title="Behøver jeg at have antivirussoftware?">Antivirussoftware</a></span>, <span class="link"><a href="net-firewall-on-off.html.da" title="Aktivér og bloker adgang til firewall">grundlæggende firewalls</a></span>, <span class="link"><a href="net-firewall-ports.html.da" title="Populære netværksporte">firewall-porte</a></span> …</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-browser.html.da" title="Webbrowsere">Webbrowsere</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-browser.html.da" title="Vælg webbrowser der åbner websteder som standard">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html.da" title="Install the Flash plug-in">install Flash</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.da" title="Vælg webbrowser der åbner websteder som standard">Vælg standardbrowseren</a></span>, <span class="link"><a href="net-install-flash.html.da" title="Installer flash-pluginet">installér Flash</a></span> …</span></div>
 </div>
 </div></div></div></div>
 <div class="sect sect-links" role="navigation">
@@ -149,7 +120,7 @@
 <div class="contents">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html.da" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.da" title="Ubuntu-skrivebordsguide">Ubuntu-skrivebordsguide</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>

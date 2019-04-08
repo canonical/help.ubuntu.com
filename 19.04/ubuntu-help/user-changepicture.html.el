@@ -79,8 +79,14 @@
 <li class="steps">
 <p class="p">Κάντε κλικ στην εικόνα δίπλα στο όνομά σας. Μια αναπτυσσόμενη συλλογή θα εμφανιστεί με μερικές φωτογραφίες σύνδεσης παρακαταθήκης. Εάν θέλετε μία από αυτές, κάντε κλικ για να την χρησιμοποιήσετε για τον εαυτόν σας.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Αν προτιμάτε να χρησιμοποιήσετε μια εικόνα που έχετε ήδη στον υπολογιστή σας, πατήστε <span class="gui">Περιηγηθείτε για περισσότερες φωτογραφίες…</span>.</p></li>
-<li class="list"><p class="p">Αν έχετε μια δικτυακή κάμερα, μπορείτε να βγάλετε μια φωτογραφίας και να την ορίσετε ως φωτογραφία εισόδου, κάνοντας κλικ στο <span class="gui">Λήψη φωτογραφίας…</span>. Βγάλτε τη φωτογραφία σας, έπειτε μετακινήστε και μεγεθύνετε την για να περικόψετε τα σημεία που δεν θέλετε. Αν δεν σας αρέσει η εικόνα που έχετε βγάλει, κάντε κλικ στο <span class="gui">Λήψη άλλης εικόνας</span> για να ξαναπροσπαθήσετε, ή στο <span class="gui">Άκυρο</span> για να συνεχίσετε.</p></li>
+<li class="list"><p class="p">If you would rather use a picture you already have on your
+          computer, click <span class="gui">Select a file…</span>.</p></li>
+<li class="list"><p class="p">If you have a webcam, you can take a new login photo right now by
+          clicking <span class="gui">Take a picture…</span>. Take your
+          picture, then move and resize the square outline to crop out the
+          parts you do not want. If you do not like the picture you took, click
+          <span class="gui">Take Another Picture</span> to try again, or
+          <span class="gui">Cancel</span> to give up.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

@@ -79,8 +79,14 @@
 <li class="steps">
 <p class="p">Pulse en la imagen junto a su nombre. Se le mostrará una galería desplegable con algunas fotografías de inicio de sesión almacenadas. Si le gusta alguna de ellas, pulse para usarla usted mismo.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Si prefiere utilizar una imagen que ya tiene en su equipo, pulse en <span class="gui">Buscar más imágenes…</span>.</p></li>
-<li class="list"><p class="p">Si tiene una cámara web, puede tomar una foto nueva en este momento pulsando en <span class="gui">Hacer una foto…</span>. Tome su imagen y a continuación mueva y cambie el tamaño del contorno cuadrado para recortar las partes que no quiera. Si no le gusta la fotografía que tomó, pulse en <span class="gui">Hacer otra foto</span> para volver a intentarlo, o <span class="gui">Cancelar</span> si se da por vencido.</p></li>
+<li class="list"><p class="p">If you would rather use a picture you already have on your
+          computer, click <span class="gui">Select a file…</span>.</p></li>
+<li class="list"><p class="p">If you have a webcam, you can take a new login photo right now by
+          clicking <span class="gui">Take a picture…</span>. Take your
+          picture, then move and resize the square outline to crop out the
+          parts you do not want. If you do not like the picture you took, click
+          <span class="gui">Take Another Picture</span> to try again, or
+          <span class="gui">Cancel</span> to give up.</p></li>
 </ul></div></div></div>
 </li>
 </ol></div></div></div>

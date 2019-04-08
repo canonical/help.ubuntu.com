@@ -80,7 +80,12 @@
 <p class="p">Када разгледате датотеке у фасцикли, можете брзо да <span class="link"><a href="files-preview.html.sr" title="Погледајте датотеке и фасцикле">прикажете преглед сваке датотеке</a></span> тако што ћете притиснути размакницу на тастатури да се уверите да је то одговарајућа датотека пре него ли је отворите, умножите, или обришете.</p>
 <p class="p"><span class="em">Трака путање</span> изнад списка датотека и фасцикли вам показује коју фасциклу разгледате, укључујући надређене фасцикле текуће фасцикле. Кликните на надређену фасциклу на траци путање да се пребаците у ту фасциклу. Кликните десним тастером миша на било коју фасциклу на траци путање да је отворите у новом језичку или прозору, или да приступите њеним особинама.</p>
 <p class="p">Ако желите да на брзину <span class="link"><a href="files-search.html.sr" title="Тражите датотеке">потражите датотеку</a></span>, у или испод фасцикле коју разгледате, почните да куцате њен назив. Појавиће се <span class="em">поље за претрагу</span> при врху прозора и само датотеке које одговарају вашој претрази биће приказане. Притисните <span class="key"><kbd>Есц</kbd></span> да откажете претрагу.</p>
-<p class="p">Можете на брзину да приступите општим местима из <span class="em">бочне површи</span>. Ако не видите бочну површ, притисните на <span class="gui">Датотеке</span> на горњој траци и изаберите <span class="gui">Бочна површ</span>. Можете да додате обележиваче фасциклама које често користите и оне ће се појавити у бочној површи. Превуците фасциклу у бочну површ, и убаците је преко <span class="gui">новог обележивача</span>, који се појављује динамички, или притисните на изборник прозора и изаберите <span class="gui">Забележи ово место</span>.</p>
+<p class="p">You can quickly access common places from the <span class="em">sidebar</span>. If you do
+not see the sidebar, press the menu button in the top-right corner of the window and then select
+<span class="gui">Sidebar</span>. You can add bookmarks to folders that you use often and
+they will appear in the sidebar. Drag a folder to the sidebar, and drop it over
+<span class="gui">New bookmark</span>, which appears dynamically, or click the current folder
+in the path bar and then select <span class="gui">Add to Bookmarks</span>.</p>
 </div></div>
 </div></div>
 <div class="sect sect-links" role="navigation">

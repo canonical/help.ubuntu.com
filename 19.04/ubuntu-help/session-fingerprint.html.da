@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="hardware-auth.html.da" title="Fingeraftryk &amp; smart cards">Fingeraftryk &amp; smart cards</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="hardware-auth.html.da" title="Fingeraftryk &amp; smart cards">Fingeraftryk &amp; smart cards</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Log ind med et fingeraftryk</span></h1></div>
@@ -79,10 +79,10 @@
 <div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">If your finger is too dry, you may have difficulty registering your
     fingerprint. If this happens, moisten your finger slightly, dry it with a
     clean, lint-free cloth, and retry.</p></div></div></div></div>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.da" title="How do administrative privileges work?">administrator privileges</a></span>
+<p class="p">You need <span class="link"><a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">administrator privileges</a></span>
   to edit user accounts other than your own.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Brugere</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Brugere</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Users</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Press on <span class="gui">Disabled</span>, next to <span class="gui">Fingerprint Login</span> to
       add a fingerprint for the selected account. If you are adding the
@@ -120,11 +120,7 @@
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware-auth.html.da" title="Fingeraftryk &amp; smart cards">Fingeraftryk &amp; smart cards</a><span class="desc"> — 
-    <span class="link"><a href="session-fingerprint.html.da" title="Log ind med et fingeraftryk">Fingerprint readers</a></span>,
-
-    smart cards…
-  </span>
+<a href="hardware-auth.html.da" title="Fingeraftryk &amp; smart cards">Fingeraftryk &amp; smart cards</a><span class="desc"> — <span class="link"><a href="session-fingerprint.html.da" title="Log ind med et fingeraftryk">Fingeraftrykslæsere</a></span>, smart cards …</span>
 </li></ul></div>
 </div></div></div>
 </div>

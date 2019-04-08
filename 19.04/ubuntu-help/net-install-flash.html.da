@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Install the Flash plug-in</title>
+<title>Installer flash-pluginet</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-browser.html.da" title="Webbrowsere">Webbrowsere</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-browser.html.da" title="Webbrowsere">Webbrowsere</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">Install the Flash plug-in</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Installer flash-pluginet</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">Flash is a <span class="em">plug-in</span> for your web browser that allows you to watch videos and use
@@ -77,7 +77,7 @@ offered, there are still some websites which won't work without Flash.</p>
 that needs it. Flash is available as a free (but not open-source) download for most web browsers.</p>
 <div class="note note-warning" title="Advarsel"><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe has announced that they will stop updating and distributing the Flash Player at the end
  of 2020. Consequently, for security reasons, the Flash plug-in should not be used after 2020.</p></div></div></div></div>
-<p class="p">There are two kinds of plug-ins available:</p>
+<p class="p">Der findes to slags plugins:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="em">NPAPI</span> for <span class="app">Firefox</span> and other Gecko-based web browsers</p></li>
 <li class="list"><p class="p"><span class="em">PPAPI</span> for <span class="app">Chromium</span> and other Blink-based web browsers including <span class="app">Opera</span> and
@@ -98,7 +98,7 @@ that needs it. Flash is available as a free (but not open-source) download for m
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Make sure that the <span class="link"><a href="addremove-sources.html.da#canonical-partner" title="Aktivér Canonical partner softwarekilden">Canonical Partner repository is activated</a></span>.</p></li>
 <li class="steps"><p class="p">Install the <span class="link"><a href="apt:adobe-flashplugin" title="apt:adobe-flashplugin">adobe-flashplugin</a></span> package.</p></li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">Genstart din browser.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -110,13 +110,13 @@ that needs it. Flash is available as a free (but not open-source) download for m
  can install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package. It's a wrapper which makes
  Firefox use the PPAPI plug-in.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that <span class="app">adobe-flashplugin</span> is installed.</p></li>
+<li class="steps"><p class="p">Sørg for at <span class="app">adobe-flashplugin</span> er installeret.</p></li>
 <li class="steps">
 <p class="p">Open a terminal window by pressing <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span> and
    install the <span class="app">browser-plugin-freshplayer-pepperflash</span> package:</p>
 <p class="p"><span class="cmd">sudo apt install browser-plugin-freshplayer-pepperflash</span></p>
 </li>
-<li class="steps"><p class="p">Restart your browser.</p></li>
+<li class="steps"><p class="p">Genstart din browser.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></div>
@@ -125,10 +125,7 @@ that needs it. Flash is available as a free (but not open-source) download for m
 <div class="contents"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.da" title="Webbrowsere">Webbrowsere</a><span class="desc"> — 
-      <span class="link"><a href="net-default-browser.html.da" title="Vælg webbrowser der åbner websteder som standard">Change the default browser</a></span>,
-      <span class="link"><a href="net-install-flash.html.da" title="Install the Flash plug-in">install Flash</a></span>…
-    </span>
+<a href="net-browser.html.da" title="Webbrowsere">Webbrowsere</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.da" title="Vælg webbrowser der åbner websteder som standard">Vælg standardbrowseren</a></span>, <span class="link"><a href="net-install-flash.html.da" title="Installer flash-pluginet">installér Flash</a></span> …</span>
 </li></ul></div>
 </div></div></div>
 </div>

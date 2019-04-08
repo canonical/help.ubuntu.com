@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » <a class="trail" href="nautilus-prefs.html.da" title="Indstillinger for filhåndtering">Indstillinger for filhåndtering</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="files.html.da" title="Filer, mapper &amp; søgning">Filer</a> › <a class="trail" href="files.html.da#more-file-tasks" title="Flere filrelaterede opgaver">Flere filrelaterede opgaver</a> » <a class="trail" href="nautilus-prefs.html.da" title="Indstillinger for filhåndtering">Indstillinger for filhåndtering</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Visningsindstillinger i <span class="app">Filer</span></span></h1></div>
@@ -88,7 +88,7 @@ Select <span class="guiseq"><span class="gui">Files</span> ▸ <span class="gui
     <span class="gui">Size</span>, <span class="gui">Type</span> or <span class="gui">Last Modified</span>, or by
     clicking the list column headers in list view.</p>
 </dd>
-<dt class="terms"><span class="gui">Sort folders before files</span></dt>
+<dt class="terms"><span class="gui">Sortér mapper før filer</span></dt>
 <dd class="terms"><p class="p">By default, the file manager no longer shows all folders before files.
     To see all folders listed before files, enable this option.</p></dd>
 </dl></div></div></div></div></div>

@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> › <a class="trail" href="hardware.html.da#problems" title="Almindelige problemer">Problemer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Skærmproblemer</span></h1></div>
@@ -72,15 +72,14 @@
 <div class="contents">
 <p class="p">Most problems with the display are caused by issues with graphics drivers or configuration. Which of the topics below best describes the problem you are experiencing?</p>
 <div class="links topiclinks"><div class="inner"><div class="region">
-<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.da" title="Hvorfor er tingene slørede/pixelerede på min skærm?"><span class="title">Hvorfor er tingene slørede/pixelerede på min skærm?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen resolution may be set incorrectly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-display-fuzzy.html.da" title="Hvorfor er tingene slørede/pixelerede på min skærm?"><span class="title">Hvorfor er tingene slørede/pixelerede på min skærm?</span><span class="linkdiv-dash"> — </span><span class="desc">Skærmopløsningen kan være indstillet forkert.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.da" title="Hvorfor nedtones min skærm efter noget tid?"><span class="title">Hvorfor nedtones min skærm efter noget tid?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.da" title="Hvorfor tænder min computer ikke efter jeg har sat den i hviletilstand?"><span class="title">Hvorfor tænder min computer ikke efter jeg har sat den i hviletilstand?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-brightness.html.da" title="Indstil skærmens lysstyrke"><span class="title">Indstil skærmens lysstyrke</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen brightness to make it more readable in bright
     light.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.da" title="Set screen blanking time"><span class="title">Set screen blanking time</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.da" title="Skærmen låser sig selv for hurtigt"><span class="title">Skærmen låser sig selv for hurtigt</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.da" title="Why does my computer not turn back on after I suspended it?"><span class="title">Why does my computer not turn back on after I suspended it?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.da" title="Why does my screen go dim after a while?"><span class="title">Why does my screen go dim after a while?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.da" title="My computer will not turn on"><span class="title">My computer will not turn on</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.da" title="Indstil tiden for sort skærm"><span class="title">Indstil tiden for sort skærm</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.da" title="Skærmen låser sig selv for hurtigt"><span class="title">Skærmen låser sig selv for hurtigt</span><span class="linkdiv-dash"> — </span><span class="desc">Vælg hvor længe der skal ventes inden skærmen låses i <span class="gui">Privatliv</span>-indstillingerne.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.da" title="Min computer tænder ikke"><span class="title">Min computer tænder ikke</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
 </div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">

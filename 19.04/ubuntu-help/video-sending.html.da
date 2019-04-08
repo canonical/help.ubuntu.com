@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html.da#videos" title="Videoer og videokamera">Videoer</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Lyd, video &amp; billeder</a> › <a class="trail" href="media.html.da#videos" title="Videoer og videokamera">Videoer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Andre personer kan ikke afspille de videoer, jeg har lavet</span></h1></div>
@@ -80,7 +80,7 @@
   You can check which format your video is by doing:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Open <span class="app">Files</span> from the
-      <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigt">Activities</a></span> overview.</p></li>
+      <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Activities</a></span> overview.</p></li>
 <li class="list"><p class="p">Right-click on the video file and select <span class="gui">Properties</span>.</p></li>
 <li class="list"><p class="p">Go to the <span class="gui">Audio/Video</span> or <span class="gui">Video</span> tab and look at
       which <span class="gui">Codec</span> are listed under <span class="gui">Video</span> and

@@ -71,8 +71,7 @@
 <div class="region">
 <div class="contents"><div class="links topiclinks"><div class="inner"><div class="region">
 <div class="links-twocolumn">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.cs" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
-    <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.cs" title="Obrázkový přehled GNOME"><span class="title">Obrázkový přehled GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Obrázková prohlídka plochy, horní lišty a přehledu <span class="gui">Činnosti</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.cs" title="Odhlášení nebo přepnutí uživatele, vypnutí"><span class="title">Odhlášení nebo přepnutí uživatele, vypnutí</span><span class="linkdiv-dash"> — </span><span class="desc">Naučte se, jak správně odejít od svého účtu, ať už odhlášením nebo přepnutím uživatele apod.</span></a></div>
 </div>
 <div class="links-twocolumn"><div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.cs" title="Spouštění aplikací"><span class="title">Spouštění aplikací</span><span class="linkdiv-dash"> — </span><span class="desc">Jak spustit aplikaci z přehledu <span class="gui">Činnosti</span>.</span></a></div></div>

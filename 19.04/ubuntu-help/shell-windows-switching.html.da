@@ -65,46 +65,26 @@
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-windows" title="Arbejd med vinduer">Windows</a> » </div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="shell-overview.html.da" title="Dit skrivebord">Skrivebord</a> › <a class="trail" href="shell-overview.html.da#apps" title="Programmer og vinduer">Programmer og vinduer</a> » <a class="trail" href="shell-windows.html.da" title="Vinduer og arbejdsområder">Vinduer og arbejdsområder</a> › <a class="trail" href="shell-windows.html.da#working-with-windows" title="Arbejd med vinduer">Vinduer</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Skift mellem vinduer</span></h1></div>
 <div class="region">
 <div class="contents">
-<p class="p">You can see all the running applications that have a graphical user
-  interface in the <span class="em">window switcher</span>. This makes
-  switching between tasks a single-step process and provides a full picture of
-  which applications are running.</p>
-<p class="p">From a workspace:</p>
+<p class="p">I <span class="em">vinduesskifteren</span> kan du se alle de kørende programmer, der har en grafisk brugerflade. Så skal der kun udføres ét trin for at skifte mellem opgaver, og det giver et fuldt billede af, hvilke programmer som kører.</p>
+<p class="p">Fra et arbejdsområde:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press
-      <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>
-      to bring up the <span class="gui">window switcher</span>.</p></li>
-<li class="steps"><p class="p">Release <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span> to select the next
-      (highlighted) window in the switcher.</p></li>
-<li class="steps"><p class="p">Otherwise, still holding down the <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>
-      Super</kbd></a></span> key, press <span class="key"><kbd>Tab</kbd></span> to cycle through the list of open
-      windows, or <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to cycle
-      backwards.</p></li>
+<li class="steps"><p class="p">Tryk på <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> for at få <span class="gui">vinduesskifteren</span> frem.</p></li>
+<li class="steps"><p class="p">Slip <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span> for at vælge det næste (fremhævede) vindue i skifteren.</p></li>
+<li class="steps"><p class="p">Ellers bliv ved med at holde <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd> Super</kbd></a></span>-tasten nede, tryk på <span class="key"><kbd>Tab</kbd></span> for at gennemløbe listen over åbne vinduer, eller <span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> for at gennemløbe baglæns.</p></li>
 </ol></div></div></div>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Windows in the window switcher are grouped by application. Previews of
-    applications with multiple windows pop down as you click through. Hold down
-    <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span> and press <span class="key"><kbd>`</kbd></span> (or the
-    key above <span class="key"><kbd>Tab</kbd></span>) to step through the list.</p></div></div></div></div>
-<p class="p">You can also move between the application icons in the window
-  switcher with the <span class="key"><kbd>→</kbd></span> or <span class="key"><kbd>←</kbd></span> keys, or
-  select one by clicking it with the mouse.</p>
-<p class="p">Previews of applications with a single window can be displayed with
-  the <span class="key"><kbd>↓</kbd></span> key.</p>
-<p class="p">From the <span class="gui">Activities</span> overview, click on a
-  <span class="link"><a href="shell-windows.html.da" title="Vinduer og arbejdsområder">window</a></span> to switch to it and leave the
-  overview. If you have multiple
-  <span class="link"><a href="shell-windows.html.da#working-with-workspaces" title="Arbejd med arbejdsområder">workspaces</a></span> open,
-  you can click on each workspace to view the open windows on each
-  workspace.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Vinduerne i vinduesskifteren grupperes efter programmer. Forhåndsvisninger af programmer med flere vinduer popper ned efterhånden som du klikker. Hold <span class="key"><a href="keyboard-key-super.html.da" title="Hvad er Super-tasten?"><kbd>Super</kbd></a></span> nede og tryk på <span class="key"><kbd>½</kbd></span> (eller tasten over <span class="key"><kbd>Tab</kbd></span>) for at gennemløbe listen.</p></div></div></div></div>
+<p class="p">Du kan også flytte mellem programikonerne i vinduesskifteren med <span class="key"><kbd>→</kbd></span>- eller <span class="key"><kbd>←</kbd></span>-tasterne eller vælge et ved at klikke på det med musen.</p>
+<p class="p">Forhåndsvisninger af programmer med et enkelt vindue kan vises med <span class="key"><kbd>↓</kbd></span>-tasten.</p>
+<p class="p">Fra <span class="gui">Aktivitetsoversigten</span> kan du klikke på et <span class="link"><a href="shell-windows.html.da" title="Vinduer og arbejdsområder">vindue</a></span> for at skifte til det og forlade oversigten. Hvis du har flere åbne <span class="link"><a href="shell-windows.html.da#working-with-workspaces" title="Arbejd med arbejdsområder">arbejdsområder</a></span>, så kan du klikke på et arbejdsområde for at vise de åbne vinduer på hvert arbejdsområde.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>

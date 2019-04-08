@@ -76,7 +76,9 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Αρχεία</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="app">Αρχεία</span> για να ανοίξει ο διαχειριστής αρχείων.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στα <span class="gui">Απορρίμματα</span> στην πλευρική στήλη. Αν δεν μπορείτε να δείτε την πλευρική στήλη, κάντε κλικ στο <span class="gui">Αρχεία</span> στην πάνω γραμμή και επιλέξτε το <span class="gui">Πλευρική στήλη</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
+      press the menu button in the top-right corner of the window and select
+      <span class="gui">Sidebar</span>.</p></li>
 <li class="steps"><p class="p">Εάν το διαγραμμένο αρχείο σας είναι εκεί, κάντε κλικ σε αυτό και επιλέξτε <span class="gui">Επαναφορά</span>. Θα ανακτηθεί στον φάκελο από όπου διαγράφτηκε.</p></li>
 </ol></div>
 </div></div>

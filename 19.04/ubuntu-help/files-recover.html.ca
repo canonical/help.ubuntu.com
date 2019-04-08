@@ -76,7 +76,9 @@
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general <span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="app">Fitxers</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="app">Fitxers</span> per obrir el gestor de fitxers.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Paperera</span> a la barra lateral. Si no veieu la barra lateral feu clic a <span class="gui">Fitxers</span> a la barra superior i trieu <span class="gui">Barra lateral</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
+      press the menu button in the top-right corner of the window and select
+      <span class="gui">Sidebar</span>.</p></li>
 <li class="steps"><p class="p">Si el fitxer esborrat hi és, feu clic i seleccioneu <span class="gui">Restaurar</span>. Es restaurarà a la carpeta des d'on s'hagi esborrat.</p></li>
 </ol></div>
 </div></div>

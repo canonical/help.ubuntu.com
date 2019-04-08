@@ -84,7 +84,7 @@
 <p class="p">Sie können Ihre Suche nach Ort und Dateityp eingrenzen.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Klicken Sie auf <span class="gui">Persönlicher Ordner</span>, um die Suche auf Ihren <span class="file">Persönlicher Ordner</span> einzugrenzen. Klicken Sie auf <span class="gui">Alle Dateien</span>, um überall zu suchen.</p></li>
-<li class="list"><p class="p">Klicken Sie auf den <span class="gui">+</span>-Knopf und wählen Sie einen <span class="gui">Dateityp</span> aus der Auswahlliste, um die Suche auf einen Dateityp einzugrenzen. Klicken Sie auf den <span class="key"><kbd>x</kbd></span>-Knopf, um diese Option zu entfernen und die Suchergebnisse auszuweiten.</p></li>
+<li class="list"><p class="p">Klicken Sie auf den <span class="gui">+</span>-Knopf und wählen Sie einen <span class="gui">Dateityp</span> aus der Auswahlliste, um die Suche auf einen Dateityp einzugrenzen. Klicken Sie auf den <span class="gui">x</span>-Knopf, um diese Option zu entfernen und die Suchergebnisse auszuweiten.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps"><p class="p">Sie können die Dateien des Suchergebnisses öffnen, kopieren, löschen oder auf andere Weise damit arbeiten, so wie Sie es mit jedem anderen Ordner in der Dateiverwaltung auch machen würden.</p></li>

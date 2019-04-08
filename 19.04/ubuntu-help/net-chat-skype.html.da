@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How can I use Skype on Ubuntu?</title>
+<title>Hvordan bruger jeg Skype i Ubuntu?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
 </head>
@@ -64,10 +64,10 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-chat.html.da" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk, web &amp; e-mail</a> » <a class="trail" href="net-chat.html.da" title="Chat og socialt netværk">Chat og socialt netværk</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup"><h1 class="title"><span class="title">How can I use Skype on Ubuntu?</span></h1></div>
+<div class="hgroup"><h1 class="title"><span class="title">Hvordan bruger jeg Skype i Ubuntu?</span></h1></div>
 <div class="region">
 <div class="contents">
 <p class="p">
@@ -90,9 +90,7 @@
 <li class="list"><p class="p">
       Open your web browser and go to the <span class="link"><a href="https://www.skype.com/get-skype/" title="https://www.skype.com/get-skype/">Download Skype</a></span> page.
     </p></li>
-<li class="list"><p class="p">
-      Click the <span class="gui">Get Skype for Linux DEB</span> button.
-    </p></li>
+<li class="list"><p class="p">Klik på <span class="gui">Hent Skype til Linux DEB</span>-knappen.</p></li>
 <li class="list"><p class="p">
       In the window which shows up, select <span class="gui">Open with</span> and <span class="gui">Software
       Install (default)</span>, and then click the <span class="gui">OK</span> button.
@@ -108,17 +106,17 @@
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.da" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
+<a href="net-chat.html.da" title="Chat og socialt netværk">Chat og socialt netværk</a><span class="desc"> — 
       <span class="link"><a href="net-chat-empathy.html.da" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.da" title="Video calls">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.da" title="How can I use Skype on Ubuntu?">install skype</a></span>
+      <span class="link"><a href="net-chat-video.html.da" title="Videoopkald">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.da" title="Hvordan bruger jeg Skype i Ubuntu?">install skype</a></span>
     </span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat-video.html.da" title="Video calls">Video calls</a><span class="desc"> — What applications can I use to make video calls?</span>
+<a href="net-chat-video.html.da" title="Videoopkald">Videoopkald</a><span class="desc"> — Hvilke programmer kan jeg bruge til at foretage videoopkald?</span>
 </li></ul></div>
 </div></div>
 </div>

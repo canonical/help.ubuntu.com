@@ -83,8 +83,9 @@
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ja#activities" title="アクティビティ画面">Activities</a></span> overview and
       start typing <span class="gui">Printers</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">プリンター</span>を選択します。</p></li>
-<li class="steps"><p class="p">右上にある<span class="gui">ロック解除</span>ボタンをクリックして、パスワードを入力します。</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button.</p></li>
+<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
+      type in your password when prompted.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Add a Printer…</span> button.</p></li>
 <li class="steps"><p class="p">ポップアップウィンドウで新しいプリンターを選択します。<span class="gui">追加</span>をクリックします。</p></li>
 </ol></div></div></div>
 <p class="p">If your printer does not appear in the Add a New Printer window, you may

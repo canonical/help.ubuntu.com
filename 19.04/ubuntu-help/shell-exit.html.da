@@ -64,7 +64,7 @@
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 19.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup"><h1 class="title"><span class="title">Log ud, sluk eller skift bruger</span></h1></div>
@@ -92,12 +92,10 @@
 <div class="title"><h3><span class="title">Se også</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="privacy-screen-lock.html.da" title="Låser skærmen automatisk">Låser skærmen automatisk</a><span class="desc"> — Prevent other people from using your desktop when you
-    go away from your computer.</span>
+<a href="privacy-screen-lock.html.da" title="Lås din skærm automatisk">Lås din skærm automatisk</a><span class="desc"> — Forhindr andre i at bruge dit skrivebord, når du er væk fra din computer.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html.da" title="Skærmen låser sig selv for hurtigt">Skærmen låser sig selv for hurtigt</a><span class="desc"> — Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span>
+<a href="session-screenlocks.html.da" title="Skærmen låser sig selv for hurtigt">Skærmen låser sig selv for hurtigt</a><span class="desc"> — Vælg hvor længe der skal ventes inden skærmen låses i <span class="gui">Privatliv</span>-indstillingerne.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -105,18 +103,11 @@
 </div>
 </div></div>
 <div id="suspend" class="sect"><div class="inner">
-<div class="hgroup"><h2 class="title"><span class="title">Hvile</span></h2></div>
+<div class="hgroup"><h2 class="title"><span class="title">Hviletilstand</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">To save power, suspend your computer when you are not using it. If you use
-  a laptop, GNOME, by default, suspends your computer automatically when you
-  close the lid.
-  This saves your state to your computer’s memory and powers off most of the
-  computer’s functions. A very small amount of power is still used during
-  suspend.</p>
-<p class="p">To suspend your computer manually, click the system menu on the right side
-  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
-  click the power off button, or simply long-click the power off button.</p>
+<p class="p">For at spare på strømmen kan du sætte din computer i hviletilstand når du ikke bruger den. Hvis du bruger en bærbar, så sætter GNOME, som standard, automatisk din computer i hviletilstand når du lukker låget. Det gemmer tilstanden i din computers hukommelse og slukker for de fleste af computerens funktioner. Der bruges fortsat en lille mængde strøm i hviletilstand.</p>
+<p class="p">For at sætte din computer i hviletilstand manuelt kan du klikke på systemmenuen på højre side af toplinjen. Der kan du enten holde <span class="key"><kbd>Alt</kbd></span>-tasten nede og klikke på slukknappen eller ganske enkelt klikke på slukknappen hvor du holder knappen nede længe.</p>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -127,10 +118,10 @@
 <a href="power-batterylife.html.da" title="Brug mindre strøm og forbedr batteriets levetid">Brug mindre strøm og forbedr batteriets levetid</a><span class="desc"> — Tips til at reducere din computers strømforbrug.</span>
 </li>
 <li class="links ">
-<a href="power-autosuspend.html.da" title="Opsæt automatisk hvile">Opsæt automatisk hvile</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-suspend.html.da" title="Hvad sker der når jeg sætter min computer i hviletilstand?">Hvad sker der når jeg sætter min computer i hviletilstand?</a><span class="desc"> — Hviletilstand får din computer til at sove, så den bruger mindre strøm.</span>
 </li>
 <li class="links ">
-<a href="power-suspend.html.da" title="What happens when I suspend my computer?">What happens when I suspend my computer?</a><span class="desc"> — Suspend sends your computer to sleep so it uses less power.</span>
+<a href="power-autosuspend.html.da" title="Opsæt automatisk hviletilstand">Opsæt automatisk hviletilstand</a><span class="desc"> — Konfigurer din computer, så den automatisk går i hviletilstand.</span>
 </li>
 </ul></div>
 </div></div></div>
@@ -141,17 +132,9 @@
 <div class="hgroup"><h2 class="title"><span class="title">Sluk eller genstart</span></h2></div>
 <div class="region">
 <div class="contents">
-<p class="p">If you want to power off your computer entirely, or do a full restart,
-  click the system menu on the right side of the top bar and press the power
-  off button at the bottom of the menu. A dialog will open offering you the
-  options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
-<p class="p">If there are other users logged in, you may not be allowed to power off or
-  restart the computer because this will end their sessions.  If you are an
-  administrative user, you may be asked for your password to power off.</p>
-<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">You may want to power off your computer if you wish to move it and do
-    not have a battery, if your battery is low or does not hold charge well. A
-    powered off computer also uses <span class="link"><a href="power-batterylife.html.da" title="Brug mindre strøm og forbedr batteriets levetid">less
-    energy</a></span> than one which is suspended.</p></div></div></div></div>
+<p class="p">Hvis du vil slukke helt for din computer eller foretage en fuld genstart, så klik på systemmenuen i højre side af toplinjen og tryk på slukknappen nederst i menuen. Der vises en dialog med <span class="gui">Genstart</span> og <span class="gui">Sluk</span>.</p>
+<p class="p">Hvis der er andre brugere som er logget ind, så vil du måske ikke have tilladelse til at slukke eller genstarte computeren da det vil afslutte deres session. Hvis du er en administrativ bruger, så kan du blive spurgt om din adgangskode for at slukke.</p>
+<div class="note note-tip" title="Tip"><div class="inner"><div class="region"><div class="contents"><p class="p">Du vil måske slukke din computer hvis du skal flytte den eller ikke har et batteri, hvis batteriet er lavt eller har ringe kapacitet. En slukket computer bruger også <span class="link"><a href="power-batterylife.html.da" title="Brug mindre strøm og forbedr batteriets levetid">mindre energi</a></span> end en som er i hviletilstand.</p></div></div></div></div>
 </div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
@@ -174,19 +157,15 @@
 <a href="shell-overview.html.da" title="Dit skrivebord">Dit skrivebord</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.da" title="Kalenderaftaler">Kalender</a></span>, <span class="link"><a href="shell-notifications.html.da" title="Påmindelser og påmindelseslisten">påmindelser</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.da" title="Nyttige tastaturgenveje">tastaturgenveje</a></span>, <span class="link"><a href="shell-windows.html.da" title="Vinduer og arbejdsområder">vinduer og arbejdsområder</a></span> …</span>
 </li>
 <li class="links ">
-<a href="power.html.da" title="Power &amp; battery">Power &amp; battery</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.da" title="Check the battery status">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.da" title="What happens when I suspend my computer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.da" title="Why does my screen go dim after a while?">screen dimming</a></span>…
-    </span>
+<a href="power.html.da" title="Strøm &amp; batteri">Strøm &amp; batteri</a><span class="desc"> — <span class="link"><a href="power-status.html.da" title="Tjek batteriets status">Batteristatus</a></span>, <span class="link"><a href="power-suspend.html.da" title="Hvad sker der når jeg sætter min computer i hviletilstand?">hviletilstand</a></span>, <span class="link"><a href="power-whydim.html.da" title="Hvorfor nedtones min skærm efter noget tid?">skærmnedtoning</a></span> …</span>
 </li>
-<li class="links "><a href="index.html.da" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
+<li class="links "><a href="index.html.da" title="Ubuntu-skrivebordsguide">Ubuntu-skrivebordsguide</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-autologin.html.da" title="Log ind automatisk">Log ind automatisk</a><span class="desc"> — Set up automatic login for when you switch on your computer.</span>
+<a href="user-autologin.html.da" title="Automatisk indlogning">Automatisk indlogning</a><span class="desc"> — Opsæt automatisk login til når du tænder din computer.</span>
 </li></ul></div>
 </div></div>
 </div>

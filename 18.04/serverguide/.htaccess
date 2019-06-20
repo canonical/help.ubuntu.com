@@ -1,0 +1,25 @@
+# .htaccess for the 18.04
+# serverguide, as multi-language is
+# eliminated. 2019.06.20.
+#
+# This file needs to be in the serverguide
+# directory, and gets clobbered when that
+# directory is replaced for a new release.
+# Put it back manually.
+#
+# If the following can be made to work,
+# currently doesn't, then the .htaccess
+# file could be up one level and not get
+# clobbered.
+#
+#RedirectMatch ^(.*serveguide/*.html)\..*$ $1
+#
+# The version that works, but needs to be
+# in the serverguide sub-directory.
+#
+# We'll use temporary until we know
+# we are not going to reverse the one
+# language only decision.
+#
+#RedirectMatch permanent ^(.*.html)\..*$ $1
+RedirectMatch ^(.*.html)\..*$ $1

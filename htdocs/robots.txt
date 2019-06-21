@@ -30,6 +30,10 @@ Disallow: /18.04/
 Disallow: /18.10/
 Disallow: /19.04/
 Disallow: /19.10/
+Disallow: /20.04/
+Disallow: /20.10/
+Disallow: /21.04/
+Disallow: /21.10/
 Disallow: /lts/ubuntu-help/
 Disallow: /stable/installation-guide/
 Disallow: /stable/serverguide/

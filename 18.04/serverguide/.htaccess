@@ -12,7 +12,7 @@
 # file could be up one level and not get
 # clobbered.
 #
-#RedirectMatch ^(.*serveguide/*.html)\..*$ $1
+#RedirectMatch ^(.*serverguide/*.html)\..*$ $1
 #
 # The version that works, but needs to be
 # in the serverguide sub-directory.

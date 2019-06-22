@@ -40,3 +40,7 @@ ForceLanguagePriority Prefer Fallback
 AddCharset UTF-8 .txt
 
 RedirectMatch permanent ^/(stable|lts|\d+\.\d+)/?(index\.html)?$ https://help.ubuntu.com
+
+# handle old links after the drop of multilingual support for
+# the 18.04 server guide
+RedirectMatch ^/(lts|18\.04)/(serverguide/.+\.html)\..* /$1/$2

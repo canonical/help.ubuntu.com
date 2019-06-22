@@ -22,4 +22,4 @@
 # language only decision.
 #
 #RedirectMatch permanent ^(.*.html)\..*$ $1
-RedirectMatch ^(.*.html)\..*$ $1
+#RedirectMatch ^(.*.html)\..*$ $1

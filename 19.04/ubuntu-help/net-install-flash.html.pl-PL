@@ -109,6 +109,61 @@
 </ol></div></div></div>
 </div></div>
 </div></div>
+<div id="snap" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Przeglądarka WWW dostarczana jako pakiet snap</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Jeśli używasz przeglądarki <span class="app">Firefox</span> lub <span class="app">Chromium</span> jako snap, to pakiety opisane powyżej nie będą działać. Zamiast tego należy skorzystać z instrukcji poniżej, aby zainstalować wtyczkę Flash.</p>
+<p class="p">Proszę zauważyć, że powinno się zawsze używać najnowszej wersji wtyczki Flash. Oznacza to, że należy powtórzyć kroki 2-7 co jakiś czas, aby nadal mieć dostęp do serwisów WWW wymagających wtyczki Flash.</p>
+<div class="steps ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-steps"><h3><span class="title">Firefox jako snap</span></h3></div>
+<div class="region"><ol class="steps">
+<li class="steps">
+<p class="p">Utwórz katalog <span class="sys">plugins</span>:</p>
+<p class="p"><span class="cmd">mkdir ~/snap/firefox/common/.mozilla/plugins</span></p>
+</li>
+<li class="steps"><p class="p">Przejdź na stronę <span class="link"><a href="https://get.adobe.com/flashplayer/" title="https://get.adobe.com/flashplayer/">https://get.adobe.com/flashplayer/</a></span>.</p></li>
+<li class="steps"><p class="p">Pobierz plik <span class="sys">.tar.gz</span> dla systemu Linux.</p></li>
+<li class="steps"><p class="p">Przejdź do katalogu z pobranymi plikami.</p></li>
+<li class="steps">
+<p class="p">Rozpakuj pliki z pobranego archiwum:</p>
+<p class="p"><span class="cmd">tar xf flash_player*</span></p>
+</li>
+<li class="steps">
+<p class="p">Skopiuj plik <span class="sys">libflashplayer.so</span> do katalogu <span class="sys">plugins</span>:</p>
+<p class="p"><span class="cmd">cp libflashplayer.so ~/snap/firefox/common/.mozilla/plugins</span></p>
+</li>
+<li class="steps"><p class="p">Ponownie uruchom przeglądarkę.</p></li>
+</ol></div>
+</div>
+</div>
+<div class="steps ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-steps"><h3><span class="title">Chromium jako snap</span></h3></div>
+<div class="region"><ol class="steps">
+<li class="steps">
+<p class="p">Utwórz katalog <span class="sys">lib</span>:</p>
+<p class="p"><span class="cmd">mkdir ~/snap/chromium/current/.local/lib</span></p>
+</li>
+<li class="steps"><p class="p">Przejdź na stronę <span class="link"><a href="https://get.adobe.com/flashplayer/" title="https://get.adobe.com/flashplayer/">https://get.adobe.com/flashplayer/</a></span>.</p></li>
+<li class="steps"><p class="p">Pobierz plik <span class="sys">.tar.gz</span> dla systemu Linux.</p></li>
+<li class="steps"><p class="p">Przejdź do katalogu z pobranymi plikami.</p></li>
+<li class="steps">
+<p class="p">Rozpakuj pliki z pobranego archiwum:</p>
+<p class="p"><span class="cmd">tar xf flash_player*</span></p>
+</li>
+<li class="steps">
+<p class="p">Skopiuj plik <span class="sys">libpepflashplayer.so</span> do katalogu <span class="sys">lib</span>:</p>
+<p class="p"><span class="cmd">cp libpepflashplayer.so ~/snap/chromium/current/.local/lib</span></p>
+</li>
+<li class="steps"><p class="p">Ponownie uruchom przeglądarkę.</p></li>
+</ol></div>
+</div>
+</div>
+</div></div>
+</div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">

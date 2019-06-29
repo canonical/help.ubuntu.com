@@ -109,6 +109,61 @@
 </ol></div></div></div>
 </div></div>
 </div></div>
+<div id="snap" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">Webbläsare tillhandahållen som ett snap-paket</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Om du använder <span class="app">Firefox</span> eller <span class="app">Chromium</span> som snap, så hjälper inte paketen som beskrivs ovan. I stället föreslås åtgärderna nedan för att göra Flash tillgängligt.</p>
+<p class="p">Märk att du förväntas att alltid använda den senaste versionen av Flash. Det betyder att du behöver repetera steg 2 -7 emellanåt för fortsatt åtkomst till webbtjänster som kräver Flash.</p>
+<div class="steps ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-steps"><h3><span class="title">Firefox som snap-paket</span></h3></div>
+<div class="region"><ol class="steps">
+<li class="steps">
+<p class="p">Skapa en <span class="sys">plugins</span>-katalog:</p>
+<p class="p"><span class="cmd">mkdir ~/snap/firefox/common/.mozilla/plugins</span></p>
+</li>
+<li class="steps"><p class="p">Gå till <span class="link"><a href="https://get.adobe.com/flashplayer/" title="https://get.adobe.com/flashplayer/">https://get.adobe.com/flashplayer/</a></span>.</p></li>
+<li class="steps"><p class="p">Hämta <span class="sys">.tar.gz</span>-filen för Linux.</p></li>
+<li class="steps"><p class="p">Navigera till katalogen för hämtade filer.</p></li>
+<li class="steps">
+<p class="p">Extrahera filerna från den hämtade arkivfilen:</p>
+<p class="p"><span class="cmd">tar xf flash_player*</span></p>
+</li>
+<li class="steps">
+<p class="p">Kopiera <span class="sys">libflashplayer.so</span> till <span class="sys">plugins</span>-katalogen:</p>
+<p class="p"><span class="cmd">cp libflashplayer.so ~/snap/firefox/common/.mozilla/plugins</span></p>
+</li>
+<li class="steps"><p class="p">Starta om din webbläsare.</p></li>
+</ol></div>
+</div>
+</div>
+<div class="steps ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-steps"><h3><span class="title">Chromium som snap-paket</span></h3></div>
+<div class="region"><ol class="steps">
+<li class="steps">
+<p class="p">Skapa en <span class="sys">lib</span>-katalog:</p>
+<p class="p"><span class="cmd">mkdir ~/snap/chromium/current/.local/lib</span></p>
+</li>
+<li class="steps"><p class="p">Gå till <span class="link"><a href="https://get.adobe.com/flashplayer/" title="https://get.adobe.com/flashplayer/">https://get.adobe.com/flashplayer/</a></span>.</p></li>
+<li class="steps"><p class="p">Hämta <span class="sys">.tar.gz</span>-filen för Linux.</p></li>
+<li class="steps"><p class="p">Navigera till katalogen för hämtade filer.</p></li>
+<li class="steps">
+<p class="p">Extrahera filerna från den hämtade arkivfilen:</p>
+<p class="p"><span class="cmd">tar xf flash_player*</span></p>
+</li>
+<li class="steps">
+<p class="p">Kopiera <span class="sys">libpepflashplayer.so</span> till <span class="sys">lib</span>-katalogen:</p>
+<p class="p"><span class="cmd">cp libpepflashplayer.so ~/snap/chromium/current/.local/lib</span></p>
+</li>
+<li class="steps"><p class="p">Starta om din webbläsare.</p></li>
+</ol></div>
+</div>
+</div>
+</div></div>
+</div></div>
 <div class="sect sect-links" role="navigation">
 <div class="hgroup"></div>
 <div class="contents"><div class="links guidelinks"><div class="inner">

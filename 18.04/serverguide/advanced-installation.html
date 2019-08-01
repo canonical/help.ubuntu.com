@@ -814,7 +814,8 @@ unused devices: &lt;none&gt;</span>
 <div class="hgroup"><h2 class="title">iSCSI</h2></div>
 <div class="region">
 <div class="contents"><p class="para">The iSCSI protocol can be used to install Ubuntu on systems with
-        or without hard disks attached.</p></div>
+        or without hard disks attached, and iBFT can be used to automate iSCSI
+        setup on installation and boot.</p></div>
 <div class="sect3 sect"><div class="inner">
 <div class="hgroup"><h3 class="title">Installation on a diskless system</h3></div>
 <div class="region"><div class="contents">
@@ -943,6 +944,23 @@ iSCSI targets on 192.168.1.29:3260:
             proper device before proceeding with the installation. Otherwise,
             irreversible data loss may result from performing an installation on
             the wrong disk.</p>
+          </div></div></div></div>
+</div></div>
+</div></div>
+<div class="sect3 sect"><div class="inner">
+<div class="hgroup"><h3 class="title">Installation with iBFT</h3></div>
+<div class="region"><div class="contents">
+<p class="para">In order to setup iSCSI based on the iBFT (iSCSI Boot Firmware Table)
+          on the installation and boot, append these options at the installer prompt
+          (or to the preseed file):</p>
+<div class="screen"><pre class="contents ">disk-detect/ibft/enable=true partman-iscsi/iscsi_auto=true</pre></div>
+<p class="para">This should probe for iBFT information and configure network interface(s)
+          and iSCSI target(s) accordingly during the installation, and configure system
+          boot (initramfs) to do that too in order to find the root device.</p>
+<div class="note note-warning" title="Warning"><div class="inner"><div class="region"><div class="contents">
+            <p class="para">The support for iBFT is available in the debian-installer on netboot
+            images as of 2019-06-20 and (expected) on ISO images for the 18.04.3 point
+            release and later.</p>
           </div></div></div></div>
 </div></div>
 </div></div>

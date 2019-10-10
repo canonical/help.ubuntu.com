@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang=nl>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Deel uw desktop</title>
+<link rel="stylesheet" type="text/css" href="nl.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 19.10</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 19.10</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="sharing.html.nl" title="Delen">Delen</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Deel uw desktop</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">U kunt instellen dat anderen uw bureaublad kunnen bekijken en besturen van een andere computer via een desktopviewer. Stel <span class="gui">Bureaublad delen</span> zo in dat anderen toegang mogen hebben tot uw bureaublad en beveiligingsvoorkeuren mogen instellen.</p>
+<div class="note note-package" title="Pakket">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m3 10v7.429l9 5.571 9-5.571v-7.429l-9 5z"></path>
+ <path class="yelp-svg-fill" d="m3 7v2l9 5 9-5v-2l-9-5z"></path>
+</svg><div class="inner"><div class="region"><div class="contents">
+<p class="p">Om <span class="gui">Schermdelen</span> zichtbaar te krijgen dient het pakket <span class="app">Vino</span> geïnstalleerd te zijn.</p>
+<p class="p"><span class="link-button link"><a href="apt:vino" title="apt:vino">Vino installeren</a></span></p>
+</div></div></div>
+</div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> 
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Sharing</span> in the sidebar to open the panel.</p></li>
+<li class="steps">
+<p class="p">If the <span class="gui">Sharing</span> switch at the top-right of the window is set
+      to off, switch it to on.</p>
+<div class="note" title="Opmerking">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Als u de tekst onder <span class="gui">Computernaam</span>kunt bewerken, dan kunt u de naam van uw computer zoals die getoond wordt in het netwerk <span class="link"><a href="sharing-displayname.html.nl" title="De weergavenaam van uw computer instellen">wijzigen</a></span></p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">Selecteer <span class="gui">Scherm delen</span>.</p></li>
+<li class="steps"><p class="p">To let others view your desktop, switch the <span class="gui">Screen Sharing</span>
+      switch to on. This means that other people will be able to attempt to
+      connect to your computer and view what’s on your screen.</p></li>
+<li class="steps"><p class="p">To let others interact with your desktop, ensure that <span class="gui">Allow
+      connections to control the screen</span> is checked. This may allow the
+      other person to move your mouse, run applications, and browse files on
+      your computer, depending on the security settings which you are currently
+      using.</p></li>
+</ol></div></div></div>
+</div>
+<section id="security"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Beveiliging</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Het is belangrijk dat u zich bewust bent van wat elke beveiligingsoptie precies betekent voordat u iets wijzigt.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Nieuwe verbindingen moeten toegang vragen</dt>
+<dd class="terms">
+<p class="p">Als u de mogelijkheid wilt hebben te kiezen of u iemand toegang geeft tot uw bureaublad, selecteer dan <span class="gui">U dient elke toegang tot deze machine te bevestigen</span>. Als u deze optie uitschakelt, dan wordt u niet gevraagd of u iemand toe wilt staan met uw computer te verbinden.</p>
+<div class="note note-tip" title="Tip">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
+ <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Deze optie is standaard ingeschakeld.</p></div></div></div>
+</div>
+</dd>
+<dt class="terms">Een wachtwoord vereisen</dt>
+<dd class="terms">
+<p class="p">Om te vereisen dat andere mensen een wachtwoord invoeren om met uw bureaublad te verbinden, schakel <span class="gui">Een wachtwoord vereisen</span> in. Wanneer u deze optie niet gebruikt, kan iedereen proberen om uw bureaublad te bekijken.</p>
+<div class="note note-tip" title="Tip">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
+ <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Deze optie is standaard uitgeschakeld, maar u kunt hem inschakelen en een veilig wachtwoord instellen.</p></div></div></div>
+</div>
+</dd>
+</dl></div></div></div>
+</div></div>
+</div></section><section id="networks"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Netwerken</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p">The <span class="gui">Networks</span> section lists the networks to which you are
+  currently connected. Use the switch next to each to choose where your
+  desktop can be shared.</p></div></div>
+</div></section><section id="disconnect"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Uw bureaublad niet meer delen</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">To disconnect someone who is viewing your desktop:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span> 
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Sharing</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p"><span class="gui">Screen Sharing</span> will show as <span class="gui">Active</span>. Click on
+      it.</p></li>
+<li class="steps"><p class="p">Toggle the switch at the top to off.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Meer informatie</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="sharing.html.nl" title="Delen">Delen</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Bureaublad delen</a></span>, <span class="link"><a href="files-share.html.nl" title="Bestanden delen per e-mail">Bestanden delen per e-mail</a></span>, <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
+</li>
+<li class="links ">
+<a href="prefs-sharing.html.nl" title="Instellingen voor delen">Instellingen voor delen</a><span class="desc"> — <span class="link"><a href="sharing-bluetooth.html.nl" title="Delen van besturing via Bluetooth">Bluetooth delen</a></span>, <span class="link"><a href="sharing-personal.html.nl" title="Uw persoonlijke bestanden delen">Delen persoonlijk bestand</a></span>, <span class="link"><a href="sharing-desktop.html.nl" title="Deel uw desktop">Scherm delen</a></span>, <span class="link"><a href="sharing-media.html.nl" title="Uw muziek, foto's en video's delen">Media delen</a></span>…</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

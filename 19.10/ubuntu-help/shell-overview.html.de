@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Ihre Arbeitsumgebung</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 19.10</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Ihre Arbeitsumgebung</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.de" title="Visuelle Übersicht über GNOME"><span class="title">Visuelle Übersicht über GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Eine visuelle Einführung in Ihre Arbeitsumgebung, die obere Leiste und die <span class="gui">Aktivitäten</span>-Übersicht.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.de" title="Abmelden, ausschalten oder Benutzer wechseln"><span class="title">Abmelden, ausschalten oder Benutzer wechseln</span><span class="linkdiv-dash"> — </span><span class="desc">Erfahren Sie, wie Sie Ihr Benutzerkonto verlassen können, indem Sie sich abmelden, den Benutzer wechseln und so weiter.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.de" title="Anwendungen starten"><span class="title">Anwendungen starten</span><span class="linkdiv-dash"> — </span><span class="desc">Anwendungen in der <span class="gui">Aktivitäten</span>-Übersicht starten.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="gnome-classic.html.de" title="Was ist das klassische GNOME?"><span class="title">Was ist das klassische GNOME?</span><span class="linkdiv-dash"> — </span><span class="desc">Betrachten Sie einen Wechsel zu GNOME-Klassisch, wenn Sie eine traditionelle Arbeitsumgebung wünschen.</span></a></div>
+</div>
+</div></div></div></div></div>
+<section id="desktop"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Ihre Arbeitsumgebung anpassen</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.de" title="Anwendungen automatisch bei Anmeldung starten"><span class="title">Anwendungen automatisch bei Anmeldung starten</span><span class="linkdiv-dash"> — </span><span class="desc">Nutzen Sie <span class="app">Optimierungen</span>, um Anwendungen automatisch bei Anmeldung zu starten.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.de" title="Benachrichtigungen und die Benachrichtigungsliste"><span class="title">Benachrichtigungen und die Benachrichtigungsliste</span><span class="linkdiv-dash"> — </span><span class="desc">Meldungen klappen vom oberen Rand des Bildschirms aus und informieren Sie über diverse Ereignisse.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.de" title="Ihre Lieblingsanwendungen am Dash anheften"><span class="title">Ihre Lieblingsanwendungen am Dash anheften</span><span class="linkdiv-dash"> — </span><span class="desc">Fügen Sie Symbole häufig genutzter Programme zum Dash hinzu oder entfernen Sie sie daraus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.de" title="Kalendereinträge"><span class="title">Kalendereinträge</span><span class="linkdiv-dash"> — </span><span class="desc">Ihre Termine im Kalender oben am Bildschirm anzeigen.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="apps"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Anwendungen und Fenster</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.de" title="Autostartanwendungen"><span class="title">Autostartanwendungen</span><span class="linkdiv-dash"> — </span><span class="desc">Wählen Sie welche Programme gestartet werden sollen, wenn Sie sich einloggen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.de" title="Der Sperrbildschirm"><span class="title">Der Sperrbildschirm</span><span class="linkdiv-dash"> — </span><span class="desc">Der dekorative und funktionale Sperrbildschirm vermittelt nützliche Informationen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.de" title="Fenster und Arbeitsflächen"><span class="title">Fenster und Arbeitsflächen</span><span class="linkdiv-dash"> — </span><span class="desc">Verschieben und Organisieren Ihrer Fenster.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.de" title="Nützliche Tastenkombinationen"><span class="title">Nützliche Tastenkombinationen</span><span class="linkdiv-dash"> — </span><span class="desc">Bewegen in der Arbeitsumgebung mit der Tastatur.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.de" title="Was bedeuten die Symbole im oberen Panel?"><span class="title">Was bedeuten die Symbole im oberen Panel?</span><span class="linkdiv-dash"> — </span><span class="desc">Erläutert die Bedeutung der Symbole an der rechten Seite des oberen Panels.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.de" title="Wechseln zwischen Fenstern"><span class="title">Wechseln zwischen Fenstern</span><span class="linkdiv-dash"> — </span><span class="desc">Drücken Sie <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html.de" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

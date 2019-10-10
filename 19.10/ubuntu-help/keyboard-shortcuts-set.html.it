@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang=it>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Impostare scorciatoie da tastiera</title>
+<link rel="stylesheet" type="text/css" href="it.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 19.10</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.it" title="Hardware e driver">Hardware</a> » <a class="trail" href="keyboard.html.it" title="Tastiera">Tastiera</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 19.10</span> » <a class="trail" href="index.html.it" title="Guida Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.it" title="Impostazioni utente e di sistema">Impostazioni</a> » <a class="trail" href="keyboard.html.it" title="Tastiera">Tastiera</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Impostare scorciatoie da tastiera</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Per cambiare il tasto o i tasti da premere per una scorciatoia da tastiera:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.it#activities" title="Activities overview">Activities</a></span> 
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
+      window will be shown.</p></li>
+<li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to
+      reset, or press <span class="key"><kbd>Esc</kbd></span> to cancel.</p></li>
+</ol></div></div></div>
+</div>
+<section id="defined"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Scorciatoie pre-impostate</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Sono disponibili diverse scorciatoie preconfigurate, tutte configurabili, raggruppate nelle seguenti categorie:</p>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Lanciatori</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Cartella home</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="key"><kbd>Explorer</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Lancia la calcolatrice</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> or <span class="key"><kbd>Calculator</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Lancia il client email</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> or <span class="key"><kbd>Mail</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Lancia il browser manuali</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Lancia il browser web</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="key"><kbd>WWW</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Ricerca</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> or <span class="key"><kbd>Search</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Settings</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Tools</kbd></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Navigazione</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Nascondere tutte le finestre normali</p></td>
+<td><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Passare allo spazio di lavoro in alto</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Passare allo spazio di lavoro in basso</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor down</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.it" title="Cos'è il tasto Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor to the left</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor to the right</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor up</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Spostare una finestra sullo spazio di lavoro in basso</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span>
+  </p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Spostare una finestra sullo spazio di lavoro in alto</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window to last workspace</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span>
+  </p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Spostare una finestra sullo spazio di lavoro 1</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span>
+  </p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Spostare una finestra sullo spazio di lavoro 2</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Spostare una finestra sullo spazio di lavoro 3</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Spostare una finestra sullo spazio di lavoro 4</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Cambiare applicazione</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Attivare i controlli di sistema</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Attivare i controlli di sistema direttamente</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Switch to last workspace</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Passare allo spazio di lavoro 1</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Passare allo spazio di lavoro 2</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Passare allo spazio di lavoro 3</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Passare allo spazio di lavoro 4</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Switch windows</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Cambiare finestra direttamente</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Cambiare finestra di un'applicazione direttamente</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Cambiare finestra di un'applicazione</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Schermate</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Copia una schermata di una finestra negli appunti</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Stamp</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Copia una schermata di un'area negli appunti</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maiusc</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Stamp</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Copia una schermata negli appunti</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Stamp</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Record a short screencast</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Stamp</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Save a screenshot of an area to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maiusc</kbd></span>+<span class="key"><kbd>Stamp</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Save a screenshot to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Stamp</kbd></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Audio e media</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Espelli</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Eject)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Lancia il riproduttore multimediale</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Audio media)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Traccia successiva</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio next)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Riproduzione in pausa</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Audio pause)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Riproduci (o riproduci/pausa)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Audio play)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Traccia precedente</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio previous)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Ferma la riproduzione</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Audio stop)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Abbassa il volume</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Audio lower volume)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Azzera il volume</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Audio mute)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Alza il volume</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Audio raise volume)</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Sistema</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Focus the active notification</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>N</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Blocca lo schermo</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Termina la sessione</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Canc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Open the application menu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Restore the keyboard shortcuts</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show all applications</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Mostra la panoramica delle attività</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show the notification list</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show the overview</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Mostra il prompt esegui comando</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Typing</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Switch to next input source</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Switch to previous input source</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Accesso universale</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Diminuisci la dimensione del testo</p></td>
+<td><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Attiva o disattiva il contrasto elevato</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Incrementa la dimensione del testo</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Attiva o disattiva la tastiera a schermo</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Attiva o disattiva lo screen reader</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Attiva o disattiva l'ingrandimento</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>8</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Aumenta l'ingrandimento</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>=</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Riduci l'ingrandimento</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>-</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Finestre</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Attiva il menù della finestra</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Spazio</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Chiudi la finestra</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Hide window</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Abbassa la finestra sotto le altre</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Massimizza la finestra</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Massimizza la finestra orizzontalmente</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Massimizza la finestra verticalmente</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Muovi la finestra</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Solleva la finestra sopra le altre finestre</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Solleva la finestra se è coperta, in caso contrario l'abbassa</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Ridimensiona la finestra</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Ripristina la finestra</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Commuta la modalità schermo intero</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Commuta lo stato massimizzato</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Commuta lo stato «su tutti gli spazi di lavoro» per la finestra</p></td>
+<td style="border-top-style: solid;"><p class="p">Disabilitato</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">View split on left</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">View split on right</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+</div></div>
+</div></section><section id="custom"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Scorciatoie personalizzate</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">To create your own application keyboard shortcut in the
+  <span class="app">Keyboard</span> settings:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Click the <span class="gui">+</span> button. The <span class="gui">Add Custom
+      Shortcut</span> window will appear.</p></li>
+<li class="steps"><p class="p">Type a <span class="gui">Name</span> to identify the shortcut, and a
+      <span class="gui">Command</span> to run an application.
+      For example, if you wanted the shortcut to open <span class="app">Rhythmbox</span>, you
+      could name it <span class="input">Music</span> and use the <span class="input">rhythmbox</span>
+      command.</p></li>
+<li class="steps"><p class="p">Click the row that was just added. When the
+      <span class="gui">Set Custom Shortcut</span> window opens, hold down the desired
+      shortcut key combination.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Add</span>.</p></li>
+</ol></div></div></div>
+<p class="p">The command name that you type should be a valid system command. You can
+  check that the command works by opening a Terminal and typing it in there.
+  The command that opens an application cannot have the same name as the
+  application itself.</p>
+<p class="p">If you want to change the command that is associated with a custom
+  keyboard shortcut, click the <span class="em">name</span> of the shortcut. The
+  <span class="gui">Set Custom Shortcut</span> window will appear, and you can edit the
+  command.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Ulteriori informazioni</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="keyboard.html.it" title="Tastiera">Tastiera</a><span class="desc"> — 
+      <span class="link"><a href="keyboard-layouts.html.it" title="Use alternative keyboard layouts">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.it" title="Rendere il cursore intermittente">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.it#mobility" title="Difficoltà motorie">keyboard accessibility</a></span>…
+    </span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Confronta anche</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-keyboard-shortcuts.html.it" title="Utili scorciatoie da tastiera">Utili scorciatoie da tastiera</a><span class="desc"> — Spostarsi all'interno dell'ambiente grafico usando la tastiera.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang=ca>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Maquinari i controladors</title>
+<link rel="stylesheet" type="text/css" href="ca.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Maquinari i controladors</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="links-grid-container">
+<div class="links-grid ">
+<div class="links-grid-link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="bluetooth-connect-device.html.ca" title="Connectar l'ordinador a un dispositiu Bluetooth">Connecta</a></span>, <span class="link"><a href="bluetooth-send-file.html.ca" title="Enviar fitxers a un dispositiu Bluetooth">envia fitxers</a></span>, <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth">activar i desactivar</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="disk-capacity.html.ca" title="Comprovar la quantitat d'espai al disc que queda">Espai del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Provar el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comprovar si el vostre disc dur té problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestionar els volums i les particions">volums i particions</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="hardware-auth.html.ca" title="Empremtes i targetes intel·ligents">Empremtes i targetes intel·ligents</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-fingerprint.html.ca" title="Registrar-se mitjançant l'empremta digital">Lectors d'empremtes</a></span>, targetes intel·ligents…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="power.html.ca" title="Energia i bateria">Energia i bateria</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.ca" title="Comprovar l'estat de la bateria">Estat de la bateria</a></span>, <span class="link"><a href="power-suspend.html.ca" title="Què passa quan es suspèn el meu ordinador?">en suspensió</a></span>, <span class="link"><a href="power-whydim.html.ca" title="Per què s'enfosqueix la pantalla després d'una estona?">atenuació de la pantalla</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="color.html.ca" title="Gestió dels colors">Gestió dels colors</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.ca" title="Per què és important la gestió del color?">Per què és important</a></span>, <span class="link"><a href="color.html.ca#profiles" title="Perfils de color">Perfils de color</a></span>, <span class="link"><a href="color.html.ca#calibration" title="Calibratge">Com calibrar un dispositiu</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="printing.html.ca" title="Impressió">Impressió</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.ca" title="Configurar una impressora local">Configuració local</a></span>, <span class="link"><a href="printing-order.html.ca" title="Fer que les pàgines s'imprimeixin en un ordre diferent"> ordre i compaginació</a></span>, <span class="link"><a href="printing-2sided.html.ca" title="Imprimeix dissenys a dues cares i en diverses pàgines">dues cares i múltiples pàgines</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">Ratolí, pantalla tàctil i pantalla tàctil</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.ca" title="Utilitzar el ratolí amb la mà esquerra">Esquerrà</a></span>, <span class="link"><a href="mouse-sensitivity.html.ca" title="Ajustar la velocitat del ratolí i del tauler tàctil">velocitat i sensibilitat</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ca" title="Fer clic, arrossegar o desplaçar-vos amb el tauler tàctil">clic i desplaçament del ratolí tàctil</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="wacom.html.ca" title="Tauleta gràfica Wacom">Tauleta gràfica Wacom</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="wacom-multi-monitor.html.ca" title="Triar un monitor">Mapejar un monitor</a></span>, <span class="link"><a href="wacom-stylus.html.ca" title="Configurar el llapis">configurar el llapis</a></span>, <span class="link"><a href="wacom-left-handed.html.ca" title="Utilitzar la tauleta per a esquerrans">utilitzeu la tauleta per esquerrans</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.ca" title="Utilitzar disposicions de teclat alternatives">Dispositius de teclat</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.ca" title="Fer que el cursor del teclat parpellegi">parpelleig del cursor</a></span>, <span class="link"><a href="a11y.html.ca#mobility" title="Discapacitats de mobilitat">accessibilitat del teclat</a></span>…</span></div>
+</div>
+<div class="links-grid"></div>
+<div class="links-grid"></div>
+</div></div></div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h2><span class="title">Més temes</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="hardware-driver.html.ca" title="Què és un disc?">Què és un disc?</a><span class="desc"> — Un controlador de maquinari / dispositiu permet a l'ordinador utilitzar els dispositius que s'hi adjunten.</span>
+</li></ul></div>
+</div></div>
+</div>
+<section id="problems"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Problemes comuns</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
+<li class="links ">
+<a href="hardware-cardreader.html.ca" title="Problemes amb el lector de targetes multimèdia">Problemes amb el lector de targetes multimèdia</a><span class="desc"> — Solucionar problemes amb els lectors de targetes multimèdia.</span>
+</li>
+<li class="links ">
+<a href="sound-broken.html.ca" title="Problemes amb el so">Problemes amb el so</a><span class="desc"> — Resoldre problemes com no tenir so o tenir-ne mala qualitat.</span>
+</li>
+<li class="links ">
+<a href="power.html.ca#problems" title="Problemes">Problemes d'energia</a><span class="desc"> — Resoldre problemes amb la potència i les bateries.</span>
+</li>
+<li class="links ">
+<a href="printing.html.ca#problems" title="Problemes de la impressora">Problemes de la impressora</a><span class="desc"> — Impressores no detectades, embussos de paper, impressions que es veuen malament…</span>
+</li>
+<li class="links ">
+<a href="hardware-problems-graphics.html.ca" title="Problemes de pantalla">Problemes de pantalla</a><span class="desc"> — Resolució de problemes de pantalla i gràfics.</span>
+</li>
+<li class="links "><a href="bluetooth.html.ca#problems" title="Problemes">Problemes del Bluetooth</a></li>
+<li class="links ">
+<a href="net-wireless-troubleshooting.html.ca" title="Solució de problemes de xarxa sense fil">Solució de problemes de xarxa sense fil</a><span class="desc"> — Identificar i solucionar problemes de la xarxa sense fil.</span>
+</li>
+</ul></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Més informació</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu">Guia de l'escriptori de l'Ubuntu</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

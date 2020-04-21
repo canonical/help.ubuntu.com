@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Tastatur</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Tastatur</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h2><span class="title">Region und Sprache</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="keyboard-layouts.html.de" title="Alternative Tastaturbelegungen verwenden">Alternative Tastaturbelegungen verwenden</a><span class="desc"> — Tastaturbelegungen hinzufügen und zwischen diesen wechseln.</span>
+</li></ul></div>
+</div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h2><span class="title">Barrierefreiheit</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-osk.html.de" title="Eine Bildschirmtastatur verwenden">Eine Bildschirmtastatur verwenden</a><span class="desc"> — So verwenden Sie eine Bildschirmtastatur zur Texteingabe durch Mausklicks oder mit einem Tastbildschirm.</span>
+</li>
+<li class="links ">
+<a href="a11y-stickykeys.html.de" title="Klebrige Tasten aktivieren">Klebrige Tasten aktivieren</a><span class="desc"> — Tastenkombinationen Taste für Taste tippen, statt alle Tasten gleichzeitig gedrückt halten zu müssen.</span>
+</li>
+<li class="links ">
+<a href="a11y-bouncekeys.html.de" title="Springende Tasten aktivieren">Springende Tasten aktivieren</a><span class="desc"> — Schnell wiederholtes Drücken derselben Tasten ignorieren.</span>
+</li>
+<li class="links ">
+<a href="keyboard-nav.html.de" title="Tastatursteuerung">Tastatursteuerung</a><span class="desc"> — Benutzen Sie Anwendungen und die Arbeitsumgebung ohne Maus.</span>
+</li>
+<li class="links ">
+<a href="a11y-slowkeys.html.de" title="Tastenverzögerung einschalten">Tastenverzögerung einschalten</a><span class="desc"> — Eine Verzögerung zwischen dem Drücken der Taste und dem Erscheinen des Buchstabens am Bildschirm.</span>
+</li>
+<li class="links ">
+<a href="keyboard-key-menu.html.de" title="Was ist die Menü-Taste?">Was ist die <span class="key"><kbd>Menü</kbd></span>-Taste?</a><span class="desc"> — Die <span class="key"><kbd>Menü</kbd></span>-Taste öffnet ein Kontextmenü mit der Tastatur anstatt mit einem Klick mit der rechten Maustaste.</span>
+</li>
+<li class="links ">
+<a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?">Was ist die <span class="key"><kbd>Super</kbd></span>-Taste?</a><span class="desc"> — Die <span class="key"><kbd>Super</kbd></span>-Taste öffnet die <span class="gui">Aktivitäten</span>-Übersicht. Sie finden diese Taste üblicherweise neben der <span class="key"><kbd>Alt</kbd></span>-Taste auf Ihrer Tastatur.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h2><span class="title">Weitere Themen</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-cursor-blink.html.de" title="Den Tastaturcursor blinken lassen">Den Tastaturcursor blinken lassen</a><span class="desc"> — Den Tastaturcursor blinken lassen und einstellen, wie schnell er blinkt.</span>
+</li>
+<li class="links ">
+<a href="numeric-keypad.html.de" title="Nummernfeld">Nummernfeld</a><span class="desc"> — Das Nummernfeld standardmäßig aktivieren.</span>
+</li>
+<li class="links ">
+<a href="shell-keyboard-shortcuts.html.de" title="Nützliche Tastenkombinationen">Nützliche Tastenkombinationen</a><span class="desc"> — Bewegen in der Arbeitsumgebung mit der Tastatur.</span>
+</li>
+<li class="links ">
+<a href="keyboard-shortcuts-set.html.de" title="Tastenkombinationen einrichten">Tastenkombinationen einrichten</a><span class="desc"> — Festlegen und Ändern von Tastenkombination in den <span class="gui">Tastatur</span>-Einstellungen.</span>
+</li>
+<li class="links ">
+<a href="keyboard-repeat-keys.html.de" title="Wiederholte Tastendrücke verwalten">Wiederholte Tastendrücke verwalten</a><span class="desc"> — Buchstaben von der Tastatur nicht wiederholt auslösen lassen, wenn Sie eine Taste gedrückt halten, oder die Verzögerung und Geschwindigkeit der Wiederholung ändern.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Benutzer- und Systemeinstellungen</a><span class="desc"> — <span class="link"><a href="keyboard.html.de" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.de" title="Maus, Tastfeld und Tastbildschirm">Maus und Tastfeld</a></span>, <span class="link"><a href="prefs-display.html.de" title="Anzeige und Bildschirm">Bildschirm</a></span>, <span class="link"><a href="prefs-language.html.de" title="Region und Sprache">Sprachen</a></span>, <span class="link"><a href="user-accounts.html.de" title="Benutzerkonten">Benutzerkonten</a></span> …</span>
+</li>
+<li class="links ">
+<a href="hardware.html.de" title="Hardware und Treiber">Hardware und Treiber</a><span class="desc"> — <span class="link"><a href="hardware.html.de#problems" title="Häufige Probleme">Hardwareprobleme</a></span>, <span class="link"><a href="printing.html.de" title="Drucken">Drucker</a></span>, <span class="link"><a href="power.html.de" title="Energie und Akkus">Energieeinstellungen</a></span>, <span class="link"><a href="color.html.de" title="Farbverwaltung">Farbmanagement</a></span>, <span class="link"><a href="bluetooth.html.de" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.de" title="Festplatten und Speicherung">Festplatten</a></span> …</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

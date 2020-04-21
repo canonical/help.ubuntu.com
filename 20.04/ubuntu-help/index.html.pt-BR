@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang=pt-BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Guia do Ubuntu Desktop</title>
+<link rel="stylesheet" type="text/css" href="pt-BR.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
+<div class="title" style="margin-bottom: 1.5em; margin-left: 0.8em"><span>Ubuntu 20.04</span></div><div class="region"><div class="contents pagewide">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.pt-BR" title="Primeiros passos"><span class="title">Primeiros passos com o GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Você é novo no GNOME? Aprenda como começar.</span></a></div></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.pt-BR" title="Visão geral do GNOME"><span class="title">Visão geral do GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Uma visão geral da sua área de trabalho, a barra superior e o panorama de <span class="gui">Atividades</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.pt-BR" title="Encerrando sessão, desligando seu computador ou alternando usuários"><span class="title">Encerrando sessão, desligando seu computador ou alternando usuários</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda como deixar sua conta de usuário, encerrando a sessão, alternando usuários e por aí vai.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.pt-BR" title="Iniciando aplicativos"><span class="title">Iniciando aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Inicie aplicativos a partir do panorama de <span class="gui">Atividades</span>.</span></a></div>
+</div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="links-grid-container">
+<div class="links-grid ">
+<div class="links-grid-link"><a href="shell-overview.html.pt-BR" title="Seu ambiente">Seu ambiente</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-calendar.html.pt-BR" title="Compromissos da agenda">Agenda</a></span>, <span class="link"><a href="shell-notifications.html.pt-BR" title="Notificações e a lista de notificação">notificações</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.pt-BR" title="Atalhos de teclado úteis">atalhos de teclado</a></span>, <span class="link"><a href="shell-windows.html.pt-BR" title="Janelas e espaços de trabalho">janelas e espaços de trabalho</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net.html.pt-BR" title="Rede, web &amp; e-mail">Rede, web &amp; e-mail</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless.html.pt-BR" title="Rede sem fio">Rede sem fio</a></span>, <span class="link"><a href="net-wired.html.pt-BR" title="Rede com fio">rede cabeada</a></span>, <span class="link"><a href="net-problem.html.pt-BR" title="Problemas de rede">problemas de conexão</a></span>, <span class="link"><a href="net-browser.html.pt-BR" title="Navegadores web">navegação web</a></span>, <span class="link"><a href="net-email.html.pt-BR" title="E-mail &amp; software de e-mail">contas de e-mail</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="media.html.pt-BR" title="Som, vídeo &amp; imagens">Som, vídeo &amp; imagens</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="media.html.pt-BR#photos" title="Fotos e câmeras digitais">Câmeras digitais</a></span>, <span class="link"><a href="media.html.pt-BR#music" title="Música e reprodutores portáteis de áudio">iPods</a></span>, <span class="link"><a href="media.html.pt-BR#photos" title="Fotos e câmeras digitais">editando fotos</a></span>, <span class="link"><a href="media.html.pt-BR#videos" title="Vídeos e câmeras de vídeo">reproduzindo vídeos</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos, pastas &amp; pesquisa</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.pt-BR" title="Pesquisando por arquivos">Pesquisar</a></span>, <span class="link"><a href="files-delete.html.pt-BR" title="Excluindo arquivos e pastas">excluir arquivos</a></span>, <span class="link"><a href="files.html.pt-BR#backup" title="Cópia de segurança">cópias de segurança</a></span>, <span class="link"><a href="files.html.pt-BR#removable" title="Unidades removíveis e discos externos">unidades removíveis</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="addremove.html.pt-BR" title="Install &amp; remove software">Install &amp; remove software</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="addremove-install.html.pt-BR" title="Install additional applications">Install applications</a></span>,
+      <span class="link"><a href="addremove-remove.html.pt-BR" title="Remover um aplicativo">remove applications</a></span>,
+      <span class="link"><a href="addremove-sources.html.pt-BR" title="Add software repositories">add repositories</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Usuário &amp; configurações do sistema</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.pt-BR" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.pt-BR" title="Mouse, touchpad &amp; touchscreen">mouse &amp; touchpad</a></span>, <span class="link"><a href="prefs-display.html.pt-BR" title="Monitor &amp; tela">monitor</a></span>, <span class="link"><a href="prefs-language.html.pt-BR" title="Região &amp; idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.pt-BR" title="Contas de usuários">contas de usuários</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="hardware.html.pt-BR" title="Hardwares &amp; drivers">Hardwares &amp; drivers</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="hardware.html.pt-BR#problems" title="Problemas comuns">Problemas de hardware</a></span>, <span class="link"><a href="printing.html.pt-BR" title="Imprimindo">impressoras</a></span>, <span class="link"><a href="power.html.pt-BR" title="Energia &amp; bateria">configurações de energia</a></span>, <span class="link"><a href="color.html.pt-BR" title="Gerenciamento de cores">gerenciamento de cores</a></span>, <span class="link"><a href="bluetooth.html.pt-BR" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.pt-BR" title="Discos &amp; armazenamento">discos</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="a11y.html.pt-BR" title="Acessibilidade">Acessibilidade</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="a11y.html.pt-BR#vision" title="Deficiências visuais">Visão</a></span>, <span class="link"><a href="a11y.html.pt-BR#sound" title="Deficiências auditivas">audição</a></span>, <span class="link"><a href="a11y.html.pt-BR#mobility" title="Deficiências motoras">mobilidade</a></span>, <span class="link"><a href="a11y-braille.html.pt-BR" title="Lendo a tela em Braille">braille</a></span>, <span class="link"><a href="a11y-mag.html.pt-BR" title="Ampliando uma área da tela">ampliador de tela</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="tips.html.pt-BR" title="Dicas &amp; truques">Dicas &amp; truques</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="tips-specialchars.html.pt-BR" title="Inserindo caracteres especiais">Caracteres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html.pt-BR" title="Clique com o botão do meio">atalhos com clique do meio</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="more-help.html.pt-BR" title="Obter mais ajuda">Obter mais ajuda</a></div>
+<div class="desc"><span class="desc">
+        <span class="link"><a href="about-this-guide.html.pt-BR" title="Sobre este guia">Tips on using this guide</a></span>,
+        <span class="link"><a href="community-support.html.pt-BR" title="Community support">get help from community</a></span>,
+        <span class="link"><a href="get-involved.html.pt-BR" title="Participe para melhorar este guia">help improve this guide</a></span>…
+    </span></div>
+</div>
+<div class="links-grid"></div>
+<div class="links-grid"></div>
+</div></div></div></div>
+</div></div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

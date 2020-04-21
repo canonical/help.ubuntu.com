@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang=ca>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Reparar un sistema de fitxers danyat</title>
+<link rel="stylesheet" type="text/css" href="ca.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Maquinari</a> » <a class="trail" href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Reparar un sistema de fitxers danyat</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Els sistemes de fitxers poden estar danyats per pèrdues de potència inesperades, els bloquejos del sistema i l'eliminació no segura dels dispositius. Després d'un incident d'aquest tipus es recomana <span class="em">reparar</span> o si més no <span class="em">comprovar</span> el sistema de fitxers per evitar futures pèrdues de dades.</p>
+<p class="p">De vegades es requereix una reparació per muntar o modificar un sistema de fitxers. Fins i tot si la <span class="em">comprovació</span> no informa de cap dany, el sistema de fitxers encara pot estar marcat com a "brut" internament i requerirà una reparació.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Comproveu si un sistema de fitxers està malmès</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Obrir <span class="app">Discs</span> des de la vista d'<span class="gui">Activitats</span>.</p></li>
+<li class="steps"><p class="p">Seleccioneu el disc que conté el sistema de fitxers en qüestió a la llista de dispositius d'emmagatzematge de l'esquerra. Si hi ha més d'un volum al disc, seleccioneu el volum que conté el sistema de fitxers.</p></li>
+<li class="steps"><p class="p">A la barra d'eines a sota de la secció <span class="gui">Volums</span>, feu clic al botó de menú. Aleshores feu clic a <span class="gui">Comprova el sistema de fitxers…</span>.</p></li>
+<li class="steps">
+<p class="p">Depenent de la quantitat de dades que s'emmagatzemen al sistema de fitxers la validació pot trigar més temps. Confirmeu l'inici de l'acció al quadre de diàleg que apareix.</p>
+<p class="p">L'acció no modificarà el sistema de fitxers, però la desmuntarà si és necessari. Tingueu paciència mentre el sistema de fitxers s'estigui comprovant.</p>
+</li>
+<li class="steps"><p class="p">Un cop finalitzada, se us notificarà si el sistema de fitxers està malmès. Tingueu en compte que, en alguns casos, fins i tot si el sistema de fitxers no està malmès, pot ser necessari reparar-lo per restablir un marcador "brut" intern.</p></li>
+</ol></div>
+</div></div>
+<div class="note note-warning" title="Atenció">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
+</svg><div class="inner">
+<div class="title title-note"><h2><span class="title">Pèrdua de dades possibles quan es repari</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">Si l'estructura del sistema de fitxers està malmesa, poden veure's afectats els fitxers emmagatzemats. En alguns casos aquests fitxers no es poden recuperar de forma vàlida i se suprimiran o es traslladaran a un directori especial. Normalment és la carpeta <span class="em">lost+found</span> al directori de nivell superior del sistema de fitxers on es poden trobar les parts recuperades d'aquests fitxers.</p>
+<p class="p">Si les dades són massa valuoses per perdre's durant aquest procés, us recomanem que feu una còpia de seguretat, guardant una imatge del volum abans de reparar-la.</p>
+<p class="p">Aquesta imatge es pot processar amb eines d'anàlisi forenses com ara <span class="app">sleuthkit</span> per més endavant recuperar fitxers perduts i parts de dades que no s'hagin pogut restaurar durant la reparació, i també fitxers eliminats prèviament.</p>
+</div></div>
+</div>
+</div>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Reparar el sistema de fitxers</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Obrir <span class="app">Discs</span> des de la vista d'<span class="gui">Activitats</span>.</p></li>
+<li class="steps"><p class="p">Seleccioneu el disc que conté el sistema de fitxers en qüestió a la llista de dispositius d'emmagatzematge de l'esquerra. Si hi ha més d'un volum al disc, seleccioneu el volum que conté el sistema de fitxers.</p></li>
+<li class="steps"><p class="p">A la barra d'eines a sota de la secció <span class="gui">Volums</span> feu clic al botó de menú. A continuació, feu clic a <span class="gui">Repara el sistema de fitxers...</span>.</p></li>
+<li class="steps">
+<p class="p">Depenent de la quantitat de dades que s'emmagatzemen al sistema de fitxers la validació pot trigar més temps. Confirmeu l'inici de l'acció al quadre de diàleg que apareix.</p>
+<p class="p">L'acció desmuntarà el sistema de fitxers si és necessari. L'acció de reparació intenta portar el sistema de fitxers a un estat coherent i moure fitxers que s'hagin malmès a una carpeta especial. Tingueu paciència mentre el sistema de fitxers s'estigui reparant.</p>
+</li>
+<li class="steps">
+<p class="p">Un cop finalitzada, se us notificarà si el sistema de fitxers s'ha pogut reparar correctament. En cas d'èxit, es pot tornar a utilitzar de la manera normal.</p>
+<p class="p">Si el sistema de fitxers no es pot reparar, feu-hi una còpia de seguretat guardant una imatge del volum per poder recuperar els fitxers més importants més endavant. Això es pot fer muntant la imatge només de lectura o utilitzant eines d'anàlisi forenses com <span class="app">sleuthkit</span>.</p>
+<p class="p">Per a tornar a fer servir el volum, ha de ser <span class="link"><a href="disk-format.html.ca" title="Suprimir-ho tot d'un disc extraïble">formatat</a></span> amb un nou sistema de fitxers. S'eliminaran totes les dades.</p>
+</li>
+</ol></div>
+</div></div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Més informació</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — <span class="link"><a href="disk-capacity.html.ca" title="Comprovar la quantitat d'espai al disc que queda">Espai del disc</a></span>, <span class="link"><a href="disk-benchmark.html.ca" title="Provar el rendiment del vostre disc dur">rendiment</a></span>, <span class="link"><a href="disk-check.html.ca" title="Comprovar si el vostre disc dur té problemes">problemes</a></span>, <span class="link"><a href="disk-partitions.html.ca" title="Gestionar els volums i les particions">volums i particions</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

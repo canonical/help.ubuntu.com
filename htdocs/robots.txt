@@ -42,3 +42,5 @@ Disallow: /dev/
 Disallow: /stable/clouddocs/
 Disallow: /lts/clouddocs/
 Disallow: /community/*?action=
+# as of 20.04 the serverguide has moved, and bots should find and index it from its new location.
+Disallow: /lts/serverguide/

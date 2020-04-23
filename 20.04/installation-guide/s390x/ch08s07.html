@@ -1,0 +1,369 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>8.7. Recovering a Broken System</title>
+<link rel="stylesheet" type="text/css" href="install.css">
+<meta name="generator" content="DocBook XSL Stylesheets V1.79.1">
+<link rel="home" href="index.html" title="Ubuntu Installation Guide">
+<link rel="up" href="ch08.html" title="Chapter 8. Next Steps and Where to Go From Here">
+<link rel="prev" href="ch08s06.html" title="8.6. Compiling a New Kernel">
+<link rel="next" href="apa.html" title="Appendix A. Installation Howto">
+</head>
+<body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+<div class="navheader">
+<table width="100%" summary="Navigation header">
+<tr><th colspan="3" align="center">8.7. Recovering a Broken System</th></tr>
+<tr>
+<td width="20%" align="left">
+<a accesskey="p" href="ch08s06.html"><img src="images/prev.png" alt="Prev"></a> </td>
+<th width="60%" align="center">Chapter 8. Next Steps and Where to Go From Here</th>
+<td width="20%" align="right"> <a accesskey="n" href="apa.html"><img src="images/next.png" alt="Next"></a>
+</td>
+</tr>
+</table>
+<hr>
+</div>
+<div class="sect1">
+<div class="titlepage"><div><div><h2 class="title">
+<a name="rescue"></a>8.7. Recovering a Broken System</h2></div></div></div>
+<p>
+
+Sometimes, things go wrong, and the system you've carefully installed is no
+longer bootable. Perhaps the boot loader configuration broke while trying
+out a change, or perhaps a new kernel you installed won't boot, or perhaps
+cosmic rays hit your disk and flipped a bit in
+<code class="filename">/sbin/init</code>. Regardless of the cause, you'll need to
+have a system to work from while you fix it, and rescue mode can be useful
+for this.
+
+</p>
+<p>
+
+There are several options to rescue a broken Ubuntu system on s390x:
+
+</p>
+<div class="itemizedlist"><ul class="itemizedlist" type="disc">
+<li class="listitem">
+<p> 
+
+The zipl boot menu offers by default an option to boot an <span class="guimenuitem">old</span> kernel via the boot option number <span class="guimenuitem">2</span>.
+</p>
+<div class="informalexample"><pre class="screen">
+zIPL v2.3.0-build-20180425 interactive boot menu
+  
+ 0. default (ubuntu) 
+ 
+ 1. ubuntu 
+ 2. old 
+Please choose (default will boot in 10 seconds):
+</pre></div>
+<p>
+Boot problems are often introduced with a kernel change.
+So there is a good chance that the prior / old kernel will still work.
+
+</p>
+</li>
+<li class="listitem">
+<p> 
+
+Another option is to use the installation kernel and initrd in it's rescue mode (sometimes also known as recovery mode).
+To activate the rescue mode, one needs to boot with the <span class="quote">“<span class="quote">rescue/enable=true</span>”</span> boot parameter,
+and this parameter needs to be added to the <code class="filename">parmfile.ubuntu</code> file.
+This is slightly different for an LPAR compared to a z/VM guest.
+
+</p>
+<p>
+For an LPAR change to the network install server, where the image got extracted and enter the image's ./boot folder.
+You can now just open the <code class="filename">parmfile.ubuntu</code>, add the <span class="quote">“<span class="quote">rescue/enable=true</span>”</span> boot parameter
+and proceed like you would usually do for an LPAR installation, means with the HMC task
+<span class="guimenuitem">Load from Removable Media or Server</span>.
+
+</p>
+<p>
+
+But at this point it's better to add a dedicated boot entry for the rescue mode.
+Therefore you need to copy the <code class="filename">parmfile.ubuntu</code> and the <code class="filename">ubuntu.ins</code>
+to create seperate versions for the rescue mode which finally result in a separate rescue mode entry at the <span class="guimenuitem">Load from Removable Media or Server</span> task:
+
+</p>
+<p>
+
+Login to your network boot (FTP) server and copy the ins (installation) and parmfile:
+
+</p>
+<div class="informalexample"><pre class="screen">
+$ cd &lt;path to the extracted ubuntu server image&gt;/ubuntu-server-20.04/boot
+$ cp ubuntu.ins rescue.ins
+$ cp parmfile.ubuntu parmfile.rescue
+</pre></div>
+<p>
+
+Modify the new rescue.ins file from the default:
+
+</p>
+<div class="informalexample"><pre class="screen">
+$ cat rescue.ins
+* Ubuntu for z Series (default kernel)
+kernel.ubuntu 0x00000000
+initrd.off 0x0001040c
+initrd.siz 0x00010414
+parmfile.ubuntu 0x00010480
+initrd.ubuntu 0x01000000
+</pre></div>
+<p>
+
+and point to the new <code class="filename">parmfile.rescue</code>:
+
+</p>
+<div class="informalexample"><pre class="screen">
+$ cat rescue.ins
+* Ubuntu for z Series (default kernel)
+kernel.ubuntu 0x00000000
+initrd.off 0x0001040c
+initrd.siz 0x00010414
+parmfile.rescue 0x00010480
+initrd.ubuntu 0x01000000
+</pre></div>
+<p>
+
+And open parmfile.rescue and add <span class="quote">“<span class="quote">rescue/enable=true</span>”</span> (the parmfile is empty by default):
+
+</p>
+<div class="informalexample"><pre class="screen">
+$ cat parmfile.rescue
+rescue/enable=true
+</pre></div>
+<p>
+
+Now start the <span class="guimenuitem">Load from Removable Media or Server</span> task, select <span class="guimenuitem">FTP source</span>,
+enter the data of your network boot (FTP) server, and the step <span class="guimenuitem">Select the software to install</span>
+you will find in addition to the default entry another entry for the rescue mode:
+
+</p>
+<div class="informalexample"><pre class="screen">
+Load from Removable Media or Server - Select Software to Install - P00ABCDE:LINLPAR
+Select the software to install.
+Select | Name                                | Description
+  *    | ubuntu-server-20.04/boot/rescue.ins | Ubuntu for z Series (default kernel)
+  o    | ubuntu-server-20.04/boot/ubuntu.ins | Ubuntu for z Series (default kernel)
+</pre></div>
+<p>
+
+Make sure <span class="guimenuitem">ubuntu-server-20.04/boot/rescue.ins</span> is selected and proceed with <span class="guimenuitem">OK</span>.
+
+</p>
+<p>
+
+For a z/VM guest you need to access the Minidisk where the installer files,
+including the <code class="filename">parmfile.ubuntu</code> is located, add the <span class="quote">“<span class="quote">rescue/enable=true</span>”</span> boot parameter
+and proceed like you would usually do for a z/VM installation, means by executing the <span class="guimenuitem">ubuntu exec</span> REXX script.
+
+But here it's again better to add a dedicated boot script for the rescue mode.
+Therefore you need to copy the <code class="filename">parmfile ubuntu</code> and the <code class="filename">ubuntu exec</code>
+to create seperate versions for the rescue mode:
+
+</p>
+<p>
+
+Logon to your z/VM system, have CMS active (ipl-ed) 
+and make sure you have r/w acces to the Minidisk where the installations files are located.
+In this example <span class="quote">“<span class="quote">File Mode</span>”</span> (Fm) <span class="quote">“<span class="quote">A</span>”</span> is used, that might be different on your system.
+Copy the following files:
+
+</p>
+<div class="informalexample"><pre class="screen">
+copyfiles ubuntu exec a rescue exec a 
+copyfiles parmfile ubuntu a parmfile rescue a
+
+listfiles rescue * a
+RESCUE EXEC     A1
+listfiles * rescue a
+PARMFILE RESCUE A1
+</pre></div>
+<p>
+
+Change PARMFILE RESCUE (by default it's empty):
+
+</p>
+<div class="informalexample"><pre class="screen">
+x PARMFILE RESCUE A
+* * * Top of File * * *
+                      
+* * * End of File * * *
+</pre></div>
+<p>
+
+And add the rescue parameter:
+
+</p>
+<div class="informalexample"><pre class="screen">
+x PARMFILE RESCUE A
+* * * Top of File * * *
+rescue/enable=true     
+* * * End of File * * *
+</pre></div>
+<p>
+
+Now modify the RESCUE EXEC file as well so that it point to the new <code class="filename">parmfile rescue</code> file:
+
+</p>
+<div class="informalexample"><pre class="screen">
+x RESCUE EXEC A
+* * * Top of File * * *
+/* REXX EXEC TO IPL Ubuntu's Rescue Mode */
+/* z Systems FROM THE VM READER.         */
+/*                                       */
+'CP CLOSE RDR'                          
+'PURGE RDR ALL'                         
+'SPOOL PUNCH * RDR'                     
+'PUNCH KERNEL    UBUNTU * (NOHEADER'   
+'PUNCH PARMFILE  RESCUE * (NOHEADER'   
+'PUNCH INITRD    UBUNTU * (NOHEADER'   
+'CHANGE RDR ALL KEEP NOHOLD'            
+'CP IPL 000C CLEAR'                     
+* * * End of File * * * 
+</pre></div>
+<p>
+</p>
+<p>Now start the z/VM guest installation as usual, but using the newly created REXX script for the rescue mode, hence just type:
+<span class="command"><strong>rescue &lt;Enter&gt;</strong></span>
+</p>
+<p>
+Don't worry, your system is not about to be overwritten! <span class="quote">“<span class="quote">Rescue</span>”</span> mode simply takes advantage of the hardware detection facilities available in the installer to ensure that your disks, network devices, and so on are available to you while repairing your system. 
+</p>
+<p>Using either of the two installation types you'll be shown the first few screens of the installer, with a note in the corner of the display to indicate that this is rescue mode, not a full installation:
+
+</p>
+<div class="informalexample"><pre class="screen">
+Rescue mode
+                        [?] Ubuntu installer main menu                         
+                                                                              
+              Choose the next step in the install process:                    
+                                                                              
+                   Configure the network device                               
+                   Configure the network                                      
+                   Choose language                                            
+                   Choose a mirror of the Ubuntu archive                      
+                   Download installer components                              
+                   Change debconf priority                                    
+                   Save debug logs                                            
+                   Execute a shell                                            
+                   Abort the installation                                     
+</pre></div>
+<p>
+
+Don't worry, your system is not about to be overwritten! Rescue mode simply takes advantage of the hardware detection facilities available in the installer to ensure that your disks, network devices, and so on are available to you while repairing your system.</p>
+<p>
+Instead of the partitioning tool, you should now be presented with a list of
+the partitions on your system, and asked to select one of them. Normally,
+you should select the partition containing the root file system that you
+need to repair. You may select partitions on RAID and LVM devices as well as
+those created directly on disks:
+
+</p>
+<div class="informalexample"><pre class="screen">
+Rescue mode                                                                     
+                            [!!] Enter rescue mode
+                                                                              
+   Enter a device you wish to use as your root file system. You will be       
+   able to choose among various rescue operations to perform on this          
+   file system.                                                               
+                                                                              
+   If you choose not to use a root file system, you will be given a           
+   reduced choice of operations that can be performed without one. This       
+   may be useful if you need to correct a partitioning problem.               
+                                                                              
+   Device to use as root file system:                                         
+                                                                              
+                      /dev/sda1                                               
+                      /dev/sdb1                                               
+                      Assemble RAID array                                     
+                                                                              
+       &lt;Go Back&gt;                                                     
+</pre></div>
+<p>
+
+
+
+</p>
+<p>  
+
+If possible, the installer will now present you with a shell prompt in the
+file system you selected, which you can use to perform any necessary repairs.
+
+
+
+</p>
+<p>  
+
+If the installer cannot run a usable shell in the root file system you
+selected, perhaps because the file system is corrupt, then it will issue a
+warning and offer to give you a shell in the installer environment instead.
+
+You may not have as many tools available in this environment, but they will
+often be enough to repair your system anyway.
+The root file system you
+selected will be mounted on the <code class="filename">/target</code> directory.
+
+</p>
+</li>
+<li class="listitem">
+<p> 
+
+A trivial option is to just boot the standard installation kernel and initrd without any additional kernel parameter, and select from the inital screen the <span class="guimenuitem">Start shell</span> entry.
+
+</p>
+<div class="informalexample"><pre class="screen">
+                             [!!] Configuring d-i
+                                                                              
+   This is the network console for the Debian installer. From here, you       
+   may start the Debian installer, or execute an interactive shell.           
+                                                                              
+   To return to this menu, you will need to log in again.                     
+                                                                              
+   Network console option:                                                    
+                                                                              
+                      Start installer                                         
+                      Start installer (expert mode)                           
+                      Start shell                                             
+</pre></div>
+<p>
+
+The functionality in the <code class="classname">debian-installer</code> shell is limited, however, it can still act as a rescue system to fix a broken installation.
+While not using the rescue mode, be careful to not accidentially repartition or format any disk which may cause data loss.
+
+</p>
+</li>
+</ul></div>
+<p>
+
+In either case, after you exit the shell, the system will reboot.
+
+</p>
+<p>
+
+Finally, note that repairing broken systems can be difficult, and this
+manual does not attempt to go into all the things that might have gone wrong
+or how to fix them. If you have problems, consult an expert.
+
+</p>
+</div>
+<div class="navfooter">
+<hr>
+<table width="100%" summary="Navigation footer">
+<tr>
+<td width="40%" align="left">
+<a accesskey="p" href="ch08s06.html"><img src="images/prev.png" alt="Prev"></a> </td>
+<td width="20%" align="center"><a accesskey="u" href="ch08.html"><img src="images/up.png" alt="Up"></a></td>
+<td width="40%" align="right"> <a accesskey="n" href="apa.html"><img src="images/next.png" alt="Next"></a>
+</td>
+</tr>
+<tr>
+<td width="40%" align="left" valign="top">8.6. Compiling a New Kernel </td>
+<td width="20%" align="center"><a accesskey="h" href="index.html"><img src="images/home.png" alt="Home"></a></td>
+<td width="40%" align="right" valign="top"> Appendix A. Installation Howto</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

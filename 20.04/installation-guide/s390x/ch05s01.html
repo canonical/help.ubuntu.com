@@ -1,0 +1,113 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>5.1. Booting the Installer on S/390</title>
+<link rel="stylesheet" type="text/css" href="install.css">
+<meta name="generator" content="DocBook XSL Stylesheets V1.79.1">
+<link rel="home" href="index.html" title="Ubuntu Installation Guide">
+<link rel="up" href="ch05.html" title="Chapter 5. Booting the Installation System">
+<link rel="prev" href="ch05.html" title="Chapter 5. Booting the Installation System">
+<link rel="next" href="ch05s02.html" title="5.2. Boot Parameters">
+</head>
+<body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+<div class="navheader">
+<table width="100%" summary="Navigation header">
+<tr><th colspan="3" align="center">5.1. Booting the Installer on <span class="phrase">S/390</span>
+</th></tr>
+<tr>
+<td width="20%" align="left">
+<a accesskey="p" href="ch05.html"><img src="images/prev.png" alt="Prev"></a> </td>
+<th width="60%" align="center">Chapter 5. Booting the Installation System</th>
+<td width="20%" align="right"> <a accesskey="n" href="ch05s02.html"><img src="images/next.png" alt="Next"></a>
+</td>
+</tr>
+</table>
+<hr>
+</div>
+<div class="sect1">
+<div class="titlepage"><div><div><h2 class="title">
+<a name="idm808"></a>5.1. Booting the Installer on <span class="phrase">S/390</span>
+</h2></div></div></div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idm811"></a>5.1.1. <span class="phrase">S/390</span> Limitations</h3></div></div></div>
+<p>
+
+In order to run the installation system on s390x a working network setup is needed and
+a ssh session is recommended.
+
+</p>
+<p>
+
+The booting process starts with a network setup that prompts you for
+several network parameters. If the initial setup is successful, you will usually login
+to the system by starting an ssh session which will launch the
+standard installation system (alternatively you can proceed using the console - however, this is less comfortable).
+
+</p>
+</div>
+<div class="sect2">
+<div class="titlepage"><div><div><h3 class="title">
+<a name="idm816"></a>5.1.2. <span class="phrase">S/390</span> Boot Parameters</h3></div></div></div>
+<p>
+
+On s390x you can append boot parameters in the parm file. This file can
+either be in ASCII or EBCDIC format. It needs to be fixed-width with
+80 characters per line. A sample parm file
+<code class="filename">parmfile.ubuntu</code> is provided with the installation
+images, located in the <code class="filename">./boot</code> folder. If a parameter is too long to fit into the 80 characters limit
+it can simply be continued in the first column of the next line. All
+the lines are concatenated without spaces when being passed to the
+kernel.
+In total 11 lines (plus additonal 10 characters in the 12th line) can be used.
+
+
+
+</p>
+<p>
+
+If you boot the installer in a logical partition (LPAR) or
+virtual machine (z/VM) where a lot of devices are visible, you can
+instruct the kernel to restrict the list to a fixed set of devices.
+This is advised for the installer's boot process if a lot of disks are
+visible, most likely in LPAR mode. The <span class="quote">“<span class="quote">cio_ignore</span>”</span> option supports both
+a blacklist (to only disallow a few devices) and a whitelist (to only
+allow specific devices):
+
+</p>
+<div class="informalexample"><pre class="screen">
+ # blacklist: just ignore the two devices 300 and 301
+ cio_ignore=0.0.0300-0.0.0301
+ # whitelist: ignore everything but 1150, FD00, FD01 and FD02
+ cio_ignore=all,!0.0.1150,!0.0.fd00-0.0.fd02
+</pre></div>
+<p>
+
+Please note that all devices numbers' hex digits need to be specified in
+lower case. Furthermore if this boot parameter is used all devices
+need to be listed: this includes at least disks, network devices and
+the console. To be considered during the installer's boot process the
+above option needs to be added to <code class="filename">parmfile.ubuntu</code>.
+
+</p>
+</div>
+</div>
+<div class="navfooter">
+<hr>
+<table width="100%" summary="Navigation footer">
+<tr>
+<td width="40%" align="left">
+<a accesskey="p" href="ch05.html"><img src="images/prev.png" alt="Prev"></a> </td>
+<td width="20%" align="center"><a accesskey="u" href="ch05.html"><img src="images/up.png" alt="Up"></a></td>
+<td width="40%" align="right"> <a accesskey="n" href="ch05s02.html"><img src="images/next.png" alt="Next"></a>
+</td>
+</tr>
+<tr>
+<td width="40%" align="left" valign="top">Chapter 5. Booting the Installation System </td>
+<td width="20%" align="center"><a accesskey="h" href="index.html"><img src="images/home.png" alt="Home"></a></td>
+<td width="40%" align="right" valign="top"> 5.2. Boot Parameters</td>
+</tr>
+</table>
+</div>
+</body>
+</html>

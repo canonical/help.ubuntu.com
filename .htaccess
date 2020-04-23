@@ -52,5 +52,5 @@ Redirect /bitlocker https://discourse.ubuntu.com/t/ubuntu-installation-on-comput
 # For 20.04, and likely onwards, the serveguide has moved.
 # Don't try to be too clever, just force the base page and drop the rest.
 #
-RedirectMatch permanent ^/(stable|lts|20\.04)/(serverguide/.+\.html)\..* https://ubuntu.com/server/docs
-RedirectMatch permanent ^/(stable|lts|20\.04)/(serverguide/.+\.pdf)\..* https://assets.ubuntu.com/ubuntu-server-guide
+RedirectMatch permanent ^/stable|lts|20\.04)/serverguide/.+\.html https://ubuntu.com/server/docs
+RedirectMatch permanent ^/stable|lts|20\.04)/serverguide/.+\.pdf https://assets.ubuntu.com/ubuntu-server-guide

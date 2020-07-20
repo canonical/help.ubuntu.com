@@ -83,10 +83,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Pour importer un profil de couleur, faites un double clic sur un fichier <span class="input">.ICC</span> ou <span class="input">.ICM</span> dans le navigateur de fichiers.</p>
 <p class="p">Vous pouvez aussi gérer vos profils de couleur dans le panneau <span class="gui">Couleur</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Select your device.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Ajouter un profil</span> pour sélectionner un profil existant ou en importer un nouveau.</p></li>

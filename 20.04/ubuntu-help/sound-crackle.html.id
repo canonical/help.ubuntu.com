@@ -102,8 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
   good drivers. This problem is more difficult to identify. Try searching for
   the make and model of your sound card on the internet, plus the search term
   “Linux”, to see if other people are having the same problem.</p>
-<p class="p">You can use the <span class="cmd">lspci</span> command to get more information about your
-  sound card.</p>
+<p class="p">Anda dapat menggunakan perintah <span class="cmd">lspci</span> untuk mendapatkan informasi lebih lanjut tentang kartu suara Anda.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -112,8 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="sound-broken.html.id" title="Masalah suara">Masalah suara</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
-    quality.</span>
+<a href="sound-broken.html.id" title="Masalah suara">Masalah suara</a><span class="desc"> — Memecahkan masalah seperti tidak ada suara atau kualitas suara yang buruk.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

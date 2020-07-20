@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#backup" title="Backing up">Backing up</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#backup" title="Membuat cadangan">Membuat cadangan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Dimana saya dapat menemukan berkas yang ingin saya back up?</span></h1></div>
@@ -80,15 +80,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Berkas-berkas pribadi (dokumen, musik, foto, dan video)</p>
-<p class="p">These are usually stored in your home folder (<span class="file">/home/your_name</span>).
-  They could be in subfolders such as <span class="file">Desktop</span>,
-  <span class="file">Documents</span>, <span class="file">Pictures</span>, <span class="file">Music</span> and
-  <span class="file">Videos</span>.</p>
+<p class="p">Ini biasanya disimpan di folder rumah Anda (<span class="file">/home/nama_anda</span>). Mereka bisa berada dalam sub folder seperti misalnya <span class="file">Desktop</span>, <span class="file">Dokumen</span>, <span class="file">Gambar</span>, <span class="file">Musik</span>, dan <span class="file">Video</span>.</p>
 <p class="p">Bila medium backup Anda punya cukup ruang (bila itu adalah hard disk eksternal, misalnya), pertimbangkan untuk membackup seluruh folder Rumah. Anda dapat mengetahui berapa banyak ruang yang dipakai oleh folder Rumah dengan memakai <span class="app">Penganalisa Penggunaan Disk</span>.</p>
 </li>
 <li class="list">
 <p class="p">Berkas tersembunyi</p>
-<p class="p">Sebarang nama berkas atau folder yang diawali dengan titik (.) secara baku tersembunyi. Untuk melihat berkas tersembunyi, klik tombol <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Opsi tilikan"></span></span></span> dalam bilah alat, lalu pilih <span class="gui">Tampilkan Berkas Tersembunyi</span>, atau tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Anda dapat menyalin ini ke lokasi backup seperti berkas lain.</p>
+<p class="p">Sebarang nama berkas atau folder yang diawali dengan titik (.) secara baku tersembunyi. Untuk melihat berkas tersembunyi, klik tombol <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Opsi tilikan"></span></span></span> dalam bilah alat, lalu pilih <span class="gui">Tampilkan Berkas Tersembunyi</span>, atau tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Anda dapat menyalin ini ke lokasi backup seperti berkas lain.</p>
 </li>
 <li class="list">
 <p class="p">Pengaturan pribadi (preferensi dekstop, tema, dan pengaturan perangkat lunak)</p>
@@ -105,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html.id#backup" title="Backing up">Backing up</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.id#backup" title="Membuat cadangan">Membuat cadangan</a></li></ul></div>
 </div></div></div>
 </div></section>
 </div>

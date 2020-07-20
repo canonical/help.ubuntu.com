@@ -80,8 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Switch the <span class="gui">High Contrast</span> switch in the <span class="gui">Seeing</span>
-      section to on.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Kontras Tinggi</span> dalam seksi <span class="gui">Penglihatan</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
@@ -103,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html.id" title="Atur kecerahan layar">Atur kecerahan layar</a><span class="desc"> — Ubah kecerahan layar agar layar lebih mudah dibaca saat berada di cahaya yang terang.</span>
+<a href="display-brightness.html.id" title="Atur kecerahan layar">Atur kecerahan layar</a><span class="desc"> — Mengubah kecerahan layar agar layar lebih mudah dibaca saat berada di cahaya yang terang.</span>
 </li></ul></div>
 </div></div>
 </div>

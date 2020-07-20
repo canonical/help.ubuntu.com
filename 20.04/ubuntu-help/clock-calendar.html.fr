@@ -86,9 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">Cela nécessite le recours à l'agenda d'<span class="gui">Evolution</span>, à moins que vous ne possédiez un compte en ligne paramétré pour gérer un <span class="gui">Agenda</span>.</p>
-<p class="p">Most distributions come with <span class="app">Evolution</span> installed by default.
-    If yours does not, you may need to install it using your distribution’s
-    package manager.</p>
+<p class="p">La plupart des distributions sont livrées avec <span class="app">Evolution</span> installé par défaut. Si ce n’est pas le cas, vous pourriez avoir besoin de l’installer via le gestionnaire de paquets de votre distribution.</p>
 </div></div></div>
 </div>
 <p class="p">Pour consulter vos rendez-vous :</p>
@@ -100,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">A dot is shown under each date that has an appointment.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Un point apparaît sous chaque date à laquelle il y a un évènement prévu.</p></div></div></div>
 </div>
 <p class="p">Existing appointments will be displayed to the left of the calendar.
       As appointments are added to your <span class="app">Evolution</span> calendar, they

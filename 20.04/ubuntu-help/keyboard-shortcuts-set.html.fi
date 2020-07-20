@@ -84,8 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Asetukset</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Asetukset</span>.</p></li>
-<li class="steps"><p class="p">Napsauta <span class="gui">Laitteet</span> sivupalkista.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard Shortcuts</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
       window will be shown.</p></li>
 <li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to
@@ -368,7 +367,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show the overview</p></td>
+<td style="border-top-style: solid;"><p class="p">Näytä yleisnäkymä</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -420,15 +419,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Turn zoom on or off</p></td>
+<td style="border-top-style: solid;"><p class="p">Kytke lähennys/loitonnus päälle tai pois päältä</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>8</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Zoom in</p></td>
+<td style="border-top-style: solid;"><p class="p">Lähennä</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>=</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Zoom out</p></td>
+<td style="border-top-style: solid;"><p class="p">Loitonna</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>-</kbd></span></span></p></td>
 </tr>
 </table></div>
@@ -452,7 +451,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Lower window below other windows</p></td>
+<td style="border-top-style: solid;"><p class="p">Madalla ikkuna muiden ikkunoiden alle</p></td>
 <td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
 </tr>
 <tr>
@@ -472,7 +471,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Raise window above other windows</p></td>
+<td style="border-top-style: solid;"><p class="p">Nosta ikkuna muiden ikkunoiden yläpuolelle</p></td>
 <td style="border-top-style: solid;"><p class="p">Poissa käytöstä</p></td>
 </tr>
 <tr>

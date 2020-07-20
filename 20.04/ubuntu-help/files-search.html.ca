@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Cerca fitxers</title>
+<title>Cercar fitxers</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="files.html.ca" title="Fitxers, carpetes i cerca">Fitxers</a> › <a class="trail" href="files.html.ca#common-file-tasks" title="Tasques comunes">Tasques comunes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Cerca fitxers</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Cercar fitxers</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Podeu cercar fitxers basats en el nom o el tipus de fitxer directament dins del gestor de fitxers.</p>
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">En lloc d'escriure paraules directament per mostrar la barra de cerca, podeu fer clic <span class="media"><span class="media media-image"><img src="figures/edit-find-symbolic.svg" class="media media-inline" alt="Search key symbol"></span></span> a la barra d'eines, o prémer <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">En lloc d'escriure paraules directament per a mostrar la barra de cerca, podeu fer clic <span class="media"><span class="media media-image"><img src="figures/edit-find-symbolic.svg" class="media media-inline" alt="Search key symbol"></span></span> a la barra d'eines, o prémer <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div>
 </div>
 </li>
 <li class="steps">
@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Cerca</span>.</p></li>
 <li class="steps"><p class="p">Seleccioneu <span class="guiseq"><span class="gui">Paràmetres</span> ▸ <span class="gui">Cerca</span></span> dels resultats. Això obrirà el quadre <span class="gui">Configuració de cerca</span>.</p></li>
-<li class="steps"><p class="p">Seleccioneu la icona<span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="Preferences key symbol"></span></span> a la part inferior del tauler de configuració <span class="gui">Cerca</span>.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Search Locations</span> button in the header bar.</p></li>
 </ol></div></div></div>
 <p class="p">S'obrirà un quadre de configuració independent que us permetrà activar o desactivar les cerques al directori. Podreu alternar les cerques a cadascuna de les tres pestanyes:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">

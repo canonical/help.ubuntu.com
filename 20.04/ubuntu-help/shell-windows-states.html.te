@@ -77,8 +77,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">You can move and resize windows to help you work more efficiently. In
-  addition to the dragging behavior you might expect, GNOME features shortcuts
-  and modifiers to help you arrange windows quickly.</p>
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
       <span class="key"><a href="keyboard-key-super.html.te" title="What is the Super key?"><kbd>Super</kbd></a></span> and drag anywhere in the

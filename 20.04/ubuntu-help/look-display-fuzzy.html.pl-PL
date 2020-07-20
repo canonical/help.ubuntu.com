@@ -80,7 +80,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Ustawienia</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ustawienia</span>.</p></li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Urządzenia</span> na panelu bocznym.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ekrany</span> na panelu bocznym, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Wypróbuj różne <span class="gui">Rozdzielczości</span> i wybierz tą, w której ekran wygląda najlepiej.</p></li>
 </ol></div></div></div>

@@ -90,8 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
     fingerprint. If this happens, moisten your finger slightly, dry it with a
     clean, lint-free cloth, and retry.</p></div></div></div>
 </div>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">administrator privileges</a></span>
-  to edit user accounts other than your own.</p>
+<p class="p">Anda memerlukan <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">hak istimewa administrator</a></span> untuk menyunting akun pengguna selain milik Anda.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengguna</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Pengguna</span> untuk membuka panel.</p></li>

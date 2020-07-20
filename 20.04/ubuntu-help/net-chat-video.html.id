@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-chat.html.id" title="Chat &amp; Jejaring Sosial">Chat &amp; Jejaring Sosial</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-chat.html.id" title="Chat &amp; Jejaring Sosial">Chat &amp; Jejaring Sosial</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Panggilan video</span></h1></div>
@@ -80,7 +80,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul class="list" style="list-style-type:disc">
 <li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-empathy.html.id" title="Pesan instan di Ubuntu">Empathy</a></span></span></p></li>
 <li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-skype.html.id" title="Bagaimana saya bisa menggunakan Skype di Ubuntu?">Skype</a></span></span></p></li>
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Ekiga</a></span></span></p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="apt:jami" title="apt:jami">Jami</a></span></span>
+    </p></li>
 </ul></div>
 </div></div></div>
 <section class="links" role="navigation"><div class="inner">

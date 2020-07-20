@@ -81,9 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Bluetooth</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Pilih perangkat yang ingin Anda putus dari daftar.</p></li>
-<li class="steps"><p class="p">In the device dialog box, switch the <span class="gui">Connection</span> switch to
-      off, or to remove the device from the <span class="gui">Devices</span> list,
-      click <span class="gui">Remove Device</span>.</p></li>
+<li class="steps"><p class="p">Dalam kotak dialog perangkat, matikan <span class="gui">Koneksi</span>, atau untuk menghapus perangkat dari daftar <span class="gui">Perangkat</span>, klik <span class="gui">Hapus Perangkat</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Anda dapat <span class="link"><a href="bluetooth-connect-device.html.id" title="Hubungkan komputer Anda ke perangkat Bluetooth">menyambung kembali perangkat Bluetooth</a></span> nanti bila diinginkan.</p>
 </div>

@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Defineix la configuració del proxy</title>
+<title>Defineix la configuració del servidor intermediari</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,39 +73,39 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="net-general.html.ca" title="Termes de xarxa i consells">Termes de xarxa i consells</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Defineix la configuració del proxy</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Defineix la configuració del servidor intermediari</span></h1></div>
 <div class="region">
 <div class="contents pagewide"></div>
 <section id="what"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Què és un proxy?</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">Un <span class="em">proxy web</span> filtra els llocs web que consulteu, rep les peticions del vostre navegador per obtenir pàgines web i els seus elements i, seguint una política decidirà si retornar-vos-les. S'utilitzen habitualment a les empreses i als punts d'accés públics sense fil per controlar quins llocs web podeu veure, impedir-vos l'accés a Internet sense iniciar sessió o fer controls de seguretat als llocs web.</p></div></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Què és un servidor intermediari?</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p">Un <span class="em">servidor intermediari web</span> filtra els llocs web que consulteu, rep les peticions del vostre navegador per a obtenir pàgines web i els seus elements i, seguint una política decidirà si retornar-vos-les. S'utilitzen habitualment a les empreses i als punts d'accés públics sense fil per a controlar quins llocs web podeu veure, impedir-vos l'accés a Internet sense iniciar sessió o fer controls de seguretat als llocs web.</p></div></div>
 </div></section><section id="change"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Canviar el mètode proxy</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Canviar el mètode del servidor intermediari </span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Xarxa</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Xarxa</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Xarxa</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Seleccioneu <span class="gui">Servidor intermediari de xarxa</span> de la llista de l'esquerra.</p></li>
 <li class="steps">
-<p class="p">Trieu el mètode de proxy que voleu utilitzar des de:</p>
+<p class="p">Trieu el mètode de servidor intermediari que voleu utilitzar des de:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Cap</span></dt>
-<dd class="terms"><p class="p">Les aplicacions utilitzaran una connexió directa per obtenir el contingut de la web.</p></dd>
+<dd class="terms"><p class="p">Les aplicacions utilitzaran una connexió directa per a obtenir el contingut de la web.</p></dd>
 <dt class="terms"><span class="gui">Manual</span></dt>
-<dd class="terms"><p class="p">Per a cada protocol proxy, definiu l'adreça d'un proxy i un port per als protocols. Els protocols són <span class="gui">HTTP</span>, <span class="gui">HTTPS</span>, <span class="gui">FTP</span> i <span class="gui">SOCKS</span>.</p></dd>
+<dd class="terms"><p class="p">Per a cada protocol del servidor intermediari, definiu l'adreça d'un servidor intermediari i d'un port per als protocols. Els protocols són <span class="gui">HTTP</span>, <span class="gui">HTTPS</span>, <span class="gui">FTP</span> i <span class="gui">SOCKS</span>.</p></dd>
 <dt class="terms"><span class="gui">Automàtic</span></dt>
 <dd class="terms"><p class="p">Un URL que apunta a un recurs que conté la configuració adequada per al vostre sistema.</p></dd>
 </dl></div></div></div>
 </li>
 </ol></div></div></div>
-<p class="p">Les aplicacions que utilitzin la connexió de xarxa usaran la configuració de proxy especificada.</p>
+<p class="p">Les aplicacions que utilitzin la connexió de xarxa usaran la configuració de servidor intermediari especificada.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.ca" title="Termes de xarxa i consells">Termes de xarxa i consells</a><span class="desc"> — <span class="link"><a href="net-findip.html.ca" title="Trobar la vostra adreça IP">Trobeu la vostra adreça IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ca" title="Què vol dir WEP i WPA?">Seguretat WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.ca" title="Què és una adreça MAC?">Adreces MAC</a></span>, <span class="link"><a href="net-proxy.html.ca" title="Defineix la configuració del proxy">servidors intermediaris</a></span>…</span>
+<a href="net-general.html.ca" title="Termes de xarxa i consells">Termes de xarxa i consells</a><span class="desc"> — <span class="link"><a href="net-findip.html.ca" title="Trobar la vostra adreça IP">Trobeu la vostra adreça IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ca" title="Què vol dir WEP i WPA?">Seguretat WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.ca" title="Què és una adreça MAC?">Adreces MAC</a></span>, <span class="link"><a href="net-proxy.html.ca" title="Defineix la configuració del servidor intermediari">servidors intermediaris</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

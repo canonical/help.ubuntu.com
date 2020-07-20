@@ -73,9 +73,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="trail">
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html.id" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Bantu Klik</span> dalam seksi <span class="gui">Menunjuk &amp; Mengklik</span>.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Hover Click</span> to on.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Klik Mengambang</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Jendela <span class="gui">Klik Mengambang</span> akan terbuka, dan akan bertahan di atas semua jendela lain Anda. Anda dapat menggunakan ini untuk memilih apa jenis klik yang harus terjadi ketika Anda mengambang. Misalnya, jika Anda memilih <span class="gui">Klik Sekunder</span>, Anda akan klik kanan ketika Anda mengambang. Setelah Anda klik ganda, klik kanan, atau menyeret, Anda akan secara otomatis kembali ke mengklik.</p>
 <p class="p">Ketika Anda mengambangkan penunjuk tetikus Anda di atas suatu tombol dan tidak menggerakkannya, itu akan berangsur-angsur berubah warna. Ketika warnanya sudah berubah sepenuhnya, tombol akan diklik.</p>
@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.id" title="Gunakan tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Adjust the speed of the mouse and touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Click, drag, or scroll with the touchpad">mengklik dan menggulir touchpad</a></span>…</span>
+<a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.id" title="Memakai tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Menyetel kecepatan tetikus dan touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Mengklik, menyeret, atau menggulir dengan touchpad">mengklik dan menggulir touchpad</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -70,66 +70,38 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Internet terasa lambat</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you are using the internet and it seems slow, there are a number of
-  things that could be causing the slow down.</p>
-<p class="p">Try closing your web browser and then re-opening it, and disconnecting
-  from the internet and then reconnecting again. (Doing this resets a lot of
-  things that might be causing the internet to run slowly.)</p>
+<p class="p">Jika Anda menggunakan internet dan tampaknya lambat, ada beberapa hal yang dapat menyebabkan memperlambat.</p>
+<p class="p">Coba tutup peramban web Anda dan kemudian kembali membukanya, dan memutuskan hubungan dari internet dan kemudian menghubungkan kembali lagi. (Melakukan ini me-reset banyak hal yang mungkin menyebabkan internet berjalan lambat.)</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p"><span class="em-bold em">Waktu sibuk pada hari tersebut</span></p>
-<p class="p">Internet service providers commonly setup internet connections so that
-      they are shared between several households. Even though you connect
-      separately, through your own phone line or cable connection, the
-      connection to the rest of the internet at the telephone exchange might
-      actually be shared. If this is the case and lots of your neighbors are
-      using the internet at the same time as you, you might notice a slow-down.
-      You’re most likely to experience this at times when your neighbors are
-      probably on the internet (in the evenings, for example).</p>
+<p class="p">Penyedia layanan Internet biasanya menyiapkan koneksi internet sehingga mereka dibagi antara beberapa rumah tangga. Meskipun Anda terhubung secara terpisah, melalui saluran telepon atau koneksi kabel Anda sendiri, koneksi ke seluruh internet di sentral telepon mungkin benar-benar dibagikan. Jika hal ini terjadi dan banyak tetangga Anda menggunakan internet pada saat yang sama seperti Anda, Anda mungkin merasa melambat. Anda kemungkinan besar akan mengalami ini pada saat-saat ketika tetangga Anda mungkin di internet (di malam hari, misalnya).</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Mengunduh banyak hal sekaligus</span></p>
-<p class="p">If you or someone else using your internet connection are downloading
-      several files at once, or watching videos, the internet connection might
-      not be fast enough to keep up with the demand. In this case, it will feel
-      slower.</p>
+<p class="p">Jika Anda atau orang lain yang menggunakan koneksi internet Anda mengunduh beberapa berkas sekaligus, atau menonton video, koneksi internet mungkin tidak cukup cepat untuk memenuhi permintaan. Dalam hal ini, akan terasa lebih lambat.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Koneksi tak reliabel</span></p>
-<p class="p">Some internet connections are just unreliable, especially temporary
-      ones or those in high demand areas. If you are in a busy coffee shop or a
-      conference center, the internet connection might be too busy or simply
-      unreliable.</p>
+<p class="p">Beberapa koneksi internet tidak dapat diandalkan, terutama yang sementara atau mereka di daerah permintaan tinggi. Jika Anda berada di kedai kopi yang sibuk atau pusat konferensi, koneksi internet mungkin terlalu sibuk atau sekadar tidak dapat diandalkan.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Sinyal koneksi nirkabel lemah</span></p>
-<p class="p">If you are connected to the internet by wireless (Wi-Fi), check the
-      network icon on the top bar to see if you have good wireless signal. If
-      not, the internet may be slow because you don’t have a very strong
-      signal.</p>
+<p class="p">Jika Anda terhubung ke internet dengan nirkabel (Wi-Fi), periksa ikon jaringan di bar bagian atas untuk melihat apakah Anda memiliki sinyal nirkabel yang baik. Jika tidak, internet mungkin lambat karena Anda tidak memiliki sinyal yang sangat kuat.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Memakai koneksi internet mobil yang lebih lambat</span></p>
-<p class="p">If you have a mobile internet connection and notice that it is slow,
-      you may have moved into an area where signal reception is poor. When this
-      happens, the internet connection will automatically switch from a fast
-      “mobile broadband” connection like 3G to a more reliable, but slower,
-      connection like GPRS.</p>
+<p class="p">Jika Anda memiliki koneksi internet mobile dan perhatikan bahwa itu lambat, Anda mungkin telah pindah ke daerah di mana penerimaan sinyal jelek. Ketika ini terjadi, koneksi internet akan secara otomatis beralih dari koneksi "data seluler" cepat seperti 3G ke yang lebih handal, tapi lebih lambat, koneksi seperti GPRS.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Peramban web bermasalah</span></p>
-<p class="p">Sometimes web browsers encounter a problem that makes them run slow.
-      This could be for any number of reasons — you could have visited a
-      website that the browser struggled to load, or you might have had the
-      browser open for a long time, for example. Try closing all of the
-      browser’s windows and then opening the browser again to see if this makes
-      a difference.</p>
+<p class="p">Terkadang peramban web menemui masalah yang membuatnya berjalan lambat. Ini bisa karena sejumlah alasan - Anda bisa mengunjungi situs web yang susah payah dimuat oleh peramban, atau Anda mungkin membuka peramban untuk waktu yang lama, misalnya. Coba tutup semua jendela peramban lalu buka peramban lagi untuk melihat apakah ini ada bedanya.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -138,10 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.id" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
-    </span>
+<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Melacak masalah koneksi nirkabel</a></span>, <span class="link"><a href="net-wireless-find.html.id" title="Saya tak bisa melihat jaringan nirkabelku dalam daftar">menemukan jaringan Wi-Fi Anda</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

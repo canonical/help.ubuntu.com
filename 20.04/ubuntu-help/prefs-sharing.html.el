@@ -76,7 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ρυθμίσεις κοινής χρήσης</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Οι <span class="em">Ρυθμίσεις κοινής χρήσης</span> στο GNOME βοηθούν στον έλεγχο του διαμοιρασμού μέσω του τοπικού δικτύου, ή μέσα από άλλες τεχνολογίες όπως το <span class="em">Bluetooth</span>.</p>
+<p class="p">The <span class="em">Sharing Settings</span> help you control what is shared over the
+  local network, or through other technologies such as <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.el" title="Ορισμός του ονόματος εμφάνισης για τον υπολογιστή σας"><span class="title">Ορισμός του ονόματος εμφάνισης για τον υπολογιστή σας</span><span class="linkdiv-dash"> — </span><span class="desc">Ελέγξτε πώς ο υπολογιστής σας θα εμφανίζετε σε άλλους υπολογιστές ή συσκευές.</span></a></div>

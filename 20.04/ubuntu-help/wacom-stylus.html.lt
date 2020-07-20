@@ -84,7 +84,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.lt#activities" title="Veiklų Apžvalga">Activities</a></span> overview and
     start typing <span class="gui">Settings</span>.</p></li>
 <li class="steps"><p class="p">Spustelėkite <span class="gui">Nustatymai</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Wacom Tablet</span> in the sidebar to open the panel.</p></li>
 <li class="steps">
 <p class="p">Click the <span class="gui">Stylus</span> button in the header bar.</p>

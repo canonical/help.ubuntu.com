@@ -88,10 +88,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Find the network connection that you want to have a fixed address.
       Click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span>
       button next to the network connection. For a <span class="gui">Wi-Fi</span> connection,
       the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span>
       button will be located next to the active network.</p></li>
 <li class="steps"><p class="p">Select the <span class="gui">IPv4</span> or <span class="gui">IPv6</span> tab and change the
       <span class="gui">Method</span> to <span class="gui">Manual</span>.</p></li>

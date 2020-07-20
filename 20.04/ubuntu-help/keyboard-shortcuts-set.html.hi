@@ -85,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.hi#activities" title="Activities overview">Activities</a></span> 
       overview and start typing <span class="gui">Settings</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard Shortcuts</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
       window will be shown.</p></li>
 <li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to

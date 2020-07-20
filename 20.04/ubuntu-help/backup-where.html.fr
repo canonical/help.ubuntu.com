@@ -76,11 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Où stocker vos sauvegardes ?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You should store backup copies of your files somewhere separate from your
- computer — on an external hard disk, for example. That way, if the computer
- breaks, the backup will still be intact. For maximum security, you shouldn’t
- keep the backup in the same building as your computer. If there is a fire or
- theft, both copies of the data could be lost if they are kept together.</p>
+<p class="p">Vous devriez stocker les sauvegardes de vos fichiers ailleurs que sur votre ordinateur —  sur un disque dur externe, par exemple. Ainsi, si l’ordinateur tombe en panne, la sauvegarde sera toujours intacte. Pour une sécurité maximale, vous ne devriez pas conserver votre sauvegarde dans le même bâtiment que votre ordinateur. S’il y a un incendie ou un vol, les deux copies de données pourraient être perdues si conservées ensemble.</p>
 <p class="p">Il est aussi important de choisir un <span class="em">support de sauvegarde</span> adéquat. Choisissez un périphérique avec une capacité de stockage suffisante pour accueillir toutes vos sauvegardes.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Options de stockage locale et distante</span></h2></div>

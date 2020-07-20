@@ -91,7 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="characters"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Merkit</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Gnome sisältää merkkikarttasovelluksen, jonka avulla voit etsiä ja syöttää epätavallisia merkkejä, mukaan lukien emojit, selaamalla merkkiluokkia tai etsimällä hakusanoin.</p>
+<p class="p">The character map application allows you to find and insert unusual
+    characters, including emoji, by browsing character categories or searching
+    for keywords.</p>
 <p class="p">Voit käynnistää <span class="app">Merkit</span>-sovelluksen Toiminnot-yleisnäkymästä.</p>
 </div></div>
 </div></section><section id="compose"><div class="inner">

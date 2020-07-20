@@ -80,13 +80,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Bluetooth</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Set the switch at the top to on.</p></li>
+<li class="steps"><p class="p">Atur saklar di puncak ke menyala.</p></li>
 </ol></div></div></div>
 <p class="p">Banyak komputer laptop memiliki tombol perangkat keras atau kombinasi tombol untuk menyalakan dan mematikan Bluetooth. Carilah sebuah tombol di komputer Anda atau tombol pada papan tik Anda. Tombol papan tik sering diakses dengan bantuan tombol <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
 <p class="p">Untuk mematikan Bluetooth:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="System menu">system menu</a></span> from the
-      right side of the top bar.</p></li>
+<li class="steps"><p class="p">Buka <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="Menu sistem">menu sistem</a></span> pada bagian kanan dari bilah puncak.</p></li>
 <li class="steps"><p class="p">Pilih <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span> Tidak Digunakan</span>. Area menu Bluetooth akan ditampilkan.</p></li>
 <li class="steps"><p class="p">Pilih <span class="gui">Matikan</span>.</p></li>
 </ol></div></div></div>

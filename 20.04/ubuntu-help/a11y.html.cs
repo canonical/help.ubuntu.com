@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Univerzální přístup</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Součástí pracovního prostředí GNOME jsou asistenční technologie, které podporují uživatele s různými postiženími a speciálními potřebami a umí spolupracovat se zařízeními sloužícími jako asistenční pomůcky. Na horní lištu si můžete přidat nabídku zpřístupnění, abyste získali snadný přístup k řadě těchto funkcí zpřístupnění.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.cs" title="Vyhledání nabídky univerzálního přístupu"><span class="title">Vyhledání nabídky univerzálního přístupu</span><span class="linkdiv-dash"> — </span><span class="desc">Nabídka univerzálního přístupu je pod ikonou na horní liště, která vypadá jako panáček.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">

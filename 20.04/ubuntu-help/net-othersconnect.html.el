@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Δίκτυο</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Δίκτυο</span> για να ανοίξετε τον πίνακα.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Wi-Fi</span> από τον κατάλογο στα αριστερά.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στο κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ρυθμίσεις"></span></span> για να ανοίξετε τις λεπτομέρειες τις σύνδεσης.</p></li>
+<li class="steps"><p class="p">Κάντε κλικ στο κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="ρυθμίσεις"></span></span> για να ανοίξετε τις λεπτομέρειες τις σύνδεσης.</p></li>
 <li class="steps"><p class="p">Επιλέξτε <span class="gui">Ταυτότητα</span> από τον πίνακα στα αριστερά.</p></li>
 <li class="steps"><p class="p">Στο κάτω μέρος του πίνακα <span class="gui">Ταυτότητα</span>, σημειώστε την επιλογή <span class="gui">Διαθέσιμο για άλλους τους χρήστες</span> για να επιτρέψετε σε άλλους χρήστες να χρησιμοποιούν τη σύνδεση δικτύου.</p></li>
 <li class="steps"><p class="p">Πατήστε <span class="gui">Εφαρμογή</span> για να αποθηκεύσετε τις αλλαγές.</p></li>

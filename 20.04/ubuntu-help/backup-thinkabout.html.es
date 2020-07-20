@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Archivos ocultos</p>
-<p class="p">De forma predeterminada se oculta cualquier carpeta o archivo que comience por un punto (.). Para ver archivos ocultos, pulse el botón <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Opciones de la vista"></span></span></span> en la barra de herramientas y elija <span class="gui">Mostrar archivos ocultos</span> o pulse <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Puede copiarlos a una ubicación de respaldo como cualquier otro tipo de archivo.</p>
+<p class="p">De forma predeterminada se oculta cualquier carpeta o archivo que comience por un punto (.). Para ver archivos ocultos, pulse el botón <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Opciones de la vista"></span></span></span> en la barra de herramientas y elija <span class="gui">Mostrar archivos ocultos</span> o pulse <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Puede copiarlos a una ubicación de respaldo como cualquier otro tipo de archivo.</p>
 </li>
 <li class="list">
 <p class="p">Configuración personal (preferencias del escritorio, temas y configuración del software)</p>

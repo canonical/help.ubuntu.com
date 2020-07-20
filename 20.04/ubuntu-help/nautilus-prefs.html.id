@@ -70,25 +70,23 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferensi pengelola berkas</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.id" title="Files list columns preferences"><span class="title">Files list columns preferences</span><span class="linkdiv-dash"> — </span><span class="desc">Control what information is displayed in columns in list view.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.id" title="Preferensi perilaku pengelola berkas"><span class="title">Preferensi perilaku pengelola berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Single-click to open files, run or view executable
-    text files, and specify trash behavior.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.id" title="Preferensi pratilik pengelola berkas"><span class="title">Preferensi pratilik pengelola berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Control when thumbnails are used for files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.id" title="Preferensi tampilan pengelola berkas"><span class="title">Preferensi tampilan pengelola berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Control icon captions used in the file manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.id" title="Views preferences in Files"><span class="title">Views preferences in <span class="app">Files</span></span><span class="linkdiv-dash"> — </span><span class="desc">Specify the default sort order and grouping for the file
-    manager.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-list.html.id" title="Preferensi kolom daftar berkas"><span class="title">Preferensi kolom daftar berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Mengontrol informasi apa yang ditampilkan dalam kolom dalam tampilan daftar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-behavior.html.id" title="Preferensi perilaku pengelola berkas"><span class="title">Preferensi perilaku pengelola berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Klik tunggal untuk membuka berkas, menjalankan, atau melihat berkas teks yang dapat dieksekusi, dan menentukan perilaku sampah.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-preview.html.id" title="Preferensi pratilik pengelola berkas"><span class="title">Preferensi pratilik pengelola berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Mengendalikan kapan gambar mini dipakai untuk berkas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-views.html.id" title="Preferensi tampilan dalam Berkas"><span class="title">Preferensi tampilan dalam <span class="app">Berkas</span></span><span class="linkdiv-dash"> — </span><span class="desc">Menentukan pengurutan baku dan pengelompokan untuk manajer berkas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-display.html.id" title="Preferensi tampilan pengelola berkas"><span class="title">Preferensi tampilan pengelola berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Keterangan ikon kontrol yang digunakan dalam manajer berkas.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a></li></ul></div>
 </div></div></div>
 </div></section>
 </div>

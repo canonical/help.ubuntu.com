@@ -83,7 +83,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Wiele komputerów ma czytniki kart SD, MMC, SM, MS, CF i innych. Są one automatycznie wykrywane i <span class="link"><a href="disk-partitions.html.pl-PL" title="Zarządzanie woluminami i partycjami">montowane</a></span>. Poniższe instrukcje mogą pomóc, jeśli coś nie działa.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Upewnij się, że karta jest właściwie włożona. Wiele kart po poprawnym włożeniu wygląda, jakby były do góry nogami. Upewnij się też, że karta mocno siedzi w gnieździe. Niektóre karty, zwłaszcza CF, wymagają włożenia nieco siły. Uważaj, żeby nie ścisnąć za mocno. Nie pchaj, jeśli gniazdo sprawia opór.</p></li>
-<li class="steps"><p class="p">Otwórz program <span class="app">Pliki</span> z <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekranu podglądu</a></span>. Czy włożona karta pojawiła się na liście <span class="gui">Urządzenia</span> w lewym panelu? Czasami karta pojawia się na tej liście, ale nie jest zamontowana. Kliknij ją, aby zamontować. Jeśli panel boczny jest niewidoczny, to naciśnij klawisz <span class="key"><kbd>F9</kbd></span> lub kliknij <span class="gui">Pliki</span> na górnym pasku i zaznacz opcję <span class="gui">Panel boczny</span>.</p></li>
+<li class="steps"><p class="p">Open <span class="app">Files</span> from the
+  <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">Activities</a></span> overview. Does the inserted
+  card appear in the left sidebar? Sometimes the
+  card appears in this list but is not mounted; click it once to mount. (If the
+  sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
+  the top bar and select the <span class="gui">Sidebar</span>.)</p></li>
 <li class="steps"><p class="p">Jeśli karta nie pojawia się na panelu bocznym, to naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, a następnie wpisz <span class="input">computer:///</span> i naciśnij klawisz <span class="key"><kbd>Enter</kbd></span>. Jeśli czytnik kart jest poprawnie skonfigurowany, to powinien być wyświetlany jako napęd, kiedy żadna karta nie jest włożona, i jako karta, kiedy jest włożona.</p></li>
 <li class="steps"><p class="p">Jeśli widoczny jest czytnik kart, ale nie karta, to problem może leżeć w karcie. Spróbuj użyć innej karty lub sprawdź kartę w innym czytniku, jeśli to możliwe.</p></li>
 </ol></div></div></div>

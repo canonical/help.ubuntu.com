@@ -80,13 +80,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Låsskärmen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Låsskärmen innebär att du se vad som händer medan din dator är låst, och den tillåter dig att få ett sammandrag av vad som har hänt medan du har varit borta. Låsskärmsgardinen visar en attraktiv bild på skärmen medan din dator är låst och tillhandahåller användbar information:</p>
+<p class="p">The lock screen means that you can see what is happening while your
+  computer is locked, and it allows you to get a summary of what has been
+  happening while you have been away. The lock screen provides
+  useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">namnet på den inloggade användaren</p></li>
 <li class="list"><p class="p">datum och tid, och vissa aviseringar</p></li>
 <li class="list"><p class="p">batteri- och nätverksstatus</p></li>
 </ul></div></div></div>
-<p class="p">För att låsa upp din dator, höj låsskärmsgardinen genom att dra den uppåt med markören eller genom att trycka på <span class="key"><kbd>Esc</kbd></span> eller <span class="key"><kbd>Retur</kbd></span>. Detta kommer att visa inloggningsskärmen där du kan mata in ditt lösenord för att låsa upp. Alternativt kan du bara börja skriva ditt lösenord så kommer gardinen automatiskt att höja medan du skriver. Du kan också växla användare om din dator är konfigurerad för mer än en.</p>
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+  This will reveal the login screen, where you can enter your password to
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">För att gömma aviseringar från låsskärmen, se <span class="link"><a href="shell-notifications.html.sv#lock-screen-notifications" title="Dölja aviseringar på låsskärmen">Dölja aviseringar på låsskärmen</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

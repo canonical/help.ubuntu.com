@@ -92,13 +92,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Győződjön meg róla, hogy a vezeték nélküli kártya be van kapcsolva, vagy a hálózati kábel be van dugva.</p>
 </li>
 <li class="steps">
-<p class="p">Click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>button.</p>
+<p class="p">Kattintson a <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="beállítások"></span></span> gombra.</p>
 <div class="note" title="Megjegyzés">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">Wi-Fi</span> kapcsolat esetén a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gomb az aktív hálózat mellett található.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">Wi-Fi</span> kapcsolat esetén a <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="beállítások"></span></span> gomb az aktív hálózat mellett található.</p></div></div></div>
 </div>
 </li>
 <li class="steps"><p class="p">Select the <span class="gui">IPv4</span> or <span class="gui">IPv6</span> tab and change the

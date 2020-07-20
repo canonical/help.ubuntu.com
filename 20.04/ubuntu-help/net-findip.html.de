@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Wählen Sie <span class="gui">Funknetzwerk</span> oder <span class="gui">Kabelgebunden</span> in der linken Liste aus.</p>
 <p class="p">Die IP-Adresse für eine kabelgebundene Netzwerkverbindung wird an der rechten Seite angezeigt.</p>
-<p class="p">Klicken Sie auf den <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="Einstellungen"></span></span>-Knopf, um die IP-Adresse für das Funknetzwerk im <span class="gui">Details</span>-Panel anzuzeigen.</p>
+<p class="p">Klicken Sie auf den <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="Einstellungen"></span></span>-Knopf, um die IP-Adresse für das Funknetzwerk im <span class="gui">Details</span>-Panel anzuzeigen.</p>
 </li>
 </ol></div>
 </div></div>

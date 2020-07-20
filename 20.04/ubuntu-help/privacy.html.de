@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Einstellungen zur Privatsphäre</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Die <span class="em">Privatsphäre-Einstellungen</span> in GNOME helfen Ihnen festzulegen, ob bestimmte Teile Ihrer Arbeitsumgebung für andere sichtbar sind oder nicht. Sie können diese Einstellungen auch verwenden, um die während der Rechnernutzung gespeicherte Chronik zu leeren und nicht mehr benötigte Dateien zu löschen.</p>
+<p class="p">The <span class="em">Privacy Settings</span> help you control whether or not
+  certain parts of your desktop are visible to others. You can also
+  use these settings to clear your computer usage history and clean out
+  unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.de" title="Den Verlauf von Dateiänderungen ausschalten oder begrenzen"><span class="title">Den Verlauf von Dateiänderungen ausschalten oder begrenzen</span><span class="linkdiv-dash"> — </span><span class="desc">Hindern Sie Ihren Rechner daran, eine Liste der zuletzt verwendeten Dateien zu führen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.de" title="Ihren Bildschirm automatisch sperren"><span class="title">Ihren Bildschirm automatisch sperren</span><span class="linkdiv-dash"> — </span><span class="desc">Hindern Sie andere Personen daran, Ihre Arbeitsumgebung zu verwenden, wenn Sie sich von Ihrem Rechner entfernen.</span></a></div>

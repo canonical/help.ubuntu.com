@@ -76,11 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Pilih berkas menurut pola</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can select files in a folder using a pattern on the file name.
-  Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> to bring up the
-  <span class="gui">Select Items Matching</span> window. Type in a pattern using
-  common parts of the file names plus wild card characters. There are
-  two wild card characters available:</p>
+<p class="p">Anda dapat memilih berkas dalam folder menggunakan pola pada nama berkas. Tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> untuk memunculkan jendela <span class="gui">Pilih Butir yang Cocok</span>. Ketik pola menggunakan bagian umum dari nama berkas ditambah karakter wild card. Ada dua karakter wild card yang tersedia:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="file">*</span> cocok dengan sebanyak apapun karakter apa saja, bahkan juga dengan nol karakter.</p></li>
 <li class="list"><p class="p"><span class="file">?</span> cocok dengan satu karakter apapun.</p></li>
@@ -88,21 +84,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Sebagai contoh:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">If you have an OpenDocument Text file, a PDF file, and an
-    image that all have the same base name <span class="file">Invoice</span>, select
-    all three with the pattern</p>
+<p class="p">Jika Anda memiliki berkas teks OpenDocument, berkas PDF, dan gambar yang semua memiliki nama dasar yang sama <span class="file">Invoice</span>, pilih ketiganya dengan pola</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="file">Invoice.*</span></p></div></div></div></div>
 </li>
 <li class="list">
-<p class="p">If you have some photos that are named like
-    <span class="file">Vacation-001.jpg</span>, <span class="file">Vacation-002.jpg</span>,
-    <span class="file">Vacation-003.jpg</span>; select them all with the pattern</p>
+<p class="p">Jika Anda memiliki beberapa foto yang diberi nama seperti <span class="file">Vacation-001.jpg</span>, <span class="file">Vacation-002.jpg</span>, <span class="file">Vacation-003.jpg</span>; pilih mereka semua dengan pola</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="file">Vacation-???.jpg</span></p></div></div></div></div>
 </li>
 <li class="list">
-<p class="p">If you have photos as before, but you have edited some of them and
-    added <span class="file">-edited</span> to the end of the file name of the photos you
-    have edited, select the edited photos with</p>
+<p class="p">Jika Anda memiliki foto seperti sebelumnya, tetapi Anda telah menyuntingnya dan menambahkannya <span class="file">-edited</span> ke akhir nama berkas dari foto yang telah Anda sunting, pilih foto yang sudah disunting dengan</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="file">Vacation-???-edited.jpg</span></p></div></div></div></div>
 </li>
 </ul></div></div></div>

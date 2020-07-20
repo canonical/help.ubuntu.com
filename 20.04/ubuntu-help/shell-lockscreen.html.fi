@@ -80,13 +80,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Lukitusnäyttö</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Lukitusnäyttö näyttää mitä koneella tapahtuu sen ollessa lukittu, ja näyttää yhteenvedon mitä on tapahtunut ollessasi poissa. Lukitusnäyttö näyttää valitsemasi lukitusnäytön taustakuvan ja hyödyllisiä tietoja:</p>
+<p class="p">The lock screen means that you can see what is happening while your
+  computer is locked, and it allows you to get a summary of what has been
+  happening while you have been away. The lock screen provides
+  useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">sisäänkirjautuneen käyttäjän nimen</p></li>
 <li class="list"><p class="p">päivän ja ajan sekä tiettyjä ilmoituksia</p></li>
 <li class="list"><p class="p">akun ja verkon tilan</p></li>
 </ul></div></div></div>
-<p class="p">Avaa tietokoneen lukitus nostamalla lukitusnäytön "verho" edestä hiirellä, tai painamalla <span class="key"><kbd>Esc</kbd></span> tai <span class="key"><kbd>Enter</kbd></span>. Eteesi ilmestyy sisäänkirjautumisnäkymä, johon voit kirjoittaa salasanan avataksesi tietokoneen lukituksen. Voit myös aloittaa suoraan lukitusnäytössä salasanasi kirjoittamisen, jolloin lukitusnäyttö poistuu näkyvistä automaattisesti. Voit myös vaihtaa käyttäjää sisäänkirjautumisnäkymässä, jos koneella on useampi kuin yksi käyttäjätili.</p>
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+  This will reveal the login screen, where you can enter your password to
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">To hide notifications from the lock screen, see
   <span class="link"><a href="shell-notifications.html.fi#lock-screen-notifications" title="Ilmoitusten piilottaminen lukitusnäytöltä">Ilmoitusten piilottaminen lukitusnäytöltä</a></span>.</p>
 </div>

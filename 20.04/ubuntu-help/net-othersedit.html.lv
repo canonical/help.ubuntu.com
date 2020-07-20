@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Tīkls</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Tīkls</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Izvēlieties <span class="gui">Wi-Fi</span> sarakstā kreisajā pusē.</p></li>
-<li class="steps"><p class="p">Spiediet pogu <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="iestatījumi"></span></span> , lai atvērtu informāciju par savienojumu.</p></li>
+<li class="steps"><p class="p">Spiediet pogu <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="iestatījumi"></span></span> , lai atvērtu informāciju par savienojumu.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Identitāte</span> kreisās puses rūtī.</p></li>
 <li class="steps"><p class="p"><span class="gui">Identitātes</span> paneļa apakšā atzīmējiet <span class="gui">Pieejams visiem lietotājiem</span> opciju, lai pārējie lietotāji vatētu lietot šo tīkla savienojumu.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pielietot</span>, lai saglabātu izmaiņas.</p></li>

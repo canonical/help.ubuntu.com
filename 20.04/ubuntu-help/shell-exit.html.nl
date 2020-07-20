@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Afmelden, uitschakelen of van gebruiker wisselen</span></h1></div>
@@ -94,9 +94,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Het scherm vergrendelen</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Als u uw computer korte tijd achterlaat, dan moet u uw scherm vergrendelen om te voorkomen dat anderen toegang krijgen tot uw bestanden en draaiende toepassingen. Wanneer u terug komt, kunt u het <span class="link"><a href="shell-lockscreen.html.nl" title="The lock screen">vergrendelde scherm</a></span> opheffen en uw wachtwoord invoeren om u weer aan te melden. Als u uw scherm niet vergrendelt, dan zal het automatisch vergrendeld worden na een bepaalde tijd.</p>
-<p class="p">Om uw scherm te vergrendelen: klik op het <span class="gui">Systeemmenu</span> rechts in de bovenbalk en klik op de knop <span class="gui">Scherm vergrendelen</span> aan de onderkant van het menu.</p>
-<p class="p">Wanneer uw scherm vergrendeld is, kunnen andere gebruikers zich aanmelden via hun eigen account door te klikken op <span class="gui">Gebruiker wisselen</span> in het wachtwoordscherm. Wanneer zij klaar zijn kunt u terugkeren naar uw bureaublad.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.nl" title="The lock screen">lock screen</a></span>. Enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -117,8 +125,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Pauzestand</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Zet uw computer in de pauzestand wanneer u deze niet gebruikt, om zo stroom te besparen. Als u een laptop heeft, zal Gnome uw computer automatisch in de pauzestand zetten wanneer u hem dichtdoet . Hiermee wordt alles opgeslagen in het geheugen van de computer en worden de meeste van de functies op uw computer uitgeschakeld. Er wordt nog een heel klein beetje stroom gebruikt tijdens de pauzestand.</p>
-<p class="p">Om uw computer handmatig in de pauzestand te zetten: klik op het <span class="gui">Systeemmenu</span> rechts in de bovenbalk. Van daaruit kunt u de <span class="key"><kbd>Alt</kbd></span>-toets ingedrukt houden terwijl u op de knop <span class="gui">Uitschakelen</span> drukt, of u drukt gewoon lang op de knop <span class="gui">Uitschakelen</span>.</p>
+<p class="p">To save power, suspend your computer when you are not using it. If you use
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
+  suspend.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -142,7 +157,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Uitschakelen of opnieuw opstarten</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Als u de computer uit wilt zetten of opnieuw wilt starten: klik op het <span class="gui">Systeemmenu</span> rechts in de bovenbalk en druk op de knop <span class="gui">Uitschakelen</span> aan de onderkant van het menu. Er wordt een dialoogvenster geopend waarin u kunt kiezen tussen <span class="gui">Opnieuw starten</span> of <span class="gui">Uitschakelen</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Als er andere gebruikers aangemeld zijn, dan kan het zijn dat u de computer niet mag uitschakelen of herstarten omdat daarmee hun sessies beëindigd zullen worden. Als u beheerder bent, dan kan het zijn dat u uw wachtwoord moet invoeren om uit te schakelen.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
@@ -167,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="index.html.nl" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></li>
+<li class="links "><a href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving">Gids voor de Ubuntu-werkomgeving</a></li>
 <li class="links ">
 <a href="shell-overview.html.nl" title="Uw bureaublad">Uw bureaublad</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.nl" title="Agenda-afspraken">Agenda</a></span>, <span class="link"><a href="shell-notifications.html.nl" title="Notifications and the notification list">notificaties</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.nl" title="Handige sneltoetsen">sneltoetsen</a></span>, <span class="link"><a href="shell-windows.html.nl" title="Vensters en werkbladen">vensters en werkbladen</a></span>…</span>
 </li>

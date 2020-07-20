@@ -75,34 +75,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Gravando arquivos em um CD ou DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Você pode colocar arquivos em um disco vazio usando o <span class="gui">Criador de CD/DVD</span>. A opção para criar um CD ou DVD aparecerá no gerenciador de arquivos assim que você colocar o CD no seu gravador de CD/DVD. O gerenciador de arquivos lhe permite transferir arquivos para outros computadores ou realizar <span class="link"><a href="backup-why.html.pt-BR" title="Fazendo cópias de segurança dos seus arquivos importantes">cópias de segurança</a></span> pondo arquivos em um disco vazio. Para gravar arquivos em CD ou DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Coloque um disco vazio em uma unidade gravadora de CD/DVD.</p></li>
-<li class="steps">
-<p class="p">Na notificação <span class="gui">Disco de CD/DVD-R vazio</span> que aparece no canto inferior da tela, selecione <span class="gui">Abrir com o criador de CD/DVD</span>. A janela da pasta <span class="gui">Criador de CD/DVD</span> se abrirá.</p>
-<p class="p">(Você também pode clicar em <span class="gui">Disco CD/DVD-R vazio</span> sob <span class="gui">Dispositivos</span> na barra lateral do gerenciador de arquivos.)</p>
-</li>
-<li class="steps"><p class="p">No campo <span class="gui">Nome do disco</span>, digite um nome para o disco.</p></li>
-<li class="steps"><p class="p">Arraste e copie os arquivos desejados para a janela.</p></li>
-<li class="steps"><p class="p">Clique em <span class="gui">Escrever no disco</span>.</p></li>
-<li class="steps">
-<p class="p">Em <span class="gui">Selecione um disco para gravar</span>, escolha o disco vazio.</p>
-<p class="p">(Em vez disso, você poderia escolher <span class="gui">Arquivo de imagem</span>. Isso vai colocar os arquivos em uma <span class="em">imagem de disco</span>, a qual será armazenada no seu computador. Você pode, então, gravar aquela imagem de disco em um disco vazio, noutra data.)</p>
-</li>
-<li class="steps"><p class="p">Clique em <span class="gui">Propriedades</span> se você deseja ajustar a velocidade de gravação, a local dos arquivos temporários e outras opções. As opções padrão devem servir.</p></li>
-<li class="steps">
-<p class="p">Clique no botão <span class="gui">Gravar</span> para começar a gravação.</p>
-<p class="p">Se <span class="gui">Gravar vários discos</span> estiver selecionada, você será solicitado por discos adicionais.</p>
-</li>
-<li class="steps"><p class="p">Quando a gravação de disco for concluída, o disco será ejetado automaticamente. Escolha <span class="gui">Fazer outra cópia</span> ou <span class="gui">Fechar</span> para sair.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Se o disco não foi gravado apropriadamente</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Algumas vezes o computador não grava os dados corretamente e ao inserir o disco no computador, você não será capaz de ver os arquivos que você colocou dentro do disco.</p>
-<p class="p">Neste caso, tente gravar o disco novamente, mas use uma velocidade de gravação menor, como, por exemplo, 12x ao invés de 48x. A gravação em baixas velocidades é mais confiável. Você pode escolher a velocidade ao clicar no botão de <span class="gui">Propriedades</span> na janela do <span class="gui">Criador de CD/DVD</span>.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

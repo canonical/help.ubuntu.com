@@ -90,7 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Make sure your calibration device is connected to your computer.</p></li>
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Asetukset</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Asetukset</span>.</p></li>
-<li class="steps"><p class="p">Napsauta <span class="gui">Laitteet</span> sivupalkista.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Värit</span> sivupalkista avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Calibrate…</span> to commence the

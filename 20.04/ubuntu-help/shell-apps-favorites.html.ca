@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Fixar les aplicacions preferides al taulell</title>
+<title>Fixar les aplicacions preferides al quadre d'aplicacions</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,19 +73,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="shell-overview.html.ca" title="El vostre escriptori">Escriptori</a> › <a class="trail" href="shell-overview.html.ca#desktop" title="Personalitzar l'escriptori">Personalitzar l'escriptori</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Fixar les aplicacions preferides al taulell</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Fixar les aplicacions preferides al quadre d'aplicacions</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Per a afegir una aplicació al <span class="link"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">tauler</a></span> per un fàcil accés:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> fent clic a <span class="gui">Activitats</span> a la part superior esquerra de la pantalla</p></li>
-<li class="steps"><p class="p">Feu clic al botó de quadrícula al tauler i cerqueu l'aplicació que voleu afegir.</p></li>
+<li class="steps"><p class="p">Feu clic al botó de quadrícula al quadre d'aplicacions i cerqueu l'aplicació que voleu afegir.</p></li>
 <li class="steps">
 <p class="p">Feu clic amb el botó dret sobre la icona de l'aplicació i seleccioneu <span class="gui">Afegeix als preferits</span>.</p>
-<p class="p">També podeu fer clic i arrossegar la icona al tauler.</p>
+<p class="p">També podeu fer clic i arrossegar la icona al quadre d'aplicacions.</p>
 </li>
 </ol></div></div></div>
-<p class="p">Per treure la icona d'una aplicació del tauler, feu clic amb el botó dret a la icona de l'aplicació i seleccioneu <span class="gui">Suprimeix dels preferits</span>.</p>
+<p class="p">Per treure la icona d'una aplicació del quadre d'aplicacions, feu clic amb el botó dret a la icona de l'aplicació i seleccioneu <span class="gui">Suprimeix dels preferits</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

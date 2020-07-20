@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Wybierz urządzenie, <span class="gui">Wi-Fi</span> lub <span class="gui">Przewodowe</span>, z lewego panelu.</p>
 <p class="p">Adres MAC urządzenia przewodowego jest wyświetlany jako <span class="gui">Adres sprzętowy</span> po prawej.</p>
-<p class="p">Kliknij przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ustawienia"></span></span>, aby wyświetlić adres MAC urządzenia bezprzewodowego, wyświetlany jako <span class="gui">Adres sprzętowy</span> w panelu <span class="gui">Informacje</span>.</p>
+<p class="p">Kliknij przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="ustawienia"></span></span>, aby wyświetlić adres MAC urządzenia bezprzewodowego, wyświetlany jako <span class="gui">Adres sprzętowy</span> w panelu <span class="gui">Informacje</span>.</p>
 </li>
 </ol></div></div></div>
 <p class="p">Czasami potrzeba zmodyfikować adres MAC. Na przykład, niektórzy dostawcy Internetu wymagają konkretnego adresu MAC, aby używać ich usług. Jeśli karta sieciowa się zepsuła i trzeba ją wymienić, to Internet przestanie działać. W takim wypadku należy zmienić adres MAC.</p>

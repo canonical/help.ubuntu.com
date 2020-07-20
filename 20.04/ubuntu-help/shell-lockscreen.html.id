@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>The lock screen</title>
+<title>Layar kunci</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,29 +73,28 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="trail">
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="shell-overview.html.id" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html.id#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="shell-overview.html.id" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html.id#desktop" title="Customize your desktop">Customize your desktop</a> » <a class="trail" href="shell-notifications.html.id" title="Notifications and the notification list">Notifications and the notification list</a> › <a class="trail" href="shell-notifications.html.id#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="shell-overview.html.id" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html.id#desktop" title="Menyesuaikan desktop Anda">Menyesuaikan desktop Anda</a> » <a class="trail" href="shell-notifications.html.id" title="Notifikasi dan daftar notifikasi">Notifikasi dan daftar notifikasi</a> › <a class="trail" href="shell-notifications.html.id#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">The lock screen</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Layar kunci</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">The lock screen means that you can see what is happening while your
   computer is locked, and it allows you to get a summary of what has been
-  happening while you have been away. The lock screen curtain shows an
-  attractive image on the screen while your computer is locked, and provides
+  happening while you have been away. The lock screen provides
   useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">the name of the logged-in user</p></li>
 <li class="list"><p class="p">tanggal dan waktu, serta notifikasi tertentu</p></li>
 <li class="list"><p class="p">status baterai dan jaringan</p></li>
 </ul></div></div></div>
-<p class="p">To unlock your computer, raise the lock screen curtain by dragging it
-  upward with the cursor, or by pressing <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
   This will reveal the login screen, where you can enter your password to
-  unlock. Alternatively, just start typing your password and the curtain will
-  be automatically raised as you type. You can also switch users if your
-  computer is configured for more than one.</p>
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">To hide notifications from the lock screen, see
   <span class="link"><a href="shell-notifications.html.id#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a></span>.</p>
 </div>

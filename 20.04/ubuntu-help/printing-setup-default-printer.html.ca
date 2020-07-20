@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html.ca" title="Com funcionen els privilegis administratius?">Com funcionen els privilegis administratius?</a><span class="desc"> — Us calen privilegis d'administrador per canviar parts importants del sistema.</span>
+<a href="user-admin-explain.html.ca" title="Com funcionen els privilegis administratius?">Com funcionen els privilegis administratius?</a><span class="desc"> — Us calen privilegis d'administrador per a canviar parts importants del sistema.</span>
 </li>
 <li class="links ">
 <a href="printing-setup.html.ca" title="Configurar una impressora local">Configurar una impressora local</a><span class="desc"> — Configurar una impressora que estigui connectada a l'ordinador, o la xarxa local.</span>

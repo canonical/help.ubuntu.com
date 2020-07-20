@@ -89,13 +89,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Ihre Arbeitsumgebung anpassen</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.de" title="Anwendungen automatisch bei Anmeldung starten"><span class="title">Anwendungen automatisch bei Anmeldung starten</span><span class="linkdiv-dash"> — </span><span class="desc">Nutzen Sie <span class="app">Optimierungen</span>, um Anwendungen automatisch bei Anmeldung zu starten.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.de" title="Benachrichtigungen und die Benachrichtigungsliste"><span class="title">Benachrichtigungen und die Benachrichtigungsliste</span><span class="linkdiv-dash"> — </span><span class="desc">Meldungen klappen vom oberen Rand des Bildschirms aus und informieren Sie über diverse Ereignisse.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.de" title="Ihre Lieblingsanwendungen am Dash anheften"><span class="title">Ihre Lieblingsanwendungen am Dash anheften</span><span class="linkdiv-dash"> — </span><span class="desc">Fügen Sie Symbole häufig genutzter Programme zum Dash hinzu oder entfernen Sie sie daraus.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.de" title="Kalendereinträge"><span class="title">Kalendereinträge</span><span class="linkdiv-dash"> — </span><span class="desc">Ihre Termine im Kalender oben am Bildschirm anzeigen.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.de" title="Kalendereinträge"><span class="title">Kalendereinträge</span><span class="linkdiv-dash"> — </span><span class="desc">Ihre Termine im Kalender oben am Bildschirm anzeigen.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Anwendungen und Fenster</span></h2></div>

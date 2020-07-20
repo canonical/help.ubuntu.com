@@ -84,9 +84,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Activez les <span class="em">touches lentes</span> pour introduire un délai entre le moment où une touche est pressée et celui où la lettre correspondante apparaît à l'écran. En conséquence, vous devez maintenir enfoncée un peu plus longtemps chaque touche que vous voulez saisir, avant qu'elle n'apparaisse. Utilisez cette fonctionnalité s'il vous arrive malencontreusement d'appuyer sur plusieurs touches à la fois pendant votre saisie, ou s'il vous est difficile de trouver la bonne touche sur votre clavier du premier coup.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">À la rubrique <span class="gui">Saisie</span>, cliquez sur <span class="gui">Assistant de saisie (AccessX)</span>.</p></li>
 <li class="steps"><p class="p">Switch the <span class="gui">Slow Keys</span> switch to on.</p></li>
@@ -104,9 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <p class="p">Faites glisser le curseur <span class="gui">Délai d'acceptation</span> pour ajuster la durée d'appui sur une touche avant qu'il ne soit accepté.</p>
-<p class="p">You can have your computer make a sound when you press a key, when a key
-  press is accepted, or when a key press is rejected because you didn’t hold
-  the key down long enough.</p>
+<p class="p">Vous pouvez demander à votre ordinateur d’émettre un son quand une touche est enfoncée, quand elle est acceptée, ou quand elle est refusée parce que vous n’avez pas maintenu la pression suffisamment longtemps.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

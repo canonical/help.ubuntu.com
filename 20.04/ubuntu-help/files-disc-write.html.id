@@ -70,45 +70,26 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Menulis berkas ke CD atau DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Anda dapat meletakkan berkas-berkas ke cakram kosong dengan menggunakan <span class="gui">Pembuat CD/DVD</span>. Pilihan untuk membuat CD atau DVD akan tampil di pengelola berkas saat Anda meletakkan CD ke penulis CD/DVD Anda. Manajer berkas memungkinkan Anda untuk mentransfer berkas-berkas ke komputer lain atau melakukan <span class="link"><a href="backup-why.html.id" title="Backup berkas-berkas penting Anda">pencadangan</a></span> dengan meletakkan berkas-berkas pada cakram kosong. Untuk menulis berkas-berkas tersebut ke CD atau DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Tempatkan cakram kosong ke dalam penulis CD / DVD Anda.</p></li>
-<li class="steps">
-<p class="p">Pada notifikasi <span class="gui">CD/DVD-R Kosong</span> yang muncul pada bagian bawah layar, pilih <span class="gui">Buka dengan Pembuat CD/DVD</span>. Jendela folder <span class="gui">Pembuat CD/DVD</span> akan terbuka.</p>
-<p class="p">(Anda juga dapat mengklik <span class="gui">Disc CD/DVD-R Kosong</span> di bawah <span class="gui">Perangkat</span> di bilah sisi pengelola berkas.)</p>
-</li>
-<li class="steps"><p class="p">Dalam kotak teks <span class="gui">Nama Cakram</span>, ketikkan nama bagi cakram.</p></li>
-<li class="steps"><p class="p">Tarik atau salin berkas yang diinginkan ke dalam jendela.</p></li>
-<li class="steps"><p class="p">Klik <span class="gui">Tulis ke Disc</span>.</p></li>
-<li class="steps">
-<p class="p">Di bawah <span class="gui">Pilih disc yang akan ditulisi</span>, pilih disc kosong.</p>
-<p class="p">(Anda bisa memilih <span class="gui">Berkas gambar</span> sebagai gantinya. Hal ini akan menempatkan berkas ke dalam <span class="em">image disc</span>, yang akan disimpan pada komputer Anda. Anda kemudian dapat membakar bahwa image disc ke disc kosong di kemudian hari.)</p>
-</li>
-<li class="steps"><p class="p">Klik <span class="gui">Properti</span> bila Anda ingin mengatur kecepatan pembakaran, lokasi berkas sementara, dan opsi-opsi lainnya. Opsi baku seharusnya sudah tepat.</p></li>
-<li class="steps">
-<p class="p">Klik tombol <span class="gui">Bakar</span> untuk mulai merekam.</p>
-<p class="p">Bila <span class="gui">Bakar Beberapa Salinan</span> dipilih, Anda akan dimintai disc tambahan.</p>
-</li>
-<li class="steps"><p class="p">Ketika pembakaran disc selesai, itu akan otomatis keluar. Pilih <span class="gui">Buat Lebih Banyak Salinan</span> atau <span class="gui">Tutup</span> untuk keluar.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Bila cakram tidak dibakar secara benar</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Terkadang komputer tidak merekam data dengan benar, dan Anda tidak akan dapat melihat file yang Anda masukkan ke cakram ketika Anda memasukkannya ke komputer.</p>
-<p class="p">Dalam hal ini, coba bakar ulang cakram namun gunakan kecepatan pemakaran yang rendah, misal, 12x dari pada menggunakan 48x. Membakar dengan kecepatan rendah lebih bisa diandalkan. Anda dapat memilih kecepatan dengan mengklik tombol <span class="gui">Properti</span> di jendela <span class="gui">Pembuat CD/DVD</span>.</p>
+<p class="p">Terkadang komputer tidak merekam data dengan benar, dan Anda tidak akan dapat melihat berkas yang Anda masukkan ke cakram ketika Anda memasukkannya ke komputer.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a></li></ul></div>
 </div></div></div>
 </div></section>
 </div>

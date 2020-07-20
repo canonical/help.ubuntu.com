@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#backup" title="Fazer cópias de segurança">Fazer cópias de segurança</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="files.html.pt" title="Busca de ficheiros e diretórios">Ficheiros</a> › <a class="trail" href="files.html.pt#backup" title="Fazer cópias de segurança">Fazer cópias de segurança</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Dónde posso encontrar os ficheiros dos que quero fazer copia de copia de segurança?</span></h1></div>
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Ficheiros ocultos</p>
-<p class="p">De forma predeterminada oculta-se qualquer diretório ou ficheiro que comece por um ponto (.). Para ver ficheiros ocultos, carregue o botão <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Opções da vista"></span></span></span> na barra de ferramentas e escolha <span class="gui">Mostrar ficheiros ocultos</span> ou carregue <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Pode copiá-los para uma localização de copia de segurança como qualquer outro tipo de ficheiro.</p>
+<p class="p">De forma predeterminada oculta-se qualquer diretório ou ficheiro que comece por um ponto (.). Para ver ficheiros ocultos, carregue o botão <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Opções da vista"></span></span></span> na barra de ferramentas e escolha <span class="gui">Mostrar ficheiros ocultos</span> ou carregue <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Pode copiá-los para uma localização de copia de segurança como qualquer outro tipo de ficheiro.</p>
 </li>
 <li class="list">
 <p class="p">Configuração pessoal (preferências do escritório, temas e configuração do software)</p>

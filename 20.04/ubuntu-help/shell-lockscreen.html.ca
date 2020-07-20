@@ -80,13 +80,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">La pantalla de bloqueig</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">La pantalla de bloqueig significa que podeu veure què passa mentre l'ordinador està bloquejat, i us permet obtenir un resum de què ha estat passant mentre heu estat fora. La cortina de la pantalla de bloqueig mostra una imatge atractiva a la pantalla mentre l'ordinador està bloquejat i proporciona informació útil:</p>
+<p class="p">The lock screen means that you can see what is happening while your
+  computer is locked, and it allows you to get a summary of what has been
+  happening while you have been away. The lock screen provides
+  useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">el nom d'usuari de la sessió iniciada</p></li>
 <li class="list"><p class="p">data i hora, i certes notificacions</p></li>
 <li class="list"><p class="p">estat de la bateria i de la xarxa</p></li>
 </ul></div></div></div>
-<p class="p">Per desbloquejar l'ordinador, aixequeu la cortina de la pantalla de bloqueig arrossegant-la cap amunt amb el cursor o prement <span class="key"><kbd>Esc</kbd></span> o <span class="key"><kbd>Retorn</kbd></span>. Això mostrarà la pantalla d'inici de sessió, on podeu introduir la vostra contrasenya per desbloquejar-la. Com a alternativa, simplement comenceu a escriure la vostra contrasenya i la cortina s'aixecarà automàticament mentre escriviu. També podeu canviar els usuaris si l'equip està configurat per a més d'un.</p>
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+  This will reveal the login screen, where you can enter your password to
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">Per ocultar les notificacions de la pantalla de bloqueig, consulteu <span class="link"><a href="shell-notifications.html.ca#lock-screen-notifications" title="Ocultar notificacions a la pantalla">Ocultar notificacions a la pantalla</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

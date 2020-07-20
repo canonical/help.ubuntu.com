@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Dreceres de teclat útils</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Aquesta pàgina ofereix una visió general de les dreceres de teclat que us poden ajudar a utilitzar l'escriptori i les aplicacions de forma més eficient. Si no podeu utilitzar un ratolí o un dispositiu apuntador, consulteu <span class="link"><a href="keyboard-nav.html.ca" title="Navegació per teclat">Navegació per teclat</a></span> per obtenir més informació sobre la navegació per la interfície d'usuari amb només el teclat.</p>
+<p class="p">Aquesta pàgina ofereix una visió general de les dreceres de teclat que us poden ajudar a utilitzar l'escriptori i les aplicacions de forma més eficient. Si no podeu utilitzar un ratolí o un dispositiu apuntador, consulteu <span class="link"><a href="keyboard-nav.html.ca" title="Navegació per teclat">Navegació per teclat</a></span> per a obtenir més informació sobre la navegació per la interfície d'usuari amb només el teclat.</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
 <div class="inner">
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
 <td style="border-top-style: solid;">
 <p class="p">Finestra d'ordres emergents (per a executar ordres ràpidament).</p>
-<p class="p">Utilitzeu les tecles de fletxa per accedir ràpidament a ordres executades anteriorment.</p>
+<p class="p">Utilitzeu les tecles de fletxa per a accedir ràpidament a ordres executades anteriorment.</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
 <td style="border-top-style: solid;">
 <p class="p">Canvieu entre finestres de la mateixa aplicació, o des de l'aplicació seleccionada fer <span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p>
-<p class="p">Aquesta drecera utilitza <span class="key"><kbd>`</kbd></span> als teclats USA, quan la tecla <span class="key"><kbd>`</kbd></span> està sobre el <span class="key"><kbd>Tab</kbd></span>. A tots els altres teclats, la drecera és <span class="key"><kbd>Súper</kbd></span> més la tecla que està sobre <span class="key"><kbd>Tab</kbd></span>.</p>
+<p class="p">Aquesta drecera utilitza <span class="key"><kbd>`</kbd></span> als teclats dels EUA, quan la tecla <span class="key"><kbd>`</kbd></span> està sobre el <span class="key"><kbd>Tab</kbd></span>. A tots els altres teclats, la drecera és <span class="key"><kbd>Súper</kbd></span> més la tecla que està sobre <span class="key"><kbd>Tab</kbd></span>.</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Prnt Scrn</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.ca#screenshot" title="Fer una captura de pantalla">Feu una captura de pantalla d'una àrea de la pantalla.</a></span> El punter canvia a una creu. Feu clic i arrossegueu per seleccionar l'àrea.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.ca#screenshot" title="Fer una captura de pantalla">Feu una captura de pantalla d'una àrea de la pantalla.</a></span> El punter canvia a una creu. Feu clic i arrossegueu per a seleccionar l'àrea.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>

@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print a booklet on a single-sided printer</title>
+<title>Mencetak buklet pada pencetak satu sisi</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="printing.html.id" title="Pencetakan">Pencetakan</a> › <a class="trail" href="printing.html.id#paper" title="Tata letak dan ukuran kertas yang berbeda">Tata letak dan ukuran</a> » <a class="trail" href="printing-booklet.html.id" title="Mencetak booklet">Mencetak booklet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Print a booklet on a single-sided printer</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mencetak buklet pada pencetak satu sisi</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <div class="note" title="Catatan">
@@ -81,29 +81,21 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">These instructions are for printing a booklet from a PDF document.</p>
-<p class="p">If you want to print a booklet from a <span class="app">LibreOffice</span> document,
-    first export it to a PDF by choosing <span class="guiseq"><span class="gui">File</span> ▸ <span class="gui">Export
-    as PDF…</span></span>. Your document needs to have a multiple of 4
-    number of pages (4, 8, 12, 16,…). You may need to add up to 3 blank
-    pages.</p>
+<p class="p">Petunjuk ini adalah untuk mencetak buklet dari dokumen PDF.</p>
+<p class="p">Jika Anda ingin mencetak buklet dari dokumen <span class="app">LibreOffice</span>, ekspor terlebih dahulu ke PDF dengan memilih <span class="guiseq"><span class="gui">Berkas</span> ▸ <span class="gui">Ekspor sebagai PDF…</span></span>. Dokumen Anda harus memiliki jumlah halaman kelipatan 4 (4, 8, 12, 16,…). Anda mungkin perlu menambahkan hingga 3 halaman kosong.</p>
 </div></div></div>
 </div>
 <p class="p">Untuk mencetak:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the print dialog. This can normally be done through
-      <span class="gui">Print</span> in the menu or using the
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> keyboard shortcut.</p></li>
+<li class="steps"><p class="p">Buka dialog cetak. Hal ini biasanya dapat dilakukan melalui <span class="gui">Cetak</span> di menu atau menggunakan pintasan papan tik <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Properties…</span> button </p>
-<p class="p">In the <span class="gui">Orientation</span> drop-down list, make sure that
-      <span class="gui">Landscape</span> is selected.</p>
+<p class="p">Klik tombol <span class="gui">Properti…</span></p>
+<p class="p">Dalam daftar drop-down <span class="gui">Orientasi</span>, pastikan bahwa <span class="gui">Mendatar</span> dipilih.</p>
 <p class="p">Klik <span class="gui">OK</span> untuk kembali ke dialog cetak.</p>
 </li>
 <li class="steps">
-<p class="p">Under <span class="gui">Range and Copies</span>, choose <span class="gui">Pages</span>.</p>
-<p class="p">Type the numbers of the pages in this order (n is the total number of
-      pages, and a multiple of 4):</p>
+<p class="p">Di bawah <span class="gui">Rentang dan Salinan</span>, pilih <span class="gui">Halaman</span>.</p>
+<p class="p">Ketikkan jumlah halaman dalam urutan ini (n adalah jumlah halaman, dan kelipatan 4):</p>
 <p class="p">n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9, 10, n-9, n-10, 11, 12, n-11…</p>
 <p class="p">…sampai Anda telah mengetikkan semua halaman.</p>
 <div class="note" title="Catatan">
@@ -121,20 +113,16 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </li>
 <li class="steps">
-<p class="p">Choose the <span class="gui">Page Layout</span> tab.</p>
-<p class="p">Under <span class="gui">Layout</span>, select <span class="gui">Brochure</span>.</p>
-<p class="p">Under <span class="gui">Page Sides</span>, in the <span class="gui">Include</span> drop-down list,
-      select <span class="gui">Front sides / right pages</span>.</p>
+<p class="p">Pilih tab <span class="gui">Tata Letak Halaman</span>.</p>
+<p class="p">Di bawah <span class="gui">Tata Letak</span>, pilih <span class="gui">Brosur</span>.</p>
+<p class="p">Di bagian <span class="gui">Sisi Halaman</span>, di daftar drop-down <span class="gui">Sertakan</span>, pilih <span class="gui">Sisi depan / halaman kanan</span>.</p>
 </li>
 <li class="steps"><p class="p">Klik <span class="gui">Cetak</span>.</p></li>
 <li class="steps"><p class="p">Setelah semua halaman dicetak, balikkan halaman dan tempatkan lagi mereka ke dalam pencetak.</p></li>
-<li class="steps"><p class="p">Open the print dialog. This can normally be done through
-      <span class="gui">Print</span> in the menu or using the
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> keyboard shortcut.</p></li>
+<li class="steps"><p class="p">Buka dialog cetak. Hal ini biasanya dapat dilakukan melalui <span class="gui">Cetak</span> di menu atau menggunakan pintasan papan tik <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Choose the <span class="gui">Page Layout</span> tab.</p>
-<p class="p">Under <span class="gui">Page Sides</span>, in the <span class="gui">Include</span> drop-down list,
-      select <span class="gui">Back sides / left pages</span>.</p>
+<p class="p">Pilih tab <span class="gui">Tata Letak Halaman</span>.</p>
+<p class="p">Di bagian <span class="gui">Sisi Halaman</span>, di daftar drop-down <span class="gui">Sertakan</span>, pilih <span class="gui">Sisi belakang / halaman kiri</span>.</p>
 </li>
 <li class="steps"><p class="p">Klik <span class="gui">Cetak</span>.</p></li>
 </ol></div></div></div>
@@ -144,8 +132,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-booklet.html.id" title="Mencetak booklet">Mencetak booklet</a><span class="desc"> — How to print a folded, multi-page booklet using A4 or Letter-sized
-    paper.</span>
+<a href="printing-booklet.html.id" title="Mencetak booklet">Mencetak booklet</a><span class="desc"> — Cara mencetak buklet multi-halaman, terlipat dengan kertas berukuran A4 atau Letter.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

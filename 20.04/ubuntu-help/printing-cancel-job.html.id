@@ -75,49 +75,36 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Membatalkan, mengistirahakan, atau melepas suatu tugas pencetakan</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">You can cancel a pending print job and remove it from the queue in the
-  printer settings.</p></div>
+<div class="contents pagewide"><p class="p">Anda dapat membatalkan pekerjaan pencetakan tertunda dan menghapusnya dari antrian di pengaturan pencetak.</p></div>
 <section id="cancel-print-job"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Membatalkan tugas pencetakan</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">If you accidentally started printing a document, you can cancel the print
-  so that you do not need to waste any ink or paper.</p>
+<p class="p">Jika Anda tidak sengaja mulai mencetak dokumen, Anda dapat membatalkan cetakan sehingga Anda tidak perlu membuang tinta atau kertas.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Bagaimana membatalkan tugas pencetakan:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pencetak</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Pencetak</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Show Jobs</span> button on the right-hand side of the
-      <span class="gui">Printers</span> dialog.</p></li>
+<li class="steps"><p class="p">Klik tombol <span class="gui">Tampilkan Tugas</span> di sisi kanan dialog <span class="gui">Pencetak</span>.</p></li>
 <li class="steps"><p class="p">Batalkan tugas pencetakan dengan mengklik tombol berhenti.</p></li>
 </ol></div>
 </div></div>
-<p class="p">If this does not cancel the print job like you expected, try holding down
-  the <span class="em">cancel</span> button on your printer.</p>
-<p class="p">As a last resort, especially if you have a big print job with a lot of
-  pages that will not cancel, remove the paper from the printer’s paper input
-  tray. The printer should realize that there is no paper and will stop
-  printing. You can then try canceling the print job again, or try turning the
-  printer off and then on again.</p>
+<p class="p">Jika ini tidak membatalkan pekerjaan pencetakan seperti yang Anda harapkan, coba tahan tombol <span class="em">batal</span> pada pencetak Anda.</p>
+<p class="p">Sebagai usaha terakhir, terutama jika Anda memiliki pekerjaan cetak besar dengan banyak halaman yang tidak akan batal, singkirkan kertas dari baki masukan kertas pencetak. Pencetak mestinya menyadari bahwa tidak ada kertas dan akan berhenti mencetak. Anda kemudian dapat mencoba membatalkan pekerjaan cetak lagi, atau mencoba mematikan pencetak lalu menyalakan lagi.</p>
 <div class="note note-warning" title="Peringatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Be careful that you don’t damage the printer when removing the paper,
-    though. If you would have to pull hard on the paper to remove it, you
-    should probably just leave it where it is.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Berhati-hatilah bahwa Anda tidak merusak pencetak ketika mengeluarkan kertas. Jika Anda harus menarik keras kertas untuk menyingkirkannya, Anda mungkin harus membiarkannya di tempat itu.</p></div></div></div>
 </div>
 </div></div>
 </div></section><section id="pause-release-print-job"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Mengistirahakan dan melepas suatu tugas pencetakan</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">If you want to pause or release a print job, you can do so by going to the
-  jobs dialog in the printer settings and click the appropriate button.</p>
+<p class="p">Jika Anda ingin menjeda atau melepaskan pekerjaan pencetakan, Anda dapat melakukannya dengan membuka dialog pekerjaan di setelan pencetak dan mengklik tombol yang sesuai.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pencetak</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Pencetak</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Show Jobs</span> button on the right-hand side of the
-      <span class="gui">Printers</span> dialog and either pause or release the print job
-      based on your needs.</p></li>
+<li class="steps"><p class="p">Klik tombol <span class="gui">Tampilkan Pekerjaan</span> di sisi kanan dialog <span class="gui">Pencetak</span> dan jeda atau lepaskan pekerjaan pencetakan berdasarkan kebutuhan Anda.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

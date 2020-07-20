@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Quan feu clic a un enllaç a una pàgina web en qualsevol aplicació, un navegador web s'obrirà automàticament amb aquesta pàgina. Tanmateix, si teniu instal·lat més d'un navegador, pot ser que la pàgina no s'obri en el navegador que voleu que s'obri. Per solucionar-ho, canvieu el navegador web predeterminat:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Detalls</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Detalls</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Detalls</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Trieu <span class="gui">Aplicacions per defecte</span> de la llista, a la part esquerra de la finestra.</p></li>
 <li class="steps"><p class="p">Trieu el navegador web amb què voleu obrir enllaços canviant l'opció <span class="gui">Web</span>.</p></li>
 </ol></div></div></div>

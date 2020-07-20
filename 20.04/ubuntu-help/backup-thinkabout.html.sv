@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Dolda filer</p>
-<p class="p">Filer eller kataloger vars namn börjar med en punkt (.) göms som standard. För att se gömda filer klicka <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Visningsalternativ"></span></span></span>-knappen i verktygsfältet, och välj sedan <span class="gui">Visa dolda filer</span> eller tryck på <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Du kan kopiera dessa till en plats för säkerhetskopior precis som vilka andra filer som helst.</p>
+<p class="p">Filer eller kataloger vars namn börjar med en punkt (.) göms som standard. För att se gömda filer klicka <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Visningsalternativ"></span></span></span>-knappen i verktygsfältet, och välj sedan <span class="gui">Visa dolda filer</span> eller tryck på <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Du kan kopiera dessa till en plats för säkerhetskopior precis som vilka andra filer som helst.</p>
 </li>
 <li class="list">
 <p class="p">Personliga inställningar (skrivbordsinställningar teman och programinställningar)</p>

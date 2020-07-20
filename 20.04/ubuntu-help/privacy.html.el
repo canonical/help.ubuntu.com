@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ρυθμίσεις ιδιωτικότητας</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Οι <span class="em">Ρυθμίσεις ιδιωτικότητας</span> στο GNOME σας βοηθούν να ελέγξτε εάν συγκεκριμένα μέρη της επιφάνειας εργασίας σας είναι ορατά στους άλλους. Μπορείτε επίσης να χρησιμοποιήσετε αυτές τις ρυθμίσεις για να καθαρίσετε το ιστορικό χρήσης του υπολογιστή καθώς και τα περιττά αρχεία.</p>
+<p class="p">The <span class="em">Privacy Settings</span> help you control whether or not
+  certain parts of your desktop are visible to others. You can also
+  use these settings to clear your computer usage history and clean out
+  unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.el" title="Απενεργοποιήστε ή περιορίστε την ανίχνευση του ιστορικού αρχείων"><span class="title">Απενεργοποιήστε ή περιορίστε την ανίχνευση του ιστορικού αρχείων</span><span class="linkdiv-dash"> — </span><span class="desc">Σταματήστε ή περιορίστε τον υπολογιστή σας από την ανίχνευση των πρόσφατα χρησιμοποιημένων αρχείων.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.el" title="Αυτόματο κλείδωμα της οθόνης"><span class="title">Αυτόματο κλείδωμα της οθόνης</span><span class="linkdiv-dash"> — </span><span class="desc">Αποτρέψτε άλλα άτομα από τη χρήση της επιφάνειας εργασίας όταν φεύγετε από τον υπολογιστή σας.</span></a></div>

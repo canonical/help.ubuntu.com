@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Handleiding Ubuntu-desktop</title>
+<title>Gids voor de Ubuntu-werkomgeving</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {

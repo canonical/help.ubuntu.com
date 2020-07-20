@@ -76,19 +76,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Instruccions per aparellar dispositius específics</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Fins i tot si aconseguiu el manual original d'un dispositiu, és possible que no contingui informació suficient per fer possible l'aparellament. Aquí es detallen alguns dispositius comuns.</p>
+<p class="p">Fins i tot si aconseguiu el manual original d'un dispositiu, és possible que no contingui informació suficient per a fer possible l'aparellament. Aquí es detallen alguns dispositius comuns.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Comandaments de jocs de PlayStation 3</dt>
-<dd class="terms"><p class="p">Aquests dispositius utilitzen «aparellament per cable». Connecteu els accessoris a través de l'USB amb els <span class="gui">Paràmetres del Bluetooth</span> oberts i amb el Bluetooth activat. Després de prémer el botó “PS”, se us demanarà si heu de configurar aquests comandaments. Desconnecteu-los i premeu el botó "PS" per utilitzar-los mitjançant Bluetooth.</p></dd>
+<dd class="terms"><p class="p">Aquests dispositius utilitzen «aparellament per cable». Connecteu els accessoris a través de l'USB amb els <span class="gui">Paràmetres del Bluetooth</span> oberts i amb el Bluetooth activat. Després de prémer el botó “PS”, se us demanarà si heu de configurar aquests comandaments. Desconnecteu-los i premeu el botó "PS" per a utilitzar-los mitjançant Bluetooth.</p></dd>
 <dt class="terms">Comandaments de jocs de PlayStation 4</dt>
 <dd class="terms">
-<p class="p">Aquests dispositius també fan servir «aparellament per cable». Connecteu els comandaments via USB amb els <span class="gui">Paràmetres del Bluetooth</span> oberts, i el Bluetooth activat. Se us demanarà si heu de configurar aquests comandaments sense necessitat de prémer el botó PS. Desconnecteu-los i premeu el botó PS per utilitzar-los mitjançant Bluetooth.</p>
+<p class="p">Aquests dispositius també fan servir «aparellament per cable». Connecteu els comandaments via USB amb els <span class="gui">Paràmetres del Bluetooth</span> oberts, i el Bluetooth activat. Se us demanarà si heu de configurar aquests comandaments sense necessitat de prémer el botó PS. Desconnecteu-los i premeu el botó PS per a utilitzar-los mitjançant Bluetooth.</p>
 <p class="p">La combinació dels botons «PS» i «Share» per aparellar el comandament de joc també pot utilitzar-se per aparellar altres dispositius Bluetooth quan no es disposa d'un cable USB.</p>
 </dd>
 <dt class="terms">Control remot BD per a PlayStation 3</dt>
 <dd class="terms"><p class="p">Mantingueu els botons «Inici» i «Entrar» premuts al mateix temps al voltant de 5 segons. Aleshores podreu seleccionar el dispositiu remot de la llista de dispositius com es fa normalment.</p></dd>
 <dt class="terms">Control remot per a Nintendo Wii i Wii U</dt>
-<dd class="terms"><p class="p">Utilitzeu el botó vermell «Sincronitzar» dins del compartiment de la bateria per a iniciar el procés de sincronització. Altres combinacions de botons no mantindran la informació de sincronització, de manera que haureu de tornar-ho a fer en un curt espai de temps. Tingueu en compte que algun programari accedeix directament als comandaments a distància i, en aquests casos, no heu de configurar-los al tauler Bluetooth. Consulteu el manual de l'aplicació per obtenir instruccions.</p></dd>
+<dd class="terms"><p class="p">Utilitzeu el botó vermell «Sincronitzar» dins del compartiment de la bateria per a iniciar el procés de sincronització. Altres combinacions de botons no mantindran la informació de sincronització, de manera que haureu de tornar-ho a fer en un curt espai de temps. Tingueu en compte que algun programari accedeix directament als comandaments a distància i, en aquests casos, no heu de configurar-los al tauler Bluetooth. Consulteu el manual de l'aplicació per a obtenir instruccions.</p></dd>
 </dl></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">

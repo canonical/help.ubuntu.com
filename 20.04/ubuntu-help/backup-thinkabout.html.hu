@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Rejtett fájlok</p>
-<p class="p">Alapesetben a ponttal (.) kezdődő fájl- vagy mappanevek nem láthatók. A rejtett fájlok megjelenítéséhez nyomja meg az eszköztár <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Nézetbeállítások"></span></span></span> gombját, majd válassza a <span class="gui">Rejtett fájlok megjelenítése</span> menüpontot, vagy nyomja meg a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> billentyűkombinációt a fájlböngészőben. Ezeket is a többi fájlhoz hasonlóan másolhatja át a biztonsági mentésbe.</p>
+<p class="p">Alapesetben a ponttal (.) kezdődő fájl- vagy mappanevek nem láthatók. A rejtett fájlok megjelenítéséhez nyomja meg az eszköztár <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Nézetbeállítások"></span></span></span> gombját, majd válassza a <span class="gui">Rejtett fájlok megjelenítése</span> menüpontot, vagy nyomja meg a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> billentyűkombinációt a fájlböngészőben. Ezeket is a többi fájlhoz hasonlóan másolhatja át a biztonsági mentésbe.</p>
 </li>
 <li class="list">
 <p class="p">Személyes beállítások (asztali környezet beállításai, témák és szoftverbeállítások)</p>

@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.id" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -85,126 +85,69 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Even though the wireless adapter is connected to the computer, it may not
-  have been recognized as a network device by the computer. In this step, you
-  will check whether the device was recognized properly.</p>
+<p class="p">Meskipun adaptor nirkabel tersambung ke komputer, mungkin tidak telah dikenali sebagai perangkat jaringan oleh komputer. Pada langkah ini, Anda akan memeriksa apakah perangkat telah dikenali dengan benar.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open a Terminal window, type <span class="cmd">lshw -C network</span> and press
-      <span class="key"><kbd>Enter</kbd></span>. If this gives an error message, you may need to install
-      the <span class="app">lshw</span> program on your computer.</p></li>
+<li class="steps"><p class="p">Buka jendela Terminal, ketik <span class="cmd">lshw -C network</span> dan tekan <span class="key"><kbd>Enter</kbd></span>. Jika ini memberikan pesan galat, Anda mungkin perlu menginstal program <span class="app">lshw</span> pada komputer Anda.</p></li>
 <li class="steps">
-<p class="p">Look through the information that appeared and find the <span class="em">Wireless
-      interface</span> section. If your wireless adapter was detected properly,
-      you should see something similar (but not identical) to this:</p>
+<p class="p">Lihat informasi yang muncul dan temukan bagian <span class="em">Antarmuka nirkabel</span>. Jika adapter nirkabel Anda terdeteksi dengan benar, Anda akan melihat sesuatu yang serupa (tapi tidak identik) dengan ini:</p>
 <div class="code"><pre class="contents"><code>*-network
        description: Wireless interface
        product: PRO/Wireless 3945ABG [Golan] Network Connection
        vendor: Intel Corporation</code></pre></div>
 </li>
 <li class="steps">
-<p class="p">If a wireless device is listed, continue on to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.id" title="Pelacak masalah jaringan nirkabel">Device Drivers
-      step</a></span>.</p>
-<p class="p">If a wireless device is <span class="em">not</span> listed, the next steps you take
-      will depend on the type of device that you use. Refer to the section
-      below that is relevant to the type of wireless adapter that your computer
-      has (<span class="link"><a href="#pci" title="Adaptor nirkabel PCI (internal)">internal PCI</a></span>, <span class="link"><a href="#usb" title="Adaptor nirkabel USB">USB</a></span>,
-      or <span class="link"><a href="#pcmcia" title="Memeriksa perangkat PCMCIA">PCMCIA</a></span>).</p>
+<p class="p">Jika perangkat nirkabel terdaftar, lanjutkan ke <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.id" title="Pelacak masalah jaringan nirkabel">langkah Device Driver</a></span>.</p>
+<p class="p">Jika perangkat nirkabel <span class="em">tidak</span> tercantum, langkah berikutnya yang Anda ambil akan tergantung pada jenis perangkat yang Anda gunakan. Lihat bagian di bawah ini yang relevan dengan jenis adaptor nirkabel milik komputer Anda (<span class="link"><a href="#pci" title="Adaptor nirkabel PCI (internal)">PCI internal</a></span>, <span class="link"><a href="#usb" title="Adaptor nirkabel USB">USB</a></span>, atau <span class="link"><a href="#pcmcia" title="Memeriksa perangkat PCMCIA">PCMCIA</a></span>).</p>
 </li>
 </ol></div></div></div>
 </div>
 <section id="pci"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Adaptor nirkabel PCI (internal)</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Internal PCI adapters are the most common, and are found in most laptops
-  made within the past few years. To check if your PCI wireless adapter was
-  recognized:</p>
+<p class="p">Adaptor PCI internal yang paling umum, dan ditemukan di sebagian besar laptop yang dibuat dalam beberapa tahun terakhir. Untuk memeriksa apakah adaptor nirkabel PCI Anda telah dikenali:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open a Terminal, type <span class="cmd">lspci</span> and press <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps"><p class="p">Buka Terminal, ketik <span class="cmd">lspci</span> dan tekan <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="steps">
-<p class="p">Look through the list of devices that is shown and find any that are
-      marked <span class="code">Network controller</span> or <span class="code">Ethernet
-      controller</span>. Several devices may be marked in this way; the one
-      corresponding to your wireless adapter might include words like
-      <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span> or
-      <span class="code">802.11</span>. Here is an example of what the entry might look
-      like:</p>
+<p class="p">Lihat daftar perangkat yang ditampilkan dan temukan yang ditandai <span class="code">Network controller</span> atau <span class="code">Ethernet controller</span>. Beberapa perangkat mungkin ditandai dengan cara ini; yang sesuai dengan adaptor nirkabel Anda mungkin menyertakan kata seperti <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span>, atau <span class="code">802.11</span>. Berikut adalah contoh dari entri mungkin terlihat seperti apa:</p>
 <div class="code"><pre class="contents"><code>Pengendali jaringan: Koneksi Jaringan Intel Corporation PRO/Wireless 3945ABG [Golan]</code></pre></div>
 </li>
-<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.id" title="Pelacak masalah jaringan nirkabel">Device Drivers
-      step</a></span>. If you didn’t find anything related to your wireless
-      adapter, see
-      <span class="link"><a href="#not-recognized" title="Adaptor nirkabel tak dikenal">the instructions below</a></span>.</p></li>
+<li class="steps"><p class="p">Jika Anda menemukan adaptor nirkabel dalam daftar, lanjutkan ke <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.id" title="Pelacak masalah jaringan nirkabel">langkah Device Driver</a></span>. Jika Anda tidak menemukan sesuatu yang terkait dengan adaptor nirkabel Anda, lihat <span class="link"><a href="#not-recognized" title="Adaptor nirkabel tak dikenal">petunjuk di bawah ini</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></section><section id="usb"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Adaptor nirkabel USB</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Wireless adapters that plug into a USB port on your computer are less
-  common. They can plug directly into a USB port, or may be connected by a USB
-  cable. 3G/mobile broadband adapters look quite similar to wireless (Wi-Fi)
-  adapters, so if you think you have a USB wireless adapter, double-check that
-  it is not actually a 3G adapter. To check if your USB wireless adapter was
-  recognized:</p>
+<p class="p">Adaptor nirkabel yang dicolokkan ke port USB di komputer Anda kurang umum. Mereka dapat menyambungkan langsung ke port USB, atau dapat dihubungkan dengan kabel USB. Adaptor data seluler terlihat sangat mirip dengan adaptor nirkabel (Wi-Fi), jadi jika Anda kira Anda memiliki adaptor nirkabel USB, periksa kembali bahwa itu sebenarnya bukan adaptor 3G. Untuk memeriksa apakah adapter nirkabel USB Anda telah dikenali:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open a Terminal, type <span class="cmd">lsusb</span> and press <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps"><p class="p">Buka terminal, ketik <span class="cmd">lsusb</span> dan tekan <span class="key"><kbd>Enter</kbd></span>.</p></li>
 <li class="steps">
-<p class="p">Look through the list of devices that is shown and find any that seem
-      to refer to a wireless or network device. The one corresponding to your
-      wireless adapter might include words like <span class="code">wireless</span>,
-      <span class="code">WLAN</span>, <span class="code">wifi</span> or <span class="code">802.11</span>. Here is an
-      example of what the entry might look like:</p>
+<p class="p">Lihat melalui daftar perangkat yang ditampilkan dan temukan yang tampaknya merujuk pada perangkat nirkabel atau jaringan. Salah satu yang sesuai dengan adaptor nirkabel Anda mungkin termasuk kata seperti <span class="code">wireless</span>, <span class="code">WLAN</span>, <span class="code">wifi</span>, atau <span class="code">802.11</span>. Berikut adalah contoh dari entri mungkin terlihat seperti apa:</p>
 <div class="code"><pre class="contents"><code>Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card</code></pre></div>
 </li>
-<li class="steps"><p class="p">If you found your wireless adapter in the list, proceed to the
-      <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.id" title="Pelacak masalah jaringan nirkabel">Device Drivers
-      step</a></span>. If you didn’t find anything related to your wireless
-      adapter, see
-      <span class="link"><a href="#not-recognized" title="Adaptor nirkabel tak dikenal">the instructions below</a></span>.</p></li>
+<li class="steps"><p class="p">Jika Anda menemukan adaptor nirkabel dalam daftar, lanjutkan ke <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.id" title="Pelacak masalah jaringan nirkabel">langkah Device Driver</a></span>. Jika Anda tidak menemukan sesuatu yang terkait dengan adaptor nirkabel Anda, lihat <span class="link"><a href="#not-recognized" title="Adaptor nirkabel tak dikenal">petunjuk di bawah ini</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></section><section id="pcmcia"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Memeriksa perangkat PCMCIA</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">PCMCIA wireless adapters are typically rectangular cards which slot into
-  the side of your laptop. They are more commonly found in older computers. To
-  check if your PCMCIA adapter was recognized:</p>
+<p class="p">Adaptor nirkabel PCMCIA biasanya adalah kartu persegi panjang yang dicolok ke sisi laptop Anda. Mereka lebih sering ditemukan pada komputer yang lebih tua. Untuk memeriksa apakah adapter PCMCIA Anda telah dikenali:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Start your computer <span class="em">without</span> the wireless adapter plugged
-      in.</p></li>
+<li class="steps"><p class="p">Mulai komputer <span class="em">tanpa</span> adaptor nirkabel terpasang.</p></li>
 <li class="steps">
-<p class="p">Open a Terminal and type the following, then press
-      <span class="key"><kbd>Enter</kbd></span>:</p>
+<p class="p">Buka terminal dan ketik berikut ini, lalu tekan <span class="key"><kbd>Enter</kbd></span>:</p>
 <div class="code"><pre class="contents"><code>tail -f /var/log/messages</code></pre></div>
-<p class="p">This will display a list of messages related to your computer’s
-      hardware, and will automatically update if anything to do with your
-      hardware changes.</p>
+<p class="p">Ini akan menampilkan daftar pesan yang terkait dengan perangkat keras komputer Anda, dan akan diperbarui secara otomatis jika ada sesuatu yang berhubungan dengan perubahan perangkat keras Anda.</p>
 </li>
-<li class="steps"><p class="p">Insert your wireless adapter into the PCMCIA slot and see what
-      changes in the Terminal window. The changes should include some
-      information about your wireless adapter. Look through them and see if you
-      can identify it.</p></li>
-<li class="steps"><p class="p">To stop the command from running in the Terminal, press
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. After you have done that,
-      you can close the Terminal if you like.</p></li>
-<li class="steps"><p class="p">If you found any information about your wireless adapter, proceed to
-      the <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.id" title="Pelacak masalah jaringan nirkabel">Device
-      Drivers step</a></span>. If you didn’t find anything related to your wireless
-      adapter, see <span class="link"><a href="#not-recognized" title="Adaptor nirkabel tak dikenal">the instructions
-      below</a></span>.</p></li>
+<li class="steps"><p class="p">Masukkan adapter nirkabel Anda ke dalam slot PCMCIA dan lihat perubahan apa di jendela Terminal. Perubahan harus mencakup beberapa informasi tentang adaptor nirkabel Anda. Lihat mereka dan perhatikan apakah Anda dapat mengidentifikasi itu.</p></li>
+<li class="steps"><p class="p">Untuk menghentikan perintah yang berjalan di terminal, tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>. Setelah Anda melakukan itu, Anda dapat menutup Terminal jika Anda suka.</p></li>
+<li class="steps"><p class="p">Jika Anda menemukan informasi apa pun tentang adaptor nirkabel, lanjutkan ke <span class="link"><a href="net-wireless-troubleshooting-device-drivers.html.id" title="Pelacak masalah jaringan nirkabel">Langkah Device Driver</a></span>. Jika Anda tidak menemukan sesuatu yang terkait dengan adaptor nirkabel Anda, lihat <span class="link"><a href="#not-recognized" title="Adaptor nirkabel tak dikenal">petunjuk di bawah ini</a></span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></section><section id="not-recognized"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Adaptor nirkabel tak dikenal</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">If your wireless adapter was not recognized, it might not be working
-  properly or the correct drivers may not be installed for it. How you check to
-  see if there are any drivers you can install will depend on which Linux
-  distribution you are using (like Ubuntu, Arch, Fedora or openSUSE).</p>
-<p class="p">To get specific help, look at the support options on your distribution’s
-  website. These might include mailing lists and web chats where you can ask
-  about your wireless adapter, for example.</p>
+<p class="p">Jika adaptor nirkabel Anda tidak dikenali, itu mungkin tidak bekerja dengan benar atau driver yang benar mungkin tidak diinstal untuk itu. Bagaimana Anda memeriksa untuk melihat apakah ada driver yang dapat Anda instal akan tergantung pada distribusi Linux yang Anda gunakan (seperti Ubuntu, Arch, Fedora, atau openSUSE).</p>
+<p class="p">Untuk mendapatkan bantuan khusus, lihat opsi dukungan di situs web distribusi Anda. Ini mungkin termasuk milis dan obrolan web di mana Anda dapat bertanya tentang adaptor nirkabel Anda, misalnya.</p>
 </div></div>
 </div></section><nav class="prevnext pagewide"><div class="inner">
 <a href="net-wireless-troubleshooting-hardware-info.html.id" title="Pelacak masalah jaringan nirkabel">Sebelumnya</a><a href="net-wireless-troubleshooting-device-drivers.html.id" title="Pelacak masalah jaringan nirkabel">Selanjutnya</a>
@@ -213,7 +156,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Mengidentifikasi dan memperbaiki masalah koneksi nirkabel.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

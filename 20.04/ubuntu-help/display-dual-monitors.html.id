@@ -82,60 +82,46 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Untuk menyiapkan sebuah monitor tambahan, sambungkan monitor ke komputer Anda. Bila sistem Anda tak mengenalinya seketika, atau Anda ingin menyetel pengaturan:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tampilan</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Layar</span> untuk membuka panel.</p></li>
 <li class="steps">
-<p class="p">In the display arrangement diagram, drag your displays to the relative
-      positions you want.</p>
+<p class="p">Pada diagram pengaturan tampilan, seret layar ke posisi relatif yang Anda inginkan.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">The numbers on the diagram are shown at the top-left of each
-        display when the <span class="gui">Displays</span> panel is active.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Angka pada diagram ditampilkan di kiri atas setiap layar saat panel <span class="gui">Tampilan</span> aktif.</p></div></div></div>
 </div>
 </li>
 <li class="steps">
-<p class="p">Click <span class="gui">Primary Display</span> to choose your primary display.</p>
+<p class="p">Klik <span class="gui">Tampilan Primer</span> untuk memilih tampilan primer Anda.</p>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">The primary display is the one with the
-        <span class="link"><a href="shell-introduction.html.id" title="Visual overview of GNOME">top bar</a></span>, and where the
-        <span class="gui">Activities</span> overview is shown.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Tampilan primer adalah yang dengan <span class="link"><a href="shell-introduction.html.id" title="Tinjauan visual GNOME">bilah puncak</a></span>, dan tempat ringkasan <span class="gui">Aktivitas</span> ditampilkan.</p></div></div></div>
 </div>
 </li>
-<li class="steps"><p class="p">Select the orientation, resolution or scale, and refresh rate.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Apply</span>. The new settings will be applied for 20
-      seconds before reverting back. That way, if you cannot see anything with
-      the new settings, your old settings will be automatically restored. If
-      you are happy with the new settings, click <span class="gui">Keep Changes</span>.</p></li>
+<li class="steps"><p class="p">Pilih orientasi, resolusi atau skala, dan laju penyegaran.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Terapkan</span>. Pengaturan baru akan diterapkan selama 20 detik sebelum dipulihkan. Dengan demikian, jika Anda tidak dapat melihat apa pun dengan setelan baru, setelan lama Anda akan dipulihkan secara otomatis. Jika Anda senang dengan pengaturan baru, klik <span class="gui">Simpan Perubahan</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></section><section id="modes"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Display modes</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Mode tampilan</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">With two screens, these display modes are available:</p>
+<p class="p">Dengan dua layar, mode tampilan ini tersedia:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Join Displays:</span> screen edges are joined so things can
-      pass from one display to another.</p></li>
-<li class="list"><p class="p"><span class="gui">Mirror:</span> the same content is shown on two displays,
-      with the same resolution and orientation for both.</p></li>
-<li class="list"><p class="p"><span class="gui">Single Display:</span> only one display is configured,
-      effectively turning off the other one. For instance, an external monitor
-      connected to a docked laptop with the lid closed would be the single
-      configured display.</p></li>
+<li class="list"><p class="p"><span class="gui">Tampilan Gabungan:</span> tepi layar yang digabung sehingga berbagai hal dapat lewat dari satu tampilan ke yang lain.</p></li>
+<li class="list"><p class="p"><span class="gui">Cermin:</span> konten yang sama ditampilkan pada dua layar, dengan resolusi dan orientasi yang sama untuk keduanya.</p></li>
+<li class="list"><p class="p"><span class="gui">Tampilan Tunggal:</span> hanya satu layar yang dikonfigurasi, secara efektif mematikan yang lain. Sebagai contoh, monitor eksternal yang terhubung ke laptop berlabuh dengan lid tertutup akan menjadi satu layar dikonfigurasi.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></section><section id="multiple"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Adding more than one monitor</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Menambahkan lebih dari satu monitor</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">With more than two screens, <span class="gui">Join Displays</span> is the only mode
-    available.</p>
+<p class="p">Dengan lebih dari dua layar, <span class="gui">Tampilan Gabungan</span> adalah satu-satunya modus yang tersedia.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Press the button for the display that you would like to
-        configure.</p></li>
-<li class="list"><p class="p">Drag the screens to the desired relative positions.</p></li>
+<li class="list"><p class="p">Tekan tombol untuk tampilan yang ingin Anda konfigurasikan.</p></li>
+<li class="list"><p class="p">Seret layar ke posisi relatif yang diinginkan.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
@@ -143,12 +129,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.id" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.id" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.id" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html.id" title="Mengubah latar belakang desktop dan kunci layar">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html.id" title="Mengubah resolusi atau orientasi layar">ukuran dan orientasi</a></span>, <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">kecerahan</a></span>, <span class="link"><a href="display-night-light.html.id" title="Menyesuaikan suhu warna layar Anda">suhu warna</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

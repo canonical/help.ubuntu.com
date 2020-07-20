@@ -75,34 +75,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Dateien auf eine CD oder DVD schreiben</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Sie können den <span class="gui">CD/DVD-Ersteller</span> verwenden, um Ihre Dateien auf einer leere CD oder DVD abzulegen. Die Möglichkeit, eine CD oder DVD zu erstellen, erscheint in der Dateiverwaltung, sobald Sie die CD in Ihren CD/DVD-Brenner einlegen. Die Dateiverwaltung lässt Sie Dateien auf andere Rechner übertragen oder erstellt <span class="link"><a href="backup-why.html.de" title="Sichern Ihrer wichtigen Dateien">Datensicherungen</a></span>, indem er die Dateien auf einem leeren Medium ablegt. So schreiben Sie Dateien auf eine CD oder DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Legen Sie ein leeres Medium in Ihren CD/DVD-Brenner.</p></li>
-<li class="steps">
-<p class="p">Im Fenster <span class="gui">Leere CD/DVD-ROM</span>, das nun erscheint, wählen Sie <span class="gui">CD/DVD-Ersteller</span>. Ein Fenster mit dem Ordner <span class="gui">CD/DVD-Ersteller</span> wird geöffnet.</p>
-<p class="p">(Sie können auch auf <span class="gui">Leere CD/DVD-ROM</span> klicken, unter <span class="gui">Geräte</span> in der Seitenleiste des Dateimanagers.)</p>
-</li>
-<li class="steps"><p class="p">Geben Sie im Feld <span class="gui">CD/DVD-Name</span> einen Namen für das Medium ein.</p></li>
-<li class="steps"><p class="p">Ziehen oder kopieren Sie die gewünschten Dateien in das Fenster.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Auf CD/DVD schreiben</span>.</p></li>
-<li class="steps">
-<p class="p">Nehmen Sie bei <span class="gui">Wählen Sie die zu beschreibende CD/DVD aus</span> das leere Medium.</p>
-<p class="p">(Sie könnten stattdessen <span class="gui">Abbilddatei</span> wählen. Das würde die Dateien in ein <span class="em">CD/DVD-Abbild</span> legen, das auf Ihrem Rechner gespeichert wird. Sie können dann das Abbild zu einem späteren Zeitpunkt auf ein leeres Medium brennen.)</p>
-</li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Eigenschaften</span>, wenn Sie die Brenngeschwindigkeit, den Ort für die temporären Dateien und andere Einstellungen anpassen wollen. Die Standardeinstellungen sollten aber passen.</p></li>
-<li class="steps">
-<p class="p">Klicken Sie auf den <span class="gui">Brennen</span>-Knopf, um die Aufnahme zu starten.</p>
-<p class="p">Wenn <span class="gui">Mehrere Kopien brennen</span> ausgewählt ist, werden Sie zum Einlegen zusätzlicher Medien aufgefordert.</p>
-</li>
-<li class="steps"><p class="p">Wenn der Brennvorgang abgeschlossen ist, wird die CD/DVD automatisch ausgeworfen. Wählen Sie <span class="gui">Weitere Kopien erstellen</span> oder <span class="gui">Schließen</span>, um den Brennvorgang zu beenden.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Wenn das Medium nicht korrekt gebrannt wurde</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Manchmal zeichnet der Rechner die Daten nicht korrekt auf, so dass Sie die gebrannten Dateien nicht sehen können, wenn Sie das Medium ins Laufwerk einlegen.</p>
-<p class="p">Versuchen Sie in diesem Fall den Datenträger noch einmal zu brennen, aber diesmal mit einer geringeren Brenngeschwindigkeit, zum Beispiel 12x statt 48x. Das Brennen ist bei niedrigeren Geschwindigkeiten zuverlässiger. Sie können die Brenngeschwindigkeit wählen, indem Sie den Knopf <span class="gui">Eigenschaften</span> im Fenster <span class="gui">CD/DVD-Ersteller</span> anklicken.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

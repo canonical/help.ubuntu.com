@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Esteettömyys</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Gnome-työpöytä sisältää esteettömyystoimintoja, jotka tukevat käyttäjiä, joilla on erikoistarpeita tai yleisiä esteettömyyteen liittyviä apulaitteita. Monet esteettömyystoiminnoista ovat saatavilla yläpalkin esteettömyysvalikon kautta.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.fi" title="Löydä esteettömyystoimintojen valikko"><span class="title">Löydä esteettömyystoimintojen valikko</span><span class="linkdiv-dash"> — </span><span class="desc">Esteettömyysvalikko on henkilön näköinen kuvake yläpalkissa.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">
@@ -124,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-links"><h3><span class="title">Hiiren siirtäminen</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-sensitivity.html.fi" title="Adjust the speed of the mouse and touchpad">Adjust the speed of the mouse and touchpad</a><span class="desc"> — Muuta hiiren osoittimen nopeutta, kun käytät hiirtä tai kosketuslevyä.</span>
+<a href="mouse-sensitivity.html.fi" title="Muuta hiiren ja kosketuslevyn nopeutta">Muuta hiiren ja kosketuslevyn nopeutta</a><span class="desc"> — Muuta hiiren osoittimen nopeutta, kun käytät hiirtä tai kosketuslevyä.</span>
 </li>
 <li class="links ">
 <a href="mouse-mousekeys.html.fi" title="Napsauta ja siirrä hiiren osoitinta sormiota käyttäen">Napsauta ja siirrä hiiren osoitinta sormiota käyttäen</a><span class="desc"> — Hallitse hiirtä numeronäppäimistöllä.</span>

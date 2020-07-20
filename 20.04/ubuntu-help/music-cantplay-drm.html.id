@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I can’t play the songs I bought from an online music store</title>
+<title>Saya tak bisa memutar lagu yang saya beli dari toko musik daring</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,13 +73,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="media.html.id" title="Suara, video, &amp; gambar">Suara, video, &amp; gambar</a> › <a class="trail" href="media.html.id#music" title="Pemutar audio portabel dan musik">Musik dan pemutar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">I can’t play the songs I bought from an online music store</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Saya tak bisa memutar lagu yang saya beli dari toko musik daring</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you downloaded some music from an online store you may find that it won’t play on your computer, especially if you bought it on a Windows or Mac OS computer and then copied it over.</p>
-<p class="p">This could be because the music is in a format that is not recognized by your computer. To be able to play a song you need to have support for the right audio formats installed — for example, if you want to play MP3 files, you need MP3 support installed. If you don’t have support for a given audio format, you should see a message telling you so when you try to play a song. The message should also provide instructions for how to install support for that format so that you can play it.</p>
+<p class="p">Jika Anda mengunduh musik dari toko daring Anda mungkin menemukan bahwa itu tidak bisa diputar di komputer Anda, terutama jika Anda membelinya di komputer Windows atau Mac OS dan kemudian menyalinnya.</p>
+<p class="p">Hal ini dapat karena musik dalam format yang tidak dikenali oleh komputer Anda. Untuk dapat memainkan lagu, Anda harus memiliki dukungan untuk format audio yang benar terinstal - misalnya, jika Anda ingin memutar berkas MP3, Anda perlu dukungan MP3 diinstal. Jika Anda tidak memiliki dukungan untuk format audio tertentu, Anda akan melihat pesan yang memberitahu Anda ketika Anda mencoba untuk memutar lagu. Pesan juga harus memberikan petunjuk tentang cara menginstal dukungan untuk format tersebut sehingga Anda dapat memainkannya.</p>
 <p class="p">If you do have support installed for the song’s audio format but still can’t play it, the song might be <span class="em">copy protected</span> (also known as being <span class="em">DRM restricted</span>). DRM is a way of restricting who can play a song and on what devices they can play it. The company that sold the song to you is in control of this, not you. If a music file has DRM restrictions, you will probably not be able to play it — you generally need special software from the vendor to play DRM restricted files, but this software is often not supported on Linux.</p>
-<p class="p">You can learn more about DRM from the <span class="link"><a href="http://www.eff.org/issues/drm" title="http://www.eff.org/issues/drm">Electronic Frontier Foundation</a></span>.</p>
+<p class="p">Anda dapat mempelajari lebih lanjut tentang DRM dari <span class="link"><a href="http://www.eff.org/issues/drm" title="http://www.eff.org/issues/drm">Electronic Frontier Foundation</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

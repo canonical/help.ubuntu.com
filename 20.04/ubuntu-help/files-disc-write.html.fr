@@ -75,36 +75,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Écriture de fichiers sur un CD ou un DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Il est possible de graver des fichiers sur un disque vierge avec le <span class="gui">Créateur de CD/DVD</span>. L'option apparaît dans le gestionnaire de fichiers dès qu'un disque vierge est inséré dans le graveur de CD/DVD. Le gestionnaire de fichiers vous permet de transférer des fichiers vers d'autres ordinateurs ou de faire des <span class="link"><a href="backup-why.html.fr" title="Sauvegarde de vos fichiers importants">sauvegardes</a></span> en copiant des fichiers sur des disques vierges. Pour graver des fichiers sur un CD ou un DVD :</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">insérez un disque vierge dans votre graveur de CD/DVD,</p></li>
-<li class="steps">
-<p class="p">dans la fenêtre <span class="gui">Disque CD/DVD-R vierge</span> qui apparaît, choisissez <span class="gui">Créateur de CD/DVD</span>. La fenêtre du répertoire <span class="gui">Créateur de CD/DVD</span> s'ouvre.</p>
-<p class="p">Vous pouvez aussi cliquer sur <span class="gui">Disque CD/DVD-R vierge</span> sous <span class="gui">Périphériques</span> dans le panneau latéral du gestionnaire de fichiers.</p>
-</li>
-<li class="steps"><p class="p">Dans le champ <span class="gui">Nom du disque</span>, saisissez un nom pour le disque.</p></li>
-<li class="steps"><p class="p">Faites glisser ou copiez les fichiers désirés dans la fenêtre.</p></li>
-<li class="steps"><p class="p">Cliquez sur <span class="gui">Graver sur le disque</span>.</p></li>
-<li class="steps">
-<p class="p">Sous <span class="gui">Choisissez un disque à graver</span>, sélectionnez le disque vierge.</p>
-<p class="p">Vous pouvez choisir <span class="gui">Fichier image</span> à la place. Cela place les fichiers dans un <span class="em">fichier image</span>, qui sera enregistré dans votre ordinateur. Vous pourrez alors graver cette image disque sur un disque vierge plus tard.</p>
-</li>
-<li class="steps"><p class="p">Cliquer sur <span class="gui">Propriétés</span> si vous voulez ajuster la vitesse de gravure, l'emplacement des fichiers temporaires et d'autres options. Les options par défaut devraient néanmoins suffire.</p></li>
-<li class="steps">
-<p class="p">Cliquer sur le bouton <span class="gui">Graver</span> pour commencer l'enregistrement.</p>
-<p class="p">Si <span class="gui">Graver plusieurs copies</span> est choisi, vous serez invité à insérer des disques supplémentaires.</p>
-</li>
-<li class="steps"><p class="p">Une fois la gravure du disque terminée, il est éjecté automatiquement. Choisissez <span class="gui">Créer de nouvelles copies</span> ou <span class="gui">Fermer</span> pour terminer.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
   able to see the files you put onto the disc when you insert it into a
   computer.</p>
-<p class="p">Dans ce cas, tenter de graver le disque une nouvelle fois mais à plus basse vitesse, par exemple 12x au lieu de 48x. Graver plus lentement est plus sûr. Vous pouvez choisir la vitesse en cliquant le bouton <span class="gui">Propriétés</span> dans la fenêtre du <span class="gui">Créateur de CD/DVD</span>.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

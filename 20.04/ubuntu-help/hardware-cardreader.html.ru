@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Убедитесь в том, что карта памяти вставлена правильно. Многие карты памяти, когда они вставлены правильно, выглядят перевёрнутыми. Проверьте также, надёжно ли карта вставлена в отверстие. Некоторые карты памяти, особенно CF, для вставки требуют приложения небольшого усилия. (Будьте осторожны и не нажимайте слишком сильно! Если карта наткнулась на что-то твёрдое, не проталкивайте её.)</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
   <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview. Does the inserted
-  card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
+  card appear in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
   the top bar and select the <span class="gui">Sidebar</span>.)</p></li>

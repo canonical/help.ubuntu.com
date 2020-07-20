@@ -76,18 +76,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Tatanan Privasi</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The <span class="em">Privacy Settings</span> in GNOME help you control whether or not
-  certain parts of your desktop are visible to others. You can also
-  use these settings to clear your computer usage history and clean out
-  unnecessary files.</p>
+<p class="p"><span class="em">Pengaturan Privasi</span> di GNOME membantu Anda mengontrol apakah bagian tertentu dari desktop Anda dapat dilihat oleh orang lain atau tidak. Anda juga dapat menggunakan pengaturan ini untuk menghapus riwayat penggunaan komputer dan membersihkan berkas yang tidak perlu.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.id" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
-    from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda"><span class="title">Secara otomatis mengunci layar Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Prevent other people from using your desktop when you
-    go away from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.id" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
-    files.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.id" title="Control location services"><span class="title">Control location services</span><span class="linkdiv-dash"> — </span><span class="desc">Enable or disable geolocation.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.id" title="Matikan atau membatasi pelacakan riwayat berkas"><span class="title">Matikan atau membatasi pelacakan riwayat berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Menghentikan atau membatasi komputer Anda dari melacak berkas yang baru-baru ini digunakan.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.id" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Mengatur seberapa sering tong sampah dan berkas sementara Anda akan dihapus dari komputer Anda.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda"><span class="title">Secara otomatis mengunci layar Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Mencegah orang lain menggunakan desktop Anda ketika Anda pergi dari komputer Anda.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-location.html.id" title="Mengontrol layanan lokasi"><span class="title">Mengontrol layanan lokasi</span><span class="linkdiv-dash"> — </span><span class="desc">Mengaktifkan atau menonaktifkan geolokasi.</span></a></div>
 </div></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -95,13 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.id" title="Papan tik">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">display</a></span>,
-      <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">user accounts</a></span>…
-    </span>
+<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">tetikus &amp; touchpad</a></span>, <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">layar</a></span>, <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">akun pengguna</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

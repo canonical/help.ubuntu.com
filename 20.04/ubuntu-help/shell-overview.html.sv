@@ -92,10 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.sv" title="Aviseringar och aviseringslistan"><span class="title">Aviseringar och aviseringslistan</span><span class="linkdiv-dash"> — </span><span class="desc">Meddelanden visas längst upp på skärmen för att berätta för dig när vissa händelser inträffar.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.sv" title="Kalendermöten"><span class="title">Kalendermöten</span><span class="linkdiv-dash"> — </span><span class="desc">Visa dina möten i kalenderområdet i toppen på skärmen.</span></a></div>
 </div>
-<div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.sv" title="Nåla fast dina favoritprogram i snabbstartspanelen"><span class="title">Nåla fast dina favoritprogram i snabbstartspanelen</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till (eller ta bort) ofta använda programikoner från snabbstartspanelen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.sv" title="Starta program automatiskt vid inloggning"><span class="title">Starta program automatiskt vid inloggning</span><span class="linkdiv-dash"> — </span><span class="desc">Använd <span class="app">Justering</span> för att starta program automatiskt vid inloggning.</span></a></div>
-</div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.sv" title="Nåla fast dina favoritprogram i snabbstartspanelen"><span class="title">Nåla fast dina favoritprogram i snabbstartspanelen</span><span class="linkdiv-dash"> — </span><span class="desc">Lägg till (eller ta bort) ofta använda programikoner från snabbstartspanelen.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Program och fönster</span></h2></div>

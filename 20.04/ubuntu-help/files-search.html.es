@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Buscar</span>.</p></li>
 <li class="steps"><p class="p">Seleccione <span class="guiseq"><span class="gui">Configuración</span> ▸ <span class="gui">Buscar</span></span> en los resultados. Esto abrirá en panel de la <span class="gui">Configuración de la búsqueda</span>.</p></li>
-<li class="steps"><p class="p">Seleccione el icono <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="Preferences key symbol"></span></span> de la parte inferior del panel de opciones de <span class="gui">Búsqueda</span></p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Search Locations</span> button in the header bar.</p></li>
 </ol></div></div></div>
 <p class="p">Esto abrirá un panel de configuración aparte que le permitirá activar o desactivar las búsquedas de carpetas. Puede alternar las búsquedas en cada una de las tres pestañas:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">

@@ -76,7 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Параметры общего доступа</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="em">Параметры общего доступа</span> в GNOME помогают контролировать общие ресурсы в локальной сети, а также общие ресурсы, доступ к которым реализуется с помощью других технологий, например, <span class="em">Bluetooth</span>.</p>
+<p class="p">The <span class="em">Sharing Settings</span> help you control what is shared over the
+  local network, or through other technologies such as <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.ru" title="Set the display name for your computer"><span class="title">Set the display name for your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or

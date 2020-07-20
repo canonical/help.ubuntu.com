@@ -80,13 +80,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Uzamknutá obrazovka</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Zamknutá obrazovka znamená, že můžete vidět, co se děje po dobu, co je počítač zamknutý a máte možnost získat souhrnné informace o tom, co se událo, když jste byli pryč. Uzamknutá obrazovka má podobu opony s pěkným obrázkem přes celou obrazovku po dobu uzamknutí a poskytuje užitečné informace:</p>
+<p class="p">The lock screen means that you can see what is happening while your
+  computer is locked, and it allows you to get a summary of what has been
+  happening while you have been away. The lock screen provides
+  useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">jméno přihlášeného uživatele</p></li>
 <li class="list"><p class="p">datum a čas a některá upozornění</p></li>
 <li class="list"><p class="p">stav baterie a sítě</p></li>
 </ul></div></div></div>
-<p class="p">Když chcete počítač odemknout, tažením myší vytáhněte oponu uzamknuté obrazovku nahoru, nebo zmáčkněte <span class="key"><kbd>Esc</kbd></span> nebo <span class="key"><kbd>Enter</kbd></span>. Tím se odhalí přihlašovací obrazovka, na které můžete zadat své heslo a počítač tím odemknout. Případně stačí začít heslo rovnou psát a opona se zvedne sama. Pokud je počítač nastaven pro používání více uživateli, máte také možnost přepnout se na jiného uživatele.</p>
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+  This will reveal the login screen, where you can enter your password to
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">Jak skrýt upozornění na uzamknuté obrazovce najdete v kapitole <span class="link"><a href="shell-notifications.html.cs#lock-screen-notifications" title="Skrývání upozornění na uzamknuté obrazovce">Skrývání upozornění na uzamknuté obrazovce</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a> › <a class="trail" href="mouse.html.id#tips" title="Tips">Tip</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a> › <a class="trail" href="mouse.html.id#tips" title="Tips">Tip</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a> › <a class="trail" href="mouse.html.id#tips" title="Tips">Tip</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a> › <a class="trail" href="mouse.html.id#tips" title="Tips">Tip</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="tips.html.id" title="Tip &amp; trik">Tip &amp; trik</a> » </div>
 </div>
@@ -82,36 +82,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Klik tengah</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Many mice and some touchpads have a middle mouse button. On a mouse
-with a scroll wheel, you can usually press directly down on the scroll
-wheel to middle-click. If you don’t have a middle mouse button, you
-can press the left and right mouse buttons at the same time to
-middle-click.</p>
-<p class="p">On touchpads that support multi-finger taps, you can tap with three
-fingers at once to middle-click. You have to
-<span class="link"><a href="mouse-touchpad-click.html.id" title="Click, drag, or scroll with the touchpad">enable tap clicking</a></span> in the
-touchpad settings for this to work.</p>
-<p class="p">Many applications use middle-click for advanced click shortcuts.</p>
+<p class="p">Banyak tetikus dan beberapa touchpad memiliki tombol tetikus tengah. Pada tetikus dengan roda gulir, Anda biasanya dapat menekan langsung pada roda gulir untuk klik tengah. Jika Anda tidak memiliki tombol tetikus tengah, Anda dapat menekan tombol kiri dan kanan tetikus pada saat yang sama untuk klik tengah.</p>
+<p class="p">Pada touchpad yang mendukung ketukan multi-jari, Anda dapat mengetuk dengan tiga jari sekaligus untuk klik tengah. Anda harus <span class="link"><a href="mouse-touchpad-click.html.id" title="Mengklik, menyeret, atau menggulir dengan touchpad">mengaktifkan klik ketuk</a></span> di pengaturan touchpad agar ini bekerja.</p>
+<p class="p">Banyak aplikasi menggunakan klik tengah untuk pintasan klik lanjutan.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">In applications with scrollbars, left-clicking in the empty space of
-  the bar moves the scroll position directly to that place. Middle-clicking
-  moves up to a single page towards that location.</p></li>
-<li class="list"><p class="p">In the <span class="gui">Activities</span> overview, you can quickly open a new
-  window for an application with middle-click. Simply middle-click on the
-  application’s icon, either in the dash on the left, or in the applications
-  overview. The applications overview is displayed using the grid button in the
-  dash.</p></li>
-<li class="list"><p class="p">Most web browsers allow you to open links in tabs quickly with the
-  middle mouse button. Just click any link with your middle mouse button, and
-  it will open in a new tab.</p></li>
-<li class="list"><p class="p">In the file manager, middle-click serves two roles. If you
-  middle-click a folder, it will open in a new tab. This mimics the
-  behavior of popular web browsers. If you middle-click a file, it
-  will open the file, just as if you had double-clicked.</p></li>
+<li class="list"><p class="p">Dalam aplikasi dengan bilah gulir, klik kiri di ruang kosong dari bilah memindah posisi gulir langsung ke tempat itu. Klik tengah menggerakkan hingga satu halaman ke lokasi tersebut.</p></li>
+<li class="list"><p class="p">Dalam ringkasan <span class="gui">Aktivitas</span>, Anda dapat dengan cepat membuka jendela baru untuk aplikasi dengan klik tengah. Cukup klik tengah pada ikon aplikasi, baik di dasbor di sebelah kiri, atau dalam ikhtisar aplikasi. Ikhtisar aplikasi ditampilkan menggunakan tombol kisi di dasbor.</p></li>
+<li class="list"><p class="p">Sebagian besar peramban web memungkinkan Anda untuk membuka link di tab cepat dengan tombol tengah tetikus. Cukup klik link apapun dengan tombol tetikus tengah Anda, dan itu akan terbuka di tab baru.</p></li>
+<li class="list"><p class="p">Di manajer berkas, klik tengah melayani dua peran. Jika Anda mengklik tengah folder, ia akan terbuka di tab baru. Ini meniru perilaku peramban web populer. Jika Anda mengklik tengah berkas, itu akan membuka berkas, sama seperti jika Anda telah mengklik ganda.</p></li>
 </ul></div></div></div>
-<p class="p">Some specialized applications allow you to use the middle mouse
-button for other functions. Search your application’s help for
-<span class="em">middle-click</span> or <span class="em">middle mouse button</span>.</p>
+<p class="p">Beberapa aplikasi khusus memungkinkan Anda untuk menggunakan tombol tengah tetikus untuk fungsi lainnya. Cari bantuan aplikasi Anda untuk <span class="em">klik tengah</span> atau <span class="em">tombol tengah tetikus</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

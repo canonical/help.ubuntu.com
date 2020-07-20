@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.he" title="Wired networking">Wired networking</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.he" title="Wired networking">Wired networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.he" title="Wireless networking">Wireless networking</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.he" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function() {
       need to double-check the VPN settings you entered. You can do this from
       the <span class="gui">Network</span> panel that you used to create the connection.
       Select the VPN connection from the list, then press the
-<span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to review the settings.</p></li>
+<span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span> button to review the settings.</p></li>
 <li class="steps"><p class="p">To disconnect from the VPN, click the system menu on the top bar and
       click <span class="gui">Turn Off</span> under the name of your VPN connection.</p></li>
 </ol></div></div></div>

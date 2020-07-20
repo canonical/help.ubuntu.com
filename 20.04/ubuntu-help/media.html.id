@@ -81,18 +81,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.id" title="Masalah suara"><span class="title">Masalah suara</span><span class="linkdiv-dash"> — </span><span class="desc">Troubleshoot problems like having no sound or having poor sound
-    quality.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.id" title="Gunakan mikrofon lain"><span class="title">Gunakan mikrofon lain</span><span class="linkdiv-dash"> — </span><span class="desc">Use an analog or USB microphone and select a default input
-    device.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.id" title="Gunakan speaker atau headphone lain"><span class="title">Gunakan speaker atau headphone lain</span><span class="linkdiv-dash"> — </span><span class="desc">Connect speakers or headphones and select a default audio output
-    device.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-broken.html.id" title="Masalah suara"><span class="title">Masalah suara</span><span class="linkdiv-dash"> — </span><span class="desc">Memecahkan masalah seperti tidak ada suara atau kualitas suara yang buruk.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usemic.html.id" title="Memakai mikrofon lain"><span class="title">Memakai mikrofon lain</span><span class="linkdiv-dash"> — </span><span class="desc">Memakai mikrofon analog atau USB dan memilih perangkat masukan baku.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-usespeakers.html.id" title="Memakai speaker atau headphone lain"><span class="title">Memakai speaker atau headphone lain</span><span class="linkdiv-dash"> — </span><span class="desc">Menghubungkan speaker atau headphone dan memilih perangkat luaran audio baku.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.id" title="Mengubah volume suara"><span class="title">Mengubah volume suara</span><span class="linkdiv-dash"> — </span><span class="desc">Set the sound volume for the computer and control the
-    loudness of each application.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.id" title="Pilih atau matikan suara waspada"><span class="title">Pilih atau matikan suara waspada</span><span class="linkdiv-dash"> — </span><span class="desc">Choose the sound to play for messages, set the alert volume, or
-    disable alert sounds.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-volume.html.id" title="Mengubah volume suara"><span class="title">Mengubah volume suara</span><span class="linkdiv-dash"> — </span><span class="desc">Mengatur volume suara untuk komputer dan mengontrol kekencangan setiap aplikasi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sound-alert.html.id" title="Pilih atau matikan suara waspada"><span class="title">Pilih atau matikan suara waspada</span><span class="linkdiv-dash"> — </span><span class="desc">Memilih suara yang diputar untuk pesan, mengatur volume peringatan, atau menonaktifkan suara peringatan.</span></a></div>
 </div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
@@ -100,13 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h3><span class="title">Informasi Lanjut</span></h3></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.id" title="Papan tik">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">display</a></span>,
-      <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">user accounts</a></span>…
-    </span>
+<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">tetikus &amp; touchpad</a></span>, <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">layar</a></span>, <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">akun pengguna</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>
@@ -116,18 +105,18 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="files-autorun.html.id" title="Buat aplikasi untuk perangkat atau disc"><span class="title">Buat aplikasi untuk perangkat atau disc</span><span class="linkdiv-dash"> — </span><span class="desc">Secara otomatis menjalankan aplikasi bagi CD dan DVD, kamera, pemutar audio, dan perangkat serta media lain.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.id" title="I can’t play the songs I bought from an online music store"><span class="title">I can’t play the songs I bought from an online music store</span><span class="linkdiv-dash"> — </span><span class="desc">Support for that file format might not be installed or the songs could be “copy protected”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.id" title="Lagu tak muncul pada iPod saya ketika saya menyalin mereka ke dalamnya"><span class="title">Lagu tak muncul pada iPod saya ketika saya menyalin mereka ke dalamnya</span><span class="linkdiv-dash"> — </span><span class="desc">Gunakan pemutar media untuk menyalin lagu dan secara aman lepas iPod sesudahnya.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.id" title="My new iPod won’t work"><span class="title">My new iPod won’t work</span><span class="linkdiv-dash"> — </span><span class="desc">Brand-new iPods need to be set-up using the iTunes software before you can use them.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="music-player-ipodtransfer.html.id" title="Songs don’t appear on my iPod when I copy them onto it"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span><span class="linkdiv-dash"> — </span><span class="desc">Use a media player to copy the songs and safely remove the iPod afterward.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-cantplay-drm.html.id" title="Saya tak bisa memutar lagu yang saya beli dari toko musik daring"><span class="title">Saya tak bisa memutar lagu yang saya beli dari toko musik daring</span><span class="linkdiv-dash"> — </span><span class="desc">Dukungan bagi format berkas itu mungkin tak dipasang atau lagu mungkin "terlindung-salin".</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="music-player-newipod.html.id" title="iPod baru saya tak bekerja"><span class="title">iPod baru saya tak bekerja</span><span class="linkdiv-dash"> — </span><span class="desc">iPod baru harus disetel menggunakan perangkat lunak iTunes sebelum Anda dapat menggunakannya.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section id="photos"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Kamera digital dan foto</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.id" title="Buat aplikasi untuk perangkat atau disc"><span class="title">Buat aplikasi untuk perangkat atau disc</span><span class="linkdiv-dash"> — </span><span class="desc">Secara otomatis menjalankan aplikasi bagi CD dan DVD, kamera, pemutar audio, dan perangkat serta media lain.</span></a></div></div>
-<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.id" title="Masalah pembaca kartu media"><span class="title">Masalah pembaca kartu media</span><span class="linkdiv-dash"> — </span><span class="desc">Troubleshoot media card readers.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="hardware-cardreader.html.id" title="Masalah pembaca kartu media"><span class="title">Masalah pembaca kartu media</span><span class="linkdiv-dash"> — </span><span class="desc">Melacak masalah pembaca kartu media.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="videos"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Video dan kamera video</span></h2></div>
@@ -135,11 +124,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="files-autorun.html.id" title="Buat aplikasi untuk perangkat atau disc"><span class="title">Buat aplikasi untuk perangkat atau disc</span><span class="linkdiv-dash"> — </span><span class="desc">Secara otomatis menjalankan aplikasi bagi CD dan DVD, kamera, pemutar audio, dan perangkat serta media lain.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="app-cheese.html.id" title="Membuat foto dan video yang menyenangkan dengan webcam Anda"><span class="title">Membuat foto dan video yang menyenangkan dengan webcam Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Hal ini seperti kios foto pribadi Anda sendiri.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-sending.html.id" title="Other people can’t play the videos I made"><span class="title">Other people can’t play the videos I made</span><span class="linkdiv-dash"> — </span><span class="desc">Periksa apakah mereka memasang kodek video yang benar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.id" title="Mengapa DVD tak bisa diputar?"><span class="title">Mengapa DVD tak bisa diputar?</span><span class="linkdiv-dash"> — </span><span class="desc">Anda mungkin tidak menginstal kodek yang tepat, atau DVD mungkin punya wilayah yang salah.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="video-dvd.html.id" title="Why won’t DVDs play?"><span class="title">Why won’t DVDs play?</span><span class="linkdiv-dash"> — </span><span class="desc">You might not have the right codecs installed, or the DVD might be
-    the wrong region.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-sending.html.id" title="Orang lain tak bisa memainkan video buatanku"><span class="title">Orang lain tak bisa memainkan video buatanku</span><span class="linkdiv-dash"> — </span><span class="desc">Periksa apakah mereka memasang kodek video yang benar.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.id" title="Bagaimana cara mengaktifkan kodec terbatas untuk memutar DVD?"><span class="title">Bagaimana cara mengaktifkan kodec terbatas untuk memutar DVD?</span><span class="linkdiv-dash"> — </span><span class="desc">Sebagian besar DVD komersial dienkripsi dan tidak akan dapat diputar tanpa dekripsi perangkat lunak.</span></a></div>
 </div>
 </div></div></div></div></div></div>

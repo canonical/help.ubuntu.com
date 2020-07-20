@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Controlar quins serveis en línia es pot utilitzar per accedir a un compte</title>
+<title>Controlar quins serveis en línia es pot utilitzar per a accedir a un compte</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,14 +73,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="prefs.html.ca" title="Usuari i configuració del sistema">Configuració</a> » <a class="trail" href="accounts.html.ca" title="Comptes en línia">Comptes en línia</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Controlar quins serveis en línia es pot utilitzar per accedir a un compte</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Controlar quins serveis en línia es pot utilitzar per a accedir a un compte</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Alguns tipus de proveïdors de comptes en línia permeten accedir a diversos serveis amb un mateix compte d'usuari. Per exemple, els comptes de Google proporcionen accés al calendari, correu electrònic, contactes i xat. És possible que vulgueu utilitzar el vostre compte per a alguns serveis, però no d'altres. Per exemple, és possible que vulgueu utilitzar el vostre compte de Google per correu electrònic, però no per xatejar si teniu un compte en línia diferent que feu servir per xatejar.</p>
 <p class="p">Podeu desactivar algun dels serveis que es proporcionen a tots els comptes en línia:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu el resum de les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Comptes en línia</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Comptes en línia</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Comptes en línia</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Seleccioneu el compte que voleu canviar de la llista de la dreta.</p></li>
 <li class="steps"><p class="p">Una llista de serveis disponibles amb aquest compte es mostrarà a <span class="gui">Usa per</span>. Veure <span class="link"><a href="accounts-which-application.html.ca" title="Serveis i aplicacions en línia">Serveis i aplicacions en línia</a></span> per veure quines aplicacions poden accedir a quins serveis.</p></li>
 <li class="steps"><p class="p">Desactiveu qualsevol dels serveis que no vulgueu utilitzar.</p></li>

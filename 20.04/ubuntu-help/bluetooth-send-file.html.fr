@@ -84,14 +84,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="note note-important" title="Important">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">Send Files</span> does not work on unsupported devices such as iPhones.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">Envoi de fichiers</span> ne fonctionne pas sur les appareils non compatibles tels que les iPhones.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Bluetooth</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch in the titlebar should be
-      set to on.</p></li>
+<li class="steps"><p class="p">Assurez-vous que le Bluetooth est activé : l’interrupteur dans la barre de titre doit être basculé.</p></li>
 <li class="steps">
 <p class="p">Dans la liste des <span class="gui">Périphériques</span>, sélectionnez celui qui recevra les fichiers. S'il n'est pas affiché comme <span class="gui">Connecté</span> dans la liste, vous devez d'abord le <span class="link"><a href="bluetooth-connect-device.html.fr" title="Association d'un ordinateur à un périphérique Bluetooth">connecter</a></span>.</p>
 <p class="p">Un panneau spécifique au périphérique externe apparaît.</p>

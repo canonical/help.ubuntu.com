@@ -75,39 +75,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Kirjoita tiedostoja CD- tai DVD-levylle</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p"><span class="gui">CD/DVD-luonti</span> tiedostojenhallinnassa helpottaa tiedostojen siirtoa toisille tietokoneille tai <span class="link"><a href="backup-why.html.fi" title="Varmuuskopioi tärkeät tiedostosi">varmuuskopioiden luomista</a></span> kirjoittamalla tiedostot tyhjälle levylle. Tiedostojen kirjoittaminen CD- tai DVD-levylle tapahtuu seuraavasti:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Aseta tyhjä CD tai DVD sille tarkoitettuun kirjoittavaan asemaan.</p></li>
-<li class="steps">
-<p class="p">In the <span class="gui">Blank CD/DVD-R Disc</span> notification that pops up at the
-      bottom of the screen, select <span class="gui">Open with CD/DVD Creator</span>. The
-      <span class="gui">CD/DVD Creator</span> folder window will open.</p>
-<p class="p">(Voit myös klikata <span class="gui">Tyhjä CD/DVD-R Levy</span> <span class="gui">Laitteet</span>-otsakkeen alla tiedostonhallinnan sivupalkissa.)</p>
-</li>
-<li class="steps"><p class="p">Kirjoita levylle nimi <span class="gui">Levyn nimi</span> -kenttään.</p></li>
-<li class="steps"><p class="p">Vedä tai kopioi haluamasi tiedostot ikkunaan.</p></li>
-<li class="steps"><p class="p">Paina <span class="gui">Kirjoita levylle</span>.</p></li>
-<li class="steps">
-<p class="p">Kohdasta <span class="gui">Valitse levy jolle kirjoitetaan</span>, valitse tyhjä levy.</p>
-<p class="p">(Voit valita <span class="gui">Levykuvatiedosto</span> sen sijasta. Tämä luo koneellesi <span class="em">levykuvan</span>, johon tiedostot tallennetaan. Voit myöhemmin kirjoittaa levykuvan tyhjälle levylle.)</p>
-</li>
-<li class="steps"><p class="p">Napsauta <span class="gui">Ominaisuudet</span>, jos haluat säätää kirjoitusnopeutta, väliaikaisten tiedostojen sijaintia ja muita valintoja. Oletusasetusten pitäisi olla riittävät.</p></li>
-<li class="steps">
-<p class="p">Paina <span class="gui">Kirjoita</span> aloittaaksesi tallennuksen.</p>
-<p class="p">Jos <span class="gui">Kirjoita useita kopioita</span> on valittuna, sinulta pyydetään lisälevyjä.</p>
-</li>
-<li class="steps"><p class="p">Kun kirjoitusoperaatio on valmis, levy poistetaan automaattisesti asemasta. Valitse <span class="gui">Tee lisää kopioita</span> tai <span class="gui">Sulje</span> poistuaksesi.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Jos levyn kirjoitus ei onnistunut kunnolla</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Joskus levyjen kirjoitus ei onnistu ja et näe levyllä tiedostoja asettaessasi levyn asemaan.</p>
 <p class="p">In this case, try burning the disc again but use a lower burning speed,
   for example, 12x rather than 48x. Burning at slower speeds is more reliable.
-  You can choose the speed by clicking the <span class="gui">Properties</span> button in the
-  <span class="gui">CD/DVD Creator</span> window.</p>
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

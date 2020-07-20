@@ -77,22 +77,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p"><span class="em">GNOME Klasik</span> adalah fitur bagi pengguna yang lebih suka pengalaman desktop yang lebih tradisional. Walaupun <span class="em">GNOME Klasik</span> berbasis pada teknologi <span class="em">GNOME 3</span>, itu menawarkan sejumlah perubahan ke antar muka pengguna, seperti misalnya menu <span class="gui">Aplikasi</span> dan <span class="gui">Tempat</span> pada bilah puncak, dan daftar jendela di dasar layar.</p>
-<p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications. The <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span>
- overview is available by selecting the <span class="gui">Activities
- Overview</span> item from the menu.</p>
-<p class="p">To access the <span class="em"><span class="gui">Activities</span> overview</span>,
- you can also press the <span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span> key.</p>
+<p class="p">Anda dapat menggunakan menu <span class="gui">Aplikasi</span> pada bilah puncak untuk menjalankan aplikasi. Ikhtisar <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> tersedia dengan memilih butir <span class="gui">Ringkasan Aktivitas</span> dari menu.</p>
+<p class="p">Untuk mengakses ringkasan <span class="em"><span class="gui">Aktivitas</span></span>, Anda juga dapat menekan tombol <span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span>.</p>
 </div>
 <section id="gnome-classic-window-list"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Daftar jendela</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Daftar jendela di bagian dasar layar menyediakan akses ke semua jendela dan aplikasi Anda yang terbuka serta memungkinkan Anda dengan cepat meminimalkan dan memulihkan mereka.</p>
-<p class="p">At the right-hand side of the window list, GNOME displays a short
- identifier for the current workspace, such as <span class="gui">1</span> for the first
- (top) workspace. In addition, the identifier also displays the total number
- of available workspaces. To switch to a different workspace, you can click
- the identifier and select the workspace you want to use from the menu.</p>
+<p class="p">Di sisi kanan daftar jendela, GNOME menampilkan pengidentifikasi pendek untuk ruang kerja saat ini, seperti <span class="gui">1</span> untuk ruang kerja (atas) pertama. Selain itu, pengidentifikasi juga menampilkan jumlah total ruang kerja yang tersedia. Untuk beralih ke ruang kerja yang berbeda, Anda dapat mengklik pengidentifikasi dan memilih ruang kerja yang ingin Anda gunakan dari menu.</p>
 </div></div>
 </div></section><section id="gnome-classic-switch"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Bertukar ke dan dari GNOME Klasik</span></h2></div>
@@ -100,34 +92,28 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="note note-important" title="Penting">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">GNOME Classic is only available on systems with certain GNOME Shell extensions
- installed. Some Linux distributions may not have these extensions available or
- installed by default.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">GNOME Classic hanya tersedia pada sistem dengan ekstensi Shell GNOME tertentu yang terpasang. Beberapa distribusi Linux mungkin tidak memiliki ekstensi ini atau diinstal secara default.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To switch from <span class="em">GNOME</span> to <span class="em">GNOME Classic</span>:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Untuk beralih dari <span class="em">GNOME</span> ke <span class="em">GNOME Classic</span>:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then log out. Click the system menu on the right
-      side of the top bar, click your name and then choose the right option.</p></li>
+<li class="steps"><p class="p">Simpan pekerjaan yang terbuka, dan kemudian keluar. Klik menu sistem di sisi kanan bilah atas, klik nama Anda lalu pilih opsi yang tepat.</p></li>
 <li class="steps"><p class="p">Pesan konfirmasi akan muncul. Pilih <span class="gui">Log Keluar</span> untuk konfirmasi.</p></li>
-<li class="steps"><p class="p">At the login screen, select your name from the list.</p></li>
-<li class="steps"><p class="p">Enter your password in the password entry box.</p></li>
-<li class="steps"><p class="p">Click the options icon, which is displayed to the left of the <span class="gui">Sign
-      In</span> button, and select <span class="gui">GNOME Classic</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Sign In</span> button.</p></li>
+<li class="steps"><p class="p">Pada layar log masuk, pilih nama pengguna Anda dari daftar.</p></li>
+<li class="steps"><p class="p">Masukkan kata sandi Anda dalam kotak entri kata sandi.</p></li>
+<li class="steps"><p class="p">Klik ikon pilihan, yang ditampilkan di sebelah kiri tombol <span class="gui">Masuk</span> , dan pilih <span class="gui">GNOME Classic</span>.</p></li>
+<li class="steps"><p class="p">Klik tombol <span class="gui">Masuk</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To switch from <span class="em">GNOME Classic</span> to <span class="em">GNOME</span>:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Untuk beralih dari <span class="em">GNOME Classic</span> ke <span class="em">GNOME</span>:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then log out. Click the system menu on the right
-      side of the top bar, click your name and then choose the right option.</p></li>
+<li class="steps"><p class="p">Simpan pekerjaan yang terbuka, dan kemudian keluar. Klik menu sistem di sisi kanan bilah atas, klik nama Anda lalu pilih opsi yang tepat.</p></li>
 <li class="steps"><p class="p">Pesan konfirmasi akan muncul. Pilih <span class="gui">Log Keluar</span> untuk konfirmasi.</p></li>
-<li class="steps"><p class="p">At the login screen, select your name from the list.</p></li>
-<li class="steps"><p class="p">Enter your password in the password entry box.</p></li>
-<li class="steps"><p class="p">Click the options icon, which is displayed to the left of the <span class="gui">Sign
-      In</span> button, and select <span class="gui">GNOME</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Sign In</span> button.</p></li>
+<li class="steps"><p class="p">Pada layar log masuk, pilih nama pengguna Anda dari daftar.</p></li>
+<li class="steps"><p class="p">Masukkan kata sandi Anda dalam kotak entri kata sandi.</p></li>
+<li class="steps"><p class="p">Klik ikon pilihan, yang ditampilkan di sebelah kiri tombol <span class="gui">Masuk</span>, dan pilih <span class="gui">GNOME</span>.</p></li>
+<li class="steps"><p class="p">Klik tombol <span class="gui">Masuk</span>.</p></li>
 </ol></div>
 </div></div>
 </div></div>
@@ -136,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-overview.html.id" title="Desktop Anda">Desktop Anda</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">Kalendar</a></span>, <span class="link"><a href="shell-notifications.html.id" title="Notifications and the notification list">pemberitahuan</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">pintasan papan ketik</a></span>, <span class="link"><a href="shell-windows.html.id" title="Jendela dan area kerja">jendela dan ruang kerja</a></span>…</span>
+<a href="shell-overview.html.id" title="Desktop Anda">Desktop Anda</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">Kalendar</a></span>, <span class="link"><a href="shell-notifications.html.id" title="Notifikasi dan daftar notifikasi">pemberitahuan</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">pintasan papan ketik</a></span>, <span class="link"><a href="shell-windows.html.id" title="Jendela dan area kerja">jendela dan ruang kerja</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

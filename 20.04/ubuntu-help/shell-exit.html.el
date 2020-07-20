@@ -96,12 +96,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
-  applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html.el" title="The lock screen">lock screen</a></span> curtain and enter your
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.el" title="The lock screen">lock screen</a></span>. Enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
-<p class="p">Για να κλειδώσετε την οθόνη σας, κάντε κλικ στο μενού συστήματος στα δεξιά της πάνω γραμμής και πατήστε το κουμπί κλείδωμα οθόνης στο κάτω μέρος του μενού.</p>
-<p class="p">Όταν η οθόνη σας κλειδώσει, άλλοι χρήστες μπορούν να συνδεθούν στους δικούς τους λογαριασμούς κάνοντας κλικ στο <span class="gui">Σύνδεση ως άλλος χρήστης</span> στην οθόνη του κωδικού πρόσβασης. Μπορείτε να επιστρέψετε στην επιφάνεια εργασίας σας όταν τελειώσετε.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -123,14 +126,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">To save power, suspend your computer when you are not using it. If you use
-  a laptop, GNOME, by default, suspends your computer automatically when you
-  close the lid.
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
   This saves your state to your computer’s memory and powers off most of the
   computer’s functions. A very small amount of power is still used during
   suspend.</p>
 <p class="p">To suspend your computer manually, click the system menu on the right side
-  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
-  click the power off button, or simply long-click the power off button.</p>
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -154,7 +157,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Τερματισμός και επανεκκίνηση</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Εάν θέλετε να τερματίσετε πλήρως τον υπολογιστή σας, ή να κάνετε μια πλήρη επανεκκίνηση, κάντε κλικ στο μενού συστήματος στα δεξιά της πάνω γραμμής και πατήστε το κουμπί τερματισμού στο κάτω μέρος του μενού. Ένας διάλογος θα ανοίξει προσφέροντας σας τις επιλογές <span class="gui">Επανεκκίνηση</span> ή <span class="gui">Τερματισμός</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Εάν υπάρχουν άλλοι συνδεδεμένοι χρήστες, μπορεί να μην επιτραπεί ο τερματισμός ή η επανεκκίνηση του υπολογιστή, επειδή αυτό θα τερματίσει τις συνεδρίες τους. Εάν είσαστε διαχειριστής, μπορεί να σας ζητηθεί ο κωδικός πρόσβασής σας για τον τερματισμό.</p>
 <div class="note note-tip" title="Συμβουλή">
 <svg width="24" height="24" version="1.1">

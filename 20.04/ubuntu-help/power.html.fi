@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.fi" title="Miksi tietokoneeni sammuu, kun suljen kannen?"><span class="title">Miksi tietokoneeni sammuu, kun suljen kannen?</span><span class="linkdiv-dash"> — </span><span class="desc">Kannettavat siirtyvät valmiustilaan sulkiessasi kannen virran säästämiseksi.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.fi" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?"><span class="title">Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?</span><span class="linkdiv-dash"> — </span><span class="desc">Valmiustila asettaa tietokoneen virtaa säästävään tilaan.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.fi" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wifi ja mobiililaajakaista voidaan sammuttaa akun varauksen säästämiseksi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.fi" title="Sammuta käytössä tarpeettomat teknologiat"><span class="title">Sammuta käytössä tarpeettomat teknologiat</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wifi ja mobiililaajakaista voidaan sammuttaa akun varauksen säästämiseksi.</span></a></div>
 </div>
 </div></div></div></div></div>
 <section id="saving"><div class="inner">

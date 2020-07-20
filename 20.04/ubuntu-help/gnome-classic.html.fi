@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
  installed by default.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To switch from <span class="em">GNOME</span> to <span class="em">GNOME Classic</span>:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Vaihda <span class="em">Gnomesta</span> <span class="em">perinteiseen Gnomeen</span>:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Save any open work, and then log out. Click the system menu on the right
       side of the top bar, click your name and then choose the right option.</p></li>
@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To switch from <span class="em">GNOME Classic</span> to <span class="em">GNOME</span>:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Vaihda<span class="em">perinteisestä Gnomesta</span> <span class="em">Gnomeen</span>:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Save any open work, and then log out. Click the system menu on the right
       side of the top bar, click your name and then choose the right option.</p></li>

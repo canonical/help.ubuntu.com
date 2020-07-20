@@ -70,26 +70,15 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Properti berkas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">To view information about a file or folder, right-click it and select
-  <span class="gui">Properties</span>. You can also select the file and press
-  <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span>.</p>
-<p class="p">The file properties window shows you information like the type of file,
-  the size of the file, and when you last modified it. If you need this
-  information often, you
-  can have it displayed in <span class="link"><a href="nautilus-list.html.id" title="Files list columns preferences">list view columns</a></span>
-  or <span class="link"><a href="nautilus-display.html.id#icon-captions" title="Kapsi ikon">icon captions</a></span>.</p>
-<p class="p">The information given on the <span class="gui">Basic</span> tab is explained below.
-  There are also
-  <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">Permissions</a></span></span>
-  and <span class="gui"><span class="link"><a href="files-open.html.id#default" title="Ubah aplikasi baku">Open With</a></span></span> tabs. For
-  certain types of files, such as images and videos, there will be an extra tab
-  that provides information like the dimensions, duration, and codec.</p>
+<p class="p">Untuk melihat informasi tentang berkas atau folder, klik kanan dan pilih <span class="gui">Properti</span>. Anda juga dapat memilih berkas dan menekan <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Enter</kbd></span></span>.</p>
+<p class="p">Jendela properti berkas menunjukkan informasi seperti jenis berkas, ukuran berkas, dan ketika Anda terakhir mengubahnya. Jika Anda sering memerlukan informasi ini, Anda dapat membuatnya ditampilkan dalam <span class="link"><a href="nautilus-list.html.id" title="Preferensi kolom daftar berkas">kolom tampilan daftar</a></span> atau <span class="link"><a href="nautilus-display.html.id#icon-captions" title="Kapsi ikon">keterangan ikon</a></span>.</p>
+<p class="p">Informasi yang diberikan pada tab <span class="gui">Dasar</span> dijelaskan di bawah ini. Ada juga tab <span class="gui"><span class="link"><a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">Izin</a></span></span> dan <span class="gui"><span class="link"><a href="files-open.html.id#default" title="Mengubah aplikasi baku">Buka Dengan</a></span></span>. Untuk jenis berkas tertentu, seperti gambar dan video, akan ada tab tambahan yang memberikan informasi seperti dimensi, durasi, dan kodek.</p>
 </div>
 <section id="basic"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Properti dasar</span></h2></div>
@@ -98,47 +87,36 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd class="terms"><p class="p">Anda dapat mengubah nama berkas dengan mengubah ruas ini. Anda juga dapat mengubah nama berkas di luar jendela properti. Lihat <span class="link"><a href="files-rename.html.id" title="Mengubah nama berkas atau folder">Mengubah nama berkas atau folder</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Tipe</span></dt>
 <dd class="terms">
-<p class="p">This helps you identify the type of the file, such as PDF document,
-    OpenDocument Text, or JPEG image. The file type determines which
-    applications can open the file, among other things. For example, you
-    can’t open a picture with a music player. See <span class="link"><a href="files-open.html.id" title="Buka berkas dengan aplikasi lain">Buka berkas dengan aplikasi lain</a></span>
-    for more information on this.</p>
+<p class="p">Ini membantu Anda mengidentifikasi tipe berkas, seperti misalnya dokumen PDF, teks OpenDocument, atau gambar JPEG. Tipe berkas menentukan antara lain aplikasi mana yang dapat membuka berkas. Sebagai contoh, Anda tak dapat membuka suatu gambar dengan pemutar musik. Lihat <span class="link"><a href="files-open.html.id" title="Buka berkas dengan aplikasi lain">Buka berkas dengan aplikasi lain</a></span> untuk lebih banyak informasi tentang ini.</p>
 <p class="p"><span class="em">Tipe MIME</span> dari berkas ditunjukkan dalam kurung; tipe MIME adalah cara standar yang dipakai komputer untuk mengacu ke tipe berkas.</p>
 </dd>
 <dt class="terms">Isi</dt>
-<dd class="terms"><p class="p">This field is displayed if you are looking at the properties of a folder rather than a file. It helps you see the number of items in the folder.  If the folder includes other folders, each inner folder is counted as one item, even if it contains further items. Each file is also counted as one item. If the folder is empty, the contents will display <span class="gui">nothing</span>.</p></dd>
+<dd class="terms"><p class="p">Bidang ini ditampilkan jika Anda melihat properti dari sebuah folder daripada berkas. Ini membantu Anda melihat jumlah item dalam folder. Jika folder memuat folder lain, setiap folder di dalam dihitung sebagai satu item, bahkan jika itu berisi item lebih lanjut. Setiap berkas juga dihitung sebagai satu item. Jika folder kosong, isinya akan menampilkan <span class="gui">kosong</span>.</p></dd>
 <dt class="terms">Ukuran</dt>
 <dd class="terms">
-<p class="p">This field is displayed if you are looking at a file (not a folder). The size of a file tells you how much disk space it takes up. This is also an indicator of how long it will take to download a file or send it in an email (big files take longer to send/receive).</p>
-<p class="p">Sizes may be given in bytes, KB, MB, or GB; in the case of the last three, the size in bytes will also be given in parentheses. Technically, 1 KB is 1024 bytes, 1 MB is 1024 KB and so on.</p>
+<p class="p">Bidang ini ditampilkan jika Anda melihat berkas (bukan folder). Ukuran berkas memberitahu Anda berapa banyak ruang disk yang dibutuhkan. Ini juga merupakan indikator berapa lama waktu yang dibutuhkan untuk mengunduh berkas atau mengirimkannya dalam surel (berkas besar memakan waktu lebih lama untuk mengirim/menerima).</p>
+<p class="p">Ukuran dapat diberikan dalam byte, KB, MB, atau GB; dalam kasus tiga terakhir, ukuran dalam byte juga akan diberikan dalam tanda kurung. Secara teknis, 1 KB adalah 1024 byte, 1 MB adalah 1024 KB dan seterusnya.</p>
 </dd>
-<dt class="terms">Parent Folder</dt>
-<dd class="terms"><p class="p">The location of each file on your computer is given by its <span class="em">absolute
-    path</span>. This is a unique “address” of the file on your computer, made up
-    of a list of the folders that you would need to go into to find the file.
-    For example, if Jim had a file called <span class="file">Resume.pdf</span> in his Home
-    folder, its parent folder would be <span class="file">/home/jim</span> and its location
-    would be <span class="file">/home/jim/Resume.pdf</span>.</p></dd>
+<dt class="terms">Folder Induk</dt>
+<dd class="terms"><p class="p">Lokasi setiap berkas di komputer Anda diberikan oleh <span class="em">path absolut</span>. Ini adalah "alamat" unik berkas pada komputer Anda, yang terdiri dari daftar folder yang perlu Anda lewati ke untuk menemukan berkas. Misalnya, jika Jim memiliki berkas bernama <span class="file">Resume.pdf</span> di folder Rumahnya, folder induknya akan menjadi <span class="file">/home/jim</span> dan lokasinya akan menjadi <span class="file">/home/jim/Resume.pdf</span>.</p></dd>
 <dt class="terms">Ruang Bebas</dt>
-<dd class="terms"><p class="p">This is only displayed for folders. It gives the amount of disk space
-    which is available on the disk that the folder is on. This is useful for
-    checking if the hard disk is full.</p></dd>
+<dd class="terms"><p class="p">Ini hanya ditampilkan untuk folder. Ini memberikan banyaknya ruang disk yang tersedia pada disk tempat folder tersebut. Hal ini berguna untuk memeriksa apakah hard disk penuh.</p></dd>
 <dt class="terms">Diakses</dt>
 <dd class="terms"><p class="p">Tanggal dan waktu kapan berkas terakhir dibuka.</p></dd>
 <dt class="terms">Diubah</dt>
-<dd class="terms"><p class="p">The date and time when the file was last changed and saved.</p></dd>
+<dd class="terms"><p class="p">Tanggal dan waktu kapan berkas terakhir berubah dan disimpan.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">Menata izin berkas</a><span class="desc"> — Control who can view and edit your files and folders.</span>
+<a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">Menata izin berkas</a><span class="desc"> — Mengedalikan siapa yang dapat melihat dan menyunting berkas dan folder Anda.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -111,9 +111,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">If you are working on something and do not want to be bothered, you can
   switch off notifications.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Notifications</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Notification Popups</span> to off.</p></li>
 </ol></div></div></div>
@@ -133,9 +132,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">To switch off notifications when your screen is locked:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Notifications</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Lock Screen Notifications</span> to off.</p></li>
 </ol></div>

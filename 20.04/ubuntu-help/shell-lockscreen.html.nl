@@ -71,22 +71,30 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#desktop" title="Uw bureaublad aanpassen">Uw bureaublad aanpassen</a> » <a class="trail" href="shell-notifications.html.nl" title="Notifications and the notification list">Notifications and the notification list</a> › <a class="trail" href="shell-notifications.html.nl#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#desktop" title="Uw bureaublad aanpassen">Uw bureaublad aanpassen</a> » <a class="trail" href="shell-notifications.html.nl" title="Notifications and the notification list">Notifications and the notification list</a> › <a class="trail" href="shell-notifications.html.nl#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">The lock screen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Het vergrendelingsscherm betekent dat u kunt zien wat er gebeurt terwijl uw computer vergrendeld is, en u kunt een samenvatting krijgen van wat er gebeurd is terwijl u afwezig was. Het vergrendelingsschermgordijn laat een fraaie afbeelding op het scherm zien wanneer uw computer vergrendeld is en geeft nuttige informatie:</p>
+<p class="p">The lock screen means that you can see what is happening while your
+  computer is locked, and it allows you to get a summary of what has been
+  happening while you have been away. The lock screen provides
+  useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">de naam van de aangemelde gebruiker</p></li>
 <li class="list"><p class="p">datum en tijd, en bepaalde meldingen</p></li>
 <li class="list"><p class="p">Batterij- en netwerkstatus</p></li>
 </ul></div></div></div>
-<p class="p">U kunt de computer ontgrendelen door het vergrendelde scherm gordijn met de cursor omhoog te halen, of door <span class="key"><kbd>Esc</kbd></span> of <span class="key"><kbd>Enter</kbd></span> in te drukken. Dit brengt het aanmeldscherm naar voren, waar u uw wachtwoord in kunt voeren om te ontgrendelen. U kunt ook beginnen met het intypen van uw wachtwoord waardoor het gordijn automatisch omhoog zal worden gehaald. U kunt ook van gebruiker wisselen als er meer gebruikers op de computer zijningesteld.</p>
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+  This will reveal the login screen, where you can enter your password to
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">To hide notifications from the lock screen, see
   <span class="link"><a href="shell-notifications.html.nl#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a></span>.</p>
 </div>

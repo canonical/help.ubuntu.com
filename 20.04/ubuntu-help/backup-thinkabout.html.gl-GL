@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Ficheiros ocultos</p>
-<p class="p">De forma predeterminada ocúltase calquera cartafol ou ficheiro que comece por punto (.). Para ver ficheiros ocultos, prema o botón <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Opcións de visualización"></span></span></span> ou prema <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Pode copialos a unha localización de respaldo como calquera outro tipo de ficheiro.</p>
+<p class="p">De forma predeterminada ocúltase calquera cartafol ou ficheiro que comece por punto (.). Para ver ficheiros ocultos, prema o botón <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Opcións de visualización"></span></span></span> ou prema <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Pode copialos a unha localización de respaldo como calquera outro tipo de ficheiro.</p>
 </li>
 <li class="list">
 <p class="p">Preferencias persoais (preferencias de escritorio, temas e preferencias das aplicacións)</p>

@@ -76,7 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Paramétrage du partage</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Le <span class="em">paramétrage du partage</span> dans GNOME permet de contrôler ce qui est partagé sur un réseau local, ou à travers d'autres techniques comme <span class="em">Bluetooth</span>.</p>
+<p class="p">The <span class="em">Sharing Settings</span> help you control what is shared over the
+  local network, or through other technologies such as <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.fr" title="Choix d'un nom public pour votre ordinateur"><span class="title">Choix d'un nom public pour votre ordinateur</span><span class="linkdiv-dash"> — </span><span class="desc">Contrôler la manière dont votre ordinateur se présente aux autres machines et périphériques.</span></a></div>

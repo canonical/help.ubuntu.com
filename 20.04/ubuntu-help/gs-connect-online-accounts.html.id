@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html.id" title="Mulai Memakai">Getting started with GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html.id" title="Mulai Memakai">Mulai memakai GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <nav class="prevnext pagewide"><div class="inner">
@@ -81,14 +81,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klik <span class="gui"><a href="shell-introduction.html.id#yourname" title="shell-introduction#yourname">menu sistem</a></span> pada sisi kanan bilah puncak.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa2.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3"><li class="steps">
-<p class="p">Click the <span class="gui">Online Accounts</span> panel, then click the online
-      account service you want to use.</p>
-<p class="p">This will open a new window where you can sign in to your online
-      account.</p>
+<p class="p">Klik panel <span class="gui">Akun Daring</span>, lalu klik layanan akun daring yang ingin Anda pakai.</p>
+<p class="p">Ini akan membuka suatu jendela baru dimana Anda dapat masuk ke akun daring Anda.</p>
 </li></ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-goa4.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="4">
@@ -106,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.id" title="Mulai Memakai">Getting started with GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
+<a href="getting-started.html.id" title="Mulai Memakai">Mulai memakai GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

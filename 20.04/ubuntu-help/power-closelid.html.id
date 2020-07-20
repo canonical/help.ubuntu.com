@@ -80,55 +80,37 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mengapa komputer saya mati ketika saya menutup lid?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">When you close the lid of your laptop, your computer will
-  <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?"><span class="em">suspend</span></a></span> in order to save power.
-  This means that the computer is not actually turned off — it has just gone to
-  sleep. You can resume it by opening the lid. If it does not resume, try
-  clicking the mouse or pressing a key. If that still does not work, press the
-  power button.</p>
-<p class="p">Some computers are unable to suspend properly, normally because their
-  hardware is not completely supported by the operating system (for example,
-  the Linux drivers are incomplete). In this case, you may find that you are
-  unable to resume your computer after you have closed the lid. You can try to
-  <span class="link"><a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">fix the problem with suspend</a></span>, or you
-  can prevent the computer from trying to suspend when you close the lid.</p>
+<p class="p">Ketika Anda menutup lid laptop Anda, komputer Anda akan <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?"><span class="em">disuspensi</span></a></span> untuk menghemat daya. Ini berarti bahwa komputer sebenarnya tidak dimatikan - itu hanya tidur. Anda dapat melanjutkan dengan membuka tutup. Jika tidak berlanjut, coba klik tetikus atau tekan tombol. Jika itu masih tidak berhasil, tekan tombol power.</p>
+<p class="p">Beberapa komputer tidak dapat disuspensi dengan benar, biasanya karena perangkat keras mereka tidak sepenuhnya didukung oleh sistem operasi (misalnya, pengandar Linux tidak lengkap). Dalam hal ini, Anda mungkin menemukan bahwa Anda tidak dapat melanjutkan kerja komputer setelah Anda menutup lid. Anda dapat mencoba untuk <span class="link"><a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">memperbaiki masalah suspensi</a></span>, atau Anda dapat mencegah komputer mencoba suspensi ketika Anda menutup lid.</p>
 </div>
 <section id="nosuspend"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Stop the computer from suspending when the lid is closed</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Mengentikan komputer dari suspensi ketika lid ditutup</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="note note-important" title="Penting">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">These instructions will only work if you are using <span class="app">systemd</span>.
-    Contact your distribution for more information.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Petunjuk ini hanya akan bekerja jika Anda menggunakan <span class="app">systemd</span>. Hubungi distribusi Anda untuk informasi lebih lanjut.</p></div></div></div>
 </div>
 <div class="note note-important" title="Penting">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-    change this setting.</p>
-<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
-      <span class="app">Tweaks</span></a></span></p>
+<p class="p">Anda harus measang <span class="app">Tweaks</span> pada komputer Anda untuk mengubah pengaturan ini.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Pasang <span class="app">Alat Oprek</span></a></span></p>
 </div></div></div>
 </div>
-<p class="p">If you do not want the computer to suspend when you close the lid, you can
-  change the setting for that behavior.</p>
+<p class="p">Jika Anda tidak ingin komputer untuk suspensi ketika Anda menutup lid, Anda dapat mengubah pengaturan untuk perilaku tersebut.</p>
 <div class="note note-warning" title="Peringatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Be very careful if you change this setting. Some laptops can overheat
-    if they are left running with the lid closed, especially if they are in
-    a confined place like a backpack.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Berhati-hatilah jika Anda mengubah pengaturan ini. Beberapa laptop dapat terlalu panas jika mereka dibiarkan berjalan dengan lid tertutup, terutama jika mereka berada di tempat tertutup seperti ransel.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span>
-      overview and start typing <span class="gui">Tweaks</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">General</span> tab.</p></li>
-<li class="steps"><p class="p">Switch the <span class="gui">Suspend when laptop lid is closed</span> switch to
-      off.</p></li>
-<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Tweaks</span> untuk membuka aplikasi.</p></li>
+<li class="steps"><p class="p">Pilih tab <span class="gui">Umum</span>.</p></li>
+<li class="steps"><p class="p">Matikan <span class="gui">Suspensi ketika lid laptop ditutup</span>.</p></li>
+<li class="steps"><p class="p">Tutup jendela <span class="gui">Tweaks</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
@@ -137,11 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
-    </span>
+<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Status baterai</a></span>, <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspensi</a></span>, <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">peredupan layar</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -151,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">Apa yang terjadi ketika saya mensuspensi komputer?</a><span class="desc"> — Suspensi mengatur komputer Anda agar tidur sehingga memakai lebih sedikit daya.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Beberapa perangkat keras komputer menyebabkan masalah dengan suspensi.</span>
 </li>
 </ul></div>
 </div></div>

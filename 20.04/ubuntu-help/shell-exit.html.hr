@@ -92,9 +92,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Zaključavanje zaslona</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Ako napuštate svoje računalo samo nakratko, trebali biste zaključati svoj zaslon kako bi spriječili druge osobe u pristupu vašim datotekama i pokrenutim aplikacijama. Kada se vratite, podignite zastor <span class="link"><a href="shell-lockscreen.html.hr" title="Zaključavanje zaslona">zaslona zaključavanja</a></span> i upišite svoju lozinku za ponovnu prijavu. Ako niste zaključali svoj zaslon, zaključati će se nakon određenog vremena.</p>
-<p class="p">Kako bi zaključali svoj zaslon, kliknite na izbornik sustava desno u gornjoj traci i pritisnite tipku zaključavanja zaslona na dnu izbornika.</p>
-<p class="p">Kada je vaš zaslon zaključan, drugi korisnici se mogu prijaviti u svoje račune klikom na <span class="gui">Prijavi se kao drugi korisnik</span> na zaslonu lozinke. Možete se vratiti natrag u svoju radnu površinu kada drugi korisnik prestane s radom.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.hr" title="Zaključavanje zaslona">lock screen</a></span>. Enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -117,8 +125,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Suspenzija</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Kako bi štedjeli energiju, suspendirajte svoje računalo kada ga ne koristite. Ako koristite prijenosno računalo, GNOME po zadanome, automatski suspendira vaše računalo kada spustite poklopac zaslona. To sprema stanje vašeg računala u memoriju i isključuje većinu funkcija računala. Vrlo mala količina energije se koristi tijekom suspenzije.</p>
-<p class="p">Kako bi suspendirali svoje računalo ručno, kliknite na izbornik sustava desno u gornjoj traci. Iz izbornika možete ili držati pritisnutu <span class="key"><kbd>Alt</kbd></span> tipku i kliknuti na tipku isključivanja, ili jednostavno dulje kliknuti na tipku isključivanja.</p>
+<p class="p">To save power, suspend your computer when you are not using it. If you use
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
+  suspend.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -142,7 +157,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Isključivanje ili ponovno pokretanje</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Ako želite u potpunosti isključiti svoje računalo ili ga ponovno pokrenuti, kliknite na izbornik sustava desno u gornjoj traci i pritisnite tipku isključivanja na dnu izbornika. Otvoriti će se dijalog koji vam nudi mogućnosti <span class="gui">Ponovnog pokretanja</span> ili <span class="gui">Isključivanja</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Ako postoje drugi prijavljeni korisnici, možda vam neće biti dopušteno isključivanje ili ponovno pokretanje računala zato jer bi se tada završile njihove prijave. Ako ste administrativni korisnik, možda ćete biti upitani za upis lozinke kako bi isključili računalo.</p>
 <div class="note note-tip" title="Savjet">
 <svg width="24" height="24" version="1.1">

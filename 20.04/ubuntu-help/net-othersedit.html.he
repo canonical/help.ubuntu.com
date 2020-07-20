@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.he" title="Network problems">Network problems</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.he" title="Network problems">Network problems</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Other users can’t edit the network connections</span></h1></div>
@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Wi-Fi</span> from the list on the left.</p></li>
 <li class="steps"><p class="p">Click the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to open the connection
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span> button to open the connection
       details.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Identity</span> from the pane on the left.</p></li>
 <li class="steps"><p class="p">At the bottom of the <span class="gui">Identity</span> panel, check the <span class="gui">Make

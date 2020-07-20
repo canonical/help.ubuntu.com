@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Γενική πρόσβαση</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Η επιφάνεια εργασίας GNOME περιλαμβάνει τεχνολογίες υποβοήθησης για υποστήριξη χρηστών με ποικίλα μειονεκτήματα και ειδικές ανάγκες και αλληλεπιδρά με κοινές συσκευές υποβοήθησης. Ένα μενού προσιτότητας μπορεί να προστεθεί στην πάνω γραμμή, δίνοντας ευκολότερη πρόσβαση σε πολλές λειτουργίες προσιτότητας.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.el" title="Βρείτε το μενού γενικής πρόσβασης"><span class="title">Βρείτε το μενού γενικής πρόσβασης</span><span class="linkdiv-dash"> — </span><span class="desc">Το μενού γενικής πρόσβασης είναι το εικονίδιο στην πάνω γραμμή που φαίνεται σαν ανθρωπάκι.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">

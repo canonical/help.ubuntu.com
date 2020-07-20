@@ -75,29 +75,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">ఫైళ్ళను CD లేదా DVD కు వ్రాయుము</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p"><span class="gui">CD/DVD సృష్టించునది</span> ఉపయోగించి మీరు ఫైళ్ళను ఖాళీ డిస్కుపైన ఉంచవచ్చు. మీరు మీ CD ను మీ CD/DVD వ్రైటర్ నందు ఉంచగానే ఫైల్ నిర్వాహిక నందు CD లేదా DVD సృష్టించు ఐచ్చికం కనిపించును. మీరు ఫైళ్ళను ఇతర కంప్యూటర్లకు బదిలీ చేయుటకు లేదా ఖాళీ డిస్కుపైన వుంచి <span class="link"><a href="backup-why.html.te" title="మీ ముఖ్యమైన ఫైళ్ళను బ్యాకప్ తీయి">బ్యాకప్లు</a></span> తీయుటకు ఫైల్ నిర్వాహిక ఉంది.</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">CD/DVD వ్రాయగల మీ డ్రైవు నందు ఖాళీ డిస్కు వుంచండి.</p></li>
-<li class="steps">
-<p class="p">తెర కింద వచ్చే <span class="gui">ఖాళీ CD/DVD-R Disc</span> ప్రకటన నందు, <span class="gui">CD/DVD సృష్టించు దానితో తెరువు</span> ఎంపికచేయి. <span class="gui">CD/DVD సృష్టించునది</span> సంచయ విండో తెరువబడును.</p>
-<p class="p">(ఫైల్ నిర్వాహిక పక్కపట్టీ నందలి <span class="gui">పరికరాలు</span> కిందని <span class="gui">ఖాళీ CD/DVD-R Disc</span> పై కూడా నొక్కవచ్చు.)</p>
-</li>
-<li class="steps"><p class="p">డిస్కు కొరకు పేరును, <span class="gui">డిస్కు పేరు</span> క్షేత్రము నందు టైపు చేయి.</p></li>
-<li class="steps"><p class="p">కావలసిన ఫైళ్ళను విండోనకు లాగు లేదా నకలుతీయి.</p></li>
-<li class="steps"><p class="p"><span class="gui">డిస్కుకు వ్రాయి</span> నొక్కుము.</p></li>
-<li class="steps">
-<p class="p"><span class="gui">వ్రాయుటకు ఒక డిస్కు ఎంపికచేయి</span> అనుదాని కింద, ఖాళీ డిస్కు ఎంచుము.</p>
-<p class="p">(మీరు బదులుగా <span class="gui">చిత్ర ఫైలు</span> ఉపయోగించవచ్చు. ఇది ఫైళ్ళను <span class="em">డిస్కు చిత్రం</span> నందు వుంచును, అవి మీ కంప్యూటర్ నందు దాయబడును. తరువాత మీరు ఆ డిస్కు చిత్రాన్ని ఖాళీ డిస్కుకు వ్రాయవచ్చు.)</p>
-</li>
-<li class="steps"><p class="p">బర్నింగ్ వేగాన్ని, తాత్కాలిక ఫైళ్ళ స్థానమును, మరియు ఇతర ఐచ్చికాలను సర్దుబాటు చేయుటకు <span class="gui">లక్షణాలు</span> నొక్కండి. అప్రమేయ ఐచ్చికాలు సరిపోతాయి.</p></li>
-<li class="steps">
-<p class="p">రికార్డు చేయుటకు <span class="gui">బర్న్</span> బటన్ నొక్కండి.</p>
-<p class="p"><span class="gui">చాలా నకళ్ళు బర్న్ చేయి</span> ఎంపికైతే, మీరు అదనపు డిస్కుల కొరకు అడుగబడతారు.</p>
-</li>
-<li class="steps"><p class="p">డిస్క్ బర్నింగ్ పూర్తవగానే, అది స్వయంచాలకంగా బయటకు నెట్టబడును. <span class="gui">మరిన్ని నకళ్ళు చేయి</span> ఎంచుకొనుము లేదా నిష్క్రమించుటకు <span class="gui">మూయి</span> ఎంచుకొనుము.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -106,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
   computer.</p>
 <p class="p">In this case, try burning the disc again but use a lower burning speed,
   for example, 12x rather than 48x. Burning at slower speeds is more reliable.
-  You can choose the speed by clicking the <span class="gui">Properties</span> button in the
-  <span class="gui">CD/DVD Creator</span> window.</p>
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

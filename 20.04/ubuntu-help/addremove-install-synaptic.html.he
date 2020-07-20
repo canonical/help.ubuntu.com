@@ -2,9 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Use Synaptic for more advanced software management
-  </title>
+<title>ב־Synaptic מוטב להשתמש לניהול מתקדם יותר של תכנה</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -72,58 +70,27 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.he" title="Install &amp; remove software">Add/remove software</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="addremove.html.he" title="התקנה והסרה של תכנה">הוספה/הסרה של תכנה</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">
-    Use Synaptic for more advanced software management
-  </span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">ב־Synaptic מוטב להשתמש לניהול מתקדם יותר של תכנה</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    <span class="app">Synaptic Package Manager</span> is more powerful and can do some 
-    software management tasks which <span class="app">Ubuntu Software</span> can't. 
-    Synaptic's interface is more complicated and doesn't support newer
-    <span class="app">Ubuntu Software</span> features like ratings and reviews and therefore
-    isn't recommended for use by those new to Ubuntu.
-  </p>
-<p class="p">
-    Synaptic isn't installed by default, but you can <span class="link"><a href="apt:synaptic" title="apt:synaptic">install</a></span> it from the Ubuntu package archive.
-  </p>
+<p class="p"><span class="app">מנהל החבילות Synaptic</span> הוא עצמתי יותר ומסוגל לבצע משימות ניהוליות ש<span class="app">התכנה של אובונטו</span> לא יכולה. המנשק של Synaptic הוא מורכב יותר ואינו תומך בתכונות חדשות יותר של <span class="app">התכנה של אובונטו</span> כגון דירוגים וביקורות ולכן אינו מומלץ לשימוש למשתמשים חדשים באובונטו.</p>
+<p class="p">מנהל החבילות Synaptic אינו מותקן כבררת מחדל אך ניתן <span class="link"><a href="apt:synaptic" title="apt:synaptic">להתקין</a></span> אותו מארכיון החבילות של אובונטו.</p>
 </div>
 <section id="install-software-with-synaptic"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">
-      Install software with Synaptic
-    </span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">התקנת תכניות עם Synaptic</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
-          will need to enter your password in the <span class="gui">Authenticate</span> window.
-        </p></li>
-<li class="steps"><p class="p">
-          Click <span class="gui">Search</span> to search for an application, or click 
-          <span class="gui">Sections</span> and look through the categories to find one.
-        </p></li>
-<li class="steps"><p class="p">
-          Right-click the application that you want to install and select 
-          <span class="gui">Mark for Installation</span>.
-        </p></li>
-<li class="steps"><p class="p">
-          If you are asked to mark additional changes, click <span class="gui">Mark</span>.
-        </p></li>
-<li class="steps"><p class="p">
-          Select any other applications that you would like to install.
-        </p></li>
-<li class="steps"><p class="p">
-          Click <span class="gui">Apply</span>, and then click <span class="gui">Apply</span> in the window 
-          that appears. The applications that you chose will be downloaded and 
-          installed.
-        </p></li>
+<li class="steps"><p class="p">לפתוח את <span class="app">Synaptic</span> דרך סרגל החיפוש <span class="em">פעילויות</span>. יהיה עליך להקליד את הססמה שלך בחלון <span class="gui">הזדהות</span>.</p></li>
+<li class="steps"><p class="p">ללחוץ על <span class="gui">חיפוש</span> כדי לחפש יישום, או ללחוץ על <span class="gui">סעיפים</span> ולחפש בין הקטגוריות כדי למצוא אחד.</p></li>
+<li class="steps"><p class="p">ללחוץ במקש ימני על היישום שברצונך להתקין ולבחור ב<span class="gui">סימון להתקנה</span>.</p></li>
+<li class="steps"><p class="p">אם נדרשת לסמן שינויים נוספים, יש ללחוץ על <span class="gui">סימון</span>.</p></li>
+<li class="steps"><p class="p">לבחור יישומים אחרים שברצונך להתקין.</p></li>
+<li class="steps"><p class="p">ללחוץ על <span class="gui">החלה</span>, ואז ללחוץ על <span class="gui">החלה</span> בחלון שמופיע. היישומים שבחרת יתקבלו ויותקנו.</p></li>
 </ol></div></div></div>
-<p class="p">
-      For more information about using <span class="app">Synaptic</span>, consult the <span class="link"><a href="https://help.ubuntu.com/community/SynapticHowto" title="https://help.ubuntu.com/community/SynapticHowto">Synaptic How To</a></span>.
-    </p>
+<p class="p">למידע נוסף על השימוש ב־<span class="app">Synaptic</span>, יש להיוועץ ב<span class="link"><a href="https://help.ubuntu.com/community/SynapticHowto" title="https://help.ubuntu.com/community/SynapticHowto">מדריך השימוש ב־Synaptic</a></span>.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -131,22 +98,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.he" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.he" title="Remove an application">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.he" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.he" title="התקנה והסרה של תכנה">התקנה והסרה של תכנה</a><span class="desc"> — <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">התקנת יישומים</a></span>, <span class="link"><a href="addremove-remove.html.he" title="הסרת יישום">הסרת יישומים</a></span>, <span class="link"><a href="addremove-sources.html.he" title="הוספת מאגרי תכנה">הוספת מאגרים</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">עיון נוסף</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-remove.html.he" title="Remove an application">
-    Remove an application
-  </a><span class="desc"> — 
-      Remove applications that you no longer use.
-    </span>
+<a href="addremove-remove.html.he" title="הסרת יישום">הסרת יישום</a><span class="desc"> — הסרת יישומים שאין לך עוד צורך בהם.</span>
 </li>
 <li class="links ">
 <a href="addremove-install.html.he" title="התקנת יישומים נוספים">התקנת יישומים נוספים</a><span class="desc"> — יש להשתמש ב<span class="app">תכנה של אובונטו</span> כדי להתקין יישומים נוספים ולהפוך את מערכת אובונטו לשימושית יותר.</span>

@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Uw IP-adres achterhalen</span></h1></div>
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Kies de verbinding, <span class="gui">Wifi</span> of <span class="gui">Bekabeld</span>, in het linkerpaneel.</p>
 <p class="p">Het IP-adres voor een bekabelde verbinding zal rechts getoond worden.</p>
-<p class="p">Klik op de <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span>-knop om uw IP-adres voor het draadloze netwerk te zien in het paneel <span class="gui">Details</span>.</p>
+<p class="p">Klik op de <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="instellingen"></span></span>-knop om uw IP-adres voor het draadloze netwerk te zien in het paneel <span class="gui">Details</span>.</p>
 </li>
 </ol></div>
 </div></div>

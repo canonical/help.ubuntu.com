@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="prefs.html.ca" title="Usuari i configuració del sistema">Configuració</a> » <a class="trail" href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">Ratolí, pantalla tàctil i pantalla tàctil</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="prefs.html.ca" title="Usuari i configuració del sistema">Configuració</a> » <a class="trail" href="mouse.html.ca" title="Ratolí, ratolí tàctil i pantalla tàctil">Ratolí, ratolí tàctil i pantalla tàctil</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Maquinari</a> » <a class="trail" href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">Ratolí, pantalla tàctil i pantalla tàctil</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Maquinari</a> » <a class="trail" href="mouse.html.ca" title="Ratolí, ratolí tàctil i pantalla tàctil">Ratolí, ratolí tàctil i pantalla tàctil</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -93,8 +93,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide">
 <p class="p">Podeu tocar el tauler tàctil per fer clic en comptes d'utilitzar un botó.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Ratolí &amp; tàctil</span>.</p></li>
-<li class="steps"><p class="p">Feu clic sobre <span class="gui">Ratolí i Tauleta</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Ratolí i ratolí tàctil</span>.</p></li>
+<li class="steps"><p class="p">Feu clic sobre <span class="gui">Ratolí i ratolí tàctil</span> per a obrir el quadre.</p></li>
 <li class="steps">
 <p class="p">A la secció <span class="gui">Tauler tàctil</span>, assegureu-vos que l'interruptor <span class="gui">Tauler tàctil</span> està activat.</p>
 <div class="note" title="Nota">
@@ -125,8 +125,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide">
 <p class="p">Podeu desplaçar-vos usant el vostre tauler tàctil amb dos dits.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Ratolí &amp; tàctil</span>.</p></li>
-<li class="steps"><p class="p">Feu clic sobre <span class="gui">Ratolí i Tauleta</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Ratolí i ratolí tàctil</span>.</p></li>
+<li class="steps"><p class="p">Feu clic sobre <span class="gui">Ratolí i ratolí tàctil</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">A la secció <span class="gui">Tauler tàctil</span>, assegureu-vos que l'interruptor <span class="gui">Tauler tàctil</span> està activat.</p></li>
 <li class="steps"><p class="p">Canvieu <span class="gui">Desplaçament amb dos dits</span> a <span class="gui">ON</span>.</p></li>
 </ol></div></div></div>
@@ -143,10 +143,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide">
 <p class="p">Podeu arrossegar el contingut com si féssiu lliscar un tros de paper utilitzant el tauler tàctil.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Ratolí &amp; tàctil</span>.</p></li>
-<li class="steps"><p class="p">Feu clic sobre <span class="gui">Ratolí i Tauleta</span> per obrir el quadre.</p></li>
-<li class="steps"><p class="p">A la secció <span class="gui">Tauler tàctil</span>, assegureu-vos que el commutador <span class="gui">Tauler tàctil</span> estigui a <span class="gui">ON</span>.</p></li>
-<li class="steps"><p class="p">Canvieu el <span class="gui">Desplaçament natural</span> a <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Ratolí i ratolí tàctil</span>.</p></li>
+<li class="steps"><p class="p">Feu clic sobre <span class="gui">Ratolí i ratolí tàctil</span> per a obrir el quadre.</p></li>
+<li class="steps"><p class="p">A la secció <span class="gui">Tauler tàctil</span>, assegureu-vos que el commutador <span class="gui">Tauler tàctil</span> estigui a activat.</p></li>
+<li class="steps"><p class="p">Canvieu el <span class="gui">Desplaçament natural</span> a activat.</p></li>
 </ol></div></div></div>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">
@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">Ratolí, pantalla tàctil i pantalla tàctil</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.ca" title="Utilitzar el ratolí amb la mà esquerra">Esquerrà</a></span>, <span class="link"><a href="mouse-sensitivity.html.ca" title="Ajustar la velocitat del ratolí i del tauler tàctil">velocitat i sensibilitat</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ca" title="Fer clic, arrossegar o desplaçar-vos amb el tauler tàctil">clic i desplaçament del ratolí tàctil</a></span>…</span>
+<a href="mouse.html.ca" title="Ratolí, ratolí tàctil i pantalla tàctil">Ratolí, ratolí tàctil i pantalla tàctil</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.ca" title="Utilitzar el ratolí amb la mà esquerra">Esquerrà</a></span>, <span class="link"><a href="mouse-sensitivity.html.ca" title="Ajustar la velocitat del ratolí i del tauler tàctil">velocitat i sensibilitat</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ca" title="Fer clic, arrossegar o desplaçar-vos amb el tauler tàctil">clic i desplaçament del ratolí tàctil</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -77,43 +77,35 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.id" title="Visual overview of GNOME"><span class="title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">A visual overview of your desktop, the top bar, and the
-    <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.id" title="Tinjauan visual GNOME"><span class="title">Tinjauan visual GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">Perkenalan visual ke desktop Anda, bilah puncak, dan ringkasan <span class="gui">Aktivitas</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="gnome-classic.html.id" title="Apa itu GNOME Klasik?"><span class="title">Apa itu GNOME Klasik?</span><span class="linkdiv-dash"> — </span><span class="desc">Pertimbangkan untuk beralih ke GNOME Klasik bila Anda lebih suka pengalaman dekstop yang lebih tradisional.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.id" title="Log keluar, mematikan, atau berganti pengguna"><span class="title">Log keluar, mematikan, atau berganti pengguna</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
-    users, and so on.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.id" title="Memulai aplikasi"><span class="title">Memulai aplikasi</span><span class="linkdiv-dash"> — </span><span class="desc">Launch apps from the <span class="gui">Activities</span> overview.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.id" title="Log keluar, mematikan, atau berganti pengguna"><span class="title">Log keluar, mematikan, atau berganti pengguna</span><span class="linkdiv-dash"> — </span><span class="desc">Pelajari cara meninggalkan akun pengguna Anda, dengan logout, mengalihkan pengguna, dan sebagainya.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-open.html.id" title="Memulai aplikasi"><span class="title">Memulai aplikasi</span><span class="linkdiv-dash"> — </span><span class="desc">Meluncurkan aplikasi dari ringkasan <span class="gui">Aktivitas</span>.</span></a></div>
 </div>
 </div></div></div></div></div>
 <section id="desktop"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Menyesuaikan desktop Anda</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.id" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.id" title="Janji kalender"><span class="title">Janji kalender</span><span class="linkdiv-dash"> — </span><span class="desc">Tampilkan janji temu Anda pada kalender di puncak layar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.id" title="Menyematkan aplikasi favorit Anda ke dash"><span class="title">Menyematkan aplikasi favorit Anda ke dash</span><span class="linkdiv-dash"> — </span><span class="desc">Tambah (atau hapus) ikon program yang sering dipakai pada dash.</span></a></div>
 </div>
-<div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.id" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
-    certain events happen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.id" title="Pin your favorite apps to the dash"><span class="title">Pin your favorite apps to the dash</span><span class="linkdiv-dash"> — </span><span class="desc">Tambah (atau hapus) ikon program yang sering dipakai pada dash.</span></a></div>
-</div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.id" title="Notifikasi dan daftar notifikasi"><span class="title">Notifikasi dan daftar notifikasi</span><span class="linkdiv-dash"> — </span><span class="desc">Pesan jatuh dari bagian puncak layar memberitahu Anda ketika peristiwa tertentu terjadi.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Aplikasi dan jendela</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="status-icons.html.id" title="Apa arti ikon-ikon pada bilah puncak?"><span class="title">Apa arti ikon-ikon pada bilah puncak?</span><span class="linkdiv-dash"> — </span><span class="desc">Explains the meanings of the icons located on the right of the top bar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="status-icons.html.id" title="Apa arti ikon-ikon pada bilah puncak?"><span class="title">Apa arti ikon-ikon pada bilah puncak?</span><span class="linkdiv-dash"> — </span><span class="desc">Menjelaskan arti dari ikon yang terletak di sebelah kanan bilah puncak.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="startup-applications.html.id" title="Aplikasi Awal Mula"><span class="title">Aplikasi Awal Mula</span><span class="linkdiv-dash"> — </span><span class="desc">Pilih aplikasi yang akan dimulai saat Anda masuk.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.id" title="Berpindah antar jendela"><span class="title">Berpindah antar jendela</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.id" title="Berpindah antar jendela"><span class="title">Berpindah antar jendela</span><span class="linkdiv-dash"> — </span><span class="desc">Tekan <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.id" title="Jendela dan area kerja"><span class="title">Jendela dan area kerja</span><span class="linkdiv-dash"> — </span><span class="desc">Move and organize your windows.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna"><span class="title">Pintasan papan tik yang berguna</span><span class="linkdiv-dash"> — </span><span class="desc">Get around the desktop using the keyboard.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.id" title="The lock screen"><span class="title">The lock screen</span><span class="linkdiv-dash"> — </span><span class="desc">The decorative and functional lock screen conveys useful
-    information.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows.html.id" title="Jendela dan area kerja"><span class="title">Jendela dan area kerja</span><span class="linkdiv-dash"> — </span><span class="desc">Pindahkan dan atur jendela Anda.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-lockscreen.html.id" title="Layar kunci"><span class="title">Layar kunci</span><span class="linkdiv-dash"> — </span><span class="desc">Layar kunci dekoratif dan fungsional menyampaikan informasi yang berguna.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna"><span class="title">Pintasan papan tik yang berguna</span><span class="linkdiv-dash"> — </span><span class="desc">Bergerak sekitar desktop menggunakan papan ketik.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

@@ -123,7 +123,7 @@ document.addEventListener('DOMContentLoaded', function() {
       need to double-check the VPN settings you entered. You can do this from
       the <span class="gui">Network</span> panel that you used to create the connection.
       Select the VPN connection from the list, then press the
-<span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to review the settings.</p></li>
+<span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span> button to review the settings.</p></li>
 <li class="steps"><p class="p">To disconnect from the VPN, click the system menu on the top bar and
       click <span class="gui">Turn Off</span> under the name of your VPN connection.</p></li>
 </ol></div></div></div>

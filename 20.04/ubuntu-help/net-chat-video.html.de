@@ -80,7 +80,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul class="list" style="list-style-type:disc">
 <li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-empathy.html.de" title="Sofortnachrichten unter Ubuntu">Empathy</a></span></span></p></li>
 <li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-skype.html.de" title="Wie kann ich Skype unter Ubuntu verwenden?">Skype</a></span></span></p></li>
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Ekiga</a></span></span></p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="apt:jami" title="apt:jami">Jami</a></span></span>
+    </p></li>
 </ul></div>
 </div></div></div>
 <section class="links" role="navigation"><div class="inner">

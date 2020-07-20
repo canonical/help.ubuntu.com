@@ -75,36 +75,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">CD や DVD にファイルを書き込む</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p"><span class="gui">CD/DVD クリエーター</span>を使って空のディスクにファイルを書き込むことができます。CD/DVD の書き込み可能なドライブにディスクを配置すると、CD/DVD を作成するオプションがファイルマネージャーに現れます。ファイルマネージャーでは、他のコンピューターにファイルを転送したり、空のディスクにファイルを書き込んで<span class="link"><a href="backup-why.html.ja" title="重要なファイルをバックアップする">バックアップ</a></span>を取ったりすることができます。CD や DVD にファイルを書き込む方法は次のとおりです。</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">CD/DVD の書き込み可能なドライブに空のディスクをセットします。</p></li>
-<li class="steps">
-<p class="p">画面下部に<span class="gui">空の CD/DVD-R ディスク</span>のポップアップ通知が現れるので、そこから<span class="gui">CD/DVD クリエーター</span>を選択します。<span class="gui">CD/DVD クリエーター</span>のフォルダーウィンドウが開きます。</p>
-<p class="p">ファイルマネージャーの<span class="gui">デバイス</span>の下の<span class="gui">空の CD/DVD-R ディスク</span>をクリックしてもかまいません。)</p>
-</li>
-<li class="steps"><p class="p"><span class="gui">ディスクの名前</span>欄に、ディスクの名前を入力します。</p></li>
-<li class="steps"><p class="p">ウィンドウに、対象のファイルをドラッグするかコピーします。</p></li>
-<li class="steps"><p class="p"><span class="gui">ディスクに書き込む</span>をクリックします。</p></li>
-<li class="steps">
-<p class="p"><span class="gui">書き込み先のディスクの選択</span>欄で、空のディスクを選択します。</p>
-<p class="p">(代わりに、<span class="gui">イメージファイル</span>を選択することもできます。これを選ぶと、ファイルを<span class="em">ディスクイメージ</span>に書き込み、お使いのコンピューターに保存されます。その後、そのディスクイメージを空のディスクに書き込むことができます。)</p>
-</li>
-<li class="steps"><p class="p"><span class="gui">プロパティ</span>をクリックすると、書き込み速度、一時ファイルの場所、およびその他のオプションの調整ができます。デフォルトのままでも十分です。</p></li>
-<li class="steps">
-<p class="p"><span class="gui">書き込む</span>ボタンをクリックすると、書き込みが始まります。</p>
-<p class="p"><span class="gui">複数のディスクの書き込み</span>を選択した場合は、追加のディスクをセットするよう促されます。</p>
-</li>
-<li class="steps"><p class="p">ディスクの作成が完了すれば、自動的にディスクが取り出されます。<span class="gui">別のコピーを作成する</span> を選択するか、あるいは<span class="gui">閉じる</span>を選んで終了します。</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
   able to see the files you put onto the disc when you insert it into a
   computer.</p>
-<p class="p">この場合、書き込みをもう一度実行してみてください。ただし書き込み速度はより低速 (たとえば、48x よりも 12x) にします。低速なほど、より信頼性も高くなります。速度の選択は、<span class="gui">CD/DVD クリエーター</span>ウィンドウの<span class="gui">プロパティ</span>から可能です。</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

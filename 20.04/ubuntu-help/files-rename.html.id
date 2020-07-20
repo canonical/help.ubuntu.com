@@ -76,49 +76,31 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mengubah nama berkas atau folder</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">As with other file managers, you can use <span class="app">Files</span> to change the
-  name of a file or folder.</p>
+<p class="p">Seperti manajer berkas lainnya, Anda dapat menggunakan <span class="app">Berkas</span> untuk mengubah nama berkas atau folder.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Untuk mengganti nama berkas atau folder:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klik kanan pada butir dan pilih <span class="gui">Ubah Nama</span>, atau pilih berkas dan tekan <span class="key"><kbd>F2</kbd></span>.</p></li>
-<li class="steps"><p class="p">Type the new name and press <span class="key"><kbd>Enter</kbd></span> or click
-    <span class="gui">Rename</span>.</p></li>
+<li class="steps"><p class="p">Ketikkan nama baru dan tekan <span class="key"><kbd>Enter</kbd></span> atau klik <span class="gui">Ubah Nama</span>.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Anda juga dapat mengubah nama dari jendela <span class="link"><a href="nautilus-file-properties-basic.html.id" title="Properti berkas">properti</a></span>.</p>
-<p class="p">When you rename a file, only the first part of the name of the file is
-  selected, not the file extension (the part after the last <span class="file">.</span>).
-  The extension normally denotes what type of file it is (for example,
-  <span class="file">file.pdf</span> is a PDF document), and you usually do not want to
-  change that. If you need to change the extension as well, select the entire
-  file name and change it.</p>
+<p class="p">Ketika Anda mengganti nama berkas, hanya bagian pertama dari nama berkas yang dipilih, bukan ekstensi berkas (bagian setelah terakhir <span class="file">.</span>). Ekstensi biasanya menunjukkan jenis berkas itu (misalnya, <span class="file">berkas.pdf</span> adalah sebuah dokumen PDF), dan biasanya Anda tidak ingin mengubahnya. Jika Anda perlu mengubah ekstensi juga, pilih seluruh nama berkas dan ubah itu.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">If you renamed the wrong file, or named your file improperly, you can
-    undo the rename. To revert the action, immediately click the menu button in
-    the toolbar and select <span class="gui">Undo Rename</span>, or press
-    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, to restore the former
-    name.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Jika Anda mengganti nama berkas yang salah, atau menamai berkas Anda dengan tidak semestinya, Anda dapat mengurungkan pengubahan nama. Untuk mengembalikan aksi, segera klik tombol menu di bilah alat dan pilih <span class="gui">Tak Jadi Ubah Nama</span>, atau tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, untuk memulihkan nama sebelumnya.</p></div></div></div>
 </div>
 </div>
 <section id="valid-chars"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Karakter yang valid bagi nama berkas</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">You can use any character except the <span class="file">/</span> (slash) character in
-    file names. Some devices, however, use a <span class="em">file system</span> that has more
-    restrictions on file names. Therefore, it is a best practice to avoid the
-    following characters in your file names: <span class="file">|</span>, <span class="file">\</span>,
-    <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>,
-    <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
+<p class="p">Anda dapat menggunakan karakter apa pun kecuali karakter <span class="file">/</span> (slash) dalam nama berkas. Namun beberapa perangkat menggunakan <span class="em">sistem berkas</span> yang memiliki lebih banyak pembatasan nama berkas. Oleh karena itu, ini adalah praktik terbaik untuk menghindari karakter berikut dalam nama berkas Anda: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
 <div class="note note-warning" title="Peringatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">If you name a file with a <span class="file">.</span> as the first character, the
-    file will be <span class="link"><a href="files-hidden.html.id" title="Menyembunyikan berkas">hidden</a></span> when you attempt to
-    view it in the file manager.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Jika Anda menamai sebuah berkas dengan <span class="file">.</span> sebagai karakter pertama, berkas akan <span class="link"><a href="files-hidden.html.id" title="Menyembunyikan berkas">disembunyikan</a></span> ketika Anda mencoba untuk melihatnya di manajer berkas.</p></div></div></div>
 </div>
 </div></div>
 </div></section><section id="common-probs"><div class="inner">
@@ -126,26 +108,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Nama berkas sudah dipakai</dt>
 <dd class="terms">
-<p class="p">You cannot have two files or folders with the same name in the same
-        folder. If you try to rename a file to a name that already exists in
-        the folder you are working in, the file manager will not allow it.</p>
-<p class="p">File and folder names are case sensitive, so the file name
-        <span class="file">File.txt</span> is not the same as <span class="file">FILE.txt</span>.
-        Using different file names like this is allowed, though it is not
-        recommended.</p>
+<p class="p">Anda tidak dapat memiliki dua berkas atau folder dengan nama yang sama di folder yang sama. Jika Anda mencoba untuk mengganti nama berkas ke nama yang sudah ada di folder Anda bekerja di, manajer berkas tidak akan mengizinkannya.</p>
+<p class="p">Nama berkas dan folder peka terhadap huruf besar-kecil, sehingga nama berkas <span class="file">Berkas.txt</span> tidak sama dengan <span class="file">BERKAS.txt</span>. Menggunakan nama berkas yang berbeda seperti ini diperbolehkan, meskipun tidak dianjurkan.</p>
 </dd>
 <dt class="terms">Nama berkas terlalu panjang</dt>
-<dd class="terms"><p class="p">On some file systems, file names can have no more than 255
-        characters in their names.  This 255 character limit includes both the
-        file name and the path to the file (for example,
-        <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), so you
-        should avoid long file and folder names where possible.</p></dd>
+<dd class="terms"><p class="p">Pada beberapa sistem berkas, nama berkas dapat memiliki tidak lebih dari 255 karakter dalam nama mereka. Batas karakter 255 ini mencakup nama berkas dan path ke berkas (misalnya, <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), sehingga Anda harus menghindari nama berkas dan folder yang panjang jika memungkinkan.</p></dd>
 <dt class="terms">Opsi untuk mengubah nama dinonaktifkan</dt>
-<dd class="terms"><p class="p">If <span class="gui">Rename</span> is grayed out, you do not have permission to
-        rename the file. You should use caution with renaming such files, as
-        renaming some protected files may cause your system to become unstable.
-        See <span class="link"><a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">Menata izin berkas</a></span> for more
-        information.</p></dd>
+<dd class="terms"><p class="p">Jika <span class="gui">Ubah Nama</span> berwarna kelabu, Anda tidak memiliki izin untuk mengganti nama berkas. Anda harus berhati-hati mengganti nama berkas seperti itu, karena mengganti nama beberapa berkas yang dilindungi dapat menyebabkan sistem Anda menjadi tidak stabil. Lihat <span class="link"><a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">Menata izin berkas</a></span> untuk informasi lebih lanjut.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

@@ -76,8 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ajustar la mida d'un sistema de fitxers</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Es pot augmentar un sistema de fitxers per fer ús de l'espai lliure després de la seva partició. Moltes vegades això és possible mentre es munta el sistema de fitxers.</p>
-<p class="p">Per fer espai per a una altra partició després del sistema de fitxers, es pot reduir d'acord amb el seu espai lliure.</p>
+<p class="p">Es pot augmentar un sistema de fitxers per a fer ús de l'espai lliure després de la seva partició. Moltes vegades això és possible mentre es munta el sistema de fitxers.</p>
+<p class="p">Per a fer espai per a una altra partició després del sistema de fitxers, es pot reduir d'acord amb el seu espai lliure.</p>
 <p class="p">No tots els sistemes de fitxers permeten el canvi de mida.</p>
 <p class="p">La mida de la partició es canviarà juntament amb la mida del sistema de fitxers. També és possible canviar la mida d'una partició sense un sistema de fitxers de la mateixa manera.</p>
 <div class="steps"><div class="inner">

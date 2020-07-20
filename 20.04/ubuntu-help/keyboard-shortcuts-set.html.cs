@@ -84,8 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Nastavení</span>.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Nastavení</span>.</p></li>
-<li class="steps"><p class="p">V postranním panelu klikněte na <span class="gui">Zařízení</span>.</p></li>
-<li class="steps"><p class="p">Kliknutím na <span class="gui">Klávesnice</span> v postranním panelu otevřete příslušný panel.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard Shortcuts</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Klikněte na řádek s požadovanou činností. Objeví se okno <span class="gui">Nastavení klávesové zkratky</span>.</p></li>
 <li class="steps"><p class="p">Zmáčkněte požadovanou kombinaci kláves nebo použijte <span class="key"><kbd>Backspace</kbd></span> pro vrácení výchozí kombinace nebo <span class="key"><kbd>Esc</kbd></span> ke zrušení.</p></li>
 </ol></div></div></div>

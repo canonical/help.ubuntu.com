@@ -83,7 +83,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Многи рачунари садрже читаче за СД, ММЦ, СМ, МС, ЦФ, и остале складишне медијске картице. Оне би требале аутоматски да буду откривене и <span class="link"><a href="disk-partitions.html.sr" title="Управљајте волуменима и партицијама">монтиране</a></span>. Ево неколико корака за решавање проблема ако нису:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Уверите се да је картица исправно убачена. Многе картице изгледају као да су наопако окренуте када су убачене исправно. Такође будите сигурни да картица чврсто стоји у жлебу; неке картице, нарочито ЦФ, захтевају да буду погуране да би биле исправно убачене. (Будите пажљиви да не погурате превише јако! Ако наиђете на нешто чврсто, немојте силити.)</p></li>
-<li class="steps"><p class="p">Отворите <span class="app">Датотеке</span> из прегледа <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">активности</a></span>. Да ли се убачена картица појавила на списку <span class="gui">Уређаја</span> у левој бочној површи? Понекад картица се појави на овом списку али не бива монтирана; кликните на њу једном да је монтирате: (Ако бочна површ није приказана, притисните <span class="key"><kbd>Ф9</kbd></span> или притисните <span class="gui">Датотеке</span> на горњој траци и изаберите <span class="gui">Бочна површ</span>.)</p></li>
+<li class="steps"><p class="p">Open <span class="app">Files</span> from the
+  <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Activities</a></span> overview. Does the inserted
+  card appear in the left sidebar? Sometimes the
+  card appears in this list but is not mounted; click it once to mount. (If the
+  sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
+  the top bar and select the <span class="gui">Sidebar</span>.)</p></li>
 <li class="steps"><p class="p">Ако ваша картица није приказана у бочној површи, притисните <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Л</kbd></span></span>, затим укуцајте <span class="input">computer:///</span> и притисните <span class="key"><kbd>Унеси</kbd></span>. Ако је ваш читач картица исправно подешен, читач треба бити приказан као уређај када нема картице у њему, и као сама картица када је картица монтирана.</p></li>
 <li class="steps"><p class="p">Ако видите читач картица али не и картицу, проблем може бити у самој картици. Пробајте неку другу картицу или проверите картицу на другом читачу ако је могуће.</p></li>
 </ol></div></div></div>

@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Читајте екран на глас</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Гном обезбеђује читач екрана <span class="app">Орку</span> за читање корисничког сучеља. Зависно од тога како сте инсталирали Гном, можда нећете имати инсталирану Орку. Ако је тако, прво инсталирајте Орку.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can speak the user interface. Depending
+  on how you installed your system, you might not have Orca installed. If not,
+  install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Инсталирајте Орку</a></span></p>
 <p class="p">Да покренете <span class="app">Орку</span> користећи тастатуру:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Притисните <span class="key"><kbd>Супер</kbd></span>+<span class="key"><kbd>Алт</kbd></span>+<span class="key"><kbd>С</kbd></span>.</p></li></ol></div></div></div>

@@ -70,42 +70,20 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">מידע על מדריך זה</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    This guide gives you a tour of Ubuntu desktop features, answers your 
-    computer-related questions, and provides tips on using your computer 
-    effectively.
-  </p>
+<p class="p">מדריך זה מעניק לך סיור בתכונות של שולחן העבודה של אובונטו, עונה על השאלות השונות בעולם המחשבים ומספר עצות בנוגע לשימוש יעיל במחשב שלך.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
-<li class="list"><p class="p">
-        The guide is divided into small, task-oriented topics - not chapters. 
-        This means that you don't need to skim through an entire manual to find 
-        answers to your questions.
-      </p></li>
-<li class="list"><p class="p">
-        Related items are linked together. "See Also" links at the bottom of 
-        some pages direct you to related topics.
-      </p></li>
-<li class="list"><p class="p">
-        The text input box at the top of this guide acts as a <span class="em">search 
-        bar</span>, and relevant results will appear beneath it as soon as you 
-        start typing. Left-click on any result to open its page.
-      </p></li>
-<li class="list"><p class="p">
-        The guide is constantly being improved. Although we attempt to provide 
-        you with a comprehensive collection of helpful information, we know we 
-        won't answer all of your questions here. We will keep adding more 
-        information to make things more helpful, though.
-      </p></li>
+<li class="list"><p class="p">המדריך מחולק לנושאים קטנים, מוכווני משימות - לא פרקים. כלומר שאין צורך לרפרף בכל המדריך כדי למצוא תשובות לשאלות שלך.</p></li>
+<li class="list"><p class="p">פריטים בעלי נושא משותף קשורים זה לזה. הקישורים תחת „לקריאה נוספת” בתחתיתם של כמה מהעמודים מפנה אותך לנושאים קשורים.</p></li>
+<li class="list"><p class="p">תיבת הקלט לטקסט בראש המדריך הזה היא למעשה <span class="em">סרגל חיפוש</span> והתוצאות המתאימות תוצגנה מתחתיו בעת ההקלדה. ניתן לפתוח כל תוצאה בלחיצה עליה עם לחצן העכבר השמאלי.</p></li>
+<li class="list"><p class="p">המדריך עובר שיפורים באופן עקבי. למרות שאנו מנסים לספק לך כר נרחב של מידע מועיל, אנו יודעים שהוא לא יענה על כל השאלות שלך כאן. עם זאת, אנו ננסה להמשיך ולהוסיף מידע כדי לשפר ולייעל את הידע.</p></li>
 </ul></div></div></div>
-<p class="p">
-    Thank you for taking the time to read the <span class="em">Ubuntu Desktop Guide</span>.
-  </p>
+<p class="p">תודה לך על שהקדשת את הזמן בקריאת <span class="em">מדריך שולחן העבודה של אובונטו</span>.</p>
 <p class="p">-- צוות התיעוד של אובונטו</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -113,11 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html.he" title="מידע על מדריך זה">Tips on using this guide</a></span>,
-        <span class="link"><a href="community-support.html.he" title="Community support">get help from community</a></span>,
-        <span class="link"><a href="get-involved.html.he" title="ניתן להשתתף כדי לשפר את המדריך הזה">help improve this guide</a></span>…
-    </span>
+<a href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.he" title="מידע על מדריך זה">עצות על השימוש במדריך זה</a></span>, <span class="link"><a href="community-support.html.he" title="תמיכה קהילתית">קבלת עזרה מהקהילה</a></span>, <span class="link"><a href="get-involved.html.he" title="ניתן לקחת חלק בשיפור המדריך הזה">סיוע בשיפור מדריך זה</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Paràmetres</span>.</p></li>
 <li class="steps"><p class="p">Féu clic a <span class="gui">Paràmetres</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Notificacions</span> a la barra lateral per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Notificacions</span> a la barra lateral per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Canvieu <span class="gui">Notificacions emergents</span> a <span class="gui">OFF</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Quan estigueu desconnectats, la majoria de notificacions no apareixeran a la part superior de la pantalla. Les notificacions encara estaran disponibles a la safata de missatges quan la mostreu (fent clic al rellotge o prement <span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>V</kbd></span></span>), i començaran a aparèixer novament quan torneu a posar connectat a <span class="gui">ON</span>.</p>
@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Paràmetres</span>.</p></li>
 <li class="steps"><p class="p">Féu clic a <span class="gui">Paràmetres</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Notificacions</span> a la barra lateral per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Notificacions</span> a la barra lateral per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Canvieu <span class="gui">Notificacions a la pantalla de bloqueig</span> a <span class="gui">OFF</span>.</p></li>
 </ol></div>
 </div></div>

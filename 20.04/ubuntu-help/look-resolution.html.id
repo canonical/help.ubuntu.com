@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change the resolution or orientation of the screen</title>
+<title>Mengubah resolusi atau orientasi layar</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,71 +73,42 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Change the resolution or orientation of the screen</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mengubah resolusi atau orientasi layar</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can change how big (or how detailed) things appear on the screen by
-  changing the <span class="em">screen resolution</span>. You can change which way up things
-  appear (for example, if you have a rotating display) by changing the
-  <span class="em">rotation</span>.</p>
+<p class="p">Anda dapat mengubah seberapa besar (atau seberapa rinci) hal yang muncul di layar dengan mengubah <span class="em">resolusi layar</span>. Anda dapat mengubah arah mana yang muncul (misalnya, jika Anda memiliki layar yang berputar) dengan mengubah <span class="em">rotasi</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tampilan</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> to open the panel.</p></li>
-<li class="steps"><p class="p">If you have multiple displays and they are not mirrored, you can have
-      different settings on each display. Select a display in the preview
-      area.</p></li>
-<li class="steps"><p class="p">Select the orientation, resolution or scale, and refresh rate.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Apply</span>. The new settings will be applied for 20
-      seconds before reverting back. That way, if you cannot see anything with
-      the new settings, your old settings will be automatically restored. If
-      you are happy with the new settings, click <span class="gui">Keep Changes</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Layar</span> untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Jika Anda memiliki beberapa tampilan dan mereka tidak dicerminkan, Anda dapat memiliki pengaturan yang berbeda pada setiap tampilan. Pilih tampilan di area pratinjau.</p></li>
+<li class="steps"><p class="p">Pilih orientasi, resolusi atau skala, dan laju penyegaran.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Terapkan</span>. Pengaturan baru akan diterapkan selama 20 detik sebelum dipulihkan. Dengan demikian, jika Anda tidak dapat melihat apa pun dengan setelan baru, setelan lama Anda akan dipulihkan secara otomatis. Jika Anda senang dengan pengaturan baru, klik <span class="gui">Simpan Perubahan</span>.</p></li>
 </ol></div></div></div>
 </div>
 <section id="resolution"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Resolusi</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">The resolution is the number of pixels (dots on the screen) in each
-  direction that can be displayed. Each resolution has an <span class="em">aspect
-  ratio</span>, the ratio of the width to the height. Wide-screen displays use a
-  16∶9 aspect ratio, while traditional displays use 4∶3. If you choose a
-  resolution that does not match the aspect ratio of your display, the screen
-  will be letterboxed to avoid distortion, by adding black bars to the top and
-  bottom or both sides of the screen.</p>
-<p class="p">You can choose the resolution you prefer from the <span class="gui">Resolution</span>
-  drop-down list. If you choose one that is not right for your screen it may
-  <span class="link"><a href="look-display-fuzzy.html.id" title="Mengapa berbagai hal terlihat kabur/kotak-kotak pada layar saya?">look fuzzy or pixelated</a></span>.</p>
+<p class="p">Resolusi adalah jumlah piksel (titik pada layar) di setiap arah yang dapat ditampilkan. Setiap resolusi memiliki <span class="em">rasio aspek</span>, perbandingan antara lebar dan tinggi. Tampilan layar lebar menggunakan rasio aspek 16∶9, sementara tampilan tradisional menggunakan 4∶3. Jika Anda memilih resolusi yang tidak sesuai dengan rasio aspek layar, layar akan dijadikan "kotak huruf" untuk menghindari distorsi, dengan menambahkan bilah hitam ke bagian atas dan bawah, atau kedua sisi layar.</p>
+<p class="p">Anda dapat memilih resolusi yang Anda sukai dari daftar drop-down <span class="gui">Resolusi</span>. Jika Anda memilih salah satu yang tidak tepat untuk layar Anda mungkin <span class="link"><a href="look-display-fuzzy.html.id" title="Mengapa berbagai hal terlihat kabur/kotak-kotak pada layar saya?">terlihat kabur atau terkotak-kotak</a></span>.</p>
 </div></div>
 </div></section><section id="native"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Native Resolution</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">The <span class="em">native resolution</span> of a laptop screen or LCD monitor is the
-  one that works best: the pixels in the video signal will line up precisely
-  with the pixels on the screen. When the screen is required to show other
-  resolutions, interpolation is necessary to represent the pixels, causing a
-  loss of image quality.</p></div></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Resolusi Asli</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p"><span class="em">Resolusi asli</span> layar laptop atau monitor LCD adalah resolusi yang paling baik: piksel dalam sinyal video akan sejajar tepat dengan piksel pada layar. Ketika layar diperlukan untuk menunjukkan resolusi lain, interpolasi diperlukan untuk merepresentasikan piksel, yang menyebabkan berkurangnya kualitas gambar.</p></div></div>
 </div></section><section id="refresh"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Refresh Rate</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">The refresh rate is the number of times per second the screen image is
-  drawn, or refreshed.</p></div></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Laju Penyegaran</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p">Laju penyegaran adalah berapa kali per detik citra layar digambar, atau disegarkan.</p></div></div>
 </div></section><section id="scale"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Scale</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">The scale setting increases the size of objects shown on the screen to
-  match the density of your display, making them easier to read. Choose
-  <span class="gui">100%</span> or <span class="gui">200%</span>.</p></div></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Skala</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p">Pengaturan skala meningkatkan ukuran objek yang ditampilkan pada layar untuk mencocokkan kepadatan layar Anda, membuatnya lebih mudah dibaca. Pilih <span class="gui">100%</span> atau <span class="gui">200%</span>.</p></div></div>
 </div></section><section id="orientation"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Orientation</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Orientasi</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">On some devices, you can physically rotate the screen in many directions.
-  Click <span class="gui">Orientation</span> in the panel and choose from
-  <span class="gui">Landscape</span>, <span class="gui">Portrait Right</span>, <span class="gui">Portrait Left</span>, or
-  <span class="gui">Landscape (flipped)</span>.</p>
+<p class="p">Pada beberapa perangkat, Anda dapat secara fisik memutar layar di banyak arah. Klik <span class="gui">Orientasi</span> pada panel dan pilih dari <span class="gui">Mendatar</span>, <span class="gui">Potret Kanan</span>, <span class="gui">Potret Kiri</span>, atau <span class="gui">Mendatar (dibalik)</span>.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">If your device rotates the screen automatically, you can lock the current
-    rotation using the
-<span class="media"><span class="media media-image"><img src="figures/rotation-locked-symbolic.svg" class="media media-inline" alt="rotation lock"></span></span> button at the bottom of the <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="System menu">system menu</a></span>. To unlock, press the 
-<span class="media"><span class="media media-image"><img src="figures/rotation-allowed-symbolic.svg" class="media media-inline" alt="rotation unlock"></span></span> button</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Jika perangkat Anda memutar layar secara otomatis, Anda dapat mengunci rotasi saat ini menggunakan tombol <span class="media"><span class="media media-image"><img src="figures/rotation-locked-symbolic.svg" class="media media-inline" alt="kunci rotasi"></span></span> di bagian dasar <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="Menu sistem">menu sistem</a></span>. Untuk membuka kunci, tekan tombol <span class="media"><span class="media media-image"><img src="figures/rotation-allowed-symbolic.svg" class="media media-inline" alt="buka kunci rotasi"></span></span></p></div></div></div>
 </div>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
@@ -146,12 +117,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.id" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.id" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.id" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html.id" title="Mengubah latar belakang desktop dan kunci layar">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html.id" title="Mengubah resolusi atau orientasi layar">ukuran dan orientasi</a></span>, <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">kecerahan</a></span>, <span class="link"><a href="display-night-light.html.id" title="Menyesuaikan suhu warna layar Anda">suhu warna</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

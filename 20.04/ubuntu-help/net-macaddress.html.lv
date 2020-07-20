@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Izvēlieties <span class="gui">Wi-Fi</span> vai <span class="gui">Vadu</span> no saraksta kreisajā rūtī.</p>
 <p class="p">MAC adrese vadu ierīcei tiks parādīta kā <span class="gui">Aparatūras adrese</span> labajā pusē.</p>
-<p class="p">Spiediet pogu <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="iestatījumi"></span></span>, lai redzētu MAC adreses bezvadu ierīcei, ko attēlo kā <span class="gui">Aparatūras adresi</span> panelī <span class="gui">Sistēmas informācija</span>.</p>
+<p class="p">Spiediet pogu <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="iestatījumi"></span></span>, lai redzētu MAC adreses bezvadu ierīcei, ko attēlo kā <span class="gui">Aparatūras adresi</span> panelī <span class="gui">Sistēmas informācija</span>.</p>
 </li>
 </ol></div></div></div>
 <p class="p">Praksē varētu vajadzēt nomainīt vai viltot MAC adresi. Piemēram, daži interneta pakalpojuma sniedzēji var pieprasīt, ka jāizmanto noteikta MAC adrese, lai piekļūtu viņu pakalpojumiem. Ja saplīst tīkla karte un tā jānomaina ar jaunu tīkla karti, šis pakalpojums vairs nestrādās. Šādos gadījumos nepieciešams viltot MAC adresi.</p>

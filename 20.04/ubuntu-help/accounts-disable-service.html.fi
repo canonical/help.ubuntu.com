@@ -82,8 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
   services, but not others. For example, you may want to use your Google account
   for email but not chat if you have a different online account that you use
   for chat.</p>
-<p class="p">You can disable some of the services that are provided by each online
-  account:</p>
+<p class="p">Voit poistaa käytöistä joitain palveluja, mitä kukin verkkotili tarjoaa:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja kirjoita <span class="gui">Verkkotilit</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Verkkotilit</span>.</p></li>
@@ -92,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">A list of services that are available with this account will be
       shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html.fi" title="Verkkopalvelut ja sovellukset">Verkkopalvelut ja sovellukset</a></span>
       to see which applications access which services.</p></li>
-<li class="steps"><p class="p">Switch off any of the services that you do not want to use.</p></li>
+<li class="steps"><p class="p">Sammuta ne palvelut, joita et halua käyttää.</p></li>
 </ol></div></div></div>
 <p class="p">Once a service has been disabled for an account, applications on your
   computer will not be able to use the account to connect to that service any

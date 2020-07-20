@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Songs don’t appear on my iPod when I copy them onto it</title>
+<title>Lagu tak muncul pada iPod saya ketika saya menyalin mereka ke dalamnya</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,12 +73,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="media.html.id" title="Suara, video, &amp; gambar">Suara, video, &amp; gambar</a> › <a class="trail" href="media.html.id#music" title="Pemutar audio portabel dan musik">Musik dan pemutar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Songs don’t appear on my iPod when I copy them onto it</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Lagu tak muncul pada iPod saya ketika saya menyalin mereka ke dalamnya</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">When you plug an iPod into your computer, it will appear in your music player application and also in the file manager (the <span class="app">Files</span> application in the <span class="gui">Activities</span> overview). You must copy songs onto the iPod using the music player — if you copy them across using the file manager, it won’t work because the songs won’t be put into the right location. iPods have a special location for storing songs which music player applications know how to get to but the file manager does not.</p>
-<p class="p">You also need to wait for the songs to finish copying to the iPod before you unplug it. Before unplugging the iPod, make sure you choose to <span class="link"><a href="files-removedrive.html.id" title="Melepas kandar eksternal secara aman">safely remove it</a></span>. This will make sure that all of the songs have been copied across properly.</p>
-<p class="p">A further reason why songs might not be appearing on your iPod is that the music player application you’re using does not support converting the songs from one audio format to another. If you copy a song which is saved in an audio format that is not supported by your iPod (for example, an Ogg Vorbis (.oga) file), the music player will try to convert it to a format that the iPod does understand, such as MP3. If the appropriate conversion software (also called a codec or encoder) is not installed, the music player will not be able to do the conversion and so will not copy the song. Look in the software installer for an appropriate codec.</p>
+<p class="p">Ketika Anda mencolokkan iPod ke komputer Anda, itu akan muncul dalam aplikasi pemutar musik Anda dan juga di manajer berkas (aplikasi <span class="app">Berkas</span> dalam ringkasan <span class="gui">Aktivitas</span>). Anda harus menyalin lagu ke iPod menggunakan pemutar musik — jika Anda menyalinnya menggunakan manajer berkas, tidak akan berfungsi karena lagu tidak akan diletakkan di lokasi yang tepat. iPod memiliki lokasi khusus untuk menyimpan lagu yang aplikasi pemutar musik tahu bagaimana cara untuk mendapatkan tapi manajer berkas tidak.</p>
+<p class="p">Anda juga harus menunggu lagu selesai disalin ke iPod sebelum Anda melepasnya. Sebelum mencabut iPod, pastikan Anda memilih untuk <span class="link"><a href="files-removedrive.html.id" title="Melepas kandar eksternal secara aman">melepas dengan aman</a></span>. Ini akan memastikan bahwa semua lagu telah disalin di seluruh benar.</p>
+<p class="p">Alasan lebih lanjut mengapa lagu mungkin tidak muncul di iPod Anda adalah bahwa aplikasi pemutar musik yang Anda gunakan tidak mendukung mengkonversi lagu dari satu format audio ke yang lain. Jika Anda menyalin sebuah lagu yang disimpan dalam format audio yang tidak didukung oleh iPod Anda (misalnya, berkas Ogg Vorbis (.oga)), pemutar musik akan mencoba untuk mengubahnya menjadi format yang iPod mengerti, seperti MP3. Jika perangkat lunak konversi yang sesuai (juga disebut codec atau encoder) belum dipasang, pemutar musik tidak akan dapat melakukan konversi sehingga tidak akan menyalin lagu. Lihat dalam pemasang perangkat lunak untuk codec yang sesuai.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

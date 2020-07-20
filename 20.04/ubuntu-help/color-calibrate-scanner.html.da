@@ -89,7 +89,6 @@ document.addEventListener('DOMContentLoaded', function() {
       file.</p></li>
 <li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
-<li class="steps"><p class="p">Klik på <span class="gui">Enheder</span> i sidebjælken.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Farve</span> i sidebjælken for at åbne panelet.</p></li>
 <li class="steps"><p class="p">Select your scanner.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Calibrate…</span> to commence the

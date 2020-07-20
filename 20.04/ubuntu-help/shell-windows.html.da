@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Vinduer og arbejdsområder</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME bruger, ligesom de andre skriveborde, vinduer til at vise dine kørende programmer. Du kan med både <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og <span class="em">favoritområdet</span> starte nye programmer og styre aktive vinduer.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
 <p class="p">Du kan også gruppere dine programmer i arbejdsområder. Besøg hjælpeemnerne for vinduer og arbejdsområder nedenfor, for bedre at lære hvordan du bruger funktionerne.</p>
 </div>
 <section id="working-with-windows"><div class="inner">

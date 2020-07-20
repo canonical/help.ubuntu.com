@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.he" title="Install &amp; remove software">Add/remove software</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="addremove.html.he" title="התקנה והסרה של תכנה">הוספה/הסרה של תכנה</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Install languages</span></h1></div>
@@ -111,11 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.he" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.he" title="Remove an application">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.he" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.he" title="התקנה והסרה של תכנה">התקנה והסרה של תכנה</a><span class="desc"> — <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">התקנת יישומים</a></span>, <span class="link"><a href="addremove-remove.html.he" title="הסרת יישום">הסרת יישומים</a></span>, <span class="link"><a href="addremove-sources.html.he" title="הוספת מאגרי תכנה">הוספת מאגרים</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

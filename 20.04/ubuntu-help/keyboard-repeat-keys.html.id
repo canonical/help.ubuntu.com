@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Manage repeated key presses</title>
+<title>Mengelola penekanan tombol berulang</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -79,22 +79,17 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Manage repeated key presses</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mengelola penekanan tombol berulang</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">By default, when you hold down a key on your keyboard, the letter
-  or symbol will be repeated until you release the key. If you have
-  difficulty picking your finger back up quickly enough, you can
-  disable this feature, or change how long it takes before key presses
-  start repeating, or how quickly key presses repeat.</p>
+<p class="p">Secara default, saat Anda menahan tombol di papan tik, huruf atau simbol akan diulang hingga Anda melepaskan kuncinya. Jika Anda kesulitan menarik jari Anda kembali ke atas cukup cepat, Anda dapat menonaktifkan fitur ini, atau mengubah berapa lama waktu yang dibutuhkan sebelum penekanan tombol mulai mengulangi, atau seberapa cepat penekanan tombol mengulangi.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Repeat Keys</span> in the <span class="gui">Typing</span> section.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Akses Universal</span> dalam bilah sisi untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Tombol Berulang</span> di bagian <span class="gui">Pengetikan</span>.</p></li>
 <li class="steps">
-<p class="p">Switch the <span class="gui">Repeat Keys</span> switch to off.</p>
+<p class="p">Matikan <span class="gui">Tombol Berulang</span>.</p>
 <p class="p">Sebagai alternatif, setel penggeser <span class="gui">Tundaan</span> untuk mengendalikan berapa lama Anda mesti menahan tombol sebelum memulai mengulangnya, dan setel penggeser <span class="gui">Kecepatan</span> untuk mengendalikan berapa cepat penekanan tombol diulangi.</p>
 </li>
 </ol></div></div></div>
@@ -106,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

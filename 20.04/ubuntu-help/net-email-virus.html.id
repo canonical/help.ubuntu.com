@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Do I need to scan my emails for viruses?</title>
+<title>Apakah saya perlu memindai surel saya untuk mencari virus?</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -71,31 +71,18 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Surel &amp; perangkat lunak surel</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Surel &amp; perangkat lunak surel</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.id" title="Tetap aman di internet">Tetap aman di internet</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-security.html.id" title="Tetap aman di internet">Tetap aman di internet</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Do I need to scan my emails for viruses?</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Apakah saya perlu memindai surel saya untuk mencari virus?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Viruses are programs that cause problems if they manage to find their way
-  onto your computer. A common way of them getting onto your computer is
-  through email messages.</p>
-<p class="p">Viruses that can affect computers running Linux are quite rare, so you are
-  <span class="link"><a href="net-antivirus.html.id" title="Apakah saya perlu perangkat lunak anti virus?">unlikely to get a virus through email or
-  otherwise</a></span>. If you receive an email with a virus hidden in it, it will
-  probably have no effect on your computer. As such, you probably don’t need to
-  scan your email for viruses.</p>
-<p class="p">You may, however, wish to scan your email for viruses in case you happen
-  to forward a virus from one person to another. For example, if one of your
-  friends has a Windows computer with a virus and sends you a virus-infected
-  email, and you then forward that email to another friend with a Windows
-  computer, then the second friend might get the virus too. You could install
-  an anti-virus application to scan your emails to prevent this, but it’s
-  unlikely to happen and most people using Windows and Mac OS have anti-virus
-  software of their own anyway.</p>
+<p class="p">Virus adalah program yang menyebabkan masalah jika mereka berhasil menemukan jalan ke komputer Anda. Cara umum mereka mendapatkan ke komputer Anda adalah melalui pesan surel.</p>
+<p class="p">Virus yang dapat mempengaruhi komputer yang menjalankan Linux cukup langka, sehingga Anda <span class="link"><a href="net-antivirus.html.id" title="Apakah saya perlu perangkat lunak anti virus?">kemungkinan kecil terkena virus melalui surel atau jalur lain</a></span>. Jika Anda menerima surel dengan virus tersembunyi di dalamnya, itu mungkin tidak akan berpengaruh pada komputer Anda. Dengan demikian, Anda mungkin tidak perlu memindai surel Anda untuk virus.</p>
+<p class="p">Anda mungkin, bagaimanapun, ingin memindai surel Anda untuk virus jika Anda kebetulan meneruskan virus dari satu orang ke yang lain. Sebagai contoh, jika salah satu teman Anda memiliki komputer Windows dengan virus dan mengirimkan surel yang terinfeksi virus, dan Anda kemudian meneruskan surel itu ke teman lain dengan komputer Windows, maka teman kedua mungkin mendapatkan virus juga. Anda bisa menginstal aplikasi anti-virus untuk memindai surel Anda untuk mencegah hal ini, tapi itu kecil kemungkinan terjadi dan kebanyakan orang yang menggunakan Windows dan Mac OS memiliki perangkat lunak anti-virus mereka sendiri pula.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -104,10 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Surel &amp; perangkat lunak surel</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html.id" title="Ubah aplikasi surel mana yang dipakai untuk menulis surel">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html.id" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
-    </span>
+<a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Surel &amp; perangkat lunak surel</a><span class="desc"> — Screen<span class="link"><a href="net-default-email.html.id" title="Mengubah aplikasi surel mana yang dipakai untuk menulis surel">App surel baku</a></span>, <span class="link"><a href="net-email-virus.html.id" title="Apakah saya perlu memindai surel saya untuk mencari virus?">Apakah saya mesti memindai virus?</a></span>…</span>
 </li>
 <li class="links ">
 <a href="net-security.html.id" title="Tetap aman di internet">Tetap aman di internet</a><span class="desc"> — <span class="link"><a href="net-antivirus.html.id" title="Apakah saya perlu perangkat lunak anti virus?">Perangkat lunak anti virus</a></span>, <span class="link"><a href="net-firewall-on-off.html.id" title="Aktifkan atau blok akses firewall">firewall dasar</a></span>, <span class="link"><a href="net-firewall-ports.html.id" title="Port jaringan yang biasa dipakai">port firewall</a></span>…</span>
@@ -117,8 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-antivirus.html.id" title="Apakah saya perlu perangkat lunak anti virus?">Apakah saya perlu perangkat lunak anti virus?</a><span class="desc"> — There are few Linux viruses, so you probably don’t need anti-virus
-    software.</span>
+<a href="net-antivirus.html.id" title="Apakah saya perlu perangkat lunak anti virus?">Apakah saya perlu perangkat lunak anti virus?</a><span class="desc"> — Ada sedikit virus Linux, sehingga Anda mungkin tidak perlu perangkat lunak anti-virus.</span>
 </li></ul></div>
 </div></div>
 </div>

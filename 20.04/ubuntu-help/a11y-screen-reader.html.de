@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Den Bildschirm laut vorlesen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME stellt den <span class="app">Orca</span>-Bildschirmleser zum Vorlesen der Benutzeroberfläche zur Verfügung. Abhängig davon, wie Sie GNOME installiert haben, ist Orca bei Ihnen möglicherweise nicht installiert. Installieren Sie in diesem Fall zuerst Orca.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can speak the user interface. Depending
+  on how you installed your system, you might not have Orca installed. If not,
+  install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Orca installieren</a></span></p>
 <p class="p">So starten Sie <span class="app">Orca</span> mit der Tastatur:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Drücken Sie <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>

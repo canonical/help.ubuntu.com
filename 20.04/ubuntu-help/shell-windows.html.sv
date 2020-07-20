@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Fönster och arbetsytor</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Precis som andra skrivbord använder GNOME fönster för att visa dina körande program. Genom att använda både översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och <span class="em">snabbstartspanelen</span> kan du starta nya program och kontrollera aktiva fönster.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
 <p class="p">Du kan också gruppera ihop dina program inom arbetsytor. Titta på hjälptexterna om fönster och arbetsytor nedan för att bättre förstår hur du använder dessa funktioner.</p>
 </div>
 <section id="working-with-windows"><div class="inner">

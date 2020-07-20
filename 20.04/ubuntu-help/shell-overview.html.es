@@ -92,10 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.es" title="Anclar sus aplicaciones favoritas al tablero"><span class="title">Anclar sus aplicaciones favoritas al tablero</span><span class="linkdiv-dash"> — </span><span class="desc">Añadir (o eliminar) iconos de programas de uso frecuente en el tablero.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.es" title="Citas de calendario"><span class="title">Citas de calendario</span><span class="linkdiv-dash"> — </span><span class="desc">Mostrar sus citas en el calendario en la parte superior de la pantalla.</span></a></div>
 </div>
-<div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.es" title="Ejecutar aplicaciones automáticamente al iniciar la sesión"><span class="title">Ejecutar aplicaciones automáticamente al iniciar la sesión</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Retoques</span> para ejecutar aplicaciones automáticamente al iniciar la sesión.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.es" title="Notificaciones y la lista de notificaciones"><span class="title">Notificaciones y la lista de notificaciones</span><span class="linkdiv-dash"> — </span><span class="desc">Mensajes emergentes en la parte superior de la pantalla que le avisan de cuando ocurren ciertos eventos.</span></a></div>
-</div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.es" title="Notificaciones y la lista de notificaciones"><span class="title">Notificaciones y la lista de notificaciones</span><span class="linkdiv-dash"> — </span><span class="desc">Mensajes emergentes en la parte superior de la pantalla que le avisan de cuando ocurren ciertos eventos.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Aplicaciones y ventanas</span></h2></div>

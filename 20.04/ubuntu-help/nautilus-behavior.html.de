@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Ausführbare Textdateien</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Eine ausführbare Textdatei ist eine Datei, die ein Programm enthält, das ausgeführt werden kann. Die <span class="link"><a href="nautilus-file-properties-permissions.html.de" title="Festlegen von Zugriffsrechten für Dateien">Zugriffsrechte</a></span> der Datei müssen auch erlauben, dass die Datei als Programm ausgeführt wird. Die häufigsten Arten sind Shell-, Python- und Perl-Skripte; sie haben die Endungen <span class="file">.sh</span>, <span class="file">.py</span> beziehungsweise <span class="file">.pl</span>.</p>
+<p class="p">Eine ausführbare Textdatei ist eine Datei, die ein Programm enthält, das ausgeführt werden kann. Die <span class="link"><a href="nautilus-file-properties-permissions.html.de" title="Festlegen von Zugriffsrechten für Dateien">Zugriffsrechte</a></span> der Datei müssen auch erlauben, dass die Datei als Programm ausgeführt wird. Die häufigsten Arten sind <span class="sys">Shell-</span>, <span class="sys">Python-</span> und <span class="sys">Perl-Skripte</span>; sie haben die Endungen <span class="file">.sh</span>, <span class="file">.py</span> beziehungsweise <span class="file">.pl</span>.</p>
 <p class="p">Wenn Sie eine ausführbare Textdatei öffnen, können Sie aus Folgendem wählen:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Ausführbare Textdateien ausführen, wenn sie geöffnet werden</span></p></li>

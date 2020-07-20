@@ -76,13 +76,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Tip &amp; trik</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.id" title="Determine which version of GNOME is running"><span class="title">Determine which version of GNOME is running</span><span class="linkdiv-dash"> — </span><span class="desc">How to determine which version of GNOME is running.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.id" title="Klik tengah"><span class="title">Klik tengah</span><span class="linkdiv-dash"> — </span><span class="desc">Use the middle mouse button to open applications, open tabs and
-    more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.id" title="Masukkan karakter khusus"><span class="title">Masukkan karakter khusus</span><span class="linkdiv-dash"> — </span><span class="desc">Type characters not found on your keyboard, including foreign alphabets, mathematical symbols, and dingbats.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna"><span class="title">Pintasan papan tik yang berguna</span><span class="linkdiv-dash"> — </span><span class="desc">Get around the desktop using the keyboard.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.id" title="Screenshots and screencasts"><span class="title">Screenshots and screencasts</span><span class="linkdiv-dash"> — </span><span class="desc">Take a picture or record a video of what is happening on your
-    screen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.id" title="Klik tengah"><span class="title">Klik tengah</span><span class="linkdiv-dash"> — </span><span class="desc">Memakai tombol tengah tetikus untuk membuka aplikasi, membuka tab, dan lebih banyak lagi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="tips-specialchars.html.id" title="Masukkan karakter khusus"><span class="title">Masukkan karakter khusus</span><span class="linkdiv-dash"> — </span><span class="desc">Ketikkan karakter yang tidak ditemukan pada papan ketik Anda, termasuk abjad asing, simbol matematis, dan dingbat.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="gnome-version.html.id" title="Menentukan versi GNOME mana yang sedang berjalan"><span class="title">Menentukan versi GNOME mana yang sedang berjalan</span><span class="linkdiv-dash"> — </span><span class="desc">Cara menentukan versi GNOME mana yang sedang berjalan.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna"><span class="title">Pintasan papan tik yang berguna</span><span class="linkdiv-dash"> — </span><span class="desc">Bergerak sekitar desktop menggunakan papan ketik.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="screen-shot-record.html.id" title="Tangkapan layar dan screencast"><span class="title">Tangkapan layar dan screencast</span><span class="linkdiv-dash"> — </span><span class="desc">Mengambil gambar atau merekam video dari apa yang terjadi pada layar Anda.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

@@ -76,8 +76,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Finestres i espais de treball</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Igual que en altres escriptoris, GNOME usa finestres per mostrar les aplicacions en execució. Utilitzant la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i el <span class="em">tauler</span>, podeu iniciar noves aplicacions i controlar finestres actives.</p>
-<p class="p">També podeu agrupar les vostres aplicacions en espais de treball. Visiteu els temes d'ajuda sobre la finestra i l'espai de treball a continuació per obtenir més informació sobre com utilitzar aquestes funcions.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
+<p class="p">També podeu agrupar les vostres aplicacions en espais de treball. Visiteu els temes d'ajuda sobre la finestra i l'espai de treball a continuació per a obtenir més informació sobre com utilitzar aquestes funcions.</p>
 </div>
 <section id="working-with-windows"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Treballar amb finestres</span></h2></div>
@@ -93,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div></div></div></div></div></div>
 </div></section><section id="working-with-workspaces"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Treballant amb espais de treball</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Treballar amb espais de treball</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-workspaces.html.ca" title="Què és un espai de treball i com m'ajudarà?"><span class="title">Què és un espai de treball i com m'ajudarà?</span><span class="linkdiv-dash"> — </span><span class="desc">Els espais de treball són una manera d'agrupar finestres al vostre escriptori.</span></a></div>

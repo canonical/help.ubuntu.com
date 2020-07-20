@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Views preferences in Files</title>
+<title>Preferensi tampilan dalam Berkas</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,34 +70,26 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » <a class="trail" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Views preferences in <span class="app">Files</span></span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Preferensi tampilan dalam <span class="app">Berkas</span></span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">You can change how files and folders are grouped and sorted by default.
-Press the menu button in the top-right corner of the window, select
-<span class="gui">Preferences</span>, and then select the
-<span class="gui">Views</span> tab.</p></div>
+<div class="contents pagewide"><p class="p">Anda dapat mengubah cara berkas dan folder dikelompokkan dan diurutkan secara default. Tekan tombol menu di pojok kanan atas jendela, pilih <span class="gui">Preferensi</span>, lalu pilih tab <span class="gui">Tampilan</span>.</p></div>
 <section id="default-view"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tilikan baku</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Susun objek</span></dt>
-<dd class="terms"><p class="p">You can change how <span class="link"><a href="files-sort.html.id" title="Urutkan berkas dan folder">files are
-    sorted</a></span> in an individual folder by clicking the view options
-    
-    menu button in the toolbar and choosing the desired option under
-    <span class="gui">Sort</span>, or by clicking the list column headers in list view.</p></dd>
+<dd class="terms"><p class="p">Anda dapat mengubah cara <span class="link"><a href="files-sort.html.id" title="Urutkan berkas dan folder">berkas diurutkan</a></span> dalam satu folder dengan mengklik tombol menu opsi tampilan di bilah alat dan memilih opsi yang diinginkan di bawah <span class="gui">Urutkan</span>, atau dengan mengklik kepala kolom daftar dalam tampilan daftar.</p></dd>
 <dt class="terms"><span class="gui">Urut folder sebelum berkas</span></dt>
-<dd class="terms"><p class="p">By default, the file manager no longer shows all folders before files.
-    To see all folders listed before files, enable this option.</p></dd>
+<dd class="terms"><p class="p">Secara default, manajer berkas tidak lagi menampilkan semua folder sebelum berkas. Untuk melihat semua folder yang tercantum sebelum berkas, aktifkan opsi ini.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a><span class="desc"> — Melihat dan mengatur preferensi untuk peramban berkas.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -84,8 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
-<li class="steps"><p class="p">Klik på <span class="gui">Enheder</span> i sidebjælken.</p></li>
-<li class="steps"><p class="p">Klik på <span class="gui">Tastatur</span> i sidebjælken for at åbne panelet.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard Shortcuts</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
       window will be shown.</p></li>
 <li class="steps"><p class="p">Hold den ønskede tastekombination nede eller tryk på <span class="key"><kbd>Backspace</kbd></span> for at nulstille, eller tryk på <span class="key"><kbd>Esc</kbd></span> for at annullere.</p></li>

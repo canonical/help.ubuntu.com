@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
       Windows partition), or</p></li>
 <li class="list"><p class="p">installing new applications.</p></li>
 </ul></div></div></div>
-<p class="p">You can <span class="link"><a href="user-admin-change.html.id" title="Ubah siapa yang memiliki privilese administratif">change who has administrative
+<p class="p">You can <span class="link"><a href="user-admin-change.html.id" title="Mengubah siapa yang memiliki privilese administratif">change who has administrative
   privileges</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -99,11 +99,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — Anda memerlukan hak akses administratif untuk mengubah bagian penting dari sistem Anda.</span>
 </li>
 <li class="links ">
-<a href="user-admin-change.html.id" title="Ubah siapa yang memiliki privilese administratif">Ubah siapa yang memiliki privilese administratif</a><span class="desc"> — You can allow users to make changes to the system by giving them
+<a href="user-admin-change.html.id" title="Mengubah siapa yang memiliki privilese administratif">Mengubah siapa yang memiliki privilese administratif</a><span class="desc"> — You can allow users to make changes to the system by giving them
     administrative privileges.</span>
 </li>
 </ul></div>

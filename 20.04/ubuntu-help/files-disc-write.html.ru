@@ -75,36 +75,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Запись файлов на CD или DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Записать файлы на чистый диск можно с помощью приложения <span class="gui">Создание CD/DVD</span>. Пункт меню для записи на CD или DVD появится в менеджере файлов, как только вы поместите компакт-диск в устройство для записи CD/DVD. Файловый менеджер позволяет переносить файлы на другие компьютеры или создавать <span class="link"><a href="backup-why.html.ru" title="Резервное копирование важных данных">резервные копии</a></span>, записывая файлы на чистый оптический носитель. Чтобы записать файлы на CD или DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Поместите чистый диск в устройство записи CD/DVD.</p></li>
-<li class="steps">
-<p class="p">Во всплывающем уведомлении <span class="gui">Чистый диск CD/DVD-R</span>, которое появится внизу экрана, выберите пункт <span class="gui">Открыть с помощью программы для создания CD/DVD</span>. Будет открыто окно папки <span class="gui">Создание CD/DVD</span>.</p>
-<p class="p">(Можно также нажать на <span class="gui">Чистый диск CD/DVD-R</span> в списке <span class="gui">Устройства</span> на боковой панели менеджера файлов.)</p>
-</li>
-<li class="steps"><p class="p">В поле <span class="gui">Имя диска</span> наберите название для диска.</p></li>
-<li class="steps"><p class="p">Перетащите или скопируйте в окно файлы для записи на диск.</p></li>
-<li class="steps"><p class="p">Нажмите <span class="gui">Записать на диск</span>.</p></li>
-<li class="steps">
-<p class="p">В выпадающем меню <span class="gui">Выберите диск для записи</span> выберите чистый диск.</p>
-<p class="p">(Вместо этого можно выбрать <span class="gui">Файл образа</span>. В результате файлы будут помещены в <span class="em">образ диска</span>, который будет сохранён на вашем компьютере. Позже можно будет прожечь этот образ на чистый диск.)</p>
-</li>
-<li class="steps"><p class="p">Нажмите на кнопку <span class="gui">Свойства</span>, если хотите настроить скорость записи, место размещения временных файлов и другие параметры. Можно использовать параметры по умолчанию.</p></li>
-<li class="steps">
-<p class="p">Нажмите на кнопку <span class="gui">Записать</span>, чтобы начать запись.</p>
-<p class="p">Если выбрать <span class="gui">Записать несколько копий</span>, после записи одного диска вам будет предложено вставить следующие диски.</p>
-</li>
-<li class="steps"><p class="p">После того, как прожиг диска будет закончен, диск будет извлечён автоматически. Выберите <span class="gui">Сделать ещё копии</span> или <span class="gui">Закрыть</span> для выхода.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
   able to see the files you put onto the disc when you insert it into a
   computer.</p>
-<p class="p">В этом случае попробуйте записать диск ещё раз, но на меньшей скорости, например 12x вместо 48x. Прожиг на меньшей скорости более надёжен. Выбрать скорость можно, нажав кнопку <span class="gui">Свойства</span> в окне <span class="gui">Создание CD/DVD</span>.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

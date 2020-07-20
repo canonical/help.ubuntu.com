@@ -91,12 +91,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Ujistěte se, že vaše bezdrátová karta je zapnutá, nebo že síťový kabel je zastrčený.</p>
 </li>
 <li class="steps">
-<p class="p">Klikněte na tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span>.</p>
+<p class="p">Click the
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span>
+      button.</p>
 <div class="note" title="Upozornění">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Pro připojení přes <span class="gui">Wi-Fi</span> se tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span> nachází vedle aktivní sítě.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Pro připojení přes <span class="gui">Wi-Fi</span> se tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="nastavení"></span></span> nachází vedle aktivní sítě.</p></div></div></div>
 </div>
 </li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">IPv4</span> nebo <span class="gui">IPv6</span> v levém panelu a změňte <span class="gui">Metoda</span> na <span class="em">Ruční</span>.</p></li>

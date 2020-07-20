@@ -76,23 +76,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Apa itu penggerak?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Devices are the physical “parts” of your computer. They may be
-<span class="em">external</span> like printers and monitor or <span class="em">internal</span> like graphics
-and audio cards.</p>
-<p class="p">In order for your computer to be able to use these devices, it needs to know
-how to communicate with them. This is done by a piece of software called a
-<span class="em">device driver</span>.</p>
-<p class="p">When you attach a device to your computer, you must have the correct driver
-installed for that device to work. For example, if you plug in a printer but
-the correct driver is not available, you will not be able to use the printer.
-Normally, each model of device uses a driver that is not compatible with any
-other model.</p>
-<p class="p">On Linux, the drivers for most devices are installed by default, so
-everything should work when you plug it in. However, the drivers may need to be
-installed manually or may not be available at all. </p>
-<p class="p">In addition, some existing drivers are incomplete or partially
-non-functional. For example, you might find that your printer cannot do
-double-sided printing, but is otherwise completely functional.</p>
+<p class="p">Perangkat adalah "bagian" fisik dari komputer Anda. Mereka mungkin <span class="em">eksternal</span> seperti pencetak dan monitor atau <span class="em">internal</span> seperti grafis dan kartu audio.</p>
+<p class="p">Agar komputer Anda dapat menggunakan perangkat ini, itu perlu tahu bagaimana berkomunikasi dengan mereka. Hal ini dilakukan oleh perangkat lunak yang disebut <span class="em">driver perangkat</span>.</p>
+<p class="p">Ketika Anda mencantolkan perangkat ke komputer Anda, Anda harus menginstal driver yang benar bagi perangkat tersebut agar bekerja. Sebagai contoh, jika Anda mencolokkan pencetak tetapi driver yang benar tidak tersedia, Anda tidak akan dapat menggunakan pencetak. Biasanya, setiap model perangkat menggunakan driver yang tidak kompatibel dengan model lain.</p>
+<p class="p">Di Linux, driver untuk sebagian besar perangkat diinstal secara default, sehingga semuanya harus bekerja saat Anda mencolokkan. Namun, driver mungkin perlu diinstal secara manual atau mungkin tidak tersedia sama sekali.</p>
+<p class="p">Selain itu, beberapa driver yang ada tidak lengkap atau sebagian non-fungsional. Misalnya, Anda mungkin mendapati bahwa pencetak Anda tidak dapat melakukan pencetakan dua sisi, tetapi jika tidak berfungsi sepenuhnya.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -107,14 +95,13 @@ double-sided printing, but is otherwise completely functional.</p>
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Beberapa perangkat keras komputer menyebabkan masalah dengan suspensi.</span>
 </li>
 <li class="links ">
 <a href="bluetooth-problem-connecting.html.id" title="Saya tak bisa menyambung ke perangkat Bluetooth saya">Saya tak bisa menyambung ke perangkat Bluetooth saya</a><span class="desc"> — Adaptor mungkin dimatikan atau tak memiliki driver, atau Bluetooth mungkin dinonaktifkan atau diblokir.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html.id" title="Saya tak punya jaringan nirkabel ketika membangunkan komputer saya">Saya tak punya jaringan nirkabel ketika membangunkan komputer saya</a><span class="desc"> — Some wireless devices have problems handling when your computer is
-    suspended and does not resume properly.</span>
+<a href="power-nowireless.html.id" title="Saya tak punya jaringan nirkabel ketika membangunkan komputer saya">Saya tak punya jaringan nirkabel ketika membangunkan komputer saya</a><span class="desc"> — Beberapa perangkat nirkabel mengalami masalah penanganan saat komputer disuspensi dan tidak melanjutkan dengan benar.</span>
 </li>
 </ul></div>
 </div></div>

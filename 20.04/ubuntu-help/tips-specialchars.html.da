@@ -91,7 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="characters"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tegn</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">GNOME kommer med et tegnkort-program som giver dig mulighed for at finde og indsætte ualmindelige tegn, inklusive emoji, ved at gennemse tegnkategorier eller søge efter nøgleord.</p>
+<p class="p">The character map application allows you to find and insert unusual
+    characters, including emoji, by browsing character categories or searching
+    for keywords.</p>
 <p class="p">Du kan starte <span class="app">Tegn</span> fra Aktivitetsoversigten.</p>
 </div></div>
 </div></section><section id="compose"><div class="inner">

@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Uw bureaublad</span></h1></div>
@@ -91,13 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.nl" title="Agenda-afspraken"><span class="title">Agenda-afspraken</span><span class="linkdiv-dash"> — </span><span class="desc">Uw afspraken weergeven in de agenda aan de bovenkant van het scherm.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.nl" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.nl" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Berichten verschijnen aan de bovenkant van het scherm en vertellen u wanneer bepaalde gebeurtenissen plaatsvinden.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.nl" title="Zet uw favoriete toepassingen op de Starter"><span class="title">Zet uw favoriete toepassingen op de Starter</span><span class="linkdiv-dash"> — </span><span class="desc">Veelgebruikte programmapictogrammen toevoegen aan (of verwijderen uit) de Starter.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.nl" title="Zet uw favoriete toepassingen op de Starter"><span class="title">Zet uw favoriete toepassingen op de Starter</span><span class="linkdiv-dash"> — </span><span class="desc">Veelgebruikte programmapictogrammen toevoegen aan (of verwijderen uit) de Starter.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Toepassingen en vensters</span></h2></div>
@@ -117,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html.nl" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving">Gids voor de Ubuntu-werkomgeving</a></li></ul></div>
 </div></div></div>
 </div></section>
 </div>

@@ -70,34 +70,21 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.id" title="Wireless networking">Wireless networking</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Apa arti WEP dan WPA?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">WEP and WPA (along with WPA2) are names for different encryption tools
-  used to secure your wireless connection. Encryption scrambles the network
-  connection so that no one can “listen in” to it and look at which web pages
-  you are viewing, for example. WEP stands for <span class="em">Wired Equivalent
-  Privacy</span>, and WPA stands for <span class="em">Wireless Protected Access</span>. WPA2 is
-  the second version of the WPA standard.</p>
-<p class="p">Using <span class="em">some</span> encryption is always better than using none, but WEP
-  is the least secure of these standards, and you should not use it if you can
-  avoid it. WPA2 is the most secure of the three. If your wireless card and
-  router support WPA2, that is what you should use when setting up your
-  wireless network.</p>
+<p class="p">WEP dan WPA (bersama dengan WPA2) adalah nama-nama untuk alat enkripsi yang berbeda, digunakan untuk mengamankan koneksi nirkabel Anda. Enkripsi mengacak koneksi jaringan sehingga tidak ada yang dapat "mendengarkannya" dan melihat halaman web yang Anda lihat, misalnya. WEP singkatan dari <span class="em">Wired Equivalent Privacy</span>, dan WPA adalah singkatan dari <span class="em">Wireless Protected Access</span>. WPA2 adalah versi kedua dari standar WPA.</p>
+<p class="p">Menggunakan <span class="em">beberapa</span> enkripsi selalu lebih baik daripada tidak menggunakan apa pun, tapi WEP adalah yang paling tidak aman dari standar ini, dan Anda jangan menggunakannya jika Anda dapat menghindarinya. WPA2 adalah yang paling aman dari ketiganya. Jika kartu nirkabel dan router Anda mendukung WPA2, itulah yang harus Anda gunakan saat mengatur jaringan nirkabel Anda.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.id" title="Wireless networking">Wireless networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Connect to Wi-Fi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Wi-Fi disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Wi-Fi Memutus</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why add an account?</title>
+<title>Pourquoi ajouter un compte ?</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Why add an account?</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Pourquoi ajouter un compte ?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Adding your online accounts brings your choice of services like calendar,
@@ -83,19 +83,14 @@ document.addEventListener('DOMContentLoaded', function() {
   the same time. Just set up your online accounts once and every time you start
   your computer all the accounts and services that you have added are ready to
   use.</p>
-<p class="p">See <span class="link"><a href="accounts-which-application.html.fr" title="Online services and applications">Online services and applications</a></span> for information on which
-  applications can access which online services.</p>
+<p class="p">Se référer à <span class="link"><a href="accounts-which-application.html.fr" title="Services en ligne et applications">Services en ligne et applications</a></span> pour plus d’informations quant aux services en ligne auxquels chaque application peut accéder.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html.fr" title="Ajout d'un compte">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html.fr" title="Online services and applications">Learn about services</a></span>…
-    </span>
+<a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — <span class="link"><a href="accounts-add.html.fr" title="Ajout d’un compte">Ajouter un compte en ligne</a></span>, <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Supprimer un compte</a></span>, <span class="link"><a href="accounts-which-application.html.fr" title="Services en ligne et applications">Découvrir les services</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

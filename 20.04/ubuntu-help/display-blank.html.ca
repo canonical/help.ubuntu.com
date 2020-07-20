@@ -84,12 +84,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Establir el temps d'entrada en inactivitat de la pantalla</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Per estalviar energia, podeu ajustar el temps abans que la pantalla entri en mode d'espera i quedi inactiva. També podeu desactivar completament la desconnexió.</p>
+<p class="p">Per a estalviar energia, podeu ajustar el temps abans que la pantalla entri en mode d'espera i quedi inactiva. També podeu desactivar completament la desconnexió.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Per establir el temps d'entrada en inactivitat:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general <span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Energia</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Energia</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Energia</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Utilitzeu la llista del desplegable <span class="gui">Pantalla en blanc</span> a <span class="gui">Estalvi d'energia</span> per establir el temps en què la pantalla entra en inactivitat, o desactivar-lo completament.</p></li>
 </ol></div>
 </div></div>
@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="power.html.ca#saving" title="Configuració d'estalvi d'energia">Configuració d'estalvi d'energia</a></li>
 <li class="links ">
-<a href="prefs-display.html.ca" title="Monitor i pantalla">Monitor i pantalla</a><span class="desc"> — <span class="link"><a href="look-background.html.ca" title="Canviar els fons de la pantalla d'escriptori i bloqueig">Fons de pantalla</a></span>, <span class="link"><a href="look-resolution.html.ca" title="Canvi de la resolució o de la rotació de la pantalla">mida i orientació</a></span>, <span class="link"><a href="display-brightness.html.ca" title="Establir la brillantor de la pantalla">brillantor</a></span>, <span class="link"><a href="display-night-light.html.ca" title="Ajustar la a temperatura de color de la seva pantalla">temperatura del color</a></span>…</span>
+<a href="prefs-display.html.ca" title="Monitor i pantalla">Monitor i pantalla</a><span class="desc"> — <span class="link"><a href="look-background.html.ca" title="Canviar els fons de la pantalla d'escriptori i bloqueig">Fons de pantalla</a></span>, <span class="link"><a href="look-resolution.html.ca" title="Canviar la resolució o la rotació de la pantalla">mida i orientació</a></span>, <span class="link"><a href="display-brightness.html.ca" title="Establir la brillantor de la pantalla">brillantor</a></span>, <span class="link"><a href="display-night-light.html.ca" title="Ajustar la a temperatura de color de la seva pantalla">temperatura del color</a></span>…</span>
 </li>
 <li class="links ">
 <a href="hardware-problems-graphics.html.ca" title="Problemes de pantalla">Problemes de pantalla</a><span class="desc"> — Resolució de problemes de pantalla i gràfics.</span>
@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="session-screenlocks.html.ca" title="La pantalla es tanca massa ràpidament">La pantalla es tanca massa ràpidament</a><span class="desc"> — Canvieu el temps d'espera abans de bloquejar la pantalla a la configuració de la <span class="gui">Privacitat</span>.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html.ca" title="Per què s'enfosqueix la pantalla després d'una estona?">Per què s'enfosqueix la pantalla després d'una estona?</a><span class="desc"> — Quan l'ordinador estigui inactiu la pantalla s'enfosquirà per estalviar energia.</span>
+<a href="power-whydim.html.ca" title="Per què s'enfosqueix la pantalla després d'una estona?">Per què s'enfosqueix la pantalla després d'una estona?</a><span class="desc"> — Quan l'ordinador estigui inactiu la pantalla s'enfosquirà per a estalviar energia.</span>
 </li>
 </ul></div>
 </div></div>

@@ -2,9 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Create a startup disk
-  </title>
+<title>ליצור כונן הפעלה</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,30 +71,24 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.he" title="Install &amp; remove software">Add/remove software</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="hardware.html.he" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="disk.html.he" title="Disks &amp; storage">Disks &amp; storage</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.he" title="Hardware &amp; drivers">Hardware</a> » <a class="trail" href="disk.html.he" title="Disks &amp; storage">Disks &amp; storage</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="addremove.html.he" title="התקנה והסרה של תכנה">הוספה/הסרה של תכנה</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">
-    Create a startup disk
-  </span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">ליצור כונן הפעלה</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">In this context a startup disk is a USB flash drive from which you can startup and <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">install Ubuntu</a></span>.
-  The capacity of the USB flash drive must be at least 2 GB.
-  Any data on the USB flash drive will be lost when you create the startup disk.</p>
-<p class="p">It's assumed that you have downloaded an Ubuntu ISO image.</p>
-<p class="p">To create a startup disk from an Ubuntu ISO image:</p>
+<p class="p">בהקשר הזה, כונן הפעלה הוא כונן USB נייד ממנו ניתן להפעיל את המחשב ו<span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">להתקין אובונטו</a></span>. נפח כונן ה־USB חייב להיות 2 ג״ב לכל הפחות. אם יש מידע כלשהו על כונן ה־USB הוא יאבד בעת יצירת כונן ההפעלה.</p>
+<p class="p">ההנחה היא שכבר הורדת את קובץ ה־ISO של אובונטו.</p>
+<p class="p">כדי ליצור כונן הפעלה מקובץ ISO של אובונטו:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">לפתוח את <span class="app">יוצר הכוננים להפעלה</span> דרך סרגל החיפוש <span class="em">פעילויות</span>.</p></li>
 <li class="steps"><p class="p">אם דמות ה־ISO נמצאת בתיקיית ה<span class="gui">הורדות</span> ויש שם רק דמות ISO אחת, <span class="app">יוצר כונני האתחול</span> יבחר אותה אוטומטית, בכל מקרה אחר נא לבחור את דמות ה־ISO הנכונה.</p></li>
 <li class="steps"><p class="p">אם למחשב שלך יש כונן USB אחד בלבד, <span class="app">יוצר כונני האתחול</span> יבחר אותו, במקרים אחרים יש לבחור את הכונן הנכון.</p></li>
-<li class="steps"><p class="p">יש ללחוץ על <span class="gui">יצירת כונן אתחול</span>.</p></li>
-<li class="steps"><p class="p">יש ללחוץ על <span class="gui">כן</span> לאישור. התהליך אמור לארוך עשר דקות או פחות.</p></li>
+<li class="steps"><p class="p">ללחוץ על <span class="gui">יצירת כונן אתחול</span>.</p></li>
+<li class="steps"><p class="p">ללחוץ על <span class="gui">כן</span> לאישור. התהליך אמור לארוך עשר דקות או פחות.</p></li>
 <li class="steps"><p class="p">כאשר נפתחת החלונית „ההתקנה הושלמה” יש ללחוץ על <span class="gui">יציאה</span>.</p></li>
 </ol></div></div></div>
 </div>
@@ -114,11 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
   </span>
 </li>
 <li class="links ">
-<a href="addremove.html.he" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.he" title="Remove an application">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.he" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.he" title="התקנה והסרה של תכנה">התקנה והסרה של תכנה</a><span class="desc"> — <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">התקנת יישומים</a></span>, <span class="link"><a href="addremove-remove.html.he" title="הסרת יישום">הסרת יישומים</a></span>, <span class="link"><a href="addremove-sources.html.he" title="הוספת מאגרי תכנה">הוספת מאגרים</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

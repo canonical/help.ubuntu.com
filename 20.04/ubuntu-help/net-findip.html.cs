@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">V seznamu nalevo vyberte připojení – <span class="gui">Wi-Fi</span> nebo <span class="gui">Drátové</span>.</p>
 <p class="p">Adresa IP pro drátové připojení bude zobrazena napravo.</p>
-<p class="p">V panelu <span class="gui">Podrobnosti</span> si kliknutím na tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span> si zobrazte adresu IP pro bezdrátovou síť.</p>
+<p class="p">V panelu <span class="gui">Podrobnosti</span> si kliknutím na tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="nastavení"></span></span> si zobrazte adresu IP pro bezdrátovou síť.</p>
 </li>
 </ol></div>
 </div></div>

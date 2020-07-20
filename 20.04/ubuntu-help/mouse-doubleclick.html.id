@@ -73,36 +73,27 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="trail">
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html.id" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Setel kecepatan klik ganda</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Double-clicking only happens when you press the mouse button twice
-  quickly enough. If the second press is too long after the first, you’ll
-  just get two separate clicks, not a double click. If you have difficulty
-  pressing the mouse button quickly, you should increase the timeout.</p>
+<p class="p">Klik ganda hanya terjadi ketika Anda menekan tombol tetikus dua kali cukup cepat. Jika penekanan kedua terlalu lama setelah yang pertama, Anda hanya akan mendapatkan dua klik terpisah, bukan klik ganda. Jika Anda mengalami kesulitan menekan tombol tetikus dengan cepat, Anda harus menaikkan tenggat waktu.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Under <span class="gui">Pointing &amp; Clicking</span>, adjust the
-      <span class="gui">Double-Click Delay</span> slider to a value you find comfortable.</p></li>
+<li class="steps"><p class="p">Di bawah <span class="gui">Menunjuk &amp; Mengklik</span>, sesuaikan penggeser <span class="gui">Tundaan Klik Ganda</span> ke nilai yang Anda rasa nyaman.</p></li>
 </ol></div></div></div>
-<p class="p">If your mouse double-clicks when you want it to single-click even though
-  you have increased the double-click timeout, your mouse may be faulty. Try
-  plugging a different mouse into your computer and see if that works properly.
-  Alternatively, plug your mouse into a different computer and see if it still
-  has the same problem.</p>
+<p class="p">Jika tetikus Anda mengklik dua kali ketika Anda ingin klik satu kali meskipun Anda telah meningkat klik dua kali timeout, tetikus Anda mungkin rusak. Coba sambungkan tetikus lain ke komputer dan lihat apakah yang berfungsi dengan benar. Atau, sambungkan tetikus Anda ke komputer lain dan lihat apakah masih ada masalah yang sama.</p>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">This setting will affect both your mouse and touchpad, as well as any
-    other pointing device.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Pengaturan ini akan mempengaruhi baik tetikus dan touchpad, serta perangkat penunjuk lainnya.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -112,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.id" title="Gunakan tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Adjust the speed of the mouse and touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Click, drag, or scroll with the touchpad">mengklik dan menggulir touchpad</a></span>…</span>
+<a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.id" title="Memakai tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Menyetel kecepatan tetikus dan touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Mengklik, menyeret, atau menggulir dengan touchpad">mengklik dan menggulir touchpad</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

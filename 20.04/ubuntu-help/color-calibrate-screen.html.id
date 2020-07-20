@@ -84,12 +84,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Anda akan perlu colorimeter atau spectrophotometer untuk melakukan ini. Kedua perangkat dipakai untuk membuat profil layar, tapi mereka bekerja dengan cara yang sedikit berbeda.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Pastikan perangkat kalibrasi Anda terhubung ke komputer Anda.</p></li>
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Select your screen.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Warna</span> dalam bilah sisi untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Pilih layar Anda.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Kalibrasikan…</span> untuk melakukan kalibrasi.</p></li>
 </ol></div></div></div>
 <p class="p">Layar berubah setiap saat: kecerahan cahaya latar dalam suatu tampilan TFT akan menjadi separuhnya kira-kira setiap 18 bulan, dan akan menjadi semakin kuning ketika semakin tua. Ini berarti Anda mesti mengkalibrasi layar Anda ketika ikon [!] muncul pada panel <span class="gui">Warna</span>.</p>

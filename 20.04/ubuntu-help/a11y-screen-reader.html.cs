@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Čtení obrazovky nahlas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME poskytuje čtečku obrazovky <span class="app">Orca</span>, která umí říkat, co je na obrazovce v uživatelském rozhraní. V závislosti na tom, jak máte nainstalováno GNOME, můžete mít čtečku Orca nainstalovanou. Pokud ne, musíte ji nejprve nainstalovat.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can speak the user interface. Depending
+  on how you installed your system, you might not have Orca installed. If not,
+  install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Nainstalovat čtečku Orca</a></span></p>
 <p class="p">Pro spuštění čtečky <span class="app">Orca</span> pomocí klávesnice:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Zmáčkněte <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span></span>.</p></li></ol></div></div></div>

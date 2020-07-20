@@ -76,7 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Einstellungen zur Freigabe</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Die <span class="em">Freigabe-Einstellungen</span> in GNOME helfen Ihnen festzulegen, was über das lokale Netzwerk oder über andere Technologien wie <span class="em">Bluetooth</span> freigegeben wird.</p>
+<p class="p">The <span class="em">Sharing Settings</span> help you control what is shared over the
+  local network, or through other technologies such as <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.de" title="Legen Sie den Anzeigenamen Ihres Rechners fest"><span class="title">Legen Sie den Anzeigenamen Ihres Rechners fest</span><span class="linkdiv-dash"> — </span><span class="desc">Legen Sie fest, wie Ihr Rechner für andere Rechner oder Geräte erscheint.</span></a></div>

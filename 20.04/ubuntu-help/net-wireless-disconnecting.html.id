@@ -71,51 +71,33 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.id" title="Wireless networking">Wireless networking</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mengapa jaringan nirkabel saya terputus terus?</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">You may find that you have been disconnected from a wireless network even
- though you wanted to stay connected. Your computer will normally try to
- reconnect to the network as soon as this happens (the network icon on the top
- bar will display three dots if it is trying to reconnect), but it can be
- annoying, especially if you were using the internet at the time.</p></div>
+<div class="contents pagewide"><p class="p">Anda mungkin menemukan bahwa Anda telah terputus dari jaringan nirkabel meskipun Anda ingin tetap terhubung. Komputer Anda biasanya akan mencoba untuk menyambung kembali ke jaringan segera setelah ini terjadi (ikon jaringan di bar bagian atas akan menampilkan tiga titik jika mencoba untuk menyambung kembali), tetapi dapat mengganggu, terutama jika Anda menggunakan internet pada saat itu.</p></div>
 <section id="signal"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Sinyal nirkabel lemah</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Alasan umum untuk terputus dari jaringan nirkabel adalah bahwa Anda memiliki sinyal lemah. Jaringan nirkabel memiliki jangkauan yang terbatas, jadi jika Anda terlalu jauh dari base station nirkabel Anda mungkin tidak bisa mendapatkan sinyal yang cukup kuat untuk mempertahankan koneksi. Dinding dan benda-benda lain antara Anda dan base station juga dapat melemahkan sinyal.</p>
-<p class="p">The network icon on the top bar displays how strong your wireless signal is.
- If the signal looks low, try moving closer to the wireless base station.</p>
+<p class="p">Ikon jaringan di bilah puncak menampilkan seberapa kuat sinyal nirkabel Anda. Jika sinyal terlihat rendah, coba pindahkan lebih dekat ke pemancar nirkabel.</p>
 </div></div>
 </div></section><section id="network"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Network connection not being established properly</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Sambungan jaringan tidak terjalin dengan benar</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Sometimes, when you connect to a wireless network, it may appear that you
- have successfully connected at first, but then you will be disconnected soon
- after. This normally happens because your computer was only partially
- successful in connecting to the network — it managed to establish a connection,
- but was unable to finalize the connection for some reason and so was
- disconnected.</p>
+<p class="p">Terkadang, ketika Anda terhubung ke jaringan nirkabel, mungkin terlihat bahwa Anda telah berhasil terhubung pada awalnya, tetapi kemudian Anda akan terputus segera setelah. Hal ini biasanya terjadi karena komputer Anda hanya sebagian berhasil dalam menghubungkan ke jaringan - itu berhasil membangun koneksi, tetapi tidak dapat menyelesaikan koneksi untuk beberapa alasan dan lalu terputus.</p>
 <p class="p">Alasan yang mungkin adalah Anda memasukkan frasa sandi nirkabel yang salah, atau bahwa komputer Anda tak diijinkan pada jaringan (karena jaringan memerlukan suatu nama pengguna untuk log masuk, misalnya).</p>
 </div></div>
 </div></section><section id="hardware"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Perangkat keras/penggerak nirkabel yang tak reliabel</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">Some wireless network hardware can be a little unreliable. Wireless
- networks are complicated, so wireless cards and base stations occasionally run
- into minor problems and may drop connections. This is annoying, but it happens
- quite regularly with many devices. If you are disconnected from wireless
- connections from time to time, this may be the only reason. If it happens very
- regularly, you may want to consider getting some different hardware.</p></div></div>
+<div class="region"><div class="contents pagewide"><p class="p">Beberapa perangkat keras jaringan nirkabel dapat menjadi sedikit tidak dapat diandalkan. Jaringan nirkabel rumit, sehingga kartu nirkabel dan stasiun basis sesekali mengalami masalah kecil dan dapat menjatuhkan koneksi. Ini menjengkelkan, tapi itu terjadi cukup teratur dengan banyak perangkat. Jika Anda terputus dari koneksi nirkabel dari waktu ke waktu, ini mungkin satu-satunya alasan. Jika itu terjadi sangat teratur, Anda mungkin ingin mempertimbangkan untuk mendapatkan beberapa hardware yang berbeda.</p></div></div>
 </div></section><section id="busy"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Jaringan nirkabel sibuk</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">Wireless networks in busy places (in universities and coffee shops, for
- example) often have many computers trying to connect to them at once. Sometimes
- these networks get too busy and may not be able to handle all of the computers
- that are trying to connect, so some of them get disconnected.</p></div></div>
+<div class="region"><div class="contents pagewide"><p class="p">Jaringan nirkabel di tempat yang sibuk (di universitas dan kedai kopi, misalnya) sering memiliki banyak komputer mencoba untuk terhubung ke mereka sekaligus. Terkadang jaringan ini menjadi terlalu sibuk dan mungkin tidak dapat menangani semua komputer yang mencoba untuk terhubung, sehingga beberapa dari mereka bisa terputus.</p></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
@@ -123,24 +105,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.id" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
-    </span>
+<a href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Wi-Fi Memutus</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.id" title="Wireless networking">Wireless networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Connect to Wi-Fi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Wi-Fi disconnecting</a></span>…
-    </span>
+<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Melacak masalah koneksi nirkabel</a></span>, <span class="link"><a href="net-wireless-find.html.id" title="Saya tak bisa melihat jaringan nirkabelku dalam daftar">menemukan jaringan Wi-Fi Anda</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke jaringan nirkabel</a><span class="desc"> — Get on the internet — wirelessly.</span>
+<a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke jaringan nirkabel</a><span class="desc"> — Memakai internet - secara nirkabel.</span>
 </li></ul></div>
 </div></div>
 </div>

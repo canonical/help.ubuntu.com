@@ -83,7 +83,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Daudziem datoriem ir SD, MMC, SM, MS, CF un citu atmiņas karšu lasītāji. Tiem vajadzētu būt automātiski noteiktiem un <span class="link"><a href="disk-partitions.html.lv" title="Pārvaldiet apjomus un nodalījumus">piemontētiem</a></span>. Te ir daži problēmu novēršanas pasākumi, ja tā nav:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Pārliecinieties, ka karte ir ielikta pareizi. Daudzas kartes izskatās "kājām gaisā", kad ir pareizi ievietotas. Tāpat pārliecinieties, ka karte ir stingri iestiprināta slotā; dažām kartēm, it īpaši CF, nepieciešams nedaudz spēka pareizai ievietošanai. (Esiet uzmanīgi! Ja  jūtat to atduramies pret ko cietu, nespiediet stiprāk.)</p></li>
-<li class="steps"><p class="p">Atveriet <span class="app">Datnes</span>, no <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskata. Vai ievietotā karte parādās sarakstā <span class="gui">Ierīces</span> kreisajā sānu joslā? Dažreiz karte parādās šajā sarakstā, bet nav piemontēta; noklikšķiniet uz tās vienreiz, lai uzmontētu. (ja sānu josla nav redzama, spiediet <span class="key"><kbd>F9</kbd></span> vai spiediet <span class="gui">Datnes</span> augšēja joslā un izvēlieties<span class="gui">Sanu josla</span>.)</p></li>
+<li class="steps"><p class="p">Open <span class="app">Files</span> from the
+  <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span> overview. Does the inserted
+  card appear in the left sidebar? Sometimes the
+  card appears in this list but is not mounted; click it once to mount. (If the
+  sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
+  the top bar and select the <span class="gui">Sidebar</span>.)</p></li>
 <li class="steps"><p class="p">Ja jūsu karte neparādās sānu joslā, spiediet <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, tad ierakstiet <span class="input">computer:///</span> un spiediet <span class="key"><kbd>Enter</kbd></span>. Ja jūsu karšu lasītājs ir pareizi konfigurēts, tam vajadzētu parādīties kā dzinim, kad karte nav ievietota, un kā kartei, kad karte ir piemontēta.</p></li>
 <li class="steps"><p class="p">Ja redzat karšu lasītāju, bet neredzat karti, problēma var būt pašā kartē. Pamēģiniet citu karti, vai pārbaudiet karti ar citu karšu lasītāju, ja iespējams.</p></li>
 </ol></div></div></div>

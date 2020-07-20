@@ -80,7 +80,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Inställningar</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Inställningar</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Enheter</span> i sidopanelen.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Skärmar</span> i sidopanelen för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Pröva några av alternativen för <span class="gui">Upplösning</span> och välj det som får skärmen att se bättre ut.</p></li>
 </ol></div></div></div>

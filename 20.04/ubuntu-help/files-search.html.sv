@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Sök</span>.</p></li>
 <li class="steps"><p class="p">Välj <span class="guiseq"><span class="gui">Inställningar</span> ▸ <span class="gui">Sök</span></span> från resultaten. Detta kommer att öppna panelen <span class="gui">Sökinställningar</span>.</p></li>
-<li class="steps"><p class="p">Välj <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="Preferences key symbol"></span></span>-ikonen längst ner i inställningspanelen <span class="gui">Sök</span>.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Search Locations</span> button in the header bar.</p></li>
 </ol></div></div></div>
 <p class="p">Detta kommer att öppna en separat inställningspanel som låter dig växla huruvida katalogsökningar är på eller av. Du kan växla sökningar för vardera av de tre flikarna:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">

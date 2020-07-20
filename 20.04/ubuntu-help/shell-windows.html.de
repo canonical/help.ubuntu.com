@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Fenster und Arbeitsflächen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Wie andere Arbeitsumgebungen auch verwendet GNOME Fenster zur Anzeige von laufenden Anwendungen. Mit der <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Aktivitäten-Übersicht</a></span> und dem <span class="em">Dash</span> können Sie neue Anwendungen starten und steuern, welche Anwendung aktiv ist.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
 <p class="p">Zusätzlich zu den Fenstern können Sie Ihre Anwendungen innerhalb von Arbeitsflächen anordnen. Lesen Sie hierzu die nachfolgenden Abschnitte zu Fenstern und Arbeitsflächen, um mehr über diese Funktionsmerkmale zu erfahren.</p>
 </div>
 <section id="working-with-windows"><div class="inner">

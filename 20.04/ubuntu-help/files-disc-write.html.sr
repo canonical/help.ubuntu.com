@@ -75,34 +75,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Запишите датотеке на ЦД или ДВД</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Можете да набаците датотеке на празан диск користећи <span class="gui">Творца ЦД/ДВД-а</span>. Опција за резање Цд-а или ДВД-а ће се појавити у управнику датотека чим убаците диск у читач дискова. Управник датотека вам допушта да пренесете датотеке на друге рачунаре или да обавите стварање <span class="link"><a href="backup-why.html.sr" title="Направите резерве ваших важних датотека">резерви</a></span> набацивањем датотека на празан диск. Да нарежете датотеке на ЦД или ДВД:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Убаците празан диск у ваш уређај за резање дискова.</p></li>
-<li class="steps">
-<p class="p">У обавештењу <span class="gui">Празан преписиви ЦД/ДВД</span> који ће се појавити при дну екрана, изаберите <span class="gui">Отвори Творцем ЦД/ДВД-а</span>. Отвориће се прозор фасцикле <span class="gui">Творца ЦД/ДВД-а</span>.</p>
-<p class="p">(Можете такође да кликнете и на <span class="gui">Празан преписиви ЦД/ДВД</span> у одељку <span class="gui">Уређаји</span> у бочној површи управника датотека.)</p>
-</li>
-<li class="steps"><p class="p">У поље <span class="gui">Назив диска</span>, упишите назив за диск.</p></li>
-<li class="steps"><p class="p">Превуците или умножите жељене датотеке у прозор.</p></li>
-<li class="steps"><p class="p">Кликните <span class="gui">Нарежи на диск</span>.</p></li>
-<li class="steps">
-<p class="p">У прозорчету под <span class="gui">Изаберите диск за записивање</span>, изаберите празан диск.</p>
-<p class="p">(Можете да изаберете и <span class="gui">Датотека одраза</span>. Овим ћете набацити датотеке у <span class="em">одраз диска</span>, који ће бити сачуван на вашем рачунару. Овај одраз диска ћете моћи да нарежете на празан диск неком другом приликом.)</p>
-</li>
-<li class="steps"><p class="p">Кликните <span class="gui">Особине</span> ако желите да подесите брзину резања, место привремених датотека, и остале опције. Основне опције би требале да буду задовољавајуће.</p></li>
-<li class="steps">
-<p class="p">Кликните на дугме <span class="gui">Нарежи</span> да започнете записивање.</p>
-<p class="p">Ако изаберете <span class="gui">Нарежи више примерака</span>, од вас ће бити затражени додатни дискови.</p>
-</li>
-<li class="steps"><p class="p">Након завршеног нарезивања диска, исти ће бити самостално избачен. Изаберите <span class="gui">Направи још примерака</span> или <span class="gui">Затвори</span> да изађете.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Ако диск није исправно нарезан</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Понекада рачунар неће исправно записати податке, и ви нећете бити у могућности да видите датотеке које сте набацили на диск када га будете убацили у рачунар.</p>
-<p class="p">У том случају, покушајте поново да нарежете диск али користите мању брзину резања, на пример, 12х уместо 48х. Резање мањим брзинама је поузданије. Можете да изаберете брзину кликом на дугме <span class="gui">Особине</span> у прозору <span class="gui">Творцу ЦД/ДВД-а</span>.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="files.html.ca" title="Fitxers, carpetes i cerca">Fitxers, carpetes i cerca</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.ca" title="Cerca fitxers">Cerca</a></span>, <span class="link"><a href="files-delete.html.ca" title="Eliminar fitxers i carpetes">suprimeix fitxers</a></span>, <span class="link"><a href="files.html.ca#backup" title="Còpies de seguretat">còpies de seguretat</a></span>, <span class="link"><a href="files.html.ca#removable" title="Unitats extraïbles i discos externs">discos extraïbles</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="files-search.html.ca" title="Cercar fitxers">Cerca</a></span>, <span class="link"><a href="files-delete.html.ca" title="Eliminar fitxers i carpetes">suprimeix fitxers</a></span>, <span class="link"><a href="files.html.ca#backup" title="Còpies de seguretat">còpies de seguretat</a></span>, <span class="link"><a href="files.html.ca#removable" title="Unitats extraïbles i discos externs">discos extraïbles</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="addremove.html.ca" title="Instal·la i elimina programari">Instal·la i elimina programari</a></div>
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs.html.ca" title="Usuari i configuració del sistema">Usuari i configuració del sistema</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">ratolí</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, ratolí tàctil i pantalla tàctil">ratolí i ratolí tàctil</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware.html.ca" title="Maquinari i controladors">Maquinari i controladors</a></div>

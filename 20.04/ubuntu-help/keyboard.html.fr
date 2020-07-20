@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-links"><h2><span class="title">Accès universel</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-slowkeys.html.fr" title="Activation des touches lentes">Activation des touches lentes</a><span class="desc"> — Définir un délai entre le moment où une touche est pressée et celui où la lettre correspondante apparaît à l'écran.</span>
+<a href="a11y-slowkeys.html.fr" title="Activation des touches lentes">Activation des touches lentes</a><span class="desc"> — Définir un délai entre le moment où une touche est pressée et celui où la lettre correspondante apparaît à l’écran.</span>
 </li>
 <li class="links ">
 <a href="a11y-bouncekeys.html.fr" title="Activation des touches rebond">Activation des touches rebond</a><span class="desc"> — Ignorer les appuis de touches rapides et identiques.</span>

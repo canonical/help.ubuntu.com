@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Logi un darbvietas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Kā citas darbvirsmas, GNOME izmanto logus, lai attēlotu palaistās lietotnes. Lietojot <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Aktivitāšu</a></span> pārskatu un <span class="gui">paneli</span>, jūs varat palaist jaunas lietotnes un kontrolēt aktīvo logu.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
 <p class="p">Lietotnes var grupēt arī ar darbvietām. Skatiet logu un darbvietu palīdzības tematus zemāk, lai labāk labāk iemācītos, kā izmantot šīs iespējas.</p>
 </div>
 <section id="working-with-windows"><div class="inner">

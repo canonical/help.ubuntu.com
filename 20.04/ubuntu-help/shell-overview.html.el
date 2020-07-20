@@ -90,14 +90,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Προσαρμογή της επιφάνειας εργασίας σας</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.el" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.el" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Τα μηνύματα εμφανίζονται στο πάνω μέρος της οθόνης δείχνοντας πότε συμβαίνουν συγκεκριμένα συμβάντα.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.el" title="Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό"><span class="title">Βάλτε τις αγαπημένες σας εφαρμογές στο ταμπλό</span><span class="linkdiv-dash"> — </span><span class="desc">Προσθέστε (ή αφαιρέστε) εικονίδια προγραμμάτων που χρησιμοποιούνται συχνά στο ταμπλό.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.el" title="Συναντήσεις ημερολογίου"><span class="title">Συναντήσεις ημερολογίου</span><span class="linkdiv-dash"> — </span><span class="desc">Εμφανίστε τις συναντήσεις σας στο ημερολόγιο στην κορυφή της οθόνης.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.el" title="Συναντήσεις ημερολογίου"><span class="title">Συναντήσεις ημερολογίου</span><span class="linkdiv-dash"> — </span><span class="desc">Εμφανίστε τις συναντήσεις σας στο ημερολόγιο στην κορυφή της οθόνης.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Εφαρμογές και παράθυρα</span></h2></div>

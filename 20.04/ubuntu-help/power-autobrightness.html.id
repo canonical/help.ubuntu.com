@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Enable automatic brightness</title>
+<title>Memfungsikan kecerahan otomatis</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -71,38 +71,34 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a> › <a class="trail" href="power.html.id#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a> › <a class="trail" href="power.html.id#saving" title="Pengaturan penghematan daya">Pengaturan penghematan daya</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a> › <a class="trail" href="power.html.id#saving" title="Power saving settings">Power saving settings</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a> › <a class="trail" href="power.html.id#saving" title="Pengaturan penghematan daya">Pengaturan penghematan daya</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Enable automatic brightness</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Memfungsikan kecerahan otomatis</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If your computer has an integrated light sensor, it can be used to
-  automatically control screen brightness. This ensures that the screen is
-  always easy to see in different ambient light conditions, and helps to reduce
-  battery consumption.</p>
+<p class="p">Jika komputer Anda memiliki sensor cahaya terintegrasi, itu dapat digunakan untuk mengontrol kecerahan layar secara otomatis. Hal ini memastikan bahwa layar selalu mudah untuk dilihat dalam kondisi cahaya sekitar yang berbeda, dan membantu mengurangi konsumsi baterai.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Daya</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Daya</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Power Saving</span> section, ensure that the
-      <span class="gui">Automatic brightness</span> switch is set to on.</p></li>
+<li class="steps"><p class="p">Di bagian <span class="gui">Penghematan Daya</span>, pastikan saklar <span class="gui">Kecerahan otomatis</span> disetel ke menyala.</p></li>
 </ol></div></div></div>
-<p class="p">To disable automatic screen brightness, switch it to off.</p>
+<p class="p">Untuk menonaktifkan kecerahan layar otomatis, alihkan ke mati.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="power.html.id#saving" title="Power saving settings">Power saving settings</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="power.html.id#saving" title="Pengaturan penghematan daya">Pengaturan penghematan daya</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="display-brightness.html.id" title="Atur kecerahan layar">Atur kecerahan layar</a><span class="desc"> — Ubah kecerahan layar agar layar lebih mudah dibaca saat berada di cahaya yang terang.</span>
+<a href="display-brightness.html.id" title="Atur kecerahan layar">Atur kecerahan layar</a><span class="desc"> — Mengubah kecerahan layar agar layar lebih mudah dibaca saat berada di cahaya yang terang.</span>
 </li></ul></div>
 </div></div>
 </div>

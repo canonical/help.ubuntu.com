@@ -83,7 +83,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Configurações</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Configurações</span>.</p></li>
-<li class="steps"><p class="p">Clique em <span class="gui">Dispositivos</span> na barra lateral.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Tablet Wacom</span> na barra lateral para abrir o painel.</p></li>
 <li class="steps">
 <p class="p">Clique no botão <span class="gui">Caneta</span> na barra de cabeçalho.</p>

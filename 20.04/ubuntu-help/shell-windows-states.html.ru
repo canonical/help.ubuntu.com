@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Перемещение и изменение размера окон.</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">В целях более эффективной работы можно перемещать окна и изменять их размер. Для быстрой сортировки окон, кроме операций перетаскивания, в GNOME можно использовать комбинации клавиш и клавиши-модификаторы.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
       <span class="key"><a href="keyboard-key-super.html.ru" title="Что такое клавиша Super?"><kbd>Super</kbd></a></span> and drag anywhere in the

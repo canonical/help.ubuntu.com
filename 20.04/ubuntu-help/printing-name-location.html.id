@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change the name or location of a printer</title>
+<title>Mengubah nama atau lokasi dari suatu pencetak</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,47 +70,42 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="printing.html.id" title="Pencetakan">Pencetakan</a> › <a class="trail" href="printing.html.id#setup" title="Menyiapkan pencetak">Setup</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="printing.html.id" title="Pencetakan">Pencetakan</a> › <a class="trail" href="printing.html.id#setup" title="Menyiapkan pencetak">Penyiapan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Change the name or location of a printer</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mengubah nama atau lokasi dari suatu pencetak</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can change the name or location of a printer in the printer
-  settings.</p>
+<p class="p">Anda dapat mengubah nama atau lokasi pencetak dalam pengaturan pencetak.</p>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">administrative privileges</a></span>
-    on the system to change the name or location of a printer.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Anda memerlukan <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">hak akses administratif</a></span> pada sistem untuk mengubah nama atau lokasi pencetak.</p></div></div></div>
 </div>
 </div>
 <section id="printer-name-change"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Mengubah nama pencetak</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">If you want to change the name of a printer, take the following steps:</p>
+<p class="p">Jika Anda ingin mengubah nama pencetak, lakukan langkah-langkah berikut ini:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pencetak</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Pencetak</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
-<li class="steps"><p class="p">Click the name of your printer, and start typing a new name for
-      the printer.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to save your changes.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Buka Kunci</span> di pojok kanan atas dan ketik kata sandi Anda ketika diminta.</p></li>
+<li class="steps"><p class="p">Klik nama pencetak Anda, dan mulailah mengetikkan nama baru untuk pencetak.</p></li>
+<li class="steps"><p class="p">Tekan <span class="key"><kbd>Enter</kbd></span> untuk menyimpan perubahan.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></section><section id="printer-location-change"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Ubah lokasi pencetak</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Mengubah lokasi pencetak</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">To change the location of your printer:</p>
+<p class="p">Untuk mengubah lokasi pencetak Anda:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pencetak</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Pencetak</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
-<li class="steps"><p class="p">Click the location, and start editing the location.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span> to save the changes.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Buka Kunci</span> di pojok kanan atas dan ketik kata sandi Anda ketika diminta.</p></li>
+<li class="steps"><p class="p">Klik lokasi, dan mulai menyunting lokasi.</p></li>
+<li class="steps"><p class="p">Tekan <span class="key"><kbd>Enter</kbd></span> untuk menyimpan perubahan.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
@@ -123,8 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — Anda memerlukan hak akses administratif untuk mengubah bagian penting dari sistem Anda.</span>
 </li></ul></div>
 </div></div>
 </div>

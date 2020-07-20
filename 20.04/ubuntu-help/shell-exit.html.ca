@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Tancar sessió, apagar o canviar d'usuari</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Quan hàgiu acabat d'utilitzar l'ordinador, podeu apagar-lo, suspendre'l (per estalviar energia) o deixar-lo encès i sortir.</p></div>
+<div class="contents pagewide"><p class="p">Quan hàgiu acabat d'utilitzar l'ordinador, podeu apagar-lo, suspendre'l (per a estalviar energia) o deixar-lo encès i sortir.</p></div>
 <section id="logout"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tancar la sessió o canviar d'usuari</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -92,9 +92,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Bloqueja la pantalla</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Si deixeu l'ordinador durant un temps curt, heu de bloquejar la vostra pantalla per evitar que altres usuaris accedeixin als vostres fitxers o hi executin aplicacions. Quan torneu, aixequeu la cortina <span class="link"><a href="shell-lockscreen.html.ca" title="La pantalla de bloqueig">bloquejar pantalla</a></span> i introduïu la vostra contrasenya per a tornar a iniciar la sessió. Si no es bloqueja la pantalla, es bloquejarà automàticament després d'un temps determinat.</p>
-<p class="p">Per bloquejar la pantalla, feu clic al menú del sistema al costat dret de la barra superior i premeu el botó de la pantalla de bloqueig a la part inferior del menú.</p>
-<p class="p">Quan la pantalla està bloquejada, altres usuaris poden iniciar sessió als seus propis comptes fent clic <span class="gui">Inicieu sessió com un altre usuari</span> a la pantalla de la contrasenya. Podeu tornar al vostre escriptori quan hagin acabat.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.ca" title="La pantalla de bloqueig">lock screen</a></span>. Enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -115,8 +123,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Suspendre</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Per estalviar energia, suspeneu l'equip quan no s'estigui utilitzant. Si utilitzeu un ordinador portàtil, GNOME, per defecte, suspèn l'ordinador automàticament quan es tanca la tapa. D'aquesta manera es guarda l'estat a la memòria de l'ordinador i apaga la majoria de les funcions de l'ordinador. Encara s'utilitza una quantitat molt petita de potència durant la suspensió.</p>
-<p class="p">Per suspendre l'ordinador manualment, feu clic al menú del sistema a la part dreta de la barra superior. Des d'allà, podeu mantenir premuda la tecla <span class="key"><kbd>Alt</kbd></span> i feu clic al botó d'apagat, o simplement manteniu premuda una estona llarga el botó d'apagat.</p>
+<p class="p">To save power, suspend your computer when you are not using it. If you use
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
+  suspend.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -140,7 +155,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Apagar o reinicialitzar</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Si voleu apagar totalment l'equip o fer un reiniciat complet, feu clic al menú del sistema que hi ha a la part dreta de la barra superior i premeu el botó d'apagat a la part inferior del menú. S'obrirà un diàleg que us oferirà les opcions per <span class="gui">Reinicia</span> o <span class="gui">Apaga</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Si hi ha altres usuaris connectats, és possible que no tingueu permís per apagar o reiniciar l'ordinador perquè tancarà les seves sessions. Si sou un usuari administrador, pot ser que se us demani que la vostra contrasenya es desactivi.</p>
 <div class="note note-tip" title="Suggeriment">
 <svg width="24" height="24" version="1.1">

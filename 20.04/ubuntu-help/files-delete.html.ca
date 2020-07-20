@@ -76,11 +76,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Eliminar fitxers i carpetes</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Si ja no voleu un fitxer o una carpeta, podeu suprimir-lo. Quan suprimiu un ítem, es desplaça a la carpeta anomenada <span class="gui">Paperera</span>, on s'emmagatzema fins que es buidi la paperera. Podeu <span class="link"><a href="files-recover.html.ca" title="Recupera un fitxer de la Paperera">restaurar elements</a></span> de la <span class="gui">Paperera</span> a la seva ubicació original si decidiu que els necessiteu o si els vàreu eliminar accidentalment.</p>
+<p class="p">Si ja no voleu un fitxer o una carpeta, podeu suprimir-lo. Quan suprimiu un ítem, es desplaça a la carpeta anomenada <span class="gui">Paperera</span>, on s'emmagatzema fins que es buidi la paperera. Podeu <span class="link"><a href="files-recover.html.ca" title="Recuperar un fitxer de la Paperera">restaurar elements</a></span> de la <span class="gui">Paperera</span> a la seva ubicació original si decidiu que els necessiteu o si els vàreu eliminar accidentalment.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Per enviar un fitxer a la paperera:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Feu un sol clic a l'element que voleu enviar a la paperera per seleccionar-lo.</p></li>
+<li class="steps"><p class="p">Feu un sol clic a l'element que voleu enviar a la paperera per a seleccionar-lo.</p></li>
 <li class="steps"><p class="p">Premeu <span class="key"><kbd>Supr</kbd></span> al teclat. Com a alternativa, arrossegueu l'element a la <span class="gui">Paperera</span> a la barra lateral.</p></li>
 </ol></div>
 </div></div>
@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="nautilus-behavior.html.ca#trash" title="Paperera">Preferències de paperera de l'administrador de fitxers</a></li>
 <li class="links ">
-<a href="files-recover.html.ca" title="Recupera un fitxer de la Paperera">Recupera un fitxer de la Paperera</a><span class="desc"> — Els fitxers esborrats normalment s'envien a la paperera, però es poden recuperar.</span>
+<a href="files-recover.html.ca" title="Recuperar un fitxer de la Paperera">Recuperar un fitxer de la Paperera</a><span class="desc"> — Els fitxers esborrats normalment s'envien a la paperera, però es poden recuperar.</span>
 </li>
 </ul></div>
 </div></div>

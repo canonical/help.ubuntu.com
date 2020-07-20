@@ -91,13 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.da" title="Fastgør dine favoritprogrammer til favoritområdet"><span class="title">Fastgør dine favoritprogrammer til favoritområdet</span><span class="linkdiv-dash"> — </span><span class="desc">Tilføj (eller fjern) programikoner som ofte bruges i favoritområdet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.da" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.da" title="Kalenderaftaler"><span class="title">Kalenderaftaler</span><span class="linkdiv-dash"> — </span><span class="desc">Vis dine aftaler i kalenderområdet øverst på skærmen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.da" title="Påmindelser og påmindelseslisten"><span class="title">Påmindelser og påmindelseslisten</span><span class="linkdiv-dash"> — </span><span class="desc">Meddelelser dropper ned øverst på skærmen og fortæller dig når bestemte hændelser sker.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.da" title="Påmindelser og påmindelseslisten"><span class="title">Påmindelser og påmindelseslisten</span><span class="linkdiv-dash"> — </span><span class="desc">Meddelelser dropper ned øverst på skærmen og fortæller dig når bestemte hændelser sker.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Programmer og vinduer</span></h2></div>

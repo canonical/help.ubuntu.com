@@ -76,10 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mengubah volume suara</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">To change the sound volume, open the
-  <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="System menu">system menu</a></span> from the right
-  side of the top bar and move the volume slider left or right. You can
-  completely turn off sound by dragging the slider to the left.</p>
+<p class="p">Untuk mengubah kecerahan layar Anda, klik <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="Menu sistem">menu sistem</a></span> pada bagian kanan dari bilah atas dan geser bilah kecerahan layar ke nilai yang Anda inginkan. Perubahan tersebut harusnya langsung dapat dirasakan.</p>
 <p class="p">Some keyboards have keys that let you control the volume. They normally
   look like stylized speakers with waves coming out of them. They are often
   near the “F” keys at the top. On laptop keyboards, they are usually on the
@@ -120,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html.id#sound" title="Suara dasar">Suara dasar</a><span class="desc"> — <span class="link"><a href="sound-volume.html.id" title="Mengubah volume suara">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html.id" title="Gunakan speaker atau headphone lain">speaker dan headfon</a></span>, <span class="link"><a href="sound-usemic.html.id" title="Gunakan mikrofon lain">mikrofon</a></span>…</span>
+<a href="media.html.id#sound" title="Suara dasar">Suara dasar</a><span class="desc"> — <span class="link"><a href="sound-volume.html.id" title="Mengubah volume suara">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html.id" title="Memakai speaker atau headphone lain">speaker dan headfon</a></span>, <span class="link"><a href="sound-usemic.html.id" title="Memakai mikrofon lain">mikrofon</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Нажмите <span class="gui">Сеть</span> чтобы открыть этот раздел настроек.</p></li>
 <li class="steps"><p class="p">Выберите <span class="gui">Беспроводное</span> в списке слева.</p></li>
 <li class="steps"><p class="p">Click the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to open the connection
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span> button to open the connection
       details.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Identity</span> from the pane on the left.</p></li>
 <li class="steps"><p class="p">Внизу панели <span class="gui">Подлинность</span> отметьте параметр <span class="gui">Доступно для других пользователей</span> чтобы разрешить другим пользователям использовать сетевое соединение.</p></li>

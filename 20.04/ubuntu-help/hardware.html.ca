@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.ca" title="Configurar una impressora local">Configuració local</a></span>, <span class="link"><a href="printing-order.html.ca" title="Fer que les pàgines s'imprimeixin en un ordre diferent"> ordre i compaginació</a></span>, <span class="link"><a href="printing-2sided.html.ca" title="Imprimeix dissenys a dues cares i en diverses pàgines">dues cares i múltiples pàgines</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">Ratolí, pantalla tàctil i pantalla tàctil</a></div>
+<div class="links-grid-link"><a href="mouse.html.ca" title="Ratolí, ratolí tàctil i pantalla tàctil">Ratolí, ratolí tàctil i pantalla tàctil</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.ca" title="Utilitzar el ratolí amb la mà esquerra">Esquerrà</a></span>, <span class="link"><a href="mouse-sensitivity.html.ca" title="Ajustar la velocitat del ratolí i del tauler tàctil">velocitat i sensibilitat</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ca" title="Fer clic, arrossegar o desplaçar-vos amb el tauler tàctil">clic i desplaçament del ratolí tàctil</a></span>…</span></div>
 </div>
 <div class="links-grid ">

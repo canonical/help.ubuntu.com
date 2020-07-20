@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-windows-maximize.html.id" title="Maximize and unmaximize a window">Maximize and unmaximize a window</a><span class="desc"> — Klik ganda atau seret bilah judul untuk memaksimumkan atau mengembalikan suatu jendela.</span>
+<a href="shell-windows-maximize.html.id" title="Maksimalkan dan tak memaksimalkan jendela">Maksimalkan dan tak memaksimalkan jendela</a><span class="desc"> — Klik ganda atau seret bilah judul untuk memaksimumkan atau mengembalikan suatu jendela.</span>
 </li></ul></div>
 </div></div>
 </div>

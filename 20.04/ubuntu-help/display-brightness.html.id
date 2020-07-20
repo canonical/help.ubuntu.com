@@ -81,10 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Tergantung dari perangkat keras Anda, Anda dapat mengubah kecerahan layar Anda untuk menghemat daya atau membuat layar lebih mudah dibaca saat berada di cahaya yang terang.</p>
-<p class="p">To change the brightness of your screen, click the
-  <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="System menu">system menu</a></span> on the right side
-  of the top bar and adjust the screen brightness slider to the value you want
-  to use. The change should take effect immediately.</p>
+<p class="p">Untuk mengubah kecerahan layar Anda, klik <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="Menu sistem">menu system</a></span> pada bagian kanan dari bilah puncak dan atur penggeser kecerahan layar ke nilai yang Anda inginkan. Perubahan tersebut harusnya langsung dapat dirasakan.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
@@ -118,12 +115,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="hardware-problems-graphics.html.id" title="Masalah layar">Masalah layar</a><span class="desc"> — Melacak masalah layar dan grafis.</span>
 </li>
 <li class="links ">
-<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.id" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.id" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.id" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html.id" title="Mengubah latar belakang desktop dan kunci layar">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html.id" title="Mengubah resolusi atau orientasi layar">ukuran dan orientasi</a></span>, <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">kecerahan</a></span>, <span class="link"><a href="display-night-light.html.id" title="Menyesuaikan suhu warna layar Anda">suhu warna</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
@@ -134,13 +126,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="a11y-contrast.html.id" title="Atur kontras">Atur kontras</a><span class="desc"> — Membuat jendela dan tombol pada layar lebih (atau kurang) tajam, sehingga lebih mudah dilihat.</span>
 </li>
 <li class="links ">
-<a href="power-autobrightness.html.id" title="Enable automatic brightness">Enable automatic brightness</a><span class="desc"> — Automatically control screen brightness to reduce battery use.</span>
-</li>
-<li class="links ">
 <a href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">Memakai daya lebih sedikit dan meningkatkan umur baterai</a><span class="desc"> — Tip untuk mengurangi konsumsi daya komputer Anda.</span>
 </li>
 <li class="links ">
-<a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">Mengapa layar saya meredup setelah beberapa saat?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
+<a href="power-autobrightness.html.id" title="Memfungsikan kecerahan otomatis">Memfungsikan kecerahan otomatis</a><span class="desc"> — Secara otomatis mengontrol kecerahan layar untuk mengurangi penggunaan baterai.</span>
+</li>
+<li class="links ">
+<a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">Mengapa layar saya meredup setelah beberapa saat?</a><span class="desc"> — Layar akan meredup ketika komputer menganggur untuk menghemat daya.</span>
 </li>
 </ul></div>
 </div></div>

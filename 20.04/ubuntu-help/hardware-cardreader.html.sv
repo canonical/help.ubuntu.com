@@ -83,7 +83,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Många datorer innehåller läsare för SD, MMC, SM, MS, CF och andra kort med lagringsmedia. Dessa bör automatiskt detekteras och <span class="link"><a href="disk-partitions.html.sv" title="Hantera volymer och partitioner">monteras</a></span>. Här finns några felsökningssteg om detta inte lyckas:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Säkerställ att kortet matats in korrekt. Många kort ser ut som om de sitter i upp och ner när de är korrekt isatta. Försäkra också att kortet är ordentligt isatt i kortplatsen; vissa kort, speciellt CF, kräver en liten knuff för att sättas i korrekt. (Var aktsam så du inte trycker för hårt! Om du stöter i något hårt, pressa inte.)</p></li>
-<li class="steps"><p class="p">Öppna <span class="app">Filer</span> genom att använda menyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span>. Visas det inmatade kortet i listan <span class="gui">Enheter</span> i den vänstra sidopanelen? Ibland visas kortet i listan men det är inte monterat; klicka på det en gång för att montera det. (Om sidopanelen inte visas tryck på <span class="key"><kbd>F9</kbd></span> eller klicka på <span class="gui">Filer</span> i systemraden och välj <span class="gui">Sidopanel</span>.)</p></li>
+<li class="steps"><p class="p">Open <span class="app">Files</span> from the
+  <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Activities</a></span> overview. Does the inserted
+  card appear in the left sidebar? Sometimes the
+  card appears in this list but is not mounted; click it once to mount. (If the
+  sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
+  the top bar and select the <span class="gui">Sidebar</span>.)</p></li>
 <li class="steps"><p class="p">Om ditt kort inte visas i sidopanelen, klicka på <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, skriv sedan <span class="input">computer:///</span> och tryck <span class="key"><kbd>Retur</kbd></span>. Om din kortläsare är korrekt konfigurerad borde läsaren dyka upp som en enhet när inget kort är isatt och som kortet själv när kortet har monterats.</p></li>
 <li class="steps"><p class="p">Om du ser kortläsaren men inte kortet kan problem vara kortet i sig. Prova med ett annat kort eller kontrollera om möjligt att kortet fungerar i en annan kortläsare.</p></li>
 </ol></div></div></div>

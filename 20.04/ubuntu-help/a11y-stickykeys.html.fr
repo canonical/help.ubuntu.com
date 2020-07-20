@@ -85,9 +85,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Les <span class="em">Touches rémanentes</span> vous permettent de saisir des raccourcis clavier en ne pressant qu'une seule touche à la fois au lieu d'appuyer sur toutes les touches du raccourci en même temps. Par exemple, le raccourci <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> bascule l'affichage entre les fenêtres. Sans les touches rémanentes, il faut maintenir les deux touches enfoncées en même temps ; avec les touches rémanentes activées, vous appuyez d'abord sur <span class="key"><kbd>Alt</kbd></span>, puis sur <span class="key"><kbd>Tab</kbd></span> pour obtenir le même résultat.</p>
 <p class="p">Il est intéressant d'activer les touches rémanentes si vous avez des difficultés à maintenir enfoncées plusieurs touches à la fois.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">À la rubrique <span class="gui">Saisie</span>, cliquez sur <span class="gui">Assistant de saisie (AccessX)</span>.</p></li>
 <li class="steps"><p class="p">Switch the <span class="gui">Sticky Keys</span> switch to on.</p></li>
@@ -107,11 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Les touches rémanentes se désactivent d'elles-mêmes temporairement si vous appuyez sur deux touches à la fois, pour vous laisser saisir un raccourci clavier de façon normale.</p>
 <p class="p">Par exemple, si les touches rémanentes sont activées et que vous appuyez <span class="em">en même temps</span> sur <span class="key"><kbd>Logo</kbd></span> et <span class="key"><kbd>Tab</kbd></span>, la fonctionnalité se désactive et il n'est pas tenu compte d'une pression éventuelle sur une troisième touche. Cette fonctionnalité est utile si vous êtes capable de saisir certains raccourcis clavier (parce que les touches ne sont pas trop éloignées), mais d'autres pas.</p>
 <p class="p">Cochez <span class="gui">Désactiver si deux touches sont enfoncées simultanément</span> pour activer cette fonctionnalité.</p>
-<p class="p">You can have the computer make a “beep” sound when you start typing a
-  keyboard shortcut with sticky keys turned on. This is useful if you want to
-  know that sticky keys is expecting a keyboard shortcut to be typed, so the
-  next key press will be interpreted as part of a shortcut. Select <span class="gui">Beep
-  when a modifier key is pressed</span> to enable this.</p>
+<p class="p">Vous pouvez demander à votre ordinateur d’émettre un « bip » quand vous commencez à saisir un raccourci clavier avec les touches rémanentes activées. C’est utile si vous souhaitez savoir que la fonction touches rémanentes attend de vous la saisie d’un raccourci clavier, et qu’ainsi la touche suivante fait partie d’un raccourci. Cochez <span class="gui">Émettre un bip lorsqu’une touche modificatrice est enfoncée</span> pour activer cela.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Descarregant moltes coses alhora</span></p>
-<p class="p">Si vostè o algú que utilitza la vostra connexió a Internet descarrega diversos fitxers alhora o veu vídeos, és possible que la connexió a Internet no sigui prou ràpida per mantenir la demanda. En aquest cas, es notarà més lenta.</p>
+<p class="p">Si vostè o algú que utilitza la vostra connexió a Internet descarrega diversos fitxers alhora o veu vídeos, és possible que la connexió a Internet no sigui prou ràpida per a mantenir la demanda. En aquest cas, es notarà més lenta.</p>
 </li>
 <li class="list">
 <p class="p"><span class="em-bold em">Connexió poc fiable</span></p>

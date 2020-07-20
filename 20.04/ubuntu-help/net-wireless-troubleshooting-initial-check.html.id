@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.id" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -85,44 +85,19 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">In this step you will check some basic information about your wireless
-  network connection. This is to make sure that your networking problem isn’t
-  caused by a relatively simple issue, like the wireless connection being
-  turned off, and to prepare for the next few troubleshooting steps.</p>
+<p class="p">Pada langkah ini Anda akan memeriksa beberapa informasi dasar tentang koneksi jaringan nirkabel Anda. Hal ini untuk memastikan bahwa masalah jaringan Anda tidak disebabkan oleh masalah yang relatif sederhana, seperti koneksi nirkabel yang dimatikan, dan untuk mempersiapkan beberapa langkah pemecahan masalah berikutnya.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Make sure that your laptop is not connected to a <span class="em">wired</span>
-      internet connection.</p></li>
-<li class="steps"><p class="p">If you have an external wireless adapter (such as a USB adapter, or a
-      PCMCIA card that plugs into your laptop), make sure that it is firmly
-      inserted into the proper slot on your computer.</p></li>
-<li class="steps"><p class="p">If your wireless card is <span class="em">inside</span> your computer, make sure that 
-      the wireless switch is turned on (if it has one). Laptops often have
-      wireless switches that you can toggle by pressing a combination of
-      keyboard keys.</p></li>
-<li class="steps"><p class="p">Open the
-      <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="System menu">system menu</a></span> from the right
-      side of the top bar and select the Wi-Fi network, then select <span class="gui">Wi-Fi
-      Settings</span>. Make sure that the <span class="gui">Wi-Fi</span> switch is set to on.
-      You should also check that <span class="link"><a href="net-wireless-airplane.html.id" title="Matikan nirkabel (mode pesawat terbang)">Airplane
-      Mode</a></span> is <span class="em">not</span> switched on.</p></li>
+<li class="steps"><p class="p">Pastikan bahwa laptop Anda tidak terhubung ke koneksi internet <span class="em">kabel</span>.</p></li>
+<li class="steps"><p class="p">Jika Anda memiliki adaptor nirkabel eksternal (seperti adaptor USB, atau kartu PCMCIA yang dicolokkan ke laptop Anda), pastikan bahwa itu tertancap erat ke dalam slot yang tepat pada komputer Anda.</p></li>
+<li class="steps"><p class="p">Jika kartu nirkabel Anda berada <span class="em">di dalam</span> komputer Anda, pastikan bahwa saklar nirkabel dihidupkan (jika ada). Laptop sering memiliki saklar nirkabel yang dapat Anda jungkitkan dengan menekan kombinasi tombol papan tik.</p></li>
+<li class="steps"><p class="p">Buka <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="Menu sistem">menu sistem</a></span> dari sisi kanan bilah puncak dan pilih jaringan Wi-Fi, lalu pilih <span class="gui">Pengaturan Wi-Fi</span>. Pastikan saklar <span class="gui">Wi-Fi</span> disetel ke menyala. Anda juga harus memeriksa bahwa <span class="link"><a href="net-wireless-airplane.html.id" title="Matikan nirkabel (mode pesawat terbang)">Mode Pesawat</a></span> <span class="em">tidak</span> dinyalakan.</p></li>
 <li class="steps">
-<p class="p">Open the Terminal, type <span class="cmd">nmcli device</span> and press
-      <span class="key"><kbd>Enter</kbd></span>.</p>
-<p class="p">This will display information about your network interfaces and
-      connection status. Look down the list of information and see if there is
-      an item related to the wireless network adapter. If the state is
-      <span class="code">connected</span>, it means that the adapter is working and connected
-      to your wireless router.</p>
+<p class="p">Buka Terminal, ketikkan <span class="cmd">nmcli device</span> dan tekan <span class="key"><kbd>Enter</kbd></span>.</p>
+<p class="p">Ini akan menampilkan informasi tentang antarmuka jaringan dan status koneksi Anda. Lihat daftar informasi dan cari apakah ada item yang terkait dengan adaptor jaringan nirkabel. Jika keadaan <span class="code">tersambung</span>, itu berarti bahwa adaptor bekerja dan terhubung ke router nirkabel Anda.</p>
 </li>
 </ol></div></div></div>
-<p class="p">If you are connected to your wireless router, but you still cannot access
-  the internet, your router may not be set up correctly, or your Internet
-  Service Provider (ISP) maybe experiencing some technical problems. Review
-  your router and ISP setup guides to make sure the settings are correct, or
-  contact your ISP for support.</p>
-<p class="p">If the information from <span class="cmd">nmcli device</span> did not indicate that you were
-  connected to the network, click <span class="gui">Next</span> to proceed to the next
-  portion of the troubleshooting guide.</p>
+<p class="p">Jika Anda terhubung ke router nirkabel Anda, tetapi Anda masih tidak dapat mengakses internet, router Anda mungkin tidak diatur dengan benar, atau Internet Service Provider (ISP) mungkin mengalami masalah teknis. Tinjau panduan penyiapan router dan ISP untuk memastikan pengaturan sudah benar, atau hubungi ISP untuk mendapatkan dukungan.</p>
+<p class="p">Jika informasi dari <span class="cmd">nmcli device</span> tidak menunjukkan bahwa Anda tersambung ke jaringan, klik <span class="gui">Berikutnya</span> untuk melanjutkan ke bagian berikutnya dari panduan pemecahan masalah.</p>
 </div>
 <nav class="prevnext pagewide"><div class="inner">
 <a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Sebelumnya</a><a href="net-wireless-troubleshooting-hardware-info.html.id" title="Pelacak masalah jaringan nirkabel">Selanjutnya</a>
@@ -131,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Mengidentifikasi dan memperbaiki masalah koneksi nirkabel.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

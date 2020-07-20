@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Hálózat</span> szót.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Hálózat</span> elemre a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Válassza a bal oldali lista <span class="gui">Wi-Fi</span> pontját.</p></li>
-<li class="steps"><p class="p">A kapcsolat részleteinek megnyitásához nyomja meg a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gombot.</p></li>
+<li class="steps"><p class="p">A kapcsolat részleteinek megnyitásához nyomja meg a <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="beállítások"></span></span> gombot.</p></li>
 <li class="steps"><p class="p">Válassza a bal oldali ablaktábla <span class="gui">Személyazonosság</span> pontját.</p></li>
 <li class="steps"><p class="p">A <span class="gui">Személyazonosság</span> panel alján jelölje be az <span class="gui">Elérhető minden felhasználónak</span> négyzetet a hálózati kapcsolat használatának engedélyezéséhez más felhasználók számára.</p></li>
 <li class="steps"><p class="p">Nyomja meg az <span class="gui">Alkalmazás</span> gombot a módosítások mentéséhez.</p></li>

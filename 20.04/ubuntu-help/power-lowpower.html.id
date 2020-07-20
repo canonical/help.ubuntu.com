@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Why did my computer turn off when the battery got to 10%?</title>
+<title>Mengapa komputer saya mati ketika baterai mencapai 10%?</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,17 +77,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Why did my computer turn off when the battery got to 10%?</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mengapa komputer saya mati ketika baterai mencapai 10%?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">When the charge level of the battery gets too low, your computer will
-automatically turn off. It does this to make sure that the battery does not
-completely discharge, since this is bad for
-the battery. If the battery just ran out, the computer would not have time to
-shut down properly either.</p>
-<p class="p">Bear in mind that when your computer automatically turns off, your
-applications and documents <span class="em">are not</span> saved. To avoid losing your
-work, save it before the battery gets too low.</p>
+<p class="p">Ketika tingkat pengisian baterai terlalu rendah, komputer Anda akan secara otomatis mati. Ini dilakukan untuk memastikan bahwa baterai tidak sepenuhnya dikosongkan, karena hal ini buruk buat baterai. Bila baterai habis, komputer juga tak punya waktu untuk mati secara benar.</p>
+<p class="p">Perhatikan bahwa saat komputer Anda mati secara otomatis, aplikasi dan dokumen Anda <span class="em">tidak</span> disimpan. Untuk menghindari kehilangan pekerjaan Anda, simpan sebelum muatan baterai terlalu rendah.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

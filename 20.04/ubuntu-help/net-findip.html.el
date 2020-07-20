@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Επιλέξτε μια σύνδεση, <span class="gui">Wi-Fi</span> ή <span class="gui">Ενσύρματη</span>, από τον αριστερό πίνακα.</p>
 <p class="p">Η διεύθυνση IP  για μια ενσύρματη σύνδεση εμφανίζεται στα δεξιά.</p>
-<p class="p">Κάντε κλικ στο κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ρυθμίσεις"></span></span> για να δείτε την διεύθυνση IP του ασύρματου δικτύου στον πίνακα <span class="gui">Λεπτομέρειες</span>.</p>
+<p class="p">Κάντε κλικ στο κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="ρυθμίσεις"></span></span> για να δείτε την διεύθυνση IP του ασύρματου δικτύου στον πίνακα <span class="gui">Λεπτομέρειες</span>.</p>
 </li>
 </ol></div>
 </div></div>

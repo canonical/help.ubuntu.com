@@ -83,17 +83,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Si sentiu espetecs o brunzits quan es reprodueixen sons a l'ordinador, és possible que tingueu un problema amb els cables d'àudio o els connectors, o un problema amb els controladors de la targeta de so.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Comproveu que els altaveus estiguin connectats correctament.</p>
+<p class="p">Comprovar que els altaveus estiguin connectats correctament.</p>
 <p class="p">Si els altaveus no estan totalment connectats o si estan connectats al sòcol incorrecte, és possible que sentiu un brunzit.</p>
 </li>
 <li class="list">
 <p class="p">Assegureu-vos que el cable de l'altaveu / auricular no està malmès.</p>
-<p class="p">Els cables d'àudio i els connectors es poden desgastar gradualment amb l'ús. Intenteu connectar el cable o els auriculars a un altre dispositiu d'àudio (com un reproductor de MP3 o un reproductor de CD) per comprovar si encara sentiu espetecs. Si és així, és possible que hàgiu de reemplaçar el cable o els auriculars.</p>
+<p class="p">Els cables d'àudio i els connectors es poden desgastar gradualment amb l'ús. Intenteu connectar el cable o els auriculars a un altre dispositiu d'àudio (com un reproductor de MP3 o un reproductor de CD) per a comprovar si encara sentiu espetecs. Si és així, és possible que hàgiu de reemplaçar el cable o els auriculars.</p>
 </li>
 <li class="list">
 <p class="p">Comproveu si els controladors de so no són massa bons.</p>
 <p class="p">Algunes targetes de so no funcionen bé a Linux perquè no tenen controladors massa bons. Aquest problema és més difícil d'identificar. Intenteu cercar la marca i el model de la targeta de so a Internet, a més del terme de cerca "Linux", per veure si hi ha altres persones que tenen el mateix problema.</p>
-<p class="p">Podeu utilitzar l'ordre <span class="cmd">lspci</span> per obtenir més informació sobre la vostra targeta de so.</p>
+<p class="p">Podeu utilitzar l'ordre <span class="cmd">lspci</span> per a obtenir més informació sobre la vostra targeta de so.</p>
 </li>
 </ul></div></div></div>
 </div>

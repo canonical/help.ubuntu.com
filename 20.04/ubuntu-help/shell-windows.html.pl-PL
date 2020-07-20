@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Okna i obszary robocze</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Podobnie jak inne środowiska, GNOME używa okien do wyświetlania uruchomionych programów. Za pomocą <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekranu podglądu</a></span> i <span class="em">paska ulubionych</span> można uruchamiać nowe programy i kontrolować aktywne okna.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
 <p class="p">Można także grupować programy w obszarach roboczych. Pomoc na temat okien i obszarów roboczych dostępna poniżej zawiera informacje o tym, jak używać tych funkcji.</p>
 </div>
 <section id="working-with-windows"><div class="inner">

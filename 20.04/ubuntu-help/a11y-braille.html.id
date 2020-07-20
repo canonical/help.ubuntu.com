@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Baca layar dalam Braille</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME menyediakan pembaca layar <span class="app">Orca</span> untuk menampilkan antar muka pengguna pada suatu tampilan Braille yang dapat disegarkan. Bergantung kepada bagaimana Anda memasang GNOME, mungkin Anda belum memasang Orca. Bila tidak, pasang Orca terlebih dahulu.</p>
+<p class="p">Pembaca layar <span class="app">Orca</span> dapat menampilkan antar muka pengguna pada suatu tampilan Braille yang dapat disegarkan. Bergantung kepada bagaimana Anda memasang sistem Anda, mungkin Anda belum memasang Orca. Bila tidak, pasang Orca terlebih dahulu.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Pasang Orca</a></span></p>
 <p class="p">Lihat <span class="link"><a href="help:orca" title="help:orca">Bantuan Orca</a></span> untuk informasi lebih lanjut.</p>
 </div>
@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-screen-reader.html.id" title="Baca layar keras-keras">Baca layar keras-keras</a><span class="desc"> — Pakai <span class="app">Orca</span> pembaca layar untuk mengucapkan antar muka pengguna.</span>
+<a href="a11y-screen-reader.html.id" title="Baca layar keras-keras">Baca layar keras-keras</a><span class="desc"> — Memakai <span class="app">Orca</span> pembaca layar untuk mengucapkan antar muka pengguna.</span>
 </li></ul></div>
 </div></div>
 </div>

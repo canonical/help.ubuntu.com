@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Anda dapat menyalin atau memindahkan berkas ke folder yang <span class="em">hanya-baca</span>. Bebebrapa folder dibuat hanya-baca untuk mencegah Anda dari membuat perubahan pada isinya. Anda dapat mengubah hal itu dari hanya-baca dengan <span class="link"><a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">merubah hak akses berkas</a></span>.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Anda dapat menyalin atau memindahkan berkas ke folder yang <span class="em">hanya-baca</span>. Bebebrapa folder dibuat hanya-baca untuk mencegah Anda dari membuat perubahan pada isinya. Anda dapat mengubah hal itu dari hanya-baca dengan <span class="link"><a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">mengubah hak akses berkas</a></span>.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">

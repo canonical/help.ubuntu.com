@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Si heu perdut o esborrat alguns dels vostres fitxers, però en teniu una còpia de seguretat, podeu restaurar-los des de la còpia:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Si vàreu copiar els fitxers a una ubicació segura, com un disc dur extern, un altre ordinador de la xarxa o un llapis USB, podeu <span class="link"><a href="files-copy.html.ca" title="Copiar o moure fitxers i carpetes">copiar-los</a></span> una altra vegada cap al vostre ordinador.</p></li>
-<li class="list"><p class="p">Si heu creat la vostra còpia de seguretat usant una aplicació de còpia de seguretat com ara <span class="app">Déjà Dup</span>, es recomana que utilitzeu la mateixa aplicació per restaurar-la. Reviseu l'ajuda de l'aplicació del vostre programa de còpia de seguretat: us proporcionarà instruccions específiques sobre com restaurar els fitxers.</p></li>
+<li class="list"><p class="p">Si heu creat la vostra còpia de seguretat usant una aplicació de còpia de seguretat com ara <span class="app">Déjà Dup</span>, es recomana que utilitzeu la mateixa aplicació per a restaurar-la. Reviseu l'ajuda de l'aplicació del vostre programa de còpia de seguretat: us proporcionarà instruccions específiques sobre com restaurar els fitxers.</p></li>
 </ul></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">

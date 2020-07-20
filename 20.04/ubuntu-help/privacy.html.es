@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Configuración de privacidad</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">La <span class="em">Configuración de la privacidad</span> en GNOME le ayuda a controlar si determinadas partes de su escritorio son visibles o no al resto de usuarios. Puede usar esta configuración para limpiar el histórico de uso de su equipo y eliminar archivos innecesarios.</p>
+<p class="p">The <span class="em">Privacy Settings</span> help you control whether or not
+  certain parts of your desktop are visible to others. You can also
+  use these settings to clear your computer usage history and clean out
+  unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.es" title="Bloquear automáticamente su pantalla"><span class="title">Bloquear automáticamente su pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Impedir que otras personas puedan usar su escritorio cuando se aleje de su equipo.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.es" title="Desactivar o limitar el registro del histórico"><span class="title">Desactivar o limitar el registro del histórico</span><span class="linkdiv-dash"> — </span><span class="desc">Dejar de registrar o limitar el registro de archivos usados recientemente.</span></a></div>

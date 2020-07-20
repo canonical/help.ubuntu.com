@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Välj vilken enhet, <span class="gui">Trådlös</span> eller <span class="gui">Trådbunden</span> från panelen till vänster.</p>
 <p class="p">MAC-adressen för den trådbundna enheten kommer att visas som <span class="gui">Hårdvaruadress</span> till höger.</p>
-<p class="p">Klicka på <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="inställningar"></span></span>-knappen för att se MAC-adressen för den trådlösa enheten visas som <span class="gui">Hårdvaruadress</span> i panelen <span class="gui">Detaljer</span>.</p>
+<p class="p">Klicka på <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="inställningar"></span></span>-knappen för att se MAC-adressen för den trådlösa enheten visas som <span class="gui">Hårdvaruadress</span> i panelen <span class="gui">Detaljer</span>.</p>
 </li>
 </ol></div></div></div>
 <p class="p">I praktiken kan du behöva modifiera eller ”spoof:a” en MAC-adress. Vissa internetleverantörer kan till exempel kräva att en specifik MAC-adress används för att nå deras tjänst. Om nätverkskortet slutar fungera och du behöver ersätta med ett nytt kort, kommer tjänsten inte att fungera längre. I ett sådant fall kan du behöva modifiera MAC-adressen.</p>

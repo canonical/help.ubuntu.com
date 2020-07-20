@@ -78,8 +78,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">L'agrandissement de l'écran est différent de la simple augmentation de la <span class="link"><a href="a11y-font-size.html.fr" title="Changement de la taille du texte à l'écran">taille du texte</a></span>. Cette option agit ici comme une loupe en vous permettant de vous déplacez en effectuant un zoom sur différentes parties de l'écran.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
-<li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur l’icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Zoom</span> dans la rubrique <span class="gui">Vision</span>.</p></li>
 <li class="steps"><p class="p">Switch the <span class="gui">Zoom</span> switch in the top-right corner of the
       <span class="gui">Zoom Options</span> window to on.</p></li>

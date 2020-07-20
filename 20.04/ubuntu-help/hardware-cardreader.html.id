@@ -80,36 +80,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Masalah pembaca kartu media</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Many computers contain readers for SD, MMC, SM, MS, CF, and other storage media
-cards. These should be automatically detected and <span class="link"><a href="disk-partitions.html.id" title="Mengelola volume dan partisi">mounted</a></span>. Here are some
-troubleshooting steps if they are not:</p>
+<p class="p">Banyak komputer berisi pembaca untuk SD, MMC, SM, MS, CF, dan kartu media penyimpanan lainnya. Ini mestinya dideteksi dan <span class="link"><a href="disk-partitions.html.id" title="Mengelola volume dan partisi">dikait</a></span> secara otomatis. Berikut adalah beberapa langkah pemecahan masalah jika tidak:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"> Make sure that the card is put in correctly. Many cards look as though they are
-upside down when correctly inserted. Also make sure that the card is firmly seated
-in the slot; some cards, especially CF, require a small amount of force to insert
-correctly. (Be careful not to push too hard! If you come up against something solid,
-do not force it.)</p></li>
+<li class="steps"><p class="p">Pastikan kartu dimasukkan ke dalam dengan benar. Banyak kartu terlihat seakan-akan terbalik ketika dimasukkan dengan benar. Juga pastikan bahwa kartu tertancap erat di slot; beberapa kartu, terutama CF, memerlukan sedikit gaya untuk memasukkan dengan benar. (Berhati-hatilah untuk tidak mendorong terlalu keras! Jika Anda merasa melawan sesuatu yang padat, jangan memaksanya.)</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
   <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview. Does the inserted
-  card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
+  card appear in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
   the top bar and select the <span class="gui">Sidebar</span>.)</p></li>
-<li class="steps"><p class="p">If your card does not show up in the sidebar, press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, then type
-  <span class="input">computer:///</span> and press <span class="key"><kbd>Enter</kbd></span>. If your card reader
-  is correctly configured, the reader should come up as a drive when no card is
-  present, and the card itself when the card has been mounted.</p></li>
-<li class="steps"><p class="p">If you see the card reader but not the card, the problem may be with the card itself.
-Try a different card or check the card on a different reader if possible.</p></li>
+<li class="steps"><p class="p">Jika kartu Anda tidak muncul di bilah sisi, tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, lalu ketik<span class="input">computer:///</span> dan tekan <span class="key"><kbd>Enter</kbd></span>. Jika pembaca kartu Anda dikonfigurasi dengan benar, pembaca harus muncul sebagai drive ketika tidak ada kartu hadir, dan kartu itu sendiri ketika kartu telah dipasang.</p></li>
+<li class="steps"><p class="p">Jika Anda melihat pembaca kartu tapi bukan kartu, masalahnya mungkin dengan kartu itu sendiri. Coba kartu yang berbeda atau periksa kartu pada pembaca yang berbeda jika memungkinkan.</p></li>
 </ol></div></div></div>
-<p class="p">If no cards or drives are shown when browsing the <span class="gui">Computer</span>
-location, it is possible that your card reader does not work with Linux due to
-driver issues. If your card reader is internal (inside the computer instead of
-sitting outside) this is more likely. The best solution is to directly connect
-your device (camera, cell phone, etc.) to a USB port on the computer. USB
-external card readers are also available, and are far better supported by
-Linux.</p>
+<p class="p">Jika tidak ada kartu atau drive yang ditampilkan ketika meramban lokasi <span class="gui">Komputer</span>, ada kemungkinan bahwa pembaca kartu Anda tidak bekerja dengan Linux karena masalah driver. Jika pembaca kartu Anda internal (di dalam komputer bukannya duduk di luar) ini lebih mungkin. Solusi terbaik adalah untuk langsung menghubungkan perangkat Anda (kamera, ponsel, dll) ke port USB pada komputer. Pembaca kartu eksternal USB juga tersedia, dan jauh lebih baik didukung oleh Linux.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

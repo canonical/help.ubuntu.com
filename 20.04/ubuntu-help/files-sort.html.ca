@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ordenar fitxers i carpetes</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Podeu ordenar els fitxers d'una carpeta de diferents maneres, per exemple segons la seva data o la mida. Consulteu <span class="link"><a href="#ways" title="Maneres d'ordenar fitxers">Maneres d'ordenar fitxers</a></span> a sota per veure una llista de formes habituals d'ordenar els fitxers. Consulteu<span class="link"><a href="nautilus-views.html.ca" title="Preferències de visualització a Fitxers">Preferències de visualització a <span class="app">Fitxers</span></a></span> per obtenir informació sobre com canviar l'ordre de classificació per defecte.</p>
+<p class="p">Podeu ordenar els fitxers d'una carpeta de diferents maneres, per exemple segons la seva data o la mida. Consulteu <span class="link"><a href="#ways" title="Maneres d'ordenar fitxers">Maneres d'ordenar fitxers</a></span> a sota per veure una llista de formes habituals d'ordenar els fitxers. Consulteu <span class="link"><a href="nautilus-views.html.ca" title="Preferències de visualització a Fitxers">Preferències de visualització a <span class="app">Fitxers</span></a></span> per a obtenir informació sobre com canviar l'ordre de classificació per defecte.</p>
 <p class="p">La manera com podeu ordenar els fitxers depèn de la <span class="em">vista de la carpeta</span> que s'estigui utilitzant. Podeu canviar la vista actual utilitzant els botons de llista o icona a la barra d'eines.</p>
 </div>
 <section id="icon-view"><div class="inner">
@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Visualització de llista</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Per ordenar els fitxers en un ordre diferent, feu clic a un dels encapçalaments de columna al gestor de fitxers. Per exemple, feu clic a <span class="gui">Tipus</span> per ordenar per tipus de fitxer. Feu clic a l'encapçalament de la columna de nou per ordenar en ordre invers.</p>
-<p class="p">A la vista de llista, podeu mostrar columnes amb més atributs i ordenar per aquestes columnes. Feu clic al botó Opcions de visualització a la barra d'eines, seleccioneu <span class="gui">Columnes visibles…</span> i seleccioneu les columnes que voleu que siguin visibles. A continuació, podreu ordenar per aquestes columnes. Consultar <span class="link"><a href="nautilus-list.html.ca" title="Preferències de les columnes de la llista de fitxers">Preferències de les columnes de la llista de fitxers</a></span> per obtenir les descripcions de les columnes disponibles.</p>
+<p class="p">A la vista de llista, podeu mostrar columnes amb més atributs i ordenar per aquestes columnes. Feu clic al botó Opcions de visualització a la barra d'eines, seleccioneu <span class="gui">Columnes visibles…</span> i seleccioneu les columnes que voleu que siguin visibles. A continuació, podreu ordenar per aquestes columnes. Consultar <span class="link"><a href="nautilus-list.html.ca" title="Preferències de les columnes de la llista de fitxers">Preferències de les columnes de la llista de fitxers</a></span> per a obtenir les descripcions de les columnes disponibles.</p>
 </div></div>
 </div></section><section id="ways"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Maneres d'ordenar fitxers</span></h2></div>

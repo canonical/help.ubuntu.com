@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Wyszukiwanie</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="guiseq"><span class="gui">Ustawienia</span> ▸ <span class="gui">Wyszukiwanie</span></span>. Otworzy to panel <span class="gui">Ustawienia wyszukiwania</span>.</p></li>
-<li class="steps"><p class="p">Kliknij ikonę <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="Preferences key symbol"></span></span> na dole panelu ustawień <span class="gui">Wyszukiwanie</span>.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Położenia wyszukiwania</span> na pasku nagłówka.</p></li>
 </ol></div></div></div>
 <p class="p">Otworzy to oddzielny panel ustawień, w którym można włączać i wyłączać wyszukiwanie w katalogach. Jest on podzielony na trzy karty:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">

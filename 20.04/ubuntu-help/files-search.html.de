@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Suchen</span> ein.</p></li>
 <li class="steps"><p class="p">Wählen Sie <span class="guiseq"><span class="gui">Einstellungen</span> ▸ <span class="gui">Suchen</span></span> in der Ergebnisliste. Daraufhin öffnet sich die Leiste <span class="gui">Sucheinstellungen</span>.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf den <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="Preferences key symbol"></span></span>-Knopf unten im Panel der <span class="gui">Such</span>einstellungen.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Search Locations</span> button in the header bar.</p></li>
 </ol></div></div></div>
 <p class="p">Daraufhin öffnet sich eine separate Leiste mit Einstellungen, in der Sie die Suche in Ordnern ein- oder ausschalten. Sie können die Suchen für jeden der drei Reiter ein- oder ausschalten:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">

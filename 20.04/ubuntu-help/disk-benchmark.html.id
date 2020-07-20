@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Untuk menguji kecepatan hard disk Anda:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka <span class="app">Disk</span> dari ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span>.</p></li>
-<li class="steps"><p class="p">Pilih disk dari daftar yang ada di panel kiri</p></li>
+<li class="steps"><p class="p">Pilih disk dari daftar yang ada di panel kiri.</p></li>
 <li class="steps"><p class="p">Klik tombol menu dan pilih <span class="gui">Uji banding disk...</span> pada menu.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Mulai Uji Banding...</span> dan setel parameter <span class="gui">Laju Transfer</span> dan <span class="gui">Waktu Akses</span> sesuai keinginan.</p></li>
 <li class="steps">

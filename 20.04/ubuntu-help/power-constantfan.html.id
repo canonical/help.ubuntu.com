@@ -76,23 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Kipas laptop selalu berjalan</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If cooling fan in your laptop is always running, it could be that the
-hardware that controls the cooling system in the laptop is not very well
-supported in Linux. Some laptops need extra software to control their cooling
-fans efficiently, but this software may not be installed (or available for
-Linux at all) and so the fans just run at full speed all of the time.</p>
-<p class="p">If this is the case, you may be able to change some settings or install
-extra software that allows full control of the fan. For example, <span class="link"><a href="http://vaio-utils.org/fan/" title="http://vaio-utils.org/fan/">vaiofand</a></span> can be installed to control
-the fans of some Sony VAIO laptops. Installing this software is quite a
-technical process which is highly dependent on the make and model of your
-laptop, so you may wish to seek specific advice on how to do it for your
-computer.</p>
-<p class="p">It is also possible that your laptop just produces a lot of heat. This does
-not necessarily mean that it is overheating; it might just need the fan to run
-at full speed all of the time to allow it to stay cool enough. If this is the
-case, you have little option but to let the fan run at full speed all of the
-time. You can sometimes buy additional cooling accessories for your laptop
-which may help.</p>
+<p class="p">Jika kipas pendingin di laptop Anda selalu berjalan, bisa jadi bahwa perangkat keras yang mengontrol sistem pendinginan di laptop tidak didukung dengan sangat baik di Linux. Beberapa laptop membutuhkan perangkat lunak tambahan untuk mengontrol kipas pendingin mereka secara efisien, tetapi perangkat lunak ini mungkin tidak diinstal (atau tersedia untuk Linux sama sekali) dan sehingga kipas hanya berjalan dengan kecepatan penuh sepanjang waktu.</p>
+<p class="p">Jika hal ini terjadi, Anda mungkin dapat mengubah beberapa pengaturan atau menginstal perangkat lunak tambahan yang memungkinkan kontrol penuh dari kipas. Sebagai contoh, <span class="link"><a href="http://vaio-utils.org/fan/" title="http://vaio-utils.org/fan/">vaiofand</a></span> dapat diinstal untuk mengontrol kipas beberapa laptop Sony Vaio. Menginstal perangkat lunak ini proses yang cukup teknis yang sangat tergantung pada buatan dan model laptop Anda, sehingga Anda mungkin ingin mencari saran khusus tentang bagaimana melakukannya untuk komputer Anda.</p>
+<p class="p">Juga mungkin bahwa laptop Anda menghasilkan banyak panas. Ini tidak berarti bahwa itu adalah overheating; mungkin hanya perlu kipas untuk berjalan pada kecepatan penuh sepanjang waktu untuk memungkinkan untuk tetap cukup dingin. Jika hal ini terjadi, Anda memiliki tidak punya pilihan selain untuk membiarkan kipas berjalan pada kecepatan penuh sepanjang waktu. Anda terkadang dapat membeli aksesori pendinginan tambahan untuk laptop Anda yang dapat membantu.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

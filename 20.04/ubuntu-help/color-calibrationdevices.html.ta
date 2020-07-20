@@ -80,7 +80,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">எந்தெந்த நிற அளவீட்டுக் கருவிகளுக்கு ஆதரவுள்ளது?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME நிறக் கருவிகளை ஆதரிக்க Argyll ஐ சார்ந்துள்ளது. ஆகவே பின்வரும் காட்சி அளவீட்டுக் கருவிகள் ஆதரிக்கப்படும்:</p>
+<p class="p">
+    The system relies on the Argyll color management system to support
+    color instruments. Thus the following display measuring instruments
+    are supported:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Gretag-Macbeth i1 Pro (ஸ்பெக்ட்ரோமீட்டர்)</p></li>
 <li class="list"><p class="p">Gretag-Macbeth i1 மானிட்டர் (ஸ்பெக்ட்ரோமீட்டர்)</p></li>

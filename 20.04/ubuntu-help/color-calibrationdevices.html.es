@@ -80,7 +80,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">¿Qué instrumentos de medición de color están soportados?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME confía en el sistema de gestión de color Argyll para soportar los instrumentos de color. Por ello, están soportados los siguientes instrumentos de medida:</p>
+<p class="p">
+    The system relies on the Argyll color management system to support
+    color instruments. Thus the following display measuring instruments
+    are supported:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Gretag-Macbeth i1 Pro (espectrómetro)</p></li>
 <li class="list"><p class="p">Gretag-Macbeth i1 Monitor (espectrómetro)</p></li>

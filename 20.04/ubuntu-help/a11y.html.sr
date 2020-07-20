@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Универзални приступ</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Гномова радна површ укључује помоћничке технологије да би подржала кориснике са разним оштећењима и посебним потребама, и да дејствује са општим помоћничким уређајима. Изборник приступачности може бити додат на горњу траку, дајући лакши приступ многим функцијама приступачности.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.sr" title="Пронађите изборник универзалног приступа"><span class="title">Пронађите изборник универзалног приступа</span><span class="linkdiv-dash"> — </span><span class="desc">Изборник универзалног приступа јесте иконица на горњој траци која личи на човека.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">

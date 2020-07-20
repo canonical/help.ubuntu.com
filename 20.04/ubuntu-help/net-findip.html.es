@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Elija la conexión <span class="gui">Inalámbrica</span> o <span class="gui">Cableada</span> en el panel de la izquierda.</p>
 <p class="p">La IP de una conexión cableada se mostrará a la derecha.</p>
-<p class="p">Pulse el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuración"></span></span> para ver la dirección IP de la red inalámbrica en el panel <span class="gui">Detalles</span>.</p>
+<p class="p">Pulse el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configuración"></span></span> para ver la dirección IP de la red inalámbrica en el panel <span class="gui">Detalles</span>.</p>
 </li>
 </ol></div>
 </div></div>

@@ -81,42 +81,39 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="power-status.html.id" title="Periksa status baterai"><span class="title">Periksa status baterai</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-status.html.id" title="Periksa status baterai"><span class="title">Periksa status baterai</span><span class="linkdiv-dash"> — </span><span class="desc">Menampilkan status baterai dan perangkat yang terhubung.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?"><span class="title">Apa yang terjadi ketika saya mensuspensi komputer?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspensi mengatur komputer Anda agar tidur sehingga memakai lebih sedikit daya.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.id" title="Get the most out of your laptop battery"><span class="title">Get the most out of your laptop battery</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.id" title="Log keluar, mematikan, atau berganti pengguna"><span class="title">Log keluar, mematikan, atau berganti pengguna</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how to leave your user account, by logging out, switching
-    users, and so on.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.id" title="Dapatkan yang terbaik dari baterai laptop Anda"><span class="title">Dapatkan yang terbaik dari baterai laptop Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Kiat-kiat seperti "Jangan biarkan muatan baterai terlalu rendah".</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.id" title="Log keluar, mematikan, atau berganti pengguna"><span class="title">Log keluar, mematikan, atau berganti pengguna</span><span class="linkdiv-dash"> — </span><span class="desc">Pelajari cara meninggalkan akun pengguna Anda, dengan logout, mengalihkan pengguna, dan sebagainya.</span></a></div>
 </div>
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai"><span class="title">Memakai daya lebih sedikit dan meningkatkan umur baterai</span><span class="linkdiv-dash"> — </span><span class="desc">Tip untuk mengurangi konsumsi daya komputer Anda.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.id" title="Mengapa komputer saya mati ketika saya menutup lid?"><span class="title">Mengapa komputer saya mati ketika saya menutup lid?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops go to sleep when you close the lid, in order to save
-    power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.id" title="Switch off unused wireless technologies"><span class="title">Switch off unused wireless technologies</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.id" title="Mengapa komputer saya mati ketika saya menutup lid?"><span class="title">Mengapa komputer saya mati ketika saya menutup lid?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptop pergi tidur ketika Anda menutup lid, untuk menghemat daya.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.id" title="Menonaktifkan teknologi nirkabel yang tidak terpakai"><span class="title">Menonaktifkan teknologi nirkabel yang tidak terpakai</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi, dan data seluler dapat dimatikan untuk mengurangi penggunaan baterai.</span></a></div>
 </div>
 </div></div></div></div></div>
 <section id="saving"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Power saving settings</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Pengaturan penghematan daya</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="display-blank.html.id" title="Atur waktu pengosongan layar"><span class="title">Atur waktu pengosongan layar</span><span class="linkdiv-dash"> — </span><span class="desc">Ubah waktu mengosongkan layar untuk menghemat daya.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.id" title="Enable automatic brightness"><span class="title">Enable automatic brightness</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.id" title="Atur waktu pengosongan layar"><span class="title">Atur waktu pengosongan layar</span><span class="linkdiv-dash"> — </span><span class="desc">Mengubah waktu mengosongkan layar untuk menghemat daya.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.id" title="Memfungsikan kecerahan otomatis"><span class="title">Memfungsikan kecerahan otomatis</span><span class="linkdiv-dash"> — </span><span class="desc">Secara otomatis mengontrol kecerahan layar untuk mengurangi penggunaan baterai.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?"><span class="title">Mengapa layar saya meredup setelah beberapa saat?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.id" title="Set up automatic suspend"><span class="title">Set up automatic suspend</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your computer to suspend automatically.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?"><span class="title">Mengapa layar saya meredup setelah beberapa saat?</span><span class="linkdiv-dash"> — </span><span class="desc">Layar akan meredup ketika komputer menganggur untuk menghemat daya.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.id" title="Menyiapkan suspensi otomatis"><span class="title">Menyiapkan suspensi otomatis</span><span class="linkdiv-dash"> — </span><span class="desc">Konfigurasikan komputer untuk mensuspensi secara otomatis.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section id="faq"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Pertanyaan</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.id" title="Mengapa laptop saya lambat ketika memakai baterai?"><span class="title">Mengapa laptop saya lambat ketika memakai baterai?</span><span class="linkdiv-dash"> — </span><span class="desc">Some laptops intentionally slow down when they are running on battery.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.id" title="Mengapa usia baterai saya kurang daripada di Windows/Mac OS?"><span class="title">Mengapa usia baterai saya kurang daripada di Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Tweaks from the manufacturer and differing battery life estimates may
-    be the cause of this problem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.id" title="Mengapa komputer saya mati ketika baterai mencapai 10%?"><span class="title">Mengapa komputer saya mati ketika baterai mencapai 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Mengijinkan baterai terkosongkan sepenuhnya buruk baginya.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.id" title="Mengapa laptop saya lambat ketika memakai baterai?"><span class="title">Mengapa laptop saya lambat ketika memakai baterai?</span><span class="linkdiv-dash"> — </span><span class="desc">Beberapa laptop sengaja melambat ketika mereka memakai baterai.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.id" title="Perkiraan umur baterai salah"><span class="title">Perkiraan umur baterai salah</span><span class="linkdiv-dash"> — </span><span class="desc">The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.id" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Mengijinkan baterai terkosongkan sepenuhnya buruk baginya.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.id" title="Mengapa usia baterai saya kurang daripada di Windows/Mac OS?"><span class="title">Mengapa usia baterai saya kurang daripada di Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Tweak dari produsen dan perkiraan masa pakai baterai yang berbeda mungkin menjadi penyebab masalah ini.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.id" title="Perkiraan umur baterai salah"><span class="title">Perkiraan umur baterai salah</span><span class="linkdiv-dash"> — </span><span class="desc">Masa pakai baterai yang ditampilkan saat Anda mengeklik <span class="gui">ikon baterai</span> adalah perkiraan.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section id="problems"><div class="inner">
@@ -125,15 +122,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="power-othercountry.html.id" title="Akankan komputer saya bekerja dengan listrik di negara lain?"><span class="title">Akankan komputer saya bekerja dengan listrik di negara lain?</span><span class="linkdiv-dash"> — </span><span class="desc">Komputer Anda akan bekerja, tapi Anda mungkin perlu kabel listrik lain atau adaptor perjalanan.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.id" title="Kipas laptop selalu berjalan"><span class="title">Kipas laptop selalu berjalan</span><span class="linkdiv-dash"> — </span><span class="desc">Some fan-control software could be missing, or your laptop may be
-    running hot.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.id" title="Komputer saya tak bisa menyala"><span class="title">Komputer saya tak bisa menyala</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.id" title="Kipas laptop selalu berjalan"><span class="title">Kipas laptop selalu berjalan</span><span class="linkdiv-dash"> — </span><span class="desc">Beberapa perangkat lunak kontrol kipas bisa hilang, atau laptop Anda mungkin panas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.id" title="Komputer saya tak bisa menyala"><span class="title">Komputer saya tak bisa menyala</span><span class="linkdiv-dash"> — </span><span class="desc">Kabel longgar dan masalah perangkat keras adalah alasan yang mungkin.</span></a></div>
 </div>
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html.id" title="Komputer saya terasa sangat panas"><span class="title">Komputer saya terasa sangat panas</span><span class="linkdiv-dash"> — </span><span class="desc">Komputer biasanya menjadi hangat, tapi bila mereka menjadi terlalu panas mereka dapat menjadi kelebihan panas, yang dapat merusak.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?"><span class="title">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.id" title="Saya tak punya jaringan nirkabel ketika membangunkan komputer saya"><span class="title">Saya tak punya jaringan nirkabel ketika membangunkan komputer saya</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
-    suspended and does not resume properly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?"><span class="title">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</span><span class="linkdiv-dash"> — </span><span class="desc">Beberapa perangkat keras komputer menyebabkan masalah dengan suspensi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.id" title="Saya tak punya jaringan nirkabel ketika membangunkan komputer saya"><span class="title">Saya tak punya jaringan nirkabel ketika membangunkan komputer saya</span><span class="linkdiv-dash"> — </span><span class="desc">Beberapa perangkat nirkabel mengalami masalah penanganan saat komputer disuspensi dan tidak melanjutkan dengan benar.</span></a></div>
 </div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
@@ -150,13 +145,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.id" title="Papan tik">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">display</a></span>,
-      <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">user accounts</a></span>…
-    </span>
+<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">tetikus &amp; touchpad</a></span>, <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">layar</a></span>, <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">akun pengguna</a></span>…</span>
 </li>
 <li class="links ">
 <a href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras &amp; penggerak</a><span class="desc"> — <span class="link"><a href="hardware.html.id#problems" title="Masalah umum">Masalah perangkat keras</a></span>, <span class="link"><a href="printing.html.id" title="Pencetakan">pencetak</a></span>, <span class="link"><a href="power.html.id" title="Daya &amp; baterai">pengaturan daya</a></span>, <span class="link"><a href="color.html.id" title="Manajemen warna">manajemen warna</a></span>, <span class="link"><a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.id" title="Disk &amp; penyimpanan">disk</a></span>…</span>

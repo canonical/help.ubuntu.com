@@ -123,11 +123,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.id" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.id" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Kunci layar</a></span>, <span class="link"><a href="privacy-history-recent-off.html.id" title="Matikan atau membatasi pelacakan riwayat berkas">Riwayat penggunaan</a></span>, <span class="link"><a href="privacy-purge.html.id" title="Purge trash &amp; temporary files">Bersihkan sampah &amp; berkas sementara</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -135,8 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="shell-exit.html.id#lock-screen" title="Kunci layar">Kunci layar</a></li>
 <li class="links ">
-<a href="session-screenlocks.html.id" title="The screen locks itself too quickly">The screen locks itself too quickly</a><span class="desc"> — Change how long to wait before locking the screen in the
-    <span class="gui">Privacy</span> settings.</span>
+<a href="session-screenlocks.html.id" title="Layar terlalu cepat mengunci sendiri">Layar terlalu cepat mengunci sendiri</a><span class="desc"> — Mengubah berapa lama menunggu sebelum mengunci layar dalam pengaturan <span class="gui">Privasi</span>.</span>
 </li>
 </ul></div>
 </div></div>

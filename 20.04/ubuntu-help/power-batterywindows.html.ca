@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Les bateries d'alguns equips sembla que tenen una vida més curta quan s'executen amb Linux que no pas amb Windows o Mac OS. Una de les raons d'això és que els proveïdors instal·len un programari especial per a Windows / Mac OS que optimitza diverses configuracions de maquinari / programari per a un determinat model d'ordinador. Aquests ajustos solen ser altament específics i no es poden documentar, de manera que incloure'ls en Linux és difícil.</p>
-<p class="p">Malauradament, no hi ha una manera senzilla d'aplicar aquests ajustaments sense saber exactament què són. Podeu trobar que, tot i això, l'ús d'alguns <span class="link"><a href="power-batterylife.html.ca" title="Utilitzar menys energia i millorar la durada de la bateria">mètodes d'estalvi d'energia</a></span> ajudi. Si el computador té un <span class="link"><a href="power-batteryslow.html.ca" title="Per què el meu ordinador portàtil és lent quan s'està executant amb la bateria?">processador de velocitat variable</a></span>, és possible que trobeu que canviar la configuració us sigui útil.</p>
+<p class="p">Malauradament, no hi ha una manera senzilla d'aplicar aquests ajustaments sense saber exactament què són. Podeu trobar que, tot i això, l'ús d'alguns <span class="link"><a href="power-batterylife.html.ca" title="Utilitzar menys energia i millorar la durada de la bateria">mètodes d'estalvi d'energia</a></span> ajudi. Si el computador té un <span class="link"><a href="power-batteryslow.html.ca" title="Per què el meu ordinador portàtil és lent quan funciona amb la bateria?">processador de velocitat variable</a></span>, és possible que trobeu que canviar la configuració us sigui útil.</p>
 <p class="p">Una altra possible raó de la discrepància és que el mètode d'estimació de la durada de la bateria és diferent a Windows / Mac OS que a Linux. La vida real de la bateria podria ser exactament la mateixa, però els diferents mètodes donen estimacions diferents.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="power-batteryestimate.html.ca" title="La durada estimada de la bateria és incorrecta">La durada estimada de la bateria és incorrecta</a><span class="desc"> — La vida de la bateria que es mostra quan feu clic al botó <span class="gui">icona de bateria</span> és una estimació.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html.ca" title="Per què el meu ordinador portàtil és lent quan s'està executant amb la bateria?">Per què el meu ordinador portàtil és lent quan s'està executant amb la bateria?</a><span class="desc"> — Alguns ordinadors portàtils s'alenteixen intencionadament quan s'estan executant amb la bateria.</span>
+<a href="power-batteryslow.html.ca" title="Per què el meu ordinador portàtil és lent quan funciona amb la bateria?">Per què el meu ordinador portàtil és lent quan funciona amb la bateria?</a><span class="desc"> — Alguns ordinadors portàtils s'alenteixen intencionadament quan s'estan executant amb la bateria.</span>
 </li>
 <li class="links ">
 <a href="power-batterylife.html.ca" title="Utilitzar menys energia i millorar la durada de la bateria">Utilitzar menys energia i millorar la durada de la bateria</a><span class="desc"> — Consells per reduir el consum d'energia de l'ordinador.</span>

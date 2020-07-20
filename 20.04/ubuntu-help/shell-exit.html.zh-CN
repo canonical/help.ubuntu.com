@@ -97,15 +97,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
-  applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html.zh-CN" title="The lock screen">lock screen</a></span> curtain and enter your
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.zh-CN" title="The lock screen">lock screen</a></span>. Enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
 <p class="p">To lock your screen, click the system menu on the right side of the top
-  bar and press the lock screen button at the bottom of the menu.</p>
+  bar and select <span class="gui">Lock</span> from the menu.</p>
 <p class="p">When your screen is locked, other users can log in to their own accounts
-  by clicking <span class="gui">Log in as another user</span> on the password screen. You
-  can switch back to your desktop when they are finished.</p>
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -128,14 +128,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">To save power, suspend your computer when you are not using it. If you use
-  a laptop, GNOME, by default, suspends your computer automatically when you
-  close the lid.
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
   This saves your state to your computer’s memory and powers off most of the
   computer’s functions. A very small amount of power is still used during
   suspend.</p>
 <p class="p">To suspend your computer manually, click the system menu on the right side
-  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
-  click the power off button, or simply long-click the power off button.</p>
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -160,9 +160,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">If you want to power off your computer entirely, or do a full restart,
-  click the system menu on the right side of the top bar and press the power
-  off button at the bottom of the menu. A dialog will open offering you the
-  options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">If there are other users logged in, you may not be allowed to power off or
   restart the computer because this will end their sessions.  If you are an
   administrative user, you may be asked for your password to power off.</p>

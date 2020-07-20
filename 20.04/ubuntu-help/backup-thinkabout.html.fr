@@ -80,21 +80,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Fichiers personnels (documents, musique, photos et vidéos)</p>
-<p class="p">These are usually stored in your home folder (<span class="file">/home/your_name</span>).
-  They could be in subfolders such as <span class="file">Desktop</span>,
-  <span class="file">Documents</span>, <span class="file">Pictures</span>, <span class="file">Music</span> and
-  <span class="file">Videos</span>.</p>
+<p class="p">Ceux-ci sont généralement stockés dans votre dossier personnel (<span class="file">/home/votre_nom</span>). Ils peuvent aussi se trouver dans des sous-dossiers tels que <span class="file">Bureau</span>, <span class="file">Documents</span>, <span class="file">Images</span>, <span class="file">Musique</span> et <span class="file">Vidéos</span>.</p>
 <p class="p">Si votre média de sauvegarde possède suffisamment d'espace disponible (par exemple un disque dur externe), vous devez envisager de sauvegarder votre dossier personnel dans son intégralité. Pour savoir combien d'espace requiert votre dossier personnel, utilisez l'application <span class="app">Analyseur d'utilisation des disques</span>.</p>
 </li>
 <li class="list">
 <p class="p">Fichiers cachés</p>
-<p class="p">Tout fichier ou dossier dont le nom commence par un point (.) est masqué par défaut. Pour afficher les fichiers cachés, cliquez sur <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Options d'affichage"></span></span></span> dans la barre d'outils et choisissez <span class="gui">Afficher les fichiers cachés</span>, ou pressez le raccourci clavier <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Vous pouvez sauvegarder ces fichiers comme n'importe quel autre.</p>
+<p class="p">Tout fichier ou dossier dont le nom commence par un point (.) est masqué par défaut. Pour afficher les fichiers cachés, cliquez sur <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Options d'affichage"></span></span></span> dans la barre d'outils et choisissez <span class="gui">Afficher les fichiers cachés</span>, ou pressez le raccourci clavier <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Vous pouvez sauvegarder ces fichiers comme n'importe quel autre.</p>
 </li>
 <li class="list">
 <p class="p">Réglages personnels (préférences du bureau, thèmes et paramètres des logiciels)</p>
 <p class="p">La plupart des applications stockent leurs paramètres dans des dossiers cachés à l'intérieur de votre dossier personnel (voyez ci-dessus les explications sur les fichiers cachés).</p>
-<p class="p">Most of your application settings will be stored in the hidden folders
- <span class="file">.config</span> and <span class="file">.local</span> in your Home folder.</p>
+<p class="p">La plupart des paramètres de vos applications sont enregistrés dans les fichiers cachés <span class="file">.config</span> et <span class="file">.local</span> dans votre dossier personnel.</p>
 </li>
 <li class="list">
 <p class="p">Préférences système</p>

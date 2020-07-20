@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Nätverk</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Nätverk</span> för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Välj <span class="gui">Trådlös</span> från listan till vänster.</p></li>
-<li class="steps"><p class="p">Klicka på knappen <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="inställningar"></span></span> för att öppna anslutningsdetaljerna.</p></li>
+<li class="steps"><p class="p">Klicka på knappen <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="inställningar"></span></span> för att öppna anslutningsdetaljerna.</p></li>
 <li class="steps"><p class="p">Välj <span class="gui">Identitet</span> från panelen till vänster.</p></li>
 <li class="steps"><p class="p">Längst ner i panelen <span class="gui">Identitet</span>, kontrollera alternativet <span class="gui">Gör tillgänglig för andra användare</span> för att låta andra användare använda nätverksanslutningen.</p></li>
 <li class="steps"><p class="p">Tryck på <span class="gui">Verkställ</span> för att spara ändringarna.</p></li>

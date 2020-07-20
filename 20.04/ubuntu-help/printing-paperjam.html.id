@@ -76,15 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Membersihkan kertas yang macet</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Sometimes printers incorrectly feed sheets of paper and get jammed.</p>
-<p class="p">The manual for your printer will usually provide detailed instructions on
-  how to clear paper jams. Usually, you will need to open one of the printer’s
-  panels to find the jam inside and then firmly (but carefully!) pull the
-  jammed paper out of the printer’s feeding mechanism.</p>
-<p class="p">Once the jam has been cleared you may need to press the printer’s
-  <span class="em">resume</span> button to start printing again. With some printers, you may
-  even need to turn the printer off and then on again, and then start the print
-  job again.</p>
+<p class="p">Terkadang pencetak salah asupan lembar kertas dan menjadi macet.</p>
+<p class="p">Manual untuk pencetak Anda biasanya akan memberikan petunjuk rinci tentang cara untuk membersihkan kertas macet. Biasanya, Anda akan perlu untuk membuka salah satu panel pencetak untuk menemukan yang menyangkut di dalam dan kemudian dengan tegas (tapi hati-hati!) menarik kertas macet dari mekanisme asupan pencetak.</p>
+<p class="p">Setelah kemacetan dibersihkan, Anda mungkin perlu menekan tombol <span class="em">lanjutkan</span> pencetak untuk mulai mencetak lagi. Dengan beberapa pencetak, Anda mungkin bahkan perlu mematikan pencetak dan kemudian menghidupkan lagi, dan kemudian mulai pekerjaan pencetakan lagi.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

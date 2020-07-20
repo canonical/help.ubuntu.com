@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Elija el dispositivo <span class="gui">Inalámbrico</span> o<span class="gui">Cableado</span> en el panel de la izquierda.</p>
 <p class="p">Su dirección del dispositivo cableado MAC se mostrará como la <span class="gui">Dirección hardware</span> a la derecha.</p>
-<p class="p">Pulse el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuración"></span></span> para ver la dirección MAC del dispositivo inalámbrico mostrada como <span class="gui">Dirección hardware</span> en el panel de <span class="gui">Detalles</span>.</p>
+<p class="p">Pulse el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configuración"></span></span> para ver la dirección MAC del dispositivo inalámbrico mostrada como <span class="gui">Dirección hardware</span> en el panel de <span class="gui">Detalles</span>.</p>
 </li>
 </ol></div></div></div>
 <p class="p">En la práctica, puede necesitar modificar o «falsear» una dirección MAC. Por ejemplo, algunos proveedores de servicios de Internet pueden exigir que se usa una dirección MAC en concreto para acceder a su servicio. Si la tarjeta de red deja de funcionar, y es necesario cambiar la tarjeta de red, el servicio no funcionará más. En estos casos, tendría que falsificar la dirección MAC.</p>

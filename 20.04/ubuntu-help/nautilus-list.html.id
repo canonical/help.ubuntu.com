@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Files list columns preferences</title>
+<title>Preferensi kolom daftar berkas</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,65 +70,50 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » <a class="trail" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Files list columns preferences</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Preferensi kolom daftar berkas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">There are eleven columns of information that you can display in the
-  <span class="gui">Files</span> list view. Click the menu button in the top-right corner of
-  the window, select <span class="gui">Preferences</span> and choose the
-  <span class="gui">List Columns</span> tab to select which columns will be visible.</p>
+<p class="p">Ada sebelas kolom informasi yang dapat Anda tampilkan dalam tampilan daftar <span class="gui">Berkas</span>. Klik tombol menu di pojok kanan atas jendela, pilih <span class="gui">Preferensi</span> dan pilih tab <span class="gui">Kolom Daftar</span> untuk memilih kolom yang akan terlihat.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Use the <span class="gui">Move Up</span> and <span class="gui">Move Down</span> buttons to choose
-    the order in which the selected columns will appear. Click <span class="gui">Reset to
-    Default</span> to undo any changes and return to the default columns.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Gunakan tombol <span class="gui">Naikkan</span> dan <span class="gui">Turunkan</span> untuk memilih urutan di mana kolom yang dipilih akan muncul. Klik <span class="gui">Atur Ulang ke Baku</span> untuk mengurungkan perubahan dan kembali ke kolom baku.</p></div></div></div>
 </div>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Nama</span></dt>
 <dd class="terms">
-<p class="p">The name of folders and files.</p>
+<p class="p">Nama folder dan berkas.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Name</span> column cannot be hidden.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Kolom <span class="gui">Nama</span> tidak dapat disembunyikan.</p></div></div></div>
 </div>
 </dd>
 <dt class="terms"><span class="gui">Ukuran</span></dt>
-<dd class="terms"><p class="p">The size of a folder is given as the number of items contained in the
-      folder. The size of a file is given as bytes, KB, or MB.</p></dd>
+<dd class="terms"><p class="p">Ukuran folder yang diberikan sebagai jumlah item yang terkandung dalam folder. Ukuran berkas yang diberikan sebagai byte, KB, atau MB.</p></dd>
 <dt class="terms"><span class="gui">Tipe</span></dt>
-<dd class="terms"><p class="p">Displayed as folder, or file type such as PDF document, JPEG image,
-      MP3 audio, and more.</p></dd>
+<dd class="terms"><p class="p">Ditampilkan sebagai folder, atau jenis berkas seperti dokumen PDF, gambar JPEG, audio MP3, dan banyak lagi.</p></dd>
 <dt class="terms"><span class="gui">Diubah</span></dt>
-<dd class="terms"><p class="p">Gives the date of the last time the file was modified.</p></dd>
+<dd class="terms"><p class="p">Memberi tanggal dan waktu kapan berkas terakhir diubah.</p></dd>
 <dt class="terms"><span class="gui">Pemilik</span></dt>
-<dd class="terms"><p class="p">The name of the user the folder or file is owned by.</p></dd>
+<dd class="terms"><p class="p">Nama pengguna pemilik folder atau berkas.</p></dd>
 <dt class="terms"><span class="gui">Grup</span></dt>
-<dd class="terms"><p class="p">The group the file is owned by. Each user is normally in their own
-      group, but it is possible to have many users in one group. For example, a
-      department may have their own group in a work environment.</p></dd>
+<dd class="terms"><p class="p">Grup pemilik berkas. Setiap pengguna biasanya dalam kelompok mereka sendiri, tetapi dimungkinkan untuk memiliki banyak pengguna dalam satu kelompok. Sebagai contoh, sebuah departemen mungkin memiliki kelompok mereka sendiri dalam lingkungan kerja.</p></dd>
 <dt class="terms"><span class="gui">Izin</span></dt>
 <dd class="terms">
-<p class="p">Displays the file access permissions. For example,
-      <span class="gui">drwxrw-r--</span></p>
+<p class="p">Menampilkan izin akses berkas. Sebagai contoh, <span class="gui">drwxrw-r--</span></p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">The first character is the file type. <span class="gui">-</span> means regular
-          file and <span class="gui">d</span> means directory (folder). In rare cases, other
-          characters can also be shown.</p></li>
-<li class="list"><p class="p">The next three characters <span class="gui">rwx</span> specify permissions for
-          the user who owns the file.</p></li>
-<li class="list"><p class="p">The next three <span class="gui">rw-</span> specify permissions for all members
-          of the group that owns the file.</p></li>
-<li class="list"><p class="p">The last three characters in the column <span class="gui">r--</span> specify
-          permissions for all other users on the system.</p></li>
+<li class="list"><p class="p">Karakter pertama adalah jenis berkas. <span class="gui">-</span> berarti berkas biasa dan <span class="gui">d</span> berarti direktori (folder). Dalam kasus yang jarang terjadi, karakter lain juga dapat ditampilkan.</p></li>
+<li class="list"><p class="p">Tiga karakter berikutnya <span class="gui">rwx</span> menentukan izin untuk pengguna yang memiliki berkas.</p></li>
+<li class="list"><p class="p">Tiga berikutnya <span class="gui">rw-</span> menentukan izin untuk semua anggota grup yang memiliki berkas.</p></li>
+<li class="list"><p class="p">Tiga karakter terakhir di kolom <span class="gui">r--</span> menentukan izin untuk semua pengguna lain pada sistem.</p></li>
 </ul></div></div></div>
-<p class="p">Each permission has the following meanings:</p>
+<p class="p">Setiap izin memiliki arti berikut:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">r</span>: dapat dibaca, berarti bahwa Anda dapat membuka berkas atau folder</p></li>
 <li class="list"><p class="p"><span class="gui">w</span>: dapat ditulisi, berarti bahwa Anda dapat menyimpan perubahan padanya</p></li>
@@ -140,10 +125,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd class="terms"><p class="p">Tampilkan tipe MIME dari butir tersebut.</p></dd>
 <dt class="terms"><span class="gui">Lokasi</span></dt>
 <dd class="terms"><p class="p">Path ke lokasi berkas.</p></dd>
-<dt class="terms"><span class="gui">Modified — Time</span></dt>
+<dt class="terms"><span class="gui">Diubah — Waktu</span></dt>
 <dd class="terms"><p class="p">Memberi tanggal dan waktu kapan berkas terakhir diubah.</p></dd>
 <dt class="terms"><span class="gui">Diakses</span></dt>
-<dd class="terms"><p class="p">Gives the date or time of the last time the file was modified.</p></dd>
+<dd class="terms"><p class="p">Memberi tanggal atau waktu kapan berkas terakhir diubah.</p></dd>
 </dl></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -151,7 +136,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a><span class="desc"> — Melihat dan mengatur preferensi untuk peramban berkas.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

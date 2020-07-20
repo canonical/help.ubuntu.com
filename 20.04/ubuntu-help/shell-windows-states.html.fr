@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Déplacement et redimensionnement de vos fenêtres.</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Vous pouvez déplacer et redimensionner les fenêtres pour travailler plus efficacement. En plus des fonctionnalités de glissement que vous pourriez attendre, GNOME fournit des raccourcis qui vous permettent d'arranger les fenêtres rapidement.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Déplacez une fenêtre en faisant glisser sa barre de titre, ou maintenez <span class="key"><kbd>Logo</kbd></span> appuyée pour la faire glisser à partir de n'importe quel point de la fenêtre. Maintenez la touche <span class="key"><kbd>Maj</kbd></span> appuyée tout en déplaçant la fenêtre pour la positionner au bord de l'écran ou à côté d'une autre fenêtre.</p></li>
 <li class="list"><p class="p">Redimensionnez une fenêtre en faisant glisser les bords ou les coins de celle-ci. Maintenez la touche <span class="key"><kbd>Maj</kbd></span> appuyée tout en redimensionnant la fenêtre pour la positionner au bord de l'écran ou à côté d'une autre fenêtre.</p></li>

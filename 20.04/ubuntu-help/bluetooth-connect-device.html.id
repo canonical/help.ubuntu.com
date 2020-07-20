@@ -80,9 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Bluetooth</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch at the top should be set to
-      on. With the panel open and the switch on, your computer will begin
-      searching for devices.</p></li>
+<li class="steps"><p class="p">Pastikan bahwa Bluetooth difungsikan: saklar di puncak mesti dinyalakan. Dengan panel terbuka dan saklar menyala, komputer Anda akan mulai mencari perangkat.</p></li>
 <li class="steps"><p class="p">Buatlah perangkat Bluetooth lain <span class="link"><a href="bluetooth-visibility.html.id" title="Apa itu kenampakan Bluetooth?">dapat ditemukan atau nampak</a></span> dan tempatkanlah dalam jarak 5-10 meter (sekitar 16-33 kaki) dari komputer Anda.</p></li>
 <li class="steps"><p class="p">Klik perangkat dalam daftar <span class="gui">Perangkat</span>. Panel bagi perangkat akan terbuka.</p></li>
 <li class="steps">
@@ -109,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="sharing-bluetooth.html.id" title="Control sharing over Bluetooth">Control sharing over Bluetooth</a><span class="desc"> — Allow files to be uploaded to your computer over Bluetooth.</span>
+<a href="sharing-bluetooth.html.id" title="Control sharing over Bluetooth">Control sharing over Bluetooth</a><span class="desc"> — Mengizinkan berkas diunggah ke komputer Anda melalui Bluetooth.</span>
 </li>
 <li class="links ">
 <a href="bluetooth-remove-connection.html.id" title="Putuskan sebuah perangkat Bluetooth">Putuskan sebuah perangkat Bluetooth</a><span class="desc"> — Menghapus suatu perangkat dari daftar perangkat Bluetooth.</span>

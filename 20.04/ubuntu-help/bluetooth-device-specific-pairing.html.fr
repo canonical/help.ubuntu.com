@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Pairing instructions for specific devices</title>
+<title>Instructions d'appairage pour des appareils spécifiques</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,37 +73,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="bluetooth.html.fr" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Pairing instructions for specific devices</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Instructions d'appairage pour des appareils spécifiques</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Even if you manage to source the manual for a device, it might not contain
-  enough information to make pairing possible. Here are details for a few common
-  devices.</p>
+<p class="p">Même si vous parvenez à obtenir le manuel d’un appareil, il peut ne pas contenir suffisamment d’informations pour rendre l’appairage possible. Voici des précisions concernant quelques appareils communs.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">PlayStation 3 joypads</dt>
-<dd class="terms"><p class="p">Those devices use “cable-pairing”. Plug the joypads in via USB with the
-      <span class="gui">Bluetooth Settings</span> opened, and Bluetooth turned on. After pressing the
-      “PS” button, you will get asked whether to set those joypads up. Unplug them and
-      press the “PS” button to use them over Bluetooth.</p></dd>
-<dt class="terms">PlayStation 4 joypads</dt>
+<dt class="terms">Manettes de jeu PlayStation 3</dt>
+<dd class="terms"><p class="p">Ces appareils utilisent un « appairage filaire ». Branchez les manettes de jeu en USB avec les <span class="gui">Paramètres Bluetooth</span> ouverts, et le Bluetooth allumé. Après avoir appuyé sur le bouton « PS », il vous sera demandé si vous souhaitez configurer ces manettes de jeu. Débranchez-les et pressez de nouveau le bouton « PS » pour les utiliser en Bluetooth.</p></dd>
+<dt class="terms">Manettes de jeu PlayStation 4</dt>
 <dd class="terms">
-<p class="p">Those devices use “cable-pairing” as well. Plug the joypads in via USB with the
-      <span class="gui">Bluetooth Settings</span> opened, and Bluetooth turned on. You will get asked whether
-      to set those joypads up without needing to press the PS button. Unplug them and press the
-      PS button to use them over Bluetooth.</p>
-<p class="p">Using the “PS” and “Share” button combination to pair the joypad can also be used to
-      make the joypad visible and pair it like any other Bluetooth device, if you don’t have
-      a USB cable at hand.</p>
+<p class="p">Ces appareils utilisent également un « appairage filaire ». Branchez les manettes de jeu en USB avec les <span class="gui">Paramètres Bluetooth</span> ouverts, et le Bluetooth allumé. Après avoir appuyé sur le bouton « PS », il vous sera demandé si vous souhaitez configurer ces manettes de jeu. Débranchez-les et pressez de nouveau le bouton « PS » pour les utiliser en Bluetooth.</p>
+<p class="p">La combinaison de boutons « PS » et « Share » peut également être utilisée pour rendre la manette de jeu visible et l’appairer comme n’importe quel autre appareil Bluetooth, si vous n’avez pas de câble USB à disposition.</p>
 </dd>
-<dt class="terms">PlayStation 3 BD Remote Control</dt>
-<dd class="terms"><p class="p">Hold the “Start” and “Enter” buttons at the same time for around 5 seconds.
-      You can then select the remote in the devices list as usual.</p></dd>
-<dt class="terms">Nintendo Wii and Wii U Remotes</dt>
-<dd class="terms"><p class="p">Use the red “Sync” button inside the battery compartment to start the pairing
-      process. Other button combinations will not keep pairing information, so you would
-      need to do it all over again in short order. Also note that some software wants
-      direct access to the remotes, and, in those cases, you should not set them up in
-      the Bluetooth panel. Refer to the application’s manual for instructions.</p></dd>
+<dt class="terms">Télécommande Disque Blu-Ray PlayStation 3</dt>
+<dd class="terms"><p class="p">Pressez simultanément les boutons « Start » et « Enter » pendant 5 secondes. Vous pouvez ensuite sélectionner comme d’habitude la télécommande parmi la liste des appareils.</p></dd>
+<dt class="terms">Manettes Nintendo Wii et Wii U</dt>
+<dd class="terms"><p class="p">Utilisez le bouton rouge « Sync » situé dans le compartiment des piles pour démarrer l’appairage. Toute autre combinaison de boutons ne conserve pas les informations d’appairage, vous devrez alors réitérer l’opération sous peu. Veuillez noter que certains logiciels ont besoin d’un accès direct aux manettes, et, dans ces cas-là, vous ne devriez pas les configurer avec le panneau Bluetooth. Référez-vous au manuel de l’application pour les instructions.</p></dd>
 </dl></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">

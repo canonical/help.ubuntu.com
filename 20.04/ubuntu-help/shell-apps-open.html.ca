@@ -82,11 +82,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="list"><p class="p">Comenceu a escriure el nom d'una aplicació -- la cerca comença a l'instant. Si això no passa, feu clic a la barra de cerca a la part superior de la pantalla i comenceu a escriure. Si no coneixeu el nom exacte d'una aplicació, intenteu escriure un terme relacionat. Feu clic a la icona de l'aplicació per iniciar-la.</p></li>
 <li class="list">
 <p class="p">Algunes aplicacions tenen icones al <span class="em">tauler</span>, la franja vertical d'icones a la part esquerra de la vista general d'<span class="gui">Activitats</span>. Feu clic en una d'aquestes per iniciar l'aplicació corresponent.</p>
-<p class="p">Si teniu aplicacions que utilitzeu amb molta freqüència, podeu <span class="link"><a href="shell-apps-favorites.html.ca" title="Fixar les aplicacions preferides al taulell">afegir-les al tauler</a></span> vosaltres mateixos.</p>
+<p class="p">Si teniu aplicacions que utilitzeu amb molta freqüència, podeu <span class="link"><a href="shell-apps-favorites.html.ca" title="Fixar les aplicacions preferides al quadre d'aplicacions">afegir-les al quadre d'aplicacions</a></span> vosaltres mateixos.</p>
 </li>
-<li class="list"><p class="p">Feu clic al botó graella a la part inferior del tauler. Veureu les aplicacions que s'utilitzen amb més freqüència si la vista <span class="gui">Freqüents</span> està activada. Si voleu executar una nova aplicació, premeu el botó <span class="gui">Totes</span> a la part inferior per veure totes les aplicacions. Premeu una aplicació per iniciar-la.</p></li>
+<li class="list"><p class="p">Feu clic al botó graella a la part inferior del quadre d'aplicacions. Veureu les aplicacions que s'utilitzen amb més freqüència si la vista <span class="gui">Freqüents</span> està activada. Si voleu executar una nova aplicació, premeu el botó <span class="gui">Totes</span> a la part inferior per veure totes les aplicacions. Premeu una aplicació per iniciar-la.</p></li>
 <li class="list">
-<p class="p">Podeu executar una aplicació en un <span class="link"><a href="shell-workspaces.html.ca" title="Què és un espai de treball i com m'ajudarà?">espai de treball</a></span> separat arrossegant la seva icona des del tauler i deixant-la en un dels espais de treball al costat dret de la pantalla. L'aplicació s'obrirà a l'espai de treball triat.</p>
+<p class="p">Podeu executar una aplicació en un <span class="link"><a href="shell-workspaces.html.ca" title="Què és un espai de treball i com m'ajudarà?">espai de treball</a></span> separat arrossegant la seva icona des del quadre d'aplicacions i deixant-la en un dels espais de treball al costat dret de la pantalla. L'aplicació s'obrirà a l'espai de treball triat.</p>
 <p class="p">Podeu executar una aplicació en un <span class="em">nou</span> espai de treball arrossegant la seva icona a l'espai de treball buit a la part inferior del canviador d'espai de treball, o bé a la petita separació que hi ha entre dos espais de treball.</p>
 </li>
 </ul></div></div></div>
@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents">
 <p class="p">Una altra forma d'executar una aplicació és prémer <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, introduïu el <span class="em">nom de l'ordre</span>, i aleshores prémer la tecla <span class="key"><kbd>Retorn</kbd></span>.</p>
 <p class="p">Per exemple, per executar <span class="app">Rhythmbox</span>, premeu <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> i escriviu ‘<span class="cmd">rhythmbox</span>’ (sense les cometes senzilles). El nom de l'aplicació és l'ordre per iniciar el programa.</p>
-<p class="p">Utilitzeu les tecles de fletxa per accedir ràpidament a ordres executades anteriorment.</p>
+<p class="p">Utilitzeu les tecles de fletxa per a accedir ràpidament a ordres executades anteriorment.</p>
 </div></div>
 </div>
 </div>
@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-apps-favorites.html.ca" title="Fixar les aplicacions preferides al taulell">Fixar les aplicacions preferides al taulell</a><span class="desc"> — Afegiu (o elimineu) les icones dels programes que s'utilitzen amb més freqüència al tauler.</span>
+<a href="shell-apps-favorites.html.ca" title="Fixar les aplicacions preferides al quadre d'aplicacions">Fixar les aplicacions preferides al quadre d'aplicacions</a><span class="desc"> — Afegiu (o elimineu) les icones dels programes que s'utilitzen amb més freqüència al quadre d'aplicacions.</span>
 </li>
 <li class="links "><a href="gs-launch-applications.html.ca" title="Iniciació d'aplicacions">Un programa d'aprenentatge per iniciar les aplicacions</a></li>
 <li class="links "><a href="gs-use-system-search.html.ca" title="Utilitzar el cercador del sistema">Un programa d'aprenentatge sobre el cercador del sistema</a></li>

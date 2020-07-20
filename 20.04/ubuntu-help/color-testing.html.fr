@@ -81,16 +81,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Les effets d'un profil de couleurs sont parfois subtiles et il peut être difficile de remarquer un quelconque changement.</p>
-<p class="p">GNOME est fourni avec plusieurs profils qui vous montrent clairement ce qui change quand vous les appliquez :</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Le bleu</dt>
 <dd class="terms"><p class="p">Il bleuit l'écran et teste si les courbes d'étalonnage sont transmises à l'écran.</p></dd>
 </dl></div></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Sélectionnez le périphérique auquel vous voulez ajouter un profil. Notez quelque part le profil actuellement utilisé.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Ajouter un profil</span> pour sélectionner un profil test qui devrait se trouver en bas de la liste.</p></li>

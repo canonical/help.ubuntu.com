@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Иногда эффект от применения цветового профиля едва различимый и трудно увидеть, изменилось ли что-нибудь.</p>
-<p class="p">GNOME поставляет несколько профилей для тестирования, результат применения которых сразу заметен:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Синий</dt>
 <dd class="terms"><p class="p">Экран станет синим, и будет проведена проверка, посылаются ли на монитор калибровочные кривые.</p></dd>
@@ -90,7 +91,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span> overview and
       start typing <span class="gui">Settings</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Выберите устройство, для которого необходимо добавить цветовой профиль. Возможно, понадобится сделать примечание о том, какой из профилей является текущим.</p></li>
 <li class="steps"><p class="p">Чтобы добавить тестовый профиль, нажмите <span class="gui">Добавить профиль</span>. Эти профили обычно находятся внизу списка.</p></li>

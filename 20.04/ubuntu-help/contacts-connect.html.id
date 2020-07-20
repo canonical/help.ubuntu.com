@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="contacts.html.id" title="Kontak">Kontak</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="contacts.html.id" title="Kontak">Kontak</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Menyambung dengan kontak Anda</span></h1></div>
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Untuk mengirim surel, mengobrol, atau menelepon seseorang dalam <span class="app">Kontak</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Pilih kontak dari daftar kontak Anda.</p></li>
-<li class="steps"><p class="p">Tekan pada <span class="gui">Rincian</span> yang ingin Anda pakai. Sebagai contoh, untuk mengirim surel ke kontak Anda, tekan alamat surel.</p></li>
+<li class="steps"><p class="p">Tekan pada <span class="em">rincian</span> yang ingin Anda pakai. Sebagai contoh, untuk mengirim surel ke kontak Anda, tekan alamat surel.</p></li>
 <li class="steps"><p class="p">Aplikasi yang sesuai akan diluncurkan dengan menggunakan rincian kontak.</p></li>
 </ol></div></div></div>
 <div class="note" title="Catatan">

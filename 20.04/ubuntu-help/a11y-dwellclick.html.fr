@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Vous pouvez cliquer ou faire glisser simplement en survolant un contrôle ou un objet sur l'écran avec le pointeur de la souris. C'est utile si vous avez des difficultés à déplacer la souris et à cliquer en même temps. Cette fonctionnalité s'appelle <span class="gui">Clic par survol</span>.</p>
 <p class="p">Quand <span class="gui">Clic par survol</span> est activé, vous pouvez déplacer le pointeur de la souris au-dessus d'un contrôle, le maintenir immobile et attendre un peu avant que le bouton ne soit cliqué pour vous.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Assistant de clic</span> dans la rubrique <span class="gui">Pointage et clic de souris</span>.</p></li>
 <li class="steps"><p class="p">Switch <span class="gui">Hover Click</span> to on.</p></li>

@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Your desktop</span></h1></div>
@@ -94,14 +94,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.he" title="Calendar appointments"><span class="title">Calendar appointments</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
     screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.he" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.he" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.he" title="Pin your favorite apps to the dash"><span class="title">Pin your favorite apps to the dash</span><span class="linkdiv-dash"> — </span><span class="desc">Add (or remove) frequently-used program icons on the dash.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.he" title="Pin your favorite apps to the dash"><span class="title">Pin your favorite apps to the dash</span><span class="linkdiv-dash"> — </span><span class="desc">Add (or remove) frequently-used program icons on the dash.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Applications and windows</span></h2></div>

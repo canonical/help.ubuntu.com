@@ -70,45 +70,34 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » <a class="trail" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » <a class="trail" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferensi tampilan pengelola berkas</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">You can control how the file manager displays captions under icons. Click
-the menu button in the top-right corner of the window and select
-<span class="gui">Preferences</span>, then select the <span class="gui">Views</span> tab.</p></div>
+<div class="contents pagewide"><p class="p">Anda dapat mengontrol bagaimana manajer berkas menampilkan teks di bawah ikon. Klik tombol menu di pojok kanan atas jendela dan pilih <span class="gui">Preferensi</span>, lalu pilih tab <span class="gui">Tampilan</span>.</p></div>
 <section id="icon-captions"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Kapsi ikon</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="media media-image floatend"><div class="inner"><img src="figures/nautilus-icons.png" height="110" width="250" class="media media-block" alt="Ikon pengelola berkas dengan kapsi"></div></div>
-<p class="p">When you use icon view, you can choose to have extra information about
-  files and folders displayed in a caption under each icon. This is useful,
-  for example, if you often need to see who owns a file or when it was last
-  modified.</p>
+<p class="p">Bila Anda menggunakan tampilan ikon, Anda dapat memilih untuk memiliki informasi tambahan tentang berkas dan folder yang ditampilkan dalam keterangan di bawah setiap ikon. Hal ini berguna, misalnya, jika Anda sering perlu untuk melihat siapa yang memiliki berkas atau ketika itu terakhir diubah.</p>
 <p class="p">You can zoom in a folder by clicking the view options button in the
   
   toolbar and choosing a zoom level with the slider. As you zoom in, the
   file manager will display more and more information in captions. You can
   choose up to three things to show in captions. The first will be displayed at
   most zoom levels. The last will only be shown at very large sizes.</p>
-<p class="p">The information you can show in icon captions is the same as the
-  columns you can use in list view. See <span class="link"><a href="nautilus-list.html.id" title="Files list columns preferences">Files list columns preferences</a></span>
-  for more information.</p>
+<p class="p">Informasi yang dapat Anda tampilkan di ikon teks sama dengan kolom yang dapat Anda gunakan dalam tampilan daftar. Lihat <span class="link"><a href="nautilus-list.html.id" title="Preferensi kolom daftar berkas">Preferensi kolom daftar berkas</a></span> untuk informasi lebih lanjut.</p>
 </div></div>
 </div></section><section id="list-view"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">List View</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">When viewing files as a list, you can <span class="gui">Allow folders to be
-  expanded</span>. This shows expanders on each directory in the file list, so
-  that the contents of several folders can be shown at once. This is useful if
-  the folder structure is relevant, such as if your music files are organized
-  with a folder per artist, and a subfolder per album.</p></div></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Tampilan Tabel</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p">Saat melihat berkas sebagai daftar, Anda dapat <span class="gui">Mengizinkan folder untuk dikembangkan</span>. Ini menunjukkan pengembang pada setiap direktori dalam daftar berkas, sehingga isi dari beberapa folder dapat ditampilkan sekaligus. Hal ini berguna jika struktur folder relevan, seperti jika berkas musik Anda diatur dengan folder per artis, dan subfolder per album.</p></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a><span class="desc"> — View and set preferences for the file browser.</span>
+<a href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi pengelola berkas</a><span class="desc"> — Melihat dan mengatur preferensi untuk peramban berkas.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -94,9 +94,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Képernyő zárolása</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Ha számítógépét elhagyja egy rövid időre, akkor zárolja a képernyőt. Ezzel megakadályozhatja, hogy mások hozzáférjenek fájljaihoz vagy alkalmazásokat futtassanak. Amikor visszatér, emelje fel a <span class="link"><a href="shell-lockscreen.html.hu" title="The lock screen">zároló képernyő</a></span> függönyét, és adja meg jelszavát a bejelentkezéshez. Ha nem zárolja képernyőjét, akkor az egy idő után automatikusan megtörténik.</p>
-<p class="p">A képernyő zárolásához kattintson a rendszer menüre a felső sáv jobb oldalán, és válassza a Képernyő zárolása menüpontot a menü alján.</p>
-<p class="p">Amikor képernyője zárolva van, más felhasználók bejelentkezhetnek a saját fiókjukba a jelszó képernyőn a <span class="gui">Bejelentkezés más felhasználóként</span> gombra kattintva. Amikor végeztek, visszaválthat a saját munkamenetére.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.hu" title="The lock screen">lock screen</a></span>. Enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -117,8 +125,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Felfüggesztés</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Energiatakarékossági okból függessze fel számítógépét, ha nem használja azt. Ha laptopot használ, akkor a GNOME alapesetben automatikusan felfüggeszti a számítógépét, amikor lecsukja a fedelet. Ez elmenti a munkamenet állapotát a számítógép memóriájába, és kikapcsolja a számítógép legtöbb funkcióját. A felfüggesztés alatt a számítógép kis mennyiségű áramot használ.</p>
-<p class="p">A számítógép saját kezűleg történő felfüggesztéséhez kattintson a rendszer menüre a felső sáv jobb oldalán, és vagy tartsa lenyomva az <span class="key"><kbd>Alt</kbd></span> billentyűt, és kattintson a Kikapcsolás gombra; vagy csak kattintson rá hosszan.</p>
+<p class="p">To save power, suspend your computer when you are not using it. If you use
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
+  suspend.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -142,7 +157,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Kikapcsolás vagy újraindítás</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Ha teljesen ki szeretné kapcsolni számítógépét, vagy újra szeretné indítani, kattintson a rendszer menüre a felső sáv jobb oldalán, válassza a Kikapcsolás menüpontot a menü alján. Megjelenik egy ablak, amely felkínálja az <span class="gui">Újraindítást</span> vagy a <span class="gui">Kikapcsolást</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Ha más felhasználók is be vannak jelentkezve, akkor nem biztos, hogy ki tudja kapcsolni vagy újra tudja indítani a számítógépet, mert ez befejezné az ő munkameneteiket is. Ha rendelkezik rendszergazdai jogosultsággal, akkor a rendszer bekérheti a jelszavát a leállításhoz.</p>
 <div class="note note-tip" title="Tipp">
 <svg width="24" height="24" version="1.1">

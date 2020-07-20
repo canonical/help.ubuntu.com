@@ -79,39 +79,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Komputer saya tak bisa menyala</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">There are a number of reasons why your computer will not turn on. This topic
-gives a brief overview of some of the possible reasons.</p></div>
+<div class="contents pagewide"><p class="p">Ada beberapa alasan mengapa komputer Anda tidak dapat menyala. Topik ini memberikan gambaran singkat dari beberapa kemungkinan alasan.</p></div>
 <section id="nopower"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Computer not plugged in, empty battery, or loose cable</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">Make sure that the power cables of the computer are firmly plugged in and
-  the power outlets are switched on. Make sure that the monitor is plugged in
-  and switched on too. If you have a laptop, connect the charging cable (in
-  case it has run out of battery). You may also want to check that the battery
-  is correctly fitted in place (check the underside of the laptop) if it is
-  removable.</p></div></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Komputer tidak dicolokkan, baterai kosong, atau kabel longgar</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p">Pastikan bahwa kabel power komputer tertancap kuat dan stopkontak diaktifkan. Pastikan bahwa monitor dicolokkan dan diaktifkan juga. Jika Anda memiliki sebuah laptop, hubungkan kabel pengisian (dalam hal telah kehabisan muatan baterai). Anda mungkin juga ingin memeriksa bahwa baterai dipasang dengan benar di tempat (periksa bagian bawah laptop) jika dilepas.</p></div></div>
 </div></section><section id="hardwareproblem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Masalah dengan perangkat keras komputer</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">A component of your computer may be broken or malfunctioning. If this is
-  the case, you will need to get your computer repaired. Common faults include
-  a broken power supply unit, incorrectly-fitted components (such as the
-  memory or RAM) and a faulty motherboard.</p></div></div>
+<div class="region"><div class="contents pagewide"><p class="p">Sebuah komponen dari komputer Anda mungkin rusak atau tak berfungsi. Jika hal ini terjadi, Anda akan perlu untuk memperbaiki komputer Anda. Kesalahan umum termasuk power supply rusak, komponen salah tancap (seperti memori/RAM) dan motherboard rusak.</p></div></div>
 </div></section><section id="beeps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Komputer berbunyi bip lalu mati</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">If the computer beeps several times when you turn it on and then turns off
-  (or fails to start), it may be indicating that it has detected a problem.
-  These beeps are sometimes referred to as <span class="em">beep codes</span>, and the pattern
-  of beeps is intended to tell you what the problem with the computer is.
-  Different manufacturers use different beep codes, so you will have to consult
-  the manual for your computer’s motherboard, or take your computer in for
-  repairs.</p></div></div>
+<div class="region"><div class="contents pagewide"><p class="p">Jika komputer berbunyi beberapa kali saat Anda menyalakannya dan kemudian mati (atau gagal untuk memulai), mungkin menunjukkan bahwa itu telah mendeteksi masalah. Beep ini terkadang disebut sebagai <span class="em">kode bip</span>, dan pola beep dimaksudkan untuk memberi tahu Anda apa masalah dengan komputer. Produsen yang berbeda menggunakan kode bip yang berbeda, sehingga Anda harus berkonsultasi manual untuk motherboard komputer Anda, atau membawa komputer Anda untuk direparasi.</p></div></div>
 </div></section><section id="fans"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">The computer fans are spinning but nothing is on the screen</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Kipas komputer berputar tapi tidak ada sesuatu pun di layar</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">The first thing to check is that your monitor is plugged in and turned
-  on.</p>
-<p class="p">This problem could also be due to a hardware fault. The fans might turn on
-  when you press the power button, but other essential parts of the computer
-  might fail to turn on. In this case, take your computer in for repairs.</p>
+<p class="p">Hal pertama yang harus diperiksa adalah bahwa monitor Anda dicolokkan dan dihidupkan.</p>
+<p class="p">Masalah ini juga dapat disebabkan oleh kesalahan perangkat keras. Kipas mungkin menyala saat Anda menekan tombol power, namun bagian penting lainnya pada komputer mungkin gagal diaktifkan. Dalam hal ini, bawa komputer Anda untuk direparasi.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

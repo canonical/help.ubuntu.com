@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Ubah zona waktu Anda</title>
+<title>Mengubah zona waktu Anda</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,30 +73,25 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="clock.html.id" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Ubah zona waktu Anda</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mengubah zona waktu Anda</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
-      start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Details</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Date &amp; Time</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">If you have the <span class="gui">Automatic Time Zone</span> switch set to on, your
-      time zone should update automatically if you have an internet
-      connection and the <span class="link"><a href="privacy-location.html.id" title="Control location services">location services
-      feature</a></span> is enabled. To update your time zone manually, set this to
-      off.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Rincian</span> dalam bilah sisi.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Tanggal &amp; Waktu</span> dalam bilah sisi untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Bila saklar <span class="gui">Zona Waktu Otomatis</span> ditata ke menyala, zona waktu Anda mestinya dimutakhirkan secara otomatis bila Anda memiliki koneksi internet dan <span class="link"><a href="privacy-location.html.id" title="Mengontrol layanan lokasi">fitur layanan lokasi</a></span> difungsikan. Untuk memutakhirkan zona waktu Anda secara manual, atur ini ke mati.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Zona Waktu</span>, lalu pilih lokasi Anda pada peta atau cari kota Anda saat ini.</p></li>
 </ol></div></div></div>
-<p class="p">Waktu akan dimutakhirkan secara otomatis ketika Anda memilih lokasi lain. Anda mungkin juga ingin <span class="link"><a href="clock-set.html.id" title="Ubah tanggal dan waktu">mengatur jam secara manual</a></span>.</p>
+<p class="p">Waktu akan dimutakhirkan secara otomatis ketika Anda memilih lokasi lain. Anda mungkin juga ingin <span class="link"><a href="clock-set.html.id" title="Mengubah tanggal dan waktu">mengatur jam secara manual</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html.id" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — <span class="link"><a href="clock-set.html.id" title="Ubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html.id" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html.id" title="Ubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">kalender dan janji bertemu</a></span>…</span>
+<a href="clock.html.id" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — <span class="link"><a href="clock-set.html.id" title="Mengubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html.id" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html.id" title="Mengubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">kalender dan janji bertemu</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

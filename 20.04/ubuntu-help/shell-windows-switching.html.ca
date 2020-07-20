@@ -83,9 +83,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Podeu veure totes les aplicacions en execució que tenen una interfície gràfica d'usuari a la finestra <span class="em">canviador de finestres</span>. Això fa que canviar entre tasques sigui un procés d'un sol pas i proporciona una imatge completa de les aplicacions que s'estan executant.</p>
 <p class="p">Des de l'espai de treball:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Premeu <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.ca" title="Què és la tecla Súper?"><kbd>Súper</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> per obrir el <span class="gui">canviador de finestres</span>.</p></li>
-<li class="steps"><p class="p">Deixeu anar <span class="key"><a href="keyboard-key-super.html.ca" title="Què és la tecla Súper?"><kbd>Súper</kbd></a></span> per seleccionar la següent finestra (ressaltada) al canviador.</p></li>
-<li class="steps"><p class="p">En cas contrari, manteniu premuda la tecla <span class="key"><a href="keyboard-key-super.html.ca" title="Què és la tecla Súper?"><kbd> Súper</kbd></a></span>, premeu <span class="key"><kbd>Tab</kbd></span> per saltar cíclicament entre les finestres obertes, o <span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> per fer el cercle enrere.</p></li>
+<li class="steps"><p class="p">Premeu <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.ca" title="Què és la tecla Súper?"><kbd>Súper</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> per a obrir el <span class="gui">canviador de finestres</span>.</p></li>
+<li class="steps"><p class="p">Deixeu anar <span class="key"><a href="keyboard-key-super.html.ca" title="Què és la tecla Súper?"><kbd>Súper</kbd></a></span> per a seleccionar la següent finestra (ressaltada) al canviador.</p></li>
+<li class="steps"><p class="p">En cas contrari, manteniu premuda la tecla <span class="key"><a href="keyboard-key-super.html.ca" title="Què és la tecla Súper?"><kbd> Súper</kbd></a></span>, premeu <span class="key"><kbd>Tab</kbd></span> per saltar cíclicament entre les finestres obertes, o <span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> per a fer el cercle enrere.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Suggeriment">
 <svg width="24" height="24" version="1.1">
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <p class="p">També us podeu moure entre les icones de l'aplicació en canviador de finestres amb les tecles <span class="key"><kbd>→</kbd></span> o <span class="key"><kbd>←</kbd></span>, o seleccionant-ne una fent-hi clic amb el ratolí.</p>
 <p class="p">Les vistes prèvies d'aplicacions amb una sola finestra es poden visualitzar amb la tecla <span class="key"><kbd>↓</kbd></span>.</p>
-<p class="p">Des de la vista general d'<span class="gui">Activitats</span>, feu clic a <span class="link"><a href="shell-windows.html.ca" title="Finestres i espais de treball">finestra</a></span> per anar-hi i deixar la vista general. Si té múltiples <span class="link"><a href="shell-windows.html.ca#working-with-workspaces" title="Treballant amb espais de treball">espais de treball</a></span> oberts, podeu fer clic a cada espai de treball per a veure les finestres obertes a cada espai de treball.</p>
+<p class="p">Des de la vista general d'<span class="gui">Activitats</span>, feu clic a <span class="link"><a href="shell-windows.html.ca" title="Finestres i espais de treball">finestra</a></span> per anar-hi i deixar la vista general. Si té múltiples <span class="link"><a href="shell-windows.html.ca#working-with-workspaces" title="Treballar amb espais de treball">espais de treball</a></span> oberts, podeu fer clic a cada espai de treball per a veure les finestres obertes a cada espai de treball.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

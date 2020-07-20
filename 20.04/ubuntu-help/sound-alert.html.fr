@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Choix ou désactivation du son d'alerte</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">L'ordinateur fait entendre un son d'alerte bref pour certains types de messages et d'événements. Vous pouvez choisir entre divers extraits sonores pour les alertes, régler le volume sonore des alertes indépendamment du volume sonore du système, ou désactiver complètement les sons d'alerte.</p>
+<p class="p">L'ordinateur fait entendre un son d'alerte bref pour certains types de messages et d'évènements. Vous pouvez choisir entre divers extraits sonores pour les alertes, régler le volume sonore des alertes indépendamment du volume sonore du système, ou désactiver complètement les sons d'alerte.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
       start typing <span class="gui">Sound</span>.</p></li>
@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html.fr" title="Clignotement de l'écran lors des alertes sonores">Clignotement de l'écran lors des alertes sonores</a><span class="desc"> — Activer les alertes visuelles pour faire clignoter l'écran ou la fenêtre quand une alerte sonore est émise.</span>
+<a href="a11y-visualalert.html.fr" title="Clignotement de l’écran lors des alertes sonores">Clignotement de l’écran lors des alertes sonores</a><span class="desc"> — Activer les alertes visuelles pour faire clignoter l'écran ou la fenêtre quand une alerte sonore est émise.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -90,16 +90,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.ru" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.ru" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.ru" title="Добавление приложений в боковую панель"><span class="title">Добавление приложений в боковую панель</span><span class="linkdiv-dash"> — </span><span class="desc">Добавление (или удаление) значков часто используемых приложений из боковой панели.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.ru" title="События календаря"><span class="title">События календаря</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
-    screen.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.ru" title="События календаря"><span class="title">События календаря</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
+    screen.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Приложения и окна</span></h2></div>

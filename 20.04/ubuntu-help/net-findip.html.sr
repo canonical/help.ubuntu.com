@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Изаберите врсту везе, <span class="gui">бежичну</span> или <span class="gui">жичану</span> са списка на левој страни.</p>
 <p class="p">ИП адреса за жичану везу биће приказана са десне стране.</p>
-<p class="p">Притисните на дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> да видите ИП адресу за бежичну мрежу у панелу <span class="gui">појединости</span>.</p>
+<p class="p">Притисните на дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="подешавања"></span></span> да видите ИП адресу за бежичну мрежу у панелу <span class="gui">појединости</span>.</p>
 </li>
 </ol></div>
 </div></div>

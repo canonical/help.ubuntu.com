@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Asegúrese de que a tarxeta está inserida correctamente. Moitas tarxetas parecen que están ao revés cando se insiren correctamente. Asegúrese tamén de que a tarxeta está ben colocada na ranura; algunhas tarxetas, especialmente as CF requiren que se faga un pouco de forza para inserilas correctamente. (Teña coidado de non empurrar moi forte. Se choca contra algo sólido, non o force)</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
   <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span> overview. Does the inserted
-  card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
+  card appear in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
   the top bar and select the <span class="gui">Sidebar</span>.)</p></li>

@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.ca" title="Canviar qui té privilegis administratius"><span class="title">Canviar qui té privilegis administratius</span><span class="linkdiv-dash"> — </span><span class="desc">Podeu permetre als usuaris fer canvis al sistema donant-los privilegis administratius.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.ca" title="Com funcionen els privilegis administratius?"><span class="title">Com funcionen els privilegis administratius?</span><span class="linkdiv-dash"> — </span><span class="desc">Us calen privilegis d'administrador per canviar parts importants del sistema.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.ca" title="Com funcionen els privilegis administratius?"><span class="title">Com funcionen els privilegis administratius?</span><span class="linkdiv-dash"> — </span><span class="desc">Us calen privilegis d'administrador per a canviar parts importants del sistema.</span></a></div>
 </div>
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.ca" title="Problemes causats per restriccions administratives"><span class="title">Problemes causats per restriccions administratives</span><span class="linkdiv-dash"> — </span><span class="desc">Podeu fer algunes coses, com ara instal·lar aplicacions, només si teniu privilegis administratius.</span></a></div></div>
 </div></div></div></div></div></div>
@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.ca" title="Usuari i configuració del sistema">Usuari i configuració del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">ratolí</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span>
+<a href="prefs.html.ca" title="Usuari i configuració del sistema">Usuari i configuració del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, ratolí tàctil i pantalla tàctil">ratolí i ratolí tàctil</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

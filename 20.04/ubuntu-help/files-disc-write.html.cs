@@ -75,34 +75,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Zápis souborů na CD nebo DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Pomocí <span class="gui">Tvůrce CD/DVD</span> můžete uložit soubory na prázdný optický disk. Možnost vytvořit CD nebo DVD se vám objeví ve správci souborů, jakmile do své zapisovací mechaniky CD/DVD vložíte prázdný disk. Správce souborů vám umožňuje přesunout soubory na jiný počítač nebo provést <span class="link"><a href="backup-why.html.cs" title="Záloha vašich důležitých souborů">zálohu</a></span> uložením souborů na prázdný optický disk. Když chcete soubory zapsat na CD nebo DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Vložte prázdný disk do své zapisovací mechaniky CD/DVD.</p></li>
-<li class="steps">
-<p class="p">V upozornění <span class="gui">Prázdný disk CD/DVD-R</span>, které vyskočí ve spodní části obrazovky, vyberte <span class="gui">Otevřít pomocí tvůrce CD/DVD</span>. Otevře se okno se složkou <span class="gui">Tvůrce CD/DVD</span>.</p>
-<p class="p">(Můžete také kliknout na <span class="gui">Prázdný disk CD/DVD-R</span> mezi <span class="gui">Zařízeními</span> v postranním panelu správce souborů.</p>
-</li>
-<li class="steps"><p class="p">Do pole <span class="gui">Název disku</span> napište název pro disk.</p></li>
-<li class="steps"><p class="p">Přetáhněte nebo zkopírujte požadované soubory do okna.</p></li>
-<li class="steps"><p class="p">Klikněte na <span class="gui">Zapsat na disk</span>.</p></li>
-<li class="steps">
-<p class="p">Pod <span class="gui">Vyberte disk pro zápis</span> zvolte prázdný disk.</p>
-<p class="p">(Mohli byste místo toho také zvolit <span class="gui">Soubor s obrazem</span>. V takovém případě se soubory vloží do <span class="em">obrazu disku</span>, který se uloží v počítači. Na prázdný optický disk pak můžete obraz disku vypálit kdykoliv později.</p>
-</li>
-<li class="steps"><p class="p">Jestli chcete upravit rychlost vypalování, umístění dočasných souborů a další volby, klikněte na <span class="gui">Vlastnosti</span>. Výchozí hodnoty by ale měly být vyhovující.</p></li>
-<li class="steps">
-<p class="p">Kliknutím na tlačítko <span class="gui">Vypálit</span> zahájíte zápis.</p>
-<p class="p">Pokud je vybráno <span class="gui">Vypálit více kopií</span>, budete požádáni o další disky.</p>
-</li>
-<li class="steps"><p class="p">Když je vypalování disku dokončené, disk se automaticky vysune. Dostanete na výběr, jestli chcete <span class="gui">Vytvořit více kopií</span> nebo <span class="gui">Zavřít</span> a tím skončit.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Když si disk nechce správně vypálit</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Výjimečně se může stát, že počítač nezapíše data správně, takže po vložení disku do počítače soubory neuvidíte.</p>
-<p class="p">V takovém případě zkuste data vypálit znovu, ale použijte nižší rychlost vypalování. Například 12× místo 48×. Vypalování nižší rychlostí je spolehlivější. Rychlost vypalování můžete změnit kliknutím na tlačítko <span class="gui">Vlastnosti</span> v okně <span class="gui">Tvorba CD/DVD</span>.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

@@ -75,36 +75,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Εγγραφή αρχείων σε ένα CD ή DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Μπορείτε να βάλετε αρχεία σε έναν κενό δίσκο χρησιμοποιώντας τον <span class="gui">Δημιουργό CD/DVD</span>. Η επιλογή δημιουργίας CD ή DVD θα εμφανιστεί στον διαχειριστή αρχείων μόλις βάλετε το CD στον αντιγραφέα σας CD/DVD. Ο διαχειριστής αρχείων σας επιτρέπει τη μεταφορά αρχείων σε άλλους υπολογιστές ή εκτελεί <span class="link"><a href="backup-why.html.el" title="Αντίγραφα ασφαλείας των σημαντικών σας αρχείων">αντίγραφα ασφαλείας</a></span> βάζοντας αρχεία σε έναν κενό δίσκο. Για να γράψετε αρχεία σε ένα CD ή DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Βάλτε έναν κενό δίσκο στον εγγράψιμο οδηγό CD/DVD.</p></li>
-<li class="steps">
-<p class="p">Στην ειδοποίηση <span class="gui">Κενός δίσκος CD/DVD-R</span> που αναδύεται στο κάτω μέρος της οθόνης, επιλέξτε <span class="gui">Άνοιγμα με δημιουργό CD/DVD</span>. Θα ανοίξει. το παράθυρο <span class="gui">Δημιουργός CD/DVD</span></p>
-<p class="p">(Μπορείτε επίσης να κάνετε κλικ σε <span class="gui">κενό δίσκο CD/DVD-R</span> στις <span class="gui">Συσκευές</span> στην πλευρική στήλη του διαχειριστή αρχείων.)</p>
-</li>
-<li class="steps"><p class="p">Στο πεδίο <span class="gui">Όνομα δίσκου</span>, πληκτρολογήστε ένα όνομα για τον δίσκο.</p></li>
-<li class="steps"><p class="p">Σύρετε ή αντιγράψτε τα επιθυμητά αρχεία στο παράθυρο.</p></li>
-<li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Εγγραφή σε δίσκο</span>.</p></li>
-<li class="steps">
-<p class="p">Στο <span class="gui">Επιλέξτε έναν δίσκο για εγγραφή</span>, επιλέξτε τον κενό δίσκο.</p>
-<p class="p">(Μπορείτε να επιλέξετε <span class="gui">Αρχείο εικόνας</span> στη θέση του. Αυτό θα βάλει τα αρχεία σε μια <span class="em">εικόνα δίσκου</span>, που θα αποθηκευτεί στον υπολογιστή σας. Μπορείτε έπειτα να εγγράψετε την εικόνα αυτού του δίσκου σε έναν κενό δίσκο σε μεταγενέστερη ημερομηνία.)</p>
-</li>
-<li class="steps"><p class="p">Κάντε κλικ στις <span class="gui">Ιδιότητες</span> εάν θέλετε να ρυθμίσετε την ταχύτητα εγγραφής, την τοποθεσία ή τα προσωρινά αρχεία και άλλες επιλογές. Οι προεπιλεγμένες επιλογές πρέπει να είναι κατάλληλες.</p></li>
-<li class="steps">
-<p class="p">Κάντε κλικ στο κουμπί <span class="gui">Εγγραφή</span> για έναρξη εγγραφής.</p>
-<p class="p">Εάν επιλεγεί <span class="gui">Εγγραφή πολλών αντιγράφων</span>, θα σας ζητηθούν πρόσθετοι δίσκοι.</p>
-</li>
-<li class="steps"><p class="p">Όταν ολοκληρωθεί η εγγραφή του δίσκου, θα εξαχθεί αυτόματα. Επιλέξτε <span class="gui">Κάντε περισσότερα αντίγραφα</span> ή <span class="gui">Κλείσιμο</span> για έξοδο.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Sometimes the computer doesn’t record the data correctly, and you won’t be
   able to see the files you put onto the disc when you insert it into a
   computer.</p>
-<p class="p">Σε αυτήν την περίπτωση, δοκιμάστε την εγγραφή του δίσκου ξανά αλλά χρησιμοποιήστε χαμηλότερη ταχύτητα εγγραφής, π.χ. 12x αντί για 48x. Η εγγραφή σε πιο αργές ταχύτητες είναι πιο αξιόπιστη. Μπορείτε να επιλέξετε την ταχύτητα κάνοντας κλικ στο κουμπί <span class="gui">Ιδιότητες</span> στο παράθυρο <span class="gui">Δημιουργός CD/DVD</span>.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

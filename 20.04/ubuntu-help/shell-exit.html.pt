@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Fechar a sessão, apagar ou mudar de utilizador</span></h1></div>
@@ -96,12 +96,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
-  applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html.pt" title="The lock screen">lock screen</a></span> curtain and enter your
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.pt" title="The lock screen">lock screen</a></span>. Enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
-<p class="p">Para bloquear o ecrã, carregue no menu do sistema em parte-a direita da barra superior e carregue o botão de bloqueio na parte inferior do menu.</p>
-<p class="p">Quando seu ecrã está bloqueado outros utilizadores podem iniciar sessão em suas proprias contas clicando <span class="gui">Iniciar sessão como outro utilizador</span> em o ecrã de palavra-passe. Pode voltar a seu escritório quando tenham terminado.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -123,14 +126,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">To save power, suspend your computer when you are not using it. If you use
-  a laptop, GNOME, by default, suspends your computer automatically when you
-  close the lid.
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
   This saves your state to your computer’s memory and powers off most of the
   computer’s functions. A very small amount of power is still used during
   suspend.</p>
 <p class="p">To suspend your computer manually, click the system menu on the right side
-  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
-  click the power off button, or simply long-click the power off button.</p>
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -154,7 +157,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Apagar ou reiniciar</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Se quer apagar o seu computador por completo ou fazer um reinicio total, carregue sobre no menu do sistema em parte-a direita da barra superior e carregue o botão de apagar na parte inferior do menu. Aparecerá um diálogo oferecendo-lhe <span class="gui">Reiniciar</span> ou <span class="gui">Apagar</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Se há outros utilizadores conetados, não poderá apagar ou reiniciar a computador, porque isto fecharia suas sessões. Se é um utilizador administrador, pedir-se-lhe-á  a sua palavra-passe para apagar.</p>
 <div class="note note-tip" title="Dica">
 <svg width="24" height="24" version="1.1">
@@ -182,10 +188,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="links ">
 <a href="power.html.pt" title="Energia e bateria">Energia e bateria</a><span class="desc"> — <span class="link"><a href="power-status.html.pt" title="Verifique o estado da bateria">Estado da bateria</a></span>, <span class="link"><a href="power-suspend.html.pt" title="Que ocorre quando suspendo a computador?">suspender</a></span>, <span class="link"><a href="power-whydim.html.pt" title="Por que meu ecrã se escurece após um tempo?">enfraquecimento do ecrã</a></span>…</span>
 </li>
+<li class="links "><a href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu">Guia do Ambiente de Trabalho Ubuntu</a></li>
 <li class="links ">
 <a href="shell-overview.html.pt" title="Seu escritório">Seu escritório</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.pt" title="Citas de calendário">Calendário</a></span>, <span class="link"><a href="shell-notifications.html.pt" title="Notifications and the notification list">notificações</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.pt" title="Atalhos de teclado úteis">atalhos do teclado</a></span>, <span class="link"><a href="shell-windows.html.pt" title="Janelas e áreas de trabalho">janelas e áreas de trabalho</a></span>…</span>
 </li>
-<li class="links "><a href="index.html.pt" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

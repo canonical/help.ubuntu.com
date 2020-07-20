@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wired.html.pt" title="Wired networking">Wired networking</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wired.html.pt" title="Wired networking">Wired networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html.pt" title="Wireless networking">Wireless networking</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html.pt" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
       may need to enter a password for the connection before it is established.
       Once the connection is made, you will see a lock shaped icon in the top
       bar.</p></li>
-<li class="steps"><p class="p">Se todo vai bem, ligar-se-á corretamente à VPN. Caso contrário, pode que precise voltar a verificar a configuração VPN que introduziu. Pode fazê-lo clicando desde o painel de <span class="gui">Rede</span> que usou para criar a conexão, selecionando a conexão VPN na lista e clicando o botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuração"></span></span> para revisar a configuração.</p></li>
+<li class="steps"><p class="p">Se todo vai bem, ligar-se-á corretamente à VPN. Caso contrário, pode que precise voltar a verificar a configuração VPN que introduziu. Pode fazê-lo clicando desde o painel de <span class="gui">Rede</span> que usou para criar a conexão, selecionando a conexão VPN na lista e clicando o botão <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configuração"></span></span> para revisar a configuração.</p></li>
 <li class="steps"><p class="p">Para desligar-se da VPN, carregue no menu do sistema na barra superior e carregue <span class="gui">Apagar</span> sob o nome da sua conexão VPN.</p></li>
 </ol></div></div></div>
 </div>

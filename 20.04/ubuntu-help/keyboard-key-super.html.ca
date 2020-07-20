@@ -87,12 +87,11 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Si teniu un teclat d'Apple, tindreu una tecla <span class="key"><kbd>⌘</kbd></span> (Comanda) en comptes de la tecla de Windows, mentre que els Chromebooks tenen una lupa.</p></div></div></div>
 </div>
-<p class="p">Per canviar la tecla que s'utilitza per mostrar la vista general d'<span class="gui">Activitats</span>:</p>
+<p class="p">Per canviar la tecla que s'utilitza per a mostrar la vista general d'<span class="gui">Activitats</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Paràmetres</span>.</p></li>
 <li class="steps"><p class="p">Féu clic a <span class="gui">Paràmetres</span>.</p></li>
-<li class="steps"><p class="p">Féu clic a <span class="gui">Dispositius</span> a la barra lateral.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Teclat</span> en la barra lateral per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard Shortcuts</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">A la categoria <span class="gui">Sistema</span> feu clic a la fila que <span class="gui">Mostra la vista general d'activitats</span>.</p></li>
 <li class="steps"><p class="p">Mantingueu premuda la combinació de tecles desitjada.</p></li>
 </ol></div></div></div>

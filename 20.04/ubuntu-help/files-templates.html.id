@@ -76,30 +76,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Templat bagi tipe dokumen yang biasa dipakai</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you often create documents based on the same content, you might
-  benefit from using file templates. A file template can be a document
-  of any type with the formatting or content you would like to reuse.
-  For example, you could create a template document with your letterhead.</p>
+<p class="p">Jika Anda sering membuat dokumen berdasarkan konten yang sama, Anda mungkin mendapatkan manfaat menggunakan templat berkas. Templat berkas dapat berupa dokumen dari jenis apa pun dengan format atau konten yang ingin Anda gunakan kembali. Misalnya, Anda dapat membuat dokumen templat dengan kop surat Anda.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Membuat templat baru</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buat suatu dokumen yang akan Anda pakai sebagai sebuah templat. Sebagai contoh, Anda dapat membuat kop surat dalam sebuah aplikasi pengolah kata.</p></li>
-<li class="steps"><p class="p">Save the file with the template content in the <span class="file">Templates</span>
-      folder in your <span class="file">Home</span> folder. If the <span class="file">Templates</span>
-      folder does not exist, you will need to create it first.</p></li>
+<li class="steps"><p class="p">Simpan berkas dengan isi templat dalam folder <span class="file">Templates</span> dalam folder <span class="file">Rumah</span> Anda. Bila folder <span class="file">Templates</span> tak ada, Anda perlu terlebih dahulu membuatnya.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Memakai templat untuk membuat suatu dokumen</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka folder di mana Anda ingin menempatkan dokumen baru.</p></li>
-<li class="steps"><p class="p">Right-click anywhere in the empty space in the folder, then choose
-      <span class="gui">New Document</span>. The names of available
-      templates will be listed in the submenu.</p></li>
+<li class="steps"><p class="p">Klik kanan di mana saja di ruang kosong di folder, lalu pilih <span class="gui">Dokumen Baru</span>. Nama templat yang tersedia akan dicantumkan dalam sub menu.</p></li>
 <li class="steps"><p class="p">Pilih templat yang Anda inginkan dari daftar.</p></li>
-<li class="steps"><p class="p">Double-click the file to open it and start editing. You may wish to
-      <span class="link"><a href="files-rename.html.id" title="Mengubah nama berkas atau folder">rename the file</a></span> when you are
-      finished.</p></li>
+<li class="steps"><p class="p">Klik ganda berkas untuk membukanya dan mulai menyunting. Anda mungkin ingin <span class="link"><a href="files-rename.html.id" title="Mengubah nama berkas atau folder">mengganti nama berkas</a></span> ketika Anda selesai.</p></li>
 </ol></div>
 </div></div>
 </div>

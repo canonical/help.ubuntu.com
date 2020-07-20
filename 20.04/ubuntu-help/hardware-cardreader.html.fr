@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Vérifiez que la carte est correctement insérée. Beaucoup de cartes ont l'air d'être à l'envers lorsqu'elles sont correctement insérées. Vérifiez aussi que la carte soit fermement positionnée dans son logement ; il faut parfois forcer un peu pour insérer certaines cartes, surtout les CF (attention de ne pas trop forcer ! Si vous butez sur quelque chose de dur, arrêtez).</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
   <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview. Does the inserted
-  card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
+  card appear in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
   the top bar and select the <span class="gui">Sidebar</span>.)</p></li>

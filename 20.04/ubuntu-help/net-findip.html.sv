@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Välj anslutning, <span class="gui">Trådlös</span> eller <span class="gui">Trådbunden</span> från panelen till vänster.</p>
 <p class="p">IP-adressen för en trådbunden anslutning kommer att visas till höger.</p>
-<p class="p">Klicka på <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="inställningar"></span></span>-knappen för att se IP-adressen för det trådlösa nätverket i panelen <span class="gui">Detaljer</span>.</p>
+<p class="p">Klicka på <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="inställningar"></span></span>-knappen för att se IP-adressen för det trådlösa nätverket i panelen <span class="gui">Detaljer</span>.</p>
 </li>
 </ol></div>
 </div></div>

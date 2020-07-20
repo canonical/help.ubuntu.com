@@ -76,27 +76,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Contrôle des services en ligne accessibles par un compte</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Some types of online account providers allow you to access several services
-  with the same user account. For example, Google accounts provide access to
-  calendar, email, contacts and chat. You may want to use your account for some
-  services, but not others. For example, you may want to use your Google account
-  for email but not chat if you have a different online account that you use
-  for chat.</p>
+<p class="p">Certains types de fournisseurs de comptes en ligne vous permettent d’accéder à de nombreux services avec le même compte utilisateur. Par exemple, les comptes Google fournissent un accès aux agendas, courriels, contacts et discussions. Il est possible que vous ne vouliez utiliser que certains services. Par exemple, vous pourriez vouloir utiliser votre compte Google pour les courriels mais pas pour les discussions, si vous possédez un autre compte en ligne que vous utilisez pour les discussions.</p>
 <p class="p">Vous pouvez désactiver certains services fournis par chaque compte en ligne :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Online Accounts</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Comptes en ligne</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Comptes en ligne</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Select the account which you want to change from the list on the
-      right.</p></li>
-<li class="steps"><p class="p">A list of services that are available with this account will be
-      shown under <span class="gui">Use for</span>. See <span class="link"><a href="accounts-which-application.html.fr" title="Online services and applications">Online services and applications</a></span>
-      to see which applications access which services.</p></li>
+<li class="steps"><p class="p">Sélectionnez le compte que vous voulez modifier dans la liste de droite.</p></li>
+<li class="steps"><p class="p">Une liste de services disponibles avec ce compte sera affichée sous <span class="gui">Utiliser pour</span>. Se référer à <span class="link"><a href="accounts-which-application.html.fr" title="Services en ligne et applications">Services en ligne et applications</a></span> pour voir quelles applications ont accès à quels services.</p></li>
 <li class="steps"><p class="p">Désélectionnez chaque service que vous ne voulez pas utiliser.</p></li>
 </ol></div></div></div>
 <p class="p">Une fois qu'un service a été désactivé pour un compte, les applications sur votre ordinateur ne sont plus capables d'utiliser le compte pour se connecter à ce service.</p>
-<p class="p">To turn on a service that you disabled, just go back to the <span class="gui">Online
-  Accounts</span> panel and switch it on.</p>
+<p class="p">Pour activer un service que vous aviez désactivé, retournez simplement dans la fenêtre de <span class="gui">Comptes en ligne</span> et sélectionnez-le à nouveau.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -104,22 +94,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html.fr" title="Ajout d'un compte">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html.fr" title="Online services and applications">Learn about services</a></span>…
-    </span>
+<a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — <span class="link"><a href="accounts-add.html.fr" title="Ajout d’un compte">Ajouter un compte en ligne</a></span>, <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Supprimer un compte</a></span>, <span class="link"><a href="accounts-which-application.html.fr" title="Services en ligne et applications">Découvrir les services</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="accounts-which-application.html.fr" title="Online services and applications">Online services and applications</a><span class="desc"> — Les applications peuvent utiliser les comptes créés dans <span class="app">Comptes en ligne</span> et les services qu'elles exploitent.</span>
+<a href="accounts-which-application.html.fr" title="Services en ligne et applications">Services en ligne et applications</a><span class="desc"> — Les applications peuvent utiliser les comptes créés dans <span class="app">Comptes en ligne</span> et les services qu'elles exploitent.</span>
 </li>
 <li class="links ">
-<a href="accounts-remove.html.fr" title="Suppression d'un compte">Suppression d'un compte</a><span class="desc"> — Remove access to an online service provider from your
-    applications.</span>
+<a href="accounts-remove.html.fr" title="Suppression d'un compte">Suppression d'un compte</a><span class="desc"> — Retirer à vos applications l’autorisation d’accès à un fournisseur de services en ligne.</span>
 </li>
 </ul></div>
 </div></div>

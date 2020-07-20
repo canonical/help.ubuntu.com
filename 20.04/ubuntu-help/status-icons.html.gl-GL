@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Que significan as iconas da barra superior?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Esta sección explica o significado das iconas que se atopan na esquina superior dereita da pantalla. Máis especialmente, explícanse todas as variacións posíbeis destas iconas fornecidas pola inteface de GNOME.</p>
+<p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the system are described.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="status-icons.html.gl-GL#universalicons" title="Acceso universal">Acceso universal</a></li>
 <li class="links "><a href="status-icons.html.gl-GL#audioicons" title="Iconas de control de volume">Iconas de control de volume</a></li>

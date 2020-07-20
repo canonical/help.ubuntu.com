@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Pairing instructions for specific devices</title>
+<title>Petunjuk memperpasangkan untuk perangkat tertentu</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,37 +73,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="bluetooth.html.id" title="Bluetooth">Bluetooth</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Pairing instructions for specific devices</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Petunjuk memperpasangkan untuk perangkat tertentu</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Even if you manage to source the manual for a device, it might not contain
-  enough information to make pairing possible. Here are details for a few common
-  devices.</p>
+<p class="p">Bahkan jika Anda berhasil mencari sumber manual untuk perangkat, mungkin itu tidak berisi informasi yang cukup untuk membuat berpasangan mungkin. Berikut adalah rincian untuk beberapa perangkat umum.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">PlayStation 3 joypads</dt>
-<dd class="terms"><p class="p">Those devices use “cable-pairing”. Plug the joypads in via USB with the
-      <span class="gui">Bluetooth Settings</span> opened, and Bluetooth turned on. After pressing the
-      “PS” button, you will get asked whether to set those joypads up. Unplug them and
-      press the “PS” button to use them over Bluetooth.</p></dd>
-<dt class="terms">PlayStation 4 joypads</dt>
+<dt class="terms">Joypads PlayStation 3</dt>
+<dd class="terms"><p class="p">Perangkat tersebut menggunakan "cable-pairing". Sambungkan joypads melalui USB dengan <span class="gui">Pengaturan Bluetooth</span> terbuka, dan Bluetooth diaktifkan. Setelah menekan tombol "PS", Anda akan ditanya apakah ingin mengatur joypads tersebut. Cabut dan tekan tombol "PS" untuk menggunakannya melalui Bluetooth.</p></dd>
+<dt class="terms">Joypads PlayStation 4</dt>
 <dd class="terms">
-<p class="p">Those devices use “cable-pairing” as well. Plug the joypads in via USB with the
-      <span class="gui">Bluetooth Settings</span> opened, and Bluetooth turned on. You will get asked whether
-      to set those joypads up without needing to press the PS button. Unplug them and press the
-      PS button to use them over Bluetooth.</p>
-<p class="p">Using the “PS” and “Share” button combination to pair the joypad can also be used to
-      make the joypad visible and pair it like any other Bluetooth device, if you don’t have
-      a USB cable at hand.</p>
+<p class="p">Perangkat tersebut menggunakan "cable-pairing" juga. Sambungkan joypads melalui USB dengan <span class="gui">Pengaturan Bluetooth</span> terbuka, dan Bluetooth diaktifkan. Anda akan ditanya apakah mengatur joypads tanpa perlu menekan tombol PS. Cabut dan tekan tombol PS untuk menggunakannya melalui Bluetooth.</p>
+<p class="p">Menggunakan kombinasi tombol "PS" dan "Share" untuk memperpasangkan joypad juga dapat digunakan untuk membuat joypad terlihat dan memperpasangkannya seperti perangkat Bluetooth lainnya, jika Anda tidak memiliki kabel USB.</p>
 </dd>
-<dt class="terms">PlayStation 3 BD Remote Control</dt>
-<dd class="terms"><p class="p">Hold the “Start” and “Enter” buttons at the same time for around 5 seconds.
-      You can then select the remote in the devices list as usual.</p></dd>
-<dt class="terms">Nintendo Wii and Wii U Remotes</dt>
-<dd class="terms"><p class="p">Use the red “Sync” button inside the battery compartment to start the pairing
-      process. Other button combinations will not keep pairing information, so you would
-      need to do it all over again in short order. Also note that some software wants
-      direct access to the remotes, and, in those cases, you should not set them up in
-      the Bluetooth panel. Refer to the application’s manual for instructions.</p></dd>
+<dt class="terms">Remote Control PlayStation 3 BD</dt>
+<dd class="terms"><p class="p">Tahan tombol "Start" dan "Enter" bersamaan selama sekitar 5 detik. Anda kemudian dapat memilih remote dalam daftar perangkat seperti biasa.</p></dd>
+<dt class="terms">Remote Nintendo Wii dan Wii U</dt>
+<dd class="terms"><p class="p">Memakai tombol "Sync" merah di dalam wadah baterai untuk memulai proses perpasangan. Kombinasi tombol lainnya tidak akan menyimpan informasi perpasangan, jadi Anda perlu melakukannya lagi segera. Juga perhatikan bahwa beberapa perangkat lunak menginginkan akses langsung ke remote, dan, dalam kasus tersebut, Anda tidak harus mengaturnya di panel Bluetooth. Rujuk ke manual aplikasi untuk instruksi.</p></dd>
 </dl></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">

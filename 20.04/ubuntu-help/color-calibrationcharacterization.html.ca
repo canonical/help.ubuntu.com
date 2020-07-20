@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="list"><p class="p">Canviant els controls o la configuració interna que té</p></li>
 <li class="list"><p class="p">Aplicant corbes als seus canals de color</p></li>
 </ul></div></div></div>
-<p class="p">La idea del calibratge és posar un dispositiu en un estat definit pel que fa a la seva resposta al color. Moltes vegades s'utilitza com a mitjà per mantenir un comportament reproduïble. Normalment, el calibratge s'emmagatzema en formats de fitxer específics del dispositiu o fitxers específics del sistema que registren la configuració del dispositiu o les corbes de calibratge per canal.</p>
+<p class="p">La idea del calibratge és posar un dispositiu en un estat definit pel que fa a la seva resposta al color. Moltes vegades s'utilitza com a mitjà per a mantenir un comportament reproduïble. Normalment, el calibratge s'emmagatzema en formats de fitxer específics del dispositiu o fitxers específics del sistema que registren la configuració del dispositiu o les corbes de calibratge per canal.</p>
 <p class="p">La caracterització (o perfilat) <span class="em">grava</span> la manera en què un dispositiu reprodueix o respon al color. Normalment, el resultat s'emmagatzema en un perfil ICC de dispositiu. Aquest perfil no modifica de cap manera el color. Permet que un sistema com un CMM (Mòdul de gestió de colors) o una aplicació de color, modifiqui el color quan es combini amb un altre perfil de dispositiu. Només coneixent les característiques de dos dispositius, es pot aconseguir la transferència de la representació del color de l'un a l'altre.</p>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">
@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Tingueu en compte que una caracterització (perfil) només serà vàlida per a un dispositiu si es troba en el mateix estat de calibratge que quan es va caracteritzar.</p></div></div></div>
 </div>
-<p class="p">En el cas dels perfils de visualització, hi ha certa confusió addicional perquè, sovint, la informació de calibratge s'emmagatzema al perfil per obtenir-ne la comoditat. Per convenció, s'emmagatzema en una etiqueta anomenada etiqueta <span class="em">vcgt</span>. Encara que s'emmagatzema al perfil, cap de les eines o aplicacions basades en ICC normals ho tenen en compte ni en fan res. El mateix passa amb les eines i aplicacions de calibratge de visualització típiques, que no tindran en compte ni faran res amb la informació de la caracterització de la informació ICC (perfil).</p>
+<p class="p">En el cas dels perfils de visualització, hi ha certa confusió addicional perquè, sovint, la informació de calibratge s'emmagatzema al perfil per a obtenir-ne la comoditat. Per convenció, s'emmagatzema en una etiqueta anomenada etiqueta <span class="em">vcgt</span>. Encara que s'emmagatzema al perfil, cap de les eines o aplicacions basades en ICC normals ho tenen en compte ni en fan res. El mateix passa amb les eines i aplicacions de calibratge de visualització típiques, que no tindran en compte ni faran res amb la informació de la caracterització de la informació ICC (perfil).</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

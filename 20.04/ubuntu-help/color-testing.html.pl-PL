@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Oddziaływanie profilu kolorów czasami jest mało dostrzegalne, więc ciężko stwierdzić, czy coś się zmieniło.</p>
-<p class="p">GNOME zawiera kilka profili do testowania, których działanie jest oczywiste:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Niebieski</dt>
 <dd class="terms"><p class="p">Koloruje ekran na niebiesko, umożliwiając sprawdzenie, czy krzywe kalibracji są wysyłane do ekranu.</p></dd>
@@ -89,7 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Ustawienia</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Ustawienia</span>.</p></li>
-<li class="steps"><p class="p">Kliknij <span class="gui">Urządzenia</span> na panelu bocznym.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Kolor</span> na panelu bocznym, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Wybierz urządzenie, dla którego dodać profil. Warto zanotować, który profil jest obecnie używany.</p></li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">Dodaj profil</span>, aby wybrać profil testowy, który powinien być na końcu listy.</p></li>

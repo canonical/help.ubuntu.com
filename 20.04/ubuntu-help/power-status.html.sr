@@ -87,7 +87,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Кликните на <span class="gui">Напајање</span> да отворите панел. Приказаће се стање познатих уређаја.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Ако се открије унутрашња батерија, одељак <span class="gui">Батерија</span> приказује стање једне или више батерија преносног рачунара. Трака указивача показује проценат напуњености, као и време до потпуног пуњења ако је прикључен на ел. мрежу, и време које преостаје када ради на батерији.</p>
+<p class="p">If an internal battery is detected, the <span class="gui">Batteries</span> section
+    displays the status of one or more laptop batteries. The indicator bar
+    shows the percent charged, as well as time until fully charged if plugged
+    in, and time remaining when running on battery power.</p>
 <p class="p">Одељак <span class="gui">Уређаји</span> приказује стање повезаних уређаја.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

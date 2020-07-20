@@ -2,9 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Add software repositories
-  </title>
+<title>הוספת מאגרי תכנה</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -72,12 +70,10 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.he" title="Install &amp; remove software">Add/remove software</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="addremove.html.he" title="התקנה והסרה של תכנה">הוספה/הסרה של תכנה</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">
-    Add software repositories
-  </span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">הוספת מאגרי תכנה</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">
@@ -90,56 +86,29 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">
-      Only add software repositories from sources that you trust!
-    </p>
-<p class="p">
-      Third-party software repositories are not checked for security or 
-      reliability by Ubuntu members, and may contain software which is harmful 
-      to your computer.
-    </p>
+<p class="p">יש להוסיף מאגרי תכנה ממקורות מהימנים בלבד!</p>
+<p class="p">אבטחתם ואמינותם של מאגרי תכנה מצד־שלישי אינם נבדקים והם עשויים להזיק למחשב שלך.</p>
 </div></div></div>
 </div>
 <p class="p">
 </p>
-<p class="p">
-   To add a repository:
-   </p>
+<p class="p">כדי להוסיף מאגר:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">יש ללחוץ על סמל <span class="app">התכנה של אובונטו</span> ב<span class="gui">מעגן</span>, או לחפש אחר <span class="input">תכנה</span> בסרגל החיפוש <span class="em">פעילויות</span>.</p></li>
-<li class="steps"><p class="p">
-        When <span class="app">Ubuntu Software</span> launches, click <span class="gui">Software &amp; Updates</span>
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to enter your password. Once you have done that, 
-        switch to the <span class="gui">Other Software</span> tab.
-      </p></li>
+<li class="steps"><p class="p">ללחוץ על סמל <span class="app">התכנה של אובונטו</span> ב<span class="gui">מעגן</span>, או לחפש אחר <span class="input">תכנה</span> בסרגל החיפוש <span class="em">פעילויות</span>.</p></li>
+<li class="steps"><p class="p">עם טעינת <span class="app">התכנה של אובונטו</span>, עליך ללחוץ על <span class="gui">תכנה ועדכונים</span></p></li>
+<li class="steps"><p class="p">תופיע בקשה למלא ססמה. לאחר שביצעת זאת, יש לעבור ללשונית <span class="gui">תכנה נוספת</span>.</p></li>
 <li class="steps">
-<p class="p">
-        Click <span class="gui">Add</span> and enter the APT line for the repository. This 
-        should be available from the website of the repository, and should look 
-        similar to:
-      </p>
+<p class="p">ללחוץ על <span class="gui">הוספה</span> ולמלא את שורת ה־ APT של המאגר. היא אמורה להיות זמינה מהאתר של המאגר ואמורה להיראות בערך כך:</p>
 <p class="p">
         <span class="code">deb http://archive.ubuntu.com/ubuntu/ focal main</span>
       </p>
 </li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. 
-        <span class="app">Ubuntu Software</span> will then check your software sources for new 
-        updates.
-      </p></li>
-<li class="steps"><p class="p">
-        Most repositories provide a signing key to be able to verify downloaded packages.
-        So in addition to the steps above, you should follow possible instructions on how to
-        download and install the signing key (GPG key).
-      </p></li>
+<li class="steps"><p class="p">ללחוץ על <span class="gui">הוספת מקור</span> ואז לסגור את החלון <span class="app">תכנה ועדכונים</span>. יתבצע חיפוש במקורות התכנה שלך אחר עדכונים חדשים על ידי <span class="app">התכנה של אובונטו</span>.</p></li>
+<li class="steps"><p class="p">רוב המאגרים מספקים מפתח חתימה כדי שיהיה אפשר לאמת את החבילות שהתקבלו מהם. לכן, נוסף על הצעדים שלהלן, יכול להיות שתופענה גם הנחיות להורדה ולהתקנה של מפתח חתימה (מפתח GPG) שיהיה עליך לבצע.</p></li>
 </ol></div></div></div>
 </div>
 <section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">
-      Activate the Canonical Partner repository
-    </span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">להפעיל את מאגר השותפים של Canonical</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">
       The Canonical Partner repository offers some proprietary applications 
@@ -169,22 +138,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.he" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.he" title="Remove an application">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.he" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.he" title="התקנה והסרה של תכנה">התקנה והסרה של תכנה</a><span class="desc"> — <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">התקנת יישומים</a></span>, <span class="link"><a href="addremove-remove.html.he" title="הסרת יישום">הסרת יישומים</a></span>, <span class="link"><a href="addremove-sources.html.he" title="הוספת מאגרי תכנה">הוספת מאגרים</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">עיון נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-ppa.html.he" title="Add a Personal Package Archive (PPA)">
-    Add a Personal Package Archive (PPA)
-  </a><span class="desc"> — 
-        Add PPAs to extend the software sources Ubuntu uses for
-        installation and upgrades.
-    </span>
+<a href="addremove-ppa.html.he" title="הוספת Personal Package Archive - ארכיון חבילות אישי (PPA)">הוספת Personal Package Archive - ארכיון חבילות אישי (PPA)</a><span class="desc"> — ניתן להוסיף מאגרי PPA כדי להרחיב את מקורות התכנה בהם משתמשת מערכת אובונטו להתקנה ולעדכונים.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -83,11 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.id" title="Periksa status baterai">Status baterai</a></span>, <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspensi</a></span>, <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">peredupan layar</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a></div>
@@ -98,16 +94,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.id" title="Mengapa manajemen warna penting?">Mengapa ini penting</a></span>, <span class="link"><a href="color.html.id#profiles" title="Profil warna">Profil warna</a></span>, <span class="link"><a href="color.html.id#calibration" title="Kalibrasi">Bagaimana mengkalibrasi perangkat</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.id" title="Gunakan tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Adjust the speed of the mouse and touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Click, drag, or scroll with the touchpad">mengklik dan menggulir touchpad</a></span>…</span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="printing.html.id" title="Pencetakan">Pencetakan</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.id" title="Mempersiapkan pencetak lokal">Penyiapan lokal</a></span>, <span class="link"><a href="printing-order.html.id" title="Make pages print in a different order">urutan dan kolasi</a></span>, <span class="link"><a href="printing-2sided.html.id" title="Print two-sided and multi-page layouts">dua sisi dan multi halaman</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="printing-setup.html.id" title="Mempersiapkan pencetak lokal">Penyiapan lokal</a></span>, <span class="link"><a href="printing-order.html.id" title="Membuat halaman mencetak dalam urutan yang berbeda">urutan dan kolasi</a></span>, <span class="link"><a href="printing-2sided.html.id" title="Mencetak dua sisi dan tata letak multi halaman">dua sisi dan multi halaman</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="hardware-auth.html.id" title="Sidik jari &amp; smart card">Sidik jari &amp; smart card</a></div>
@@ -115,11 +107,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="wacom.html.id" title="Tablet Grafis Wacom">Tablet Grafis Wacom</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="wacom-multi-monitor.html.id" title="Memilih monitor">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html.id" title="Tata konfigurasi tylus">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html.id" title="Gunakan tablet secara kidal">use the tablet left handed</a></span>…
-  </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="wacom-multi-monitor.html.id" title="Memilih monitor">Petakan suatu monitor</a></span>, <span class="link"><a href="wacom-stylus.html.id" title="Tata konfigurasi tylus">tata konfigurasi stylus</a></span>, <span class="link"><a href="wacom-left-handed.html.id" title="Memakai tablet secara kidal">memakai tablet secara kidal</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.id" title="Memakai tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Menyetel kecepatan tetikus dan touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Mengklik, menyeret, atau menggulir dengan touchpad">mengklik dan menggulir touchpad</a></span>…</span></div>
 </div>
 <div class="links-grid"></div>
 <div class="links-grid"></div>
@@ -141,18 +133,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="hardware-problems-graphics.html.id" title="Masalah layar">Masalah layar</a><span class="desc"> — Melacak masalah layar dan grafis.</span>
 </li>
 <li class="links ">
-<a href="hardware-cardreader.html.id" title="Masalah pembaca kartu media">Masalah pembaca kartu media</a><span class="desc"> — Troubleshoot media card readers.</span>
+<a href="hardware-cardreader.html.id" title="Masalah pembaca kartu media">Masalah pembaca kartu media</a><span class="desc"> — Melacak masalah pembaca kartu media.</span>
 </li>
 <li class="links ">
 <a href="printing.html.id#problems" title="Masalah pencetak">Masalah pencetak</a><span class="desc"> — Pencetak yang tak terdeteksi, kertas menyangkut, hasil pencetakan yang nampak salah…</span>
 </li>
 <li class="links ">
-<a href="sound-broken.html.id" title="Masalah suara">Masalah suara</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
-    quality.</span>
+<a href="sound-broken.html.id" title="Masalah suara">Masalah suara</a><span class="desc"> — Memecahkan masalah seperti tidak ada suara atau kualitas suara yang buruk.</span>
 </li>
 <li class="links "><a href="bluetooth.html.id#problems" title="Masalah">Masalah-masalah Bluetooth</a></li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Mengidentifikasi dan memperbaiki masalah koneksi nirkabel.</span>
 </li>
 </ul></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

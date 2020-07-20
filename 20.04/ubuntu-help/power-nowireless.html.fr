@@ -76,12 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Absence de réseau sans fil à la sortie de veille de l'ordinateur</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you have suspended your computer, you may find that your wireless
-  internet connection does not work when you resume it again. This happens when
-  the <span class="link"><a href="hardware-driver.html.fr" title="Qu'est-ce qu'un pilote ?">driver</a></span> for the wireless device does
-  not fully support certain power saving features.
-  Typically, the wireless connection fails to turn on properly when the
-  computer is resumed.</p>
+<p class="p">Après avoir mis en veille (suspendu) ou en hibernation votre ordinateur, il est possible que vous n'ayez plus de connexion Internet sans fil quand vous le réveillez. Ceci arrive quand les <span class="link"><a href="hardware-driver.html.fr" title="Qu'est-ce qu'un pilote ?">pilotes</a></span> des périphériques sans fil ne prennent pas bien en charge les fonctions d'économie d'énergie. Concrètement, la connexion sans fil ne se rétablit pas toute seule au réveil de l'ordinateur.</p>
 <p class="p">Si cela se produit, essayez d'éteindre et de rallumer votre carte réseau sans fil :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and

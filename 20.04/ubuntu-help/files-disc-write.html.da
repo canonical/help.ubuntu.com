@@ -75,37 +75,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Skriv filer til en cd eller dvd</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">You can put files onto a blank disc by using <span class="gui">CD/DVD Creator</span>.
-  The option to create a CD or DVD will appear in the file manager as soon as
-  you place the CD into your CD/DVD writer. The file manager lets you transfer
-  files to other computers or perform <span class="link"><a href="backup-why.html.da" title="Sikkerhedskopiér dine vigtige filer">backups</a></span> by
-  putting files onto a blank disc. To write files to a CD or DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Place an empty disc into your CD/DVD writable drive.</p></li>
-<li class="steps">
-<p class="p">In the <span class="gui">Blank CD/DVD-R Disc</span> notification that pops up at the
-      bottom of the screen, select <span class="gui">Open with CD/DVD Creator</span>. The
-      <span class="gui">CD/DVD Creator</span> folder window will open.</p>
-<p class="p">(du kan også klikke på <span class="gui">Tom cd/dvd-r-disk</span> under <span class="gui">Enheder</span> i filhåndteringens sidepanel).</p>
-</li>
-<li class="steps"><p class="p">In the <span class="gui">Disc Name</span> field, type a name for the disc.</p></li>
-<li class="steps"><p class="p">Drag or copy the desired files into the window.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Write to Disc</span>.</p></li>
-<li class="steps">
-<p class="p">Under <span class="gui">Select a disc to write to</span>, choose the blank disc.</p>
-<p class="p">(du kan i stedet vælge <span class="gui">Aftryksfil</span>. Dette lægger filerne i et <span class="em">diskaftryk</span>, som gemmes på din computer. Du kan herefter brænde diskaftrykket på en tom disk på et senere tidspunkt).</p>
-</li>
-<li class="steps"><p class="p">Klik på <span class="gui">Egenskaber</span> hvis du vil justere brændingshastigheden, placeringen af midlertidige filer, og andre valgmuligheder. Standardindstillingerne skulle virke fint.</p></li>
-<li class="steps">
-<p class="p">Klik på <span class="gui">Brænd</span>-knappen for at starte optagelsen.</p>
-<p class="p">If <span class="gui">Burn Several Copies</span> is selected, you will be prompted
-      for additional discs.</p>
-</li>
-<li class="steps"><p class="p">When the disc burning is complete, it will eject automatically. Choose
-      <span class="gui">Make More Copies</span> or <span class="gui">Close</span> to exit.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Hvis disken ikke blev brændt ordentligt</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -114,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
   computer.</p>
 <p class="p">In this case, try burning the disc again but use a lower burning speed,
   for example, 12x rather than 48x. Burning at slower speeds is more reliable.
-  You can choose the speed by clicking the <span class="gui">Properties</span> button in the
-  <span class="gui">CD/DVD Creator</span> window.</p>
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

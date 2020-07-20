@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Nastavení soukromí</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="em">Nastavení soukromí</span> v GNOME pomáhá mít pod kontrolou, zda a které části vašeho uživatelského prostředí jsou viditelné pro ostatní. Toto nastavení můžete také použít k pročištění historie používání počítače a k vymazání nepotřebných souborů.</p>
+<p class="p">The <span class="em">Privacy Settings</span> help you control whether or not
+  certain parts of your desktop are visible to others. You can also
+  use these settings to clear your computer usage history and clean out
+  unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.cs" title="Automatické zamykání obrazovky"><span class="title">Automatické zamykání obrazovky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zabránit ostatním lidem v používání vašeho systému, když nejste u počítače.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.cs" title="Vypněte nebo omezte sledování historie souborů"><span class="title">Vypněte nebo omezte sledování historie souborů</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zastavit nebo omezit svůj počítač ve sledování nedávno použitých souborů.</span></a></div>

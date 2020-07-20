@@ -91,7 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="characters"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Zeichen</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">GNOME liefert die Anwendung <span class="app">Zeichen</span> mit. Mit ihr können Sie mittels Kategorien oder Schlüsselwörtern nach unüblichen Zeichen wie beispielsweise Emoticons suchen und diese einfügen, indem Sie Kategorien durchsuchen oder nach Schlüsselwörtern suchen.</p>
+<p class="p">The character map application allows you to find and insert unusual
+    characters, including emoji, by browsing character categories or searching
+    for keywords.</p>
 <p class="p">Öffnen Sie <span class="app">Zeichen</span> in der Aktivitäten-Übersicht.</p>
 </div></div>
 </div></section><section id="compose"><div class="inner">

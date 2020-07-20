@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Ubuntu Logo"></span></span> Ubuntu Desktop Guide</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="הלוגו של אובונטו"></span></span> מדריך שולחן העבודה אובונטו</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em; margin-left: 0.8em"><span>Ubuntu 20.04</span></div><div class="region"><div class="contents pagewide">
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="getting-started.html.he" title="צעדים ראשונים"><span class="title">Getting started with GNOME</span><span class="linkdiv-dash"> — </span><span class="desc">חדשים ב־GNOME? למדו כיצד להסתדר.</span></a></div></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
@@ -120,12 +120,8 @@ document.addEventListener('DOMContentLoaded', function() {
     </span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="addremove.html.he" title="Install &amp; remove software">Install &amp; remove software</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.he" title="Remove an application">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.he" title="Add software repositories">add repositories</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="addremove.html.he" title="התקנה והסרה של תכנה">התקנה והסרה של תכנה</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">התקנת יישומים</a></span>, <span class="link"><a href="addremove-remove.html.he" title="הסרת יישום">הסרת יישומים</a></span>, <span class="link"><a href="addremove-sources.html.he" title="הוספת מאגרי תכנה">הוספת מאגרים</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs.html.he" title="User &amp; system settings">User &amp; system settings</a></div>
@@ -164,11 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a></div>
-<div class="desc"><span class="desc">
-        <span class="link"><a href="about-this-guide.html.he" title="מידע על מדריך זה">Tips on using this guide</a></span>,
-        <span class="link"><a href="community-support.html.he" title="Community support">get help from community</a></span>,
-        <span class="link"><a href="get-involved.html.he" title="ניתן להשתתף כדי לשפר את המדריך הזה">help improve this guide</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="about-this-guide.html.he" title="מידע על מדריך זה">עצות על השימוש במדריך זה</a></span>, <span class="link"><a href="community-support.html.he" title="תמיכה קהילתית">קבלת עזרה מהקהילה</a></span>, <span class="link"><a href="get-involved.html.he" title="ניתן לקחת חלק בשיפור המדריך הזה">סיוע בשיפור מדריך זה</a></span>…</span></div>
 </div>
 <div class="links-grid"></div>
 <div class="links-grid"></div>

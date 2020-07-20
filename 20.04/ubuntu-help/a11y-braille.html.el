@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ανάγνωση οθόνης σε Μπράιγ</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Το GNOME παρέχει τον αναγνώστη οθόνης <span class="app">Orca</span> για την εμφάνιση της διεπαφής χρήστη σε μια ανανεώσιμη οθόνη Μπράιγ. Αναλόγως με το πως κάνετε εγκατάσταση το GNOME, μπορεί να μην έχετε εγκαταστημένο το Orca. Αν όχι, κάντε το πρώτα εγκατάσταση.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can display the user interface on a
+  refreshable Braille display. Depending on how you installed your system, you
+  might not have Orca installed. If not, install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Εγκατάσταση Orca</a></span></p>
 <p class="p">Για περισσότερες πληροφορίες, δείτε τη <span class="link"><a href="help:orca" title="help:orca">Βοήθεια Orca</a></span>.</p>
 </div>

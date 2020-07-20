@@ -75,42 +75,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Write files to a CD or DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">You can put files onto a blank disc by using <span class="gui">CD/DVD Creator</span>.
-  The option to create a CD or DVD will appear in the file manager as soon as
-  you place the CD into your CD/DVD writer. The file manager lets you transfer
-  files to other computers or perform <span class="link"><a href="backup-why.html.ro" title="Back up your important files">backups</a></span> by
-  putting files onto a blank disc. To write files to a CD or DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Place an empty disc into your CD/DVD writable drive.</p></li>
-<li class="steps">
-<p class="p">In the <span class="gui">Blank CD/DVD-R Disc</span> notification that pops up at the
-      bottom of the screen, select <span class="gui">Open with CD/DVD Creator</span>. The
-      <span class="gui">CD/DVD Creator</span> folder window will open.</p>
-<p class="p">(You can also click on <span class="gui">Blank CD/DVD-R Disc</span> under
-      <span class="gui">Devices</span> in the file manager sidebar.)</p>
-</li>
-<li class="steps"><p class="p">In the <span class="gui">Disc Name</span> field, type a name for the disc.</p></li>
-<li class="steps"><p class="p">Drag or copy the desired files into the window.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Write to Disc</span>.</p></li>
-<li class="steps">
-<p class="p">Under <span class="gui">Select a disc to write to</span>, choose the blank disc.</p>
-<p class="p">(You could choose <span class="gui">Image file</span> instead. This will put the
-      files in a <span class="em">disc image</span>, which will be saved on your computer. You
-      can then burn that disc image onto a blank disc at a later date.)</p>
-</li>
-<li class="steps"><p class="p">Click <span class="gui">Properties</span> if you want to adjust burning speed, the
-      location of temporary files, and other options. The default options
-      should be fine.</p></li>
-<li class="steps">
-<p class="p">Click the <span class="gui">Burn</span> button to begin recording.</p>
-<p class="p">If <span class="gui">Burn Several Copies</span> is selected, you will be prompted
-      for additional discs.</p>
-</li>
-<li class="steps"><p class="p">When the disc burning is complete, it will eject automatically. Choose
-      <span class="gui">Make More Copies</span> or <span class="gui">Close</span> to exit.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -119,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
   computer.</p>
 <p class="p">In this case, try burning the disc again but use a lower burning speed,
   for example, 12x rather than 48x. Burning at slower speeds is more reliable.
-  You can choose the speed by clicking the <span class="gui">Properties</span> button in the
-  <span class="gui">CD/DVD Creator</span> window.</p>
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

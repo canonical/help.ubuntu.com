@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Escolha qual conexão, <span class="gui">Wi-Fi</span> ou <span class="gui">Cabeada</span>, no painel à esquerda.</p>
 <p class="p">O endereço IP para uma conexão cabeada será exibido à direita.</p>
-<p class="p">Clique no botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configurações"></span></span> para ver o endereço IP da rede sem fio no painel de <span class="gui">Detalhes</span>.</p>
+<p class="p">Clique no botão <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configurações"></span></span> para ver o endereço IP da rede sem fio no painel de <span class="gui">Detalhes</span>.</p>
 </li>
 </ol></div>
 </div></div>

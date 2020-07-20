@@ -70,32 +70,27 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="printing.html.id" title="Pencetakan">Pencetakan</a> › <a class="trail" href="printing.html.id#setup" title="Menyiapkan pencetak">Setup</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="printing.html.id" title="Pencetakan">Pencetakan</a> › <a class="trail" href="printing.html.id#setup" title="Menyiapkan pencetak">Penyiapan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Atur pencetak baku</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you have more than one printer available, you can select which will be
-  your default printer. You may want to pick the printer you use most often.</p>
+<p class="p">Jika Anda memiliki lebih dari satu pencetak yang tersedia, Anda dapat memilih yang akan pencetak default Anda. Anda mungkin ingin memilih pencetak yang paling sering Anda gunakan.</p>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">You need <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">administrative privileges</a></span>
-    on the system to set the default printer.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Anda memerlukan <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">hak akses administratif</a></span> pada sistem untuk mengatur pencetak baku.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pencetak</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Pencetak</span>.</p></li>
-<li class="steps"><p class="p">Select your desired default printer from the list of available
-      printers.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">Default printer</span> checkbox.</p></li>
+<li class="steps"><p class="p">Pilih pencetak yang diinginkan dari daftar pencetak yang tersedia.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Buka Kunci</span> di pojok kanan atas dan ketik kata sandi Anda ketika diminta.</p></li>
+<li class="steps"><p class="p">Pilih kotak centang <span class="gui">Pencetak baku</span>.</p></li>
 </ol></div></div></div>
-<p class="p">When you print in an application, the default printer is automatically
-  used, unless you choose a different printer.</p>
+<p class="p">Ketika Anda mencetak dalam suatu aplikasi, pencetak baku dipakai secara otomatis, kecuali bila Anda memilih pencetak lain.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -108,12 +103,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — Anda memerlukan hak akses administratif untuk mengubah bagian penting dari sistem Anda.</span>
 </li>
 <li class="links ">
-<a href="printing-setup.html.id" title="Mempersiapkan pencetak lokal">Mempersiapkan pencetak lokal</a><span class="desc"> — Set up a printer that is connected to your computer, or your local
-    network.</span>
+<a href="printing-setup.html.id" title="Mempersiapkan pencetak lokal">Mempersiapkan pencetak lokal</a><span class="desc"> — Menyiapkan pencetak yang terhubung ke komputer Anda, atau jaringan lokal Anda.</span>
 </li>
 </ul></div>
 </div></div>

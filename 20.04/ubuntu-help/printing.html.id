@@ -76,35 +76,30 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Pencetakan</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.id" title="How can I check my printer’s ink or toner levels?"><span class="title">How can I check my printer’s ink or toner levels?</span><span class="linkdiv-dash"> — </span><span class="desc">Periksalah banyaknya tinta atau toner yang tersisa dalam cartridge pencetak.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.id" title="Cetak ke berkas"><span class="title">Cetak ke berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Save a document as a PDF, PostScript or SVG file instead of sending
-    it to a printer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.id" title="Bagaimana saya bisa memeriksa tingkat toner/tinta pencetak saya?"><span class="title">Bagaimana saya bisa memeriksa tingkat toner/tinta pencetak saya?</span><span class="linkdiv-dash"> — </span><span class="desc">Periksalah banyaknya tinta atau toner yang tersisa dalam cartridge pencetak.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.id" title="Cetak ke berkas"><span class="title">Cetak ke berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Simpan dokumen sebagai berkas PDF, PostScript, atau SVG daripada mengirimnya ke pencetak.</span></a></div>
 </div></div></div></div></div>
 <section id="setup"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Menyiapkan pencetak</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.id" title="Mempersiapkan pencetak lokal"><span class="title">Mempersiapkan pencetak lokal</span><span class="linkdiv-dash"> — </span><span class="desc">Set up a printer that is connected to your computer, or your local
-    network.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.id" title="Atur pencetak baku"><span class="title">Atur pencetak baku</span><span class="linkdiv-dash"> — </span><span class="desc">Pick the printer that you use most often.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.id" title="Mempersiapkan pencetak lokal"><span class="title">Mempersiapkan pencetak lokal</span><span class="linkdiv-dash"> — </span><span class="desc">Menyiapkan pencetak yang terhubung ke komputer Anda, atau jaringan lokal Anda.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.id" title="Atur pencetak baku"><span class="title">Atur pencetak baku</span><span class="linkdiv-dash"> — </span><span class="desc">Pilih pencetak yang paling sering Anda gunakan.</span></a></div>
 </div>
-<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.id" title="Change the name or location of a printer"><span class="title">Change the name or location of a printer</span><span class="linkdiv-dash"> — </span><span class="desc">Change the name or location of a printer in the printer
-    settings.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.id" title="Mengubah nama atau lokasi dari suatu pencetak"><span class="title">Mengubah nama atau lokasi dari suatu pencetak</span><span class="linkdiv-dash"> — </span><span class="desc">Sesuaikan pengaturan halaman dengan pencetak saat ini.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="paper"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tata letak dan ukuran kertas yang berbeda</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="printing-select.html.id" title="Hanya mencetak halaman tertentu"><span class="title">Hanya mencetak halaman tertentu</span><span class="linkdiv-dash"> — </span><span class="desc">Mencetak hanya halaman tertentu, atau hanya suatu jangkauan halaman.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-order.html.id" title="Make pages print in a different order"><span class="title">Make pages print in a different order</span><span class="linkdiv-dash"> — </span><span class="desc">Collate and reverse the print order.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.id" title="Mencetak booklet"><span class="title">Mencetak booklet</span><span class="linkdiv-dash"> — </span><span class="desc">How to print a folded, multi-page booklet using A4 or Letter-sized
-    paper.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.id" title="Membuat halaman mencetak dalam urutan yang berbeda"><span class="title">Membuat halaman mencetak dalam urutan yang berbeda</span><span class="linkdiv-dash"> — </span><span class="desc">Menyusun dan membalikkan urutan cetak.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.id" title="Mencetak amplop"><span class="title">Mencetak amplop</span><span class="linkdiv-dash"> — </span><span class="desc">Pastikan bahwa amplop telah diposisikan dengan benar, dan telah memilih ukuran kertas yang benar.</span></a></div>
 </div>
 <div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.id" title="Mencetak booklet"><span class="title">Mencetak booklet</span><span class="linkdiv-dash"> — </span><span class="desc">Cara mencetak buklet multi-halaman, terlipat dengan kertas berukuran A4 atau Letter.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.id" title="Mencetak dua sisi dan tata letak multi halaman"><span class="title">Mencetak dua sisi dan tata letak multi halaman</span><span class="linkdiv-dash"> — </span><span class="desc">Mencetak di kedua sisi kertas, atau beberapa halaman per lembar.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.id" title="Mengubah ukuran kertas ketika mencetak"><span class="title">Mengubah ukuran kertas ketika mencetak</span><span class="linkdiv-dash"> — </span><span class="desc">Mencetak dokumen pada kertas dengan ukuran atau orientasi yang berbeda.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.id" title="Print envelopes"><span class="title">Print envelopes</span><span class="linkdiv-dash"> — </span><span class="desc">Make sure that you have the envelope the right way up, and have
-    chosen the correct paper size.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.id" title="Print two-sided and multi-page layouts"><span class="title">Print two-sided and multi-page layouts</span><span class="linkdiv-dash"> — </span><span class="desc">Print on both sides of the paper, or multiple pages per sheet.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section id="problems"><div class="inner">
@@ -113,11 +108,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.id" title="Membatalkan, mengistirahakan, atau melepas suatu tugas pencetakan"><span class="title">Membatalkan, mengistirahakan, atau melepas suatu tugas pencetakan</span><span class="linkdiv-dash"> — </span><span class="desc">Membatalkan suatu tugas pencetakan yang tertunda dan menghapusnya dari antrian.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.id" title="Membersihkan kertas yang macet"><span class="title">Membersihkan kertas yang macet</span><span class="linkdiv-dash"> — </span><span class="desc">How you clear a paper jam will depend on the make and model of
-    printer that you have.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.id" title="Membersihkan kertas yang macet"><span class="title">Membersihkan kertas yang macet</span><span class="linkdiv-dash"> — </span><span class="desc">Bagaimana Anda membersihkan kertas menyangkut akan tergantung pada buatan dan model pencetak yang Anda miliki.</span></a></div>
 </div>
-<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.id" title="Mengapa ada coretan, garis, atau warna yang salah pada hasil cetakan saya?"><span class="title">Mengapa ada coretan, garis, atau warna yang salah pada hasil cetakan saya?</span><span class="linkdiv-dash"> — </span><span class="desc">If print-outs are streaky, fading, or missing colors, check your ink
-    levels or clean the print head.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.id" title="Mengapa ada coretan, garis, atau warna yang salah pada hasil cetakan saya?"><span class="title">Mengapa ada coretan, garis, atau warna yang salah pada hasil cetakan saya?</span><span class="linkdiv-dash"> — </span><span class="desc">Jika cetakan bergaris-garis, memudar, atau kehilangan warna, periksa tingkat tinta atau bersihkan kepala cetak.</span></a></div></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

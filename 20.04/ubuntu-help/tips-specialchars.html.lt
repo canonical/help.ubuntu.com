@@ -93,9 +93,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="characters"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Characters</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">GNOME comes with a character map application that allows you to
-    find and insert unusual characters, including emoji, by browsing
-    character categories or searching for keywords.</p>
+<p class="p">The character map application allows you to find and insert unusual
+    characters, including emoji, by browsing character categories or searching
+    for keywords.</p>
 <p class="p">You can launch <span class="app">Characters</span> from the Activities overview.</p>
 </div></div>
 </div></section><section id="compose"><div class="inner">

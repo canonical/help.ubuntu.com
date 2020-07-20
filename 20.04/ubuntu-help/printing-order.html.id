@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Make pages print in a different order</title>
+<title>Membuat halaman mencetak dalam urutan yang berbeda</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,40 +73,30 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="printing.html.id" title="Pencetakan">Pencetakan</a> › <a class="trail" href="printing.html.id#paper" title="Tata letak dan ukuran kertas yang berbeda">Tata letak dan ukuran</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Make pages print in a different order</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Membuat halaman mencetak dalam urutan yang berbeda</span></h1></div>
 <div class="region">
 <div class="contents pagewide"></div>
 <section id="reverse"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Terbalik</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Printers usually print the first page first, and the last page last, so
-    the pages end up in reverse order when you pick them up. If needed, you can
-    reverse this printing order.</p>
+<p class="p">Pencetak biasanya mulai dengan mencetak halaman pertama, dan mengakhiri dengan halaman terakhir, sehingga halaman berakhir dalam urutan terbalik ketika Anda mengambilnya. Jika diperlukan, Anda dapat membalik urutan pencetakan ini.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Untuk membalik urutan:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print
-        dialog.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">General</span> tab, under <span class="gui">Copies</span>, check
-        <span class="gui">Reverse</span>. The last page will be printed first, and so on.</p></li>
+<li class="steps"><p class="p">Tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> untuk membuka dialog Cetak.</p></li>
+<li class="steps"><p class="p">Dalam tab <span class="gui">Umum</span>, di bawah <span class="gui">Salinan</span>, centang <span class="gui">Balik</span>. Halaman terakhir akan dicetak pertama, dan seterusnya.</p></li>
 </ol></div>
 </div></div>
 </div></div>
 </div></section><section id="collate"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Kolasi</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">If you are printing more than one copy of the document, the print-outs
-  will be grouped by page number by default (that is, all of the copies of page
-  one come out, then the copies of page two, and so on). <span class="em">Collating</span>
-  will make each copy come out with its pages grouped together in the right
-  order instead.</p>
+<p class="p">Jika Anda mencetak lebih dari satu salinan dokumen, cetakan akan dikelompokkan berdasarkan nomor halaman secara default (yaitu, semua salinan halaman yang satu keluar, kemudian salinan halaman dua, dan seterusnya). <span class="em">Kolasi</span> akan membuat setiap salinan keluar dengan halaman-halamannya dikelompokkan bersama dalam urutan yang benar sebagai gantinya.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">To collate:</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Untuk kolasi:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print
-     dialog.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">General</span> tab, under <span class="gui">Copies</span>, check
-      <span class="gui">Collate</span>.</p></li>
+<li class="steps"><p class="p">Tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> untuk membuka dialog Cetak.</p></li>
+<li class="steps"><p class="p">Dalam tab <span class="gui">Umum</span>, di bawah <span class="gui">Salinan</span>, centang <span class="gui">Kolasi</span>.</p></li>
 </ol></div>
 </div></div>
 </div></div>

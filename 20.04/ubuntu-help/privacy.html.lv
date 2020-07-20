@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Privātuma iestatījumi</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME <span class="em">privātuma iestatījumi</span> palīdz jums noteikt, vai noteiktas jūsu darbvirsmas daļas ir redzamas citiem. Jūs arī varat izmantot šos iestatījumus, lai iztīrītu sava datora lietošanas vēsturi un izmest nevajadzīgās datnes.</p>
+<p class="p">The <span class="em">Privacy Settings</span> help you control whether or not
+  certain parts of your desktop are visible to others. You can also
+  use these settings to clear your computer usage history and clean out
+  unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.lv" title="Automātiski bloķēt ekrānu"><span class="title">Automātiski bloķēt ekrānu</span><span class="linkdiv-dash"> — </span><span class="desc">Neļaut citām personām izmantot jūsu datoru, kad dodaties prom.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.lv" title="Izslēgt vai ierobežot datņu vēstures izsekošanu"><span class="title">Izslēgt vai ierobežot datņu vēstures izsekošanu</span><span class="linkdiv-dash"> — </span><span class="desc">Pārtraukt vai ierobežot nesen izmantoto datņu sekošanai.</span></a></div>

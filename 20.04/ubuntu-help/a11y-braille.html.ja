@@ -76,9 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">点字で画面を読む</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME provides the <span class="app">Orca</span> screen reader to display the user
-  interface on a refreshable Braille display. Depending on how you installed
-  GNOME, you might not have Orca installed. If not, install Orca first.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can display the user interface on a
+  refreshable Braille display. Depending on how you installed your system, you
+  might not have Orca installed. If not, install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Install Orca</a></span></p>
 <p class="p">Refer to the <span class="link"><a href="help:orca" title="help:orca">Orca Help</a></span> for
   more information.</p>

@@ -117,11 +117,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html.id" title="Tablet Grafis Wacom">Tablet Grafis Wacom</a><span class="desc"> — 
-      <span class="link"><a href="wacom-multi-monitor.html.id" title="Memilih monitor">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html.id" title="Tata konfigurasi tylus">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html.id" title="Gunakan tablet secara kidal">use the tablet left handed</a></span>…
-  </span>
+<a href="wacom.html.id" title="Tablet Grafis Wacom">Tablet Grafis Wacom</a><span class="desc"> — <span class="link"><a href="wacom-multi-monitor.html.id" title="Memilih monitor">Petakan suatu monitor</a></span>, <span class="link"><a href="wacom-stylus.html.id" title="Tata konfigurasi tylus">tata konfigurasi stylus</a></span>, <span class="link"><a href="wacom-left-handed.html.id" title="Memakai tablet secara kidal">memakai tablet secara kidal</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -80,7 +80,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Који инструменти за мерење боје су подржани?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Гном се заснива на систему Арџил за управљање бојом да би подржао инструменте за боје. У наставку следи списак подржаних инструмената за мерење приказа:</p>
+<p class="p">
+    The system relies on the Argyll color management system to support
+    color instruments. Thus the following display measuring instruments
+    are supported:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Гретаг-Макбет и1 Про (мерач спектра)</p></li>
 <li class="list"><p class="p">Гретаг-Макбет и1 Монитор (мерач спектра)</p></li>

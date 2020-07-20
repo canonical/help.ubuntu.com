@@ -70,13 +70,16 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Privacy-instellingen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Via de <span class="em">Privacy-instellingen</span> in gnome regelt u of bepaalde delen van uw bureaublad wel of niet zichtbaar zijn voor anderen. U kunt deze instellingen ook gebruiken om de geschiedenis van uw computergebruik te wissen en onnodige bestanden te verwijderen.</p>
+<p class="p">The <span class="em">Privacy Settings</span> help you control whether or not
+  certain parts of your desktop are visible to others. You can also
+  use these settings to clear your computer usage history and clean out
+  unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.nl" title="Het scherm automatisch vergrendelen"><span class="title">Het scherm automatisch vergrendelen</span><span class="linkdiv-dash"> — </span><span class="desc">Voorkom dat andere mensen uw computer gebruiken wanneer u even bij uw computer weg gaat.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.nl" title="Prullenbak legen &amp; tijdelijke bestanden definitief verwijderen"><span class="title">Prullenbak legen &amp; tijdelijke bestanden definitief verwijderen</span><span class="linkdiv-dash"> — </span><span class="desc">Geef op hoe vaak bestanden in uw prullenbak en tijdelijke bestanden van uw computer zullen worden verwijderd.</span></a></div>

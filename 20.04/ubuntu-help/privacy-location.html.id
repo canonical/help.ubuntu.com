@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Control location services</title>
+<title>Mengontrol layanan lokasi</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,14 +73,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Control location services</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mengontrol layanan lokasi</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Geolocation, or location services, uses cell tower positioning, GPS, and
-  nearby Wi-Fi access points to determine your current location for use in
-  setting your timezone and by applications such as <span class="app">Maps</span>. When
-  enabled, it is possible for your location to be shared over the network with
-  a great deal of precision.</p>
+<p class="p">Geolocation, atau layanan lokasi, menggunakan posisi menara sel, GPS, dan titik akses Wi-Fi terdekat untuk menentukan lokasi Anda saat ini untuk digunakan dalam pengaturan zona waktu Anda dan dengan aplikasi seperti <span class="app">Peta</span>. Ketika diaktifkan, menjadi mungkin berbagi lokasi Anda melalui jaringan dengan presisi tinggi.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Turn off the geolocation features of your desktop</span></h2></div>
 <div class="region"><ol class="steps">
@@ -99,11 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.id" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.id" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Kunci layar</a></span>, <span class="link"><a href="privacy-history-recent-off.html.id" title="Matikan atau membatasi pelacakan riwayat berkas">Riwayat penggunaan</a></span>, <span class="link"><a href="privacy-purge.html.id" title="Purge trash &amp; temporary files">Bersihkan sampah &amp; berkas sementara</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

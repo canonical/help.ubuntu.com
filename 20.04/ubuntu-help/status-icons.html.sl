@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Kaj pomenijo ikone v vrhnji vrstici?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the GNOME interface are described.</p>
+<p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the system are described.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="status-icons.html.sl#universalicons" title="Ikone menija splošnega dostopa">Ikone menija splošnega dostopa</a></li>
 <li class="links "><a href="status-icons.html.sl#audioicons" title="Ikone nadzornika glasnosti">Ikone nadzornika glasnosti</a></li>

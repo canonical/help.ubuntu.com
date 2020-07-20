@@ -92,9 +92,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Näytön lukitseminen</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Jos poistut tietokoneelta hetkeksi, lukitse näyttö estääksesi muita ihmisiä käyttämästä tiedostojasi ja sovelluksia. Kun palaat, avaa <span class="link"><a href="shell-lockscreen.html.fi" title="Lukitusnäyttö">lukitusnäytön näkymä</a></span> ja kirjaudu takaisin sisään antamalla salasanasi. Jos et lukitse näyttöä itse, se lukitaan automaattisesti tietyn ajan kuluttua.</p>
-<p class="p">Lukitse näyttö napsauttamalla yläpalkin oikeassa laidassa olevaa järjestelmävalikkoa, ja napsauta avautuvan valikon alaosasta lukon kuvaketta.</p>
-<p class="p">Kun näyttö on lukittu, muut käyttäjät voivat kirjautua omilla tunnuksillaan sisään napsauttamalla <span class="gui">Vaihda käyttäjää</span>. Voit taas jatkaa työskentelyä, kun he ovat lopettaneet omansa.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.fi" title="Lukitusnäyttö">lock screen</a></span>. Enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -115,8 +123,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Valmiustila</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Säästä sähköä laittamalla tietokoneesi lepotilaan, kun et käytä sitä. Jos käytät kannettavaa tietokonetta, Gnome asettaa sen lepotilaan sulkiessasi koneen kannen. Lepotila tallentaa tietokoneen tilan muistiin ja sammuttaa suurimman osan tietokoneen toiminnoista. Lepotila kuluttaa kuitenkin jonkin verran sähköä, mutta kulutus on hyvin alhainen verrattuna koneen päällä pitämiseen.</p>
-<p class="p">Siirrä kone valmiustilaan itse napsauttamalla järjestelmävalikkoa yläpalkin oikeasta laidasta. Pidä pohjassa <span class="key"><kbd>Alt</kbd></span>-näppäin ja napsauta <span class="gui">Sammuta</span>-painiketta, jonka kuvake esittää nyt keskeytystä. Voit myös vaihtoehtoisesti painaa pitkään sammutuspainiketta.</p>
+<p class="p">To save power, suspend your computer when you are not using it. If you use
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
+  suspend.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -140,7 +155,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Sammutus tai uudelleenkäynnistys</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Jos haluat sammuttaa tietokoneesi kokonaan tai käynnistää sen uudelleen, napsauta yläpalkin oikeassa laidassa olevaa järjestelmävalikkoa, ja napsauta avautuvan valikon alaosassa olevaa sammutuspainiketta. Nyt avautuu ikkuna, jossa on valinnat <span class="gui">Käynnistä uudelleen</span> ja <span class="gui">Sammuta</span>. Valitse haluamasi toiminto.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Jos muita käyttäjiä on kirjautuneena sisään, et ehkä voi sammuttaa tai käynnistää tietokonetta uudelleen, koska se päättäisi muiden käyttäjien istunnot. Pääkäyttäjät voivat tällöin sammuttaa tietokoneen salasanallaan.</p>
 <div class="note note-tip" title="Vinkki">
 <svg width="24" height="24" version="1.1">

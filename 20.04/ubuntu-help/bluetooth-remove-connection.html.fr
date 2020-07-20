@@ -78,13 +78,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Si vous ne voulez plus être connecté à un périphérique Bluetooth, vous pouvez supprimer la connexion. C'est utile si vous ne voulez plus utiliser une souris ou un casque micro, ou si vous ne voulez plus transférer de fichiers vers ou depuis un périphérique.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Bluetooth</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Sélectionnez le périphérique que vous voulez déconnecter dans la liste.</p></li>
-<li class="steps"><p class="p">In the device dialog box, switch the <span class="gui">Connection</span> switch to
-      off, or to remove the device from the <span class="gui">Devices</span> list,
-      click <span class="gui">Remove Device</span>.</p></li>
+<li class="steps"><p class="p">Dans la boîte de dialogue de l’appareil, basculez l’interrupteur <span class="gui">Connexion</span> sur <span class="gui">Désactivé</span>, ou pour supprimer le périphérique de la liste <span class="gui">Périphériques</span>, cliquez sur <span class="gui">Supprimer le périphérique</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Vous pouvez <span class="link"><a href="bluetooth-connect-device.html.fr" title="Association d'un ordinateur à un périphérique Bluetooth">reconnecter un périphérique Bluetooth</a></span> ultérieurement si vous le souhaitez.</p>
 </div>

@@ -81,13 +81,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Podeu calibrar la pantalla perquè mostri un color més precís. Això és especialment útil si està involucrat en la fotografia digital, el disseny, o el treball artístic.</p>
-<p class="p">Necessitarà un colorímetre o un espectrofotòmetre per fer-ho. Ambdós dispositius s'utilitzen per a definir el perfil de les pantalles, però funcionen de manera lleugerament diferent.</p>
+<p class="p">Necessitarà un colorímetre o un espectrofotòmetre per a fer-ho. Ambdós dispositius s'utilitzen per a definir el perfil de les pantalles, però funcionen de manera lleugerament diferent.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Assegureu-vos que el dispositiu de calibratge està connectat a l'ordinador.</p></li>
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Paràmetres</span>.</p></li>
 <li class="steps"><p class="p">Féu clic a <span class="gui">Paràmetres</span>.</p></li>
-<li class="steps"><p class="p">Féu clic a <span class="gui">Dispositius</span> a la barra lateral.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Color</span> en la barra lateral per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Color</span> en la barra lateral per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Seleccioneu la pantalla.</p></li>
 <li class="steps"><p class="p">Premeu <span class="gui">Calibra…</span> per a iniciar el calibratge.</p></li>
 </ol></div></div></div>

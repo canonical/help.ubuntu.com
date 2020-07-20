@@ -80,16 +80,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">You need to have <span class="app">Sushi</span> installed on your computer to perform
-  these steps.</p>
-<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Install <span class="app">Sushi</span></a></span></p>
+<p class="p">Anda harus memasang <span class="app">Sushi</span> pada komputer Anda untuk melakukan langkah-langkah ini.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-sushi" title="apt:gnome-sushi">Pasang <span class="app">Sushi</span></a></span></p>
 </div></div></div>
 </div>
 <p class="p">Anda dapat mempratinjau dengan cepat berkas-berkas tanpa membuka mereka dalam suatu aplikasi penuh. Pilih sebarang berkas dan tekan bilah spasi. Berkas akan dibuka dalam suatu jendela pratinjau sederhana. Tekan bilah spasi lagi untuk menutup pratinjau.</p>
 <p class="p">Pratinjau bawaan mendukung kebanyakan format berkas bagi dokumen, citra, video, dan audio. Dalam pratinjau, Anda dapat menggulung dalam dokumen Anda atau melompat dalam video dan audio Anda.</p>
-<p class="p">To view a preview full-screen, press <span class="key"><kbd>F</kbd></span> or <span class="key"><kbd>F11</kbd></span>. Press
-<span class="key"><kbd>F</kbd></span> or <span class="key"><kbd>F11</kbd></span> again to leave full-screen, or press the space
-bar to exit the preview completely.</p>
+<p class="p">Untuk melihat pratinjau layar penuh, tekan <span class="key"><kbd>F</kbd></span> atau <span class="key"><kbd>F11</kbd></span>. Tekan <span class="key"><kbd>F</kbd></span> atau <span class="key"><kbd>F11</kbd></span> lagi untuk meninggalkan layar penuh, atau tekan spasi untuk keluar dari pratinjau sepenuhnya.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -101,7 +98,7 @@ bar to exit the preview completely.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-preview.html.id" title="Preferensi pratilik pengelola berkas">Preferensi pratilik pengelola berkas</a><span class="desc"> — Control when thumbnails are used for files.</span>
+<a href="nautilus-preview.html.id" title="Preferensi pratilik pengelola berkas">Preferensi pratilik pengelola berkas</a><span class="desc"> — Mengendalikan kapan gambar mini dipakai untuk berkas.</span>
 </li></ul></div>
 </div></div>
 </div>

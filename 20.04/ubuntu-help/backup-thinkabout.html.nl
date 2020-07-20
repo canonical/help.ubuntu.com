@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#backup" title="Reservekopieën maken">Reservekopieën maken</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#backup" title="Reservekopieën maken">Reservekopieën maken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Waar kan ik de bestanden vinden waarvan ik een reservekopie wil maken?</span></h1></div>
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Verborgen bestanden</p>
-<p class="p">Elke bestands- en mapnaam beginnend met een punt (.) is standaard verborgen. Om verborgen bestanden zichtbaar te maken, klikt u op de <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Bekijk opties"></span></span></span>-knop in de werkbalk en dan op <span class="gui">Verborgen bestanden tonen</span>, of druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. U kunt deze bestanden net zoals gewone bestanden naar de reservekopielocatie kopiëren.</p>
+<p class="p">Elke bestands- en mapnaam beginnend met een punt (.) is standaard verborgen. Om verborgen bestanden zichtbaar te maken, klikt u op de <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Bekijk opties"></span></span></span>-knop in de werkbalk en dan op <span class="gui">Verborgen bestanden tonen</span>, of druk op <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. U kunt deze bestanden net zoals gewone bestanden naar de reservekopielocatie kopiëren.</p>
 </li>
 <li class="list">
 <p class="p">Persoonlijke instellingen (bureaubladvoorkeuren, thema's en software-instellingen)</p>

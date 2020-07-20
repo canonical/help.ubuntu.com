@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Przenoszenie i zmienianie rozmiaru okien</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Można przenosić i zmieniać rozmiar okien, aby wydajniej pracować. Poza przeciąganiem okien GNOME zawiera skróty i modyfikatory pomagające szybko porządkować okna.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Przenieś okno przeciągając pasek tytułu lub przytrzymując klawisz <span class="key"><a href="keyboard-key-super.html.pl-PL" title="Czym jest klawisz Super?"><kbd>Super</kbd></a></span> i przeciągając w dowolnym miejscu okna. Przytrzymaj klawisz <span class="key"><kbd>Shift</kbd></span> podczas przenoszenia, aby przyciągnąć okno do krawędzi ekranu lub innych okien.</p></li>
 <li class="list"><p class="p">Zmień rozmiar okna przeciągając jego krawędzi lub róg. Przytrzymaj klawisz <span class="key"><kbd>Shift</kbd></span> podczas zmieniania rozmiaru, aby przyciągnąć okno do krawędzi ekranu lub innych okien.</p></li>

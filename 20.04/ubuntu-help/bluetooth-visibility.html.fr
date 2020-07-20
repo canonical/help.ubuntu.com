@@ -76,11 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Qu'est-ce que la visibilité Bluetooth ?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Bluetooth visibility refers to whether other devices can discover
-  your computer when searching for Bluetooth devices. When Bluetooth is turned
-  on and the <span class="gui">Bluetooth</span> panel is open, your computer will advertise
-  itself to all other devices within range, allowing them to attempt to connect
-  to your computer.</p>
+<p class="p">La visibilité Bluetooth fait référence à la possibilité qu’ont les autres périphériques de détecter votre ordinateur lors de la recherche de périphériques Bluetooth. Si le Bluetooth est activé et que le panneau <span class="gui">Bluetooth</span> est ouvert, votre ordinateur informe de sa présence tous les autres périphériques à sa portée, les autorisant ainsi à essayer de se connecter à lui.</p>
 <div class="note note-tip" title="Astuce">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
@@ -88,13 +84,8 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Vous pouvez <span class="link"><a href="sharing-displayname.html.fr" title="Choix d'un nom public pour votre ordinateur">changer</a></span> le nom que votre ordinateur montre aux autres périphériques.</p></div></div></div>
 </div>
 <p class="p">Après vous être <span class="link"><a href="bluetooth-connect-device.html.fr" title="Association d'un ordinateur à un périphérique Bluetooth">connecté à un périphérique</a></span>, ni votre ordinateur, ni le périphérique n'ont besoin d'être visibles pour communiquer entre eux.</p>
-<p class="p">Devices without a display usually have a pairing mode that can be entered
-  by pressing a button, or a combination of buttons for a while, whether when
-  they’ve already been turned on, or as they are being turned on.</p>
-<p class="p">The best way to find out how to enter that mode is to refer to the device’s
-  manual. For some devices, the procedure might be
-  <span class="link"><a href="bluetooth-device-specific-pairing.html.fr" title="Pairing instructions for specific devices">slightly different from usual</a></span>.
-  </p>
+<p class="p">Les appareils sans écran ont généralement un mode d'appairage qui peut être activé en maintenant un bouton, ou une combinaison de boutons, soit quand ils sont déjà allumés, soit pendant leur allumage.</p>
+<p class="p">Le meilleur moyen de savoir comment accéder à ce mode est de se référer au manuel de l’appareil. Pour certains appareils, la procédure peut <span class="link"><a href="bluetooth-device-specific-pairing.html.fr" title="Instructions d'appairage pour des appareils spécifiques">différer légèrement de la procédure habituelle</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -108,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-device-specific-pairing.html.fr" title="Pairing instructions for specific devices">Pairing instructions for specific devices</a><span class="desc"> — How to pair specific devices with your computer.</span>
+<a href="bluetooth-device-specific-pairing.html.fr" title="Instructions d'appairage pour des appareils spécifiques">Instructions d'appairage pour des appareils spécifiques</a><span class="desc"> — Appairage d’appareils spécifiques avec votre ordinateur.</span>
 </li></ul></div>
 </div></div>
 </div>

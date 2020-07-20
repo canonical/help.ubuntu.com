@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Прозори и радни простори</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Као и друге радне површи, Гном користи прозоре за приказивање ваших радних програма. Коришћењем и прегледа <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и <span class="em">полетника</span>, можете да покренете нове програме и да управљате радним прозорима.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
 <p class="p">Можете заједно да групишете програме у радним просторима. Погледајте теме помоћи прозора и радних простора испод да научите боље како да користите ове функције.</p>
 </div>
 <section id="working-with-windows"><div class="inner">

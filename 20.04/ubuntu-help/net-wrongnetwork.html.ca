@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Wi-Fi</span>.</p></li>
 <li class="steps"><p class="p">Cerqueu la xarxa a la qual <span class="em">no</span> voleu que continuï connectant-se.</p></li>
-<li class="steps"><p class="p">Feu clic al botó <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuració"></span></span> localitzat al costat de la xarxa.</p></li>
+<li class="steps"><p class="p">Feu clic al botó <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configuració"></span></span> localitzat al costat de la xarxa.</p></li>
 <li class="steps"><p class="p">Feu clic al botó <span class="gui">Oblida la connexió</span>. L'ordinador ja no intentarà connectar-se a aquesta xarxa.</p></li>
 </ol></div>
 </div></div>

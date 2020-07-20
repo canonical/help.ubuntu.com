@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="steps">
 <p class="p">Trieu la pestanya <span class="gui">Disseny de pàgina</span>.</p>
-<p class="p">A <span class="gui">Disseny</span>, seleccioneu <span class="gui">Fulletó</span>.</p>
+<p class="p">A <span class="gui">Disposició</span>, seleccioneu <span class="gui">Fullet</span>.</p>
 <p class="p">A <span class="gui">Cares de la pàgina</span>, a la llista desplegable <span class="gui">Incloure</span>, seleccioneu <span class="gui">Totes les pàgines</span>.</p>
 </li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Imprimeix</span>.</p></li>

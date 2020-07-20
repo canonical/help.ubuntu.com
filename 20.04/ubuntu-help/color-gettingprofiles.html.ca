@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">La millor manera d'obtenir perfils és generar-los un mateix, encara que això requereixi una despesa inicial.</p>
 <p class="p">Molts fabricants intenten proporcionar perfils de color per a dispositius, tot i que de vegades es troben dins de <span class="em">paquets de controladors</span> que haureu de descarregar, extreure i, a continuació, cercar els perfils de color.</p>
 <p class="p">Alguns fabricants no proporcionen perfils precisos per al maquinari i és millor evitar els seus perfils. Una bona pista és descarregar-se el perfil i si la data de creació és més d'un any anterior a la data en què vau comprar el dispositiu, és probable que s'hagi generat amb dades simulades inútils.</p>
-<p class="p">Veure <span class="link"><a href="color-why-calibrate.html.ca" title="Per què he de fer jo el calibratge?">Per què he de fer jo el calibratge?</a></span> per obtenir informació sobre per què els perfils subministrats per proveïdors solen ser pitjor que inútils.</p>
+<p class="p">Veure <span class="link"><a href="color-why-calibrate.html.ca" title="Per què he de fer jo el calibratge?">Per què he de fer jo el calibratge?</a></span> per a obtenir informació sobre per què els perfils subministrats per proveïdors solen ser pitjor que inútils.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="color-testing.html.ca" title="Com puc provar si la gestió del color funciona correctament?">Com puc provar si la gestió del color funciona correctament?</a><span class="desc"> — Utilitzeu els perfils de prova proporcionats per comprovar que els vostres perfils s'apliquen correctament a la vostra pantalla.</span>
+<a href="color-testing.html.ca" title="Com puc provar si la gestió del color funciona correctament?">Com puc provar si la gestió del color funciona correctament?</a><span class="desc"> — Utilitzeu els perfils de prova proporcionats per a comprovar que els vostres perfils s'apliquen correctament a la vostra pantalla.</span>
 </li>
 <li class="links ">
 <a href="color-missingvcgt.html.ca" title="Falta informació per a la correcció del color de la pantalla sencera?">Falta informació per a la correcció del color de la pantalla sencera?</a><span class="desc"> — La correcció de color de tota la pantalla modifica tots els colors de la pantalla a totes les finestres.</span>

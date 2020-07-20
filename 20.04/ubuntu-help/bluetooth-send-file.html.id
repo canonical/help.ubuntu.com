@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.id" title="Berbagi">Berbagi</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="sharing.html.id" title="Berbagi">Berbagi</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="bluetooth.html.id" title="Bluetooth">Bluetooth</a> » </div>
 </div>
@@ -84,13 +84,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="note note-important" title="Penting">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">Send Files</span> does not work on unsupported devices such as iPhones.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">Kirim Berkas</span> tidak bekerja pada perangkat yang tidak didukung seperti iPhone.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Bluetooth</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch in the titlebar should be
-      set to on.</p></li>
+<li class="steps"><p class="p">Pastikan Bluetooth difungsikan: saklar pada bilah judul mesti dinyalakan.</p></li>
 <li class="steps">
 <p class="p">Dalam daftar <span class="gui">Devices</span>, pilih perangkat yang akan dikirimi berkas. Bila perangkat yang diinginkan tak ditampilkan sebagai <span class="gui">Tersambung</span> dalam daftar, Anda perlu <span class="link"><a href="bluetooth-connect-device.html.id" title="Hubungkan komputer Anda ke perangkat Bluetooth">menyambung</a></span> kesana.</p>
 <p class="p">Suatu panel yang spesifik bagi perangkat eksternal muncul.</p>
@@ -120,8 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html.id" title="Berbagi berkas lewat surel">Berbagi berkas lewat surel</a><span class="desc"> — Easily transfer files to your email contacts from the file
-    manager.</span>
+<a href="files-share.html.id" title="Berbagi berkas lewat surel">Berbagi berkas lewat surel</a><span class="desc"> — Menyalin berkas secara mudah ke kontak surel dari manajer berkas.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -76,13 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Establir el nom de visualització de l'ordinador</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Podeu canviar el nom que l'ordinador utilitza per mostrar-se a altres ordinadors o dispositius, a la xarxa o a través de Bluetooth.</p>
+<p class="p">Podeu canviar el nom que l'ordinador utilitza per a mostrar-se a altres ordinadors o dispositius, a la xarxa o a través de Bluetooth.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Canvieu el nom amb què es visualitza l'ordinador:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Compartició</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Compartició</span> per obrir el quadre.</p></li>
-<li class="steps"><p class="p">Editeu el text sota <span class="gui">Nom de l'ordinador</span> per canviar el nom del vostre ordinador a la xarxa.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Compartició</span> per a obrir el quadre.</p></li>
+<li class="steps"><p class="p">Editeu el text sota <span class="gui">Nom de l'ordinador</span> per a canviar el nom del vostre ordinador a la xarxa.</p></li>
 </ol></div>
 </div></div>
 </div>

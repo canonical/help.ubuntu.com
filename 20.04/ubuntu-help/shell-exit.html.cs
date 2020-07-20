@@ -92,9 +92,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Zamknutí obrazovky</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Když odcházíte od svého počítače jen na krátkou chvíli, měli byste zamknout obrazovku, abyste zabránili ostatním lidem v přístupu ke svým souborům a běžícím aplikacím. Až se vrátíte, vytáhněte oponu na <span class="link"><a href="shell-lockscreen.html.cs" title="Uzamknutá obrazovka">uzamknuté obrazovce</a></span> a zadejte své heslo, abyste se přihlásili zpět. Pokud obrazovku nezamknete, stane se tak automaticky po uplynutí určené doby.</p>
-<p class="p">Abyste zamkli obrazovku, klikněte na systémovou nabídku na pravé straně horní lišty a pak zmáčkněte zamykací tlačítko v dolní části nabídky.</p>
-<p class="p">Když je obrazovka zamknutá, mohou se ostatní uživatelé přihlásit ke svým vlastním účtům kliknutím na <span class="gui">Přihlásit se jako jiný uživatel</span> na obrazovce s heslem. Až skončí, můžete se přepnout zpět na svoji pracovní plochu.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.cs" title="Uzamknutá obrazovka">lock screen</a></span>. Enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -115,8 +123,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Uspání</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Abyste ušetřili energii, uspěte svůj počítač, když jej zrovna nepoužíváte. Pokud používáte notebook, standardně jej GNOME uspí automaticky při zavření víka. Při uspání se pouze uchová stav v paměti počítač a většina součástí počítače se vypne. Během uspání je zapotřebí napájení, ale odběr je velmi malý.</p>
-<p class="p">Když chcete počítač uspat ručně, klikněte na systémovou nabídku na pravé straně horní lišty. Zde pak podržte zmáčknutou klávesu <span class="key"><kbd>Alt</kbd></span> a klikněte na tlačítko pro vypnutí, nebo stačí na tlačítko pro vypnutí kliknout dlouze.</p>
+<p class="p">To save power, suspend your computer when you are not using it. If you use
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
+  suspend.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -140,7 +155,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Vypnutí nebo restart</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Když chcete svůj počítač úplně vypnout nebo provést úplný restart, klikněte na systémovou nabídku na pravé straně horní lišty a zmáčkněte vypínací tlačítko v dolní části nabídky. Otevře se dialogové okno, které vám nabídne, jestli chcete <span class="gui">Restartovat</span> nebo <span class="gui">Vypnout</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">V případě, že jsou zrovna přihlášeni nějací další uživatelé, nebude vám umožněno počítač vypnout nebo restartovat, protože byste tím ukončili jejich sezení. Pokud jste ale správci, budete dotázáni, jestli se má i přesto počítač vypnout/restartovat.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">

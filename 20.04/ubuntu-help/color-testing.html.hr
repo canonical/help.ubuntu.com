@@ -82,8 +82,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">The effects of a color profile are sometimes subtle and it may be hard to
   see if anything much has changed.</p>
-<p class="p">GNOME comes with several profiles for testing that make it very clear when
-  the profiles are being applied:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Blue</dt>
 <dd class="terms"><p class="p">This will turn the screen blue and tests if the calibration curves are
@@ -92,7 +92,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otvorite <span class="gui"><a href="shell-introduction.html.hr#activities" title="Aktivnosti pregled">Aktivnosti</a></span> pregled i započnite upisivati <span class="gui">Postavke</span>.</p></li>
 <li class="steps"><p class="p">Kliknite na <span class="gui">Postavke</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
 <li class="steps"><p class="p">Kliknite na <span class="gui">Boja</span> u bočnoj traci za otvaranje panela.</p></li>
 <li class="steps"><p class="p">Select the device for which you want to add a profile. You may wish to
       make a note of which profile is currently being used.</p></li>

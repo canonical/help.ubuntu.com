@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Τι σημαίνουν τα εικονίδια στην πάνω γραμμή;</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Αυτή η ενότητα εξηγεί τη σημασία των εικονιδίων που βρίσκονται στη πάνω δεξιά γωνία της οθόνης. Ειδικά, περιγράφονται οι διαφορετικές παραλλαγές των έτοιμων εικονιδίων από τη διεπαφή του GNOME.Οδηγεί σε ένα μενού που ενερ</p>
+<p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the system are described.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="status-icons.html.el#universalicons" title="Εικονίδια μενού γενικής πρόσβασης">Εικονίδια μενού γενικής πρόσβασης</a></li>
 <li class="links "><a href="status-icons.html.el#audioicons" title="Εικονίδια ελέγχου έντασης">Εικονίδια ελέγχου έντασης</a></li>

@@ -85,12 +85,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p"><span class="em">Tombol lengket</span> memungkinkan Anda untuk mengetik pintasan papan tik satu tombol setiap saat daripada harus menekan semua tombol sekaligus. Sebagai contoh, pintasan <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> memindah antara jendela. Tanpa kunci lengket diaktifkan, Anda harus menahan kedua tombol pada saat yang sama, dengan tombol lengket diaktifkan, Anda perlu menekan <span class="key"><kbd>Super</kbd></span> dan kemudian <span class="key"><kbd>Tab</kbd></span> untuk melakukan hal yang sama .</p>
 <p class="p">Anda mungkin ingin menyalakan tombol lengket apabila Anda merasa sulit menekan beberapa tombol sekaligus.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Akses Universal</span> dalam bilah sisi untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Bantuan Mengetik (AccessX)</span> dalam bagian <span class="gui">Pengetikan</span>.</p></li>
-<li class="steps"><p class="p">Switch the <span class="gui">Sticky Keys</span> switch to on.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Tombol Lengket</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
@@ -99,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner">
 <div class="title title-note"><h2><span class="title">Nyalakan dan matikan tombol lengket secara cepat</span></h2></div>
 <div class="region"><div class="contents">
-<p class="p">Di bawah <span class="gui">Aktifkan dari Papan Tik</span>, pilih <span class="gui">Hidupkan fitur aksesibilitas dari papan tik</span> (di atas <span class="gui">Tombol Lengket</span>) untuk menghidupkan dan mematikan tombol lengket dari papan tik. Ketika opsi ini dipilih, Anda dapat menekan <span class="key"><kbd>Shift</kbd></span> lima kali berturut-turut untuk mengaktifkan atau menonaktifkan tombol lengket.</p>
+<p class="p">Di bawah <span class="gui">Aktifkan dari Papan Tik</span>, pilih <span class="gui">Hidupkan fitur aksesibilitas dari papan tik</span> untuk menghidupkan dan mematikan tombol lengket dari papan tik. Ketika opsi ini dipilih, Anda dapat menekan <span class="key"><kbd>Shift</kbd></span> lima kali berturut-turut untuk mengaktifkan atau menonaktifkan tombol lengket.</p>
 <p class="p">Anda juga dapat menyalakan dan mematikan tombol lengket dengan mengklik <span class="link"><a href="a11y-icon.html.id" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Tombol Lengket</span>. Ikon aksesibilitas nampak ketika satu atau lebih pengaturan telah diaktifkan dari panel <span class="gui">Akses Universal</span>.</p>
 </div></div>
 </div>
@@ -116,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

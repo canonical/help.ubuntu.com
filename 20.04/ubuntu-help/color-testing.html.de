@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Die Auswirkungen eines Farbprofils sind oft nicht sofort sichtbar. Es kann schwierig sein festzustellen, ob sich überhaupt etwas geändert hat.</p>
-<p class="p">In GNOME werden verschiedene Profile für Testzwecke mitgeliefert. Mit diesen ist deutlich sichtbar, wenn sie angewendet werden:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Blau</dt>
 <dd class="terms"><p class="p">Der gesamte Bildschirm wird blau eingefärbt und überprüft, ob die Kalibrierungskurven an die Anzeige gesendet wurden.</p></dd>
@@ -89,7 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Einstellungen</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Einstellungen</span>.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Geräte</span> in der Seitenleiste.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Farbe</span> in der Seitenleiste, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wählen Sie das Gerät, für das Sie ein Profil hinzufügen wollen. Achten Sie darauf, welches Profil aktuell verwendet wird.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Profil hinzufügen</span> und wählen Sie ein Test-Profil vom Ende der Liste aus.</p></li>

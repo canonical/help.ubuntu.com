@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Ratolí, pantalla tàctil i pantalla tàctil</title>
+<title>Ratolí, ratolí tàctil i pantalla tàctil</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,13 +77,13 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Ratolí, pantalla tàctil i pantalla tàctil</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Ratolí, ratolí tàctil i pantalla tàctil</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.ca" title="Ajustar la velocitat del ratolí i del tauler tàctil"><span class="title">Ajustar la velocitat del ratolí i del tauler tàctil</span><span class="linkdiv-dash"> — </span><span class="desc">Canvieu la rapidesa amb què es mou el punter quan feu servir el ratolí o el tauler tàctil.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.ca" title="Ajustar la velocitat del doble de clic"><span class="title">Ajustar la velocitat del doble de clic</span><span class="linkdiv-dash"> — </span><span class="desc">Controleu la rapidesa amb què s'ha de prémer el botó del ratolí una segona vegada per fer doble clic.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.ca" title="Fer clic i moure el punter del ratolí usant el teclat numèric"><span class="title">Fer clic i moure el punter del ratolí usant el teclat numèric</span><span class="linkdiv-dash"> — </span><span class="desc">Activa les tecles del ratolí per controlar el ratolí amb el teclat numèric.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.ca" title="Ajustar la velocitat del doble de clic"><span class="title">Ajustar la velocitat del doble de clic</span><span class="linkdiv-dash"> — </span><span class="desc">Controleu la rapidesa amb què s'ha de prémer el botó del ratolí una segona vegada per a fer doble clic.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.ca" title="Fer clic i moure el punter del ratolí usant el teclat numèric"><span class="title">Fer clic i moure el punter del ratolí usant el teclat numèric</span><span class="linkdiv-dash"> — </span><span class="desc">Activa les tecles del ratolí per a controlar el ratolí amb el teclat numèric.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.ca" title="Fer clic, arrossegar o desplaçar-vos amb el tauler tàctil"><span class="title">Fer clic, arrossegar o desplaçar-vos amb el tauler tàctil</span><span class="linkdiv-dash"> — </span><span class="desc">Fer clic, arrossegar o desplaçar-vos fent servir tocs i gestos al tauler tàctil.</span></a></div>
 </div>
 <div class="links-divs">
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="tips"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Consells</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
-<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.ca" title="Clic al mig"><span class="title">Clic al mig</span><span class="linkdiv-dash"> — </span><span class="desc">Utilitzeu el botó del mig del ratolí per obrir les aplicacions, obrir pestanyes i més.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.ca" title="Clic al mig"><span class="title">Clic al mig</span><span class="linkdiv-dash"> — </span><span class="desc">Utilitzeu el botó del mig del ratolí per a obrir les aplicacions, obrir pestanyes i més.</span></a></div></div>
 <div class="links-divs"></div>
 </div></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="hardware.html.ca" title="Maquinari i controladors">Maquinari i controladors</a><span class="desc"> — <span class="link"><a href="hardware.html.ca#problems" title="Problemes comuns">Problemes de maquinari</a></span>, <span class="link"><a href="printing.html.ca" title="Impressió">impressores</a></span>, <span class="link"><a href="power.html.ca" title="Energia i bateria">paràmetres d'energia</a></span>, <span class="link"><a href="color.html.ca" title="Gestió dels colors">gestió del color</a></span>, <span class="link"><a href="bluetooth.html.ca" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.ca" title="Discs i emmagatzematge">discs</a></span>…</span>
 </li>
 <li class="links ">
-<a href="prefs.html.ca" title="Usuari i configuració del sistema">Usuari i configuració del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">ratolí</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span>
+<a href="prefs.html.ca" title="Usuari i configuració del sistema">Usuari i configuració del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, ratolí tàctil i pantalla tàctil">ratolí i ratolí tàctil</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

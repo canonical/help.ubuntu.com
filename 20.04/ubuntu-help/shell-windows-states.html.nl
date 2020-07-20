@@ -70,13 +70,15 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="shell-overview.html.nl" title="Uw bureaublad">Bureaublad</a> › <a class="trail" href="shell-overview.html.nl#apps" title="Toepassingen en vensters">Toepassingen en vensters</a> » <a class="trail" href="shell-windows.html.nl" title="Vensters en werkbladen">Vensters en werkbladen</a> › <a class="trail" href="shell-windows.html.nl#working-with-windows" title="Werken met vensters">Vensters</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Vensters verplaatsen en van grootte veranderen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">U kunt vensters verplaatsen en vergroten/verkleinen om efficiënter te werken. Naast het sleepgedrag dat u zou kunnen verwachten, beschikt Gnome over snelkoppelingen en wijzigingstoetsen om venster snel te kunnen ordenen.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Verplaats een venster door de titelbalk te verslepen, of houd <span class="key"><a href="keyboard-key-super.html.nl" title="Wat is de Super-toets?"><kbd>Super</kbd></a></span> ingedrukt terwijl u het venster versleept. Houd <span class="key"><kbd>Shift</kbd></span> ingedrukt tijdens het verplaatsen om het venster naar de randen van het scherm en andere vensters te brengen.</p></li>
 <li class="list"><p class="p">Pas de grootte van een scherm aan door de randen of hoeken van het scherm te verslepen. Houd de <span class="key"><kbd>Shift</kbd></span>-toets ingedrukt terwijl u de grootte aanpast om het venster vast te maken aan de randen van het scherm en andere vensters.</p></li>

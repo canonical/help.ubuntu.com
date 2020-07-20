@@ -87,7 +87,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Napájení</span> otevřete příslušný panel. Zobrazí se stav známých zařízení.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Když je zjištěna přítomnost interní baterie, zobrazí se v části <span class="gui">Baterie</span> stav jedné či více baterií notebooku. Při připojení k elektrické síti ukazatel zobrazuje procentuální nabití a k tomu čas do úplného nabití, jinak zbývající čas běhu na baterii.</p>
+<p class="p">If an internal battery is detected, the <span class="gui">Batteries</span> section
+    displays the status of one or more laptop batteries. The indicator bar
+    shows the percent charged, as well as time until fully charged if plugged
+    in, and time remaining when running on battery power.</p>
 <p class="p">V části <span class="gui">Zařízení</span> jsou zobrazené stavy připojených zařízení.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

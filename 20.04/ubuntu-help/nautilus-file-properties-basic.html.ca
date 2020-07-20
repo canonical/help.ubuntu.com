@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd class="terms"><p class="p">Pot canviar el nom del fitxer canviant aquest camp. També pot canviar el nom d'un fitxer fora de la finestra de propietats. Veure <span class="link"><a href="files-rename.html.ca" title="Canviar el nom d'un fitxer o carpeta">Canviar el nom d'un fitxer o carpeta</a></span>.</p></dd>
 <dt class="terms"><span class="gui">Tipus</span></dt>
 <dd class="terms">
-<p class="p">Això us permet identificar el tipus de fitxer, com ara un document PDF, un text OpenDocument o una imatge JPEG. El tipus de fitxer determina quines aplicacions poden obrir el fitxer, entre altres coses. Per exemple, no podeu obrir una imatge amb un reproductor de música. Consulteu <span class="link"><a href="files-open.html.ca" title="Obrir fitxers amb altres aplicacions">Obrir fitxers amb altres aplicacions</a></span> per obtenir més informació.</p>
+<p class="p">Això us permet identificar el tipus de fitxer, com ara un document PDF, un text OpenDocument o una imatge JPEG. El tipus de fitxer determina quines aplicacions poden obrir el fitxer, entre altres coses. Per exemple, no podeu obrir una imatge amb un reproductor de música. Consulteu <span class="link"><a href="files-open.html.ca" title="Obrir fitxers amb altres aplicacions">Obrir fitxers amb altres aplicacions</a></span> per a obtenir més informació.</p>
 <p class="p">El <span class="em">tipus MIME</span> del fitxer es mostra entre parèntesis; el tipus MIME és una manera estàndard que utilitzen els ordinadors per fer referència al tipus de fitxer.</p>
 </dd>
 <dt class="terms">Continguts</dt>
@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <dt class="terms">Carpeta pare</dt>
 <dd class="terms"><p class="p">La ubicació de cada fitxer a l'ordinador la proporciona <span class="em">el camí absolut</span>. Aquesta és una «adreça» única del fitxer a l'ordinador, format per una llista de les carpetes que haureu d'introduir per trobar el fitxer. Per exemple, si Jordi tenia un fitxer anomenat <span class="file">Resum.pdf</span> a la seva carpeta Inici, la seva carpeta principal seria <span class="file">/home/jordi</span> i la seva ubicació seria <span class="file">/home/jordi/Resum.pdf</span>.</p></dd>
 <dt class="terms">Espai lliure</dt>
-<dd class="terms"><p class="p">Això només es mostra per a carpetes. Proporciona la quantitat d'espai disponible al disc on hi ha la carpeta. Això és útil per comprovar si el disc dur està ple.</p></dd>
+<dd class="terms"><p class="p">Això només es mostra per a carpetes. Proporciona la quantitat d'espai disponible al disc on hi ha la carpeta. Això és útil per a comprovar si el disc dur està ple.</p></dd>
 <dt class="terms">Accedit</dt>
 <dd class="terms"><p class="p">La data i l'hora en què es va obrir el fitxer.</p></dd>
 <dt class="terms">Modificat</dt>

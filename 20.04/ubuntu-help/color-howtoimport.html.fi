@@ -86,9 +86,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Asetukset</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Asetukset</span>.</p></li>
-<li class="steps"><p class="p">Napsauta <span class="gui">Laitteet</span> sivupalkista.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Värit</span> sivupalkista avataksesi paneelin.</p></li>
-<li class="steps"><p class="p">Select your device.</p></li>
+<li class="steps"><p class="p">Valitse laite.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Lisää profiili</span> valitaksesi olemassa olevan profiilin tai tuodaksesi uuden profiilin.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Lisää</span> vahvistaaksesi valintasi.</p></li>
 </ol></div></div></div>

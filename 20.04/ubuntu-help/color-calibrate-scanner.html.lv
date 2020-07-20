@@ -86,7 +86,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Ieskenējiet savu kalibrēšanas mērķi un saglabājiet to kā nesaspiestu TIFF datni.</p></li>
 <li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
-<li class="steps"><p class="p">Sānu joslā nospiediet <span class="gui">Ierīces</span>.</p></li>
 <li class="steps"><p class="p">Sānu joslā spiediet <span class="gui">Krāsa</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Izvēlieties savu skeneri.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Kalibrēt…</span>, lai sāktu kalibrēšanu.</p></li>

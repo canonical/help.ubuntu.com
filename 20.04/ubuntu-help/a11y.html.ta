@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">அனைவருக்குமான அணுகல்</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME பணித்திரையில் பல்வேறு குறைகளும் சிறப்பான தேவைகளும் உள்ளவருகளுக்கு உதவும் வகையிலும் பொதுவான உதவி சாதனங்களுடன் தொடர்பு கொண்டு செய்ல்படும் வகையிலும் பல உதவி தொழில்நுட்பங்கள் சேர்க்கப்பட்டுள்ளன. அணுகல் வசதி அம்சங்களில் பலவற்றை மேல் பட்டியில் உள்ள அணுகல் வசதி மெனுவிலிருந்து தேர்ந்தெடுக்கலாம்.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.ta" title="அனைவருக்குமான அணுகல் மெனுவைக் கண்டறிதல்"><span class="title">அனைவருக்குமான அணுகல் மெனுவைக் கண்டறிதல்</span><span class="linkdiv-dash"> — </span><span class="desc">மேல் பட்டியில் மனித உருவம் போன்று அமைந்துள்ள சின்னமே அனைவருக்குமான அணுகல் மெனுவாகும்.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">

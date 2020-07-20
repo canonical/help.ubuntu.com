@@ -80,33 +80,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Perkiraan umur baterai salah</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">When you check the remaining battery life, you may find that the time
-remaining that it reports is different to how long the battery actually lasts.
-This is because the amount of remaining battery life can only be estimated.
-Normally, the estimates improve over time.</p>
-<p class="p">In order to estimate the remaining battery life, a number of factors must be
-taken into account. One is the amount of power currently being used by the
-computer: power consumption varies depending on how many programs you have
-open, which devices are plugged in, and whether you are running any intensive
-tasks (like watching high-definition video or converting music files, for
-example). This changes from moment to moment, and is difficult to predict.</p>
-<p class="p">Another factor is how the battery discharges. Some batteries lose charge
-faster the emptier they get. Without precise knowledge of how the battery
-discharges, only a rough estimate of remaining battery life can be made.</p>
-<p class="p">As the battery discharges, the power manager will figure out its discharge
-properties and will learn how to make better estimates of battery life. They
-will never be completely accurate, though.</p>
+<p class="p">Ketika Anda memeriksa sisa masa pakai baterai, Anda mungkin mendapati bahwa waktu yang tersisa yang dilaporkan berbeda dengan berapa lama baterai sebenarnya bertahan. Hal ini karena jumlah sisa daya tahan baterai hanya dapat diperkirakan. Biasanya, perkiraan membaik seiring waktu.</p>
+<p class="p">Untuk memperkirakan masa pakai baterai yang tersisa, sejumlah faktor harus diperhitungkan. Salah satunya adalah banyaknya daya yang saat ini sedang digunakan oleh komputer: konsumsi daya bervariasi tergantung pada berapa banyak program yang telah Anda buka, perangkat yang dicolokkan, dan apakah Anda menjalankan tugas intensif (seperti menonton video definisi tinggi atau mengkonversi berkas musik, misalnya). Ini berubah dari waktu ke waktu, dan sulit untuk memprediksi.</p>
+<p class="p">Faktor lain adalah bagaimana baterai mengosongkan muatan. Beberapa baterai kehilangan muatan lebih cepat saat semakin kosong. Tanpa pengetahuan yang tepat tentang bagaimana baterai mengosongkan muatan, hanya perkiraan kasar sisa daya tahan baterai yang dapat dibuat.</p>
+<p class="p">Ketika baterai mengosongkan muatan, manajer daya akan mengetahui sifat pengosongan muatan dan akan belajar bagaimana membuat perkiraan yang lebih baik dari masa pakai baterai. Namun mereka tidak akan pernah sepenuhnya akurat.</p>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">If you get a completely ridiculous battery life estimate (say, hundreds of
-  days), the power manager is probably missing some of the data it needs to
-  make a sensible estimate.</p>
-<p class="p">If you unplug the power and run the laptop on battery for a while, then
-  plug it in and let it recharge again, the power manager should be able to get
-  the data it needs.</p>
+<p class="p">Jika Anda mendapatkan perkiraan masa pakai baterai yang sepenuhnya konyol (katakanlah, ratusan hari), manajer daya mungkin kehilangan beberapa data yang dibutuhkan untuk membuat perkiraan yang masuk akal.</p>
+<p class="p">Jika Anda mencabut daya dan menjalankan laptop pada baterai untuk sementara waktu, kemudian memasang dan membiarkannya mengisi ulang, manajer daya mesti bisa mendapatkan data yang dibutuhkan.</p>
 </div></div></div>
 </div>
 </div>
@@ -120,8 +104,7 @@ will never be completely accurate, though.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterywindows.html.id" title="Mengapa usia baterai saya kurang daripada di Windows/Mac OS?">Mengapa usia baterai saya kurang daripada di Windows/Mac OS?</a><span class="desc"> — Tweaks from the manufacturer and differing battery life estimates may
-    be the cause of this problem.</span>
+<a href="power-batterywindows.html.id" title="Mengapa usia baterai saya kurang daripada di Windows/Mac OS?">Mengapa usia baterai saya kurang daripada di Windows/Mac OS?</a><span class="desc"> — Tweak dari produsen dan perkiraan masa pakai baterai yang berbeda mungkin menjadi penyebab masalah ini.</span>
 </li></ul></div>
 </div></div>
 </div>

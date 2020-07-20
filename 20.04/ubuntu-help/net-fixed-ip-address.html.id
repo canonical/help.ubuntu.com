@@ -70,42 +70,24 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wired.html.id" title="Wired networking">Wired networking</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-wired.html.id" title="Jaringan kabel">Jaringan kabel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Buat suatu koneksi dengan suatu alamat IP yang tetap</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Most networks will automatically assign an <span class="link"><a href="net-what-is-ip-address.html.id" title="Apa itu alamat IP?">IP address</a></span> and other details to your
-  computer when you connect to the network. These details can change
-  periodically, but you might want to have a fixed IP address for the computer
-  so you always know what its address is (for example, if it is a file
-  server).</p>
+<p class="p">Sebagian besar jaringan akan secara otomatis menetapkan <span class="link"><a href="net-what-is-ip-address.html.id" title="Apa itu alamat IP?">alamat IP</a></span> dan rincian lainnya ke komputer Anda ketika Anda terhubung ke jaringan. Rincian ini dapat berubah secara berkala, tetapi Anda mungkin ingin memiliki alamat IP tetap untuk komputer sehingga Anda selalu tahu apa alamatnya (misalnya, jika itu adalah server berkas).</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Untuk memberi alamat IP tetap (statik) ke komputer Anda:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Find the network connection that you want to have a fixed address.
-      Click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button next to the network connection. For a <span class="gui">Wi-Fi</span> connection,
-      the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button will be located next to the active network.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">IPv4</span> or <span class="gui">IPv6</span> tab and change the
-      <span class="gui">Method</span> to <span class="gui">Manual</span>.</p></li>
-<li class="steps"><p class="p">Type in the <span class="gui"><a href="net-what-is-ip-address.html.id" title="Apa itu alamat IP?">IP Address</a></span> and
-      <span class="gui">Gateway</span>, as well as the appropriate <span class="gui">Netmask</span>.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">DNS</span> section, switch the <span class="gui">Automatic</span> switch
-      to off. Enter the IP address of a DNS server you want to use. Enter
-      additional DNS server addresses using the <span class="gui">+</span> button.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Routes</span> section, switch the <span class="gui">Automatic</span>
-      switch to off. Enter the <span class="gui">Address</span>, <span class="gui">Netmask</span>,
-      <span class="gui">Gateway</span> and <span class="gui">Metric</span> for a route you want to use.
-      Enter additional routes using the <span class="gui">+</span> button.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Apply</span>. The network connection should now have a fixed
-      IP address.</p></li>
+<li class="steps"><p class="p">Temukan sambungan jaringan yang Anda ingin memiliki alamat tetap. Klik tombol <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="pengaturan"></span></span> di samping koneksi jaringan. Untuk koneksi <span class="gui">Wi-Fi</span>, tombol <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="pengaturan"></span></span> akan terletak di sebelah jaringan aktif.</p></li>
+<li class="steps"><p class="p">Pilih tab <span class="gui">IPv4</span> atau <span class="gui">IPv6</span> dan ubah <span class="gui">Metode</span> menjadi <span class="gui">Manual</span>.</p></li>
+<li class="steps"><p class="p">Ketikkan <span class="gui"><a href="net-what-is-ip-address.html.id" title="Apa itu alamat IP?">Alamat IP</a></span> dan <span class="gui">Gateway</span>, serta <span class="gui">Netmask</span>yang sesuai.</p></li>
+<li class="steps"><p class="p">Di bagian <span class="gui">DNS</span>, matikan <span class="gui">Otomatis</span>. Masukkan alamat IP server DNS yang ingin Anda gunakan. Masukkan alamat server DNS tambahan menggunakan tombol <span class="gui">+</span> .</p></li>
+<li class="steps"><p class="p">Di bagian <span class="gui">Rute</span>, matikan <span class="gui">Otomatis</span>. Masukkan <span class="gui">Alamat</span>, <span class="gui">Netmask</span>, <span class="gui">Gateway</span>, dan <span class="gui">Metrik</span> untuk rute yang ingin Anda gunakan. Masukkan rute tambahan menggunakan tombol <span class="gui">+</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Terapkan</span>. Koneksi jaringan sekarang harus memiliki alamat IP tetap.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -115,13 +97,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html.id" title="Wired networking">Wired networking</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.id" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span>
+<a href="net-wired.html.id" title="Jaringan kabel">Jaringan kabel</a><span class="desc"> — <span class="link"><a href="net-wired-connect.html.id" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html.id" title="Temukan alamat IP Anda">Temukan alamat IP Anda</a><span class="desc"> — Knowing your IP address can help you troubleshoot network problems.</span>
+<a href="net-findip.html.id" title="Temukan alamat IP Anda">Temukan alamat IP Anda</a><span class="desc"> — Mengetahui alamat IP Anda dapat membantu Anda memecahkan masalah jaringan.</span>
 </li></ul></div>
 </div></div>
 </div>

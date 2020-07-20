@@ -70,26 +70,23 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Tetap aman di internet</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html.id" title="Aktifkan atau blok akses firewall"><span class="title">Aktifkan atau blok akses firewall</span><span class="linkdiv-dash"> — </span><span class="desc">You can control which programs can access the network. This helps to keep your computer secure.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html.id" title="Apakah saya perlu perangkat lunak anti virus?"><span class="title">Apakah saya perlu perangkat lunak anti virus?</span><span class="linkdiv-dash"> — </span><span class="desc">There are few Linux viruses, so you probably don’t need anti-virus
-    software.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.id" title="Do I need to scan my emails for viruses?"><span class="title">Do I need to scan my emails for viruses?</span><span class="linkdiv-dash"> — </span><span class="desc">Viruses are unlikely to infect your computer, but could infect the
-    computers of people you email.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html.id" title="Port jaringan yang biasa dipakai"><span class="title">Port jaringan yang biasa dipakai</span><span class="linkdiv-dash"> — </span><span class="desc">You need to specify the right network port to enable/disable network
-    access for a program with your firewall.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-on-off.html.id" title="Aktifkan atau blok akses firewall"><span class="title">Aktifkan atau blok akses firewall</span><span class="linkdiv-dash"> — </span><span class="desc">Anda dapat mengontrol program mana yang dapat mengakses jaringan. Ini membantu menjaga komputer Anda tetap aman.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.id" title="Apakah saya perlu memindai surel saya untuk mencari virus?"><span class="title">Apakah saya perlu memindai surel saya untuk mencari virus?</span><span class="linkdiv-dash"> — </span><span class="desc">Virus kemungkinan kecil menginfeksi komputer Anda, tetapi dapat menginfeksi komputer orang yang Anda kirimi surel.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-antivirus.html.id" title="Apakah saya perlu perangkat lunak anti virus?"><span class="title">Apakah saya perlu perangkat lunak anti virus?</span><span class="linkdiv-dash"> — </span><span class="desc">Ada sedikit virus Linux, sehingga Anda mungkin tidak perlu perangkat lunak anti-virus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-firewall-ports.html.id" title="Port jaringan yang biasa dipakai"><span class="title">Port jaringan yang biasa dipakai</span><span class="linkdiv-dash"> — </span><span class="desc">Anda perlu menyatakan port jaringan yang tepat untuk mengaktifkan/menonaktifkan akses jaringan bagi program dengan firewall Anda.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.id" title="Wireless networking">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Wired networking">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Web browsers">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
+<a href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a><span class="desc"> — <span class="link"><a href="net-wireless.html.id" title="Jaringan nirkabel">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Jaringan kabel">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Peramban Web">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

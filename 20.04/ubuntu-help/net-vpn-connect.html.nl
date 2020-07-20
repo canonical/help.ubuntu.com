@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html.nl" title="Wired networking">Wired networking</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wired.html.nl" title="Wired networking">Wired networking</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Wireless networking">Wireless networking</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-wireless.html.nl" title="Wireless networking">Wireless networking</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
       may need to enter a password for the connection before it is established.
       Once the connection is made, you will see a lock shaped icon in the top
       bar.</p></li>
-<li class="steps"><p class="p">Hopelijk zult u met succes verbinding maken met het VPN. Zo niet, dan moet u misschien de VPN-instellingen die u ingevoerd heeft controleren. U doet dit vanuit het paneel <span class="gui">Netwerk</span> dat u gebruikt heeft om de verbinding aan te maken. Kies uit de lijst VPN-verbinding en druk op de knop <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span> om de instellingen te bekijken.</p></li>
+<li class="steps"><p class="p">Hopelijk zult u met succes verbinding maken met het VPN. Zo niet, dan moet u misschien de VPN-instellingen die u ingevoerd heeft controleren. U doet dit vanuit het paneel <span class="gui">Netwerk</span> dat u gebruikt heeft om de verbinding aan te maken. Kies uit de lijst VPN-verbinding en druk op de knop <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="instellingen"></span></span> om de instellingen te bekijken.</p></li>
 <li class="steps"><p class="p">Om de verbinding met het VPN te verbreken, klik in de bovenbalk op het systeemmenu en kies <span class="gui">Verbinding verbreken</span> onder de naam van uw VPN-verbinding.</p></li>
 </ol></div></div></div>
 </div>

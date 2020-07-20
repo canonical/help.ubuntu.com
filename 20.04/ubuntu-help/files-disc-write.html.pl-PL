@@ -75,34 +75,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Zapisywanie plików na płycie CD lub DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Można umieścić pliki na pustej płycie za pomocą <span class="gui">Asystenta CD/DVD</span>. Opcja utworzenia płyty CD lub DVD pojawi się w menedżerze plików od razu po umieszczeniu płyty w nagrywarce. Menedżer plików umożliwia przeniesienie plików na inne komputery lub wykonanie <span class="link"><a href="backup-why.html.pl-PL" title="Tworzenie kopii zapasowych ważnych plików">kopii zapasowych</a></span> przez umieszczenie plików na pustej płycie. Aby zapisać pliki na płycie CD lub DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Umieść pustą płytę w napędzie CD/DVD.</p></li>
-<li class="steps">
-<p class="p">W powiadomieniu <span class="gui">Pusta płyta CD/DVD-R</span>, które pojawi się na górze ekranu, wybierz <span class="gui">Otwórz za pomocą „Asystent CD/DVD”</span>. Zostanie otwarte okno <span class="gui">Asystenta CD/DVD</span>.</p>
-<p class="p">Można także kliknąć element <span class="gui">Pusta płyta CD/DVD-R</span> w sekcji <span class="gui">Urządzenia</span> panelu bocznego menedżera plików.</p>
-</li>
-<li class="steps"><p class="p">W polu <span class="gui">Nazwa płyty</span> wpisz nazwę płyty.</p></li>
-<li class="steps"><p class="p">Przeciągnij lub skopiuj wybrane pliki do okna.</p></li>
-<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Zapisz na płycie</span>.</p></li>
-<li class="steps">
-<p class="p">W menu <span class="gui">Płyta do nagrania</span> wybierz pustą płytę.</p>
-<p class="p">Można także wybrać <span class="gui">plik obrazu</span>. Spowoduje to umieszczenie plików w <span class="em">obrazie płyty</span>, który zostanie zapisany na komputerze. Później można nagrać ten obraz na pustą płytę.</p>
-</li>
-<li class="steps"><p class="p">Kliknij przycisk <span class="gui">Właściwości</span>, aby opcjonalnie dostosować prędkość nagrywania, położenie plików tymczasowych i inne opcje. Domyślne opcje powinny działać bez problemu.</p></li>
-<li class="steps">
-<p class="p">Kliknij przycisk <span class="gui">Nagraj</span>, aby rozpocząć nagrywanie.</p>
-<p class="p">Jeśli opcja <span class="gui">Nagranie kilku kopii</span> jest zaznaczona, to użytkownik zostanie poproszony o dodatkowe płyty.</p>
-</li>
-<li class="steps"><p class="p">Po ukończeniu nagrywania płyta zostanie automatycznie wysunięta. Kliknij przycisk <span class="gui">Utwórz więcej kopii</span> lub <span class="gui">Zamknij</span>, aby wyjść.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">Można umieścić pliki na pustej płycie za pomocą programu do nagrywania płyt, takiego jak <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Jeśli płyta nie została poprawnie nagrana</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Czasami komputer nie nagrywa poprawnie danych, i pliki nie będą widoczne po włożeniu płyty do komputera.</p>
-<p class="p">W takim przypadku spróbuj nagrać płytę ponownie, ale za pomocą niższej prędkości nagrywania (np. 12× zamiast 48×). Nagrywanie z mniejszą prędkością jest bardziej niezawodne. Można wybrać prędkość klikając przycisk <span class="gui">Właściwości</span> w oknie <span class="gui">Asystenta CD/DVD</span>.</p>
+<p class="p">W takim przypadku spróbuj nagrać płytę ponownie, ale za pomocą niższej prędkości nagrywania (np. 12× zamiast 48×). Nagrywanie z mniejszą prędkością jest bardziej niezawodne.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Acceso universal</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">El escritorio GNOME incluye tecnologías de asistencia para dar soporte a usuarios con diversas deficiencias y necesidades especiales y para interactuar con dispositivos de asistencia comunes. Se puede añadir un menú de accesibilidad a la barra superior, para simplificar el acceso a muchas de las características de accesibilidad.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.es" title="Encontrar el menú de acceso universal"><span class="title">Encontrar el menú de acceso universal</span><span class="linkdiv-dash"> — </span><span class="desc">El menú del acceso universal es el icono que parece una persona en la barra superior.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">

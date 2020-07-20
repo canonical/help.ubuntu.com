@@ -107,8 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="video-dvd.html.id" title="Why won’t DVDs play?">Why won’t DVDs play?</a><span class="desc"> — You might not have the right codecs installed, or the DVD might be
-    the wrong region.</span>
+<a href="video-dvd.html.id" title="Mengapa DVD tak bisa diputar?">Mengapa DVD tak bisa diputar?</a><span class="desc"> — Anda mungkin tidak menginstal kodek yang tepat, atau DVD mungkin punya wilayah yang salah.</span>
 </li></ul></div>
 </div></div>
 </div>

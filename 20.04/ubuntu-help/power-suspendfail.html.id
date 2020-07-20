@@ -79,45 +79,26 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">If you <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span> your computer, then try to
-resume it, you may find that it does not work as you expected. This could be
-because suspend is not supported properly by your hardware.</p></div>
+<div class="contents pagewide"><p class="p">Jika Anda <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">mensuspensi</a></span> komputer Anda, kemudian mencoba untuk melanjutkan, Anda mungkin menemukan bahwa itu tidak bekerja seperti yang Anda harapkan. Ini bisa jadi karena suspensi tidak didukung dengan semestinya oleh perangkat keras Anda.</p></div>
 <section id="resume"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Komputer saya disuspensi dan tak bisa melanjutkan</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">If you suspend your computer and then press a key or click the mouse, it
-  should wake up and display a screen asking for your password. If this does
-  not happen, try pressing the power button (do not hold it in, just press it
-  once).</p>
-<p class="p">If this still does not help, make sure that your computer’s monitor is
-  switched on and try pressing a key on the keyboard again.</p>
-<p class="p">As a last resort, turn off the computer by holding in the power button for
-  5-10 seconds, although you will lose any unsaved work by doing this. You
-  should then be able to turn on the computer again.</p>
-<p class="p">If this happens every time you suspend your computer, the suspend
-  feature may not work with your hardware.</p>
+<p class="p">Jika Anda mensuspensi komputer Anda dan kemudian menekan tombol atau mengklik tetikus, itu harus bangun dan menampilkan layar yang meminta kata sandi Anda. Jika ini tidak terjadi, cobalah menekan tombol power (jangan menekannya, cukup tekan sekali).</p>
+<p class="p">Jika ini masih tidak membantu, pastikan bahwa monitor komputer Anda dihidupkan dan mencoba menekan tombol pada papan tik lagi.</p>
+<p class="p">Sebagai upaya terakhir, matikan komputer dengan memegang tombol power untuk 5-10 detik, meskipun Anda akan kehilangan pekerjaan yang belum disimpan dengan melakukan hal ini. Anda kemudian harus dapat menghidupkan komputer lagi.</p>
+<p class="p">Jika ini terjadi setiap kali Anda mensuspensi komputer Anda, fitur suspensi mungkin tidak bekerja dengan perangkat keras Anda.</p>
 <div class="note note-warning" title="Peringatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">If your computer loses power and does not have an alternative power
-    supply (such as a working battery), it will switch off.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Jika komputer Anda kehilangan daya dan tidak memiliki catu daya alternatif (seperti baterai kerja), itu akan dimatikan.</p></div></div></div>
 </div>
 </div></div>
 </div></section><section id="hardware"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">My wireless connection (or other hardware) does not work when I wake
-  up my computer</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Koneksi nirkabel saya (atau perangkat keras lainnya) tidak bekerja ketika saya membangunkan komputer saya</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">If you suspend your computer and then resume it again, you
-  may find that your internet connection, mouse, or some other device does not
-  work properly. This could be because the driver for the device does not
-  properly support suspend. This is a <span class="link"><a href="hardware-driver.html.id" title="Apa itu penggerak?">problem with the driver</a></span> and not the device
-  itself.</p>
-<p class="p">If the device has a power switch, try turning it off and then on again. In
-  most cases, the device will start working again. If it connects via a USB
-  cable or similar, unplug the device and then plug it in again and see if it
-  works.</p>
-<p class="p">If you cannot turn off or unplug the device, or if this does not work, you
-  may need to restart your computer for the device to start working again.</p>
+<p class="p">Jika Anda mensuspensi komputer Anda dan kemudian melanjutkan lagi, Anda mungkin menemukan bahwa koneksi internet Anda, tetikus, atau beberapa perangkat lain tidak berfungsi dengan benar. Hal ini dapat terjadi karena driver untuk perangkat yang tidak benar mendukung suspensi. Ini adalah <span class="link"><a href="hardware-driver.html.id" title="Apa itu penggerak?">masalah dengan driver</a></span> dan bukan perangkat itu sendiri.</p>
+<p class="p">Jika perangkat memiliki saklar daya, coba matikan lalu nyalakan kembali. Dalam kebanyakan kasus, perangkat akan mulai bekerja lagi. Jika menghubungkan melalui kabel USB atau serupa, cabut perangkat dan kemudian pasang kembali dan lihat apakah ia bekerja.</p>
+<p class="p">Jika Anda tidak dapat mematikan atau mencabut perangkat, atau jika ini tidak berhasil, Anda mungkin perlu me-restart komputer Anda agar perangkat mulai bekerja lagi.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -143,12 +124,10 @@ because suspend is not supported properly by your hardware.</p></div>
 <a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">Apa yang terjadi ketika saya mensuspensi komputer?</a><span class="desc"> — Suspensi mengatur komputer Anda agar tidur sehingga memakai lebih sedikit daya.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html.id" title="Mengapa komputer saya mati ketika saya menutup lid?">Mengapa komputer saya mati ketika saya menutup lid?</a><span class="desc"> — Laptops go to sleep when you close the lid, in order to save
-    power.</span>
+<a href="power-closelid.html.id" title="Mengapa komputer saya mati ketika saya menutup lid?">Mengapa komputer saya mati ketika saya menutup lid?</a><span class="desc"> — Laptop pergi tidur ketika Anda menutup lid, untuk menghemat daya.</span>
 </li>
 <li class="links ">
-<a href="power-nowireless.html.id" title="Saya tak punya jaringan nirkabel ketika membangunkan komputer saya">Saya tak punya jaringan nirkabel ketika membangunkan komputer saya</a><span class="desc"> — Some wireless devices have problems handling when your computer is
-    suspended and does not resume properly.</span>
+<a href="power-nowireless.html.id" title="Saya tak punya jaringan nirkabel ketika membangunkan komputer saya">Saya tak punya jaringan nirkabel ketika membangunkan komputer saya</a><span class="desc"> — Beberapa perangkat nirkabel mengalami masalah penanganan saat komputer disuspensi dan tidak melanjutkan dengan benar.</span>
 </li>
 </ul></div>
 </div></div>

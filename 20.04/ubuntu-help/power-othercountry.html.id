@@ -77,22 +77,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Negara lain memakai listrik dengan tegangan (biasanya 110V atau 220-240V) dan frekuensi berbeda (biasanya 50 Hz atau 60 Hz). Komputer Anda mestinya bekerja dengan listrik di negara lain selama Anda memiliki adaptor daya yang sesuai. Anda mungkin juga perlu mengubah setelan saklar.</p>
-<p class="p">If you have a laptop, all you should need to do is get the right plug for
-your power adapter. Some laptops come packaged with more than one plug for
-their adapter, so you may already have the right one. If not, plugging your
-existing one into a standard travel adapter will suffice.</p>
-<p class="p">If you have a desktop computer, you can also get a cable with a different
-plug, or use a travel adapter. In this case, however, you may need to change
-the voltage switch on the computer’s power supply, if there is one. Many
-computers do not have a switch like this, and will happily work with either
-voltage. Look at the back of the computer and find the socket that the power
-cable plugs into. Somewhere nearby, there may be a small switch marked “110V”
-or “230V” (for example). Switch it if you need to.</p>
+<p class="p">Jika Anda memiliki laptop, semua yang harus Anda perlu lakukan adalah mendapatkan steker yang tepat untuk adaptor Anda. Beberapa laptop datang dikemas dengan lebih dari satu steker untuk adaptor mereka, sehingga Anda mungkin sudah memiliki yang benar. Jika tidak, menancapkan ke dalam adapter perjalanan standar akan cukup.</p>
+<p class="p">Jika Anda memiliki komputer desktop, Anda juga bisa mendapatkan kabel dengan steker yang berbeda, atau menggunakan adaptor perjalanan. Dalam hal ini, namun, Anda mungkin perlu mengubah saklar tegangan pada catu daya komputer, jika ada. Banyak komputer tidak memiliki saklar seperti ini, dan akan dengan senang hati bekerja dengan tegangan mana pun. Lihatlah bagian belakang komputer dan temukan soket tempat kabel listrik ditancapkan. Suatu tempat di dekatnya, mungkin ada saklar kecil yang ditandai "110V" atau "230V" (misalnya). Alihkan itu jika Anda perlu.</p>
 <div class="note note-warning" title="Peringatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Be careful when changing power cables or using travel adapters. Switch
-  everything off first if you can.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Berhati-hatilah saat mengganti kabel daya atau menggunakan adaptor perjalanan. Matikan semuanya terlebih dahulu jika bisa.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">

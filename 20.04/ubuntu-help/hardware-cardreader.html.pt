@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.pt" title="Som, vídeo e imagens">Som, vídeo e imagens</a> › <a class="trail" href="media.html.pt#photos" title="Fotos e câmaras digitais">Fotos</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="media.html.pt" title="Som, vídeo e imagens">Som, vídeo e imagens</a> › <a class="trail" href="media.html.pt#photos" title="Fotos e câmaras digitais">Fotos</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.pt#problems" title="Problemas comuns">Problemas</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.pt#problems" title="Problemas comuns">Problemas</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -83,7 +83,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Michos computadores contêm leitores para cartões de armazenamento SD, MMC, MS, CF e outras. Dever-se-iam detetar automaticamente e <span class="link"><a href="disk-partitions.html.pt" title="Gerir volumes e partições">montar</a></span>. Aqui pode ler alguma resolução de problemas se não são detetadas e montadas automaticamente:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Assegure-se de que o cartão está inserido corretamente. Muitos cartões parece que estão ao revés quando se inseriram corretamente. Assegure-se também de que o cartão está bem colocado na ranhura; alguns cartões, especialmente as CF requerem que se faça um pouco de força para as inserir corretamente. (Tenha cuidado de não empurrar muito forte. Se choca contra algo solido, não a force.)</p></li>
-<li class="steps"><p class="p">Abra <span class="app">Ficheiros</span> desde a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Ativities</a></span>. Aparece o cartão inserido na lista <span class="gui">Dispositivos</span> em barra-a lateral da esquerda? Algumas vezes, o cartão aparece nesta lista mas não está montada; carregue sobre ela uma vez para a montar. (Se barra-a lateral não está visível, carregue <span class="key"><kbd>F9</kbd></span> ou carregue em <span class="gui">Ficheiros</span> na barra superior e escolha <span class="gui">Varra lateral</span>.)</p></li>
+<li class="steps"><p class="p">Open <span class="app">Files</span> from the
+  <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Activities</a></span> overview. Does the inserted
+  card appear in the left sidebar? Sometimes the
+  card appears in this list but is not mounted; click it once to mount. (If the
+  sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
+  the top bar and select the <span class="gui">Sidebar</span>.)</p></li>
 <li class="steps"><p class="p">Se seu cartão não aparece na barra lateral, carregue <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>L</kbd></span></span>, escreva <span class="input">computador:///</span> e carregue <span class="key"><kbd>Enter</kbd></span>. Se seu leitor de cartões está configurado corretamente, o leitor deveria aparecer como um dispositivo quando não tem um cartão, e o cartão em si quando se tenha montado.</p></li>
 <li class="steps"><p class="p">Se vê o leitor de cartões mas não o cartão, o problema pode estar em o cartão em se. Tente com um cartão diferente ou prove o cartão num leitor de cartões se é-lhe possível.</p></li>
 </ol></div></div></div>

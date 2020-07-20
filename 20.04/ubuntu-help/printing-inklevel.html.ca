@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Com es comprova la quantitat de tinta o tòner que queda a la impressora, depèn del model i del fabricant de la impressora, i dels controladors i aplicacions instal·lats a l'ordinador.</p>
-<p class="p">Algunes impressores tenen una pantalla incorporada per mostrar els nivells de tinta i altra informació.</p>
+<p class="p">Algunes impressores tenen una pantalla incorporada per a mostrar els nivells de tinta i altra informació.</p>
 <p class="p">Algunes impressores reporten nivells de tòner o de tinta a l'ordinador, que es poden trobar al quadre <span class="gui">Impressores</span> a <span class="app">Paràmetres</span>. El nivell de tinta es mostrarà amb els detalls de la impressora si està disponible.</p>
 <p class="p">Els controladors i les eines d'estat per a la majoria d'impressores HP els proporciona Imaging and Printing Linux (HPLIP). Altres fabricants poden subministrar controladors propietaris amb funcions similars.</p>
 <p class="p">Com a alternativa, podeu instal·lar una aplicació per verificar o controlar els nivells de tinta. <span class="app">Inkblot</span> mostra l'estat de la tinta per a moltes impressores HP, Epson i Canon. Mireu si la impressora està a la <span class="link"><a href="http://libinklevel.sourceforge.net/#supported" title="http://libinklevel.sourceforge.net/#supported">llista de models suportats</a></span>. Una altra aplicació de nivells de tinta per a Epson i algunes altres impressores és <span class="app">mtink</span>.</p>

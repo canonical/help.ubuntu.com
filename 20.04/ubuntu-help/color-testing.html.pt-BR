@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Os efeitos de um perfil de cores são às vezes sutis, e pode ser difícil ver se algo mudou.</p>
-<p class="p">No GNOME, nós embarcamos vários perfis para teste que vão deixar bem claro quando os perfis estão sendo aplicados:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Azul</dt>
 <dd class="terms"><p class="p">Isso vai deixar a tela azul e testa se as curvas de calibração estão sendo enviadas para a tela.</p></dd>
@@ -89,7 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Configurações</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Configurações</span>.</p></li>
-<li class="steps"><p class="p">Clique em <span class="gui">Dispositivos</span> na barra lateral.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Cor</span> na barra lateral para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione o dispositivo para o qual você deseja adicionar um perfil. Você pode querer tomar uma nota de qual perfil está sendo usado atualmente.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Adicionar perfil</span> para selecionar um perfil de teste, o qual deve estar embaixo da lista.</p></li>

@@ -85,11 +85,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Fitxers ocults</p>
-<p class="p">Qualsevol nom de fitxer o carpeta que comenci amb un punt (.) S'oculta per defecte. Per veure els fitxers ocults, feu clic al botó <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Opcions de visualització"></span></span> </span> de la barra d'eines, i aleshores seleccioneu <span class="gui">Mostra fitxers ocults</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Podeu copiar aquests fitxers a una ubicació de la còpia de seguretat com qualsevol altre fitxer.</p>
+<p class="p">Qualsevol nom de fitxer o carpeta que comenci amb un punt (.) S'oculta per defecte. Per veure els fitxers ocults, feu clic al botó <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Opcions de visualització"></span></span> </span> de la barra d'eines, i aleshores seleccioneu <span class="gui">Mostra fitxers ocults</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Podeu copiar aquests fitxers a una ubicació de la còpia de seguretat com qualsevol altre fitxer.</p>
 </li>
 <li class="list">
 <p class="p">Configuració personal (preferències d'escriptori, temes i configuració del programari)</p>
-<p class="p">La majoria de les aplicacions emmagatzemen la seva configuració en carpetes amagades dins de la carpeta d'inici (mireu més amunt per obtenir informació sobre els fitxers ocults).</p>
+<p class="p">La majoria de les aplicacions emmagatzemen la seva configuració en carpetes amagades dins de la carpeta d'inici (mireu més amunt per a obtenir informació sobre els fitxers ocults).</p>
 <p class="p">La major part de les opcions de configuració de les vostres aplicacions s'emmagatzemen en carpetes ocultes <span class="file">.config</span> i <span class="file">.local</span> a la carpeta d'usuari.</p>
 </li>
 <li class="list">

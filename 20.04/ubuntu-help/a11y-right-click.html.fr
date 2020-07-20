@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Vous pouvez faire un clic droit en maintenant appuyer le bouton gauche de la souris. C'est utile si vous avez des difficultés à mouvoir vos doigts indépendamment, ou si votre périphérique de pointage ne possède qu'un seul bouton.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Universal Access</span> to open the panel.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Assistant de clic</span> dans la rubrique <span class="gui">Pointage et clic de souris</span>.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Click Assist</span> window, switch the <span class="gui">Simulated

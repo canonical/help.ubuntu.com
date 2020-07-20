@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Trådlöst nätverk</span>.</p></li>
 <li class="steps"><p class="p">Hitta nätverket som du <span class="em">inte</span> vill fortsätta att ansluta till.</p></li>
-<li class="steps"><p class="p">Klicka på knappen <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="inställningar"></span></span> intill nätverket.</p></li>
+<li class="steps"><p class="p">Klicka på knappen <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="inställningar"></span></span> intill nätverket.</p></li>
 <li class="steps"><p class="p">Klicka på knappen <span class="gui">Glöm anslutning</span>. Din dator kommer inte att försöka att ansluta till nätverket mer.</p></li>
 </ol></div>
 </div></div>

@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Select
       <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span>
       Not In Use</span>. The Bluetooth section of the menu will expand.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Turn Off</span>.</p></li>
+<li class="steps"><p class="p">Valitse <span class="gui">Sammuta</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Huomautus">
 <svg width="24" height="24" version="1.1">

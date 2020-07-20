@@ -91,14 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.fr" title="Ajout de vos applications préférées au lanceur"><span class="title">Ajout de vos applications préférées au lanceur</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter (ou enlever) du lanceur (le dash) les icônes d'applications fréquemment utilisées.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.fr" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.fr" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Les messages apparaissent dans un menu déroulant en haut de l'écran, pour avertir d'un évènement.</span></a></div>
 </div>
-<div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.fr" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Les messages apparaissent dans un menu déroulant en haut de l'écran, pour avertir d'un événement.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.fr" title="Rendez-vous dans l'agenda"><span class="title">Rendez-vous dans l'agenda</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
-    screen.</span></a></div>
-</div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.fr" title="Rendez-vous dans l'agenda"><span class="title">Rendez-vous dans l'agenda</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher vos rendez-vous dans l’agenda, en haut de l’écran.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Les applications et les fenêtres</span></h2></div>

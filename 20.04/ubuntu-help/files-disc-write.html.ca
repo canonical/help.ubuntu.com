@@ -75,34 +75,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Escriure fitxers en un CD o DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Pot posar fitxers en un disc en blanc utilitzant <span class="gui">Creador de CD/DVD</span>. L'opció de crear un CD o DVD apareixerà al gestor de fitxers tan aviat com col·loqueu el CD al vostre escriptor de CD/DVD. El gestor de fitxers us permet transferir fitxers a altres equips o realitzar <span class="link"><a href="backup-why.html.ca" title="Fer còpies de seguretat dels fitxers importants">còpies de seguretat</a></span> posant els fitxers en un disc en blanc. Per escriure fitxers en un CD o DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Col·loqueu un disc buit a la unitat de gravació de CD / DVD.</p></li>
-<li class="steps">
-<p class="p">A la notificació <span class="gui">Disc CD/DVD-R en blanc</span> que apareix a sota la pantalla, seleccioneu <span class="gui">Obre amb el creador de CD/DVDs</span>. S'obrirà una finestra amb la carpeta del <span class="gui">creador de CD/DVDs</span>.</p>
-<p class="p">(Pot fer clic també al <span class="gui">Disc CD/DVD-R en blanc</span> sota <span class="gui">Dispositius</span> a la barra lateral del gestor de fitxers.)</p>
-</li>
-<li class="steps"><p class="p">Al camp <span class="gui">Nom del disc</span>, escriviu un nom pel disc.</p></li>
-<li class="steps"><p class="p">Arrossegueu o copieu els fitxers desitjats a la finestra.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Escriu al disc</span>.</p></li>
-<li class="steps">
-<p class="p">A <span class="gui">Seleccioneu un disc per escriure-hi</span>, trieu el disc en blanc.</p>
-<p class="p">(En aquest cas, podeu triar el <span class="gui">fitxer d'imatge</span>. Es desaran els fitxers en un <span class="em">disc imatge</span>, que es guardarà a l'ordinador. Aleshores, podreu gravar aquesta imatge del disc en un disc en blanc més endavant)</p>
-</li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Propietats</span> si voleu ajustar la velocitat de gravació, la ubicació dels fitxers temporals i altres opcions. Les opcions predeterminades haurien d'estar bé.</p></li>
-<li class="steps">
-<p class="p">Feu clic al botó <span class="gui">Grava</span> per començar a gravar.</p>
-<p class="p">Si s'ha seleccionat <span class="gui">Enregistra diverses còpies</span>, se us demanarà discs addicionals.</p>
-</li>
-<li class="steps"><p class="p">Quan la gravació del disc s'hagi completat, s'expulsarà automàticament. Trieu <span class="gui">Fer més còpies</span> o <span class="gui">Tanca</span> per a sortir.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Si el disc no s'ha gravat correctament</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">De vegades l'ordinador no registra les dades correctament, i no podrà veure els fitxers copiats al disc quan l'inseriu a l'ordinador.</p>
-<p class="p">En aquest cas, intenteu gravar el disc de nou però utilitzeu una velocitat de gravació inferior, per exemple, 12x en lloc de 48x. Gravar a velocitats més lentes és més fiable. Podeu triar la velocitat fent clic al botó <span class="gui">Propietats</span> a la finestra <span class="gui">Creador de CD/DVD</span>.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

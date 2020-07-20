@@ -79,9 +79,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Engrandir la pantalla és completament diferent a augmentar la <span class="link"><a href="a11y-font-size.html.ca" title="Canviar la mida del text a la pantalla">mida del text</a></span>. Aquesta característica és com tenir una lupa, la qual us permet moure-us d'una banda a l'altra de la pantalla tot ampliant-ne les diferents parts.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Accés universal</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Premeu a <span class="gui">Zoom</span> a la secció <span class="gui">Vista</span>.</p></li>
-<li class="steps"><p class="p">Canvieu <span class="gui">Zoom</span> a <span class="gui">ON</span> a la cantonada superior dreta de la finestra <span class="gui">Opcions de Zoom</span>.</p></li>
+<li class="steps"><p class="p">Canvieu <span class="gui">Zoom</span> a la cantonada superior dreta de la finestra d'<span class="gui">Opcions de Zoom</span> a activat.</p></li>
 </ol></div></div></div>
 <p class="p">Podeu moure-us d'una banda a l'altra de l'àrea de la pantalla. Si moveu el ratolí a les vores d'aquesta, moureu l'àrea ampliada en diferents direccions, permetent-vos veure allò que us interessa.</p>
 <div class="note note-tip" title="Suggeriment">
@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <p class="p">Podeu canviar el factor d'ampliació, el seguiment del ratolí, i la posició de la vista ampliada a la pantalla. Ajusteu-ho a la pestanya <span class="gui">Lupa</span> a la finestra <span class="gui">Opcions de Zoom</span>.</p>
 <p class="p">Podeu activar l'apuntador per ajudar-vos a trobar el ratolí o el punter del ratolí. Activeu-la i ajusteu-ne la longitud, el color i el gruix a la pestanya <span class="gui">Apuntadors</span> a la configuració de <span class="gui">Zoom</span> de la finestra.</p>
-<p class="p">Podeu canviar el vídeo a <span class="gui">Blanc sobre negre</span>, i ajustar les opcions de brillantor, contrast i escala de grisos per a la lupa. La combinació d'aquestes opcions és útil per a persones amb baixa visió, amb un cert grau de fotofòbia, o tan sols per utilitzar l'ordinador en condicions de lluminositat adverses. Seleccioneu la pestanya <span class="gui">Efectes de color</span> a la finestra de configuració del <span class="gui">Zoom</span> per a activar i canviar aquestes opcions.</p>
+<p class="p">Podeu canviar el vídeo a <span class="gui">Blanc sobre negre</span>, i ajustar les opcions de brillantor, contrast i escala de grisos per a la lupa. La combinació d'aquestes opcions és útil per a persones amb baixa visió, amb un cert grau de fotofòbia, o tan sols per a utilitzar l'ordinador en condicions de lluminositat adverses. Seleccioneu la pestanya <span class="gui">Efectes de color</span> a la finestra de configuració del <span class="gui">Zoom</span> per a activar i canviar aquestes opcions.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

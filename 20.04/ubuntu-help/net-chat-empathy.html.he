@@ -2,7 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Instant messaging on Ubuntu</title>
+<title>הודעות מיידיות באובונטו</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,10 +70,10 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-chat.html.he" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-chat.html.he" title="צ׳אטים ורשתות חברתיות">צ׳אטים ורשתות חברתיות</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Instant messaging on Ubuntu</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">הודעות מיידיות באובונטו</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">
@@ -93,10 +93,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-chat.html.he" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a><span class="desc"> — 
-      <span class="link"><a href="net-chat-empathy.html.he" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
+<a href="net-chat.html.he" title="צ׳אטים ורשתות חברתיות">צ׳אטים ורשתות חברתיות</a><span class="desc"> — 
+      <span class="link"><a href="net-chat-empathy.html.he" title="הודעות מיידיות באובונטו">Chat on any network using <span class="app">Empathy</span></a></span>,
       <span class="link"><a href="net-chat-video.html.he" title="Video calls">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.he" title="How can I use Skype on Ubuntu?">install skype</a></span>
+      <span class="link"><a href="net-chat-skype.html.he" title="איך ניתן להשתמש ב־Skype עם אובונטו?">install skype</a></span>
     </span>
 </li></ul></div>
 </div></div>

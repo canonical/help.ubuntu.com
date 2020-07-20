@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Barrierefreiheit</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Die GNOME-Arbeitsumgebung beinhaltet Hilfstechnologien zur Unterstützung von Benutzern mit diversen Beeinträchtigungen und besonderen Bedürfnissen und zur Interaktion mit gebräuchlichen Bedienungshilfen. Es kann ein Barrierefreiheitsmenü der oberen Leiste hinzugefügt werden, um viele Barrierefreiheitsfunktionen zu erreichen.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.de" title="Das Barrierefreiheitsmenü finden"><span class="title">Das Barrierefreiheitsmenü finden</span><span class="linkdiv-dash"> — </span><span class="desc">Das Barrierefreiheitsmenü ist das Symbol im oberen Panel, das wie ein Mensch aussieht.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">

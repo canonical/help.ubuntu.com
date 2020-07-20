@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Odczytywanie ekranu w brajlu</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME udostępnia czytnika ekranowy <span class="app">Orca</span>, aby wyświetlać interfejs użytkownika na monitorze brajlowskim. W zależności od sposobu instalacji GNOME, Orca może być już zainstalowana. Jeśli nie, to najpierw ją zainstaluj.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can display the user interface on a
+  refreshable Braille display. Depending on how you installed your system, you
+  might not have Orca installed. If not, install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Zainstaluj Orcę</a></span></p>
 <p class="p"><span class="link"><a href="help:orca" title="help:orca">Pomoc czytnika Orca</a></span> zawiera więcej informacji.</p>
 </div>

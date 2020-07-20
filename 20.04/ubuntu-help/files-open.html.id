@@ -70,48 +70,27 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Buka berkas dengan aplikasi lain</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">When you double-click (or middle-click) a file in the file manager, it
-  will be opened with the default application for that file type. You can open
-  it in a different application, search online for applications, or set the
-  default application for all files of the same type.</p>
-<p class="p">To open a file with an application other than the default, right-click
-  the file and select the application you want from the top of the menu. If
-  you do not see the application you want, select <span class="gui">Open With Other
-  Application</span>. By default, the file manager only shows applications that
-  are known to handle the file. To look through all the applications on your
-  computer, click <span class="gui">View All Applications</span>.</p>
-<p class="p">If you still cannot find the application you want, you can search for
-more applications by clicking <span class="gui">Find New Applications</span>. The
-file manager will search online for packages containing applications
-that are known to handle files of that type.</p>
+<p class="p">Ketika Anda mengklik ganda berkas dalam manajer berkas, itu akan dibuka dengan aplikasi baku untuk tipe berkas tersebut. Anda dapat membukanya dalam aplikasi yang berbeda, mencari daring untuk aplikasi, atau mengatur aplikasi baku untuk semua berkas dari tipe yang sama.</p>
+<p class="p">Untuk membuka berkas dengan aplikasi selain baku, klik kanan berkas dan pilih aplikasi yang Anda inginkan dari bagian atas menu. Jika Anda tidak melihat aplikasi yang Anda inginkan, pilih <span class="gui">Buka Dengan Aplikasi Lain</span>. Secara baku, manajer berkas hanya menunjukkan aplikasi yang dikenal untuk menangani berkas. Untuk melihat semua aplikasi di komputer Anda, klik <span class="gui">Lihat Semua Aplikasi</span>.</p>
+<p class="p">Jika Anda masih tidak dapat menemukan aplikasi yang Anda inginkan, Anda dapat mencari aplikasi lebih lanjut dengan mengklik <span class="gui">Cari Aplikasi Baru</span>. Manajer berkas akan mencari daring paket yang berisi aplikasi yang dikenal dapat menangani berkas dengan tipe tersebut.</p>
 </div>
 <section id="default"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Ubah aplikasi baku</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Mengubah aplikasi baku</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">You can change the default application that is used to open files of a
-  given type. This will allow you to open your preferred application when you
-  double-click to open a file. For example, you might want your favorite music
-  player to open when you double-click an MP3 file.</p>
+<p class="p">Anda dapat mengubah aplikasi baku yang digunakan untuk membuka berkas dari tipe tertentu. Ini akan memungkinkan Anda untuk membuka aplikasi pilihan Anda ketika Anda mengklik ganda untuk membuka berkas. Sebagai contoh, Anda mungkin ingin pemutar musik favorit Anda membuka ketika Anda mengklik ganda berkas MP3.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select a file of the type whose default application you want to
-    change. For example, to change which application is used to open MP3 files,
-    select a <span class="file">.mp3</span> file.</p></li>
+<li class="steps"><p class="p">Pilih berkas dengan tipe yang aplikasi bakunya ingin Anda ubah. Misalnya, untuk mengubah aplikasi yang digunakan untuk membuka berkas MP3, pilih suatu berkas <span class="file">.mp3</span>.</p></li>
 <li class="steps"><p class="p">Klik kanan berkas tersebut dan pilih <span class="gui">Properti</span>.</p></li>
 <li class="steps"><p class="p">Pilih tab <span class="gui">Buka Dengan</span>.</p></li>
 <li class="steps">
-<p class="p">Select the application you want and click
-    <span class="gui">Set as default</span>.</p>
-<p class="p">If <span class="gui">Other Applications</span> contains an application you sometimes
-    want to use, but do not want to make the default, select that application
-    and click <span class="gui">Add</span>. This will add it to <span class="gui">Recommended
-    Applications</span>. You will then be able to use this application by
-    right-clicking the file and selecting it from the list.</p>
+<p class="p">Pilih aplikasi yang Anda inginkan dan klik <span class="gui">Jadikan baku</span>.</p>
+<p class="p">Bila <span class="gui">Aplikasi Lain</span> memuat suatu aplikasi yang terkadang ingin Anda pakai, tapi tak ingin membuatnya menjadi baku, pilih aplikasi tersebut dan klik <span class="gui">Tambah</span>. Ini akan menambahkannya ke <span class="gui">Aplikasi yang Disarankan</span>. Nanti Anda akan dapat memakai aplikasi ini dengan mengklik kanan berkas dan memilihnya dari daftar.</p>
 </li>
 </ol></div></div></div>
 <p class="p">Ini mengubah aplikasi baku bukan hanya bagi berkas yang dipilih, tapi untuk semua berkas dengan tipe yang sama.</p>
@@ -120,7 +99,7 @@ that are known to handle files of that type.</p>
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a></li></ul></div>
 </div></div></div>
 </div></section>
 </div>

@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Click on <span class="gui">Network</span> to open the panel.</p></li>
 <li class="steps"><p class="p">இடப்புறம் உள்ள பட்டியலில் இருந்து <span class="gui">Wi-Fi</span> ஐ தேர்ந்தெடுக்கவும்.</p></li>
 <li class="steps"><p class="p">Click the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to open the connection
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span> button to open the connection
       details.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Identity</span> from the pane on the left.</p></li>
 <li class="steps"><p class="p">At the bottom of the <span class="gui">Identity</span> panel, check the <span class="gui">Make

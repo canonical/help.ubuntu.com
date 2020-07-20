@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Κρυφά αρχεία</p>
-<p class="p">Οποιοδήποτε αρχείο ή όνομα φακέλου που ξεκινά με μια τελεία (.) κρύβεται από προεπιλογή. Για να δείτε κρυφά αρχεία, κάντε κλικ στο κουμπί <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Εμφάνιση επιλογών"></span></span></span> στην εργαλειοθήκη και έπειτα επιλέξτε <span class="gui">Εμφάνιση κρυφών αρχείων</span>, ή πατήστε <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Μπορείτε να τα αντιγράψετε σε μια τοποθεσία αντιγραφής όπως κάθε άλλο αρχείο.</p>
+<p class="p">Οποιοδήποτε αρχείο ή όνομα φακέλου που ξεκινά με μια τελεία (.) κρύβεται από προεπιλογή. Για να δείτε κρυφά αρχεία, κάντε κλικ στο κουμπί <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Εμφάνιση επιλογών"></span></span></span> στην εργαλειοθήκη και έπειτα επιλέξτε <span class="gui">Εμφάνιση κρυφών αρχείων</span>, ή πατήστε <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Μπορείτε να τα αντιγράψετε σε μια τοποθεσία αντιγραφής όπως κάθε άλλο αρχείο.</p>
 </li>
 <li class="list">
 <p class="p">Προσωπικές ρυθμίσεις (προτιμήσεις επιφάνειας εργασίας, θέματα και ρυθμίσεις λογισμικού)</p>

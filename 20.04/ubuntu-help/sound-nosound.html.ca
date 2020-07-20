@@ -89,12 +89,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">També, podeu consultar la pestanya <span class="gui">Aplicacions</span> a la GUI (Graphical User Interface) <span class="gui">So</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">So</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">So</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">So</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">A <span class="gui">Nivells de volum</span>, comproveu que l'aplicació no estigui en silenci.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></section><section id="speakers"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Comproveu que els altaveus estiguin activats i connectats correctament</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Comprovar que els altaveus estiguin activats i connectats correctament</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Si l'equip disposa d'altaveus externs, assegureu-vos que estiguin activats i que tinguin volum. Assegureu-vos que el cable de l'altaveu estigui connectat de manera segura a la presa d'àudio "sortida" de l'ordinador. Aquest sòcol sol ser de color verd clar.</p>
 <p class="p">Algunes targetes de so poden canviar entre el sòcol que utilitzen per a la sortida (als altaveus) i el sòcol per a l'entrada (des d'un micròfon, per exemple). El sòcol de sortida pot ser diferent quan s'executa Linux, Windows o Mac OS. Proveu de connectar el cable de l'altaveu a una presa d'àudio diferent de l'ordinador.</p>
@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Alguns equips tenen diversos "dispositius de so" instal·lats. Alguns d'aquests són capaços de generar so i d'altres no, així que heu de comprovar que seleccioneu el dispositiu de so correcte. Això pot comportar fer diverses proves-error per triar el dispositiu correcte.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">So</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">So</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">So</span> per a obrir el quadre.</p></li>
 <li class="steps">
 <p class="p">A <span class="gui">Sortida</span>, canvieu la configuració del <span class="gui">Perfil</span> del dispositiu seleccionat i reproduïu un so per veure si funciona. És possible que hàgiu de passar per la llista i provar cada perfil.</p>
 <p class="p">Si això no funciona, és possible que vulgueu provar de fer el mateix per a qualsevol altre dispositiu que es mostri.</p>
@@ -123,7 +123,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Executeu <span class="cmd">lspci</span> com a <span class="link"><a href="user-admin-explain.html.ca" title="Com funcionen els privilegis administratius?">superusuari</a></span>; pel que escriviu <span class="cmd">sudo lspci</span> i teclegeu la vostra contrasenya, o escriviu <span class="cmd">su</span>, entreu la contrasenya <span class="em">root</span> (administrativa), aleshores escriviu <span class="cmd">lspci</span>.</p></li>
 <li class="steps"><p class="p">Comproveu que el <span class="em">controlador d'àudio</span> o el <span class="em">dispositiu d'àudio</span> apareix a la llista: en aquest cas, hauríeu de mirar la marca i el número de model de la targeta de so. L'ordre <span class="cmd">lspci -v</span> mostra una llista amb informació més detallada.</p></li>
 </ol></div></div></div>
-<p class="p">És possible que pugueu trobar i instal·lar controladors per a la vostra targeta. El millor és demanar ajuda als fòrums de suport (o d'una altra manera) per obtenir instruccions per a la vostra distribució de Linux.</p>
+<p class="p">És possible que pugueu trobar i instal·lar controladors per a la vostra targeta. El millor és demanar ajuda als fòrums de suport (o d'una altra manera) per a obtenir instruccions per a la vostra distribució de Linux.</p>
 <p class="p">Si no podeu obtenir controladors per a la vostra targeta de so, és possible que preferiu comprar una targeta de so nova. Podeu obtenir targetes de so que es puguin instal·lar a l'interior de l'ordinador i targetes de so USB externes.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

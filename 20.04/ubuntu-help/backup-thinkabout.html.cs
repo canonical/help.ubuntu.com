@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Skryté soubory</p>
-<p class="p">Názvy některých souborů a složek začínají tečkou (.). Takovéto soubory a složky jsou normálně skryté. Abyste si je zobrazili, klikněte na tlačítko <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Volby zobrazení"></span></span></span> na nástrojové liště a zvolte <span class="gui">Zobrazovat skryté soubory</span> nebo zmáčkněte <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Tyto soubory můžete zkopírovat do místa zálohy stejně, jako kterékoliv jiné soubory.</p>
+<p class="p">Názvy některých souborů a složek začínají tečkou (.). Takovéto soubory a složky jsou normálně skryté. Abyste si je zobrazili, klikněte na tlačítko <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Volby zobrazení"></span></span></span> na nástrojové liště a zvolte <span class="gui">Zobrazovat skryté soubory</span> nebo zmáčkněte <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Tyto soubory můžete zkopírovat do místa zálohy stejně, jako kterékoliv jiné soubory.</p>
 </li>
 <li class="list">
 <p class="p">Osobní nastavení (předvolby uživatelského prostředí, motivy a nastavení softwaru)</p>

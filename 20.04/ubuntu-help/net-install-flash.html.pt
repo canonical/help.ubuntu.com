@@ -2,7 +2,7 @@
 <html lang=pt>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Install the Flash plug-in</title>
+<title>Instalar a extensão Flash</title>
 <link rel="stylesheet" type="text/css" href="pt.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,34 +70,29 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-browser.html.pt" title="Web browsers">Web browsers</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-browser.html.pt" title="Web browsers">Web browsers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Install the Flash plug-in</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Instalar a extensão Flash</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Flash is a <span class="em">plug-in</span> for your web browser that allows you to watch videos and use
-interactive web pages on some websites. While HTML5, which is a more modern solution, is increasingly
-offered, there are still some websites which won't work without Flash.</p>
-<p class="p">If you do not have Flash installed, you will probably see a message telling you so when you visit a website
-that needs it. Flash is available as a free (but not open-source) download for most web browsers.</p>
+<p class="p">O Flash é uma <span class="em">extensão</span> para o seu navegador que lhe permite assistir a vídeos e a usar páginas interactivas nalguns sítios. Ainda que o HTML5, que é uma solução mais moderna, seja casa vez mais usado, ainda existem alguns sítios que não trabalham sem o Flash.</p>
+<p class="p">Se não tem o Flash instalado, provavelmente verá uma mensagem a dizer-lho quando visitar um website que precise dele. O Flash está disponível para transferência gratuita (mas não de código aberto) para a maioria dos navegadores web.</p>
 <div class="note note-warning" title="Aviso">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Adobe has announced that they will stop updating and distributing the Flash Player at the end
- of 2020. Consequently, for security reasons, the Flash plug-in should not be used after 2020.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">A Adobe anunciou que deixará de actualizar e distribuir o reprodutor Flash no final de 2020. Desta forma, por razões de segurança. a extensão Flash não deverá ser usada depois de 2020.</p></div></div></div>
 </div>
-<p class="p">There are two kinds of plug-ins available:</p>
+<p class="p">Existem dois tipos de extensões disponíveis.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="em">NPAPI</span> for <span class="app">Firefox</span> and other Gecko-based web browsers</p></li>
-<li class="list"><p class="p"><span class="em">PPAPI</span> for <span class="app">Chromium</span> and other Blink-based web browsers including <span class="app">Opera</span> and
-  <span class="app">Vivaldi</span></p></li>
+<li class="list"><p class="p"><span class="em">NPAPI</span> para o <span class="app">Firefox</span> e outros navegadores baseados em Gecko.</p></li>
+<li class="list"><p class="p"><span class="em">PPAPI</span> para o <span class="app">Chromium</span> e outros navegador baseados em Blink como o <span class="app">Opera</span> e o <span class="app">Vivaldi</span></p></li>
 </ul></div></div></div>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="app">Google Chrome</span> browser is shipped with Flash bundled, and does not need a plug-in.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">O navegador <span class="app">Google Chrome</span> é distribuído com o Flash e não necessita da extensão</p></div></div></div>
 </div>
 </div>
 <section id="flashplugin-installer"><div class="inner">
@@ -193,7 +188,7 @@ that needs it. Flash is available as a free (but not open-source) download for m
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.pt" title="Web browsers">Web browsers</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.pt" title="Mudar que navegador abre de maneira predeterminada os lugares site">Mudar o navegador predeterminado</a></span>, <span class="link"><a href="net-install-flash.html.pt" title="Install the Flash plug-in">instalar flash</a></span>…</span>
+<a href="net-browser.html.pt" title="Web browsers">Web browsers</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.pt" title="Mudar que navegador abre de maneira predeterminada os lugares site">Mudar o navegador predeterminado</a></span>, <span class="link"><a href="net-install-flash.html.pt" title="Instalar a extensão Flash">instalar flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

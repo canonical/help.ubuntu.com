@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="sharing.html.id" title="Berbagi">Berbagi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="sharing.html.id" title="Berbagi">Berbagi</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -96,116 +96,74 @@ internet/network address.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Menyambung ke suatu server berkas</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">In the file manager, click <span class="gui">Other Locations</span> in the
-   sidebar.</p></li>
+<li class="steps"><p class="p">Di manajer berkas, klik <span class="gui">Lokasi Lain</span> di bilah sisi.</p></li>
 <li class="steps">
-<p class="p">In <span class="gui">Connect to Server</span>, enter the address of the server, in
-  the form of a
-   <span class="link"><a href="#urls" title="Menulis URL">URL</a></span>. Details on supported URLs are
-   <span class="link"><a href="#types" title="Tipe server">listed below</a></span>.</p>
+<p class="p">Di <span class="gui">Sambungkan ke Server</span>, masukkan alamat server, dalam bentuk <span class="link"><a href="#urls" title="Menulis URL">URL</a></span>. Detail tentang URL yang didukung <span class="link"><a href="#types" title="Tipe server">tercantum di bawah ini</a></span>.</p>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">If you have connected to the server before, you can click on it in the
-    <span class="gui">Recent Servers</span> list.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Jika Anda telah terhubung ke server sebelumnya, Anda dapat mengkliknya dalam daftar <span class="gui">Server Baru-baru Ini</span>.</p></div></div></div>
 </div>
 </li>
-<li class="steps"><p class="p">Click <span class="gui">Connect</span>. The files on the server will be shown. You
-    can browse the files just as you would for those on your own computer. The
-    server will also be added to the sidebar so you can access it quickly in
-    the future.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Hubungkan</span>. Berkas di server akan ditampilkan. Anda dapat menelusuri berkas seperti yang Anda lakukan untuk mereka di komputer Anda sendiri. Server juga akan ditambahkan ke bilah sisi sehingga Anda dapat mengaksesnya dengan cepat di masa depan.</p></li>
 </ol></div>
 </div></div>
 </div>
 <section id="urls"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Menulis URL</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">A <span class="em">URL</span>, or <span class="em">uniform resource locator</span>, is a form of address
- that refers to a location or file on a network. The address is formatted like this:</p>
+<p class="p"><span class="em">URL</span>, atau <span class="em">uniform resource locator</span>, adalah bentuk alamat yang merujuk ke lokasi atau berkas di jaringan. Alamatnya diformat seperti ini:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">The <span class="em">scheme</span> specifies the protocol or type of server. The
-  <span class="em">example.com</span> portion of the address is called the <span class="em">domain name</span>.
-  If a username is required, it is inserted before the server name:</p>
+<p class="p"><span class="em">Skema</span> menentukan protokol atau jenis server. Bagian <span class="em">example.com</span> alamat disebut <span class="em">nama domain</span>. Jika username diperlukan, itu dimasukkan sebelum nama server:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://nama@servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">Some schemes require the port number to be specified. Insert it after the domain name:</p>
+<p class="p">Beberapa skema memerlukan nomor port yang akan ditentukan. Masukkan setelah nama domain:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com:port/folder</span></p></div></div></div></div>
-<p class="p">Below are specific examples for the various server types that are supported.</p>
+<p class="p">Berikut adalah contoh spesifik untuk berbagai jenis server yang didukung.</p>
 </div></div>
 </div></section><section id="types"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tipe server</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">You can connect to different types of servers. Some servers are public,
-   and allow anybody to connect. Other servers require you to log in with a
-   username and password.</p>
-<p class="p">You may not have permissions to perform certain actions on files on a server.
-  For example, on public FTP sites, you will probably not be able to delete
-  files.</p>
-<p class="p">The URL you enter depends on the protocol that the
-  server uses to export its file shares.</p>
+<p class="p">Anda dapat terhubung ke berbagai jenis server. Beberapa server bersifat publik, dan memungkinkan siapa pun untuk terhubung. Server lain mengharuskan Anda masuk dengan nama pengguna dan sandi.</p>
+<p class="p">Anda mungkin tidak memiliki izin untuk melakukan tindakan tertentu pada berkas di server. Misalnya, pada situs FTP publik, Anda mungkin tidak akan dapat menghapus berkas.</p>
+<p class="p">URL yang Anda masukkan tergantung pada protokol yang digunakan server untuk mengekspor berkas yang dibagikannya.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">SSH</dt>
 <dd class="terms">
-<p class="p">If you have a <span class="em">secure shell</span> account on a server, you
-  can connect using this method. Many web hosts provide SSH accounts
-  to members so they can securely upload files. SSH servers always
-  require you to log in.</p>
+<p class="p">Jika Anda memiliki akun <span class="em">secure shell</span> di server, Anda dapat menyambung menggunakan metode ini. Banyak host web menyediakan akun SSH untuk anggota sehingga mereka dapat dengan aman mengunggah berkas. Server SSH selalu meminta Anda untuk log in.</p>
 <p class="p">Biasanya URL SSH nampak seperti ini:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://nama@servername.example.com/folder</span></p></div></div></div></div>
-<p class="p">When using SSH, all the data you send (including your password)
-  is encrypted so that other users on your network can’t see it.</p>
+<p class="p">Ketika memakai SSH, semua data yang Anda kirim (termasuk kata sandi Anda) dienkripsi sehingga pengguna lain pada jaringan Anda tak bisa melihatnya.</p>
 </dd>
 <dt class="terms">FTP (dengan login)</dt>
 <dd class="terms">
-<p class="p">FTP is a popular way to exchange files on the Internet.
-  Because data is not encrypted over FTP, many servers now provide
-  access through SSH. Some servers, however, still allow or require
-  you to use FTP to upload or download files. FTP sites with logins
-  will usually allow you to delete and upload files.</p>
+<p class="p">FTP adalah cara yang populer untuk bertukar berkas di Internet. Karena data tidak dienkripsi melalui FTP, banyak server sekarang menyediakan akses melalui SSH. Beberapa server, bagaimanapun, masih memungkinkan atau mengharuskan Anda untuk menggunakan FTP untuk mengunggah atau mengunduh berkas. Situs FTP dengan login biasanya akan memungkinkan Anda untuk menghapus dan mengunggah berkas.</p>
 <p class="p">Biasanya URL FTP nampak seperti ini:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://nama@ftp.example.com/path/</span></p></div></div></div></div>
 </dd>
 <dt class="terms">FTP Publik</dt>
 <dd class="terms">
-<p class="p">Sites that allow you to download files will sometimes provide
-  public or anonymous FTP access. These servers do not require a
-  username and password, and will usually not allow you to delete
-  or upload files.</p>
+<p class="p">Situs yang memungkinkan Anda untuk mengunduh berkas terkadang akan memberikan akses FTP publik atau anonim. Server ini tidak memerlukan nama pengguna dan kata sandi, dan biasanya tidak akan memungkinkan Anda untuk menghapus atau mengunggah berkas.</p>
 <p class="p">Biasanya URL FTP anonim nampak seperti ini:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://ftp.example.com/path/</span></p></div></div></div></div>
-<p class="p">Some anonymous FTP sites require you to log in with a
-  public username and password, or with a public username using
-  your email address as the password. For these servers, use the
-  <span class="gui">FTP (with login)</span> method, and use the credentials
-  specified by the FTP site.</p>
+<p class="p">Beberapa situs FTP anonim mengharuskan Anda untuk masuk dengan nama pengguna dan kata sandi publik, atau dengan nama pengguna publik menggunakan alamat surel Anda sebagai kata sandi. Untuk server ini, gunakan metode <span class="gui">FTP (dengan login)</span>, dan gunakan kredensial yang ditentukan oleh situs FTP.</p>
 </dd>
 <dt class="terms">Berbagi pakai Windows</dt>
 <dd class="terms">
-<p class="p">Windows computers use a proprietary protocol to share files over a local
-  area network. Computers on a Windows network are sometimes grouped into
-  <span class="em">domains</span> for organization and to better control access. If you have
-  the right permissions on the remote computer, you can connect to a Windows
-  share from the file manager.</p>
+<p class="p">Komputer Windows menggunakan protokol proprietary untuk berbagi berkas melalui jaringan area lokal. Komputer pada jaringan Windows terkadang dikelompokkan ke dalam <span class="em">domain</span> untuk organisasi dan untuk kontrol akses yang lebih baik. Jika Anda memiliki hak izin pada komputer jauh, Anda dapat menyambung ke share Windows dari manajer berkas.</p>
 <p class="p">Biasanya URL share Windows nampak seperti ini:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">smb://servername/Share</span></p></div></div></div></div>
 </dd>
 <dt class="terms">WebDAV dan WebDAV Aman</dt>
 <dd class="terms">
-<p class="p">Based on the HTTP protocol used on the web, WebDAV is sometimes used to
-  share files on a local network and to store files on the internet. If the
-  server you’re connecting to supports secure connections, you should choose
-  this option. Secure WebDAV uses strong SSL encryption, so that other users
-  can’t see your password.</p>
-<p class="p">A WebDAV URL looks like this:</p>
+<p class="p">Berbasis pada protokol HTTP yang digunakan di web, WebDAV kadang-kadang digunakan untuk berbagi berkas pada jaringan lokal dan untuk menyimpan berkas di internet. Jika server yang Anda hubungi mendukung koneksi yang aman, Anda harus memilih opsi ini. WebDAV aman menggunakan enkripsi SSL kuat, sehingga pengguna lain tidak dapat melihat kata sandi Anda.</p>
+<p class="p">Biasanya URL WebDAV nampak seperti ini:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
 </dd>
-<dt class="terms">NFS share</dt>
+<dt class="terms">Share NFS</dt>
 <dd class="terms">
-<p class="p">UNIX computers traditionally use the Network File System protocol to
-  share files over a local network. With NFS, security is based on the UID of
-  the user accessing the share, so no authentication credentials are
-  needed when connecting.</p>
-<p class="p">A typical NFS share URL looks like this:</p>
+<p class="p">Komputer UNIX secara tradisional menggunakan protokol Network File System untuk berbagi berkas melalui jaringan lokal. Dengan NFS, keamanan didasarkan pada UID pengguna yang mengakses share, sehingga tidak ada otentikasi kredensial yang diperlukan saat menghubungkan.</p>
+<p class="p">Biasanya URL share NFS nampak seperti ini:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">nfs://servername/path</span></p></div></div></div></div>
 </dd>
 </dl></div></div></div>
@@ -219,14 +177,13 @@ internet/network address.</p>
 <li class="links ">
 <a href="sharing.html.id" title="Berbagi">Berbagi</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.id" title="Berbagi desktop Anda">Berbagi desktop</a></span>, <span class="link"><a href="files-share.html.id" title="Berbagi berkas lewat surel">Berbagi berkas lewat surel</a></span>, <span class="link"><a href="sharing-media.html.id" title="Berbagi pakai musik, foto, dan video Anda">Berbagi media</a></span>…</span>
 </li>
-<li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
+<li class="links "><a href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-share.html.id" title="Berbagi berkas lewat surel">Berbagi berkas lewat surel</a><span class="desc"> — Easily transfer files to your email contacts from the file
-    manager.</span>
+<a href="files-share.html.id" title="Berbagi berkas lewat surel">Berbagi berkas lewat surel</a><span class="desc"> — Menyalin berkas secara mudah ke kontak surel dari manajer berkas.</span>
 </li></ul></div>
 </div></div>
 </div>

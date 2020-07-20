@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="hardware.html.id#problems" title="Masalah umum">Masalah-masalah perangkat keras</a></li>
 <li class="links ">
-<a href="media.html.id#sound" title="Suara dasar">Suara dasar</a><span class="desc"> — <span class="link"><a href="sound-volume.html.id" title="Mengubah volume suara">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html.id" title="Gunakan speaker atau headphone lain">speaker dan headfon</a></span>, <span class="link"><a href="sound-usemic.html.id" title="Gunakan mikrofon lain">mikrofon</a></span>…</span>
+<a href="media.html.id#sound" title="Suara dasar">Suara dasar</a><span class="desc"> — <span class="link"><a href="sound-volume.html.id" title="Mengubah volume suara">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html.id" title="Memakai speaker atau headphone lain">speaker dan headfon</a></span>, <span class="link"><a href="sound-usemic.html.id" title="Memakai mikrofon lain">mikrofon</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

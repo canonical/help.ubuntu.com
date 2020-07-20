@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Läs skärmen med punktskrift</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME tillhandahåller skärmläsaren <span class="app">Orca</span> för att visa användargränssnittet på en uppdateringsbar punktskriftsskärm. Beroende på hur du installerade GNOME så kan det vara så att du inte har Orca installerat. Om inte, installera Orca först.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can display the user interface on a
+  refreshable Braille display. Depending on how you installed your system, you
+  might not have Orca installed. If not, install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Installera Orca</a></span></p>
 <p class="p">Se vidare i <span class="link"><a href="help:orca" title="help:orca">Hjälp för Orca</a></span> för ytterligare detaljer.</p>
 </div>

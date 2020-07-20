@@ -71,22 +71,30 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html.pt#apps" title="Aplicações e janelas">Aplicações e janelas</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="shell-overview.html.pt" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html.pt#apps" title="Aplicações e janelas">Aplicações e janelas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html.pt#desktop" title="Personalizar seu escritório">Personalizar seu escritório</a> » <a class="trail" href="shell-notifications.html.pt" title="Notifications and the notification list">Notifications and the notification list</a> › <a class="trail" href="shell-notifications.html.pt#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="shell-overview.html.pt" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html.pt#desktop" title="Personalizar seu escritório">Personalizar seu escritório</a> » <a class="trail" href="shell-notifications.html.pt" title="Notifications and the notification list">Notifications and the notification list</a> › <a class="trail" href="shell-notifications.html.pt#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">The lock screen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">O ecrã de bloqueio significa que pode ver que está a passar enquanto o seu computador está bloqueada, e lhe permite obter um resumo de que tem passado enquanto esteve ausente. O painel do ecrã de bloqueio mostra uma imagem atraente enquanto o seu computador está bloqueada e proporciona informação útil:</p>
+<p class="p">The lock screen means that you can see what is happening while your
+  computer is locked, and it allows you to get a summary of what has been
+  happening while you have been away. The lock screen provides
+  useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">o nome do utilizador que tem iniciado sessão</p></li>
 <li class="list"><p class="p">data e hora, e certas notificações</p></li>
 <li class="list"><p class="p">bateria e estado da rede</p></li>
 </ul></div></div></div>
-<p class="p">Para desbloquear o seu computador, eleve o painel de bloqueio arrastando-o para acima com o cursor, ou clicando <span class="key"><kbd>Esc</kbd></span> ou <span class="key"><kbd>Enter</kbd></span>. Isto mostrará o ecrã de início de sessão, onde pode introduzir a sua palavra-passe para desbloquear. Também pode começar a escrever a sua palavra-passe e o painel de bloqueio elevar-se-á à medida que escreva. Também pode mudar entre utilizadores se o seu computador está configurada para mais dum.</p>
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+  This will reveal the login screen, where you can enter your password to
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">To hide notifications from the lock screen, see
   <span class="link"><a href="shell-notifications.html.pt#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a></span>.</p>
 </div>

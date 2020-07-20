@@ -75,34 +75,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Fájlok CD-re/DVD-re írása</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">A <span class="gui">CD/DVD író</span> segítségével üres lemezre írhatja fájljait. A fájlkezelőben azonnal megjelenik a CD/DVD írásának lehetősége, amint behelyez egy CD-t a CD/DVD író meghajtóba. A fájlkezelő lehetővé teszi fájlok átvitelét más számítógépekre, vagy <span class="link"><a href="backup-why.html.hu" title="Mentse fontos fájljait">biztonsági mentések</a></span> készítését a fájlok üres lemezre írásával. Fájlok CD-re vagy DVD-re írásához:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Helyezzen egy üres lemezt a CD/DVD író meghajtójába.</p></li>
-<li class="steps">
-<p class="p">A képernyő alján megjelenő <span class="gui">Üres CD/DVD-R lemez</span> értesítésben válassza a <span class="gui">Megnyitás CD/DVD készítővel</span> lehetőséget. Megnyílik a <span class="gui">CD/DVD készítő</span> mappa ablaka.</p>
-<p class="p">(Választhatja a fájlkezelő oldalsávjában az <span class="gui">Eszközök</span> alatt az <span class="gui">Üres CD/DVD</span> elemet is.)</p>
-</li>
-<li class="steps"><p class="p">A <span class="gui">Lemeznév</span> mezőbe írjon be egy nevet.</p></li>
-<li class="steps"><p class="p">Húzza vagy másolja a kívánt fájlokat az ablakba.</p></li>
-<li class="steps"><p class="p">Nyomja meg a <span class="gui">Lemezre írás</span> gombot.</p></li>
-<li class="steps">
-<p class="p">A <span class="gui">Válassza ki az írandó lemezt</span> alatt válassza ki az üres lemezt.</p>
-<p class="p">(Ehelyett választhatja a <span class="gui">Lemezkép</span> lehetőséget is. Ez a fájlokat egy <span class="em">lemezképbe</span> helyezi, amely a számítógépére kerül mentésre. Ezt a lemezképet később kiírhatja egy üres lemezre.)</p>
-</li>
-<li class="steps"><p class="p">Az írási sebesség, az ideiglenes fájlok helyének és más beállítások módosításához válassza a <span class="gui">Tulajdonságok</span> elemet. Az alapbeállításoknak megfelelőeknek kell lenniük.</p></li>
-<li class="steps">
-<p class="p">Az írás megkezdéséhez nyomja meg az <span class="gui">Írás</span> gombot.</p>
-<p class="p">Ha bejelölte a <span class="gui">Több másolat írása</span> négyzetet, akkor a program bekéri a további lemezeket.</p>
-</li>
-<li class="steps"><p class="p">Ha a lemez írása kész, akkor a számítógép automatikusan kiadja azt. Válasszon a <span class="gui">Több másolat készítése</span> lehetőség, vagy a <span class="gui">Bezárás</span> gomb közül.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Ha a lemez írása nem sikerült</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Néha a számítógép nem rögzíti megfelelően az adatokat, ilyenkor a lemezre írt fájlokat nem fogja látni a lemez következő behelyezésekor a számítógépbe.</p>
-<p class="p">Ebben az esetben próbálja alacsonyabb, például 48x helyett 12x-es sebességen újraírni a lemezt. A lassabb írás megbízhatóbb. A sebességet a <span class="gui">CD/DVD készítő</span> ablak <span class="gui">Tulajdonságok</span> gombjára kattintva választhatja ki.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

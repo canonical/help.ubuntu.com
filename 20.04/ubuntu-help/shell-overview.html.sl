@@ -91,16 +91,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.sl" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.sl" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.sl" title="Pripnite svoje priljubljene programe na pregledno ploščo"><span class="title">Pripnite svoje priljubljene programe na pregledno ploščo</span><span class="linkdiv-dash"> — </span><span class="desc">Dodajanje (ali odstranitev) ikon pogosto uporabljenih programov na pregledno ploščo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.sl" title="Sestanki v koledarju"><span class="title">Sestanki v koledarju</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
-    screen.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.sl" title="Sestanki v koledarju"><span class="title">Sestanki v koledarju</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
+    screen.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Programi in okna</span></h2></div>

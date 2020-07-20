@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Effekterna av en färgprofil är ibland subtila och det kan vara svårt att se om något ändrats väsentligt.</p>
-<p class="p">GNOME kommer med flera profiler för testning som gör det väldigt tydligt när profiler används:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Blått</dt>
 <dd class="terms"><p class="p">Detta kommer att göra skärmen blå och testar om kalibreringskurvorna skickas till skärmen.</p></dd>
@@ -89,7 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Inställningar</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Inställningar</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Enheter</span> i sidopanelen.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Färg</span> i sidopanelen för att öppna panelen.</p></li>
 <li class="steps"><p class="p">Välj enheten för vilken du vill lägga till en profil. Möjligen vill du notera vilken profil som används för närvarande.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Lägg till profil</span> för att välja en testprofil som finns i botten av listan.</p></li>

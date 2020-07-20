@@ -75,29 +75,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">ஒரு CD அல்லது DVD க்கு கோப்புகளை எழுதுதல்</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">நீங்கள் <span class="gui">CD/DVD உருவாக்கி</span> பயன்பாட்டைப் பயன்படுத்தி ஒரு காலி வட்டில் கோப்புகளை சேமிக்க முடியும். நீங்கள் உங்கள் CD/DVD எழுது கருவியில் ஒரு CD ஐ செருகிய உடனே கோப்பு மேலாளரில் ஒரு CD அல்லது DVD ஐ உருவாக்குவதற்கான விருப்பம் தோன்றும். நீங்கள் மற்ற கணினிகளுக்கு கோப்புகளை அனுப்ப அல்லது காலி வட்டில் கோப்புகளை எழுதுவதன் மூலம் <span class="link"><a href="backup-why.html.ta" title="உங்கள் முக்கியமான கோப்புகளை மறுபிரதி எடுக்கவும்">மறுபிரதி</a></span> எடுக்க கோப்பு மேலாளர் உதவும். ஒரு CD அல்லது DVD க்கு கோப்புகளை எழுத:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">உங்கள் CD/DVD எழுது இயக்கியில் ஒரு காலி வட்டை இடவும்.</p></li>
-<li class="steps">
-<p class="p">திரையின் கீழே பாப்-அப் ஆகும் <span class="gui">காலி CD/DVD வட்டு</span> அறிவிப்பில், <span class="gui">CD/DVD உருவாக்கி பயன்பாட்டைக் கொண்டு திற</span> என்பதைத் தேர்ந்தெடுக்கவும். <span class="gui">CD/DVD உருவாக்கி பயன்பாட்டின்</span> கோப்புறை சாளரம் திறக்கும்.</p>
-<p class="p">(நீங்கள் கோப்பு மேலாளர் பக்கப்பட்டியில் உள்ள <span class="gui">சாதனங்கள்</span> என்பதன் கீழ் உள்ள <span class="gui">காலி CD/DVD</span> என்பதை சொடுக்கியும் இதைச் செய்யலாம்.)</p>
-</li>
-<li class="steps"><p class="p"><span class="gui">வட்டு பெயர்</span> புலத்தில், வட்டுக்கு ஒரு பெயரைத் தட்டச்சு செய்யவும்.</p></li>
-<li class="steps"><p class="p">தேவையான கோப்புகளை அந்த சாளரத்திற்கு நகலெடுக்கவும் அல்லது இழுத்து இடவும்.</p></li>
-<li class="steps"><p class="p"><span class="gui">வட்டில் எழுது</span> என்பதை சொடுக்கவும்.</p></li>
-<li class="steps">
-<p class="p"><span class="gui">எழுத ஒரு வட்டைத் தேர்வு செய்யவும்</span> என்பதில் காலி வட்டு என்பதைத் தேர்வு செய்யவும்.</p>
-<p class="p">(நீங்கள் மாறாக <span class="gui">படக் கோப்பு</span> என்பதையும் தேர்வு செய்யலாம். இப்படிச் செய்தால் கோப்புகள் ஒரு <span class="em">வட்டுப் படத்தில்</span> வைக்கப்படும். அது உங்கள் கணினியில் சேமிக்கப்படும். அதன் பிறகு அந்த வட்டு படத்தை ஒரு காலி வட்டில் எழுதிக்கொள்ளலாம்.)</p>
-</li>
-<li class="steps"><p class="p">நீங்கள் எழுதும் வேகம், தற்காலிக கோப்புகளின் இருப்பிடம் மற்றும் பிற விருப்பங்களை சரி செய்ய விரும்பினால் <span class="gui">பண்புகள்</span> ஐ சொடுக்கவும். முன்னிருப்பு விருப்பங்களே சரியாக இருக்கும்.</p></li>
-<li class="steps">
-<p class="p">பதிவு தொடங்க <span class="gui">எழுது</span> பொத்தானை சொடுக்கவும்.</p>
-<p class="p"><span class="gui">சில நகல்களை எழுதவும்</span> என்பதைத் தேர்ந்தெடுத்தால், கூடுதல் வட்டுகள் வேண்டும் எனக் கேட்கப்படும்.</p>
-</li>
-<li class="steps"><p class="p">வட்டு எழுதுதல் செயல் நிறைவடையும் போது, அது தானாகவே வெளியே தள்ளப்படும். அப்போது <span class="gui">மேலும் நகல்களை உருவாக்கு</span> என்பதைத் தேர்வு செய்யவும் அல்லது வெளியேற <span class="gui">மூடு</span> என்பதைத் தேர்வு செய்யவும்.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -106,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
   computer.</p>
 <p class="p">In this case, try burning the disc again but use a lower burning speed,
   for example, 12x rather than 48x. Burning at slower speeds is more reliable.
-  You can choose the speed by clicking the <span class="gui">Properties</span> button in the
-  <span class="gui">CD/DVD Creator</span> window.</p>
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Τα αποτελέσματα ενός χρωματικού προφίλ είναι μερικές φορές ανεπαίσθητα και μπορεί να είναι δύσκολο να δείτε εάν κάτι έχει αλλάξει.</p>
-<p class="p">Το GNOME έρχεται με αρκετά προφίλ για δοκιμές που το κάνουν πολύ σαφές, όταν εφαρμόζονται τα προφίλ:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Μπλε</dt>
 <dd class="terms"><p class="p">Αυτό θα κάνει την οθόνη μπλε και θα ελέγξει εάν οι καμπύλες βαθμονόμησης στάλθηκαν στην οθόνη.</p></dd>
@@ -90,7 +91,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span> overview and
       start typing <span class="gui">Settings</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Επιλέξτε τη συσκευή για την οποία θέλετε να προσθέσετε ένα προφίλ. Μπορεί να θέλετε να σημειώστε ποιό προφίλ χρησιμοποιείται προς το παρόν.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Προσθήκη προφίλ</span> για να επιλέξετε ένα υπάρχον προφίλ που πρέπει να είναι στο τέλος της λίστας</p></li>

@@ -70,21 +70,19 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Berbagi</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="files-share.html.id" title="Berbagi berkas lewat surel"><span class="title">Berbagi berkas lewat surel</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
-    manager.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.id" title="Berbagi berkas lewat surel"><span class="title">Berbagi berkas lewat surel</span><span class="linkdiv-dash"> — </span><span class="desc">Menyalin berkas secara mudah ke kontak surel dari manajer berkas.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.id" title="Berbagi desktop Anda"><span class="title">Berbagi desktop Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people view and interact with your desktop using VNC.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.id" title="Berbagi pakai berkas pribadi Anda"><span class="title">Berbagi pakai berkas pribadi Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
     folder.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-media.html.id" title="Berbagi pakai musik, foto, dan video Anda"><span class="title">Berbagi pakai musik, foto, dan video Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.id" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
-    shares, or WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.id" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.id" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">Melihat dan menyunting berkas di komputer lain melalui FTP, SSH, share Windows, atau WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.id" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Mengizinkan berkas diunggah ke komputer Anda melalui Bluetooth.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.id" title="Kirim berkas ke perangkat Bluetooth"><span class="title">Kirim berkas ke perangkat Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Berbagi berkas ke perangkat Bluetooth seperti misalnya telepon Anda.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
@@ -92,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.id" title="Wireless networking">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Wired networking">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Web browsers">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
+<a href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a><span class="desc"> — <span class="link"><a href="net-wireless.html.id" title="Jaringan nirkabel">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Jaringan kabel">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Peramban Web">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

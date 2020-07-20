@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="twofingerscroll"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Kahden sormen vieritys</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">You can scroll using your touchpad using two fingers.</p>
+<p class="p">Voit vierittää kosketusalustalla käyttämällä kahta sormea.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Hiiri ja kosketuslevy</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>
@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html.fi" title="Hiiri, kosketuslevy ja kosketusnäyttö">Hiiri, kosketuslevy ja kosketusnäyttö</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.fi" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html.fi" title="Adjust the speed of the mouse and touchpad">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html.fi" title="Napsauta, vedä tai vieritä kosketuslevyä käyttäen">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span>
+<a href="mouse.html.fi" title="Hiiri, kosketuslevy ja kosketusnäyttö">Hiiri, kosketuslevy ja kosketusnäyttö</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.fi" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html.fi" title="Muuta hiiren ja kosketuslevyn nopeutta">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html.fi" title="Napsauta, vedä tai vieritä kosketuslevyä käyttäen">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

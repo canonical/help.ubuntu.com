@@ -90,16 +90,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Customize your desktop</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.ta" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.ta" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.ta" title="உங்களுக்கு பிடித்த பயன்பாடுகளை டேஷில் இணைத்தல்"><span class="title">உங்களுக்கு பிடித்த பயன்பாடுகளை டேஷில் இணைத்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">அடிக்கடி பயன்படுத்தும் பயன்பாட்டை டேஷில் சேர்த்தல் (அல்லது நீக்குதல்).</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.ta" title="நாள்காட்டி சந்திப்புத் திட்டங்கள்"><span class="title">நாள்காட்டி சந்திப்புத் திட்டங்கள்</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
-    screen.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.ta" title="நாள்காட்டி சந்திப்புத் திட்டங்கள்"><span class="title">நாள்காட்டி சந்திப்புத் திட்டங்கள்</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
+    screen.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">பயன்பாடுகள் மற்றும் சாளரங்கள்</span></h2></div>

@@ -76,13 +76,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Perbesar suatu wilayah layar</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Memperbesar layar berbeda dengan hanya memperbesar <span class="link"><a href="a11y-font-size.html.id" title="Ubah ukuran teks pada layar">ukuran teks</a></span>. Fitur ini seperti memiliki kaca pembesar, memungkinkan Anda berpindah-pindah dengan menzum pada berbagai bagian layar.</p>
+<p class="p">Memperbesar layar berbeda dengan hanya memperbesar <span class="link"><a href="a11y-font-size.html.id" title="Mengubah ukuran teks pada layar">ukuran teks</a></span>. Fitur ini seperti memiliki kaca pembesar, memungkinkan Anda berpindah-pindah dengan menzum pada berbagai bagian layar.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Zum</span> dalam bagian <span class="gui">Melihat</span>.</p></li>
-<li class="steps"><p class="p">Switch the <span class="gui">Zoom</span> switch in the top-right corner of the
-      <span class="gui">Zoom Options</span> window to on.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Zum</span> di pojok kanan atas jendela <span class="gui">Opsi Zum</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Anda kini dapat berpindah-pindah pada area layar. Dengan memindah tetikus Anda ke tepi layar, Anda akan memindah area yang diperbesar ke arah berbeda, memungkinkan Anda melihat area pilihan Anda.</p>
 <div class="note note-tip" title="Tip">

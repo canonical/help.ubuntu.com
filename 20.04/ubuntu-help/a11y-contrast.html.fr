@@ -76,13 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Réglage du contraste</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can adjust the contrast of windows and buttons so that they’re easier
-  to see. This is not the same as 
-  changing the brightness of the whole screen; only parts of the
-  <span class="em">user interface</span> will change.</p>
+<p class="p">Vous pouvez régler le contraste des fenêtres et des boutons pour qu’ils soient plus faciles à voir. Ce n’est pas la même chose que changer la luminosité de tout l’écran : seules certaines parties de l’<span class="em">interface utilisateur</span> sont modifiées.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
-<li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur l’icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>
 <li class="steps"><p class="p">Switch the <span class="gui">High Contrast</span> switch in the <span class="gui">Seeing</span>
       section to on.</p></li>
 </ol></div></div></div>

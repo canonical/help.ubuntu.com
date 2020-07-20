@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Arquivos ocultos</p>
-<p class="p">Qualquer arquivo ou pasta cujo nome comece com um ponto (.) é ocultado por padrão. Para ver arquivos escondidos, clique no botão <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Opções de visualização"></span></span></span> na barra de ferramentas e, então, escolha <span class="gui">Mostrar arquivos ocultos</span> ou pressione <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Você pode copiar esses arquivos para um local de cópia de segurança como qualquer outro arquivo.</p>
+<p class="p">Qualquer arquivo ou pasta cujo nome comece com um ponto (.) é ocultado por padrão. Para ver arquivos escondidos, clique no botão <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Opções de visualização"></span></span></span> na barra de ferramentas e, então, escolha <span class="gui">Mostrar arquivos ocultos</span> ou pressione <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Você pode copiar esses arquivos para um local de cópia de segurança como qualquer outro arquivo.</p>
 </li>
 <li class="list">
 <p class="p">Configurações pessoais (preferências do ambiente, temas e configurações de programas)</p>

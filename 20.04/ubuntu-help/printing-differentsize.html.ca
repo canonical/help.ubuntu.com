@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Sota la columna <span class="gui">Paper</span>, trieu la <span class="gui">Mida del paper</span> de la llista desplegable.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Imprimeix</span> per a imprimir el vostre document.</p></li>
 </ol></div></div></div>
-<p class="p">També podeu utilitzar la llista desplegable <span class="gui">Orientació</span> per canviar l'orientació:</p>
+<p class="p">També podeu utilitzar la llista desplegable <span class="gui">Orientació</span> per a canviar l'orientació:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Vertical</span></p></li>
 <li class="list"><p class="p"><span class="gui">Apaïsat</span></p></li>

@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Networking, web &amp; email</title>
+<title>Jaringan, web &amp; surel</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,16 +73,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Networking, web &amp; email</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Jaringan, web &amp; surel</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-grid-container">
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-wireless.html.id" title="Wireless networking">Wireless networking</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Connect to Wi-Fi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Wi-Fi disconnecting</a></span>…
-    </span></div>
+<div class="links-grid-link"><a href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Wi-Fi Memutus</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="sharing.html.id" title="Berbagi">Berbagi</a></div>
@@ -93,38 +89,32 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="desc"><span class="desc"><span class="link"><a href="net-chat-empathy.html.id" title="Pesan instan di Ubuntu">Mengobrol di jaringan apa pun menggunakan <span class="app">Empathy</span></a></span>, <span class="link"><a href="net-chat-video.html.id" title="Panggilan video"> melakukan panggilan video</a></span>, <span class="link"><a href="net-chat-skype.html.id" title="Bagaimana saya bisa menggunakan Skype di Ubuntu?">menginstal Skype</a></span></span></div>
 </div>
 <div class="links-grid ">
+<div class="links-grid-link"><a href="net-wired.html.id" title="Jaringan kabel">Jaringan kabel</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.id" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span></div>
+</div>
+<div class="links-grid ">
 <div class="links-grid-link"><a href="contacts.html.id" title="Kontak">Kontak</a></div>
 <div class="desc"><span class="desc">Akses kontak Anda.</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.id" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Melacak masalah koneksi nirkabel</a></span>, <span class="link"><a href="net-wireless-find.html.id" title="Saya tak bisa melihat jaringan nirkabelku dalam daftar">menemukan jaringan Wi-Fi Anda</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-browser.html.id" title="Peramban Web">Peramban Web</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.id" title="Mengubah peramban web mana yang membuka situs-situs web secara baku">Ubah peramban baku</a></span>, <span class="link"><a href="net-install-flash.html.id" title="Pasang plug-in Flash">pasang Flash</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Surel &amp; perangkat lunak surel</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-default-email.html.id" title="Ubah aplikasi surel mana yang dipakai untuk menulis surel">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html.id" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
-    </span></div>
+<div class="desc"><span class="desc">Screen<span class="link"><a href="net-default-email.html.id" title="Mengubah aplikasi surel mana yang dipakai untuk menulis surel">App surel baku</a></span>, <span class="link"><a href="net-email-virus.html.id" title="Apakah saya perlu memindai surel saya untuk mencari virus?">Apakah saya mesti memindai virus?</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-security.html.id" title="Tetap aman di internet">Tetap aman di internet</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="net-antivirus.html.id" title="Apakah saya perlu perangkat lunak anti virus?">Perangkat lunak anti virus</a></span>, <span class="link"><a href="net-firewall-on-off.html.id" title="Aktifkan atau blok akses firewall">firewall dasar</a></span>, <span class="link"><a href="net-firewall-ports.html.id" title="Port jaringan yang biasa dipakai">port firewall</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="net-browser.html.id" title="Web browsers">Web browsers</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-default-browser.html.id" title="Change which web browser opens websites by default">Ubah peramban baku</a></span>, <span class="link"><a href="net-install-flash.html.id" title="Pasang plug-in Flash">pasang Flash</a></span>…</span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-wired.html.id" title="Wired networking">Wired networking</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-wired-connect.html.id" title="Menyambung ke suatu jaringan (Ethernet) kabel">Koneksi internet melalui kabel</a></span>, <span class="link"><a href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Alamat IP tetap</a></span>…</span></div>
+<div class="links-grid-link"><a href="net-general.html.id" title="Tips &amp; istilah jaringan">Tips &amp; istilah jaringan</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span></div>
 </div>
 <div class="links-grid"></div>
 <div class="links-grid"></div>

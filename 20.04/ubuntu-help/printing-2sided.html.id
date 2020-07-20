@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print two-sided and multi-page layouts</title>
+<title>Mencetak dua sisi dan tata letak multi halaman</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,29 +73,23 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="printing.html.id" title="Pencetakan">Pencetakan</a> › <a class="trail" href="printing.html.id#paper" title="Tata letak dan ukuran kertas yang berbeda">Tata letak dan ukuran</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Print two-sided and multi-page layouts</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mencetak dua sisi dan tata letak multi halaman</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Anda dapat mencetak pada kedua sisi dari tiap lembar kertas:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the print dialog by pressing
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Buka dialog cetak dengan menekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Go to the <span class="gui">Page Setup</span> tab of the Print window and choose an
-      option from the <span class="gui">Two-sided</span> drop-down list. If the option is
-      disabled, two-sided printing is not available for your printer.</p>
-<p class="p">Printers handle two-sided printing in different ways. It is a good
-      idea to experiment with your printer to see how it works.</p>
+<p class="p">Buka tab <span class="gui">Penyiapan Halaman</span> pada jendela Cetak dan pilih opsi dari daftar drop-down <span class="gui">Dua sisi</span>. Jika opsi dinonaktifkan, pencetakan dua sisi tidak tersedia untuk pencetak Anda.</p>
+<p class="p">Pencetak menangani pencetakan dua sisi dengan cara yang berbeda. Ide yang baik untuk bereksperimen dengan pencetak Anda untuk melihat cara kerjanya.</p>
 </li>
-<li class="steps"><p class="p">Anda juga dapat mencetak lebih dari satu halaman dokumen pada setiap <span class="em">sisi</span> kertas. Gunakan opsi <span class="gui">Halaman setiap sisi</span> untuk melakukan hal ini.</p></li>
+<li class="steps"><p class="p">Anda juga dapat mencetak lebih dari satu halaman dokumen pada setiap <span class="em">sisi</span> kertas. Memakai opsi <span class="gui">Halaman setiap sisi</span> untuk melakukan hal ini.</p></li>
 </ol></div></div></div>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">The availability of these options may depend on the type of printer you
-    have, as well as the application you are using. This option may not always
-    be available.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Ketersediaan pilihan ini mungkin tergantung pada jenis pencetak yang Anda miliki, serta aplikasi yang Anda gunakan. Opsi ini mungkin tidak selalu tersedia.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">

@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Si teniu dificultats per llegir el text a la vostra pantalla podeu canviar la mida del tipus de lletra.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Accés universal</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">A la secció <span class="gui">Visió</span>, canvieu el commutador <span class="gui">Text gran</span> a actiu.</p></li>
 </ol></div></div></div>
 <p class="p">També podeu canviar ràpidament la mida del text si feu clic a la <span class="link"><a href="a11y-icon.html.ca" title="Trobar el menú d'accés universal">icona d'accessibilitat</a></span> de la barra superior i trieu <span class="gui">Text gran</span>.</p>
@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">A moltes aplicacions, podeu augmentar la mida del text en qualsevol moment prement <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. Per reduir la mida del text premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div>
 </div>
-<p class="p"><span class="gui">Text gran</span> escalarà el text 1,2 vegades. Podeu utilitzar <span class="app">Ajustos</span> per fer el text més gran o més petit.</p>
+<p class="p"><span class="gui">Text gran</span> escalarà el text 1,2 vegades. Podeu utilitzar <span class="app">Ajustos</span> per a fer el text més gran o més petit.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

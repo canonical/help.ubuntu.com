@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Xanelas e espazos de traballo</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Como outros escritorios, GNOME usa xanelas para mostrar as aplicacións en execución. Usando a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span> e o <span class="gui">taboleiro</span>, pode iniciar aplicacións novos e controlar que xanela está activa.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
 <p class="p">Tamén pode agrupar as súas aplicacións en áreas de traballo. Visite os temas de axuda de xanela e área de traballo que se mostran a continuación para aprender mellor como usar estas características.</p>
 </div>
 <section id="working-with-windows"><div class="inner">

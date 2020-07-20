@@ -84,8 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Inställningar</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Inställningar</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Enheter</span> i sidopanelen.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Tangentbord</span> i sidopanelen för att öppna panelen.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard Shortcuts</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Klicka på raden för den önskade åtgärden. Fönstret <span class="gui">Ställ in kortkommando</span> kommer att visas.</p></li>
 <li class="steps"><p class="p">Håll ner den önskade tangentkombinationen eller tryck på <span class="key"><kbd>Backsteg</kbd></span> för att återställa, eller tryck på <span class="key"><kbd>Esc</kbd></span> för att avbryta.</p></li>
 </ol></div></div></div>

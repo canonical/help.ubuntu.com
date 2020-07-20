@@ -87,7 +87,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Klicka på <span class="gui">Ström</span> för att öppna panelen. Status för kända enheter visas.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Om ett internt batteri upptäcks visar avsnittet <span class="gui">Batteri</span> status för en eller flera batterier för bärbar dator. Indikatorraden visar laddad procentsats, så väl som tiden till fullständig laddning om ansluten, och tid som kvarstår vid batteridrift.</p>
+<p class="p">If an internal battery is detected, the <span class="gui">Batteries</span> section
+    displays the status of one or more laptop batteries. The indicator bar
+    shows the percent charged, as well as time until fully charged if plugged
+    in, and time remaining when running on battery power.</p>
 <p class="p">Avsnittet <span class="gui">Enheter</span> visar status för anslutna enheter.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

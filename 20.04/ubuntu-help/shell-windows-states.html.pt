@@ -70,13 +70,15 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.pt" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html.pt#apps" title="Aplicações e janelas">Aplicações e janelas</a> » <a class="trail" href="shell-windows.html.pt" title="Janelas e áreas de trabalho">Janelas e áreas de trabalho</a> › <a class="trail" href="shell-windows.html.pt#working-with-windows" title="Trabalhar com janelas">Janelas</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="shell-overview.html.pt" title="Seu escritório">Escritorio</a> › <a class="trail" href="shell-overview.html.pt#apps" title="Aplicações e janelas">Aplicações e janelas</a> » <a class="trail" href="shell-windows.html.pt" title="Janelas e áreas de trabalho">Janelas e áreas de trabalho</a> › <a class="trail" href="shell-windows.html.pt#working-with-windows" title="Trabalhar com janelas">Janelas</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mover e redimensionar janelas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Pode mover e redimensionar janelas para ajudar-lhe a trabalhar mais eficientemente. Além do comportamento de arraste, GNOME tem atalhos de teclado e modificadores para ajudar-lhe a colocar janelas rapidamente.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Mova uma janela arrastando desde a barra de título ou mantendo premida a tecla <span class="key"><a href="keyboard-key-super.html.pt" title="Que é a tecla Super?"><kbd>Súper</kbd></a></span> e arrastando em qualquer parte da janela. Mantenha premida a tecla <span class="key"><kbd>Shift</kbd></span> ao mover para ajustar a janela às bordas do ecrã e a outras janelas.</p></li>
 <li class="list"><p class="p">Redimensione uma janela arrastrándo as bordas ou um canto da janela. Mantenha premida a tecla <span class="key"><kbd>Shift</kbd></span> ao redimensionar para ajustar a janela às bordas do ecrã e a outras janelas.</p></li>

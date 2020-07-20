@@ -91,12 +91,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Säkerställ att ditt trådlösa kort är påslaget eller att nätverkskabeln är ansluten.</p>
 </li>
 <li class="steps">
-<p class="p">Klicka på <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="inställningar"></span></span>-knappen.</p>
+<p class="p">Click the
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span>
+      button.</p>
 <div class="note" title="Anteckning">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">För en <span class="gui">Trådlös</span> anslutning kommer knappen <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="inställningar"></span></span> finnas intill det aktiva nätverket.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">För en <span class="gui">Trådlös</span> anslutning kommer knappen <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="inställningar"></span></span> finnas intill det aktiva nätverket.</p></div></div></div>
 </div>
 </li>
 <li class="steps"><p class="p">Välj <span class="gui">IPv4</span>- eller <span class="gui">IPv6</span>-fliken och ändra <span class="gui">Metod</span> till <span class="gui">Manuell</span>.</p></li>

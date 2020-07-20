@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Accesso universale</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The GNOME desktop includes assistive technologies to support users with
+<p class="p">The system includes assistive technologies to support users with
   various impairments and special needs, and to interact with common assistive
   devices. An accessibility menu can be added to the top bar, giving easier
   access to many of the accessibility features.</p>

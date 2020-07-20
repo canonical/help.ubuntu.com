@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Citirea ecranului în Braille</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME oferă cititorul de ecran <span class="app">Orca</span> pentru a afișa interfața pentru utilizator pe un ecran Braille actualizabil. În funcție de cum ați instalat GNOME, este probabil să aveți Orca instalat. Dacă nu îl aveți instalat, instalați Orca mai întâi.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can display the user interface on a
+  refreshable Braille display. Depending on how you installed your system, you
+  might not have Orca installed. If not, install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Instalează Orca</a></span></p>
 <p class="p">Consultați <span class="link"><a href="help:orca" title="help:orca">Ajutor Orca</a></span> pentru mai multe informații.</p>
 </div>

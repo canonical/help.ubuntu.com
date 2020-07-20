@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="mouse.html.fi" title="Hiiri, kosketuslevy ja kosketusnäyttö">Hiiri, kosketuslevy ja kosketusnäyttö</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.fi" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html.fi" title="Adjust the speed of the mouse and touchpad">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html.fi" title="Napsauta, vedä tai vieritä kosketuslevyä käyttäen">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.fi" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html.fi" title="Muuta hiiren ja kosketuslevyn nopeutta">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html.fi" title="Napsauta, vedä tai vieritä kosketuslevyä käyttäen">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-sharing.html.fi" title="Jakamisasetukset">Jakamisasetukset</a></div>
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-display.html.fi" title="Näyttö">Näyttö</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.fi" title="Muuta työpöydän ja lukitusnäytön taustaa">Taustakuva</a></span>, <span class="link"><a href="look-resolution.html.fi" title="Change the resolution or orientation of the screen">koko ja suunta</a></span>, <span class="link"><a href="display-brightness.html.fi" title="Aseta näytön kirkkaus">kirkkaus</a></span>, <span class="link"><a href="display-night-light.html.fi" title="Määritä näytön värilämpötila">värilämpötila</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.fi" title="Muuta työpöydän ja lukitusnäytön taustaa">Taustakuva</a></span>, <span class="link"><a href="look-resolution.html.fi" title="Vaihda näytön tarkkuutta tai suuntausta">koko ja suunta</a></span>, <span class="link"><a href="display-brightness.html.fi" title="Aseta näytön kirkkaus">kirkkaus</a></span>, <span class="link"><a href="display-night-light.html.fi" title="Määritä näytön värilämpötila">värilämpötila</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="clock.html.fi" title="Päiväys ja kello">Päiväys ja kello</a></div>

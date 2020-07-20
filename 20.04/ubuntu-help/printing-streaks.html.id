@@ -76,24 +76,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mengapa ada coretan, garis, atau warna yang salah pada hasil cetakan saya?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If your print-outs are streaky, faded, have lines on them that should not be
-  there, or are otherwise poor in quality, this may be due to a problem with the
-  printer or a low ink or toner supply.</p>
+<p class="p">Jika cetakan bergaris-garis, memudar, memiliki garis yang seharusnya tidak berada di sana, atau sebaliknya miskin dalam kualitas, ini mungkin karena masalah dengan pencetak atau pasokan tinta atau toner rendah.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Fading text or images</dt>
-<dd class="terms"><p class="p">You may be running out of ink or toner. Check your ink or toner supply
-       and buy a new cartridge if necessary.</p></dd>
-<dt class="terms">Streaks and lines</dt>
-<dd class="terms"><p class="p">If you have an inkjet printer, the print head may be dirty or
-       partially blocked. Try cleaning the print head. See the printer’s manual
-       for instructions.</p></dd>
+<dt class="terms">Teks atau gambar yang memudar</dt>
+<dd class="terms"><p class="p">Anda mungkin kehabisan tinta atau toner. Periksa tinta atau pasokan toner Anda dan beli cartridge baru jika diperlukan.</p></dd>
+<dt class="terms">Goresan dan garis</dt>
+<dd class="terms"><p class="p">Jika Anda memiliki pencetak inkjet, kepala cetak mungkin kotor atau sebagian tersumbat. Coba membersihkan kepala cetak. Lihat petunjuk pencetak untuk instruksinya.</p></dd>
 <dt class="terms">Salah warna</dt>
-<dd class="terms"><p class="p">The printer may have run out of one color of ink or toner. Check your
-       ink or toner supply and buy a new cartridge if necessary.</p></dd>
-<dt class="terms">Jagged lines, or lines are not straight</dt>
-<dd class="terms"><p class="p">If lines on your print-out that should be straight turn out jagged,
-       you may need to align the print head. See the printer’s instruction
-       manual for details on how to do this.</p></dd>
+<dd class="terms"><p class="p">Pencetak mungkin kehabisan satu warna tinta atau toner. Periksa tinta atau pasokan toner Anda dan beli cartridge baru jika diperlukan.</p></dd>
+<dt class="terms">Garis bergerigi, atau garis tidak lurus</dt>
+<dd class="terms"><p class="p">Jika garis pada cetakan Anda yang harus lurus ternyata bergerigi, Anda mungkin perlu untuk menyelaraskan kepala cetak. Lihat buku petunjuk pencetak untuk detail tentang cara melakukannya.</p></dd>
 </dl></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -108,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing-inklevel.html.id" title="How can I check my printer’s ink or toner levels?">How can I check my printer’s ink or toner levels?</a><span class="desc"> — Periksalah banyaknya tinta atau toner yang tersisa dalam cartridge pencetak.</span>
+<a href="printing-inklevel.html.id" title="Bagaimana saya bisa memeriksa tingkat toner/tinta pencetak saya?">Bagaimana saya bisa memeriksa tingkat toner/tinta pencetak saya?</a><span class="desc"> — Periksalah banyaknya tinta atau toner yang tersisa dalam cartridge pencetak.</span>
 </li></ul></div>
 </div></div>
 </div>

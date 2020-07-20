@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Os efectos dun perfil de cor son a veces sutiles e pode que sexan difíciles de ver, se non cambiou moito.</p>
-<p class="p">GNOME ven con varios perfiles para probas que explica perfectamente como se aplican os perfiles:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Azul</dt>
 <dd class="terms"><p class="p">Isto cambiará a pantalla a azul e probará se as curvas de calibración son enviadas ao dispositivo.</p></dd>
@@ -89,7 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>  e comoece a escribir <span class="gui">Preferencias</span>.</p></li>
 <li class="steps"><p class="p">Prema en <span class="gui">Preferencias</span>.</p></li>
-<li class="steps"><p class="p">Prema <span class="gui">Dispositivos</span> na barra lateral.</p></li>
 <li class="steps"><p class="p">Prema en <span class="gui">Cor</span> na barra lateral para abir o panel.</p></li>
 <li class="steps"><p class="p">Seelccione os dispositivos para os que quere engadir un perfíl. Pode desexar tomar unha nota do perfíl que está usándose actualmente.</p></li>
 <li class="steps"><p class="p">A premer <span class="gui">Engadir perfil</span> pode seleccionar un perfíl de proba que debería estar na parte inferior da lista.</p></li>

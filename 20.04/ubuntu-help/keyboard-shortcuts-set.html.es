@@ -84,8 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
-<li class="steps"><p class="p">Pulse <span class="gui">Dispositivos</span> en la barra lateral.</p></li>
-<li class="steps"><p class="p">Pulse <span class="gui">Teclado</span> en la barra lateral para abrir el panel.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard Shortcuts</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Pulse en la fila de la acción que quiere. Se mostrará la ventana <span class="gui">Establecer atajo</span>.</p></li>
 <li class="steps"><p class="p">Mantenga pulsada la combinación de teclas que quiere o pulse <span class="key"><kbd>Retroceso</kbd></span> para limpiar o <span class="key"><kbd>Esc</kbd></span> para cancelar.</p></li>
 </ol></div></div></div>

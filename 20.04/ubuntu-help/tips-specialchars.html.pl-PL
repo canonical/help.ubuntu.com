@@ -91,7 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="characters"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Znaki</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">GNOME zawiera tablicę znaków umożliwiającą wyszukiwanie i wstawianie nietypowych znaków, w tym emoji, przez przeglądanie kategorii znaków i wyszukiwanie słów kluczowych.</p>
+<p class="p">The character map application allows you to find and insert unusual
+    characters, including emoji, by browsing character categories or searching
+    for keywords.</p>
 <p class="p">Można uruchomić program <span class="app">Znaki</span> z ekranu podglądu.</p>
 </div></div>
 </div></section><section id="compose"><div class="inner">

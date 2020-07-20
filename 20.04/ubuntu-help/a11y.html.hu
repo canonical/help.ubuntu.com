@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Akadálymentesítés</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">A GNOME asztali környezet akadálymentesítési technológiákat tartalmaz, amelyek segítik a különböző fogyatékosságokkal és speciális igényekkel rendelkező felhasználókat, valamint az elterjedt akadálymentesítési eszközök használatát. Egy akadálymentesítési menü hozzáadható a felső sávhoz, amely egyszerűen elérhetővé teszi az akadálymentesítési szolgáltatásokat.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.hu" title="Az akadálymentesítés menü megtalálása"><span class="title">Az akadálymentesítés menü megtalálása</span><span class="linkdiv-dash"> — </span><span class="desc">Az akadálymentesítés menü a felső sávon látható, emberi alakot ábrázoló ikon.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">

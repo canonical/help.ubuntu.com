@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="signal"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Senyal de xarxa sense fil fluixa</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Un motiu molt comú pel que esteu desconnectats d'una xarxa sense fil és que tingueu un senyal baix. Les xarxes sense fil tenen un rang limitat, de manera que si s'està massa lluny de l'estació base, és possible que no es pugui obtenir un senyal prou fort per mantenir una connexió. Les parets i altres objectes entre vostè i l'estació base també poden debilitar el senyal.</p>
+<p class="p">Un motiu molt comú pel que esteu desconnectats d'una xarxa sense fil és que tingueu un senyal baix. Les xarxes sense fil tenen un rang limitat, de manera que si s'està massa lluny de l'estació base, és possible que no es pugui obtenir un senyal prou fort per a mantenir una connexió. Les parets i altres objectes entre vostè i l'estació base també poden debilitar el senyal.</p>
 <p class="p">La icona de xarxa a la barra superior mostra la fortalesa que té el senyal de la xarxa sense fil. Si el senyal és baix, proveu d'apropar-se a l'estació base.</p>
 </div></div>
 </div></section><section id="network"><div class="inner">

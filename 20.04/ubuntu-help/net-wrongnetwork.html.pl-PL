@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Wi-Fi</span>.</p></li>
 <li class="steps"><p class="p">Znajdź sieć, z którą komputer <span class="em">nie</span> ma się już łączyć.</p></li>
-<li class="steps"><p class="p">Kliknij przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ustawienia"></span></span> położony obok sieci.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="ustawienia"></span></span> położony obok sieci.</p></li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">Zapomnij połączenie</span>. Komputer nie będzie już łączyć się z tą siecią.</p></li>
 </ol></div>
 </div></div>

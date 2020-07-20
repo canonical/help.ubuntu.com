@@ -80,11 +80,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mengapa laptop saya lambat ketika memakai baterai?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Some laptops intentionally slow down when they are running on battery in
-order to conserve power. The processor (CPU) in the laptop switches to a slower
-speed, and processors use less power when running slower, so the battery should
-last longer.</p>
-<p class="p">This feature is called <span class="em">CPU frequency scaling</span>.</p>
+<p class="p">Beberapa laptop sengaja melambat ketika mereka berjalan pada baterai untuk menghemat daya. Prosesor (CPU) di laptop beralih ke kecepatan yang lebih lambat, dan prosesor menggunakan lebih sedikit daya saat berjalan lebih lambat, sehingga baterai mestinya bertahan lebih lama.</p>
+<p class="p">Fitur ini disebut <span class="em">penskalaan frekuensi CPU</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -96,8 +93,7 @@ last longer.</p>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power-batterywindows.html.id" title="Mengapa usia baterai saya kurang daripada di Windows/Mac OS?">Mengapa usia baterai saya kurang daripada di Windows/Mac OS?</a><span class="desc"> — Tweaks from the manufacturer and differing battery life estimates may
-    be the cause of this problem.</span>
+<a href="power-batterywindows.html.id" title="Mengapa usia baterai saya kurang daripada di Windows/Mac OS?">Mengapa usia baterai saya kurang daripada di Windows/Mac OS?</a><span class="desc"> — Tweak dari produsen dan perkiraan masa pakai baterai yang berbeda mungkin menjadi penyebab masalah ini.</span>
 </li></ul></div>
 </div></div>
 </div>

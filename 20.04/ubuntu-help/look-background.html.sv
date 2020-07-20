@@ -84,7 +84,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Det finns två sätt att ändra bilden som används för dina bakgrunder:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Klicka på en av de många professionella bakgrundsbilderna som kommer med GNOME. Du kan välja <span class="gui">Ställ in bakgrund</span>, <span class="gui">Ställ in låsskärm</span> eller <span class="gui">Ställ in bakgrund och låsskärm</span>.</p>
+<p class="p">Click one of the background images which are shipped with the
+          system. You can choose <span class="gui">Set Background</span>, <span class="gui">Set Lock
+          Screen</span>, or <span class="gui">Set Background and Lock Screen</span>.</p>
 <div class="note" title="Anteckning">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>

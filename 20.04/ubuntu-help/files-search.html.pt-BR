@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Pesquisa</span>.</p></li>
 <li class="steps"><p class="p">Selecione <span class="guiseq"><span class="gui">Configurações</span> ▸ <span class="gui">Pesquisa</span></span> a partir dos resultados. Isso vai abrir o painel <span class="gui">Configurações de pequisa</span>.</p></li>
-<li class="steps"><p class="p">Selecione o ícone <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="Preferences key symbol"></span></span> a partir da parte inferior do painel de configurações de <span class="gui">Pesquisa</span>.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Search Locations</span> button in the header bar.</p></li>
 </ol></div></div></div>
 <p class="p">Isso abrirá um painel de configurações separado, que permite ativar ou desativar as pesquisas de diretório. Você pode alternar as pesquisas em cada uma das três abas:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">

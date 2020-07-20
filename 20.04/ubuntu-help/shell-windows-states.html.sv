@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Flytta och storleksändra fönster</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Du kan flytta och ändra storlek på fönster för du ska kunna arbeta effektivare. Förutom möjligheten att dra som du förväntar dig har GNOME även genvägar och modifierare som hjälper dig att ordna fönster snabbt.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Flytta ett fönster genom att dra i namnlisten eller håll ner <span class="key"><a href="keyboard-key-super.html.sv" title="Vad är Super-knappen?"><kbd>Super</kbd></a></span> och dra var som helst i fönstret. Håll ner <span class="key"><kbd>Skift</kbd></span> medan du drar för att fästa fönstret mot kanterna på skärmen eller andra fönster.</p></li>
 <li class="list"><p class="p">Ändra storlek på ett fönster genom att dra i kanterna eller hörnen på fönstret. Håll ner <span class="key"><kbd>Skift</kbd></span> medan du ändrar storlek för att fästa fönstret mot kanterna av skärmen eller andra fönster.</p></li>

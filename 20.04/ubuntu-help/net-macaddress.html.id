@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-general.html.id" title="Tips &amp; istilah jaringan">Tips &amp; istilah jaringan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Apa itu alamat MAC?</span></h1></div>
@@ -83,28 +83,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
 <li class="steps">
-<p class="p">Choose which device, <span class="gui">Wi-Fi</span> or <span class="gui">Wired</span>, from
-      the left pane.</p>
-<p class="p">The MAC address for the wired device will be displayed as the
-      <span class="gui">Hardware Address</span> on the right.</p>
-<p class="p">Click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button to see the MAC address for the wireless device displayed as the
-      <span class="gui">Hardware Address</span> in the <span class="gui">Details</span> panel.</p>
+<p class="p">Pilih perangkat, <span class="gui">Wi-Fi</span>, atau <span class="gui">Kabel</span>, dari panel kiri.</p>
+<p class="p">Alamat MAC untuk perangkat kabel akan ditampilkan sebagai <span class="gui">Alamat Perangkat Keras</span> di sebelah kanan.</p>
+<p class="p">Klik tombol <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="pengaturan"></span></span> untuk melihat alamat MAC untuk perangkat nirkabel yang ditampilkan sebagai <span class="gui">Alamat Perangkat Keras</span> di panel <span class="gui">Rincian</span>.</p>
 </li>
 </ol></div></div></div>
-<p class="p">In practice, you may need to modify or “spoof” a MAC address. For example,
-  some internet service providers may require that a specific MAC address be
-  used to access their service. If the network card stops working, and you need
-  to swap a new card in, the service won’t work anymore. In such cases, you
-  would need to spoof the MAC address.</p>
+<p class="p">Dalam prakteknya, Anda mungkin perlu mengubah atau "spoof" alamat MAC. Misalnya, beberapa penyedia layanan internet mungkin mengharuskan alamat MAC tertentu digunakan untuk mengakses layanan mereka. Jika kartu jaringan berhenti bekerja, dan Anda perlu untuk menukar kartu baru, layanan tidak akan bekerja lagi. Dalam kasus tersebut, Anda akan perlu men-spoof alamat MAC.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — <span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span>
+<a href="net-general.html.id" title="Tips &amp; istilah jaringan">Tips &amp; istilah jaringan</a><span class="desc"> — <span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

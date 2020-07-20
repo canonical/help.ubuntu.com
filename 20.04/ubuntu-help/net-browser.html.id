@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Web browsers</title>
+<title>Peramban Web</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,13 +70,13 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Web browsers</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Peramban Web</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
-<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.id" title="Change which web browser opens websites by default"><span class="title">Change which web browser opens websites by default</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default web browser by going to <span class="gui">Details</span> in <span class="gui">Settings</span>.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.id" title="Mengubah peramban web mana yang membuka situs-situs web secara baku"><span class="title">Mengubah peramban web mana yang membuka situs-situs web secara baku</span><span class="linkdiv-dash"> — </span><span class="desc">Ubah peramban web baku dengan pergi ke <span class="gui">Rincian</span> di <span class="gui">Pengaturan</span>.</span></a></div></div>
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.id" title="Pasang plug-in Flash"><span class="title">Pasang plug-in Flash</span><span class="linkdiv-dash"> — </span><span class="desc">Anda mungkin perlu menginstal Flash untuk dapat melihat beberapa situs web, yang menampilkan video dan halaman web interaktif.</span></a></div></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a><span class="desc"> — <span class="link"><a href="net-wireless.html.id" title="Wireless networking">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Wired networking">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Web browsers">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
+<a href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a><span class="desc"> — <span class="link"><a href="net-wireless.html.id" title="Jaringan nirkabel">Nirkabel</a></span>, <span class="link"><a href="net-wired.html.id" title="Jaringan kabel">ethernet</a></span>, <span class="link"><a href="net-problem.html.id" title="Masalah jaringan">masalah koneksi</a></span>, <span class="link"><a href="net-browser.html.id" title="Peramban Web">meramban web</a></span>, <span class="link"><a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">akun surel</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

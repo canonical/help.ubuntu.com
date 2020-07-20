@@ -80,9 +80,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atverkite <span class="gui"><a href="shell-introduction.html.lt#activities" title="Veiklų Apžvalga">Apžvalga</a></span> ekrano kairėje ir paieškoje rašykite <span class="gui">Region</span>.</p></li>
 <li class="steps"><p class="p">Spustelėkite ant <span class="gui">Kalbų ir regionų nustatymai</span> (<span class="gui">Region &amp; Language</span>) ir šiek tiek palaukite.</p></li>
-<li class="steps"><p class="p">Paspausktie, jei matote, mygtuką <span class="gui">Tvarkyti kalbų palaikymą</span> (<span class="gui">Manage Installed Languages</span>) - atversite langą <span class="gui">Kalbų ir regionų nustatymai</span>.</p></li>
+<li class="steps"><p class="p">Jei atvėrėte sistemų nustatymų skyrių „Regionas ir kalba“ - paspauskite mygtuką <span class="gui">Tvarkyti kalbų palaikymą</span> (<span class="gui">Manage Installed Languages</span>) - atsidarys langas <span class="gui">Kalbų ir regionų nustatymai</span>.</p></li>
 <li class="steps"><p class="p">Paspauskite <span class="gui">Įdiegti / šalinti kalbas..</span>. Atsivėrusiame lange <span class="gui">Įdiegtos kalbos</span> matysite kalbų sąrašą, kuriame uždėtos varnelės ant jau įdiegtų kalbų (vertimų).</p></li>
-<li class="steps"><p class="p">Uždėkite varneles ant kalbų, kurioms norite turėti programų vertimų bei rašybos tikrinimą ir nuimkite varneles nuo nereikalingų kalbų. Rekomeduojama palikti varnelę ant Anglų bei Lietuvių kalbų.</p></li>
+<li class="steps"><p class="p">Uždėkite varneles ant kalbų, kurioms norite turėti programų vertimus bei rašybos tikrinimą ir nuimkite varneles nuo nereikalingų kalbų. Rekomeduojama palikti varnelę ant Anglų bei Lietuvių kalbų.</p></li>
 <li class="steps"><p class="p">Spustelėkite mygtuką <span class="gui">Pritaikyti</span>.</p></li>
 <li class="steps"><p class="p">Šiam veiksmui įvykdyti reikia turėti <span class="link"><a href="user-admin-explain.html.lt" title="How do administrative privileges work?">Administravimo teisę</a></span>. Įveskite savo arba administravimo teisę turinčio naudotojo slaptažodį.</p></li>
 </ol></div></div></div>

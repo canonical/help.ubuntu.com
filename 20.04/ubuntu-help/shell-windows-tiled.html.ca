@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mosaic de finestres</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Podeu maximitzar una finestra només a la part esquerra o dreta de la pantalla, cosa que us permetrà col·locar dues finestres costat per costat per canviar ràpidament d'una a l'altra.</p>
+<p class="p">Podeu maximitzar una finestra només a la part esquerra o dreta de la pantalla, cosa que us permetrà col·locar dues finestres costat per costat per a canviar ràpidament d'una a l'altra.</p>
 <p class="p">Per maximitzar una finestra al costat de la pantalla, agafeu la barra de títol i arrossegueu-la cap a l'esquerra o dreta fins que es ressalti la meitat de la pantalla. Utilitzeu el teclat, manteniu premuda <span class="key"><a href="keyboard-key-super.html.ca" title="Què és la tecla Súper?"><kbd>Súper</kbd></a></span> i premeu la tecla <span class="key"><kbd>Fletxa esquerra</kbd></span> o <span class="key"><kbd>Fletxa dreta</kbd></span>.</p>
 <p class="p">Per restaurar una finestra a la seva mida original, arrossegueu-la fora de la pantalla o utilitzeu la mateixa drecera de teclat que vàreu utilitzar per maximitzar.</p>
 <div class="note note-tip" title="Suggeriment">

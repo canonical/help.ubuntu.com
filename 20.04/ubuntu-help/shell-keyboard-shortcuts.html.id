@@ -95,10 +95,8 @@ information on navigating user interfaces with only the keyboard.</p>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
 <td>
-<p class="p">
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> or the</p>
-<p class="p"><span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span> key
-    </p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> atau</p>
+<p class="p">tombol <span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span></p>
 </td>
 <td><p class="p">Switch between the <span class="gui">Activities</span> overview and desktop. In
     the overview, start typing to instantly search your applications, contacts,
@@ -108,7 +106,7 @@ information on navigating user interfaces with only the keyboard.</p>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
 <td style="border-top-style: solid;">
 <p class="p">Pop up command window (for quickly running commands).</p>
-<p class="p">Use the arrow keys to quickly access previously run commands.</p>
+<p class="p">Gunakan tombol panah untuk cepat mengakses perintah yang dijalankan sebelumnya.</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +142,7 @@ information on navigating user interfaces with only the keyboard.</p>
 <tr>
 <td style="border-top-style: solid;">
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">dan</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.id" title="Bertukar antar area kerja">Bertukar antar ruang kerja</a></span>.</p></td>
@@ -152,18 +150,18 @@ information on navigating user interfaces with only the keyboard.</p>
 <tr>
 <td style="border-top-style: solid;">
 <p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
-<p class="p">and</p>
+<p class="p">dan</p>
 <p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
 </td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.id" title="Memindahkan jendela ke area kerja lain">Memindah jendela kini ke ruang kerja lain</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the left.</p></td>
+<td style="border-top-style: solid;"><p class="p">Pindahkan jendela saat ini satu monitor ke kiri.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Move the current window one monitor to the right.</p></td>
+<td style="border-top-style: solid;"><p class="p">Pindahkan jendela saat ini satu monitor ke kanan.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
@@ -193,7 +191,7 @@ information on navigating user interfaces with only the keyboard.</p>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Cut (remove) selected text or items and place it on the clipboard.</p></td>
+<td style="border-top-style: solid;"><p class="p">Memotong (menghapus) teks atau butir yang dipilih dan menempatkannya pada papan klip.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span></p></td>
@@ -244,7 +242,7 @@ information on navigating user interfaces with only the keyboard.</p>
 <div class="region"><ul>
 <li class="links "><a href="shell-overview.html.id#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a></li>
 <li class="links ">
-<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li>
 <li class="links ">
 <a href="tips.html.id" title="Tip &amp; trik">Tip &amp; trik</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.id" title="Masukkan karakter khusus">Karakter khusus</a></span>, <span class="link"><a href="mouse-middleclick.html.id" title="Klik tengah">pintasan klik tengah</a></span>…</span>
@@ -255,20 +253,16 @@ information on navigating user interfaces with only the keyboard.</p>
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard-key-super.html.id" title="Apa itu tombol Super?">Apa itu tombol <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — The <span class="key"><kbd>Super</kbd></span> key opens the <span class="gui">Activities</span> overview.
-    You can usually find it next to the <span class="key"><kbd>Alt</kbd></span> key on your
-    keyboard.</span>
+<a href="keyboard-key-menu.html.id" title="Apa itu tombol Menu?">Apa itu tombol <span class="key"><kbd>Menu</kbd></span>?</a><span class="desc"> — Tombol <span class="key"><kbd>Menu</kbd></span> meluncurkan menu konteks dengan papan ketik daripada dengan klik kanan.</span>
 </li>
 <li class="links ">
-<a href="keyboard-shortcuts-set.html.id" title="Menata pintasan papan tik">Menata pintasan papan tik</a><span class="desc"> — Define or change keyboard shortcuts in <span class="gui">Keyboard</span>
-    settings.</span>
+<a href="keyboard-key-super.html.id" title="Apa itu tombol Super?">Apa itu tombol <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — Tombol <span class="key"><kbd>Super</kbd></span> membuka ringkasan <span class="gui">Aktivitas</span>. Anda biasanya dapat menemukannya di samping tombol <span class="key"><kbd>Alt</kbd></span> pada papan tik Anda.</span>
 </li>
 <li class="links ">
-<a href="keyboard-nav.html.id" title="Navigasi papan tik">Navigasi papan tik</a><span class="desc"> — Gunakan aplikasi dan desktop tanpa memakai tetikus.</span>
+<a href="keyboard-shortcuts-set.html.id" title="Menata pintasan papan tik">Menata pintasan papan tik</a><span class="desc"> — Menentukan atau mengubah pintasan papan tik di pengaturan <span class="gui">Papan Tik</span>.</span>
 </li>
 <li class="links ">
-<a href="keyboard-key-menu.html.id" title="What is the Menu key?">What is the <span class="key"><kbd>Menu</kbd></span> key?</a><span class="desc"> — The <span class="key"><kbd>Menu</kbd></span> key launches a context menu with the keyboard
-    rather than with a right-click.</span>
+<a href="keyboard-nav.html.id" title="Navigasi papan tik">Navigasi papan tik</a><span class="desc"> — Memakai aplikasi dan desktop tanpa memakai tetikus.</span>
 </li>
 </ul></div>
 </div></div>

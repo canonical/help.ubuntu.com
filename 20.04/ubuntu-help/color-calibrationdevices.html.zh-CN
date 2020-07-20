@@ -80,7 +80,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">支持哪些颜色测量仪器？</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME 依靠 ArgyllCMS 色彩管理系统来支持颜色仪器。因此，支持以下显示测量仪器：</p>
+<p class="p">
+    The system relies on the Argyll color management system to support
+    color instruments. Thus the following display measuring instruments
+    are supported:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Gretag-Macbeth Eye-One Pro(光谱仪)</p></li>
 <li class="list"><p class="p">Gretag-Macbeth Eye-One Monitor(光谱仪)</p></li>

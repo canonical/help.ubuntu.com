@@ -80,13 +80,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ekran blokady</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Ekran blokady oznacza, że można zobaczyć, co dzieje się na zablokowanym komputerze oraz zawiera podsumowanie, co wydarzyło się podczas nieobecności. Kurtyna blokady wyświetla ładny obraz, kiedy komputer jest zablokowany, oraz przydatne informacje:</p>
+<p class="p">Ekran blokady oznacza, że można zobaczyć, co dzieje się na zablokowanym komputerze oraz zawiera podsumowanie, co wydarzyło się podczas nieobecności. Ekran blokady wyświetla przydatne informacje:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">nazwa zalogowanego użytkownika,</p></li>
 <li class="list"><p class="p">data i czas oraz pewne powiadomienia,</p></li>
 <li class="list"><p class="p">stan akumulatora i sieci.</p></li>
 </ul></div></div></div>
-<p class="p">Aby odblokować komputer, ponieś kurtynę blokady przeciągając ją kursorem do góry albo naciskając klawisz <span class="key"><kbd>Esc</kbd></span> lub <span class="key"><kbd>Enter</kbd></span>. Odsłoni to ekran logowania, w którym można wpisać hasło, aby odblokować. Można także zacząć pisać hasło, a kurtyna zostanie automatycznie podniesiona podczas pisania. Można także przełączyć użytkownika, jeśli komputer ma więcej niż jedno konto.</p>
+<p class="p">Aby odblokować komputer, kliknij raz za pomocą myszy lub panelu dotykowego albo naciśnij klawisz <span class="key"><kbd>Esc</kbd></span> lub <span class="key"><kbd>Enter</kbd></span>. Odsłoni to ekran logowania, w którym można wpisać hasło, aby odblokować. Można także zacząć pisać hasło, a ekran logowania zostanie automatycznie wyświetlony podczas pisania. Można także przełączyć użytkownika w dolnej prawej części ekranu lokowania, jeśli komputer ma więcej niż jedno konto.</p>
 <p class="p"><span class="link"><a href="shell-notifications.html.pl-PL#lock-screen-notifications" title="Ukrywanie powiadomień na ekranie blokady">Ukrywanie powiadomień na ekranie blokady</a></span> zawiera informacje o ukrywaniu powiadomień na ekranie blokady.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

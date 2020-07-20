@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the speed of the mouse and touchpad</title>
+<title>Menyetel kecepatan tetikus dan touchpad</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,33 +73,26 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="trail">
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html.id" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Adjust the speed of the mouse and touchpad</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Menyetel kecepatan tetikus dan touchpad</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If your pointer moves too fast or slow when you move your mouse or use
-  your touchpad, you can adjust the pointer speed for these devices.</p>
+<p class="p">Jika penunjuk bergerak terlalu cepat atau lambat saat menggerakkan tetikus atau menggunakan touchpad, Anda dapat menyesuaikan kecepatan penunjuk untuk perangkat ini.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> 
-      overview and start typing <span class="gui">Mouse &amp; Touchpad</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulailah mengetikkan <span class="gui">Tetikus &amp; Touchpad</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Tetikus &amp; Touchpad</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Adjust the <span class="gui">Mouse Speed</span> or <span class="gui">Touchpad Speed</span> slider
-      until the pointer motion is comfortable for you. Sometimes the most
-      comfortable settings for one type of device are not the best for
-      the other.</p></li>
+<li class="steps"><p class="p">Sesuaikan penggeser <span class="gui">Kecepatan Tetikus</span> atau <span class="gui">Kecepatan Touchpad</span> hingga gerakan penunjuk nyaman bagi Anda. Terkadang pengaturan yang paling nyaman untuk satu jenis perangkat bukanlah yang terbaik untuk yang lain.</p></li>
 </ol></div></div></div>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="gui">Touchpad</span> section only appears if your system has a
-    touchpad, while the <span class="gui">Mouse</span> section is only visible when a mouse
-    is connected.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Bagian <span class="gui">Touchpad</span> hanya muncul jika sistem Anda memiliki touchpad, sedangkan bagian <span class="gui">Tetikus</span> hanya terlihat ketika tetikus terhubung.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -109,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.id" title="Gunakan tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Adjust the speed of the mouse and touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Click, drag, or scroll with the touchpad">mengklik dan menggulir touchpad</a></span>…</span>
+<a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.id" title="Memakai tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Menyetel kecepatan tetikus dan touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Mengklik, menyeret, atau menggulir dengan touchpad">mengklik dan menggulir touchpad</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

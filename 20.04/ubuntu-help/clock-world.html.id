@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Tambah jam dunia</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Gunakan <span class="app">Jam</span> untuk menambah waktu pada kota lainnya.</p>
+<p class="p">Memakai <span class="app">Jam</span> untuk menambah waktu pada kota lainnya.</p>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
@@ -88,10 +88,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <p class="p">Untuk menambah jam dunia:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the clock on the top bar.</p></li>
+<li class="steps"><p class="p">Klik pada jam di bilah puncak.</p></li>
 <li class="steps">
-<p class="p">Click the <span class="gui">Add world clock</span> link under the calendar to
-      launch <span class="app">Clocks</span>.</p>
+<p class="p">Klik pada tautan <span class="gui">Tambah jam dunia</span> di bawah kalender untuk menjalankan <span class="app">Jam</span>.</p>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
@@ -112,7 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html.id" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — <span class="link"><a href="clock-set.html.id" title="Ubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html.id" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html.id" title="Ubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">kalender dan janji bertemu</a></span>…</span>
+<a href="clock.html.id" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — <span class="link"><a href="clock-set.html.id" title="Mengubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html.id" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html.id" title="Mengubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">kalender dan janji bertemu</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

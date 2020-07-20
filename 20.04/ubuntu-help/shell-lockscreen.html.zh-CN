@@ -80,18 +80,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">The lock screen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">在您的计算机锁定后，锁定屏幕可以指示当前的状态，让您获得一些你离开时发生事情的摘要。锁定状态的屏幕画面显示了清晰的画面，并提供一些有用的信息：</p>
+<p class="p">The lock screen means that you can see what is happening while your
+  computer is locked, and it allows you to get a summary of what has been
+  happening while you have been away. The lock screen provides
+  useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">当前登录的用户名</p></li>
 <li class="list"><p class="p">日期和时间，当前通知。</p></li>
 <li class="list"><p class="p">电池和网络状态</p></li>
 </ul></div></div></div>
-<p class="p">To unlock your computer, raise the lock screen curtain by dragging it
-  upward with the cursor, or by pressing <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
   This will reveal the login screen, where you can enter your password to
-  unlock. Alternatively, just start typing your password and the curtain will
-  be automatically raised as you type. You can also switch users if your
-  computer is configured for more than one.</p>
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">To hide notifications from the lock screen, see
   <span class="link"><a href="shell-notifications.html.zh-CN#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a></span>.</p>
 </div>

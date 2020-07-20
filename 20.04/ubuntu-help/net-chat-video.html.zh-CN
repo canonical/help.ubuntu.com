@@ -80,7 +80,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul class="list" style="list-style-type:disc">
 <li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-empathy.html.zh-CN" title="在 Ubuntu 上使用即时通讯工具">Empathy</a></span></span></p></li>
 <li class="list"><p class="p"><span class="app"><span class="link"><a href="net-chat-skype.html.zh-CN" title="如何在 Ubuntu 上使用 Skype？">Skype</a></span></span></p></li>
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Ekiga 视频会议</a></span></span></p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="apt:jami" title="apt:jami">Jami</a></span></span>
+    </p></li>
 </ul></div>
 </div></div></div>
 <section class="links" role="navigation"><div class="inner">

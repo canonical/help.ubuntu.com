@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
       may need to enter a password for the connection before it is established.
       Once the connection is made, you will see a lock shaped icon in the top
       bar.</p></li>
-<li class="steps"><p class="p">Ελπίζουμε ότι συνδεθήκατε με επιτυχία στο VPN. Αν όχι, ελέγξτε ξανά τις ρυθμίσεις VPN που εισάγατε. Μπορείτε να το κάνετε από τον πίνακα <span class="gui">Δίκτυο</span> που χρησιμοποιήσατε για να δημιουργήσετε τη σύνδεση, επιλέγοντας τη σύνδεση VPN από τη λίστα, έπειτα πατήστε το κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ρυθμίσεις"></span></span> για να δείτε τις ρυθμίσεις.</p></li>
+<li class="steps"><p class="p">Ελπίζουμε ότι συνδεθήκατε με επιτυχία στο VPN. Αν όχι, ελέγξτε ξανά τις ρυθμίσεις VPN που εισάγατε. Μπορείτε να το κάνετε από τον πίνακα <span class="gui">Δίκτυο</span> που χρησιμοποιήσατε για να δημιουργήσετε τη σύνδεση, επιλέγοντας τη σύνδεση VPN από τη λίστα, έπειτα πατήστε το κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="ρυθμίσεις"></span></span> για να δείτε τις ρυθμίσεις.</p></li>
 <li class="steps"><p class="p">Για να αποσυνδεθείτε από το VPN, κάντε κλικ στο μενού του συστήματος στην πάνω γραμμή και έπειτα κλικ στο <span class="gui">Απενεργοποίηση</span> κάτω από το όνομα της σύνδεσης VPN.</p></li>
 </ol></div></div></div>
 </div>

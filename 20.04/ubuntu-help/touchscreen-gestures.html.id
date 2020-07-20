@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use touchscreen gestures to navigate the desktop</title>
+<title>Menggunakan gestur layar sentuh untuk menavigasi desktop</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -71,13 +71,13 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Use touchscreen gestures to navigate the desktop</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Menggunakan gestur layar sentuh untuk menavigasi desktop</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Multitouch gestures can be used on touchscreens for system navigation,
@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <tr>
 <td><p class="p"><span class="media"><span class="media media-image"><img src="figures/3-finger-pinch.svg" width="256" class="media media-inline" alt=""></span></span></p></td>
 <td>
-<p class="p"><span class="em">Open the Activities Overview</span></p>
+<p class="p"><span class="em">Buka Ringkasan Aktivitas</span></p>
 <p class="p">Bring three or more fingers closer together while touching the screen.</p>
 </td>
 </tr>
@@ -127,14 +127,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/3-finger-hold-and-tap.svg" width="256" class="media media-inline" alt=""></span></span></p></td>
 <td style="border-top-style: solid;">
-<p class="p"><span class="em">Switch Application</span></p>
+<p class="p"><span class="em">Berpindah Aplikasi</span></p>
 <p class="p">Hold three fingers on the surface while tapping with the fourth.</p>
 </td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/4-finger-drag.svg" width="256" class="media media-inline" alt=""></span></span></p></td>
 <td style="border-top-style: solid;">
-<p class="p"><span class="em">Switch Workspace</span></p>
+<p class="p"><span class="em">Berpindah Ruang Kerja</span></p>
 <p class="p">Drag up or down with four fingers touching the screen.</p>
 </td>
 </tr>
@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/gesture-hold.png" width="72" class="media media-inline" alt=""></span></span></p></td>
 <td style="border-top-style: solid;">
 <p class="p"><span class="em">Select an item and list actions that can be performed</span></p>
-<p class="p">Press and hold for a second or two.</p>
+<p class="p">Tekan dan tahan untuk satu atau dua detik.</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/gesture-rotate-anticlockwise-symbolic.svg" width="96" class="media media-inline" alt=""></span></span>
     <span class="media"><span class="media media-image"><img src="figures/gesture-rotate-clockwise-symbolic.svg" width="96" class="media media-inline" alt=""></span></span></p></td>
 <td style="border-top-style: solid;">
-<p class="p"><span class="em">Rotate a photo</span></p>
+<p class="p"><span class="em">Memutar foto</span></p>
 <p class="p">Two-finger rotate: Touch the surface with two fingers and rotate.</p>
 </td>
 </tr>
@@ -187,7 +187,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.id" title="Gunakan tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Adjust the speed of the mouse and touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Click, drag, or scroll with the touchpad">mengklik dan menggulir touchpad</a></span>…</span>
+<a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.id" title="Memakai tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Menyetel kecepatan tetikus dan touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Mengklik, menyeret, atau menggulir dengan touchpad">mengklik dan menggulir touchpad</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

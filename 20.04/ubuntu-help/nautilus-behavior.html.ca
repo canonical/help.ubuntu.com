@@ -79,9 +79,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Comportament</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Clic simple per obrir els elements</span></dt>
-<dt class="terms"><span class="gui">Clic doble per obrir els elements</span></dt>
-<dd class="terms"><p class="p">Per defecte, fent un clic es selecciona un fitxer i fent un doble clic s'obre. En el seu lloc, podeu triar que els fitxers i les carpetes s'obrin quan feu un clic. Quan feu servir el mode d'un sol clic, podeu mantenir premut el botó <span class="key"><kbd>Ctrl</kbd></span> mentre feu clic per seleccionar un o més fitxers.</p></dd>
+<dt class="terms"><span class="gui">Clic simple per a obrir els elements</span></dt>
+<dt class="terms"><span class="gui">Clic doble per a obrir els elements</span></dt>
+<dd class="terms"><p class="p">Per defecte, fent un clic es selecciona un fitxer i fent un doble clic s'obre. En el seu lloc, podeu triar que els fitxers i les carpetes s'obrin quan feu un clic. Quan feu servir el mode d'un sol clic, podeu mantenir premut el botó <span class="key"><kbd>Ctrl</kbd></span> mentre feu clic per a seleccionar un o més fitxers.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Fitxer de text executable</span></h2></div>
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Navegar a la carpeta desitjada.</p></li>
 <li class="steps"><p class="p">Seleccioneu el fitxer desitjat.</p></li>
-<li class="steps"><p class="p">Feu clic amb el botó dret al fitxer per obrir el menú contextual i seleccioneu la seqüència que desitgeu executar des del menú <span class="gui">Scripts</span>.</p></li>
+<li class="steps"><p class="p">Feu clic amb el botó dret al fitxer per a obrir el menú contextual i seleccioneu la seqüència que desitgeu executar des del menú <span class="gui">Scripts</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-important" title="Important">
 <svg width="24" height="24" version="1.1">

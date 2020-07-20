@@ -70,18 +70,16 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.pt" title="Get more help">Get more help</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="more-help.html.pt" title="Obter mais ajuda">Obter mais ajuda</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Participe para melhorar este guia</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Este sistema de ajuda é criado por uma comunidade de voluntários. A sua participação é bem-vinda. Se se aperceber de algum problema com estas páginas de ajuda (como erros tipográficos, instruções incorretas ou tópicos que deveriam ser abordados mas não o são), pode enviar um <span class="em">relatório de erro</span>.</p>
-<p class="p">To file a bug, press <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type 
-<span class="input">ubuntu-bug ubuntu-docs</span>. Press <span class="gui">Enter</span> to begin the bug collection process.</p>
-<p class="p">See the <span class="link"><a href="report-ubuntu-bug.html.pt" title="Report a problem in Ubuntu">Ubuntu bug reporting 
-instructions</a></span> for more information about how to file your bug.</p>
-<p class="p">Thanks for helping make the Ubuntu Help better!</p>
+<p class="p">Para relatar um erro, pressione <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> e escreva <span class="input">ubuntu-bug ubuntu-docs</span>. Pressione <span class="gui">Enter</span> para iniciar o procedimento de recolha do erros.</p>
+<p class="p">Veja as <span class="link"><a href="report-ubuntu-bug.html.pt" title="Report a problem in Ubuntu">instruções para o envio de relatório de erros do Ubuntu</a></span> para mais informações sobre como relatar o seu erro.</p>
+<p class="p">Obrigado por ajudar a tornar a Ajuda Ubuntu melhor!</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -89,11 +87,7 @@ instructions</a></span> for more information about how to file your bug.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informação</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.pt" title="Get more help">Get more help</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html.pt" title="Acerca deste guia">Tips on using this guide</a></span>,
-        <span class="link"><a href="community-support.html.pt" title="Community support">get help from community</a></span>,
-        <span class="link"><a href="get-involved.html.pt" title="Participe para melhorar este guia">help improve this guide</a></span>…
-    </span>
+<a href="more-help.html.pt" title="Obter mais ajuda">Obter mais ajuda</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.pt" title="Acerca deste guia">Dicas sobre a utilização deste guia</a></span>, <span class="link"><a href="community-support.html.pt" title="Community support">obter ajuda da comunidade</a></span>, <span class="link"><a href="get-involved.html.pt" title="Participe para melhorar este guia">ajudar a melhorar este guia</a></span>...</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

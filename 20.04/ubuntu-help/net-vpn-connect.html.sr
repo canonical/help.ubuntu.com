@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
       may need to enter a password for the connection before it is established.
       Once the connection is made, you will see a lock shaped icon in the top
       bar.</p></li>
-<li class="steps"><p class="p">На срећу, успешно ћете се повезати на ВПН. Ако до тога не дође, мораћете два пута да проверите ВПН подешавања. Ово можете да урадите на табли <span class="gui">Мрежа</span> коју сте користили да направите везу. Изаберите ВПН везу са списка, затим притисните дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> да прегледате подешавања.</p></li>
+<li class="steps"><p class="p">На срећу, успешно ћете се повезати на ВПН. Ако до тога не дође, мораћете два пута да проверите ВПН подешавања. Ово можете да урадите на табли <span class="gui">Мрежа</span> коју сте користили да направите везу. Изаберите ВПН везу са списка, затим притисните дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="подешавања"></span></span> да прегледате подешавања.</p></li>
 <li class="steps"><p class="p">Да искључите ВПН, кликните на изборник система на горњој траци и кликните <span class="gui">Прекини везу</span> испод назива ваше ВПН везе.</p></li>
 </ol></div></div></div>
 </div>

@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Si voleu imprimir un llibret des d'un document <span class="app">LibreOffice</span>, primer exporteu-lo a un PDF triant a <span class="guiseq"><span class="gui">Fitxer</span> ▸ <span class="gui">Exporta com a PDF…</span></span>. El document ha de tenir un nombre múltiple de 4 pàgines (4, 8, 12, 16,...). És possible que hàgiu d'afegir fins a 3 pàgines en blanc.</p>
 </div></div></div>
 </div>
-<p class="p">Imprimir:</p>
+<p class="p">A imprimir:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu el diàleg d'impressió. Normalment, es pot fer a través del menú d'<span class="gui">Imprimeix</span> o utilitzant la drecera de teclat <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps">
@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">A <span class="gui">Rang i còpies</span>, seleccioneu <span class="gui">Pàgines</span>.</p>
 <p class="p">Escriviu el nombre de pàgines en aquest ordre (n és el nombre total de pàgines i múltiple de 4):</p>
 <p class="p">n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9, 10, n-9, n-10, 11, 12, n-11…</p>
-<p class="p">... fins que hàgiu escrit totes les pàgines.</p>
+<p class="p">…fins que hàgiu escrit totes les pàgines.</p>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="steps">
 <p class="p">Trieu la pestanya <span class="gui">Disseny de pàgina</span>.</p>
-<p class="p">A <span class="gui">Disseny</span>, seleccioneu <span class="gui">Fulletó</span>.</p>
+<p class="p">A <span class="gui">Disposició</span>, seleccioneu <span class="gui">Fullet</span>.</p>
 <p class="p">A <span class="gui">Cares de la pàgina</span>, a la llista desplegable <span class="gui">Incloure</span>, seleccioneu <span class="gui">Cares frontals / pàgines de la dreta</span>.</p>
 </li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Imprimeix</span>.</p></li>

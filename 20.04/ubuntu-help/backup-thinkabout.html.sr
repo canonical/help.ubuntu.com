@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Скривене датотеке</p>
-<p class="p">Свака датотека или фасцикла чији назив почиње тачком (.) је скривена по основи. Да прикажете скривене датотеке, кликните на дугме <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Могућности прегледа"></span></span></span> на траци алата, и затим изаберите <span class="gui">Прикажи скривене датотеке</span>, или притисните <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Н</kbd></span></span>. И њих можете да умножите у место резерве као сваку другу датотеку.</p>
+<p class="p">Свака датотека или фасцикла чији назив почиње тачком (.) је скривена по основи. Да прикажете скривене датотеке, кликните на дугме <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Могућности прегледа"></span></span></span> на траци алата, и затим изаберите <span class="gui">Прикажи скривене датотеке</span>, или притисните <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>Н</kbd></span></span>. И њих можете да умножите у место резерве као сваку другу датотеку.</p>
 </li>
 <li class="list">
 <p class="p">Лична подешавања (поставке радне површи, теме, и подешавања програма)</p>

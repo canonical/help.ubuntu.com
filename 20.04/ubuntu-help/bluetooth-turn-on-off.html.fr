@@ -78,19 +78,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Activez le Bluetooth pour vous connecter aux autres périphériques Bluetooth, ou désactivez-le pour économiser l'énergie. Pour activer le Bluetooth :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Bluetooth</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Set the switch at the top to on.</p></li>
+<li class="steps"><p class="p">Basculez le commutateur dans la partie supérieure.</p></li>
 </ol></div></div></div>
 <p class="p">Beaucoup d'ordinateurs portables disposent d'un sélecteur matériel ou ont une combinaison de touches pour activer ou désactiver le Bluetooth. Recherchez un bouton sur votre ordinateur ou une touche sur votre clavier. On peut souvent accéder à la touche clavier grâce à la touche <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
 <p class="p">Pour désactiver le Bluetooth :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#systemmenu" title="System menu">system menu</a></span> from the
-      right side of the top bar.</p></li>
-<li class="steps"><p class="p">Select
-      <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span>
-      Not In Use</span>. The Bluetooth section of the menu will expand.</p></li>
+<li class="steps"><p class="p">Ouvrez le <span class="gui"><a href="shell-introduction.html.fr#systemmenu" title="System menu">Menu système</a></span> dans la partie droite de la barre supérieure.</p></li>
+<li class="steps"><p class="p">Sélectionnez <span class="gui"><span class="media"><span class="media media-image"><img src="figures/bluetooth-active-symbolic.svg" class="media media-inline" alt=""></span></span>Inactif</span>. La partie Bluetooth du menu se déroule.</p></li>
 <li class="steps"><p class="p">Sélectionnez <span class="gui">Éteindre</span>.</p></li>
 </ol></div></div></div>
 <div class="note" title="Note">

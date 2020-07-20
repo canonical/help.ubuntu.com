@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>My new iPod won’t work</title>
+<title>iPod baru saya tak bekerja</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,12 +73,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="media.html.id" title="Suara, video, &amp; gambar">Suara, video, &amp; gambar</a> › <a class="trail" href="media.html.id#music" title="Pemutar audio portabel dan musik">Musik dan pemutar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">My new iPod won’t work</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">iPod baru saya tak bekerja</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you have a new iPod that has never been connected to a computer before, it won’t be recognized properly when you connect it to a Linux computer. This is because iPods need to be set up and updated using the <span class="app">iTunes</span> software, which only runs on Windows and Mac OS.</p>
-<p class="p">To set up your iPod, install iTunes on a Windows or Mac computer and plug it in. You will be led through a few steps to set it up. If asked for the <span class="gui">Volume Format</span>, choose <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> or similar. The other format (HFS/Mac) does not work as well with Linux.</p>
-<p class="p">Once you have finished setup, the iPod should work normally when you plug it into a Linux computer.</p>
+<p class="p">Jika Anda memiliki iPod baru yang belum pernah terhubung ke komputer sebelumnya, itu tidak akan dikenali dengan benar ketika Anda menghubungkannya ke komputer Linux. Hal ini karena iPod perlu diatur dan diperbarui menggunakan perangkat lunak <span class="app">iTunes</span>, yang hanya berjalan pada Windows dan Mac OS.</p>
+<p class="p">Untuk menyiapkan iPod Anda, instal iTunes di komputer Windows atau Mac dan sambungkan. Anda akan dituntun melalui beberapa langkah untuk mengaturnya. Jika diminta untuk <span class="gui">Format Volume</span>, pilih <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> atau serupa. Format lain (HFS/Mac) tidak bekerja baik dengan Linux.</p>
+<p class="p">Setelah Anda selesai menyiapkan, iPod harus bekerja secara normal saat Anda menyambungkannya ke komputer Linux.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

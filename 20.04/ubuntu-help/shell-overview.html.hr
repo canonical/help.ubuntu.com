@@ -92,14 +92,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.hr" title="Calendar appointments"><span class="title">Calendar appointments</span><span class="linkdiv-dash"> — </span><span class="desc">Display your appointments in the calendar area at the top of the
     screen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.hr" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.hr" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Messages drop down from the top of the screen telling you when
     certain events happen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.hr" title="Pin your favorite apps to the dash"><span class="title">Pin your favorite apps to the dash</span><span class="linkdiv-dash"> — </span><span class="desc">Add (or remove) frequently-used program icons on the dash.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.hr" title="Pin your favorite apps to the dash"><span class="title">Pin your favorite apps to the dash</span><span class="linkdiv-dash"> — </span><span class="desc">Add (or remove) frequently-used program icons on the dash.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Aplikacije i prozori</span></h2></div>

@@ -79,9 +79,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Podeu controlar els formats que s'utilitzen per a dates, hores, números, moneda, i mesures perquè coincideixin amb la configuració local de la vostra regió.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Regió i idioma</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Regió i idioma</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Regió i idioma</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Formats</span>.</p></li>
-<li class="steps"><p class="p">Seleccioneu la regió i l'idioma que coincideixi millor amb els formats que voleu utilitzar. Si la vostra regió i el vostre idioma no apareixen a la llista, feu clic a <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> a la part inferior de la llista per seleccionar entre totes les regions i idiomes disponibles.</p></li>
+<li class="steps"><p class="p">Seleccioneu la regió i l'idioma que coincideixi millor amb els formats que voleu utilitzar. Si la vostra regió i el vostre idioma no apareixen a la llista, feu clic a <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> a la part inferior de la llista per a seleccionar entre totes les regions i idiomes disponibles.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Fet</span> per desar.</p></li>
 <li class="steps"><p class="p">Responeu a la sol·licitud, <span class="gui"> 	S'ha de tornar a iniciar la sessió perquè els canvis tinguin efecte</span> fent clic a <span class="gui">Reinicia ara</span>, o fent clic a <span class="gui">×</span> per reiniciar més endavant.</p></li>
 </ol></div></div></div>

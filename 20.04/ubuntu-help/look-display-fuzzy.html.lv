@@ -80,7 +80,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
-<li class="steps"><p class="p">Sānu joslā nospiediet <span class="gui">Ierīces</span>.</p></li>
 <li class="steps"><p class="p">Sānu joslā spiediet <span class="gui">Displeji</span>, lai atvērtu paneli.</p></li>
 <li class="steps"><p class="p">Izmēģiniet kādas no <span class="gui">Izšķirtspējas</span> opcijām un izvēlieties to, ar kuru ekrāns izskatās .vislabāk.</p></li>
 </ol></div></div></div>

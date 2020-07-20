@@ -70,13 +70,14 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Instellingen voor delen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">De instellingen voor <span class="em">Delen</span> in Gnome helpen u bij het beheren van wat er gedeeld wordt op een lokaal netwerk; dit kan ook middels andere technieken zoals <span class="em">Bluetooth</span>.</p>
+<p class="p">The <span class="em">Sharing Settings</span> help you control what is shared over the
+  local network, or through other technologies such as <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.nl" title="De weergavenaam van uw computer instellen"><span class="title">De weergavenaam van uw computer instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Bepalen hoe uw computer weergegeven wordt op andere computers of apparaten.</span></a></div>

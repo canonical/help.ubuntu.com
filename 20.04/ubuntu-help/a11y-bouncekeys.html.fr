@@ -82,11 +82,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Activation des touches rebond</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Activez les <span class="em">touches rebond</span> pour ignorer les appuis rapides et répétés sur une même touche. Par exemple, si vous souffrez de tremblements de la main qui vous fait appuyer plusieurs fois sur la même touche au lieu d'une seule fois, vous devriez activer cette fonction.</p>
+<p class="p">Activez les <span class="em">touches rebond</span> pour ignorer les appuis rapides et répétés sur une même touche. Par exemple, si vous souffrez de tremblements de la main qui vous fait appuyer plusieurs fois sur la même touche au lieu d’une seule fois, vous devriez activer cette fonction.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">À la rubrique <span class="gui">Saisie</span>, cliquez sur <span class="gui">Assistant de saisie (AccessX)</span>.</p></li>
 <li class="steps"><p class="p">Switch the <span class="gui">Bounce Keys</span> switch to on.</p></li>

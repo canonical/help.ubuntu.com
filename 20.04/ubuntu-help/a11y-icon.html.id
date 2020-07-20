@@ -87,10 +87,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Switch the <span class="gui">Always Show Universal Access Menu</span> switch to
-      on.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Selalu Tunjukkan Menu Akses Universal</span>.</p></li>
 </ol></div></div></div>
-<p class="p">Untuk mengakses menu ini menggunakan papan tik daripada mouse, tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> untuk memindahkan fokus keyboard untuk bar bagian atas. Sebuah garis putih akan muncul di bawah <span class="gui">Aktivitas</span> tombol - ini memberitahu Anda item mana pada bar bagian atas yang dipilih. Gunakan tombol panah pada keyboard untuk memindahkan garis putih di bawah ikon menu akses universal dan kemudian tekan <span class="key"><kbd>Enter</kbd></span> untuk membukanya. Anda dapat menggunakan atas dan bawah tombol panah untuk memilih item dalam menu. Tekan <span class="key"><kbd>Enter</kbd></span> untuk beralih item yang dipilih.</p>
+<p class="p">Untuk mengakses menu ini menggunakan papan tik daripada tetikus, tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> untuk memindahkan fokus papan tik untuk bar bagian atas. Sebuah garis putih akan muncul di bawah <span class="gui">Aktivitas</span> tombol - ini memberitahu Anda item mana pada bar bagian atas yang dipilih. Memakai tombol panah pada papan tik untuk memindahkan garis putih di bawah ikon menu akses universal dan kemudian tekan <span class="key"><kbd>Enter</kbd></span> untuk membukanya. Anda dapat menggunakan atas dan bawah tombol panah untuk memilih item dalam menu. Tekan <span class="key"><kbd>Enter</kbd></span> untuk beralih item yang dipilih.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

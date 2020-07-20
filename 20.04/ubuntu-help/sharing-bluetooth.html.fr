@@ -87,8 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Autorisation du partage des fichiers de votre dossier <span class="gui">Téléchargements</span>.</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Bluetooth</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Make sure that <span class="link"><a href="bluetooth-turn-on-off.html.fr" title="Activation ou désactivation du Bluetooth"><span class="gui">Bluetooth</span>
       is switched on</a></span>.</p></li>

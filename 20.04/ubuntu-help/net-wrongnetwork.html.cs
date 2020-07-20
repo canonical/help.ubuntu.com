@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Wi-Fi</span>.</p></li>
 <li class="steps"><p class="p">Najděte síť, ke které se již dále <span class="em">nechcete</span> připojovat.</p></li>
-<li class="steps"><p class="p">Zmáčkněte tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span> vedle názvu sítě.</p></li>
+<li class="steps"><p class="p">Zmáčkněte tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="nastavení"></span></span> vedle názvu sítě.</p></li>
 <li class="steps"><p class="p">Zmáčkněte tlačítko <span class="gui">Zapomenout připojení</span>. Počítač se již napříště nebude pokoušet k této síti připojit.</p></li>
 </ol></div>
 </div></div>

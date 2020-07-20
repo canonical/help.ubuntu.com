@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">La major part de distribucions venen amb l'aplicació <span class="app">Rellotges</span> instal·lada per defecte. Si a la vostra no ho està, haureu d'instal·lar-la utilitzant el gestor de paquets de la vostra distribució.</p>
 </div></div></div>
 </div>
-<p class="p">Per a afegir un rellotge mundial:</p>
+<p class="p">Per a afegir un rellotge del món:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Feu clic al rellotge en la barra superior.</p></li>
 <li class="steps">
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Si ja té un o més rellotges del món, feu clic en un i es llençarà l'aplicació <span class="app">Rellotges</span>.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Si ja teniu un o més rellotges del món, feu clic en un i es llençarà l'aplicació <span class="app">Rellotges</span>.</p></div></div></div>
 </div>
 </li>
 <li class="steps"><p class="p">A la finestra <span class="app">Rellotges</span>, feu clic al botó <span class="gui">Nou</span> o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> per a afegir una nova ciutat.</p></li>

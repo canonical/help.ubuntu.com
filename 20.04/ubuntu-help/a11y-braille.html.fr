@@ -76,10 +76,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Lecture en Braille d'un écran</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME offre le lecteur d'écran <span class="app">Orca</span> pour afficher l'interface utilisateur sur une plage Braille. Si Orca n'est pas installé sur votre système, commencez par l'installer.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can display the user interface on a
+  refreshable Braille display. Depending on how you installed your system, you
+  might not have Orca installed. If not, install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Installer Orca</a></span></p>
-<p class="p">Refer to the <span class="link"><a href="help:orca" title="help:orca">Orca Help</a></span> for
-  more information.</p>
+<p class="p">Se référer à <span class="link"><a href="help:orca" title="help:orca">l’aide d’Orca</a></span> pour plus d’informations.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

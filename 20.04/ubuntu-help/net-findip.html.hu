@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Válassza a bal oldali listából a <span class="gui">Wi-Fi</span> vagy <span class="gui">Vezetékes</span> kapcsolatot.</p>
 <p class="p">A vezetékes kapcsolat IP-címe a jobb oldalon jelenik meg.</p>
-<p class="p">A vezeték nélküli kapcsolat IP-címének megjelenítéséhez kattintson a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gombra a <span class="gui">Részletek</span> panelen.</p>
+<p class="p">A vezeték nélküli kapcsolat IP-címének megjelenítéséhez kattintson a <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="beállítások"></span></span> gombra a <span class="gui">Részletek</span> panelen.</p>
 </li>
 </ol></div>
 </div></div>

@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.id" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -81,64 +81,27 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="net-wireless-troubleshooting-hardware-check.html.id" title="Pelacak masalah sambungan nirkabel">Sebelumnya</a><span>Selanjutnya</span>
 </div></nav><div class="hgroup pagewide">
 <h1 class="title"><span class="title">Pelacak masalah jaringan nirkabel</span></h1>
-<h2 class="subtitle"><span class="subtitle">Make sure that working device drivers are installed</span></h2>
+<h2 class="subtitle"><span class="subtitle">Pastikan bahwa driver perangkat yang bekerja diinstal</span></h2>
 </div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">In this step you can check to see if you can get working device drivers
-  for your wireless adapter. A <span class="em">device driver</span> is a piece of software
-  which tells the computer how to make a hardware device work properly. Even
-  though the wireless adapter has been recognized by the computer, it may not
-  have drivers which work very well. You may be able to find different drivers
-  for the wireless adapter which do work. Try some of the options below:</p>
+<p class="p">Pada langkah ini Anda dapat memeriksa untuk melihat apakah Anda bisa mendapatkan driver perangkat yang bekerja untuk adapter nirkabel Anda. <span class="em">Driver perangkat</span> adalah bagian dari perangkat lunak yang memberitahu komputer bagaimana membuat perangkat keras bekerja dengan benar. Meskipun adaptor nirkabel telah diakui oleh komputer, mungkin tidak memiliki driver yang bekerja sangat baik. Anda mungkin dapat menemukan driver yang berbeda untuk adaptor nirkabel yang bekerja. Cobalah beberapa opsi di bawah ini:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Check to see if your wireless adapter is on a list of supported
-      devices.</p>
-<p class="p">Most Linux distributions keep a list of wireless devices that they
-      have support for. Sometimes, these lists provide extra information on how
-      to get the drivers for certain adapters working properly. Go to the list
-      for your distribution (for example,
-      <span class="link"><a href="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported" title="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">Ubuntu</a></span>,
-      <span class="link"><a href="https://wiki.archlinux.org/index.php/Wireless_network_configuration" title="https://wiki.archlinux.org/index.php/Wireless_network_configuration">Arch</a></span>,
-      <span class="link"><a href="http://linuxwireless.org/en/users/Drivers" title="http://linuxwireless.org/en/users/Drivers">Fedora</a></span> or
-      <span class="link"><a href="http://en.opensuse.org/HCL:Network_(Wireless)" title="http://en.opensuse.org/HCL:Network_(Wireless)">openSUSE</a></span>)
-      and see if your make and model of wireless adapter is listed. You may be
-      able to use some of the information there to get your wireless drivers
-      working.</p>
+<p class="p">Periksa untuk mengetahui apakah adaptor nirkabel Anda ada di daftar perangkat yang didukung.</p>
+<p class="p">Sebagian besar distribusi Linux menyimpan daftar perangkat nirkabel yang mereka dukung. Terkadang, daftar ini memberikan informasi tambahan tentang cara mendapatkan driver untuk adapter tertentu yang berfungsi dengan benar. Pergi ke daftar untuk distribusi Anda (misalnya, <span class="link"><a href="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported" title="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">Ubuntu</a></span>, <span class="link"><a href="https://wiki.archlinux.org/index.php/Wireless_network_configuration" title="https://wiki.archlinux.org/index.php/Wireless_network_configuration">Arch</a></span>, <span class="link"><a href="http://linuxwireless.org/en/users/Drivers" title="http://linuxwireless.org/en/users/Drivers">Fedora</a></span>, atau <span class="link"><a href="http://en.opensuse.org/HCL:Network_(Wireless)" title="http://en.opensuse.org/HCL:Network_(Wireless)">openSUSE</a></span>) dan melihat apakah tipe dan model adaptor nirkabel Anda terdaftar. Anda mungkin dapat menggunakan beberapa informasi di sana agar driver nirkabel Anda bekerja.</p>
 </li>
 <li class="list">
-<p class="p">Look for restricted (binary) drivers.</p>
-<p class="p">Many Linux distributions only come with device drivers which are
-      <span class="em">free</span> and <span class="em">open source</span>. This is because they cannot
-      distribute drivers which are proprietary, or closed-source. If the
-      correct driver for your wireless adapter is only available in a non-free,
-      or “binary-only” version, it may not be installed by default. If this is
-      the case, look on the wireless adapter manufacturer’s website to see if
-      they have any Linux drivers.</p>
-<p class="p">Some Linux distributions have a tool that can download restricted
-      drivers for you. If your distribution has one of these, use it to see if
-      it can find any wireless drivers for you.</p>
+<p class="p">Carilah penggerak yang terbatas (biner).</p>
+<p class="p">Banyak distribusi Linux hanya datang dengan driver perangkat yang <span class="em">bebas</span> dan <span class="em">open source</span>. Hal ini karena mereka tidak dapat mendistribusikan driver yang proprietary, atau closed-source. Jika pengandar yang benar untuk adapter nirkabel Anda hanya tersedia dalam versi non-bebas, atau "biner saja", mungkin tidak diinstal secara default. Jika hal ini terjadi, lihat di situs web produsen adaptor nirkabel untuk melihat apakah mereka memiliki driver Linux.</p>
+<p class="p">Beberapa distribusi Linux memiliki alat yang dapat mengunduh driver terbatas untuk Anda. Jika distribusi Anda memiliki salah satunya, gunakan untuk melihat apakah ada driver nirkabel yang dapat ditemukan untuk Anda.</p>
 </li>
 <li class="list">
-<p class="p">Use the Windows drivers for your adapter.</p>
-<p class="p">In general, you cannot use a device driver designed for one operating
-      system (like Windows) on another operating system (like Linux). This is
-      because they have different ways of handling devices. For wireless
-      adapters, however, you can install a compatibility layer called
-      <span class="em">NDISwrapper</span> which lets you use some Windows wireless drivers on
-      Linux. This is useful because wireless adapters almost always have
-      Windows drivers available for them, whereas Linux drivers are sometimes
-      not available. You can learn more about how to use NDISwrapper
-      <span class="link"><a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page" title="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page">here</a></span>.
-      Note that not all wireless drivers can be used through NDISwrapper.</p>
+<p class="p">Menggunakan penggerak Windows bagi adaptor Anda.</p>
+<p class="p">Secara umum, Anda tidak dapat menggunakan pengandar perangkat yang dirancang untuk satu sistem operasi (seperti Windows) pada sistem operasi lain (seperti Linux). Hal ini karena mereka memiliki cara yang berbeda untuk menangani perangkat. Untuk adapter nirkabel, bagaimanapun, Anda dapat menginstal lapisan kompatibilitas yang disebut <span class="em">ndiswrapper</span> yang memungkinkan Anda menggunakan beberapa driver nirkabel Windows di Linux. Hal ini berguna karena adapter Wireless hampir selalu memiliki driver Windows yang tersedia untuk mereka, sedangkan driver Linux terkadang tidak tersedia. Anda dapat mempelajari lebih lanjut tentang cara menggunakan NDISwrapper <span class="link"><a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page" title="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page">di sini</a></span>. Perhatikan bahwa tidak semua driver nirkabel dapat digunakan melalui NDISwrapper.</p>
 </li>
 </ul></div></div></div>
-<p class="p">If none of these options work, you may want to try a different wireless
-  adapter to see if you can get that working. USB wireless adapters are often
-  quite cheap, and will plug into any computer. You should check that the
-  adapter is compatible with your Linux distribution before buying it,
-  though.</p>
+<p class="p">Jika tidak satu pun dari opsi ini bekerja, Anda mungkin ingin mencoba adaptor nirkabel yang berbeda untuk melihat apakah Anda bisa mendapatkan yang bekerja. Adapter nirkabel USB sering cukup murah, dan akan dapat ditancapkan ke komputer manapun. Namun Anda harus memeriksa bahwa adaptor kompatibel dengan distribusi Linux Anda sebelum membelinya.</p>
 </div>
 <nav class="prevnext pagewide"><div class="inner">
 <a href="net-wireless-troubleshooting-hardware-check.html.id" title="Pelacak masalah sambungan nirkabel">Sebelumnya</a><span>Selanjutnya</span>
@@ -147,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Mengidentifikasi dan memperbaiki masalah koneksi nirkabel.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

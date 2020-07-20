@@ -86,7 +86,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Stellen Sie sicher, dass das zu kalibrierende Gerät mit Ihrem Rechner verbunden ist.</p></li>
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Einstellungen</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Einstellungen</span>.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Geräte</span> in der Seitenleiste.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Farbe</span> in der Seitenleiste, um das Panel zu öffnen.</p></li>
 <li class="steps"><p class="p">Wählen Sie Ihren Bildschirm aus.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Kalibrieren …</span> zum Starten der Kalibrierung.</p></li>

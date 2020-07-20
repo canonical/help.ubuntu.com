@@ -75,34 +75,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Escribir ficheiro nun CD ou DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Pode poñer ficheiros nun disco baleiro usando o <span class="gui">Creador de CD/DVD</span>. A opción de crear un CD ou un DVD aparecerá no xestor de ficheiros tan pronto como introduza un CD no seu gravador de CD/DVD. O xestor de ficheiros permítelle transferir ficheiros a outros computadores ou realizar <span class="link"><a href="backup-why.html.gl-GL" title="Facer unha copia de seguranza dos seus ficheiros importantes">copias de respaldo</a></span> poñendo ficheiros nun disco baleiro. Para escribir ficheiros nun CD ou DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Inserte un disco en branco na súa unidade de CD/DVD gravábel.</p></li>
-<li class="steps">
-<p class="p">Na notificaión <span class="gui">Disco CD/DVD-R baleiro</span> que aparece na parte inferior da pantalla, seleccione <span class="gui">Abrir co creador de CD/DVD</span>. Abrirase a xanela do cartafol do <span class="gui">Creador de CD/DVD</span>.</p>
-<p class="p">(Tamén pode premer en <span class="gui">Disco CD/DVD-R virxe</span> baixo <span class="gui">Dispositivos</span> na barra lateral do xestor de ficheiros.)</p>
-</li>
-<li class="steps"><p class="p">No campo <span class="gui">Nome do disco</span> escriba un nome para o disco.</p></li>
-<li class="steps"><p class="p">Arrastre ou copie os ficheiros que queira á xanela.</p></li>
-<li class="steps"><p class="p">Prema <span class="gui">Escribir a disco</span>.</p></li>
-<li class="steps">
-<p class="p">Baixo <span class="gui">Seleccione un disco onde escribir</span>, seleccione un disco en branco.</p>
-<p class="p">(Tamén pode seleccionar <span class="gui">Ficheiro de imaxe</span>. Isto porá os ficheiros nunha <span class="em">imaxe de disco</span>, que se gardará no seu computador. Máis tarde poderá gravar esa imaxe nun disco baleiro.)</p>
-</li>
-<li class="steps"><p class="p">Prema en <span class="gui">Propiedades</span> se desexa axustar a velocidade de gravación, a localización dos ficheiros temporais e outras opcións. As opcións predeterminadas deberían ser suficientes.</p></li>
-<li class="steps">
-<p class="p">Prema sobre o botón <span class="gui">Aplicar</span>.</p>
-<p class="p">Se selecciona <span class="gui">Gravar varias copias</span>, pediráselle que escriba máis discos.</p>
-</li>
-<li class="steps"><p class="p">Cando se remate de gravar o disco por completo, expulsarase automaticamente. Seleccione <span class="gui">Facer máis copias</span> ou <span class="gui">Pechar</span>para saír.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">O disco non se gravou correctamente</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">A veces o computador non grava correctamente os datos e non poderá ver os ficheiros que puxo no disco cando o introduza no seu computador.</p>
-<p class="p">Neste caso, pode gravar de novo o disco usando unha velocidade de gravación máis lenta; por exemplo 12x no lugar de 48x. Gravar a velocidades máis lentas é máis fiábel. Tamén pode seleccionar a velocidade premendo no botón <span class="gui">Propiedades</span> da xanela o <span class="gui">Creador de CD/DVD</span>.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
       is displayed.</p></li>
 </ol></div>
 </div></div>
-<p class="p">If an internal battery is detected, the <span class="gui">Battery</span> section
+<p class="p">If an internal battery is detected, the <span class="gui">Batteries</span> section
     displays the status of one or more laptop batteries. The indicator bar
     shows the percent charged, as well as time until fully charged if plugged
     in, and time remaining when running on battery power.</p>

@@ -91,7 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="characters"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Znaky</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">GNOME přináší aplikaci <span class="app">Znaky</span>, která umožňuje vyhledávat a vkládat méně obvyklé znaky, včetně emodži, a to buď ručním vyhledáním v kategoriích nebo vyhledáním na základě zadaného slova.</p>
+<p class="p">The character map application allows you to find and insert unusual
+    characters, including emoji, by browsing character categories or searching
+    for keywords.</p>
 <p class="p"><span class="app">Znaky</span> můžete spustit z přehledu <span class="gui">Činností</span>.</p>
 </div></div>
 </div></section><section id="compose"><div class="inner">

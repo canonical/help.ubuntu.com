@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Sobre</span>.</p></li>
 <li class="steps">
-<p class="p">Feu clic a <span class="gui">Quant a</span> per obrir el quadre.</p>
+<p class="p">Feu clic a <span class="gui">Quant a</span> per a obrir el quadre.</p>
 <p class="p">Apareix una finestra que mostra informació sobre el sistema, inclòs el nom de la vostra distribució i la versió del GNOME.</p>
 </li>
 </ol></div></div></div>

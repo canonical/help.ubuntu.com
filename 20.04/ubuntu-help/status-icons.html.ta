@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">மேல் பட்டியில் உள்ள சின்னங்களின் பொருள் என்ன?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">இந்தப் பிரிவு திரையின் மேல் வலது புறம் உள்ள சின்னங்களின் பொருளை விளக்குகிறது. குறிப்பாக GNOME வழங்கும் சின்னங்களின் பல்வேறு வகைகள் விவரிக்கப்படுகின்றன.</p>
+<p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the system are described.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="status-icons.html.ta#universalicons" title="அனைவருக்குமான அணுகல் மெனு சின்னங்கள்">அனைவருக்குமான அணுகல் மெனு சின்னங்கள்</a></li>
 <li class="links "><a href="status-icons.html.ta#audioicons" title="ஒலியளவு கட்டுப்பாடு சின்னங்கள்">ஒலியளவு கட்டுப்பாடு சின்னங்கள்</a></li>

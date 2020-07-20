@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.he" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.he#backup" title="Backing up">Backing up</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="files.html.he" title="Files, folders &amp; search">Files</a> › <a class="trail" href="files.html.he#backup" title="Backing up">Backing up</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Where can I find the files I want to back up?</span></h1></div>
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Hidden files</p>
 <p class="p">Any file or folder name that starts with a period (.) is hidden by
   default. To view hidden files, click the
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="View options"></span></span></span>
+  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="View options"></span></span></span>
   button in the toolbar, and then choose <span class="gui">Show Hidden Files</span>, or press
   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. You can copy these to a
   backup location like any other file.</p>

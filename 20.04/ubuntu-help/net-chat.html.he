@@ -2,7 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Chat &amp; Social Networking</title>
+<title>צ׳אטים ורשתות חברתיות</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,18 +70,18 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="net.html.he" title="Networking, web &amp; email">Networking, web &amp; email</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Chat &amp; Social Networking</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">צ׳אטים ורשתות חברתיות</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.he" title="Instant messaging on Ubuntu"><span class="title">Instant messaging on Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">With <span class="app">Empathy</span> you can chat, call and video call with friends
-      and colleagues on a variety of networks</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-chat-video.html.he" title="Video calls"><span class="title">Video calls</span><span class="linkdiv-dash"> — </span><span class="desc">What applications can I use to make video calls?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-chat-empathy.html.he" title="הודעות מיידיות באובונטו"><span class="title">הודעות מיידיות באובונטו</span><span class="linkdiv-dash"> — </span><span class="desc">With <span class="app">Empathy</span> you can chat, call and video call with friends
+      and colleagues on a variety of networks</span></a></div>
 </div>
-<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.he" title="How can I use Skype on Ubuntu?"><span class="title">How can I use Skype on Ubuntu?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> is proprietary software and must be installed manually
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-chat-skype.html.he" title="איך ניתן להשתמש ב־Skype עם אובונטו?"><span class="title">איך ניתן להשתמש ב־Skype עם אובונטו?</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="app">Skype</span> is proprietary software and must be installed manually
     on Ubuntu</span></a></div></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">

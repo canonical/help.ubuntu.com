@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
       may need to enter a password for the connection before it is established.
       Once the connection is made, you will see a lock shaped icon in the top
       bar.</p></li>
-<li class="steps"><p class="p">Cerams, jūs veiksmīgi savienosities ar VPN. Ja nē, varbūt vēlreiz ir nepieciešams pārbaudīt ievadītos VPN iestatījumus. Jūs to varat izdarīt no <span class="gui">Tīkla</span> paneļa, ko izmantojāt, lai izveidotu savienojumu. No saraksta izvēlieties VPN savienojumu, tad spiediet pogu <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="iestatījumi"></span></span>, lai pārskatītu iestatījumus.</p></li>
+<li class="steps"><p class="p">Cerams, jūs veiksmīgi savienosities ar VPN. Ja nē, varbūt vēlreiz ir nepieciešams pārbaudīt ievadītos VPN iestatījumus. Jūs to varat izdarīt no <span class="gui">Tīkla</span> paneļa, ko izmantojāt, lai izveidotu savienojumu. No saraksta izvēlieties VPN savienojumu, tad spiediet pogu <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="iestatījumi"></span></span>, lai pārskatītu iestatījumus.</p></li>
 <li class="steps"><p class="p">Lai atvienotos no VPN, spiediet uz sistēmas izvēlnē augšējajā joslā un spiediet <span class="gui">Izslēgt</span> zem sava VPN savienojuma nosaukuma.</p></li>
 </ol></div></div></div>
 </div>

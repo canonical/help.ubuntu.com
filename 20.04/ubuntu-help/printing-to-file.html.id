@@ -76,26 +76,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Cetak ke berkas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can choose to print a document to a file instead of sending it to
-  print from a printer. Printing to file will create a <span class="sys">PDF</span>, a
-  <span class="sys">PostScript</span> or a <span class="sys">SVG</span> file that contains the document.
-  This can be useful if you want to transfer the document to another machine
-  or to share it with someone.</p>
+<p class="p">Anda dapat memilih untuk mencetak dokumen ke berkas daripada mengirimnya untuk mencetak dari pencetak. Mencetak ke berkas akan membuat <span class="sys">PDF</span>, <span class="sys">PostScript</span>, atau berkas <span class="sys">SVG</span> yang berisi dokumen. Hal ini dapat berguna jika Anda ingin mentransfer dokumen ke mesin lain atau membagikannya dengan seseorang.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To print to file:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Untuk mencetak ke berkas:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the print dialog by pressing
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Print to File</span> under <span class="gui">Printer</span> in the
-      <span class="gui">General</span> tab.</p></li>
-<li class="steps"><p class="p">To change the default filename and where the file is saved to, click
-      the filename below the printer selection. Click
-      <span class="gui">Select</span> once you have finished choosing.</p></li>
-<li class="steps"><p class="p"><span class="sys">PDF</span> is the default file type for the document. If you want
-      to use a different <span class="gui">Output format</span>, select either
-      <span class="sys">PostScript</span> or <span class="sys">SVG</span>.</p></li>
-<li class="steps"><p class="p">Choose your other page preferences.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Print</span> to save the file.</p></li>
+<li class="steps"><p class="p">Buka dialog cetak dengan menekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Pilih <span class="gui">Cetak ke Berkas</span> di bawah <span class="gui">Pencetak</span> di tab <span class="gui">Umum</span>.</p></li>
+<li class="steps"><p class="p">Untuk mengubah nama berkas baku dan tempat berkas disimpan, klik nama berkas di bawah pilihan pencetak. Klik <span class="gui">Pilih</span> setelah Anda selesai memilih.</p></li>
+<li class="steps"><p class="p"><span class="sys">PDF</span> adalah jenis berkas baku untuk dokumen. Jika Anda ingin menggunakan <span class="gui">Format luaran</span>yang berbeda, pilih <span class="sys">PostScript</span> atau <span class="sys">SVG</span>.</p></li>
+<li class="steps"><p class="p">Pilih templat yang Anda inginkan dari daftar.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Cetak</span> untuk menyimpan berkas.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -104,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html.id" title="Pencetakan">Pencetakan</a><span class="desc"> — <span class="link"><a href="printing-setup.html.id" title="Mempersiapkan pencetak lokal">Penyiapan lokal</a></span>, <span class="link"><a href="printing-order.html.id" title="Make pages print in a different order">urutan dan kolasi</a></span>, <span class="link"><a href="printing-2sided.html.id" title="Print two-sided and multi-page layouts">dua sisi dan multi halaman</a></span>…</span>
+<a href="printing.html.id" title="Pencetakan">Pencetakan</a><span class="desc"> — <span class="link"><a href="printing-setup.html.id" title="Mempersiapkan pencetak lokal">Penyiapan lokal</a></span>, <span class="link"><a href="printing-order.html.id" title="Membuat halaman mencetak dalam urutan yang berbeda">urutan dan kolasi</a></span>, <span class="link"><a href="printing-2sided.html.id" title="Mencetak dua sisi dan tata letak multi halaman">dua sisi dan multi halaman</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

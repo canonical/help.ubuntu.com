@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.he" title="Install &amp; remove software">Add/remove software</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="addremove.html.he" title="התקנה והסרה של תכנה">הוספה/הסרה של תכנה</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">התקנת יישומים נוספים</span></h1></div>
@@ -78,12 +78,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">יישום הוא סוג של תכנית עם מנשק משמש (GUI). צוות הפיתוח של אובונטו בחר בערכת בררת מחדל של יישומים שלדעתנו יהפוך את מערכת אובונטו למאוד שימושית למשימות יומיומיות. עם זאת, כדאי לך להתקין יישומים נוספים כדי שמערכת אובונטו תהיה יותר שימושית עבורך. על מנת להתקין יישום כלשהו, ניתן להשתמש ב<span class="app">תכנה של אובונטו</span>.</p>
 <p class="p">יישומים זמינים בשתי תצורות: חבילות snap וחבילות דביאן. יישום שזמין כחבילת snap ייקרא מעתה <span class="em">snap</span>. חלק מהיישומים זמינים בשתי התצורות. במקרה שכזה ה־snap יופיע ראשון ב<span class="app">תכנה של אובונטו</span></p>
-<p class="p">יכול להיות שיעניין אותך להתקין תכניות שאין להן מנשק גרפי. כדי להתקין תכניות כאלה ניתן להשתמש ב־<span class="link"><a href="addremove-install-synaptic.html.he" title="Use Synaptic for more advanced software management">Synaptic</a></span>. לתשומת לבך: ב־<span class="app">Synaptic</span> לא מופיעות חבילות snap.</p>
+<p class="p">יכול להיות שיעניין אותך להתקין תכניות שאין להן מנשק גרפי. כדי להתקין תכניות כאלה ניתן להשתמש ב־<span class="link"><a href="addremove-install-synaptic.html.he" title="ב־Synaptic מוטב להשתמש לניהול מתקדם יותר של תכנה">Synaptic</a></span>. לתשומת לבך: ב־<span class="app">Synaptic</span> לא מופיעות חבילות snap.</p>
 <p class="p">כדי להתקין יישום:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">יש ללחוץ על סמל <span class="app">התכנה של אובונטו</span> ב<span class="gui">מעגן</span>, או לחפש אחר <span class="input">תכנה</span> בסרגל החיפוש <span class="em">פעילויות</span>.</p></li>
+<li class="steps"><p class="p">ללחוץ על סמל <span class="app">התכנה של אובונטו</span> ב<span class="gui">מעגן</span>, או לחפש אחר <span class="input">תכנה</span> בסרגל החיפוש <span class="em">פעילויות</span>.</p></li>
 <li class="steps"><p class="p">בעת טעינת <span class="app">התכנה של אובונטו</span>, ניתן לחפש יישום או לבחור בקטגוריה כדי לבחור ביישום מהרשימה.</p></li>
-<li class="steps"><p class="p">נא לבחור את היישום שברצונך להתקין וללחוץ על <span class="gui">התקנה</span>.</p></li>
+<li class="steps"><p class="p">לבחור את היישום שברצונך להתקין וללחוץ על <span class="gui">התקנה</span>.</p></li>
 <li class="steps"><p class="p">תופיע בפניך בקשה להתאמת על ידי הקלדת הססמה שלך. לאחר ההקלדה ההתקנה תתחיל. ההתקנה בדרך כלל מסתיימת מהר, אך יתכן שייקח זמן רב יותר אם החיבור שלך לאינטרנט אטי.</p></li>
 </ol></div></div></div>
 </div>
@@ -93,11 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.he" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — 
-      <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">Install applications</a></span>,
-      <span class="link"><a href="addremove-remove.html.he" title="Remove an application">remove applications</a></span>,
-      <span class="link"><a href="addremove-sources.html.he" title="Add software repositories">add repositories</a></span>…
-    </span>
+<a href="addremove.html.he" title="התקנה והסרה של תכנה">התקנה והסרה של תכנה</a><span class="desc"> — <span class="link"><a href="addremove-install.html.he" title="התקנת יישומים נוספים">התקנת יישומים</a></span>, <span class="link"><a href="addremove-remove.html.he" title="הסרת יישום">הסרת יישומים</a></span>, <span class="link"><a href="addremove-sources.html.he" title="הוספת מאגרי תכנה">הוספת מאגרים</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -107,19 +103,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="prefs-language-install.html.he" title="Install languages">Install languages</a><span class="desc"> — Install more translations and related language support packages.</span>
 </li>
 <li class="links ">
-<a href="addremove-remove.html.he" title="Remove an application">
-    Remove an application
-  </a><span class="desc"> — 
-      Remove applications that you no longer use.
-    </span>
+<a href="addremove-install-synaptic.html.he" title="ב־Synaptic מוטב להשתמש לניהול מתקדם יותר של תכנה">ב־Synaptic מוטב להשתמש לניהול מתקדם יותר של תכנה</a><span class="desc"> — Synaptic היא חלופה רבת עצמה אך מורכבת לניהול תכנה על פני <span class="app">התכנה של אובונטו</span>.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html.he" title="Use Synaptic for more advanced software management">
-    Use Synaptic for more advanced software management
-  </a><span class="desc"> — 
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span>
+<a href="addremove-remove.html.he" title="הסרת יישום">הסרת יישום</a><span class="desc"> — הסרת יישומים שאין לך עוד צורך בהם.</span>
 </li>
 </ul></div>
 </div></div>

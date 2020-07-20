@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Piilotetut tiedostot</p>
-<p class="p">Kaikki pisteellä alkavat tiedostot ja kansiot ovat oletuksena piilotiedostoja ja -kansioita. Piilotiedostojen selaaminen onnistuu napsauttamalla <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Näkymävalinnat"></span></span></span> ja valitsemalla <span class="gui">Näytä piilotiedostot</span>, tai painamalla näppäimistöstä <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Voit varmuuskopioida piilotiedostot aivan kuten tavalliset tiedostot.</p>
+<p class="p">Kaikki pisteellä alkavat tiedostot ja kansiot ovat oletuksena piilotiedostoja ja -kansioita. Piilotiedostojen selaaminen onnistuu napsauttamalla <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Näkymävalinnat"></span></span></span> ja valitsemalla <span class="gui">Näytä piilotiedostot</span>, tai painamalla näppäimistöstä <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Voit varmuuskopioida piilotiedostot aivan kuten tavalliset tiedostot.</p>
 </li>
 <li class="list">
 <p class="p">Henkilökohtaiset asetukset (työpöytäasetukset, teemat ja sovellusten asetukset)</p>

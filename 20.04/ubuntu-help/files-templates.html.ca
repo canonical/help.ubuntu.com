@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Obrir la carpeta on col·locar el document nou.</p></li>
 <li class="steps"><p class="p">Feu clic amb el botó dret a qualsevol lloc de l'espai buit de la carpeta i, a continuació, trieu <span class="gui">Document nou</span>. Els noms de les plantilles disponibles es mostraran al submenú.</p></li>
 <li class="steps"><p class="p">Trieu la plantilla que desitgi de la llista.</p></li>
-<li class="steps"><p class="p">Feu doble clic al fitxer per obrir-lo i començar a editar-lo. Podeu voler <span class="link"><a href="files-rename.html.ca" title="Canviar el nom d'un fitxer o carpeta">reanomenar-lo</a></span> quan acabi.</p></li>
+<li class="steps"><p class="p">Feu doble clic al fitxer per a obrir-lo i començar a editar-lo. Podeu voler <span class="link"><a href="files-rename.html.ca" title="Canviar el nom d'un fitxer o carpeta">reanomenar-lo</a></span> quan acabi.</p></li>
 </ol></div>
 </div></div>
 </div>

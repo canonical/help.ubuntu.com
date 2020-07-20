@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Ubah ukuran teks pada layar</title>
+<title>Mengubah ukuran teks pada layar</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,15 +73,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="a11y.html.id" title="Akses universal">Akses universal</a> › <a class="trail" href="a11y.html.id#vision" title="Masalah visual">Masalah visual</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Ubah ukuran teks pada layar</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mengubah ukuran teks pada layar</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Bila Anda mengalami kesulitan membaca teks pada layar Anda, Anda dapat mengubah ukuran fonta.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akses Universal</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akses Universal</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Seeing</span> section, switch the <span class="gui">Large Text</span>
-      switch to on.</p></li>
+<li class="steps"><p class="p">Dalam bagian <span class="gui">Penglihatan</span>, nyalakan <span class="gui">Teks Besar</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Sebagai alternatif, Anda dapat mengubah dengan cepat ukuran teks dengan mengklik <span class="link"><a href="a11y-icon.html.id" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Teks Besar</span>.</p>
 <div class="note note-tip" title="Tip">
@@ -90,8 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Dalam banyak aplikasi, Anda dapat memperbesar ukuran teks kapanpun dengan menekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>+</kbd></span></span>. Untuk memperkecil ukuran teks, tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>-</kbd></span></span>.</p></div></div></div>
 </div>
-<p class="p"><span class="gui">Large Text</span> will scale the text by 1.2 times. You can use
-  <span class="app">Tweaks</span> to make text size bigger or smaller.</p>
+<p class="p"><span class="gui">Teks Besar</span> akan memperbesar skala teks 1,2 kali. Anda dapat memakai <span class="app">Alat Oprek</span> untuk membuat ukuran teks lebih besar atau kecil.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

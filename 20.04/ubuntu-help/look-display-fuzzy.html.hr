@@ -81,7 +81,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otvorite <span class="gui"><a href="shell-introduction.html.hr#activities" title="Aktivnosti pregled">Aktivnosti</a></span> pregled i započnite upisivati <span class="gui">Postavke</span>.</p></li>
 <li class="steps"><p class="p">Kliknite na <span class="gui">Postavke</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
 <li class="steps"><p class="p">Kliknite na <span class="gui">Zasloni</span> u bočnoj traci za otvaranje panela.</p></li>
 <li class="steps"><p class="p">Try some of the <span class="gui">Resolution</span> options and select the one that
       makes the screen look better.</p></li>

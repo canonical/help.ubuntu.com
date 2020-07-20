@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.he" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-display.html.he" title="Display &amp; screen">Display &amp; screen</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="prefs.html.he" title="User &amp; system settings">Settings</a> » <a class="trail" href="prefs-display.html.he" title="Display &amp; screen">Display &amp; screen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Change the desktop and lock screen backgrounds</span></h1></div>
@@ -86,8 +86,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">There are two ways to change the image used for your backgrounds:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Click one of the many professional background images that ship with
-          GNOME. You can choose <span class="gui">Set Background</span>, <span class="gui">Set Lock
+<p class="p">Click one of the background images which are shipped with the
+          system. You can choose <span class="gui">Set Background</span>, <span class="gui">Set Lock
           Screen</span>, or <span class="gui">Set Background and Lock Screen</span>.</p>
 <div class="note" title="הערה">
 <svg width="24" height="24" version="1.1">

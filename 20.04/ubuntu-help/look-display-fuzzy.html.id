@@ -76,31 +76,20 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mengapa berbagai hal terlihat kabur/kotak-kotak pada layar saya?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The display resolution that is configured may not be the correct one for
-  your screen. To solve this:</p>
+<p class="p">Resolusi layar yang dikonfigurasi mungkin tidak benar untuk layar Anda. Untuk mengatasinya:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span>
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Try some of the <span class="gui">Resolution</span> options and select the one that
-      makes the screen look better.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Tampilan</span> dalam bilah sisi untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Cobalah beberapa pilihan <span class="gui">Resolusi</span> dan pilih salah satu yang membuat layar terlihat lebih baik.</p></li>
 </ol></div></div></div>
 </div>
 <section id="multihead"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Ketika multi tampilan terhubung</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">If you have two displays connected to the computer (for example, a normal
-  monitor and a projector), the displays might have different optimal, or
-  <span class="link"><a href="look-resolution.html.id#native" title="Native Resolution">native</a></span>, resolutions.</p>
-<p class="p">Using <span class="link"><a href="display-dual-monitors.html.id#modes" title="Display modes">Mirror</a></span> mode, you can
-  display the same thing on two screens. Both screens use the same resolution,
-  which may not match the native resolution of either screen, so the sharpness
-  of the image may suffer on both screens.</p>
-<p class="p">Using <span class="link"><a href="display-dual-monitors.html.id#modes" title="Display modes">Join Displays</a></span> mode,
-  the resolution of each screen can be set independently, so they can both be
-  set to their native resolution.</p>
+<p class="p">Jika Anda memiliki dua layar yang tersambung ke komputer (misalnya, monitor normal dan proyektor), layar mungkin memiliki resolusi optimal atau <span class="link"><a href="look-resolution.html.id#native" title="Resolusi Asli">asli</a></span> yang berbeda.</p>
+<p class="p">Menggunakan mode <span class="link"><a href="display-dual-monitors.html.id#modes" title="Mode tampilan">Cermin</a></span>, Anda dapat menampilkan hal yang sama pada dua layar. Kedua layar menggunakan resolusi yang sama, yang mungkin tidak cocok dengan resolusi asli salah satu layar, sehingga ketajaman gambar mungkin memburuk pada kedua layar.</p>
+<p class="p">Dengan menggunakan mode <span class="link"><a href="display-dual-monitors.html.id#modes" title="Mode tampilan">Gabung Tampilan</a></span>, resolusi setiap layar dapat disetel secara terpisah, sehingga keduanya dapat disetel ke resolusi asli mereka.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -114,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html.id" title="Change the resolution or orientation of the screen">Change the resolution or orientation of the screen</a><span class="desc"> — Ubah resolusi layar dan orientasinya (rotasi).</span>
+<a href="look-resolution.html.id" title="Mengubah resolusi atau orientasi layar">Mengubah resolusi atau orientasi layar</a><span class="desc"> — Mengubah resolusi layar dan orientasinya (rotasi).</span>
 </li></ul></div>
 </div></div>
 </div>

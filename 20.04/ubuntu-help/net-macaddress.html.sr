@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Изаберите уређај, <span class="gui">бежични</span> или <span class="gui">жичани</span> са списка на левој страни.</p>
 <p class="p">МАК адреса за жичани уређај биће приказана као <span class="gui">Хардверска адреса</span> са десне стране.</p>
-<p class="p">Притисните на дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> да видите МАК адресу бежичног уређаја која се приказује као <span class="gui">хардверска адреса</span> у панелу <span class="gui">детаља</span>.</p>
+<p class="p">Притисните на дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="подешавања"></span></span> да видите МАК адресу бежичног уређаја која се приказује као <span class="gui">хардверска адреса</span> у панелу <span class="gui">детаља</span>.</p>
 </li>
 </ol></div></div></div>
 <p class="p">У пракси, можда ћете морати да измените или да „преварите“ МАК адресу. На пример, неки достављачи интернет услуга могу да захтевају да буде коришћена одређена МАК адреса за приступ њиховој услузи. Ако мрежна картица престане да ради, и морате да је замените новом, услуга неће више радити. У том случају, мораћете да преварите МАК адресу.</p>

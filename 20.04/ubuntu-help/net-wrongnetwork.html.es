@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Inalámbrica</span>.</p></li>
 <li class="steps"><p class="p">Vaya a la pestaña <span class="gui">Inalámbrica</span> y busque la red a la que <span class="em">no</span> quiere permanecer conectado.</p></li>
-<li class="steps"><p class="p">Pulse el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuración"></span></span> que está junto a la red.</p></li>
+<li class="steps"><p class="p">Pulse el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configuración"></span></span> que está junto a la red.</p></li>
 <li class="steps"><p class="p">Pulse el botón <span class="gui">olvidar conexión</span>. Su equipo no volverá a intentar conectarse a esa red.</p></li>
 </ol></div>
 </div></div>

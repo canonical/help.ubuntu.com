@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Print envelopes</title>
+<title>Mencetak amplop</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,33 +73,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="printing.html.id" title="Pencetakan">Pencetakan</a> › <a class="trail" href="printing.html.id#paper" title="Tata letak dan ukuran kertas yang berbeda">Tata letak dan ukuran</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Print envelopes</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mencetak amplop</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Most printers will allow you to print directly onto an envelope. This is especially useful if you have a lot of letters to send,
-  for example.</p></div>
+<div class="contents pagewide"><p class="p">Sebagian besar pencetak akan memungkinkan Anda untuk mencetak langsung ke amplop. Hal ini sangat berguna jika Anda memiliki banyak surat untuk dikirim, misalnya.</p></div>
 <section id="envelope"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Mencetak pada amplop</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">There are two things you need to check when trying to print onto an
-  envelope.</p>
-<p class="p">The first is that your printer knows what size the envelope is. Press
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> to open the Print dialog, go to
-  the <span class="gui">Page Setup</span> tab and choose the <span class="gui">Paper type</span> as “Envelope”
-  if you can. If you cannot do this, see if you can change the <span class="gui">Paper
-  size</span> to an envelope size (for example, <span class="gui">C5</span>). The pack of
-  envelopes will say what size they are; most envelopes come in standard
-  sizes.</p>
-<p class="p">Secondly, you need to make sure that the envelopes are loaded with the
-  right side up in the printer’s in-tray. Check the printer’s manual for this,
-  or try to print a single envelope and check which side is printed on to see
-  which way is the right way up.</p>
+<p class="p">Ada dua hal yang perlu Anda periksa ketika mencoba mencetak ke amplop.</p>
+<p class="p">Yang pertama adalah bahwa pencetak Anda tahu apa ukuran amplop. Tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> untuk membuka dialog Cetak, pergi ke tab <span class="gui">Penyiapan Halaman</span> dan pilih <span class="gui">Jenis kertas</span> sebagai "Amplop" jika Anda bisa. Jika Anda tidak dapat melakukannya, lihat apakah Anda dapat mengubah <span class="gui">Ukuran kertas</span> ke ukuran amplop (misalnya, <span class="gui">C5</span>). Kotak amplop akan mengatakan apa ukuran mereka; sebagian besar amplop datang dalam ukuran standar.</p>
+<p class="p">Kedua, Anda perlu memastikan bahwa amplop dimuat dengan sisi yang benar di dalam baki pencetak. Periksa panduan pencetak untuk ini, atau cobalah untuk mencetak satu amplop dan periksa sisi mana yang tercetak pada untuk melihat arah mana yang benar.</p>
 <div class="note note-warning" title="Peringatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Some printers are not designed to be able to print envelopes, especially
-    some laser printers. Check your printer’s manual to see if it accepts
-    envelopes. Otherwise, you could damage the printer by feeding an envelope
-    in.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Beberapa pencetak tidak dirancang untuk dapat mencetak amplop, terutama beberapa pencetak laser. Periksa panduan pencetak Anda untuk melihat apakah itu menerima amplop. Jika tidak, Anda dapat merusak pencetak dengan memasukkan amplop.</p></div></div></div>
 </div>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

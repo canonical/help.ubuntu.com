@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Παράθυρα και χώροι εργασίας</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Όπως άλλα γραφικά περιβάλλοντα, το GNOME χρησιμοποιεί παράθυρα για να εμφανίσει τις εκτελούμενες εφαρμογές σας. Χρησιμοποιώντας την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και το <span class="em">ταμπλό</span>, μπορείτε να εκκινήσετε νέες εφαρμογές και να ελέγξετε τα ενεργά παράθυρα.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
 <p class="p">Μπορείτε επίσης να ομαδοποιήσετε τις εφαρμογές σας στους χώρους εργασίας. Επισκεφτείτε τα θέματα βοήθειας για τα παράθυρα και τους χώρους εργασίας για καλύτερη εκμάθηση χρήσης αυτών των λειτουργιών.</p>
 </div>
 <section id="working-with-windows"><div class="inner">

@@ -84,7 +84,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Hay dos formas de cambiar la imagen usada como fondo:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Pulse en una de las imágenes de fondo profesionales que se distribuyen con GNOME. Puede elegir <span class="gui">Establecer como fondo</span>, <span class="gui">Establecer como pantalla de bloqueo</span>, o <span class="gui">Establecer como fondo y pantalla de bloqueo</span>.</p>
+<p class="p">Click one of the background images which are shipped with the
+          system. You can choose <span class="gui">Set Background</span>, <span class="gui">Set Lock
+          Screen</span>, or <span class="gui">Set Background and Lock Screen</span>.</p>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>

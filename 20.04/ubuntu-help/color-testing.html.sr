@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Ефекти профила боје су понекада неприметни и може бити тешко видети их ако ништа значајније није измењено.</p>
-<p class="p">Гном долази са неколико профила за испробавање који га чине јасним када су профили примењени:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Плаво</dt>
 <dd class="terms"><p class="p">Ово ће поставити плави екран и испробаће да ли су криве калибрације послате на екран.</p></dd>
@@ -90,7 +91,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Activities</a></span> overview and
       start typing <span class="gui">Settings</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Color</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Изаберите уређај за који желите да додате профил. Можда ћете пожелети да забележите који профил се тренутно користи.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Додај профил</span> да изаберете пробни профил, који треба да се налази на дну списка.</p></li>

@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Sieć</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Sieć</span>, aby otworzyć panel.</p></li>
 <li class="steps"><p class="p">Wybierz <span class="gui">Wi-Fi</span> z listy po lewej.</p></li>
-<li class="steps"><p class="p">Kliknij przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ustawienia"></span></span>, aby otworzyć informacje o połączeniu.</p></li>
+<li class="steps"><p class="p">Kliknij przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="ustawienia"></span></span>, aby otworzyć informacje o połączeniu.</p></li>
 <li class="steps"><p class="p">Wybierz <span class="gui">Tożsamość</span> z panelu po lewej.</p></li>
 <li class="steps"><p class="p">Na dole panelu <span class="gui">Tożsamość</span> zaznacz opcję <span class="gui">Dostępne dla innych użytkowników</span>, aby pozostali użytkownicy mogli używać połączenia sieciowego.</p></li>
 <li class="steps"><p class="p">Kliknij przycisk <span class="gui">Zastosuj</span>, aby zapisać zmiany.</p></li>

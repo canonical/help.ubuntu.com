@@ -141,10 +141,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="links ">
 <a href="power-suspend.html.fi" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?">Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?</a><span class="desc"> — Valmiustila asettaa tietokoneen virtaa säästävään tilaan.</span>
 </li>
-<li class="links "><a href="shell-exit.html.fi#shutdown" title="Sammutus tai uudelleenkäynnistys">Sammutus tai uudelleenkäynnistys</a></li>
 <li class="links ">
-<a href="power-wireless.html.fi" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wifi ja mobiililaajakaista voidaan sammuttaa akun varauksen säästämiseksi.</span>
+<a href="power-wireless.html.fi" title="Sammuta käytössä tarpeettomat teknologiat">Sammuta käytössä tarpeettomat teknologiat</a><span class="desc"> — Bluetooth, wifi ja mobiililaajakaista voidaan sammuttaa akun varauksen säästämiseksi.</span>
 </li>
+<li class="links "><a href="shell-exit.html.fi#shutdown" title="Sammutus tai uudelleenkäynnistys">Sammutus tai uudelleenkäynnistys</a></li>
 <li class="links ">
 <a href="power-status.html.fi" title="Tarkista akun tila">Tarkista akun tila</a><span class="desc"> — Näytä akun ja yhdistettyjen laitteiden varauksen tila.</span>
 </li>

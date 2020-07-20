@@ -79,50 +79,32 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Memakai daya lebih sedikit dan meningkatkan umur baterai</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Computers can use a lot of power. By using some simple energy-saving
-  strategies, you can reduce your energy bill and help the environment.</p></div>
+<div class="contents pagewide"><p class="p">Komputer dapat menggunakan banyak daya. Dengan menggunakan beberapa strategi penghematan energi sederhana, Anda dapat mengurangi tagihan listrik Anda dan membantu lingkungan.</p></div>
 <section id="general"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tip umum</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="link"><a href="shell-exit.html.id#suspend" title="Suspensi">Suspensikan komputer Anda.</a></span> ketika Anda tidak sedang memakainya. Ini mengurangi daya yang dipakainya secara signifikan, dan dia dapat dibangunkan kembali dengan sangat cepat.</p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-exit.html.id#shutdown" title="Matikan atau start ulang">Matikan</a></span> komputer ketika Anda tidak menggunakannya untuk perioda yang lebih panjang. Beberapa orang khawatir bahwa mematikan komputer secara reguler dapat menyebabkannya aus lebih cepat, tapi sebenarnya tidak.</p></li>
-<li class="list"><p class="p">Use the <span class="gui">Power</span> panel in <span class="app">Settings</span> to change your
-    power settings. There are a number of options that will help to save power:
-    you can <span class="link"><a href="display-blank.html.id" title="Atur waktu pengosongan layar">automatically blank the screen</a></span>
-    after a certain time, reduce the <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">screen
-    brightness</a></span>, and have the computer
-    <span class="link"><a href="power-autosuspend.html.id" title="Set up automatic suspend">automatically suspend</a></span> if you have not
-    used it for a certain period of time.</p></li>
-<li class="list"><p class="p">Turn off any external devices (like printers and scanners) when you are
-    not using them.</p></li>
+<li class="list"><p class="p">Memakai panel <span class="gui">Daya</span> dalam <span class="app">Pengaturan</span> untuk mengubah pengaturan daya Anda. Ada sejumlah pilihan yang akan membantu untuk menghemat daya: Anda dapat <span class="link"><a href="display-blank.html.id" title="Atur waktu pengosongan layar">secara otomatis mengosongkan layar</a></span> setelah waktu tertentu, mengurangi <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">kecerahan layar</a></span>, dan membuat komputer <span class="link"><a href="power-autosuspend.html.id" title="Menyiapkan suspensi otomatis">secara otomatis disuspensi</a></span> jika Anda tidak menggunakannya untuk jangka waktu tertentu.</p></li>
+<li class="list"><p class="p">Matikan perangkat eksternal apa pun (seperti pencetak dan pemindai) bila Anda tidak menggunakannya.</p></li>
 </ul></div></div></div></div></div>
 </div></section><section id="laptop"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Laptop, netbook, dan perangkat lain yang memakai baterai</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Reduce the <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">screen
-     brightness</a></span>. Powering the screen accounts for a significant fraction
-     of a laptop power consumption.</p>
-<p class="p">Most laptops have buttons on the keyboard (or a keyboard shortcut) that
-     you can use to reduce the brightness.</p>
+<p class="p">Kurangi <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">kecerahan layar</a></span>. Menyalakan layar mengkonsumsi sebagian daya laptop yang signifikan.</p>
+<p class="p">Kebanyakan laptop memiliki tombol pada papan tik (atau pintasan papan tik) yang dapat Anda gunakan untuk mengurangi kecerahan.</p>
 </li>
 <li class="list">
-<p class="p">If you do not need an Internet connection for a little while, turn off
-     the wireless or Bluetooth cards. These devices work by broadcasting radio
-     waves, which takes quite a bit of power.</p>
-<p class="p">Some computers have a physical switch that can be used to turn it off,
-     whereas others have a keyboard shortcut that you can use instead. You can
-     turn it on again when you need it.</p>
+<p class="p">Jika Anda tidak memerlukan koneksi internet untuk sementara, matikan kartu nirkabel atau Bluetooth. Perangkat ini bekerja dengan penyiaran gelombang radio, yang mengambil daya cukup sedikit.</p>
+<p class="p">Beberapa komputer memiliki saklar fisik yang dapat digunakan untuk mematikannya, sedangkan yang lain memiliki pintasan papan tik yang dapat Anda gunakan sebagai gantinya. Anda dapat mengaktifkannya lagi saat membutuhkannya.</p>
 </li>
 </ul></div></div></div></div></div>
 </div></section><section id="advanced"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">More advanced tips</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Tips lanjutan lainnya</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list">
-<p class="p">Reduce the number of tasks that are running in the background.
-     Computers use more power when they have more work to do.</p>
-<p class="p">Most of your running applications do very little when you are not
-     actively using them. However, applications that frequently grab data from
-     the internet or play music or movies can impact your power consumption.</p>
+<p class="p">Mengurangi jumlah tugas yang berjalan di latar belakang. Komputer menggunakan lebih banyak daya ketika mereka memiliki lebih banyak pekerjaan yang harus dilakukan.</p>
+<p class="p">Sebagian besar aplikasi Anda yang berjalan melakukan sangat sedikit ketika Anda tidak aktif menggunakan mereka. Namun, aplikasi yang sering mengambil data dari internet atau memutar musik atau film dapat berdampak pada konsumsi daya Anda.</p>
 </li></ul></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -130,11 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
-    </span>
+<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Status baterai</a></span>, <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspensi</a></span>, <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">peredupan layar</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -144,23 +122,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">Apa yang terjadi ketika saya mensuspensi komputer?</a><span class="desc"> — Suspensi mengatur komputer Anda agar tidur sehingga memakai lebih sedikit daya.</span>
 </li>
 <li class="links ">
-<a href="display-brightness.html.id" title="Atur kecerahan layar">Atur kecerahan layar</a><span class="desc"> — Ubah kecerahan layar agar layar lebih mudah dibaca saat berada di cahaya yang terang.</span>
+<a href="display-brightness.html.id" title="Atur kecerahan layar">Atur kecerahan layar</a><span class="desc"> — Mengubah kecerahan layar agar layar lebih mudah dibaca saat berada di cahaya yang terang.</span>
 </li>
 <li class="links "><a href="shell-exit.html.id#shutdown" title="Matikan atau start ulang">Matikan atau start ulang</a></li>
 <li class="links ">
-<a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">Mengapa layar saya meredup setelah beberapa saat?</a><span class="desc"> — The screen will dim when the computer is idle in order to save power.</span>
+<a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">Mengapa layar saya meredup setelah beberapa saat?</a><span class="desc"> — Layar akan meredup ketika komputer menganggur untuk menghemat daya.</span>
 </li>
 <li class="links ">
-<a href="power-batterywindows.html.id" title="Mengapa usia baterai saya kurang daripada di Windows/Mac OS?">Mengapa usia baterai saya kurang daripada di Windows/Mac OS?</a><span class="desc"> — Tweaks from the manufacturer and differing battery life estimates may
-    be the cause of this problem.</span>
+<a href="power-batterywindows.html.id" title="Mengapa usia baterai saya kurang daripada di Windows/Mac OS?">Mengapa usia baterai saya kurang daripada di Windows/Mac OS?</a><span class="desc"> — Tweak dari produsen dan perkiraan masa pakai baterai yang berbeda mungkin menjadi penyebab masalah ini.</span>
 </li>
 <li class="links ">
-<a href="power-status.html.id" title="Periksa status baterai">Periksa status baterai</a><span class="desc"> — Display the status of the battery and connected devices.</span>
+<a href="power-wireless.html.id" title="Menonaktifkan teknologi nirkabel yang tidak terpakai">Menonaktifkan teknologi nirkabel yang tidak terpakai</a><span class="desc"> — Bluetooth, wi-fi, dan data seluler dapat dimatikan untuk mengurangi penggunaan baterai.</span>
+</li>
+<li class="links ">
+<a href="power-status.html.id" title="Periksa status baterai">Periksa status baterai</a><span class="desc"> — Menampilkan status baterai dan perangkat yang terhubung.</span>
 </li>
 <li class="links "><a href="shell-exit.html.id#suspend" title="Suspensi">Suspensi</a></li>
-<li class="links ">
-<a href="power-wireless.html.id" title="Switch off unused wireless technologies">Switch off unused wireless technologies</a><span class="desc"> — Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span>
-</li>
 </ul></div>
 </div></div>
 </div>

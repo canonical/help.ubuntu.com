@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
       may need to enter a password for the connection before it is established.
       Once the connection is made, you will see a lock shaped icon in the top
       bar.</p></li>
-<li class="steps"><p class="p">Remélhetőleg sikerül csatlakoznia a VPN-hez. Ellenkező esetben ellenőrizze a megadott VPN-beállításokat. Ezt a kapcsolat létrehozására használt <span class="gui">Hálózat</span> panelen teheti meg. Válassza ki a VPN-kapcsolatot a listából, majd nyomja meg a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gombot a beállítások áttekintéséhez.</p></li>
+<li class="steps"><p class="p">Remélhetőleg sikerül csatlakoznia a VPN-hez. Ellenkező esetben ellenőrizze a megadott VPN-beállításokat. Ezt a kapcsolat létrehozására használt <span class="gui">Hálózat</span> panelen teheti meg. Válassza ki a VPN-kapcsolatot a listából, majd nyomja meg a <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="beállítások"></span></span> gombot a beállítások áttekintéséhez.</p></li>
 <li class="steps"><p class="p">A VPN-kapcsolat bontásához kattintson a rendszer menüre a felső sávon, és válassza a <span class="gui">Kikapcsolás</span> menüpontot a VPN-kapcsolat neve alatt.</p></li>
 </ol></div></div></div>
 </div>

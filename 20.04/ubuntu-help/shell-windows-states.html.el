@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Μετακίνηση και αυξομείωση παραθύρων</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Μπορείτε να μετακινήσετε και να αυξομειώσετε τα παράθυρα για να δουλέψετε πιο αποτελεσματικά. Πέρα από την συμπεριφορά συρσίματος που μπορεί να περιμένετε, οι λειτουργίες συντομεύσεων και τροποποιητών του GNOME σας βοηθούν στην γρήγορη τακτοποίηση των παραθύρων.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Μετακινήστε ένα παράθυρο σύροντας τη γραμμή τίτλου, ή κρατώντας πατημένο το πλήκτρο <span class="key"><a href="keyboard-key-super.html.el" title="Τι είναι το πλήκτρο Λογότυπο;"><kbd>Λογότυπο</kbd></a></span> και σύροντας το οπουδήποτε στο παράθυρο. Κρατήστε πατημένο το <span class="key"><kbd>Shift</kbd></span> ενώ μετακινείτε για να προσκολλήσετε το παράθυρο στις άκρες της οθόνης ή και σε άλλα παράθυρα.</p></li>
 <li class="list"><p class="p">Αυξομειώστε το μέγεθος ενός παραθύρου σύροντας τις άκρες ή τη γωνία του παραθύρου. Κρατήστε πατημένο το <span class="key"><kbd>Shift</kbd></span> ενώ αυξομειώνετε για να προσκολλήστε το παράθυρο στα άκρα της οθόνης και σε άλλα παράθυρα.</p></li>

@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Izvēlieties <span class="gui">Wi-Fi</span> vai <span class="gui">Vadu</span> no saraksta kreisajā pusē.</p>
 <p class="p">IP adrese vadu savienojumam tiks parādīta labajā pusē.</p>
-<p class="p">Spiediet pogu <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="iestatījumi"></span></span>, lai redzētu IP adreses bezvadu tīklam rūtī <span class="gui">Sistēmas informācija</span>.</p>
+<p class="p">Spiediet pogu <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="iestatījumi"></span></span>, lai redzētu IP adreses bezvadu tīklam rūtī <span class="gui">Sistēmas informācija</span>.</p>
 </li>
 </ol></div>
 </div></div>

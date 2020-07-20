@@ -70,13 +70,16 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Universele toegang</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Het Gnome-bureaublad bevat assisterende technologieën om gebruikers met een beperking en speciale behoeften te ondersteunen, en om te kunnen werken met algemene ondersteunende apparaten. Via het toegankelijkheidsmenu dat kan worden toegevoegd aan de bovenbalk, heeft u toegang tot veel van de toegankelijkheidsfuncties.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.nl" title="Het menu Universele toegang vinden"><span class="title">Het menu Universele toegang vinden</span><span class="linkdiv-dash"> — </span><span class="desc">Het menu Universele toegang is het pictogram in de bovenbalk dat eruit ziet als een persoon.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">
@@ -183,7 +186,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Meer informatie</span></h2></div>
-<div class="region"><ul><li class="links "><a href="index.html.nl" title="Handleiding Ubuntu-desktop">Handleiding Ubuntu-desktop</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving">Gids voor de Ubuntu-werkomgeving</a></li></ul></div>
 </div></div></div>
 </div></section>
 </div>

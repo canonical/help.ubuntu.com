@@ -85,7 +85,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Nastavení</span>.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Nastavení</span>.</p></li>
-<li class="steps"><p class="p">V postranním panelu klikněte na <span class="gui">Zařízení</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Barvy</span> v postranním panelu otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte své zařízení.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Přidat profil</span> pro výběr stávajícího profilu nebo import nového profilu.</p></li>

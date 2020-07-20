@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Accès universel</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Le bureau GNOME offre des techniques d'assistance pour aider les utilisateurs souffrant de divers handicaps et ayant certains besoins et pour interagir avec les périphériques d'assistance standards. Il est possible d'ajouter un menu d'accessibité dans la barre supérieure, permettant d'accéder à ses différentes fonctions.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.fr" title="Recherche du menu « Accès universel »"><span class="title">Recherche du menu « Accès universel »</span><span class="linkdiv-dash"> — </span><span class="desc">Le menu Accès universel est l'icône de la barre supérieure qui ressemble à un personnage.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">
@@ -115,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="sound"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Audition défaillante</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><ul><li class="links ">
-<a href="a11y-visualalert.html.fr" title="Clignotement de l'écran lors des alertes sonores">Clignotement de l'écran lors des alertes sonores</a><span class="desc"> — Activer les alertes visuelles pour faire clignoter l'écran ou la fenêtre quand une alerte sonore est émise.</span>
+<a href="a11y-visualalert.html.fr" title="Clignotement de l’écran lors des alertes sonores">Clignotement de l’écran lors des alertes sonores</a><span class="desc"> — Activer les alertes visuelles pour faire clignoter l'écran ou la fenêtre quand une alerte sonore est émise.</span>
 </li></ul></div></div></div></div></div>
 </div></section><section id="mobility"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Mobilité défaillante</span></h2></div>
@@ -150,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-links"><h3><span class="title">Utilisation du clavier</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="a11y-slowkeys.html.fr" title="Activation des touches lentes">Activation des touches lentes</a><span class="desc"> — Définir un délai entre le moment où une touche est pressée et celui où la lettre correspondante apparaît à l'écran.</span>
+<a href="a11y-slowkeys.html.fr" title="Activation des touches lentes">Activation des touches lentes</a><span class="desc"> — Définir un délai entre le moment où une touche est pressée et celui où la lettre correspondante apparaît à l’écran.</span>
 </li>
 <li class="links ">
 <a href="a11y-bouncekeys.html.fr" title="Activation des touches rebond">Activation des touches rebond</a><span class="desc"> — Ignorer les appuis de touches rapides et identiques.</span>

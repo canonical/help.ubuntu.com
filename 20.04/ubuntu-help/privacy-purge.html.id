@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
-<div class="trail">
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -89,16 +89,14 @@ document.addEventListener('DOMContentLoaded', function() {
   background. They can increase performance by providing a copy of data that
   was downloaded or computed.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Automatically empty your trash and clear temporary files</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Secara otomatis mengosongkan tong sampah dan berkas sementara</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Privasi</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Privasi</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Purge Trash &amp; Temporary Files</span>.</p></li>
 <li class="steps"><p class="p">Switch one or both of the <span class="gui">Automatically empty Trash</span> or
       <span class="gui">Automatically purge Temporary Files</span> switches to on.</p></li>
-<li class="steps"><p class="p">Set how often you would like your <span class="em">Trash</span>  and
-      <span class="em">Temporary Files</span> to be purged by changing the
-      <span class="gui">Purge After</span> value.</p></li>
+<li class="steps"><p class="p">Mengatur seberapa sering Anda ingin <span class="em">Tong Sampah</span> dan <span class="em">Berkas Sementara</span> untuk dibersihkan dengan mengubah nilai <span class="gui">Pembersihan Setelah</span>.</p></li>
 <li class="steps"><p class="p">Use the <span class="gui">Empty Trash</span> or <span class="gui">Purge Temporary Files</span>
       buttons to perform these actions immediately.</p></li>
 </ol></div>
@@ -116,14 +114,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 <li class="links ">
-<a href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.id" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.id" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Kunci layar</a></span>, <span class="link"><a href="privacy-history-recent-off.html.id" title="Matikan atau membatasi pelacakan riwayat berkas">Riwayat penggunaan</a></span>, <span class="link"><a href="privacy-purge.html.id" title="Purge trash &amp; temporary files">Bersihkan sampah &amp; berkas sementara</a></span>…</span>
 </li>
+<li class="links "><a href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a></li>
 </ul></div>
 </div></div></div>
 </div></section>

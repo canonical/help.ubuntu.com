@@ -81,35 +81,17 @@ document.addEventListener('DOMContentLoaded', function() {
   <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview. This is where you
   can find all of your applications. You can also open the overview by pressing
   the <span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span> key.</p>
-<p class="p">There are several ways of opening an application once you’re in the
-  <span class="gui">Activities</span> overview:</p>
+<p class="p">Ada beberapa cara untuk membuka aplikasi setelah Anda berada di ringkasan <span class="gui">Aktivitas</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Start typing the name of an application — searching begins instantly.
-      (If this doesn’t happen, click the search bar at the top of the screen
-      and start typing.) If you don’t know the exact name of an application, try
-      to type an related term. Click the application’s icon to start it.</p></li>
+<li class="list"><p class="p">Mulai ketikkan nama aplikasi — penelusuran dimulai seketika. (Jika ini tidak tidak terjadi, klik bilah pencarian di bagian puncak layar dan mulai mengetik.) Jika Anda tidak mengetahui nama aplikasi yang tepat, coba ketikkan istilah terkait. Klik ikon aplikasi untuk memulainya.</p></li>
 <li class="list">
-<p class="p">Some applications have icons in the <span class="em">dash</span>, the vertical strip
-      of icons on the left-hand side of the <span class="gui">Activities</span> overview.
-      Click one of these to start the corresponding application.</p>
-<p class="p">If you have applications that you use very frequently, you can
-      <span class="link"><a href="shell-apps-favorites.html.id" title="Pin your favorite apps to the dash">add them to the dash</a></span>
-      yourself.</p>
+<p class="p">Beberapa aplikasi memiliki ikon di <span class="em">dash</span>, strip vertikal ikon di sisi kiri ringkasan <span class="gui">Aktivitas</span>. Klik salah satu dari ini untuk memulai aplikasi yang sesuai.</p>
+<p class="p">Jika Anda memiliki aplikasi yang sering Anda gunakan, Anda dapat <span class="link"><a href="shell-apps-favorites.html.id" title="Menyematkan aplikasi favorit Anda ke dash">menambahkannya ke dash</a></span> sendiri.</p>
 </li>
-<li class="list"><p class="p">Click the grid button at the bottom of the dash. You will see the
-      frequently used applications if the <span class="gui">Frequent</span>
-      view is enabled. If you want to run a new application, press the
-      <span class="gui">All</span> button at the bottom to view all the
-      applications. Press on the application to start it.</p></li>
+<li class="list"><p class="p">Klik tombol grid di bagian dasar dash. Anda akan melihat aplikasi yang sering digunakan jika tampilan <span class="gui">Sering</span> diaktifkan. Jika Anda ingin menjalankan aplikasi baru, tekan tombol <span class="gui">Semua</span> di bagian dasar untuk melihat semua aplikasi. Tekan pada aplikasi untuk memulainya.</p></li>
 <li class="list">
-<p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html.id" title="Apa itu ruang kerja, dan bagaimana itu akan membantu saya?">workspace</a></span> by dragging its icon from
-      the dash, and dropping it onto one of the workspaces on the right-hand
-      side of the screen. The application will open in the chosen
-      workspace.</p>
-<p class="p">You can launch an application in a <span class="em">new</span> workspace by dragging
-      its icon to the empty workspace at the bottom of the workspace
-      switcher, or to the small gap between two workspaces.</p>
+<p class="p">Anda dapat meluncurkan aplikasi di <span class="link"><a href="shell-workspaces.html.id" title="Apa itu ruang kerja, dan bagaimana itu akan membantu saya?">ruang kerja</a></span> terpisah dengan menyeret ikonnya dari dash, dan menjatuhkannya ke salah satu ruang kerja di sisi kanan layar. Aplikasi akan terbuka di ruang kerja yang dipilih.</p>
+<p class="p">Anda dapat meluncurkan aplikasi di ruang kerja <span class="em">baru</span> dengan menyeret ikonnya ke ruang kerja kosong di bagian bawah penukar ruang kerja, atau celah kecil antara dua ruang kerja.</p>
 </li>
 </ul></div></div></div>
 <div class="note note-tip" title="Tip">
@@ -120,11 +102,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-note"><h2><span class="title">Menjalankan perintah dengan cepat</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Cara lain meluncurkan aplikasi adalah dengan menekan <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span>, memasukkan <span class="em">nama perintahnya</span>, lalu menekan tombol <span class="key"><kbd>Enter</kbd></span>.</p>
-<p class="p">For example, to launch <span class="app">Rhythmbox</span>, press
-    <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-    ‘<span class="cmd">rhythmbox</span>’ (without the single-quotes). The name of the app is
-    the command to launch the program.</p>
-<p class="p">Use the arrow keys to quickly access previously run commands.</p>
+<p class="p">Misalnya, untuk meluncurkan <span class="app">Rhythmbox</span>, tekan <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> dan ketik '<span class="cmd">rhythmbox</span>' (tanpa tanda kutip tunggal). Nama aplikasi adalah perintah untuk meluncurkan program.</p>
+<p class="p">Gunakan tombol panah untuk cepat mengakses perintah yang dijalankan sebelumnya.</p>
 </div></div>
 </div>
 </div>
@@ -136,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-overview.html.id" title="Desktop Anda">Desktop Anda</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">Kalendar</a></span>, <span class="link"><a href="shell-notifications.html.id" title="Notifications and the notification list">pemberitahuan</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">pintasan papan ketik</a></span>, <span class="link"><a href="shell-windows.html.id" title="Jendela dan area kerja">jendela dan ruang kerja</a></span>…</span>
+<a href="shell-overview.html.id" title="Desktop Anda">Desktop Anda</a><span class="desc"> — <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">Kalendar</a></span>, <span class="link"><a href="shell-notifications.html.id" title="Notifikasi dan daftar notifikasi">pemberitahuan</a></span>, <span class="link"><a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">pintasan papan ketik</a></span>, <span class="link"><a href="shell-windows.html.id" title="Jendela dan area kerja">jendela dan ruang kerja</a></span>…</span>
 </li>
 <li class="links "><a href="index.html.id" title="Panduan Desktop Ubuntu">Panduan Desktop Ubuntu</a></li>
 </ul></div>
@@ -145,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="shell-apps-favorites.html.id" title="Pin your favorite apps to the dash">Pin your favorite apps to the dash</a><span class="desc"> — Tambah (atau hapus) ikon program yang sering dipakai pada dash.</span>
+<a href="shell-apps-favorites.html.id" title="Menyematkan aplikasi favorit Anda ke dash">Menyematkan aplikasi favorit Anda ke dash</a><span class="desc"> — Tambah (atau hapus) ikon program yang sering dipakai pada dash.</span>
 </li>
 <li class="links "><a href="gs-launch-applications.html.id" title="Meluncurkan aplikasi">Tutorial tentang meluncurkan aplikasi</a></li>
 <li class="links "><a href="gs-use-system-search.html.id" title="Memakai pencarian sistem">Tutorial tentang memakai pencarian sistem</a></li>

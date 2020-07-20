@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Мрежа</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Мрежа</span> да отворите панел.</p></li>
 <li class="steps"><p class="p">Изаберите <span class="gui">Бежична</span> са списка на левој страни.</p></li>
-<li class="steps"><p class="p">Притисните на дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="подешавања"></span></span> да отворите појединости везе.</p></li>
+<li class="steps"><p class="p">Притисните на дугме <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="подешавања"></span></span> да отворите појединости везе.</p></li>
 <li class="steps"><p class="p">Изаберите <span class="gui">Идентитет</span> у окну на левој страни.</p></li>
 <li class="steps"><p class="p">На дну панела <span class="gui">Идентитет</span>, изаберите опцију <span class="gui">Учини доступно осталим корисницима</span> да омогућите осталим корисницима да користе мрежну везу.</p></li>
 <li class="steps"><p class="p">Притисните <span class="gui">Примени</span> да сачувате измене.</p></li>

@@ -115,9 +115,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </ol></div></div></div>
 </div></div>
 </div></section><section id="modes"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Display modes</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Näyttötilat</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">With two screens, these display modes are available:</p>
+<p class="p">Kahta näyttöä käyttämällä nämä kaksi näyttötilaa ovat käytettävissä:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Join Displays:</span> screen edges are joined so things can
       pass from one display to another.</p></li>
@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.fi" title="Näyttö">Näyttö</a><span class="desc"> — <span class="link"><a href="look-background.html.fi" title="Muuta työpöydän ja lukitusnäytön taustaa">Taustakuva</a></span>, <span class="link"><a href="look-resolution.html.fi" title="Change the resolution or orientation of the screen">koko ja suunta</a></span>, <span class="link"><a href="display-brightness.html.fi" title="Aseta näytön kirkkaus">kirkkaus</a></span>, <span class="link"><a href="display-night-light.html.fi" title="Määritä näytön värilämpötila">värilämpötila</a></span>…</span>
+<a href="prefs-display.html.fi" title="Näyttö">Näyttö</a><span class="desc"> — <span class="link"><a href="look-background.html.fi" title="Muuta työpöydän ja lukitusnäytön taustaa">Taustakuva</a></span>, <span class="link"><a href="look-resolution.html.fi" title="Vaihda näytön tarkkuutta tai suuntausta">koko ja suunta</a></span>, <span class="link"><a href="display-brightness.html.fi" title="Aseta näytön kirkkaus">kirkkaus</a></span>, <span class="link"><a href="display-night-light.html.fi" title="Määritä näytön värilämpötila">värilämpötila</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

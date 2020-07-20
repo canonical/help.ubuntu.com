@@ -80,7 +80,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ποια όργανα μέτρησης χρώματος υποστηρίζονται;</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Το GNOME βασίζεται στο σύστημα διαχείρισης χρώματος Argyll για υποστήριξη οργάνων χρώματος. Έτσι υποστηρίζονται τα ακόλουθα όργανα μέτρησης εμφάνισης:</p>
+<p class="p">
+    The system relies on the Argyll color management system to support
+    color instruments. Thus the following display measuring instruments
+    are supported:
+  </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Gretag-Macbeth i1 Pro (φασματόμετρο)</p></li>
 <li class="list"><p class="p">Gretag-Macbeth i1 Monitor (φασματόμετρο)</p></li>

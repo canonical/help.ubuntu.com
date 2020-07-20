@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Movendo e redimensionando janelas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Você pode mover e redimensionar janelas para lhe ajudar a trabalhar mais eficientemente. Além do comportamento de arrastar que é de se esperar, GNOME fornece atalhos e modificadores para ajudar você a organizar janelas rapidamente.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Mova uma janela arrastando a barra de título, segure <span class="key"><a href="keyboard-key-super.html.pt-BR" title="O que é a tecla Super?"><kbd>Super</kbd></a></span> e arraste para qualquer lugar na janela. Segure <span class="key"><kbd>Shift</kbd></span> enquanto move para atrair a janela para as bordas da tela e outras janelas.</p></li>
 <li class="list"><p class="p">Redimensione uma janela arrastando as bordas ou contas da janela. Segure <span class="key"><kbd>Shift</kbd></span> enquanto redimensiona para atribuir a janela para as bordas da tela e outras janelas.</p></li>

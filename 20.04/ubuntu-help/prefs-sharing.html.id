@@ -76,12 +76,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Pengaturan Berbagi</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The <span class="em">Sharing Settings</span> in GNOME help you control what is shared
-  over the local network, or through other technologies such as
-  <span class="em">Bluetooth</span>.</p>
+<p class="p">The <span class="em">Sharing Settings</span> help you control what is shared over the
+  local network, or through other technologies such as <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.id" title="Set the display name for your computer"><span class="title">Set the display name for your computer</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
+<div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.id" title="Mengatur nama tampilan untuk komputer Anda"><span class="title">Mengatur nama tampilan untuk komputer Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Control how your computer will appear to other computers or
     devices.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.id" title="Berbagi desktop Anda"><span class="title">Berbagi desktop Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people view and interact with your desktop using VNC.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.id" title="Berbagi pakai berkas pribadi Anda"><span class="title">Berbagi pakai berkas pribadi Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Let other people access files in your <span class="file">Public</span>
@@ -89,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-media.html.id" title="Berbagi pakai musik, foto, dan video Anda"><span class="title">Berbagi pakai musik, foto, dan video Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Share media on your local network using UPnP.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.id" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Allow files to be uploaded to your computer over Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.id" title="Control sharing over Bluetooth"><span class="title">Control sharing over Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Mengizinkan berkas diunggah ke komputer Anda melalui Bluetooth.</span></a></div>
 </div>
 </div></div></div></div>
 </div>
@@ -98,13 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.id" title="Papan tik">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">display</a></span>,
-      <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">user accounts</a></span>…
-    </span>
+<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">tetikus &amp; touchpad</a></span>, <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">layar</a></span>, <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">akun pengguna</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

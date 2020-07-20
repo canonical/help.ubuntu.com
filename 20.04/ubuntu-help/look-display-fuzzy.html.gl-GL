@@ -80,7 +80,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>  e comoece a escribir <span class="gui">Preferencias</span>.</p></li>
 <li class="steps"><p class="p">Prema en <span class="gui">Preferencias</span>.</p></li>
-<li class="steps"><p class="p">Prema <span class="gui">Dispositivos</span> na barra lateral.</p></li>
 <li class="steps"><p class="p">Prema en <span class="gui">Pantallas</span> na barra lateral para abrir o panel.</p></li>
 <li class="steps"><p class="p">Try some of the <span class="gui">Resolution</span> options and select the one that
       makes the screen look better.</p></li>

@@ -92,10 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.pl-PL" title="Powiadomienia i lista powiadomień"><span class="title">Powiadomienia i lista powiadomień</span><span class="linkdiv-dash"> — </span><span class="desc">Komunikaty o pewnych zdarzeniach są wyświetlane na górze ekranu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.pl-PL" title="Przypinanie ulubionych programów do paska bocznego"><span class="title">Przypinanie ulubionych programów do paska bocznego</span><span class="linkdiv-dash"> — </span><span class="desc">Dodawanie (i usuwanie) często używanych programów na pasku ulubionych.</span></a></div>
 </div>
-<div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.pl-PL" title="Spotkania w kalendarzu"><span class="title">Spotkania w kalendarzu</span><span class="linkdiv-dash"> — </span><span class="desc">Wyświetlanie spotkań w kalendarzu na górze ekranu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.pl-PL" title="Włączanie automatycznego uruchamiania programów po zalogowaniu"><span class="title">Włączanie automatycznego uruchamiania programów po zalogowaniu</span><span class="linkdiv-dash"> — </span><span class="desc">Używanie programu <span class="app">Dostrajanie</span> do automatycznego uruchamiania programów po zalogowaniu.</span></a></div>
-</div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.pl-PL" title="Spotkania w kalendarzu"><span class="title">Spotkania w kalendarzu</span><span class="linkdiv-dash"> — </span><span class="desc">Wyświetlanie spotkań w kalendarzu na górze ekranu.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Programy i okna</span></h2></div>

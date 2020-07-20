@@ -76,19 +76,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Comptes en ligne</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can enter your login details for some online services, such as Google
-  and Facebook, into the <span class="app">Online Accounts</span> window. This lets you use
-  applications to access online services like email, calendars, chat, and
-  documents.</p>
+<p class="p">Vous pouvez entrer vos informations de connexion pour certains services en ligne, tels que Google et Facebook, dans la fenêtre <span class="app">Comptes en ligne</span>. Cela vous permet d’utiliser des applications pour accéder à des services en ligne comme des courriels, agendas, discussions et documents.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.fr" title="Ajout d'un compte"><span class="title">Ajout d'un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Allow applications to access your accounts online for photos,
-    contacts, calendars, and more.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.fr" title="Suppression d'un compte"><span class="title">Suppression d'un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Remove access to an online service provider from your
-    applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.fr" title="Why add an account?"><span class="title">Why add an account?</span><span class="linkdiv-dash"> — </span><span class="desc">Pourquoi ajouter vos courriels ou vos comptes de réseau social à votre bureau ?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-add.html.fr" title="Ajout d’un compte"><span class="title">Ajout d’un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Autoriser les applications à accéder, via vos comptes en ligne, à vos photos, contacts, agendas, etc.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-remove.html.fr" title="Suppression d'un compte"><span class="title">Suppression d'un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Retirer à vos applications l’autorisation d’accès à un fournisseur de services en ligne.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-whyadd.html.fr" title="Pourquoi ajouter un compte ?"><span class="title">Pourquoi ajouter un compte ?</span><span class="linkdiv-dash"> — </span><span class="desc">Pourquoi ajouter vos courriels ou vos comptes de réseau social à votre bureau ?</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="accounts-disable-service.html.fr" title="Contrôle des services en ligne accessibles par un compte"><span class="title">Contrôle des services en ligne accessibles par un compte</span><span class="linkdiv-dash"> — </span><span class="desc">Certains comptes en ligne peuvent être utilisés pour accéder à de nombreux services (comme les agendas et les courriels). Vous pouvez contrôler quels services peuvent être utilisés par les applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.fr" title="Online services and applications"><span class="title">Online services and applications</span><span class="linkdiv-dash"> — </span><span class="desc">Les applications peuvent utiliser les comptes créés dans <span class="app">Comptes en ligne</span> et les services qu'elles exploitent.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="accounts-provider-not-available.html.fr" title="Pourquoi mon type de compte n'apparaît-il pas dans la liste ?"><span class="title">Pourquoi mon type de compte n'apparaît-il pas dans la liste ?</span><span class="linkdiv-dash"> — </span><span class="desc">Et si un fournisseur de service en ligne n'est pas dans la liste ?</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts-which-application.html.fr" title="Services en ligne et applications"><span class="title">Services en ligne et applications</span><span class="linkdiv-dash"> — </span><span class="desc">Les applications peuvent utiliser les comptes créés dans <span class="app">Comptes en ligne</span> et les services qu'elles exploitent.</span></a></div>
 </div></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">

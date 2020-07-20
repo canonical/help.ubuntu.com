@@ -82,22 +82,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Untuk mengubah tombol atau tombol-tombol yang perlu ditekan bagi pintasan papan tik:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
-      window will be shown.</p></li>
-<li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to
-      reset, or press <span class="key"><kbd>Esc</kbd></span> to cancel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard Shortcuts</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Klik baris untuk tindakan yang diinginkan. Jendela <span class="gui">Atur pintasan</span> akan ditampilkan.</p></li>
+<li class="steps"><p class="p">Tahan kombinasi tombol yang dikehendaki, atau tekan <span class="key"><kbd>Backspace</kbd></span> untuk mengatur ulang, atau tekan <span class="key"><kbd>Esc</kbd></span> untuk membatalkan.</p></li>
 </ol></div></div></div>
 </div>
 <section id="defined"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Pintasan pratata</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">There are a number of pre-configured shortcuts that can be changed,
-  grouped into these categories:</p>
+<p class="p">Ada sejumlah pintasan prakonfigurasi yang dapat diubah, dikelompokkan ke dalam kategori ini:</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
 <div class="inner">
@@ -128,8 +123,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> atau <span class="key"><kbd>Cari</kbd></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Settings</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Tools</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Pengaturan</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Alat</kbd></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -152,19 +147,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor down</p></td>
+<td style="border-top-style: solid;"><p class="p">Pindahkan jendela satu monitor ke bawah</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor to the left</p></td>
+<td style="border-top-style: solid;"><p class="p">Pindahkan jendela satu monitor ke kiri</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor to the right</p></td>
+<td style="border-top-style: solid;"><p class="p">Pindahkan jendela satu monitor ke kanan</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one monitor up</p></td>
+<td style="border-top-style: solid;"><p class="p">Pindahkan jendela satu monitor ke atas</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -176,14 +171,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window to last workspace</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span>
-  </p></td>
+<td style="border-top-style: solid;"><p class="p">Pindahkan jendela ke area kerja terakhir</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Pindahkan jendela ke area kerja 1</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span>
-  </p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span></p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Pindahkan jendela ke area kerja 2</p></td>
@@ -210,7 +203,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Switch to last workspace</p></td>
+<td style="border-top-style: solid;"><p class="p">Beralih ke ruang kerja terakhir</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -266,19 +259,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Record a short screencast</p></td>
+<td style="border-top-style: solid;"><p class="p">Merekam suatu screencast singkat</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p">Menyimpan cuplikan layar dari suatu jendela ke Pictures</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot of an area to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p">Menyimpan cuplikan layar dari suatu daerah ke Pictures</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Save a screenshot to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p">Menyimpan cuplikan layar ke Pictures</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
 </tr>
 </table></div>
@@ -354,7 +347,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Restore the keyboard shortcuts</p></td>
+<td style="border-top-style: solid;"><p class="p">Memulihkan pintasan papan tik</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -366,11 +359,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show the notification list</p></td>
+<td style="border-top-style: solid;"><p class="p">Menampilkan daftar pemberitahuan</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show the overview</p></td>
+<td style="border-top-style: solid;"><p class="p">Tampilkan ringkasan</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -391,7 +384,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p">Bertukar ke sumber masukan sebelumnya</p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Spasi</kbd></span></span></p></td>
 </tr>
 </table></div>
 </div>
@@ -516,29 +509,15 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="custom"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Pintasan ubahan</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">To create your own application keyboard shortcut in the
-  <span class="app">Keyboard</span> settings:</p>
+<p class="p">Untuk membuat pintasan papan tik aplikasi Anda sendiri di pengaturan <span class="app">Papan Tik</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Click the <span class="gui">+</span> button. The <span class="gui">Add Custom
-      Shortcut</span> window will appear.</p></li>
-<li class="steps"><p class="p">Type a <span class="gui">Name</span> to identify the shortcut, and a
-      <span class="gui">Command</span> to run an application.
-      For example, if you wanted the shortcut to open <span class="app">Rhythmbox</span>, you
-      could name it <span class="input">Music</span> and use the <span class="input">rhythmbox</span>
-      command.</p></li>
-<li class="steps"><p class="p">Click the row that was just added. When the
-      <span class="gui">Set Custom Shortcut</span> window opens, hold down the desired
-      shortcut key combination.</p></li>
+<li class="steps"><p class="p">Klik tombol <span class="gui">+</span>. Jendela <span class="gui">Tambah Pintasan Ubahan</span> akan muncul.</p></li>
+<li class="steps"><p class="p">Ketik <span class="gui">Nama</span> untuk mengidentifikasi pintasan, dan <span class="gui">Perintah</span> untuk menjalankan aplikasi. Sebagai contoh, jika Anda ingin pintasan untuk membuka <span class="app">Rhythmbox</span>, Anda bisa menamainya <span class="input">Musik</span> dan menggunakan perintah <span class="input">rhythmbox</span>.</p></li>
+<li class="steps"><p class="p">Klik baris yang baru saja ditambahkan. Ketika jendela <span class="gui">Atur Pintasan Ubahan</span> terbuka, tahan kombinasi tombol pintasan yang diinginkan.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tambah</span>.</p></li>
 </ol></div></div></div>
-<p class="p">The command name that you type should be a valid system command. You can
-  check that the command works by opening a Terminal and typing it in there.
-  The command that opens an application cannot have the same name as the
-  application itself.</p>
-<p class="p">If you want to change the command that is associated with a custom
-  keyboard shortcut, click the <span class="em">name</span> of the shortcut. The
-  <span class="gui">Set Custom Shortcut</span> window will appear, and you can edit the
-  command.</p>
+<p class="p">Nama perintah yang Anda ketik harus perintah sistem yang valid. Anda dapat memeriksa bahwa perintah bekerja dengan membuka terminal dan mengetiknya di sana. Perintah yang membuka aplikasi tidak dapat memiliki nama yang sama seperti aplikasi itu sendiri.</p>
+<p class="p">Jika Anda ingin mengubah perintah yang terkait dengan pintasan papan tik ubahan, klik <span class="em">nama</span> pintasan. Jendela <span class="gui">Atur Pintasan Ubahan</span> akan muncul, dan Anda dapat menyunting perintah.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -546,13 +525,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Bergerak sekitar desktop menggunakan papan ketik.</span>
 </li></ul></div>
 </div></div>
 </div>

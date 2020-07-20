@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Okna in delovne površine</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Like other desktops, GNOME uses windows to display your running
+<p class="p">Like other desktops, the system uses windows to display your running
   applications. Using both the <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span>
   overview and the <span class="em">dash</span>, you can launch new applications and control
   active windows.</p>

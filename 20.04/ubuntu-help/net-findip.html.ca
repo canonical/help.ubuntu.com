@@ -81,11 +81,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Trobar la vostra adreça IP interna (xarxa)</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Xarxa</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Xarxa</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Xarxa</span> per a obrir el quadre.</p></li>
 <li class="steps">
 <p class="p">Trieu la connexió, <span class="gui">Wi-Fi</span> o <span class="gui">Amb fil</span>, des del quadre esquerre.</p>
 <p class="p">L'adreça IP d'una connexió per cable es mostrarà a la dreta.</p>
-<p class="p">Feu clic al botó <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuració"></span></span> per veure l'adreça IP de la xarxa sense fil al quadre <span class="gui">Detalls</span>.</p>
+<p class="p">Feu clic al botó <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configuració"></span></span> per veure l'adreça IP de la xarxa sense fil al quadre <span class="gui">Detalls</span>.</p>
 </li>
 </ol></div>
 </div></div>
@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.ca" title="Termes de xarxa i consells">Termes de xarxa i consells</a><span class="desc"> — <span class="link"><a href="net-findip.html.ca" title="Trobar la vostra adreça IP">Trobeu la vostra adreça IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ca" title="Què vol dir WEP i WPA?">Seguretat WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.ca" title="Què és una adreça MAC?">Adreces MAC</a></span>, <span class="link"><a href="net-proxy.html.ca" title="Defineix la configuració del proxy">servidors intermediaris</a></span>…</span>
+<a href="net-general.html.ca" title="Termes de xarxa i consells">Termes de xarxa i consells</a><span class="desc"> — <span class="link"><a href="net-findip.html.ca" title="Trobar la vostra adreça IP">Trobeu la vostra adreça IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ca" title="Què vol dir WEP i WPA?">Seguretat WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.ca" title="Què és una adreça MAC?">Adreces MAC</a></span>, <span class="link"><a href="net-proxy.html.ca" title="Defineix la configuració del servidor intermediari">servidors intermediaris</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

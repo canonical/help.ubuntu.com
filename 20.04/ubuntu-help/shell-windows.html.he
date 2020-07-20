@@ -70,13 +70,13 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.he" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html.he#apps" title="Applications and windows">Applications and windows</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="shell-overview.html.he" title="Your desktop">Desktop</a> › <a class="trail" href="shell-overview.html.he#apps" title="Applications and windows">Applications and windows</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Windows and workspaces</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Like other desktops, GNOME uses windows to display your running
+<p class="p">Like other desktops, the system uses windows to display your running
   applications. Using both the <span class="gui"><a href="shell-introduction.html.he#activities" title="Activities overview">Activities</a></span>
   overview and the <span class="em">dash</span>, you can launch new applications and control
   active windows.</p>

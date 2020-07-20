@@ -94,9 +94,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Bloķēt ekrānu</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Ja pametat savu datoru uz īsu brīdi, jums vajadzētu bloķēt savu ekrānu, lai liegtu citiem pieeju jūsu datnēm un ieslēgtajām lietotnēm. Atgriežoties paceliet <span class="link"><a href="shell-lockscreen.html.lv" title="The lock screen">ekrāna bloķēšanas</a></span> aizkaru un ievadiet savu paroli, lai atkal pierakstītos. Ja nebloķējat savu ekrānu, tas automātiski bloķēsies pēc noteikta laika.</p>
-<p class="p">Lai bloķētu ekrānu, spiediet sistēmas izvēlni augšējās joslas labajā pusē un spiediet ekrāna bloķēšanas pogu apakšējā izvēlnē.</p>
-<p class="p">Kad ekrāns ir bloķēts, citi lietotāji var pierakstīties paši savā kontā, spiežot <span class="gui">Ierakstīties kā cits lietotājs</span> paroles logā. Jūs varat pārslēgties atpakaļ uz savu darbvirsmu, kad pārējie lietotāji ir beiguši darbu.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.lv" title="The lock screen">lock screen</a></span>. Enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -117,8 +125,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Iesnaudināt</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Lai taupītu jaudu, iesnaudiniet savu datoru, kad to nelietojiet. Ja lietojat klēpjdatoru, GNOME pēc noklusējuma iesnaudinās datoru automātiski, kad ekrāns ir aizvērts. Iesnaudināšana saglabā datora stāvokli atmiņā un izslēdz lielāko daļu datora funkciju. Iesnaudināšanas laikā tiek izmantots ļoti maz jaudas.</p>
-<p class="p">Lai datoru iesnaudinātu manuāli, spiediet sistēmas izvēlni augšējās joslās labajā pusē. Tur jūs varat vai nu turēt piespiestu <span class="key"><kbd>Alt</kbd></span> taustiņu un spiest izslēgšanas pogu, vai vienkārši ilgi turēt piespiestu izslēgšanas pogu.</p>
+<p class="p">To save power, suspend your computer when you are not using it. If you use
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
+  suspend.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -142,7 +157,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Izslēgt vai pārstartēt</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Ja vēlaties izslēgt savu datoru pilnībā, vai veikt pilnu pārstartēšanu, spiediet sistēmas izvēlni augšējās joslas labajā pusē un izvēlieties izslēgšanas pogu izvēlnes apakšā. Parādīsies dialoglodziņš, kas piedāvās <span class="gui">Pārstartēt</span> vai <span class="gui">Izslēgt</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Ja citi lietotāji ir pierakstījušies, jums var tikt liegta datora izslēgšana, jo tad citu lietotāju sesijas beigtos. Ja esat administratīvais lietotājs, jums var tikt jautāta parole, lai datoru izslēgtu.</p>
 <div class="note note-tip" title="Padoms">
 <svg width="24" height="24" version="1.1">

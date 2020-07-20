@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Seleccionar fitxers segons un patró</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Podeu seleccionar fitxers en una carpeta usant un patró pel nom del fitxer. Premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> per obrir la finestra <span class="gui">Selecciona elements coincidents</span>. Escriviu un patró utilitzant parts comunes dels noms dels fitxers més caràcters comodí. Hi ha dos caràcters comodí disponibles:</p>
+<p class="p">Podeu seleccionar fitxers en una carpeta usant un patró pel nom del fitxer. Premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> per a obrir la finestra <span class="gui">Selecciona elements coincidents</span>. Escriviu un patró utilitzant parts comunes dels noms dels fitxers més caràcters comodí. Hi ha dos caràcters comodí disponibles:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="file">*</span> coincideix amb qualsevol nombre de caràcters, fins i tot sense caràcters.</p></li>
 <li class="list"><p class="p"><span class="file">?</span> coincideix exactament amb un caràcter qualsevol.</p></li>

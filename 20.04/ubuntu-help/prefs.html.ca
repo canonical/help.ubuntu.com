@@ -110,10 +110,10 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-display.html.ca" title="Monitor i pantalla">Monitor i pantalla</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.ca" title="Canviar els fons de la pantalla d'escriptori i bloqueig">Fons de pantalla</a></span>, <span class="link"><a href="look-resolution.html.ca" title="Canvi de la resolució o de la rotació de la pantalla">mida i orientació</a></span>, <span class="link"><a href="display-brightness.html.ca" title="Establir la brillantor de la pantalla">brillantor</a></span>, <span class="link"><a href="display-night-light.html.ca" title="Ajustar la a temperatura de color de la seva pantalla">temperatura del color</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.ca" title="Canviar els fons de la pantalla d'escriptori i bloqueig">Fons de pantalla</a></span>, <span class="link"><a href="look-resolution.html.ca" title="Canviar la resolució o la rotació de la pantalla">mida i orientació</a></span>, <span class="link"><a href="display-brightness.html.ca" title="Establir la brillantor de la pantalla">brillantor</a></span>, <span class="link"><a href="display-night-light.html.ca" title="Ajustar la a temperatura de color de la seva pantalla">temperatura del color</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">Ratolí, pantalla tàctil i pantalla tàctil</a></div>
+<div class="links-grid-link"><a href="mouse.html.ca" title="Ratolí, ratolí tàctil i pantalla tàctil">Ratolí, ratolí tàctil i pantalla tàctil</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.ca" title="Utilitzar el ratolí amb la mà esquerra">Esquerrà</a></span>, <span class="link"><a href="mouse-sensitivity.html.ca" title="Ajustar la velocitat del ratolí i del tauler tàctil">velocitat i sensibilitat</a></span>, <span class="link"><a href="mouse-touchpad-click.html.ca" title="Fer clic, arrossegar o desplaçar-vos amb el tauler tàctil">clic i desplaçament del ratolí tàctil</a></span>…</span></div>
 </div>
 <div class="links-grid ">

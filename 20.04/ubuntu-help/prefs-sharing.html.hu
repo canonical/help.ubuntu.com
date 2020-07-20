@@ -76,7 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Megosztás beállításai</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">A <span class="em">Megosztás beállításai</span> ablak segít szabályozni, hogy mi kerül megosztásra a helyi hálózaton, vagy a <span class="em">Bluetooth</span>-hoz hasonló technológiák használatával.</p>
+<p class="p">The <span class="em">Sharing Settings</span> help you control what is shared over the
+  local network, or through other technologies such as <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.hu" title="A számítógép megjelenő nevének beállítása"><span class="title">A számítógép megjelenő nevének beállítása</span><span class="linkdiv-dash"> — </span><span class="desc">Szabályozza, hogyan jelenik meg számítógépe más számítógépek vagy eszközök számára.</span></a></div>

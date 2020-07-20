@@ -90,12 +90,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.ca" title="Cites de calendari"><span class="title">Cites de calendari</span><span class="linkdiv-dash"> — </span><span class="desc">Mostreu les vostres cites a l'àrea del calendari a la part superior de la pantalla.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.ca" title="Fer que les aplicacions s’iniciïn automàticament per iniciar la sessió"><span class="title">Fer que les aplicacions s’iniciïn automàticament per iniciar la sessió</span><span class="linkdiv-dash"> — </span><span class="desc">Utilitzeu l'eina d'<span class="app">Ajustaments</span> per iniciar les aplicacions automàticament a l'inici de sessió.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.ca" title="Fixar les aplicacions preferides al quadre d'aplicacions"><span class="title">Fixar les aplicacions preferides al quadre d'aplicacions</span><span class="linkdiv-dash"> — </span><span class="desc">Afegiu (o elimineu) les icones dels programes que s'utilitzen amb més freqüència al quadre d'aplicacions.</span></a></div>
 </div>
-<div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.ca" title="Fixar les aplicacions preferides al taulell"><span class="title">Fixar les aplicacions preferides al taulell</span><span class="linkdiv-dash"> — </span><span class="desc">Afegiu (o elimineu) les icones dels programes que s'utilitzen amb més freqüència al tauler.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.ca" title="Notificacions i llista de notificacions"><span class="title">Notificacions i llista de notificacions</span><span class="linkdiv-dash"> — </span><span class="desc">Els missatges es despleguen des de la part superior de la pantalla i us avisen quan ocorren determinats esdeveniments.</span></a></div>
-</div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.ca" title="Notificacions i llista de notificacions"><span class="title">Notificacions i llista de notificacions</span><span class="linkdiv-dash"> — </span><span class="desc">Els missatges es despleguen des de la part superior de la pantalla i us avisen quan ocorren determinats esdeveniments.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Aplicacions i finestres</span></h2></div>

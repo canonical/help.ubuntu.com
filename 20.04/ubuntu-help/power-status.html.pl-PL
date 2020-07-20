@@ -87,7 +87,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Kliknij <span class="gui">Zasilanie</span>, aby otworzyć panel. Zostanie wyświetlony stan znanych urządzeń.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Jeśli wykryto wewnętrzny akumulator, to sekcja <span class="gui">Akumulator</span> wyświetla stan jednego lub więcej akumulatorów laptopa. Pasek pokazuje procent naładowania, a także czas pozostały do pełnego naładowania, jeśli komputer jest podłączony do prądu, oraz pozostały czas pracy, jeśli komputer jest zasilany z akumulatora.</p>
+<p class="p">If an internal battery is detected, the <span class="gui">Batteries</span> section
+    displays the status of one or more laptop batteries. The indicator bar
+    shows the percent charged, as well as time until fully charged if plugged
+    in, and time remaining when running on battery power.</p>
 <p class="p">Sekcja <span class="gui">Urządzenia</span> wyświetla stan podłączonych urządzeń.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

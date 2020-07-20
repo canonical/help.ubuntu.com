@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Configuració de la privacitat</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">A GNOME, la <span class="em">Configuració de la privacitat</span> us ajuda a controlar quines parts del vostre escriptori són visibles, o no, per a tercers. També podeu utilitzar aquesta configuració per a esborrar l'historial d'ús del vostre ordinador i els fitxers innecessaris.</p>
+<p class="p">The <span class="em">Privacy Settings</span> help you control whether or not
+  certain parts of your desktop are visible to others. You can also
+  use these settings to clear your computer usage history and clean out
+  unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.ca" title="Bloquejar automàticament la pantalla"><span class="title">Bloquejar automàticament la pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Eviteu que altres usuaris facin servir el vostre escriptori quan marxeu de l'ordinador.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.ca" title="Buidar la paperera i els fitxers temporals"><span class="title">Buidar la paperera i els fitxers temporals</span><span class="linkdiv-dash"> — </span><span class="desc">Establiu amb quina freqüència es netegen la paperera i els fitxers temporals de l'ordinador.</span></a></div>
@@ -89,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.ca" title="Usuari i configuració del sistema">Usuari i configuració del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">ratolí</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span>
+<a href="prefs.html.ca" title="Usuari i configuració del sistema">Usuari i configuració del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, ratolí tàctil i pantalla tàctil">ratolí i ratolí tàctil</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

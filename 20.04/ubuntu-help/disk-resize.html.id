@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the size of a filesystem</title>
+<title>Menyetel ukuran dari sebuah sistem berkas</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,53 +73,33 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Adjust the size of a filesystem</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Menyetel ukuran dari sebuah sistem berkas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">A filesystem can be grown to make use of the free space after its
-     partition. Often this is even possible while the filesystem is
-     mounted.</p>
-<p class="p">To make space for another partition after the filesystem, it can be
-     shrunk according to the free space within it.</p>
-<p class="p">Not all filesystems have resize support.</p>
-<p class="p">The partition size will be changed together with the filesystem size.
-     It is also possible to resize a partition without a filesystem in the
-     same way.</p>
+<p class="p">Sebuah sistem berkas dapat diperbesar untuk memanfaatkan ruang bebas setelah partisi. Seringkali hal ini bahkan mungkin saat sistem berkas dikait.</p>
+<p class="p">Untuk membuat ruang bagi partisi lain setelah sistem berkas tersebut, itu dapat disusutkan sesuai dengan ruang kosong di dalamnya.</p>
+<p class="p">Tidak semua sistem berkas memiliki dukungan ubah ukuran.</p>
+<p class="p">Ukuran partisi akan diubah bersama dengan ukuran sistem berkas. Juga memungkinkan untuk mengubah ukuran partisi tanpa sistem berkas dengan cara yang sama.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Resize a filesystem/partition</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Mengubah ukuran sistem berkas/partisi</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka <span class="app">Pengaturan</span> dari ringkasan <span class="gui">Aktivitas</span>.</p></li>
-<li class="steps"><p class="p">Select the disk containing the filesystem in question from the list
-       of storage devices on the left. If there is more than one volume on
-       the disk, select the volume which contains the filesystem.</p></li>
-<li class="steps"><p class="p">In the toolbar underneath the <span class="gui">Volumes</span> section, click the
-       menu button. Then click <span class="gui">Resize Filesystem…</span> or
-       <span class="gui">Resize…</span> if there is no filesystem.</p></li>
+<li class="steps"><p class="p">Pilih disk yang berisi sistem berkas yang dimaksud dari daftar perangkat penyimpanan di sebelah kiri. Jika ada lebih dari satu volume pada disk, pilih volume yang berisi sistem berkas.</p></li>
+<li class="steps"><p class="p">Pada bilah alat di bawah bagian <span class="gui">Volume</span>, klik tombol menu. Lalu klik <span class="gui">Ubah Ukuran Sistem Berkas…</span> atau <span class="gui">Ubah Ukuran…</span> bila tidak ada sistem berkas.</p></li>
 <li class="steps">
-<p class="p">A dialog will open where the new size can be chosen. The filesystem will
-       be mounted to calculate the minimum size by the amount of current
-       content. If shrinking is not supported the minimum size is the current
-       size. Leave enough space within the filesystem when shrinking to ensure
-       that it can work fast and reliably.</p>
-<p class="p">Depending on how much data has to be moved from the shrunk part, the
-       filesystem resize may take longer time.</p>
+<p class="p">Sebuah dialog akan terbuka di mana ukuran baru dapat dipilih. Sistem berkas akan dikait untuk menghitung ukuran minimum dengan banyaknya konten saat ini. Jika menyusut tidak didukung ukuran minimum adalah ukuran saat ini. Tinggalkan ruang yang cukup dalam sistem berkas ketika menyusutkan untuk memastikan bahwa hal itu dapat bekerja dengan cepat dan andal.</p>
+<p class="p">Tergantung pada berapa banyak data yang harus dipindahkan dari bagian menyusut, mengubah ukuran sistem berkas dapat memakan waktu lebih lama.</p>
 <div class="note note-warning" title="Peringatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">The filesystem resize automatically involves
-         <span class="link"><a href="disk-repair.html.id" title="Repair a damaged filesystem">repairing</a></span> of the filesystem. Therefore
-         it is advised to back up important data before starting. The action
-         must not be stopped or it will result in a damaged filesystem.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Pengubah ukuran sistem berkas secara otomatis melibatkan <span class="link"><a href="disk-repair.html.id" title="Memperbaiki sistem berkas yang rusak">perbaikan</a></span> sistem berkas. Oleh karena itu disarankan untuk membuat cadangan data penting sebelum memulai. Tindakan tidak boleh dihentikan atau akan menghasilkan sistem berkas yang rusak.</p></div></div></div>
 </div>
 </li>
 <li class="steps">
-<p class="p">Confirm to start the action by clicking
-         <span class="gui">Resize</span>.</p>
-<p class="p">The action will unmount the filesystem if resizing a mounted filesystem
-      is not supported. Be patient while the filesystem is resized.</p>
+<p class="p">Konfirmasikan untuk memulai tindakan dengan mengklik <span class="gui">Ubah Ukuran</span>.</p>
+<p class="p">Aksi akan melepas kait sistem berkas jika mengubah ukuran sistem berkas yang dikait tidak didukung. Bersabarlah sementara sistem berkas diubah ukurannya.</p>
 </li>
-<li class="steps"><p class="p">After completion of the needed resize and repair actions the filesystem
-       is ready to be used again.</p></li>
+<li class="steps"><p class="p">Setelah menyelesaikan tindakan mengubah ukuran dan perbaikan yang diperlukan, sistem berkas siap untuk digunakan lagi.</p></li>
 </ol></div>
 </div></div>
 </div>

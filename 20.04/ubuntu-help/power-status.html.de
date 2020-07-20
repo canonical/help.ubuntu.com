@@ -87,7 +87,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Leistung</span>, um das Panel zu öffnen. Der Zustand der bekannten Geräte wird angezeigt.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Wenn ein interner Akku erkannt wurde, erscheint der Abschnitt <span class="gui">Akku</span> und zeigt den Status des/der Akku(s). Die Statusleiste zeigt den Ladezustand in Prozent und bei Verbindung mit dem Stromnetz die Zeit bis zur vollständigen Ladung. Im Akkubetrieb wird die verbleibende Laufzeit angezeigt.</p>
+<p class="p">If an internal battery is detected, the <span class="gui">Batteries</span> section
+    displays the status of one or more laptop batteries. The indicator bar
+    shows the percent charged, as well as time until fully charged if plugged
+    in, and time remaining when running on battery power.</p>
 <p class="p">Der Abschnitt <span class="gui">Geräte</span> zeigt den Status angeschlossener Geräte.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

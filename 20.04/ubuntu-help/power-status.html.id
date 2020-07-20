@@ -81,18 +81,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Display the status of the battery and connected devices</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Menampilkan status baterai dan perangkat yang tersambung</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Daya</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Daya</span> untuk membuka panel. Status dari perangkat yang dikenal ditampilkan.</p></li>
 </ol></div>
 </div></div>
-<p class="p">If an internal battery is detected, the <span class="gui">Battery</span> section
+<p class="p">If an internal battery is detected, the <span class="gui">Batteries</span> section
     displays the status of one or more laptop batteries. The indicator bar
     shows the percent charged, as well as time until fully charged if plugged
     in, and time remaining when running on battery power.</p>
-<p class="p">The <span class="gui">Devices</span> section displays the status of connected
-    devices.</p>
+<p class="p">Bagian <span class="gui">Perangkat</span> menampilkan status perangkat yang terhubung.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -100,11 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
-    </span>
+<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Status baterai</a></span>, <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspensi</a></span>, <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">peredupan layar</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

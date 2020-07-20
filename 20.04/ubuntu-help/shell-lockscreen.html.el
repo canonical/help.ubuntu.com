@@ -80,13 +80,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">The lock screen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Το κλείδωμα της οθόνης σημαίνει ότι μπορείτε να δείτε τι συμβαίνει ενώ ο υπολογιστής σας είναι κλειδωμένος και σας επιτρέπει να πάρετε μια σύνοψη του τι έχει συμβεί, ενώ ήσασταν μακριά. Η οθόνη κλειδώματος εμφανίζει μια ελκυστική εικόνα, ενώ ο υπολογιστής σας είναι κλειδωμένος και σας δίνει χρήσιμες πληροφορίες:</p>
+<p class="p">The lock screen means that you can see what is happening while your
+  computer is locked, and it allows you to get a summary of what has been
+  happening while you have been away. The lock screen provides
+  useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">το όνομα του συνδεμένου χρήστη</p></li>
 <li class="list"><p class="p">την ημερομηνία και ώρα καθώς και συγκεκριμένες ειδοποιήσεις</p></li>
 <li class="list"><p class="p">τη κατάσταση μπαταρίας και δικτύου</p></li>
 </ul></div></div></div>
-<p class="p">Για να ξεκλειδώσετε τον υπολογιστή σας, αναιρέστε την οθόνη κλειδώματος της οθόνης μεταφέροντας την προς τα πάνω με τον δρομέα, ή πατώντας τα πλήκτρα <span class="key"><kbd>Esc</kbd></span> ή <span class="key"><kbd>Enter</kbd></span>. Αυτό θα εμφανίσει την οθόνη σύνδεσης, όπου μπορείτε να εισάγετε τον κωδικό πρόσβασής σας για ξεκλείδωμα. Εναλλακτικά, πληκτρολογήστε απλώς τον κωδικό πρόσβασής σας και η οθόνη θα αναιρεθεί αυτόματα καθώς πληκτρολογείτε. Μπορείτε επίσης να αλλάξετε χρήστες, αν ο υπολογιστής σας είναι ρυθμισμένος για περισσότερους από έναν.</p>
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+  This will reveal the login screen, where you can enter your password to
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">To hide notifications from the lock screen, see
   <span class="link"><a href="shell-notifications.html.el#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a></span>.</p>
 </div>

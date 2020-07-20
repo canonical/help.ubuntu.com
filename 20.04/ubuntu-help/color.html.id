@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Masalah</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="color-testing.html.id" title="Bagaimana saya menguji bila manajemen warna bekerja dengan benar?"><span class="title">Bagaimana saya menguji bila manajemen warna bekerja dengan benar?</span><span class="linkdiv-dash"> — </span><span class="desc">Gunakan profil uji yang disediakan untuk memeriksa bahwa profil Anda sedang diterapkan secara benar ke layar Anda.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color-testing.html.id" title="Bagaimana saya menguji bila manajemen warna bekerja dengan benar?"><span class="title">Bagaimana saya menguji bila manajemen warna bekerja dengan benar?</span><span class="linkdiv-dash"> — </span><span class="desc">Memakai profil uji yang disediakan untuk memeriksa bahwa profil Anda sedang diterapkan secara benar ke layar Anda.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="color-notifications.html.id" title="Bisakah saya diberitahu ketika profil warna saya tak akurat?"><span class="title">Bisakah saya diberitahu ketika profil warna saya tak akurat?</span><span class="linkdiv-dash"> — </span><span class="desc">Anda dapat diberitahu bila profil warna Anda tua dan tak akurat.</span></a></div>
 </div>
 <div class="links-divs">
@@ -130,13 +130,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.id" title="Papan tik">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">display</a></span>,
-      <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">user accounts</a></span>…
-    </span>
+<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">tetikus &amp; touchpad</a></span>, <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">layar</a></span>, <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">akun pengguna</a></span>…</span>
 </li>
 <li class="links ">
 <a href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras &amp; penggerak</a><span class="desc"> — <span class="link"><a href="hardware.html.id#problems" title="Masalah umum">Masalah perangkat keras</a></span>, <span class="link"><a href="printing.html.id" title="Pencetakan">pencetak</a></span>, <span class="link"><a href="power.html.id" title="Daya &amp; baterai">pengaturan daya</a></span>, <span class="link"><a href="color.html.id" title="Manajemen warna">manajemen warna</a></span>, <span class="link"><a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.id" title="Disk &amp; penyimpanan">disk</a></span>…</span>

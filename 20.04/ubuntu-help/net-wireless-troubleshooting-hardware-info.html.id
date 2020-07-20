@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.id" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> › <a class="trail" href="hardware.html.id#problems" title="Masalah umum">Masalah</a> » <a class="trail" href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -81,37 +81,20 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="net-wireless-troubleshooting-initial-check.html.id" title="Pelacak masalah jaringan nirkabel">Sebelumnya</a><a href="net-wireless-troubleshooting-hardware-check.html.id" title="Pelacak masalah sambungan nirkabel">Selanjutnya</a>
 </div></nav><div class="hgroup pagewide">
 <h1 class="title"><span class="title">Pelacak masalah jaringan nirkabel</span></h1>
-<h2 class="subtitle"><span class="subtitle">Gather information about your network hardware</span></h2>
+<h2 class="subtitle"><span class="subtitle">Mengumpulkan informasi tentang perangkat keras Anda</span></h2>
 </div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">In this step, you will collect information about your wireless network
-  device. The way you fix many wireless problems depends on the make and model
-  number of the wireless adapter, so you will need to make a note of these
-  details. It can also be helpful to have some of the items that came with your
-  computer too, like device driver installation discs. Look for the following
-  items, if you still have them:</p>
+<p class="p">Pada langkah ini, Anda akan mengumpulkan informasi tentang perangkat jaringan nirkabel Anda. Cara Anda memperbaiki banyak masalah nirkabel tergantung pada buatan dan nomor model adaptor nirkabel, sehingga Anda akan perlu untuk membuat catatan dari rincian ini. Hal ini juga dapat membantu untuk memiliki beberapa item yang datang dengan komputer Anda juga, seperti cakram instalasi device driver. Cari item berikut, jika Anda masih memilikinya:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">The packaging and instructions for your wireless devices (especially
-      the user guide for your router)</p></li>
-<li class="list"><p class="p">The disc containing drivers for your wireless adapter (even if it only
-      contains Windows drivers)</p></li>
-<li class="list"><p class="p">The manufacturers and model numbers of your computer, wireless adapter
-      and router. This information can usually be found on the
-      underside or reverse of the device.</p></li>
-<li class="list"><p class="p">Any version or revision numbers that may be printed on your wireless
-      network devices or their packaging. These can be especially helpful, so
-      look carefully.</p></li>
-<li class="list"><p class="p">Anything on the driver disc that identifies either the device itself,
-      its “firmware” version, or the components (chipset) it uses.</p></li>
+<li class="list"><p class="p">Kemasan dan instruksi untuk perangkat nirkabel Anda (terutama panduan pengguna untuk router Anda)</p></li>
+<li class="list"><p class="p">Disk yang berisi driver untuk adaptor nirkabel Anda (meskipun hanya berisi driver Windows)</p></li>
+<li class="list"><p class="p">Produsen dan nomor model komputer, adaptor nirkabel, dan router Anda. Informasi ini biasanya dapat ditemukan di sisi bawah atau di balik perangkat.</p></li>
+<li class="list"><p class="p">Setiap versi atau nomor revisi yang dapat dicetak pada perangkat jaringan nirkabel Anda atau kemasannya. Ini dapat sangat membantu, jadi perhatikan dengan seksama.</p></li>
+<li class="list"><p class="p">Apa pun pada disk driver yang mengidentifikasi salah satu perangkat itu sendiri, versi "firmware", atau komponen (chipset) yang digunakan.</p></li>
 </ul></div></div></div>
-<p class="p">If possible, try to get access to an alternative working internet
-  connection so that you can download software and drivers if necessary.
-  (Plugging your computer directly into the router with an Ethernet network
-  cable is one way of providing this, but only plug it in when you need
-  to.)</p>
-<p class="p">Once you have as many of these items as possible, click
-  <span class="gui">Next</span>.</p>
+<p class="p">Jika memungkinkan, cobalah untuk mendapatkan akses ke koneksi internet alternatif yang berfungsi sehingga Anda dapat mengunduh perangkat lunak dan driver jika perlu. (Mencolokkan komputer Anda langsung ke router dengan kabel jaringan Ethernet adalah salah satu cara untuk menyediakan ini, tetapi hanya pasang di ketika Anda perlu.)</p>
+<p class="p">Setelah Anda memiliki sebanyak mungkin item ini, klik <span class="gui">Berikutnya</span>.</p>
 </div>
 <nav class="prevnext pagewide"><div class="inner">
 <a href="net-wireless-troubleshooting-initial-check.html.id" title="Pelacak masalah jaringan nirkabel">Sebelumnya</a><a href="net-wireless-troubleshooting-hardware-check.html.id" title="Pelacak masalah sambungan nirkabel">Selanjutnya</a>
@@ -120,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Mengidentifikasi dan memperbaiki masalah koneksi nirkabel.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

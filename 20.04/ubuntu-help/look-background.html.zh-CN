@@ -86,8 +86,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">There are two ways to change the image used for your backgrounds:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Click one of the many professional background images that ship with
-          GNOME. You can choose <span class="gui">Set Background</span>, <span class="gui">Set Lock
+<p class="p">Click one of the background images which are shipped with the
+          system. You can choose <span class="gui">Set Background</span>, <span class="gui">Set Lock
           Screen</span>, or <span class="gui">Set Background and Lock Screen</span>.</p>
 <div class="note" title="备注">
 <svg width="24" height="24" version="1.1">

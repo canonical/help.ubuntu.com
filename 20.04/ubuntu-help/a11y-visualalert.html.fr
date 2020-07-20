@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Clignotement de l'écran lors des alertes sonores</title>
+<title>Clignotement de l’écran lors des alertes sonores</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,16 +73,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="a11y.html.fr" title="Accès universel">Accès universel</a> › <a class="trail" href="a11y.html.fr#sound" title="Audition défaillante">Audition défaillante</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Clignotement de l'écran lors des alertes sonores</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Clignotement de l’écran lors des alertes sonores</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">L'ordinateur émet des sons simples d'alerte pour certains types de messages et d'événements. Si vous avez des difficultés à entendre ces sons, vous pouvez faire clignoter l'écran complet ou la fenêtre actuelle chaque fois qu'une alerte sonore est émise.</p>
-<p class="p">This can also be useful if you’re in an environment where you need your
-  computer to be silent, such as in a library. See <span class="link"><a href="sound-alert.html.fr" title="Choix ou désactivation du son d'alerte">Choix ou désactivation du son d'alerte</a></span>
-  to learn how to mute the alert sound, then enable visual alerts.</p>
+<p class="p">L'ordinateur émet des sons simples d'alerte pour certains types de messages et d'évènements. Si vous avez des difficultés à entendre ces sons, vous pouvez faire clignoter l'écran complet ou la fenêtre actuelle chaque fois qu'une alerte sonore est émise.</p>
+<p class="p">Cela peut également être utile si vous vous trouvez dans un environnement où votre ordinateur doit être silencieux, comme dans une bibliothèque. Reportez-vous à <span class="link"><a href="sound-alert.html.fr" title="Choix ou désactivation du son d'alerte">Choix ou désactivation du son d'alerte</a></span> pour apprendre à mettre en sourdine les alertes sonores puis activer les alertes visuelles.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez la vue d'ensemble des <span class="link"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
-<li class="steps"><p class="p">Cliquez sur l'icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Accès universel</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur l’icône <span class="gui">Accès universel</span> pour afficher le panneau.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Alertes visuelles</span> dans la section <span class="gui">Audition</span>.</p></li>
 <li class="steps"><p class="p">Switch the <span class="gui">Visual Alerts</span> switch to on.</p></li>
 <li class="steps"><p class="p">Sélectionnez si vous voulez faire clignoter tout l'écran ou seulement la barre de titre.</p></li>

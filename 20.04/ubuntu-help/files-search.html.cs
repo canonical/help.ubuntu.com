@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Hledání</span>.</p></li>
 <li class="steps"><p class="p">Ve výsledcích vyberte <span class="guiseq"><span class="gui">Nastavení</span> ▸ <span class="gui">Hledání</span></span>. Tím se otevře panel <span class="gui">Nastavení hledání</span>.</p></li>
-<li class="steps"><p class="p">Zmáčkněte tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="Preferences key symbol"></span></span> v dolní části panelu nastavení <span class="gui">Hledání</span>.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Search Locations</span> button in the header bar.</p></li>
 </ol></div></div></div>
 <p class="p">Otevře se samostatný panel nastavení, ve kterém můžete zapínat a vypínat prohledávání složek. K dispozici jsou tři karty:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">

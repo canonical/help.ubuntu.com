@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Síť</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Síť</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">V seznamu nalevo vyberte <span class="gui">Wi-Fi</span>.</p></li>
-<li class="steps"><p class="p">Kliknutím na tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span> otevřete podrobnosti o připojení.</p></li>
+<li class="steps"><p class="p">Kliknutím na tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="nastavení"></span></span> otevřete podrobnosti o připojení.</p></li>
 <li class="steps"><p class="p">V panelu na levé straně vyberte <span class="gui">Identita</span>.</p></li>
 <li class="steps"><p class="p">V dolní části panelu <span class="gui">Identita</span> zaškrtněte volbu <span class="gui">Zpřístupnit ostatním uživatelům</span>, aby i ostatní uživatelné mohli používat toto síťové připojení.</p></li>
 <li class="steps"><p class="p">Zmáčknutím <span class="gui">Použít</span> změny uložte.</p></li>

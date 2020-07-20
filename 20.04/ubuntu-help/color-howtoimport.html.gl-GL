@@ -85,7 +85,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>  e comoece a escribir <span class="gui">Preferencias</span>.</p></li>
 <li class="steps"><p class="p">Prema en <span class="gui">Preferencias</span>.</p></li>
-<li class="steps"><p class="p">Prema <span class="gui">Dispositivos</span> na barra lateral.</p></li>
 <li class="steps"><p class="p">Prema en <span class="gui">Cor</span> na barra lateral para abir o panel.</p></li>
 <li class="steps"><p class="p">Seleccoine o seu dispositivo.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Engadir perfil</span> para seleccionar un perfil existente ou importar un ficheiro novo.</p></li>

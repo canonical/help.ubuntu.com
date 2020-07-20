@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Přesun a změna velikosti okna</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Aby se vám lépe pracovalo, můžete si okna přesouvat a měnit jejich velikost. Mimo běžného přetahování, které funguje jak se očekává, nabízí GNOME i klávesové zkratky a modifikátory, které dokáží uspořádávání oken urychlit.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Okno přesunete jeho chycením za záhlaví, nebo držte zmáčknutý <span class="key"><a href="keyboard-key-super.html.cs" title="Co je klávesa Super?"><kbd>Super</kbd></a></span> a můžete jej chytit kdekoliv. Když budete při přesunu držet zmáčknutý <span class="key"><kbd>Shift</kbd></span>, bude se okno přichytávat k okrajům obrazovky nebo jiným oknům.</p></li>
 <li class="list"><p class="p">Velikost okna změníte tažením okraje nebo rohu okna. Když budete při změně velikosti držet zmáčknutý <span class="key"><kbd>Shift</kbd></span>, bude se okno přichytávat k okrajům obrazovky nebo jiným oknům.</p></li>

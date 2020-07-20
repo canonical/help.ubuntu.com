@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Networking, web &amp; email</span></h1></div>
@@ -82,14 +82,6 @@ document.addEventListener('DOMContentLoaded', function() {
       <span class="link"><a href="net-wireless-connect.html.he" title="Connect to a wireless network">Connect to Wi-Fi</a></span>,
       <span class="link"><a href="net-wireless-hidden.html.he" title="Connect to a hidden wireless network">hidden networks</a></span>,
       <span class="link"><a href="net-wireless-disconnecting.html.he" title="Why does my wireless network keep disconnecting?">Wi-Fi disconnecting</a></span>…
-    </span></div>
-</div>
-<div class="links-grid ">
-<div class="links-grid-link"><a href="net-chat.html.he" title="Chat &amp; Social Networking">Chat &amp; Social Networking</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="net-chat-empathy.html.he" title="Instant messaging on Ubuntu">Chat on any network using <span class="app">Empathy</span></a></span>,
-      <span class="link"><a href="net-chat-video.html.he" title="Video calls">make video calls</a></span>,
-      <span class="link"><a href="net-chat-skype.html.he" title="How can I use Skype on Ubuntu?">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid ">
@@ -147,6 +139,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="desc"><span class="desc">
       <span class="link"><a href="net-wired-connect.html.he" title="Connect to a wired (Ethernet) network">Wired internet connections</a></span>,
       <span class="link"><a href="net-fixed-ip-address.html.he" title="Create a connection with a fixed IP address">Fixed IP addresses</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="net-chat.html.he" title="צ׳אטים ורשתות חברתיות">צ׳אטים ורשתות חברתיות</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="net-chat-empathy.html.he" title="הודעות מיידיות באובונטו">Chat on any network using <span class="app">Empathy</span></a></span>,
+      <span class="link"><a href="net-chat-video.html.he" title="Video calls">make video calls</a></span>,
+      <span class="link"><a href="net-chat-skype.html.he" title="איך ניתן להשתמש ב־Skype עם אובונטו?">install skype</a></span>
     </span></div>
 </div>
 <div class="links-grid"></div>

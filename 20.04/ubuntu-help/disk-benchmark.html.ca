@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Feu clic al botó de menú i seleccioneu <span class="gui">Disc de referència</span> des del menú.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Inicia el test de referència…</span> i ajusteu la <span class="gui">Ràtio de transferència</span> i <span class="gui">Temps d'accés</span> als paràmetres desitjats.</p></li>
 <li class="steps">
-<p class="p">Feu clic <span class="gui">Inicia el test de referència…</span> per comprovar com de ràpid es poden llegir les dades des del disc. Poden ser necessaris <span class="link"><a href="user-admin-explain.html.ca" title="Com funcionen els privilegis administratius?">Privilegis administratius</a></span>. Introduïu la vostra contrasenya, o la contrasenya pel compte d'administrador.</p>
+<p class="p">Feu clic <span class="gui">Inicia el test de referència…</span> per a comprovar com de ràpid es poden llegir les dades des del disc. Poden ser necessaris <span class="link"><a href="user-admin-explain.html.ca" title="Com funcionen els privilegis administratius?">Privilegis administratius</a></span>. Introduïu la vostra contrasenya, o la contrasenya pel compte d'administrador.</p>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>

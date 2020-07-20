@@ -84,12 +84,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Nyalakan <span class="em">tombol pantul</span> untuk mengabaikan penekanan tombol yang diulang secara cepat. Sebagai contoh, bila Anda mengalami tremor yang menyebabkan Anda menekan suatu tombol secara berulang ketika Anda hanya ingin menekannya sekali, Anda sebaiknya menyalakan tombol pantul.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Akses Universal</span> dalam bilah sisi untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Bantuan Mengetik (AccessX)</span> dalam bagian <span class="gui">Pengetikan</span>.</p></li>
-<li class="steps"><p class="p">Switch the <span class="gui">Bounce Keys</span> switch to on.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Tombol Pantul</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
@@ -100,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents"><p class="p">Anda dapat menyalakan dan mematikan tombol pantul dengan mengklik <span class="link"><a href="a11y-icon.html.id" title="Temukan menu akses universal">ikon aksesibilitas</a></span> pada bilah puncak dan memilih <span class="gui">Tombol Pantul</span>. Ikon aksesibilitas nampak ketika satu atau lebih pengaturan difungsikan dari panel <span class="gui">Akses Universal</span>.</p></div></div>
 </div>
 </div>
-<p class="p">Pakai penggeser <span class="gui">Tundaan penerimaan</span> untuk mengubah berapa lama tombol pantul menunggu sebelum dia meloloskan penekanan tombol berikutnya setelah Anda menekan suatu tombol pertama kali. Pilih <span class="gui">Bip ketika suatu tombol ditolak</span> bila Anda ingin agar komputer bersuara setiap kali dia mengabaikan suatu penekanan tombol karena terjadi terlalu cepat setelah penekanan tombol sebelumnya.</p>
+<p class="p">Memakai penggeser <span class="gui">Tundaan penerimaan</span> untuk mengubah berapa lama tombol pantul menunggu sebelum dia meloloskan penekanan tombol berikutnya setelah Anda menekan suatu tombol pertama kali. Pilih <span class="gui">Bip ketika suatu tombol ditolak</span> bila Anda ingin agar komputer bersuara setiap kali dia mengabaikan suatu penekanan tombol karena terjadi terlalu cepat setelah penekanan tombol sebelumnya.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -109,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

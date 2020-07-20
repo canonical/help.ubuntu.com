@@ -92,9 +92,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Lås skærmen</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Hvis du forlader din computer i et stykke tid, så bør du låse skærmen for at forhindre andre i at tilgå dine filer og køre programmer. Når du vender tilbage så træk gardinet op på <span class="link"><a href="shell-lockscreen.html.da" title="Låseskærmen">låseskærmen</a></span> og indtast din adgangskode for at logge ind igen. Hvis du undlader at låse skærmen, så låses den automatisk efter et stykke tid.</p>
-<p class="p">For at låse din skærm skal du klikke på systemmenuen i højre side af toplinjen, og trykke på lås skærm-knappen nederst i menuen.</p>
-<p class="p">Når din skærm er låst, kan andre brugere logge ind på deres egne konti ved at klikke på <span class="gui">Log ind som en anden bruger</span> på adgangskodeskærmen. Du kan skifte tilbage til dit skrivebord når de er færdige.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.da" title="Låseskærmen">lock screen</a></span>. Enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -115,8 +123,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Hviletilstand</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">For at spare på strømmen kan du sætte din computer i hviletilstand når du ikke bruger den. Hvis du bruger en bærbar, så sætter GNOME, som standard, automatisk din computer i hviletilstand når du lukker låget. Det gemmer tilstanden i din computers hukommelse og slukker for de fleste af computerens funktioner. Der bruges fortsat en lille mængde strøm i hviletilstand.</p>
-<p class="p">For at sætte din computer i hviletilstand manuelt kan du klikke på systemmenuen på højre side af toplinjen. Der kan du enten holde <span class="key"><kbd>Alt</kbd></span>-tasten nede og klikke på slukknappen eller ganske enkelt klikke på slukknappen hvor du holder knappen nede længe.</p>
+<p class="p">To save power, suspend your computer when you are not using it. If you use
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
+  suspend.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -140,7 +155,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Sluk eller genstart</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Hvis du vil slukke helt for din computer eller foretage en fuld genstart, så klik på systemmenuen i højre side af toplinjen og tryk på slukknappen nederst i menuen. Der vises en dialog med <span class="gui">Genstart</span> og <span class="gui">Sluk</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Hvis der er andre brugere som er logget ind, så vil du måske ikke have tilladelse til at slukke eller genstarte computeren da det vil afslutte deres session. Hvis du er en administrativ bruger, så kan du blive spurgt om din adgangskode for at slukke.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">

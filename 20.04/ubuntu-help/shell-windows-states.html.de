@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Verschieben und Größenänderung Ihrer Fenster</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Sie können Fenster verschieben und deren Größe ändern, um effizienter arbeiten zu können. Zusätzlich zu dem erwarteten Verhalten beim Ziehen verfügt GNOME über Tastenkombinationen, die Ihnen beim schnellen Anordnen von Fenstern helfen.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Verschieben Sie ein Fenster, indem Sie es an dessen Titelleiste ziehen, oder halten Sie die <span class="key"><a href="keyboard-key-super.html.de" title="Was ist die Super-Taste?"><kbd>Super</kbd></a></span>-Taste gedrückt, so dass Sie einen beliebigen Punkt im Fenster zum Ziehen des Fensters nutzen können. Halten Sie die <span class="key"><kbd>Umschalttaste</kbd></span> beim Verschieben gedrückt, um das Fenster an den Rändern des Bildschirms oder anderer Fenster einrasten zu lassen.</p></li>
 <li class="list"><p class="p">Ändern Sie die Größe eines Fensters, indem Sie es an den Ecken oder Kanten ziehen. Halten Sie die <span class="key"><kbd>Umschalttaste</kbd></span> dabei gedrückt, um es an den Rändern des Bildschirms oder anderer Fenster einrasten zu lassen.</p></li>

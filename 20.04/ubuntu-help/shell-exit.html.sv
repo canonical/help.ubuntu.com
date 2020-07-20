@@ -92,9 +92,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Lås skärmen</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Om du ska lämna din dator för en kort stund bör du låsa skärmen för att förhindra andra människor från att nå dina filer eller körande program. När du kommer tillbaka, höj upp gardinen på <span class="link"><a href="shell-lockscreen.html.sv" title="Låsskärmen">låsskärmen</a></span> och mata in ditt lösenord för att logga in igen. Om du inte låser din skärm kommer den automatiskt att låsas efter en viss tid.</p>
-<p class="p">För att låsa din skärm, klicka på systemmenyn på höger sida av systemraden och tryck på knappen för att låsa skärmen längst ner på menyn.</p>
-<p class="p">När skärmen är låst, kan andra användare logga in på deras egna konton genom att klicka på <span class="gui">Logga in som en annan användare</span> på lösenordsskärmen. Du kan växla tillbaka till ditt skrivbord när de är klara.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.sv" title="Låsskärmen">lock screen</a></span>. Enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -115,8 +123,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Vänteläge</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">För att spara ström, försätt din dator i vänteläge när du inte använder den. Om du använder en bärbar dator, kommer GNOME som standard automatiskt att försätta datorn i vänteläge när du stänger locket. Detta sparar tillståndet till din dators minne och stänger av de flesta av datorns funktioner. En väldigt liten del av strömmen används fortfarande i vänteläge.</p>
-<p class="p">För att försätta din dator i vänteläge manuellt, klicka på systemmenyn på höger sida av systemraden. Därifrån kan du antingen hålla ner <span class="key"><kbd>Alt</kbd></span>-tangenten och klicka på avstängningsknappen, eller helt enkelt klicka ett långt klick på avstängningsknappen.</p>
+<p class="p">To save power, suspend your computer when you are not using it. If you use
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
+  suspend.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -140,7 +155,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Stäng av eller starta om</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Om du vill stänga av din dator helt eller göra en full omstart, klicka på systemmenyn på höger sida av systemraden och tryck på avstängningsknappen längst ner på menyn. En dialogruta kommer att öppnas som erbjuder dig alternativen att antingen <span class="gui">Starta om</span> eller <span class="gui">Stäng av</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Om det finns andra användare som är inloggade är du kanske inte tillåten att stänga av eller starta om datorn eftersom detta kommer att avsluta deras sessioner. Om du är en administrativ användare kan du bli tillfrågad om ditt lösenord för att stänga av.</p>
 <div class="note note-tip" title="Tips">
 <svg width="24" height="24" version="1.1">

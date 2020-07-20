@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div></div>
 </div></section><section id="pause-release-print-job"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Pause and release a print job</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Keskeytä ja vapauta tulostustyö</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">If you want to pause or release a print job, you can do so by going to the
   jobs dialog in the printer settings and click the appropriate button.</p>

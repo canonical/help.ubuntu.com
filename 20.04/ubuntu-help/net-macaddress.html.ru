@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">The MAC address for the wired device will be displayed as the
       <span class="gui">Hardware Address</span> on the right.</p>
 <p class="p">Click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span>
       button to see the MAC address for the wireless device displayed as the
       <span class="gui">Hardware Address</span> in the <span class="gui">Details</span> panel.</p>
 </li>

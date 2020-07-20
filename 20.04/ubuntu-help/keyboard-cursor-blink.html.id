@@ -82,16 +82,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Membuat kursor papan tik berkedip</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you find it difficult to see the keyboard cursor in a text field, you
-  can make it blink to make it easier to locate.</p>
+<p class="p">Jika Anda merasa sulit untuk melihat kursor papan tik pada suatu ruas teks, Anda dapat membuatnya berkedip untuk membuatnya lebih mudah ditemukan.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Cursor Blinking</span> in the <span class="gui">Typing</span> section.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Speed</span> slider to adjust how quickly the cursor
-      blinks.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Akses Universal</span> dalam bilah sisi untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Kursor Berkedip</span> di bagian <span class="gui">Pengetikan</span>.</p></li>
+<li class="steps"><p class="p">Gunakan penggeser <span class="gui">Kecepatan</span> untuk menyesuaikan seberapa cepat kursor berkedip.</p></li>
 </ol></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -101,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.id#vision" title="Masalah visual">Masalah visual</a></li>
 <li class="links ">
-<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

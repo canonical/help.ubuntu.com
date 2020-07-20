@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Què passa quan es suspèn el meu ordinador?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Quan se <span class="em">suspèn</span> l'ordinador, s'envia a dormir. Totes les aplicacions i els documents segueixen oberts, però la pantalla i altres parts de l'ordinador s'apaguen per estalviar energia. Tanmateix, l'ordinador encara està encès, i encara estarà consumint una petita part d'energia. Podeu despertar-lo prement una tecla o fent clic al ratolí. Si això no funciona, proveu de prémer el botó d'encesa.</p>
+<p class="p">Quan se <span class="em">suspèn</span> l'ordinador, s'envia a dormir. Totes les aplicacions i els documents segueixen oberts, però la pantalla i altres parts de l'ordinador s'apaguen per a estalviar energia. Tanmateix, l'ordinador encara està encès, i encara estarà consumint una petita part d'energia. Podeu despertar-lo prement una tecla o fent clic al ratolí. Si això no funciona, proveu de prémer el botó d'encesa.</p>
 <p class="p">Alguns equips tenen problemes amb el suport del maquinari, cosa que vol dir que <span class="link"><a href="power-suspendfail.html.ca" title="Per què el meu equip no es torna a activar després d'haver-lo suspès?">és possible que no puguin suspendre correctament</a></span>. És una bona idea provar de posar en suspensió l'ordinador per veure si funciona abans de confiar-hi.</p>
 <div class="note note-important" title="Important">
 <svg width="24" height="24" version="1.1">
@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="power-suspendfail.html.ca" title="Per què el meu equip no es torna a activar després d'haver-lo suspès?">Per què el meu equip no es torna a activar després d'haver-lo suspès?</a><span class="desc"> — Alguns maquinari de l'ordinador provoquen problemes amb la suspensió.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html.ca" title="Per què el meu ordinador s'apaga quan tanco la tapa?">Per què el meu ordinador s'apaga quan tanco la tapa?</a><span class="desc"> — Els ordinadors portàtils s'adormen quan es tanca la tapa per estalviar energia.</span>
+<a href="power-closelid.html.ca" title="Per què el meu ordinador s'apaga quan tanco la tapa?">Per què el meu ordinador s'apaga quan tanco la tapa?</a><span class="desc"> — Els ordinadors portàtils s'adormen quan es tanca la tapa per a estalviar energia.</span>
 </li>
 <li class="links "><a href="shell-exit.html.ca#suspend" title="Suspendre">Suspendre</a></li>
 <li class="links ">

@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div></div></div></div>
 <p class="p">Quan utilitzeu SSH, totes les dades que envieu (inclosa la vostra contrasenya) es xifren perquè els altres usuaris de la vostra xarxa no puguin veure-la.</p>
 </dd>
-<dt class="terms">FTP (Autentificar-se amb)</dt>
+<dt class="terms">FTP (amb usuari)</dt>
 <dd class="terms">
 <p class="p">FTP és una popular forma d'intercanviar fitxers a Internet. Com que les dades no es xifren sobre FTP, molts servidors proporcionen accés a través de SSH. Alguns servidors, tanmateix, encara permeten o requereixen que utilitzeu FTP per carregar o descarregar fitxers. Els llocs FTP amb inici de sessió normalment permeten eliminar i carregar fitxers.</p>
 <p class="p">Un URL FTP es mostra com:</p>
@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </dd>
 <dt class="terms">Compartir finestra</dt>
 <dd class="terms">
-<p class="p">Els ordinadors Windows utilitzen un protocol propietari per compartir fitxers a través d'una xarxa d'àrea local. En algunes ocasions, els ordinadors d'una xarxa de Windows es troben agrupades en un <span class="em">domini</span> per a l'organització i per controlar millor l'accés. Si teniu els permisos adequats a l'equip remot, podeu connectar-vos a un recurs de Windows des del gestor de fitxers.</p>
+<p class="p">Els ordinadors Windows utilitzen un protocol propietari per compartir fitxers a través d'una xarxa d'àrea local. En algunes ocasions, els ordinadors d'una xarxa de Windows es troben agrupades en un <span class="em">domini</span> per a l'organització i per a controlar millor l'accés. Si teniu els permisos adequats a l'equip remot, podeu connectar-vos a un recurs de Windows des del gestor de fitxers.</p>
 <p class="p">Un URL típic per compartir de Windows es mostra així:</p>
 <div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">smb://servername/Share</span></p></div></div></div></div>
 </dd>

@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html.id" title="Mulai Memakai">Getting started with GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html.id" title="Mulai Memakai">Mulai memakai GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <nav class="prevnext pagewide"><div class="inner">
@@ -81,18 +81,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="media media-image"><div class="inner"><img src="gs-goa1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klik <span class="gui"><a href="shell-introduction.html.id#yourname" title="shell-introduction#yourname">menu sistem</a></span> pada sisi kanan bilah puncak.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="gs-datetime.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps" start="3">
-<li class="steps"><p class="p">Select <span class="gui">Date &amp; Time</span> from the sidebar.</p></li>
+<li class="steps"><p class="p">Pilih <span class="gui">Tanggal &amp; Waktu</span> dari bilah sisi.</p></li>
 <li class="steps"><p class="p">Pastikan bahwa butir <span class="gui">Zona Waktu Otomatis</span> dimatikan, lalu klik butir <span class="gui">Zona Waktu</span> di bawah.</p></li>
 <li class="steps"><p class="p">Klik pada lokasi Anda di peta dunia. Ini memilih kota Anda saat ini, yang juga dapat Anda cari dalam kotak pencarian di atas peta.</p></li>
-<li class="steps"><p class="p">Close the world map window to go back to the <span class="gui">Date &amp;
-     Time</span> panel.</p></li>
+<li class="steps"><p class="p">Tutup jendela peta dunia untuk kembali ke panel <span class="gui">Tanggal &amp; Waktu</span>.</p></li>
 <li class="steps"><p class="p">Pastikan bahwa butir <span class="gui">Tanggal &amp; Jam Otomatis</span> dimatikan, lalu klik butir <span class="gui">Tanggal &amp; Jam</span> di bawah untuk membuka jendela <span class="gui">Tanggal &amp; Jam</span>. Di sana Anda dapat menyetel pengaturan tanggal dan jam Anda dengan mengklik pada tombol-tombol <span class="gui">+</span> atau <span class="gui">-</span>.</p></li>
-<li class="steps"><p class="p">Close the window to go back to the <span class="gui">Date &amp;
-     Time</span> panel, and then close the panel.</p></li>
+<li class="steps"><p class="p">Tutup jendela untuk kembali ke panel <span class="gui">Tanggal &amp; Waktu</span>, lalu tutup panel.</p></li>
 </ol></div></div></div>
 </div>
 <nav class="prevnext pagewide"><div class="inner">
@@ -103,13 +101,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.id" title="Mulai Memakai">Getting started with GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
+<a href="getting-started.html.id" title="Mulai Memakai">Mulai memakai GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html.id" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — <span class="link"><a href="clock-set.html.id" title="Ubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html.id" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html.id" title="Ubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">kalender dan janji bertemu</a></span>…</span>
+<a href="clock.html.id" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a><span class="desc"> — <span class="link"><a href="clock-set.html.id" title="Mengubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html.id" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html.id" title="Mengubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">kalender dan janji bertemu</a></span>…</span>
 </li></ul></div>
 </div></div>
 </div>

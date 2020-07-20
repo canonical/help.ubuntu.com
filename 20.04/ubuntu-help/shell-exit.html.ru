@@ -96,12 +96,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
-  applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html.ru" title="The lock screen">lock screen</a></span> curtain and enter your
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.ru" title="The lock screen">lock screen</a></span>. Enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
-<p class="p">Чтобы заблокировать экран, нажмите на системное меню справа в верхней панели, затем нажмите на кнопку блокировки (значок в виде замка) в нижней части меню.</p>
-<p class="p">При заблокированном экране другие пользователи могут входить в систему под своими учётными записями, нажав на экране ввода пароля пункт <span class="gui">Сменить пользователя</span>. Когда они завершат работу, вы сможете вернуться к своему рабочему столу.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -123,14 +126,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">To save power, suspend your computer when you are not using it. If you use
-  a laptop, GNOME, by default, suspends your computer automatically when you
-  close the lid.
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
   This saves your state to your computer’s memory and powers off most of the
   computer’s functions. A very small amount of power is still used during
   suspend.</p>
 <p class="p">To suspend your computer manually, click the system menu on the right side
-  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
-  click the power off button, or simply long-click the power off button.</p>
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -154,7 +157,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Выключение или перезапуск</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Чтобы полностью выключить компьютер или выполнить полную перезагрузку, нажмите на системное меню справа в верхней панели, затем нажмите кнопку выключения в нижней части меню. Откроется диалоговое окно в котором можно выбрать пункт <span class="gui">Перезапустить</span> или <span class="gui">Выключить</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Если в этот момент в системе авторизованы другие пользователи, то выключение или перезапуск компьютера будут невозможны, поскольку данные действия прервут сеансы этих пользователей. При наличии прав администратора компьютер можно выключить, но понадобится вести пароль.</p>
 <div class="note note-tip" title="Подсказка">
 <svg width="24" height="24" version="1.1">

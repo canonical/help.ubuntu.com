@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Что означают значки в верхней панели?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">В этом разделе объясняется значение значков, расположенных в правом верхнем углу экрана, в частности, описываются различные варианты значков, представленных в интерфейсе GNOME.</p>
+<p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the system are described.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="status-icons.html.ru#universalicons" title="Значки меню специальных возможностей">Значки меню специальных возможностей</a></li>
 <li class="links "><a href="status-icons.html.ru#audioicons" title="Значки индикатора громкости">Значки индикатора громкости</a></li>

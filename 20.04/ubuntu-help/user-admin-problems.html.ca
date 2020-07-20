@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="user-admin-change.html.ca" title="Canviar qui té privilegis administratius">Canviar qui té privilegis administratius</a><span class="desc"> — Podeu permetre als usuaris fer canvis al sistema donant-los privilegis administratius.</span>
 </li>
 <li class="links ">
-<a href="user-admin-explain.html.ca" title="Com funcionen els privilegis administratius?">Com funcionen els privilegis administratius?</a><span class="desc"> — Us calen privilegis d'administrador per canviar parts importants del sistema.</span>
+<a href="user-admin-explain.html.ca" title="Com funcionen els privilegis administratius?">Com funcionen els privilegis administratius?</a><span class="desc"> — Us calen privilegis d'administrador per a canviar parts importants del sistema.</span>
 </li>
 </ul></div>
 </div></div>

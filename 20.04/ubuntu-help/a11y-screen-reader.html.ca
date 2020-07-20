@@ -76,14 +76,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Llegir la pantalla en veu alta</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME proveeix del lector de pantalla <span class="app">Orca</span> per llegir la interfície d'usuari. Depenent de com hàgiu instal·lat GNOME, podeu no tenir-lo instal·lat. Si no ho està, instal·leu Orca primer.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can speak the user interface. Depending
+  on how you installed your system, you might not have Orca installed. If not,
+  install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Instal·la Orca</a></span></p>
 <p class="p">Per a iniciar <span class="app">Orca</span> utilitzant el teclat:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Premeu <span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>
 <p class="p">O per a iniciar <span class="app">Orca</span> utilitzant el ratolí i el teclat:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu les <span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Accés universal</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Cliqueu a <span class="gui">Lector de pantalla</span> a la secció <span class="gui">Visió</span>, aleshores activeu <span class="gui">Lector de pantalla</span> al diàleg.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Suggeriment">

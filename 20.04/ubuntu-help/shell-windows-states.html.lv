@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Pārvietot logus un mainīt to izmēru</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Jūs varat pārvietot un mainīt izmērus logiem, lai jūs varētu strādāt efektīvāk. Vēl pie vilkšanas iespējām ir arī saīsnes un modifikatori, kas palīdz ātri izkārtot logus.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Pārvietojiet logu, velkot virsraksta joslu, vai turiet piespiestu <span class="key"><a href="keyboard-key-super.html.lv" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span> un velciet jebkur logā. Pārvietojot turiet piespiestu <span class="key"><kbd>Shift</kbd></span>, lai pievilktu logu pie ekrāna malām un citiem logiem.</p></li>
 <li class="list"><p class="p">Mainiet loga izmēru, velkot loga malas vai stūrus. Mainot izmēru, turiet piespiestu <span class="key"><kbd>Shift</kbd></span>, lai pievilktu logu pie ekrāna malām un citiem logiem.</p></li>

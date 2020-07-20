@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-problem.html.pt" title="Problemas de rede">Problemas de rede</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-problem.html.pt" title="Problemas de rede">Problemas de rede</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Other users can’t connect to the internet</span></h1></div>
@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Vista de Atividades">Atividades</a></span> e comece a escrever <span class="gui">Rede</span>.</p></li>
 <li class="steps"><p class="p">Carregue em <span class="gui">Rede</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">sem fios</span> da lista à esquerda.</p></li>
-<li class="steps"><p class="p">Carregue o botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuração"></span></span> para abrir os detalhes da conexão.</p></li>
+<li class="steps"><p class="p">Carregue o botão <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configuração"></span></span> para abrir os detalhes da conexão.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">Identidade</span> no painel da esquerda.</p></li>
 <li class="steps"><p class="p">Na parte inferior do painel <span class="gui">Identidade</span>, marque a opção <span class="gui">Disponível para todos os utilizadores</span> para permitir que outros utilizadores usem a rede.</p></li>
 <li class="steps"><p class="p">Carregue <span class="gui">Aplicar</span> para guardar as mudanças.</p></li>

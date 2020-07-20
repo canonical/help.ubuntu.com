@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.ca" title="Usuari i configuració del sistema">Usuari i configuració del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">ratolí</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span>
+<a href="prefs.html.ca" title="Usuari i configuració del sistema">Usuari i configuració del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, ratolí tàctil i pantalla tàctil">ratolí i ratolí tàctil</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

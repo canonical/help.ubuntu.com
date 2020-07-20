@@ -75,29 +75,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Zapis datotek na CD ali DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Datoteke lahko zapišete na prazen disk z <span class="gui">Ustvarjalnikom CD-jev/DVD-jev</span>. Možnost ustvarjanja CD-ja ali DVD-ja se bo v upravljalniku datotek pojavila takoj, ko vstavite CD v zapisovalnik CD/DVD. Upravljalnik datotek vam omogoča enostaven prenos datotek na druge računalnike ali ustvarjanje <span class="link"><a href="backup-why.html.sl" title="Ustvarjanje varnostne kopije pomembnih datotek">varnostnih kopij</a></span> s kopiranjem datotek na prazen disk. Za zapisovanje datotek na CD ali DVD:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Prazen disk vstavite v zapisljivi pogon CD/DVD.</p></li>
-<li class="steps">
-<p class="p">V oknu <span class="gui">Prazen disk CD/DVD-R</span>, ki se pojavi, izberite <span class="gui">Odpri z ustvarjalnikom CD-jev/DVD-jev</span>. Odprlo se bo okno <span class="gui">Ustvarjalnik CD-jev/DVD-jev</span>.</p>
-<p class="p">(Lahko tudi kliknete na <span class="gui">Prazen disk CD/DVD-R</span> pod <span class="gui">Naprave</span> v stranski vrstici upravljalnika datotek.)</p>
-</li>
-<li class="steps"><p class="p">V polje <span class="gui">Ime diska</span> vpišite ime diska.</p></li>
-<li class="steps"><p class="p">Povlecite ali kopirajte želene datoteke v okno.</p></li>
-<li class="steps"><p class="p">Kliknite <span class="gui">Zapiši na disk</span>.</p></li>
-<li class="steps">
-<p class="p">V <span class="gui">Izbor diska za zapisovanje </span> izberite prazen disk.</p>
-<p class="p">(Namesto tega izberite <span class="gui">Datoteka odtisa</span>. To bo iz datotek ustvarilo <span class="em">odtis diska</span>, ki bo shranjen na vaš računalnik. Odtis diska lahko kasneje zapišete na prazen disk.)</p>
-</li>
-<li class="steps"><p class="p">V primeru da želite prilagoditi hitrost zapisovanja, mesto začasnih datotek in druge možnosti, kliknite <span class="gui">Lasnosti</span>. Privzete možnosti bi morale biti v redu.</p></li>
-<li class="steps">
-<p class="p">Za začetek zapisovanja kliknite na gumb <span class="gui">Zapiši</span>.</p>
-<p class="p">V primeru da ste izbrali <span class="gui">Zapiši več kopij</span>, boste pozvani k vstavitvi dodatnih diskov.</p>
-</li>
-<li class="steps"><p class="p">Ko je zapisovanje diska končano, bo samodejno izvržen. Za končanje izberite <span class="gui">Naredi več kopij</span> ali <span class="gui">Zapri</span>.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -106,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
   computer.</p>
 <p class="p">In this case, try burning the disc again but use a lower burning speed,
   for example, 12x rather than 48x. Burning at slower speeds is more reliable.
-  You can choose the speed by clicking the <span class="gui">Properties</span> button in the
-  <span class="gui">CD/DVD Creator</span> window.</p>
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

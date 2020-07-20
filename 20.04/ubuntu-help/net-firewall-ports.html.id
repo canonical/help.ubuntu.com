@@ -70,17 +70,13 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.id" title="Tetap aman di internet">Tetap aman di internet</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-security.html.id" title="Tetap aman di internet">Tetap aman di internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Port jaringan yang biasa dipakai</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">This is a list of network ports commonly used by applications that provide
-  network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <span class="link"><a href="net-firewall-on-off.html.id" title="Aktifkan atau blok akses firewall">block or allow
-  access</a></span> to these applications. There are thousands of ports in use, so
-  this table isn’t complete.</p>
+<p class="p">Ini adalah daftar port jaringan yang biasa digunakan oleh aplikasi yang menyediakan layanan jaringan, seperti berbagi berkas atau tampilan desktop jarak jauh. Anda dapat mengubah firewall sistem Anda untuk <span class="link"><a href="net-firewall-on-off.html.id" title="Aktifkan atau blok akses firewall">memblokir atau mengizinkan</a></span> akses ke aplikasi ini. Ada ribuan port yang digunakan, jadi tabel ini tidak lengkap.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Porta</p></td>
@@ -106,8 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <tr>
 <td><p class="p">5298/tcp</p></td>
 <td><p class="p">Kehadiran</p></td>
-<td><p class="p">Allows you to advertise your instant messaging status to other
-          people on the network, such as “online” or “busy”.</p></td>
+<td><p class="p">Memungkinkan Anda menyebarluaskan status perpesanan instan Anda ke orang lain di jaringan, seperti misalnya "daring" atau "sibuk".</p></td>
 </tr>
 <tr class="shade">
 <td><p class="p">5900/tcp</p></td>
@@ -134,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-on-off.html.id" title="Aktifkan atau blok akses firewall">Aktifkan atau blok akses firewall</a><span class="desc"> — You can control which programs can access the network. This helps to keep your computer secure.</span>
+<a href="net-firewall-on-off.html.id" title="Aktifkan atau blok akses firewall">Aktifkan atau blok akses firewall</a><span class="desc"> — Anda dapat mengontrol program mana yang dapat mengakses jaringan. Ini membantu menjaga komputer Anda tetap aman.</span>
 </li></ul></div>
 </div></div>
 </div>

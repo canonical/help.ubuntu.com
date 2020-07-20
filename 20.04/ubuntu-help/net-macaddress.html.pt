@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-general.html.pt" title="Termos e conselhos sobre redes">Termos e conselhos sobre redes</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-general.html.pt" title="Termos e conselhos sobre redes">Termos e conselhos sobre redes</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Que é uma direção MAC?</span></h1></div>
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Escolha o dispositivo <span class="gui">Sem fios</span> ou<span class="gui">Instalado</span> no painel da esquerda.</p>
 <p class="p">Sua direção do dispositivo instalado MAC mostrar-se-á como a <span class="gui">Direção hardware</span> à direita.</p>
-<p class="p">Carregue o botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuração"></span></span> para ver a direção MAC do dispositivo sem fios mostrada como <span class="gui">Direção hardware</span> no painel de <span class="gui">Detalhes</span>.</p>
+<p class="p">Carregue o botão <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configuração"></span></span> para ver a direção MAC do dispositivo sem fios mostrada como <span class="gui">Direção hardware</span> no painel de <span class="gui">Detalhes</span>.</p>
 </li>
 </ol></div></div></div>
 <p class="p">In practice, you may need to modify or “spoof” a MAC address. For example,

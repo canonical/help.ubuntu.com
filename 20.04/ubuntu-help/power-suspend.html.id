@@ -80,16 +80,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Apa yang terjadi ketika saya mensuspensi komputer?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">When you <span class="em">suspend</span> the computer, you send it to sleep. All of your
-applications and documents remain open, but the screen and other parts of the
-computer switch off to save power. The computer is still switched on though,
-and it will still be using a small amount of power. You can wake it up by
-pressing a key or clicking the mouse. If that does not work, try pressing the
-power button.</p>
-<p class="p">Some computers have problems with hardware support which mean that they
-<span class="link"><a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">may not be able to suspend properly</a></span>. It is
-a good idea to test suspend on your computer to see if it does work before
-relying on it.</p>
+<p class="p">Ketika Anda <span class="em">mensuspensi</span> komputer, Anda mengirimnya ke status tidur. Semua aplikasi dan dokumen tetap terbuka, tetapi layar dan bagian lain dari komputer beralih untuk menghemat daya. Komputer masih diaktifkan meskipun, dan masih akan menggunakan sejumlah kecil daya. Anda dapat membangunkannya dengan menekan tombol atau mengklik tetikus. Jika itu tidak berhasil, cobalah menekan tombol power.</p>
+<p class="p">Beberapa komputer memiliki masalah dengan dukungan perangkat keras yang berarti bahwa mereka <span class="link"><a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">mungkin tidak dapat disuspensi dengan benar</a></span>. Ide yang baik untuk menguji suspensi pada komputer Anda untuk melihat apakah itu bekerja sebelum mengandalkannya.</p>
 <div class="note note-important" title="Penting">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
@@ -105,11 +97,7 @@ relying on it.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
-    </span>
+<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Status baterai</a></span>, <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspensi</a></span>, <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">peredupan layar</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -119,14 +107,13 @@ relying on it.</p>
 <a href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">Memakai daya lebih sedikit dan meningkatkan umur baterai</a><span class="desc"> — Tip untuk mengurangi konsumsi daya komputer Anda.</span>
 </li>
 <li class="links ">
-<a href="power-closelid.html.id" title="Mengapa komputer saya mati ketika saya menutup lid?">Mengapa komputer saya mati ketika saya menutup lid?</a><span class="desc"> — Laptops go to sleep when you close the lid, in order to save
-    power.</span>
+<a href="power-closelid.html.id" title="Mengapa komputer saya mati ketika saya menutup lid?">Mengapa komputer saya mati ketika saya menutup lid?</a><span class="desc"> — Laptop pergi tidur ketika Anda menutup lid, untuk menghemat daya.</span>
 </li>
 <li class="links ">
-<a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Some computer hardware causes problems with suspend.</span>
+<a href="power-suspendfail.html.id" title="Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?">Mengapa komputer saya tak bisa hidup lagi setelah saya suspensi?</a><span class="desc"> — Beberapa perangkat keras komputer menyebabkan masalah dengan suspensi.</span>
 </li>
 <li class="links ">
-<a href="power-autosuspend.html.id" title="Set up automatic suspend">Set up automatic suspend</a><span class="desc"> — Configure your computer to suspend automatically.</span>
+<a href="power-autosuspend.html.id" title="Menyiapkan suspensi otomatis">Menyiapkan suspensi otomatis</a><span class="desc"> — Konfigurasikan komputer untuk mensuspensi secara otomatis.</span>
 </li>
 <li class="links "><a href="shell-exit.html.id#suspend" title="Suspensi">Suspensi</a></li>
 </ul></div>

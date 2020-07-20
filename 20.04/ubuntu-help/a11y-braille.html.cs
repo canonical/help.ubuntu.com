@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Čtení obrazovky pomocí braillského řádku</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME poskytuje čtečku obrazovky <span class="app">Orca</span>, která umí zobrazovat uživatelské rozhraní na braillském řádku. Podle toho, jak máte nainstalováno GNOME, máte možná nainstalovanou čtečku Orca. Pokud ne, nejprve si ji nainstalujte.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can display the user interface on a
+  refreshable Braille display. Depending on how you installed your system, you
+  might not have Orca installed. If not, install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Nainstalovat čtečku Orca</a></span></p>
 <p class="p">Další informace můžete najít v <span class="link"><a href="help:orca" title="help:orca">nápovědě ke čtečce Orca</a></span>.</p>
 </div>

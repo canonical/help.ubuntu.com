@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Jendela dan area kerja</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Like other desktops, GNOME uses windows to display your running
+<p class="p">Like other desktops, the system uses windows to display your running
   applications. Using both the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span>
   overview and the <span class="em">dash</span>, you can launch new applications and control
   active windows.</p>
@@ -88,8 +88,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Bekerja dengan jendela</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.id" title="Berpindah antar jendela"><span class="title">Berpindah antar jendela</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.id" title="Maximize and unmaximize a window"><span class="title">Maximize and unmaximize a window</span><span class="linkdiv-dash"> — </span><span class="desc">Klik ganda atau seret bilah judul untuk memaksimumkan atau mengembalikan suatu jendela.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.id" title="Berpindah antar jendela"><span class="title">Berpindah antar jendela</span><span class="linkdiv-dash"> — </span><span class="desc">Tekan <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-windows-maximize.html.id" title="Maksimalkan dan tak memaksimalkan jendela"><span class="title">Maksimalkan dan tak memaksimalkan jendela</span><span class="linkdiv-dash"> — </span><span class="desc">Klik ganda atau seret bilah judul untuk memaksimumkan atau mengembalikan suatu jendela.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows-states.html.id" title="Memindah dan mengubah ukuran jendela"><span class="title">Memindah dan mengubah ukuran jendela</span><span class="linkdiv-dash"> — </span><span class="desc">Arrange windows in a workspace to help you work more
     efficiently.</span></a></div>
 </div>

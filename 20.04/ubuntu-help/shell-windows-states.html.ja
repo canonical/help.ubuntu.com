@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">ウィンドウを移動する、サイズを変更する</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">ウィンドウの移動やサイズ変更をすることで、より効率的に作業できるようになります。ドラッグによる移動やサイズ変更についてはご存知でしょうが、方法はそれだけではありません。GNOME では、ショートカットや修飾キーを使ってすばやくウィンドウを配置することができます。</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
       <span class="key"><a href="keyboard-key-super.html.ja" title="Super キーとは何ですか?"><kbd>Super</kbd></a></span> and drag anywhere in the

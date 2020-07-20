@@ -78,10 +78,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Si heu creat o baixat un fitxer, però ara no el podeu trobar, seguiu aquests consells.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Si no recordeu on vau desar el fitxer, però teniu una idea de com el vau nomenar, podeu fer-ho <span class="link"><a href="files-search.html.ca" title="Cerca fitxers">cercar el fitxer pel nom</a></span>.</p></li>
+<li class="list"><p class="p">Si no recordeu on vau desar el fitxer, però teniu una idea de com el vau anomenar, podeu fer-ho <span class="link"><a href="files-search.html.ca" title="Cercar fitxers">cercar el fitxer pel nom</a></span>.</p></li>
 <li class="list"><p class="p">Si acaba de descarregar el fitxer, el vostre navegador web podria haver-lo guardat automàticament en una carpeta comuna. Mireu a les carpetes <span class="file">Escriptori</span> i <span class="file">Baixades</span> al vostre directori 'Inici'.</p></li>
-<li class="list"><p class="p">Podeu haver esborrat el fitxer accidentalment. Quan suprimiu un fitxer, es mou a la paperera, on es manté fins que buideu la paperera manualment. Consultar <span class="link"><a href="files-recover.html.ca" title="Recupera un fitxer de la Paperera">Recupera un fitxer de la Paperera</a></span> per saber-ne més sobre com recuperar un fitxer eliminat.</p></li>
-<li class="list"><p class="p">És possible que hàgiu canviat el nom d'un fitxer de manera que hàgiu ocultat el fitxer. Fitxers que comencen per a <span class="file">.</span> o acabin amb <span class="file">~</span> estan ocults al gestor de fitxers. Feu clic al botó Opcions de visualització a la barra d'eines <span class="app">Fitxers</span> i activeu <span class="gui">Mostra els fitxers ocults</span> per mostrar-los. Consultar <span class="link"><a href="files-hidden.html.ca" title="Ocultar un fitxer">Ocultar un fitxer</a></span> per saber-ne més.</p></li>
+<li class="list"><p class="p">Podeu haver esborrat el fitxer accidentalment. Quan suprimiu un fitxer, es mou a la paperera, on es manté fins que buideu la paperera manualment. Consultar <span class="link"><a href="files-recover.html.ca" title="Recuperar un fitxer de la Paperera">Recuperar un fitxer de la Paperera</a></span> per saber-ne més sobre com recuperar un fitxer eliminat.</p></li>
+<li class="list"><p class="p">És possible que hàgiu canviat el nom d'un fitxer de manera que hàgiu ocultat el fitxer. Fitxers que comencen per a <span class="file">.</span> o acabin amb <span class="file">~</span> estan ocults al gestor de fitxers. Feu clic al botó Opcions de visualització a la barra d'eines <span class="app">Fitxers</span> i activeu <span class="gui">Mostra els fitxers ocults</span> per a mostrar-los. Consultar <span class="link"><a href="files-hidden.html.ca" title="Ocultar un fitxer">Ocultar un fitxer</a></span> per saber-ne més.</p></li>
 </ul></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="files-recover.html.ca" title="Recupera un fitxer de la Paperera">Recupera un fitxer de la Paperera</a><span class="desc"> — Els fitxers esborrats normalment s'envien a la paperera, però es poden recuperar.</span>
+<a href="files-recover.html.ca" title="Recuperar un fitxer de la Paperera">Recuperar un fitxer de la Paperera</a><span class="desc"> — Els fitxers esborrats normalment s'envien a la paperera, però es poden recuperar.</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">WLAN</span> ein.</p></li>
 <li class="steps"><p class="p">Suchen Sie das Netzwerk heraus, mit dem Sie sich <span class="em">nicht länger</span> verbinden möchten.</p></li>
-<li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="Einstellungen"></span></span> neben dem Netzwerk.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="Einstellungen"></span></span> neben dem Netzwerk.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Verbindung entfernen</span>. Ihr Rechner wird nun nicht länger versuchen, sich mit diesem Netzwerk zu verbinden.</p></li>
 </ol></div>
 </div></div>

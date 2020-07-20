@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Other users can’t edit the network connections</title>
+<title>Pengguna lain tak bisa menyunting koneksi jaringan</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,27 +70,20 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Other users can’t edit the network connections</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Pengguna lain tak bisa menyunting koneksi jaringan</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you can edit a network connection but other users on your computer
-  can’t, you may have set the connection to be <span class="em">available to all users</span>.
-  This makes it so that everyone on the computer can <span class="em">connect</span> using
-  that connection.</p>
+<p class="p">Jika Anda dapat menyunting sambungan jaringan tetapi pengguna lain di komputer Anda tidak dapat, Anda mungkin telah mengatur sambungan menjadi <span class="em">tersedia untuk semua pengguna</span>. Hal ini membuat semua orang di komputer dapat <span class="em">menyambung</span> menggunakan sambungan tersebut.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Pilih <span class="gui">Wi-Fi</span> dari daftar di kiri.</p></li>
-<li class="steps"><p class="p">Click the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to open the connection
-      details.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Identity</span> from the pane on the left.</p></li>
-<li class="steps"><p class="p">At the bottom of the <span class="gui">Identity</span> panel, check the <span class="gui">Make
-      available to other users</span> option to allow other users to use the
-      network connection.</p></li>
+<li class="steps"><p class="p">Klik tombol <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="pengaturan"></span></span> untuk membuka detail koneksi.</p></li>
+<li class="steps"><p class="p">Pilih <span class="gui">Identitas</span> dari panel di kiri.</p></li>
+<li class="steps"><p class="p">Di bagian bawah panel <span class="gui">Identitas</span>, periksa opsi <span class="gui">Jadikan tersedia untuk pengguna lain</span> untuk memungkinkan pengguna lain untuk menggunakan sambungan jaringan.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Terapkan</span> untuk menyimpan perubahan.</p></li>
 </ol></div></div></div>
 </div>
@@ -100,21 +93,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.id" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
-    </span>
+<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Melacak masalah koneksi nirkabel</a></span>, <span class="link"><a href="net-wireless-find.html.id" title="Saya tak bisa melihat jaringan nirkabelku dalam daftar">menemukan jaringan Wi-Fi Anda</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — Anda memerlukan hak akses administratif untuk mengubah bagian penting dari sistem Anda.</span>
 </li>
 <li class="links ">
-<a href="net-othersconnect.html.id" title="Other users can’t connect to the internet">Other users can’t connect to the internet</a><span class="desc"> — You can save settings (like the password) for a network connection so that everyone who uses the computer will be able to connect to it.</span>
+<a href="net-othersconnect.html.id" title="Pengguna lain tak bisa menyambung ke internet">Pengguna lain tak bisa menyambung ke internet</a><span class="desc"> — Anda dapat menyimpan pengaturan (seperti kata sandi) untuk koneksi jaringan sehingga setiap orang yang menggunakan komputer akan dapat terhubung ke sana.</span>
 </li>
 </ul></div>
 </div></div>

@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Премештајте и мењајте величину прозора</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Можете да премештате и мењате величину прозора да бисте лакше радили са њима. Као додатак понашању превлачења можете да очекујете, да вам пречице Гномових функција и измењивачи помогну да олако поређате прозоре.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Преместите прозор превлачећи траку наслова, или држите притиснутим <span class="key"><a href="keyboard-key-super.html.sr" title="Шта је то тастер Супер?"><kbd>Супер</kbd></a></span> и превуците било где у прозору. Држите притиснутим <span class="key"><kbd>Шифт</kbd></span> док премештате да прислоните прозор на ивице екрана и друге прозоре.</p></li>
 <li class="list"><p class="p">Промените величину прозора превлачећи ивице или угао прозора. Држите притиснутим <span class="key"><kbd>Шифт</kbd></span> док мењате величину да прислоните прозор на ивице екрана и друге прозоре.</p></li>

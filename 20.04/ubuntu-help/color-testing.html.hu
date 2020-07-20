@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">A színprofil hatása néha enyhe, és nehezen látható, hogy változott valami.</p>
-<p class="p">A GNOME számos tesztelésre használható profilt tartalmaz, amelyekkel tisztán láthatóvá válik, hogy a profilok alkalmazásra kerülnek:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Kék</dt>
 <dd class="terms"><p class="p">Ez kékre festi a képernyőt, és teszteli, hogy kalibrálási görbék elküldésre kerülnek-e a kijelzőre.</p></dd>
@@ -89,7 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Nyissa meg a <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Tevékenységek</a></span> áttekintést, és kezdje el begépelni a <span class="gui">Beállítások</span> szót</p></li>
 <li class="steps"><p class="p">Válassza a <span class="gui">Beállítások</span> lehetőséget.</p></li>
-<li class="steps"><p class="p">Kattintson az <span class="gui">Eszközök</span> lehetőségre az oldalsávon.</p></li>
 <li class="steps"><p class="p">Kattintson a <span class="gui">Színek</span> elemre az oldalsávon a panel megnyitásához.</p></li>
 <li class="steps"><p class="p">Válassza ki az eszközt, amelyhez profilt szeretne társítani. Hasznos lehet felírni, hogy épp melyik profilt használja.</p></li>
 <li class="steps"><p class="p">A <span class="gui">Profil hozzáadása</span> gomb megnyomásával válasszon egy tesztprofilt, amely általában a lista alján található.</p></li>

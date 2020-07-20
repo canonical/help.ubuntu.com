@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Ubah aplikasi surel mana yang dipakai untuk menulis surel</title>
+<title>Mengubah aplikasi surel mana yang dipakai untuk menulis surel</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,24 +70,18 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Surel &amp; perangkat lunak surel</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Surel &amp; perangkat lunak surel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Ubah aplikasi surel mana yang dipakai untuk menulis surel</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mengubah aplikasi surel mana yang dipakai untuk menulis surel</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">When you click a button or link to send a new email (for example, in your
-  word processing application), your default mail application will open up with
-  a blank message, ready for you to write. However, if you have more than one
-  mail application installed, the wrong mail application might open up. You
-  can fix this by changing which one is the default email application:</p>
+<p class="p">Ketika Anda mengklik sebuah tombol atau tautan untuk mengirim surel baru (misalnya, dalam aplikasi pengolah kata Anda), aplikasi surel baku Anda akan membuka dengan pesan kosong, siap untuk Anda tulis. Namun, jika Anda memiliki lebih dari satu aplikasi surel yang terinstal, aplikasi surel yang salah mungkin akan terbuka. Anda dapat memperbaikinya dengan mengubah mana yang merupakan aplikasi surel baku:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Rincian</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Rincian</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
-      of the window.</p></li>
-<li class="steps"><p class="p">Choose which email client you would like to be used by default by
-      changing the <span class="gui">Mail</span> option.</p></li>
+<li class="steps"><p class="p">Pilih <span class="gui">Aplikasi Baku</span> dari daftar di sisi kiri jendela.</p></li>
+<li class="steps"><p class="p">Pilih klien surel mana yang ingin Anda gunakan secara baku dengan mengubah opsi <span class="gui">Surat</span> .</p></li>
 </ol></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -95,10 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Surel &amp; perangkat lunak surel</a><span class="desc"> — 
-      <span class="link"><a href="net-default-email.html.id" title="Ubah aplikasi surel mana yang dipakai untuk menulis surel">Default email apps</a></span>,
-      <span class="link"><a href="net-email-virus.html.id" title="Do I need to scan my emails for viruses?">Should I scan for viruses?</a></span>…
-    </span>
+<a href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Surel &amp; perangkat lunak surel</a><span class="desc"> — Screen<span class="link"><a href="net-default-email.html.id" title="Mengubah aplikasi surel mana yang dipakai untuk menulis surel">App surel baku</a></span>, <span class="link"><a href="net-email-virus.html.id" title="Apakah saya perlu memindai surel saya untuk mencari virus?">Apakah saya mesti memindai virus?</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

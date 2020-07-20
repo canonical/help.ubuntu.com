@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Acces universal</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Desktopul GNOME include tehnologii asistative pentru a acomoda utilizatori cu diferite afecțiuni și nevoi speciale, și pentru a interacționa cu dispozitive asistative comune. Un meniu de accesibilitate poate fi adăugat la bara de sus, oferind acces la multe dintre funcționalitățile de accesibilitate.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.ro" title="Găsirea meniului access universal"><span class="title">Găsirea meniului access universal</span><span class="linkdiv-dash"> — </span><span class="desc">Meniul acces universal este iconița de pe bara de sus care arată ca o persoană.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">

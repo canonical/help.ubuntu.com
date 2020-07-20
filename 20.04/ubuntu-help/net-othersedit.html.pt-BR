@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Rede</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Rede</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">Wi-Fi</span> na lista à esquerda.</p></li>
-<li class="steps"><p class="p">Clique no botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configurações"></span></span> para abrir os detalhes da conexão.</p></li>
+<li class="steps"><p class="p">Clique no botão <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configurações"></span></span> para abrir os detalhes da conexão.</p></li>
 <li class="steps"><p class="p">Selecione <span class="gui">Identidade</span> no painel à esquerda.</p></li>
 <li class="steps"><p class="p">Na parte inferior do painel <span class="gui">Identidade</span>, marque a opção <span class="gui">Disponível para todos os usuários</span> para permitir que outros usuários usem a conexão de rede.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Aplicar</span> para salvar as alterações.</p></li>

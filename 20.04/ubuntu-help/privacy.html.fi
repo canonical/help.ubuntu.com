@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Yksityisyysasetukset</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The <span class="em">Privacy Settings</span> in GNOME help you control whether or not
+<p class="p">The <span class="em">Privacy Settings</span> help you control whether or not
   certain parts of your desktop are visible to others. You can also
   use these settings to clear your computer usage history and clean out
   unnecessary files.</p>

@@ -92,10 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.pt-BR" title="Compromissos da agenda"><span class="title">Compromissos da agenda</span><span class="linkdiv-dash"> — </span><span class="desc">Exiba seus compromissos na área da agenda no topo da tela.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.pt-BR" title="Fixe seus aplicativos favoritos ao dash"><span class="title">Fixe seus aplicativos favoritos ao dash</span><span class="linkdiv-dash"> — </span><span class="desc">Adicione (ou remova) ícones de programas frequentemente usados ao dash.</span></a></div>
 </div>
-<div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.pt-BR" title="Iniciando aplicativos automaticamente ao iniciar a sessão"><span class="title">Iniciando aplicativos automaticamente ao iniciar a sessão</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Ajustes</span> para iniciar aplicativos automaticamente no início de sessão.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.pt-BR" title="Notificações e a lista de notificação"><span class="title">Notificações e a lista de notificação</span><span class="linkdiv-dash"> — </span><span class="desc">Mensagens surgem na parte superior da tela lhe informando quando certos eventos acontecem.</span></a></div>
-</div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.pt-BR" title="Notificações e a lista de notificação"><span class="title">Notificações e a lista de notificação</span><span class="linkdiv-dash"> — </span><span class="desc">Mensagens surgem na parte superior da tela lhe informando quando certos eventos acontecem.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Aplicativos e janelas</span></h2></div>

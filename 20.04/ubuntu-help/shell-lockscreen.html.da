@@ -80,13 +80,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Låseskærmen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Med låseskærmen kan du se hvad der sker mens din computer er låst og den giver dig mulighed for at få en oversigt over, hvad der er sket, mens du har været væk. Låseskærmens gardin viser et fint billede mens din computer er låst og giver nyttige informationer:</p>
+<p class="p">The lock screen means that you can see what is happening while your
+  computer is locked, and it allows you to get a summary of what has been
+  happening while you have been away. The lock screen provides
+  useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">navnet på brugeren, som er logget ind</p></li>
 <li class="list"><p class="p">dato og klokkeslæt, samt bestemte påmindelser</p></li>
 <li class="list"><p class="p">batteri- og netværksstatus</p></li>
 </ul></div></div></div>
-<p class="p">For at låse din computer op skal du løfte låseskærmens gardin ved at trække det op med markøren eller ved at trykke på <span class="key"><kbd>Esc</kbd></span> eller <span class="key"><kbd>Enter</kbd></span>. Så vises loginskærmen, hvor du kan indtaste din adgangskode for at låse op. Alternativt kan du blot skrive din adgangskode, og gardinet løftes automatisk når du skriver. Du kan også skifte bruger, hvis din computer er konfigureret til mere end én bruger.</p>
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+  This will reveal the login screen, where you can enter your password to
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">To hide notifications from the lock screen, see
   <span class="link"><a href="shell-notifications.html.da#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a></span>.</p>
 </div>

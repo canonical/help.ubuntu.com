@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Serveis i aplicacions en línia</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Un cop hàgiu afegit un compte en línia, qualsevol aplicació pot utilitzar aquest compte per a qualsevol dels serveis disponibles que no s'hagin <span class="link"><a href="accounts-disable-service.html.ca" title="Controlar quins serveis en línia es pot utilitzar per accedir a un compte">desactivat</a></span>. Els diferents proveïdors proporcionen serveis diferents. Aquesta pàgina enumera els diferents serveis i algunes de les aplicacions conegudes per utilitzar.</p>
+<p class="p">Un cop hàgiu afegit un compte en línia, qualsevol aplicació pot utilitzar aquest compte per a qualsevol dels serveis disponibles que no s'hagin <span class="link"><a href="accounts-disable-service.html.ca" title="Controlar quins serveis en línia es pot utilitzar per a accedir a un compte">desactivat</a></span>. Els diferents proveïdors proporcionen serveis diferents. Aquesta pàgina enumera els diferents serveis i algunes de les aplicacions conegudes per a utilitzar.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Calendari</dt>
 <dd class="terms"><p class="p">El servei de calendari us permet veure, afegir i editar esdeveniments en un calendari en línia. L'utilitzen aplicacions com <span class="app">Calendari</span>, <span class="app">Evolution</span>, i <span class="app">California</span>.</p></dd>
@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts-disable-service.html.ca" title="Controlar quins serveis en línia es pot utilitzar per accedir a un compte">Controlar quins serveis en línia es pot utilitzar per accedir a un compte</a><span class="desc"> — Alguns comptes en línia es poden utilitzar per accedir a diversos serveis (com ara el calendari i el correu electrònic). Podeu controlar quins d'aquests serveis poden ser utilitzats per les aplicacions.</span>
+<a href="accounts-disable-service.html.ca" title="Controlar quins serveis en línia es pot utilitzar per a accedir a un compte">Controlar quins serveis en línia es pot utilitzar per a accedir a un compte</a><span class="desc"> — Alguns comptes en línia es poden utilitzar per a accedir a diversos serveis (com ara el calendari i el correu electrònic). Podeu controlar quins d'aquests serveis poden ser utilitzats per les aplicacions.</span>
 </li></ul></div>
 </div></div>
 </div>

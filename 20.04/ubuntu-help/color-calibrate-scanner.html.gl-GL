@@ -86,7 +86,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Analice o obxectivo de calibración e gárdea como un ficheiro TIFF sen comprimir.</p></li>
 <li class="steps"><p class="p">Abra a vista de <span class="gui"><a href="shell-introduction.html.gl-GL#activities" title="Vi de Actividades">Actividades</a></span>  e comoece a escribir <span class="gui">Preferencias</span>.</p></li>
 <li class="steps"><p class="p">Prema en <span class="gui">Preferencias</span>.</p></li>
-<li class="steps"><p class="p">Prema <span class="gui">Dispositivos</span> na barra lateral.</p></li>
 <li class="steps"><p class="p">Prema en <span class="gui">Cor</span> na barra lateral para abir o panel.</p></li>
 <li class="steps"><p class="p">Seleccione o seu escáner.</p></li>
 <li class="steps"><p class="p">Prema <span class="gui">Calibrar…</span> para iniciar o calibrado.</p></li>

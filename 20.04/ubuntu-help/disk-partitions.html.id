@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Kata <span class="em">volume</span> dipakai untuk menjelaskan suatu perangkat penyimpanan, seperti sebuah hard disk. Itu juga bisa mengacu kepada sebuah <span class="em">bagian</span> dari penyimpanan pada perangkat, karena Anda dapat memecah penyimpanan ke dalam bongkahan-bongkahan. Komputer membuat penyimpanan ini dapat diakses melalui sistem berkas Anda dalam suatu proses yang dikenal sebagai <span class="em">mengait</span>. Volume yang dikat mungkin berubah hard disk, USB, DVD-RW, kartu SD, dan media lain. Bila suatu volume saat ini sedang dikait, Anda dapat membaca (dan mungkin menulis) berkas-berkas padanya.</p>
-<p class="p">Seringkali, suatu volume yang dikait dinamai sebagai <span class="em">partisi</span>, walaupun belum tentu mereka merupakan hal yang sama. Suatu "partisi" mengacu ke suatu wilayah penyimpanan <span class="em">fisik</span> pada suatu disk tunggal. Sekali sebuah partisi telah dikait, itu dapat diacu sebagai suatu volume karena Anda dapat mengakses berkas-berkas padanya. </p>
+<p class="p">Seringkali, suatu volume yang dikait dinamai sebagai <span class="em">partisi</span>, walaupun belum tentu mereka merupakan hal yang sama. Suatu "partisi" mengacu ke suatu wilayah penyimpanan <span class="em">fisik</span> pada suatu disk tunggal. Sekali sebuah partisi telah dikait, itu dapat diacu sebagai suatu volume karena Anda dapat mengakses berkas-berkas padanya. Anda dapat menganggap volume sebagai "etalase" berlabel yang dapat diakses, untuk "ruang belakang" partisi dan drive yang fungsional.</p>
 </div>
 <section id="manage"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Lihat dan kelola volume dan partisi memakai utilitas disk</span></h2></div>
@@ -87,11 +87,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Buka ringkasan <span class="gui">Aktivitas</span> dan mulai <span class="app">Disk</span>.</p></li>
 <li class="steps"><p class="p">Pada daftar perangkat penyimpanan di sebelah kiri, Anda akan menemukan hardisk, drive CD/DVD, dan perangkat fisik lainnya. Klik pada perangkat yang akan Anda periksa.</p></li>
 <li class="steps">
-<p class="p">Di panel kanan, area berlabel <span class="gui">Volume</span> menyediakan rincian visual dari volumen dari partisi yang ada pada perangkat yang dipilih. Itu juga memuat berbagai perkakas yang dipakai untuk mengelola volume ini.</p>
+<p class="p">Panel kanan menyediakan rincian visual dari volume dan partisi yang ada pada perangkat yang dipilih. Ini juga berisi berbagai alat yang digunakan untuk mengelola volume ini.</p>
 <p class="p">Berhati-hatilah: mungkin saja menghapus sepenuhnya data pada disk Anda dengan utilitas ini.</p>
 </li>
 </ol></div></div></div>
-<p class="p">Komputer Anda kemungkinan besar memiliki setidaknya satu <span class="em">primer</span> partisi dan satu <span class="em">swap</span> partisi. Partisi swap digunakan oleh sistem operasi untuk manajemen memori, dan jarang dipasang. Partisi utama berisi sistem operasi, aplikasi, pengaturan, dan file pribadi. File-file ini juga dapat didistribusikan di antara beberapa partisi untuk keamanan atau kenyamanan.</p>
+<p class="p">Komputer Anda kemungkinan besar memiliki setidaknya satu partisi <span class="em">primer</span> dan satu partisi <span class="em">swap</span>. Partisi swap digunakan oleh sistem operasi untuk manajemen memori, dan jarang dipasang. Partisi utama berisi sistem operasi, aplikasi, pengaturan, dan berkas pribadi. Berkas-berkas ini juga dapat didistribusikan di antara beberapa partisi untuk keamanan atau kenyamanan.</p>
 <p class="p">Salah satu partisi utama harus berisi informasi yang menggunakan komputer Anda untuk memulai, atau <span class="em">boot</span>. Untuk alasan ini kadang-kadang disebut partisi boot, atau volume boot. Untuk menentukan apakah volume bisa dipakai boot, pilih partisi dan klik tombol menu pada bilah alat di bawah daftar partisi. Lalu klik <span class="gui">Sunting Partisi...</span> dan lihat pada <span class="gui">Bendera</span> . Media eksternal seperti USB drive dan CD juga mengandung volume yang bisa dipakai boot.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

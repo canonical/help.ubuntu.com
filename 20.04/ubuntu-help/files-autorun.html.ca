@@ -88,10 +88,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Per decidir quines aplicacions s'han d'iniciar quan es connectin diversos dispositius:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Detalls</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Detalls</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Detalls</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Suports extraïbles</span>.</p></li>
 <li class="steps">
-<p class="p">Cerqueu el tipus de dispositiu o suport desitjat i, a continuació, seleccioneu una aplicació o acció per a aquest tipus de suport. Vegeu a continuació per obtenir una descripció dels diferents tipus de dispositius i suports.</p>
+<p class="p">Cerqueu el tipus de dispositiu o suport desitjat i, a continuació, seleccioneu una aplicació o acció per a aquest tipus de suport. Vegeu a continuació per a obtenir una descripció dels diferents tipus de dispositius i suports.</p>
 <p class="p">En lloc d'iniciar una aplicació, també podeu configurar-la perquè el dispositiu es mostri al gestor de fitxers, amb l'opció. <span class="gui">Obre la carpeta</span>. Quan això succeeix, se us preguntarà què fer, o automàticament no passarà res.</p>
 </li>
 <li class="steps"><p class="p">Si no veieu el tipus de dispositiu o tipus de suport que voleu canviar a la llista (com ara discs Blu-ray o lectors de llibres electrònics), feu clic a <span class="gui">Altres suports...</span> per veure una llista més detallada de dispositius. Seleccioneu el tipus de dispositiu o suport del menú desplegable <span class="gui">Tipus</span> i l'aplicació o acció del menú desplegable <span class="gui">Acció</span>.</p></li>
@@ -109,13 +109,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <dt class="terms">Discs d'àudio</dt>
 <dd class="terms"><p class="p">Trieu la vostra aplicació de música preferida o un extractor de CD per gestionar els CD d'àudio. Si utilitzeu DVD d'àudio (DVD-A), seleccioneu com obrir-los en <span class="gui">Altres suports...</span>. Si obriu un disc d'àudio amb el gestor de fitxers, les pistes es mostraran com a fitxers WAV que podeu reproduir en qualsevol aplicació de reproducció d'àudio.</p></dd>
 <dt class="terms">Discs de vídeo</dt>
-<dd class="terms"><p class="p">Trieu la vostra aplicació de vídeo preferida per gestionar DVD de vídeo. Utilitzeu el botó <span class="gui">Altres mitjans...</span> per configurar una aplicació per a reproductors Blu-ray, HD DVD, CD de vídeo (VCD) i super CD de vídeo (SVCD). Si els DVD o altres discs de vídeo no funcionen correctament quan els inseriu, consulteu <span class="link"><a href="video-dvd.html.ca" title="Per què no es reprodueixen els DVD?">Per què no es reprodueixen els DVD?</a></span>.</p></dd>
+<dd class="terms"><p class="p">Trieu la vostra aplicació de vídeo preferida per gestionar DVD de vídeo. Utilitzeu el botó <span class="gui">Altres mitjans...</span> per a configurar una aplicació per a reproductors Blu-ray, HD DVD, CD de vídeo (VCD) i super CD de vídeo (SVCD). Si els DVD o altres discs de vídeo no funcionen correctament quan els inseriu, consulteu <span class="link"><a href="video-dvd.html.ca" title="Per què no es reprodueixen els DVD?">Per què no es reprodueixen els DVD?</a></span>.</p></dd>
 <dt class="terms">Discs en blanc</dt>
-<dd class="terms"><p class="p">Utilitzeu el botó <span class="gui">Altres mitjans...</span> per seleccionar una aplicació de gravació de disc per CDs en blanc, DVDs en blanc, discs Blu-ray en blanc i HD DVD en blanc.</p></dd>
+<dd class="terms"><p class="p">Utilitzeu el botó <span class="gui">Altres mitjans...</span> per a seleccionar una aplicació de gravació de disc per CDs en blanc, DVDs en blanc, discs Blu-ray en blanc i HD DVD en blanc.</p></dd>
 <dt class="terms">Càmeres i fotos</dt>
 <dd class="terms">
 <p class="p">Utilitzeu el menú desplegable <span class="gui">Fotos</span> per triar l'aplicació de gestió fotogràfica que s'executarà quan connecti la seva càmera digital o quan insereixi una targeta multimèdia des d'una càmera, com ara una targeta CF, SD, MMC o MS. També podeu navegar les vostres fotos mitjançant el gestor de fitxers.</p>
-<p class="p">Des d'<span class="gui">Altres suports...</span>, podeu seleccionar una aplicació per obrir CDs de fotografies Kodak, com ara les que podeu haver fet en una botiga. Aquests són CD normals de dades amb imatges JPEG en una carpeta anomenada <span class="file">Imatges</span>.</p>
+<p class="p">Des d'<span class="gui">Altres suports...</span>, podeu seleccionar una aplicació per a obrir CDs de fotografies Kodak, com ara les que podeu haver fet en una botiga. Aquests són CD normals de dades amb imatges JPEG en una carpeta anomenada <span class="file">Imatges</span>.</p>
 </dd>
 <dt class="terms">Reproductors de música</dt>
 <dd class="terms"><p class="p">Trieu una aplicació per gestionar la biblioteca de música del vostre reproductor de música portàtil, o gestioneu els fitxers des del gestor de fitxers.</p></dd>
@@ -123,7 +123,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd class="terms"><p class="p">Utilitzeu el botó <span class="gui">Altres suports...</span> per triar una aplicació per administrar els llibres al vostre lector de llibres electrònics o administrar els fitxers usant el gestor de fitxers.</p></dd>
 <dt class="terms">Programari</dt>
 <dd class="terms">
-<p class="p">Alguns discs i suports extraïbles contenen programari que se suposa s'executa automàticament quan s'introdueix el suport. Utilitzeu l'opció <span class="gui">Programari</span> per controlar què fer quan s'inclouen els suports amb el programari autorun. Sempre se us demanarà una confirmació abans d'executar el programari.</p>
+<p class="p">Alguns discs i suports extraïbles contenen programari que se suposa s'executa automàticament quan s'introdueix el suport. Utilitzeu l'opció <span class="gui">Programari</span> per a controlar què fer quan s'inclouen els suports amb el programari autorun. Sempre se us demanarà una confirmació abans d'executar el programari.</p>
 <div class="note note-warning" title="Atenció">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>

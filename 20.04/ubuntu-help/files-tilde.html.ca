@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Els fitxers amb un <span class="file">~</span> al final del nom (per exemple, <span class="file">exemple.txt~</span>) es creen automàticament com a còpies de seguretat dels documents editats amb l'editor de textos <span class="app">gedit</span> o altres aplicacions. És segur eliminar-los, però no hi ha cap problema per deixar-los a l'ordinador.</p>
 <p class="p">Aquests fitxers estan amagats de manera predeterminada. Si els veieu, és perquè ja heu seleccionat <span class="gui">Mostra els fitxers ocults</span> (a les opcions de vista de la barra d'eines <span class="app">Fitxers</span>) o premut <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Podeu amagar-los de nou repetint aquests passos.</p>
-<p class="p">Aquests fitxers es tracten de la mateixa manera que els fitxers ocults normals. Consultar <span class="link"><a href="files-hidden.html.ca" title="Ocultar un fitxer">Ocultar un fitxer</a></span> per obtenir consells sobre com tractar fitxers ocults.</p>
+<p class="p">Aquests fitxers es tracten de la mateixa manera que els fitxers ocults normals. Consultar <span class="link"><a href="files-hidden.html.ca" title="Ocultar un fitxer">Ocultar un fitxer</a></span> per a obtenir consells sobre com tractar fitxers ocults.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

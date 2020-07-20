@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Report a problem in Ubuntu</span></h1></div>
@@ -124,17 +124,13 @@ repositories. In this case, you cannot use Ubuntu's built-in bug reporting tool.
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html.he" title="מידע על מדריך זה">Tips on using this guide</a></span>,
-        <span class="link"><a href="community-support.html.he" title="Community support">get help from community</a></span>,
-        <span class="link"><a href="get-involved.html.he" title="ניתן להשתתף כדי לשפר את המדריך הזה">help improve this guide</a></span>…
-    </span>
+<a href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.he" title="מידע על מדריך זה">עצות על השימוש במדריך זה</a></span>, <span class="link"><a href="community-support.html.he" title="תמיכה קהילתית">קבלת עזרה מהקהילה</a></span>, <span class="link"><a href="get-involved.html.he" title="ניתן לקחת חלק בשיפור המדריך הזה">סיוע בשיפור מדריך זה</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">עיון נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="get-involved.html.he" title="ניתן להשתתף כדי לשפר את המדריך הזה">ניתן להשתתף כדי לשפר את המדריך הזה</a><span class="desc"> — איך והיכן לדווח על בעיות עם נושאי עזרה אלה.</span>
+<a href="get-involved.html.he" title="ניתן לקחת חלק בשיפור המדריך הזה">ניתן לקחת חלק בשיפור המדריך הזה</a><span class="desc"> — איך והיכן לדווח על בעיות עם נושאי עזרה אלה.</span>
 </li></ul></div>
 </div></div>
 </div>

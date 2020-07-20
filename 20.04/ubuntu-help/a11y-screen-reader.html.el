@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ανάγνωση οθόνης δυνατά</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Το GNOME παρέχει τον αναγνώστη οθόνης <span class="app">Orca</span> για να επικοινωνεί με τη διεπαφή χρήστη. Αναλόγως με το πως κάνετε εγκατάσταση το GNOME, μπορεί να μην έχετε εγκαταστημένο το Orca. Αν όχι, κάντε το πρώτα εγκατάσταση.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can speak the user interface. Depending
+  on how you installed your system, you might not have Orca installed. If not,
+  install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Εγκατάσταση Orca</a></span></p>
 <p class="p">To start <span class="app">Orca</span> using the keyboard:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps"><p class="p">Press <span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>S</kbd></span>.</p></li></ol></div></div></div>

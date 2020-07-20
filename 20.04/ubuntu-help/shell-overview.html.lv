@@ -90,14 +90,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Pielāgot savu darbvirsmu</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.lv" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.lv" title="Kalendāra tikšanās"><span class="title">Kalendāra tikšanās</span><span class="linkdiv-dash"> — </span><span class="desc">Attēlot jūsu tikšanās kalendāra laukā, kas ir ekrāna augšpusē.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.lv" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Ziņojumi nokrīt no ekrāna augšpuses, informējot jūs, kad notiek kādi noteikti notikumi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.lv" title="Pievienot savas iecienītās lietotnes panelim"><span class="title">Pievienot savas iecienītās lietotnes panelim</span><span class="linkdiv-dash"> — </span><span class="desc">Pievienot (vai izņemt) bieži lietoto programmu ikonas uz paneļa.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.lv" title="Pievienot savas iecienītās lietotnes panelim"><span class="title">Pievienot savas iecienītās lietotnes panelim</span><span class="linkdiv-dash"> — </span><span class="desc">Pievienot (vai izņemt) bieži lietoto programmu ikonas uz paneļa.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Lietotnes un logi</span></h2></div>

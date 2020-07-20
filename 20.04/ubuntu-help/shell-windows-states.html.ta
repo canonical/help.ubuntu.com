@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">சாளரங்களை நகர்த்துதல் மற்றும் அளவுமாற்றுதல்</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">சிறப்பாக வேலை செய்ய உதவும் வகையில் நீங்கள் சாளரங்களை நகர்த்தவும் அளவு மாற்றவும் முடியும். நீங்கள் எதிர்பார்க்கும் இழுத்துச் செல்லும் வசதியுடன் கூடுதலாக GNOME இல் சாளரங்களை விரைவாக ஒழுங்கமைக்க குறுக்குவழிகளும் மாற்றிகளும் உள்ளன.</p>
+<p class="p">You can move and resize windows to help you work more efficiently. In
+  addition to the dragging behavior you might expect, the system features
+  shortcuts and modifiers to help you arrange windows quickly.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Move a window by dragging the titlebar, or hold down
       <span class="key"><a href="keyboard-key-super.html.ta" title="Super என்பது என்ன?"><kbd>Super</kbd></a></span> and drag anywhere in the

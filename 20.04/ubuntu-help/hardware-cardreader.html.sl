@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Poskrbite, da je kartica pravilno vstavljena. Veliko kartic je, ko so pravilno vstavljene, videti kot da so narobe obrnjene. Prepričajte se, da je kartica trdno vstavljena v režo. Nekatere kartice, še posebno CompactFlash za pravilno vstavitev zahtevajo nekaj sile. (Bodite previdni, da ne pritisnete premočno).</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
   <span class="gui"><a href="shell-introduction.html.sl#activities" title="Activities overview">Activities</a></span> overview. Does the inserted
-  card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
+  card appear in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
   the top bar and select the <span class="gui">Sidebar</span>.)</p></li>

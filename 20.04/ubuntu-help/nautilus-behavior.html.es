@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Archivos de texto ejecutables</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Un archivo de texto ejecutable es un archivo que contiene un programa que puede ejecutar. Los <span class="link"><a href="nautilus-file-properties-permissions.html.es" title="Establecer los permisos del archivo">permisos del archivo</a></span> también deben permitir que el archivo pueda ejecutarse como un programa. Los más frecuentes suelen ser scripts de Shell, Python y Perl. Tienen extensiones <span class="file">.sh</span>, <span class="file">.py</span> y <span class="file">.pl</span> respectivamente.</p>
+<p class="p">Un archivo de texto ejecutable es un archivo que contiene un programa que puede ejecutar. Los <span class="link"><a href="nautilus-file-properties-permissions.html.es" title="Establecer los permisos del archivo">permisos del archivo</a></span> también deben permitir que el archivo pueda ejecutarse como un programa. Los más frecuentes suelen ser scripts de <span class="sys">Shell</span>, <span class="sys">Python</span> y <span class="sys">Perl</span>. Tienen extensiones <span class="file">.sh</span>, <span class="file">.py</span> y <span class="file">.pl</span> respectivamente.</p>
 <p class="p">Cuando abre un archivo de texto ejecutable, puede elegir entre:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Ejecutar archivos de texto ejecutables cuando se abren</span></p></li>

@@ -75,34 +75,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Skriv filer till en cd- eller dvd-skiva</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Du kan spara filer på en blank skiva genom att använda <span class="gui">Cd/dvd-skaparen</span>. Alternativet att skapa en cd eller dvd kommer att synas i filhanteraren så snart du placerat en cd i din cd/dvd-skrivare. Filhanteraren låter dig överföra filer till andra datorer eller utföra <span class="link"><a href="backup-why.html.sv" title="Säkerhetskopiera dina viktiga filer">säkerhetskopiering</a></span> genom att spara filer på en blank skiva. För att skriva filer till en cd eller dvd:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Mata in en tom skiva i din cd-/dvd-brännarenhet.</p></li>
-<li class="steps">
-<p class="p">I aviseringen <span class="gui">Tom cd/dvd-r-skiva</span> soom visas i botten på skärmen, välj <span class="gui">Öppna med Cd/dvd-skaparen</span>. Mappfönstret <span class="gui">Cd/dvd-skaparen</span> kommer att öppnas.</p>
-<p class="p">(Du kan också klicka på <span class="gui">Tom cd/dvd-r skiva</span> under <span class="gui">Enheter</span> i filhanterarens sidopanel.)</p>
-</li>
-<li class="steps"><p class="p">I fältet <span class="gui">Skivnamn</span>, skriv in ett namn på skivan.</p></li>
-<li class="steps"><p class="p">Dra eller kopiera de önskade filerna in i fönstret.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Skriv till skiva</span>.</p></li>
-<li class="steps">
-<p class="p">Under <span class="gui">Välj en skiva att skriva till</span>, välj den tomma skivan.</p>
-<p class="p">(Du kan välja <span class="gui">Avbildningsfil</span> istället. Detta kommer att spara filerna i en <span class="em">skivavbildning</span> vilken kommer att sparas på din dator. Du kan sedan bränna den skivavbildningen på en tom skiva vid ett senare tillfälle.)</p>
-</li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Egenskaper</span> om du vill justera brännhastighet, plats för tillfälliga filer eller andra inställningar. Standardinställningarna bör duga fint.</p></li>
-<li class="steps">
-<p class="p">Klicka på knappen <span class="gui">Bränn</span> för att börja skrivningen.</p>
-<p class="p">Om <span class="gui">Bränn flera kopior</span> markeras kommer du tillfrågas om ytterligare skivor.</p>
-</li>
-<li class="steps"><p class="p">När skivbränningen är färdig kommer skivan matas ut automatiskt. Välj <span class="gui">Gör fler kopior</span> eller <span class="gui">Stäng</span> för att avsluta.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Om skivan inte brändes korrekt</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Ibland bränns skivan inte korrekt, och du kommer inte kunna se filerna på skivan när du matar in den i en dator.</p>
-<p class="p">Om detta händer, försöka att bränna skivan igen men använd en lägre brännhastighet, till exempel 12x istället för 48x. Att bränna på lägre hastigheter är mer tillförlitligt. Du kan välja hastighet genom att klicka på <span class="gui">Egenskaper</span> i fönstret <span class="gui">Cd/dvd-skaparen</span>.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

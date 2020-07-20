@@ -2,9 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Create fun photos and videos with your webcam
-  </title>
+<title>מאפשר ליצור תמונות וסרטונים חמודים עם מצלמת הרשת שלך</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -72,22 +70,14 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="media.html.he" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html.he#videos" title="Videos and video cameras">Videos</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="media.html.he" title="Sound, video &amp; pictures">Sound, video &amp; pictures</a> › <a class="trail" href="media.html.he#videos" title="Videos and video cameras">Videos</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">
-    Create fun photos and videos with your webcam
-  </span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">מאפשר ליצור תמונות וסרטונים חמודים עם מצלמת הרשת שלך</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    With the <span class="app">Cheese</span> application and your webcam, you can take photos 
-    and videos, apply fun special effects and share the fun with others.
-  </p>
-<p class="p">
-    For help with using Cheese, read the <span class="link"><a href="https://help.gnome.org/users/cheese/stable/" title="https://help.gnome.org/users/cheese/stable/">Cheese user 
-    guide</a></span>.
-  </p>
+<p class="p">עם היישום <span class="app">Cheese</span> ומצלמת הרשת שלך, אפשר לצלם תמונות וסרטונים, להוסיף אפקטים מיוחדים משעשעים ולשתף את כל הכיף הזה עם אחרים.</p>
+<p class="p">לעזרה בשימוש ב־Cheese, מומלץ לקרוא את <span class="link"><a href="https://help.gnome.org/users/cheese/stable/" title="https://help.gnome.org/users/cheese/stable/">המדריך למשתמש ב־Cheese</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

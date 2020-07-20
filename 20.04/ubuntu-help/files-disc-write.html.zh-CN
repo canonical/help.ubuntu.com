@@ -75,29 +75,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">把文件写入 CD 或 DVD</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">通过使用 <span class="gui">CD/DVD 创建器</span> 可以将文件刻入空白磁盘，方便文件传输到其他计算机或进行<span class="link"><a href="backup-why.html.zh-CN" title="备份您的重要文件">备份</a></span>。要将文件写入 CD 或 DVD：</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">在您的 CD/DVD 刻录机中放一张空白光盘。</p></li>
-<li class="steps">
-<p class="p">在屏幕下方弹出的<span class="gui">空白 CD/DVD-R 光盘</span>提醒框中，选择<span class="gui">打开 CD/DVD 创建器</span>，将会显示 <span class="gui">CD/DVD 创建器</span>窗口。</p>
-<p class="p">(您也可以在文件管理器侧边栏的<span class="gui">设备</span>下面，点击<span class="gui">空白 CD/DVD-R 盘片</span>。)</p>
-</li>
-<li class="steps"><p class="p">在<span class="gui">盘片名</span>文本框中，输入光盘的名称。</p></li>
-<li class="steps"><p class="p">将所需文件拖入或复制到该窗口中。</p></li>
-<li class="steps"><p class="p">单击<span class="gui">写入到光盘</span>。</p></li>
-<li class="steps">
-<p class="p">在<span class="gui">请选择要写入的光盘</span>对话框中，选择空白盘片。</p>
-<p class="p">(您还可以选择<span class="gui">映像文件</span>，这将会把文件写入一个<span class="em">映像文件</span>，并保存到您的计算机中。您可以稍后再刻录这个映像文件。)</p>
-</li>
-<li class="steps"><p class="p">点击<span class="gui">属性</span>可以调整刻录速度、临时文件的位置等其他选项，默认选项应该就很好了。</p></li>
-<li class="steps">
-<p class="p">点<span class="gui">刻录</span>开始刻录光盘。</p>
-<p class="p">如果选择<span class="gui">刻录多份</span>，您会提示放入其他光盘。</p>
-</li>
-<li class="steps"><p class="p">当刻录完成后，光盘会自动弹出，选择<span class="gui">制作其他副本</span>或者<span class="gui">关闭</span>退出。</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">If the disc wasn’t burned properly</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -106,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
   computer.</p>
 <p class="p">In this case, try burning the disc again but use a lower burning speed,
   for example, 12x rather than 48x. Burning at slower speeds is more reliable.
-  You can choose the speed by clicking the <span class="gui">Properties</span> button in the
-  <span class="gui">CD/DVD Creator</span> window.</p>
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

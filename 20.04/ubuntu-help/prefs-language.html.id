@@ -76,11 +76,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Wilayah &amp; Bahasa</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif"><span class="title">Gunakan tata letak papan ketik alternatif</span><span class="linkdiv-dash"> — </span><span class="desc">Add keyboard layouts and switch between them.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif"><span class="title">Memakai tata letak papan ketik alternatif</span><span class="linkdiv-dash"> — </span><span class="desc">Menambahkan tata letak papan tik dan beralih di antara mereka.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-language.html.id" title="Mengubah bahasa mana yang Anda pakai"><span class="title">Mengubah bahasa mana yang Anda pakai</span><span class="linkdiv-dash"> — </span><span class="desc">Switch to a different language for user interface and help
+    text.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-formats.html.id" title="Mengubah format tanggal dan pengukurang"><span class="title">Mengubah format tanggal dan pengukurang</span><span class="linkdiv-dash"> — </span><span class="desc">Choose a region used for date and time, numbers, currency,
     and measurement.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-language.html.id" title="Ubah bahasa mana yang Anda pakai"><span class="title">Ubah bahasa mana yang Anda pakai</span><span class="linkdiv-dash"> — </span><span class="desc">Switch to a different language for user interface and help
-    text.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -88,13 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — 
-      <span class="link"><a href="keyboard.html.id" title="Papan tik">Keyboard</a></span>,
-      <span class="link"><a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">mouse &amp; touchpad</a></span>,
-      <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">display</a></span>,
-      <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">languages</a></span>,
-      <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">user accounts</a></span>…
-    </span>
+<a href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan sistem &amp; pengguna</a><span class="desc"> — <span class="link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></span>, <span class="link"><a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">tetikus &amp; touchpad</a></span>, <span class="link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">layar</a></span>, <span class="link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">bahasa</a></span>, <span class="link"><a href="user-accounts.html.id" title="Akun pengguna">akun pengguna</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

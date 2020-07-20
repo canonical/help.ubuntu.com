@@ -90,14 +90,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Прилагодите радну површ</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.sr" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.sr" title="Notifications and the notification list"><span class="title">Notifications and the notification list</span><span class="linkdiv-dash"> — </span><span class="desc">Приказује падајући списак порука са врха екрана обавештавајући вас о дешавањима одређених догађаја.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.sr" title="Прикачите полетнику ваше омиљене програме"><span class="title">Прикачите полетнику ваше омиљене програме</span><span class="linkdiv-dash"> — </span><span class="desc">Додајте полетнику (или уклоните) иконице често коришћених програма.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.sr" title="Састанци календара"><span class="title">Састанци календара</span><span class="linkdiv-dash"> — </span><span class="desc">Прикажите ваше састанке у области календара на врху екрана.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.sr" title="Састанци календара"><span class="title">Састанци календара</span><span class="linkdiv-dash"> — </span><span class="desc">Прикажите ваше састанке у области календара на врху екрана.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Програми и прозори</span></h2></div>

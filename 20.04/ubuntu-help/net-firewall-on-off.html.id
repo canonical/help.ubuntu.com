@@ -70,31 +70,19 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.id" title="Tetap aman di internet">Tetap aman di internet</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-security.html.id" title="Tetap aman di internet">Tetap aman di internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Aktifkan atau blok akses firewall</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Sistem Anda mesti diperlengkapi dengan <span class="em">firewall</span> yang memungkinkan untuk memblokir program agar tak diakses oleh orang lain di internet atau jaringan Anda. Ini membantu menjaga agar komputer Anda aman.</p>
-<p class="p">Many applications can use your network connection. For instance, you can
-  share files or let someone view your desktop remotely when connected to a
-  network. Depending on how your computer is set up, you may need to adjust the
-  firewall to allow these services to work as intended.</p>
-<p class="p">Each program that provides network services uses a specific <span class="em">network
-  port</span>. To enable other computers on the network to access a service, you
-  may need to “open” its assigned port on the firewall:</p>
+<p class="p">Banyak aplikasi dapat menggunakan koneksi jaringan Anda. Misalnya, Anda dapat berbagi berkas atau membiarkan seseorang melihat desktop Anda dari jarak jauh saat terhubung ke jaringan. Tergantung pada bagaimana komputer Anda diatur, Anda mungkin perlu menyesuaikan firewall untuk mengizinkan layanan ini bekerja sebagaimana dimaksud.</p>
+<p class="p">Setiap program yang menyediakan layanan jaringan menggunakan <span class="em">port jaringan</span> tertentu. Untuk mengaktifkan komputer lain pada jaringan untuk mengakses layanan, Anda mungkin perlu "membuka" port yang ditugaskan pada firewall:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Go to <span class="gui">Activities</span> in the top left corner of the screen and
-      start your firewall application. You may need to install a firewall
-      manager yourself if you can’t find one (for example, Firestarter or
-      GUFW).</p></li>
-<li class="steps"><p class="p">Open or disable the port for your network service, depending on
-      whether you want people to be able to access it or not. Which port you
-      need to change will <span class="link"><a href="net-firewall-ports.html.id" title="Port jaringan yang biasa dipakai">depend on the
-      service</a></span>.</p></li>
-<li class="steps"><p class="p">Save or apply the changes, following any additional instructions given
-      by the firewall tool.</p></li>
+<li class="steps"><p class="p">Buka <span class="gui">Aktivitas</span> di pojok kiri atas layar dan mulai aplikasi firewall Anda. Anda mungkin perlu menginstal manajer firewall sendiri jika Anda tidak dapat menemukan satu (misalnya, Firestarter atau GUFW).</p></li>
+<li class="steps"><p class="p">Buka atau nonaktifkan port untuk layanan jaringan Anda, tergantung pada apakah Anda ingin orang dapat mengaksesnya atau tidak. Port mana yang perlu Anda ubah akan <span class="link"><a href="net-firewall-ports.html.id" title="Port jaringan yang biasa dipakai">tergantung pada layanan</a></span>.</p></li>
+<li class="steps"><p class="p">Simpan atau terapkan perubahan, mengikuti petunjuk tambahan yang diberikan oleh alat firewall.</p></li>
 </ol></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -109,8 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-firewall-ports.html.id" title="Port jaringan yang biasa dipakai">Port jaringan yang biasa dipakai</a><span class="desc"> — You need to specify the right network port to enable/disable network
-    access for a program with your firewall.</span>
+<a href="net-firewall-ports.html.id" title="Port jaringan yang biasa dipakai">Port jaringan yang biasa dipakai</a><span class="desc"> — Anda perlu menyatakan port jaringan yang tepat untuk mengaktifkan/menonaktifkan akses jaringan bagi program dengan firewall Anda.</span>
 </li></ul></div>
 </div></div>
 </div>

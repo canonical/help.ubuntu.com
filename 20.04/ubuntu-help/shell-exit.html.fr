@@ -96,12 +96,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">If you’re leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
-  applications. When you return, raise the
-  <span class="link"><a href="shell-lockscreen.html.fr" title="The lock screen">lock screen</a></span> curtain and enter your
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.fr" title="The lock screen">lock screen</a></span>. Enter your
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
-<p class="p">Pour verrouiller votre écran, cliquez sur le menu système à droite dans la barre supérieure et appuyez sur le bouton de verrouillage d'écran en bas du menu.</p>
-<p class="p">Quand votre écran est verrouillé, les autres utilisateurs peuvent se connecter sur leur compte personnel en cliquant sur <span class="gui">Changer d'utilisateur</span> sur l'écran de mot de passe. Vous pouvez revenir sur votre ordinateur quand ils ont terminé.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -123,14 +126,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">To save power, suspend your computer when you are not using it. If you use
-  a laptop, GNOME, by default, suspends your computer automatically when you
-  close the lid.
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
   This saves your state to your computer’s memory and powers off most of the
   computer’s functions. A very small amount of power is still used during
   suspend.</p>
 <p class="p">To suspend your computer manually, click the system menu on the right side
-  of the top bar. From there you may either hold down the <span class="key"><kbd>Alt</kbd></span> key and 
-  click the power off button, or simply long-click the power off button.</p>
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -154,7 +157,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Extinction ou redémarrage</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Si vous voulez éteindre votre ordinateur complètement ou le redémarrer entièrement, cliquez sur le menu système à droite dans la barre supérieure et cliquez sur le bouton d'extinction. Une boîte de dialogue s'ouvre et vous offre la possibilité soit de <span class="gui">Redémarrer</span> soit d'<span class="gui">Éteindre</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Si d'autres utilisateurs sont connectés, il se peut que vous ne soyez pas autorisé à éteindre ou redémarrer l'ordinateur car cela met fin à leur session. Si vous êtes un utilisateur administrateur, votre mot de passe peut vous être demandé pour pouvoir éteindre.</p>
 <div class="note note-tip" title="Astuce">
 <svg width="24" height="24" version="1.1">

@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#removable" title="Drive lepasan dan diska eksternal">Drive lepasan dan diska eksternal</a> » </div>
+<div class="trail">
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="media.html.id" title="Suara, video, &amp; gambar">Suara, video, &amp; gambar</a> › <a class="trail" href="media.html.id#photos" title="Kamera digital dan foto">Foto</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="media.html.id" title="Suara, video, &amp; gambar">Suara, video, &amp; gambar</a> › <a class="trail" href="media.html.id#music" title="Pemutar audio portabel dan musik">Musik dan pemutar</a> » </div>
-<div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#removable" title="Removable drives and external disks">Removable drives and external disks</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="media.html.id" title="Suara, video, &amp; gambar">Suara, video, &amp; gambar</a> › <a class="trail" href="media.html.id#videos" title="Video dan kamera video">Video</a> » </div>
 </div>
@@ -107,23 +107,23 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tipe perangkat dan media</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Cakram audio</dt>
-<dd class="terms"><p class="p">Pilih aplikasi musik atau audio CD extractor favorit Anda untuk menangani CD audio. Jika Anda menggunakan DVD audio (DVD-A), pilih cara untuk membuka mereka di bawah <span class="gui">Media Lainnya...</span>. Jika Anda membuka disc audio dengan file manager, trek akan muncul sebagai file WAV yang dapat Anda bermain di setiap aplikasi pemutar audio.</p></dd>
+<dd class="terms"><p class="p">Pilih aplikasi musik atau audio CD extractor favorit Anda untuk menangani CD audio. Jika Anda menggunakan DVD audio (DVD-A), pilih cara untuk membuka mereka di bawah <span class="gui">Media Lainnya...</span>. Jika Anda membuka disc audio dengan berkas manager, trek akan muncul sebagai berkas WAV yang dapat Anda bermain di setiap aplikasi pemutar audio.</p></dd>
 <dt class="terms">Cakram video</dt>
-<dd class="terms"><p class="p">Pilih aplikasi video favorit Anda untuk menangani DVD video. Gunakan tombol <span class="gui">Media Lainnya...</span> untuk mengatur aplikasi untuk Blu-ray, HD DVD, video CD (VCD), dan video CD super (SVCD). Jika DVD atau cakram video lainnya tidak bekerja dengan benar ketika Anda memasukkan mereka, lihat <span class="link"><a href="video%20dvd.html.id" title="video dvd">video dvd</a></span>.</p></dd>
+<dd class="terms"><p class="p">Pilih aplikasi video favorit Anda untuk menangani DVD video. Memakai tombol <span class="gui">Media Lainnya...</span> untuk mengatur aplikasi untuk Blu-ray, HD DVD, video CD (VCD), dan video CD super (SVCD). Jika DVD atau cakram video lainnya tidak bekerja dengan benar ketika Anda memasukkan mereka, lihat <span class="link"><a href="video-dvd.html.id" title="Mengapa DVD tak bisa diputar?">Mengapa DVD tak bisa diputar?</a></span>.</p></dd>
 <dt class="terms">Cakram kosong</dt>
-<dd class="terms"><p class="p">Gunakan tombol <span class="gui">Media Lainnya...</span> untuk memilih aplikasi penulisan disk untuk mengosongkan CD, mengosongkan DVD, mengosongkan Blu-ray dan mengosongkan DVD HD.</p></dd>
+<dd class="terms"><p class="p">Memakai tombol <span class="gui">Media Lainnya...</span> untuk memilih aplikasi penulisan disk untuk mengosongkan CD, mengosongkan DVD, mengosongkan Blu-ray dan mengosongkan DVD HD.</p></dd>
 <dt class="terms">Kamera dan foto</dt>
 <dd class="terms">
-<p class="p">Gunakan <span class="gui">Foto</span> drop-down untuk memilih aplikasi foto-manajemen untuk menjalankan ketika Anda pasang di kamera digital Anda, atau ketika Anda memasukkan kartu media dari kamera, seperti CF, SD, MMC, atau kartu MS. Anda juga dapat hanya menelusuri foto menggunakan file manager.</p>
-<p class="p">Di bawah <span class="gui">Media Lainnya...</span>, Anda dapat memilih aplikasi untuk membuka Kodak CD gambar, seperti yang Anda mungkin telah dibuat di toko. Ini adalah CD data biasa dengan gambar JPEG dalam folder bernama <span class="file">Gambar</span>.</p>
+<p class="p">Memakai <span class="gui">Foto</span> drop-down untuk memilih aplikasi foto-manajemen untuk menjalankan ketika Anda pasang di kamera digital Anda, atau ketika Anda memasukkan kartu media dari kamera, seperti CF, SD, MMC, atau kartu MS. Anda juga dapat hanya menelusuri foto menggunakan berkas manager.</p>
+<p class="p">Di bawah <span class="gui">Media Lainnya…</span>, Anda dapat memilih aplikasi untuk membuka CD gambar Kodak, seperti yang Anda mungkin telah dibuat di toko. Ini adalah CD data biasa dengan gambar JPEG dalam folder bernama <span class="file">Pictures</span>.</p>
 </dd>
 <dt class="terms">Pemutar musik</dt>
 <dd class="terms"><p class="p">Pilih suatu aplikasi untuk mengelola pustaka musik pada pemutar musik portabel Anda, atau kelola sendiri berkas-berkas memakai pengelola berkas.</p></dd>
 <dt class="terms">Pembaca e-book</dt>
-<dd class="terms"><p class="p">Gunakan tombol <span class="gui">Media Lainnya...</span> untuk memilih aplikasi untuk mengelola buku pada pembaca e-book Anda, atau kelola sendiri berkas-berkas memakai pengelola berkas.</p></dd>
+<dd class="terms"><p class="p">Memakai tombol <span class="gui">Media Lainnya...</span> untuk memilih aplikasi untuk mengelola buku pada pembaca e-book Anda, atau kelola sendiri berkas-berkas memakai pengelola berkas.</p></dd>
 <dt class="terms">Perangkat Lunak</dt>
 <dd class="terms">
-<p class="p">Beberapa disk dan media yang dapat dilepas berisi perangkat lunak yang seharusnya dijalankan secara otomatis ketika media dimasukkan. Gunakan pilihan <span class="gui">Perangkat Lunak</span> untuk mengontrol apa yang harus dilakukan ketika Media dengan perangkat lunak yang jalan otomatis dimasukkan. Anda selalu akan diminta untuk konfirmasi sebelum perangkat lunak dijalankan.</p>
+<p class="p">Beberapa disk dan media yang dapat dilepas berisi perangkat lunak yang seharusnya dijalankan secara otomatis ketika media dimasukkan. Memakai pilihan <span class="gui">Perangkat Lunak</span> untuk mengontrol apa yang harus dilakukan ketika Media dengan perangkat lunak yang jalan otomatis dimasukkan. Anda selalu akan diminta untuk konfirmasi sebelum perangkat lunak dijalankan.</p>
 <div class="note note-warning" title="Peringatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
@@ -136,9 +136,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
+<li class="links "><a href="files.html.id#removable" title="Drive lepasan dan diska eksternal">Drive lepasan dan diska eksternal</a></li>
 <li class="links "><a href="media.html.id#photos" title="Kamera digital dan foto">Foto</a></li>
 <li class="links "><a href="media.html.id#music" title="Pemutar audio portabel dan musik">Musik dan pemutar</a></li>
-<li class="links "><a href="files.html.id#removable" title="Removable drives and external disks">Removable drives and external disks</a></li>
 <li class="links "><a href="media.html.id#videos" title="Video dan kamera video">Video</a></li>
 </ul></div>
 </div></div></div>

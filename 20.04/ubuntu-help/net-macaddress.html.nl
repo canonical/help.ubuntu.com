@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="net.html.nl" title="Netwerk, web &amp;">Netwerk, web &amp; </a> » <a class="trail" href="net-general.html.nl" title="Netwerktermen &amp; -tips">Netwerktermen &amp; -tips</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Wat is een MAC-adres?</span></h1></div>
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Kies welk apparaat, <span class="gui">Wifi</span> of <span class="gui">Bekabeld</span>, in het linkerpaneel.</p>
 <p class="p">Het MAC-adres voor het aangesloten apparaat zal rechts weergegeven worden als <span class="gui">Hardware-adres</span>.</p>
-<p class="p">Klik op de <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="instellingen"></span></span>-knop voor het MAC-adres van het draadloze apparaat dat weergegeven wordt als het <span class="gui">Hardware-adres</span> in het paneel <span class="gui">Details</span>.</p>
+<p class="p">Klik op de <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="instellingen"></span></span>-knop voor het MAC-adres van het draadloze apparaat dat weergegeven wordt als het <span class="gui">Hardware-adres</span> in het paneel <span class="gui">Details</span>.</p>
 </li>
 </ol></div></div></div>
 <p class="p">In de praktijk kan het zijn dat het wijzigen of ‘spoofen’ van een MAC-adres nodig is. Zo kunnen sommige internetproviders eisen dat er een bepaald MAC-adres gebruikt wordt om toegang te krijgen tot hun dienst. Als de netwerkkaart niet meer werkt, en u deze moet verruilen voor een nieuwe kaart, dan werkt de dienst niet meer. In een dergelijk geval dient u het MAC-adres te ‘spoofen’.</p>

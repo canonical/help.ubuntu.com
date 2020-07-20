@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Escolha o dispositivo, <span class="gui">Wi-Fi</span> ou <span class="gui">Com fio</span>, no painel à esquerda.</p>
 <p class="p">O endereço MAC do dispositivo com fio será exibido como o <span class="gui">Endereço físico</span> à direita.</p>
-<p class="p">Clique no botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configurações"></span></span> para ver o endereço MAC do dispositivo sem fio exibido como o <span class="gui">Endereço físico</span> no painel <span class="gui">Detalhes</span>.</p>
+<p class="p">Clique no botão <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configurações"></span></span> para ver o endereço MAC do dispositivo sem fio exibido como o <span class="gui">Endereço físico</span> no painel <span class="gui">Detalhes</span>.</p>
 </li>
 </ol></div></div></div>
 <p class="p">Na prática, você pode precisar modificar ou “burlar” um endereço MAC. Por exemplo, alguns provedores de serviço de Internet podem exigir que um endereço MAC específico seja usado para acessar seus serviços. Se a placa de rede parar de funcionar e você precisar trocar por uma nova placa, o serviço não vai mais funcionar. Em tais casos, você precisaria burlar o endereço MAC.</p>

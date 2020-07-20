@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="shell-overview.html.ca" title="El vostre escriptori">Escriptori</a> › <a class="trail" href="shell-overview.html.ca#apps" title="Aplicacions i finestres">Aplicacions i finestres</a> » <a class="trail" href="shell-windows.html.ca" title="Finestres i espais de treball">Finestres i espais de treball</a> › <a class="trail" href="shell-windows.html.ca#working-with-workspaces" title="Treballant amb espais de treball">Espais de treball</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="shell-overview.html.ca" title="El vostre escriptori">Escriptori</a> › <a class="trail" href="shell-overview.html.ca#apps" title="Aplicacions i finestres">Aplicacions i finestres</a> » <a class="trail" href="shell-windows.html.ca" title="Finestres i espais de treball">Finestres i espais de treball</a> › <a class="trail" href="shell-windows.html.ca#working-with-workspaces" title="Treballar amb espais de treball">Espais de treball</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Navegar entre espais de treball</span></h1></div>
@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
-<div class="region"><ul><li class="links "><a href="shell-windows.html.ca#working-with-workspaces" title="Treballant amb espais de treball">Treballant amb espais de treball</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="shell-windows.html.ca#working-with-workspaces" title="Treballar amb espais de treball">Treballar amb espais de treball</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>

@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-general.html.id" title="Tips &amp; istilah jaringan">Tips &amp; istilah jaringan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Menentukan pengaturan proksi</span></h1></div>
@@ -87,29 +87,25 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Pilih <span class="gui">Proksi jaringan</span> dari daftar di kiri.</p></li>
 <li class="steps">
-<p class="p">Choose which proxy method you want to use from:</p>
+<p class="p">Pilih metode proksi yang ingin Anda gunakan dari:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Nihil</span></dt>
-<dd class="terms"><p class="p">The applications will use a direct connection to fetch the content
-          from the web.</p></dd>
+<dd class="terms"><p class="p">Aplikasi akan menggunakan koneksi langsung untuk mengambil konten dari web.</p></dd>
 <dt class="terms"><span class="gui">Manual</span></dt>
-<dd class="terms"><p class="p">For each proxied protocol, define the address of a proxy and port
-          for the protocols. The protocols are <span class="gui">HTTP</span>,
-          <span class="gui">HTTPS</span>, <span class="gui">FTP</span> and <span class="gui">SOCKS</span>.</p></dd>
+<dd class="terms"><p class="p">Untuk setiap protokol proksi, tentukan alamat proksi dan port untuk protokol. Protokol adalah <span class="gui">HTTP</span>, <span class="gui">HTTPS</span>, <span class="gui">FTP</span>, dan <span class="gui">SOCKS</span>.</p></dd>
 <dt class="terms"><span class="gui">Otomatis</span></dt>
 <dd class="terms"><p class="p">URL menunjuk ke suatu sumber daya, yang memuat konfigurasi yang sesuai bagi sistem Anda.</p></dd>
 </dl></div></div></div>
 </li>
 </ol></div></div></div>
-<p class="p">Applications that use the network connection will use your specified proxy
-  settings.</p>
+<p class="p">Aplikasi yang menggunakan koneksi jaringan akan menggunakan pengaturan proksi yang Anda tentukan.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — <span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span>
+<a href="net-general.html.id" title="Tips &amp; istilah jaringan">Tips &amp; istilah jaringan</a><span class="desc"> — <span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

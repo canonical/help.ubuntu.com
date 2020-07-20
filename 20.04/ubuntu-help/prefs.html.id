@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="user-accounts.html.id" title="Akun pengguna">Akun pengguna</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="user-add.html.id" title="Menambah akun pengguna baru">Tambah pengguna</a></span>, <span class="link"><a href="user-changepassword.html.id" title="Ubah kata sandi Anda">ubah sandi</a></span>, <span class="link"><a href="user-admin-change.html.id" title="Ubah siapa yang memiliki privilese administratif">administrator</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="user-add.html.id" title="Menambah akun pengguna baru">Tambah pengguna</a></span>, <span class="link"><a href="user-changepassword.html.id" title="Mengubah kata sandi Anda">ubah sandi</a></span>, <span class="link"><a href="user-admin-change.html.id" title="Mengubah siapa yang memiliki privilese administratif">administrator</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="startup-applications.html.id" title="Aplikasi Awal Mula">Aplikasi Awal Mula</a></div>
@@ -90,23 +90,15 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="power-status.html.id" title="Periksa status baterai">Status baterai</a></span>, <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspensi</a></span>, <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">peredupan layar</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="color.html.id" title="Manajemen warna">Manajemen warna</a></div>
 <div class="desc"><span class="desc"><span class="link"><a href="color-whyimportant.html.id" title="Mengapa manajemen warna penting?">Mengapa ini penting</a></span>, <span class="link"><a href="color.html.id#profiles" title="Profil warna">Profil warna</a></span>, <span class="link"><a href="color.html.id#calibration" title="Kalibrasi">Bagaimana mengkalibrasi perangkat</a></span>…</span></div>
 </div>
 <div class="links-grid ">
-<div class="links-grid-link"><a href="mouse.html.id" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.id" title="Gunakan tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Adjust the speed of the mouse and touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Click, drag, or scroll with the touchpad">mengklik dan menggulir touchpad</a></span>…</span></div>
-</div>
-<div class="links-grid ">
 <div class="links-grid-link"><a href="keyboard.html.id" title="Papan tik">Papan tik</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-sharing.html.id" title="Pengaturan Berbagi">Pengaturan Berbagi</a></div>
@@ -114,40 +106,31 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="media.html.id#sound" title="Suara dasar">Suara</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.id" title="Mengubah volume suara">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html.id" title="Gunakan speaker atau headphone lain">speaker dan headfon</a></span>, <span class="link"><a href="sound-usemic.html.id" title="Gunakan mikrofon lain">mikrofon</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="sound-volume.html.id" title="Mengubah volume suara">Volume</a></span>, <span class="link"><a href="sound-usespeakers.html.id" title="Memakai speaker atau headphone lain">speaker dan headfon</a></span>, <span class="link"><a href="sound-usemic.html.id" title="Memakai mikrofon lain">mikrofon</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="wacom.html.id" title="Tablet Grafis Wacom">Tablet Grafis Wacom</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="wacom-multi-monitor.html.id" title="Memilih monitor">Map a monitor</a></span>,
-      <span class="link"><a href="wacom-stylus.html.id" title="Tata konfigurasi tylus">configure the stylus</a></span>,
-      <span class="link"><a href="wacom-left-handed.html.id" title="Gunakan tablet secara kidal">use the tablet left handed</a></span>…
-  </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="wacom-multi-monitor.html.id" title="Memilih monitor">Petakan suatu monitor</a></span>, <span class="link"><a href="wacom-stylus.html.id" title="Tata konfigurasi tylus">tata konfigurasi stylus</a></span>, <span class="link"><a href="wacom-left-handed.html.id" title="Memakai tablet secara kidal">memakai tablet secara kidal</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="look-background.html.id" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.id" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.id" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="look-background.html.id" title="Mengubah latar belakang desktop dan kunci layar">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html.id" title="Mengubah resolusi atau orientasi layar">ukuran dan orientasi</a></span>, <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">kecerahan</a></span>, <span class="link"><a href="display-night-light.html.id" title="Menyesuaikan suhu warna layar Anda">suhu warna</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="clock.html.id" title="Tanggal &amp; waktu">Tanggal &amp; waktu</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html.id" title="Ubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html.id" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html.id" title="Ubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">kalender dan janji bertemu</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="clock-set.html.id" title="Mengubah tanggal dan waktu">Atur tanggal dan waktu</a></span>, <span class="link"><a href="clock-world.html.id" title="Tambah jam dunia">jam dunia</a></span>, <span class="link"><a href="clock-timezone.html.id" title="Mengubah zona waktu Anda">zona waktu</a></span>, <span class="link"><a href="clock-calendar.html.id" title="Janji kalender">kalender dan janji bertemu</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.id" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.id" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Kunci layar</a></span>, <span class="link"><a href="privacy-history-recent-off.html.id" title="Matikan atau membatasi pelacakan riwayat berkas">Riwayat penggunaan</a></span>, <span class="link"><a href="privacy-purge.html.id" title="Purge trash &amp; temporary files">Bersihkan sampah &amp; berkas sementara</a></span>…</span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus, Touchpad, &amp; Layar Sentuh</a></div>
+<div class="desc"><span class="desc"><span class="link"><a href="mouse-lefthanded.html.id" title="Memakai tetikus Anda secara kidal">Kidal</a></span>, <span class="link"><a href="mouse-sensitivity.html.id" title="Menyetel kecepatan tetikus dan touchpad">kecepatan dan kepekaan</a></span>, <span class="link"><a href="mouse-touchpad-click.html.id" title="Mengklik, menyeret, atau menggulir dengan touchpad">mengklik dan menggulir touchpad</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="prefs-language.html.id" title="Wilayah &amp; Bahasa">Wilayah &amp; Bahasa</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.id" title="Ubah bahasa mana yang Anda pakai">Bahasa</a></span>, <span class="link"><a href="session-formats.html.id" title="Mengubah format tanggal dan pengukurang">wilayah dan formats</a></span>, <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">tata letak papan tik</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="session-language.html.id" title="Mengubah bahasa mana yang Anda pakai">Bahasa</a></span>, <span class="link"><a href="session-formats.html.id" title="Mengubah format tanggal dan pengukurang">wilayah dan format</a></span>, <span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">tata letak papan tik</a></span>…</span></div>
 </div>
 <div class="links-grid"></div>
 <div class="links-grid"></div>

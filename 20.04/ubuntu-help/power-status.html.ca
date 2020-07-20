@@ -84,10 +84,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Mostra l'estat de la bateria i els dispositius connectats</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general <span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Energia</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Energia</span> per obrir el quadre. Es mostra l'estat dels dispositius coneguts.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Energia</span> per a obrir el quadre. Es mostra l'estat dels dispositius coneguts.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Si es detecta una bateria interna, la secció <span class="gui">Bateria</span> mostra l'estat d'una o més bateries de portàtils. La barra d'indicadors mostra el percentatge de càrrega, així com el temps per carregar-se completament si està connectat, u el temps restant quan s'executa amb la bateria.</p>
+<p class="p">If an internal battery is detected, the <span class="gui">Batteries</span> section
+    displays the status of one or more laptop batteries. The indicator bar
+    shows the percent charged, as well as time until fully charged if plugged
+    in, and time remaining when running on battery power.</p>
 <p class="p">La secció <span class="gui">Dispositius</span> mostra l'estat dels dispositius connectats.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

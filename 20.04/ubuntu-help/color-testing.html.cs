@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Vliv barevného profilu může být někdy sotva patrný a tak může být těžké poznat, jestli se vůbec něco změnilo</p>
-<p class="p">GNOME přináší několik profilů pro testování, díky kterým zcela jasně uvidíte, jestli se profily vůbec použijí:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Blue</dt>
 <dd class="terms"><p class="p">Tímto se přepne obrazovku na modrou a otestuje se, jestli jsou kalibrační křivky odesílány do displeje.</p></dd>
@@ -89,7 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Nastavení</span>.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Nastavení</span>.</p></li>
-<li class="steps"><p class="p">V postranním panelu klikněte na <span class="gui">Zařízení</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Barvy</span> v postranním panelu otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Vyberte zařízení, pro které chcete profil přidat. Možná byste si měli poznamenat, který profil je právě používán.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Přidat profil</span>, abyste mohli vybrat testovací profil, který by měl být v seznamu až dole.</p></li>

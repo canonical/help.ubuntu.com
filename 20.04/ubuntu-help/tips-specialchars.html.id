@@ -93,9 +93,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="characters"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Karakter</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">GNOME comes with a character map application that allows you to
-    find and insert unusual characters, including emoji, by browsing
-    character categories or searching for keywords.</p>
+<p class="p">The character map application allows you to find and insert unusual
+    characters, including emoji, by browsing character categories or searching
+    for keywords.</p>
 <p class="p">You can launch <span class="app">Characters</span> from the Activities overview.</p>
 </div></div>
 </div></section><section id="compose"><div class="inner">
@@ -108,18 +108,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">You need to have <span class="app">Tweaks</span> installed on your computer to
-      change this setting.</p>
-<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Install
-        <span class="app">Tweaks</span></a></span></p>
+<p class="p">Anda harus measang <span class="app">Tweaks</span> pada komputer Anda untuk mengubah pengaturan ini.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Pasang <span class="app">Alat Oprek</span></a></span></p>
 </div></div></div>
 </div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Define a compose key</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Mendefinisikan suaut tombol compose</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span>
-        overview and start typing <span class="gui">Tweaks</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Tweaks</span> to open the application.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tweaks</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Tweaks</span> untuk membuka aplikasi.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Keyboard &amp; Mouse</span> tab.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Disabled</span> next to the <span class="gui">Compose Key</span>
         setting.</p></li>
@@ -128,11 +125,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose
         key.</p></li>
 <li class="steps"><p class="p">Close the dialog.</p></li>
-<li class="steps"><p class="p">Close the <span class="gui">Tweaks</span> window.</p></li>
+<li class="steps"><p class="p">Tutup jendela <span class="gui">Tweaks</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">You can type many common characters using the compose key, for
-    example:</p>
+<p class="p">Anda dapat mengetik banyak karakter umum menggunakan tombol compose, misalnya:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Press <span class="key"><kbd>compose</kbd></span> then <span class="key"><kbd>'</kbd></span> then a letter to
       place an acute accent over that letter, such as <span class="em">é</span>.</p></li>
@@ -167,7 +163,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><p class="p">You can make your keyboard behave like the keyboard for another language,
     regardless of the letters printed on the keys. You can even easily switch
     between different keyboard layouts using an icon in the top bar. To learn
-    how, see <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Gunakan tata letak papan ketik alternatif</a></span>.</p></div></div>
+    how, see <span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Memakai tata letak papan ketik alternatif</a></span>.</p></div></div>
 </div></section><section id="im"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Metode masukan</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -192,7 +188,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Gunakan tata letak papan ketik alternatif</a><span class="desc"> — Add keyboard layouts and switch between them.</span>
+<a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Memakai tata letak papan ketik alternatif</a><span class="desc"> — Menambahkan tata letak papan tik dan beralih di antara mereka.</span>
 </li></ul></div>
 </div></div>
 </div>

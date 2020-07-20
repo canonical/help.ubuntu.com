@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="prefs.html.nl" title="Gebruikers- &amp; systeeminstellingen">Instellingen</a> » <a class="trail" href="prefs-display.html.nl" title="Weergave &amp; scherm">Weergave &amp; scherm</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">De achtergrond van het werkblad en van een vergrendeld scherm wijzigen</span></h1></div>
@@ -85,8 +85,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">There are two ways to change the image used for your backgrounds:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Click one of the many professional background images that ship with
-          GNOME. You can choose <span class="gui">Set Background</span>, <span class="gui">Set Lock
+<p class="p">Click one of the background images which are shipped with the
+          system. You can choose <span class="gui">Set Background</span>, <span class="gui">Set Lock
           Screen</span>, or <span class="gui">Set Background and Lock Screen</span>.</p>
 <div class="note" title="Opmerking">
 <svg width="24" height="24" version="1.1">

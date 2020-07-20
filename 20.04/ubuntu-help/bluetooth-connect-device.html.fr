@@ -76,16 +76,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Association d'un ordinateur à un périphérique Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Before you can use a Bluetooth device like a mouse or a headset, you first
-  need to connect your computer to the device. This is also called
-  <span class="em">pairing</span> the Bluetooth devices.</p>
+<p class="p">Avant de pouvoir utiliser un périphérique Bluetooth tel qu’une souris ou un casque audio, il faut connecter l’ordinateur au périphérique. On parle aussi d’<span class="em">appairage</span> des périphériques Bluetooth.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Bluetooth</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Bluetooth</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Bluetooth</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Make sure Bluetooth is enabled: the switch at the top should be set to
-      on. With the panel open and the switch on, your computer will begin
-      searching for devices.</p></li>
+<li class="steps"><p class="p">Assurez-vous que le Bluetooth est activé : l’interrupteur de la barre de titre doit être basculé sur <span class="gui">Activé</span>. Avec le panneau ouvert et le Bluetooth activé, votre ordinateur commencera à chercher des appareils.</p></li>
 <li class="steps"><p class="p">Assurez-vous que le périphérique Bluetooth est <span class="link"><a href="bluetooth-visibility.html.fr" title="Qu'est-ce que la visibilité Bluetooth ?">visible ou détectable</a></span> et placez-le entre 5 et 10 mètres de l'ordinateur.</p></li>
 <li class="steps"><p class="p">Choisissez le périphérique dans la liste des <span class="gui">Périphériques</span> et cliquez dessus. Le panneau le concernant s'ouvre.</p></li>
 <li class="steps">

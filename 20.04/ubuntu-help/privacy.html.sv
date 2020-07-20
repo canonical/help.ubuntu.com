@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Sekretessinställningar</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="em">Sekretessinställningarna</span> i GNOME hjälper dig att styra huruvida vissa delar av ditt skrivbord ska vara synligt för andra. Du kan också använda dessa inställningar för att rensa din dators användningshistorik och rensa ut onödiga filer.</p>
+<p class="p">The <span class="em">Privacy Settings</span> help you control whether or not
+  certain parts of your desktop are visible to others. You can also
+  use these settings to clear your computer usage history and clean out
+  unnecessary files.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="privacy-screen-lock.html.sv" title="Lås automatiskt din skärm"><span class="title">Lås automatiskt din skärm</span><span class="linkdiv-dash"> — </span><span class="desc">Förhindra andra personer från att använda ditt skrivbord när du går iväg från datorn.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.sv" title="Stäng av eller begränsa filhistorik"><span class="title">Stäng av eller begränsa filhistorik</span><span class="linkdiv-dash"> — </span><span class="desc">Stoppa eller begränsa din dator från att spåra dina nyligen använda filer.</span></a></div>

@@ -76,7 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Dela-inställningar</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="em">Delningsinställningarna</span> i GNOME hjälper dig att styra vad som delas över det lokala nätverket eller via andra teknologier så som <span class="em">Bluetooth</span>.</p>
+<p class="p">The <span class="em">Sharing Settings</span> help you control what is shared over the
+  local network, or through other technologies such as <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.sv" title="Ställ in visningsnamnet för din dator"><span class="title">Ställ in visningsnamnet för din dator</span><span class="linkdiv-dash"> — </span><span class="desc">Styr hur din dator kommer att visas för andra datorer eller enheter.</span></a></div>

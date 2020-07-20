@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Online services and applications</title>
+<title>Services en ligne et applications</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,53 +73,29 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Online services and applications</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Services en ligne et applications</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Once you have added an online account, any application can use that
-  account for any of the available services that you have not
-  <span class="link"><a href="accounts-disable-service.html.fr" title="Contrôle des services en ligne accessibles par un compte">disabled</a></span>. Different
-  providers provide different services. This page lists the different
-  services and some of the applications that are known to use them.</p>
+<p class="p">Une fois que vous avez ajouté un compte en ligne, n’importe quelle application peut utiliser ce compte pour tous les services que vous n’avez pas <span class="link"><a href="accounts-disable-service.html.fr" title="Contrôle des services en ligne accessibles par un compte">désactivés</a></span>. Différents fournisseurs fournissent différents services. Cette page liste les différents services et certaines des applications qui les utilisent.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Calendar</dt>
-<dd class="terms"><p class="p">The Calendar service allows you to view, add, and edit events in
-      an online calendar. It is used by applications like <span class="app">Calendar</span>,
-      <span class="app">Evolution</span>, and <span class="app">California</span>.</p></dd>
-<dt class="terms">Chat</dt>
-<dd class="terms"><p class="p">The Chat service allows you to chat with your contacts on popular
-      instant messaging platforms. It is used by the <span class="app">Empathy</span>
-      application.</p></dd>
+<dt class="terms">Agenda</dt>
+<dd class="terms"><p class="p">Le service Agenda vous permet de visualiser, ajouter, et modifier des évènements dans un agenda en ligne. Il est utilisé par des applications telles que <span class="app">Agenda</span>, <span class="app">Evolution</span>, et <span class="app">California</span>.</p></dd>
+<dt class="terms">Discussion</dt>
+<dd class="terms"><p class="p">Le service Discussion vous permet de discuter avec vos contacts sur des plateformes populaires de messagerie instantanée. Il est utilisé par l’application <span class="app">Empathy</span>.</p></dd>
 <dt class="terms">Contacts</dt>
-<dd class="terms"><p class="p">The Contacts service allows you to see the published details of your
-      contacts on various services. It is used by applications like
-      <span class="app">Contacts</span> and <span class="app">Evolution</span>.</p></dd>
+<dd class="terms"><p class="p">Le service Contacts vous permet de voir les détails publiés de vos contacts sur divers services. Il est utilisé par des applications telles que <span class="app">Contacts</span> et <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Documents</dt>
-<dd class="terms"><p class="p">The Documents service allows you to view your online documents
-      such as those in Google docs. You can view your documents using the
-      <span class="app">Documents</span> application.</p></dd>
+<dd class="terms"><p class="p">Le service Documents vous permet de visualiser vos documents en ligne comme ceux de Google Docs. Vous pouvez visualiser vos documents en utilisant l’application <span class="app">Documents</span>.</p></dd>
 <dt class="terms">Fichiers</dt>
-<dd class="terms"><p class="p">The Files service adds a remote file location, as if you had added
-      one using the <span class="link"><a href="nautilus-connect.html.fr" title="Consultation de fichiers sur un serveur ou un réseau partagé">Connect to Server</a></span>
-      functionality in the file manager. You can access remote files using
-      the file manager, as well as through file open and save dialogs in any
-      application.</p></dd>
+<dd class="terms"><p class="p">Le service Fichiers ajoute un emplacement de fichier distant, comme si vous en aviez ajouté un en utilisant la fonctionnalité <span class="link"><a href="nautilus-connect.html.fr" title="Consultation de fichiers sur un serveur ou un réseau partagé">Connexion à un serveur</a></span> dans le gestionnaire de fichiers. Vous pouvez accéder aux fichiers distants en utilisant le gestionnaire de fichiers, ainsi qu’à travers les fenêtres Ouvrir et Sauvegarder des fichiers, dans n’importe quelle application.</p></dd>
 <dt class="terms">Courriel</dt>
-<dd class="terms"><p class="p">The Mail service allows you to send and receive email through an
-      email provider like Google. It is used by <span class="app">Evolution</span>.</p></dd>
+<dd class="terms"><p class="p">Le service Courriel vous permet d’envoyer et de recevoir des courriels via un fournisseur de courriel, tel que Google. Il est utilisé par <span class="app">Evolution</span>.</p></dd>
 <dt class="terms">Photos</dt>
-<dd class="terms"><p class="p">The Photos service allows you to view your online photos such as
-      those you post on Facebook. You can view your photos using the
-      <span class="app">Photos</span> application.</p></dd>
-<dt class="terms">Printers</dt>
-<dd class="terms"><p class="p">The Printers service allows you to send a PDF copy to a provider from
-      within the print dialog of any application. The provider might provide
-      print services, or it might just serve as storage for the PDF, which
-      you can download and print later.</p></dd>
-<dt class="terms">Read Later</dt>
-<dd class="terms"><p class="p">The Read Later service allows you to save a web page to external
-      services so that you can read it later on another device. No applications
-      currently use this service.</p></dd>
+<dd class="terms"><p class="p">Le service Photos vous permet de visualiser vos photos en ligne comme celles que vous publiez sur Facebook. Vous pouvez visualiser vos photos en utilisant l’application <span class="app">Photos</span>.</p></dd>
+<dt class="terms">Imprimantes</dt>
+<dd class="terms"><p class="p">Le service Imprimantes vous permet d’envoyer une copie PDF à un fournisseur depuis la fenêtre d’impression de n’importe quelle application. Le fournisseur peut fournir des services d’impression, ou il peut simplement servir de stockage pour les PDF, que vous pouvez télécharger et imprimer plus tard.</p></dd>
+<dt class="terms">Lecture différée</dt>
+<dd class="terms"><p class="p">Le service Lecture différée vous permet de sauvegarder une page Web sur des services externes afin de pouvoir la lire plus tard sur un autre appareil. Aucune application n’utilise ce service actuellement.</p></dd>
 </dl></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -128,11 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — 
-      <span class="link"><a href="accounts-add.html.fr" title="Ajout d'un compte">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html.fr" title="Online services and applications">Learn about services</a></span>…
-    </span>
+<a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — <span class="link"><a href="accounts-add.html.fr" title="Ajout d’un compte">Ajouter un compte en ligne</a></span>, <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Supprimer un compte</a></span>, <span class="link"><a href="accounts-which-application.html.fr" title="Services en ligne et applications">Découvrir les services</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

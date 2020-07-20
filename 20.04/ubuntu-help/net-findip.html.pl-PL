@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Wybierz połączenie, <span class="gui">Wi-Fi</span> lub <span class="gui">Przewodowe</span>, z lewego panelu.</p>
 <p class="p">Adres IP połączenia przewodowego jest wyświetlany po prawej.</p>
-<p class="p">Kliknij przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ustawienia"></span></span>, aby wyświetlić adres IP sieci bezprzewodowej w panelu <span class="gui">Informacje</span>.</p>
+<p class="p">Kliknij przycisk <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="ustawienia"></span></span>, aby wyświetlić adres IP sieci bezprzewodowej w panelu <span class="gui">Informacje</span>.</p>
 </li>
 </ol></div>
 </div></div>

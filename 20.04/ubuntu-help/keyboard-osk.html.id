@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use an on-screen keyboard</title>
+<title>Memakai papan tik pada layar</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -79,40 +79,26 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Use an on-screen keyboard</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Memakai papan tik pada layar</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you do not have a keyboard attached to your computer or prefer not to
-  use it, you can turn on the <span class="em">on-screen keyboard</span> to enter text.</p>
+<p class="p">Jika Anda tidak memiliki papan tik yang tercantol pada komputer Anda atau memilih untuk tidak menggunakannya, Anda dapat mengaktifkan <span class="em">papan tik di layar</span> untuk memasukkan teks.</p>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">The on-screen keyboard is automatically enabled if you use a
-    touchscreen</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Papan tik di layar diaktifkan secara otomatis jika Anda menggunakan layar sentuh</p></div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Universal Access</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Akses Universal</span> dalam bilah sisi untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Nyalakan <span class="gui">Papan Tik Pada Layar</span> dalam seksi <span class="gui">Pengetikan</span>.</p></li>
 </ol></div></div></div>
-<p class="p">When you next have the opportunity to type, the on-screen keyboard will
-  open at the bottom of the screen.</p>
-<p class="p">Press the <span class="gui">?123</span> button to enter numbers and
-  symbols. More symbols are available if you then press the
-  <span class="gui">=/&lt;</span> button. To return to the alphabet keyboard,
-  press the <span class="gui">ABC</span> button.</p>
-<p class="p">You can press the
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" height="16" width="16" class="media media-inline" alt="down"></span></span></span>
-  button to hide the keyboard temporarily. The keyboard will show again
-  automatically when you next press on something where you can use it.</p>
-<p class="p">Press the
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emoji-flags-symbolic.svg" height="16" width="16" class="media media-inline" alt="flag"></span></span></span>
-  button to change your settings for
-  <span class="link"><a href="session-language.html.id" title="Ubah bahasa mana yang Anda pakai">Language</a></span> or
-  <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Input Sources</a></span>.</p>
+<p class="p">Ketika Anda berikutnya memiliki kesempatan untuk mengetik, papan tik di layar akan terbuka di bagian bawah layar.</p>
+<p class="p">Tekan tombol <span class="gui">?123</span> untuk memasukkan angka dan simbol. Simbol lainnya tersedia jika Anda kemudian menekan tombol <span class="gui">=/&lt;</span>. Untuk kembali ke papan tik alfabet, tekan tombol <span class="gui">ABC</span>.</p>
+<p class="p">Anda dapat menekan tombol <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" height="16" width="16" class="media media-inline" alt="turun"></span></span></span> untuk menyembunyikan papan tik untuk sementara. Papan tik akan ditampilkan lagi secara otomatis bila Anda menekan berikutnya pada sesuatu yang Anda dapat menggunakannya.</p>
+<p class="p">Tekan tombol <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emoji-flags-symbolic.svg" height="16" width="16" class="media media-inline" alt="flag"></span></span></span> untuk mengubah pengaturan <span class="link"><a href="session-language.html.id" title="Mengubah bahasa mana yang Anda pakai">Bahasa</a></span> atau <span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Sumber Masukan</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -121,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li>
 </ul></div>
 </div></div></div>

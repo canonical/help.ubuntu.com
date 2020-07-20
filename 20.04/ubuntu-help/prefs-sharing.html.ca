@@ -76,7 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Configuració de l'ús compartit</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">La <span class="em">Configuració de l'ús compartit</span> a GNOME us ajudarà a controlar el que es comparteix a través de la xarxa local o mitjançant altres tecnologies com ara <span class="em">Bluetooth</span>.</p>
+<p class="p">The <span class="em">Sharing Settings</span> help you control what is shared over the
+  local network, or through other technologies such as <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.ca" title="Establir el nom de visualització de l'ordinador"><span class="title">Establir el nom de visualització de l'ordinador</span><span class="linkdiv-dash"> — </span><span class="desc">Controleu com apareixerà el vostre ordinador a altres equips o dispositius.</span></a></div>
@@ -94,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.ca" title="Usuari i configuració del sistema">Usuari i configuració del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, pantalla tàctil i pantalla tàctil">ratolí</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span>
+<a href="prefs.html.ca" title="Usuari i configuració del sistema">Usuari i configuració del sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.ca" title="Teclat">Teclat</a></span>, <span class="link"><a href="mouse.html.ca" title="Ratolí, ratolí tàctil i pantalla tàctil">ratolí i ratolí tàctil</a></span>, <span class="link"><a href="prefs-display.html.ca" title="Monitor i pantalla">monitor</a></span>, <span class="link"><a href="prefs-language.html.ca" title="Regió i idioma">idioma</a></span>, <span class="link"><a href="user-accounts.html.ca" title="Comptes d'usuari">comptes d'usuari</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

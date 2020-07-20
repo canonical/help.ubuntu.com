@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">קבלת עזרה נוספת</span></h1></div>
@@ -81,14 +81,12 @@ document.addEventListener('DOMContentLoaded', function() {
   </p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="community-support.html.he" title="Community support"><span class="title">Community support</span><span class="linkdiv-dash"> — </span><span class="desc">Get help from the community</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html.he" title="Report a problem in Ubuntu"><span class="title">Report a problem in Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to report problems with Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.he" title="מידע על מדריך זה"><span class="title">מידע על מדריך זה</span><span class="linkdiv-dash"> — </span><span class="desc">כמה עצות על השימוש במדריך לשולחן העבודה אובונטו.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.he" title="מידע על מדריך זה"><span class="title">מידע על מדריך זה</span><span class="linkdiv-dash"> — </span><span class="desc">
-      A few tips on using the Ubuntu Desktop Guide.
-    </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="get-involved.html.he" title="ניתן להשתתף כדי לשפר את המדריך הזה"><span class="title">ניתן להשתתף כדי לשפר את המדריך הזה</span><span class="linkdiv-dash"> — </span><span class="desc">איך והיכן לדווח על בעיות עם נושאי עזרה אלה.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="get-involved.html.he" title="ניתן לקחת חלק בשיפור המדריך הזה"><span class="title">ניתן לקחת חלק בשיפור המדריך הזה</span><span class="linkdiv-dash"> — </span><span class="desc">איך והיכן לדווח על בעיות עם נושאי עזרה אלה.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="community-support.html.he" title="תמיכה קהילתית"><span class="title">תמיכה קהילתית</span><span class="linkdiv-dash"> — </span><span class="desc">קבלת עזרה מהקהילה</span></a></div>
 </div>
 </div></div></div></div>
 </div>

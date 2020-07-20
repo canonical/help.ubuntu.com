@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html.id" title="Mulai Memakai">Getting started with GNOME</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="getting-started.html.id" title="Mulai Memakai">Mulai memakai GNOME</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <nav class="prevnext pagewide"><div class="inner">
@@ -80,10 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <div class="media media-image"><div class="inner"><img src="gs-search1.svg" width="100%" class="media media-block" alt=""></div></div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps"><li class="steps">
-<p class="p">Open the <span class="gui">Activities</span> overview by clicking <span class="gui">Activities</span> 
-    at the top left of the screen, or by pressing the
-    <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> key. 
-    Start typing to search.</p>
+<p class="p">Buka ringkasan <span class="gui">Aktivitas</span> dengan mengklik <span class="gui">Aktivitas</span> di kiri atas layar, atau dengan menekan tombol <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span>. Mulailah mengetik untuk mencari.</p>
 <p class="p">Hasil yang cocok dengan apa yang telah Anda ketikkan akan muncul ketika Anda mengetik. Hasil pertama selalu disorot dan ditampilkan di puncak.</p>
 <p class="p">Tekan <span class="key"><kbd>Enter</kbd></span> untuk bertukar ke hasil pertama yang disorot.</p>
 </li></ol></div></div></div>
@@ -94,14 +91,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">aplikasi yang cocok, ditampilkan di bagian puncak hasil pencarian,</p></li>
 <li class="list"><p class="p">pengaturan yang cocok,</p></li>
-<li class="list"><p class="p">matching contacts,</p></li>
-<li class="list"><p class="p">matching documents,</p></li>
-<li class="list"><p class="p">matching calendar,</p></li>
-<li class="list"><p class="p">matching calculator,</p></li>
-<li class="list"><p class="p">matching software,</p></li>
-<li class="list"><p class="p">matching files,</p></li>
-<li class="list"><p class="p">matching terminal,</p></li>
-<li class="list"><p class="p">matching passwords and keys.</p></li>
+<li class="list"><p class="p">kontak yang cocok,</p></li>
+<li class="list"><p class="p">dokumen yang cocok,</p></li>
+<li class="list"><p class="p">kalender yang cocok,</p></li>
+<li class="list"><p class="p">kalkulator yang cocok,</p></li>
+<li class="list"><p class="p">perangkat lunak yang cocok,</p></li>
+<li class="list"><p class="p">berkas yang cocok,</p></li>
+<li class="list"><p class="p">terminal yang cocok,</p></li>
+<li class="list"><p class="p">kata sandi dan kunci yang cocok.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -120,19 +117,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="note note-important" title="Penting">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Your computer lets you customize what you want to display in the search
-       results in the <span class="gui">Activities Overview</span>. For example, you can
-        choose whether you want to show results for websites, photos, or music.
-        </p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Komputer Anda memungkinkan Anda untuk menggubah apa yang ingin Anda tampilkan dalam hasil pencarian di <span class="gui">Ringkasan Aktivitas</span>. Sebagai contoh, Anda dapat memilih apakah Anda ingin menampilkan hasil untuk situs-situs web, foto-foto, atau musik.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Untuk menggubah apa yang ditampilkan dalam hasil pencarian:</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klik <span class="gui"><a href="shell-introduction.html.id#yourname" title="shell-introduction#yourname">menu sistem</a></span> pada sisi kanan bilah puncak.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Search</span> in the left panel.</p></li>
-<li class="steps"><p class="p">In the list of search locations, click the switch next to the
-        search location you want to enable or disable.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Cari</span> di panel kiri.</p></li>
+<li class="steps"><p class="p">Dalam daftar lokasi pencarian, klik saklar di sebelah lokasi pencarian yang ingin Anda fungsikan atau nonaktifkan.</p></li>
 </ol></div>
 </div></div>
 </div></div>
@@ -144,13 +137,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="getting-started.html.id" title="Mulai Memakai">Getting started with GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
+<a href="getting-started.html.id" title="Mulai Memakai">Mulai memakai GNOME</a><span class="desc"> — Baru kenal GNOME? Pelajari bagaimana memakainya.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-apps-open.html.id" title="Memulai aplikasi">Memulai aplikasi</a><span class="desc"> — Launch apps from the <span class="gui">Activities</span> overview.</span>
+<a href="shell-apps-open.html.id" title="Memulai aplikasi">Memulai aplikasi</a><span class="desc"> — Meluncurkan aplikasi dari ringkasan <span class="gui">Aktivitas</span>.</span>
 </li></ul></div>
 </div></div>
 </div>

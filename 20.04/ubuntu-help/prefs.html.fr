@@ -95,11 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a></div>
-<div class="desc"><span class="desc">
-      <span class="link"><a href="accounts-add.html.fr" title="Ajout d'un compte">Add an online account</a></span>,
-      <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Remove an account</a></span>,
-      <span class="link"><a href="accounts-which-application.html.fr" title="Online services and applications">Learn about services</a></span>…
-    </span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="accounts-add.html.fr" title="Ajout d’un compte">Ajouter un compte en ligne</a></span>, <span class="link"><a href="accounts-remove.html.fr" title="Suppression d'un compte">Supprimer un compte</a></span>, <span class="link"><a href="accounts-which-application.html.fr" title="Services en ligne et applications">Découvrir les services</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="user-accounts.html.fr" title="Comptes utilisateurs">Comptes utilisateurs</a></div>

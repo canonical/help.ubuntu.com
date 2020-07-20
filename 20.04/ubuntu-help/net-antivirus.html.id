@@ -70,28 +70,16 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-security.html.id" title="Tetap aman di internet">Tetap aman di internet</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-security.html.id" title="Tetap aman di internet">Tetap aman di internet</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Apakah saya perlu perangkat lunak anti virus?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you are used to Windows or Mac OS, you are probably also used to having
-  anti-virus software running all of the time. Anti-virus software runs in the
-  background, constantly checking for computer viruses that might find their
-  way onto your computer and cause problems.</p>
-<p class="p">Anti-virus software does exist for Linux, but you probably don’t need to
-  use it. Viruses that affect Linux are still very rare. Some argue that this
-  is because Linux is not as widely used as other operating systems, so no one
-  writes viruses for it. Others argue that Linux is intrinsically more secure,
-  and security problems that viruses could make use of are fixed very
-  quickly.</p>
-<p class="p">Whatever the reason, Linux viruses are so rare that you don’t really need
-  to worry about them at the moment.</p>
-<p class="p">If you want to be extra-safe, or if you want to check for viruses in files
-  that you are passing between yourself and people using Windows and Mac OS,
-  you can still install anti-virus software. Check in the software installer or
-  search online; a number of applications are available.</p>
+<p class="p">Jika Anda terbiasa dengan Windows atau Mac OS, Anda mungkin juga terbiasa memiliki perangkat lunak anti-virus yang berjalan sepanjang waktu. Perangkat lunak anti-virus berjalan di latar belakang, terus-menerus memeriksa virus komputer yang mungkin menemukan jalan mereka ke komputer Anda dan menyebabkan masalah.</p>
+<p class="p">Perangkat lunak anti-virus memang ada untuk Linux, tapi Anda mungkin tidak perlu menggunakannya. Virus yang mempengaruhi Linux masih sangat langka. Beberapa orang berpendapat bahwa ini adalah karena Linux tidak digunakan sebanyak sistem operasi lain, sehingga tidak seorangpun menulis virus untuk itu. Yang lainnya berpendapat bahwa Linux secara intrinsik lebih aman, dan masalah keamanan yang dapat dimanfaatkan oleh virus dengan sangat cepat diperbaiki.</p>
+<p class="p">Apapun alasannya, virus Linux begitu jarang sehingga Anda tak perlu mengkhawatirkan mereka saat ini.</p>
+<p class="p">Jika Anda ingin ekstra aman, atau jika Anda ingin memeriksa virus dalam berkas yang Anda lewat antara Anda sendiri dan orang yang menggunakan Windows dan Mac OS, Anda masih dapat menginstal perangkat lunak anti-virus. Periksa di pemasang perangkat lunak atau cari secara daring; ada sejumlah aplikasi yang tersedia.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -105,8 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email-virus.html.id" title="Do I need to scan my emails for viruses?">Do I need to scan my emails for viruses?</a><span class="desc"> — Viruses are unlikely to infect your computer, but could infect the
-    computers of people you email.</span>
+<a href="net-email-virus.html.id" title="Apakah saya perlu memindai surel saya untuk mencari virus?">Apakah saya perlu memindai surel saya untuk mencari virus?</a><span class="desc"> — Virus kemungkinan kecil menginfeksi komputer Anda, tetapi dapat menginfeksi komputer orang yang Anda kirimi surel.</span>
 </li></ul></div>
 </div></div>
 </div>

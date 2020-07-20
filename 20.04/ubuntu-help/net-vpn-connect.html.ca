@@ -91,13 +91,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Per configurar la connexió VPN:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Xarxa</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Xarxa</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Xarxa</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">A la part inferior de la llista de l'esquerra, feu clic al botó <span class="gui">+</span> per a afegir una nova connexió.</p></li>
 <li class="steps"><p class="p">Trieu <span class="gui">VPN</span> a la llista d'interfícies.</p></li>
 <li class="steps"><p class="p">Trieu quin tipus de connexió VPN té.</p></li>
 <li class="steps"><p class="p">Ompliu els detalls de la connexió VPN i, a continuació, quan hàgiu acabat, premeu <span class="gui">Afegeix</span>.</p></li>
 <li class="steps"><p class="p">Quan hàgiu acabat de configurar la VPN, obriu el <span class="gui"><a href="shell-introduction.html.ca#yourname" title="shell-introduction#yourname">menú del sistema</a></span> des del costat dret de la barra superior, feu clic a <span class="gui">VPN OFF</span> i seleccioneu <span class="gui">Connecta</span>. Haureu d'introduir una contrasenya per a la connexió abans d'establir-la. Un cop realitzada la connexió, veureu una icona amb forma de cadenat a la barra superior.</p></li>
-<li class="steps"><p class="p">Esperem que us connecteu correctament a la VPN. En cas contrari, és possible que hàgiu de marcar dues vegades la configuració de VPN que heu introduït. Podeu fer això des del quadre <span class="gui">Xarxa</span> que heu utilitzat per crear la connexió. Seleccioneu la connexió VPN de la llista i, a continuació, premeu el botó <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuració"></span></span> per revisar la configuració.</p></li>
+<li class="steps"><p class="p">Esperem que us connecteu correctament a la VPN. En cas contrari, és possible que hàgiu de marcar dues vegades la configuració de VPN que heu introduït. Podeu fer això des del quadre <span class="gui">Xarxa</span> que heu utilitzat per crear la connexió. Seleccioneu la connexió VPN de la llista i, a continuació, premeu el botó <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configuració"></span></span> per revisar la configuració.</p></li>
 <li class="steps"><p class="p">Per desconnectar-se de la VPN, feu clic al menú del sistema a la barra superior i feu clic a <span class="gui">Apaga</span> sota el nom de la vostra connexió VPN.</p></li>
 </ol></div></div></div>
 </div>

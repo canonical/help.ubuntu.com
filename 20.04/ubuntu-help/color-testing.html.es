@@ -81,7 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Los efectos de un perfil de color son a veces sutiles y puede que sean difíciles de ver, si no ha cambiado mucho.</p>
-<p class="p">GNOME incluye diversos perfiles de prueba que demuestran claramente las diferencias al aplicar perfiles:</p>
+<p class="p">The system comes with several profiles for testing that make it very clear
+  when the profiles are being applied:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Azul</dt>
 <dd class="terms"><p class="p">Esto cambiará la pantalla a azul y probará si las curvas de calibración se envían al dispositivo.</p></dd>
@@ -89,7 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
-<li class="steps"><p class="p">Pulse <span class="gui">Dispositivos</span> en la barra lateral.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Color</span> en la barra lateral para abrir el panel.</p></li>
 <li class="steps"><p class="p">Seleccione el dispositivo para el que quiere añadir un perfil. Es posible que quiera </p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Añadir perfil</span> puede seleccionar un perfil de prueba, que debería estar al final de la lista.</p></li>

@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Turn off or limit file history tracking</title>
+<title>Matikan atau membatasi pelacakan riwayat berkas</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -71,53 +71,44 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div>
-<div class="trail">
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Turn off or limit file history tracking</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Matikan atau membatasi pelacakan riwayat berkas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Tracking recently used files and folders makes it easier to find
-  items that you have been working on in the file manager and in file
-  dialogs in applications. You may wish to keep your file usage history
-  private instead, or only track your very recent history.</p>
+<p class="p">Melacak berkas dan folder yang baru saja digunakan membuat lebih mudah untuk menemukan butir yang telah Anda kerjakan di manajer berkas dan dalam dialog berkas dalam aplikasi. Anda mungkin ingin menyimpan riwayat penggunaan berkas secara pribadi, atau hanya melacak riwayat terbaru Anda.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Turn off file history tracking</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Menonaktifkan pelacakan riwayat berkas</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Privasi</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Privasi</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Usage &amp; History</span>.</p></li>
+<li class="steps"><p class="p">Pilih <span class="gui">Penggunaan &amp; Riwayat</span>.</p></li>
 <li class="steps">
-<p class="p">Switch the <span class="gui">Recently Used</span> switch to off.</p>
-<p class="p">To re-enable this feature, switch the <span class="gui">Recently Used</span> switch
-     to on.</p>
+<p class="p">Alihkan sakelar <span class="gui">Baru Saja Dipakai</span> ke nonaktif.</p>
+<p class="p">Untuk mengaktifkan kembali fitur ini, nyalakan <span class="gui">Baru Saja Dipakai</span>.</p>
 </li>
-<li class="steps"><p class="p">Use the <span class="gui">Clear Recent History</span> button to purge the history
-      immediately.</p></li>
+<li class="steps"><p class="p">Gunakan tombol <span class="gui">Bersihkan Riwayat Terakhir</span> untuk membersihkan riwayat seketika.</p></li>
 </ol></div>
 </div></div>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">This setting will not affect how your web browser stores information
-  about the web sites you visit.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Setelan ini tidak akan memengaruhi cara peramban web menyimpan informasi tentang situs web yang Anda kunjungi.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Restrict the amount of time your file history is tracked</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Membatasi banyaknya waktu riwayat berkas dilacak</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Privasi</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Privasi</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Usage &amp; History</span>.</p></li>
-<li class="steps"><p class="p">Ensure the <span class="gui">Recently Used</span> switch is set to on.</p></li>
-<li class="steps"><p class="p">Select the length of time to <span class="gui">Retain History</span>. Choose from
-     options <span class="gui">1 day</span>, <span class="gui">7 days</span>, <span class="gui">30 days</span>, or
-     <span class="gui">Forever</span>.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Clear Recent History</span> button to purge the history
-      immediately.</p></li>
+<li class="steps"><p class="p">Pilih <span class="gui">Penggunaan &amp; Riwayat</span>.</p></li>
+<li class="steps"><p class="p">Pastikan sakelar <span class="gui">Baru Saja Dipakai</span> disetel ke menyala.</p></li>
+<li class="steps"><p class="p">Pilih durasi waktu untuk <span class="gui">Menyimpan Riwayat</span>. Pilih dari pilihan <span class="gui">1 hari</span>, <span class="gui">7 hari</span>, <span class="gui">30 hari</span>, atau <span class="gui">Selamanya</span>.</p></li>
+<li class="steps"><p class="p">Gunakan tombol <span class="gui">Bersihkan Riwayat Terakhir</span> untuk membersihkan riwayat seketika.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -126,14 +117,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li>
 <li class="links ">
-<a href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a><span class="desc"> — 
-      <span class="link"><a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Screen lock</a></span>,
-      <span class="link"><a href="privacy-history-recent-off.html.id" title="Turn off or limit file history tracking">Usage history</a></span>,
-      <span class="link"><a href="privacy-purge.html.id" title="Purge trash &amp; temporary files">Purge trash &amp; temporary files</a></span>…
-    </span>
+<a href="privacy.html.id" title="Tatanan Privasi">Tatanan Privasi</a><span class="desc"> — <span class="link"><a href="privacy-screen-lock.html.id" title="Secara otomatis mengunci layar Anda">Kunci layar</a></span>, <span class="link"><a href="privacy-history-recent-off.html.id" title="Matikan atau membatasi pelacakan riwayat berkas">Riwayat penggunaan</a></span>, <span class="link"><a href="privacy-purge.html.id" title="Purge trash &amp; temporary files">Bersihkan sampah &amp; berkas sementara</a></span>…</span>
 </li>
+<li class="links "><a href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a></li>
 </ul></div>
 </div></div></div>
 </div></section>

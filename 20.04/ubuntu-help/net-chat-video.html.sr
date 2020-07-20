@@ -84,7 +84,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="list"><p class="p">
       <span class="app"><span class="link"><a href="net-chat-skype.html.sr" title="Како могу да користим Скајп на Убунтуу?">Skype</a></span></span>
     </p></li>
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Екига</a></span></span></p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="apt:jami" title="apt:jami">Jami</a></span></span>
+    </p></li>
 </ul></div>
 </div></div></div>
 <section class="links" role="navigation"><div class="inner">

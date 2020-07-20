@@ -77,15 +77,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Quan feu doble clic (o feu clic amb el botó del mig) a un fitxer al gestor de fitxers, s'obrirà amb l'aplicació per defecte d'aquest tipus de fitxer. Podeu obrir-lo amb una aplicació diferent, cercar aplicacions en línia, o establir l'aplicació predeterminada per a tots els fitxers del mateix tipus.</p>
-<p class="p">Per obrir un fitxer amb una aplicació diferent de la predeterminada, feu clic amb el botó secundari en el fitxer i seleccioneu l'aplicació que vulgueu a la part superior del menú. Si no veieu l'aplicació que voleu, seleccioneu <span class="gui">Obre amb una altra aplicació</span>. Per defecte, l'administrador de fitxers només mostra aplicacions conegudes per gestionar el fitxer. Per examinar totes les aplicacions de l'ordinador, feu clic a <span class="gui">Veure totes les Aplicacions</span>.</p>
+<p class="p">Per a obrir un fitxer amb una aplicació diferent de la predeterminada, feu clic amb el botó secundari en el fitxer i seleccioneu l'aplicació que vulgueu a la part superior del menú. Si no veieu l'aplicació que voleu, seleccioneu <span class="gui">Obre amb una altra aplicació</span>. Per defecte, l'administrador de fitxers només mostra aplicacions conegudes per gestionar el fitxer. Per examinar totes les aplicacions de l'ordinador, feu clic a <span class="gui">Veure totes les Aplicacions</span>.</p>
 <p class="p">Si encara no trobeu l'aplicació que voleu, podeu cercar més aplicacions fent clic <span class="gui">Troba aplicacions noves</span>. L'administrador de fitxers buscarà en línia paquets que continguin aplicacions que se sap que gestionen fitxers d'aquest tipus.</p>
 </div>
 <section id="default"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Canviar l'aplicació per defecte</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Podeu canviar l'aplicació predeterminada que s'utilitza per obrir els fitxers d'un determinat tipus. Això us permetrà obrir la vostra aplicació preferida quan feu doble clic per obrir un fitxer. Per exemple, és possible que vulgueu que el vostre reproductor de música preferit s'obri quan feu doble clic a un fitxer MP3.</p>
+<p class="p">Podeu canviar l'aplicació predeterminada que s'utilitza per a obrir els fitxers d'un determinat tipus. Això us permetrà obrir la vostra aplicació preferida quan feu doble clic per a obrir un fitxer. Per exemple, és possible que vulgueu que el vostre reproductor de música preferit s'obri quan feu doble clic a un fitxer MP3.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Seleccioneu un fitxer del tipus l'aplicació predeterminada que vulgueu canviar. Per exemple, per canviar quina aplicació s'utilitza per obrir fitxers MP3, seleccioneu un fitxer <span class="file">.mp3</span>.</p></li>
+<li class="steps"><p class="p">Seleccioneu un fitxer del tipus l'aplicació predeterminada que vulgueu canviar. Per exemple, per a canviar quina aplicació s'utilitza per a obrir fitxers MP3, seleccioneu un fitxer <span class="file">.mp3</span>.</p></li>
 <li class="steps"><p class="p">Feu clic al fitxer amb el botó dret i seleccioneu <span class="gui">Propietats</span>.</p></li>
 <li class="steps"><p class="p">Seleccioneu la pestanya <span class="gui">Obre amb</span>.</p></li>
 <li class="steps">

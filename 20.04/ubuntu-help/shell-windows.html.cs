@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Okna a pracovní plochy</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Obdobně, jako jiná uživatelská prostředí, používá i GNOME k zobrazení běžících aplikací okna. Pomocí přehledu <span class="link"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">činností</a></span> a <span class="em">oblíbených</span> můžete spustit nové aplikace a ovládat aktivní okna.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
 <p class="p">Své aplikace můžete seskupovat pomocí pracovních ploch. Podívejte se níže do témat o oknech a pracovních plochách, abyste lépe pochopili, jak to funguje.</p>
 </div>
 <section id="working-with-windows"><div class="inner">

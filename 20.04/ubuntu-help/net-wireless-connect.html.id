@@ -70,58 +70,30 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.id" title="Wireless networking">Wireless networking</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Menyambung ke jaringan nirkabel</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you have a wireless-enabled computer, you can connect to a wireless
- network that is within range to get access to the internet, view shared files
- on the network, and so on.</p>
+<p class="p">Jika Anda memiliki komputer berkemampuan nirkabel, Anda dapat terhubung ke jaringan nirkabel yang berada dalam jangkauan untuk mendapatkan akses ke internet, melihat berkas bersama pada jaringan, dan sebagainya.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="System menu">system menu</a></span> from the right
-    side of the top bar.</p></li>
-<li class="steps"><p class="p">Select
-    <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
-      Wi-Fi Not Connected</span>. The Wi-Fi section of the menu will expand.</p></li>
+<li class="steps"><p class="p">Buka <span class="gui"><a href="shell-introduction.html.id#systemmenu" title="Menu sistem">menu sistem</a></span> pada bagian kanan dari bilah puncak.</p></li>
+<li class="steps"><p class="p">Pilih <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span> Wi-Fi Tidak Terhubung</span>. Bagian menu Wi-Fi akan diperluas.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Pilih Jaringan</span>.</p></li>
 <li class="steps">
-<p class="p">Click the name of the network you want, then click
-    <span class="gui">Connect</span>.</p>
-<p class="p">If the name of the network is not in the list, try clicking
-    <span class="gui">More</span> to see if the network is further down the list. If you 
-    still do not see the network, you may be out of range, or the network
-    <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">might be hidden</a></span>.</p>
+<p class="p">Klik nama jaringan yang Anda inginkan, lalu klik <span class="gui">Hubungkan</span>.</p>
+<p class="p">Jika nama jaringan tidak ada dalam daftar, coba klik <span class="gui">Lainnya</span> untuk melihat apakah jaringan berada di bawah daftar. Jika Anda masih tidak melihat jaringan, Anda mungkin berada di luar jangkauan, atau jaringan <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">mungkin tersembunyi</a></span>.</p>
 </li>
 <li class="steps">
-<p class="p">If the network is protected by a password
-    (<span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">encryption key</a></span>), enter the
-    password when prompted and click <span class="gui">Connect</span>.</p>
-<p class="p">If you do not know the key, it may be written on the underside of the
-    wireless router or base station, or in its instruction manual, or you may
-    have to ask the person who administers the wireless network.</p>
+<p class="p">Jika jaringan dilindungi oleh kata sandi (<span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">kunci enkripsi</a></span>), masukkan kata sandi saat diminta dan klik <span class="gui">Hubungkan</span>.</p>
+<p class="p">Jika Anda tidak tahu kuncinya, mungkin ditulis di bagian bawah router nirkabel atau pemancar, atau dalam manual instruksi, atau Anda mungkin harus meminta orang yang mengelola jaringan nirkabel.</p>
 </li>
-<li class="steps"><p class="p">The network icon will change appearance as the computer attempts to
-    connect to the network.</p></li>
-<li class="steps"><p class="p">If the connection is successful, the icon will change to a dot with
-    several curved bars above it
-    (<span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>). More bars
-    indicate a stronger connection to the network. Fewer bars mean the
-    connection is weaker and might not be very reliable.</p></li>
+<li class="steps"><p class="p">Ikon jaringan akan mengubah tampilan saat komputer mencoba untuk menyambung ke jaringan.</p></li>
+<li class="steps"><p class="p">Jika koneksi berhasil, ikon akan berubah menjadi titik dengan beberapa batang melengkung di atasnya (<span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>). Lebih banyak batang mengindikasikan koneksi yang lebih kuat ke jaringan. Lebih sedikit batang berarti koneksi lebih lemah dan mungkin tidak akan sangat handal.</p></li>
 </ol></div></div></div>
-<p class="p">If the connection is not successful, you may be asked for your password
-  again or it might just tell you that the connection has been disconnected.
-  There are a number of things that could have caused this to happen. You could
-  have entered the wrong password, the wireless signal could be too weak, or
-  your computer’s wireless card might have a problem, for example. See
-  <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a></span> for more help.</p>
-<p class="p">A stronger connection to a wireless network does not necessarily mean that
-  you have a faster internet connection, or that you will have faster download
-  speeds. The wireless connection connects your computer to the <span class="em">device
-  which provides the internet connection</span> (like a router or modem), but the
-  two connections are actually different, and so will run at different
-  speeds.</p>
+<p class="p">Jika sambungan tidak berhasil, Anda mungkin akan diminta untuk sandi Anda lagi atau mungkin hanya memberitahu Anda bahwa sambungan telah terputus. Ada beberapa hal yang bisa menyebabkan ini terjadi. Anda bisa memasukkan kata sandi yang salah, sinyal nirkabel bisa terlalu lemah, atau kartu nirkabel komputer Anda mungkin memiliki masalah, misalnya. Lihat <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a></span> untuk bantuan lebih lanjut.</p>
+<p class="p">Sebuah koneksi kuat ke jaringan nirkabel tidak selalu berarti bahwa Anda memiliki koneksi internet lebih cepat, atau bahwa Anda akan memiliki kecepatan download lebih cepat. Koneksi nirkabel menghubungkan komputer Anda ke perangkat <span class="em">yang menyediakan koneksi internet</span> (seperti router atau modem), tetapi dua koneksi sebenarnya berbeda, sehingga akan berjalan pada kecepatan yang berbeda.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -129,26 +101,20 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless.html.id" title="Wireless networking">Wireless networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Connect to Wi-Fi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Wi-Fi disconnecting</a></span>…
-    </span>
+<a href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Wi-Fi Memutus</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Mengapa jaringan nirkabel saya terputus terus?</a><span class="desc"> — You might have low signal, or the network might not be letting you
-    connect properly.</span>
+<a href="net-wrongnetwork.html.id" title="Komputer saya terhubung ke jaringan yang salah">Komputer saya terhubung ke jaringan yang salah</a><span class="desc"> — Sunting pengaturan koneksi Anda, dan hapus opsi koneksi yang tidak diinginkan.</span>
 </li>
 <li class="links ">
-<a href="net-wrongnetwork.html.id" title="My computer connects to the wrong network">My computer connects to the wrong network</a><span class="desc"> — Edit your connection settings, and remove the unwanted connection
-    option.</span>
+<a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Mengapa jaringan nirkabel saya terputus terus?</a><span class="desc"> — Anda mungkin memiliki sinyal yang rendah, atau jaringan mungkin tidak membiarkan Anda terhubung dengan benar.</span>
 </li>
 <li class="links ">
-<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+<a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Pelacak masalah jaringan nirkabel</a><span class="desc"> — Mengidentifikasi dan memperbaiki masalah koneksi nirkabel.</span>
 </li>
 </ul></div>
 </div></div>

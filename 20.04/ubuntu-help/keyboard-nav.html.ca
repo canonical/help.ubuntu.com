@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+Tecles fletxa</span></p></td>
 <td style="border-top-style: solid;">
 <p class="p">En una vista en llista o d'icones, seleccioneu tots els elements de l'element actualment seleccionat a un nou l'element seleccionat.</p>
-<p class="p">En una vista en arbre, els elements que tenen fills poden expandir-se o col·lapsar-se, per mostrar o ocultar els fills: expandiu-los prement <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, i col·lapseu-los prement <span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p>
+<p class="p">En una vista en arbre, els elements que tenen fills poden expandir-se o col·lapsar-se, per a mostrar o ocultar els fills: expandiu-los prement <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span>, i col·lapseu-los prement <span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
 <td style="border-top-style: solid;">
 <p class="p">Canvieu entre finestres de la mateixa aplicació, o des de l'aplicació seleccionada fer <span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p>
-<p class="p">Aquesta drecera utilitza <span class="key"><kbd>`</kbd></span> als teclats USA, quan la tecla <span class="key"><kbd>`</kbd></span> està sobre el <span class="key"><kbd>Tab</kbd></span>. A tots els altres teclats, la drecera és <span class="key"><kbd>Súper</kbd></span> més la tecla que està sobre <span class="key"><kbd>Tab</kbd></span>.</p>
+<p class="p">Aquesta drecera utilitza <span class="key"><kbd>`</kbd></span> als teclats dels EUA, quan la tecla <span class="key"><kbd>`</kbd></span> està sobre el <span class="key"><kbd>Tab</kbd></span>. A tots els altres teclats, la drecera és <span class="key"><kbd>Súper</kbd></span> més la tecla que està sobre <span class="key"><kbd>Tab</kbd></span>.</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +246,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> o <span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.ca" title="Maximitzar i desmaximitzar una finestra">Maximitzar</a></span> una finestra. Premeu <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> o <span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> per restaurar una finestra maximitzada a la mida original.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.ca" title="Maximitzar i desmaximitzar una finestra">Maximitzar</a></span> una finestra. Premeu <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> o <span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>↓</kbd></span></span> per a restaurar una finestra maximitzada a la mida original.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
@@ -254,11 +254,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Maximitzar una finestra verticalment a la part esquerra de la pantalla. Torneu a prémer per restaurar la finestra a la mida anterior. Premeu <span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>→</kbd></span></span> per canviar de costat.</p></td>
+<td style="border-top-style: solid;"><p class="p">Maximitzar una finestra verticalment a la part esquerra de la pantalla. Torneu a prémer per a restaurar la finestra a la mida anterior. Premeu <span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>→</kbd></span></span> per a canviar de costat.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Maximitzar una finestra verticalment a la part dreta de la pantalla. Torneu a prémer per restaurar la finestra a la mida anterior. Premeu <span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>←</kbd></span></span> per canviar de costat.</p></td>
+<td style="border-top-style: solid;"><p class="p">Maximitzar una finestra verticalment a la part dreta de la pantalla. Torneu a prémer per a restaurar la finestra a la mida anterior. Premeu <span class="keyseq"><span class="key"><kbd>Súper</kbd></span>+<span class="key"><kbd>←</kbd></span></span> per a canviar de costat.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Espai</kbd></span></span></p></td>

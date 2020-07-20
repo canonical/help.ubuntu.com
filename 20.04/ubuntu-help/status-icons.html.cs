@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Co znamenají ikony na horní liště?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Tato kapitola vysvětluje význam jednotlivých ikon nacházejících se v pravém horním rohu obrazovky. Přesněji řečeno, jsou popsány různé varianty ikon poskytovaných rozhraním GNOME.</p>
+<p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the system are described.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="status-icons.html.cs#universalicons" title="Ikony nabídky univerzálního přístupu">Ikony nabídky univerzálního přístupu</a></li>
 <li class="links "><a href="status-icons.html.cs#audioicons" title="Ikony ovládání hlasitosti">Ikony ovládání hlasitosti</a></li>

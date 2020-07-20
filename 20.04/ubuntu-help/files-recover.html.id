@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Memulihkan berkas dari Tong Sampah</span></h1></div>
@@ -80,38 +80,27 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Untuk memulihkan berkas dari Tong Sampah:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
-      start typing <span class="app">Files</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="app">Files</span> to open the file manager.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Trash</span> in the sidebar. If you do not see the sidebar,
-      press the menu button in the top-right corner of the window and select
-      <span class="gui">Sidebar</span>.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulailah mengetikkan <span class="app">Berkas</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="app">Berkas</span> untuk membuka manajer berkas.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Tong Sampah</span> di bilah sisi. Jika Anda tidak melihat bilah sisi, tekan tombol menu di pojok kanan atas jendela dan pilih <span class="gui">Bilah Sisi</span>.</p></li>
 <li class="steps"><p class="p">Bila berkas Anda yang terhapus ada, klik itu dan pilih <span class="gui">Pulihkan</span>. Itu akan dipulihkan ke folder tempat dia dihapus.</p></li>
 </ol></div>
 </div></div>
-<p class="p">If you deleted the file by pressing <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete
-  </kbd></span></span>, or by using the command line, the file has been permanently
-  deleted. Files that have been permanently deleted can’t be recovered from the
-  <span class="gui">Trash</span>.</p>
-<p class="p">There are a number of recovery tools available that are sometimes able to
-  recover files that were permanently deleted. These tools are generally not
-  very easy to use, however. If you accidentally permanently deleted a file,
-  it’s probably best to ask for advice on a support forum to see if you can
-  recover it.</p>
+<p class="p">Jika Anda menghapus berkas dengan menekan <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span>, atau dengan menggunakan baris perintah, berkas telah dihapus secara permanen. Berkasyang telah dihapus secara permanen tidak dapat dipulihkan dari <span class="gui">Tong Sampah</span>.</p>
+<p class="p">Ada sejumlah alat pemulihan yang tersedia yang kadang-kadang dapat memulihkan berkas yang telah dihapus secara permanen. Namun alat-alat ini umumnya tidak sangat mudah digunakan. Jika Anda tanpa sengaja menghapus secara permanen berkas, mungkin lebih baik untuk meminta saran pada forum dukungan untuk melihat apakah Anda dapat memulihkannya.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="files-lost.html.id" title="Cari berkas yang hilang">Cari berkas yang hilang</a><span class="desc"> — Follow these tips if you can’t find a file you created or
-    downloaded.</span>
+<a href="files-lost.html.id" title="Cari berkas yang hilang">Cari berkas yang hilang</a><span class="desc"> — Ikuti petunjuk ini bila Anda tak dapat menemukan berkas yang Anda buat atau unduh.</span>
 </li>
 <li class="links ">
 <a href="files-delete.html.id" title="Menghapus berkas-berkas dan folder-folder">Menghapus berkas-berkas dan folder-folder</a><span class="desc"> — Menghapus berkas-berkas atau folder-folder yang tidak Anda perlukan lagi.</span>

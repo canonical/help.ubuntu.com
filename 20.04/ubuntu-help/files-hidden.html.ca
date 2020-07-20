@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="unhide"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Mostrar el fitxer ocult</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Per mostrar un fitxer, aneu a la carpeta que conté el fitxer amagat i feu clic al botó Opcions de visualització a la barra d'eines i seleccioneu <span class="gui">Mostra els fitxers ocults</span>. A continuació, cerqueu el fitxer amagat i canvieu el nom perquè no tingui cap <span class="file">.</span> a l'inici del nom. Per exemple, per mostrar un fitxer anomenat <span class="file">.exemple.txt</span>, heu de canviar-li el nom a <span class="file">exemple.txt</span>.</p>
+<p class="p">Per mostrar un fitxer, aneu a la carpeta que conté el fitxer amagat i feu clic al botó Opcions de visualització a la barra d'eines i seleccioneu <span class="gui">Mostra els fitxers ocults</span>. A continuació, cerqueu el fitxer amagat i canvieu el nom perquè no tingui cap <span class="file">.</span> a l'inici del nom. Per exemple, per a  mostrar un fitxer anomenat <span class="file">.exemple.txt</span>, heu de canviar-li el nom a <span class="file">exemple.txt</span>.</p>
 <p class="p">Un cop hàgiu canviat el nom del fitxer, podeu fer clic al botó Opcions de la barra d'eines i triar <span class="gui">Mostra els fitxers ocults</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> per a tornar a ocultar altres fitxers ocults.</p>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">

@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">La manera més senzilla de fer les còpies de seguretat dels fitxers i paràmetres de configuració és deixar que una aplicació de còpies de seguretat se'n faci càrrec. Hi ha nombroses aplicacions d'aquest tipus, com per exemple el <span class="app">Déjà Dup</span>.</p>
-<p class="p">L'ajuda de l'aplicació de còpies de seguretat que hàgiu escollit us indicarà com configurar l'aplicació per fer les còpies, i què haureu de fer per recuperar la informació que teniu copiada.</p>
+<p class="p">L'ajuda de l'aplicació de còpies de seguretat que hàgiu escollit us indicarà com configurar l'aplicació per a fer les còpies, i què haureu de fer per recuperar la informació que teniu copiada.</p>
 <p class="p">Una altra opció és simplement <span class="link"><a href="files-copy.html.ca" title="Copiar o moure fitxers i carpetes">copiar els fitxers</a></span> a una ubicació segura, com per exemple un disc dur extern, un altre ordinador de la xarxa, o un llapis USB. Els vostres <span class="link"><a href="backup-thinkabout.html.ca" title="On puc trobar els fitxers que vull desar en una còpia de seguretat?">fitxers personals</a></span> i paràmetres de configuració solen estar al directori personal i, per tant, els podeu copiar d'allà.</p>
 <p class="p">La quantitat d'informació de la qual podeu fer una còpia de seguretat depèn de la mida del dispositiu d'emmagatzemament que utilitzeu. Si disposeu de prou espai al dispositiu on realitzareu la còpia, el millor que podeu fer és copiar tot el directori personal, amb les següents excepcions:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">

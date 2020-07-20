@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">V seznamu nalevo vyberte zařízení – <span class="gui">Wi-Fi</span> nebo <span class="gui">Drátové</span>.</p>
 <p class="p">Adresa MAC pro drátové zařízení bude zobrazena vpravo jako <span class="gui">Hardwarová adresa</span>.</p>
-<p class="p">V panelu <span class="gui">Podrobnosti</span> si kliknutím na tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="nastavení"></span></span> si zobrazte adresu MAC pro bezdrátové zařízení.</p>
+<p class="p">V panelu <span class="gui">Podrobnosti</span> si kliknutím na tlačítko <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="nastavení"></span></span> si zobrazte adresu MAC pro bezdrátové zařízení.</p>
 </li>
 </ol></div></div></div>
 <p class="p">V praxi někdy můžete potřebovat adresu MAC změnit nebo podvrhnout. Například, někteří poskytovatelé internetových služeb mohou požadovat použití konkrétní adresy MAC, abyste měli přístup k jejich zařízení. Když se vám pokazí síťová karta a vyměníte ji za jinou, přestanou vám jejich služby fungovat. Právě v takovém případě můžete podvrhnout původní adresu MAC.</p>

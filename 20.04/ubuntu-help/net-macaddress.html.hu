@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Válassza a bal oldali listából a <span class="gui">Wi-Fi</span> vagy <span class="gui">Vezetékes</span> eszközt.</p>
 <p class="p">A vezetékes eszköz MAC-címe a jobb oldalon a <span class="gui">Hardvercím</span> mellett jelenik meg.</p>
-<p class="p">Kattintson a <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="beállítások"></span></span> gombra a vezeték nélküli kapcsolat MAC-címének megjelenítéséhez a <span class="gui">Részletek</span> panel jobb oldalán, a <span class="gui">Hardvercím</span> mellett.</p>
+<p class="p">Kattintson a <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="beállítások"></span></span> gombra a vezeték nélküli kapcsolat MAC-címének megjelenítéséhez a <span class="gui">Részletek</span> panel jobb oldalán, a <span class="gui">Hardvercím</span> mellett.</p>
 </li>
 </ol></div></div></div>
 <p class="p">A gyakorlatban szükség lehet a MAC-cím módosítására, vagy „hamisítására”. Egyes internetszolgáltatók például megkövetelhetik egy adott MAC-cím használatát a szolgáltatásuk használatához. Ha a hálózati kártya elromlik, és ki kell cserélni, akkor esetleg nem tudja elérni a szolgáltatást. Ilyen esetekben meg kell hamisítani a MAC-címet.</p>

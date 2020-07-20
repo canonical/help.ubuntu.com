@@ -87,7 +87,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Prema o botón <span class="gui">Apagar</span> para abrir o panel. Mostrarase o estado dos dispositivos coñecidos.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Se se detecta unha batería interna, a sección de <span class="gui">Batería</span> mostra o estado de unha ou máis baterías do portátil. A barra do indicador mostra o porcentaxe de cargado, así como o tempo ate que se cargue por completo se está enchufado, ou o tempo restante ao estar usando a enerxía da batería.</p>
+<p class="p">If an internal battery is detected, the <span class="gui">Batteries</span> section
+    displays the status of one or more laptop batteries. The indicator bar
+    shows the percent charged, as well as time until fully charged if plugged
+    in, and time remaining when running on battery power.</p>
 <p class="p">A sección <span class="gui">Dispositivos</span> mostra o estado dos dispositivos conectados.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

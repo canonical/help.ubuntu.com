@@ -76,46 +76,27 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Urutkan berkas dan folder</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can sort files in different ways in a folder, for example by sorting them
-in order of date or file size. See <span class="link"><a href="#ways" title="Cara mengurutkan berkas">Cara mengurutkan berkas</a></span> below for a list of
-common ways to sort files. See <span class="link"><a href="nautilus-views.html.id" title="Views preferences in Files">Views preferences in <span class="app">Files</span></a></span> for information on
-how to change the default sort order.</p>
-<p class="p">The way that you can sort files depends on the <span class="em">folder view</span> that you
-are using. You can change the current view using the list or icon buttons in the
-toolbar.</p>
+<p class="p">Anda dapat mengurutkan berkas dalam cara yang berbeda dalam sebuah folder, misalnya dengan menyortir mereka dalam urutan tanggal atau ukuran berkas. Lihat <span class="link"><a href="#ways" title="Cara mengurutkan berkas">Cara mengurutkan berkas</a></span> di bawah untuk daftar cara umum mengurutkan berkas. Lihat <span class="link"><a href="nautilus-views.html.id" title="Preferensi tampilan dalam Berkas">Preferensi tampilan dalam <span class="app">Berkas</span></a></span> untuk informasi tentang cara mengubah urutan baku.</p>
+<p class="p">Cara Anda dapat mengurutkan berkas tergantung pada <span class="em">tampilan folder</span> yang Anda gunakan. Anda dapat mengubah tampilan saat ini menggunakan tombol daftar atau ikon di bilah alat.</p>
 </div>
 <section id="icon-view"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tilikan ikon</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">To sort files in a different order, click the view options button in the
-  
-  toolbar and choose <span class="gui">By Name</span>, <span class="gui">By Size</span>, <span class="gui">By
-  Type</span>, <span class="gui">By Modification Date</span>, or <span class="gui">By Access
-  Date</span>.</p>
-<p class="p">As an example, if you select <span class="gui">By Name</span>, the files will be sorted
-  by their names, in alphabetical order. See <span class="link"><a href="#ways" title="Cara mengurutkan berkas">Cara mengurutkan berkas</a></span> for other
-  options.</p>
-<p class="p">You can sort in the reverse order by selecting <span class="gui">Reversed Order</span>
-  from the menu.</p>
+<p class="p">Untuk mengurutkan berkas dalam urutan yang berbeda, klik tombol opsi tampilan di bilah alat dan pilih <span class="gui">Berdasarkan Nama</span>, <span class="gui">Berdasarkan Ukuran</span>, <span class="gui">Berdasarkan Tipe</span>, <span class="gui">Berdasarkan Tanggal Modifikasi</span>, atau <span class="gui">Berdasarkan Tanggal Akses</span>.</p>
+<p class="p">Sebagai contoh, jika Anda memilih <span class="gui">Berdasarkan Nama</span>, berkas akan diurutkan berdasarkan nama mereka, dalam urutan abjad. Lihat <span class="link"><a href="#ways" title="Cara mengurutkan berkas">Cara mengurutkan berkas</a></span> untuk pilihan lainnya.</p>
+<p class="p">Anda dapat mengurutkan urutan terbalik dengan memilih <span class="gui">Urutan Terbalik</span> dari menu.</p>
 </div></div>
 </div></section><section id="list-view"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tilikan daftar</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">To sort files in a different order, click one of the column headings in
-  the file manager. For example, click <span class="gui">Type</span> to sort by file type.
-  Click the column heading again to sort in the reverse order.</p>
-<p class="p">In list view, you can show columns with more attributes and sort on those
-  columns. Click the view options button in the toolbar, pick <span class="gui">Visible
-  
-  Columns…</span> and select the columns that you want to be visible. You will
-  then be able to sort by those columns. See <span class="link"><a href="nautilus-list.html.id" title="Files list columns preferences">Files list columns preferences</a></span> for
-  descriptions of available columns.</p>
+<p class="p">Untuk mengurutkan berkas dalam urutan yang berbeda, klik salah satu tajuk kolom di manajer berkas. Misalnya, klik <span class="gui">Tipe</span> untuk mengurutkan berdasarkan tipe berkas. Klik tajuk kolom lagi untuk mengurutkan dalam urutan terbalik.</p>
+<p class="p">Dalam tampilan daftar, Anda dapat menampilkan kolom dengan lebih banyak atribut dan mengurutkan pada kolom tersebut. Klik tombol opsi tampilan di bilah alat, pilih <span class="gui">Kolom yang Terlihat…</span> dan pilih kolom yang ingin Anda lihat. Anda kemudian akan dapat mengurutkan berdasarkan kolom tersebut. Lihat <span class="link"><a href="nautilus-list.html.id" title="Preferensi kolom daftar berkas">Preferensi kolom daftar berkas</a></span> untuk deskripsi kolom yang tersedia.</p>
 </div></div>
 </div></section><section id="ways"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Cara mengurutkan berkas</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Nama</dt>
-<dd class="terms"><p class="p">Sorts alphabetically by the name of the file.</p></dd>
+<dd class="terms"><p class="p">Mengurutkan berkas secara alfabet berdasarkan nama berkas.</p></dd>
 <dt class="terms">Ukuran</dt>
 <dd class="terms"><p class="p">Mengurut berdasarkan ukuran berkas (berapa banyak ruang disk yang dia pakai). Urutan baku dari terkecil sampai terbesar.</p></dd>
 <dt class="terms">Tipe</dt>

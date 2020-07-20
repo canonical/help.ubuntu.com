@@ -77,29 +77,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Kebanyakan komputer menjadi hangat setelah beberapa saat, dan beberapa bisa menjadi cukup panas. Ini normal: sudah menjadi kebiasaan bahwa komputer mendinginkan dirinya sendiri. Namun bila komputer menjadi terlalu hangat itu mungkin tanda bahwa terjadi kelebihan panas, yang berpotensi menyebabkan kerusakan.</p>
-<p class="p">Most laptops get reasonably warm once you have been using them for a while.
-It is generally nothing to worry about — computers produce a lot of heat and
-laptops are very compact, so they need to remove their heat rapidly and their
-outer casing warms up as a result. Some laptops do get too hot, however, and
-may be uncomfortable to use. This is normally the result of a poorly-designed
-cooling system. You can sometimes get additional cooling accessories which fit
-to the bottom of the laptop and provide more efficient cooling.</p>
-<p class="p">If you have a desktop computer which feels hot to the touch, it may have
-insufficient cooling. If this concerns you, you can buy extra cooling fans or
-check that the cooling fans and vents are free from dust and other blockages.
-You might want to consider putting the computer in a better-ventilated area too
-— if kept in confined spaces (for example, in a cupboard), the cooling system in the
-computer may not be able to remove heat and circulate cool air fast enough.</p>
-<p class="p">Some people are concerned about the health risks of using hot laptops. There
-are suggestions that prolonged use of a hot laptop on your lap might possibly
-reduce (male) fertility, and there are reports of minor burns being suffered
-too (in extreme cases). If you are concerned about these potential problems,
-you may wish to consult a medical practitioner for advice. Of course, you can
-simply choose not to rest the laptop on your lap.</p>
-<p class="p">Most modern computers will shut themselves down if they get too hot, to
-prevent themselves from becoming damaged. If your computer keeps shutting down,
-this might be the reason. If your computer is overheating, you will probably
-need to get it repaired.</p>
+<p class="p">Kebanyakan laptop menjadi cukup hangat setelah Anda telah menggunakan mereka beberapa waktu. Hal ini umumnya tidak perlu khawatir - komputer menghasilkan banyak panas dan laptop itu sangat kompak, sehingga mereka perlu untuk membuang panas mereka dengan cepat dan casing luar menghangat sebagai hasilnya. Namun beberapa laptop menjadi terlalu panas, dan mungkin tidak nyaman untuk digunakan. Hal ini biasanya hasil dari sistem pendinginan yang dirancang buruk. Anda terkadang bisa mendapatkan tambahan aksesoris pendingin yang sesuai dengan bagian bawah laptop dan memberikan pendinginan yang lebih efisien.</p>
+<p class="p">Jika Anda memiliki komputer desktop yang terasa panas untuk disentuh, mungkin tidak cukup pendinginan. Jika ini mengkhawatirkan Anda, Anda dapat membeli kipas pendingin tambahan atau memeriksa apakah kipas pendingin dan ventilasi bebas dari debu dan penyumbatan lainnya. Anda mungkin ingin mempertimbangkan menempatkan komputer di daerah berventilasi yang lebih baik juga - jika disimpan di ruang terkurung (misalnya, dalam lemari), sistem pendinginan di komputer mungkin tidak dapat membuang panas dan mengedarkan udara dingin secara cukup cepat.</p>
+<p class="p">Beberapa orang khawatir tentang risiko kesehatan menggunakan laptop panas. Ada saran bahwa berkepanjangan penggunaan laptop panas di pangkuan Anda mungkin mengurangi kesuburan (laki-laki), dan ada laporan luka bakar kecil yang diderita juga (dalam kasus ekstrim). Jika Anda khawatir tentang potensi masalah ini, Anda mungkin ingin berkonsultasi dengan praktisi medis untuk saran. Tentu saja, Anda dapat memilih untuk tidak meletakkan laptop di pangkuan Anda.</p>
+<p class="p">Sebagian besar komputer modern akan mati sendiri jika mereka terlalu panas, untuk mencegah menjadi rusak. Jika komputer Anda terus mati sendiri, ini mungkin alasannya. Jika komputer Anda terlalu panas, Anda mungkin akan perlu untuk memerbaikinya.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

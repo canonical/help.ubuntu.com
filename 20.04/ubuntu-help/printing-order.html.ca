@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Invertir l'ordre:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> per obrir el diàleg d'impressió.</p></li>
+<li class="steps"><p class="p">Premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> per a obrir el diàleg d'impressió.</p></li>
 <li class="steps"><p class="p">A la pestanya <span class="gui">General</span>, a <span class="gui">Copies</span>, marqueu <span class="gui">Revers</span>. L'última pàgina s'imprimirà primer, i així successivament.</p></li>
 </ol></div>
 </div></div>
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Per intercalar:</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> per obrir el diàleg d'impressió.</p></li>
+<li class="steps"><p class="p">Premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span> per a obrir el diàleg d'impressió.</p></li>
 <li class="steps"><p class="p">A la pestanya <span class="gui">General</span>, sota el selector de <span class="gui">Còpies</span>, <span class="gui">Intercala</span>.</p></li>
 </ol></div>
 </div></div>

@@ -70,13 +70,13 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Web browsers</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
-<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.pt" title="Install the Flash plug-in"><span class="title">Install the Flash plug-in</span><span class="linkdiv-dash"> — </span><span class="desc">You may need to install Flash to be able to view some websites, which display videos and interactive web pages.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-install-flash.html.pt" title="Instalar a extensão Flash"><span class="title">Instalar a extensão Flash</span><span class="linkdiv-dash"> — </span><span class="desc">Poderá ter que instalar o Flash para poder visualizar alguns sítios com vídeos e páginas interactivas.</span></a></div></div>
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-default-browser.html.pt" title="Mudar que navegador abre de maneira predeterminada os lugares site"><span class="title">Mudar que navegador abre de maneira predeterminada os lugares site</span><span class="linkdiv-dash"> — </span><span class="desc">Mude o navegador da Internet predeterminado indo a <span class="gui">Detalhes</span> na <span class="gui">Configuração</span>.</span></a></div></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">

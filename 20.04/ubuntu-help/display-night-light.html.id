@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the color temperature of your screen</title>
+<title>Menyesuaikan suhu warna layar Anda</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,30 +73,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Adjust the color temperature of your screen</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Menyesuaikan suhu warna layar Anda</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">A computer monitor emits blue light which contributes to sleeplessness and
-  eye strain after dark. <span class="gui">Night Light</span> changes the color of your
-  displays according to the time of day, making the color warmer in the
-  evening. To enable <span class="gui">Night Light</span>:</p>
+<p class="p">Monitor komputer memancarkan cahaya biru yang memberikan kontribusi untuk sulit tidur dan ketegangan mata setelah gelap. <span class="gui">Cahaya Malam</span> mengubah warna layar Anda sesuai dengan waktu saat ini, membuat warna lebih hangat di malam hari. Untuk mengaktifkan <span class="gui">Cahaya Malam</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tampilan</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Displays</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Night Light</span> to open the settings.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Sunset to Sunrise</span> to make the screen color follow the
-      sunset and sunrise times for your location. Press the <span class="gui">Manual</span>
-      button to set the times to a custom schedule.</p></li>
-<li class="steps"><p class="p">Use the slider to adjust the <span class="gui">Color Temperature</span> to be more
-      warm or less warm.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Layar</span> untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Cahaya Malam</span> untuk membuka pengaturan.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Matahari Terbenam sampai Matahari Terbit</span> untuk membuat warna layar mengikuti waktu matahari terbenam dan matahari terbit untuk lokasi Anda. Tekan tombol <span class="gui">Manual</span> untuk mengatur waktu ke jadwal ubahan.</p></li>
+<li class="steps"><p class="p">Memakai penggeser untuk menyesuaikan <span class="gui">Suhu Warna</span> menjadi lebih hangat atau kurang hangat.</p></li>
 </ol></div></div></div>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">The <span class="link"><a href="shell-introduction.html.id" title="Visual overview of GNOME">top bar</a></span> shows when
-        <span class="gui">Night Light</span> is active. It can be temporarily disabled from
-        the system menu.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="shell-introduction.html.id" title="Tinjauan visual GNOME">bilah puncak</a></span> menunjukkan kapan <span class="gui">Cahaya Malam</span> aktif. Itu dapat sementara dinonaktifkan dari menu sistem.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -104,12 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — 
-      <span class="link"><a href="look-background.html.id" title="Change the desktop and lock screen backgrounds">Background</a></span>,
-      <span class="link"><a href="look-resolution.html.id" title="Change the resolution or orientation of the screen">size and orientation</a></span>,
-      <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">brightness</a></span>,
-      <span class="link"><a href="display-night-light.html.id" title="Adjust the color temperature of your screen">color temperature</a></span>…
-    </span>
+<a href="prefs-display.html.id" title="Tampilan &amp; layar">Tampilan &amp; layar</a><span class="desc"> — <span class="link"><a href="look-background.html.id" title="Mengubah latar belakang desktop dan kunci layar">Latar belakang</a></span>, <span class="link"><a href="look-resolution.html.id" title="Mengubah resolusi atau orientasi layar">ukuran dan orientasi</a></span>, <span class="link"><a href="display-brightness.html.id" title="Atur kecerahan layar">kecerahan</a></span>, <span class="link"><a href="display-night-light.html.id" title="Menyesuaikan suhu warna layar Anda">suhu warna</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

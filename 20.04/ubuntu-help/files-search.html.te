@@ -132,8 +132,7 @@ searched:</p>
       overview and start typing <span class="gui">Search</span>.</p></li>
 <li class="steps"><p class="p">Select <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Search</span></span> from the
       results. This will open the <span class="gui">Search Settings</span> panel.</p></li>
-<li class="steps"><p class="p">Select the <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="Preferences key symbol"></span></span> icon from the bottom of the <span class="gui">Search</span> settings
-      panel.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Search Locations</span> button in the header bar.</p></li>
 </ol></div></div></div>
 <p class="p">This will open a separate settings panel which allows you toggle directory
 searches on or off. You can toggle searches on each of the three tabs:</p>

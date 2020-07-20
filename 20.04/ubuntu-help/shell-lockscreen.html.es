@@ -80,13 +80,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">La pantalla de bloqueo</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">La pantalla de bloqueo significa que puede ver qué está pasando mientras su equipo está bloqueado, y le permite obtener un resumen de qué ha pasado mientras estuvo ausente. El panel de la pantalla de bloqueo muestra una imagen atractiva mientras su equipo está bloqueado y proporciona información útil:</p>
+<p class="p">The lock screen means that you can see what is happening while your
+  computer is locked, and it allows you to get a summary of what has been
+  happening while you have been away. The lock screen provides
+  useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">el nombre del usuario que ha iniciado sesión</p></li>
 <li class="list"><p class="p">fecha y hora, y ciertas notificaciones</p></li>
 <li class="list"><p class="p">batería y estado de la red</p></li>
 </ul></div></div></div>
-<p class="p">Para desbloquear su equipo, eleve el panel de bloqueo arrastrándolo hacia arriba con el cursor, o pulsando <span class="key"><kbd>Esc</kbd></span> o <span class="key"><kbd>Intro</kbd></span>. Esto mostrará la pantalla de inicio de sesión, donde puede introducir su contraseña para desbloquear. También puede empezar a escribir su contraseña y el panel de bloqueo se elevará a medida que escriba. También puede cambiar entre usuarios si su equipo está configurado para más de uno.</p>
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+  This will reveal the login screen, where you can enter your password to
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">Para ocultar las notificaciones de la pantalla de bloqueo consulte la sección <span class="link"><a href="shell-notifications.html.es#lock-screen-notifications" title="Ocultar notificaciones en la pantalla de bloqueo">Ocultar notificaciones en la pantalla de bloqueo</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

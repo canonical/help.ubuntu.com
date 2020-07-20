@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Red</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Red</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Inalámbrica</span> de la lista a la izquierda.</p></li>
-<li class="steps"><p class="p">Pulse el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configuración"></span></span> para abrir los detalles de la conexión.</p></li>
+<li class="steps"><p class="p">Pulse el botón <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configuración"></span></span> para abrir los detalles de la conexión.</p></li>
 <li class="steps"><p class="p">Seleccione <span class="gui">Identidad</span> en el panel de la izquierda.</p></li>
 <li class="steps"><p class="p">En la parte inferior del panel <span class="gui">Identidad</span>, marque la opción <span class="gui">Disponible para todos los usuarios</span> para permitir que otros usuarios usen la red.</p></li>
 <li class="steps"><p class="p">Pulse <span class="gui">Aplicar</span> para guardar los cambios.</p></li>

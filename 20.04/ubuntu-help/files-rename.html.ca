@@ -76,21 +76,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Canviar el nom d'un fitxer o carpeta</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Igual que amb altres gestors de fitxers, podeu utilitzar <span class="app">Fitxers</span> per canviar el nom d'un fitxer o una carpeta.</p>
+<p class="p">Igual que amb altres gestors de fitxers, podeu utilitzar <span class="app">Fitxers</span> per a canviar el nom d'un fitxer o una carpeta.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Per canviar el nom d'un fitxer o carpeta:</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Feu clic amb el botó dret sobre l'element i seleccioneu <span class="gui">Reanomena</span>, o seleccioneu el fitxer i premeu <span class="key"><kbd>F2</kbd></span>.</p></li>
-<li class="steps"><p class="p">Escriviu el nou nom i premeu <span class="key"><kbd>Retorn</kbd></span> o feu clic a <span class="gui">Reanomena</span>.</p></li>
+<li class="steps"><p class="p">Feu clic amb el botó dret sobre l'element i seleccioneu <span class="gui">Canvia el nom</span>, o seleccioneu el fitxer i premeu <span class="key"><kbd>F2</kbd></span>.</p></li>
+<li class="steps"><p class="p">Escriviu el nou nom i premeu <span class="key"><kbd>Retorn</kbd></span> o feu clic a <span class="gui">Canvia el nom</span>.</p></li>
 </ol></div>
 </div></div>
-<p class="p">També pot reanomenar un fitxer des de la finestra <span class="link"><a href="nautilus-file-properties-basic.html.ca" title="Propietats del fitxer">propietats</a></span>.</p>
+<p class="p">També podeu canviar el nom d'un fitxer des de la finestra <span class="link"><a href="nautilus-file-properties-basic.html.ca" title="Propietats del fitxer">propietats</a></span>.</p>
 <p class="p">Quan canvieu el nom d'un fitxer, només se selecciona la primera part del nom del fitxer, no l'extensió (la part després de l'últim <span class="file">.</span>). L'extensió normalment indica quin tipus de fitxer és (per exemple, <span class="file">fitxer.pdf</span> és un document PDF), i normalment no voldreu canviar-la. Si també heu de canviar l'extensió, seleccioneu el nom complet i canvieu-lo.</p>
 <div class="note note-tip" title="Suggeriment">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Si us heu equivocat de fitxer en canviar de nom, o heu assignat un nom incorrecte al vostre fitxer, podeu desfer el canvi de nom. Per desfer l'acció, immediatament feu clic al botó de menú de la barra d'eines i seleccioneu <span class="gui">Desfés el canvi de nom</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, per restaurar el nom anterior.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Si us heu equivocat de fitxer en canviar de nom, o heu assignat un nom incorrecte al vostre fitxer, podeu desfer el canvi de nom. Per desfer l'acció, immediatament feu clic al botó de menú de la barra d'eines i seleccioneu <span class="gui">Desfés el canvi de nom</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, per a restaurar el nom anterior.</p></div></div></div>
 </div>
 </div>
 <section id="valid-chars"><div class="inner">
@@ -113,8 +113,8 @@ document.addEventListener('DOMContentLoaded', function() {
 </dd>
 <dt class="terms">El nom del fitxer és massa llarg</dt>
 <dd class="terms"><p class="p">En alguns sistemes de fitxers, els noms dels fitxers no poden tenir de més de 255 caràcters. Aquest límit de 255 caràcters inclou tant el nom del fitxer com el camí d'accés al fitxer (per exemple, <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), de manera que haureu d'evitar noms de fitxers i carpetes llargs sempre que sigui possible.</p></dd>
-<dt class="terms">L'opció per canviar el nom és grisa</dt>
-<dd class="terms"><p class="p">Si <span class="gui">Canvia el nom</span> està en gris, no teniu permís per canviar el nom del fitxer. Heu de tenir precaució al canviar el nom d'aquests fitxers, ja que reanomenar fitxers protegits pot fer que el vostre sistema quedi inestable. Consultar <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Establir els permisos pel fitxer">Establir els permisos pel fitxer</a></span> per a més informació.</p></dd>
+<dt class="terms">L'opció per a canviar el nom és grisa</dt>
+<dd class="terms"><p class="p">Si <span class="gui">Canvia el nom</span> està en gris, no teniu permís per a canviar el nom del fitxer. Heu de tenir precaució al canviar el nom d'aquests fitxers, ja que reanomenar fitxers protegits pot fer que el vostre sistema quedi inestable. Consultar <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Establir els permisos pel fitxer">Establir els permisos pel fitxer</a></span> per a més informació.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

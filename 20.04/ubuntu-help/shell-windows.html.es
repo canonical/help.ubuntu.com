@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ventanas y áreas de trabajo</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Al igual que otros escritorios, GNOME usa ventanas para mostrar las aplicaciones en ejecución. Usando la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y el <span class="em">tablero</span>, puede lanzar aplicaciones nuevas y controlar las ventanas activas.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
 <p class="p">También puede agrupar sus aplicaciones en áreas de trabajo. Visite los temas de ayuda de ventana y área de trabajo que se muestran a continuación para aprender mejor cómo usar estas características.</p>
 </div>
 <section id="working-with-windows"><div class="inner">

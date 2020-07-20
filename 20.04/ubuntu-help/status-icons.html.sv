@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Vad betyder ikonerna i systemraden?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Detta avsnitt förklarar innebörden av ikonerna som finns i det övre högra hörnet av skärmen. Mer specifikt, de olika varianterna av ikoner som erbjuds av GNOME:s gränssnitt förklaras.</p>
+<p class="p">This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the system are described.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
 <li class="links "><a href="status-icons.html.sv#universalicons" title="Ikoner för hjälpmedelsmenyn">Ikoner för hjälpmedelsmenyn</a></li>
 <li class="links "><a href="status-icons.html.sv#audioicons" title="Volymkontrollikoner">Volymkontrollikoner</a></li>

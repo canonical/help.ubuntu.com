@@ -2,7 +2,7 @@
 <html lang=ca>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Recupera un fitxer de la Paperera</title>
+<title>Recuperar un fitxer de la Paperera</title>
 <link rel="stylesheet" type="text/css" href="ca.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="files.html.ca" title="Fitxers, carpetes i cerca">Fitxers</a> › <a class="trail" href="files.html.ca#more-file-tasks" title="Més tasques relacionades amb fitxers">Més tasques relacionades amb fitxers</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Recupera un fitxer de la Paperera</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Recuperar un fitxer de la Paperera</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Si suprimiu un fitxer amb el gestor de fitxers, el fitxer normalment es col·loca a la <span class="gui">Paperera</span>, i s'hauria de poder restaurar.</p>
@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Per restaurar un fitxer de la paperera:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general <span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="app">Fitxers</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="app">Fitxers</span> per obrir el gestor de fitxers.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="app">Fitxers</span> per a obrir el gestor de fitxers.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Paperera</span> a la barra lateral. Si no veieu la barra lateral feu clic a <span class="gui">Fitxers</span> a la barra superior i trieu <span class="gui">Barra lateral</span>.</p></li>
 <li class="steps"><p class="p">Si el fitxer esborrat hi és, feu clic i seleccioneu <span class="gui">Restaura</span>. Es restaurarà a la carpeta des d'on s'hagi esborrat.</p></li>
 </ol></div>

@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Get the most out of your laptop battery</title>
+<title>Dapatkan yang terbaik dari baterai laptop Anda</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,31 +77,20 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Get the most out of your laptop battery</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Dapatkan yang terbaik dari baterai laptop Anda</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">As laptop batteries age, they get worse at storing charge and their capacity
-gradually decreases. There are a few techniques that you can use to prolong
-their useful lifetime, although you should not expect a big difference.</p>
+<p class="p">Dengan bertambahnya usia baterai laptop, mereka semakin buruk dalam menyimpan daya dan kapasitas mereka secara bertahap berkurang. Ada beberapa teknik yang dapat Anda gunakan untuk memperpanjang masa manfaatnya, meskipun Anda seharusnya tidak mengharapkan perbedaan besar.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Do not let the battery run all the way down. Always recharge
-    <span class="em">before</span> the battery gets very low, although most batteries have
-    built-in safeguards to prevent the battery running too low. Recharging when
-    it is only partially discharged is more efficient, but recharging when it
-    is only slightly discharged is worse for the battery.</p></li>
-<li class="list"><p class="p">Heat has a detrimental effect on the charging efficiency of the battery.
-    Do not let the battery get any warmer than it has to.</p></li>
-<li class="list"><p class="p">Batteries age even if you leave them in storage. There is little
-    advantage in buying a replacement battery at the same time as you get the
-    original battery — always buy replacements when you need them.</p></li>
+<li class="list"><p class="p">Jangan biarkan baterai berjalan sampai habis. Selalu isi ulang <span class="em">sebelum</span> muatan baterai menjadi sangat rendah, meskipun sebagian besar baterai memiliki pengamanan internal untuk mencegah muatan baterai terlalu rendah. Pengisian ulang ketika hanya terisi sebagian lebih efisien, tapi pengisian ulang ketika itu hanya sedikit terpakai lebih buruk untuk baterai.</p></li>
+<li class="list"><p class="p">Panas memiliki efek yang merugikan pada efisiensi pengisian daya baterai. Jangan biarkan baterai lebih hangat daripada yang seharusnya.</p></li>
+<li class="list"><p class="p">Baterai menua bahkan bia Anda membiarkannya dalam penyimpanan. Hanya ada sedikit keuntungan untuk membeli baterai pengganti pada saat yang sama dengan baterai asli - selalu beli pengganti ketika Anda memerlukan mereka.</p></li>
 </ul></div></div></div>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">This advice applies specifically to Lithium-Ion (Li-Ion) batteries, which
-  are the most common type. Other types of battery may benefit from different
-  treatment.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Saran ini berlaku khusus untuk baterai lithium-ion (Li-ion), yang merupakan jenis yang paling umum. Jenis lain dari baterai dapat mengambil manfaat dari penanganan yang berbeda.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -109,11 +98,7 @@ their useful lifetime, although you should not expect a big difference.</p>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — 
-      <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Battery status</a></span>,
-      <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspend</a></span>,
-      <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">screen dimming</a></span>…
-    </span>
+<a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — <span class="link"><a href="power-status.html.id" title="Periksa status baterai">Status baterai</a></span>, <span class="link"><a href="power-suspend.html.id" title="Apa yang terjadi ketika saya mensuspensi komputer?">suspensi</a></span>, <span class="link"><a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">peredupan layar</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

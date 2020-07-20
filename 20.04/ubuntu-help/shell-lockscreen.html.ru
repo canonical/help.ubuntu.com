@@ -80,13 +80,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">The lock screen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Экран блокировки предназначен для того, чтобы пользователь мог видеть, что происходит на компьютере, пока он заблокирован, и предоставляет сводку событий, произошедших в ваше отсутствие. Во время блокировки экран показывает красивую картинку и предоставляет различную полезную информацию:</p>
+<p class="p">The lock screen means that you can see what is happening while your
+  computer is locked, and it allows you to get a summary of what has been
+  happening while you have been away. The lock screen provides
+  useful information:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">имя вошедшего в систему пользователя;</p></li>
 <li class="list"><p class="p">дату и время, а также некоторые уведомления;</p></li>
 <li class="list"><p class="p">состояние аккумулятора и сетевого соединения;</p></li>
 </ul></div></div></div>
-<p class="p">Чтобы разблокировать компьютер, поднимите блокировочный занавес, перетащив его вверх, или нажмите клавишу <span class="key"><kbd>Esc</kbd></span> или клавишу <span class="key"><kbd>Enter</kbd></span>. После этого появится экран входа в систему, на котором вы сможете ввести свой пароль, чтобы снять блокировку, или переключить пользователя, если на компьютере настроено несколько учётных записей.</p>
+<p class="p">To unlock your computer, click once with your mouse or touchpad, or press
+  <span class="key"><kbd>Esc</kbd></span> or <span class="key"><kbd>Enter</kbd></span>.
+  This will reveal the login screen, where you can enter your password to
+  unlock. Alternatively, just start typing your password and the login screen
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 <p class="p">To hide notifications from the lock screen, see
   <span class="link"><a href="shell-notifications.html.ru#lock-screen-notifications" title="Hiding lock screen notifications">Hiding lock screen notifications</a></span>.</p>
 </div>

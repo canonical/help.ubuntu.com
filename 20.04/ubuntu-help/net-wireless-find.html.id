@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>I can’t see my wireless network in the list</title>
+<title>Saya tak bisa melihat jaringan nirkabelku dalam daftar</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -71,30 +71,21 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-wireless.html.id" title="Wireless networking">Wireless networking</a> » </div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">I can’t see my wireless network in the list</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Saya tak bisa melihat jaringan nirkabelku dalam daftar</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">There are a number of reasons why you might not be able to see your
-  wireless network on the list of available networks from the system menu.</p>
+<p class="p">Ada sejumlah alasan mengapa Anda mungkin tidak dapat melihat jaringan nirkabel Anda pada daftar jaringan yang tersedia dari menu sistem.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">If no networks are shown in the list, your wireless hardware could be
-  turned off, or it <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">may not be
-  working properly</a></span>. Make sure it is turned on.</p></li>
-<li class="list"><p class="p">You could be out of range of the network. Try moving closer to the
-  wireless base station/router and see if the network appears in the list after
-  a while.</p></li>
-<li class="list"><p class="p">The list of wireless networks takes time to update. If you have just
-  turned on your computer or moved to a different location, wait for a minute
-  or so and then check if the network has appeared in the list.</p></li>
-<li class="list"><p class="p">The network could be hidden. You need to
-  <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">connect in a different way</a></span> if it is a
-  hidden network.</p></li>
+<li class="list"><p class="p">Jika tidak ada jaringan yang ditampilkan dalam daftar, perangkat keras nirkabel Anda dapat dimatikan, atau <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">mungkin tidak berfungsi dengan benar</a></span>. Pastikan sudah dinyalakan.</p></li>
+<li class="list"><p class="p">Anda bisa berada di luar jangkauan jaringan. Cobalah bergerak lebih dekat ke base station nirkabel/router dan melihat apakah jaringan muncul dalam daftar setelah beberapa saat.</p></li>
+<li class="list"><p class="p">Daftar jaringan nirkabel membutuhkan waktu untuk memperbarui. Jika Anda baru saja menyalakan komputer Anda atau pindah ke lokasi yang berbeda, tunggu sebentar atau lebih dan kemudian memeriksa apakah jaringan telah muncul dalam daftar.</p></li>
+<li class="list"><p class="p">Jaringan mungin tersembunyi. Anda harus <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">terhubung dengan cara yang berbeda</a></span> jika itu adalah jaringan tersembunyi.</p></li>
 </ul></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -104,25 +95,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Troubleshooting wireless connections</a></span>,
-      <span class="link"><a href="net-wireless-find.html.id" title="I can’t see my wireless network in the list">finding your Wi-Fi network</a></span>…
-    </span>
+<a href="net-wireless.html.id" title="Jaringan nirkabel">Jaringan nirkabel</a><span class="desc"> — <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Menyambung ke Wi-Fi</a></span>, <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Jaringan tersembunyi</a></span>, <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Wi-Fi Memutus</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.id" title="Wireless networking">Wireless networking</a><span class="desc"> — 
-      <span class="link"><a href="net-wireless-connect.html.id" title="Menyambung ke jaringan nirkabel">Connect to Wi-Fi</a></span>,
-      <span class="link"><a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">hidden networks</a></span>,
-      <span class="link"><a href="net-wireless-disconnecting.html.id" title="Mengapa jaringan nirkabel saya terputus terus?">Wi-Fi disconnecting</a></span>…
-    </span>
+<a href="net-problem.html.id" title="Masalah jaringan">Masalah jaringan</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.id" title="Pelacak masalah jaringan nirkabel">Melacak masalah koneksi nirkabel</a></span>, <span class="link"><a href="net-wireless-find.html.id" title="Saya tak bisa melihat jaringan nirkabelku dalam daftar">menemukan jaringan Wi-Fi Anda</a></span>…</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Menyambung ke suatu jaringan nirkabel tersembunyi</a><span class="desc"> — Connect to a wireless network that is not displayed in the network
-    list.</span>
+<a href="net-wireless-hidden.html.id" title="Menyambung ke suatu jaringan nirkabel tersembunyi">Menyambung ke suatu jaringan nirkabel tersembunyi</a><span class="desc"> — Menyambung ke jaringan nirkabel yang tidak ditampilkan dalam daftar jaringan.</span>
 </li></ul></div>
 </div></div>
 </div>

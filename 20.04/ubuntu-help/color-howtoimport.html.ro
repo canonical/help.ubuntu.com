@@ -87,7 +87,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
 <li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
-<li class="steps"><p class="p">Apăsați pe <span class="gui">Dispozitive</span> în bara laterală.</p></li>
 <li class="steps"><p class="p">Apăsați pe <span class="gui">Culoare</span> în bara laterală pentru a deschide panoul.</p></li>
 <li class="steps"><p class="p">Select your device.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Add profile</span> to select an existing profile or import

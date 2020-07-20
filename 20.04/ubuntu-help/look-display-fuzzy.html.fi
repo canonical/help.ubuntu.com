@@ -81,7 +81,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Asetukset</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Asetukset</span>.</p></li>
-<li class="steps"><p class="p">Napsauta <span class="gui">Laitteet</span> sivupalkista.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Displays</span> in the sidebar to open the panel.</p></li>
 <li class="steps"><p class="p">Try some of the <span class="gui">Resolution</span> options and select the one that
       makes the screen look better.</p></li>
@@ -93,11 +92,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">If you have two displays connected to the computer (for example, a normal
   monitor and a projector), the displays might have different optimal, or
   <span class="link"><a href="look-resolution.html.fi#native" title="Natiivitarkkuus">native</a></span>, resolutions.</p>
-<p class="p">Using <span class="link"><a href="display-dual-monitors.html.fi#modes" title="Display modes">Mirror</a></span> mode, you can
+<p class="p">Using <span class="link"><a href="display-dual-monitors.html.fi#modes" title="Näyttötilat">Mirror</a></span> mode, you can
   display the same thing on two screens. Both screens use the same resolution,
   which may not match the native resolution of either screen, so the sharpness
   of the image may suffer on both screens.</p>
-<p class="p">Using <span class="link"><a href="display-dual-monitors.html.fi#modes" title="Display modes">Join Displays</a></span> mode,
+<p class="p">Using <span class="link"><a href="display-dual-monitors.html.fi#modes" title="Näyttötilat">Join Displays</a></span> mode,
   the resolution of each screen can be set independently, so they can both be
   set to their native resolution.</p>
 </div></div>
@@ -113,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="look-resolution.html.fi" title="Change the resolution or orientation of the screen">Change the resolution or orientation of the screen</a><span class="desc"> — Vaihda näytön tarkuutta ja suuntaa (kiertoa).</span>
+<a href="look-resolution.html.fi" title="Vaihda näytön tarkkuutta tai suuntausta">Vaihda näytön tarkkuutta tai suuntausta</a><span class="desc"> — Vaihda näytön tarkuutta ja suuntaa (kiertoa).</span>
 </li></ul></div>
 </div></div>
 </div>

@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.ca" title="Termes de xarxa i consells">Termes de xarxa i consells</a><span class="desc"> — <span class="link"><a href="net-findip.html.ca" title="Trobar la vostra adreça IP">Trobeu la vostra adreça IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ca" title="Què vol dir WEP i WPA?">Seguretat WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.ca" title="Què és una adreça MAC?">Adreces MAC</a></span>, <span class="link"><a href="net-proxy.html.ca" title="Defineix la configuració del proxy">servidors intermediaris</a></span>…</span>
+<a href="net-general.html.ca" title="Termes de xarxa i consells">Termes de xarxa i consells</a><span class="desc"> — <span class="link"><a href="net-findip.html.ca" title="Trobar la vostra adreça IP">Trobeu la vostra adreça IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ca" title="Què vol dir WEP i WPA?">Seguretat WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.ca" title="Què és una adreça MAC?">Adreces MAC</a></span>, <span class="link"><a href="net-proxy.html.ca" title="Defineix la configuració del servidor intermediari">servidors intermediaris</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

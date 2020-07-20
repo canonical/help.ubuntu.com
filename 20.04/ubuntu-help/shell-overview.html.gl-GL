@@ -92,10 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.gl-GL" title="Ancorar as súas aplicacións favoritas ao dash"><span class="title">Ancorar as súas aplicacións favoritas ao dash</span><span class="linkdiv-dash"> — </span><span class="desc">Engadir (ou eliminar) iconas de programas de uso frecuente no taboleiro.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.gl-GL" title="Apuntamentos no reloxo"><span class="title">Apuntamentos no reloxo</span><span class="linkdiv-dash"> — </span><span class="desc">Mostra os seus apuntamentos no calendario na parte superior da pantalla.</span></a></div>
 </div>
-<div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.gl-GL" title="Iniciar aplicacións automaticamente ao iniciar sesión"><span class="title">Iniciar aplicacións automaticamente ao iniciar sesión</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Axustes</span> para iniciar aplicacións automaticamente ao iniciar sesión.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.gl-GL" title="Notificacións e lista de notificacións"><span class="title">Notificacións e lista de notificacións</span><span class="linkdiv-dash"> — </span><span class="desc">As mensaxes emerxentes na parte inferior da pantalla avísanlle cando se producen certos eventos.</span></a></div>
-</div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.gl-GL" title="Notificacións e lista de notificacións"><span class="title">Notificacións e lista de notificacións</span><span class="linkdiv-dash"> — </span><span class="desc">As mensaxes emerxentes na parte inferior da pantalla avísanlle cando se producen certos eventos.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Aplicacións e xanelas</span></h2></div>

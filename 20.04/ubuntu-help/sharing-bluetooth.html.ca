@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Permetre que els fitxers es comparteixin a la carpeta <span class="file">Baixades</span></span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Bluetooth</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Bluetooth</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Assegureu-vos que <span class="link"><a href="bluetooth-turn-on-off.html.ca" title="Activar o desactivar el Bluetooth"><span class="gui">Bluetooth</span> està actiu</a></span>.</p></li>
 <li class="steps"><p class="p">Els dispositius amb Bluetooth-activat poden enviar fitxers a la vostra carpeta de <span class="file">Baixades</span> només quan el quadre de <span class="gui">Bluetooth</span> estigui obert.</p></li>
 </ol></div>

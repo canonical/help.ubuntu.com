@@ -80,13 +80,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akun Daring</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Select an account from the list on the right.</p></li>
+<li class="steps"><p class="p">Pilih akun yang ingin Anda ubah dari daftar di kanan.</p></li>
 <li class="steps"><p class="p">Pilih tipe akun yang ingin Anda tambah.</p></li>
 <li class="steps"><p class="p">Suatu dialog atau jendela situs web kecil akan terbuka dimana Anda dapat memasukkan kredensial akun daring Anda. Sebagai contoh, bila Anda menyiapkan akun Google, masukkan nama pengguna dan sandi Google Anda. Beberapa penyedia mengizinkan Anda membuat sebuah akun baru dari dialog log masuk.</p></li>
 <li class="steps"><p class="p">Bila Anda telah memasukkan kredensial dengan benar, Anda akan ditanya untuk mengijinkan GNOME mengakses akun daring Anda. Berikan otorisasi akses untuk melanjutkan.</p></li>
-<li class="steps"><p class="p">All services that are offered by an account provider will be enabled
-      by default. <span class="link"><a href="accounts-disable-service.html.id" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">Switch</a></span>
-      individual services to off to disable them.</p></li>
+<li class="steps"><p class="p">Semua layanan yang ditawarkan oleh penyedia akun akan difungsikan secara baku. <span class="link"><a href="accounts-disable-service.html.id" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">Matikan</a></span> layanan individu untuk menonaktifkan mereka.</p></li>
 </ol></div></div></div>
 <p class="p">Setelah Anda menambahkan akun, aplikasi dapat menggunakan akun-akun tersebut untuk layanan yang telah Anda pilih untuk diizinkan. Lihat <span class="link"><a href="accounts-disable-service.html.id" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana</a></span> untuk informasi tentang mengendalikan layanan mana yang diizinkan.</p>
 <div class="note note-tip" title="Tip">

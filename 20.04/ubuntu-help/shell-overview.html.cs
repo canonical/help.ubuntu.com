@@ -90,12 +90,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.cs" title="Kalendářové události"><span class="title">Kalendářové události</span><span class="linkdiv-dash"> — </span><span class="desc">Jak si zobrazit své události v kalendářové oblasti v horní části obrazovky.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.cs" title="Mějte aplikace automaticky spouštěné pro přihlášení"><span class="title">Mějte aplikace automaticky spouštěné pro přihlášení</span><span class="linkdiv-dash"> — </span><span class="desc">Jak použít <span class="app">Vyladění</span> ke spouštění aplikací automaticky pro přihlášení.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.cs" title="Připíchnutí často používaných aplikací do oblíbených"><span class="title">Připíchnutí často používaných aplikací do oblíbených</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přidat/odebrat ikony často používaných programů do/z oblíbených.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.cs" title="Upozornění a seznam upozornění"><span class="title">Upozornění a seznam upozornění</span><span class="linkdiv-dash"> — </span><span class="desc">Zprávy, které vyskakují z horní části obrazovky, vás informují, když nastanou určité události.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.cs" title="Upozornění a seznam upozornění"><span class="title">Upozornění a seznam upozornění</span><span class="linkdiv-dash"> — </span><span class="desc">Zprávy, které vyskakují z horní části obrazovky, vás informují, když nastanou určité události.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Aplikace a okna</span></h2></div>

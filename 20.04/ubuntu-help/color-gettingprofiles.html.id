@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="color-whatisprofile.html.id" title="Apa itu profil warna?">Apa itu profil warna?</a><span class="desc"> — Profil warna adalah berkas sederhana yang mengekspresikan respon perangkat atau suatu ruang warna.</span>
 </li>
 <li class="links ">
-<a href="color-testing.html.id" title="Bagaimana saya menguji bila manajemen warna bekerja dengan benar?">Bagaimana saya menguji bila manajemen warna bekerja dengan benar?</a><span class="desc"> — Gunakan profil uji yang disediakan untuk memeriksa bahwa profil Anda sedang diterapkan secara benar ke layar Anda.</span>
+<a href="color-testing.html.id" title="Bagaimana saya menguji bila manajemen warna bekerja dengan benar?">Bagaimana saya menguji bila manajemen warna bekerja dengan benar?</a><span class="desc"> — Memakai profil uji yang disediakan untuk memeriksa bahwa profil Anda sedang diterapkan secara benar ke layar Anda.</span>
 </li>
 <li class="links ">
 <a href="color-missingvcgt.html.id" title="Kurang informasi untuk koreksi warna seluruh-layar?">Kurang informasi untuk koreksi warna seluruh-layar?</a><span class="desc"> — Koreksi warna seluruh layar mengubah semua warna layar pada semua jendela.</span>

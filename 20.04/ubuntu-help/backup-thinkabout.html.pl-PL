@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Ukryte pliki</p>
-<p class="p">Pliki i katalogi z nazwami zaczynającymi się od kropki (.) są domyślnie ukryte. Aby je wyświetlić, kliknij przycisk <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down.png" class="media media-inline" alt="Opcje widoku"></span></span></span> na pasku narzędziowym, a następnie zaznacz opcję <span class="gui">Ukryte pliki</span>, albo naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Można skopiować te pliki do kopii zapasowej tak samo, jak inne pliki.</p>
+<p class="p">Pliki i katalogi z nazwami zaczynającymi się od kropki (.) są domyślnie ukryte. Aby je wyświetlić, kliknij przycisk <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" class="media media-inline" alt="Opcje widoku"></span></span></span> na pasku narzędziowym, a następnie zaznacz opcję <span class="gui">Ukryte pliki</span>, albo naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Można skopiować te pliki do kopii zapasowej tak samo, jak inne pliki.</p>
 </li>
 <li class="list">
 <p class="p">Ustawienia użytkownika (preferencje pulpitu, motywy i ustawienia programów)</p>

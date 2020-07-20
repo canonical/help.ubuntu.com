@@ -2,7 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Community support</title>
+<title>תמיכה קהילתית</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,10 +70,10 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Community support</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">תמיכה קהילתית</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">You can find support from a variety of sources which are mentioned and
@@ -90,11 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">מידע נוסף</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a><span class="desc"> — 
-        <span class="link"><a href="about-this-guide.html.he" title="מידע על מדריך זה">Tips on using this guide</a></span>,
-        <span class="link"><a href="community-support.html.he" title="Community support">get help from community</a></span>,
-        <span class="link"><a href="get-involved.html.he" title="ניתן להשתתף כדי לשפר את המדריך הזה">help improve this guide</a></span>…
-    </span>
+<a href="more-help.html.he" title="קבלת עזרה נוספת">קבלת עזרה נוספת</a><span class="desc"> — <span class="link"><a href="about-this-guide.html.he" title="מידע על מדריך זה">עצות על השימוש במדריך זה</a></span>, <span class="link"><a href="community-support.html.he" title="תמיכה קהילתית">קבלת עזרה מהקהילה</a></span>, <span class="link"><a href="get-involved.html.he" title="ניתן לקחת חלק בשיפור המדריך הזה">סיוע בשיפור מדריך זה</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

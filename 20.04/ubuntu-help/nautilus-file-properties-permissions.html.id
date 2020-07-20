@@ -76,62 +76,33 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Menata izin berkas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can use file permissions to control who can view and edit files that
-  you own. To view and set the permissions for a file, right click it and
-  select <span class="gui">Properties</span>, then select the <span class="gui">Permissions</span> tab.</p>
-<p class="p">See <span class="link"><a href="#files" title="Berkas">Berkas</a></span> and <span class="link"><a href="#folders" title="Folder">Folder</a></span> below for details
-  on the types of permissions you can set.</p>
+<p class="p">Anda dapat menggunakan izin berkas untuk mengontrol siapa yang dapat melihat dan menyunting berkas yang Anda miliki. Untuk melihat dan mengatur izin untuk berkas, klik kanan dan pilih <span class="gui">Properti</span>, lalu pilih tab <span class="gui">Izin</span>.</p>
+<p class="p">Lihat <span class="link"><a href="#files" title="Berkas">Berkas</a></span> dan <span class="link"><a href="#folders" title="Folder">Folder</a></span> di bawah untuk rincian tentang jenis izin yang dapat Anda tetapkan.</p>
 </div>
 <section id="files"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Berkas</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">You can set the permissions for the file owner, the group owner,
-    and all other users of the system. For your files, you are the owner,
-    and you can give yourself read-only or read-and-write permission.
-    Set a file to read-only if you don’t want to accidentally change it.</p>
-<p class="p">Every user on your computer belongs to a group. On home computers,
-    it is common for each user to have their own group, and group permissions
-    are not often used. In corporate environments, groups are sometimes used
-    for departments or projects. As well as having an owner, each file belongs
-    to a group. You can set the file’s group and control the permissions for
-    all users in that group. You can only set the file’s group to a group you
-    belong to.</p>
-<p class="p">You can also set the permissions for users other than the owner and
-    those in the file’s group.</p>
-<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
-    executing file as program</span> to run it. Even with this option selected,
-    the file manager may still open the file in an application or ask you
-    what to do. See <span class="link"><a href="nautilus-behavior.html.id#executable" title="Executable text files">Executable text files</a></span> for more
-    information.</p>
+<p class="p">Anda dapat mengatur izin untuk pemilik berkas, pemilik grup, dan semua pengguna lain dari sistem. Untuk berkas Anda, Anda adalah pemiliknya, dan Anda dapat memberikan diri Anda baca-saja atau izin baca-dan-tulis. Atur berkas ke hanya-baca jika Anda tidak ingin mengubahnya secara tidak sengaja.</p>
+<p class="p">Setiap pengguna di komputer masuk ke dalam suatu grup. Pada komputer rumah, umum untuk setiap pengguna memiliki grup mereka sendiri, dan izin grup tidak sering digunakan. Dalam lingkungan perusahaan, grup terkadang digunakan untuk departemen atau proyek. Selain punya pemilik, setiap berkas menjadi milik suatu grup. Anda dapat mengatur grup berkas dan mengontrol izin untuk semua pengguna dalam grup tersebut. Anda hanya dapat mengatur grup berkas ke grup yang Anda ikuti.</p>
+<p class="p">Anda juga dapat mengatur izin untuk pengguna selain pemilik dan yang di grup berkas.</p>
+<p class="p">Jika berkas adalah program, seperti skrip, Anda harus memilih <span class="gui">Mengizinkan mengeksekusi berkas sebagai program</span> untuk menjalankannya. Bahkan dengan opsi ini dipilih, manajer berkas masih dapat membuka berkas dalam aplikasi atau meminta Anda apa yang harus dilakukan. Lihat <span class="link"><a href="nautilus-behavior.html.id#executable" title="Berkas teks executable">Berkas teks executable</a></span> untuk informasi lebih lanjut.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Folder</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">You can set permissions on folders for the owner, group, and other users.
-    See the details of file permissions above for an explanation of owners,
-    groups, and other users.</p>
-<p class="p">The permissions you can set for a folder are different from those you
-    can set for a file.</p>
+<p class="p">Anda dapat mengatur izin pada folder untuk pemilik, grup, dan pengguna lain. Lihat rincian izin berkas di atas untuk penjelasan tentang pemilik, grup, dan pengguna lain.</p>
+<p class="p">Izin yang dapat Anda atur untuk sebuah folder berbeda dari yang dapat Anda atur untuk sebuah berkas.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">None</span></dt>
-<dd class="terms"><p class="p">The user will not even be able to see what files are in
-        the folder.</p></dd>
+<dt class="terms"><span class="gui">Nihil</span></dt>
+<dd class="terms"><p class="p">Pengguna bahkan tidak akan dapat melihat berkas apa yang ada di folder.</p></dd>
 <dt class="terms"><span class="gui">Hanya melihat daftar berkas</span></dt>
-<dd class="terms"><p class="p">The user will be able to see what files are in the folder,
-        but will not be able to open, create, or delete files.</p></dd>
+<dd class="terms"><p class="p">Pengguna akan dapat melihat berkas apa yang ada di folder, tetapi tidak akan dapat membuka, membuat, atau menghapus berkas.</p></dd>
 <dt class="terms"><span class="gui">Mengakses berkas</span></dt>
-<dd class="terms"><p class="p">The user will be able to open files in the folder (provided
-        they have permission to do so on the particular file), but will
-        not be able to create new files or delete files.</p></dd>
+<dd class="terms"><p class="p">Pengguna akan dapat membuka berkas dalam folder (asalkan mereka memiliki izin untuk melakukannya pada berkas tertentu), tetapi tidak akan dapat membuat berkas baru atau menghapus berkas.</p></dd>
 <dt class="terms"><span class="gui">Membuat dan menghapus berkas</span></dt>
-<dd class="terms"><p class="p">The user will have full access to the folder, including
-        opening, creating, and deleting files.</p></dd>
+<dd class="terms"><p class="p">Pengguna akan memiliki akses penuh ke folder, termasuk membuka, membuat, dan menghapus berkas.</p></dd>
 </dl></div></div></div>
-<p class="p">You can also quickly set the file permissions for all the files
-    in the folder by clicking <span class="gui">Change Permissions for Enclosed Files</span>.
-    Use the drop-down lists to adjust the permissions of contained files or
-    folders, and click <span class="gui">Change</span>. Permissions are applied to files and
-    folders in subfolders as well, to any depth.</p>
+<p class="p">Anda juga dapat dengan cepat mengatur izin berkas untuk semua berkas dalam folder dengan mengklik <span class="gui">Ubah Izin untuk Berkas Terlampir</span>. Gunakan daftar drop-down untuk menyesuaikan izin berisi berkas atau folder, lalu klik <span class="gui">Ubah</span>. Izin diterapkan ke berkas dan folder dalam subfolder juga, untuk setiap kedalaman.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -143,8 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="nautilus-file-properties-basic.html.id" title="Properti berkas">Properti berkas</a><span class="desc"> — View basic file information, set permissions, and choose
-    default applications.</span>
+<a href="nautilus-file-properties-basic.html.id" title="Properti berkas">Properti berkas</a><span class="desc"> — Melihat informasi berkas dasar, mengatur izin, dan memilih aplikasi default.</span>
 </li></ul></div>
 </div></div>
 </div>

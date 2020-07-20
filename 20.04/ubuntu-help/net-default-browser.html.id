@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change which web browser opens websites by default</title>
+<title>Mengubah peramban web mana yang membuka situs-situs web secara baku</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,35 +70,27 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-browser.html.id" title="Web browsers">Web browsers</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-browser.html.id" title="Peramban Web">Peramban Web</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Change which web browser opens websites by default</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mengubah peramban web mana yang membuka situs-situs web secara baku</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">When you click a link to a web page in any application, a web browser will
-  automatically open up to that page. However, if you have more than one
-  browser installed, the page may not open up in the browser you wanted it to
-  open in. To fix this, change the default web browser:</p>
+<p class="p">Saat Anda mengeklik tautan ke laman web dalam aplikasi apa pun, peramban web akan otomatis membuka laman tersebut. Namun, jika Anda memiliki lebih dari satu peramban terinstal, halaman mungkin tidak membuka di peramban yang Anda inginkan pakai. Untuk memperbaikinya, ubah peramban web baku:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Rincian</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Rincian</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Choose <span class="gui">Default Applications</span> from the list on the left side
-      of the window.</p></li>
-<li class="steps"><p class="p">Choose which web browser you would like to open links by
-      changing the <span class="gui">Web</span> option.</p></li>
+<li class="steps"><p class="p">Pilih <span class="gui">Aplikasi Baku</span> dari daftar di sisi kiri jendela.</p></li>
+<li class="steps"><p class="p">Pilih peramban web mana yang ingin Anda pakai membuka tautan dengan mengubah opsi <span class="gui">Web</span> .</p></li>
 </ol></div></div></div>
-<p class="p">When you open up a different web browser, it might tell you that it’s not
-  the default browser any more. If this happens, click the <span class="gui">Cancel</span>
-  button (or similar) so that it does not try to set itself as the default
-  browser again.</p>
+<p class="p">Ketika Anda membuka peramban web yang berbeda, itu mungkin memberitahu Anda bahwa itu bukan peramban baku lagi. Jika ini terjadi, klik tombol <span class="gui">Batalkan</span> (atau serupa) sehingga itu tidak mencoba untuk mengatur dirinya sebagai peramban baku lagi.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-browser.html.id" title="Web browsers">Web browsers</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.id" title="Change which web browser opens websites by default">Ubah peramban baku</a></span>, <span class="link"><a href="net-install-flash.html.id" title="Pasang plug-in Flash">pasang Flash</a></span>…</span>
+<a href="net-browser.html.id" title="Peramban Web">Peramban Web</a><span class="desc"> — <span class="link"><a href="net-default-browser.html.id" title="Mengubah peramban web mana yang membuka situs-situs web secara baku">Ubah peramban baku</a></span>, <span class="link"><a href="net-install-flash.html.id" title="Pasang plug-in Flash">pasang Flash</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

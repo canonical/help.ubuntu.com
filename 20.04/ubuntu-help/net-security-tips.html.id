@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-general.html.id" title="Tips &amp; istilah jaringan">Tips &amp; istilah jaringan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Tetap aman di internet</span></h1></div>
@@ -83,35 +83,19 @@ document.addEventListener('DOMContentLoaded', function() {
   base. Linux is also very secure due to its open source nature, which allows
   experts to modify and enhance the security features included with each
   distribution.</p>
-<p class="p">Despite the measures taken to ensure that your installation of Linux is
-  secure, there are always vulnerabilities. As an average user on the internet
-  you can still be susceptible to:</p>
+<p class="p">Meskipun tindakan yang diambil untuk memastikan bahwa instalasi Linux Anda aman, selalu ada kerentanan. Sebagai pengguna rata-rata di internet Anda masih dapat rentan terhadap:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Phishing Scams (websites and emails that try to obtain sensitive
-      information through deception)</p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.id" title="Do I need to scan my emails for viruses?">Meneruskan surel jahat</a></span></p></li>
+<li class="list"><p class="p">Penipuan phishing (situs web dan surel yang mencoba mendapatkan informasi sensitif melalui penipuan)</p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-email-virus.html.id" title="Apakah saya perlu memindai surel saya untuk mencari virus?">Meneruskan surel jahat</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="net-antivirus.html.id" title="Apakah saya perlu perangkat lunak anti virus?">Aplikasi dengan niat jahat (virus)</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">Unauthorized remote/local network
-      access</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">Akses jaringan remote/lokal tanpa otorisasi</a></span></p></li>
 </ul></div></div></div>
 <p class="p">Agar tetap aman daring, ingatlah tip-tip berikut:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Be wary of emails, attachments, or links that were sent from people
-      you do not know.</p></li>
-<li class="list"><p class="p">If a website’s offer is too good to be true, or asks for sensitive
-      information that seems unnecessary, then think twice about what
-      information you are submitting and the potential consequences if that
-      information is compromised by identity thieves or other criminals.</p></li>
-<li class="list"><p class="p">Be careful in providing
-      <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">root level permissions</a></span> to any
-      application, especially ones that you have not used before or which are
-      not well-known. Providing anyone or anything with root level permissions
-      puts your computer at high risk to exploitation.</p></li>
-<li class="list"><p class="p">Make sure you are only running necessary remote-access services.
-      Having SSH or VNC running can be useful, but also leaves your computer
-      open to intrusion if not secured properly. Consider using a
-      <span class="link"><a href="net-firewall-on-off.html.id" title="Aktifkan atau blok akses firewall">firewall</a></span> to help protect your
-      computer from intrusion.</p></li>
+<li class="list"><p class="p">Waspadalah terhadap surel, lampiran, atau tautan yang dikirim dari orang yang tidak Anda kenal.</p></li>
+<li class="list"><p class="p">Jika penawaran situs web terlalu bagus untuk menjadi kenyataan, atau meminta informasi sensitif yang tampaknya tidak perlu, maka berpikirlah dua kali tentang informasi apa yang Anda kirimkan dan konsekuensi potensial jika informasi tersebut dikompromikan oleh pencuri identitas atau penjahat lain.</p></li>
+<li class="list"><p class="p">Berhati-hatilah dalam memberi <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">hak level root</a></span> ke sebarang aplikasi, khususnya yang belum pernah Anda pakai atau aplikasi yang tak dikenal baik. Memberi siapapun atau apapun hak level root menempatkan komputer Anda pada risiko tinggi atas eksploitasi.</p></li>
+<li class="list"><p class="p">Pastikan Anda hanya menjalankan layanan akses jarak jauh yang diperlukan. Memiliki SSH atau VNC berjalan dapat berguna, tetapi juga meninggalkan komputer Anda terbuka untuk intrusi jika tidak diamankan dengan benar. Pertimbangkan untuk menggunakan <span class="link"><a href="net-firewall-on-off.html.id" title="Aktifkan atau blok akses firewall">firewall</a></span> untuk membantu melindungi komputer Anda dari intrusi.</p></li>
 </ul></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -119,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — <span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span>
+<a href="net-general.html.id" title="Tips &amp; istilah jaringan">Tips &amp; istilah jaringan</a><span class="desc"> — <span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

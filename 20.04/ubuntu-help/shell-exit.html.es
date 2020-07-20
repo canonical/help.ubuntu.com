@@ -92,9 +92,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Bloquear la pantalla</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Si deja su equipo durante un breve periodo de tiempo, debe bloquear la pantalla para evitar que otras personas tengan acceso a sus archivos o ejecuten aplicaciones. Cuando vuelva, suba el panel <span class="link"><a href="shell-lockscreen.html.es" title="La pantalla de bloqueo">bloquear pantalla</a></span> e introduzca su contraseña para volver a iniciar la sesión. Si no bloquea su pantalla, se bloqueará automáticamente después de cierto tiempo.</p>
-<p class="p">Para bloquear la pantalla, pulse en el menú del sistema en la parte derecha de la barra superior y pulse el botón de bloqueo en la parte inferior del menú.</p>
-<p class="p">Cuando su pantalla está bloqueada otros usuarios pueden iniciar sesión en sus propias cuentas pulsando <span class="gui">Iniciar sesión como otro usuario</span> en la pantalla de contraseña. Puede volver a su escritorio cuando hayan terminado.</p>
+<p class="p">If you’re leaving your computer for a short time, you should lock your
+  screen to prevent other people from accessing your files or running
+  applications. When you return, you will see the
+  <span class="link"><a href="shell-lockscreen.html.es" title="La pantalla de bloqueo">lock screen</a></span>. Enter your
+  password to log back in. If you don’t lock your screen, it will lock
+  automatically after a certain amount of time.</p>
+<p class="p">To lock your screen, click the system menu on the right side of the top
+  bar and select <span class="gui">Lock</span> from the menu.</p>
+<p class="p">When your screen is locked, other users can log in to their own accounts
+  by clicking <span class="gui">Log in as another user</span> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -115,8 +123,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Suspender</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Para ahorrar energía, suspenda su equipo cuando no lo esté usando. Si usa un equipo portátil, GNOME suspende su equipo automáticamente cuando cierra su tapa. Esto guarda su estado en la memoria de su equipo y apaga la mayor parte de las funciones de su equipo. Durante la suspensión se sigue usando una cantidad muy pequeña de energía.</p>
-<p class="p">Para suspender el equipo manualmente, pulse en el menú del sistema en la parte derecha de la barra superior. Desde ahí puede mantener pulsada la tecla <span class="key"><kbd>Alt</kbd></span> y pulsar el botón de apagado o simplemente hacer una pulsación larga en dicho botón.</p>
+<p class="p">To save power, suspend your computer when you are not using it. If you use
+  a laptop, the system, by default, suspends your computer automatically when
+  you close the lid.
+  This saves your state to your computer’s memory and powers off most of the
+  computer’s functions. A very small amount of power is still used during
+  suspend.</p>
+<p class="p">To suspend your computer manually, click the system menu on the right side
+  of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select
+  <span class="gui">Suspend</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -140,7 +155,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Apagar o reiniciar</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Si quiere apagar su equipo por completo o hacer un reinicio total, pulse sobre en el menú del sistema en la parte derecha de la barra superior y pulse el botón de apagar en la parte inferior del menú. Aparecerá un diálogo ofreciéndole <span class="gui">Reiniciar</span> o <span class="gui">Apagar</span>.</p>
+<p class="p">If you want to power off your computer entirely, or do a full restart,
+  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
+  / Log Out</span>, and select <span class="gui">Power Off…</span>. A dialog will open offering
+  you the options to either <span class="gui">Restart</span> or <span class="gui">Power Off</span>.</p>
 <p class="p">Si hay otros usuarios conectados, no podrá apagar o reiniciar el equipo, porque esto cerraría sus sesiones. Si es un usuario administrador, se le pedirá su contraseña para apagar.</p>
 <div class="note note-tip" title="Sugerencia">
 <svg width="24" height="24" version="1.1">

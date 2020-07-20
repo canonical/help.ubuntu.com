@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Wi-Fi</span>.</p></li>
 <li class="steps"><p class="p">Encontre a rede à qual você <span class="em">não</span> deseja que seu computador continue se conectando.</p></li>
-<li class="steps"><p class="p">Clique no botão <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="configurações"></span></span> localizado ao lado da rede.</p></li>
+<li class="steps"><p class="p">Clique no botão <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="configurações"></span></span> localizado ao lado da rede.</p></li>
 <li class="steps"><p class="p">Clique no botão <span class="gui">Esquecer conexão</span>. Seu computador não tentará mais se conectar a essa rede.</p></li>
 </ol></div>
 </div></div>

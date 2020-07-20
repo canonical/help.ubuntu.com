@@ -90,7 +90,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Make sure your calibration device is connected to your computer.</p></li>
 <li class="steps"><p class="p">Otvorite <span class="gui"><a href="shell-introduction.html.hr#activities" title="Aktivnosti pregled">Aktivnosti</a></span> pregled i započnite upisivati <span class="gui">Postavke</span>.</p></li>
 <li class="steps"><p class="p">Kliknite na <span class="gui">Postavke</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Devices</span> in the sidebar.</p></li>
 <li class="steps"><p class="p">Kliknite na <span class="gui">Boja</span> u bočnoj traci za otvaranje panela.</p></li>
 <li class="steps"><p class="p">Select your screen.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Calibrate…</span> to commence the

@@ -89,13 +89,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Mukauta työpöytääsi</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.fi" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Käytä <span class="app">Lisäasetukset</span>-nimistä sovellusta käynnistääksesi sovelluksia automaattisesti sisäänkirjautumisen yhteydessä.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.fi" title="Ilmoitukset ja ilmoitusluettelo"><span class="title">Ilmoitukset ja ilmoitusluettelo</span><span class="linkdiv-dash"> — </span><span class="desc">Näytön ylälaidasta ilmestyvät viestit ilmoittavat erilaisista asioista ja tapahtumista.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.fi" title="Kalenteritapaamiset"><span class="title">Kalenteritapaamiset</span><span class="linkdiv-dash"> — </span><span class="desc">Aseta kalenterimerkintäsi näkyviin näytön yläpalkin kalenteriin.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.fi" title="Kiinnitä suosikkisovelluksesi telakkaan"><span class="title">Kiinnitä suosikkisovelluksesi telakkaan</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää tai poista usein käyttämiesi sovellusten kuvakkeita telakasta.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.fi" title="Kiinnitä suosikkisovelluksesi telakkaan"><span class="title">Kiinnitä suosikkisovelluksesi telakkaan</span><span class="linkdiv-dash"> — </span><span class="desc">Lisää tai poista usein käyttämiesi sovellusten kuvakkeita telakasta.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Sovellukset ja ikkunat</span></h2></div>

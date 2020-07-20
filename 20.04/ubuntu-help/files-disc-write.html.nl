@@ -70,39 +70,20 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Handleiding Ubuntu-desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="files.html.nl" title="Bestanden, mappen; &amp; zoeken">Bestanden</a> › <a class="trail" href="files.html.nl#more-file-tasks" title="Meer bestandsgerelateerde taken">Meer bestandsgerelateerde taken</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Bestanden naar cd of dvd schrijven</span></h1></div>
 <div class="region">
-<div class="contents pagewide">
-<p class="p">Met de toepassing <span class="gui">cd/dvd branden</span> kunt u bestanden op een lege schijf branden. Zodra u een cd in het cd/dvd-station plaatst, verschijnt in het bestandsbeheer de optie om een cd of dvd aan te maken. Het bestandsbeheer maakt het makkelijk om bestanden over te brengen naar andere computers of om <span class="link"><a href="backup-why.html.nl" title="Reservekopieën maken van uw belangrijke bestanden">reservekopieën</a></span> te maken door bestanden op een lege cd/dvd te zetten. Om bestanden naar een lege cd of dvd te schrijven:</p>
-<div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">xPlaats een lege schijf in uw cd/dvd-station.</p></li>
-<li class="steps">
-<p class="p">Kies in het venster <span class="gui">Lege cd/dvd-r-schijf</span>, dat onderaan het scherm verschijnt, <span class="gui">Openen met CD/DVD Creator</span>. Het venster <span class="gui">CD/DVD Creator</span> wordt geopend. </p>
-<p class="p">(U kunt ook klikken op <span class="gui">Lege cd/dvd-schijf</span> onder <span class="gui">Apparaten</span> in de zijbalk van bestandsbeheer.)</p>
-</li>
-<li class="steps"><p class="p">Typ in het veld <span class="gui">Schijfnaam</span> een naam in voor de schijf.</p></li>
-<li class="steps"><p class="p">Sleep of de gewenste bestanden naar het venster.</p></li>
-<li class="steps"><p class="p">Klik op <span class="gui">Naar schijf schrijven</span>.</p></li>
-<li class="steps">
-<p class="p">Kies onder <span class="gui">Selecteer een schijf om naar toe te schrijven</span> de lege schijf.</p>
-<p class="p">(U kunt ook <span class="gui">Schijfkopiebestand</span> kiezen. Dit zal de bestanden plaatsen in een <span class="em">schijfkopie</span> die op uw computer zal worden opgeslagen. Daarna kunt u op een later tijdstip die schijfkopie op een lege schijf branden.</p>
-</li>
-<li class="steps"><p class="p">Klik op <span class="gui">Eigenschappen</span> om de brandsnelheid, de locatie van de tijdelijke bestanden, en andere opties aan te passen. De standaard opties zouden goed genoeg moeten zijn.</p></li>
-<li class="steps">
-<p class="p">Klik op de knop <span class="gui">Branden</span> om het opnemen te starten.</p>
-<p class="p">Als <span class="gui">Verschillende kopieën branden</span> geselecteerd is, wordt er om extra schijven gevraagd.</p>
-</li>
-<li class="steps"><p class="p">Wanneer het branden van schijven is voltooid, zal deze automatisch worden uitgeworpen. Kies <span class="gui">Meer kopieën maken</span> of <span class="gui">Sluiten</span> om af te sluiten.</p></li>
-</ol></div></div></div>
-</div>
+<div class="contents pagewide"><p class="p">You can put files onto a blank disc by using a disc burning application,
+  such as <span class="app">Brasero</span>.</p></div>
 <section id="problem"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Als de schijf niet goed gebrand is</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Soms worden de data niet juist gelezen, en krijgt u niet de bestanden te zien die u op de schijf heeft gezet wanneer u de schijf in een computer plaatst.</p>
-<p class="p">Probeer in dit geval de schijf opnieuw te branden, maar gebruik daarbij een lagere brandsnelheid, bijvoorbeeld 12x in plaats van 48x. Met een lagere snelheid branden is betrouwbaarder. U kunt de snelheid kiezen door te klikken op de knop <span class="gui">Eigenschappen</span> in het venster <span class="gui">cd/dvd branden</span>.</p>
+<p class="p">In this case, try burning the disc again but use a lower burning speed,
+  for example, 12x rather than 48x. Burning at slower speeds is more reliable.
+  </p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

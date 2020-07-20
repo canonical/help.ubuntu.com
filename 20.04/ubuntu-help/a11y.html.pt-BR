@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Acessibilidade</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">O ambiente GNOME inclui tecnologias assistivas para dar suporte a usuários com variadas deficiências ou necessidades especiais, e para interagir com dispositivos assistivos comuns. Um menu de acessibilidade pode ser adicionado à barra superior, dando acesso mais fácil a muitas funcionalidades de acessibilidade.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.pt-BR" title="Localizando o menu de acessibilidade"><span class="title">Localizando o menu de acessibilidade</span><span class="linkdiv-dash"> — </span><span class="desc">O menu de acessibilidade é o ícone na barra superior que se parece com uma pessoa.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">

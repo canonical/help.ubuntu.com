@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
       the left pane.</p>
 <p class="p">O enderezo IP para as conexións con fíos mostrarase á dereita.</p>
 <p class="p">Click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span>
       button to see the IP address for the wireless network in the
       <span class="gui">Details</span> panel.</p>
 </li>

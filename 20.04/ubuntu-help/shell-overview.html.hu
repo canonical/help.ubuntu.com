@@ -89,14 +89,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Az asztali környezet személyre szabása</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="shell-apps-auto-start.html.hu" title="Have applications start automatically on log in"><span class="title">Have applications start automatically on log in</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="app">Tweaks</span> to start applications automatically on
-    login.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-apps-favorites.html.hu" title="Kedvenc alkalmazások hozzáadása az indítópanelhez"><span class="title">Kedvenc alkalmazások hozzáadása az indítópanelhez</span><span class="linkdiv-dash"> — </span><span class="desc">Gyakran használt programikonok hozzáadása az indítópanelhez.</span></a></div>
-</div>
-<div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="clock-calendar.html.hu" title="Naptári találkozók"><span class="title">Naptári találkozók</span><span class="linkdiv-dash"> — </span><span class="desc">Jelenítse meg találkozóit a képernyő tetején lévő naptár területen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.hu" title="Értesítések és az értesítéslista"><span class="title">Értesítések és az értesítéslista</span><span class="linkdiv-dash"> — </span><span class="desc">A képernyő tetején legördülő üzenetek értesítik bizonyos eseményekről.</span></a></div>
 </div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="shell-notifications.html.hu" title="Értesítések és az értesítéslista"><span class="title">Értesítések és az értesítéslista</span><span class="linkdiv-dash"> — </span><span class="desc">A képernyő tetején legördülő üzenetek értesítik bizonyos eseményekről.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Alkalmazások és ablakok</span></h2></div>

@@ -2,7 +2,7 @@
 <html lang=he>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Install &amp; remove software</title>
+<title>התקנה והסרה של תכנה</title>
 <link rel="stylesheet" type="text/css" href="he.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,45 +70,22 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Install &amp; remove software</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">התקנה והסרה של תכנה</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.he" title="Remove an application"><span class="title">
-    Remove an application
-  </span><span class="linkdiv-dash"> — </span><span class="desc">
-      Remove applications that you no longer use.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.he" title="הסרת יישום"><span class="title">הסרת יישום</span><span class="linkdiv-dash"> — </span><span class="desc">הסרת יישומים שאין לך עוד צורך בהם.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-install.html.he" title="התקנת יישומים נוספים"><span class="title">התקנת יישומים נוספים</span><span class="linkdiv-dash"> — </span><span class="desc">יש להשתמש ב<span class="app">תכנה של אובונטו</span> כדי להתקין יישומים נוספים ולהפוך את מערכת אובונטו לשימושית יותר.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.he" title="Add a Personal Package Archive (PPA)"><span class="title">
-    Add a Personal Package Archive (PPA)
-  </span><span class="linkdiv-dash"> — </span><span class="desc">
-        Add PPAs to extend the software sources Ubuntu uses for
-        installation and upgrades.
-    </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.he" title="Add software repositories"><span class="title">
-    Add software repositories
-  </span><span class="linkdiv-dash"> — </span><span class="desc">
-      Add repositories to extend the software sources Ubuntu uses for 
-      installation and upgrades.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.he" title="ב־Synaptic מוטב להשתמש לניהול מתקדם יותר של תכנה"><span class="title">ב־Synaptic מוטב להשתמש לניהול מתקדם יותר של תכנה</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic היא חלופה רבת עצמה אך מורכבת לניהול תכנה על פני <span class="app">התכנה של אובונטו</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.he" title="הוספת Personal Package Archive - ארכיון חבילות אישי (PPA)"><span class="title">הוספת Personal Package Archive - ארכיון חבילות אישי (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">ניתן להוסיף מאגרי PPA כדי להרחיב את מקורות התכנה בהם משתמשת מערכת אובונטו להתקנה ולעדכונים.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.he" title="Use Synaptic for more advanced software management"><span class="title">
-    Use Synaptic for more advanced software management
-  </span><span class="linkdiv-dash"> — </span><span class="desc">
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.he" title="Create a startup disk"><span class="title">
-    Create a startup disk
-  </span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.he" title="הוספת מאגרי תכנה"><span class="title">הוספת מאגרי תכנה</span><span class="linkdiv-dash"> — </span><span class="desc">הוספת מאגרים מרחיבה את מקורות התכנה בהם נעשה שימוש על ידי אובונטו להתקנה ולשדרוגים.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html.he" title="Install languages"><span class="title">Install languages</span><span class="linkdiv-dash"> — </span><span class="desc">Install more translations and related language support packages.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.he" title="ליצור כונן הפעלה"><span class="title">ליצור כונן הפעלה</span><span class="linkdiv-dash"> — </span><span class="desc">להמיר כונן USB לכרך ממנו ניתן להפעיל ולהתקין את אובונטו.</span></a></div>
 </div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">

@@ -78,15 +78,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Bila Anda ingin mengubah ukuran kertas dari dokumen Anda (sebagai contoh, mencetak PDF berukuran US-Letter pada kertas A4), Anda dapat mengubah format pencetakan bagi dokumen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the print dialog by pressing
-      <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Buka dialog cetak dengan menekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>P</kbd></span></span>.</p></li>
 <li class="steps"><p class="p">Pilih tab <span class="gui">Penyiapan Halaman</span>.</p></li>
-<li class="steps"><p class="p">Under the <span class="gui">Paper</span> column, choose your <span class="gui">Paper size</span>
-      from the drop-down list.</p></li>
+<li class="steps"><p class="p">Di bawah kolom <span class="gui">Kertas</span>, pilih <span class="em">Ukuran kertas</span> Anda dari daftar drop down.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Cetak</span> untuk mencetak dokumen.</p></li>
 </ol></div></div></div>
-<p class="p">You can also use the <span class="gui">Orientation</span> drop-down list to choose a
-  different orientation:</p>
+<p class="p">Anda juga dapat memakai menu <span class="gui">Orientasi</span> untuk memilih orientasi lain:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Potret</span></p></li>
 <li class="list"><p class="p"><span class="gui">Landskap</span></p></li>

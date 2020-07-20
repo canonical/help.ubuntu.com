@@ -80,20 +80,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mengapa usia baterai saya kurang daripada di Windows/Mac OS?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Some computers appear to have a shorter battery life when running on Linux
-than they do when running Windows or Mac OS. One reason for this is that
-computer vendors install special software for Windows/Mac OS that optimizes
-various hardware/software settings for a given model of computer. These tweaks
-are often highly specific, and may not be documented, so including them in
-Linux is difficult.</p>
-<p class="p">Unfortunately, there is not an easy way of applying these tweaks yourself
-without knowing exactly what they are. You may find that using some <span class="link"><a href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">power-saving methods</a></span> helps, though. If your
-computer has a <span class="link"><a href="power-batteryslow.html.id" title="Mengapa laptop saya lambat ketika memakai baterai?">variable-speed processor</a></span>,
-you might find that changing its settings is also useful.</p>
-<p class="p">Another possible reason for the discrepancy is that the method of estimating
-battery life is different on Windows/Mac OS than on Linux. The actual battery
-life could be exactly the same, but the different methods give different
-estimates.</p>
+<p class="p">Beberapa komputer tampaknya memiliki masa pakai baterai yang lebih pendek saat berjalan di Linux daripada saat menjalankan Windows atau Mac OS. Salah satu alasan untuk ini adalah bahwa vendor komputer menginstal perangkat lunak khusus untuk Windows/Mac OS yang mengoptimalkan berbagai pengaturan perangkat keras/lunak untuk model tertentu dari komputer. Tweak ini sering sangat spesifik, dan mungkin tidak didokumentasikan, sehingga menyertakan mereka di Linux sulit.</p>
+<p class="p">Sayangnya, tidak ada cara mudah untuk menerapkan tweak ini sendiri tanpa tahu persis apa itu. Namun Anda mungkin menemukan bahwa menggunakan beberapa <span class="link"><a href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">metode penghematan daya</a></span> membantu. Jika komputer Anda memiliki <span class="link"><a href="power-batteryslow.html.id" title="Mengapa laptop saya lambat ketika memakai baterai?">prosesor kecepatan-variabel</a></span>, Anda mungkin menemukan bahwa mengubah pengaturannya juga berguna.</p>
+<p class="p">Kemungkinan alasan lain untuk perbedaan adalah bahwa metode memperkirakan masa pakai baterai berbeda pada Windows/Mac OS dari Linux. Daya tahan baterai yang sebenarnya bisa sama persis, tetapi metode yang berbeda memberikan perkiraan yang berbeda.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -109,10 +98,10 @@ estimates.</p>
 <a href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">Memakai daya lebih sedikit dan meningkatkan umur baterai</a><span class="desc"> — Tip untuk mengurangi konsumsi daya komputer Anda.</span>
 </li>
 <li class="links ">
-<a href="power-batteryslow.html.id" title="Mengapa laptop saya lambat ketika memakai baterai?">Mengapa laptop saya lambat ketika memakai baterai?</a><span class="desc"> — Some laptops intentionally slow down when they are running on battery.</span>
+<a href="power-batteryslow.html.id" title="Mengapa laptop saya lambat ketika memakai baterai?">Mengapa laptop saya lambat ketika memakai baterai?</a><span class="desc"> — Beberapa laptop sengaja melambat ketika mereka memakai baterai.</span>
 </li>
 <li class="links ">
-<a href="power-batteryestimate.html.id" title="Perkiraan umur baterai salah">Perkiraan umur baterai salah</a><span class="desc"> — The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span>
+<a href="power-batteryestimate.html.id" title="Perkiraan umur baterai salah">Perkiraan umur baterai salah</a><span class="desc"> — Masa pakai baterai yang ditampilkan saat Anda mengeklik <span class="gui">ikon baterai</span> adalah perkiraan.</span>
 </li>
 </ul></div>
 </div></div>

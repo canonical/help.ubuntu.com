@@ -91,7 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="characters"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Rakstzīmes</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">GNOME komplektā ir rakstzīmju kartes lietotne, kas jums ļauj meklēt un ievietot netipiskas rakstzīmes, tai skaitā emocijzīmes, pārlūkojot rakstzīmju kategorijas vai meklējot ar atslēgvārdiem.</p>
+<p class="p">The character map application allows you to find and insert unusual
+    characters, including emoji, by browsing character categories or searching
+    for keywords.</p>
 <p class="p">Jūs varat palaist <span class="app">Rakstzīmes</span> no Aktivitāšu pārskata.</p>
 </div></div>
 </div></section><section id="compose"><div class="inner">

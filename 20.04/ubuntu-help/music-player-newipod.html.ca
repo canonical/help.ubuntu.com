@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Si teniu un iPod nou que mai no s'hagi connectat a un ordinador abans, no es reconeixerà correctament quan el connecteu a un ordinador Linux. Això és degut al fet que als iPods s'han de configurar i actualitzar usant el programari <span class="app">iTunes</span>, que tan sols funciona en els sistemes operatius Windows i Mac.</p>
-<p class="p">Per configurar el vostre iPod, instal·leu iTunes en un ordinador Windows o Mac i connecteu-lo. Se us dirigirà per uns quants passos per configurar-lo. Si es sol·licita el <span class="gui">Format de volum</span>, trieu <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> o similar. L'altre format (HFS / Mac) tampoc funciona amb Linux.</p>
+<p class="p">Per configurar el vostre iPod, instal·leu iTunes en un ordinador Windows o Mac i connecteu-lo. Se us dirigirà per uns quants passos per a configurar-lo. Si es sol·licita el <span class="gui">Format de volum</span>, trieu <span class="gui">MS-DOS (FAT)</span>, <span class="gui">Windows</span> o similar. L'altre format (HFS / Mac) tampoc funciona amb Linux.</p>
 <p class="p">Un cop hàgiu acabat la instal·lació, l'iPod ha de funcionar normalment quan es connecta a un ordinador Linux.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Resum visual del GNOME</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">El GNOME 3 té una interfície d'usuari completament reimaginada, dissenyada per mantenir-se fora de la vostra línia de treball, minimitzar les distraccions, i ajudar-vos a fer les coses. Quan inicieu la sessió per primer cop, veureu un escriptori buit a la barra superior.</p>
+<p class="p">El GNOME 3 té una interfície d'usuari completament reimaginada, dissenyada per a mantenir-se fora de la vostra línia de treball, minimitzar les distraccions, i ajudar-vos a fer les coses. Quan inicieu la sessió per primer cop, veureu un escriptori buit a la barra superior.</p>
 <div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Barra superior del GNOME Shell"></div></div>
 <p class="p">La barra superior proporciona accés a les vostres finestres i aplicacions, el vostre calendari i cites, i <span class="link"><a href="status-icons.html.ca" title="Què signifiquen les icones de la barra superior?">propietats del sistema</a></span> com el so, la xarxa, i l'energia. Al menú d'estat de la barra superior, podeu canviar el volum o la brillantor de la pantalla, editar els detalls de la connexió <span class="gui">Wi-Fi</span>, comproveu l'estat de la vostra bateria, tanqueu la sessió o canvieu d'usuaris i apagueu l'ordinador.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
@@ -91,17 +91,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="activities"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Vista general d'<span class="gui">Activitats</span></span></h2></div>
 <div class="region"><div class="contents pagewide">
-<div class="media media-image floatstart"><div class="inner"><img src="figures/shell-activities-dash.png" height="530" class="media media-block" alt="Activities button and Dash"></div></div>
+<div class="media media-image floatstart"><div class="inner"><img src="figures/shell-activities-dash.png" height="530" class="media media-block" alt="Botó d'activitats i quadre d'aplicacions"></div></div>
 <p class="p">Per accedir a les finestres i aplicacions, feu clic al botó <span class="gui">Activitats</span>, o simplement moveu el punter del ratolí a la cantonada calenta superior esquerra. També podeu prémer la tecla <span class="key"><a href="keyboard-key-super.html.ca" title="Què és la tecla Súper?"><kbd>Súper</kbd></a></span> del vostre teclat. Podeu veure les finestres i les aplicacions a la vista general. També podeu començar a teclejar per a cercar les vostres aplicacions, fitxers, carpetes i la web.</p>
-<p class="p">On the left of the overview, you will find the <span class="em">dash</span>. The dash
-  shows you your favorite and running applications. Click any icon in the
-  dash to open that application; if the application is already running, it will
-  have a small dot below its icon. Clicking its icon will bring up the most
-  recently used window. You can also drag the icon to the overview, or onto any
-  workspace on the right.</p>
-<p class="p">Fent clic amb el botó dret a la icona que mostra un menú us permet triar qualsevol finestra d'una aplicació en execució, o obrir-ne una de nova. També podeu fer clic a la icona mentre manteniu premuda la tecla <span class="key"><kbd>Ctrl</kbd></span> per obrir una nova finestra.</p>
+<p class="p">A l'esquerra de la vista general, trobareu el <span class="em">tauler</span>. El tauler mostra les aplicacions favorites i les que més s'executen. Feu clic a qualsevol icona del tauler per a obrir l'aplicació; si l'aplicació ja s'està executant, es ressaltarà. En fer clic a la icona apareix la finestra més recentment utilitzada. També podeu arrossegar la icona a la vista general o cap a qualsevol espai de treball a la dreta.</p>
+<p class="p">Fent clic amb el botó dret a la icona que mostra un menú us permet triar qualsevol finestra d'una aplicació en execució, o obrir-ne una de nova. També podeu fer clic a la icona mentre manteniu premuda la tecla <span class="key"><kbd>Ctrl</kbd></span> per a obrir una nova finestra.</p>
 <p class="p">Quan entreu a la vista general, inicialment estareu a la vista general de finestres. Això us mostra les miniatures de totes les finestres de l'espai de treball actual.</p>
-<p class="p">Feu clic al botó de graella situat a la part inferior del tauler per mostrar la descripció general de les aplicacions. Això us mostra totes les aplicacions instal·lades a l'ordinador. Feu clic a qualsevol aplicació per executar-la, o arrossegueu una aplicació a la vista general o en una miniatura de l'espai de treball. També podeu arrossegar una aplicació al tauler per fer-la favorita. Les vostres aplicacions favorites romanen al tauler, fins i tot quan no s'estan executant, de manera que podeu accedir-hi ràpidament.</p>
+<p class="p">Feu clic al botó de graella situat a la part inferior del tauler per a mostrar la descripció general de les aplicacions. Això us mostra totes les aplicacions instal·lades a l'ordinador. Feu clic a qualsevol aplicació per executar-la, o arrossegueu una aplicació a la vista general o en una miniatura de l'espai de treball. També podeu arrossegar una aplicació al tauler per a fer-la favorita. Les vostres aplicacions favorites romanen al tauler, fins i tot quan no s'estan executant, de manera que podeu accedir-hi ràpidament.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html.ca" title="Iniciació d'aplicacions">Apreneu sobre com iniciar aplicacions.</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-windows.html.ca" title="Finestres i espais de treball">Apreneu més sobre aplicacions i espais de treball.</a></span></p></li>
@@ -140,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="window-list"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Llista de finestres</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">GNOME té un enfocament diferent per canviar finestres que una llista de finestres permanentment visible com en altres entorns d'escriptori. Això us permet centrar-vos en la tasca que esteu desenvolupant sense distraccions.</p>
+<p class="p">GNOME té un enfocament diferent per a canviar finestres que una llista de finestres permanentment visible com en altres entorns d'escriptori. Això us permet centrar-vos en la tasca que esteu desenvolupant sense distraccions.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html.ca" title="Canviar entre finestres">Obteniu més informació sobre com canviar de finestres.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

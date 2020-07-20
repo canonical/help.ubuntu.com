@@ -76,25 +76,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Apa itu kenampakan Bluetooth?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Bluetooth visibility refers to whether other devices can discover
-  your computer when searching for Bluetooth devices. When Bluetooth is turned
-  on and the <span class="gui">Bluetooth</span> panel is open, your computer will advertise
-  itself to all other devices within range, allowing them to attempt to connect
-  to your computer.</p>
+<p class="p">Kenampakan Bluetooth hanya mengacu pada apakah perangkat lain dapat menemukan komputer Anda ketika sedang mencari perangkat Bluetooth. Ketika Bluetooth dinyalakan dan panel <span class="gui">Bluetooth</span> terbuka, komputer Anda akan mengiklankan dirinya ke semua perangkat lain dalam jangkauan, yang memungkinkan mereka untuk berusaha melakukan koneksi ke Anda.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Anda dapat <span class="link"><a href="sharing-displayname.html.id" title="Set the display name for your computer">mengubah</a></span> nama komputer Anda yang ditampilkan ke perangkat lain.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Anda dapat <span class="link"><a href="sharing-displayname.html.id" title="Mengatur nama tampilan untuk komputer Anda">mengubah</a></span> nama komputer Anda yang ditampilkan ke perangkat lain.</p></div></div></div>
 </div>
 <p class="p">Setelah Anda <span class="link"><a href="bluetooth-connect-device.html.id" title="Hubungkan komputer Anda ke perangkat Bluetooth">tersambung ke suatu perangkat</a></span>, komputer Anda maupun perangkat tak perlu nampak untuk saling berkomunikasi.</p>
-<p class="p">Devices without a display usually have a pairing mode that can be entered
-  by pressing a button, or a combination of buttons for a while, whether when
-  they’ve already been turned on, or as they are being turned on.</p>
-<p class="p">The best way to find out how to enter that mode is to refer to the device’s
-  manual. For some devices, the procedure might be
-  <span class="link"><a href="bluetooth-device-specific-pairing.html.id" title="Pairing instructions for specific devices">slightly different from usual</a></span>.
-  </p>
+<p class="p">Perangkat tanpa layar biasanya memiliki modus berpasangan yang dapat dimasukkan dengan menekan sebuah tombol, atau kombinasi tombol untuk sementara, apakah ketika mereka sudah dihidupkan, atau saat mereka sedang dihidupkan.</p>
+<p class="p">Cara terbaik untuk mengetahui cara memasukkan mode tersebut adalah dengan merujuk ke panduan perangkat. Untuk beberapa perangkat, prosedur mungkin <span class="link"><a href="bluetooth-device-specific-pairing.html.id" title="Petunjuk memperpasangkan untuk perangkat tertentu">sedikit berbeda dari biasanya</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -108,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth-device-specific-pairing.html.id" title="Pairing instructions for specific devices">Pairing instructions for specific devices</a><span class="desc"> — How to pair specific devices with your computer.</span>
+<a href="bluetooth-device-specific-pairing.html.id" title="Petunjuk memperpasangkan untuk perangkat tertentu">Petunjuk memperpasangkan untuk perangkat tertentu</a><span class="desc"> — Bagaimana memasangkan perangkat tertentu dengan komputer Anda.</span>
 </li></ul></div>
 </div></div>
 </div>

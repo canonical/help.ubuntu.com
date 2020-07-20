@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Per què el meu ordinador s'apaga quan tanco la tapa?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Quan tanqueu la tapa del portàtil, l'ordinador ho entrarà en <span class="link"><a href="power-suspend.html.ca" title="Què passa quan es suspèn el meu ordinador?"><span class="em">suspensió</span></a></span> per estalviar energia. Això significa que l'ordinador no està desactivat. Acaba d'adormir-se. Podeu recuperar-lo obrint la tapa. Si no es recupera, feu clic al ratolí o premeu una tecla. Si això encara no és suficient, premeu el botó d'engegada.</p>
+<p class="p">Quan tanqueu la tapa del portàtil, l'ordinador ho entrarà en <span class="link"><a href="power-suspend.html.ca" title="Què passa quan es suspèn el meu ordinador?"><span class="em">suspensió</span></a></span> per a estalviar energia. Això significa que l'ordinador no està desactivat. Acaba d'adormir-se. Podeu recuperar-lo obrint la tapa. Si no es recupera, feu clic al ratolí o premeu una tecla. Si això encara no és suficient, premeu el botó d'engegada.</p>
 <p class="p">Alguns ordinadors no poden entrar en suspensió correctament, normalment perquè el seu maquinari no està totalment suportat pel seu sistema operatiu (per exemple, els controladors de Linux estan incomplets). En aquest cas, us podeu trobar que no podeu recuperar l'ordinador després d'haver tancat la tapa. Podeu intentar <span class="link"><a href="power-suspendfail.html.ca" title="Per què el meu equip no es torna a activar després d'haver-lo suspès?">solucionar el problema amb la suspensió</a></span>, o pot evitar que l'ordinador intenti suspendre's quan tanqui la tapa.</p>
 </div>
 <section id="nosuspend"><div class="inner">
@@ -89,13 +89,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="note note-important" title="Important">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Aquestes instruccions només funcionaran si esteu utilitzant <span class="app">systemd</span>. Contacteu amb la vostra distribució per obtenir més informació.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Aquestes instruccions només funcionaran si esteu utilitzant <span class="app">systemd</span>. Contacteu amb la vostra distribució per a obtenir més informació.</p></div></div></div>
 </div>
 <div class="note note-important" title="Important">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">Heu de tenir instal·lat <span class="app">Ajustaments</span> a l'ordinador per canviar aquesta configuració.</p>
+<p class="p">Heu de tenir instal·lat <span class="app">Ajustaments</span> a l'ordinador per a canviar aquesta configuració.</p>
 <p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Instal·la <span class="app">Ajustaments</span></a></span></p>
 </div></div></div>
 </div>
@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Ajustaments</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Ajustaments</span> per obrir l'aplicació.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Ajustaments</span> per a obrir l'aplicació.</p></li>
 <li class="steps"><p class="p">Seleccioneu la pestanya <span class="gui">General</span>.</p></li>
 <li class="steps"><p class="p">Canvieu <span class="gui">Suspendre quan es tanqui la tapa del portàtil</span> a <span class="gui">OFF</span>.</p></li>
 <li class="steps"><p class="p">Tanqueu la finestra <span class="gui">Ajustaments</span>.</p></li>

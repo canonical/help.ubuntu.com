@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Apa instrumen pengukuran warna yang didukung?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME bergantung kepada sistem manajemen warna Argyll untuk mendukung instrumen warna. Maka instrumen pengukuran tampilan berikut didukung:</p>
+<p class="p">Sistem bergantung kepada sistem manajemen warna Argyll untuk mendukung instrumen warna. Maka instrumen pengukuran tampilan berikut didukung:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Gretag-Macbeth i1 Pro (spektrometer)</p></li>
 <li class="list"><p class="p">Gretag-Macbeth i1 Monitor (spektrometer)</p></li>

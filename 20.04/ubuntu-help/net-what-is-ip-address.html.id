@@ -70,31 +70,20 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-general.html.id" title="Tips &amp; istilah jaringan">Tips &amp; istilah jaringan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Apa itu alamat IP?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">“IP address” stands for <span class="em">Internet Protocol address</span>, and each
-  device that is connected to a network (like the internet) has one.</p>
-<p class="p">An IP address is similar to your phone number. Your phone number is a
-  unique set of numbers that identifies your phone so that other people can
-  call you. Similarly, an IP address is a unique set of numbers that identifies
-  your computer so that it can send and receive data with other computers.</p>
-<p class="p">Currently, most IP addresses consist of four sets of numbers, each
-  separated by a period. <span class="code">192.168.1.42</span> is an example of an IP
-  address.</p>
+<p class="p">"Alamat IP" adalah singkatan dari <span class="em">alamat Internet Protocol</span>, dan setiap perangkat yang tersambung ke suatu jaringan (seperti internet) punya satu.</p>
+<p class="p">Alamat IP mirip dengan nomor telepon Anda. Nomor telepon Anda adalah satu set angka yang unik yang mengidentifikasi telepon Anda sehingga orang lain dapat menghubungi Anda. Demikian pula, alamat IP adalah satu set angka yang unik yang mengidentifikasi komputer Anda sehingga dapat mengirim dan menerima data dengan komputer lain.</p>
+<p class="p">Saat ini, sebagian besar alamat IP terdiri dari empat set angka, masing-masing dipisahkan oleh titik. <span class="code">192.168.1.42</span>adalah contoh dari alamat IP.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">An IP address can either be <span class="em">dynamic</span> or <span class="em">static</span>. Dynamic
-    IP addresses are temporarily assigned each time your computer connects to a
-    network. Static IP addresses are fixed, and do not change. Dynamic IP
-    addresses are more common that static addresses — static addresses are
-    typically only used when there is a special need for them, such as in the
-    administration of a server.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Sebuah alamat IP dapat menjadi <span class="em">dinamis</span> atau <span class="em">statis</span>. Alamat IP dinamis untuk sementara ditugaskan setiap kali komputer Anda terhubung ke jaringan. Alamat IP statis tetap, dan tidak berubah. Alamat IP dinamis lebih umum bahwa alamat statis - alamat statis biasanya hanya digunakan ketika ada kebutuhan khusus untuk mereka, seperti mengelola server.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -103,13 +92,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — <span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span>
+<a href="net-general.html.id" title="Tips &amp; istilah jaringan">Tips &amp; istilah jaringan</a><span class="desc"> — <span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-findip.html.id" title="Temukan alamat IP Anda">Temukan alamat IP Anda</a><span class="desc"> — Knowing your IP address can help you troubleshoot network problems.</span>
+<a href="net-findip.html.id" title="Temukan alamat IP Anda">Temukan alamat IP Anda</a><span class="desc"> — Mengetahui alamat IP Anda dapat membantu Anda memecahkan masalah jaringan.</span>
 </li></ul></div>
 </div></div>
 </div>

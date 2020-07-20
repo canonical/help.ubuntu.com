@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Cari berkas</title>
+<title>Mencari berkas</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,74 +73,53 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#common-file-tasks" title="Tugas umum">Tugas umum</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Cari berkas</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mencari berkas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can search for files based on their name or file type directly
-  within the file manager.</p>
+<p class="p">Anda dapat mencari berkas berdasarkan nama atau tipe berkas secara langsung dalam manajer berkas.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Cari</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="app">Files</span> application from the
-      <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview.</p></li>
+<li class="steps"><p class="p">Buka aplikasi <span class="app">Berkas</span> dari ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span>.</p></li>
 <li class="steps"><p class="p">Bila Anda tahu berkas yang Anda inginkan ada di folder tertentu, pergilah ke folder tersebut.</p></li>
 <li class="steps">
-<p class="p">Type a word or words that you know appear in the file name, and they
-      will be shown in the search bar. For example, if you name all your
-      invoices with the word “Invoice”, type <span class="input">invoice</span>. Words are
-      matched regardless of case.</p>
+<p class="p">Ketik kata atau kata-kata yang Anda tahu muncul di nama berkas, dan mereka akan ditampilkan di bilah pencarian. Misalnya, jika Anda menamai semua tagihan dengan kata "Invoice", ketikkan <span class="input">invoice</span>. Kata dicocokkan terlepas dari besar kecil huruf.</p>
 <div class="note" title="Catatan">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Instead of typing words directly to bring up the search bar, you
-        can click the <span class="media"><span class="media media-image"><img src="figures/edit-find-symbolic.svg" class="media media-inline" alt="Search key symbol"></span></span> in the toolbar, or press
-        <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Daripada mengetik kata secara langsung untuk memunculkan bilah pencarian, Anda dapat mengklik <span class="media"><span class="media media-image"><img src="figures/edit-find-symbolic.svg" class="media media-inline" alt="Search key symbol"></span></span> dalam bilah alat, atau menekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F</kbd></span></span>.</p></div></div></div>
 </div>
 </li>
 <li class="steps">
-<p class="p">You can narrow your results by date, by file type, and by whether to
-      search a file's full text, or to only search for file names.</p>
-<p class="p">To apply filters, select the drop-down menu button to the left of the
-      file manager's <span class="media"><span class="media media-image"><img src="figures/edit-find-symbolic.svg" class="media media-inline" alt="Search key symbol"></span></span>
-      icon, and choose from the available filters:</p>
+<p class="p">Anda dapat mempersempit hasil menurut tanggal, jenis berkas, dan apakah akan mencari teks lengkap berkas, atau hanya mencari nama berkas.</p>
+<p class="p">Untuk menerapkan filter, pilih tombol menu drop-down di sebelah kiri ikon <span class="media"><span class="media media-image"><img src="figures/edit-find-symbolic.svg" class="media media-inline" alt="Search key symbol"></span></span> manajer berkas, lalu pilih dari filter yang tersedia:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">When</span>: How far back do you want to search?</p></li>
-<li class="list"><p class="p"><span class="gui">What</span>: What is the type of item?</p></li>
-<li class="list"><p class="p">Should your search include a full-text search, or search only the
-          file names?</p></li>
+<li class="list"><p class="p"><span class="gui">Kapan</span>: Seberapa jauh kembali Anda ingin mencari?</p></li>
+<li class="list"><p class="p"><span class="gui">Apa</span>: Apa tipe butir?</p></li>
+<li class="list"><p class="p">Haruskah pencarian Anda termasuk pencarian teks lengkap, atau hanya mencari nama berkas?</p></li>
 </ul></div></div></div>
 </li>
-<li class="steps"><p class="p">To remove a filter, select the <span class="gui">X</span> beside the filter tag
-      that you want to remove.</p></li>
+<li class="steps"><p class="p">Untuk menghapus filter, pilih <span class="gui">X</span> di samping tag filter yang ingin dihapus.</p></li>
 <li class="steps"><p class="p">Anda dapat membuka, menyalin, menghapus, atau bekerja dengan berkas-berkas Anda dari hasil pencarian, seperti yang dapat Anda lakukan dari sebarang folder dalam pengelola berkas.</p></li>
-<li class="steps"><p class="p">Click the <span class="media"><span class="media media-image"><img src="figures/edit-find-symbolic.svg" class="media media-inline" alt="Search key symbol"></span></span> in the toolbar again to exit the search and return to the
-      folder.</p></li>
+<li class="steps"><p class="p">Klik <span class="media"><span class="media media-image"><img src="figures/edit-find-symbolic.svg" class="media media-inline" alt="Search key symbol"></span></span> di bilah alat lagi untuk keluar dari pencarian dan kembali ke folder.</p></li>
 </ol></div>
 </div></div>
 </div>
 <section id="customize-files-search"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Customize files search</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Menyesuaikan pencarian berkas</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">You may want certain directories to be included or excluded from searches
-in the <span class="app">Files</span> application. To customize which directories are
-searched:</p>
+<p class="p">Anda mungkin ingin direktori tertentu untuk dimasukkan atau dikecualikan dari pencarian dalam aplikasi <span class="app">Berkas</span>. Untuk menyesuaikan direktori mana yang dicari:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span>
-      overview and start typing <span class="gui">Search</span>.</p></li>
-<li class="steps"><p class="p">Select <span class="guiseq"><span class="gui">Settings</span> ▸ <span class="gui">Search</span></span> from the
-      results. This will open the <span class="gui">Search Settings</span> panel.</p></li>
-<li class="steps"><p class="p">Select the <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="Preferences key symbol"></span></span> icon from the bottom of the <span class="gui">Search</span> settings
-      panel.</p></li>
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Cari</span>.</p></li>
+<li class="steps"><p class="p">Pilih <span class="guiseq"><span class="gui">Pengaturan</span> ▸ <span class="gui">Pencarian</span></span> dari hasil. Ini akan membuka panel <span class="gui">Pengaturan Pencarian</span>.</p></li>
+<li class="steps"><p class="p">Klik tombol <span class="gui">Lokasi Pencarian</span> di bilah kepala.</p></li>
 </ol></div></div></div>
-<p class="p">This will open a separate settings panel which allows you toggle directory
-searches on or off. You can toggle searches on each of the three tabs:</p>
+<p class="p">Ini akan membuka panel pengaturan terpisah yang memungkinkan Anda mengaktifkan atau menonaktifkan pencarian direktori. Anda dapat menjungkitkan pencarian pada masing-masing dari tiga tab:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Places</span>: Lists common home directory locations</p></li>
-<li class="list"><p class="p"><span class="gui">Bookmarks</span>: Lists directory locations that you have
-      bookmarked in the <span class="app">Files</span> application</p></li>
-<li class="list"><p class="p"><span class="gui">Other</span>: Lists directory locations that you include via
-      the <span class="gui">+</span> button.</p></li>
+<li class="list"><p class="p"><span class="gui">Tempat</span>: Daftar lokasi direktori rumah umum</p></li>
+<li class="list"><p class="p"><span class="gui">Markah</span>: Daftar lokasi direktori yang telah Anda markahi dalam aplikasi <span class="app">Berkas</span></p></li>
+<li class="list"><p class="p"><span class="gui">Lainnya</span>: Daftar lokasi direktori yang Anda sertakan melalui tombol <span class="gui">+</span> .</p></li>
 </ul></div></div></div>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

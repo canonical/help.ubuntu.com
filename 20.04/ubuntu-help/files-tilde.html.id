@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is a file with a ~ at the end of its name?</title>
+<title>Apa itu berkas dengan ~ di akhir namanya?</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,22 +73,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#faq" title="Tip dan pertanyaan">Tip dan pertanyaan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">What is a file with a <span class="file">~</span> at the end of its name?</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Apa itu berkas dengan <span class="file">~</span> di akhir namanya?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Files with a <span class="file">~</span> at the end of their names (for example,
-  <span class="file">example.txt~</span>) are automatically created backup copies of
-  documents edited in the <span class="app">gedit</span> text editor or other applications.
-  It is safe to delete them, but there is no harm to leave them on your
-  computer.</p>
-<p class="p">These files are hidden by default. If you are seeing them, that is because
-  you either selected <span class="gui">Show Hidden Files</span> (in the view options menu
-  
-  of the <span class="app">Files</span> toolbar) or pressed
-  <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. You can hide them again by
-  repeating either of these steps.</p>
-<p class="p">These files are treated in the same way as normal hidden files. See
-  <span class="link"><a href="files-hidden.html.id" title="Menyembunyikan berkas">Menyembunyikan berkas</a></span> for advice on dealing with hidden files.</p>
+<p class="p">Berkas dengan <span class="file">~</span> di akhir nama mereka (misalnya, <span class="file">example.txt~</span>) secara otomatis dibuat salinan cadangan dari dokumen yang disunting di penyunting teks <span class="app">gedit</span> atau aplikasi lainnya. Ini aman untuk dihapus, tetapi tidak ada salahnya untuk membiarkan mereka pada komputer Anda.</p>
+<p class="p">Berkas ini disembunyikan secara default. Jika Anda melihat mereka, itu karena Anda memilih <span class="gui">Tampilkan Berkas Tersembunyi</span> (dalam menu lihat pilihan dari bilah alat <span class="app">Berkas</span>) atau menekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Anda dapat menyembunyikannya lagi dengan mengulangi salah satu langkah berikut.</p>
+<p class="p">Berkas-berkas ini diperlakukan dengan cara yang sama seperti berkas tersembunyi normal. Lihat <span class="link"><a href="files-hidden.html.id" title="Menyembunyikan berkas">Menyembunyikan berkas</a></span> untuk saran tentang berurusan dengan berkas tersembunyi.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

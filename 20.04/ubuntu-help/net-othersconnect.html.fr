@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Réseau</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Sélectionnez <span class="gui">Wi-Fi</span> dans la liste de gauche.</p></li>
 <li class="steps"><p class="p">Click the 
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span> button to open the connection
+      <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span> button to open the connection
       details.</p></li>
 <li class="steps"><p class="p">Select <span class="gui">Identity</span> from the pane on the left.</p></li>
 <li class="steps"><p class="p">En bas du panneau <span class="gui">Identité</span>, cochez l'option <span class="gui">Disponible pour tous</span> pour permettre aux autres utilisateurs d'utiliser la connexion au réseau.</p></li>

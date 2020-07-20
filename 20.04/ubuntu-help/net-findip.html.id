@@ -70,30 +70,22 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Networking, web &amp; email">Networking, web &amp; email</a> » <a class="trail" href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan, web &amp; surel</a> » <a class="trail" href="net-general.html.id" title="Tips &amp; istilah jaringan">Tips &amp; istilah jaringan</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Temukan alamat IP Anda</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Knowing your IP address can help you troubleshoot problems with your
-  internet connection. You may be surprised to learn that you have <span class="em">two</span>
-  IP addresses: an IP address for your computer on the internal network and an
-  IP address for your computer on the internet.</p>
+<p class="p">Mengetahui alamat IP Anda dapat membantu Anda memecahkan masalah dengan koneksi internet Anda. Anda mungkin akan terkejut untuk mengetahui bahwa Anda memiliki <span class="em">dua</span> alamat IP: alamat IP untuk komputer Anda pada jaringan internal dan alamat IP untuk komputer Anda di internet.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Temukan alamat IP internal (jaringan) Anda</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Jaringan</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Jaringan</span> untuk membuka panel.</p></li>
 <li class="steps">
-<p class="p">Choose which connection, <span class="gui">Wi-Fi</span> or <span class="gui">Wired</span>, from
-      the left pane.</p>
-<p class="p">The IP address for a wired connection will be displayed on the
-      right.</p>
-<p class="p">Click the
-      <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
-      button to see the IP address for the wireless network in the
-      <span class="gui">Details</span> panel.</p>
+<p class="p">Pilih koneksi, <span class="gui">Wi-Fi</span> atau <span class="gui">Kabel</span>, dari panel kiri.</p>
+<p class="p">Alamat IP untuk sambungan kabel akan ditampilkan di sebelah kanan.</p>
+<p class="p">Klik tombol <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="pengaturan"></span></span> untuk melihat alamat IP untuk jaringan nirkabel di panel <span class="gui">Rincian</span>.</p>
 </li>
 </ol></div>
 </div></div>
@@ -104,8 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Situs akan menampilkan alamat IP eksternal bagi Anda.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Depending on how your computer connects to the internet, both of these
-  addresses may be the same.</p>
+<p class="p">Bergantung pada bagaimana komputer Anda terhubung ke internet, kedua alamat ini mungkin sama.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -113,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.id" title="Networking terms &amp; tips">Networking terms &amp; tips</a><span class="desc"> — <span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span>
+<a href="net-general.html.id" title="Tips &amp; istilah jaringan">Tips &amp; istilah jaringan</a><span class="desc"> — <span class="link"><a href="net-findip.html.id" title="Temukan alamat IP Anda">Mencari tahu alamat IP Anda</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.id" title="Apa arti WEP dan WPA?">keamanan WEP &amp; WPA</a></span>, <span class="link"><a href="net-macaddress.html.id" title="Apa itu alamat MAC?">alamat MAC</a></span>, <span class="link"><a href="net-proxy.html.id" title="Menentukan pengaturan proksi">proksi</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -123,8 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="net-what-is-ip-address.html.id" title="Apa itu alamat IP?">Apa itu alamat IP?</a><span class="desc"> — Suatu Alamat IP mirip dengan nomor telepon bagi komputer Anda.</span>
 </li>
 <li class="links ">
-<a href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Buat suatu koneksi dengan suatu alamat IP yang tetap</a><span class="desc"> — Using a static IP address can make it easier to provide some network
-    services from your computer.</span>
+<a href="net-fixed-ip-address.html.id" title="Buat suatu koneksi dengan suatu alamat IP yang tetap">Buat suatu koneksi dengan suatu alamat IP yang tetap</a><span class="desc"> — Menggunakan alamat IP statis dapat mempermudah penyediaan beberapa layanan jaringan dari komputer Anda.</span>
 </li>
 </ul></div>
 </div></div>

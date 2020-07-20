@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Si ja no voleu seguir connectats a un dispositiu Bluetooth, podeu eliminar la connexió. Això és útil si ja no voleu utilitzar un dispositiu com ara un ratolí o un auricular, o si ja no voleu transferir fitxers entre dispositius.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Bluetooth</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Bluetooth</span> per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Bluetooth</span> per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Seleccioneu de la llista el dispositiu que voleu desconnectar.</p></li>
 <li class="steps"><p class="p">Al quadre de diàleg del dispositiu, canvieu <span class="gui">Connexió</span> a <span class="gui">OFF</span>, o per eliminar el dispositiu de la llista de <span class="gui">Dispositius</span>, feu clic a <span class="gui">Suprimeix el dispositiu</span>.</p></li>
 </ol></div></div></div>

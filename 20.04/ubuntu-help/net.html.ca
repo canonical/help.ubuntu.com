@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-general.html.ca" title="Termes de xarxa i consells">Termes de xarxa i consells</a></div>
-<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.ca" title="Trobar la vostra adreça IP">Trobeu la vostra adreça IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ca" title="Què vol dir WEP i WPA?">Seguretat WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.ca" title="Què és una adreça MAC?">Adreces MAC</a></span>, <span class="link"><a href="net-proxy.html.ca" title="Defineix la configuració del proxy">servidors intermediaris</a></span>…</span></div>
+<div class="desc"><span class="desc"><span class="link"><a href="net-findip.html.ca" title="Trobar la vostra adreça IP">Trobeu la vostra adreça IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ca" title="Què vol dir WEP i WPA?">Seguretat WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.ca" title="Què és una adreça MAC?">Adreces MAC</a></span>, <span class="link"><a href="net-proxy.html.ca" title="Defineix la configuració del servidor intermediari">servidors intermediaris</a></span>…</span></div>
 </div>
 <div class="links-grid ">
 <div class="links-grid-link"><a href="net-wired.html.ca" title="Xarxa cablejada">Xarxa cablejada</a></div>

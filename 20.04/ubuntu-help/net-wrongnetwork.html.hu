@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Activities</a></span>
       overview and start typing <span class="gui">Wi-Fi</span>.</p></li>
 <li class="steps"><p class="p">Find the network that you <span class="em">do not</span> want it to keep connecting to.</p></li>
-<li class="steps"><p class="p">Click the <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="settings"></span></span>
+<li class="steps"><p class="p">Click the <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span>
       button located next to the network.</p></li>
 <li class="steps"><p class="p">Click the <span class="gui">Forget Connection</span> button. Your computer will not
       try to connect to that network any more.</p></li>

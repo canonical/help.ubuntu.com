@@ -84,7 +84,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="list"><p class="p">
       <span class="app"><span class="link"><a href="net-chat-skype.html.el" title="Πώς μπορώ να χρησιμοποιήσω το Skype στο Ubuntu ;">Skype</a></span></span>
     </p></li>
-<li class="list"><p class="p"><span class="app"><span class="link"><a href="apt:ekiga" title="apt:ekiga">Ekiga</a></span></span></p></li>
+<li class="list"><p class="p">
+      <span class="app"><span class="link"><a href="apt:jami" title="apt:jami">Jami</a></span></span>
+    </p></li>
 </ul></div>
 </div></div></div>
 <section class="links" role="navigation"><div class="inner">

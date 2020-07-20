@@ -76,7 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Configurações de compartilhamento</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">As <span class="em">Configurações de compartilhamento</span> no GNOME ajudam você a controlar o que é compartilhado pela rede local ou por meio de outras tecnologias tais como <span class="em">Bluetooth</span>.</p>
+<p class="p">The <span class="em">Sharing Settings</span> help you control what is shared over the
+  local network, or through other technologies such as <span class="em">Bluetooth</span>.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.pt-BR" title="Definindo o nome exibido pelo seu computador"><span class="title">Definindo o nome exibido pelo seu computador</span><span class="linkdiv-dash"> — </span><span class="desc">Controle como seu computador vai aparecer para outros computadores ou dispositivos.</span></a></div>

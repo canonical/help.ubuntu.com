@@ -70,33 +70,18 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<span style="color: #333">Ubuntu 20.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Cari berkas yang hilang</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you created or downloaded a file, but now you cannot find it, follow
-these tips.</p>
+<p class="p">Jika Anda membuat atau mengunduh berkas, namun sekarang Anda tidak dapat menemukannya, ikuti tips berikut.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">If you do not remember where you saved the file, but you have some
-  idea of how you named it, you can <span class="link"><a href="files-search.html.id" title="Cari berkas">search for the
-  file by name</a></span>.</p></li>
-<li class="list"><p class="p">If you just downloaded the file, your web browser might
-  have automatically saved it to a common folder. Check the
-  <span class="file">Desktop</span> and <span class="file">Downloads</span> folders in your home
-  folder.</p></li>
-<li class="list"><p class="p">You might have accidentally deleted the file. When you delete
-  a file, it gets moved to the trash, where it stays until you manually
-  empty the trash. See <span class="link"><a href="files-recover.html.id" title="Memulihkan berkas dari Tong Sampah">Memulihkan berkas dari Tong Sampah</a></span> to learn how to
-  recover a deleted file.</p></li>
-<li class="list"><p class="p">You might have renamed the file in a way that made the file hidden.
-  Files that start with a <span class="file">.</span> or end with a <span class="file">~</span> are
-  hidden in the file manager. Click the
-  
-  view options button in the <span class="app">Files</span> toolbar and enable <span class="gui">Show
-  Hidden Files</span> to display them. See <span class="link"><a href="files-hidden.html.id" title="Menyembunyikan berkas">Menyembunyikan berkas</a></span> to learn
-  more.</p></li>
+<li class="list"><p class="p">Jika Anda tidak ingat di mana Anda menyimpan berkas, tetapi Anda memiliki beberapa ide tentang bagaimana Anda menamainya, Anda dapat <span class="link"><a href="files-search.html.id" title="Mencari berkas">mencari berkas berdasarkan nama</a></span>.</p></li>
+<li class="list"><p class="p">Jika Anda hanya mengunduh berkas, peramban web Anda mungkin telah menyimpan secara otomatis ke folder umum. Periksa folder <span class="file">Desktop</span> dan <span class="file">Downloads</span> dalam folder rumah Anda.</p></li>
+<li class="list"><p class="p">Anda mungkin tidak sengaja menghapus berkas. Ketika Anda menghapus berkas, itu akan dipindahkan ke tempat sampah, di mana ia tetap tinggal sampai Anda secara manual mengosongkan tempat sampah. Lihat <span class="link"><a href="files-recover.html.id" title="Memulihkan berkas dari Tong Sampah">Memulihkan berkas dari Tong Sampah</a></span> untuk mempelajari cara memulihkan berkas yang dihapus.</p></li>
+<li class="list"><p class="p">Anda mungkin telah mengganti nama berkas dengan cara yang membuat berkas disembunyikan. Berkas yang diawali dengan <span class="file">.</span> atau diakhiri dengan <span class="file">~</span> disembunyikan di manager berkas. Klik tombol opsi tampilan di toolbar <span class="app">Berkas</span> dan fungsikan <span class="gui">Tampilkan Berkas Tersembunyi</span> untuk menampilkannya. Lihat <span class="link"><a href="files-hidden.html.id" title="Menyembunyikan berkas">Menyembunyikan berkas</a></span> untuk mempelajari lebih lanjut.</p></li>
 </ul></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -104,7 +89,7 @@ these tips.</p>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a></li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>

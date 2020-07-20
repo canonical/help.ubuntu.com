@@ -81,7 +81,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Deschideți vederea de ansamblu <span class="gui"><a href="shell-introduction.html.ro#activities" title="Activities overview">Activități</a></span> și tastați <span class="gui">Configurări</span>.</p></li>
 <li class="steps"><p class="p">Apăsați pe <span class="gui">Configurări</span>.</p></li>
-<li class="steps"><p class="p">Apăsați pe <span class="gui">Dispozitive</span> în bara laterală.</p></li>
 <li class="steps"><p class="p">Apăsați pe <span class="gui">Ecrane</span> în bara laterală pentru a deschide panoul.</p></li>
 <li class="steps"><p class="p">Try some of the <span class="gui">Resolution</span> options and select the one that
       makes the screen look better.</p></li>

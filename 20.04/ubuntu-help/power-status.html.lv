@@ -87,7 +87,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Spiediet <span class="gui">Barošana</span>, lai atvērtu paneli. Tiks parādīts zināmo ierīču status.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Ja ir atrasta iekšējā baterija, sadaļa <span class="gui">Baterija</span> attēlo vienas vai vairāku klēpjdatoru bateriju statusus. Indikatora josla rāda uzlādēšanas procentus, kā arī laiku līdz pilnīgai uzlādei, ja ir pievienots enerģijas avotam, un atlikušo laiku, ja tiek izmantota baterijas enerģija.</p>
+<p class="p">If an internal battery is detected, the <span class="gui">Batteries</span> section
+    displays the status of one or more laptop batteries. The indicator bar
+    shows the percent charged, as well as time until fully charged if plugged
+    in, and time remaining when running on battery power.</p>
 <p class="p">Sadaļa <span class="gui">Ierīces</span> attēlo pievienoto ierīču statusu.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

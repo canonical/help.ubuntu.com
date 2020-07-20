@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Arrossegueu els fitxers per copiar o moure's</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu el gestor de fitxers i aneu a la carpeta que conté el fitxer que voleu copiar.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Fitxers</span> a la barra superior, seleccioneu <span class="gui">Finestra nova</span> (o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>) per obrir una segona finestra. A la finestra nova, navegueu fins a la carpeta on voleu moure o copiar el fitxer.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Fitxers</span> a la barra superior, seleccioneu <span class="gui">Finestra nova</span> (o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>) per a obrir una segona finestra. A la finestra nova, navegueu fins a la carpeta on voleu moure o copiar el fitxer.</p></li>
 <li class="steps">
 <p class="p">Feu clic i arrossegueu el fitxer des d'una finestra a una altra. Això <span class="em">el mourà</span> si el destí és al <span class="em">mateix</span> dispositiu, o el <span class="em">copiarà</span> si el destí està en un dispositiu <span class="em">diferent</span>.</p>
 <p class="p">Per exemple, si arrossegueu un fitxer des d'un llapis de memòria USB a la vostra carpeta d'inici, el fitxer es copiarà perquè esteu arrossegant d'un dispositiu a un altre.</p>

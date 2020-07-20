@@ -81,8 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
   internet connection you’ve made with another interface, such as to a wired
   network or over the cellular network.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#systemmenu" title="System menu">system menu</a></span> from the right
-    side of the top bar.</p></li>
+<li class="steps"><p class="p">Ouvrez le <span class="gui"><a href="shell-introduction.html.fr#systemmenu" title="System menu">Menu système</a></span> dans la partie droite de la barre supérieure.</p></li>
 <li class="steps"><p class="p">Select
     <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-signal-excellent-symbolic.svg" height="16" width="16" class="media media-inline" alt=""></span></span>
       Wi-Fi Not Connected</span> or the name of the wireless network to which

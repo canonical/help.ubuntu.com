@@ -79,13 +79,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">You can <span class="link"><a href="user-add.html.id" title="Menambah akun pengguna baru">add multiple user accounts to your
   computer</a></span>. If somebody is no longer using your computer, you can delete
   that user’s account.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">administrator privileges</a></span>
-  to delete user accounts.</p>
+<p class="p">Anda memerlukan <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">hak istimewa administrator</a></span> untuk menghapus akun pengguna.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengguna</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Buka Kunci</span> di pojok kanan atas dan ketik kata sandi Anda ketika diminta.</p></li>
 <li class="steps"><p class="p">Select the user that you want to delete and press the
       <span class="gui">-</span> button, below the list of accounts on the
       left, to delete that user account.</p></li>
@@ -108,8 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — Anda memerlukan hak akses administratif untuk mengubah bagian penting dari sistem Anda.</span>
 </li>
 <li class="links ">
 <a href="user-add.html.id" title="Menambah akun pengguna baru">Menambah akun pengguna baru</a><span class="desc"> — Tambahkan pengguna baru sehingga orang lain dapat log masuk ke komputer.</span>

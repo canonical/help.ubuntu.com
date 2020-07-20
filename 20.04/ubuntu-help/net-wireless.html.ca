@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="net-problem.html.ca" title="Problemes de xarxa">Problemes de xarxa</a><span class="desc"> — <span class="link"><a href="net-wireless-troubleshooting.html.ca" title="Solució de problemes de xarxa sense fil">Solució de problemes de connexions sense fil</a></span>, <span class="link"><a href="net-wireless-find.html.ca" title="No puc trobar la meva xarxa a la llista">localitzant la vostra xarxa wifi</a></span>…</span>
 </li>
 <li class="links ">
-<a href="net-general.html.ca" title="Termes de xarxa i consells">Termes de xarxa i consells</a><span class="desc"> — <span class="link"><a href="net-findip.html.ca" title="Trobar la vostra adreça IP">Trobeu la vostra adreça IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ca" title="Què vol dir WEP i WPA?">Seguretat WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.ca" title="Què és una adreça MAC?">Adreces MAC</a></span>, <span class="link"><a href="net-proxy.html.ca" title="Defineix la configuració del proxy">servidors intermediaris</a></span>…</span>
+<a href="net-general.html.ca" title="Termes de xarxa i consells">Termes de xarxa i consells</a><span class="desc"> — <span class="link"><a href="net-findip.html.ca" title="Trobar la vostra adreça IP">Trobeu la vostra adreça IP</a></span>, <span class="link"><a href="net-wireless-wepwpa.html.ca" title="Què vol dir WEP i WPA?">Seguretat WEP i WPA</a></span>, <span class="link"><a href="net-macaddress.html.ca" title="Què és una adreça MAC?">Adreces MAC</a></span>, <span class="link"><a href="net-proxy.html.ca" title="Defineix la configuració del servidor intermediari">servidors intermediaris</a></span>…</span>
 </li>
 </ul></div>
 </div></div>

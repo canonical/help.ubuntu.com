@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tugas umum</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="files-search.html.id" title="Cari berkas"><span class="title">Cari berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.id" title="Mencari berkas"><span class="title">Mencari berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Menemukan berkas berdasarkan tipe dan nama berkas.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-delete.html.id" title="Menghapus berkas-berkas dan folder-folder"><span class="title">Menghapus berkas-berkas dan folder-folder</span><span class="linkdiv-dash"> — </span><span class="desc">Menghapus berkas-berkas atau folder-folder yang tidak Anda perlukan lagi.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-rename.html.id" title="Mengubah nama berkas atau folder"><span class="title">Mengubah nama berkas atau folder</span><span class="linkdiv-dash"> — </span><span class="desc">Mengubah nama berkas atau folder.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-copy.html.id" title="Menyalin atau memindah berkas dan folder"><span class="title">Menyalin atau memindah berkas dan folder</span><span class="linkdiv-dash"> — </span><span class="desc">Menyalin atau memindah butir-butir ke folder baru.</span></a></div>
@@ -92,38 +92,31 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div></div></div></div></div></div>
 </div></section><section id="more-file-tasks"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">More file-related tasks</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Tugas terkait berkas lainnya</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="files-share.html.id" title="Berbagi berkas lewat surel"><span class="title">Berbagi berkas lewat surel</span><span class="linkdiv-dash"> — </span><span class="desc">Easily transfer files to your email contacts from the file
-    manager.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.id" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">View and edit files on another computer over FTP, SSH, Windows
-    shares, or WebDAV.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-open.html.id" title="Buka berkas dengan aplikasi lain"><span class="title">Buka berkas dengan aplikasi lain</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
-    type of file. You can change the default too.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-lost.html.id" title="Cari berkas yang hilang"><span class="title">Cari berkas yang hilang</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
-    downloaded.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-recover.html.id" title="Memulihkan berkas dari Tong Sampah"><span class="title">Memulihkan berkas dari Tong Sampah</span><span class="linkdiv-dash"> — </span><span class="desc">Berkas yang dihapus biasanya dikirim ke Tong Sampah, tapi dapat dipulihkan.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.id" title="Berbagi berkas lewat surel"><span class="title">Berbagi berkas lewat surel</span><span class="linkdiv-dash"> — </span><span class="desc">Menyalin berkas secara mudah ke kontak surel dari manajer berkas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.id" title="Browse files on a server or network share"><span class="title">Browse files on a server or network share</span><span class="linkdiv-dash"> — </span><span class="desc">Melihat dan menyunting berkas di komputer lain melalui FTP, SSH, share Windows, atau WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html.id" title="Buka berkas dengan aplikasi lain"><span class="title">Buka berkas dengan aplikasi lain</span><span class="linkdiv-dash"> — </span><span class="desc">Membuka berkas menggunakan aplikasi yang bukan bawaan untuk jenis berkas tersebut. Anda dapat mengubah bawaan juga.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.id" title="Cari berkas yang hilang"><span class="title">Cari berkas yang hilang</span><span class="linkdiv-dash"> — </span><span class="desc">Ikuti petunjuk ini bila Anda tak dapat menemukan berkas yang Anda buat atau unduh.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.id" title="Matikan atau membatasi pelacakan riwayat berkas"><span class="title">Matikan atau membatasi pelacakan riwayat berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Menghentikan atau membatasi komputer Anda dari melacak berkas yang baru-baru ini digunakan.</span></a></div>
 </div>
 <div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html.id" title="Memulihkan berkas dari Tong Sampah"><span class="title">Memulihkan berkas dari Tong Sampah</span><span class="linkdiv-dash"> — </span><span class="desc">Berkas yang dihapus biasanya dikirim ke Tong Sampah, tapi dapat dipulihkan.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.id" title="Menulis berkas ke CD atau DVD"><span class="title">Menulis berkas ke CD atau DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Simpan berkas dan dokumen ke dalam CD atau DVD kosong memakai pembakar CD/DVD.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas"><span class="title">Preferensi pengelola berkas</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.id" title="Properti berkas"><span class="title">Properti berkas</span><span class="linkdiv-dash"> — </span><span class="desc">View basic file information, set permissions, and choose
-    default applications.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.id" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Set how often your trash and temporary files will be cleared
-    from your computer.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.id" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
-    files.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas"><span class="title">Preferensi pengelola berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Melihat dan mengatur preferensi untuk peramban berkas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.id" title="Properti berkas"><span class="title">Properti berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Melihat informasi berkas dasar, mengatur izin, dan memilih aplikasi default.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.id" title="Purge trash &amp; temporary files"><span class="title">Purge trash &amp; temporary files</span><span class="linkdiv-dash"> — </span><span class="desc">Mengatur seberapa sering tong sampah dan berkas sementara Anda akan dihapus dari komputer Anda.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section id="removable"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Removable drives and external disks</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Drive lepasan dan diska eksternal</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.id" title="Buat aplikasi untuk perangkat atau disc"><span class="title">Buat aplikasi untuk perangkat atau disc</span><span class="linkdiv-dash"> — </span><span class="desc">Secara otomatis menjalankan aplikasi bagi CD dan DVD, kamera, pemutar audio, dan perangkat serta media lain.</span></a></div></div>
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.id" title="Melepas kandar eksternal secara aman"><span class="title">Melepas kandar eksternal secara aman</span><span class="linkdiv-dash"> — </span><span class="desc">Mengeluarkan atau melepas kait suatu drive flash USB, CD, DVD, atau perangkat lain.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="backup"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Backing up</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Membuat cadangan</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="backup-why.html.id" title="Backup berkas-berkas penting Anda"><span class="title">Backup berkas-berkas penting Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Mengapa, apa, dimana, dan bagaimana backup.</span></a></div>
@@ -139,15 +132,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tip dan pertanyaan</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas"><span class="title">Menata izin berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Control who can view and edit your files and folders.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.id" title="Apa itu berkas dengan ~ di akhir namanya?"><span class="title">Apa itu berkas dengan <span class="file">~</span> di akhir namanya?</span><span class="linkdiv-dash"> — </span><span class="desc">Ini adalah berkas cadangan. Mereka secara baku tersembunyi.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas"><span class="title">Menata izin berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Mengedalikan siapa yang dapat melihat dan menyunting berkas dan folder Anda.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-hidden.html.id" title="Menyembunyikan berkas"><span class="title">Menyembunyikan berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Buat berkas tidak tampak, sehingga Anda tidak dapat melihatnya di pengelola berkas.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-select.html.id" title="Pilih berkas menurut pola"><span class="title">Pilih berkas menurut pola</span><span class="linkdiv-dash"> — </span><span class="desc">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> to select multiple
-    files which have similar names.</span></a></div>
 </div>
 <div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-select.html.id" title="Pilih berkas menurut pola"><span class="title">Pilih berkas menurut pola</span><span class="linkdiv-dash"> — </span><span class="desc">Tekan <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> untuk memilih beberapa berkas yang memiliki nama yang mirip.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.id" title="Sunting folder penanda taut"><span class="title">Sunting folder penanda taut</span><span class="linkdiv-dash"> — </span><span class="desc">Tambah, hapus, dan ubah nama penanda taut dalam pengelola berkas.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-templates.html.id" title="Templat bagi tipe dokumen yang biasa dipakai"><span class="title">Templat bagi tipe dokumen yang biasa dipakai</span><span class="linkdiv-dash"> — </span><span class="desc">Secara cepat membuat dokumen baru dari templat berkas tersuai.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.id" title="What is a file with a ~ at the end of its name?"><span class="title">What is a file with a <span class="file">~</span> at the end of its name?</span><span class="linkdiv-dash"> — </span><span class="desc">These are backup files. They are hidden by default.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

@@ -91,19 +91,21 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="characters"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Caràcters</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">El GNOME ve amb una aplicació de mapes de caràcters que us permet trobar i inserir caràcters inusuals, incloent emoji, navegant per categories de caràcters o buscant paraules clau.</p>
+<p class="p">The character map application allows you to find and insert unusual
+    characters, including emoji, by browsing character categories or searching
+    for keywords.</p>
 <p class="p">Podeu iniciar <span class="app">Characters</span> des de la vista general d'Activitats.</p>
 </div></div>
 </div></section><section id="compose"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Tecla de composició</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Una tecla de composició és una tecla especial que us permet prémer diverses tecles seguides per obtenir un caràcter especial. Per exemple, per escriure la lletra accentuada <span class="em">é</span>, podeu prémer <span class="key"><kbd>composició</kbd></span> aleshores <span class="key"><kbd>'</kbd></span> i aleshores <span class="key"><kbd>e</kbd></span>.</p>
+<p class="p">Una tecla de composició és una tecla especial que us permet prémer diverses tecles seguides per a obtenir un caràcter especial. Per exemple, per escriure la lletra accentuada <span class="em">é</span>, podeu prémer <span class="key"><kbd>composició</kbd></span> aleshores <span class="key"><kbd>'</kbd></span> i aleshores <span class="key"><kbd>e</kbd></span>.</p>
 <p class="p">Alguns teclats no tenen tecles de composició específiques. Al seu lloc, podeu definir una de les tecles existents al teclat com a tecla de composició.</p>
 <div class="note note-important" title="Important">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">Heu de tenir instal·lat <span class="app">Ajustaments</span> a l'ordinador per canviar aquesta configuració.</p>
+<p class="p">Heu de tenir instal·lat <span class="app">Ajustaments</span> a l'ordinador per a canviar aquesta configuració.</p>
 <p class="p"><span class="link-button link"><a href="apt:gnome-tweak-tool" title="apt:gnome-tweak-tool">Instal·la <span class="app">Ajustaments</span></a></span></p>
 </div></div></div>
 </div>
@@ -111,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h3><span class="title">Definir una tecla de composició</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Ajustaments</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Ajustaments</span> per obrir l'aplicació.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Ajustaments</span> per a obrir l'aplicació.</p></li>
 <li class="steps"><p class="p">Feu clic a la pestanya <span class="gui">Teclat i Ratolí</span>.</p></li>
 <li class="steps"><p class="p">Feu clic a <span class="gui">Desactivat</span> al costat de la configuració de la <span class="gui">Tecla Composició</span>.</p></li>
 <li class="steps"><p class="p">Canvieu l'interruptor a actiu en el diàleg i seleccioneu la drecera de teclat que vulgueu utilitzar.</p></li>

@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Adjust the speed of the mouse and touchpad</title>
+<title>Muuta hiiren ja kosketuslevyn nopeutta</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Adjust the speed of the mouse and touchpad</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Muuta hiiren ja kosketuslevyn nopeutta</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Jos hiiren osoitin liikkuu liian nopeasti tai hitaasti hiirtä tai kosketuslevyä käyttäessäsi, voit tarvittaessa muuttaa osoittimen nopeutta.</p>
@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse.html.fi" title="Hiiri, kosketuslevy ja kosketusnäyttö">Hiiri, kosketuslevy ja kosketusnäyttö</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.fi" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html.fi" title="Adjust the speed of the mouse and touchpad">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html.fi" title="Napsauta, vedä tai vieritä kosketuslevyä käyttäen">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span>
+<a href="mouse.html.fi" title="Hiiri, kosketuslevy ja kosketusnäyttö">Hiiri, kosketuslevy ja kosketusnäyttö</a><span class="desc"> — <span class="link"><a href="mouse-lefthanded.html.fi" title="Käytä hiirtä vasenkätisen asetuksin">Vasenkätisyys</a></span>, <span class="link"><a href="mouse-sensitivity.html.fi" title="Muuta hiiren ja kosketuslevyn nopeutta">nopeus ja herkkyys</a></span>, <span class="link"><a href="mouse-touchpad-click.html.fi" title="Napsauta, vedä tai vieritä kosketuslevyä käyttäen">kosketuslevyn vierittäminen ja napsauttaminen</a></span>…</span>
 </li>
 <li class="links "><a href="a11y.html.fi#mobility" title="Liikuntarajoitteisuudet">Liikuntarajoitteisuudet</a></li>
 </ul></div>

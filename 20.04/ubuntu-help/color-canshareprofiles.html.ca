@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Puc compartir el meu perfil de color?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Els perfils de color que heu creat són específics del hardware i les condicions d'il·luminació que heu calibrat. Una pantalla que funcioni durant uns pocs centenars d'hores tindrà un perfil de color molt diferent a una pantalla similar amb el següent número de sèrie que s'hagi il·luminat durant mil hores.</p>
+<p class="p">Els perfils de color que heu creat són específics del maquinari i les condicions d'il·luminació que heu calibrat. Una pantalla que funcioni durant uns pocs centenars d'hores tindrà un perfil de color molt diferent a una pantalla similar amb el següent número de sèrie que s'hagi il·luminat durant mil hores.</p>
 <p class="p">Això vol dir que si compartiu el vostre perfil de color amb algú, és possible que estigueu més <span class="em">a prop</span> del calibratge, però en el millor dels casos és erroni dir que la pantalla està calibrada.</p>
 <p class="p">De la mateixa manera, a menys que tothom hagi recomanat la il·luminació controlada (no hi ha llum solar des de les finestres, les parets negres, les bombetes de llum, durant el dia, etc.) en una sala on es visualitzen i editen imatges, compartir un perfil que hàgiu creat amb les vostres pròpies condicions d'il·luminació no té molt sentit.</p>
 <div class="note note-warning" title="Atenció">

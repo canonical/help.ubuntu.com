@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Специальные возможности</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Среда рабочего стола GNOME включает в себя вспомогательные технологии для поддержки пользователей с различными физическими ограничениями и особенностями развития, а также для взаимодействия со вспомогательными устройствами. Меню специальных возможностей можно добавить в верхнюю панель, что даст простой доступ ко многим из этих вспомогательных функций.</p>
+<p class="p">The system includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="a11y-icon.html.ru" title="Найдите меню универсального доступа"><span class="title">Найдите меню универсального доступа</span><span class="linkdiv-dash"> — </span><span class="desc">Меню универсального доступа — это значок в верхней панели в виде человечка.</span></a></div></div></div></div></div>
 </div>
 <section id="vision"><div class="inner">

@@ -76,7 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Képernyőolvasás Braille-ban</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME alatt az <span class="app">Orka</span> képernyőolvasóval jelenítheti meg a felhasználói felületet frissíthető Braille-kijelzőn. A GNOME telepítésének módjától függően lehet, hogy az Orka nincs telepítve. Ebben az esetben előbb telepítse az Orkát.</p>
+<p class="p">The <span class="app">Orca</span> screen reader can display the user interface on a
+  refreshable Braille display. Depending on how you installed your system, you
+  might not have Orca installed. If not, install Orca first.</p>
 <p class="p"><span class="link-button link"><a href="apt:orca" title="apt:orca">Az Orka telepítése</a></span></p>
 <p class="p">További információt az <span class="link"><a href="help:orca" title="help:orca">Orka súgójában</a></span> találhat.</p>
 </div>

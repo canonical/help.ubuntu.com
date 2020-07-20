@@ -88,9 +88,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Il existe des centaines d'agencements de claviers différents pour les différentes langues. Même pour une seule langue, il existe souvent de nombreux agencements de clavier, comme l'agencement Dvorak pour l'anglais. Vous pouvez modifier votre clavier afin qu'il se comporte comme un autre clavier, sans tenir compte des lettres et des symboles imprimés sur les touches. C'est utile si vous jonglez souvent entre plusieurs langues.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activities</a></span> 
-      overview and start typing <span class="gui">Settings</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d'ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Region &amp; Language</span> in the sidebar to open the
       panel.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton<span class="gui">+</span> dans la partie <span class="gui">Sources d'entrées</span>, sélectionnez la langue associée à l'agencement, puis sélectionnez un agencement et cliquez sur <span class="gui">Ajouter</span>.</p></li>

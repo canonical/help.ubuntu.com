@@ -92,13 +92,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Paràmetres</span>.</p></li>
 <li class="steps"><p class="p">Féu clic a <span class="gui">Paràmetres</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> en la barra lateral per obrir el quadre.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Accés universal</span> en la barra lateral per a obrir el quadre.</p></li>
 <li class="steps"><p class="p">Canvieu a <span class="gui">Teclat en pantalla</span> a la secció <span class="gui">Escriptura</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Quan després tingueu l'oportunitat d'escriure, el teclat en pantalla s'obrirà a la part inferior de la pantalla.</p>
 <p class="p">Premeu els botons <span class="gui">123</span> per introduir números i símbols. Hi ha més símbols disponibles si premeu el botó <span class="gui">/&lt;</span>. Per a tornar al teclat alfabètic, premeu el botó <span class="gui">ABC</span>.</p>
 <p class="p">Podeu prémer el botó <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" height="16" width="16" class="media media-inline" alt="avall"></span></span></span> per amagar el teclat temporalment. El teclat tornarà a mostrar-se automàticament quan feu clic a sobre un lloc on pugueu utilitzar-lo.</p>
-<p class="p">Premeu el botó <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emoji-flags-symbolic.svg" height="16" width="16" class="media media-inline" alt="bandera"></span></span></span> per canviar la configuració d'<span class="link"><a href="session-language.html.ca" title="Canviar l'idioma que utilitzeu">Idioma</a></span> o <span class="link"><a href="-layouts.html.ca" title="-layouts">Font d'entrada</a></span>.</p>
+<p class="p">Premeu el botó <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emoji-flags-symbolic.svg" height="16" width="16" class="media media-inline" alt="bandera"></span></span></span> per a canviar la configuració d'<span class="link"><a href="session-language.html.ca" title="Canviar l'idioma que utilitzeu">Idioma</a></span> o <span class="link"><a href="-layouts.html.ca" title="-layouts">Font d'entrada</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

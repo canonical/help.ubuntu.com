@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">கார்டு சரியாக வைக்கப்பட்டதா என உறுதிப்படுத்திக் கொள்ளுங்கள். பல கார்டுகளை சரியாக செருகினாலும் அவை தலைகீழாக இருப்பது போல் தோன்றும். கார்டு அதற்கான துளையில் உறுதியாக பொருந்தியுள்ளதா எனவும் உறுதி செய்துகொள்ளவும்; சில கார்டுகள், குறிப்பாக CF கார்டுகளை சரியாக செருக சற்று பலத்தை செலுத்த வேண்டி இருக்கும். (மிக பலமாக அழுத்திவிடாதீர்கள்! அழுத்த முடியாதபடி திடமாக ஏதேனும் தடுத்தால், விட்டுவிடவும்.)</p></li>
 <li class="steps"><p class="p">Open <span class="app">Files</span> from the
   <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> overview. Does the inserted
-  card appear in the <span class="gui">Devices</span> list in the left sidebar? Sometimes the
+  card appear in the left sidebar? Sometimes the
   card appears in this list but is not mounted; click it once to mount. (If the
   sidebar is not visible, press <span class="key"><kbd>F9</kbd></span> or click <span class="gui">Files</span> in
   the top bar and select the <span class="gui">Sidebar</span>.)</p></li>

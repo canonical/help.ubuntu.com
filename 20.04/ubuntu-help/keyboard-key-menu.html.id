@@ -2,7 +2,7 @@
 <html lang=id>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>What is the Menu key?</title>
+<title>Apa itu tombol Menu?</title>
 <link rel="stylesheet" type="text/css" href="id.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,28 +77,13 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">What is the <span class="key"><kbd>Menu</kbd></span> key?</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Apa itu tombol <span class="key"><kbd>Menu</kbd></span>?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The <span class="key"><kbd>Menu</kbd></span> key, also known as the <span class="em">Application</span> key, is a
-  key found on some Windows-oriented keyboards. This key is usually on the
-  bottom-right of the keyboard, next to the <span class="key"><kbd>Ctrl</kbd></span> key, but it can be
-  placed in a different location by keyboard manufacturers. Its is usually
-  depicted as a cursor hovering above a menu:
-  <span class="media"><span class="media media-image"><img src="figures/keyboard-key-menu.svg" class="media media-inline" alt="Menu key icon"></span></span>.</p>
-<p class="p">The primary function of this key is to launch a context menu with the
-  keyboard rather than by clicking the right mouse button: this is useful if
-  mouse or a similar device is not available, or when the right mouse button is
-  not present.</p>
-<p class="p">The <span class="key"><kbd>Menu</kbd></span> key is sometimes omitted in the interest of space,
-  particularly on portable and laptop keyboards. In this case, some keyboards
-  include a <span class="key"><kbd>Menu</kbd></span> function key that can be activated in combination
-  with the Function (<span class="key"><kbd class="key-Fn">Fn</kbd></span>) key.</p>
-<p class="p">The <span class="em">context menu</span> is a menu that pops up when you right-click. The
-  menu that you see, if any, is dependent on the context and function of the
-  area that you right-clicked. When you use the <span class="key"><kbd>Menu</kbd></span> key, the
-  context menu is shown for the area of the screen that your cursor is over at
-  the point when the key is pressed.</p>
+<p class="p">Tombol <span class="key"><kbd>Menu</kbd></span>, juga dikenal sebagai tombol <span class="em">Aplikasi</span>, adalah tombol yang ditemukan pada beberapa papan tik berorientasi Windows. Tombol ini biasanya di kanan bawah papan tik, di samping tombol <span class="key"><kbd>Ctrl</kbd></span>, tetapi dapat ditempatkan di lokasi yang berbeda oleh produsen papan tik. Itu biasanya digambarkan sebagai kursor melayang di atas menu: <span class="media"><span class="media media-image"><img src="figures/keyboard-key-menu.svg" class="media media-inline" alt="Menu key icon"></span></span>.</p>
+<p class="p">Fungsi utama dari tombol ini adalah untuk meluncurkan menu konteks dengan papan tik daripada mengklik tombol kanan tetikus: ini berguna jika tetikus atau perangkat serupa tidak tersedia, atau ketika tombol kanan tetikus tidak ada.</p>
+<p class="p">Tombol <span class="key"><kbd>Menu</kbd></span> terkadang dihilangkan untuk kepentingan ruang, terutama pada papan tik portabel dan laptop. Dalam hal ini, beberapa papan tik menyertakan tombol fungsi <span class="key"><kbd>Menu</kbd></span> yang dapat diaktifkan dalam kombinasi dengan tombol Function (<span class="key"><kbd>FN</kbd></span>).</p>
+<p class="p"><span class="em">Menu konteks</span> adalah menu yang muncul ketika Anda mengklik kanan. Menu yang Anda lihat, jika ada, tergantung pada konteks dan fungsi daerah yang diklik kanan. Ketika Anda menggunakan tombol <span class="key"><kbd>Menu</kbd></span> , menu konteks ditampilkan untuk area layar tempat kursor Anda berada di titik ketika tombol ditekan.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -106,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Gunakan tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.id" title="Memakai tata letak papan ketik alternatif">Tata letak papan tik</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.id" title="Membuat kursor papan tik berkedip">kursor berkedip</a></span>, <span class="link"><a href="a11y.html.id#mobility" title="Masalah mobilitas">aksesibilitas papan tik</a></span>…</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
@@ -114,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="a11y.html.id#mobility" title="Masalah mobilitas">Masalah mobilitas</a></li>
 <li class="links ">
-<a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Get around the desktop using the keyboard.</span>
+<a href="shell-keyboard-shortcuts.html.id" title="Pintasan papan tik yang berguna">Pintasan papan tik yang berguna</a><span class="desc"> — Bergerak sekitar desktop menggunakan papan ketik.</span>
 </li>
 </ul></div>
 </div></div>

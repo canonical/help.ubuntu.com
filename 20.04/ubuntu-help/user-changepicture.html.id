@@ -77,8 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Ketika Anda log masuk atau berganti pengguna, Anda akan melihat suatu daftar pengguna dengan foto log masuk mereka. Anda dapat mengubah foto Anda ke citra stok atau citra milik Anda. Anda bahkan dapat mengambil suatu foto log masuk baru dengan webcam Anda.</p>
-<p class="p">You need <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">administrator privileges</a></span>
-  to edit user accounts other than your own.</p>
+<p class="p">Anda memerlukan <span class="link"><a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">hak istimewa administrator</a></span> untuk menyunting akun pengguna selain milik Anda.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengguna</span>.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Users</span> to open the panel.</p></li>
@@ -112,8 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — You need administrative privileges to change important parts of your
-    system.</span>
+<a href="user-admin-explain.html.id" title="Bagaimana privilese administratif bekerja?">Bagaimana privilese administratif bekerja?</a><span class="desc"> — Anda memerlukan hak akses administratif untuk mengubah bagian penting dari sistem Anda.</span>
 </li></ul></div>
 </div></div>
 </div>

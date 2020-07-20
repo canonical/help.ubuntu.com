@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Επιλέξτε τη συσκευή, <span class="gui">Wi-Fi</span> ή <span class="gui">Ενσύμαρτη</span>, από τον αριστερό πίνακα.</p>
 <p class="p">Η διεύθυνση MAC της ενσύρματης συσκευής για εμφανιστεί στα δεξιά ως <span class="gui">Διεύθυνση υλικού</span>.</p>
-<p class="p">Κάντε κλικ στο κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system.png" class="media media-inline" alt="ρυθμίσεις"></span></span> για να δείτε τη διεύθυνση MAC για την ασύρματη διεύθυνση ως <span class="gui">Διεύθυνση υλικού</span> στον πίνακα <span class="gui">Λεπτομέρειες</span>.</p>
+<p class="p">Κάντε κλικ στο κουμπί <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="ρυθμίσεις"></span></span> για να δείτε τη διεύθυνση MAC για την ασύρματη διεύθυνση ως <span class="gui">Διεύθυνση υλικού</span> στον πίνακα <span class="gui">Λεπτομέρειες</span>.</p>
 </li>
 </ol></div></div></div>
 <p class="p">In practice, you may need to modify or “spoof” a MAC address. For example,

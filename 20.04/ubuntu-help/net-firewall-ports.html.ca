@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ports de xarxa habitualment utilitzats</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Aquesta és una llista de ports de xarxa que utilitzen comunament les aplicacions que proporcionen serveis de xarxa, com ara compartir fitxers o visualitzar l'escriptori remot. Podeu canviar el tallafoc del vostre sistema a <span class="link"><a href="net-firewall-on-off.html.ca" title="Activar o bloquejar l'accés del tallafoc">bloquejar o permetre l'accés</a></span> a aquestes aplicacions. Hi ha milers de ports en ús, per tant, aquesta taula no està completa.</p>
+<p class="p">Aquesta és una llista de ports de xarxa que utilitzen habitualment les aplicacions que proporcionen serveis de xarxa, com ara compartir fitxers o visualitzar l'escriptori remot. Podeu canviar el tallafoc del vostre sistema a <span class="link"><a href="net-firewall-on-off.html.ca" title="Activar o bloquejar l'accés del tallafoc">bloquejar o permetre l'accés</a></span> a aquestes aplicacions. Hi ha milers de ports en ús, per tant, aquesta taula no està completa.</p>
 <div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;">
 <thead><tr>
 <td><p class="p">Port</p></td>

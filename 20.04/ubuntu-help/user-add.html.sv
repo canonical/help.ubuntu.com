@@ -99,7 +99,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">I panelen <span class="gui">Användare</span> kan du klicka på bilden intill användarens namn till höger för att ställa in en bild för kontot. Denna bild kommer att visas i inloggningsfönstret. GNOME tillhandahåller några exempelfoton som du kan använda, eller så kan du välja dina egna eller ta en bild med din webbkamera.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">In the <span class="gui">Users</span> panel, you can click the image next to the
+    user’s name to the right to set an image for the account. This image will
+    be shown in the login window. The system provides some stock photos you can
+    use, or you can select your own or take a picture with your webcam.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">

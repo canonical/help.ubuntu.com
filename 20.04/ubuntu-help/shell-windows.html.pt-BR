@@ -76,7 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Janelas e espaços de trabalho</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Assim como em outros ambientes, o GNOME usa janelas para exibir seus aplicativos em execução. Usando ambos panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e <span class="em">dash</span>, você pode inicializar novos aplicativos e controlar janelas ativas.</p>
+<p class="p">Like other desktops, the system uses windows to display your running
+  applications. Using both the <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Activities</a></span>
+  overview and the <span class="em">dash</span>, you can launch new applications and control
+  active windows.</p>
 <p class="p">Você também pode agrupar seus aplicativos em espaços de trabalho. Visite os tópicos de ajuda sobre janela e espaço de trabalho logo abaixo para aprender mais sobre como usar esses recursos.</p>
 </div>
 <section id="working-with-windows"><div class="inner">
